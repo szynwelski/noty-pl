@@ -1,0 +1,213 @@
+{
+  "imdb_id": "tt0254455",
+  "title": "Sex and Lucía",
+  "description": "Various lives converge on an isolated island, all connected by an author whose novel has become inextricably entwined with his own life.",
+  "year": 2001,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYjJiNGY3ZTEtNDFmYi00ZGM2LTk3N2EtZjg0MTI0YzNlODE3XkEyXkFqcGc@._V1_.jpg",
+  "runtime_minutes": 128,
+  "release_date": "24.08.2001",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0891895",
+      "name": "Paz Vega"
+    },
+    {
+      "id": "nm0880554",
+      "name": "Tristán Ulloa"
+    },
+    {
+      "id": "nm0632385",
+      "name": "Najwa Nimri"
+    },
+    {
+      "id": "nm0025745",
+      "name": "Elena Anaya"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0575523",
+      "name": "Julio Medem"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0575523",
+      "name": "Julio Medem"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0891895",
+      "name": "Paz Vega",
+      "character": "Lucía"
+    },
+    {
+      "id": "nm0880554",
+      "name": "Tristán Ulloa",
+      "character": "Lorenzo"
+    },
+    {
+      "id": "nm0632385",
+      "name": "Najwa Nimri",
+      "character": "Elena"
+    },
+    {
+      "id": "nm0293842",
+      "name": "Daniel Freire",
+      "character": "Carlos"
+    },
+    {
+      "id": "nm0025745",
+      "name": "Elena Anaya",
+      "character": "Belén"
+    },
+    {
+      "id": "nm1040702",
+      "name": "Silvia Llanos",
+      "character": "Luna"
+    },
+    {
+      "id": "nm1197836",
+      "name": "Diana Suárez",
+      "character": "Madre de Belén"
+    },
+    {
+      "id": "nm0194572",
+      "name": "Javier Cámara",
+      "character": "Pepe"
+    },
+    {
+      "id": "nm1537814",
+      "name": "Juan Fernández Mejías",
+      "character": "Jefe"
+    },
+    {
+      "id": "nm0953163",
+      "name": "Charo Zapardiel",
+      "character": "Comadrona"
+    },
+    {
+      "id": "nm4750036",
+      "name": "María Álvarez",
+      "character": "Enfermera"
+    },
+    {
+      "id": "nm0180526",
+      "name": "Javier Coromina",
+      "character": "Camarero Chiringuito"
+    },
+    {
+      "id": "nm0508218",
+      "name": "Arsenio León",
+      "character": "Futbolista"
+    },
+    {
+      "id": "nm1197582",
+      "name": "Alesandra Álvarez",
+      "character": "Luna 1 año"
+    },
+    {
+      "id": "nm1197146",
+      "name": "David Bulnes",
+      "character": "Actor porno"
+    },
+    {
+      "id": "nm1332410",
+      "name": "José Ferreira",
+      "character": "Emplastro"
+    }
+  ],
+  "countries": [
+    "Spain",
+    "France"
+  ],
+  "languages": [
+    "Spanish",
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 34176,
+  "original_title": "Lucía y el sexo",
+  "ratings": {
+    "imdb": {
+      "rating": 7,
+      "votes": 40789,
+      "distribution": {
+        "1": 672,
+        "2": 487,
+        "3": 741,
+        "4": 1164,
+        "5": 2557,
+        "6": 5546,
+        "7": 10938,
+        "8": 9786,
+        "9": 4876,
+        "10": 4022
+      },
+      "normalized": 5.5371
+    },
+    "filmweb": {
+      "rating": 6.94,
+      "votes": 4605,
+      "distribution": {
+        "1": 24,
+        "2": 47,
+        "3": 115,
+        "4": 171,
+        "5": 417,
+        "6": 762,
+        "7": 1268,
+        "8": 1139,
+        "9": 449,
+        "10": 213
+      },
+      "normalized": 5.4795
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "14.12.2005",
+      "normalized": 5.4199
+    },
+    "score": 5.4788
+  },
+  "polish_title": "Lucia i seks",
+  "silent": false,
+  "description_pl": "Lucia jest kelnerką w jednej z restauracji w centrum Madrytu. Po stracie swojego długoletniego chłopaka, pisarza, postanawia poszukać odpoczynku i schronienia na jednej z wysp Morza Śródziemnego. Tam, odpoczywając w promieniach palącego słońca i na  świeżym powietrzu, powoli, zaczyna uświadamiać sobie najciemniejsze strony jej poprzedniogo związku...",
+  "producers": [
+    {
+      "id": "nm0100559",
+      "name": "Fernando Bovaira"
+    },
+    {
+      "id": "nm0144288",
+      "name": "Anna Cassina"
+    },
+    {
+      "id": "nm0492038",
+      "name": "Enrique López Lavigne"
+    },
+    {
+      "id": "nm1602230",
+      "name": "Luis María Reyes"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0407076",
+      "name": "Alberto Iglesias"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0209364",
+      "name": "Kiko de la Rica"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

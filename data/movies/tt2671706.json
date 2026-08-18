@@ -1,0 +1,272 @@
+{
+  "imdb_id": "tt2671706",
+  "title": "Fences",
+  "description": "A working-class African-American father tries to raise his family in the 1950s, while coming to terms with the events of his life.",
+  "runtime_minutes": 139,
+  "release_date": "25.12.2016",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0000243",
+      "name": "Denzel Washington"
+    },
+    {
+      "id": "nm0205626",
+      "name": "Viola Davis"
+    },
+    {
+      "id": "nm0376610",
+      "name": "Stephen McKinley Henderson"
+    },
+    {
+      "id": "nm5381254",
+      "name": "Jovan Adepo"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000243",
+      "name": "Denzel Washington"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0933025",
+      "name": "August Wilson"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000243",
+      "name": "Denzel Washington",
+      "character": "Troy Maxson"
+    },
+    {
+      "id": "nm0205626",
+      "name": "Viola Davis",
+      "character": "Rose Maxson"
+    },
+    {
+      "id": "nm0376610",
+      "name": "Stephen McKinley Henderson",
+      "character": "Jim Bono"
+    },
+    {
+      "id": "nm5381254",
+      "name": "Jovan Adepo",
+      "character": "Cory"
+    },
+    {
+      "id": "nm0395203",
+      "name": "Russell Hornsby",
+      "character": "Lyons"
+    },
+    {
+      "id": "nm0932112",
+      "name": "Mykelti Williamson",
+      "character": "Gabriel"
+    },
+    {
+      "id": "nm5181138",
+      "name": "Saniyya Sidney",
+      "character": "Raynell"
+    },
+    {
+      "id": "nm3459382",
+      "name": "Christopher Mele",
+      "character": "Deputy Commissioner"
+    },
+    {
+      "id": "nm0095516",
+      "name": "Lesley Boone",
+      "character": "Evangelist Preacher"
+    },
+    {
+      "id": "nm1014162",
+      "name": "Jason Silvis",
+      "character": "Garbage Truck Driver"
+    },
+    {
+      "id": "nm8928339",
+      "name": "Gregory Bromfield",
+      "character": "Courthouse Worker"
+    },
+    {
+      "id": "nm7798864",
+      "name": "Tra'Waan Coles",
+      "character": "Townsperson"
+    },
+    {
+      "id": "nm9816070",
+      "name": "Sean Cummings",
+      "character": "Garbage Man"
+    },
+    {
+      "id": "nm9076729",
+      "name": "Sean Cummings",
+      "character": "Sanitation Worker"
+    },
+    {
+      "id": "nm6553599",
+      "name": "Ellwood Davis",
+      "character": "Brownie"
+    },
+    {
+      "id": "nm4595907",
+      "name": "Craig Fisher",
+      "character": "Street Pedestrian"
+    },
+    {
+      "id": "nm11913929",
+      "name": "Wes Fisher",
+      "character": "Pedestrian"
+    },
+    {
+      "id": "nm7221925",
+      "name": "Floyd Jackson",
+      "character": "Pedestrian"
+    }
+  ],
+  "countries": [
+    "United States",
+    "Canada"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 772623,
+  "year": 2016,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOTg0Nzc1NjA0MV5BMl5BanBnXkFtZTgwNTcyNDQ0MDI@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.2,
+      "votes": 126202,
+      "distribution": {
+        "1": 1924,
+        "2": 1006,
+        "3": 1423,
+        "4": 2722,
+        "5": 6866,
+        "6": 17443,
+        "7": 38526,
+        "8": 33771,
+        "9": 12963,
+        "10": 9558
+      },
+      "normalized": 5.9246
+    },
+    "filmweb": {
+      "rating": 6.81,
+      "votes": 21146,
+      "distribution": {
+        "1": 74,
+        "2": 65,
+        "3": 348,
+        "4": 562,
+        "5": 1970,
+        "6": 4609,
+        "7": 7372,
+        "8": 4532,
+        "9": 1038,
+        "10": 576
+      },
+      "normalized": 5.2632
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "27.12.2025",
+      "normalized": 5.4199
+    },
+    "score": 5.5359
+  },
+  "polish_title": "Płoty",
+  "silent": false,
+  "description_pl": "Pittsburg, lata 50. Film \"<a href=\"/film/?id=tt2671706\">Płoty</a>\" jest szczerym, pełnym pasji spojrzeniem na życie Troya Maxsona (<a href=\"/osoba/?id=nm0000243\">Denzel Washington</a>). Afroamerykanina, byłego baseballisty i na jego zmagania, by zapewnić byt i godziwe życie najbliższym we wrogim świecie prześladowań rasowych.",
+  "producers": [
+    {
+      "id": "nm0003091",
+      "name": "Molly Allen"
+    },
+    {
+      "id": "nm0085542",
+      "name": "Todd Black"
+    },
+    {
+      "id": "nm4791912",
+      "name": "Eli Bush"
+    },
+    {
+      "id": "nm6672783",
+      "name": "Jason Cloth"
+    },
+    {
+      "id": "nm3223094",
+      "name": "Brad Feinstein"
+    },
+    {
+      "id": "nm0317943",
+      "name": "Aaron L. Gilbert"
+    },
+    {
+      "id": "nm1585325",
+      "name": "Poppy Hanks"
+    },
+    {
+      "id": "nm2229798",
+      "name": "Charles D. King"
+    },
+    {
+      "id": "nm1065785",
+      "name": "Tony Kushner"
+    },
+    {
+      "id": "nm8591978",
+      "name": "Richard McConnell"
+    },
+    {
+      "id": "nm7868258",
+      "name": "Andrew Pollack"
+    },
+    {
+      "id": "nm0744907",
+      "name": "Kim Roth"
+    },
+    {
+      "id": "nm0748784",
+      "name": "Scott Rudin"
+    },
+    {
+      "id": "nm6755947",
+      "name": "Jason Sack"
+    },
+    {
+      "id": "nm0000243",
+      "name": "Denzel Washington"
+    },
+    {
+      "id": "nm5462354",
+      "name": "Katia Washington"
+    },
+    {
+      "id": "nm8349581",
+      "name": "Dale Wells"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0953616",
+      "name": "Marcelo Zarvos"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm1401820",
+      "name": "Charlotte Bruus Christensen"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

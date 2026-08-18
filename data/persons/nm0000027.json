@@ -1,0 +1,88 @@
+{
+  "id": "nm0000027",
+  "name": "Alec Guinness",
+  "filmography": [
+    {
+      "imdb_id": "tt0041546",
+      "title": "Kind Hearts and Coronets",
+      "year": 1949,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "The D'Ascoyne Family: The Duke"
+    },
+    {
+      "imdb_id": "tt0050212",
+      "title": "The Bridge on the River Kwai",
+      "year": 1957,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Colonel Nicholson"
+    },
+    {
+      "imdb_id": "tt0056172",
+      "title": "Lawrence of Arabia",
+      "year": 1962,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Prince Faisal"
+    },
+    {
+      "imdb_id": "tt0059113",
+      "title": "Doctor Zhivago",
+      "year": 1965,
+      "roles": [
+        "cast"
+      ],
+      "character": "Yevgraf"
+    },
+    {
+      "imdb_id": "tt0076759",
+      "title": "Star Wars: Episode IV - A New Hope",
+      "year": 1977,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Ben Obi-Wan Kenobi"
+    },
+    {
+      "imdb_id": "tt0080684",
+      "title": "Star Wars: Episode V - The Empire Strikes Back",
+      "year": 1980,
+      "roles": [
+        "cast"
+      ],
+      "character": "Ben (Obi-Wan) Kenobi"
+    },
+    {
+      "imdb_id": "tt0086190",
+      "title": "Star Wars: Episode VI - Return of the Jedi",
+      "year": 1983,
+      "roles": [
+        "cast"
+      ],
+      "character": "Ben 'Obi-Wan' Kenobi"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTUyMjgzMjczOF5BMl5BanBnXkFtZTgwNzcyMzQyNDM@._V1_.jpg",
+  "filmweb_id": 4796,
+  "birth_date": "02.04.1914",
+  "death_date": "05.08.2000",
+  "birth_location": "Marylebone, London, England, UK",
+  "height": "1.76 m",
+  "imdb_scraped": true,
+  "name_pl": "Alec Guinness",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 4796
+}

@@ -1,0 +1,48 @@
+{
+  "id": "nm0837784",
+  "name": "Barbara Sukowa",
+  "filmography": [
+    {
+      "imdb_id": "tt0101829",
+      "title": "Europa",
+      "year": 1991,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Katharina Hartmann"
+    },
+    {
+      "imdb_id": "tt0113481",
+      "title": "Johnny Mnemonic",
+      "year": 1995,
+      "roles": [
+        "cast"
+      ],
+      "character": "Anna Kalmann"
+    },
+    {
+      "imdb_id": "tt2406566",
+      "title": "Atomic Blonde",
+      "year": 2017,
+      "roles": [
+        "cast"
+      ],
+      "character": "Coroner"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTkwMzM3MDkyNF5BMl5BanBnXkFtZTcwNjA5NDgzNw@@._V1_.jpg",
+  "birth_date": "02.02.1950",
+  "birth_location": "Bremen, Germany",
+  "height": "1.65 m",
+  "filmweb_id": 4846,
+  "name_pl": "Barbara Sukowa",
+  "birth_location_pl": "Brema",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Niemcy"
+  ],
+  "wikidata_fw_id": 4846
+}

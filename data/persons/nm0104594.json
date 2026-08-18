@@ -1,0 +1,36 @@
+{
+  "id": "nm0104594",
+  "name": "Larry Brandenburg",
+  "filmography": [
+    {
+      "imdb_id": "tt0111161",
+      "title": "The Shawshank Redemption",
+      "year": 1994,
+      "roles": [
+        "cast"
+      ],
+      "character": "Skeet"
+    },
+    {
+      "imdb_id": "tt0116282",
+      "title": "Fargo",
+      "year": 1996,
+      "roles": [
+        "cast"
+      ],
+      "character": "Stan Grossman"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTJjZGIyN2YtZjk5OC00MGY3LWE0ZmItNTY0YTgyZmFlMDg5XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "03.05.1948",
+  "birth_location": "Wabasha, Minnesota, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 6400,
+  "name_pl": "Larry Brandenburg",
+  "birth_location_pl": "Wabasha, Minnesota",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

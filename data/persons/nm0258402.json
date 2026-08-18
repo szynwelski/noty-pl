@@ -1,0 +1,48 @@
+{
+  "id": "nm0258402",
+  "name": "Mike Epps",
+  "filmography": [
+    {
+      "imdb_id": "tt0278488",
+      "title": "How High",
+      "year": 2001,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Baby Powder"
+    },
+    {
+      "imdb_id": "tt1119646",
+      "title": "The Hangover",
+      "year": 2009,
+      "roles": [
+        "cast"
+      ],
+      "character": "Black Doug"
+    },
+    {
+      "imdb_id": "tt1951261",
+      "title": "The Hangover Part III",
+      "year": 2013,
+      "roles": [
+        "cast"
+      ],
+      "character": "Black Doug"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTY5MjEzOTQyNF5BMl5BanBnXkFtZTYwNjM1MjU0._V1_.jpg",
+  "birth_date": "18.11.1970",
+  "birth_location": "Indianapolis, Indiana, USA",
+  "height": "1.87 m",
+  "filmweb_id": 40298,
+  "name_pl": "Mike Epps",
+  "birth_location_pl": "Indianapolis, Indiana",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 40298
+}

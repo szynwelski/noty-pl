@@ -1,0 +1,38 @@
+{
+  "id": "nm0643000",
+  "name": "Simon Oakland",
+  "filmography": [
+    {
+      "imdb_id": "tt0054215",
+      "title": "Psycho",
+      "year": 1960,
+      "roles": [
+        "cast"
+      ],
+      "character": "Dr. Fred Richman"
+    },
+    {
+      "imdb_id": "tt0062765",
+      "title": "Bullitt",
+      "year": 1968,
+      "roles": [
+        "cast"
+      ],
+      "character": "Captain Sam Bennet"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjI2Mjc5NjIwM15BMl5BanBnXkFtZTcwMjg3NDYxOA@@._V1_.jpg",
+  "birth_date": "28.08.1915",
+  "death_date": "29.08.1983",
+  "birth_location": "Brooklyn, New York, USA",
+  "height": "1.83 m",
+  "imdb_scraped": true,
+  "filmweb_id": 9510,
+  "name_pl": "Simon Oakland",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "imdb_id": "tt1067774",
+  "title": "Monte Carlo",
+  "description": "Three young women vacationing in Paris find themselves whisked away to Monte Carlo after one of them is mistaken for a British heiress.",
+  "runtime_minutes": 109,
+  "release_date": "01.07.2011",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Family",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm1411125",
+      "name": "Selena Gomez"
+    },
+    {
+      "id": "nm1015262",
+      "name": "Leighton Meester"
+    },
+    {
+      "id": "nm1556320",
+      "name": "Katie Cassidy"
+    },
+    {
+      "id": "nm1719342",
+      "name": "Cory Monteith"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0080120",
+      "name": "Thomas Bezucha"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0080120",
+      "name": "Thomas Bezucha"
+    },
+    {
+      "id": "nm0086194",
+      "name": "April Blair"
+    },
+    {
+      "id": "nm0535940",
+      "name": "Maria Maggenti"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1411125",
+      "name": "Selena Gomez",
+      "character": "Grace"
+    },
+    {
+      "id": "nm1015262",
+      "name": "Leighton Meester",
+      "character": "Meg"
+    },
+    {
+      "id": "nm1556320",
+      "name": "Katie Cassidy",
+      "character": "Emma"
+    },
+    {
+      "id": "nm1719342",
+      "name": "Cory Monteith",
+      "character": "Owen"
+    },
+    {
+      "id": "nm0000510",
+      "name": "Andie MacDowell",
+      "character": "Pam"
+    },
+    {
+      "id": "nm0191442",
+      "name": "Brett Cullen",
+      "character": "Robert"
+    },
+    {
+      "id": "nm0265459",
+      "name": "Amanda Fairbank-Hynes",
+      "character": "Amanda"
+    },
+    {
+      "id": "nm0131954",
+      "name": "Joe Camp III",
+      "character": "Carl at Diner"
+    },
+    {
+      "id": "nm3478396",
+      "name": "Luke Bracey",
+      "character": "Riley"
+    },
+    {
+      "id": "nm0501256",
+      "name": "Valérie Lemercier",
+      "character": "Madame Valerie"
+    },
+    {
+      "id": "nm0478817",
+      "name": "Franck de la Personne",
+      "character": "Manager at Grand Belle"
+    },
+    {
+      "id": "nm1204932",
+      "name": "Máté Haumann",
+      "character": "Concierge at Grand Belle"
+    },
+    {
+      "id": "nm0351495",
+      "name": "István Göz",
+      "character": "Doorman at Grand Belle"
+    },
+    {
+      "id": "nm0037074",
+      "name": "Attila Árpa",
+      "character": "Security at Grand Belle"
+    },
+    {
+      "id": "nm0494287",
+      "name": "Joël Lefrançois",
+      "character": "Manager at Le Petite Sommeil"
+    },
+    {
+      "id": "nm3131371",
+      "name": "Virág Bárány",
+      "character": "Maid at Le Petite Sommeil"
+    },
+    {
+      "id": "nm0192200",
+      "name": "Shay Cunliffe",
+      "character": "Cashier at Eiffel Tower"
+    },
+    {
+      "id": "nm0407850",
+      "name": "Barna Illyés",
+      "character": "Paparazzi 1"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 466930,
+  "year": 2011,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjE4NjM3NjI1Nl5BMl5BanBnXkFtZTcwNjA5MzY1NQ@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.8,
+      "votes": 52751,
+      "distribution": {
+        "1": 1809,
+        "2": 1132,
+        "3": 1887,
+        "4": 4145,
+        "5": 8671,
+        "6": 11896,
+        "7": 8884,
+        "8": 5090,
+        "9": 2448,
+        "10": 6789
+      },
+      "normalized": 3.3064
+    },
+    "filmweb": {
+      "rating": 6.11,
+      "votes": 34922,
+      "distribution": {
+        "1": 340,
+        "2": 575,
+        "3": 1725,
+        "4": 3182,
+        "5": 5816,
+        "6": 9130,
+        "7": 7481,
+        "8": 3888,
+        "9": 1324,
+        "10": 1461
+      },
+      "normalized": 3.5424
+    },
+    "jarek": {
+      "rating": 2,
+      "date_rated": "13.06.2013",
+      "normalized": 3.5003
+    },
+    "score": 3.4497
+  },
+  "polish_title": "Monte Carlo",
+  "silent": false,
+  "description_pl": "Młoda dziewczyna wyrusza wraz z przyjaciółką w wymarzoną podróż do Paryża. Zbieg okoliczności sprawia, że zostaje wzięta za dziedziczkę ogromnej fortuny, a stąd już tylko krok do ekskluzywnych pokazów mody, lotów prywatnym odrzutowcem, tłumów paparazzi, śledzących każdy jej krok i wakacji w Monte Carlo, których nigdy nie zapomni.",
+  "producers": [
+    {
+      "id": "nm0076275",
+      "name": "John Bernard"
+    },
+    {
+      "id": "nm0224145",
+      "name": "Denise Di Novi"
+    },
+    {
+      "id": "nm0285701",
+      "name": "Jeffrey Ford"
+    },
+    {
+      "id": "nm1327019",
+      "name": "Alison Greenspan"
+    },
+    {
+      "id": "nm0000173",
+      "name": "Nicole Kidman"
+    },
+    {
+      "id": "nm0586969",
+      "name": "Arnon Milchan"
+    },
+    {
+      "id": "nm0754344",
+      "name": "Per Saari"
+    },
+    {
+      "id": "nm0771834",
+      "name": "Deborah Schindler"
+    },
+    {
+      "id": "nm0001845",
+      "name": "Forest Whitaker"
+    },
+    {
+      "id": "nm0937262",
+      "name": "Stan Wlodkowski"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0315974",
+      "name": "Michael Giacchino"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0003446",
+      "name": "Jonathan Brown"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

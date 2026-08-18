@@ -1,0 +1,219 @@
+{
+  "imdb_id": "tt0073341",
+  "title": "The Man Who Would Be King",
+  "description": "In 1880s India, two former British soldiers decide to set themselves up as Kings in Kafiristan, a land where no white man has set foot since Alexander the Great.",
+  "runtime_minutes": 129,
+  "release_date": "19.12.1975",
+  "genres": [
+    "Adventure",
+    "Drama",
+    "War"
+  ],
+  "stars": [
+    {
+      "id": "nm0000125",
+      "name": "Sean Connery"
+    },
+    {
+      "id": "nm0000323",
+      "name": "Michael Caine"
+    },
+    {
+      "id": "nm0001626",
+      "name": "Christopher Plummer"
+    },
+    {
+      "id": "nm0006762",
+      "name": "Saeed Jaffrey"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001379",
+      "name": "John Huston"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0001379",
+      "name": "John Huston"
+    },
+    {
+      "id": "nm0384283",
+      "name": "Gladys Hill"
+    },
+    {
+      "id": "nm0456017",
+      "name": "Rudyard Kipling"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000125",
+      "name": "Sean Connery",
+      "character": "Daniel Dravot"
+    },
+    {
+      "id": "nm0000323",
+      "name": "Michael Caine",
+      "character": "Peachy Carnehan"
+    },
+    {
+      "id": "nm0001626",
+      "name": "Christopher Plummer",
+      "character": "Rudyard Kipling"
+    },
+    {
+      "id": "nm0006762",
+      "name": "Saeed Jaffrey",
+      "character": "Billy Fish"
+    },
+    {
+      "id": "nm0488015",
+      "name": "Larbi Doghmi",
+      "character": "Ootah"
+    },
+    {
+      "id": "nm0561975",
+      "name": "Jack May",
+      "character": "District Commissioner"
+    },
+    {
+      "id": "nm0099332",
+      "name": "Karroom Ben Bouih",
+      "character": "Kafu Selim"
+    },
+    {
+      "id": "nm0787920",
+      "name": "Mohammad Shamsi",
+      "character": "Babu"
+    },
+    {
+      "id": "nm0608553",
+      "name": "Albert Moses",
+      "character": "Ghulam"
+    },
+    {
+      "id": "nm0031549",
+      "name": "Paul Antrim",
+      "character": "Mulvaney"
+    },
+    {
+      "id": "nm0010292",
+      "name": "Graham Acres",
+      "character": "Officer"
+    },
+    {
+      "id": "nm1354452",
+      "name": "The Blue Dancers of Goulamine",
+      "character": "Dancers"
+    },
+    {
+      "id": "nm0129008",
+      "name": "Shakira Caine",
+      "character": "Roxanne"
+    },
+    {
+      "id": "nm0040321",
+      "name": "Nadia Atbib",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm0643613",
+      "name": "Yvonne Ocampo",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm0802128",
+      "name": "Gurmuks Singh",
+      "character": "Sikh Soldier"
+    },
+    {
+      "id": "nm0802154",
+      "name": "Kimat Singh",
+      "character": "Sikh Soldier"
+    }
+  ],
+  "countries": [
+    "United Kingdom",
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Urdu"
+  ],
+  "color": "Color",
+  "filmweb_id": 4838,
+  "year": 1975,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYTE2MGQyYWItZTQxMy00MzVjLTljZjItMWE0MjJhMzZiZTkxXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.7,
+      "votes": 55823,
+      "distribution": {
+        "1": 1151,
+        "2": 235,
+        "3": 342,
+        "4": 632,
+        "5": 1623,
+        "6": 4195,
+        "7": 11413,
+        "8": 17902,
+        "9": 9762,
+        "10": 8568
+      },
+      "normalized": 6.7624
+    },
+    "filmweb": {
+      "rating": 7.55,
+      "votes": 4351,
+      "distribution": {
+        "1": 17,
+        "2": 7,
+        "3": 26,
+        "4": 66,
+        "5": 148,
+        "6": 491,
+        "7": 1244,
+        "8": 1475,
+        "9": 503,
+        "10": 374
+      },
+      "normalized": 6.6761
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "23.03.2006",
+      "normalized": 5.6855
+    },
+    "score": 6.3747
+  },
+  "polish_title": "Człowiek, który chciał być królem",
+  "silent": false,
+  "description_pl": "Indie, lata osiemdziesiąte XIX wieku. Daniel Dravot i Peachy Carnehan, byli żołnierze armii brytyjskiej zawierają pomiędzy sobą umowę, która ma im umożliwić zdobycie władzy i bogactwa. Dwaj awanturnicy postanawiają pójść w ślady Aleksandra Macedońskiego i dotrzeć do Kafiristanu, aby podbić tamtejsze plemiona i zostać władcami krainy.",
+  "producers": [
+    {
+      "id": "nm0286048",
+      "name": "John Foreman"
+    },
+    {
+      "id": "nm0384065",
+      "name": "William Hill"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0003574",
+      "name": "Maurice Jarre"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005807",
+      "name": "Oswald Morris"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "nm0637615",
+  "name": "Gaspar Noé",
+  "filmography": [
+    {
+      "imdb_id": "tt0290673",
+      "title": "Irreversible",
+      "year": 2002,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt3774694",
+      "title": "Love",
+      "year": 2015,
+      "roles": [
+        "director",
+        "writer",
+        "cast",
+        "producer"
+      ],
+      "character": "Noe"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjA1ODY2NTg3NF5BMl5BanBnXkFtZTYwOTMwNzA2._V1_.jpg",
+  "birth_date": "27.12.1963",
+  "birth_location": "Buenos Aires, Argentina",
+  "imdb_scraped": true,
+  "filmweb_id": 64230,
+  "name_pl": "Gaspar Noé",
+  "birth_location_pl": "Buenos Aires",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Włochy",
+    "Francja",
+    "Argentyna"
+  ],
+  "wikidata_fw_id": 64230
+}

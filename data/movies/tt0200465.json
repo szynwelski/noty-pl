@@ -1,0 +1,280 @@
+{
+  "imdb_id": "tt0200465",
+  "title": "The Bank Job",
+  "description": "Martine offers Terry a lead on a foolproof bank hit on London's Baker Street. She targets a roomful of safe deposit boxes worth millions in cash and jewelry along with a treasure trove of dirty secrets.",
+  "runtime_minutes": 111,
+  "release_date": "07.03.2008",
+  "genres": [
+    "Crime",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0005458",
+      "name": "Jason Statham"
+    },
+    {
+      "id": "nm0004787",
+      "name": "Saffron Burrows"
+    },
+    {
+      "id": "nm1304386",
+      "name": "Stephen Campbell Moore"
+    },
+    {
+      "id": "nm0990547",
+      "name": "Daniel Mays"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0002044",
+      "name": "Roger Donaldson"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0166074",
+      "name": "Dick Clement"
+    },
+    {
+      "id": "nm0478588",
+      "name": "Ian La Frenais"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0005458",
+      "name": "Jason Statham",
+      "character": "Terry Leather"
+    },
+    {
+      "id": "nm0004787",
+      "name": "Saffron Burrows",
+      "character": "Martine Love"
+    },
+    {
+      "id": "nm1304386",
+      "name": "Stephen Campbell Moore",
+      "character": "Kevin Swain"
+    },
+    {
+      "id": "nm0990547",
+      "name": "Daniel Mays",
+      "character": "Dave Shilling"
+    },
+    {
+      "id": "nm0269077",
+      "name": "James Faulkner",
+      "character": "Guy Singer"
+    },
+    {
+      "id": "nm0202810",
+      "name": "Alki David",
+      "character": "Bambas"
+    },
+    {
+      "id": "nm1106960",
+      "name": "Michael Jibson",
+      "character": "Eddie Burton"
+    },
+    {
+      "id": "nm0852401",
+      "name": "Georgia Taylor",
+      "character": "Ingrid Burton"
+    },
+    {
+      "id": "nm0513201",
+      "name": "Richard Lintern",
+      "character": "Tim Everett"
+    },
+    {
+      "id": "nm0101248",
+      "name": "Peter Bowles",
+      "character": "Miles Urquart"
+    },
+    {
+      "id": "nm0677944",
+      "name": "Alistair Petrie",
+      "character": "Philip Lisle"
+    },
+    {
+      "id": "nm0602455",
+      "name": "Hattie Morahan",
+      "character": "Gale Benson"
+    },
+    {
+      "id": "nm0428484",
+      "name": "Julian Lewis Jones",
+      "character": "Snow"
+    },
+    {
+      "id": "nm0111685",
+      "name": "Andrew Brooke",
+      "character": "Quinn"
+    },
+    {
+      "id": "nm0292538",
+      "name": "Rupert Frazer",
+      "character": "Lord Drysdale"
+    },
+    {
+      "id": "nm0654106",
+      "name": "Christopher Owen",
+      "character": "Mountbatten"
+    },
+    {
+      "id": "nm0369954",
+      "name": "Keeley Hawes",
+      "character": "Wendy Leather"
+    },
+    {
+      "id": "nm2513669",
+      "name": "Taelor Samways",
+      "character": "Catherine Leather"
+    }
+  ],
+  "countries": [
+    "United Kingdom",
+    "United States",
+    "Australia"
+  ],
+  "languages": [
+    "English",
+    "Latin"
+  ],
+  "color": "Color",
+  "filmweb_id": 402798,
+  "year": 2008,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZmQ5OTkxZDMtYTAxYS00OWE1LThhMWItYjdlYjJmNWZlNWU5XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.2,
+      "votes": 197967,
+      "distribution": {
+        "1": 1081,
+        "2": 613,
+        "3": 1043,
+        "4": 2454,
+        "5": 7668,
+        "6": 27598,
+        "7": 72449,
+        "8": 56931,
+        "9": 16645,
+        "10": 11485
+      },
+      "normalized": 5.9403
+    },
+    "filmweb": {
+      "rating": 7.47,
+      "votes": 104348,
+      "distribution": {
+        "1": 221,
+        "2": 213,
+        "3": 457,
+        "4": 1092,
+        "5": 3307,
+        "6": 11173,
+        "7": 33609,
+        "8": 38718,
+        "9": 10851,
+        "10": 4707
+      },
+      "normalized": 6.6659
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "12.08.2010",
+      "normalized": 4.9718
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "16.04.2008",
+      "normalized": 4.5781
+    },
+    "score": 5.539
+  },
+  "polish_title": "Angielska robota",
+  "silent": false,
+  "description_pl": "Opowieść o legendarnym już napadzie na bank na londyńskiej Baker Street w 1971 roku. Legendarnym, bo aż do dziś ani nikogo w tej sprawie nie aresztowano, ani nie odzyskano nawet pensa ze skradzionych przez rabusiów pieniędzy. Dodatkowo, przez niemal 35 lat, brytyjski rząd zakazał jakichkolwiek informacji na ten temat.",
+  "producers": [
+    {
+      "id": "nm1479756",
+      "name": "David Alper"
+    },
+    {
+      "id": "nm0079262",
+      "name": "Mairi Bett"
+    },
+    {
+      "id": "nm0153893",
+      "name": "Steven Chasman"
+    },
+    {
+      "id": "nm2780071",
+      "name": "Luigi Desole"
+    },
+    {
+      "id": "nm1733151",
+      "name": "Scott Fischer"
+    },
+    {
+      "id": "nm1379967",
+      "name": "Pete Ford"
+    },
+    {
+      "id": "nm0308672",
+      "name": "Alex Gartner"
+    },
+    {
+      "id": "nm0322221",
+      "name": "Alan Glazer"
+    },
+    {
+      "id": "nm0357861",
+      "name": "Gary Hamilton"
+    },
+    {
+      "id": "nm1448916",
+      "name": "Ryan Kavanaugh"
+    },
+    {
+      "id": "nm2594283",
+      "name": "Christopher Mapp"
+    },
+    {
+      "id": "nm0570550",
+      "name": "George McIndoe"
+    },
+    {
+      "id": "nm0746273",
+      "name": "Charles Roven"
+    },
+    {
+      "id": "nm0795967",
+      "name": "Aaron Shuster"
+    },
+    {
+      "id": "nm0834089",
+      "name": "Matthew Street"
+    },
+    {
+      "id": "nm2817959",
+      "name": "David Whealy"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006254",
+      "name": "J. Peter Robinson"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0183533",
+      "name": "Michael Coulter"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

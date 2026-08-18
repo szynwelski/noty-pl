@@ -1,0 +1,354 @@
+{
+  "imdb_id": "tt2707408",
+  "title": "Narcos",
+  "description": "A chronicled look at the criminal exploits of Colombian drug lord Pablo Escobar, as well as the many other drug kingpins who plagued the country through the years.",
+  "runtime_minutes": 50,
+  "release_date": "28.08.2015",
+  "genres": [
+    "Biography",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0050959",
+      "name": "Pedro Pascal"
+    },
+    {
+      "id": "nm0609944",
+      "name": "Wagner Moura"
+    },
+    {
+      "id": "nm2933542",
+      "name": "Boyd Holbrook"
+    },
+    {
+      "id": "nm2975962",
+      "name": "Alberto Ammann"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0050959",
+      "name": "Pedro Pascal",
+      "character": "Javier Peña"
+    },
+    {
+      "id": "nm0609944",
+      "name": "Wagner Moura",
+      "character": "Pablo Escobar"
+    },
+    {
+      "id": "nm2933542",
+      "name": "Boyd Holbrook",
+      "character": "Steve Murphy"
+    },
+    {
+      "id": "nm2975962",
+      "name": "Alberto Ammann",
+      "character": "Pacho Herrera"
+    },
+    {
+      "id": "nm2103508",
+      "name": "Paulina Gaitan",
+      "character": "Tata Escobar"
+    },
+    {
+      "id": "nm7553526",
+      "name": "Juan Murcia",
+      "character": "Juan Pablo Escobar"
+    },
+    {
+      "id": "nm0599509",
+      "name": "Jorge Monterrosa",
+      "character": "Trujillo"
+    },
+    {
+      "id": "nm0017343",
+      "name": "Damián Alcázar",
+      "character": "Gilberto Rodríguez Orejuela"
+    },
+    {
+      "id": "nm3634819",
+      "name": "Francisco Denis",
+      "character": "Miguel Rodríguez Orejuela"
+    },
+    {
+      "id": "nm0617622",
+      "name": "Raúl Méndez",
+      "character": "César Gaviria"
+    },
+    {
+      "id": "nm0129865",
+      "name": "Juan Sebastián Calero",
+      "character": "Navegante"
+    },
+    {
+      "id": "nm1257208",
+      "name": "Paulina García",
+      "character": "Hermilda Gaviria"
+    },
+    {
+      "id": "nm1593407",
+      "name": "Diego Cataño",
+      "character": "La Quica"
+    },
+    {
+      "id": "nm0191442",
+      "name": "Brett Cullen",
+      "character": "Arthur Crosby"
+    },
+    {
+      "id": "nm1517518",
+      "name": "Julián Díaz",
+      "character": "Blackie"
+    },
+    {
+      "id": "nm1812459",
+      "name": "Joanna Christie",
+      "character": "Connie Murphy"
+    },
+    {
+      "id": "nm0173997",
+      "name": "Maurice Compte",
+      "character": "Horacio Carrillo"
+    },
+    {
+      "id": "nm7594525",
+      "name": "María José Sanchez Real",
+      "character": "Manuela"
+    }
+  ],
+  "countries": [
+    "United States",
+    "Colombia"
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "color": "Color",
+  "year": 2015,
+  "type": "tvSeries",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzQwOTcwMzIwN15BMl5BanBnXkFtZTgwMjYxMTA0NjE@._V1_.jpg",
+  "filmweb_id": 680486,
+  "ratings": {
+    "imdb": {
+      "rating": 8.7,
+      "votes": 533868,
+      "distribution": {
+        "1": 4199,
+        "2": 848,
+        "3": 987,
+        "4": 1564,
+        "5": 3669,
+        "6": 10052,
+        "7": 39767,
+        "8": 126953,
+        "9": 196044,
+        "10": 149785
+      }
+    },
+    "filmweb": {
+      "rating": 8.38,
+      "votes": 189727,
+      "distribution": {
+        "1": 716,
+        "2": 317,
+        "3": 637,
+        "4": 882,
+        "5": 2132,
+        "6": 5289,
+        "7": 20188,
+        "8": 63284,
+        "9": 68948,
+        "10": 27334
+      }
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "22.05.2020"
+    }
+  },
+  "polish_title": "Narcos",
+  "silent": false,
+  "description_pl": "Pablo Escobar (<a href=\"/osoba/?id=nm0609944\">Wagner Moura</a>) jest potężnym bossem kartelu narkotykowego z Medelin w Kolumbii. Jego działalność związana z handlem kokainą rozrasta się. Władze federalne USA stawiają sobie za cel zlikwidować nielegalną działalność Escobara.",
+  "producers": [
+    {
+      "id": "nm0628080",
+      "name": "Eric Newman"
+    },
+    {
+      "id": "nm2768197",
+      "name": "Christophe Riandee"
+    },
+    {
+      "id": "nm1915763",
+      "name": "Jesse Rose Moore"
+    },
+    {
+      "id": "nm0655683",
+      "name": "José Padilha"
+    },
+    {
+      "id": "nm0455336",
+      "name": "Tim King"
+    },
+    {
+      "id": "nm0825467",
+      "name": "Gene Stein"
+    },
+    {
+      "id": "nm0639681",
+      "name": "Lorenzo O'Brien"
+    },
+    {
+      "id": "nm1829745",
+      "name": "Tara Duncan"
+    },
+    {
+      "id": "nm0076166",
+      "name": "Carlo Bernard"
+    },
+    {
+      "id": "nm0865162",
+      "name": "Elisa Todd Ellis"
+    },
+    {
+      "id": "nm1215164",
+      "name": "Doug Miro"
+    },
+    {
+      "id": "nm2685841",
+      "name": "Katie O'Connell"
+    },
+    {
+      "id": "nm0104333",
+      "name": "Chris Brancato"
+    },
+    {
+      "id": "nm1761469",
+      "name": "Andrés Calderón"
+    },
+    {
+      "id": "nm2210824",
+      "name": "Dana Calvo"
+    },
+    {
+      "id": "nm0139964",
+      "name": "Mariano Carranco"
+    },
+    {
+      "id": "nm0241489",
+      "name": "Sidonie Dumas"
+    },
+    {
+      "id": "nm0248746",
+      "name": "Paul Eckstein"
+    },
+    {
+      "id": "nm0260402",
+      "name": "José Luis Escolar"
+    },
+    {
+      "id": "nm1383735",
+      "name": "Curtis Gwinn"
+    },
+    {
+      "id": "nm0517753",
+      "name": "Jack LoGiudice"
+    },
+    {
+      "id": "nm0548932",
+      "name": "Paul Marks"
+    },
+    {
+      "id": "nm1465657",
+      "name": "Zachary Reiter"
+    },
+    {
+      "id": "nm1025918",
+      "name": "Julie Siege"
+    },
+    {
+      "id": "nm0798517",
+      "name": "Batan Silva"
+    },
+    {
+      "id": "nm1241096",
+      "name": "Matthew V. Colonna"
+    },
+    {
+      "id": "nm3406257",
+      "name": "Adam Fishbach"
+    },
+    {
+      "id": "nm5404569",
+      "name": "Jason George"
+    },
+    {
+      "id": "nm2050777",
+      "name": "Ashley Lyle"
+    },
+    {
+      "id": "nm3438218",
+      "name": "Bart Nickerson"
+    },
+    {
+      "id": "nm0008823",
+      "name": "Allison Abner"
+    },
+    {
+      "id": "nm2082888",
+      "name": "Juliana Florez"
+    },
+    {
+      "id": "nm1977228",
+      "name": "Carolina Paiz"
+    },
+    {
+      "id": "nm1876789",
+      "name": "Cindy Holland"
+    },
+    {
+      "id": "nm0833191",
+      "name": "David Straiton"
+    },
+    {
+      "id": "nm2460410",
+      "name": "Jane Wiseman"
+    },
+    {
+      "id": "nm1223381",
+      "name": "Andrés Baiz"
+    },
+    {
+      "id": "nm2027168",
+      "name": "T.J. Brady"
+    },
+    {
+      "id": "nm1096719",
+      "name": "Peter Friedlander"
+    },
+    {
+      "id": "nm1208415",
+      "name": "Steve Lightfoot"
+    },
+    {
+      "id": "nm2024486",
+      "name": "Rasheed Newson"
+    },
+    {
+      "id": "nm1469826",
+      "name": "Adam Fierro"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm1338517",
+      "name": "Pedro Bromfman"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

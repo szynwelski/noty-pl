@@ -1,0 +1,210 @@
+{
+  "imdb_id": "tt0066289",
+  "title": "The Cruise",
+  "description": "A stowaway on a cruise ship is mistaken for an entertainment director.",
+  "runtime_minutes": 65,
+  "release_date": "19.10.1970",
+  "genres": [
+    "Comedy"
+  ],
+  "stars": [
+    {
+      "id": "nm0878957",
+      "name": "Stanislaw Tym"
+    },
+    {
+      "id": "nm0521445",
+      "name": "Jolanta Lothe"
+    },
+    {
+      "id": "nm0822327",
+      "name": "Wanda Stanislawska-Lothe"
+    },
+    {
+      "id": "nm0229843",
+      "name": "Jerzy Dobrowolski"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0686137",
+      "name": "Marek Piwowski"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0058344",
+      "name": "Andrzej Barszczynski"
+    },
+    {
+      "id": "nm0323196",
+      "name": "Janusz Glowacki"
+    },
+    {
+      "id": "nm0438990",
+      "name": "Jerzy Karaszkiewicz"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0878957",
+      "name": "Stanislaw Tym",
+      "character": "KO Instructor"
+    },
+    {
+      "id": "nm0521445",
+      "name": "Jolanta Lothe",
+      "character": "Young Girl"
+    },
+    {
+      "id": "nm0822327",
+      "name": "Wanda Stanislawska-Lothe",
+      "character": "Mamoniowa"
+    },
+    {
+      "id": "nm0229843",
+      "name": "Jerzy Dobrowolski",
+      "character": "Instructor's Friend"
+    },
+    {
+      "id": "nm0229727",
+      "name": "Andrzej Dobosz",
+      "character": "Philosopher"
+    },
+    {
+      "id": "nm0259755",
+      "name": "Feridun Erol",
+      "character": "Seaman"
+    },
+    {
+      "id": "nm0385411",
+      "name": "Jan Himilsbach",
+      "character": "Sidorowski"
+    },
+    {
+      "id": "nm0438990",
+      "name": "Jerzy Karaszkiewicz",
+      "character": "Angler"
+    },
+    {
+      "id": "nm0538667",
+      "name": "Zdzislaw Maklakiewicz",
+      "character": "Engineer Mamon"
+    },
+    {
+      "id": "nm1351239",
+      "name": "Maciej Michalak",
+      "character": "Passenger"
+    },
+    {
+      "id": "nm0682935",
+      "name": "Ryszard Pietruski",
+      "character": "Captain"
+    },
+    {
+      "id": "nm0688684",
+      "name": "Wojciech Pokora",
+      "character": "Passenger"
+    },
+    {
+      "id": "nm1352011",
+      "name": "Roman Suszko",
+      "character": "Passenger"
+    },
+    {
+      "id": "nm1349640",
+      "name": "Waclaw Antczak",
+      "character": "Commission Member"
+    },
+    {
+      "id": "nm1349787",
+      "name": "Janusz Bezamson",
+      "character": "Passenger"
+    },
+    {
+      "id": "nm1350403",
+      "name": "Eugeniusz Gajewski",
+      "character": "Commission Member"
+    },
+    {
+      "id": "nm1350451",
+      "name": "Michalina Gesicka",
+      "character": "Passenger"
+    },
+    {
+      "id": "nm1350700",
+      "name": "Irena Izykowska",
+      "character": "Sidorowska"
+    }
+  ],
+  "countries": [
+    "Poland"
+  ],
+  "languages": [
+    "Polish"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 751,
+  "year": 1970,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTA0ODAzOTc2MzVeQTJeQWpwZ15BbWU4MDg1Njc1MDEx._V1_.jpg",
+  "original_title": "Rejs",
+  "ratings": {
+    "imdb": {
+      "rating": 7.5,
+      "votes": 3992,
+      "distribution": {
+        "1": 59,
+        "2": 56,
+        "3": 77,
+        "4": 106,
+        "5": 194,
+        "6": 405,
+        "7": 704,
+        "8": 891,
+        "9": 610,
+        "10": 890
+      },
+      "normalized": 6.2092
+    },
+    "filmweb": {
+      "rating": 7.52,
+      "votes": 133875,
+      "distribution": {
+        "1": 1771,
+        "2": 1171,
+        "3": 2919,
+        "4": 3800,
+        "5": 7464,
+        "6": 12857,
+        "7": 27704,
+        "8": 34909,
+        "9": 22201,
+        "10": 19079
+      },
+      "normalized": 6.7893
+    },
+    "michal": {
+      "rating": 8,
+      "date_rated": "19.10.2005",
+      "normalized": 8.1116
+    },
+    "score": 7.0367
+  },
+  "polish_title": "Rejs",
+  "silent": false,
+  "description_pl": "Utrzymana w groteskowym tonie eksperymentalna komedia satyryczna: akcję filmu stanowią improwizowane miniscenki, rejestrowane metodą paradokumentalną, rozgrywające się wśród pasażerów statku płynącego po Wiśle. Na pokład dostaje gapowicz (<a href=\"/osoba/?id=nm0878957\">Stanisław Tym</a>), wzięty przez kapitana (<a href=\"/osoba/?id=nm0682935\">Ryszard Pietruski</a>) za instruktora kulturalno-oświatowego. Organizuje on zebrania, wybory rady rejsu, wreszcie - gry i zabawy z okazji urodzin kapitana.",
+  "composers": [
+    {
+      "id": "nm0004384",
+      "name": "Wojciech Kilar"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0637438",
+      "name": "Marek Nowicki"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

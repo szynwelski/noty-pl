@@ -1,0 +1,69 @@
+{
+  "id": "nm0000196",
+  "name": "Mike Myers",
+  "filmography": [
+    {
+      "imdb_id": "tt0126029",
+      "title": "Shrek",
+      "year": 2001,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Shrek"
+    },
+    {
+      "imdb_id": "tt0264150",
+      "title": "View from the Top",
+      "year": 2003,
+      "roles": [
+        "cast"
+      ],
+      "character": "John Witney"
+    },
+    {
+      "imdb_id": "tt0298148",
+      "title": "Shrek 2",
+      "year": 2004,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Shrek"
+    },
+    {
+      "imdb_id": "tt0361748",
+      "title": "Inglourious Basterds",
+      "year": 2009,
+      "roles": [
+        "cast"
+      ],
+      "character": "General Ed Fenech"
+    },
+    {
+      "imdb_id": "tt1727824",
+      "title": "Bohemian Rhapsody",
+      "year": 2018,
+      "roles": [
+        "cast"
+      ],
+      "character": "Ray Foster"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTY0MTM1MTM5Nl5BMl5BanBnXkFtZTcwNzA1OTM3MQ@@._V1_.jpg",
+  "birth_date": "25.05.1963",
+  "birth_location": "Scarborough, Ontario, Canada",
+  "height": "1.70 m",
+  "filmweb_id": 324,
+  "name_pl": "Mike Myers",
+  "birth_location_pl": "Scarborough",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Kanada",
+    "Wielka Brytania",
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 324
+}

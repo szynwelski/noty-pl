@@ -1,0 +1,244 @@
+{
+  "imdb_id": "tt1068680",
+  "title": "Yes Man",
+  "description": "A man challenges himself to say \"yes\" to everything.",
+  "runtime_minutes": 104,
+  "release_date": "19.12.2008",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0000120",
+      "name": "Jim Carrey"
+    },
+    {
+      "id": "nm0221046",
+      "name": "Zooey Deschanel"
+    },
+    {
+      "id": "nm0177896",
+      "name": "Bradley Cooper"
+    },
+    {
+      "id": "nm0383422",
+      "name": "John Michael Higgins"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0715636",
+      "name": "Peyton Reed"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0831557",
+      "name": "Nicholas Stoller"
+    },
+    {
+      "id": "nm0666871",
+      "name": "Jarrad Paul"
+    },
+    {
+      "id": "nm2361949",
+      "name": "Andrew Mogel"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000120",
+      "name": "Jim Carrey",
+      "character": "Carl"
+    },
+    {
+      "id": "nm0221046",
+      "name": "Zooey Deschanel",
+      "character": "Allison"
+    },
+    {
+      "id": "nm0177896",
+      "name": "Bradley Cooper",
+      "character": "Peter"
+    },
+    {
+      "id": "nm0383422",
+      "name": "John Michael Higgins",
+      "character": "Nick"
+    },
+    {
+      "id": "nm1055302",
+      "name": "Rhys Darby",
+      "character": "Norman"
+    },
+    {
+      "id": "nm0005194",
+      "name": "Danny Masterson",
+      "character": "Rooney"
+    },
+    {
+      "id": "nm0001217",
+      "name": "Fionnula Flanagan",
+      "character": "Tillie"
+    },
+    {
+      "id": "nm0000654",
+      "name": "Terence Stamp",
+      "character": "Terrence"
+    },
+    {
+      "id": "nm0018734",
+      "name": "Sasha Alexander",
+      "character": "Lucy"
+    },
+    {
+      "id": "nm0801356",
+      "name": "Molly Sims",
+      "character": "Stephanie"
+    },
+    {
+      "id": "nm0109785",
+      "name": "Brent Briscoe",
+      "character": "Homeless Guy"
+    },
+    {
+      "id": "nm0140969",
+      "name": "Rocky Carroll",
+      "character": "Wes"
+    },
+    {
+      "id": "nm0182824",
+      "name": "John Cothran",
+      "character": "Tweed"
+    },
+    {
+      "id": "nm0308208",
+      "name": "Spencer Garrett",
+      "character": "Multack"
+    },
+    {
+      "id": "nm0639917",
+      "name": "Sean O'Bryan",
+      "character": "Ted"
+    },
+    {
+      "id": "nm0502097",
+      "name": "Kai Lennox",
+      "character": "Flyer Guy"
+    },
+    {
+      "id": "nm1239705",
+      "name": "Cecelia Antoinette",
+      "character": "Woman Bank Employee"
+    },
+    {
+      "id": "nm0479779",
+      "name": "Patrick Labyorteaux",
+      "character": "Marv"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Korean"
+  ],
+  "color": "Color",
+  "filmweb_id": 450915,
+  "year": 2008,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZWQ4YzBiMzgtM2ZhZC00ZDQ5LWFiZjgtNmFlNzZlMTBkZTJhXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.8,
+      "votes": 407461,
+      "distribution": {
+        "1": 2609,
+        "2": 2250,
+        "3": 4369,
+        "4": 10752,
+        "5": 31240,
+        "6": 85940,
+        "7": 141607,
+        "8": 75981,
+        "9": 26595,
+        "10": 26118
+      },
+      "normalized": 5.0866
+    },
+    "filmweb": {
+      "rating": 6.97,
+      "votes": 215278,
+      "distribution": {
+        "1": 1132,
+        "2": 1123,
+        "3": 3162,
+        "4": 6169,
+        "5": 16176,
+        "6": 40678,
+        "7": 72123,
+        "8": 48914,
+        "9": 16113,
+        "10": 9688
+      },
+      "normalized": 5.5732
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "24.08.2010",
+      "normalized": 4.9718
+    },
+    "score": 5.2105
+  },
+  "polish_title": "Jestem na tak",
+  "silent": false,
+  "description_pl": "Bohaterem filmu jest sfrustrowany urzędnik bankowy - introwertyk, który na większość propozycji odpowiada nieodmiennie \"nie\". Tkwiąc w bezruchu, Carl spotyka nagle charyzmatycznego guru, który nakłania go do zmiany trybu życia. Carl, choć nie od razu, poddaje się perswazji nawołującego do zmian mówcy i postanawia spróbować postawy \"na tak\".",
+  "producers": [
+    {
+      "id": "nm0075732",
+      "name": "Bruce Berman"
+    },
+    {
+      "id": "nm0199742",
+      "name": "Tiffany Daniel"
+    },
+    {
+      "id": "nm0263988",
+      "name": "Marty P. Ewing"
+    },
+    {
+      "id": "nm0292390",
+      "name": "Katterli Frauenfelder"
+    },
+    {
+      "id": "nm1602154",
+      "name": "Dana Goldberg"
+    },
+    {
+      "id": "nm0382268",
+      "name": "David Heyman"
+    },
+    {
+      "id": "nm0276301",
+      "name": "Linda Fields Hill"
+    },
+    {
+      "id": "nm0991245",
+      "name": "Danny Wallace"
+    },
+    {
+      "id": "nm0005573",
+      "name": "Richard D. Zanuck"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005934",
+      "name": "Robert D. Yeoman"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

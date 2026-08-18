@@ -1,0 +1,47 @@
+{
+  "id": "nm0001751",
+  "name": "Jimmy Smits",
+  "filmography": [
+    {
+      "imdb_id": "tt0121765",
+      "title": "Star Wars: Episode II - Attack of the Clones",
+      "year": 2002,
+      "roles": [
+        "cast"
+      ],
+      "character": "Senator Bail Organa"
+    },
+    {
+      "imdb_id": "tt0121766",
+      "title": "Star Wars: Episode III - Revenge of the Sith",
+      "year": 2005,
+      "roles": [
+        "cast"
+      ],
+      "character": "Senator Bail Organa"
+    },
+    {
+      "imdb_id": "tt3748528",
+      "title": "Rogue One: A Star Wars Story",
+      "year": 2016,
+      "roles": [
+        "cast"
+      ],
+      "character": "Bail Organa"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYzlmNjcxNDctOWZlZC00NzU5LWE4MWYtZDkzNGFlMWE5YWJiXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "09.07.1955",
+  "birth_location": "Brooklyn, New York City, New York, USA",
+  "height": "1.91 m",
+  "filmweb_id": 6659,
+  "name_pl": "Jimmy Smits",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 6659
+}

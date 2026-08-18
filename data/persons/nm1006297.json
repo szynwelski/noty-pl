@@ -1,0 +1,37 @@
+{
+  "id": "nm1006297",
+  "name": "Joe Armstrong",
+  "filmography": [
+    {
+      "imdb_id": "tt5709236",
+      "title": "Hated in the Nation",
+      "year": 2016,
+      "roles": [
+        "cast"
+      ],
+      "character": "Nick Shelton"
+    },
+    {
+      "imdb_id": "tt4555426",
+      "title": "Darkest Hour",
+      "year": 2017,
+      "roles": [
+        "cast"
+      ],
+      "character": "John Evans"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTUyMzMxMjc2Ml5BMl5BanBnXkFtZTcwODQ1NjkxOA@@._V1_.jpg",
+  "birth_date": "07.10.1978",
+  "birth_location": "Hammersmith, London, England, UK",
+  "height": "1.78 m",
+  "imdb_scraped": true,
+  "filmweb_id": 290406,
+  "name_pl": "Joe Armstrong",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ]
+}

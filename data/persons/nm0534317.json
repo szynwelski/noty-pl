@@ -1,0 +1,40 @@
+{
+  "id": "nm0534317",
+  "name": "George Macready",
+  "filmography": [
+    {
+      "imdb_id": "tt0038559",
+      "title": "Gilda",
+      "year": 1946,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Ballin Mundson"
+    },
+    {
+      "imdb_id": "tt0050825",
+      "title": "Paths of Glory",
+      "year": 1957,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Gen. Paul Mireau"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjA4OTQ1MzAyN15BMl5BanBnXkFtZTcwOTc3NTIxOA@@._V1_.jpg",
+  "birth_date": "29.08.1899",
+  "death_date": "02.07.1973",
+  "birth_location": "Providence, Rhode Island, USA",
+  "height": "1.85 m",
+  "imdb_scraped": true,
+  "filmweb_id": 43100,
+  "name_pl": "George Macready",
+  "birth_location_pl": "Providence, Rhode Island",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

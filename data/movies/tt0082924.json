@@ -1,0 +1,222 @@
+{
+  "imdb_id": "tt0082924",
+  "title": "Super Fuzz",
+  "description": "Red powder from a nuclear explosion gives a police officer super powers as long as he doesn't see anything red. He is eventually framed for murder and is unsuccessfully executed by many different methods.",
+  "runtime_minutes": 97,
+  "release_date": "18.09.1981",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm0001352",
+      "name": "Terence Hill"
+    },
+    {
+      "id": "nm0000308",
+      "name": "Ernest Borgnine"
+    },
+    {
+      "id": "nm0238445",
+      "name": "Joanne Dru"
+    },
+    {
+      "id": "nm0492908",
+      "name": "Marc Lawrence"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0179281",
+      "name": "Sergio Corbucci"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0179281",
+      "name": "Sergio Corbucci"
+    },
+    {
+      "id": "nm0162970",
+      "name": "Sabatino Ciuffini"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0001352",
+      "name": "Terence Hill",
+      "character": "Officer Dave Speed"
+    },
+    {
+      "id": "nm0000308",
+      "name": "Ernest Borgnine",
+      "character": "Sgt. Willy Dunlop"
+    },
+    {
+      "id": "nm0238445",
+      "name": "Joanne Dru",
+      "character": "Rosy LaBouche"
+    },
+    {
+      "id": "nm0492908",
+      "name": "Marc Lawrence",
+      "character": "Tony Torpedo"
+    },
+    {
+      "id": "nm0330353",
+      "name": "Julie Gordon",
+      "character": "Evelyn Dunlop"
+    },
+    {
+      "id": "nm0762021",
+      "name": "Lee Sandman",
+      "character": "Police Chief J. McEnroy"
+    },
+    {
+      "id": "nm0096613",
+      "name": "Sal Borgese",
+      "character": "Paradise Alley"
+    },
+    {
+      "id": "nm0940207",
+      "name": "Woody Woodbury",
+      "character": "NASA Major"
+    },
+    {
+      "id": "nm0832865",
+      "name": "Dow Stout",
+      "character": "Clyde"
+    },
+    {
+      "id": "nm0326222",
+      "name": "Herb Goldstein",
+      "character": "Silvius"
+    },
+    {
+      "id": "nm0806367",
+      "name": "Sergio Smacchi",
+      "character": "Slot Machine"
+    },
+    {
+      "id": "nm0780940",
+      "name": "Don Sebastian",
+      "character": "Dingo"
+    },
+    {
+      "id": "nm0749297",
+      "name": "Claudio Ruffini",
+      "character": "Tragedy Row"
+    },
+    {
+      "id": "nm0567524",
+      "name": "Jack McDermott",
+      "character": "Reporter"
+    },
+    {
+      "id": "nm0858620",
+      "name": "Charles D. Thomas",
+      "character": "Jackson"
+    },
+    {
+      "id": "nm0119631",
+      "name": "Charles Buie",
+      "character": "Smuggler"
+    },
+    {
+      "id": "nm0301827",
+      "name": "Bobby Gale",
+      "character": "Scardella"
+    },
+    {
+      "id": "nm0852025",
+      "name": "Ben Taylor",
+      "character": ""
+    }
+  ],
+  "countries": [
+    "Italy",
+    "Spain",
+    "United States"
+  ],
+  "languages": [
+    "Italian",
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 33598,
+  "year": 1980,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYWUwZDg0ZTYtNDI0NS00ZjkwLThmZmUtODQ3YWNiMjU0MGVmXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Poliziotto superpiù",
+  "ratings": {
+    "imdb": {
+      "rating": 6.3,
+      "votes": 9185,
+      "distribution": {
+        "1": 164,
+        "2": 141,
+        "3": 237,
+        "4": 483,
+        "5": 1089,
+        "6": 2241,
+        "7": 2207,
+        "8": 1142,
+        "9": 479,
+        "10": 1002
+      },
+      "normalized": 4.216
+    },
+    "filmweb": {
+      "rating": 6.52,
+      "votes": 1459,
+      "distribution": {
+        "1": 11,
+        "2": 19,
+        "3": 61,
+        "4": 83,
+        "5": 154,
+        "6": 350,
+        "7": 432,
+        "8": 189,
+        "9": 59,
+        "10": 101
+      },
+      "normalized": 4.5191
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "01.01.2010",
+      "normalized": 4.5781
+    },
+    "score": 4.4377
+  },
+  "polish_title": "Atomowy glina",
+  "silent": false,
+  "description_pl": "Dave Speed to policjant z Miami, który w wyniku wypadku zostaje napromieniowany i zdobywa nadzwyczajną siłę. Jednak nie radzi sobie z wykorzystaniem nowych możliwości...",
+  "producers": [
+    {
+      "id": "nm0302077",
+      "name": "Vittorio Galiano"
+    },
+    {
+      "id": "nm0465340",
+      "name": "Josi W. Konski"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0478387",
+      "name": "Michelangelo La Bionda"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005745",
+      "name": "Silvano Ippoliti"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

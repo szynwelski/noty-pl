@@ -1,0 +1,42 @@
+{
+  "id": "nm0010185",
+  "name": "Enrique Acosta",
+  "filmography": [
+    {
+      "imdb_id": "tt0026778",
+      "title": "A Night at the Opera",
+      "year": 1935,
+      "roles": [
+        "cast"
+      ],
+      "character": "Nightclub Guest"
+    },
+    {
+      "imdb_id": "tt0034583",
+      "title": "Casablanca",
+      "year": 1942,
+      "roles": [
+        "cast"
+      ],
+      "character": "Guest at Rick's"
+    },
+    {
+      "imdb_id": "tt0038559",
+      "title": "Gilda",
+      "year": 1946,
+      "roles": [
+        "cast"
+      ],
+      "character": "Gambler"
+    }
+  ],
+  "birth_date": "26.02.1870",
+  "death_date": "22.05.1949",
+  "birth_location": "Mexico City, Mexico",
+  "filmweb_id": 215653,
+  "name_pl": "Enrique Acosta",
+  "birth_location_pl": "Meksyk",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true
+}

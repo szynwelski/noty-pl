@@ -1,0 +1,48 @@
+{
+  "id": "nm1268748",
+  "name": "Tamer Hassan",
+  "filmography": [
+    {
+      "imdb_id": "tt0375912",
+      "title": "Layer Cake",
+      "year": 2004,
+      "roles": [
+        "cast"
+      ],
+      "character": "Terry"
+    },
+    {
+      "imdb_id": "tt0499487",
+      "title": "Goal! III",
+      "year": 2009,
+      "roles": [
+        "cast"
+      ],
+      "character": "Ronnie"
+    },
+    {
+      "imdb_id": "tt1646980",
+      "title": "The Double",
+      "year": 2011,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Bozlovski"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTY5MTg4NTQ2N15BMl5BanBnXkFtZTcwNDE3MDMzNA@@._V1_.jpg",
+  "birth_date": "18.03.1968",
+  "birth_location": "London, England, UK",
+  "height": "1.88 m",
+  "filmweb_id": 131109,
+  "name_pl": "Tamer Hassan",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 131109
+}

@@ -1,0 +1,107 @@
+{
+  "imdb_id": "tt3719452",
+  "title": "Autism in Love",
+  "description": "Autism in Love follows the story of four adults with autism spectrum disorders as they search for and manage romantic relationships.",
+  "runtime_minutes": 76,
+  "release_date": "16.04.2015",
+  "genres": [
+    "Documentary",
+    "Drama",
+    "Romance"
+  ],
+  "directors": [
+    {
+      "id": "nm2582158",
+      "name": "Matt Fuller"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm6483775",
+      "name": "Ira Heilveil"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 737423,
+  "year": 2015,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODQzMjk2NjU1NV5BMl5BanBnXkFtZTgwNjU0NTI0NzE@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.5,
+      "votes": 523,
+      "distribution": {
+        "1": 16,
+        "2": 4,
+        "3": 2,
+        "4": 9,
+        "5": 19,
+        "6": 51,
+        "7": 127,
+        "8": 139,
+        "9": 89,
+        "10": 67
+      },
+      "normalized": 5.6839
+    },
+    "filmweb": {
+      "rating": 7.6,
+      "votes": 60,
+      "distribution": {
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 2,
+        "6": 6,
+        "7": 20,
+        "8": 23,
+        "9": 4,
+        "10": 5
+      },
+      "normalized": 5.4063
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "11.10.2020",
+      "normalized": 7.1247
+    },
+    "score": 6.0716
+  },
+  "polish_title": "Autyzm i miłość",
+  "silent": false,
+  "description_pl": "Czwórka głównych bohaterów ma zdiagnozowany autyzm. Lenny mieszka ze wspierającą go samotną matką, ale marzy o dziewczynie. Wie dokładnie jaka powinna być i jest w tym dość staroświecki. Lindsey i David są razem już od blisko dziesięciu lat. Właśnie rozważają kolejny krok w ich relacji. Najstarszy z bohaterów, Stephen, którego żona choruje na raka, staje wobec perspektywy końca swojego małżeństwa. Jak osoby dorosłe z autyzmem radzą sobie z wyzwaniami, jakie niesie relacja miłosna? Jak doświadczają radości z nią związanej i złamanego serca?",
+  "producers": [
+    {
+      "id": "nm2582158",
+      "name": "Matt Fuller"
+    },
+    {
+      "id": "nm3023285",
+      "name": "Carolina Groppa"
+    },
+    {
+      "id": "nm6483775",
+      "name": "Ira Heilveil"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm1989340",
+      "name": "Mac Quayle"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm1901908",
+      "name": "Scott Uhlfelder"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

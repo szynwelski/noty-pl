@@ -1,0 +1,39 @@
+{
+  "id": "nm0570615",
+  "name": "John McIntire",
+  "filmography": [
+    {
+      "imdb_id": "tt0042208",
+      "title": "The Asphalt Jungle",
+      "year": 1950,
+      "roles": [
+        "cast"
+      ],
+      "character": "Police Commissioner Hardy"
+    },
+    {
+      "imdb_id": "tt0054215",
+      "title": "Psycho",
+      "year": 1960,
+      "roles": [
+        "cast"
+      ],
+      "character": "Sheriff Al Chambers"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDU3NTJkMTYtYTA3Ny00ZThkLWI0YzctYzZiNTlmNmIyYjdiXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "27.06.1907",
+  "death_date": "30.01.1991",
+  "birth_location": "Spokane, Washington, USA",
+  "height": "1.83 m",
+  "imdb_scraped": true,
+  "filmweb_id": 9509,
+  "name_pl": "John McIntire",
+  "birth_location_pl": "Spokane, Waszyngton",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 9509
+}

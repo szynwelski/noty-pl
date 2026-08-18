@@ -1,0 +1,47 @@
+{
+  "id": "nm0000312",
+  "name": "Amy Brenneman",
+  "filmography": [
+    {
+      "imdb_id": "tt0113277",
+      "title": "Heat",
+      "year": 1995,
+      "roles": [
+        "cast"
+      ],
+      "character": "Eady"
+    },
+    {
+      "imdb_id": "tt0116040",
+      "title": "Daylight",
+      "year": 1996,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Madelyne Thompson"
+    },
+    {
+      "imdb_id": "tt0411061",
+      "title": "88 Minutes",
+      "year": 2007,
+      "roles": [
+        "cast"
+      ],
+      "character": "Shelly Barnes"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODQ3MjkzNTkzNF5BMl5BanBnXkFtZTcwNTQ4MjgxNQ@@._V1_.jpg",
+  "birth_date": "22.06.1964",
+  "birth_location": "New London, Connecticut, USA",
+  "height": "1.68 m",
+  "filmweb_id": 5463,
+  "name_pl": "Amy Brenneman",
+  "birth_location_pl": "New London, Connecticut",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

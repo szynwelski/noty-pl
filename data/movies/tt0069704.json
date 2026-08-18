@@ -1,0 +1,213 @@
+{
+  "imdb_id": "tt0069704",
+  "title": "American Graffiti",
+  "description": "A group of teenagers in California's central valley spend one final night after their 1962 high school graduation cruising the strip with their buddies before they pursue their varying goals.",
+  "runtime_minutes": 110,
+  "release_date": "11.08.1973",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0000377",
+      "name": "Richard Dreyfuss"
+    },
+    {
+      "id": "nm0000165",
+      "name": "Ron Howard"
+    },
+    {
+      "id": "nm0494432",
+      "name": "Paul Le Mat"
+    },
+    {
+      "id": "nm0001747",
+      "name": "Charles Martin Smith"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000184",
+      "name": "George Lucas"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000184",
+      "name": "George Lucas"
+    },
+    {
+      "id": "nm0441718",
+      "name": "Gloria Katz"
+    },
+    {
+      "id": "nm0404754",
+      "name": "Willard Huyck"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000377",
+      "name": "Richard Dreyfuss",
+      "character": "Curt"
+    },
+    {
+      "id": "nm0000165",
+      "name": "Ron Howard",
+      "character": "Steve"
+    },
+    {
+      "id": "nm0494432",
+      "name": "Paul Le Mat",
+      "character": "John"
+    },
+    {
+      "id": "nm0001747",
+      "name": "Charles Martin Smith",
+      "character": "Terry"
+    },
+    {
+      "id": "nm0930286",
+      "name": "Cindy Williams",
+      "character": "Laurie"
+    },
+    {
+      "id": "nm0163748",
+      "name": "Candy Clark",
+      "character": "Debbie"
+    },
+    {
+      "id": "nm0680603",
+      "name": "Mackenzie Phillips",
+      "character": "Carol"
+    },
+    {
+      "id": "nm0413125",
+      "name": "Wolfman Jack",
+      "character": "Disc Jockey"
+    },
+    {
+      "id": "nm0005019",
+      "name": "Bo Hopkins",
+      "character": "Joe"
+    },
+    {
+      "id": "nm0655693",
+      "name": "Manuel Padilla Jr.",
+      "character": "Carlos"
+    },
+    {
+      "id": "nm0313157",
+      "name": "Beau Gentry",
+      "character": "Ants"
+    },
+    {
+      "id": "nm0000148",
+      "name": "Harrison Ford",
+      "character": "Bob Falfa"
+    },
+    {
+      "id": "nm0091971",
+      "name": "Jim Bohan",
+      "character": "Holstein"
+    },
+    {
+      "id": "nm0068724",
+      "name": "Jana Bellan",
+      "character": "Budda"
+    },
+    {
+      "id": "nm0148102",
+      "name": "Deby Celiz",
+      "character": "Wendy"
+    },
+    {
+      "id": "nm0829620",
+      "name": "Lynne Marie Stewart",
+      "character": "Bobbie"
+    },
+    {
+      "id": "nm0569598",
+      "name": "Terence McGovern",
+      "character": "Mr. Wolfe"
+    },
+    {
+      "id": "nm0000599",
+      "name": "Kathleen Quinlan",
+      "character": "Peg"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 3822,
+  "year": 1973,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzc5MjUyMWYtMDkyMi00YTc2LTg3ZDMtMjI3MmU3Nzg2YTExXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.4,
+      "votes": 106301,
+      "distribution": {
+        "1": 829,
+        "2": 516,
+        "3": 928,
+        "4": 1917,
+        "5": 4902,
+        "6": 12524,
+        "7": 28284,
+        "8": 29107,
+        "9": 13854,
+        "10": 13440
+      },
+      "normalized": 6.2492
+    },
+    "filmweb": {
+      "rating": 6.98,
+      "votes": 5347,
+      "distribution": {
+        "1": 12,
+        "2": 7,
+        "3": 80,
+        "4": 124,
+        "5": 393,
+        "6": 1027,
+        "7": 1940,
+        "8": 1220,
+        "9": 337,
+        "10": 207
+      },
+      "normalized": 5.5582
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "19.10.2005",
+      "normalized": 5.4199
+    },
+    "score": 5.7424
+  },
+  "polish_title": "Amerykańskie graffiti",
+  "silent": false,
+  "description_pl": "Rok 1962. Sobotni wieczór w małym kalifornijskim miasteczku. Dla młodych ludzi najważniejsze są: muzyka, samochody i dziewczyny. Jednak Curt Henderson i Steve Bolander uświadamiają sobie, że stoją u progu dorosłości. Ukończyli szkołę i zamierzają rozpocząć studia we wschodniej części kraju. Steve planuje przyszłość ze swoją dziewczyną, a Curt marzy o tajemniczej blondynce. Nic jednak nie powstrzyma jutra, któremu muszą stawić czoło.",
+  "producers": [
+    {
+      "id": "nm0000338",
+      "name": "Francis Ford Coppola"
+    },
+    {
+      "id": "nm0476030",
+      "name": "Gary Kurtz"
+    },
+    {
+      "id": "nm0790901",
+      "name": "Sid Sheinberg"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

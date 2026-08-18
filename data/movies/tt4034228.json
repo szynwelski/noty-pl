@@ -1,0 +1,256 @@
+{
+  "imdb_id": "tt4034228",
+  "title": "Manchester by the Sea",
+  "description": "A depressed uncle is asked to take care of his teenage nephew after the boy's father dies.",
+  "runtime_minutes": 137,
+  "release_date": "16.12.2016",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0000729",
+      "name": "Casey Affleck"
+    },
+    {
+      "id": "nm0931329",
+      "name": "Michelle Williams"
+    },
+    {
+      "id": "nm0151419",
+      "name": "Kyle Chandler"
+    },
+    {
+      "id": "nm2348627",
+      "name": "Lucas Hedges"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0518836",
+      "name": "Kenneth Lonergan"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0518836",
+      "name": "Kenneth Lonergan"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000729",
+      "name": "Casey Affleck",
+      "character": "Lee Chandler"
+    },
+    {
+      "id": "nm0931329",
+      "name": "Michelle Williams",
+      "character": "Randi Chandler"
+    },
+    {
+      "id": "nm0151419",
+      "name": "Kyle Chandler",
+      "character": "Joe Chandler"
+    },
+    {
+      "id": "nm7164242",
+      "name": "Ivy O'Brien",
+      "character": "Young Patrick"
+    },
+    {
+      "id": "nm0232426",
+      "name": "Richard Donelly",
+      "character": "Mr. Martinez (1st Tenant)"
+    },
+    {
+      "id": "nm8587165",
+      "name": "Virginia Loring Cooke",
+      "character": "Mrs. Groom (2nd tenant)"
+    },
+    {
+      "id": "nm1736370",
+      "name": "Quincy Tyler Bernstine",
+      "character": "Marianne (3rd Tenant)"
+    },
+    {
+      "id": "nm0944886",
+      "name": "Missy Yager",
+      "character": "Mrs. Olsen (4th Tenant)"
+    },
+    {
+      "id": "nm0376610",
+      "name": "Stephen McKinley Henderson",
+      "character": "Mr. Emery"
+    },
+    {
+      "id": "nm4021830",
+      "name": "Ben Hanson",
+      "character": "Lenny - the bartender"
+    },
+    {
+      "id": "nm7243672",
+      "name": "Mary Mallen",
+      "character": "Sharon"
+    },
+    {
+      "id": "nm0923902",
+      "name": "Lewis D. Wheeler",
+      "character": "1st Businessman at Bar"
+    },
+    {
+      "id": "nm2024585",
+      "name": "Anthony Estrella",
+      "character": "2nd Businessman at Bar"
+    },
+    {
+      "id": "nm1225590",
+      "name": "C.J. Wilson",
+      "character": "George"
+    },
+    {
+      "id": "nm1581522",
+      "name": "Susan Pourfar",
+      "character": "Nurse Irene"
+    },
+    {
+      "id": "nm0783269",
+      "name": "Robert Sella",
+      "character": "Dr. Muller"
+    },
+    {
+      "id": "nm5080543",
+      "name": "Ruibo Qian",
+      "character": "Dr. Bethany"
+    },
+    {
+      "id": "nm0001543",
+      "name": "Gretchen Mol",
+      "character": "Elise Chandler"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 736182,
+  "year": 2016,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTYxMjk0NDg4Ml5BMl5BanBnXkFtZTgwODcyNjA5OTE@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.8,
+      "votes": 361424,
+      "distribution": {
+        "1": 3443,
+        "2": 1887,
+        "3": 2561,
+        "4": 4479,
+        "5": 10586,
+        "6": 28646,
+        "7": 75413,
+        "8": 116662,
+        "9": 74405,
+        "10": 43342
+      },
+      "normalized": 7.0405
+    },
+    "filmweb": {
+      "rating": 7.62,
+      "votes": 135565,
+      "distribution": {
+        "1": 186,
+        "2": 205,
+        "3": 943,
+        "4": 1543,
+        "5": 5293,
+        "6": 12411,
+        "7": 33854,
+        "8": 50283,
+        "9": 24708,
+        "10": 6139
+      },
+      "normalized": 7.103
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "08.02.2017",
+      "normalized": 7.1247
+    },
+    "michal": {
+      "rating": 8,
+      "date_rated": "02.03.2017",
+      "normalized": 8.1116
+    },
+    "score": 7.345
+  },
+  "polish_title": "Manchester by the Sea",
+  "silent": false,
+  "description_pl": "Po śmierci Joe'go (<a href=\"/osoba/?id=nm0151419\">Kyle Chandler</a>), starszego brata, Lee Chandler (<a href=\"/osoba/?id=nm0000729\">Casey Affleck</a>), zaszokowany wiadomością, że brat powierzył mu opiekę nad swoim synem Patrickiem (<a href=\"/osoba/?id=nm2348627\">Lucas Hedges</a>), wraca w rodzinne okolice. Lee rzuca wszystko i przenosi się do Manchester-by-the-Sea, zmuszony zmierzyć się z wydarzeniami przeszłości, które sprawiły, że rozstał się z żoną – Randi (<a href=\"/osoba/?id=nm0931329\">Michelle Williams</a>) i opuścił miasteczko, w którym wyrastał.",
+  "producers": [
+    {
+      "id": "nm0049888",
+      "name": "Declan Baldwin"
+    },
+    {
+      "id": "nm4568172",
+      "name": "Lauren Beck"
+    },
+    {
+      "id": "nm0000354",
+      "name": "Matt Damon"
+    },
+    {
+      "id": "nm1250030",
+      "name": "Josh Godfrey"
+    },
+    {
+      "id": "nm1024677",
+      "name": "John Krasinski"
+    },
+    {
+      "id": "nm0585958",
+      "name": "Bill Migliore"
+    },
+    {
+      "id": "nm0601031",
+      "name": "Chris Moore"
+    },
+    {
+      "id": "nm1908278",
+      "name": "Katie Pastore"
+    },
+    {
+      "id": "nm6844518",
+      "name": "Kimberly Steward"
+    },
+    {
+      "id": "nm3781821",
+      "name": "Ryan Stowell"
+    },
+    {
+      "id": "nm1016966",
+      "name": "Kevin J. Walsh"
+    },
+    {
+      "id": "nm4251827",
+      "name": "Jorden Zahner"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0053427",
+      "name": "Lesley Barber"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm1464511",
+      "name": "Jody Lee Lipes"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

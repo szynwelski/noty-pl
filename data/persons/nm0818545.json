@@ -1,0 +1,45 @@
+{
+  "id": "nm0818545",
+  "name": "Sam Spiegel",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZGJlOThiMWEtYjQwZC00ZjEwLWI5MjctOTliZjZiNWU5ZTg3XkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0038991",
+      "title": "The Stranger",
+      "year": 1946,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0043265",
+      "title": "The African Queen",
+      "year": 1951,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0056172",
+      "title": "Lawrence of Arabia",
+      "year": 1962,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "birth_date": "11.11.1901",
+  "death_date": "31.12.1985",
+  "birth_location": "Jaroslau, Galicia, Austria-Hungary [now Jaroslaw, Podkarpackie, Poland]",
+  "height": "1.75 m",
+  "filmweb_id": 70918,
+  "name_pl": "Sam Spiegel",
+  "birth_location_pl": "Jarosław",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Austria",
+    "Stany Zjednoczone"
+  ]
+}

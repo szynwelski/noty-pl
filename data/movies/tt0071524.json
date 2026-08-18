@@ -1,0 +1,216 @@
+{
+  "imdb_id": "tt0071524",
+  "title": "The Front Page",
+  "description": "A ruthless editor tries to get his top reporter to cover one more crime story before retirement.",
+  "runtime_minutes": 105,
+  "release_date": "07.02.1975",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0000493",
+      "name": "Jack Lemmon"
+    },
+    {
+      "id": "nm0000527",
+      "name": "Walter Matthau"
+    },
+    {
+      "id": "nm0000215",
+      "name": "Susan Sarandon"
+    },
+    {
+      "id": "nm0306696",
+      "name": "Vincent Gardenia"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000697",
+      "name": "Billy Wilder"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0372942",
+      "name": "Ben Hecht"
+    },
+    {
+      "id": "nm0531269",
+      "name": "Charles MacArthur"
+    },
+    {
+      "id": "nm0000697",
+      "name": "Billy Wilder"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000493",
+      "name": "Jack Lemmon",
+      "character": "Hildy Johnson"
+    },
+    {
+      "id": "nm0000527",
+      "name": "Walter Matthau",
+      "character": "Walter Burns"
+    },
+    {
+      "id": "nm0000215",
+      "name": "Susan Sarandon",
+      "character": "Peggy Grant"
+    },
+    {
+      "id": "nm0306696",
+      "name": "Vincent Gardenia",
+      "character": "Sheriff"
+    },
+    {
+      "id": "nm0915536",
+      "name": "David Wayne",
+      "character": "Bensinger"
+    },
+    {
+      "id": "nm0307255",
+      "name": "Allen Garfield",
+      "character": "Kruger"
+    },
+    {
+      "id": "nm0671721",
+      "name": "Austin Pendleton",
+      "character": "Earl Williams"
+    },
+    {
+      "id": "nm0001164",
+      "name": "Charles Durning",
+      "character": "Murphy"
+    },
+    {
+      "id": "nm0248983",
+      "name": "Herb Edelman",
+      "character": "Schwartz"
+    },
+    {
+      "id": "nm0300010",
+      "name": "Martin Gabel",
+      "character": "Dr. Eggelhofer"
+    },
+    {
+      "id": "nm0332390",
+      "name": "Harold Gould",
+      "character": "The Mayor"
+    },
+    {
+      "id": "nm0652109",
+      "name": "Cliff Osmond",
+      "character": "Jacobi"
+    },
+    {
+      "id": "nm0642143",
+      "name": "Dick O'Neill",
+      "character": "McHugh"
+    },
+    {
+      "id": "nm0466300",
+      "name": "Jon Korkes",
+      "character": "Rudy Keppler"
+    },
+    {
+      "id": "nm0296135",
+      "name": "Lou Frizzell",
+      "character": "Endicott"
+    },
+    {
+      "id": "nm0070801",
+      "name": "Paul Benedict",
+      "character": "Plunkett"
+    },
+    {
+      "id": "nm0580109",
+      "name": "Doro Merande",
+      "character": "Jennie"
+    },
+    {
+      "id": "nm0685736",
+      "name": "Noam Pitlik",
+      "character": "Wilson"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 10374,
+  "year": 1974,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTAyNjQzZGUtNjRiZi00ZDA2LTgwMWQtZGU1YTc5MmY4MDNhXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.3,
+      "votes": 16732,
+      "distribution": {
+        "1": 138,
+        "2": 75,
+        "3": 135,
+        "4": 280,
+        "5": 758,
+        "6": 2157,
+        "7": 5610,
+        "8": 4589,
+        "9": 1762,
+        "10": 1228
+      },
+      "normalized": 6.0219
+    },
+    "filmweb": {
+      "rating": 6.92,
+      "votes": 892,
+      "distribution": {
+        "1": 3,
+        "2": 4,
+        "3": 19,
+        "4": 23,
+        "5": 66,
+        "6": 169,
+        "7": 296,
+        "8": 241,
+        "9": 41,
+        "10": 30
+      },
+      "normalized": 5.4019
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "27.12.2005",
+      "normalized": 5.4199
+    },
+    "score": 5.6146
+  },
+  "polish_title": "Strona tytułowa",
+  "silent": false,
+  "description_pl": "Młody zdolny reporter Hildy Johnson chce odejść z renomowanego dziennika \"Chicago Examiner\". Skłania go do tego żądanie ukochanej dziewczyny - Peggy, z którą chce wyjechać do Filadelfii. Do pozostania w redakcji nakłania go szef, Walter Burns. By go zatrzymać, wciąga go w kampanię prasową w obronie niewinnie skazanego mężczyzny.",
+  "producers": [
+    {
+      "id": "nm0485786",
+      "name": "Jennings Lang"
+    },
+    {
+      "id": "nm0597574",
+      "name": "Paul Monash"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005675",
+      "name": "Jordan Cronenweth"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

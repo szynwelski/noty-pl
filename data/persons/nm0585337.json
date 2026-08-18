@@ -1,0 +1,36 @@
+{
+  "id": "nm0585337",
+  "name": "Adam Mickiewicz",
+  "filmography": [
+    {
+      "imdb_id": "tt0097721",
+      "title": "Lawa. Opowiesc o 'Dziadach' Adama Mickiewicza",
+      "year": 1989,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0170351",
+      "title": "Pan Tadeusz",
+      "year": 1999,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNmExMzNmMWYtNzRjNy00MDVjLThkZjUtN2IzMTg3NTAyMmZhXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "24.12.1798",
+  "death_date": "26.11.1855",
+  "birth_location": "Zaosie, Poland, Russian Empire [now Zavosse, Belarus]",
+  "imdb_scraped": true,
+  "filmweb_id": 987235,
+  "name_pl": "Adam Mickiewicz",
+  "birth_location_pl": "Zaosie",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Polska",
+    "Imperium Rosyjskie"
+  ]
+}

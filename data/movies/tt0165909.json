@@ -1,0 +1,96 @@
+{
+  "imdb_id": "tt0165909",
+  "title": "Papierove hlavy",
+  "description": "Paper Heads is a film about the history of Czechoslovakia from 1945 to 1989. Compiling a huge body of documentary footage together with the testimonies of present day survivors, it reveals to us fresh facts about the country's internal situation during that period.",
+  "runtime_minutes": 96,
+  "release_date": "30.04.1996",
+  "genres": [
+    "Documentary"
+  ],
+  "directors": [
+    {
+      "id": "nm0361575",
+      "name": "Dusan Hanák"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0361575",
+      "name": "Dusan Hanák"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "Slovakia",
+    "Switzerland",
+    "France",
+    "Germany",
+    "Czech Republic"
+  ],
+  "languages": [
+    "Slovak"
+  ],
+  "color": "Color",
+  "year": 1996,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNjcyYjI0NDItNDM3Ni00MGQxLTgxOGEtN2MzYWI3ZTcyZjU5XkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 207917,
+  "ratings": {
+    "imdb": {
+      "rating": 7.6,
+      "votes": 103,
+      "distribution": {
+        "1": 9,
+        "2": 1,
+        "3": 2,
+        "4": 2,
+        "5": 4,
+        "6": 3,
+        "7": 20,
+        "8": 27,
+        "9": 12,
+        "10": 23
+      },
+      "normalized": 5.4683
+    },
+    "filmweb": {
+      "rating": 7.06,
+      "votes": 35,
+      "distribution": {
+        "1": 1,
+        "2": 1,
+        "3": 0,
+        "4": 0,
+        "5": 1,
+        "6": 4,
+        "7": 15,
+        "8": 8,
+        "9": 4,
+        "10": 1
+      },
+      "normalized": 5.273
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "19.10.2005",
+      "normalized": 5.4199
+    },
+    "score": 5.3871
+  },
+  "polish_title": "Papierowe głowy",
+  "silent": false,
+  "description_pl": "Film opowiada o epoce komunizmu w Czechosłowacji w latach 1945-1989. Dušan Hanák próbuje w nim zbadać tę epokę za pomocą archiwalnych nagrań. Z jednej strony ukazana jest pewna iluzja równości, z drugiej rzeczywistość pełna przemocy, której sprzeciwiała się większość. Obecnie jest jednak wielu ludzi, którzy twierdzą, że przed upadkiem komunizmu było lepiej, niż teraz... Ten film pokazuje, jak było naprawdę. \"Papierowe głowy\" są refleksją na temat wolności i nie-wolności ― podsumował Dušan Hanák.",
+  "composers": [
+    {
+      "id": "nm0265786",
+      "name": "Pavel Fajt"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0361584",
+      "name": "Alojz Hanúsek"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

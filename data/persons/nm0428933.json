@@ -1,0 +1,45 @@
+{
+  "id": "nm0428933",
+  "name": "Nicholas Jones",
+  "filmography": [
+    {
+      "imdb_id": "tt0424908",
+      "title": "Copying Beethoven",
+      "year": 2006,
+      "roles": [
+        "cast"
+      ],
+      "character": "Archduke Rudolph"
+    },
+    {
+      "imdb_id": "tt4555426",
+      "title": "Darkest Hour",
+      "year": 2017,
+      "roles": [
+        "cast"
+      ],
+      "character": "Sir John Simon"
+    },
+    {
+      "imdb_id": "tt4758646",
+      "title": "War Machine",
+      "year": 2017,
+      "roles": [
+        "cast"
+      ],
+      "character": "Dick Waddle"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjIxMzI5MzQwMl5BMl5BanBnXkFtZTcwMDMzNDExOA@@._V1_.jpg",
+  "birth_date": "03.04.1946",
+  "birth_location": "London, England, UK",
+  "filmweb_id": 65026,
+  "name_pl": "Nicholas Jones",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ]
+}

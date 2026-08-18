@@ -1,0 +1,47 @@
+{
+  "id": "nm0315933",
+  "name": "Alice Ghostley",
+  "filmography": [
+    {
+      "imdb_id": "tt0056592",
+      "title": "To Kill a Mockingbird",
+      "year": 1962,
+      "roles": [
+        "cast"
+      ],
+      "character": "Aunt Stephanie Crawford"
+    },
+    {
+      "imdb_id": "tt0061722",
+      "title": "The Graduate",
+      "year": 1967,
+      "roles": [
+        "cast"
+      ],
+      "character": "Mrs. Singleman"
+    },
+    {
+      "imdb_id": "tt0077631",
+      "title": "Grease",
+      "year": 1978,
+      "roles": [
+        "cast"
+      ],
+      "character": "Mrs. Murdock"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTYzMDQxMjA4NV5BMl5BanBnXkFtZTcwNjMwNDkwOA@@._V1_.jpg",
+  "birth_date": "14.08.1923",
+  "death_date": "21.09.2007",
+  "birth_location": "Eve, Missouri, USA",
+  "filmweb_id": 8253,
+  "name_pl": "Alice Ghostley",
+  "birth_location_pl": "Eve, Missouri",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 8253
+}

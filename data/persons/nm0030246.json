@@ -1,0 +1,39 @@
+{
+  "id": "nm0030246",
+  "name": "Annabella",
+  "filmography": [
+    {
+      "imdb_id": "tt0018192",
+      "title": "Napoleon",
+      "year": 1927,
+      "roles": [
+        "cast"
+      ],
+      "character": "Violine Fleuri et Désirée Clary"
+    },
+    {
+      "imdb_id": "tt0022150",
+      "title": "Le Million",
+      "year": 1931,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Béatrice"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTg0NzQwODIzMV5BMl5BanBnXkFtZTYwMTYwNTQ2._V1_.jpg",
+  "birth_date": "14.07.1907",
+  "death_date": "18.09.1996",
+  "birth_location": "Paris, France",
+  "imdb_scraped": true,
+  "filmweb_id": 109610,
+  "name_pl": "Annabella",
+  "birth_location_pl": "Saint-Maur-des-Fossés",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja"
+  ],
+  "wikidata_fw_id": 109610
+}

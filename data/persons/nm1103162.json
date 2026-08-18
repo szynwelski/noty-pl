@@ -1,0 +1,34 @@
+{
+  "id": "nm1103162",
+  "name": "Tim Story",
+  "filmography": [
+    {
+      "imdb_id": "tt0120667",
+      "title": "Fantastic Four",
+      "year": 2005,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt1621045",
+      "title": "Think Like a Man",
+      "year": 2012,
+      "roles": [
+        "director"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYzM3ZjgzZmUtMTBmNi00MzU3LTljMDUtZDYxYjc5ZjM1ZmI2XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "13.03.1970",
+  "birth_location": "Los Angeles, California, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 70164,
+  "name_pl": "Tim Story",
+  "birth_location_pl": "Los Angeles, Kalifornia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

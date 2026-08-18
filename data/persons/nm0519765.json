@@ -1,0 +1,46 @@
+{
+  "id": "nm0519765",
+  "name": "Theodor Loos",
+  "filmography": [
+    {
+      "imdb_id": "tt0017136",
+      "title": "Metropolis",
+      "year": 1927,
+      "roles": [
+        "cast"
+      ],
+      "character": "Josaphat"
+    },
+    {
+      "imdb_id": "tt0022100",
+      "title": "M",
+      "year": 1931,
+      "roles": [
+        "cast"
+      ],
+      "character": "Inspector Groeber"
+    },
+    {
+      "imdb_id": "tt0032653",
+      "title": "Jud Süß",
+      "year": 1940,
+      "roles": [
+        "cast"
+      ],
+      "character": "Franz Joseph Freiherr von Remchingen"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZDljYmMzMzgtODkwYi00YzFkLWEyNGMtMDZjOTMwYzE3YjQ5XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "18.05.1883",
+  "death_date": "27.06.1954",
+  "birth_location": "Zwingenberg, Hesse, Germany",
+  "filmweb_id": 47759,
+  "name_pl": "Theodor Loos",
+  "birth_location_pl": "Zwingenberg",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Niemcy"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "nm1602270",
+  "name": "Jake Weiner",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNjkwMGYzMTAtNWI0Ny00ZDQ2LTllZDctMWUxOTNjNDNlMmM4XkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0399146",
+      "title": "A History of Violence",
+      "year": 2005,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0433400",
+      "title": "Just Friends",
+      "year": 2005,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt1216492",
+      "title": "Leap Year",
+      "year": 2010,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "imdb_scraped": true,
+  "filmweb_id": 1035136,
+  "name_pl": "Jake Weiner",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "imdb_id": "tt0800369",
+  "title": "Thor",
+  "description": "The powerful but arrogant god Thor is cast out of Asgard to live amongst humans in Midgard (Earth), where he soon becomes one of their finest defenders.",
+  "runtime_minutes": 115,
+  "release_date": "06.05.2011",
+  "genres": [
+    "Action",
+    "Fantasy"
+  ],
+  "stars": [
+    {
+      "id": "nm1165110",
+      "name": "Chris Hemsworth"
+    },
+    {
+      "id": "nm0000164",
+      "name": "Anthony Hopkins"
+    },
+    {
+      "id": "nm0000204",
+      "name": "Natalie Portman"
+    },
+    {
+      "id": "nm1089991",
+      "name": "Tom Hiddleston"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000110",
+      "name": "Kenneth Branagh"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1005420",
+      "name": "Ashley E. Miller"
+    },
+    {
+      "id": "nm0826714",
+      "name": "Zack Stentz"
+    },
+    {
+      "id": "nm0668309",
+      "name": "Don Payne"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1165110",
+      "name": "Chris Hemsworth",
+      "character": "Thor"
+    },
+    {
+      "id": "nm0000164",
+      "name": "Anthony Hopkins",
+      "character": "Odin"
+    },
+    {
+      "id": "nm0000204",
+      "name": "Natalie Portman",
+      "character": "Jane Foster"
+    },
+    {
+      "id": "nm1089991",
+      "name": "Tom Hiddleston",
+      "character": "Loki"
+    },
+    {
+      "id": "nm0001745",
+      "name": "Stellan Skarsgård",
+      "character": "Erik Selvig"
+    },
+    {
+      "id": "nm0993507",
+      "name": "Kat Dennings",
+      "character": "Darcy Lewis"
+    },
+    {
+      "id": "nm0163988",
+      "name": "Clark Gregg",
+      "character": "Agent Coulson"
+    },
+    {
+      "id": "nm0272173",
+      "name": "Colm Feore",
+      "character": "King Laufey"
+    },
+    {
+      "id": "nm0252961",
+      "name": "Idris Elba",
+      "character": "Heimdall"
+    },
+    {
+      "id": "nm0829032",
+      "name": "Ray Stevenson",
+      "character": "Volstagg"
+    },
+    {
+      "id": "nm0038355",
+      "name": "Tadanobu Asano",
+      "character": "Hogun"
+    },
+    {
+      "id": "nm2796047",
+      "name": "Josh Dallas",
+      "character": "Fandral"
+    },
+    {
+      "id": "nm1526352",
+      "name": "Jaimie Alexander",
+      "character": "Sif"
+    },
+    {
+      "id": "nm0000623",
+      "name": "Rene Russo",
+      "character": "Frigga"
+    },
+    {
+      "id": "nm0056770",
+      "name": "Adriana Barraza",
+      "character": "Isabela Alvarez"
+    },
+    {
+      "id": "nm0380073",
+      "name": "Maximiliano Hernández",
+      "character": "Agent Sitwell"
+    },
+    {
+      "id": "nm0149150",
+      "name": "Richard Cetrone",
+      "character": "Frost Giant Captain"
+    },
+    {
+      "id": "nm2113117",
+      "name": "Darren Kendrick",
+      "character": "Frost Giant Sentry"
+    }
+  ],
+  "countries": [
+    "United States",
+    "France"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 325418,
+  "year": 2011,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNjRhNGZjZjEtYTQzYS00OWUxLThjNGEtMTIwMTE2ZDFlZTZkXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7,
+      "votes": 978142,
+      "distribution": {
+        "1": 8895,
+        "2": 5880,
+        "3": 11388,
+        "4": 24621,
+        "5": 64686,
+        "6": 173898,
+        "7": 332566,
+        "8": 207174,
+        "9": 71605,
+        "10": 77429
+      },
+      "normalized": 5.6255
+    },
+    "filmweb": {
+      "rating": 6.84,
+      "votes": 244348,
+      "distribution": {
+        "1": 692,
+        "2": 1065,
+        "3": 4046,
+        "4": 7935,
+        "5": 21810,
+        "6": 52403,
+        "7": 83501,
+        "8": 48630,
+        "9": 14880,
+        "10": 9386
+      },
+      "normalized": 5.3371
+    },
+    "jarek": {
+      "rating": 2,
+      "date_rated": "02.09.2014",
+      "normalized": 3.5003
+    },
+    "score": 4.821
+  },
+  "polish_title": "Thor",
+  "silent": false,
+  "description_pl": "Film zrealizowany na podstawie kultowego komiksu o Thorze, władcy pioruna, synu Odyna, który został wydany w 1962 roku. Thor, który walczy za pomocą Mjollnira, młota wykonanego z tajemniczego metalu, wygnany zostaje z Asgardu, siedziby najwyższych bogów, na Ziemię. Tutaj pozbawiony zostaje wszystkich swoich boskich atrybutów i jako dr Donald Blake ma nauczyć się pokory i posłuszeństwa. O swojej przeszłości przypomina sobie dopiero, kiedy przez przypadek znajduje Mjollnira. Tak rozpoczyna się jego walka o bezpieczeństwo ludzkości.",
+  "producers": [
+    {
+      "id": "nm0022285",
+      "name": "Victoria Alonso"
+    },
+    {
+      "id": "nm0195669",
+      "name": "Louis D'Esposito"
+    },
+    {
+      "id": "nm0270559",
+      "name": "Kevin Feige"
+    },
+    {
+      "id": "nm2643957",
+      "name": "Alan Fine"
+    },
+    {
+      "id": "nm0335343",
+      "name": "David J. Grant"
+    },
+    {
+      "id": "nm1219736",
+      "name": "Craig Kyle"
+    },
+    {
+      "id": "nm0498278",
+      "name": "Stan Lee"
+    },
+    {
+      "id": "nm2588950",
+      "name": "David Maisel"
+    },
+    {
+      "id": "nm0924357",
+      "name": "Patricia Whitcher"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0236462",
+      "name": "Patrick Doyle"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0952539",
+      "name": "Haris Zambarloukos"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "nm0113876",
+  "name": "John Brown",
+  "filmography": [
+    {
+      "imdb_id": "tt0038991",
+      "title": "The Stranger",
+      "year": 1946,
+      "roles": [
+        "cast"
+      ],
+      "character": "Passport Photographer"
+    },
+    {
+      "imdb_id": "tt0044079",
+      "title": "Strangers on a Train",
+      "year": 1951,
+      "roles": [
+        "cast"
+      ],
+      "character": "Prof. Collins"
+    },
+    {
+      "imdb_id": "tt0043456",
+      "title": "The Day the Earth Stood Still",
+      "year": 1951,
+      "roles": [
+        "cast"
+      ],
+      "character": "George Barley"
+    },
+    {
+      "imdb_id": "tt0047677",
+      "title": "The Wild One",
+      "year": 1953,
+      "roles": [
+        "cast"
+      ],
+      "character": "Bill Hannegan"
+    }
+  ],
+  "birth_date": "04.04.1904",
+  "death_date": "16.05.1957",
+  "birth_location": "Hull, Yorkshire, England, UK",
+  "filmweb_id": 63501,
+  "name_pl": "John Brown",
+  "birth_location_pl": "Kingston upon Hull, Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania",
+    "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii"
+  ]
+}

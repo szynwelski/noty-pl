@@ -1,0 +1,44 @@
+{
+  "id": "nm1218281",
+  "name": "Jon Watts",
+  "filmography": [
+    {
+      "imdb_id": "tt2250912",
+      "title": "Spider-Man: Homecoming",
+      "year": 2017,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt6320628",
+      "title": "Spider-Man: Far from Home",
+      "year": 2019,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt10872600",
+      "title": "Spider-Man: No Way Home",
+      "year": 2021,
+      "roles": [
+        "director"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzg2NjA5ODAyMV5BMl5BanBnXkFtZTgwODAzMjkxNDE@._V1_.jpg",
+  "birth_date": "28.06.1981",
+  "birth_location": "Fountain, Colorado, USA",
+  "height": "1.88 m",
+  "filmweb_id": 1599364,
+  "name_pl": "Jon Watts",
+  "birth_location_pl": "Fountain, Kolorado",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

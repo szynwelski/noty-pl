@@ -1,0 +1,208 @@
+{
+  "imdb_id": "tt0120184",
+  "title": "Sphere",
+  "description": "A spaceship is discovered under three hundred years' worth of coral growth at the bottom of the ocean.",
+  "runtime_minutes": 134,
+  "release_date": "13.02.1998",
+  "genres": [
+    "Mystery",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000163",
+      "name": "Dustin Hoffman"
+    },
+    {
+      "id": "nm0000232",
+      "name": "Sharon Stone"
+    },
+    {
+      "id": "nm0000168",
+      "name": "Samuel L. Jackson"
+    },
+    {
+      "id": "nm0001075",
+      "name": "Peter Coyote"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001469",
+      "name": "Barry Levinson"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000341",
+      "name": "Michael Crichton"
+    },
+    {
+      "id": "nm0934483",
+      "name": "Kurt Wimmer"
+    },
+    {
+      "id": "nm0369561",
+      "name": "Stephen Hauser"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000163",
+      "name": "Dustin Hoffman",
+      "character": "Norman"
+    },
+    {
+      "id": "nm0000232",
+      "name": "Sharon Stone",
+      "character": "Beth"
+    },
+    {
+      "id": "nm0000168",
+      "name": "Samuel L. Jackson",
+      "character": "Harry"
+    },
+    {
+      "id": "nm0001075",
+      "name": "Peter Coyote",
+      "character": "Barnes"
+    },
+    {
+      "id": "nm0000630",
+      "name": "Liev Schreiber",
+      "character": "Ted"
+    },
+    {
+      "id": "nm0001451",
+      "name": "Queen Latifah",
+      "character": "Fletcher"
+    },
+    {
+      "id": "nm0351188",
+      "name": "Marga Gómez",
+      "character": "Jane Edmunds"
+    },
+    {
+      "id": "nm0507271",
+      "name": "Huey Lewis",
+      "character": "Helicopter Pilot"
+    },
+    {
+      "id": "nm0387900",
+      "name": "Bernard Hocke",
+      "character": "Seaman"
+    },
+    {
+      "id": "nm0681782",
+      "name": "James Pickens Jr.",
+      "character": "O.S.S.A. Instructor"
+    },
+    {
+      "id": "nm0355915",
+      "name": "Michael Keys Hall",
+      "character": "O.S.S.A. Official"
+    },
+    {
+      "id": "nm0845863",
+      "name": "Ralph Tabakin",
+      "character": "O.S.S.A. Official"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 94,
+  "year": 1998,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNmJiZDZiMGQtYzU3My00ZGEyLThiNDctMTA0MDFmYjAzNmUzXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.1,
+      "votes": 118002,
+      "distribution": {
+        "1": 2199,
+        "2": 2196,
+        "3": 4311,
+        "4": 8713,
+        "5": 18469,
+        "6": 32287,
+        "7": 27444,
+        "8": 13244,
+        "9": 4337,
+        "10": 4802
+      },
+      "normalized": 3.7495
+    },
+    "filmweb": {
+      "rating": 6.71,
+      "votes": 37883,
+      "distribution": {
+        "1": 118,
+        "2": 156,
+        "3": 643,
+        "4": 1349,
+        "5": 3748,
+        "6": 8706,
+        "7": 13257,
+        "8": 7243,
+        "9": 1828,
+        "10": 835
+      },
+      "normalized": 4.8527
+    },
+    "jarek": {
+      "rating": 3,
+      "date_rated": "23.02.2011",
+      "normalized": 4.2591
+    },
+    "michal": {
+      "rating": 3,
+      "date_rated": "19.10.2005",
+      "normalized": 3.8753
+    },
+    "score": 4.1841
+  },
+  "polish_title": "Kula",
+  "silent": false,
+  "description_pl": "Na dnie oceanu zostaje odnaleziony wrak nieznanego obiektu, jego budowa sugeruje że jest to pojazd kosmiczny. Jego wiek i wielkość jednoznacznie wskazują, że nie jest to wytwór człowieka. Zostaje powołana specjalna ekipa naukowców, którzy mają zbadać obiekt, zostaje ona tak skompletowana, by w wypadku napotkania obcych form życia potrafiła się z nimi skontaktować. Zgodnie z przewidywaniami we wraku zostaje znalezione coś co można uznać za formę życia, czyli tytułową kulę, która wydaje się mieć na bohaterów znacznie większy wpływ niż można by się było tego spodziewać.",
+  "producers": [
+    {
+      "id": "nm0161457",
+      "name": "Patricia Churchill"
+    },
+    {
+      "id": "nm0000341",
+      "name": "Michael Crichton"
+    },
+    {
+      "id": "nm0321334",
+      "name": "Peter Giuliano"
+    },
+    {
+      "id": "nm0001469",
+      "name": "Barry Levinson"
+    },
+    {
+      "id": "nm0906993",
+      "name": "Andrew Wald"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006106",
+      "name": "Elliot Goldenthal"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0004229",
+      "name": "Adam Greenberg"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

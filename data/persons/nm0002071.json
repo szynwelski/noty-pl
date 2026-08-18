@@ -1,0 +1,76 @@
+{
+  "id": "nm0002071",
+  "name": "Will Ferrell",
+  "filmography": [
+    {
+      "imdb_id": "tt0302886",
+      "title": "Old School",
+      "year": 2003,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Frank"
+    },
+    {
+      "imdb_id": "tt0378947",
+      "title": "Melinda and Melinda",
+      "year": 2004,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Hobie"
+    },
+    {
+      "imdb_id": "tt0420223",
+      "title": "Stranger Than Fiction",
+      "year": 2006,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Harold Crick"
+    },
+    {
+      "imdb_id": "tt1386588",
+      "title": "The Other Guys",
+      "year": 2010,
+      "roles": [
+        "star",
+        "cast",
+        "producer"
+      ],
+      "character": "Allen Gamble"
+    },
+    {
+      "imdb_id": "tt7660850",
+      "title": "Succession",
+      "year": 2018,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt6266538",
+      "title": "Vice",
+      "year": 2018,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTMxMDIzMDEzNF5BMl5BanBnXkFtZTcwODcxMjE2Mg@@._V1_.jpg",
+  "birth_date": "16.07.1967",
+  "birth_location": "Irvine, California, USA",
+  "height": "1.91 m",
+  "filmweb_id": 6439,
+  "name_pl": "Will Ferrell",
+  "birth_location_pl": "Irvine, Kalifornia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

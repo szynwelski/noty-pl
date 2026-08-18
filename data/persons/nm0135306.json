@@ -1,0 +1,46 @@
+{
+  "id": "nm0135306",
+  "name": "John Capodice",
+  "filmography": [
+    {
+      "imdb_id": "tt0094291",
+      "title": "Wall Street",
+      "year": 1987,
+      "roles": [
+        "cast"
+      ],
+      "character": "Dominick"
+    },
+    {
+      "imdb_id": "tt0104438",
+      "title": "Honeymoon in Vegas",
+      "year": 1992,
+      "roles": [
+        "cast"
+      ],
+      "character": "Sally Molars"
+    },
+    {
+      "imdb_id": "tt0109040",
+      "title": "Ace Ventura: Pet Detective",
+      "year": 1994,
+      "roles": [
+        "cast"
+      ],
+      "character": "Aguado"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjY1ODI1NDYwNF5BMl5BanBnXkFtZTgwNjcxMDA1NjM@._V1_.jpg",
+  "birth_date": "25.12.1941",
+  "death_date": "30.12.2024",
+  "birth_location": "Chicago, Illinois, USA",
+  "filmweb_id": 70523,
+  "name_pl": "John Capodice",
+  "birth_location_pl": "Chicago, Illinois",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

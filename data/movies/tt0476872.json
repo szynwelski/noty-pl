@@ -1,0 +1,233 @@
+{
+  "imdb_id": "tt0476872",
+  "title": "Skazany na bluesa",
+  "description": "The life of Ryszard Riedel, former leader of cult Polish rock-blues band Dzem, including the history of his family relationships, music career and addiction to alcohol and drugs.",
+  "runtime_minutes": 101,
+  "release_date": "12.08.2005",
+  "genres": [
+    "Biography",
+    "Drama",
+    "Music"
+  ],
+  "stars": [
+    {
+      "id": "nm1682799",
+      "name": "Tomasz Kot"
+    },
+    {
+      "id": "nm0292302",
+      "name": "Jolanta Fraszynska"
+    },
+    {
+      "id": "nm2014530",
+      "name": "Maciej Balcar"
+    },
+    {
+      "id": "nm1352428",
+      "name": "Adam Baumann"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0452221",
+      "name": "Jan Kidawa-Blonski"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1457818",
+      "name": "Przemyslaw Angerman"
+    },
+    {
+      "id": "nm0344847",
+      "name": "Cezary Grzesiuk"
+    },
+    {
+      "id": "nm0452221",
+      "name": "Jan Kidawa-Blonski"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1682799",
+      "name": "Tomasz Kot",
+      "character": "Rysiek Riedel"
+    },
+    {
+      "id": "nm0292302",
+      "name": "Jolanta Fraszynska",
+      "character": "Malgorzata 'Gola' Riedel"
+    },
+    {
+      "id": "nm2014530",
+      "name": "Maciej Balcar",
+      "character": "Indianer"
+    },
+    {
+      "id": "nm1352428",
+      "name": "Adam Baumann",
+      "character": "Rysiek's Father"
+    },
+    {
+      "id": "nm0245919",
+      "name": "Anna Dymna",
+      "character": "Gola's Mother"
+    },
+    {
+      "id": "nm0058429",
+      "name": "Joanna Bartel",
+      "character": "Rysiek's Mother"
+    },
+    {
+      "id": "nm1669753",
+      "name": "Przemyslaw Bluszcz",
+      "character": "Leszek Martinek"
+    },
+    {
+      "id": "nm2012457",
+      "name": "Pawel Berger",
+      "character": "Self (Pawel)"
+    },
+    {
+      "id": "nm2018380",
+      "name": "Benedykt Otreba",
+      "character": "Self (Beno)"
+    },
+    {
+      "id": "nm2013377",
+      "name": "Adam Otreba",
+      "character": "Self (Adam)"
+    },
+    {
+      "id": "nm2013606",
+      "name": "Jerzy Styczynski",
+      "character": "Self (Jurek)"
+    },
+    {
+      "id": "nm2013662",
+      "name": "Zbigniew Szczerbinski",
+      "character": "Self (Zbig)"
+    },
+    {
+      "id": "nm2064454",
+      "name": "Ryszard Kramarczyk",
+      "character": "Sound Man"
+    },
+    {
+      "id": "nm2066156",
+      "name": "Szymon Rogosz",
+      "character": "Driver"
+    },
+    {
+      "id": "nm2063709",
+      "name": "Mieczyslaw Zieba",
+      "character": "Goldwasser"
+    },
+    {
+      "id": "nm2065377",
+      "name": "Michal Musiol",
+      "character": "Young Beno"
+    },
+    {
+      "id": "nm2067763",
+      "name": "Piotr Piecha",
+      "character": "Young Pawel"
+    },
+    {
+      "id": "nm1294025",
+      "name": "Maciej Nogiec",
+      "character": "Young Adam"
+    }
+  ],
+  "countries": [
+    "Poland"
+  ],
+  "languages": [
+    "Polish"
+  ],
+  "color": "Color",
+  "filmweb_id": 99027,
+  "year": 2005,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BY2JkMTBkZmEtOWJmNy00OWMzLWE2YmMtZDQ5YWU4MWQ3OWRmXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.9,
+      "votes": 2599,
+      "distribution": {
+        "1": 24,
+        "2": 30,
+        "3": 58,
+        "4": 95,
+        "5": 210,
+        "6": 385,
+        "7": 810,
+        "8": 626,
+        "9": 211,
+        "10": 150
+      },
+      "normalized": 5.3605
+    },
+    "filmweb": {
+      "rating": 7.45,
+      "votes": 237843,
+      "distribution": {
+        "1": 1231,
+        "2": 921,
+        "3": 2652,
+        "4": 4669,
+        "5": 11376,
+        "6": 27249,
+        "7": 63241,
+        "8": 76918,
+        "9": 31702,
+        "10": 17884
+      },
+      "normalized": 6.6213
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "03.02.2014",
+      "normalized": 5.4199
+    },
+    "score": 5.8006
+  },
+  "polish_title": "Skazany na bluesa",
+  "silent": false,
+  "description_pl": "\"<a href=\"/film/?id=tt0476872\">Skazany na bluesa</a>\" to opowieść o idolu i nieposkromionym artyście, wokaliście zespołu Dżem - Ryszardzie Riedelu. O muzyku, którego sztuka, charyzmatyczny związek ze słuchaczami i tragiczna walka z nałogiem stały się znakiem czasu dla milionów Polaków.",
+  "producers": [
+    {
+      "id": "nm1739046",
+      "name": "Malgorzata Kidawa-Blonska"
+    },
+    {
+      "id": "nm0452221",
+      "name": "Jan Kidawa-Blonski"
+    },
+    {
+      "id": "nm2019195",
+      "name": "Beata Ryczkowska"
+    },
+    {
+      "id": "nm1455836",
+      "name": "Andrzej Serdiukow"
+    },
+    {
+      "id": "nm3169889",
+      "name": "Jan Tittel"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm2204641",
+      "name": "Dzem"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0473730",
+      "name": "Grzegorz Kuczeriszka"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

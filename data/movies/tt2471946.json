@@ -1,0 +1,117 @@
+{
+  "imdb_id": "tt2471946",
+  "title": "Follow Follow",
+  "description": "",
+  "runtime_minutes": 95,
+  "release_date": "15.10.2012",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm5335337",
+      "name": "Yiwen Zhao"
+    },
+    {
+      "id": "nm5335053",
+      "name": "Akira Nakano"
+    },
+    {
+      "id": "nm5335934",
+      "name": "Jennifer Panda"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm3614554",
+      "name": "Lei Peng"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm3614554",
+      "name": "Lei Peng"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm5335337",
+      "name": "Yiwen Zhao",
+      "character": "Evan"
+    },
+    {
+      "id": "nm5335053",
+      "name": "Akira Nakano",
+      "character": ""
+    },
+    {
+      "id": "nm5335934",
+      "name": "Jennifer Panda",
+      "character": ""
+    }
+  ],
+  "countries": [
+    "China"
+  ],
+  "languages": [
+    "Mandarin"
+  ],
+  "color": "Color",
+  "filmweb_id": 667971,
+  "year": 2012,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZTJkZjAxMDktMzE1MS00ZDRkLWI0M2MtYzliMGFkNDY4NzlhXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.8,
+      "votes": 17,
+      "distribution": {
+        "1": 0,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 5,
+        "7": 4,
+        "8": 2,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 5.2607
+    },
+    "filmweb": {
+      "rating": 4.82,
+      "votes": 38,
+      "distribution": {
+        "1": 3,
+        "2": 2,
+        "3": 7,
+        "4": 5,
+        "5": 6,
+        "6": 6,
+        "7": 3,
+        "8": 6,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 4.6965
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "15.02.2013",
+      "normalized": 4.9718
+    },
+    "score": 4.9763
+  },
+  "polish_title": "W pogoni za idolem",
+  "silent": false,
+  "description_pl": "Film zainspirowany własnymi doświadczeniami i zrealizowany przez utalentowanego twórcę, który powraca do punkrockowych korzeni i tworzy rock'n'rollową kronikę z życia pekińskiej młodzieży. To pierwszy film ukazujący chińską pop kulturę i wypełniający tym samym lukę w chińskiej kinematografii. Obsadę pozyskano niemal w całości ze sceny muzycznej Pekinu. Fabuła oparta na wędrowaniu skupia się bardziej na tworzeniu nastroju niż na klarownych rozwiązaniach akcji. Reżyser jest pionierem chińskiej pop kultury działającym na polu muzyki, filmu i sztuki, ikoną o unikalnej estetyce. Sławę przyniosło mu bycie liderem najsłynniejszej pekińskiej grupy New Pants.",
+  "cinematographers": [
+    {
+      "id": "nm2029587",
+      "name": "Andrea Cavazzuti"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

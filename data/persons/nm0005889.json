@@ -1,0 +1,36 @@
+{
+  "id": "nm0005889",
+  "name": "Harry Stradling Sr.",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMWYwZWExOTktYjY4My00MzIwLWJiMDktN2U3ZTI0MTExMGUyXkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0034248",
+      "title": "Suspicion",
+      "year": 1941,
+      "roles": [
+        "cinematographer"
+      ]
+    },
+    {
+      "imdb_id": "tt0044081",
+      "title": "A Streetcar Named Desire",
+      "year": 1951,
+      "roles": [
+        "cinematographer"
+      ]
+    }
+  ],
+  "birth_date": "01.09.1901",
+  "death_date": "14.02.1970",
+  "birth_location": "Newark, New Jersey, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 45158,
+  "name_pl": "Harry Stradling Sr.",
+  "birth_location_pl": "Newark, New Jersey",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 45158
+}

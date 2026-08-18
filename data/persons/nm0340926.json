@@ -1,0 +1,40 @@
+{
+  "id": "nm0340926",
+  "name": "Helmut Griem",
+  "filmography": [
+    {
+      "imdb_id": "tt0064118",
+      "title": "The Damned",
+      "year": 1969,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Aschenbach"
+    },
+    {
+      "imdb_id": "tt0068327",
+      "title": "Cabaret",
+      "year": 1972,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Maximilian von Heune"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODUxZTAxZTItODUzNi00YWRkLWE5N2QtMWEwMTE0NTllYzU1XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "06.04.1932",
+  "death_date": "19.11.2004",
+  "birth_location": "Hamburg, Germany",
+  "imdb_scraped": true,
+  "filmweb_id": 9453,
+  "name_pl": "Helmut Griem",
+  "birth_location_pl": "Hamburg",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Niemcy"
+  ],
+  "wikidata_fw_id": 9453
+}

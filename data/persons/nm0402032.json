@@ -1,0 +1,37 @@
+{
+  "id": "nm0402032",
+  "name": "Barry Humphries",
+  "filmography": [
+    {
+      "imdb_id": "tt0266543",
+      "title": "Finding Nemo",
+      "year": 2003,
+      "roles": [
+        "cast"
+      ],
+      "character": "Bruce"
+    },
+    {
+      "imdb_id": "tt0978762",
+      "title": "Mary and Max",
+      "year": 2009,
+      "roles": [
+        "star"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTg3Mjk5NDI4OF5BMl5BanBnXkFtZTcwMDg4NjUzOA@@._V1_.jpg",
+  "birth_date": "17.02.1934",
+  "death_date": "22.04.2023",
+  "birth_location": "Kew, Melbourne, Victoria, Australia",
+  "height": "1.78 m",
+  "imdb_scraped": true,
+  "filmweb_id": 8303,
+  "name_pl": "Barry Humphries",
+  "birth_location_pl": "Melbourne",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Australia"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "nm0000600",
+  "name": "Sam Raimi",
+  "filmography": [
+    {
+      "imdb_id": "tt0219699",
+      "title": "The Gift",
+      "year": 2000,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0145487",
+      "title": "Spider-Man",
+      "year": 2002,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0316654",
+      "title": "Spider-Man 2",
+      "year": 2004,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0413300",
+      "title": "Spider-Man 3",
+      "year": 2007,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODQ0NjI0NzkzMV5BMl5BanBnXkFtZTYwMDc0ODk1._V1_.jpg",
+  "birth_date": "23.10.1959",
+  "birth_location": "Royal Oak, Michigan, USA",
+  "height": "1.75 m",
+  "filmweb_id": 11117,
+  "name_pl": "Sam Raimi",
+  "birth_location_pl": "Royal Oak, Michigan",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 11117
+}

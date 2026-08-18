@@ -1,0 +1,42 @@
+{
+  "id": "nm0730932",
+  "name": "Chris Roberts",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYWQ4NzY1OTAtMzdlNC00ODRhLTgzZWItN2IyMWY1NmU1MTNkXkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0330793",
+      "title": "The Punisher",
+      "year": 2004,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0399295",
+      "title": "Lord of War",
+      "year": 2005,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0425210",
+      "title": "Lucky Number Slevin",
+      "year": 2006,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "birth_date": "27.05.1968",
+  "birth_location": "Redwood City, California, USA",
+  "filmweb_id": 11663,
+  "name_pl": "Chris Roberts",
+  "birth_location_pl": "Redwood City, Kalifornia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

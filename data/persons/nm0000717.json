@@ -1,0 +1,39 @@
+{
+  "id": "nm0000717",
+  "name": "Kareem Abdul-Jabbar",
+  "filmography": [
+    {
+      "imdb_id": "tt0080339",
+      "title": "Airplane!",
+      "year": 1980,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Roger Murdock"
+    },
+    {
+      "imdb_id": "tt11564570",
+      "title": "Glass Onion",
+      "year": 2022,
+      "roles": [
+        "cast"
+      ],
+      "character": "Kareem Abdul-Jabbar"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDZlZjE5NjEtN2U4OC00YTAxLTkxZmYtM2FjMzFlNGRmYmFiXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "16.04.1947",
+  "birth_location": "New York City, New York, USA",
+  "height": "2.18 m",
+  "imdb_scraped": true,
+  "filmweb_id": 42412,
+  "name_pl": "Kareem Abdul-Jabbar",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 42412
+}

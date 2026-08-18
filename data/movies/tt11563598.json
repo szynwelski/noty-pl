@@ -1,0 +1,199 @@
+{
+  "imdb_id": "tt11563598",
+  "ratings": {
+    "imdb": {
+      "rating": 7.3,
+      "votes": 121350,
+      "distribution": {
+        "1": 1222,
+        "2": 507,
+        "3": 825,
+        "4": 1886,
+        "5": 5254,
+        "6": 15497,
+        "7": 38348,
+        "8": 35472,
+        "9": 13304,
+        "10": 9035
+      },
+      "normalized": 6.076
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "10.06.2026",
+      "normalized": 5.6855
+    },
+    "filmweb": {
+      "rating": 6.66,
+      "votes": 23180,
+      "distribution": {
+        "1": 33,
+        "2": 46,
+        "3": 303,
+        "4": 668,
+        "5": 2543,
+        "6": 6046,
+        "7": 8057,
+        "8": 4280,
+        "9": 951,
+        "10": 253
+      },
+      "normalized": 4.7213
+    },
+    "score": 5.4943
+  },
+  "title": "A Complete Unknown",
+  "description": "In 1961, an unknown 19-year-old Bob Dylan arrives in New York City with his guitar and forges relationships with musical icons on his meteoric rise, culminating in a groundbreaking performance that reverberates around the world.",
+  "year": 2024,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYTA2NTA5NDYtMzlkOC00MTQxLWI0NDQtMzk2M2YzMGE4MTkxXkEyXkFqcGc@._V1_.jpg",
+  "runtime_minutes": 141,
+  "release_date": "25.12.2024",
+  "genres": [
+    "Biography",
+    "Drama",
+    "Music"
+  ],
+  "stars": [
+    {
+      "id": "nm3154303",
+      "name": "Timothée Chalamet"
+    },
+    {
+      "id": "nm0001570",
+      "name": "Edward Norton"
+    },
+    {
+      "id": "nm1102577",
+      "name": "Elle Fanning"
+    },
+    {
+      "id": "nm4834815",
+      "name": "Monica Barbaro"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0003506",
+      "name": "James Mangold"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0003506",
+      "name": "James Mangold"
+    },
+    {
+      "id": "nm0168379",
+      "name": "Jay Cocks"
+    },
+    {
+      "id": "nm2374778",
+      "name": "Elijah Wald"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm3154303",
+      "name": "Timothée Chalamet",
+      "character": "Bob Dylan"
+    },
+    {
+      "id": "nm0001570",
+      "name": "Edward Norton",
+      "character": "Pete Seeger"
+    },
+    {
+      "id": "nm1102577",
+      "name": "Elle Fanning",
+      "character": "Sylvie Russo"
+    },
+    {
+      "id": "nm3117884",
+      "name": "Joe Tippett",
+      "character": "Dave Van Ronk"
+    },
+    {
+      "id": "nm0368971",
+      "name": "Eriko Hatsune",
+      "character": "Toshi Seeger"
+    },
+    {
+      "id": "nm1843993",
+      "name": "Peter Gray Lewis",
+      "character": "Frank - Lawyer"
+    },
+    {
+      "id": "nm0314253",
+      "name": "Peter Gerety",
+      "character": "Federal Judge"
+    },
+    {
+      "id": "nm12146694",
+      "name": "Lenny Grossman",
+      "character": "Federal Court Clerk"
+    },
+    {
+      "id": "nm0921173",
+      "name": "David Wenzel",
+      "character": "Cab Driver"
+    },
+    {
+      "id": "nm1058940",
+      "name": "Scoot McNairy",
+      "character": "Woody Guthrie"
+    },
+    {
+      "id": "nm11395203",
+      "name": "Riley Hashimoto",
+      "character": "Danny Seeger"
+    },
+    {
+      "id": "nm16844989",
+      "name": "Eloise Peyrot",
+      "character": "Tinya Seeger"
+    },
+    {
+      "id": "nm16378742",
+      "name": "Maya Feldman",
+      "character": "Mika Seeger"
+    },
+    {
+      "id": "nm4834815",
+      "name": "Monica Barbaro",
+      "character": "Joan Baez"
+    },
+    {
+      "id": "nm0283945",
+      "name": "Dan Fogler",
+      "character": "Albert Grossman"
+    },
+    {
+      "id": "nm2201876",
+      "name": "Reza Salazar",
+      "character": "Tito - Gerdes Stage Manager"
+    },
+    {
+      "id": "nm0059654",
+      "name": "David Alan Basche",
+      "character": "John Hammond"
+    },
+    {
+      "id": "nm4562498",
+      "name": "James Austin Johnson",
+      "character": "Gerdes M.C."
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "silent": false,
+  "filmweb_id": 10036103,
+  "polish_title": "Kompletnie nieznany",
+  "description_pl": "Na Festiwalu Folklorystycznym w Newport w 1965 roku młody Bob Dylan zmienia swój występ na scenie muzyki ludowej, przechodząc na elektryczność i przekazując rock jako głos pokolenia – definiując jeden z najbardziej przełomowych momentów w muzyce XX wieku. Akcja rozgrywa się na wpływowej nowojorskiej scenie muzycznej początku lat 60. i śledzi błyskawiczną karierę 19-letniego muzyka z Minnesoty, Boba Dylana, jako piosenkarza folkowego, który zaczął pojawiać się w salach koncertowych i na szczytach list przebojów – jego piosenki i tajemniczość stają się światową sensację, której kulminacją był przełomowy występ w elektrycznym rock and rollu na Newport Folk Festival w 1965 roku.",
+  "fetched_at": "2026-08-16"
+}

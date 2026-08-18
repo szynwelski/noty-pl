@@ -1,0 +1,317 @@
+{
+  "imdb_id": "tt1160419",
+  "title": "Dune: Part One",
+  "description": "Paul Atreides arrives on Arrakis after his father accepts the stewardship of the dangerous planet. However, chaos ensues after a betrayal as forces clash to control melange, a precious resource.",
+  "runtime_minutes": 155,
+  "release_date": "22.10.2021",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm3154303",
+      "name": "Timothée Chalamet"
+    },
+    {
+      "id": "nm0272581",
+      "name": "Rebecca Ferguson"
+    },
+    {
+      "id": "nm3918035",
+      "name": "Zendaya"
+    },
+    {
+      "id": "nm1209966",
+      "name": "Oscar Isaac"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0898288",
+      "name": "Denis Villeneuve"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm3123612",
+      "name": "Jon Spaihts"
+    },
+    {
+      "id": "nm0898288",
+      "name": "Denis Villeneuve"
+    },
+    {
+      "id": "nm0744839",
+      "name": "Eric Roth"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm3154303",
+      "name": "Timothée Chalamet",
+      "character": "Paul Atreides"
+    },
+    {
+      "id": "nm0272581",
+      "name": "Rebecca Ferguson",
+      "character": "Lady Jessica Atreides"
+    },
+    {
+      "id": "nm3918035",
+      "name": "Zendaya",
+      "character": "Chani"
+    },
+    {
+      "id": "nm1209966",
+      "name": "Oscar Isaac",
+      "character": "Duke Leto Atreides"
+    },
+    {
+      "id": "nm0597388",
+      "name": "Jason Momoa",
+      "character": "Duncan Idaho"
+    },
+    {
+      "id": "nm0001745",
+      "name": "Stellan Skarsgård",
+      "character": "Baron Vladimir Harkonnen"
+    },
+    {
+      "id": "nm0376610",
+      "name": "Stephen McKinley Henderson",
+      "character": "Thufir Hawat"
+    },
+    {
+      "id": "nm0000982",
+      "name": "Josh Brolin",
+      "character": "Gurney Halleck"
+    },
+    {
+      "id": "nm0000849",
+      "name": "Javier Bardem",
+      "character": "Stilgar"
+    },
+    {
+      "id": "nm1004267",
+      "name": "Sharon Duncan-Brewster",
+      "character": "Dr. Liet Kynes"
+    },
+    {
+      "id": "nm0151654",
+      "name": "Chang Chen",
+      "character": "Dr. Wellington Yueh"
+    },
+    {
+      "id": "nm1176985",
+      "name": "Dave Bautista",
+      "character": "Beast Rabban Harkonnen"
+    },
+    {
+      "id": "nm2810287",
+      "name": "David Dastmalchian",
+      "character": "Piter de Vries"
+    },
+    {
+      "id": "nm0001648",
+      "name": "Charlotte Rampling",
+      "character": "Reverend Mother Mohiam"
+    },
+    {
+      "id": "nm2129802",
+      "name": "Babs Olusanmokun",
+      "character": "Jamis"
+    },
+    {
+      "id": "nm7064768",
+      "name": "Benjamin Clémentine",
+      "character": "Herald of the Change"
+    },
+    {
+      "id": "nm0267256",
+      "name": "Souad Faress",
+      "character": "Bene Gesserit Sister"
+    },
+    {
+      "id": "nm0742929",
+      "name": "Golda Rosheuvel",
+      "character": "Shadout Mapes"
+    }
+  ],
+  "countries": [
+    "Canada",
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Mandarin"
+  ],
+  "color": "Color",
+  "filmweb_id": 469476,
+  "year": 2021,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNWIyNmU5MGYtZDZmNi00ZjAwLWJlYjgtZTc0ZGIxMDE4ZGYwXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8,
+      "votes": 1083643,
+      "distribution": {
+        "1": 12877,
+        "2": 6047,
+        "3": 7941,
+        "4": 12493,
+        "5": 25833,
+        "6": 62921,
+        "7": 167464,
+        "8": 354395,
+        "9": 248600,
+        "10": 185072
+      },
+      "normalized": 7.5808
+    },
+    "filmweb": {
+      "rating": 7.63,
+      "votes": 214324,
+      "distribution": {
+        "1": 1793,
+        "2": 1149,
+        "3": 2666,
+        "4": 3662,
+        "5": 8712,
+        "6": 18894,
+        "7": 48149,
+        "8": 69120,
+        "9": 39121,
+        "10": 21058
+      },
+      "normalized": 7.1456
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "17.04.2024",
+      "normalized": 7.1247
+    },
+    "michal": {
+      "rating": 8,
+      "date_rated": "16.04.2024",
+      "normalized": 8.1116
+    },
+    "score": 7.4907
+  },
+  "polish_title": "Diuna",
+  "silent": false,
+  "description_pl": "Film \"Diuna\" opowiada historię niezwykłej, pełnej przygód i emocji podróży Paula Atreidesa. Temu genialnemu i utalentowanemu młodemu człowiekowi pisane jest wspaniałe przeznaczenie, którego on sam nie jest w stanie pojąć. Najpierw jednak Paul musi się udać na najbardziej niebezpieczną planetę we wszechświecie, żeby ratować rodzinę i rodaków. Na planecie wybucha zażarty konflikt o dostęp do niewystępującej nigdzie indziej, najcenniejszej ze znanych substancji. Wyzwala ona w ludziach ich największy potencjał. Ale wojnę przetrwają tylko ci, którzy pokonają swój strach.",
+  "producers": [
+    {
+      "id": "nm1007404",
+      "name": "Per Henry Borch"
+    },
+    {
+      "id": "nm1212547",
+      "name": "Cale Boyter"
+    },
+    {
+      "id": "nm0135847",
+      "name": "Joseph M. Caracciolo Jr."
+    },
+    {
+      "id": "nm0140240",
+      "name": "Chris Carreras"
+    },
+    {
+      "id": "nm2564786",
+      "name": "Jessica Derhammer"
+    },
+    {
+      "id": "nm0254872",
+      "name": "Howard Ellis"
+    },
+    {
+      "id": "nm0301382",
+      "name": "Herbert W. Gains"
+    },
+    {
+      "id": "nm0328996",
+      "name": "Adam Goodman"
+    },
+    {
+      "id": "nm6291569",
+      "name": "Joshua Grode"
+    },
+    {
+      "id": "nm0365666",
+      "name": "John Harrison"
+    },
+    {
+      "id": "nm9526711",
+      "name": "Brian Herbert"
+    },
+    {
+      "id": "nm9526712",
+      "name": "Kim Herbert"
+    },
+    {
+      "id": "nm0447189",
+      "name": "Ildikó Kemény"
+    },
+    {
+      "id": "nm2324649",
+      "name": "Fuad Khalil"
+    },
+    {
+      "id": "nm7069070",
+      "name": "Tanya Lapointe"
+    },
+    {
+      "id": "nm3698622",
+      "name": "Byron Merritt"
+    },
+    {
+      "id": "nm0591459",
+      "name": "David Minkowski"
+    },
+    {
+      "id": "nm1364116",
+      "name": "Munir Nassar"
+    },
+    {
+      "id": "nm0661289",
+      "name": "Mary Parent"
+    },
+    {
+      "id": "nm0748283",
+      "name": "Richard P. Rubinstein"
+    },
+    {
+      "id": "nm3123612",
+      "name": "Jon Spaihts"
+    },
+    {
+      "id": "nm2100078",
+      "name": "Thomas Tull"
+    },
+    {
+      "id": "nm0898288",
+      "name": "Denis Villeneuve"
+    },
+    {
+      "id": "nm4999812",
+      "name": "Vasco Xu"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0001877",
+      "name": "Hans Zimmer"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0292132",
+      "name": "Greig Fraser"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "nm0055275",
+  "name": "Reginald Barlow",
+  "filmography": [
+    {
+      "imdb_id": "tt0024216",
+      "title": "King Kong",
+      "year": 1933,
+      "roles": [
+        "cast"
+      ],
+      "character": "Ship's Engineer"
+    },
+    {
+      "imdb_id": "tt0026138",
+      "title": "Bride of Frankenstein",
+      "year": 1935,
+      "roles": [
+        "cast"
+      ],
+      "character": "Hans"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOWQ5OTQxMjQtY2EyNS00NDk1LTkxODYtMjg5MDMzYjMyNmI3XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "17.06.1866",
+  "death_date": "06.07.1943",
+  "birth_location": "Cambridge, Massachusetts, USA",
+  "height": "1.78 m",
+  "imdb_scraped": true,
+  "filmweb_id": 57571,
+  "name_pl": "Reginald Barlow",
+  "birth_location_pl": "Cambridge, Massachusetts",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

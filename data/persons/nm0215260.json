@@ -1,0 +1,38 @@
+{
+  "id": "nm0215260",
+  "name": "Albert Dekker",
+  "filmography": [
+    {
+      "imdb_id": "tt0048028",
+      "title": "East of Eden",
+      "year": 1955,
+      "roles": [
+        "cast"
+      ],
+      "character": "Will Hamilton"
+    },
+    {
+      "imdb_id": "tt0065214",
+      "title": "The Wild Bunch",
+      "year": 1969,
+      "roles": [
+        "cast"
+      ],
+      "character": "Harrigan"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzE4NTU5NjkyN15BMl5BanBnXkFtZTcwNTY3MzgwOA@@._V1_.jpg",
+  "birth_date": "20.12.1905",
+  "death_date": "05.05.1968",
+  "birth_location": "Brooklyn, New York, USA",
+  "height": "1.88 m",
+  "imdb_scraped": true,
+  "filmweb_id": 41395,
+  "name_pl": "Albert Dekker",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

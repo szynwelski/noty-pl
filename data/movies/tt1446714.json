@@ -1,0 +1,255 @@
+{
+  "imdb_id": "tt1446714",
+  "title": "Prometheus",
+  "description": "Following clues to the origin of mankind, a team finds a structure on a distant moon, but they soon realize they are not alone.",
+  "runtime_minutes": 124,
+  "release_date": "08.06.2012",
+  "genres": [
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm0636426",
+      "name": "Noomi Rapace"
+    },
+    {
+      "id": "nm1334869",
+      "name": "Logan Marshall-Green"
+    },
+    {
+      "id": "nm1055413",
+      "name": "Michael Fassbender"
+    },
+    {
+      "id": "nm0000234",
+      "name": "Charlize Theron"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000631",
+      "name": "Ridley Scott"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm3123612",
+      "name": "Jon Spaihts"
+    },
+    {
+      "id": "nm0511541",
+      "name": "Damon Lindelof"
+    },
+    {
+      "id": "nm0639321",
+      "name": "Dan O'Bannon"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0636426",
+      "name": "Noomi Rapace",
+      "character": "Elizabeth Shaw"
+    },
+    {
+      "id": "nm1334869",
+      "name": "Logan Marshall-Green",
+      "character": "Charlie Holloway"
+    },
+    {
+      "id": "nm1055413",
+      "name": "Michael Fassbender",
+      "character": "David"
+    },
+    {
+      "id": "nm0000234",
+      "name": "Charlize Theron",
+      "character": "Meredith Vickers"
+    },
+    {
+      "id": "nm0252961",
+      "name": "Idris Elba",
+      "character": "Janek"
+    },
+    {
+      "id": "nm0001602",
+      "name": "Guy Pearce",
+      "character": "Peter Weyland"
+    },
+    {
+      "id": "nm0365317",
+      "name": "Sean Harris",
+      "character": "Fifield"
+    },
+    {
+      "id": "nm1245863",
+      "name": "Rafe Spall",
+      "character": "Millburn"
+    },
+    {
+      "id": "nm2047170",
+      "name": "Emun Elliott",
+      "character": "Chance"
+    },
+    {
+      "id": "nm0938950",
+      "name": "Benedict Wong",
+      "character": "Ravel"
+    },
+    {
+      "id": "nm0225483",
+      "name": "Kate Dickie",
+      "character": "Ford"
+    },
+    {
+      "id": "nm1024229",
+      "name": "Branwell Donaghey",
+      "character": "Mercenary 1"
+    },
+    {
+      "id": "nm0298842",
+      "name": "Vladimir 'Furdo' Furdik",
+      "character": "Mercenary 2"
+    },
+    {
+      "id": "nm0806905",
+      "name": "C.C. Smiff",
+      "character": "Mercenary 3"
+    },
+    {
+      "id": "nm1438829",
+      "name": "Shane Steyn",
+      "character": "Mercenary 4"
+    },
+    {
+      "id": "nm1613839",
+      "name": "Ian Whyte",
+      "character": "Last Engineer"
+    },
+    {
+      "id": "nm2017161",
+      "name": "John Lebar",
+      "character": "Ghost Engineer"
+    },
+    {
+      "id": "nm5082627",
+      "name": "Daniel James",
+      "character": "Sacrifice Engineer"
+    }
+  ],
+  "countries": [
+    "United Kingdom",
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Gaelic"
+  ],
+  "color": "Color",
+  "filmweb_id": 523230,
+  "year": 2012,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTY3NzIyNTA2NV5BMl5BanBnXkFtZTcwNzE2NjI4Nw@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7,
+      "votes": 705451,
+      "distribution": {
+        "1": 13141,
+        "2": 8468,
+        "3": 13720,
+        "4": 23915,
+        "5": 50371,
+        "6": 112120,
+        "7": 201190,
+        "8": 160500,
+        "9": 67253,
+        "10": 54773
+      },
+      "normalized": 5.6222
+    },
+    "filmweb": {
+      "rating": 6.3,
+      "votes": 191839,
+      "distribution": {
+        "1": 1700,
+        "2": 2283,
+        "3": 8158,
+        "4": 11532,
+        "5": 28480,
+        "6": 45689,
+        "7": 52687,
+        "8": 28895,
+        "9": 8524,
+        "10": 3891
+      },
+      "normalized": 3.9065
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "13.02.2013",
+      "normalized": 4.9718
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "20.08.2012",
+      "normalized": 4.5781
+    },
+    "score": 4.7697
+  },
+  "polish_title": "Prometeusz",
+  "silent": false,
+  "description_pl": "Na kraniec wszechświata zostaje wysłana misja. Jej cel jest jeden - dotrzeć do rasy obcych, która stworzyła człowieka. Wkrótce naukowa misja \"Prometeusza\" przeradza się w horror oraz walkę o przetrwanie. Załoga musi stawić czoła obcym. Losy ludzkości zależą od tej konfrontacji...",
+  "producers": [
+    {
+      "id": "nm1545611",
+      "name": "Michael Costigan"
+    },
+    {
+      "id": "nm3801823",
+      "name": "Michael Ellenberg"
+    },
+    {
+      "id": "nm0318429",
+      "name": "David Giler"
+    },
+    {
+      "id": "nm0001353",
+      "name": "Walter Hill"
+    },
+    {
+      "id": "nm0400240",
+      "name": "Mark Huffam"
+    },
+    {
+      "id": "nm0446894",
+      "name": "Teresa Kelly"
+    },
+    {
+      "id": "nm0511541",
+      "name": "Damon Lindelof"
+    },
+    {
+      "id": "nm0724239",
+      "name": "Mary Richards"
+    },
+    {
+      "id": "nm0000631",
+      "name": "Ridley Scott"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0834199",
+      "name": "Marc Streitenfeld"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0003011",
+      "name": "Dariusz Wolski"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "nm0278752",
+  "name": "Peter Firth",
+  "filmography": [
+    {
+      "imdb_id": "tt0080009",
+      "title": "Tess",
+      "year": 1979,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Angel Clare"
+    },
+    {
+      "imdb_id": "tt0099810",
+      "title": "The Hunt for Red October",
+      "year": 1990,
+      "roles": [
+        "cast"
+      ],
+      "character": "Ivan Putin"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjExMTAwNDYxM15BMl5BanBnXkFtZTgwNzQ0MDY1NTE@._V1_.jpg",
+  "birth_date": "27.10.1953",
+  "birth_location": "Bradford, West Yorkshire, England, UK",
+  "height": "1.75 m",
+  "imdb_scraped": true,
+  "filmweb_id": 6274,
+  "name_pl": "Peter Firth",
+  "birth_location_pl": "Bradford, Anglia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 6274
+}

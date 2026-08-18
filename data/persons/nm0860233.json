@@ -1,0 +1,57 @@
+{
+  "id": "nm0860233",
+  "name": "Jack Thompson",
+  "filmography": [
+    {
+      "imdb_id": "tt0115759",
+      "title": "Broken Arrow",
+      "year": 1996,
+      "roles": [
+        "cast"
+      ],
+      "character": "Chairman, Joint Chief of Staff"
+    },
+    {
+      "imdb_id": "tt0218922",
+      "title": "Original Sin",
+      "year": 2001,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Alan Jordan"
+    },
+    {
+      "imdb_id": "tt0121765",
+      "title": "Star Wars: Episode II - Attack of the Clones",
+      "year": 2002,
+      "roles": [
+        "cast"
+      ],
+      "character": "Cliegg Lars"
+    },
+    {
+      "imdb_id": "tt0452624",
+      "title": "The Good German",
+      "year": 2006,
+      "roles": [
+        "cast"
+      ],
+      "character": "Congressman Breimer"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTYyMDMyNzgyM15BMl5BanBnXkFtZTcwOTc0OTkxOA@@._V1_.jpg",
+  "birth_date": "31.08.1940",
+  "birth_location": "Sydney, New South Wales, Australia",
+  "height": "1.79 m",
+  "filmweb_id": 4032,
+  "name_pl": "Jack Thompson",
+  "birth_location_pl": "Sydney",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Australia"
+  ],
+  "wikidata_fw_id": 4032
+}

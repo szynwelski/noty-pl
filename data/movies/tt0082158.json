@@ -1,0 +1,231 @@
+{
+  "imdb_id": "tt0082158",
+  "title": "Chariots of Fire",
+  "description": "Two British track athletes, one a determined Jew and the other a devout Christian, are driven to win in the 1924 Olympics as they wrestle with issues of pride and conscience.",
+  "runtime_minutes": 125,
+  "release_date": "09.04.1982",
+  "genres": [
+    "Biography",
+    "Drama",
+    "Sport"
+  ],
+  "stars": [
+    {
+      "id": "nm0002027",
+      "name": "Ben Cross"
+    },
+    {
+      "id": "nm0153182",
+      "name": "Ian Charleson"
+    },
+    {
+      "id": "nm0268297",
+      "name": "Nicholas Farrell"
+    },
+    {
+      "id": "nm0369814",
+      "name": "Nigel Havers"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0399853",
+      "name": "Hugh Hudson"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0919815",
+      "name": "Colin Welland"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0002027",
+      "name": "Ben Cross",
+      "character": "Harold Abrahams"
+    },
+    {
+      "id": "nm0153182",
+      "name": "Ian Charleson",
+      "character": "Eric Liddell"
+    },
+    {
+      "id": "nm0268297",
+      "name": "Nicholas Farrell",
+      "character": "Aubrey Montague"
+    },
+    {
+      "id": "nm0369814",
+      "name": "Nigel Havers",
+      "character": "Lord Andrew Lindsay"
+    },
+    {
+      "id": "nm0314776",
+      "name": "Daniel Gerroll",
+      "character": "Henry Stallard"
+    },
+    {
+      "id": "nm0000453",
+      "name": "Ian Holm",
+      "character": "Sam Mussabini"
+    },
+    {
+      "id": "nm0000024",
+      "name": "John Gielgud",
+      "character": "Master of Trinity"
+    },
+    {
+      "id": "nm0000755",
+      "name": "Lindsay Anderson",
+      "character": "Master of Caius"
+    },
+    {
+      "id": "nm0202638",
+      "name": "Nigel Davenport",
+      "character": "Lord Birkenhead"
+    },
+    {
+      "id": "nm0132293",
+      "name": "Cheryl Campbell",
+      "character": "Jennie Liddell"
+    },
+    {
+      "id": "nm0000481",
+      "name": "Alice Krige",
+      "character": "Sybil Gordon"
+    },
+    {
+      "id": "nm0160550",
+      "name": "Dennis Christopher",
+      "character": "Charles Paddock"
+    },
+    {
+      "id": "nm0001113",
+      "name": "Brad Davis",
+      "character": "Jackson Scholz"
+    },
+    {
+      "id": "nm0535861",
+      "name": "Patrick Magee",
+      "character": "Lord Cadogan"
+    },
+    {
+      "id": "nm0250718",
+      "name": "Peter Egan",
+      "character": "Duke of Sutherland"
+    },
+    {
+      "id": "nm0734654",
+      "name": "Struan Rodger",
+      "character": "Sandy McGrath"
+    },
+    {
+      "id": "nm0947379",
+      "name": "David Yelland",
+      "character": "Prince of Wales"
+    },
+    {
+      "id": "nm0070987",
+      "name": "Yves Beneyton",
+      "character": "George Andre"
+    }
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "color": "Color",
+  "filmweb_id": 1291,
+  "year": 1981,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZjkzZjFmZDEtNTliZi00MDcwLThjMTMtNmI5OGVmYjZjZDM1XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.1,
+      "votes": 71467,
+      "distribution": {
+        "1": 977,
+        "2": 605,
+        "3": 873,
+        "4": 1749,
+        "5": 4368,
+        "6": 10260,
+        "7": 21079,
+        "8": 16532,
+        "9": 7357,
+        "10": 7667
+      },
+      "normalized": 5.7186
+    },
+    "filmweb": {
+      "rating": 7.1,
+      "votes": 11961,
+      "distribution": {
+        "1": 79,
+        "2": 66,
+        "3": 151,
+        "4": 319,
+        "5": 869,
+        "6": 1905,
+        "7": 3806,
+        "8": 3048,
+        "9": 1037,
+        "10": 681
+      },
+      "normalized": 5.797
+    },
+    "jarek": {
+      "rating": 9,
+      "date_rated": "09.02.2013",
+      "normalized": 8.8973
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "19.10.2005",
+      "normalized": 6.3474
+    },
+    "score": 6.6901
+  },
+  "polish_title": "Rydwany ognia",
+  "silent": false,
+  "description_pl": "Oparta na autentycznych wydarzeniach historia dwóch młodych sportowców, Erica Liddella - pobożnego katolika ze Szkocji i Harolda M. Abrahamsa - ambitnego Anglika żydowskiego pochodzenia, studiującego w Cambridge i wytrwale zabiegającego o aprobatę kolegów. Obaj stają do wyścigu na 100 metrów na olimpiadzie w Paryżu. Pierwszy z nich biegnie \"ku chwale Jezusa\", drugi - by zdobyć sławę.",
+  "producers": [
+    {
+      "id": "nm0186806",
+      "name": "James Crawford"
+    },
+    {
+      "id": "nm0269689",
+      "name": "Dodi Fayed"
+    },
+    {
+      "id": "nm0701298",
+      "name": "David Puttnam"
+    },
+    {
+      "id": "nm0015701",
+      "name": "Mohamed Al-Fayed"
+    },
+    {
+      "id": "nm0248180",
+      "name": "Jake Eberts"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006331",
+      "name": "Vangelis"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0914239",
+      "name": "David Watkin"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

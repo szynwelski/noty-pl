@@ -1,0 +1,49 @@
+{
+  "id": "nm0450810",
+  "name": "Evelyn Keyes",
+  "filmography": [
+    {
+      "imdb_id": "tt0031381",
+      "title": "Gone with the Wind",
+      "year": 1939,
+      "roles": [
+        "cast"
+      ],
+      "character": "Suellen"
+    },
+    {
+      "imdb_id": "tt0032080",
+      "title": "Union Pacific",
+      "year": 1939,
+      "roles": [
+        "cast"
+      ],
+      "character": "Mrs. Calvin"
+    },
+    {
+      "imdb_id": "tt0048605",
+      "title": "The Seven Year Itch",
+      "year": 1955,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Helen Sherman"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQyNDIzMzk1MV5BMl5BanBnXkFtZTcwNTA5NzExOA@@._V1_.jpg",
+  "birth_date": "20.11.1916",
+  "death_date": "04.07.2008",
+  "birth_location": "Port Arthur, Texas, USA",
+  "height": "1.63 m",
+  "filmweb_id": 9468,
+  "name_pl": "Evelyn Keyes",
+  "birth_location_pl": "Port Arthur, Teksas",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 9468
+}

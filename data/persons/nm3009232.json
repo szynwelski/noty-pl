@@ -1,0 +1,49 @@
+{
+  "id": "nm3009232",
+  "name": "Ezra Miller",
+  "filmography": [
+    {
+      "imdb_id": "tt1659337",
+      "title": "The Perks of Being a Wallflower",
+      "year": 2012,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Patrick"
+    },
+    {
+      "imdb_id": "tt12361974",
+      "title": "Zack Snyder's Justice League",
+      "year": 2021,
+      "roles": [
+        "cast"
+      ],
+      "character": "The Flash"
+    },
+    {
+      "imdb_id": "tt0439572",
+      "title": "The Flash",
+      "year": 2023,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Barry Allen"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMThlYjJmNmMtYjhhZi00Y2ZjLThhMGMtNTM4MjYyZjQyZGVjXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "30.09.1992",
+  "birth_location": "Hoboken, New Jersey, USA",
+  "height": "1.80 m",
+  "imdb_scraped": true,
+  "filmweb_id": 934499,
+  "name_pl": "Ezra Miller",
+  "birth_location_pl": "Hoboken, New Jersey",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 934499
+}

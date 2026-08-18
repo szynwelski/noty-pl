@@ -1,0 +1,44 @@
+{
+  "id": "nm0322688",
+  "name": "Bert Glennon",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjAzMDAwNDEwOF5BMl5BanBnXkFtZTcwOTYxMjQ5Mw@@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0018014",
+      "title": "Hotel Imperial",
+      "year": 1927,
+      "roles": [
+        "cinematographer"
+      ]
+    },
+    {
+      "imdb_id": "tt0018526",
+      "title": "Underworld",
+      "year": 1927,
+      "roles": [
+        "cinematographer"
+      ]
+    },
+    {
+      "imdb_id": "tt0031971",
+      "title": "Stagecoach",
+      "year": 1939,
+      "roles": [
+        "cinematographer"
+      ]
+    }
+  ],
+  "birth_date": "19.11.1893",
+  "death_date": "29.06.1967",
+  "birth_location": "Anaconda, Montana, USA",
+  "height": "1.75 m",
+  "filmweb_id": 51416,
+  "name_pl": "Bert Glennon",
+  "birth_location_pl": "Anaconda, Montana",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

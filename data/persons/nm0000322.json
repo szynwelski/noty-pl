@@ -1,0 +1,50 @@
+{
+  "id": "nm0000322",
+  "name": "Emmanuelle Béart",
+  "filmography": [
+    {
+      "imdb_id": "tt0117060",
+      "title": "Mission: Impossible",
+      "year": 1996,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Claire"
+    },
+    {
+      "imdb_id": "tt0283832",
+      "title": "8 Women",
+      "year": 2002,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Louise"
+    },
+    {
+      "imdb_id": "tt0430224",
+      "title": "Hell",
+      "year": 2005,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Sophie"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjExNDQ4ODU2Ml5BMl5BanBnXkFtZTYwMjI0ODgz._V1_.jpg",
+  "birth_date": "14.08.1963",
+  "birth_location": "Gassin, Var, France",
+  "height": "1.63 m",
+  "filmweb_id": 136,
+  "name_pl": "Emmanuelle Béart",
+  "birth_location_pl": "Gassin",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja"
+  ],
+  "wikidata_fw_id": 136
+}

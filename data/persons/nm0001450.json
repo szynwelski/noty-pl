@@ -1,0 +1,42 @@
+{
+  "id": "nm0001450",
+  "name": "Angela Lansbury",
+  "filmography": [
+    {
+      "imdb_id": "tt0056218",
+      "title": "The Manchurian Candidate",
+      "year": 1962,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Mrs. Eleanor Shaw Iselin"
+    },
+    {
+      "imdb_id": "tt0101414",
+      "title": "Beauty and the Beast",
+      "year": 1991,
+      "roles": [
+        "cast"
+      ],
+      "character": "Mrs. Potts"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzEzOTk0OTYyOV5BMl5BanBnXkFtZTYwNzU1MTkz._V1_.jpg",
+  "birth_date": "16.10.1925",
+  "death_date": "11.10.2022",
+  "birth_location": "Regent's Park, London, England, UK",
+  "height": "1.73 m",
+  "imdb_scraped": true,
+  "filmweb_id": 7744,
+  "name_pl": "Angela Lansbury",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Irlandia",
+    "Stany Zjednoczone",
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 7744
+}

@@ -1,0 +1,39 @@
+{
+  "id": "nm0037625",
+  "name": "Antonin Artaud",
+  "filmography": [
+    {
+      "imdb_id": "tt0018192",
+      "title": "Napoleon",
+      "year": 1927,
+      "roles": [
+        "cast"
+      ],
+      "character": "Jean-Paul Marat"
+    },
+    {
+      "imdb_id": "tt0019254",
+      "title": "The Passion of Joan of Arc",
+      "year": 1928,
+      "roles": [
+        "cast"
+      ],
+      "character": "Jean Massieu"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTgwMTY3MTM0NF5BMl5BanBnXkFtZTgwNjUzNzEwMzE@._V1_.jpg",
+  "birth_date": "04.09.1896",
+  "death_date": "04.03.1948",
+  "birth_location": "Marseille, Bouches-du-Rhône, France",
+  "height": "1.71 m",
+  "imdb_scraped": true,
+  "filmweb_id": 160615,
+  "name_pl": "Antonin Artaud",
+  "birth_location_pl": "Marsylia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja"
+  ],
+  "wikidata_fw_id": 160615
+}

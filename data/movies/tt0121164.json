@@ -1,0 +1,241 @@
+{
+  "imdb_id": "tt0121164",
+  "title": "Corpse Bride",
+  "description": "When a shy groom practices his wedding vows in the inadvertent presence of a deceased young woman, she rises from the grave assuming he has married her.",
+  "runtime_minutes": 77,
+  "release_date": "23.09.2005",
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Drama",
+    "Family",
+    "Fantasy",
+    "Musical",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0000136",
+      "name": "Johnny Depp"
+    },
+    {
+      "id": "nm0000307",
+      "name": "Helena Bonham Carter"
+    },
+    {
+      "id": "nm0001833",
+      "name": "Emily Watson"
+    },
+    {
+      "id": "nm0001808",
+      "name": "Tracey Ullman"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000318",
+      "name": "Tim Burton"
+    },
+    {
+      "id": "nm0425843",
+      "name": "Mike Johnson"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0041864",
+      "name": "John August"
+    },
+    {
+      "id": "nm0003031",
+      "name": "Caroline Thompson"
+    },
+    {
+      "id": "nm0972040",
+      "name": "Pamela Pettler"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000136",
+      "name": "Johnny Depp",
+      "character": "Victor Van Dort"
+    },
+    {
+      "id": "nm0000307",
+      "name": "Helena Bonham Carter",
+      "character": "Corpse Bride"
+    },
+    {
+      "id": "nm0001833",
+      "name": "Emily Watson",
+      "character": "Victoria Everglot"
+    },
+    {
+      "id": "nm0001808",
+      "name": "Tracey Ullman",
+      "character": "Nell Van Dort"
+    },
+    {
+      "id": "nm0925768",
+      "name": "Paul Whitehouse",
+      "character": "William Van Dort"
+    },
+    {
+      "id": "nm0525921",
+      "name": "Joanna Lumley",
+      "character": "Maudeline Everglot"
+    },
+    {
+      "id": "nm0001215",
+      "name": "Albert Finney",
+      "character": "Finis Everglot"
+    },
+    {
+      "id": "nm0001290",
+      "name": "Richard E. Grant",
+      "character": "Barkis Bittern"
+    },
+    {
+      "id": "nm0000489",
+      "name": "Christopher Lee",
+      "character": "Pastor Galswells"
+    },
+    {
+      "id": "nm0001284",
+      "name": "Michael Gough",
+      "character": "Elder Gutknecht"
+    },
+    {
+      "id": "nm0001363",
+      "name": "Jane Horrocks",
+      "character": "Black Widow Spider"
+    },
+    {
+      "id": "nm0718572",
+      "name": "Enn Reitel",
+      "character": "Maggot"
+    },
+    {
+      "id": "nm0746989",
+      "name": "Deep Roy",
+      "character": "General Bonesapart"
+    },
+    {
+      "id": "nm0000384",
+      "name": "Danny Elfman",
+      "character": "Bonejangles"
+    },
+    {
+      "id": "nm0050573",
+      "name": "Stephen Ballantyne",
+      "character": "Emil"
+    },
+    {
+      "id": "nm0443120",
+      "name": "Lisa Kay",
+      "character": "Solemn Village Boy"
+    },
+    {
+      "id": "nm0552311",
+      "name": "Gary Martin",
+      "character": "General Wellington"
+    }
+  ],
+  "countries": [
+    "United Kingdom",
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": null,
+  "filmweb_id": 118497,
+  "year": 2005,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTk1MTY1NjU4MF5BMl5BanBnXkFtZTcwNjIzMTEzMw@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.4,
+      "votes": 331041,
+      "distribution": {
+        "1": 2012,
+        "2": 1213,
+        "3": 2177,
+        "4": 4859,
+        "5": 13456,
+        "6": 39907,
+        "7": 96015,
+        "8": 93267,
+        "9": 38836,
+        "10": 39299
+      },
+      "normalized": 6.2835
+    },
+    "filmweb": {
+      "rating": 7.55,
+      "votes": 240270,
+      "distribution": {
+        "1": 1524,
+        "2": 957,
+        "3": 2642,
+        "4": 4272,
+        "5": 10501,
+        "6": 25207,
+        "7": 61205,
+        "8": 76067,
+        "9": 35241,
+        "10": 22654
+      },
+      "normalized": 6.8987
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "24.05.2006",
+      "normalized": 5.4199
+    },
+    "score": 6.2007
+  },
+  "polish_title": "Gnijąca panna młoda",
+  "silent": false,
+  "description_pl": "Ślub Victora zbliża się wielkimi krokami. Nie jest on jednak szczególnie rozentuzjazmowany tą perspektywą, co więcej wydaje się, iż całe wydarzenie traktuje jak coś w rodzaju własnej egzekucji Jego narzeczona - Victoria robi, co może by poprawić mu humor, jednak bezowocnie. Złe przeczucia Victora ulegają ziszczeniu, co do joty, gdy w dzień ceremonii trafia przez przypadek do ciemnego lasu i, jako typowy totalny fajtłapa budzi umarłą \"pannę młodą\", która od tej chwili uważa go za swojego przyszłego męża.",
+  "producers": [
+    {
+      "id": "nm0007831",
+      "name": "Allison Abbate"
+    },
+    {
+      "id": "nm0041710",
+      "name": "Jeffrey Auerbach"
+    },
+    {
+      "id": "nm0000318",
+      "name": "Tim Burton"
+    },
+    {
+      "id": "nm0294553",
+      "name": "Derek Frey"
+    },
+    {
+      "id": "nm0710020",
+      "name": "Joe Ranft"
+    },
+    {
+      "id": "nm1949043",
+      "name": "Tracy Shaw"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0000384",
+      "name": "Danny Elfman"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0468757",
+      "name": "Pete Kozachik"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

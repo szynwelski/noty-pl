@@ -1,0 +1,39 @@
+{
+  "id": "nm0000638",
+  "name": "William Shatner",
+  "filmography": [
+    {
+      "imdb_id": "tt0055031",
+      "title": "Judgment at Nuremberg",
+      "year": 1961,
+      "roles": [
+        "cast"
+      ],
+      "character": "Capt. Harrison Byers"
+    },
+    {
+      "imdb_id": "tt0212346",
+      "title": "Miss Congeniality",
+      "year": 2000,
+      "roles": [
+        "cast"
+      ],
+      "character": "Stan Fields"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTkxMjI4ODUxNl5BMl5BanBnXkFtZTgwNjA5NTY2NTM@._V1_.jpg",
+  "birth_date": "22.03.1931",
+  "birth_location": "Montreal, Quebec, Canada",
+  "height": "1.75 m",
+  "imdb_scraped": true,
+  "filmweb_id": 40154,
+  "name_pl": "William Shatner",
+  "birth_location_pl": "Montreal",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Kanada",
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 40154
+}

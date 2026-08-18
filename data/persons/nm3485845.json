@@ -1,0 +1,49 @@
+{
+  "id": "nm3485845",
+  "name": "Adam Driver",
+  "filmography": [
+    {
+      "imdb_id": "tt2488496",
+      "title": "Star Wars: Episode VII - The Force Awakens",
+      "year": 2015,
+      "roles": [
+        "cast"
+      ],
+      "character": "Kylo Ren"
+    },
+    {
+      "imdb_id": "tt5247022",
+      "title": "Paterson",
+      "year": 2016,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Paterson"
+    },
+    {
+      "imdb_id": "tt7653254",
+      "title": "Marriage Story",
+      "year": 2019,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Charlie Barber"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNWY4YTJiNDUtNGUxZS00YmU1LTlkNmEtZmM2NjM4NDFmZmVhXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "19.11.1983",
+  "birth_location": "San Diego, California, USA",
+  "height": "1.89 m",
+  "imdb_scraped": true,
+  "filmweb_id": 1306663,
+  "name_pl": "Adam Driver",
+  "birth_location_pl": "San Diego, Kalifornia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 1306663
+}

@@ -1,0 +1,49 @@
+{
+  "id": "nm0005170",
+  "name": "Bernie Mac",
+  "filmography": [
+    {
+      "imdb_id": "tt0240772",
+      "title": "Ocean's Eleven",
+      "year": 2001,
+      "roles": [
+        "cast"
+      ],
+      "character": "Frank Catton"
+    },
+    {
+      "imdb_id": "tt0307987",
+      "title": "Bad Santa",
+      "year": 2003,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Gin"
+    },
+    {
+      "imdb_id": "tt0496806",
+      "title": "Ocean's Thirteen",
+      "year": 2007,
+      "roles": [
+        "cast"
+      ],
+      "character": "Frank Catton"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjA5MjIwMDk4Ml5BMl5BanBnXkFtZTYwNTA5NTI1._V1_.jpg",
+  "birth_date": "05.10.1957",
+  "death_date": "09.08.2008",
+  "birth_location": "Chicago, Illinois, USA",
+  "height": "1.88 m",
+  "filmweb_id": 41321,
+  "name_pl": "Bernie Mac",
+  "birth_location_pl": "Chicago, Illinois",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 41321
+}

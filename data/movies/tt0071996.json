@@ -1,0 +1,88 @@
+{
+  "imdb_id": "tt0071996",
+  "title": "First Love",
+  "description": "After the doctor's refusal to perform abortion on a 17-year old girl, she and her boyfriend have to cope with the new situation. They both need to learn to take responsibility for their decisions, in spite of numerous hardships facing them.",
+  "runtime_minutes": 52,
+  "release_date": "30.12.1979",
+  "genres": [
+    "Documentary"
+  ],
+  "directors": [
+    {
+      "id": "nm0001425",
+      "name": "Krzysztof Kieślowski"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0001425",
+      "name": "Krzysztof Kieślowski"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "Poland"
+  ],
+  "languages": [
+    "Polish"
+  ],
+  "color": "Color",
+  "year": 1974,
+  "type": "tvMovie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZDdhNzg2ZTYtZWZhNS00Mjk3LWEwNGQtNTUwOGQ1MWY5M2U4XkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 8644,
+  "original_title": "Pierwsza milosc",
+  "ratings": {
+    "imdb": {
+      "rating": 6.9,
+      "votes": 387,
+      "distribution": {
+        "1": 10,
+        "2": 1,
+        "3": 6,
+        "4": 7,
+        "5": 44,
+        "6": 68,
+        "7": 137,
+        "8": 64,
+        "9": 29,
+        "10": 21
+      },
+      "normalized": 5.3259
+    },
+    "filmweb": {
+      "rating": 7.28,
+      "votes": 1635,
+      "distribution": {
+        "1": 21,
+        "2": 4,
+        "3": 11,
+        "4": 18,
+        "5": 70,
+        "6": 194,
+        "7": 536,
+        "8": 576,
+        "9": 148,
+        "10": 57
+      },
+      "normalized": 5.9514
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "19.10.2005",
+      "normalized": 6.3474
+    },
+    "score": 5.8749
+  },
+  "polish_title": "Pierwsza miłość",
+  "silent": false,
+  "description_pl": "Kamera śledzi młodą parę, Romka i Jadzię, podczas ciąży, zawarcia małżeństwa i porodu. Pierwsza, naiwna i lekkomyślna miłość obydwojga bohaterów wystawiana jest na coraz cięższe próby, co skrupulatnie rejestruje kamera.",
+  "cinematographers": [
+    {
+      "id": "nm0678456",
+      "name": "Jacek Petrycki"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "nm0000914",
+  "name": "Robert Benton",
+  "filmography": [
+    {
+      "imdb_id": "tt0061418",
+      "title": "Bonnie and Clyde",
+      "year": 1967,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0079417",
+      "title": "Kramer vs. Kramer",
+      "year": 1979,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTc2MjUyMjA3MV5BMl5BanBnXkFtZTYwODk5NTgz._V1_.jpg",
+  "birth_date": "29.09.1932",
+  "death_date": "11.05.2025",
+  "birth_location": "Dallas, Texas, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 10808,
+  "name_pl": "Robert Benton",
+  "birth_location_pl": "Waxahachie, Teksas",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 10808
+}

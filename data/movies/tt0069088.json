@@ -1,0 +1,151 @@
+{
+  "imdb_id": "tt0069088",
+  "title": "Pilatus und andere - Ein Film für Karfreitag",
+  "description": "The trial of Yeshua Ha-Notsri is led by prosecutor Pontius Pilate who believes in the innocence of the accused but is forced to sentence him to death. This biblical story is set in present-day Germany.",
+  "runtime_minutes": 98,
+  "release_date": "29.03.1972",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0699659",
+      "name": "Wojciech Pszoniak"
+    },
+    {
+      "id": "nm0470567",
+      "name": "Jan Kreczmar"
+    },
+    {
+      "id": "nm0646037",
+      "name": "Daniel Olbrychski"
+    },
+    {
+      "id": "nm0487493",
+      "name": "Andrzej Lapicki"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0906667",
+      "name": "Andrzej Wajda"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0906667",
+      "name": "Andrzej Wajda"
+    },
+    {
+      "id": "nm0119888",
+      "name": "Mikhail A. Bulgakov"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0699659",
+      "name": "Wojciech Pszoniak",
+      "character": "Jeshua Ha-Nocri"
+    },
+    {
+      "id": "nm0470567",
+      "name": "Jan Kreczmar",
+      "character": "Pilatus of Pont"
+    },
+    {
+      "id": "nm0646037",
+      "name": "Daniel Olbrychski",
+      "character": "Matthew Levi"
+    },
+    {
+      "id": "nm0487493",
+      "name": "Andrzej Lapicki",
+      "character": "Afranius"
+    },
+    {
+      "id": "nm0673307",
+      "name": "Marek Perepeczko",
+      "character": "Marcus - Roman soldier"
+    },
+    {
+      "id": "nm0954674",
+      "name": "Jerzy Zelnik",
+      "character": "Juda of Kiriath"
+    },
+    {
+      "id": "nm0792996",
+      "name": "Vladek Sheybal",
+      "character": "Kaiphas"
+    },
+    {
+      "id": "nm0669813",
+      "name": "Franciszek Pieczka",
+      "character": "Ram"
+    },
+    {
+      "id": "nm0906667",
+      "name": "Andrzej Wajda",
+      "character": "Reporter"
+    }
+  ],
+  "countries": [
+    "West Germany"
+  ],
+  "languages": [
+    "German"
+  ],
+  "color": "Color",
+  "filmweb_id": 8669,
+  "year": 1972,
+  "type": "tvMovie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMmRiZjdiMmUtNGMzNC00Zjk2LTk4MjUtYTA4NDRmZDEwNDBmXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.7,
+      "votes": 209,
+      "distribution": {
+        "1": 5,
+        "2": 0,
+        "3": 5,
+        "4": 12,
+        "5": 19,
+        "6": 41,
+        "7": 51,
+        "8": 29,
+        "9": 18,
+        "10": 29
+      },
+      "normalized": 5.24
+    },
+    "filmweb": {
+      "rating": 6.98,
+      "votes": 1807,
+      "distribution": {
+        "1": 28,
+        "2": 23,
+        "3": 43,
+        "4": 55,
+        "5": 134,
+        "6": 259,
+        "7": 406,
+        "8": 674,
+        "9": 121,
+        "10": 64
+      },
+      "normalized": 5.5043
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "15.04.2006",
+      "normalized": 6.3474
+    },
+    "score": 5.6972
+  },
+  "polish_title": "Piłat i inni",
+  "silent": false,
+  "description_pl": "Kolejna wersja \"Mistrza i Małgorzaty\". Tym razem <a href=\"/osoba/?id=nm0906667\">Wajda</a> dość luźno koncentruje się na jednym wątku - Piłata i Jezusa. Przy czym wszystko zostaje osadzone we współczesnych realiach. Widać tu chociażby autostradę czy wysypisko śmieci. Są sceny takie jak np. wywiad z baranem prowadzonym na rzeź. Ale na największą uwagę zasługuje scena w której Judasz wydaje Jezusa, przez telefon, a następnie z aparatu (budka w mieście) wypada mu 30 srebrników...",
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-16"
+}

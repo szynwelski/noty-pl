@@ -1,0 +1,48 @@
+{
+  "id": "nm0003585",
+  "name": "Gustav Knuth",
+  "filmography": [
+    {
+      "imdb_id": "tt0048624",
+      "title": "Sissi",
+      "year": 1955,
+      "roles": [
+        "cast"
+      ],
+      "character": "Duke Max in Bavaria"
+    },
+    {
+      "imdb_id": "tt0049762",
+      "title": "Sissi - Die junge Kaiserin",
+      "year": 1956,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Duke Max of Bavaria"
+    },
+    {
+      "imdb_id": "tt0050974",
+      "title": "Sissi: The Fateful Years of an Empress",
+      "year": 1957,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Duke Max of Bavaria"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzExZDFmYjgtOWQ4NS00MjJiLWIyYzYtMjY4ZDQ4NmVkZTMxXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "07.07.1901",
+  "death_date": "01.02.1987",
+  "birth_location": "Brunswick, Germany",
+  "filmweb_id": 92094,
+  "name_pl": "Gustav Knuth",
+  "birth_location_pl": "Brunszwik",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Niemcy"
+  ]
+}

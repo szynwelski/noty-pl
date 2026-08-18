@@ -1,0 +1,29 @@
+{
+  "id": "nm0365600",
+  "name": "George Harrison",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTUyNjE0NzAzMl5BMl5BanBnXkFtZTYwMjQzMzU3._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0079470",
+      "title": "Monty Python's Life of Brian",
+      "year": 1979,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "birth_date": "25.02.1943",
+  "death_date": "29.11.2001",
+  "birth_location": "Liverpool, Merseyside, England, UK",
+  "height": "1.76 m",
+  "imdb_scraped": true,
+  "filmweb_id": 44952,
+  "name_pl": "George Harrison",
+  "birth_location_pl": "Liverpool, Anglia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 44952
+}

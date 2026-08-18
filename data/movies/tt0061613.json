@@ -1,0 +1,183 @@
+{
+  "imdb_id": "tt0061613",
+  "title": "Oedipus Rex",
+  "description": "Rescued from abandonment and raised by the King and Queen, Oedipus is still haunted by a prophecy--he'll murder his father and marry his mother.",
+  "runtime_minutes": 104,
+  "release_date": "07.12.1984",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0542146",
+      "name": "Silvana Mangano"
+    },
+    {
+      "id": "nm0162948",
+      "name": "Franco Citti"
+    },
+    {
+      "id": "nm0885098",
+      "name": "Alida Valli"
+    },
+    {
+      "id": "nm0070644",
+      "name": "Carmelo Bene"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001596",
+      "name": "Pier Paolo Pasolini"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0001596",
+      "name": "Pier Paolo Pasolini"
+    },
+    {
+      "id": "nm0814668",
+      "name": "Sophocles"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0542146",
+      "name": "Silvana Mangano",
+      "character": "Giocasta"
+    },
+    {
+      "id": "nm0162948",
+      "name": "Franco Citti",
+      "character": "Edipo"
+    },
+    {
+      "id": "nm0885098",
+      "name": "Alida Valli",
+      "character": "Merope"
+    },
+    {
+      "id": "nm0070644",
+      "name": "Carmelo Bene",
+      "character": "Creonte"
+    },
+    {
+      "id": "nm0065191",
+      "name": "Julian Beck",
+      "character": "Tiresia"
+    },
+    {
+      "id": "nm0059010",
+      "name": "Luciano Bartoli",
+      "character": "Laio"
+    },
+    {
+      "id": "nm0502947",
+      "name": "Francesco Leonetti",
+      "character": "Servo di Laio"
+    },
+    {
+      "id": "nm1147811",
+      "name": "Ahmed Belhachmi",
+      "character": "Polibo"
+    },
+    {
+      "id": "nm0780091",
+      "name": "Giovanni Ivan Scratuglia",
+      "character": "Sacerdote"
+    },
+    {
+      "id": "nm1148366",
+      "name": "Giandomenico Davoli",
+      "character": "Pastore di Polibo"
+    },
+    {
+      "id": "nm0205793",
+      "name": "Ninetto Davoli",
+      "character": "Angelo"
+    },
+    {
+      "id": "nm0079341",
+      "name": "Laura Betti",
+      "character": "Jocasta's Maid"
+    },
+    {
+      "id": "nm0001596",
+      "name": "Pier Paolo Pasolini",
+      "character": "High Priest"
+    },
+    {
+      "id": "nm0751917",
+      "name": "Isabel Ruth",
+      "character": "Jocasta's Maid with a Lamb"
+    }
+  ],
+  "countries": [
+    "Italy",
+    "Morocco"
+  ],
+  "languages": [
+    "Italian",
+    "Romanian"
+  ],
+  "color": null,
+  "year": 1967,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BN2VjZjFiOTktNGY4MC00NTE3LWI2NjAtODdjMTIzYTk5MjdlXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 32308,
+  "original_title": "Edipo Re",
+  "ratings": {
+    "imdb": {
+      "rating": 7.2,
+      "votes": 7709,
+      "distribution": {
+        "1": 166,
+        "2": 89,
+        "3": 125,
+        "4": 193,
+        "5": 401,
+        "6": 979,
+        "7": 1962,
+        "8": 2106,
+        "9": 890,
+        "10": 798
+      },
+      "normalized": 5.8402
+    },
+    "filmweb": {
+      "rating": 6.7,
+      "votes": 1831,
+      "distribution": {
+        "1": 109,
+        "2": 15,
+        "3": 50,
+        "4": 63,
+        "5": 145,
+        "6": 257,
+        "7": 448,
+        "8": 470,
+        "9": 178,
+        "10": 96
+      },
+      "normalized": 4.8763
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "26.10.2006",
+      "normalized": 5.4199
+    },
+    "score": 5.3788
+  },
+  "polish_title": "Król Edyp",
+  "silent": false,
+  "description_pl": "W tragedii Sofoklesa odkrył Pasolini mit ogólnoludzki, który wyraża wieczną, zawsze aktualną prawdę o człowieku. Jak wiadomo kompleks Edypa jest jednym z kluczowych pojęć psychoanalizy i to do niej również odwołuje się reżyser. Film składa się z 3 części: prologu, toczącego się w latach 20. naszego wieku, dramatu właściwego ze starożytności i finału w scenerii współczesnych ulic Bolonii i Mediolanu.",
+  "cinematographers": [
+    {
+      "id": "nm0005854",
+      "name": "Giuseppe Ruzzolini"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

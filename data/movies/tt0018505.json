@@ -1,0 +1,143 @@
+{
+  "imdb_id": "tt0018505",
+  "title": "Bed and Sofa",
+  "description": "A married couple have a small apartment in Moscow. When an old friend of the husband's arrives in the city, he is unable to find lodgings. Kolia, the husband, invites his friend to move in with them.",
+  "runtime_minutes": 86,
+  "release_date": "15.03.1927",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0783979",
+      "name": "Lyudmila Semyonova"
+    },
+    {
+      "id": "nm0060693",
+      "name": "Nikolay Batalov"
+    },
+    {
+      "id": "nm0283901",
+      "name": "Vladimir Fogel"
+    },
+    {
+      "id": "nm0951029",
+      "name": "Leonid Yurenev"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0740282",
+      "name": "Abram Room"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0794531",
+      "name": "Viktor Shklovskiy"
+    },
+    {
+      "id": "nm0740282",
+      "name": "Abram Room"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0783979",
+      "name": "Lyudmila Semyonova",
+      "character": "Liuda Nikolayevna Semyonova, the Wife"
+    },
+    {
+      "id": "nm0060693",
+      "name": "Nikolay Batalov",
+      "character": "Kolia, the Husband"
+    },
+    {
+      "id": "nm0283901",
+      "name": "Vladimir Fogel",
+      "character": "Volodia, a Printer"
+    },
+    {
+      "id": "nm0951029",
+      "name": "Leonid Yurenev",
+      "character": "Building Superintendent"
+    },
+    {
+      "id": "nm0946519",
+      "name": "Mariya Yarotskaya",
+      "character": "the Nurse"
+    },
+    {
+      "id": "nm0812500",
+      "name": "Yelena Sokolova",
+      "character": "Clinic Nurse"
+    }
+  ],
+  "countries": [
+    "Soviet Union"
+  ],
+  "languages": [
+    "None",
+    "Russian"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 102702,
+  "year": 1927,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjM1ODAzNzM1NV5BMl5BanBnXkFtZTgwNTIzMTM2MTE@._V1_.jpg",
+  "original_title": "Tretya meshchanskaya",
+  "ratings": {
+    "imdb": {
+      "rating": 7.3,
+      "votes": 1481,
+      "distribution": {
+        "1": 50,
+        "2": 9,
+        "3": 17,
+        "4": 39,
+        "5": 70,
+        "6": 188,
+        "7": 360,
+        "8": 410,
+        "9": 188,
+        "10": 150
+      },
+      "normalized": 5.8203
+    },
+    "filmweb": {
+      "rating": 6.82,
+      "votes": 240,
+      "distribution": {
+        "1": 2,
+        "2": 0,
+        "3": 4,
+        "4": 7,
+        "5": 13,
+        "6": 56,
+        "7": 86,
+        "8": 59,
+        "9": 11,
+        "10": 2
+      },
+      "normalized": 5.2501
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "19.10.2005",
+      "normalized": 6.3474
+    },
+    "score": 5.8059
+  },
+  "polish_title": "Miłość we troje",
+  "silent": true,
+  "description_pl": "Drukarz Władimir Fogel znajduje pracę w Moskwie i czasowo zatrzymuje się w mieszkaniu przyjaciela z frontu, Nikołaja Batałowa, na ulicy Mieszczańskiej 3. Żona Batałowa jest oczarowana przybyszem, odnoszącym się do niej z uwagą i szacunkiem. Oczarowanie jest wzajemne i kiedy Batałow wyjeżdża w delegację, po powrocie dowiaduje się o zdradzie. Początkowo opuszcza wspólne lokum, ale nie ma gdzie się podziać i trójka nadal mieszka razem, tyle że w innej konfiguracji &#8211; Ludmiła jest teraz żoną Fogela. Atmosfera staje się nie do zniesienia, gdy okazuje się, iż na świat przyjdzie dziecko...",
+  "cinematographers": [
+    {
+      "id": "nm0316485",
+      "name": "Grigori Giber"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-15"
+}

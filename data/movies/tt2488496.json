@@ -1,0 +1,275 @@
+{
+  "imdb_id": "tt2488496",
+  "title": "Star Wars: Episode VII - The Force Awakens",
+  "description": "As a new threat to the galaxy rises, Rey, a desert scavenger, and Finn, an ex-stormtrooper, must join Han Solo and Chewbacca to search for the one hope of restoring peace.",
+  "runtime_minutes": 138,
+  "release_date": "18.12.2015",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm5397459",
+      "name": "Daisy Ridley"
+    },
+    {
+      "id": "nm3915784",
+      "name": "John Boyega"
+    },
+    {
+      "id": "nm1209966",
+      "name": "Oscar Isaac"
+    },
+    {
+      "id": "nm1727304",
+      "name": "Domhnall Gleeson"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0009190",
+      "name": "J.J. Abrams"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0001410",
+      "name": "Lawrence Kasdan"
+    },
+    {
+      "id": "nm0009190",
+      "name": "J.J. Abrams"
+    },
+    {
+      "id": "nm1578335",
+      "name": "Michael Arndt"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm5397459",
+      "name": "Daisy Ridley",
+      "character": "Rey"
+    },
+    {
+      "id": "nm3915784",
+      "name": "John Boyega",
+      "character": "Finn"
+    },
+    {
+      "id": "nm1209966",
+      "name": "Oscar Isaac",
+      "character": "Poe Dameron"
+    },
+    {
+      "id": "nm0000148",
+      "name": "Harrison Ford",
+      "character": "Han Solo"
+    },
+    {
+      "id": "nm0000434",
+      "name": "Mark Hamill",
+      "character": "Luke Skywalker"
+    },
+    {
+      "id": "nm0000402",
+      "name": "Carrie Fisher",
+      "character": "Princess Leia"
+    },
+    {
+      "id": "nm3485845",
+      "name": "Adam Driver",
+      "character": "Kylo Ren"
+    },
+    {
+      "id": "nm2143282",
+      "name": "Lupita Nyong'o",
+      "character": "Maz Kanata"
+    },
+    {
+      "id": "nm0785227",
+      "name": "Andy Serkis",
+      "character": "Supreme Leader Snoke"
+    },
+    {
+      "id": "nm1727304",
+      "name": "Domhnall Gleeson",
+      "character": "General Hux"
+    },
+    {
+      "id": "nm0000355",
+      "name": "Anthony Daniels",
+      "character": "C-3PO"
+    },
+    {
+      "id": "nm0001884",
+      "name": "Max von Sydow",
+      "character": "Lor San Tekka"
+    },
+    {
+      "id": "nm0562679",
+      "name": "Peter Mayhew",
+      "character": "Chewbacca"
+    },
+    {
+      "id": "nm3729225",
+      "name": "Gwendoline Christie",
+      "character": "Captain Phasma"
+    },
+    {
+      "id": "nm6934058",
+      "name": "Joonas Suotamo",
+      "character": "Chewbacca Double"
+    },
+    {
+      "id": "nm4024206",
+      "name": "Pip Andersen",
+      "character": "Lead Stormtrooper"
+    },
+    {
+      "id": "nm0670408",
+      "name": "Simon Pegg",
+      "character": "Unkar Plutt"
+    },
+    {
+      "id": "nm0787449",
+      "name": "Kiran Shah",
+      "character": "Teedo"
+    }
+  ],
+  "countries": [
+    "United States",
+    "United Kingdom"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 671051,
+  "year": 2015,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOTAzODEzNDAzMl5BMl5BanBnXkFtZTgwMDU1MTgzNzE@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.7,
+      "votes": 1032998,
+      "distribution": {
+        "1": 29483,
+        "2": 10365,
+        "3": 13091,
+        "4": 20052,
+        "5": 41643,
+        "6": 92130,
+        "7": 202796,
+        "8": 269209,
+        "9": 186607,
+        "10": 167622
+      },
+      "normalized": 6.9013
+    },
+    "filmweb": {
+      "rating": 7.19,
+      "votes": 268617,
+      "distribution": {
+        "1": 3679,
+        "2": 1895,
+        "3": 4953,
+        "4": 7161,
+        "5": 17322,
+        "6": 36281,
+        "7": 73052,
+        "8": 73155,
+        "9": 32671,
+        "10": 18448
+      },
+      "normalized": 6.0035
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "03.01.2016",
+      "normalized": 4.9718
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "20.12.2015",
+      "normalized": 5.4199
+    },
+    "score": 5.8241
+  },
+  "polish_title": "Gwiezdne wojny: Przebudzenie Mocy",
+  "silent": false,
+  "description_pl": "Akcja filmu rozpoczyna się trzydzieści lat po bitwie o Endor i upadku Sithów. Luke Skywalker (<a href=\"/osoba/?id=nm0000434\">Mark Hamill</a>) przepada bez wieści. Pod jego nieobecność na gruzach Imperium Galaktycznego wyrasta złowroga organizacja Najwyższy Porządek stawiająca sobie za cel zniszczenie ostatniego Jedi. Z poparciem władz Nowej Republiki generał Leia Organa (<a href=\"/osoba/?id=nm0000402\">Carrie Fisher</a>) dowodzi Ruchem Oporu. Pragnie odnaleźć swojego brata oraz przywrócić pokój w Galaktyce. Leia wysyła najlepszego pilota Poe Damerona (<a href=\"/osoba/?id=nm1209966\">Oscar Isaac</a>) na pustynną planetę Jakku, gdzie dawny sprzymierzeniec wpadł na informacje o miejscu pobytu Luke'a. Wkrótce Poe zostaje schwytany przez Kylo Rena (<a href=\"/osoba/?id=nm3485845\">Adam Driver</a>), posługującego się Ciemną Stroną Mocy czciciela Dartha Vadera. Na jednym z krążowników Najwyższego Porządku Dameron znajduje nieoczekiwanego sojusznika w osobie zbuntowanego szturmowca Finna (<a href=\"/osoba/?id=nm3915784\">John Boyega</a>). Tymczasem należący do pilota robot BB-8 spotyka Rey (Daisy Ridley) - tajemniczą samotniczkę i zbieraczkę części posiadającą niezwykłe umiejętności i wrażliwość na Moc...",
+  "producers": [
+    {
+      "id": "nm0009190",
+      "name": "J.J. Abrams"
+    },
+    {
+      "id": "nm0027297",
+      "name": "Pippa Anderson"
+    },
+    {
+      "id": "nm1578335",
+      "name": "Michael Arndt"
+    },
+    {
+      "id": "nm1333357",
+      "name": "Bryan Burk"
+    },
+    {
+      "id": "nm1309708",
+      "name": "Leifur B. Dagfinnsson"
+    },
+    {
+      "id": "nm0331166",
+      "name": "Tommy Gormley"
+    },
+    {
+      "id": "nm0363986",
+      "name": "Tommy Harper"
+    },
+    {
+      "id": "nm0005086",
+      "name": "Kathleen Kennedy"
+    },
+    {
+      "id": "nm0568980",
+      "name": "Jason McGatlin"
+    },
+    {
+      "id": "nm2038668",
+      "name": "Michelle Rejwan"
+    },
+    {
+      "id": "nm2845194",
+      "name": "Ben Rosenblatt"
+    },
+    {
+      "id": "nm1596633",
+      "name": "John Swartz"
+    },
+    {
+      "id": "nm0870030",
+      "name": "Susan Towner"
+    },
+    {
+      "id": "nm0001410",
+      "name": "Lawrence Kasdan"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0002354",
+      "name": "John Williams"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0591053",
+      "name": "Dan Mindel"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,235 @@
+{
+  "imdb_id": "tt0120647",
+  "title": "Deep Impact",
+  "description": "A comet is discovered to be on a collision course with Earth. As doomsday nears, the human race prepares for the worst.",
+  "runtime_minutes": 120,
+  "release_date": "08.05.1998",
+  "genres": [
+    "Action",
+    "Drama",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000380",
+      "name": "Robert Duvall"
+    },
+    {
+      "id": "nm0000495",
+      "name": "Téa Leoni"
+    },
+    {
+      "id": "nm0000704",
+      "name": "Elijah Wood"
+    },
+    {
+      "id": "nm0000151",
+      "name": "Morgan Freeman"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001460",
+      "name": "Mimi Leder"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0748022",
+      "name": "Bruce Joel Rubin"
+    },
+    {
+      "id": "nm0866062",
+      "name": "Michael Tolkin"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000380",
+      "name": "Robert Duvall",
+      "character": "Spurgeon Tanner"
+    },
+    {
+      "id": "nm0000495",
+      "name": "Téa Leoni",
+      "character": "Jenny Lerner"
+    },
+    {
+      "id": "nm0000704",
+      "name": "Elijah Wood",
+      "character": "Leo Biederman"
+    },
+    {
+      "id": "nm0000603",
+      "name": "Vanessa Redgrave",
+      "character": "Robin Lerner"
+    },
+    {
+      "id": "nm0000151",
+      "name": "Morgan Freeman",
+      "character": "President Beck"
+    },
+    {
+      "id": "nm0001703",
+      "name": "Maximilian Schell",
+      "character": "Jason Lerner"
+    },
+    {
+      "id": "nm0000342",
+      "name": "James Cromwell",
+      "character": "Alan Rittenhouse"
+    },
+    {
+      "id": "nm0253035",
+      "name": "Ron Eldard",
+      "character": "Oren Monash"
+    },
+    {
+      "id": "nm0269463",
+      "name": "Jon Favreau",
+      "character": "Gus Partenza"
+    },
+    {
+      "id": "nm0005041",
+      "name": "Laura Innes",
+      "character": "Beth Stanley"
+    },
+    {
+      "id": "nm0005203",
+      "name": "Mary McCormack",
+      "character": "Andrea Baker"
+    },
+    {
+      "id": "nm0771493",
+      "name": "Richard Schiff",
+      "character": "Don Biederman"
+    },
+    {
+      "id": "nm0005447",
+      "name": "Leelee Sobieski",
+      "character": "Sarah Hotchner"
+    },
+    {
+      "id": "nm0005516",
+      "name": "Blair Underwood",
+      "character": "Mark Simon"
+    },
+    {
+      "id": "nm0779084",
+      "name": "Dougray Scott",
+      "character": "Eric Vennekor"
+    },
+    {
+      "id": "nm0921550",
+      "name": "Gary Werntz",
+      "character": "Chuck Hotchner"
+    },
+    {
+      "id": "nm0919361",
+      "name": "Bruce Weitz",
+      "character": "Stuart Caley"
+    },
+    {
+      "id": "nm0105280",
+      "name": "Betsy Brantley",
+      "character": "Ellen Biederman"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Russian"
+  ],
+  "color": "Color",
+  "filmweb_id": 44,
+  "year": 1998,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BN2EwNjMxOWYtYWE5Zi00MWEyLWJlMGMtYzA1NDQyZGE5YWZjXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.3,
+      "votes": 206852,
+      "distribution": {
+        "1": 2943,
+        "2": 2998,
+        "3": 5480,
+        "4": 12156,
+        "5": 29197,
+        "6": 58615,
+        "7": 52521,
+        "8": 25201,
+        "9": 8444,
+        "10": 9297
+      },
+      "normalized": 4.082
+    },
+    "filmweb": {
+      "rating": 6.57,
+      "votes": 37121,
+      "distribution": {
+        "1": 100,
+        "2": 183,
+        "3": 623,
+        "4": 1471,
+        "5": 4280,
+        "6": 9782,
+        "7": 12856,
+        "8": 5655,
+        "9": 1321,
+        "10": 850
+      },
+      "normalized": 4.4774
+    },
+    "jarek": {
+      "rating": 3,
+      "date_rated": "02.12.2005",
+      "normalized": 4.2591
+    },
+    "score": 4.2728
+  },
+  "polish_title": "Dzień zagłady",
+  "silent": false,
+  "description_pl": "W kierunku Ziemi zbliża się ogromnych rozmiarów kometa. Wszystkie badania wykazują, że jej uderzenie zniszczy wszelkie formy życia. Zostają podjęte ostatnie próby uniknięcia tragedii lub przynajmniej zmniejszenia jej skutków. W kierunku komety wyrusza statek z grupą astronautów, którymi kieruje Spurgeon Tanner (<a href=\"/osoba/?id=nm0000380\">Robert Duvall</a>). Cały świat z uwagą śledzi każde ich posunięcie. Minuta po minucie nieubłaganie zbliża się dzień zagłady.",
+  "producers": [
+    {
+      "id": "nm0103497",
+      "name": "Joan Bradshaw"
+    },
+    {
+      "id": "nm0113360",
+      "name": "David Brown"
+    },
+    {
+      "id": "nm0247699",
+      "name": "D. Scott Easton"
+    },
+    {
+      "id": "nm0662748",
+      "name": "Walter F. Parkes"
+    },
+    {
+      "id": "nm0000229",
+      "name": "Steven Spielberg"
+    },
+    {
+      "id": "nm0005573",
+      "name": "Richard D. Zanuck"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0000035",
+      "name": "James Horner"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005777",
+      "name": "Dietrich Lohmann"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

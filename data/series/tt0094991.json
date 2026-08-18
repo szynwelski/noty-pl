@@ -1,0 +1,187 @@
+{
+  "imdb_id": "tt0094991",
+  "title": "Dekalog, dziewiec",
+  "description": "Following the discovery of his sexual impotence, a man urges his wife to take a lover.",
+  "runtime_minutes": 60,
+  "release_date": "29.06.1990",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0087787",
+      "name": "Ewa Blaszczyk"
+    },
+    {
+      "id": "nm0532536",
+      "name": "Piotr Machalica"
+    },
+    {
+      "id": "nm0054007",
+      "name": "Artur Barcis"
+    },
+    {
+      "id": "nm0417773",
+      "name": "Jan Jankowski"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001425",
+      "name": "Krzysztof Kieślowski"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0682830",
+      "name": "Krzysztof Piesiewicz"
+    },
+    {
+      "id": "nm0001425",
+      "name": "Krzysztof Kieślowski"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0087787",
+      "name": "Ewa Blaszczyk",
+      "character": "Hanka"
+    },
+    {
+      "id": "nm0532536",
+      "name": "Piotr Machalica",
+      "character": "Roman"
+    },
+    {
+      "id": "nm0054007",
+      "name": "Artur Barcis",
+      "character": "Bicyclist"
+    },
+    {
+      "id": "nm0417773",
+      "name": "Jan Jankowski",
+      "character": "Mariusz"
+    },
+    {
+      "id": "nm0682846",
+      "name": "Jolanta Pietek-Górecka",
+      "character": "Ola"
+    },
+    {
+      "id": "nm0686133",
+      "name": "Katarzyna Piwowarczyk",
+      "character": "Ania"
+    },
+    {
+      "id": "nm0871827",
+      "name": "Jerzy Trela",
+      "character": "Mikolaj"
+    },
+    {
+      "id": "nm0095951",
+      "name": "Malgorzata Boratynska",
+      "character": "Nurse"
+    },
+    {
+      "id": "nm0074333",
+      "name": "Renata Berger",
+      "character": ""
+    },
+    {
+      "id": "nm0194310",
+      "name": "Janusz Cywinski",
+      "character": "Chief Doctor"
+    },
+    {
+      "id": "nm0162052",
+      "name": "Jolanta Cichon",
+      "character": ""
+    },
+    {
+      "id": "nm0477181",
+      "name": "Slawomir Kwiatkowski",
+      "character": "Ski Rental Employee"
+    },
+    {
+      "id": "nm0699489",
+      "name": "Dariusz Przychoda",
+      "character": "KLM Employee Janusz"
+    }
+  ],
+  "countries": [
+    "Poland",
+    "West Germany"
+  ],
+  "languages": [
+    "Polish"
+  ],
+  "color": "Color",
+  "year": 1989,
+  "type": "tvEpisode",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTk0OTNjZjUtNTE2NC00M2JkLWI2ZDctNzRmNmE1MTEwYjNmXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 32734,
+  "ratings": {
+    "imdb": {
+      "rating": 8,
+      "votes": 3988,
+      "distribution": {
+        "1": 24,
+        "2": 16,
+        "3": 18,
+        "4": 33,
+        "5": 84,
+        "6": 273,
+        "7": 714,
+        "8": 1229,
+        "9": 979,
+        "10": 618
+      }
+    },
+    "filmweb": {
+      "rating": 7.71,
+      "votes": 18684,
+      "distribution": {
+        "1": 51,
+        "2": 31,
+        "3": 92,
+        "4": 161,
+        "5": 494,
+        "6": 1574,
+        "7": 4789,
+        "8": 7096,
+        "9": 3055,
+        "10": 1341
+      }
+    },
+    "michal": {
+      "rating": 10,
+      "date_rated": "21.10.2004"
+    }
+  },
+  "polish_title": "Dekalog IX",
+  "silent": false,
+  "description_pl": "40-letni kardiochirurg Roman (<a href=\"/osoba/?id=nm0532536\">Piotr Machalica</a>), dowiaduje się, że jest impotentem. Mężczyzna przypuszcza, że jego małżeństwo się rozpadnie, jednak jego żona, Hanka (<a href=\"/osoba/?id=nm0087787\">Ewa Błaszczyk</a>) kocha go i nie myśli o rozstaniu. Roman staje się obsesyjnie zazdrosny i zaczyna szpiegować żonę. Wkrótce odkrywa ukrywaną przez nią tajemnicę.",
+  "producers": [
+    {
+      "id": "nm0119557",
+      "name": "Andrzej Buhl"
+    },
+    {
+      "id": "nm0161541",
+      "name": "Ryszard Chutkowski"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006237",
+      "name": "Zbigniew Preisner"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0811834",
+      "name": "Piotr Sobocinski"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

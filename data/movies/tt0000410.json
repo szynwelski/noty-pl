@@ -1,0 +1,81 @@
+{
+  "imdb_id": "tt0000410",
+  "title": "Demolishing and Building Up the Star Theatre",
+  "description": "Time-lapse photography is used to show the manual dismantling and demolition of New York's Star Theatre at 13th Street and Broadway over a period of about 30 days.",
+  "runtime_minutes": 2,
+  "release_date": "1901",
+  "genres": [
+    "Documentary",
+    "Short"
+  ],
+  "directors": [
+    {
+      "id": "nm0035502",
+      "name": "Frederick S. Armitage"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 314363,
+  "year": 1901,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDEwMmIxZTItYzY0MS00ZWFlLWJkOGQtNjQ2OTUzOTE4ZTUxXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.7,
+      "votes": 1202,
+      "distribution": {
+        "1": 20,
+        "2": 23,
+        "3": 20,
+        "4": 49,
+        "5": 157,
+        "6": 263,
+        "7": 379,
+        "8": 166,
+        "9": 65,
+        "10": 60
+      },
+      "normalized": 5.0394
+    },
+    "filmweb": {
+      "rating": 6.41,
+      "votes": 56,
+      "distribution": {
+        "1": 1,
+        "2": 0,
+        "3": 2,
+        "4": 6,
+        "5": 9,
+        "6": 10,
+        "7": 9,
+        "8": 14,
+        "9": 2,
+        "10": 3
+      },
+      "normalized": 5.0226
+    },
+    "jarek": {
+      "rating": 8,
+      "date_rated": "13.12.2016",
+      "normalized": 7.8989
+    },
+    "score": 5.987
+  },
+  "polish_title": "Demolishing and Building Up the Star Theatre",
+  "silent": true,
+  "cinematographers": [
+    {
+      "id": "nm0035502",
+      "name": "Frederick S. Armitage"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-15"
+}

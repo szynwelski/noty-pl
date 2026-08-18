@@ -1,0 +1,47 @@
+{
+  "id": "nm1296102",
+  "name": "Edward Hogg",
+  "filmography": [
+    {
+      "imdb_id": "tt1846492",
+      "title": "Imagine",
+      "year": 2012,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Ian"
+    },
+    {
+      "imdb_id": "tt1617661",
+      "title": "Jupiter Ascending",
+      "year": 2015,
+      "roles": [
+        "cast"
+      ],
+      "character": "Chicanery Night"
+    },
+    {
+      "imdb_id": "tt3083008",
+      "title": "The Program",
+      "year": 2015,
+      "roles": [
+        "cast"
+      ],
+      "character": "Frankie Andreu"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOTdjNjkyYzItYzEyZi00ZjI3LWI0YTAtODM4ZWZiZTU2MmNjXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "26.01.1979",
+  "birth_location": "Doncaster, Yorkshire, England, UK",
+  "height": "1.78 m",
+  "filmweb_id": 464501,
+  "name_pl": "Edward Hogg",
+  "birth_location_pl": "Doncaster, Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ]
+}

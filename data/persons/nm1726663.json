@@ -1,0 +1,39 @@
+{
+  "id": "nm1726663",
+  "name": "Dave Porter",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTg2OTM2NDEwMF5BMl5BanBnXkFtZTgwNjQ4OTM2NDE@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0903747",
+      "title": "Breaking Bad",
+      "year": 2008,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt3032476",
+      "title": "Better Call Saul",
+      "year": 2015,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt9243946",
+      "title": "El Camino",
+      "year": 2019,
+      "roles": [
+        "composer"
+      ]
+    }
+  ],
+  "imdb_scraped": true,
+  "filmweb_id": 699951,
+  "name_pl": "Dave Porter",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

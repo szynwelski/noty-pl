@@ -1,0 +1,245 @@
+{
+  "imdb_id": "tt21382296",
+  "title": "Carry-On",
+  "description": "A mysterious traveler blackmails a young TSA agent into letting a dangerous package slip through security and onto a Christmas Eve flight.",
+  "runtime_minutes": 119,
+  "release_date": "13.12.2024",
+  "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm5473782",
+      "name": "Taron Egerton"
+    },
+    {
+      "id": "nm0000867",
+      "name": "Jason Bateman"
+    },
+    {
+      "id": "nm6259860",
+      "name": "Sofia Carson"
+    },
+    {
+      "id": "nm4314990",
+      "name": "Danielle Deadwyler"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm1429471",
+      "name": "Jaume Collet-Serra"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm2686579",
+      "name": "T.J. Fixman"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm5473782",
+      "name": "Taron Egerton",
+      "character": "Ethan Kopek"
+    },
+    {
+      "id": "nm0000867",
+      "name": "Jason Bateman",
+      "character": "Traveler"
+    },
+    {
+      "id": "nm6259860",
+      "name": "Sofia Carson",
+      "character": "Nora Parisi"
+    },
+    {
+      "id": "nm4314990",
+      "name": "Danielle Deadwyler",
+      "character": "Elena Cole"
+    },
+    {
+      "id": "nm0744331",
+      "name": "Theo Rossi",
+      "character": "Watcher"
+    },
+    {
+      "id": "nm6399254",
+      "name": "Tonatiuh",
+      "character": "Mateo Flores"
+    },
+    {
+      "id": "nm1334869",
+      "name": "Logan Marshall-Green",
+      "character": "Agent Alcott"
+    },
+    {
+      "id": "nm0606487",
+      "name": "Dean Norris",
+      "character": "Phil Sarkowski"
+    },
+    {
+      "id": "nm2344310",
+      "name": "Sinqua Walls",
+      "character": "Jason Noble"
+    },
+    {
+      "id": "nm1478007",
+      "name": "Curtiss Cook",
+      "character": "Lionel Williams"
+    },
+    {
+      "id": "nm2006513",
+      "name": "Joe Williamson",
+      "character": "Ron Dunn"
+    },
+    {
+      "id": "nm4909175",
+      "name": "Gil Perez-Abraham",
+      "character": "Eddie"
+    },
+    {
+      "id": "nm3091777",
+      "name": "Josh Brener",
+      "character": "Herschel"
+    },
+    {
+      "id": "nm0553468",
+      "name": "Benito Martinez",
+      "character": "Security Director Marm Bellows"
+    },
+    {
+      "id": "nm2994036",
+      "name": "Edwin Kho",
+      "character": "Lance"
+    },
+    {
+      "id": "nm11542530",
+      "name": "Reisha Reynolds",
+      "character": "Nina"
+    },
+    {
+      "id": "nm3506982",
+      "name": "Adam Stephenson",
+      "character": "Jesse"
+    },
+    {
+      "id": "nm5301609",
+      "name": "Michael Scott",
+      "character": "Samir"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 10016865,
+  "year": 2024,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTNkMjQzNmQtNzE4ZC00NDlmLTkyYjAtZDZkYTQ5NjBmYThlXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.5,
+      "votes": 197728,
+      "distribution": {
+        "1": 3359,
+        "2": 2452,
+        "3": 4023,
+        "4": 8084,
+        "5": 20379,
+        "6": 51380,
+        "7": 62914,
+        "8": 27376,
+        "9": 8086,
+        "10": 9675
+      },
+      "normalized": 4.4696
+    },
+    "filmweb": {
+      "rating": 5.95,
+      "votes": 39656,
+      "distribution": {
+        "1": 294,
+        "2": 472,
+        "3": 1530,
+        "4": 2775,
+        "5": 7232,
+        "6": 13817,
+        "7": 9574,
+        "8": 2953,
+        "9": 611,
+        "10": 398
+      },
+      "normalized": 3.2655
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "25.12.2024",
+      "normalized": 4.5781
+    },
+    "score": 4.1044
+  },
+  "polish_title": "Kontrola bezpieczeństwa",
+  "silent": false,
+  "description_pl": "Młody agent TSA próbuje przechytrzyć tajemniczego podróżnego, który szantażem chce wymusić na nim przewiezienie niebezpiecznej paczki samolotem, odlatującym w Wigilię.",
+  "producers": [
+    {
+      "id": "nm1484531",
+      "name": "Holly Bario"
+    },
+    {
+      "id": "nm1472051",
+      "name": "John A. Busenberg"
+    },
+    {
+      "id": "nm1249995",
+      "name": "Dylan Clark"
+    },
+    {
+      "id": "nm1429471",
+      "name": "Jaume Collet-Serra"
+    },
+    {
+      "id": "nm0254872",
+      "name": "Howard Ellis"
+    },
+    {
+      "id": "nm0328996",
+      "name": "Adam Goodman"
+    },
+    {
+      "id": "nm11850618",
+      "name": "Scott Greenberg"
+    },
+    {
+      "id": "nm0576720",
+      "name": "Seth William Meier"
+    },
+    {
+      "id": "nm11497714",
+      "name": "Jazmyn Tanski"
+    },
+    {
+      "id": "nm4275306",
+      "name": "Brian Williams"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm1154632",
+      "name": "Lorne Balfe"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm1503298",
+      "name": "Lyle Vincent"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,91 @@
+{
+  "imdb_id": "tt0000131",
+  "title": "Une nuit terrible",
+  "description": "A man tries to get a good night's sleep, but is disturbed by a giant spider that leaps onto his bed, and a battle ensues in hilarious comic fashion.",
+  "runtime_minutes": 1,
+  "release_date": "1896",
+  "genres": [
+    "Short",
+    "Comedy",
+    "Horror"
+  ],
+  "stars": [
+    {
+      "id": "nm0617588",
+      "name": "Georges Méliès"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0617588",
+      "name": "Georges Méliès"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0617588",
+      "name": "Georges Méliès",
+      "character": "L'homme qui essaie de dormir"
+    }
+  ],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 294591,
+  "year": 1896,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDc3NTg3MzEtYTM3NS00ZjgzLWEyOTAtZmYxNGJjMDYwYWU2XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.7,
+      "votes": 1776,
+      "distribution": {
+        "1": 40,
+        "2": 38,
+        "3": 91,
+        "4": 143,
+        "5": 422,
+        "6": 528,
+        "7": 293,
+        "8": 113,
+        "9": 40,
+        "10": 68
+      },
+      "normalized": 3.8016
+    },
+    "filmweb": {
+      "rating": 5.54,
+      "votes": 721,
+      "distribution": {
+        "1": 15,
+        "2": 12,
+        "3": 54,
+        "4": 77,
+        "5": 182,
+        "6": 202,
+        "7": 115,
+        "8": 32,
+        "9": 17,
+        "10": 15
+      },
+      "normalized": 3.3942
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "11.12.2016",
+      "normalized": 4.9718
+    },
+    "score": 4.0559
+  },
+  "polish_title": "Przerażająca noc",
+  "silent": true,
+  "description_pl": "Akcja filmu rozgrywa się w sypialni. Mężczyzna przygotowuje się do snu. Gasi świeczkę i układa na łóżku. Nie jest mu dany jednak spokojny odpoczynek. Na łóżko wdrapuje się  gigantyczny karaluch. Mężczyzna zrywa się przerażony i wyciąga miotłę. Okłada nią insekta i nieżywego wkłada do nocnika i chowa do nocnej szafki.",
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-15"
+}

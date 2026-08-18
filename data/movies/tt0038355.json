@@ -1,0 +1,228 @@
+{
+  "imdb_id": "tt0038355",
+  "title": "The Big Sleep",
+  "description": "Private detective Philip Marlowe is hired by a wealthy family. Before the complex case is over, he's seen murder, blackmail--and what might be love.",
+  "runtime_minutes": 114,
+  "release_date": "31.08.1946",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Film-Noir",
+    "Mystery",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000007",
+      "name": "Humphrey Bogart"
+    },
+    {
+      "id": "nm0000002",
+      "name": "Lauren Bacall"
+    },
+    {
+      "id": "nm0725891",
+      "name": "John Ridgely"
+    },
+    {
+      "id": "nm0896015",
+      "name": "Martha Vickers"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001328",
+      "name": "Howard Hawks"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0001203",
+      "name": "William Faulkner"
+    },
+    {
+      "id": "nm0102824",
+      "name": "Leigh Brackett"
+    },
+    {
+      "id": "nm0299154",
+      "name": "Jules Furthman"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000007",
+      "name": "Humphrey Bogart",
+      "character": "Philip Marlowe"
+    },
+    {
+      "id": "nm0000002",
+      "name": "Lauren Bacall",
+      "character": "Vivian Rutledge"
+    },
+    {
+      "id": "nm0725891",
+      "name": "John Ridgely",
+      "character": "Eddie Mars"
+    },
+    {
+      "id": "nm0896015",
+      "name": "Martha Vickers",
+      "character": "Carmen Sternwood"
+    },
+    {
+      "id": "nm0540416",
+      "name": "Dorothy Malone",
+      "character": "Acme Book Shop Proprietress"
+    },
+    {
+      "id": "nm0461739",
+      "name": "Peggy Knudsen",
+      "character": "Mona Mars"
+    },
+    {
+      "id": "nm0867538",
+      "name": "Regis Toomey",
+      "character": "Chief Inspector Bernie Ohls"
+    },
+    {
+      "id": "nm0907289",
+      "name": "Charles Waldron",
+      "character": "General Sternwood"
+    },
+    {
+      "id": "nm0113184",
+      "name": "Charles D. Brown",
+      "character": "Norris"
+    },
+    {
+      "id": "nm0824496",
+      "name": "Bob Steele",
+      "character": "Lash Canino"
+    },
+    {
+      "id": "nm0176879",
+      "name": "Elisha Cook Jr.",
+      "character": "Harry Jones"
+    },
+    {
+      "id": "nm0382195",
+      "name": "Louis Jean Heydt",
+      "character": "Joe Brody"
+    },
+    {
+      "id": "nm0054253",
+      "name": "Trevor Bardette",
+      "character": "Art Huck"
+    },
+    {
+      "id": "nm0055257",
+      "name": "Joy Barlow",
+      "character": "Taxi Driver"
+    },
+    {
+      "id": "nm0059497",
+      "name": "Max Barwyn",
+      "character": "Max"
+    },
+    {
+      "id": "nm0078921",
+      "name": "Deannie Best",
+      "character": "Waitress"
+    },
+    {
+      "id": "nm4185833",
+      "name": "William A. Boardway",
+      "character": "Casino Patron"
+    },
+    {
+      "id": "nm0151473",
+      "name": "Tanis Chandler",
+      "character": "Waitress"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 11679,
+  "year": 1946,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZTVlNDAwZTAtZmY0My00NDMyLWFkZjMtMjY0NmVmOTFlNTdhXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.9,
+      "votes": 94773,
+      "distribution": {
+        "1": 1469,
+        "2": 479,
+        "3": 643,
+        "4": 1132,
+        "5": 2888,
+        "6": 7036,
+        "7": 17470,
+        "8": 28780,
+        "9": 18449,
+        "10": 16427
+      },
+      "normalized": 7.1984
+    },
+    "filmweb": {
+      "rating": 7.71,
+      "votes": 9710,
+      "distribution": {
+        "1": 37,
+        "2": 13,
+        "3": 57,
+        "4": 91,
+        "5": 312,
+        "6": 898,
+        "7": 2397,
+        "8": 3441,
+        "9": 1655,
+        "10": 809
+      },
+      "normalized": 7.254
+    },
+    "jarek": {
+      "rating": 8,
+      "date_rated": "28.02.2011",
+      "normalized": 7.8989
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "30.11.2006",
+      "normalized": 7.2292
+    },
+    "score": 7.3951
+  },
+  "polish_title": "Wielki sen",
+  "silent": false,
+  "description_pl": "Prywatny detektyw Philip Marlowe (Humphrey Bogart) zostaje wynajęty przez bogatego dżentelmena do ochrony jego pięknej córki. Nieopatrznie sam staje się ofiarą starannie ukartowanej intrygi, której rozwiązania strzeże mroczna zasłona milczenia i zbrodni... Znakomita adaptacja debiutanckiej powieści Raymonda Chandlera.",
+  "producers": [
+    {
+      "id": "nm0912491",
+      "name": "Jack L. Warner"
+    },
+    {
+      "id": "nm0001328",
+      "name": "Howard Hawks"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0000070",
+      "name": "Max Steiner"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005741",
+      "name": "Sidney Hickox"
+    }
+  ],
+  "fetched_at": "2026-08-15"
+}

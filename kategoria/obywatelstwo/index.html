@@ -1,0 +1,524 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🎬</text></svg>">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Obywatelstwo — Noty</title>
+  <link rel="stylesheet" href="../../static/style.css">
+  <script src="../../static/translations.js"></script>
+  <script src="../../static/tooltip.js"></script>
+  <style>
+    .tab-bar {
+      display: flex;
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 1.25rem;
+    }
+    .tab {
+      background: none;
+      border: none;
+      border-bottom: 2px solid transparent;
+      padding: .55rem 1.1rem;
+      margin-bottom: -1px;
+      cursor: pointer;
+      color: var(--muted);
+      font-size: .9rem;
+      font-family: inherit;
+      transition: color .15s;
+    }
+    .tab:hover { color: var(--text); }
+    .tab.active { color: var(--accent); border-bottom-color: var(--accent); font-weight: 500; }
+  </style>
+</head>
+<body>
+  <nav>
+    <a class="logo" href="/">no<span>ty</span></a>
+    <a class="nav-link" href="/">Filmy</a>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Osoby <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/osoba/rezyser/">Reżyserzy</a>
+        <a href="/osoba/scenarzysta/">Scenarzyści</a>
+        <a href="/osoba/gwiazda/">Gwiazdy</a>
+        <a href="/osoba/aktor/">Aktorzy</a>
+        <a href="/osoba/kompozytor/">Kompozytorzy</a>
+        <a href="/osoba/operator/">Operatorzy</a>
+        <a href="/osoba/producent/">Producenci</a>
+        <a href="/osoba/wszechstronna/">Wszechstronni</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Krytycy <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/krytyk/jarek/">Jarek</a>
+        <a href="/krytyk/michal/">Michał</a>
+        <a href="/krytyk/imdb/">IMDb</a>
+        <a href="/krytyk/filmweb/">Filmweb</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Kategorie <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/kategoria/gatunek/">Gatunki</a>
+        <a href="/kategoria/kraj/">Kraje</a>
+        <a href="/kategoria/jezyk/">Języki</a>
+        <a href="/kategoria/dekada/">Dekady</a>
+        <a href="/kategoria/rok/">Lata</a>
+        <a href="/kategoria/czas/">Czas trwania</a>
+        <a href="/kategoria/popularnosc/">Popularność</a>
+        <hr>
+        <a href="/kategoria/plec/">Płeć</a>
+        <a href="/kategoria/obywatelstwo/">Obywatelstwo</a>
+        <a href="/kategoria/urodzenie/">Urodzenie</a>
+        <a href="/kategoria/wiek/">Wiek</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Statystyki <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/statystyki/podsumowanie/">Podsumowanie</a>
+        <a href="/statystyki/rekordy/">Rekordy</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Metodologia <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/metodologia/filmy/">Filmy</a>
+        <a href="/metodologia/osoby/">Osoby</a>
+        <a href="/metodologia/kategorie-filmow/">Kategorie filmów</a>
+        <a href="/metodologia/kategorie-osob/">Kategorie osób</a>
+      </div>
+    </div>
+    <button id="search-global-btn" class="nav-search-btn" title="Szukaj (⌘K)">
+      <svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+    </button>
+  </nav>
+  <div id="search-modal" class="search-modal">
+    <div id="search-modal-backdrop" class="search-modal-backdrop"></div>
+    <div class="search-modal-box">
+      <div class="search-modal-header">
+        <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink:0;color:var(--muted)"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        <input id="search-modal-input" class="search-modal-input" type="text" placeholder="Szukaj filmów i osób…" autocomplete="off" spellcheck="false">
+        <kbd class="search-modal-esc">Esc</kbd>
+      </div>
+      <div id="search-modal-results" class="search-modal-results"></div>
+    </div>
+  </div>
+  <script src="/static/search.js"></script>
+
+  <div id="tooltip"></div>
+  <div class="container">
+    <h1>Obywatelstwo <a href="/metodologia/kategorie-osob/#kategorie" title="Jak obliczana jest ocena?" style="font-size:.7rem;font-weight:400;color:var(--muted);border:1px solid var(--border);border-radius:50%;padding:.1em .5em;vertical-align:middle;text-decoration:none;margin-left:.4rem">?</a></h1>
+
+    <div class="search-bar">
+      <div class="search-wrap">
+        <input id="search" type="text" placeholder="Szukaj kraju…" autocomplete="off">
+        <button id="search-clear" class="search-clear" style="display:none" aria-label="Wyczyść">×</button>
+      </div>
+      <span class="count" id="count"></span>
+    </div>
+
+    <div id="loading">Ładowanie…</div>
+    <div id="error" style="display:none;color:var(--danger)"></div>
+    <div id="content" style="display:none">
+
+      <div class="tab-bar">
+        <button class="tab active" data-tab="liczba">Liczba osób</button>
+        <button class="tab"        data-tab="ocena">Ocena</button>
+      </div>
+
+      <!-- panel: Liczba osób -->
+      <div id="panel-liczba">
+        <table id="table-liczba">
+          <colgroup>
+            <col>
+            <col style="width:4.5rem">
+            <col style="width:3.8rem">
+            <col style="width:3.8rem">
+            <col style="width:3.8rem">
+            <col style="width:3.8rem">
+            <col style="width:3.8rem">
+            <col style="width:3.8rem">
+            <col style="width:3.8rem">
+          </colgroup>
+          <thead>
+            <tr>
+              <th data-table="liczba" data-col="name">Kraj</th>
+              <th class="num sorted" data-table="liczba" data-col="total" data-dir="-1">Razem</th>
+              <th class="num" data-table="liczba" data-col="directors"        title="Reżyserzy">Reż.</th>
+              <th class="num" data-table="liczba" data-col="writers"          title="Scenarzyści">Scen.</th>
+              <th class="num" data-table="liczba" data-col="stars"            title="Gwiazdy">Gw.</th>
+              <th class="num" data-table="liczba" data-col="actors"           title="Aktorzy">Akt.</th>
+              <th class="num" data-table="liczba" data-col="composers"        title="Kompozytorzy">Komp.</th>
+              <th class="num" data-table="liczba" data-col="cinematographers" title="Operatorzy">Oper.</th>
+              <th class="num" data-table="liczba" data-col="producers"        title="Producenci">Prod.</th>
+            </tr>
+          </thead>
+          <tbody id="tbody-liczba"></tbody>
+        </table>
+      </div>
+
+      <!-- panel: Ocena -->
+      <div id="panel-ocena" style="display:none">
+        <table id="table-ocena">
+          <colgroup>
+            <col>
+            <col style="width:4.5rem">
+            <col style="width:3.8rem">
+            <col style="width:3.8rem">
+            <col style="width:3.8rem">
+            <col style="width:3.8rem">
+            <col style="width:3.8rem">
+            <col style="width:3.8rem">
+            <col style="width:3.8rem">
+          </colgroup>
+          <thead>
+            <tr>
+              <th data-table="ocena" data-col="name">Kraj</th>
+              <th class="num sorted" data-table="ocena" data-col="score" data-dir="-1">Ocena</th>
+              <th class="num" data-table="ocena" data-col="directors"        title="Reżyserzy">Reż.</th>
+              <th class="num" data-table="ocena" data-col="writers"          title="Scenarzyści">Scen.</th>
+              <th class="num" data-table="ocena" data-col="stars"            title="Gwiazdy">Gw.</th>
+              <th class="num" data-table="ocena" data-col="actors"           title="Aktorzy">Akt.</th>
+              <th class="num" data-table="ocena" data-col="composers"        title="Kompozytorzy">Komp.</th>
+              <th class="num" data-table="ocena" data-col="cinematographers" title="Operatorzy">Oper.</th>
+              <th class="num" data-table="ocena" data-col="producers"        title="Producenci">Prod.</th>
+            </tr>
+          </thead>
+          <tbody id="tbody-ocena"></tbody>
+        </table>
+      </div>
+
+    </div>
+
+    <!-- Mapa -->
+    <div id="map-section" style="display:none;margin-top:2rem">
+      <h2 style="font-size:1rem;font-weight:600;margin:0 0 .25rem;color:var(--text)">Liczba osób według kraju</h2>
+      <div id="map-wrap" style="border:1px solid var(--border);border-radius:var(--radius);overflow:hidden;line-height:0"></div>
+      <div id="map-legend" style="display:flex;align-items:center;gap:.5rem;margin-top:.5rem;font-size:.78rem;color:var(--muted)">
+        <span>mało</span>
+        <div id="map-legend-bar" style="flex:1;max-width:160px;height:8px;border-radius:4px"></div>
+        <span>dużo</span>
+      </div>
+    </div>
+  </div>
+
+  <script>
+  const ROLE_COLS = [
+    { key: 'directors',        label: 'Reżyserzy',     url: '/osoba/rezyser/'     },
+    { key: 'writers',          label: 'Scenarzyści',    url: '/osoba/scenarzysta/' },
+    { key: 'stars',            label: 'Gwiazdy',        url: '/osoba/gwiazda/'     },
+    { key: 'actors',           label: 'Aktorzy',        url: '/osoba/aktor/'       },
+    { key: 'composers',        label: 'Kompozytorzy',   url: '/osoba/kompozytor/'  },
+    { key: 'cinematographers', label: 'Operatorzy',     url: '/osoba/operator/'    },
+    { key: 'producers',        label: 'Producenci',     url: '/osoba/producent/'   },
+  ];
+
+  // Global Bayesian means per role (from gender_stats.json)
+  let GLOBAL_AVG = {};  // per-role global means, loaded from role_means.json (built from data)
+  const BAYES_M = 30;
+
+  function bayesRole(d, roleKey) {
+    if (!d || d.count === 0 || d.avg == null) return null;
+    return (d.count * d.avg + BAYES_M * GLOBAL_AVG[roleKey]) / (d.count + BAYES_M);
+  }
+
+  function computeScore(entry) {
+    const scores = ROLE_COLS
+      .map(r => bayesRole(entry[r.key]?.all, r.key))
+      .filter(s => s != null);
+    return scores.length ? scores.reduce((a, b) => a + b, 0) / scores.length : null;
+  }
+
+  let allRows = [];
+  let activeTab = 'liczba';
+  const sortState = {
+    liczba: { col: 'total', dir: -1 },
+    ocena:  { col: 'score', dir: -1 },
+  };
+  const DEFAULT_SORT = { liczba: 'total', ocena: 'score' };
+
+
+  function nameCell(name) {
+    return `<td>${name}</td>`;
+  }
+
+  function buildTip(roleDef, entry) {
+    const d = entry[roleDef.key]?.all;
+    if (!d || !d.top?.length)
+      return `<div class="tip-title">${roleDef.label}</div><div class="muted" style="font-size:.85rem">Brak danych</div>`;
+    const bayes = bayesRole(d, roleDef.key);
+    const rows = d.top.map(p =>
+      `<tr><td style="padding-right:.75em"><a href="/osoba/?id=${p.id}" style="color:inherit">${p.name}</a></td>` +
+      `<td class="num"><span class="${scoreClass(p.score)}">${fmt(p.score)}</span></td></tr>`
+    ).join('');
+    return `<div class="tip-title">${roleDef.label}</div>` +
+      `<div class="tip-sub-label">Bayesa: ${fmt(bayes)} · śr.: ${fmt(d.avg)} · n=${d.count}</div>` +
+      `<table style="border-collapse:collapse;font-size:.85rem">${rows}</table>`;
+  }
+
+  function sortedRows(list, table) {
+    const { col, dir } = sortState[table];
+    return [...list].sort((a, b) => {
+      if (col === 'name')  return dir * a.name.localeCompare(b.name, 'pl');
+      if (col === 'total') return dir * (a.total - b.total);
+      if (col === 'score') {
+        if (a.score == null && b.score == null) return 0;
+        if (a.score == null) return 1;
+        if (b.score == null) return -1;
+        return dir * (a.score - b.score);
+      }
+      const rk = ROLE_COLS.find(r => r.key === col);
+      if (!rk) return 0;
+      if (table === 'ocena') {
+        const va = bayesRole(a.entry[rk.key]?.all, rk.key) ?? -Infinity;
+        const vb = bayesRole(b.entry[rk.key]?.all, rk.key) ?? -Infinity;
+        return dir * (va - vb);
+      }
+      const ca = a.entry[rk.key]?.all?.count ?? 0;
+      const cb = b.entry[rk.key]?.all?.count ?? 0;
+      return dir * (ca - cb);
+    });
+  }
+
+  function renderCount(list) {
+    const data = sortedRows(list, 'liczba');
+    const tbody = document.getElementById('tbody-liczba');
+    tbody.innerHTML = '';
+    data.forEach((row) => {
+      const tr = document.createElement('tr');
+      let html = nameCell(row.name);
+      html += `<td class="num">${row.total.toLocaleString('pl')}</td>`;
+      ROLE_COLS.forEach(roleDef => {
+        const cnt = row.entry[roleDef.key]?.all?.count ?? 0;
+        if (cnt === 0) {
+          html += `<td class="num muted">—</td>`;
+        } else {
+          const href = `${roleDef.url}?kraj=${encodeURIComponent(row.name)}`;
+          html += `<td class="num" data-role="${roleDef.key}"><a href="${href}">${cnt.toLocaleString('pl')}</a></td>`;
+        }
+      });
+      tr.innerHTML = html;
+      ROLE_COLS.forEach(roleDef => {
+        const td = tr.querySelector(`[data-role="${roleDef.key}"]`);
+        if (td) attachTip(td, () => buildTip(roleDef, row.entry));
+      });
+      tbody.appendChild(tr);
+    });
+  }
+
+  function renderScore(list) {
+    const data = sortedRows(list, 'ocena');
+    const tbody = document.getElementById('tbody-ocena');
+    tbody.innerHTML = '';
+    data.forEach((row) => {
+      const tr = document.createElement('tr');
+      let html = nameCell(row.name);
+      const sc = row.score;
+      html += `<td class="num"><span class="${scoreClass(sc)}">${sc != null ? fmt(sc) : '—'}</span></td>`;
+      ROLE_COLS.forEach(roleDef => {
+        const d = row.entry[roleDef.key]?.all;
+        const b = bayesRole(d, roleDef.key);
+        if (b == null) {
+          html += `<td class="num muted">—</td>`;
+        } else {
+          const href = `${roleDef.url}?kraj=${encodeURIComponent(row.name)}`;
+          html += `<td class="num" data-role="${roleDef.key}"><a href="${href}"><span class="${scoreClass(b)}">${fmt(b)}</span></a></td>`;
+        }
+      });
+      tr.innerHTML = html;
+      ROLE_COLS.forEach(roleDef => {
+        const td = tr.querySelector(`[data-role="${roleDef.key}"]`);
+        if (td) attachTip(td, () => buildTip(roleDef, row.entry));
+      });
+      tbody.appendChild(tr);
+    });
+  }
+
+  function filtered() {
+    const q = document.getElementById('search').value.trim().toLowerCase();
+    return q ? allRows.filter(r => r.name.toLowerCase().includes(q)) : allRows;
+  }
+
+  function render() {
+    const list = filtered();
+    document.getElementById('count').textContent =
+      list.length === allRows.length ? `${allRows.length} krajów` : `${list.length} z ${allRows.length}`;
+    renderCount(list);
+    renderScore(list);
+  }
+
+  function updateUrl() {
+    const p = new URLSearchParams();
+    const q = document.getElementById('search').value.trim();
+    if (q) p.set('szukaj', q);
+    if (activeTab !== 'liczba') p.set('zakladka', activeTab);
+    const st = sortState[activeTab];
+    if (st.col !== DEFAULT_SORT[activeTab] || st.dir !== -1) {
+      p.set('sortuj', st.col);
+      if (st.dir === 1) p.set('kier', 'rosnaco');
+    }
+    const qs = p.toString();
+    history.replaceState(null, '', qs ? '?' + qs : location.pathname);
+  }
+
+  function applyThHeader(table, col, dir) {
+    const thead = document.querySelector(`#table-${table} thead`);
+    thead.querySelectorAll('th').forEach(t => { t.classList.remove('sorted'); delete t.dataset.dir; });
+    const th = thead.querySelector(`[data-col="${col}"]`);
+    if (th) { th.classList.add('sorted'); th.dataset.dir = String(dir); }
+  }
+
+  // Tab switching
+  document.querySelectorAll('.tab').forEach(btn => {
+    btn.addEventListener('click', () => {
+      activeTab = btn.dataset.tab;
+      document.querySelectorAll('.tab').forEach(b => b.classList.toggle('active', b === btn));
+      document.getElementById('panel-liczba').style.display = activeTab === 'liczba' ? '' : 'none';
+      document.getElementById('panel-ocena').style.display = activeTab === 'ocena' ? '' : 'none';
+      updateUrl();
+    });
+  });
+
+  // Sort headers
+  document.querySelectorAll('thead th[data-table]').forEach(th => {
+    th.addEventListener('click', () => {
+      const table = th.dataset.table;
+      const col   = th.dataset.col;
+      const st    = sortState[table];
+      st.dir = (st.col === col) ? st.dir * -1 : (col === 'name' ? 1 : -1);
+      st.col = col;
+      th.closest('thead').querySelectorAll('th').forEach(t => { t.classList.remove('sorted'); delete t.dataset.dir; });
+      th.classList.add('sorted');
+      th.dataset.dir = String(st.dir);
+      render();
+      updateUrl();
+    });
+  });
+
+  // Search
+  const searchEl = document.getElementById('search');
+  const clearBtn = document.getElementById('search-clear');
+  searchEl.addEventListener('input', () => {
+    clearBtn.style.display = searchEl.value ? '' : 'none';
+    render();
+    updateUrl();
+  });
+  clearBtn.addEventListener('click', () => {
+    searchEl.value = '';
+    clearBtn.style.display = 'none';
+    render();
+    updateUrl();
+  });
+
+  // ── Map ──────────────────────────────────────────────────────────────────
+
+  function countColor(t) {
+    // t in [0,1]: white → accent (#3d6fe8)
+    const r = Math.round(220 + (61  - 220) * t);
+    const g = Math.round(228 + (111 - 228) * t);
+    const b = Math.round(245 + (232 - 245) * t);
+    return `rgb(${r},${g},${b})`;
+  }
+
+  function drawMap(rows, isoMap, svgText) {
+    const byIso = {};
+    rows.forEach(row => {
+      const iso = isoMap[row.name];
+      if (iso && (!byIso[iso] || row.total > byIso[iso].total)) byIso[iso] = row;
+    });
+
+    const wrap = document.getElementById('map-wrap');
+    wrap.innerHTML = svgText;
+    const svg = wrap.querySelector('svg');
+    svg.style.cssText = 'display:block;width:100%;height:auto';
+
+    const maxLog = Math.log(Math.max(...Object.values(byIso).map(r => r.total)) + 1);
+
+    // tooltip div
+    const tip = document.createElement('div');
+    tip.style.cssText = 'position:fixed;background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:.4rem .65rem;font-size:.82rem;pointer-events:none;display:none;z-index:100;box-shadow:0 2px 8px rgba(0,0,0,.12)';
+    document.body.appendChild(tip);
+
+    svg.querySelectorAll('path[id]').forEach(path => {
+      const iso = path.id;
+      const row = byIso[iso];
+      if (!row) return;
+
+      const t = Math.log(row.total + 1) / maxLog;
+      path.style.fill = countColor(t);
+      path.style.cursor = 'pointer';
+
+      path.addEventListener('mousemove', e => {
+        const sc = row.score != null ? ` · ocena ${fmt(row.score)}` : '';
+        tip.innerHTML = `<strong>${row.name}</strong><br><span style="color:var(--muted)">${row.total.toLocaleString('pl')} osób${sc}</span>`;
+        tip.style.display = 'block';
+        tip.style.left  = (e.clientX + 12) + 'px';
+        tip.style.top   = (e.clientY - 10) + 'px';
+      });
+      path.addEventListener('mouseleave', () => { tip.style.display = 'none'; });
+      path.addEventListener('click', () => {
+        location.href = `?szukaj=${encodeURIComponent(row.name)}`;
+      });
+    });
+
+    // legend gradient
+    const steps = 12;
+    const stops = Array.from({length: steps}, (_, i) => countColor(i / (steps - 1))).join(',');
+    document.getElementById('map-legend-bar').style.background = `linear-gradient(to right,${stops})`;
+
+    document.getElementById('map-section').style.display = '';
+  }
+
+  // Load data
+  Promise.all([
+    fetch('../../data/gender_by_country.json').then(r => { if (!r.ok) throw new Error(r.status); return r.json(); }),
+    fetch('../../data/country-iso.json').then(r => r.json()),
+    fetch('../../static/world-map.svg').then(r => r.text()),
+    fetch('../../data/role_means.json').then(r => r.json()),
+  ]).then(([data, isoMap, svgText, roleMeans]) => {
+      GLOBAL_AVG = roleMeans;
+      allRows = Object.entries(data).map(([name, entry]) => ({
+        name,
+        total: entry._count,
+        score: computeScore(entry),
+        entry,
+      }));
+
+      // Restore state from URL
+      const urlP = new URLSearchParams(location.search);
+      const tab = urlP.get('zakladka');
+      if (tab === 'ocena') {
+        activeTab = 'ocena';
+        document.querySelector('.tab[data-tab="ocena"]').classList.add('active');
+        document.querySelector('.tab[data-tab="liczba"]').classList.remove('active');
+        document.getElementById('panel-liczba').style.display = 'none';
+        document.getElementById('panel-ocena').style.display = '';
+      }
+      const sortuj = urlP.get('sortuj');
+      if (sortuj) {
+        const dir = urlP.get('kier') === 'rosnaco' ? 1 : -1;
+        sortState[activeTab].col = sortuj;
+        sortState[activeTab].dir = dir;
+        applyThHeader(activeTab, sortuj, dir);
+      }
+      const szukaj = urlP.get('szukaj');
+      if (szukaj) {
+        searchEl.value = szukaj;
+        clearBtn.style.display = 'flex';
+      }
+
+      document.getElementById('loading').style.display = 'none';
+      document.getElementById('content').style.display = '';
+      render();
+      drawMap(allRows, isoMap, svgText);
+    })
+    .catch(err => {
+      document.getElementById('loading').style.display = 'none';
+      const el = document.getElementById('error');
+      el.style.display = '';
+      el.textContent = 'Błąd ładowania danych: ' + err.message;
+    });
+  </script>
+</body>
+</html>

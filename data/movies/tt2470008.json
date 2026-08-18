@@ -1,0 +1,72 @@
+{
+  "imdb_id": "tt2470008",
+  "title": "View from an Engine Front: Ilfracombe",
+  "description": "",
+  "runtime_minutes": 4,
+  "release_date": "1898",
+  "genres": [
+    "Documentary",
+    "Short"
+  ],
+  "top_cast": [],
+  "countries": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "None",
+    "English"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 758278,
+  "year": 1898,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDE2ZWY3MGYtOTEyYS00MWViLWE2ZWUtNWYwMzAwYmJmNjAyXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 4.8,
+      "votes": 85,
+      "distribution": {
+        "1": 9,
+        "2": 3,
+        "3": 6,
+        "4": 13,
+        "5": 25,
+        "6": 16,
+        "7": 8,
+        "8": 2,
+        "9": 0,
+        "10": 3
+      },
+      "normalized": 4.9275
+    },
+    "filmweb": {
+      "rating": 3.75,
+      "votes": 8,
+      "distribution": {
+        "1": 1,
+        "2": 0,
+        "3": 3,
+        "4": 2,
+        "5": 0,
+        "6": 2,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 4.9742
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "13.12.2016",
+      "normalized": 4.9718
+    },
+    "score": 4.9578
+  },
+  "polish_title": "View from an Engine Front: Ilfracombe",
+  "silent": true,
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-16"
+}

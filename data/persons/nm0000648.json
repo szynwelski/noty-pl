@@ -1,0 +1,84 @@
+{
+  "id": "nm0000648",
+  "name": "Wesley Snipes",
+  "filmography": [
+    {
+      "imdb_id": "tt0106697",
+      "title": "Demolition Man",
+      "year": 1993,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Simon Phoenix"
+    },
+    {
+      "imdb_id": "tt0109676",
+      "title": "Drop Zone",
+      "year": 1994,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Pete Nessip"
+    },
+    {
+      "imdb_id": "tt0120611",
+      "title": "Blade",
+      "year": 1998,
+      "roles": [
+        "star",
+        "cast",
+        "producer"
+      ],
+      "character": "Blade"
+    },
+    {
+      "imdb_id": "tt0160009",
+      "title": "The Art of War",
+      "year": 2000,
+      "roles": [
+        "star",
+        "cast",
+        "producer"
+      ],
+      "character": "Shaw"
+    },
+    {
+      "imdb_id": "tt0187738",
+      "title": "Blade II",
+      "year": 2002,
+      "roles": [
+        "star",
+        "cast",
+        "producer"
+      ],
+      "character": "Blade"
+    },
+    {
+      "imdb_id": "tt0359013",
+      "title": "Blade: Trinity",
+      "year": 2004,
+      "roles": [
+        "star",
+        "cast",
+        "producer"
+      ],
+      "character": "Blade"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTI4Mzk4MDk2NV5BMl5BanBnXkFtZTYwODgxNjc4._V1_.jpg",
+  "birth_date": "31.07.1962",
+  "birth_location": "Orlando, Florida, USA",
+  "height": "1.75 m",
+  "filmweb_id": 281,
+  "name_pl": "Wesley Snipes",
+  "birth_location_pl": "Orlando, Floryda",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 281
+}

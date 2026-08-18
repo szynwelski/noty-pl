@@ -1,0 +1,247 @@
+{
+  "imdb_id": "tt2316204",
+  "title": "Alien: Covenant",
+  "description": "The crew of a colony ship, bound for a remote planet, discover an uncharted paradise with a threat beyond their imagination, and must attempt a harrowing escape.",
+  "runtime_minutes": 122,
+  "release_date": "19.05.2017",
+  "genres": [
+    "Horror",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm1055413",
+      "name": "Michael Fassbender"
+    },
+    {
+      "id": "nm2239702",
+      "name": "Katherine Waterston"
+    },
+    {
+      "id": "nm0001082",
+      "name": "Billy Crudup"
+    },
+    {
+      "id": "nm1104131",
+      "name": "Danny McBride"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000631",
+      "name": "Ridley Scott"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0639321",
+      "name": "Dan O'Bannon"
+    },
+    {
+      "id": "nm0795953",
+      "name": "Ronald Shusett"
+    },
+    {
+      "id": "nm1438698",
+      "name": "Jack Paglen"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1055413",
+      "name": "Michael Fassbender",
+      "character": "David"
+    },
+    {
+      "id": "nm2239702",
+      "name": "Katherine Waterston",
+      "character": "Daniels"
+    },
+    {
+      "id": "nm0001082",
+      "name": "Billy Crudup",
+      "character": "Oram"
+    },
+    {
+      "id": "nm1104131",
+      "name": "Danny McBride",
+      "character": "Tennessee"
+    },
+    {
+      "id": "nm0065007",
+      "name": "Demián Bichir",
+      "character": "Lope"
+    },
+    {
+      "id": "nm0252238",
+      "name": "Carmen Ejogo",
+      "character": "Karine"
+    },
+    {
+      "id": "nm0810620",
+      "name": "Jussie Smollett",
+      "character": "Ricks"
+    },
+    {
+      "id": "nm5555747",
+      "name": "Callie Hernandez",
+      "character": "Upworth"
+    },
+    {
+      "id": "nm1541272",
+      "name": "Amy Seimetz",
+      "character": "Faris"
+    },
+    {
+      "id": "nm1089483",
+      "name": "Nathaniel Dean",
+      "character": "Hallett"
+    },
+    {
+      "id": "nm1542397",
+      "name": "Alexander England",
+      "character": "Ankor"
+    },
+    {
+      "id": "nm4430268",
+      "name": "Benjamin Rigby",
+      "character": "Ledward"
+    },
+    {
+      "id": "nm5937328",
+      "name": "Uli Latukefu",
+      "character": "Cole"
+    },
+    {
+      "id": "nm3746071",
+      "name": "Tess Haubrich",
+      "character": "Rosenthal"
+    },
+    {
+      "id": "nm0455009",
+      "name": "Lorelei King",
+      "character": "Mother"
+    },
+    {
+      "id": "nm2377520",
+      "name": "Goran D. Kleut",
+      "character": "Xenomorph"
+    },
+    {
+      "id": "nm8830098",
+      "name": "Andrew Crawford",
+      "character": "Neomorph"
+    },
+    {
+      "id": "nm2306701",
+      "name": "Javier Botet",
+      "character": "Xenomorph"
+    }
+  ],
+  "countries": [
+    "United Kingdom",
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "color": "Color",
+  "filmweb_id": 665400,
+  "year": 2017,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjhiYWQ4MTAtOGY1Zi00ZjcyLTk1ZDYtODI3ODRhNjE4MzZhXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.4,
+      "votes": 347938,
+      "distribution": {
+        "1": 8205,
+        "2": 5592,
+        "3": 9280,
+        "4": 17508,
+        "5": 38087,
+        "6": 83985,
+        "7": 101872,
+        "8": 50649,
+        "9": 15848,
+        "10": 16912
+      },
+      "normalized": 4.2619
+    },
+    "filmweb": {
+      "rating": 5.73,
+      "votes": 84847,
+      "distribution": {
+        "1": 1061,
+        "2": 1519,
+        "3": 5760,
+        "4": 8149,
+        "5": 18830,
+        "6": 22726,
+        "7": 17251,
+        "8": 6618,
+        "9": 1648,
+        "10": 1285
+      },
+      "normalized": 2.9563
+    },
+    "jarek": {
+      "rating": 1,
+      "date_rated": "01.06.2017",
+      "normalized": 2.5327
+    },
+    "score": 3.2503
+  },
+  "polish_title": "Obcy: Przymierze",
+  "silent": false,
+  "description_pl": "Statek osadniczy \"Przymierze\" dociera na nieznaną planetę, która wydaje się być prawdziwym rajem dla człowieka. Członkowie ekspedycji szybko się jednak przekonują, że trafili do mrocznego, pełnego tajemnic i zagadek świata, którego jedynym mieszkańcem jest android David (nominowany do Oscara <a href=\"/osoba/?id=nm1055413\">Michael Fassbender</a>), ocalały z katastrofy \"Prometeusza\". Gdy odkrywają, że świat ten kryje w sobie niewyobrażalne zagrożenie, muszą podjąć przerażającą próbę ucieczki.",
+  "producers": [
+    {
+      "id": "nm0318429",
+      "name": "David Giler"
+    },
+    {
+      "id": "nm1536584",
+      "name": "Amy Greene"
+    },
+    {
+      "id": "nm0001353",
+      "name": "Walter Hill"
+    },
+    {
+      "id": "nm0400240",
+      "name": "Mark Huffam"
+    },
+    {
+      "id": "nm2294510",
+      "name": "Hannah Ireland"
+    },
+    {
+      "id": "nm0446894",
+      "name": "Teresa Kelly"
+    },
+    {
+      "id": "nm0769644",
+      "name": "Michael Schaefer"
+    },
+    {
+      "id": "nm0000631",
+      "name": "Ridley Scott"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm1011485",
+      "name": "Jed Kurzel"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0003011",
+      "name": "Dariusz Wolski"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,102 @@
+{
+  "imdb_id": "tt0000211",
+  "title": "The Astronomer's Dream; or, The Man in the Moon",
+  "description": "An astronomer falls asleep and has a strange dream involving a fairy queen and the Moon.",
+  "runtime_minutes": 3,
+  "release_date": "1898",
+  "genres": [
+    "Short",
+    "Comedy",
+    "Fantasy",
+    "Horror",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm0194945",
+      "name": "Jehanne d'Alcy"
+    },
+    {
+      "id": "nm0617588",
+      "name": "Georges Méliès"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0617588",
+      "name": "Georges Méliès"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0194945",
+      "name": "Jehanne d'Alcy",
+      "character": "Phoebe - la bonne fée"
+    },
+    {
+      "id": "nm0617588",
+      "name": "Georges Méliès",
+      "character": "L'astronome"
+    }
+  ],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 376674,
+  "year": 1898,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTg4NTcxY2YtYTBmMC00OTA5LWFmNmQtN2RlZGFlYzc5M2YzXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "La lune à un mètre",
+  "ratings": {
+    "imdb": {
+      "rating": 7.4,
+      "votes": 5505,
+      "distribution": {
+        "1": 59,
+        "2": 39,
+        "3": 56,
+        "4": 105,
+        "5": 280,
+        "6": 720,
+        "7": 1628,
+        "8": 1539,
+        "9": 500,
+        "10": 579
+      },
+      "normalized": 6.1745
+    },
+    "filmweb": {
+      "rating": 6.85,
+      "votes": 666,
+      "distribution": {
+        "1": 1,
+        "2": 2,
+        "3": 12,
+        "4": 17,
+        "5": 42,
+        "6": 172,
+        "7": 235,
+        "8": 120,
+        "9": 42,
+        "10": 23
+      },
+      "normalized": 5.298
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "16.12.2016",
+      "normalized": 7.1247
+    },
+    "score": 6.1991
+  },
+  "polish_title": "Sen Astronoma",
+  "silent": true,
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-15"
+}

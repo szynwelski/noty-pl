@@ -1,0 +1,76 @@
+{
+  "id": "nm0000469",
+  "name": "James Earl Jones",
+  "filmography": [
+    {
+      "imdb_id": "tt0057012",
+      "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "year": 1964,
+      "roles": [
+        "cast"
+      ],
+      "character": "Lt. Lothar Zogg"
+    },
+    {
+      "imdb_id": "tt0075520",
+      "title": "Jesus of Nazareth",
+      "year": 1977,
+      "roles": [
+        "cast"
+      ],
+      "character": "Balthazar"
+    },
+    {
+      "imdb_id": "tt0086190",
+      "title": "Star Wars: Episode VI - Return of the Jedi",
+      "year": 1983,
+      "roles": [
+        "cast"
+      ],
+      "character": "Darth Vader"
+    },
+    {
+      "imdb_id": "tt0096913",
+      "title": "Best of the Best",
+      "year": 1989,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Frank Couzo"
+    },
+    {
+      "imdb_id": "tt0099810",
+      "title": "The Hunt for Red October",
+      "year": 1990,
+      "roles": [
+        "cast"
+      ],
+      "character": "Admiral Greer"
+    },
+    {
+      "imdb_id": "tt0110357",
+      "title": "The Lion King",
+      "year": 1994,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Mufasa"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTcwNTg1MzMwM15BMl5BanBnXkFtZTcwNTQyMDgyMg@@._V1_.jpg",
+  "birth_date": "17.01.1931",
+  "death_date": "09.09.2024",
+  "birth_location": "Arkabutla, Mississippi, USA",
+  "height": "1.87 m",
+  "filmweb_id": 4794,
+  "name_pl": "James Earl Jones",
+  "birth_location_pl": "Arkabutla, Missisipi",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

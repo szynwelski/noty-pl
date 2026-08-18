@@ -1,0 +1,259 @@
+{
+  "imdb_id": "tt0449467",
+  "title": "Babel",
+  "description": "Tragedy strikes a married couple on vacation in the Moroccan desert, which jump starts an interlocking story involving four different families.",
+  "runtime_minutes": 143,
+  "release_date": "10.11.2006",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0000093",
+      "name": "Brad Pitt"
+    },
+    {
+      "id": "nm0000949",
+      "name": "Cate Blanchett"
+    },
+    {
+      "id": "nm0305558",
+      "name": "Gael García Bernal"
+    },
+    {
+      "id": "nm2415554",
+      "name": "Mohamed Akhzam"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0327944",
+      "name": "Alejandro G. Iñárritu"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0037247",
+      "name": "Guillermo Arriaga"
+    },
+    {
+      "id": "nm0327944",
+      "name": "Alejandro G. Iñárritu"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000093",
+      "name": "Brad Pitt",
+      "character": "Richard"
+    },
+    {
+      "id": "nm0000949",
+      "name": "Cate Blanchett",
+      "character": "Susan"
+    },
+    {
+      "id": "nm0305558",
+      "name": "Gael García Bernal",
+      "character": "Santiago"
+    },
+    {
+      "id": "nm2415554",
+      "name": "Mohamed Akhzam",
+      "character": "Anwar"
+    },
+    {
+      "id": "nm0927835",
+      "name": "Peter Wight",
+      "character": "Tom"
+    },
+    {
+      "id": "nm0910040",
+      "name": "Harriet Walter",
+      "character": "Lilly"
+    },
+    {
+      "id": "nm0553163",
+      "name": "Trevor Martin",
+      "character": "Douglas"
+    },
+    {
+      "id": "nm0316702",
+      "name": "Matyelok Gibbs",
+      "character": "Elyse"
+    },
+    {
+      "id": "nm2415577",
+      "name": "Georges Bousquet",
+      "character": "Robert"
+    },
+    {
+      "id": "nm1641171",
+      "name": "Claudine Acs",
+      "character": "Jane"
+    },
+    {
+      "id": "nm0653589",
+      "name": "André Oumansky",
+      "character": "Walter"
+    },
+    {
+      "id": "nm0540585",
+      "name": "Michael Maloney",
+      "character": "James"
+    },
+    {
+      "id": "nm0189720",
+      "name": "Dermot Crowley",
+      "character": "Barth"
+    },
+    {
+      "id": "nm0636637",
+      "name": "Wendy Nottingham",
+      "character": "Tourist"
+    },
+    {
+      "id": "nm2415560",
+      "name": "Henry Maratray",
+      "character": "Tourist"
+    },
+    {
+      "id": "nm0112697",
+      "name": "Linda Broughton",
+      "character": "Tourist"
+    },
+    {
+      "id": "nm2548651",
+      "name": "Jean Marc Hulot",
+      "character": "Tourist"
+    },
+    {
+      "id": "nm0610242",
+      "name": "Aline Mowat",
+      "character": "Tourist"
+    }
+  ],
+  "countries": [
+    "United States",
+    "Mexico",
+    "France",
+    "Japan",
+    "Morocco"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Spanish",
+    "Japanese",
+    "Berber languages",
+    "French",
+    "Russian",
+    "Japanese Sign Language"
+  ],
+  "color": "Color",
+  "filmweb_id": 210898,
+  "year": 2006,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDY3YjliMzgtMTkxYi00MmRkLWI1YTktNGQ3NGJhNzVhNzg5XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.4,
+      "votes": 330461,
+      "distribution": {
+        "1": 4676,
+        "2": 2435,
+        "3": 3632,
+        "4": 6314,
+        "5": 13695,
+        "6": 35231,
+        "7": 87166,
+        "8": 101592,
+        "9": 47044,
+        "10": 28676
+      },
+      "normalized": 6.2823
+    },
+    "filmweb": {
+      "rating": 7.39,
+      "votes": 174002,
+      "distribution": {
+        "1": 797,
+        "2": 787,
+        "3": 2310,
+        "4": 3799,
+        "5": 9504,
+        "6": 20906,
+        "7": 47062,
+        "8": 53449,
+        "9": 22349,
+        "10": 13039
+      },
+      "normalized": 6.4702
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "11.08.2010",
+      "normalized": 6.4102
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "23.11.2006",
+      "normalized": 6.3474
+    },
+    "score": 6.3775
+  },
+  "polish_title": "Babel",
+  "silent": false,
+  "description_pl": "Cztery historie ze wspólnym mianownikiem - problemem z komunikacją międzyludzką. Rodzina z Maroka, małżeństwo amerykańskich turystów, niania z Meksyku, która opiekuje się dziećmi Amerykanów oraz niesłysząca córka japońskiego biznesmena zostają wciągnięci w serię wypadków, których konsekwencje w zależności od punktu widzenia i od bohatera są tragiczne lub ratują życie.",
+  "producers": [
+    {
+      "id": "nm0008900",
+      "name": "Jimmy Abounouom"
+    },
+    {
+      "id": "nm0326512",
+      "name": "Steve Golin"
+    },
+    {
+      "id": "nm2552481",
+      "name": "Norihisa Harada"
+    },
+    {
+      "id": "nm0327944",
+      "name": "Alejandro G. Iñárritu"
+    },
+    {
+      "id": "nm0453091",
+      "name": "Jon Kilik"
+    },
+    {
+      "id": "nm0518504",
+      "name": "Tita Lombardo"
+    },
+    {
+      "id": "nm0747742",
+      "name": "Ann Ruark"
+    },
+    {
+      "id": "nm2541993",
+      "name": "Kay Ueda"
+    },
+    {
+      "id": "nm1432699",
+      "name": "Corinne Golden Weber"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0763395",
+      "name": "Gustavo Santaolalla"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0006509",
+      "name": "Rodrigo Prieto"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

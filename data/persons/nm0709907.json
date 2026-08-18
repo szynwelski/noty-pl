@@ -1,0 +1,40 @@
+{
+  "id": "nm0709907",
+  "name": "John Randolph",
+  "filmography": [
+    {
+      "imdb_id": "tt0070666",
+      "title": "Serpico",
+      "year": 1973,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Sidney Green"
+    },
+    {
+      "imdb_id": "tt0128853",
+      "title": "You've Got Mail",
+      "year": 1998,
+      "roles": [
+        "cast"
+      ],
+      "character": "Schuyler Fox"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQxOTc1MzQ3Nl5BMl5BanBnXkFtZTYwMTMzNDk3._V1_.jpg",
+  "birth_date": "01.06.1915",
+  "death_date": "24.02.2004",
+  "birth_location": "New York City, New York, USA",
+  "height": "1.83 m",
+  "imdb_scraped": true,
+  "filmweb_id": 3663,
+  "name_pl": "John Randolph",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 3663
+}

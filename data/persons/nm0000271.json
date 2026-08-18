@@ -1,0 +1,39 @@
+{
+  "id": "nm0000271",
+  "name": "Anne Archer",
+  "filmography": [
+    {
+      "imdb_id": "tt0108122",
+      "title": "Short Cuts",
+      "year": 1993,
+      "roles": [
+        "cast"
+      ],
+      "character": "Claire Kane"
+    },
+    {
+      "imdb_id": "tt0160009",
+      "title": "The Art of War",
+      "year": 2000,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Eleanor Hooks"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOTRhMWM0MTctYjRmZC00MGY0LTg0Y2QtOGZmYTE1M2EyMmMxXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "24.08.1947",
+  "birth_location": "Los Angeles, California, USA",
+  "height": "1.68 m",
+  "imdb_scraped": true,
+  "filmweb_id": 8413,
+  "name_pl": "Anne Archer",
+  "birth_location_pl": "Los Angeles, Kalifornia",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 8413
+}

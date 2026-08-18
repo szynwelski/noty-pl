@@ -1,0 +1,41 @@
+{
+  "id": "nm0000389",
+  "name": "Emilio Estevez",
+  "filmography": [
+    {
+      "imdb_id": "tt0088847",
+      "title": "The Breakfast Club",
+      "year": 1985,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Andrew Clark"
+    },
+    {
+      "imdb_id": "tt0308055",
+      "title": "Bobby",
+      "year": 2006,
+      "roles": [
+        "director",
+        "writer",
+        "cast"
+      ],
+      "character": "Tim"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMmI5OTljZjAtM2ZlOS00MDIwLWE4ODAtZjhhMWIxMDZiN2JkXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "12.05.1962",
+  "birth_location": "Bronx, New York City, New York, USA",
+  "height": "1.69 m",
+  "imdb_scraped": true,
+  "filmweb_id": 42579,
+  "name_pl": "Emilio Estevez",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 42579
+}

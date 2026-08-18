@@ -1,0 +1,36 @@
+{
+  "id": "nm0006162",
+  "name": "Francis Lai",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZTYyMGVhMTYtMjk0Yy00NDlkLWJjZTgtOTJjNmYzNjY5ZGMwXkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0066011",
+      "title": "Love Story",
+      "year": 1970,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt0067637",
+      "title": "The Legend of Frenchie King",
+      "year": 1971,
+      "roles": [
+        "composer"
+      ]
+    }
+  ],
+  "birth_date": "26.04.1932",
+  "death_date": "07.11.2018",
+  "birth_location": "Nice, Alpes-Maritimes, France",
+  "imdb_scraped": true,
+  "filmweb_id": 12999,
+  "name_pl": "Francis Lai",
+  "birth_location_pl": "Nicea",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja"
+  ],
+  "wikidata_fw_id": 12999
+}

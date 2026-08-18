@@ -1,0 +1,242 @@
+{
+  "imdb_id": "tt0101410",
+  "title": "Barton Fink",
+  "description": "A renowned New York playwright is enticed to California to write for the movies and discovers the hellish truth of Hollywood.",
+  "runtime_minutes": 116,
+  "release_date": "21.08.1991",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0001806",
+      "name": "John Turturro"
+    },
+    {
+      "id": "nm0000422",
+      "name": "John Goodman"
+    },
+    {
+      "id": "nm0001114",
+      "name": "Judy Davis"
+    },
+    {
+      "id": "nm0503627",
+      "name": "Michael Lerner"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001054",
+      "name": "Joel Coen"
+    },
+    {
+      "id": "nm0001053",
+      "name": "Ethan Coen"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0001054",
+      "name": "Joel Coen"
+    },
+    {
+      "id": "nm0001053",
+      "name": "Ethan Coen"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0001806",
+      "name": "John Turturro",
+      "character": "Barton Fink"
+    },
+    {
+      "id": "nm0000422",
+      "name": "John Goodman",
+      "character": "Charlie Meadows"
+    },
+    {
+      "id": "nm0001114",
+      "name": "Judy Davis",
+      "character": "Audrey Taylor"
+    },
+    {
+      "id": "nm0503627",
+      "name": "Michael Lerner",
+      "character": "Jack Lipnick"
+    },
+    {
+      "id": "nm0001498",
+      "name": "John Mahoney",
+      "character": "W.P. Mayhew"
+    },
+    {
+      "id": "nm0001724",
+      "name": "Tony Shalhoub",
+      "character": "Ben Geisler"
+    },
+    {
+      "id": "nm0689237",
+      "name": "Jon Polito",
+      "character": "Lou Breeze"
+    },
+    {
+      "id": "nm0000114",
+      "name": "Steve Buscemi",
+      "character": "Chet"
+    },
+    {
+      "id": "nm0913099",
+      "name": "David Warrilow",
+      "character": "Garland Stanford"
+    },
+    {
+      "id": "nm0692466",
+      "name": "Richard Portnow",
+      "character": "Detective Mastrionotti"
+    },
+    {
+      "id": "nm0613997",
+      "name": "Christopher Murney",
+      "character": "Detective Deutsch"
+    },
+    {
+      "id": "nm0387734",
+      "name": "I.M. Hobson",
+      "character": "Derek"
+    },
+    {
+      "id": "nm0269599",
+      "name": "Meagen Fay",
+      "character": "Poppy Carnahan"
+    },
+    {
+      "id": "nm0205000",
+      "name": "Lance Davis",
+      "character": "Richard St. Claire"
+    },
+    {
+      "id": "nm0119505",
+      "name": "Harry Bugin",
+      "character": "Pete"
+    },
+    {
+      "id": "nm0329997",
+      "name": "Anthony Gordon",
+      "character": "Maitre D'"
+    },
+    {
+      "id": "nm0218906",
+      "name": "Jack Denbo",
+      "character": "Stagehand"
+    },
+    {
+      "id": "nm0342858",
+      "name": "Max Grodénchik",
+      "character": "Clapper Boy"
+    }
+  ],
+  "countries": [
+    "United Kingdom",
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 1252,
+  "year": 1991,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDc1YWRjODItNGZjNS00MDI4LTliYWYtNDdjZjI3ZWYzNzM4XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.6,
+      "votes": 136259,
+      "distribution": {
+        "1": 1210,
+        "2": 672,
+        "3": 1114,
+        "4": 2023,
+        "5": 4755,
+        "6": 12664,
+        "7": 33478,
+        "8": 43449,
+        "9": 22255,
+        "10": 14639
+      },
+      "normalized": 6.6081
+    },
+    "filmweb": {
+      "rating": 7.6,
+      "votes": 29041,
+      "distribution": {
+        "1": 122,
+        "2": 89,
+        "3": 257,
+        "4": 418,
+        "5": 1115,
+        "6": 2693,
+        "7": 7278,
+        "8": 10315,
+        "9": 4863,
+        "10": 1891
+      },
+      "normalized": 6.9947
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "30.08.2007",
+      "normalized": 5.4199
+    },
+    "score": 6.3409
+  },
+  "polish_title": "Barton Fink",
+  "silent": false,
+  "description_pl": "Młody nowojorski pisarz, Barton Fink (świetny <a href=\"/osoba/?id=nm0001806\">John Turturro</a>) osiąga sukces swą debiutancką sztuką. Jack Lipnick (kapitalny <a href=\"/osoba/?id=nm0503627\">Michael Lerner</a>), szef studia filmowego, proponuje mu posadę scenarzysty w Hollywood. Fink niechętnie zgadza się wyjechać do Las Angeles, gdzie w podrzędnym hotelu poznaje prostego Charliego (<a href=\"/osoba/?id=nm0000422\">John Goodman</a>).",
+  "producers": [
+    {
+      "id": "nm0054449",
+      "name": "Ben Barenholtz"
+    },
+    {
+      "id": "nm0001053",
+      "name": "Ethan Coen"
+    },
+    {
+      "id": "nm0244171",
+      "name": "Bill Durkin"
+    },
+    {
+      "id": "nm0669824",
+      "name": "Jim Pedas"
+    },
+    {
+      "id": "nm0669825",
+      "name": "Ted Pedas"
+    },
+    {
+      "id": "nm0686335",
+      "name": "Graham Place"
+    },
+    {
+      "id": "nm0001054",
+      "name": "Joel Coen"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0001980",
+      "name": "Carter Burwell"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005683",
+      "name": "Roger Deakins"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

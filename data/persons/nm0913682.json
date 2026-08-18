@@ -1,0 +1,46 @@
+{
+  "id": "nm0913682",
+  "name": "Jerry Wasserman",
+  "filmography": [
+    {
+      "imdb_id": "tt0119718",
+      "title": "Mr. Magoo",
+      "year": 1997,
+      "roles": [
+        "cast"
+      ],
+      "character": "Javier"
+    },
+    {
+      "imdb_id": "tt0343818",
+      "title": "I, Robot",
+      "year": 2004,
+      "roles": [
+        "cast"
+      ],
+      "character": "Baldez"
+    },
+    {
+      "imdb_id": "tt0409459",
+      "title": "Watchmen",
+      "year": 2009,
+      "roles": [
+        "cast"
+      ],
+      "character": "Detective Fine"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYzY4ZjZiZTAtNTk4ZC00YzlmLTk1NTgtOGNmMDU5MDk5NjFlXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "02.11.1945",
+  "birth_location": "Cincinnati, Ohio, USA",
+  "height": "1.78 m",
+  "filmweb_id": 3985,
+  "name_pl": "Jerry Wasserman",
+  "birth_location_pl": "Cincinnati, Ohio",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

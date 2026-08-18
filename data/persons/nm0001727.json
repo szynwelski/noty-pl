@@ -1,0 +1,51 @@
+{
+  "id": "nm0001727",
+  "name": "Robert Shaw",
+  "filmography": [
+    {
+      "imdb_id": "tt0057076",
+      "title": "From Russia with Love",
+      "year": 1963,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Grant"
+    },
+    {
+      "imdb_id": "tt0070735",
+      "title": "The Sting",
+      "year": 1973,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Doyle Lonnegan"
+    },
+    {
+      "imdb_id": "tt0073195",
+      "title": "Jaws",
+      "year": 1975,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Quint"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTc0NzI3NTU2MF5BMl5BanBnXkFtZTcwNTUzMjkyOA@@._V1_.jpg",
+  "birth_date": "09.08.1927",
+  "death_date": "28.08.1978",
+  "birth_location": "Westhoughton, Lancashire, England, UK",
+  "height": "1.78 m",
+  "filmweb_id": 7383,
+  "name_pl": "Robert Shaw",
+  "birth_location_pl": "Westhoughton, Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 7383
+}

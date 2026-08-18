@@ -1,0 +1,263 @@
+{
+  "imdb_id": "tt3682448",
+  "title": "Bridge of Spies",
+  "description": "During the Cold War, an American lawyer is recruited to defend an arrested Soviet spy in court, and then help the CIA facilitate an exchange of the spy for the Soviet captured American U2 spy plane pilot, Francis Gary Powers.",
+  "runtime_minutes": 142,
+  "release_date": "16.10.2015",
+  "genres": [
+    "Drama",
+    "History",
+    "Thriller",
+    "War"
+  ],
+  "stars": [
+    {
+      "id": "nm0000158",
+      "name": "Tom Hanks"
+    },
+    {
+      "id": "nm0753314",
+      "name": "Mark Rylance"
+    },
+    {
+      "id": "nm0000257",
+      "name": "Alan Alda"
+    },
+    {
+      "id": "nm0752407",
+      "name": "Amy Ryan"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000229",
+      "name": "Steven Spielberg"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm4131020",
+      "name": "Matt Charman"
+    },
+    {
+      "id": "nm0001053",
+      "name": "Ethan Coen"
+    },
+    {
+      "id": "nm0001054",
+      "name": "Joel Coen"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000158",
+      "name": "Tom Hanks",
+      "character": "James B. Donovan"
+    },
+    {
+      "id": "nm0753314",
+      "name": "Mark Rylance",
+      "character": "Rudolf Abel"
+    },
+    {
+      "id": "nm0000257",
+      "name": "Alan Alda",
+      "character": "Thomas Watters Jr."
+    },
+    {
+      "id": "nm0518511",
+      "name": "Domenick Lombardozzi",
+      "character": "Agent Blasco"
+    },
+    {
+      "id": "nm0894141",
+      "name": "Victor Verhaeghe",
+      "character": "Agent Gamber"
+    },
+    {
+      "id": "nm2795735",
+      "name": "Mark Fichera",
+      "character": "FBI Agent"
+    },
+    {
+      "id": "nm0404427",
+      "name": "Brian Hutchison",
+      "character": "FBI Agent"
+    },
+    {
+      "id": "nm0367176",
+      "name": "Joshua Harto",
+      "character": "Bates"
+    },
+    {
+      "id": "nm1635191",
+      "name": "Henny Russell",
+      "character": "Receptionist"
+    },
+    {
+      "id": "nm7146771",
+      "name": "Rebekah Brockman",
+      "character": "Alison (Donovan's Secretary)"
+    },
+    {
+      "id": "nm1600051",
+      "name": "John Rue",
+      "character": "Lynn Goodnough"
+    },
+    {
+      "id": "nm2915105",
+      "name": "Billy Magnussen",
+      "character": "Doug Forrester"
+    },
+    {
+      "id": "nm0752407",
+      "name": "Amy Ryan",
+      "character": "Mary Donovan"
+    },
+    {
+      "id": "nm6559211",
+      "name": "Jillian Lebling",
+      "character": "Peggy Donovan"
+    },
+    {
+      "id": "nm6907855",
+      "name": "Noah Schnapp",
+      "character": "Roger Donovan"
+    },
+    {
+      "id": "nm2016723",
+      "name": "Eve Hewson",
+      "character": "Carol Donovan"
+    },
+    {
+      "id": "nm3077007",
+      "name": "Joel Brady",
+      "character": "Police Officer - Brooklyn Courthouse"
+    },
+    {
+      "id": "nm3271473",
+      "name": "Austin Stowell",
+      "character": "Francis Gary Powers"
+    }
+  ],
+  "countries": [
+    "Germany",
+    "India",
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Russian"
+  ],
+  "color": "Color",
+  "filmweb_id": 728144,
+  "year": 2015,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjIxOTI0MjU5NV5BMl5BanBnXkFtZTgwNzM4OTk4NTE@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.6,
+      "votes": 346556,
+      "distribution": {
+        "1": 1544,
+        "2": 722,
+        "3": 1187,
+        "4": 2792,
+        "5": 8597,
+        "6": 31263,
+        "7": 102823,
+        "8": 128221,
+        "9": 46431,
+        "10": 22976
+      },
+      "normalized": 6.661
+    },
+    "filmweb": {
+      "rating": 7.15,
+      "votes": 130440,
+      "distribution": {
+        "1": 106,
+        "2": 125,
+        "3": 775,
+        "4": 1519,
+        "5": 6791,
+        "6": 20722,
+        "7": 50231,
+        "8": 39298,
+        "9": 8798,
+        "10": 2075
+      },
+      "normalized": 5.9188
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "22.11.2016",
+      "normalized": 5.6855
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "16.03.2021",
+      "normalized": 4.5781
+    },
+    "score": 5.7108
+  },
+  "polish_title": "Most szpiegów",
+  "silent": false,
+  "description_pl": "Thriller szpiegowski, którego akcja rozgrywa się w okresie Zimnej wojny lat 50. XX wieku. Amerykański prawnik zostaje wysłany przez CIA do Związku Radzieckiego, by pomóc w uwolnieniu przetrzymywanego tam pilota wojskowego.",
+  "producers": [
+    {
+      "id": "nm2862529",
+      "name": "Christoph Fisser"
+    },
+    {
+      "id": "nm0454908",
+      "name": "Jonathan King"
+    },
+    {
+      "id": "nm0526917",
+      "name": "Daniel Lupi"
+    },
+    {
+      "id": "nm1069736",
+      "name": "Kristie Macosko Krieger"
+    },
+    {
+      "id": "nm0596572",
+      "name": "Henning Molfenter"
+    },
+    {
+      "id": "nm0686887",
+      "name": "Marc Platt"
+    },
+    {
+      "id": "nm1568142",
+      "name": "Jeff Skoll"
+    },
+    {
+      "id": "nm0814114",
+      "name": "Adam Somner"
+    },
+    {
+      "id": "nm0000229",
+      "name": "Steven Spielberg"
+    },
+    {
+      "id": "nm1803681",
+      "name": "Charlie Woebcken"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0002353",
+      "name": "Thomas Newman"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0001405",
+      "name": "Janusz Kaminski"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

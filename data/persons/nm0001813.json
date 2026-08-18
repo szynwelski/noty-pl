@@ -1,0 +1,30 @@
+{
+  "id": "nm0001813",
+  "name": "Dick Van Dyke",
+  "filmography": [
+    {
+      "imdb_id": "tt0477347",
+      "title": "Night at the Museum",
+      "year": 2006,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Cecil"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjMxODU1ODExNl5BMl5BanBnXkFtZTgwOTk2MDA4MDI@._V1_.jpg",
+  "birth_date": "13.12.1925",
+  "birth_location": "West Plains, Missouri, USA",
+  "height": "1.84 m",
+  "imdb_scraped": true,
+  "filmweb_id": 68826,
+  "name_pl": "Dick Van Dyke",
+  "birth_location_pl": "West Plains, Missouri",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 68826
+}

@@ -1,0 +1,36 @@
+{
+  "id": "nm0781181",
+  "name": "Andy Secombe",
+  "filmography": [
+    {
+      "imdb_id": "tt0120915",
+      "title": "Star Wars: Episode I - The Phantom Menace",
+      "year": 1999,
+      "roles": [
+        "cast"
+      ],
+      "character": "Watto"
+    },
+    {
+      "imdb_id": "tt0121765",
+      "title": "Star Wars: Episode II - Attack of the Clones",
+      "year": 2002,
+      "roles": [
+        "cast"
+      ],
+      "character": "Watto"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYmNmN2E5NjEtZjg3Ny00YzZkLTg1ZjgtNTc3N2QwYzA2OWE0XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "26.04.1953",
+  "birth_location": "Mumbles Head, South Wales, UK",
+  "imdb_scraped": true,
+  "filmweb_id": 183630,
+  "name_pl": "Andy Secombe",
+  "birth_location_pl": "Mumbles Head, Południowa Walia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ]
+}

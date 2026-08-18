@@ -1,0 +1,29 @@
+{
+  "id": "nm0401076",
+  "name": "Victor Hugo",
+  "filmography": [
+    {
+      "imdb_id": "tt0241776",
+      "title": "The Hunchback of Notre Dame",
+      "year": 1911,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOTUyMmY3NTUtZWZhNi00ZWE2LWFhOGUtMmYyNzU4ZDJhNTA1XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "26.02.1802",
+  "death_date": "22.05.1885",
+  "birth_location": "Besançon, Doubs, France",
+  "height": "1.78 m",
+  "imdb_scraped": true,
+  "filmweb_id": 668918,
+  "name_pl": "Victor Hugo",
+  "birth_location_pl": "Besançon",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja"
+  ],
+  "wikidata_fw_id": 668918
+}

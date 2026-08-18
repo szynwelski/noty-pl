@@ -1,0 +1,202 @@
+{
+  "imdb_id": "tt0056799",
+  "title": "30 Years of Fun",
+  "description": "Released during the sixties wave for nostalgia, this film celebrates the antics of the seven greatest silent film comedians.",
+  "runtime_minutes": 85,
+  "release_date": "10.02.1963",
+  "genres": [
+    "Comedy"
+  ],
+  "stars": [
+    {
+      "id": "nm0000122",
+      "name": "Charles Chaplin"
+    },
+    {
+      "id": "nm0000036",
+      "name": "Buster Keaton"
+    },
+    {
+      "id": "nm0491048",
+      "name": "Stan Laurel"
+    },
+    {
+      "id": "nm0001316",
+      "name": "Oliver Hardy"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0950288",
+      "name": "Robert Youngson"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0950288",
+      "name": "Robert Youngson"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000122",
+      "name": "Charles Chaplin",
+      "character": ""
+    },
+    {
+      "id": "nm0000036",
+      "name": "Buster Keaton",
+      "character": ""
+    },
+    {
+      "id": "nm0491048",
+      "name": "Stan Laurel",
+      "character": ""
+    },
+    {
+      "id": "nm0079645",
+      "name": "Billy Bevan",
+      "character": ""
+    },
+    {
+      "id": "nm0132444",
+      "name": "Eric Campbell",
+      "character": ""
+    },
+    {
+      "id": "nm0152260",
+      "name": "Syd Chaplin",
+      "character": ""
+    },
+    {
+      "id": "nm0152261",
+      "name": "Sydney Chaplin",
+      "character": ""
+    },
+    {
+      "id": "nm0153713",
+      "name": "Charley Chase",
+      "character": ""
+    },
+    {
+      "id": "nm0167395",
+      "name": "Andy Clyde",
+      "character": ""
+    },
+    {
+      "id": "nm0214924",
+      "name": "Carter DeHaven",
+      "character": ""
+    },
+    {
+      "id": "nm0219783",
+      "name": "Vernon Dent",
+      "character": ""
+    },
+    {
+      "id": "nm0001196",
+      "name": "Douglas Fairbanks",
+      "character": ""
+    },
+    {
+      "id": "nm0001256",
+      "name": "Greta Garbo",
+      "character": ""
+    },
+    {
+      "id": "nm0340807",
+      "name": "Harry Gribbon",
+      "character": ""
+    },
+    {
+      "id": "nm0354878",
+      "name": "Creighton Hale",
+      "character": ""
+    },
+    {
+      "id": "nm0001316",
+      "name": "Oliver Hardy",
+      "character": ""
+    },
+    {
+      "id": "nm0413640",
+      "name": "Jay Jackson",
+      "character": "Narrator"
+    },
+    {
+      "id": "nm0003377",
+      "name": "Harry Langdon",
+      "character": ""
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 98687,
+  "year": 1963,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BN2RlODk1OGItY2Q3ZS00ODFiLWFhNjAtZDI1ZjgyYTVkOTg3XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.4,
+      "votes": 82,
+      "distribution": {
+        "1": 6,
+        "2": 1,
+        "3": 4,
+        "4": 6,
+        "5": 10,
+        "6": 15,
+        "7": 21,
+        "8": 4,
+        "9": 2,
+        "10": 13
+      },
+      "normalized": 5.217
+    },
+    "filmweb": {
+      "rating": 7.2,
+      "votes": 5,
+      "distribution": {
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 4,
+        "8": 1,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 5.2228
+    },
+    "michal": {
+      "rating": 3,
+      "date_rated": "27.11.2005",
+      "normalized": 3.8753
+    },
+    "score": 4.7717
+  },
+  "polish_title": "30 lat śmiechu",
+  "silent": false,
+  "producers": [
+    {
+      "id": "nm9112968",
+      "name": "John E. Allen"
+    },
+    {
+      "id": "nm0197037",
+      "name": "Alfred Dahlem"
+    },
+    {
+      "id": "nm0950288",
+      "name": "Robert Youngson"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

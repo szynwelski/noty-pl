@@ -1,0 +1,45 @@
+{
+  "id": "nm0820574",
+  "name": "David St. James",
+  "filmography": [
+    {
+      "imdb_id": "tt0118583",
+      "title": "Alien: Resurrection",
+      "year": 1997,
+      "roles": [
+        "cast"
+      ],
+      "character": "Surgeon"
+    },
+    {
+      "imdb_id": "tt0246578",
+      "title": "Donnie Darko",
+      "year": 2001,
+      "roles": [
+        "cast"
+      ],
+      "character": "Bob Garland"
+    },
+    {
+      "imdb_id": "tt0246989",
+      "title": "Tomcats",
+      "year": 2001,
+      "roles": [
+        "cast"
+      ],
+      "character": "Priest"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZWE0NmE3NDctY2EyZC00YTI5LTgyMmItOTJhYWI4NDZmNmEyXkEyXkFqcGc@._V1_.jpg",
+  "birth_location": "Honolulu, Hawaii, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 3906,
+  "name_pl": "David St. James",
+  "birth_location_pl": "Honolulu, Hawaje",
+  "birth_date": "04.09.1947",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

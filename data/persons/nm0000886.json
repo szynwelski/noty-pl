@@ -1,0 +1,30 @@
+{
+  "id": "nm0000886",
+  "name": "Warren Beatty",
+  "filmography": [
+    {
+      "imdb_id": "tt0061418",
+      "title": "Bonnie and Clyde",
+      "year": 1967,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Clyde Barrow"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjA4MjA5NDU5Nl5BMl5BanBnXkFtZTgwNDcyNDc1OTE@._V1_.jpg",
+  "birth_date": "30.03.1937",
+  "birth_location": "Richmond, Virginia, USA",
+  "height": "1.86 m",
+  "imdb_scraped": true,
+  "filmweb_id": 10,
+  "name_pl": "Warren Beatty",
+  "birth_location_pl": "Richmond, Wirginia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 10
+}

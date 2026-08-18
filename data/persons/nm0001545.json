@@ -1,0 +1,38 @@
+{
+  "id": "nm0001545",
+  "name": "Dudley Moore",
+  "filmography": [
+    {
+      "imdb_id": "tt0064688",
+      "title": "Those Daring Young Men in Their Jaunty Jalopies",
+      "year": 1969,
+      "roles": [
+        "cast"
+      ],
+      "character": "Lt. Barrington"
+    },
+    {
+      "imdb_id": "tt0230030",
+      "title": "Bedazzled",
+      "year": 2000,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjI0MjY5MTQxOF5BMl5BanBnXkFtZTcwNTAxMTkwMw@@._V1_.jpg",
+  "birth_date": "19.04.1935",
+  "death_date": "27.03.2002",
+  "birth_location": "Dagenham, Essex, England, UK",
+  "height": "1.59 m",
+  "imdb_scraped": true,
+  "filmweb_id": 41083,
+  "name_pl": "Dudley Moore",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 41083
+}

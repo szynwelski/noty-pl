@@ -1,0 +1,106 @@
+{
+  "imdb_id": "tt0078516",
+  "title": "From a Night Porter's Point of View",
+  "description": "A factory night watchman, who is a fanatic of total control, shares his opinions on various topics.",
+  "runtime_minutes": 17,
+  "release_date": "20.06.2006",
+  "genres": [
+    "Documentary",
+    "Short"
+  ],
+  "stars": [
+    {
+      "id": "nm6493130",
+      "name": "Marian Osuch"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001425",
+      "name": "Krzysztof Kieślowski"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0001425",
+      "name": "Krzysztof Kieślowski"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm6493130",
+      "name": "Marian Osuch",
+      "character": "Self"
+    }
+  ],
+  "countries": [
+    "Poland"
+  ],
+  "languages": [
+    "Polish"
+  ],
+  "color": "Color",
+  "year": 1979,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODFmMGVhYTUtYTZjOC00NDAyLWFhNzYtODFjMWIwMmIzMTJlXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 11883,
+  "original_title": "Z punktu widzenia nocnego portiera",
+  "ratings": {
+    "imdb": {
+      "rating": 7.3,
+      "votes": 1072,
+      "distribution": {
+        "1": 18,
+        "2": 13,
+        "3": 9,
+        "4": 16,
+        "5": 40,
+        "6": 146,
+        "7": 304,
+        "8": 339,
+        "9": 106,
+        "10": 81
+      },
+      "normalized": 5.6991
+    },
+    "filmweb": {
+      "rating": 7.77,
+      "votes": 12113,
+      "distribution": {
+        "1": 33,
+        "2": 24,
+        "3": 47,
+        "4": 103,
+        "5": 265,
+        "6": 823,
+        "7": 2952,
+        "8": 5023,
+        "9": 2106,
+        "10": 737
+      },
+      "normalized": 7.4576
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "19.10.2005",
+      "normalized": 6.3474
+    },
+    "score": 6.5014
+  },
+  "polish_title": "Z punktu widzenia nocnego portiera",
+  "silent": false,
+  "description_pl": "Jedyny film dokumentalny <a href=\"/osoba/?id=nm0001425\">Kieślowskiego</a>, w którym bohater jest postacią negatywną. Zakładowy wartownik z tego filmu to służbista, miłośnik kontrolowania i zwolennik publicznych egzekucji. Pasją portiera jest nękanie innych, młodych par wieczorem w parku, wagarowiczów wychodzących z kina, wędkarzy, którzy zapomnieli zabrać z domu zezwolenie na połów (lub też w ogóle go nie posiadają), pracowników, którzy nie odbili w pośpiechu karty przy wejściu do zakładu. Ta pasja do nękania innych trafnie charakteryzuje bohatera na tle jego czasów, gdy powszechne były najścia, rewizje i pobicia ludzi opozycji dokonywane z inspiracji i przy udziale funkcjonariuszy służb specjalnych. <a href=\"/osoba/?id=nm0001425\">Kieślowski</a> nagrał monolog wartownika na taśmie magnetofonowej, by poszukać w jego wypowiedziach inspiracji do zaaranżowania konkretnych scen. Podczas realizacji posługiwał się obserwacją, inscenizacją i prowokacją. Dla potrzeb filmu zakupiono owczarka niemieckiego, którego w filmie bohater tresuje. Reżyser do końca życia nie zgadzał się na emisję filmu w telewizji uważając, że mogłaby ona wyrządzić krzywdę bohaterowi. Uważał, że film, który w momencie powstania piętnował pewne negatywne zjawisko społeczne, po latach mógł obrócić się przeciwko człowiekowi, który w nim wystąpił.",
+  "composers": [
+    {
+      "id": "nm0004384",
+      "name": "Wojciech Kilar"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0831278",
+      "name": "Witold Stok"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

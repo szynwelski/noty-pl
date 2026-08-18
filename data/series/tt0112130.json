@@ -1,0 +1,204 @@
+{
+  "imdb_id": "tt0112130",
+  "title": "Pride and Prejudice",
+  "description": "While the arrival of wealthy gentlemen sends her marriage-minded mother into a frenzy, willful and opinionated Elizabeth Bennet matches wits with haughty Mr. Darcy.",
+  "runtime_minutes": 50,
+  "release_date": "14.01.1996",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0000147",
+      "name": "Colin Firth"
+    },
+    {
+      "id": "nm0000383",
+      "name": "Jennifer Ehle"
+    },
+    {
+      "id": "nm0363117",
+      "name": "Susannah Harker"
+    },
+    {
+      "id": "nm0768018",
+      "name": "Julia Sawalha"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000147",
+      "name": "Colin Firth",
+      "character": "Mr Darcy"
+    },
+    {
+      "id": "nm0000383",
+      "name": "Jennifer Ehle",
+      "character": "Elizabeth Bennet"
+    },
+    {
+      "id": "nm0824102",
+      "name": "Alison Steadman",
+      "character": "Mrs. Bennet"
+    },
+    {
+      "id": "nm0768018",
+      "name": "Julia Sawalha",
+      "character": "Lydia Bennet"
+    },
+    {
+      "id": "nm0926368",
+      "name": "Benjamin Whitrow",
+      "character": "Mr. Bennet"
+    },
+    {
+      "id": "nm0363117",
+      "name": "Susannah Harker",
+      "character": "Jane Bennet"
+    },
+    {
+      "id": "nm0531070",
+      "name": "Polly Maberly",
+      "character": "Kitty Bennet"
+    },
+    {
+      "id": "nm0094502",
+      "name": "Crispin Bonham-Carter",
+      "character": "Mr Bingley"
+    },
+    {
+      "id": "nm0108939",
+      "name": "Lucy Briers",
+      "character": "Mary Bennet"
+    },
+    {
+      "id": "nm0151250",
+      "name": "Anna Chancellor",
+      "character": "Miss Bingley"
+    },
+    {
+      "id": "nm0732867",
+      "name": "Lucy Robinson",
+      "character": "Mrs Hurst"
+    },
+    {
+      "id": "nm0051394",
+      "name": "David Bamber",
+      "character": "Mr Collins"
+    },
+    {
+      "id": "nm0525702",
+      "name": "Adrian Lukis",
+      "character": "Wickham"
+    },
+    {
+      "id": "nm0779523",
+      "name": "Lucy Scott",
+      "character": "Charlotte Lucas"
+    },
+    {
+      "id": "nm0205063",
+      "name": "Lucy Davis",
+      "character": "Maria Lucas"
+    },
+    {
+      "id": "nm0288976",
+      "name": "Emilia Fox",
+      "character": "Georgiana Darcy"
+    },
+    {
+      "id": "nm0500317",
+      "name": "Barbara Leigh-Hunt",
+      "character": "Lady Catherine de Bourgh"
+    },
+    {
+      "id": "nm0943823",
+      "name": "Tim Wylton",
+      "character": "Mr. Gardiner"
+    }
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "year": 1995,
+  "type": "tvMiniSeries",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYzNkMjRmZGMtODg1Ni00MjIxLWI4MTYtOGEwM2YyMmZiMjUzXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 33088,
+  "ratings": {
+    "imdb": {
+      "rating": 8.8,
+      "votes": 104585,
+      "distribution": {
+        "1": 2221,
+        "2": 375,
+        "3": 418,
+        "4": 516,
+        "5": 1193,
+        "6": 2632,
+        "7": 7449,
+        "8": 15908,
+        "9": 24742,
+        "10": 49131
+      }
+    },
+    "filmweb": {
+      "rating": 8.2,
+      "votes": 38289,
+      "distribution": {
+        "1": 647,
+        "2": 66,
+        "3": 182,
+        "4": 307,
+        "5": 713,
+        "6": 1831,
+        "7": 5435,
+        "8": 11577,
+        "9": 8966,
+        "10": 8565
+      }
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "28.02.2014"
+    }
+  },
+  "polish_title": "Duma i uprzedzenie",
+  "silent": false,
+  "description_pl": "Historia dzieje się na początku XIX wieku. Pan Bennet (Benjamin Whitrow) jest ojcem pięciu córek. Nie należy on do zamożnych i dlatego też często zadaje sobie pytanie: \"Kiedy w sąsiedztwie pojawi się jakiś odpowiedni kawaler choćby dla jednej z nich?\". Ale kiedy się już taki zjawia – następuje szereg dalszych perypetii. Znajdziemy w tym filmie melancholię, refleksję nad władzą i pieniędzmi oraz nad znaczeniem pozycji społecznej.",
+  "producers": [
+    {
+      "id": "nm0083804",
+      "name": "Sue Birtwistle"
+    },
+    {
+      "id": "nm0277602",
+      "name": "Delia Fine"
+    },
+    {
+      "id": "nm0779407",
+      "name": "Julie Scott"
+    },
+    {
+      "id": "nm0915725",
+      "name": "Michael Wearing"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0002301",
+      "name": "Carl Davis"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0448942",
+      "name": "John Kenway"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

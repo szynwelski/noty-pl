@@ -1,0 +1,184 @@
+{
+  "imdb_id": "tt0079020",
+  "title": "Que Viva Mexico",
+  "description": "Eisenstein shows us Mexico in this movie, its history and its culture. He believes, that Mexico can become a modern state.",
+  "runtime_minutes": 90,
+  "release_date": "1979",
+  "genres": [
+    "Documentary",
+    "Drama",
+    "Western"
+  ],
+  "stars": [
+    {
+      "id": "nm0094083",
+      "name": "Sergey Bondarchuk"
+    },
+    {
+      "id": "nm0017893",
+      "name": "Grigoriy Aleksandrov"
+    },
+    {
+      "id": "nm0049707",
+      "name": "Félix Balderas"
+    },
+    {
+      "id": "nm2260750",
+      "name": "Baronito"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001178",
+      "name": "Sergei Eisenstein"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0017893",
+      "name": "Grigoriy Aleksandrov"
+    },
+    {
+      "id": "nm0001178",
+      "name": "Sergei Eisenstein"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0094083",
+      "name": "Sergey Bondarchuk",
+      "character": "Self - Narrator"
+    },
+    {
+      "id": "nm0017893",
+      "name": "Grigoriy Aleksandrov",
+      "character": "Self"
+    },
+    {
+      "id": "nm0049707",
+      "name": "Félix Balderas",
+      "character": "Sebastian's brother"
+    },
+    {
+      "id": "nm2260750",
+      "name": "Baronito",
+      "character": "Picador"
+    },
+    {
+      "id": "nm0306497",
+      "name": "Sara García",
+      "character": "Hacendado's daughter"
+    },
+    {
+      "id": "nm0380056",
+      "name": "Martín Hernández",
+      "character": "Sebastian"
+    },
+    {
+      "id": "nm0508976",
+      "name": "David Liceága",
+      "character": "Matador"
+    },
+    {
+      "id": "nm0757915",
+      "name": "Julio Saldívar",
+      "character": "Hacendado"
+    },
+    {
+      "id": "nm0898137",
+      "name": "Isabel Villaseñor",
+      "character": "Maria"
+    }
+  ],
+  "countries": [
+    "Soviet Union"
+  ],
+  "languages": [
+    "Russian"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 34586,
+  "year": 1979,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQyODc3MTQzMF5BMl5BanBnXkFtZTcwMjg2MTQyMQ@@._V1_.jpg",
+  "original_title": "¡Que viva México! Da zdravstvuyet Meksika!",
+  "ratings": {
+    "imdb": {
+      "rating": 7.4,
+      "votes": 2144,
+      "distribution": {
+        "1": 39,
+        "2": 14,
+        "3": 24,
+        "4": 39,
+        "5": 100,
+        "6": 241,
+        "7": 555,
+        "8": 503,
+        "9": 256,
+        "10": 373
+      },
+      "normalized": 5.9934
+    },
+    "filmweb": {
+      "rating": 7.17,
+      "votes": 283,
+      "distribution": {
+        "1": 3,
+        "2": 1,
+        "3": 6,
+        "4": 5,
+        "5": 18,
+        "6": 38,
+        "7": 90,
+        "8": 75,
+        "9": 32,
+        "10": 15
+      },
+      "normalized": 5.4849
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "14.11.2007",
+      "normalized": 6.3474
+    },
+    "score": 5.9419
+  },
+  "polish_title": "Niech żyje Meksyk!",
+  "silent": false,
+  "description_pl": "Na Jukatanie, wśród pogańskich świątyń, kapłańskich miast i ogromnych piramid, w królestwie śmierci, gdzie relikty przeszłości nieprzerwanie panują nad światem współczesnym - tu właśnie rozpoczynamy swą opowieść. Niczym symbol przeszłości, pożegnanie ze starożytną cywilizacją Majów, przesuwa się po ekranie posępna procesja pogrzebowa. Oglądamy kapłanów pogańskich świątyń, maski bogów - fantomów dalekiej przeszłości. (fragment prologu filmu)",
+  "producers": [
+    {
+      "id": "nm0308712",
+      "name": "Kate Crane Gartz"
+    },
+    {
+      "id": "nm0385036",
+      "name": "S. Hillkowitz"
+    },
+    {
+      "id": "nm0434900",
+      "name": "Otto Kahn"
+    },
+    {
+      "id": "nm0453914",
+      "name": "Hunter S. Kimbrough"
+    },
+    {
+      "id": "nm0801682",
+      "name": "Mary Craig Sinclair"
+    },
+    {
+      "id": "nm0801737",
+      "name": "Upton Sinclair"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005903",
+      "name": "Eduard Tisse"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

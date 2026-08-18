@@ -1,0 +1,38 @@
+{
+  "id": "nm0315288",
+  "name": "John Getz",
+  "filmography": [
+    {
+      "imdb_id": "tt0443706",
+      "title": "Zodiac",
+      "year": 2007,
+      "roles": [
+        "cast"
+      ],
+      "character": "Templeton Peck"
+    },
+    {
+      "imdb_id": "tt2357129",
+      "title": "Jobs",
+      "year": 2013,
+      "roles": [
+        "cast"
+      ],
+      "character": "Paul Jobs"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjAwNDcxODcwMF5BMl5BanBnXkFtZTcwMjQ2MzMzMQ@@._V1_.jpg",
+  "birth_date": "15.10.1946",
+  "birth_location": "Davenport, Iowa, USA",
+  "height": "1.88 m",
+  "imdb_scraped": true,
+  "filmweb_id": 8370,
+  "name_pl": "John Getz",
+  "birth_location_pl": "Davenport, Iowa",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 8370
+}

@@ -1,0 +1,48 @@
+{
+  "id": "nm0000224",
+  "name": "Alicia Silverstone",
+  "filmography": [
+    {
+      "imdb_id": "tt0112697",
+      "title": "Clueless",
+      "year": 1995,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Cher"
+    },
+    {
+      "imdb_id": "tt0118688",
+      "title": "Batman & Robin",
+      "year": 1997,
+      "roles": [
+        "cast"
+      ],
+      "character": "Batgirl"
+    },
+    {
+      "imdb_id": "tt1645080",
+      "title": "The Art of Getting By",
+      "year": 2011,
+      "roles": [
+        "cast"
+      ],
+      "character": "Ms. Herman"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNmQyODNhMjktMTZhMS00MzQxLWJlNTktODJjZDhlZjFjNWJhXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "04.10.1976",
+  "birth_location": "San Francisco, California, USA",
+  "height": "1.65 m",
+  "filmweb_id": 5068,
+  "name_pl": "Alicia Silverstone",
+  "birth_location_pl": "San Francisco, Kalifornia",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 5068
+}

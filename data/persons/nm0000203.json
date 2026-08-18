@@ -1,0 +1,40 @@
+{
+  "id": "nm0000203",
+  "name": "River Phoenix",
+  "filmography": [
+    {
+      "imdb_id": "tt0092005",
+      "title": "Stand by Me",
+      "year": 1986,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Chris Chambers"
+    },
+    {
+      "imdb_id": "tt0097576",
+      "title": "Indiana Jones and the Last Crusade",
+      "year": 1989,
+      "roles": [
+        "cast"
+      ],
+      "character": "Young Indy"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BM2E0MGI0MmItMWRlMy00OTAxLWJkM2QtMDRmMmZhZThhOGVmXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "23.08.1970",
+  "death_date": "31.10.1993",
+  "birth_location": "Madras, Oregon, USA",
+  "height": "1.78 m",
+  "imdb_scraped": true,
+  "filmweb_id": 8132,
+  "name_pl": "River Phoenix",
+  "birth_location_pl": "Madras, Oregon",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 8132
+}

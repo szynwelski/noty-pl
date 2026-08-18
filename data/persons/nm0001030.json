@@ -1,0 +1,69 @@
+{
+  "id": "nm0001030",
+  "name": "John Cazale",
+  "filmography": [
+    {
+      "imdb_id": "tt0068646",
+      "title": "The Godfather",
+      "year": 1972,
+      "roles": [
+        "cast"
+      ],
+      "character": "Fredo"
+    },
+    {
+      "imdb_id": "tt0071360",
+      "title": "The Conversation",
+      "year": 1974,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Stan"
+    },
+    {
+      "imdb_id": "tt0071562",
+      "title": "The Godfather Part II",
+      "year": 1974,
+      "roles": [
+        "cast"
+      ],
+      "character": "Fredo Corleone"
+    },
+    {
+      "imdb_id": "tt0072890",
+      "title": "Dog Day Afternoon",
+      "year": 1975,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Sal"
+    },
+    {
+      "imdb_id": "tt0077416",
+      "title": "The Deer Hunter",
+      "year": 1978,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Stan"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTUzMTM1MjI5NV5BMl5BanBnXkFtZTcwMTM5NTM1Mw@@._V1_.jpg",
+  "birth_date": "12.08.1935",
+  "death_date": "13.03.1978",
+  "birth_location": "Boston, Massachusetts, USA",
+  "height": "1.79 m",
+  "filmweb_id": 8261,
+  "name_pl": "John Cazale",
+  "birth_location_pl": "Boston, Massachusetts",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 8261
+}

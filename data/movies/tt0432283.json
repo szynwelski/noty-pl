@@ -1,0 +1,204 @@
+{
+  "imdb_id": "tt0432283",
+  "ratings": {
+    "imdb": {
+      "rating": 7.9,
+      "votes": 309028,
+      "distribution": {
+        "1": 2066,
+        "2": 1110,
+        "3": 1699,
+        "4": 3155,
+        "5": 7262,
+        "6": 19968,
+        "7": 59136,
+        "8": 105206,
+        "9": 62533,
+        "10": 46893
+      },
+      "normalized": 7.2676
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "11.08.2026",
+      "normalized": 6.3474
+    },
+    "filmweb": {
+      "rating": 7.6,
+      "votes": 68768,
+      "distribution": {
+        "1": 591,
+        "2": 330,
+        "3": 708,
+        "4": 998,
+        "5": 2320,
+        "6": 5650,
+        "7": 16623,
+        "8": 25184,
+        "9": 11973,
+        "10": 4391
+      },
+      "normalized": 7.0233
+    },
+    "score": 6.8794
+  },
+  "title": "Fantastic Mr. Fox",
+  "description": "An urbane fox cannot resist returning to his farm raiding ways and then must help his community survive the farmers' retaliation.",
+  "year": 2009,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYTA1ZTIxZDUtNGFjYS00YTc5LTgzNDMtZWNjYjBlMzI2OTk3XkEyXkFqcGc@._V1_.jpg",
+  "runtime_minutes": 87,
+  "release_date": "25.11.2009",
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy",
+    "Crime",
+    "Drama",
+    "Family"
+  ],
+  "stars": [
+    {
+      "id": "nm0000123",
+      "name": "George Clooney"
+    },
+    {
+      "id": "nm0000658",
+      "name": "Meryl Streep"
+    },
+    {
+      "id": "nm0000195",
+      "name": "Bill Murray"
+    },
+    {
+      "id": "nm0005403",
+      "name": "Jason Schwartzman"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0027572",
+      "name": "Wes Anderson"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0027572",
+      "name": "Wes Anderson"
+    },
+    {
+      "id": "nm0000876",
+      "name": "Noah Baumbach"
+    },
+    {
+      "id": "nm0001094",
+      "name": "Roald Dahl"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000123",
+      "name": "George Clooney",
+      "character": "Mr. Fox"
+    },
+    {
+      "id": "nm0000658",
+      "name": "Meryl Streep",
+      "character": "Mrs. Fox"
+    },
+    {
+      "id": "nm0000195",
+      "name": "Bill Murray",
+      "character": "Badger"
+    },
+    {
+      "id": "nm0005403",
+      "name": "Jason Schwartzman",
+      "character": "Ash"
+    },
+    {
+      "id": "nm0938645",
+      "name": "Wallace Wolodarsky",
+      "character": "Kylie"
+    },
+    {
+      "id": "nm0026682",
+      "name": "Eric Chase Anderson",
+      "character": "Kristofferson"
+    },
+    {
+      "id": "nm0002091",
+      "name": "Michael Gambon",
+      "character": "Franklin Bean"
+    },
+    {
+      "id": "nm0000353",
+      "name": "Willem Dafoe",
+      "character": "Rat"
+    },
+    {
+      "id": "nm0005562",
+      "name": "Owen Wilson",
+      "character": "Coach Skip"
+    },
+    {
+      "id": "nm1006741",
+      "name": "Jarvis Cocker",
+      "character": "Petey"
+    },
+    {
+      "id": "nm0027572",
+      "name": "Wes Anderson",
+      "character": "Weasel"
+    },
+    {
+      "id": "nm0240565",
+      "name": "Karen Duffy",
+      "character": "Linda Otter"
+    },
+    {
+      "id": "nm3153953",
+      "name": "Robin Hurlstone",
+      "character": "Walter Boggis"
+    },
+    {
+      "id": "nm2450453",
+      "name": "Hugo Guinness",
+      "character": "Nathan Bunce"
+    },
+    {
+      "id": "nm0567031",
+      "name": "Helen McCrory",
+      "character": "Mrs. Bean"
+    },
+    {
+      "id": "nm0178910",
+      "name": "Roman Coppola",
+      "character": "Squirrel Contractor"
+    },
+    {
+      "id": "nm3572187",
+      "name": "Juman Malouf",
+      "character": "Agnes"
+    },
+    {
+      "id": "nm0206154",
+      "name": "Jeremy Dawson",
+      "character": "Beaver's Son"
+    }
+  ],
+  "countries": [
+    "United States",
+    "United Kingdom"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "color": "Color",
+  "silent": false,
+  "fetched_at": "2026-08-16",
+  "filmweb_id": 156466,
+  "polish_title": "Fantastyczny Pan Lis",
+  "description_pl": "\"Fantastyczny Pan Lis\" to film animowany w reżyserii <a href=\"/osoba/?id=nm0027572\">Wesa Andersona</a>, wykorzystujący technikę poklatkową. Pan i Pani Lis (głosów udzielili odpowiednio: <a href=\"/osoba/?id=nm0000123\">George Clooney</a> i <a href=\"/osoba/?id=nm0000658\">Meryl Streep</a>) wiodą spokojne życie rodzinne wspólnie z synkiem Ashem (<a href=\"/osoba/?id=nm0005403\">Jason Schwartzman</a>) oraz młodym kuzynem Kristophersonem (Eric Anderson), który pewnego dnia przyjeżdża do nich w odwiedziny. Ale po 12 latach słodkiej sielanki i bezpiecznej egzystencji w Panu Lisie budzą się dawne zwierzęce instynkty. Ponownie zbiera on złodziejską szajkę i po zmroku napada na pobliskie fermy drobiu, czym naraża na ogromne niebezpieczeństwo nie tylko swoich bliskich, ale również całą lokalną, zwierzęcą społeczność. W konsekwencji tych nocnych \"wypadów\" zwierzęta zostają zmuszone do ukrycia się pod ziemią, gdzie mobilizują się do walki z trzema złymi hodowcami - Boggisem, Bunce'em i Beanem - pałającymi żądzą krwawej zemsty na fantastycznym Panu Lisie."
+}

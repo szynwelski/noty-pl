@@ -1,0 +1,128 @@
+{
+  "imdb_id": "tt1245104",
+  "title": "Presto",
+  "description": "A stage magician's rabbit gets into a magical onstage brawl against his neglectful guardian with two magic hats.",
+  "runtime_minutes": 5,
+  "release_date": "27.06.2008",
+  "genres": [
+    "Animation",
+    "Short",
+    "Comedy",
+    "Family",
+    "Fantasy"
+  ],
+  "directors": [
+    {
+      "id": "nm0842339",
+      "name": "Doug Sweetland"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0842339",
+      "name": "Doug Sweetland"
+    },
+    {
+      "id": "nm1069780",
+      "name": "Ted Mathot"
+    },
+    {
+      "id": "nm1445746",
+      "name": "Valerie LaPointe"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0842339",
+      "name": "Doug Sweetland",
+      "character": "Alec"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 481231,
+  "year": 2008,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYzVhMWQxMzUtNmE1OS00YzZlLWE4ZTgtMTg2YzFlZDNmZTgxXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8.3,
+      "votes": 26942,
+      "distribution": {
+        "1": 150,
+        "2": 51,
+        "3": 86,
+        "4": 180,
+        "5": 437,
+        "6": 1430,
+        "7": 4157,
+        "8": 8076,
+        "9": 6742,
+        "10": 5633
+      },
+      "normalized": 8.2538
+    },
+    "filmweb": {
+      "rating": 7.52,
+      "votes": 15812,
+      "distribution": {
+        "1": 41,
+        "2": 17,
+        "3": 80,
+        "4": 181,
+        "5": 536,
+        "6": 1801,
+        "7": 4525,
+        "8": 5684,
+        "9": 2188,
+        "10": 759
+      },
+      "normalized": 6.7387
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "17.10.2020",
+      "normalized": 4.5781
+    },
+    "score": 6.5235
+  },
+  "polish_title": "Presto",
+  "silent": false,
+  "description_pl": "Słodki królik jest własnością wielkiego magika Presto. Mistrz jednak nie traktuje najlepiej swojego pupila. Zwierzę często nie dojada. Pewnego dnia zdesperowany królik postanawia przechytrzyć właściciela i zrobić wszystko, żeby dostać upragnioną marchewkę i w końcu zjeść posiłek, jak należy.",
+  "producers": [
+    {
+      "id": "nm0390897",
+      "name": "Richard E. Hollander"
+    },
+    {
+      "id": "nm0005124",
+      "name": "John Lasseter"
+    },
+    {
+      "id": "nm0004056",
+      "name": "Andrew Stanton"
+    },
+    {
+      "id": "nm2095553",
+      "name": "Jay Ward"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm1729949",
+      "name": "Scot Blackwell Stafford"
+    }
+  ],
+  "stars": [
+    {
+      "id": "nm0842339",
+      "name": "Doug Sweetland"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

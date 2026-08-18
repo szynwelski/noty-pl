@@ -1,0 +1,150 @@
+{
+  "imdb_id": "tt0070644",
+  "title": "Scenes from a Marriage",
+  "description": "Ten years within the marriage of Marianne and Johan.",
+  "runtime_minutes": 50,
+  "release_date": "11.04.1973",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0880521",
+      "name": "Liv Ullmann"
+    },
+    {
+      "id": "nm0430746",
+      "name": "Erland Josephson"
+    },
+    {
+      "id": "nm0000761",
+      "name": "Bibi Andersson"
+    },
+    {
+      "id": "nm0511458",
+      "name": "Gunnel Lindblom"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0880521",
+      "name": "Liv Ullmann",
+      "character": "Marianne"
+    },
+    {
+      "id": "nm0430746",
+      "name": "Erland Josephson",
+      "character": "Johan"
+    },
+    {
+      "id": "nm0000761",
+      "name": "Bibi Andersson",
+      "character": "Katarina"
+    },
+    {
+      "id": "nm0511458",
+      "name": "Gunnel Lindblom",
+      "character": "Eva"
+    },
+    {
+      "id": "nm0540300",
+      "name": "Jan Malmsjö",
+      "character": "Peter"
+    },
+    {
+      "id": "nm0287606",
+      "name": "Wenche Foss",
+      "character": "Modern"
+    },
+    {
+      "id": "nm0635959",
+      "name": "Bertil Norström",
+      "character": "Arne"
+    },
+    {
+      "id": "nm0908371",
+      "name": "Anita Wall",
+      "character": "Fru Palm, journalist"
+    },
+    {
+      "id": "nm0547140",
+      "name": "Rossana Mariano",
+      "character": "Eva, 12 år"
+    },
+    {
+      "id": "nm0074822",
+      "name": "Lena Bergman",
+      "character": "Karin, syster till Eva"
+    },
+    {
+      "id": "nm0000005",
+      "name": "Ingmar Bergman",
+      "character": "Pressfotografens röst"
+    },
+    {
+      "id": "nm0386113",
+      "name": "Barbro Hiort af Ornäs",
+      "character": "Fru Jacobi"
+    }
+  ],
+  "countries": [
+    "Sweden"
+  ],
+  "languages": [
+    "Swedish"
+  ],
+  "color": null,
+  "year": 1973,
+  "type": "tvMiniSeries",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTJiNjM3NzUtYzhkNS00YzdkLTlmZDktZDFhYzgyNTA1YTAxXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 843683,
+  "original_title": "Scener ur ett äktenskap",
+  "ratings": {
+    "imdb": {
+      "rating": 8.5,
+      "votes": 17875,
+      "distribution": {
+        "1": 414,
+        "2": 147,
+        "3": 126,
+        "4": 177,
+        "5": 381,
+        "6": 732,
+        "7": 1953,
+        "8": 4503,
+        "9": 4360,
+        "10": 5082
+      }
+    },
+    "filmweb": {
+      "rating": 7.8,
+      "votes": 352,
+      "distribution": {
+        "1": 10,
+        "2": 0,
+        "3": 3,
+        "4": 4,
+        "5": 6,
+        "6": 18,
+        "7": 75,
+        "8": 124,
+        "9": 64,
+        "10": 48
+      }
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "13.02.2011"
+    }
+  },
+  "polish_title": "Sceny z życia małżeńskiego",
+  "silent": false,
+  "cinematographers": [
+    {
+      "id": "nm0005815",
+      "name": "Sven Nykvist"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

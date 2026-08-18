@@ -1,0 +1,50 @@
+{
+  "id": "nm0000099",
+  "name": "Patricia Arquette",
+  "filmography": [
+    {
+      "imdb_id": "tt0108399",
+      "title": "True Romance",
+      "year": 1993,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Alabama Whitman"
+    },
+    {
+      "imdb_id": "tt0109707",
+      "title": "Ed Wood",
+      "year": 1994,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Kathy O'Hara"
+    },
+    {
+      "imdb_id": "tt0116922",
+      "title": "Lost Highway",
+      "year": 1997,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Renee Madison"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQ5Njg0NjkxMV5BMl5BanBnXkFtZTcwMzc0NTI5NA@@._V1_.jpg",
+  "birth_date": "08.04.1968",
+  "birth_location": "Chicago, Illinois, USA",
+  "height": "1.57 m",
+  "filmweb_id": 128,
+  "name_pl": "Patricia Arquette",
+  "birth_location_pl": "Chicago, Illinois",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 128
+}

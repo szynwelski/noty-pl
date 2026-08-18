@@ -1,0 +1,48 @@
+{
+  "id": "nm0304000",
+  "name": "James Gammon",
+  "filmography": [
+    {
+      "imdb_id": "tt0129167",
+      "title": "The Iron Giant",
+      "year": 1999,
+      "roles": [
+        "cast"
+      ],
+      "character": "Foreman Marv Loach"
+    },
+    {
+      "imdb_id": "tt0209958",
+      "title": "The Cell",
+      "year": 2000,
+      "roles": [
+        "cast"
+      ],
+      "character": "Teddy Lee"
+    },
+    {
+      "imdb_id": "tt0282687",
+      "title": "Life or Something Like It",
+      "year": 2002,
+      "roles": [
+        "cast"
+      ],
+      "character": "Pat Kerrigan"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTI0MzIxNDE3MF5BMl5BanBnXkFtZTcwMjA3NDYyMQ@@._V1_.jpg",
+  "birth_date": "20.04.1940",
+  "death_date": "16.07.2010",
+  "birth_location": "Newman, Illinois, USA",
+  "height": "1.80 m",
+  "filmweb_id": 93394,
+  "name_pl": "James Gammon",
+  "birth_location_pl": "Newman, Illinois",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 93394
+}

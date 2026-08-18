@@ -1,0 +1,41 @@
+{
+  "id": "nm0545298",
+  "name": "Fredric March",
+  "filmography": [
+    {
+      "imdb_id": "tt0036868",
+      "title": "The Best Years of Our Lives",
+      "year": 1946,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Al Stephenson"
+    },
+    {
+      "imdb_id": "tt0053946",
+      "title": "Inherit the Wind",
+      "year": 1960,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Matthew Harrison Brady"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOWQwZDU1OGUtNWFlZi00YmNiLTlhY2EtZjBkOTg2ZjZjMGUzXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "31.08.1897",
+  "death_date": "14.04.1975",
+  "birth_location": "Racine, Wisconsin, USA",
+  "height": "1.78 m",
+  "imdb_scraped": true,
+  "filmweb_id": 49928,
+  "name_pl": "Fredric March",
+  "birth_location_pl": "Racine, Wisconsin",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 49928
+}

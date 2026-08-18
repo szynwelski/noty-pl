@@ -1,0 +1,40 @@
+{
+  "id": "nm0800302",
+  "name": "Michel Simon",
+  "filmography": [
+    {
+      "imdb_id": "tt0019254",
+      "title": "The Passion of Joan of Arc",
+      "year": 1928,
+      "roles": [
+        "cast"
+      ],
+      "character": "Jean Lemaître"
+    },
+    {
+      "imdb_id": "tt0030643",
+      "title": "Port of Shadows",
+      "year": 1938,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Zabel"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjEzMTcyMzc0NV5BMl5BanBnXkFtZTcwNDQ2MTI0Nw@@._V1_.jpg",
+  "birth_date": "09.04.1895",
+  "death_date": "30.05.1975",
+  "birth_location": "Geneva, Geneva, Switzerland",
+  "height": "1.78 m",
+  "imdb_scraped": true,
+  "filmweb_id": 70621,
+  "name_pl": "Michel Simon",
+  "birth_location_pl": "Genewa",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Szwajcaria"
+  ],
+  "wikidata_fw_id": 70621
+}

@@ -1,0 +1,346 @@
+{
+  "imdb_id": "tt15239678",
+  "title": "Dune: Part Two",
+  "description": "Paul Atreides unites with the Fremen while on a warpath of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the universe, he endeavors to prevent a terrible future.",
+  "runtime_minutes": 166,
+  "release_date": "01.03.2024",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm3154303",
+      "name": "Timothée Chalamet"
+    },
+    {
+      "id": "nm3918035",
+      "name": "Zendaya"
+    },
+    {
+      "id": "nm0272581",
+      "name": "Rebecca Ferguson"
+    },
+    {
+      "id": "nm0000849",
+      "name": "Javier Bardem"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0898288",
+      "name": "Denis Villeneuve"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0898288",
+      "name": "Denis Villeneuve"
+    },
+    {
+      "id": "nm3123612",
+      "name": "Jon Spaihts"
+    },
+    {
+      "id": "nm0378541",
+      "name": "Frank Herbert"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm3154303",
+      "name": "Timothée Chalamet",
+      "character": "Paul Atreides"
+    },
+    {
+      "id": "nm3918035",
+      "name": "Zendaya",
+      "character": "Chani"
+    },
+    {
+      "id": "nm0272581",
+      "name": "Rebecca Ferguson",
+      "character": "Jessica"
+    },
+    {
+      "id": "nm0000849",
+      "name": "Javier Bardem",
+      "character": "Stilgar"
+    },
+    {
+      "id": "nm0000982",
+      "name": "Josh Brolin",
+      "character": "Gurney Halleck"
+    },
+    {
+      "id": "nm2581521",
+      "name": "Austin Butler",
+      "character": "Feyd-Rautha"
+    },
+    {
+      "id": "nm6073955",
+      "name": "Florence Pugh",
+      "character": "Princess Irulan"
+    },
+    {
+      "id": "nm1176985",
+      "name": "Dave Bautista",
+      "character": "Beast Rabban"
+    },
+    {
+      "id": "nm0000686",
+      "name": "Christopher Walken",
+      "character": "Emperor"
+    },
+    {
+      "id": "nm2244205",
+      "name": "Léa Seydoux",
+      "character": "Lady Margot Fenring"
+    },
+    {
+      "id": "nm0001745",
+      "name": "Stellan Skarsgård",
+      "character": "Baron Harkonnen"
+    },
+    {
+      "id": "nm0001648",
+      "name": "Charlotte Rampling",
+      "character": "Reverend Mother Mohiam"
+    },
+    {
+      "id": "nm9113893",
+      "name": "Souheila Yacoub",
+      "character": "Shishakli"
+    },
+    {
+      "id": "nm0950619",
+      "name": "Roger Yuan",
+      "character": "Lanville"
+    },
+    {
+      "id": "nm2129802",
+      "name": "Babs Olusanmokun",
+      "character": "Jamis"
+    },
+    {
+      "id": "nm8357101",
+      "name": "Alison Halstead",
+      "character": "Maker Keeper"
+    },
+    {
+      "id": "nm5617584",
+      "name": "Giusi Merli",
+      "character": "Reverend Mother Ramallo"
+    },
+    {
+      "id": "nm0855019",
+      "name": "Kait Tenison",
+      "character": "Bene Gesserit Sister"
+    }
+  ],
+  "countries": [
+    "United States",
+    "Canada",
+    "United Arab Emirates",
+    "Hungary",
+    "Italy",
+    "New Zealand",
+    "Jordan"
+  ],
+  "languages": [
+    "English",
+    "American Sign Language"
+  ],
+  "color": "Color",
+  "filmweb_id": 10003481,
+  "year": 2024,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTc0YmQxMjEtODI5MC00NjFiLTlkMWUtOGQ5NjFmYWUyZGJhXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8.4,
+      "votes": 784882,
+      "distribution": {
+        "1": 10611,
+        "2": 3790,
+        "3": 3342,
+        "4": 6283,
+        "5": 11181,
+        "6": 28357,
+        "7": 78329,
+        "8": 208393,
+        "9": 212956,
+        "10": 221640
+      },
+      "normalized": 8.616
+    },
+    "filmweb": {
+      "rating": 8.09,
+      "votes": 149358,
+      "distribution": {
+        "1": 1131,
+        "2": 481,
+        "3": 1042,
+        "4": 1567,
+        "5": 3433,
+        "6": 8275,
+        "7": 23366,
+        "8": 46542,
+        "9": 40436,
+        "10": 23085
+      },
+      "normalized": 8.6344
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "17.04.2024",
+      "normalized": 7.1247
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "16.04.2024",
+      "normalized": 6.3474
+    },
+    "score": 7.6806
+  },
+  "polish_title": "Diuna: Część druga",
+  "silent": false,
+  "description_pl": "\"Diuna: Część druga\" ukazuje imponującą podróż Paula Atrydy, który zawiera sojusz z Chani i Fremenami. Jednocześnie wkracza na wojenną ścieżkę, pałając żądzą zemsty na spiskowcach, którzy doprowadzili do upadku jego rodziny. Stając przed wyborem między miłością życia a losem znanego wszechświata, Paul pragnie zapobiec tragicznej przyszłości, którą tylko on potrafi przewidzieć.",
+  "producers": [
+    {
+      "id": "nm2476213",
+      "name": "Diala Al Raie"
+    },
+    {
+      "id": "nm1218473",
+      "name": "Kevin J. Anderson"
+    },
+    {
+      "id": "nm4948471",
+      "name": "Trevor Bagge"
+    },
+    {
+      "id": "nm0050234",
+      "name": "Gergö Balika"
+    },
+    {
+      "id": "nm1212547",
+      "name": "Cale Boyter"
+    },
+    {
+      "id": "nm2411834",
+      "name": "Amanda Confavreux"
+    },
+    {
+      "id": "nm2564786",
+      "name": "Jessica Derhammer"
+    },
+    {
+      "id": "nm0254872",
+      "name": "Howard Ellis"
+    },
+    {
+      "id": "nm0301382",
+      "name": "Herbert W. Gains"
+    },
+    {
+      "id": "nm0328996",
+      "name": "Adam Goodman"
+    },
+    {
+      "id": "nm1747096",
+      "name": "James Grant"
+    },
+    {
+      "id": "nm6291569",
+      "name": "Joshua Grode"
+    },
+    {
+      "id": "nm0365666",
+      "name": "John Harrison"
+    },
+    {
+      "id": "nm0373556",
+      "name": "Toby Hefferman"
+    },
+    {
+      "id": "nm9526711",
+      "name": "Brian Herbert"
+    },
+    {
+      "id": "nm9526712",
+      "name": "Kim Herbert"
+    },
+    {
+      "id": "nm0389414",
+      "name": "Genevieve Hofmeyr"
+    },
+    {
+      "id": "nm2324649",
+      "name": "Fuad Khalil"
+    },
+    {
+      "id": "nm7069070",
+      "name": "Tanya Lapointe"
+    },
+    {
+      "id": "nm0505040",
+      "name": "Gianluca Leurini"
+    },
+    {
+      "id": "nm3591977",
+      "name": "Robbie McAree"
+    },
+    {
+      "id": "nm0566590",
+      "name": "Patrick McCormick"
+    },
+    {
+      "id": "nm3698622",
+      "name": "Byron Merritt"
+    },
+    {
+      "id": "nm1558900",
+      "name": "Tina Oswald"
+    },
+    {
+      "id": "nm0661289",
+      "name": "Mary Parent"
+    },
+    {
+      "id": "nm0662095",
+      "name": "Brice Parker"
+    },
+    {
+      "id": "nm0748283",
+      "name": "Richard P. Rubinstein"
+    },
+    {
+      "id": "nm3123612",
+      "name": "Jon Spaihts"
+    },
+    {
+      "id": "nm2100078",
+      "name": "Thomas Tull"
+    },
+    {
+      "id": "nm0898288",
+      "name": "Denis Villeneuve"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0001877",
+      "name": "Hans Zimmer"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0292132",
+      "name": "Greig Fraser"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

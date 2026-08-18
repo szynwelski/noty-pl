@@ -1,0 +1,82 @@
+{
+  "imdb_id": "tt1202028",
+  "title": "London's Trafalgar Square",
+  "description": "A shot of Trafalgar Square.",
+  "runtime_minutes": 1,
+  "release_date": "01.01.1890",
+  "genres": [
+    "Documentary",
+    "Short"
+  ],
+  "directors": [
+    {
+      "id": "nm2955286",
+      "name": "William Carr Crofts"
+    },
+    {
+      "id": "nm2954641",
+      "name": "Wordsworth Donisthorpe"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 542462,
+  "year": 1890,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMWY3NzM5MzEtZWQ2Mi00NzM5LWE5NTQtNDJhODY1NDFkNWEwXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.3,
+      "votes": 1037,
+      "distribution": {
+        "1": 70,
+        "2": 45,
+        "3": 61,
+        "4": 105,
+        "5": 294,
+        "6": 227,
+        "7": 94,
+        "8": 37,
+        "9": 18,
+        "10": 86
+      },
+      "normalized": 3.6408
+    },
+    "filmweb": {
+      "rating": 4.6,
+      "votes": 185,
+      "distribution": {
+        "1": 19,
+        "2": 15,
+        "3": 22,
+        "4": 27,
+        "5": 45,
+        "6": 23,
+        "7": 21,
+        "8": 5,
+        "9": 2,
+        "10": 6
+      },
+      "normalized": 3.6915
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "11.12.2016",
+      "normalized": 6.4102
+    },
+    "score": 4.5808
+  },
+  "polish_title": "London's Trafalgar Square",
+  "silent": true,
+  "description_pl": "W 1890 roku Wordsworth Donisthorpe sfilmował ruch uliczny na placu Trafalgar w Londynie. Użył do tego kamery, którą opatentował razem z Williamem Carr Croftsem. Film ten uważa się za pierwszy, jaki kiedykolwiek nakręcono w Londynie.",
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-16"
+}

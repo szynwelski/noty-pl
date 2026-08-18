@@ -1,0 +1,53 @@
+{
+  "id": "nm0706182",
+  "name": "Bob Rafelson",
+  "filmography": [
+    {
+      "imdb_id": "tt0064276",
+      "title": "Easy Rider",
+      "year": 1969,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0065724",
+      "title": "Five Easy Pieces",
+      "year": 1970,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0067328",
+      "title": "The Last Picture Show",
+      "year": 1971,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0292610",
+      "title": "No Good Deed",
+      "year": 2002,
+      "roles": [
+        "director"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTc0Nzk3MTEzNF5BMl5BanBnXkFtZTcwODIzNDgwMw@@._V1_.jpg",
+  "birth_date": "21.02.1933",
+  "death_date": "23.07.2022",
+  "birth_location": "New York City, New York, USA",
+  "filmweb_id": 11257,
+  "name_pl": "Bob Rafelson",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

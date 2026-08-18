@@ -1,0 +1,49 @@
+{
+  "id": "nm0000369",
+  "name": "Matt Dillon",
+  "filmography": [
+    {
+      "imdb_id": "tt0129387",
+      "title": "There's Something About Mary",
+      "year": 1998,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Healy"
+    },
+    {
+      "imdb_id": "tt0120890",
+      "title": "Wild Things",
+      "year": 1998,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Sam Lombardo"
+    },
+    {
+      "imdb_id": "tt0375679",
+      "title": "Crash",
+      "year": 2004,
+      "roles": [
+        "cast"
+      ],
+      "character": "Officer Ryan"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzk4NjI3NjQ0MF5BMl5BanBnXkFtZTgwMzE3NzI5NzE@._V1_.jpg",
+  "birth_date": "18.02.1964",
+  "birth_location": "New Rochelle, New York, USA",
+  "height": "1.83 m",
+  "filmweb_id": 164,
+  "name_pl": "Matt Dillon",
+  "birth_location_pl": "New Rochelle, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 164
+}

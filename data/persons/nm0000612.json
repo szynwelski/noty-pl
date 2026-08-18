@@ -1,0 +1,50 @@
+{
+  "id": "nm0000612",
+  "name": "Denise Richards",
+  "filmography": [
+    {
+      "imdb_id": "tt0120201",
+      "title": "Starship Troopers",
+      "year": 1997,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Carmen Ibanez"
+    },
+    {
+      "imdb_id": "tt0120890",
+      "title": "Wild Things",
+      "year": 1998,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Kelly Van Ryan"
+    },
+    {
+      "imdb_id": "tt0143145",
+      "title": "The World Is Not Enough",
+      "year": 1999,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Dr. Christmas Jones"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQyNjYxNDU5OV5BMl5BanBnXkFtZTcwNTY5NDQwOA@@._V1_.jpg",
+  "birth_date": "17.02.1971",
+  "birth_location": "Downers Grove, Illinois, USA",
+  "height": "1.68 m",
+  "filmweb_id": 277,
+  "name_pl": "Denise Richards",
+  "birth_location_pl": "Downers Grove, Illinois",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 277
+}

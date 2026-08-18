@@ -1,0 +1,41 @@
+{
+  "id": "nm0000879",
+  "name": "Anne Baxter",
+  "filmography": [
+    {
+      "imdb_id": "tt0035015",
+      "title": "The Magnificent Ambersons",
+      "year": 1942,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Lucy Morgan"
+    },
+    {
+      "imdb_id": "tt0042192",
+      "title": "All About Eve",
+      "year": 1950,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Eve Harrington"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMmYxNmVhYTMtNTQxNC00ODE0LTk1YzgtMTlhNTZjMTVkYmEzXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "07.05.1923",
+  "death_date": "12.12.1985",
+  "birth_location": "Michigan City, Indiana, USA",
+  "height": "1.62 m",
+  "imdb_scraped": true,
+  "filmweb_id": 46563,
+  "name_pl": "Anne Baxter",
+  "birth_location_pl": "Michigan City, Indiana",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 46563
+}

@@ -1,0 +1,185 @@
+{
+  "imdb_id": "tt1454468",
+  "title": "Gravity",
+  "description": "Two astronauts must survive in space after their shuttle is hit by debris during a spacewalk.",
+  "runtime_minutes": 91,
+  "release_date": "04.10.2013",
+  "genres": [
+    "Drama",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000113",
+      "name": "Sandra Bullock"
+    },
+    {
+      "id": "nm0000123",
+      "name": "George Clooney"
+    },
+    {
+      "id": "nm0000438",
+      "name": "Ed Harris"
+    },
+    {
+      "id": "nm1241511",
+      "name": "Orto Ignatiussen"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0190859",
+      "name": "Alfonso Cuarón"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0190859",
+      "name": "Alfonso Cuarón"
+    },
+    {
+      "id": "nm0190861",
+      "name": "Jonás Cuarón"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000113",
+      "name": "Sandra Bullock",
+      "character": "Ryan Stone"
+    },
+    {
+      "id": "nm0000123",
+      "name": "George Clooney",
+      "character": "Matt Kowalski"
+    },
+    {
+      "id": "nm0000438",
+      "name": "Ed Harris",
+      "character": "Mission Control"
+    },
+    {
+      "id": "nm1241511",
+      "name": "Orto Ignatiussen",
+      "character": "Aningaaq"
+    },
+    {
+      "id": "nm2060857",
+      "name": "Phaldut Sharma",
+      "character": "Shariff"
+    },
+    {
+      "id": "nm1741430",
+      "name": "Amy Warren",
+      "character": "Explorer Captain"
+    },
+    {
+      "id": "nm3390180",
+      "name": "Basher Savage",
+      "character": "Russian Space Station Captain"
+    }
+  ],
+  "countries": [
+    "United Kingdom",
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Greenlandic"
+  ],
+  "color": null,
+  "filmweb_id": 564230,
+  "year": 2013,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNjE5MzYwMzYxMF5BMl5BanBnXkFtZTcwOTk4MTk0OQ@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.7,
+      "votes": 904548,
+      "distribution": {
+        "1": 15198,
+        "2": 7646,
+        "3": 11066,
+        "4": 18321,
+        "5": 39794,
+        "6": 94602,
+        "7": 204065,
+        "8": 252023,
+        "9": 156249,
+        "10": 105584
+      },
+      "normalized": 6.893
+    },
+    "filmweb": {
+      "rating": 6.6,
+      "votes": 225470,
+      "distribution": {
+        "1": 1629,
+        "2": 1845,
+        "3": 7721,
+        "4": 10222,
+        "5": 26338,
+        "6": 46892,
+        "7": 65682,
+        "8": 44391,
+        "9": 15643,
+        "10": 5107
+      },
+      "normalized": 4.5417
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "24.02.2014",
+      "normalized": 5.6855
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "30.10.2013",
+      "normalized": 6.3474
+    },
+    "score": 5.8669
+  },
+  "polish_title": "Grawitacja",
+  "silent": false,
+  "description_pl": "Dr Ryan Stone (<a href=\"/osoba/?id=nm0000113\">Sandra Bullock</a>) jest wybitną specjalistką od inżynierii medycznej. Zatrudniona przez NASA trafia do zespołu pracującego przy naprawie teleskopu Hubble'a. Dowódcą misji jest Matt Kowalsky (<a href=\"/osoba/?id=nm0000123\">George Clooney</a>), który po powrocie na Ziemię ma zakończyć karierę astronauty. Kiedy w prom kosmiczny, którym fachowcy przylecieli na orbitę, uderzają szczątki starego rosyjskiego satelity, ginie większość członków misji. Przy życiu pozostają tylko dr Stone i Kowalsky. Od tej chwili są zdani tylko na siebie. Muszą dotrzeć do innego promu, ale zapas powietrza w uszkodzonych zbiornikach nieubłaganie się wyczerpuje...",
+  "producers": [
+    {
+      "id": "nm0190859",
+      "name": "Alfonso Cuarón"
+    },
+    {
+      "id": "nm0002211",
+      "name": "Christopher DeFaria"
+    },
+    {
+      "id": "nm0382268",
+      "name": "David Heyman"
+    },
+    {
+      "id": "nm0002331",
+      "name": "Stephen Jones"
+    },
+    {
+      "id": "nm0672248",
+      "name": "Nikki Penny"
+    },
+    {
+      "id": "nm2342288",
+      "name": "Gabriela Rodríguez"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm1888527",
+      "name": "Steven Price"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0523881",
+      "name": "Emmanuel Lubezki"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

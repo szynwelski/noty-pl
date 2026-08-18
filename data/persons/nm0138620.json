@@ -1,0 +1,39 @@
+{
+  "id": "nm0138620",
+  "name": "Joe Carnahan",
+  "filmography": [
+    {
+      "imdb_id": "tt0429493",
+      "title": "The A-Team",
+      "year": 2010,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt1601913",
+      "title": "The Grey",
+      "year": 2011,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTcxNzQ1Mzk5MV5BMl5BanBnXkFtZTcwMjk5MTQ1Mw@@._V1_.jpg",
+  "birth_date": "09.05.1969",
+  "birth_location": "Sacramento, California, USA",
+  "height": "1.88 m",
+  "imdb_scraped": true,
+  "filmweb_id": 78877,
+  "name_pl": "Joe Carnahan",
+  "birth_location_pl": "Sacramento, Kalifornia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 78877
+}

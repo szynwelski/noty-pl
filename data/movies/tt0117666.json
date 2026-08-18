@@ -1,0 +1,215 @@
+{
+  "imdb_id": "tt0117666",
+  "title": "Sling Blade",
+  "description": "Karl Childers, a simple man hospitalized since his childhood murder of his mother and her lover, is released to start a new life in a small town.",
+  "runtime_minutes": 135,
+  "release_date": "14.03.1997",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0000671",
+      "name": "Billy Bob Thornton"
+    },
+    {
+      "id": "nm0948267",
+      "name": "Dwight Yoakam"
+    },
+    {
+      "id": "nm0000687",
+      "name": "J.T. Walsh"
+    },
+    {
+      "id": "nm0000615",
+      "name": "John Ritter"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000671",
+      "name": "Billy Bob Thornton"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000671",
+      "name": "Billy Bob Thornton"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000671",
+      "name": "Billy Bob Thornton",
+      "character": "Karl Childers"
+    },
+    {
+      "id": "nm0948267",
+      "name": "Dwight Yoakam",
+      "character": "Doyle Hargraves"
+    },
+    {
+      "id": "nm0000687",
+      "name": "J.T. Walsh",
+      "character": "Charles Bushman"
+    },
+    {
+      "id": "nm0000615",
+      "name": "John Ritter",
+      "character": "Vaughan Cunningham"
+    },
+    {
+      "id": "nm0085407",
+      "name": "Lucas Black",
+      "character": "Frank Wheatley"
+    },
+    {
+      "id": "nm0133882",
+      "name": "Natalie Canerday",
+      "character": "Linda Wheatley"
+    },
+    {
+      "id": "nm0358996",
+      "name": "James Hampton",
+      "character": "Jerry Woolridge"
+    },
+    {
+      "id": "nm0000380",
+      "name": "Robert Duvall",
+      "character": "Karl's Father"
+    },
+    {
+      "id": "nm0224496",
+      "name": "Rick Dial",
+      "character": "Bill Cox"
+    },
+    {
+      "id": "nm0109785",
+      "name": "Brent Briscoe",
+      "character": "Scooter Hodges"
+    },
+    {
+      "id": "nm0911456",
+      "name": "Christine Renee Ward",
+      "character": "Melinda"
+    },
+    {
+      "id": "nm0098087",
+      "name": "Sarah Boss",
+      "character": "Marsha Dwiggins"
+    },
+    {
+      "id": "nm0113976",
+      "name": "Kathy Sue Brown",
+      "character": "Theresa Evans"
+    },
+    {
+      "id": "nm0706280",
+      "name": "Wendell Rafferty",
+      "character": "Melvin"
+    },
+    {
+      "id": "nm0358953",
+      "name": "Bruce Hampton",
+      "character": "Morris"
+    },
+    {
+      "id": "nm0156263",
+      "name": "Vic Chesnutt",
+      "character": "Terence"
+    },
+    {
+      "id": "nm0428856",
+      "name": "Mickey Jones",
+      "character": "Monty Johnson"
+    },
+    {
+      "id": "nm0601284",
+      "name": "Ian Moore",
+      "character": "Randy Horsefeathers"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 169,
+  "year": 1996,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDM5MjhhMDgtMmVmYy00ODNlLWI1OGMtMzAzNmY5OGRmNjk0XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8,
+      "votes": 104575,
+      "distribution": {
+        "1": 1391,
+        "2": 507,
+        "3": 648,
+        "4": 1016,
+        "5": 2361,
+        "6": 6061,
+        "7": 17486,
+        "8": 34009,
+        "9": 22279,
+        "10": 18817
+      },
+      "normalized": 7.4211
+    },
+    "filmweb": {
+      "rating": 7.63,
+      "votes": 4361,
+      "distribution": {
+        "1": 27,
+        "2": 6,
+        "3": 40,
+        "4": 51,
+        "5": 172,
+        "6": 380,
+        "7": 1115,
+        "8": 1523,
+        "9": 685,
+        "10": 362
+      },
+      "normalized": 6.8789
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "08.05.2017",
+      "normalized": 7.2292
+    },
+    "score": 7.1764
+  },
+  "polish_title": "Blizny przeszłości",
+  "silent": false,
+  "description_pl": "Dwunastoletni chłopiec zabija matkę i jej kochanka, trafia do zamkniętego zakładu\r\npsychiatrycznego. Po 25 latach wychodzi na wolność, zaczyna pracować jako mechanik.\r\nPrzypadkowo poznana rodzina proponuje mu gościnę.",
+  "producers": [
+    {
+      "id": "nm0124239",
+      "name": "David Bushell"
+    },
+    {
+      "id": "nm0577134",
+      "name": "Larry Meistrich"
+    },
+    {
+      "id": "nm0744046",
+      "name": "Brandon Rosser"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0487011",
+      "name": "Daniel Lanois"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0548718",
+      "name": "Barry Markowitz"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

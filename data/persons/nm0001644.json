@@ -1,0 +1,49 @@
+{
+  "id": "nm0001644",
+  "name": "Aidan Quinn",
+  "filmography": [
+    {
+      "imdb_id": "tt0110322",
+      "title": "Legends of the Fall",
+      "year": 1994,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Alfred"
+    },
+    {
+      "imdb_id": "tt1401152",
+      "title": "Unknown",
+      "year": 2011,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Martin B"
+    },
+    {
+      "imdb_id": "tt2191671",
+      "title": "Elementary",
+      "year": 2012,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Captain Thomas Gregson"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTYwNTI3NzI5OV5BMl5BanBnXkFtZTcwMDE1NTk0NA@@._V1_.jpg",
+  "birth_date": "08.03.1959",
+  "birth_location": "Chicago, Illinois, USA",
+  "height": "1.83 m",
+  "filmweb_id": 4449,
+  "name_pl": "Aidan Quinn",
+  "birth_location_pl": "Chicago, Illinois",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

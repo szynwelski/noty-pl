@@ -1,0 +1,221 @@
+{
+  "imdb_id": "tt0119081",
+  "title": "Event Horizon",
+  "description": "A rescue crew is tasked with investigating the mysterious reappearance of a spaceship that had been lost for seven years.",
+  "runtime_minutes": 96,
+  "release_date": "15.08.1997",
+  "genres": [
+    "Horror",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000401",
+      "name": "Laurence Fishburne"
+    },
+    {
+      "id": "nm0000554",
+      "name": "Sam Neill"
+    },
+    {
+      "id": "nm0000599",
+      "name": "Kathleen Quinlan"
+    },
+    {
+      "id": "nm0000613",
+      "name": "Joely Richardson"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0027271",
+      "name": "Paul W.S. Anderson"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0252155",
+      "name": "Philip Eisner"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000401",
+      "name": "Laurence Fishburne",
+      "character": "Miller"
+    },
+    {
+      "id": "nm0000554",
+      "name": "Sam Neill",
+      "character": "Weir"
+    },
+    {
+      "id": "nm0000599",
+      "name": "Kathleen Quinlan",
+      "character": "Peters"
+    },
+    {
+      "id": "nm0000613",
+      "name": "Joely Richardson",
+      "character": "Starck"
+    },
+    {
+      "id": "nm0429114",
+      "name": "Richard T. Jones",
+      "character": "Cooper"
+    },
+    {
+      "id": "nm0005276",
+      "name": "Jack Noseworthy",
+      "character": "Justin"
+    },
+    {
+      "id": "nm0005042",
+      "name": "Jason Isaacs",
+      "character": "D.J."
+    },
+    {
+      "id": "nm0675730",
+      "name": "Sean Pertwee",
+      "character": "Smith"
+    },
+    {
+      "id": "nm0547603",
+      "name": "Peter Marinker",
+      "character": "Kilpack"
+    },
+    {
+      "id": "nm0151955",
+      "name": "Holley Chant",
+      "character": "Claire"
+    },
+    {
+      "id": "nm0942216",
+      "name": "Barclay Wright",
+      "character": "Denny"
+    },
+    {
+      "id": "nm0403168",
+      "name": "Noah Huntley",
+      "character": "Burning Man"
+    },
+    {
+      "id": "nm0422514",
+      "name": "Robert Jezek",
+      "character": "Rescue Technician"
+    },
+    {
+      "id": "nm0095696",
+      "name": "Emily Booth",
+      "character": "Girl on Monitor"
+    },
+    {
+      "id": "nm0620576",
+      "name": "Bharat Nalluri",
+      "character": "Event Horizon Crew Member"
+    },
+    {
+      "id": "nm0802551",
+      "name": "Gary Sinyor",
+      "character": "Event Horizon Crew Member"
+    }
+  ],
+  "countries": [
+    "United Kingdom",
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Latin"
+  ],
+  "color": "Color",
+  "filmweb_id": 559,
+  "year": 1997,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BM2M4ZTI2MjMtYjVlNy00Y2E3LTgzM2EtNDA0NTUzZmQxZjY3XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.6,
+      "votes": 216763,
+      "distribution": {
+        "1": 3747,
+        "2": 2848,
+        "3": 5103,
+        "4": 9393,
+        "5": 19518,
+        "6": 42180,
+        "7": 60443,
+        "8": 41040,
+        "9": 16823,
+        "10": 15668
+      },
+      "normalized": 4.6655
+    },
+    "filmweb": {
+      "rating": 6.89,
+      "votes": 47743,
+      "distribution": {
+        "1": 189,
+        "2": 314,
+        "3": 1029,
+        "4": 1674,
+        "5": 4368,
+        "6": 8823,
+        "7": 14435,
+        "8": 11343,
+        "9": 3908,
+        "10": 1660
+      },
+      "normalized": 5.4224
+    },
+    "jarek": {
+      "rating": 3,
+      "date_rated": "02.12.2005",
+      "normalized": 4.2591
+    },
+    "score": 4.7823
+  },
+  "polish_title": "Ukryty wymiar",
+  "silent": false,
+  "description_pl": "Rok 2040: eksperymentalny statek kosmiczny wyrusza w przestrzeń i nagle znika w okolicach planety Neptun. W siedem lat później do Ziemi docierają sygnały pochodzące z zaginionego pojazdu. Władze organizują wyprawę ratunkową.",
+  "producers": [
+    {
+      "id": "nm0093337",
+      "name": "Jeremy Bolt"
+    },
+    {
+      "id": "nm4709966",
+      "name": "Colin Brown"
+    },
+    {
+      "id": "nm0319391",
+      "name": "Nick Gillott"
+    },
+    {
+      "id": "nm0330379",
+      "name": "Lawrence Gordon"
+    },
+    {
+      "id": "nm0410885",
+      "name": "Sarah Isherwood"
+    },
+    {
+      "id": "nm0505656",
+      "name": "Lloyd Levin"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0004383",
+      "name": "Michael Kamen"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0000939",
+      "name": "Adrian Biddle"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

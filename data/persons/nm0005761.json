@@ -1,0 +1,35 @@
+{
+  "id": "nm0005761",
+  "name": "Robert Krasker",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjY5OGYxMjMtMGQ5Yi00ODM2LWI1ZjMtZTM5ZTg2MzI2MmY2XkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0037558",
+      "title": "Brief Encounter",
+      "year": 1945,
+      "roles": [
+        "cinematographer"
+      ]
+    },
+    {
+      "imdb_id": "tt0041959",
+      "title": "The Third Man",
+      "year": 1949,
+      "roles": [
+        "cinematographer"
+      ]
+    }
+  ],
+  "birth_date": "13.08.1913",
+  "death_date": "16.08.1981",
+  "birth_location": "Perth, Western Australia, Australia",
+  "imdb_scraped": true,
+  "filmweb_id": 47739,
+  "name_pl": "Robert Krasker",
+  "birth_location_pl": "Perth",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Australia"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "nm4793987",
+  "name": "Issa Rae",
+  "filmography": [
+    {
+      "imdb_id": "tt1517268",
+      "title": "Barbie",
+      "year": 2023,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Barbie"
+    },
+    {
+      "imdb_id": "tt9362722",
+      "title": "Spider-Man: Across the Spider-Verse",
+      "year": 2023,
+      "roles": [
+        "cast"
+      ],
+      "character": "Jessica Drew"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTUyODI3MDg1OF5BMl5BanBnXkFtZTgwMjc5NTc5MDI@._V1_.jpg",
+  "birth_date": "12.01.1985",
+  "birth_location": "Los Angeles, California, USA",
+  "height": "1.71 m",
+  "imdb_scraped": true,
+  "filmweb_id": 1762941,
+  "name_pl": "Issa Rae",
+  "birth_location_pl": "Los Angeles, Kalifornia",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "nm0002106",
+  "name": "Ruth Gordon",
+  "filmography": [
+    {
+      "imdb_id": "tt0041090",
+      "title": "Adam's Rib",
+      "year": 1949,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0063522",
+      "title": "Rosemary's Baby",
+      "year": 1968,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Minnie Castevet"
+    },
+    {
+      "imdb_id": "tt0067185",
+      "title": "Harold and Maude",
+      "year": 1971,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Maude Chardin"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTkzNDU5MjM5OV5BMl5BanBnXkFtZTgwNTIyMjM2MDI@._V1_.jpg",
+  "birth_date": "30.10.1896",
+  "death_date": "28.08.1985",
+  "birth_location": "Quincy, Massachusetts, USA",
+  "height": "1.52 m",
+  "filmweb_id": 8502,
+  "name_pl": "Ruth Gordon",
+  "birth_location_pl": "Quincy, Massachusetts",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 8502
+}

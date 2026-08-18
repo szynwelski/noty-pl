@@ -1,0 +1,39 @@
+{
+  "id": "nm2129938",
+  "name": "Thomas Turgoose",
+  "filmography": [
+    {
+      "imdb_id": "tt0480025",
+      "title": "This Is England",
+      "year": 2006,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Shaun"
+    },
+    {
+      "imdb_id": "tt4649466",
+      "title": "Kingsman: The Golden Circle",
+      "year": 2017,
+      "roles": [
+        "cast"
+      ],
+      "character": "Liam"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOGFmNTllNWYtNmVmMS00NDhkLTk4Y2QtZDNmM2M2OGQ3ZjdhXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "11.02.1992",
+  "birth_location": "Grimsby, Lincolnshire, England, UK",
+  "height": "1.64 m",
+  "imdb_scraped": true,
+  "filmweb_id": 633030,
+  "name_pl": "Thomas Turgoose",
+  "birth_location_pl": "Grimsby, Anglia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 633030
+}

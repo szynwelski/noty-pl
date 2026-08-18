@@ -1,0 +1,50 @@
+{
+  "id": "nm0872456",
+  "name": "Claire Trevor",
+  "filmography": [
+    {
+      "imdb_id": "tt0031971",
+      "title": "Stagecoach",
+      "year": 1939,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Dallas"
+    },
+    {
+      "imdb_id": "tt0037101",
+      "title": "Murder, My Sweet",
+      "year": 1944,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Helen Grayle"
+    },
+    {
+      "imdb_id": "tt0040506",
+      "title": "Key Largo",
+      "year": 1948,
+      "roles": [
+        "cast"
+      ],
+      "character": "Gaye Dawn"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYzZhNjk5MTMtZDZlNS00YWNmLWEzYzMtOTJjYjkzMDU1ZmNlXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "08.03.1910",
+  "death_date": "08.04.2000",
+  "birth_location": "New York City, New York, USA",
+  "height": "1.60 m",
+  "filmweb_id": 46737,
+  "name_pl": "Claire Trevor",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 46737
+}

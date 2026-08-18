@@ -1,0 +1,94 @@
+{
+  "imdb_id": "tt0000414",
+  "title": "Uncle Josh at the Moving Picture Show",
+  "description": "Uncle Josh is at a vaudeville theater, where a moving picture show is going on. He thinks what he sees on the movie screen is real.",
+  "runtime_minutes": 2,
+  "release_date": "1902",
+  "genres": [
+    "Comedy",
+    "Short"
+  ],
+  "stars": [
+    {
+      "id": "nm0542567",
+      "name": "Charles Manley"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0692105",
+      "name": "Edwin S. Porter"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0542567",
+      "name": "Charles Manley",
+      "character": "Uncle Josh"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "None",
+    "English"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 149120,
+  "year": 1902,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTU4MjgwNzU5Ml5BMl5BanBnXkFtZTcwMzExNDA3MQ@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.4,
+      "votes": 889,
+      "distribution": {
+        "1": 34,
+        "2": 37,
+        "3": 54,
+        "4": 95,
+        "5": 239,
+        "6": 222,
+        "7": 122,
+        "8": 43,
+        "9": 14,
+        "10": 29
+      },
+      "normalized": 3.8595
+    },
+    "filmweb": {
+      "rating": 4.98,
+      "votes": 49,
+      "distribution": {
+        "1": 2,
+        "2": 3,
+        "3": 7,
+        "4": 5,
+        "5": 13,
+        "6": 10,
+        "7": 6,
+        "8": 0,
+        "9": 2,
+        "10": 1
+      },
+      "normalized": 4.6337
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "13.12.2016",
+      "normalized": 4.9718
+    },
+    "score": 4.4883
+  },
+  "polish_title": "Uncle Josh at the Moving Picture Show",
+  "silent": true,
+  "cinematographers": [
+    {
+      "id": "nm0692105",
+      "name": "Edwin S. Porter"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-15"
+}

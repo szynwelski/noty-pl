@@ -1,0 +1,84 @@
+{
+  "id": "nm0000583",
+  "name": "Wolfgang Petersen",
+  "filmography": [
+    {
+      "imdb_id": "tt0082096",
+      "title": "Das Boot",
+      "year": 1981,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0088323",
+      "title": "The NeverEnding Story",
+      "year": 1984,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0107206",
+      "title": "In the Line of Fire",
+      "year": 1993,
+      "roles": [
+        "director",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0114069",
+      "title": "Outbreak",
+      "year": 1995,
+      "roles": [
+        "director",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0118571",
+      "title": "Air Force One",
+      "year": 1997,
+      "roles": [
+        "director",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0177971",
+      "title": "The Perfect Storm",
+      "year": 2000,
+      "roles": [
+        "director",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0332452",
+      "title": "Troy",
+      "year": 2004,
+      "roles": [
+        "director",
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTczNTQ5ODY4OV5BMl5BanBnXkFtZTYwMDcyMDI1._V1_.jpg",
+  "birth_date": "14.03.1941",
+  "death_date": "12.08.2022",
+  "birth_location": "Emden, Germany",
+  "height": "1.78 m",
+  "filmweb_id": 383,
+  "name_pl": "Wolfgang Petersen",
+  "birth_location_pl": "Emden",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Niemcy"
+  ],
+  "wikidata_fw_id": 383
+}

@@ -1,0 +1,104 @@
+{
+  "imdb_id": "tt3703646",
+  "title": "The Shop of SongBirds",
+  "description": "Animation by Anatoliy LAvrenishyn. Animation studio 'MarcusFilm'",
+  "runtime_minutes": 18,
+  "release_date": "2014",
+  "genres": [
+    "Animation",
+    "Short",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm6466530",
+      "name": "Katya Chilly"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm4819939",
+      "name": "Anatoliy Lavrenishyn"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm4819939",
+      "name": "Anatoliy Lavrenishyn"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm6466530",
+      "name": "Katya Chilly",
+      "character": "Katia Chilly"
+    }
+  ],
+  "countries": [
+    "Ukraine"
+  ],
+  "languages": [],
+  "color": "Color",
+  "year": 2014,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNmI0MjBkM2ItZmQ4Mi00NTQwLTkyNmYtNWFjOTQ1Y2MzNjc4XkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 725375,
+  "original_title": "Kramnitsa spyvotchyh ptashok",
+  "ratings": {
+    "imdb": {
+      "rating": 8,
+      "votes": 22,
+      "distribution": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1,
+        "6": 5,
+        "7": 1,
+        "8": 6,
+        "9": 3,
+        "10": 5
+      },
+      "normalized": 5.3508
+    },
+    "filmweb": {
+      "rating": 4.67,
+      "votes": 6,
+      "distribution": {
+        "2": 0,
+        "3": 2,
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 0,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 5.0812
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "22.12.2018",
+      "normalized": 6.4102
+    },
+    "score": 5.6141
+  },
+  "polish_title": "Ptasi kram",
+  "silent": false,
+  "composers": [
+    {
+      "id": "nm2980341",
+      "name": "Anton Baibakov"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm3113683",
+      "name": "Sergii Salomatin"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

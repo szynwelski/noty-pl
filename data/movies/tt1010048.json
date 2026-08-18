@@ -1,0 +1,254 @@
+{
+  "imdb_id": "tt1010048",
+  "title": "Slumdog Millionaire",
+  "description": "When a teenager from the slums of Mumbai is interrogated about his suspicious performance on a quiz show, he revisits various events from his past to explain how he knew all the answers.",
+  "runtime_minutes": 120,
+  "release_date": "25.12.2008",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm2353862",
+      "name": "Dev Patel"
+    },
+    {
+      "id": "nm2951768",
+      "name": "Freida Pinto"
+    },
+    {
+      "id": "nm0795661",
+      "name": "Saurabh Shukla"
+    },
+    {
+      "id": "nm0438463",
+      "name": "Anil Kapoor"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000965",
+      "name": "Danny Boyle"
+    },
+    {
+      "id": "nm0849164",
+      "name": "Loveleen Tandan"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0064479",
+      "name": "Simon Beaufoy"
+    },
+    {
+      "id": "nm3139511",
+      "name": "Vikas Swarup"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm2353862",
+      "name": "Dev Patel",
+      "character": "Older Jamal"
+    },
+    {
+      "id": "nm2951768",
+      "name": "Freida Pinto",
+      "character": "Older Latika"
+    },
+    {
+      "id": "nm0795661",
+      "name": "Saurabh Shukla",
+      "character": "Sergeant Srinivas"
+    },
+    {
+      "id": "nm0438463",
+      "name": "Anil Kapoor",
+      "character": "Prem"
+    },
+    {
+      "id": "nm0958861",
+      "name": "Raj Zutshi",
+      "character": "Director"
+    },
+    {
+      "id": "nm1261643",
+      "name": "Jeneva Talwar",
+      "character": "Vision Mixer"
+    },
+    {
+      "id": "nm0451234",
+      "name": "Irrfan Khan",
+      "character": "Police Inspector"
+    },
+    {
+      "id": "nm3193259",
+      "name": "Azharuddin Mohammed Ismail",
+      "character": "Youngest Salim"
+    },
+    {
+      "id": "nm3193597",
+      "name": "Ayush Mahesh Khedekar",
+      "character": "Youngest Jamal"
+    },
+    {
+      "id": "nm3193847",
+      "name": "Jira Banjara",
+      "character": "Airport Security Guard"
+    },
+    {
+      "id": "nm3193299",
+      "name": "Sheikh Wali",
+      "character": "Airport Security Guard"
+    },
+    {
+      "id": "nm0542498",
+      "name": "Mahesh Manjrekar",
+      "character": "Javed"
+    },
+    {
+      "id": "nm3193736",
+      "name": "Sanchita Choudhary",
+      "character": "Jamal's Mother"
+    },
+    {
+      "id": "nm3193370",
+      "name": "Himanshu Tyagi",
+      "character": "Mr Nanda"
+    },
+    {
+      "id": "nm3192510",
+      "name": "Sharib Hashmi",
+      "character": "Prakash"
+    },
+    {
+      "id": "nm3193454",
+      "name": "Virendra Chatterjee",
+      "character": "Slum Man"
+    },
+    {
+      "id": "nm3568654",
+      "name": "Feroze Khan",
+      "character": "Amitabh Bachchan"
+    },
+    {
+      "id": "nm2177665",
+      "name": "Sunil Kumar Agrawal",
+      "character": "Mr. Chi"
+    }
+  ],
+  "countries": [
+    "United Kingdom",
+    "France",
+    "United States",
+    "India"
+  ],
+  "languages": [
+    "English",
+    "Hindi"
+  ],
+  "color": "Color",
+  "filmweb_id": 468296,
+  "year": 2008,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTE5ZTRkYWEtZmU5MC00NDJjLTk3NmUtZGJlYTM2MmQ3NTJkXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8,
+      "votes": 913838,
+      "distribution": {
+        "1": 12340,
+        "2": 4158,
+        "3": 5703,
+        "4": 9534,
+        "5": 21435,
+        "6": 56379,
+        "7": 161704,
+        "8": 301481,
+        "9": 203407,
+        "10": 137697
+      },
+      "normalized": 7.5696
+    },
+    "filmweb": {
+      "rating": 7.36,
+      "votes": 599874,
+      "distribution": {
+        "1": 6397,
+        "2": 4030,
+        "3": 10014,
+        "4": 16975,
+        "5": 34695,
+        "6": 70241,
+        "7": 143953,
+        "8": 172874,
+        "9": 87954,
+        "10": 52741
+      },
+      "normalized": 6.3983
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "05.02.2010",
+      "normalized": 6.4102
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "16.03.2009",
+      "normalized": 6.3474
+    },
+    "score": 6.6814
+  },
+  "polish_title": "Slumdog. Milioner z ulicy",
+  "silent": false,
+  "description_pl": "Jamal, mieszkaniec slumsów Bombaju, w wieku 18 lat bierze udział w hinduskiej wersji \"Milionerów\". Od finałowej wygranej dzieli go ostatnie pytanie, jednak zanim zdąży na nie odpowiedzieć, aresztuje go policja. Funkcjonariusze chcą się dowiedzieć jak chłopak może wiedzieć tak dużo. Jamal opowiada prawdziwą historię dzieciństwa, przemocy i miłości swojego życia. To ulica była jego szkołą. Szkołą przetrwania...",
+  "producers": [
+    {
+      "id": "nm1384503",
+      "name": "Christian Colson"
+    },
+    {
+      "id": "nm0412246",
+      "name": "François Ivernel"
+    },
+    {
+      "id": "nm1803361",
+      "name": "Ivana MacKinnon"
+    },
+    {
+      "id": "nm0566831",
+      "name": "Cameron McCracken"
+    },
+    {
+      "id": "nm0634782",
+      "name": "Tabrez Noorani"
+    },
+    {
+      "id": "nm0728619",
+      "name": "Paul Ritchie"
+    },
+    {
+      "id": "nm0743882",
+      "name": "Tessa Ross"
+    },
+    {
+      "id": "nm0809531",
+      "name": "Paul Smith"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006246",
+      "name": "A.R. Rahman"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0230045",
+      "name": "Anthony Dod Mantle"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

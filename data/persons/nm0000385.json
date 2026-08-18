@@ -1,0 +1,68 @@
+{
+  "id": "nm0000385",
+  "name": "Sam Elliott",
+  "filmography": [
+    {
+      "imdb_id": "tt0108358",
+      "title": "Tombstone",
+      "year": 1993,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Virgil Earp"
+    },
+    {
+      "imdb_id": "tt0277434",
+      "title": "We Were Soldiers",
+      "year": 2002,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Sgt. Maj. Basil Plumley"
+    },
+    {
+      "imdb_id": "tt0385752",
+      "title": "The Golden Compass",
+      "year": 2007,
+      "roles": [
+        "cast"
+      ],
+      "character": "Lee Scoresby"
+    },
+    {
+      "imdb_id": "tt1193138",
+      "title": "Up in the Air",
+      "year": 2009,
+      "roles": [
+        "cast"
+      ],
+      "character": "Maynard Finch"
+    },
+    {
+      "imdb_id": "tt1517451",
+      "title": "A Star Is Born",
+      "year": 2018,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Bobby"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTU0NTk4NDgzMl5BMl5BanBnXkFtZTYwNjU5Nzc1._V1_.jpg",
+  "birth_date": "09.08.1944",
+  "birth_location": "Sacramento, California, USA",
+  "height": "1.88 m",
+  "filmweb_id": 2645,
+  "name_pl": "Sam Elliott",
+  "birth_location_pl": "Sacramento, Kalifornia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 2645
+}

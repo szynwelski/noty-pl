@@ -1,0 +1,61 @@
+{
+  "id": "nm0001273",
+  "name": "Lillian Gish",
+  "filmography": [
+    {
+      "imdb_id": "tt0004972",
+      "title": "The Birth of a Nation",
+      "year": 1915,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Elsie - Stoneman's Daughter"
+    },
+    {
+      "imdb_id": "tt0009968",
+      "title": "Broken Blossoms",
+      "year": 1919,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Lucy - The Girl"
+    },
+    {
+      "imdb_id": "tt0019585",
+      "title": "The Wind",
+      "year": 1928,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Letty"
+    },
+    {
+      "imdb_id": "tt0048424",
+      "title": "The Night of the Hunter",
+      "year": 1955,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Rachel Cooper"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjM2MTcwNzkwOV5BMl5BanBnXkFtZTgwNDQ0NzMwMTI@._V1_.jpg",
+  "birth_date": "14.10.1893",
+  "death_date": "27.02.1993",
+  "birth_location": "Springfield, Ohio, USA",
+  "height": "1.66 m",
+  "filmweb_id": 47703,
+  "name_pl": "Lillian Gish",
+  "birth_location_pl": "Sprigfield, Ohio",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 47703
+}

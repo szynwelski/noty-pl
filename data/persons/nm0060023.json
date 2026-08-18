@@ -1,0 +1,48 @@
+{
+  "id": "nm0060023",
+  "name": "Alfie Bass",
+  "filmography": [
+    {
+      "imdb_id": "tt0037558",
+      "title": "Brief Encounter",
+      "year": 1945,
+      "roles": [
+        "cast"
+      ],
+      "character": "Waiter at the Royal"
+    },
+    {
+      "imdb_id": "tt0060390",
+      "title": "Fahrenheit 451",
+      "year": 1966,
+      "roles": [
+        "cast"
+      ],
+      "character": "Book Person: 'The Prince'"
+    },
+    {
+      "imdb_id": "tt0061655",
+      "title": "The Fearless Vampire Killers",
+      "year": 1967,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Shagal the Inn-Keeper"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYTZiMDlhYmEtZDEzMy00N2VlLTg4NTItNjIyYmYzNGZjZWNhXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "08.04.1916",
+  "death_date": "15.07.1987",
+  "birth_location": "Bethnal Green, London, England, UK",
+  "height": "1.65 m",
+  "filmweb_id": 43890,
+  "name_pl": "Alfie Bass",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ]
+}

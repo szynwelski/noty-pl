@@ -1,0 +1,35 @@
+{
+  "id": "nm0515891",
+  "name": "Luis Llosa",
+  "filmography": [
+    {
+      "imdb_id": "tt0111255",
+      "title": "The Specialist",
+      "year": 1994,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0118615",
+      "title": "Anaconda",
+      "year": 1997,
+      "roles": [
+        "director"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTg5NTM2NDYxMV5BMl5BanBnXkFtZTcwOTMwODgwMw@@._V1_.jpg",
+  "birth_date": "18.04.1951",
+  "birth_location": "Lima, Peru",
+  "imdb_scraped": true,
+  "filmweb_id": 11205,
+  "name_pl": "Luis Llosa",
+  "birth_location_pl": "Lima",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Peru"
+  ],
+  "wikidata_fw_id": 11205
+}

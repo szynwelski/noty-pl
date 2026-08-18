@@ -1,0 +1,214 @@
+{
+  "imdb_id": "tt7044478",
+  "title": "Alternative Math",
+  "description": "A well meaning math teacher finds herself trumped by a post-fact America.",
+  "runtime_minutes": 9,
+  "release_date": "15.07.2017",
+  "genres": [
+    "Short",
+    "Comedy"
+  ],
+  "stars": [
+    {
+      "id": "nm0140161",
+      "name": "Allyn Carrell"
+    },
+    {
+      "id": "nm9077779",
+      "name": "Cole Whitaker"
+    },
+    {
+      "id": "nm1436538",
+      "name": "Mykle McCoslin"
+    },
+    {
+      "id": "nm0557287",
+      "name": "Bryan Massey"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm1529224",
+      "name": "David Maddox"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1529224",
+      "name": "David Maddox"
+    },
+    {
+      "id": "nm4238037",
+      "name": "Malcolm Morrison"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0140161",
+      "name": "Allyn Carrell",
+      "character": "Mrs. Wells"
+    },
+    {
+      "id": "nm9077779",
+      "name": "Cole Whitaker",
+      "character": "Danny"
+    },
+    {
+      "id": "nm1436538",
+      "name": "Mykle McCoslin",
+      "character": "Danny's Mom"
+    },
+    {
+      "id": "nm0557287",
+      "name": "Bryan Massey",
+      "character": "Danny's Dad"
+    },
+    {
+      "id": "nm1675531",
+      "name": "Paul T. Taylor",
+      "character": "Principal"
+    },
+    {
+      "id": "nm0569933",
+      "name": "Sean McGraw",
+      "character": "Superintendent"
+    },
+    {
+      "id": "nm1925928",
+      "name": "Wilbur Penn",
+      "character": "Mayor"
+    },
+    {
+      "id": "nm6643807",
+      "name": "La'Netia D. Taylor",
+      "character": "Angry Mother"
+    },
+    {
+      "id": "nm0394834",
+      "name": "Gabriel Horn",
+      "character": "Crazy Dad"
+    },
+    {
+      "id": "nm1435438",
+      "name": "Augustine Frizzell",
+      "character": "Psycho Mom"
+    },
+    {
+      "id": "nm4238037",
+      "name": "Malcolm Morrison",
+      "character": "Security Guard"
+    },
+    {
+      "id": "nm9080363",
+      "name": "Steffanie Blackmon",
+      "character": "Local Reporter"
+    },
+    {
+      "id": "nm5800711",
+      "name": "Eric Hanson",
+      "character": "Smug Pundit"
+    },
+    {
+      "id": "nm0136388",
+      "name": "Liz Cardenas",
+      "character": "Angry Pundit"
+    },
+    {
+      "id": "nm1347969",
+      "name": "Michael Clemons",
+      "character": "Diplomatic Pundit"
+    },
+    {
+      "id": "nm3680055",
+      "name": "Joel David Taylor",
+      "character": "Crazy Pundit"
+    },
+    {
+      "id": "nm3405228",
+      "name": "Hunter Barnett",
+      "character": "School Board"
+    },
+    {
+      "id": "nm9990314",
+      "name": "Gayle Jerden",
+      "character": "School Board"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 830705,
+  "year": 2017,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTNjODU3NjEtYTNmYy00NzZlLWE4Y2YtNTkxN2E5ZGIxMjkzXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.3,
+      "votes": 1341,
+      "distribution": {
+        "1": 41,
+        "2": 16,
+        "3": 22,
+        "4": 36,
+        "5": 73,
+        "6": 161,
+        "7": 353,
+        "8": 330,
+        "9": 152,
+        "10": 157
+      },
+      "normalized": 5.8104
+    },
+    "filmweb": {
+      "rating": 6.38,
+      "votes": 181,
+      "distribution": {
+        "1": 7,
+        "2": 3,
+        "3": 7,
+        "4": 7,
+        "5": 21,
+        "6": 36,
+        "7": 48,
+        "8": 39,
+        "9": 7,
+        "10": 6
+      },
+      "normalized": 4.7811
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "05.11.2022",
+      "normalized": 5.4199
+    },
+    "score": 5.3371
+  },
+  "polish_title": "Alternative Math",
+  "silent": false,
+  "producers": [
+    {
+      "id": "nm0136388",
+      "name": "Liz Cardenas"
+    },
+    {
+      "id": "nm1529224",
+      "name": "David Maddox"
+    },
+    {
+      "id": "nm4232423",
+      "name": "Jeff Walker"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0089104",
+      "name": "David Blood"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

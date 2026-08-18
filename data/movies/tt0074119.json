@@ -1,0 +1,226 @@
+{
+  "imdb_id": "tt0074119",
+  "title": "All the President's Men",
+  "description": "\"The Washington Post\" reporters Bob Woodward and Carl Bernstein uncover the details of the Watergate scandal that leads to President Richard Nixon's resignation.",
+  "runtime_minutes": 138,
+  "release_date": "09.04.1976",
+  "genres": [
+    "Drama",
+    "History",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000163",
+      "name": "Dustin Hoffman"
+    },
+    {
+      "id": "nm0000602",
+      "name": "Robert Redford"
+    },
+    {
+      "id": "nm0912001",
+      "name": "Jack Warden"
+    },
+    {
+      "id": "nm0000842",
+      "name": "Martin Balsam"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001587",
+      "name": "Alan J. Pakula"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0077012",
+      "name": "Carl Bernstein"
+    },
+    {
+      "id": "nm0940124",
+      "name": "Bob Woodward"
+    },
+    {
+      "id": "nm0001279",
+      "name": "William Goldman"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000163",
+      "name": "Dustin Hoffman",
+      "character": "Carl Bernstein"
+    },
+    {
+      "id": "nm0000602",
+      "name": "Robert Redford",
+      "character": "Bob Woodward"
+    },
+    {
+      "id": "nm0912001",
+      "name": "Jack Warden",
+      "character": "Harry Rosenfeld"
+    },
+    {
+      "id": "nm0000842",
+      "name": "Martin Balsam",
+      "character": "Howard Simons"
+    },
+    {
+      "id": "nm0001358",
+      "name": "Hal Holbrook",
+      "character": "Deep Throat"
+    },
+    {
+      "id": "nm0001673",
+      "name": "Jason Robards",
+      "character": "Ben Bradlee"
+    },
+    {
+      "id": "nm0000737",
+      "name": "Jane Alexander",
+      "character": "Bookkeeper"
+    },
+    {
+      "id": "nm0000880",
+      "name": "Meredith Baxter",
+      "character": "Debbie Sloan"
+    },
+    {
+      "id": "nm0000885",
+      "name": "Ned Beatty",
+      "character": "Dardis"
+    },
+    {
+      "id": "nm0004834",
+      "name": "Stephen Collins",
+      "character": "Hugh Sloan"
+    },
+    {
+      "id": "nm0298323",
+      "name": "Penny Fuller",
+      "character": "Sally Aiken"
+    },
+    {
+      "id": "nm0533979",
+      "name": "John McMartin",
+      "character": "Foreign Editor"
+    },
+    {
+      "id": "nm0907107",
+      "name": "Robert Walden",
+      "character": "Donald Segretti"
+    },
+    {
+      "id": "nm0932643",
+      "name": "Frank Wills",
+      "character": "Frank Wills"
+    },
+    {
+      "id": "nm0000719",
+      "name": "F. Murray Abraham",
+      "character": "Arresting Officer #1"
+    },
+    {
+      "id": "nm0035069",
+      "name": "David Arkin",
+      "character": "Eugene Bachinski"
+    },
+    {
+      "id": "nm0130806",
+      "name": "Henry Calvert",
+      "character": "Bernard L. Barker"
+    },
+    {
+      "id": "nm0156940",
+      "name": "Dominic Chianese",
+      "character": "Eugenio R. Martinez"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "color": "Color",
+  "filmweb_id": 11794,
+  "year": 1976,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZGQzMzcwMDYtMmNjNS00YzZlLTg2MjUtNTE0MThlNTFjMDQ0XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.9,
+      "votes": 138883,
+      "distribution": {
+        "1": 1191,
+        "2": 348,
+        "3": 513,
+        "4": 1064,
+        "5": 2798,
+        "6": 8633,
+        "7": 28259,
+        "8": 51214,
+        "9": 26665,
+        "10": 18198
+      },
+      "normalized": 7.2294
+    },
+    "filmweb": {
+      "rating": 7.6,
+      "votes": 23001,
+      "distribution": {
+        "1": 21,
+        "2": 12,
+        "3": 80,
+        "4": 149,
+        "5": 643,
+        "6": 2029,
+        "7": 6818,
+        "8": 9331,
+        "9": 2921,
+        "10": 997
+      },
+      "normalized": 6.9877
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "19.10.2005",
+      "normalized": 5.4199
+    },
+    "score": 6.5457
+  },
+  "polish_title": "Wszyscy ludzie prezydenta",
+  "silent": false,
+  "description_pl": "Historia prawdziwa. Dwójka reporterów Washington Post trafia na sensacyjne informacje dotyczące włamania do siedziby partii Demokratów w 1972. ślady prowadzą do Białego Domu. \r\nKulisy afery Watergate, która doprowadziła do rezygnacji z urzędu prezydenta USA Richarda Nixona. \r\nFilm otrzymał 4 nominacje do Złotego Globu i 8 nominacji do Oscara (z czego 4 zamieniły sie w statuetki).",
+  "producers": [
+    {
+      "id": "nm0095589",
+      "name": "Jon Boorstin"
+    },
+    {
+      "id": "nm0110212",
+      "name": "Michael Britton"
+    },
+    {
+      "id": "nm0003144",
+      "name": "Walter Coblenz"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006288",
+      "name": "David Shire"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0932336",
+      "name": "Gordon Willis"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

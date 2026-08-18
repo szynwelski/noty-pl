@@ -1,0 +1,104 @@
+{
+  "id": "nm0001392",
+  "name": "Peter Jackson",
+  "filmography": [
+    {
+      "imdb_id": "tt0120737",
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001,
+      "roles": [
+        "director",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0167261",
+      "title": "The Lord of the Rings: The Two Towers",
+      "year": 2002,
+      "roles": [
+        "director",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0167260",
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": 2003,
+      "roles": [
+        "director",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0360717",
+      "title": "King Kong",
+      "year": 2005,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt1136608",
+      "title": "District 9",
+      "year": 2009,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0903624",
+      "title": "The Hobbit: An Unexpected Journey",
+      "year": 2012,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt1170358",
+      "title": "The Hobbit: The Desolation of Smaug",
+      "year": 2013,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt2310332",
+      "title": "The Hobbit: The Battle of the Five Armies",
+      "year": 2014,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt1571234",
+      "title": "Mortal Engines",
+      "year": 2018,
+      "roles": [
+        "writer",
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTk2MzA0ZDAtMTI0Yy00NzU2LTgyYmUtMDRlOGFmYjM3NzJhXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "31.10.1961",
+  "birth_location": "Pukerua Bay, North Island, New Zealand",
+  "height": "1.65 m",
+  "filmweb_id": 11606,
+  "name_pl": "Peter Jackson",
+  "birth_location_pl": "Pukerua Bay",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Nowa Zelandia"
+  ],
+  "wikidata_fw_id": 11606
+}

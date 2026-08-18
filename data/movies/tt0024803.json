@@ -1,0 +1,212 @@
+{
+  "imdb_id": "tt0024803",
+  "title": "Zero de Conduite",
+  "description": "In a repressive boarding school with rigid rules of behavior, four boys decide to rebel against the direction on a celebration day.",
+  "runtime_minutes": 49,
+  "release_date": "21.06.1947",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0202120",
+      "name": "Jean Dasté"
+    },
+    {
+      "id": "nm0494276",
+      "name": "Robert le Flon"
+    },
+    {
+      "id": "nm0498882",
+      "name": "Louis Lefebvre"
+    },
+    {
+      "id": "nm0238994",
+      "name": "Du Verron"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0897118",
+      "name": "Jean Vigo"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0897118",
+      "name": "Jean Vigo"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0202120",
+      "name": "Jean Dasté",
+      "character": "Surveillant Huguet"
+    },
+    {
+      "id": "nm0494276",
+      "name": "Robert le Flon",
+      "character": "Le surveillant Parrain dit Pète-Sec"
+    },
+    {
+      "id": "nm0498882",
+      "name": "Louis Lefebvre",
+      "character": "Caussat"
+    },
+    {
+      "id": "nm0238994",
+      "name": "Du Verron",
+      "character": "Surveillant-Général Bec-de-Gaz"
+    },
+    {
+      "id": "nm0217787",
+      "name": "Delphin",
+      "character": "Principal du Collège"
+    },
+    {
+      "id": "nm0488216",
+      "name": "Léon Larive",
+      "character": "Professeur"
+    },
+    {
+      "id": "nm1878098",
+      "name": "Madame Émile",
+      "character": "Mère Haricot"
+    },
+    {
+      "id": "nm1872329",
+      "name": "Louis de Gonzague",
+      "character": "Préfet"
+    },
+    {
+      "id": "nm0226769",
+      "name": "Raphaël Diligent",
+      "character": "Pompier"
+    },
+    {
+      "id": "nm0699144",
+      "name": "Gilbert Pruchon",
+      "character": "Colin"
+    },
+    {
+      "id": "nm1875933",
+      "name": "Constantin Goldstein-Kehler",
+      "character": "Bruel"
+    },
+    {
+      "id": "nm0126739",
+      "name": "Gérard de Bédarieux",
+      "character": "Tabard"
+    },
+    {
+      "id": "nm1877698",
+      "name": "Georges Belmer",
+      "character": "Un enfant"
+    },
+    {
+      "id": "nm0074182",
+      "name": "Georges Berger",
+      "character": "Correspondent"
+    },
+    {
+      "id": "nm0087018",
+      "name": "Pierre Blanchar",
+      "character": "Un surveillant"
+    },
+    {
+      "id": "nm1874587",
+      "name": "Maurice Cariel",
+      "character": "Un enfant"
+    },
+    {
+      "id": "nm1878108",
+      "name": "Jean-Pierre Dumesnil",
+      "character": "Un enfant"
+    },
+    {
+      "id": "nm1873927",
+      "name": "Michelle Fayard",
+      "character": "La petite fille"
+    }
+  ],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "French"
+  ],
+  "color": "Black and White",
+  "year": 1933,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDNiM2E5MjctOTM0NC00ZmJkLWIyMmYtNzE3MTIwM2I0Y2I2XkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 111087,
+  "original_title": "Zéro de conduite",
+  "ratings": {
+    "imdb": {
+      "rating": 7.2,
+      "votes": 10111,
+      "distribution": {
+        "1": 126,
+        "2": 99,
+        "3": 150,
+        "4": 314,
+        "5": 714,
+        "6": 1392,
+        "7": 2491,
+        "8": 2543,
+        "9": 1142,
+        "10": 1140
+      },
+      "normalized": 5.8479
+    },
+    "filmweb": {
+      "rating": 6.27,
+      "votes": 983,
+      "distribution": {
+        "1": 6,
+        "2": 13,
+        "3": 29,
+        "4": 60,
+        "5": 162,
+        "6": 262,
+        "7": 255,
+        "8": 145,
+        "9": 32,
+        "10": 19
+      },
+      "normalized": 4.2107
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "19.10.2005",
+      "normalized": 6.3474
+    },
+    "score": 5.4687
+  },
+  "polish_title": "Pała ze sprawowania",
+  "silent": false,
+  "description_pl": "Po wakacjach Caussat i Bruel wracają do szkoły, gdzie wiodą życie smutne i nudne, tak jak każdy więzień.  Jest jednak ktoś, kto planuje  bunt...",
+  "producers": [
+    {
+      "id": "nm0636677",
+      "name": "Jacques-Louis Nounez"
+    },
+    {
+      "id": "nm0897118",
+      "name": "Jean Vigo"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006144",
+      "name": "Maurice Jaubert"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0442100",
+      "name": "Boris Kaufman"
+    }
+  ],
+  "fetched_at": "2026-08-15"
+}

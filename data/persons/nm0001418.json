@@ -1,0 +1,47 @@
+{
+  "id": "nm0001418",
+  "name": "David Keith",
+  "filmography": [
+    {
+      "imdb_id": "tt0141926",
+      "title": "U-571",
+      "year": 2000,
+      "roles": [
+        "cast"
+      ],
+      "character": "Coonan"
+    },
+    {
+      "imdb_id": "tt0287978",
+      "title": "Daredevil",
+      "year": 2003,
+      "roles": [
+        "cast"
+      ],
+      "character": "Jack Murdock"
+    },
+    {
+      "imdb_id": "tt0361696",
+      "title": "Raise Your Voice",
+      "year": 2004,
+      "roles": [
+        "cast"
+      ],
+      "character": "Simon Fletcher"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQ3ODAyNjQyN15BMl5BanBnXkFtZTcwNTM5NTk3MQ@@._V1_.jpg",
+  "birth_date": "08.05.1954",
+  "birth_location": "Knoxville, Tennessee, USA",
+  "height": "1.80 m",
+  "filmweb_id": 9595,
+  "name_pl": "David Keith",
+  "birth_location_pl": "Knoxville, Tennessee",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 9595
+}

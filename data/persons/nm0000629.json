@@ -1,0 +1,44 @@
+{
+  "id": "nm0000629",
+  "name": "Claudia Schiffer",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQ3NDI5MTgzNl5BMl5BanBnXkFtZTYwMDE4ODk0._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt1650554",
+      "title": "Kick-Ass 2",
+      "year": 2013,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt2802144",
+      "title": "Kingsman: The Secret Service",
+      "year": 2014,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt4649466",
+      "title": "Kingsman: The Golden Circle",
+      "year": 2017,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "birth_date": "25.08.1970",
+  "birth_location": "Rheinberg, North Rhine-Westphalia, Germany",
+  "height": "1.80 m",
+  "filmweb_id": 47791,
+  "name_pl": "Claudia Schiffer",
+  "birth_location_pl": "Rheinberg",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Niemcy"
+  ],
+  "wikidata_fw_id": 47791
+}

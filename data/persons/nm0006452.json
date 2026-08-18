@@ -1,0 +1,53 @@
+{
+  "id": "nm0006452",
+  "name": "Stanley Kramer",
+  "filmography": [
+    {
+      "imdb_id": "tt0044706",
+      "title": "High Noon",
+      "year": 1952,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0053946",
+      "title": "Inherit the Wind",
+      "year": 1960,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0055031",
+      "title": "Judgment at Nuremberg",
+      "year": 1961,
+      "roles": [
+        "director",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0061735",
+      "title": "Guess Who's Coming to Dinner",
+      "year": 1967,
+      "roles": [
+        "director",
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTYwNDAwNjk0NV5BMl5BanBnXkFtZTgwMzEyMTM1NzM@._V1_.jpg",
+  "birth_date": "29.09.1913",
+  "death_date": "19.02.2001",
+  "birth_location": "Hell's Kitchen [now Clinton], Manhattan, New York City, New York, USA",
+  "filmweb_id": 49979,
+  "name_pl": "Stanley Kramer",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

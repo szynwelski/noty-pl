@@ -1,0 +1,33 @@
+{
+  "id": "nm0182026",
+  "name": "Pancho Cossío",
+  "filmography": [
+    {
+      "imdb_id": "tt0020530",
+      "title": "Un chien andalou",
+      "year": 1929,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Stroller"
+    },
+    {
+      "imdb_id": "tt0021577",
+      "title": "L'Age d'Or",
+      "year": 1930,
+      "roles": [
+        "cast"
+      ],
+      "character": "Lame Bandit"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzAyMjc0YzgtNzA1ZS00MmUwLWE3MjUtOGI1YTQ1OTQ5NTNlXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "1894",
+  "death_date": "1970",
+  "imdb_scraped": true,
+  "filmweb_id": 411752,
+  "name_pl": "Pancho Cossío",
+  "gender": "M",
+  "wikidata_processed": true
+}

@@ -1,0 +1,36 @@
+{
+  "id": "nm0378541",
+  "name": "Frank Herbert",
+  "filmography": [
+    {
+      "imdb_id": "tt0087182",
+      "title": "Dune",
+      "year": 1984,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt15239678",
+      "title": "Dune: Part Two",
+      "year": 2024,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTI5MzkzMDctZmJjMC00NTNiLWE4NzQtODViYWMyNzQxNDJmXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "08.10.1920",
+  "death_date": "11.02.1986",
+  "birth_location": "Tacoma, Washington, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 382100,
+  "name_pl": "Frank Herbert",
+  "birth_location_pl": "Tacoma, Waszyngton",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 382100
+}

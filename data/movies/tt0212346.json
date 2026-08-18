@@ -1,0 +1,240 @@
+{
+  "imdb_id": "tt0212346",
+  "title": "Miss Congeniality",
+  "description": "A tomboyish detective infiltrates a beauty pageant as a contestant after her department learns that the event is under threat from an anonymous bomber.",
+  "runtime_minutes": 109,
+  "release_date": "22.12.2000",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Crime",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0000113",
+      "name": "Sandra Bullock"
+    },
+    {
+      "id": "nm0000323",
+      "name": "Michael Caine"
+    },
+    {
+      "id": "nm0000973",
+      "name": "Benjamin Bratt"
+    },
+    {
+      "id": "nm0000298",
+      "name": "Candice Bergen"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0677953",
+      "name": "Donald Petrie"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0492909",
+      "name": "Marc Lawrence"
+    },
+    {
+      "id": "nm0974301",
+      "name": "Katie Ford"
+    },
+    {
+      "id": "nm0524095",
+      "name": "Caryn Lucas"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000113",
+      "name": "Sandra Bullock",
+      "character": "Gracie Hart"
+    },
+    {
+      "id": "nm0000323",
+      "name": "Michael Caine",
+      "character": "Victor Melling"
+    },
+    {
+      "id": "nm0000973",
+      "name": "Benjamin Bratt",
+      "character": "Eric Matthews"
+    },
+    {
+      "id": "nm0000298",
+      "name": "Candice Bergen",
+      "character": "Kathy Morningside"
+    },
+    {
+      "id": "nm0000638",
+      "name": "William Shatner",
+      "character": "Stan Fields"
+    },
+    {
+      "id": "nm0001368",
+      "name": "Ernie Hudson",
+      "character": "McDonald"
+    },
+    {
+      "id": "nm0228180",
+      "name": "John DiResta",
+      "character": "Agent Clonsky"
+    },
+    {
+      "id": "nm0122688",
+      "name": "Heather Burns",
+      "character": "Cheryl 'Rhode Island'"
+    },
+    {
+      "id": "nm0211726",
+      "name": "Melissa De Sousa",
+      "character": "Karen 'New York'"
+    },
+    {
+      "id": "nm0598569",
+      "name": "Steve Monroe",
+      "character": "Frank Tobin"
+    },
+    {
+      "id": "nm0703820",
+      "name": "Deirdre Quinn",
+      "character": "Mary Jo 'Texas'"
+    },
+    {
+      "id": "nm0733185",
+      "name": "Wendy Raquel Robinson",
+      "character": "Leslie 'California'"
+    },
+    {
+      "id": "nm0210088",
+      "name": "Asia De Marcos",
+      "character": "Alana 'Hawaii'"
+    },
+    {
+      "id": "nm0859104",
+      "name": "Ken Thomas",
+      "character": "Agent Harris"
+    },
+    {
+      "id": "nm0284385",
+      "name": "Gabriel Folse",
+      "character": "Agent Grant"
+    },
+    {
+      "id": "nm0790261",
+      "name": "Christopher Shea",
+      "character": "Agent Jensen"
+    },
+    {
+      "id": "nm0338142",
+      "name": "Mary Ashleigh Green",
+      "character": "Young Gracie"
+    },
+    {
+      "id": "nm0512963",
+      "name": "Cody Linley",
+      "character": "Tough Boy"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Russian",
+    "Hawaiian"
+  ],
+  "color": "Color",
+  "filmweb_id": 7747,
+  "year": 2000,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZjMzOWU2MGQtM2Y2Mi00YzgwLTllOGYtNzJlNmU2OTM1MmJjXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.4,
+      "votes": 250856,
+      "distribution": {
+        "1": 2679,
+        "2": 2940,
+        "3": 5410,
+        "4": 12567,
+        "5": 31127,
+        "6": 66195,
+        "7": 64757,
+        "8": 34493,
+        "9": 13172,
+        "10": 17516
+      },
+      "normalized": 4.271
+    },
+    "filmweb": {
+      "rating": 6.36,
+      "votes": 117680,
+      "distribution": {
+        "1": 620,
+        "2": 1031,
+        "3": 3489,
+        "4": 7104,
+        "5": 16564,
+        "6": 32389,
+        "7": 33393,
+        "8": 15548,
+        "9": 4176,
+        "10": 3366
+      },
+      "normalized": 4.0106
+    },
+    "jarek": {
+      "rating": 2,
+      "date_rated": "02.01.2011",
+      "normalized": 3.5003
+    },
+    "score": 3.9273
+  },
+  "polish_title": "Miss Agent",
+  "silent": false,
+  "description_pl": "Jeden z najgroźniejszych amerykańskich terrorystów o pseudonimie \"Obywatel\", od lat ścigany przez służby federalne, zapowiada swoje kolejne uderzenie, podczaswyborów Miss Ameryki. FBI zdaje sobie sprawę, że konkurs, który od ponad 50 lat dla wielu amerykańskich piękności był świętem, może przerodzić się w tragedię. Aby ująć zamachowca i chronić dziewczęta, FBI decyduje się podstawić jako jedną z uczestniczek konkursu swoją agentkę (Sandra). Ten z pozoru prosty plan nieoczekiwanie przysparza funkcjonariuszom wielu problemów. Okazuje się, że wcale nie jest łatwo znaleźć w ich szeregach kobietę, która mogłaby ubiegać się o tytuł najpiękniejszej dziewczyny USA.",
+  "producers": [
+    {
+      "id": "nm0075732",
+      "name": "Bruce Berman"
+    },
+    {
+      "id": "nm0000113",
+      "name": "Sandra Bullock"
+    },
+    {
+      "id": "nm0974301",
+      "name": "Katie Ford"
+    },
+    {
+      "id": "nm0492909",
+      "name": "Marc Lawrence"
+    },
+    {
+      "id": "nm1740711",
+      "name": "Endrick Lekay"
+    },
+    {
+      "id": "nm0805678",
+      "name": "Ginger Sledge"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0790481",
+      "name": "Edward Shearmur"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0004088",
+      "name": "László Kovács"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

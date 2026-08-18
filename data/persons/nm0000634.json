@@ -1,0 +1,51 @@
+{
+  "id": "nm0000634",
+  "name": "Peter Sellers",
+  "filmography": [
+    {
+      "imdb_id": "tt0053084",
+      "title": "The Mouse That Roared",
+      "year": 1959,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Grand Duchess Gloriana XII"
+    },
+    {
+      "imdb_id": "tt0057012",
+      "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "year": 1964,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Group Capt. Lionel Mandrake"
+    },
+    {
+      "imdb_id": "tt0078841",
+      "title": "Being There",
+      "year": 1979,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Chance"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYTdjN2M5MzAtMTMxMi00YWY5LTgxNmItOWJkMTRiMTdlZmQyXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "08.09.1925",
+  "death_date": "24.07.1980",
+  "birth_location": "Southsea, Hampshire, England, UK",
+  "height": "1.73 m",
+  "filmweb_id": 40777,
+  "name_pl": "Peter Sellers",
+  "birth_location_pl": "Southsea, Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 40777
+}

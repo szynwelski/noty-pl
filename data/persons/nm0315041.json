@@ -1,0 +1,53 @@
+{
+  "id": "nm0315041",
+  "name": "Ricky Gervais",
+  "filmography": [
+    {
+      "imdb_id": "tt0361089",
+      "title": "Valiant",
+      "year": 2005,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Bugsy"
+    },
+    {
+      "imdb_id": "tt0477347",
+      "title": "Night at the Museum",
+      "year": 2006,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Dr. McPhee"
+    },
+    {
+      "imdb_id": "tt1058017",
+      "title": "The Invention of Lying",
+      "year": 2009,
+      "roles": [
+        "director",
+        "writer",
+        "star",
+        "cast",
+        "producer"
+      ],
+      "character": "Mark Bellison"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjQzOTEzMTk1M15BMl5BanBnXkFtZTgwODI1Mzc0MDI@._V1_.jpg",
+  "birth_date": "25.06.1961",
+  "birth_location": "Reading, Berkshire, England, UK",
+  "height": "1.71 m",
+  "filmweb_id": 65692,
+  "name_pl": "Ricky Gervais",
+  "birth_location_pl": "Reading, Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 65692
+}

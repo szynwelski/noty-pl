@@ -1,0 +1,46 @@
+{
+  "id": "nm0078886",
+  "name": "Ahmed Best",
+  "filmography": [
+    {
+      "imdb_id": "tt0120915",
+      "title": "Star Wars: Episode I - The Phantom Menace",
+      "year": 1999,
+      "roles": [
+        "cast"
+      ],
+      "character": "Jar Jar Binks"
+    },
+    {
+      "imdb_id": "tt0121765",
+      "title": "Star Wars: Episode II - Attack of the Clones",
+      "year": 2002,
+      "roles": [
+        "cast"
+      ],
+      "character": "Jar Jar Binks"
+    },
+    {
+      "imdb_id": "tt0121766",
+      "title": "Star Wars: Episode III - Revenge of the Sith",
+      "year": 2005,
+      "roles": [
+        "cast"
+      ],
+      "character": "Jar Jar Binks"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMWY2NmMyN2ItZTM5Ni00MWIzLWJjOGItMjE2N2ZiNWNmNmVhXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "19.08.1973",
+  "birth_location": "New York City, New York, USA",
+  "height": "1.87 m",
+  "filmweb_id": 4949,
+  "name_pl": "Ahmed Best",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

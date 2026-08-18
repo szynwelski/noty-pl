@@ -1,0 +1,70 @@
+{
+  "id": "nm0001295",
+  "name": "Graham Greene",
+  "filmography": [
+    {
+      "imdb_id": "tt0099348",
+      "title": "Dances with Wolves",
+      "year": 1990,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Kicking Bird"
+    },
+    {
+      "imdb_id": "tt0110478",
+      "title": "Maverick",
+      "year": 1994,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Joseph"
+    },
+    {
+      "imdb_id": "tt0112864",
+      "title": "Die Hard with a Vengeance",
+      "year": 1995,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Joe Lambert"
+    },
+    {
+      "imdb_id": "tt0120689",
+      "title": "The Green Mile",
+      "year": 1999,
+      "roles": [
+        "cast"
+      ],
+      "character": "Arlen Bitterbuck"
+    },
+    {
+      "imdb_id": "tt5362988",
+      "title": "Wind River",
+      "year": 2017,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Ben"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTcwMTM3OTQyM15BMl5BanBnXkFtZTcwNzYxNTcyMQ@@._V1_.jpg",
+  "birth_date": "22.06.1952",
+  "death_date": "01.09.2025",
+  "birth_location": "Six Nations Reserve, Ohsweken, Ontario, Canada",
+  "height": "1.79 m",
+  "filmweb_id": 7575,
+  "name_pl": "Graham Greene",
+  "birth_location_pl": "Six Nations of the Grand River",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Kanada"
+  ],
+  "wikidata_fw_id": 7575
+}

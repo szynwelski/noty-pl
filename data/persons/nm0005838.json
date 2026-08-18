@@ -1,0 +1,52 @@
+{
+  "id": "nm0005838",
+  "name": "Georges Périnal",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTJlOWZmZWYtY2YxZi00MjQ0LTkwNjAtMmYwYjM4ZjE3ZGVkXkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0346178",
+      "title": "La zone",
+      "year": 1928,
+      "roles": [
+        "cinematographer"
+      ]
+    },
+    {
+      "imdb_id": "tt0022150",
+      "title": "Le Million",
+      "year": 1931,
+      "roles": [
+        "cinematographer"
+      ]
+    },
+    {
+      "imdb_id": "tt0021331",
+      "title": "The Blood of a Poet",
+      "year": 1932,
+      "roles": [
+        "cinematographer"
+      ]
+    },
+    {
+      "imdb_id": "tt0050598",
+      "title": "A King in New York",
+      "year": 1957,
+      "roles": [
+        "cinematographer"
+      ]
+    }
+  ],
+  "birth_date": "00.00.1897",
+  "death_date": "23.04.1965",
+  "birth_location": "Paris, France",
+  "filmweb_id": 53117,
+  "name_pl": "Georges Périnal",
+  "birth_location_pl": "Paryż",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja"
+  ],
+  "wikidata_fw_id": 53117
+}

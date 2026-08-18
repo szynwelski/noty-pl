@@ -1,0 +1,237 @@
+{
+  "imdb_id": "tt0088708",
+  "title": "American Ninja",
+  "description": "American soldier, obviously very skilled in martial arts, single-handedly takes on mercenaries in the Philippines.",
+  "runtime_minutes": 95,
+  "release_date": "30.08.1985",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0001154",
+      "name": "Michael Dudikoff"
+    },
+    {
+      "id": "nm0416944",
+      "name": "Steve James"
+    },
+    {
+      "id": "nm0036978",
+      "name": "Judie Aronson"
+    },
+    {
+      "id": "nm0465515",
+      "name": "Guich Koock"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0278735",
+      "name": "Sam Firstenberg"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0210335",
+      "name": "Paul De Mielche"
+    },
+    {
+      "id": "nm0459047",
+      "name": "Avi Kleinberger"
+    },
+    {
+      "id": "nm0024948",
+      "name": "Gideon Amir"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0001154",
+      "name": "Michael Dudikoff",
+      "character": "Joe"
+    },
+    {
+      "id": "nm0416944",
+      "name": "Steve James",
+      "character": "Jackson"
+    },
+    {
+      "id": "nm0036978",
+      "name": "Judie Aronson",
+      "character": "Patricia"
+    },
+    {
+      "id": "nm0465515",
+      "name": "Guich Koock",
+      "character": "Hickock"
+    },
+    {
+      "id": "nm0297801",
+      "name": "John Fujioka",
+      "character": "Shinyuki"
+    },
+    {
+      "id": "nm0829327",
+      "name": "Don Stewart",
+      "character": "Ortega"
+    },
+    {
+      "id": "nm0483767",
+      "name": "John LaMotta",
+      "character": "Rinaldo"
+    },
+    {
+      "id": "nm0945632",
+      "name": "Tadashi Yamashita",
+      "character": "Black Star Ninja"
+    },
+    {
+      "id": "nm0110621",
+      "name": "Phillip Brock",
+      "character": "Charley"
+    },
+    {
+      "id": "nm0129550",
+      "name": "Tony Carreon",
+      "character": "Older Colombian"
+    },
+    {
+      "id": "nm0899156",
+      "name": "Roi Vinzon",
+      "character": "Younger Colombian"
+    },
+    {
+      "id": "nm0260503",
+      "name": "Manolet Escudero",
+      "character": "Bodyguard"
+    },
+    {
+      "id": "nm0733718",
+      "name": "Greg Rocero",
+      "character": "Bodyguard"
+    },
+    {
+      "id": "nm0819416",
+      "name": "Berto Spoor",
+      "character": "Bodyguard"
+    },
+    {
+      "id": "nm0352384",
+      "name": "Michael Hackbart",
+      "character": "Bodyguard"
+    },
+    {
+      "id": "nm0047270",
+      "name": "Jerry Bailey",
+      "character": "Head Hijacker"
+    },
+    {
+      "id": "nm1021154",
+      "name": "Rohy Batliwala",
+      "character": "Truck Driver"
+    },
+    {
+      "id": "nm0301330",
+      "name": "Jim Gaines",
+      "character": "Truck Driver"
+    }
+  ],
+  "countries": [
+    "United States",
+    "Netherlands",
+    "Philippines"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Japanese"
+  ],
+  "color": null,
+  "filmweb_id": 33524,
+  "year": 1985,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZWQ1NzY1ZWYtZWU3My00NzhjLWIyOGMtOGI2ZDA4NjA5ZjM5XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.5,
+      "votes": 18773,
+      "distribution": {
+        "1": 672,
+        "2": 764,
+        "3": 1230,
+        "4": 2018,
+        "5": 3725,
+        "6": 3929,
+        "7": 2616,
+        "8": 1446,
+        "9": 569,
+        "10": 1804
+      },
+      "normalized": 2.875
+    },
+    "filmweb": {
+      "rating": 6.12,
+      "votes": 9332,
+      "distribution": {
+        "1": 190,
+        "2": 209,
+        "3": 436,
+        "4": 748,
+        "5": 1361,
+        "6": 2359,
+        "7": 2199,
+        "8": 1066,
+        "9": 333,
+        "10": 431
+      },
+      "normalized": 3.6062
+    },
+    "michal": {
+      "rating": 3,
+      "date_rated": "27.10.2006",
+      "normalized": 3.8753
+    },
+    "score": 3.4522
+  },
+  "polish_title": "Amerykański ninja",
+  "silent": false,
+  "description_pl": "Joe Armstrong (Michael Dudikoff) nie pamięta swojego dzieciństwa. Gdy miał 15 lat znaleziono go nieprzytomnego w dżungli. Teraz mężczyzna służy w amerykańskiej armii w bazie na Filipinach. Wraz z kapralem Curtisem Jacksonem (Steve James) rozwiązuje zagadkę tajemniczych napadów wojowników ninja na amerykańskie konwoje.",
+  "producers": [
+    {
+      "id": "nm0024948",
+      "name": "Gideon Amir"
+    },
+    {
+      "id": "nm0322946",
+      "name": "Yoram Globus"
+    },
+    {
+      "id": "nm0324875",
+      "name": "Menahem Golan"
+    },
+    {
+      "id": "nm0459047",
+      "name": "Avi Kleinberger"
+    },
+    {
+      "id": "nm0582417",
+      "name": "Ken Metcalfe"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0513004",
+      "name": "Michael Linn"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005643",
+      "name": "Hanania Baer"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

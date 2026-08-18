@@ -1,0 +1,48 @@
+{
+  "id": "nm0215229",
+  "name": "Tim DeKay",
+  "filmography": [
+    {
+      "imdb_id": "tt0244244",
+      "title": "Swordfish",
+      "year": 2001,
+      "roles": [
+        "cast"
+      ],
+      "character": "Agent"
+    },
+    {
+      "imdb_id": "tt0438315",
+      "title": "Peaceful Warrior",
+      "year": 2006,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Coach Garrick"
+    },
+    {
+      "imdb_id": "tt15398776",
+      "title": "Oppenheimer",
+      "year": 2023,
+      "roles": [
+        "cast"
+      ],
+      "character": "Senator Pastore"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDI5NzY3ODc0OV5BMl5BanBnXkFtZTcwNzA4NDg1OA@@._V1_.jpg",
+  "birth_date": "12.06.1963",
+  "birth_location": "Ithaca, New York, USA",
+  "height": "1.87 m",
+  "filmweb_id": 105149,
+  "name_pl": "Tim DeKay",
+  "birth_location_pl": "Ithaca, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 105149
+}

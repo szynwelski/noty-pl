@@ -1,0 +1,127 @@
+{
+  "imdb_id": "tt0397693",
+  "title": "True",
+  "description": "While he is receiving an enigmatic phone call from his girlfriend Francine, Thomas remembers the milestones of their relationship, from the very moment they met in a strange way. A segment of Paris, Je T'aime (2006).",
+  "runtime_minutes": 10,
+  "release_date": "12.02.2004",
+  "genres": [
+    "Short",
+    "Drama",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0000204",
+      "name": "Natalie Portman"
+    },
+    {
+      "id": "nm0078696",
+      "name": "Melchior Derouet"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0878756",
+      "name": "Tom Tykwer"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0878756",
+      "name": "Tom Tykwer"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000204",
+      "name": "Natalie Portman",
+      "character": "Francine"
+    },
+    {
+      "id": "nm0078696",
+      "name": "Melchior Derouet",
+      "character": "Thomas"
+    }
+  ],
+  "countries": [
+    "France",
+    "Germany",
+    "Liechtenstein"
+  ],
+  "languages": [
+    "French",
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 113000,
+  "year": 2004,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTFhZDEwOGItODE4My00YzgzLTgwZTctODA4NTllNDdkOTFjXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.8,
+      "votes": 3027,
+      "distribution": {
+        "1": 61,
+        "2": 27,
+        "3": 16,
+        "4": 41,
+        "5": 94,
+        "6": 221,
+        "7": 518,
+        "8": 739,
+        "9": 661,
+        "10": 649
+      },
+      "normalized": 6.544
+    },
+    "filmweb": {
+      "rating": 7.43,
+      "votes": 3561,
+      "distribution": {
+        "1": 13,
+        "2": 8,
+        "3": 35,
+        "4": 69,
+        "5": 149,
+        "6": 432,
+        "7": 960,
+        "8": 1243,
+        "9": 458,
+        "10": 194
+      },
+      "normalized": 6.3778
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "08.12.2006",
+      "normalized": 6.3474
+    },
+    "score": 6.4231
+  },
+  "polish_title": "Prawda",
+  "silent": false,
+  "description_pl": "Zasiadający przed komputerem Thomas dostaje niespodziewany telefon. Wiadomość, którą otrzymuje od swojej dziewczyny Francine sprawia, że chłopak powraca myślami do momentu, gdy oboje się poznali. Jego umysł zalewają obrazy z przeszłości. Retrospekcje najbardziej intymnych chwil spędzonych razem oraz maleńkich błędów, które mogą doprowadzić do zakończenia ich związku. „Prawda” jest częścią projektu zatytułowanego „Paris, je t'aime”.",
+  "producers": [
+    {
+      "id": "nm1440846",
+      "name": "Emmanuel Benbihy"
+    },
+    {
+      "id": "nm1075329",
+      "name": "Patrick Gordon"
+    },
+    {
+      "id": "nm0477949",
+      "name": "Maria Köpf"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0340864",
+      "name": "Frank Griebe"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

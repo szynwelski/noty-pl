@@ -1,0 +1,60 @@
+{
+  "id": "nm0000350",
+  "name": "Beverly D'Angelo",
+  "filmography": [
+    {
+      "imdb_id": "tt0079261",
+      "title": "Hair",
+      "year": 1979,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Sheila"
+    },
+    {
+      "imdb_id": "tt0085995",
+      "title": "National Lampoon's Vacation",
+      "year": 1983,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Ellen Griswold"
+    },
+    {
+      "imdb_id": "tt0089670",
+      "title": "National Lampoon's European Vacation",
+      "year": 1985,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Ellen Griswold"
+    },
+    {
+      "imdb_id": "tt0120586",
+      "title": "American History X",
+      "year": 1998,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Doris"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDg3MWRmYWEtMzRiYi00YTNiLWFjZWMtZWU5MzhhMDczZTMxXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "15.11.1951",
+  "birth_location": "Columbus, Ohio, USA",
+  "height": "1.57 m",
+  "filmweb_id": 6834,
+  "name_pl": "Beverly D'Angelo",
+  "birth_location_pl": "Columbus, Ohio",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 6834
+}

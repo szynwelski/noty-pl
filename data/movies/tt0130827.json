@@ -1,0 +1,224 @@
+{
+  "imdb_id": "tt0130827",
+  "title": "Run Lola Run",
+  "description": "After a botched money delivery, Lola has 20 minutes to come up with 100,000 Deutschmarks.",
+  "runtime_minutes": 80,
+  "release_date": "18.06.1999",
+  "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0004376",
+      "name": "Franka Potente"
+    },
+    {
+      "id": "nm0001953",
+      "name": "Moritz Bleibtreu"
+    },
+    {
+      "id": "nm0460578",
+      "name": "Herbert Knaup"
+    },
+    {
+      "id": "nm0677899",
+      "name": "Nina Petri"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0878756",
+      "name": "Tom Tykwer"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0878756",
+      "name": "Tom Tykwer"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0004376",
+      "name": "Franka Potente",
+      "character": "Lola"
+    },
+    {
+      "id": "nm0001953",
+      "name": "Moritz Bleibtreu",
+      "character": "Manni"
+    },
+    {
+      "id": "nm0460578",
+      "name": "Herbert Knaup",
+      "character": "Vater"
+    },
+    {
+      "id": "nm0677899",
+      "name": "Nina Petri",
+      "character": "Frau Hansen"
+    },
+    {
+      "id": "nm0737465",
+      "name": "Armin Rohde",
+      "character": "Herr Schuster"
+    },
+    {
+      "id": "nm0473166",
+      "name": "Joachim Król",
+      "character": "Norbert von Au"
+    },
+    {
+      "id": "nm0685598",
+      "name": "Ludger Pistor",
+      "character": "Herr Meier"
+    },
+    {
+      "id": "nm0902028",
+      "name": "Suzanne von Borsody",
+      "character": "Frau Jäger"
+    },
+    {
+      "id": "nm0771923",
+      "name": "Sebastian Schipper",
+      "character": "Mike"
+    },
+    {
+      "id": "nm0511938",
+      "name": "Julia Lindig",
+      "character": "Doris"
+    },
+    {
+      "id": "nm0748964",
+      "name": "Lars Rudolph",
+      "character": "Herr Kruse"
+    },
+    {
+      "id": "nm0677874",
+      "name": "Andreas Petri",
+      "character": "Sanitäter"
+    },
+    {
+      "id": "nm0618224",
+      "name": "Klaus Müller",
+      "character": "Croupier"
+    },
+    {
+      "id": "nm0470272",
+      "name": "Utz Krause",
+      "character": "Casino-Manager"
+    },
+    {
+      "id": "nm0277494",
+      "name": "Beate Finckh",
+      "character": "Casino-Kassiererin"
+    },
+    {
+      "id": "nm0119331",
+      "name": "Volkhart Buff",
+      "character": "Krankenwagenfahrer"
+    },
+    {
+      "id": "nm0523959",
+      "name": "Ute Lubosch",
+      "character": "Mutter"
+    },
+    {
+      "id": "nm0272224",
+      "name": "Heino Ferch",
+      "character": "Ronnie"
+    }
+  ],
+  "countries": [
+    "Germany"
+  ],
+  "languages": [
+    "German",
+    "English",
+    "Japanese"
+  ],
+  "color": "Color",
+  "filmweb_id": 637,
+  "year": 1998,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzA0NDdiNDgtNjI4Ny00OTc0LTg3NGMtZDBlNmI1ZGUxYTg2XkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Lola rennt",
+  "ratings": {
+    "imdb": {
+      "rating": 7.6,
+      "votes": 217819,
+      "distribution": {
+        "1": 3086,
+        "2": 1195,
+        "3": 1661,
+        "4": 2870,
+        "5": 6738,
+        "6": 18426,
+        "7": 49255,
+        "8": 69318,
+        "9": 37464,
+        "10": 27806
+      },
+      "normalized": 6.6294
+    },
+    "filmweb": {
+      "rating": 6.81,
+      "votes": 51147,
+      "distribution": {
+        "1": 1041,
+        "2": 730,
+        "3": 1486,
+        "4": 2042,
+        "5": 4176,
+        "6": 7950,
+        "7": 14384,
+        "8": 12323,
+        "9": 4654,
+        "10": 2361
+      },
+      "normalized": 5.2676
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "02.02.2013",
+      "normalized": 6.4102
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "19.10.2005",
+      "normalized": 7.2292
+    },
+    "score": 6.3841
+  },
+  "polish_title": "Biegnij, Lola, biegnij",
+  "silent": false,
+  "description_pl": "Berlin. Młody człowiek, Manni, pracuje dla ludzi, którzy handlują skradzionymi samochodami. Pewnego dnia gubi w pociągu torbę, w której jest 100 tysięcy marek przeznaczonych dla szefa mafii. Za 20 minut szef przybędzie odebrać pieniądze - jeśli chłopak nich nie odda grozi mu śmierć z ręki gangstera. Prosi więc o pomoc swoją dziewczynę, Lolę. Ma 20 minut, by uratować życie chłopaka - biegnie do ojca, który jest dyrektorem banku.",
+  "producers": [
+    {
+      "id": "nm0036155",
+      "name": "Stefan Arndt"
+    },
+    {
+      "id": "nm0377041",
+      "name": "Gebhard Henke"
+    },
+    {
+      "id": "nm0477949",
+      "name": "Maria Köpf"
+    },
+    {
+      "id": "nm0775338",
+      "name": "Andreas Schreitmüller"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0340864",
+      "name": "Frank Griebe"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "nm0000874",
+  "name": "Steven Bauer",
+  "filmography": [
+    {
+      "imdb_id": "tt0086250",
+      "title": "Scarface",
+      "year": 1983,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Manny Ray"
+    },
+    {
+      "imdb_id": "tt0117381",
+      "title": "Primal Fear",
+      "year": 1996,
+      "roles": [
+        "cast"
+      ],
+      "character": "Pinero"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTkwNTY5MzMzMF5BMl5BanBnXkFtZTcwMjAyNDYzMQ@@._V1_.jpg",
+  "birth_date": "02.12.1956",
+  "birth_location": "Havana, Cuba",
+  "height": "1.85 m",
+  "imdb_scraped": true,
+  "filmweb_id": 8354,
+  "name_pl": "Steven Bauer",
+  "birth_location_pl": "Hawana",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone",
+    "Kuba"
+  ],
+  "wikidata_fw_id": 8354
+}

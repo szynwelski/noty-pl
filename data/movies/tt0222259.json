@@ -1,0 +1,132 @@
+{
+  "imdb_id": "tt0222259",
+  "title": "Tric-trac Game",
+  "description": "A man and a woman play backgammon. A waiter arrives bringing wine and one man pours drinks. The woman wins and her opponent angrily shuts the board.",
+  "runtime_minutes": 1,
+  "release_date": "1896",
+  "genres": [
+    "Documentary",
+    "Short"
+  ],
+  "stars": [
+    {
+      "id": "nm9738097",
+      "name": "Pierre Bellingard"
+    },
+    {
+      "id": "nm2350007",
+      "name": "Antoine Féraud"
+    },
+    {
+      "id": "nm0525900",
+      "name": "Mrs. Auguste Lumiere"
+    },
+    {
+      "id": "nm9735579",
+      "name": "Rose Lumière"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0525910",
+      "name": "Louis Lumière"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm9738097",
+      "name": "Pierre Bellingard",
+      "character": "Self"
+    },
+    {
+      "id": "nm2350007",
+      "name": "Antoine Féraud",
+      "character": "Self"
+    },
+    {
+      "id": "nm0525900",
+      "name": "Mrs. Auguste Lumiere",
+      "character": "Self"
+    },
+    {
+      "id": "nm9735579",
+      "name": "Rose Lumière",
+      "character": "Self"
+    },
+    {
+      "id": "nm9738098",
+      "name": "Lazare Sellier",
+      "character": "Self"
+    },
+    {
+      "id": "nm9738095",
+      "name": "Charles Albert Winckler",
+      "character": "Self"
+    },
+    {
+      "id": "nm9738096",
+      "name": "Juliette Winckler",
+      "character": "Self"
+    }
+  ],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 120777,
+  "year": 1895,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzY0Y2NiZDAtYjUwZi00MzhlLWEwMTgtZGRkMWFjYmIyMDQ2XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5,
+      "votes": 407,
+      "distribution": {
+        "1": 26,
+        "2": 18,
+        "3": 37,
+        "4": 50,
+        "5": 128,
+        "6": 83,
+        "7": 31,
+        "8": 13,
+        "9": 4,
+        "10": 17
+      },
+      "normalized": 4.1799
+    },
+    "filmweb": {
+      "rating": 5.44,
+      "votes": 79,
+      "distribution": {
+        "1": 1,
+        "2": 2,
+        "3": 7,
+        "4": 11,
+        "5": 21,
+        "6": 17,
+        "7": 12,
+        "8": 5,
+        "9": 1,
+        "10": 2
+      },
+      "normalized": 4.5667
+    },
+    "jarek": {
+      "rating": 3,
+      "date_rated": "11.12.2016",
+      "normalized": 4.2591
+    },
+    "score": 4.3352
+  },
+  "polish_title": "Partie de tric-trac",
+  "silent": true,
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "original_title": "Partie de tric-trac",
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,103 @@
+{
+  "imdb_id": "tt2221420",
+  "title": "Sallie Gardner at a Gallop",
+  "description": "The clip shows a jockey, Gilbert Domm, riding a horse, Sallie Gardner. The clip is not filmed; instead, it consists of 24 individual photographs shot in rapid succession, making a moving picture when using a zoopraxiscope.",
+  "runtime_minutes": 1,
+  "release_date": "19.06.1878",
+  "genres": [
+    "Documentary",
+    "Short",
+    "Sport"
+  ],
+  "stars": [
+    {
+      "id": "nm5422697",
+      "name": "Gilbert Domm"
+    },
+    {
+      "id": "nm9515880",
+      "name": "Sallie Gardner"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm1155956",
+      "name": "Eadweard Muybridge"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm5422697",
+      "name": "Gilbert Domm",
+      "character": "Self - Domm (jockey)"
+    },
+    {
+      "id": "nm9515880",
+      "name": "Sallie Gardner",
+      "character": "Self (horse)"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "year": 1878,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDYyZTVjNmEtMmExNC00Nzk2LTk2MjUtMGI0YTlkNDk1YTUzXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 748312,
+  "ratings": {
+    "imdb": {
+      "rating": 7.4,
+      "votes": 4497,
+      "distribution": {
+        "1": 119,
+        "2": 63,
+        "3": 56,
+        "4": 102,
+        "5": 371,
+        "6": 611,
+        "7": 1133,
+        "8": 748,
+        "9": 285,
+        "10": 1009
+      },
+      "normalized": 6.1674
+    },
+    "filmweb": {
+      "rating": 5.91,
+      "votes": 261,
+      "distribution": {
+        "1": 23,
+        "2": 6,
+        "3": 12,
+        "4": 13,
+        "5": 49,
+        "6": 53,
+        "7": 45,
+        "8": 27,
+        "9": 5,
+        "10": 28
+      },
+      "normalized": 4.2929
+    },
+    "jarek": {
+      "rating": 8,
+      "date_rated": "11.12.2016",
+      "normalized": 7.8989
+    },
+    "score": 6.1197
+  },
+  "polish_title": "Sallie Gardner at a Gallop",
+  "silent": true,
+  "cinematographers": [
+    {
+      "id": "nm1155956",
+      "name": "Eadweard Muybridge"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

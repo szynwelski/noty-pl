@@ -1,0 +1,38 @@
+{
+  "id": "nm1071252",
+  "name": "Alexander Gould",
+  "filmography": [
+    {
+      "imdb_id": "tt0266543",
+      "title": "Finding Nemo",
+      "year": 2003,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Nemo"
+    },
+    {
+      "imdb_id": "tt2277860",
+      "title": "Finding Dory",
+      "year": 2016,
+      "roles": [
+        "cast"
+      ],
+      "character": "Passenger Carl"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzBlOWI2MDEtNjhkMi00ZjAxLWFhMTctYjMzYWYzMjI2MjBlXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "04.05.1994",
+  "birth_location": "Los Angeles, California, USA",
+  "height": "1.73 m",
+  "imdb_scraped": true,
+  "filmweb_id": 85561,
+  "name_pl": "Alexander Gould",
+  "birth_location_pl": "Los Angeles, Kalifornia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

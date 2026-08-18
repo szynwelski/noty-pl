@@ -1,0 +1,59 @@
+{
+  "id": "nm0525303",
+  "name": "Baz Luhrmann",
+  "filmography": [
+    {
+      "imdb_id": "tt0117509",
+      "title": "Romeo + Juliet",
+      "year": 1996,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0203009",
+      "title": "Moulin Rouge!",
+      "year": 2001,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt1343092",
+      "title": "The Great Gatsby",
+      "year": 2013,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt3704428",
+      "title": "Elvis",
+      "year": 2022,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTY0MjM4NzkzNV5BMl5BanBnXkFtZTcwNjQwOTQ0OQ@@._V1_.jpg",
+  "birth_date": "17.09.1962",
+  "birth_location": "New South Wales, Australia",
+  "height": "1.70 m",
+  "filmweb_id": 11016,
+  "name_pl": "Baz Luhrmann",
+  "birth_location_pl": "Sydney",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Australia"
+  ]
+}

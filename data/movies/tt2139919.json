@@ -1,0 +1,232 @@
+{
+  "imdb_id": "tt2139919",
+  "title": "Gimme the Loot",
+  "description": "When their latest work is buffed by a rival crew, two determined graffiti writers embark on an elaborate plan to bomb the ultimate location: the New York Mets' Home Run Apple.",
+  "runtime_minutes": 81,
+  "release_date": "02.01.2013",
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm3405100",
+      "name": "Ty Hickson"
+    },
+    {
+      "id": "nm1680184",
+      "name": "Tashiana Washington"
+    },
+    {
+      "id": "nm3678886",
+      "name": "Joshua Rivera"
+    },
+    {
+      "id": "nm4316387",
+      "name": "Zoë Lescaze"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm1383301",
+      "name": "Adam Leon"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1383301",
+      "name": "Adam Leon"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm3405100",
+      "name": "Ty Hickson",
+      "character": "Malcolm"
+    },
+    {
+      "id": "nm1680184",
+      "name": "Tashiana Washington",
+      "character": "Sofia"
+    },
+    {
+      "id": "nm3678886",
+      "name": "Joshua Rivera",
+      "character": "Rico"
+    },
+    {
+      "id": "nm5581881",
+      "name": "Meeko",
+      "character": "Champion"
+    },
+    {
+      "id": "nm3407667",
+      "name": "Sam Soghor",
+      "character": "Lenny"
+    },
+    {
+      "id": "nm5579805",
+      "name": "Adam Metzger",
+      "character": "Donnie"
+    },
+    {
+      "id": "nm2253720",
+      "name": "Greyson Cruz",
+      "character": "Alfonso"
+    },
+    {
+      "id": "nm5583198",
+      "name": "James Harris Jr.",
+      "character": "Ronaldo"
+    },
+    {
+      "id": "nm4316387",
+      "name": "Zoë Lescaze",
+      "character": "Ginnie"
+    },
+    {
+      "id": "nm3689337",
+      "name": "Melvin Mogoli",
+      "character": "Kaps"
+    },
+    {
+      "id": "nm4621080",
+      "name": "Leah Hennessey",
+      "character": "Hot Mess"
+    },
+    {
+      "id": "nm5581014",
+      "name": "Howard Donowitz",
+      "character": "Hardware Store Owner"
+    },
+    {
+      "id": "nm5582369",
+      "name": "Konstantinos Kliakas",
+      "character": "Gus"
+    },
+    {
+      "id": "nm5582479",
+      "name": "Angelo Rodriguez",
+      "character": "Sal"
+    },
+    {
+      "id": "nm5580868",
+      "name": "Nicole M. Ayala",
+      "character": "Spanish Girl"
+    },
+    {
+      "id": "nm4414223",
+      "name": "Stephanie Solis",
+      "character": "Spanish Girl"
+    },
+    {
+      "id": "nm5580313",
+      "name": "Jose Rivera",
+      "character": "Bicycle Thief"
+    },
+    {
+      "id": "nm4297245",
+      "name": "Nick Zayas",
+      "character": "Bicycle Thief"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 656051,
+  "year": 2012,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTMyNTY1NTQ2OF5BMl5BanBnXkFtZTcwOTU3ODQxOQ@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.6,
+      "votes": 2648,
+      "distribution": {
+        "1": 143,
+        "2": 185,
+        "3": 62,
+        "4": 110,
+        "5": 228,
+        "6": 457,
+        "7": 728,
+        "8": 489,
+        "9": 140,
+        "10": 106
+      },
+      "normalized": 4.8171
+    },
+    "filmweb": {
+      "rating": 6.6,
+      "votes": 178,
+      "distribution": {
+        "1": 1,
+        "2": 3,
+        "3": 6,
+        "4": 9,
+        "5": 16,
+        "6": 31,
+        "7": 59,
+        "8": 43,
+        "9": 10,
+        "10": 0
+      },
+      "normalized": 4.9691
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "15.02.2013",
+      "normalized": 5.6855
+    },
+    "score": 5.1572
+  },
+  "polish_title": "Oddawaj fanty",
+  "silent": false,
+  "producers": [
+    {
+      "id": "nm3176063",
+      "name": "Dominic Buchanan"
+    },
+    {
+      "id": "nm2698115",
+      "name": "Lindsay Burdge"
+    },
+    {
+      "id": "nm0001129",
+      "name": "Jonathan Demme"
+    },
+    {
+      "id": "nm3964659",
+      "name": "Natalie Difford"
+    },
+    {
+      "id": "nm6125433",
+      "name": "Sean Nitollano"
+    },
+    {
+      "id": "nm3407667",
+      "name": "Sam Soghor"
+    },
+    {
+      "id": "nm2792768",
+      "name": "Jamund Washington"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm1615109",
+      "name": "Nicholas Britell"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm1537466",
+      "name": "Jonathan Miller"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,239 @@
+{
+  "imdb_id": "tt0120201",
+  "title": "Starship Troopers",
+  "description": "Humans, in a fascist militaristic future, wage war with giant alien bugs.",
+  "runtime_minutes": 129,
+  "release_date": "07.11.1997",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000680",
+      "name": "Casper Van Dien"
+    },
+    {
+      "id": "nm0000612",
+      "name": "Denise Richards"
+    },
+    {
+      "id": "nm0000539",
+      "name": "Dina Meyer"
+    },
+    {
+      "id": "nm0000998",
+      "name": "Jake Busey"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000682",
+      "name": "Paul Verhoeven"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0627159",
+      "name": "Edward Neumeier"
+    },
+    {
+      "id": "nm0374423",
+      "name": "Robert A. Heinlein"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000680",
+      "name": "Casper Van Dien",
+      "character": "Johnny Rico"
+    },
+    {
+      "id": "nm0000612",
+      "name": "Denise Richards",
+      "character": "Carmen Ibanez"
+    },
+    {
+      "id": "nm0000539",
+      "name": "Dina Meyer",
+      "character": "Dizzy Flores"
+    },
+    {
+      "id": "nm0000998",
+      "name": "Jake Busey",
+      "character": "Ace Levy"
+    },
+    {
+      "id": "nm0000439",
+      "name": "Neil Patrick Harris",
+      "character": "Carl Jenkins"
+    },
+    {
+      "id": "nm0000317",
+      "name": "Clancy Brown",
+      "character": "Sgt. Zim"
+    },
+    {
+      "id": "nm0319121",
+      "name": "Seth Gilliam",
+      "character": "Sugar Watkins"
+    },
+    {
+      "id": "nm0005258",
+      "name": "Patrick Muldoon",
+      "character": "Zander Barcalow"
+    },
+    {
+      "id": "nm0000461",
+      "name": "Michael Ironside",
+      "character": "Jean Rasczak"
+    },
+    {
+      "id": "nm0001516",
+      "name": "Rue McClanahan",
+      "character": "Biology Teacher"
+    },
+    {
+      "id": "nm0068382",
+      "name": "Marshall Bell",
+      "character": "General Owen"
+    },
+    {
+      "id": "nm0116717",
+      "name": "Eric Bruskotter",
+      "character": "Breckinridge"
+    },
+    {
+      "id": "nm0505664",
+      "name": "Matt Levin",
+      "character": "Kitten Smith"
+    },
+    {
+      "id": "nm0512420",
+      "name": "Blake Lindsley",
+      "character": "Katrina"
+    },
+    {
+      "id": "nm0749570",
+      "name": "Anthony Ruivivar",
+      "character": "Shujimi"
+    },
+    {
+      "id": "nm0834947",
+      "name": "Brenda Strong",
+      "character": "Captain Deladier"
+    },
+    {
+      "id": "nm0606487",
+      "name": "Dean Norris",
+      "character": "Commanding Officer"
+    },
+    {
+      "id": "nm0193061",
+      "name": "Christopher Curry",
+      "character": "Mr. Rico"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 207,
+  "year": 1997,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZTNiOGM1ZWUtZTZjZC00OWJmLWE2YzUtZjQ4ODZjZmVlMDU3XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.3,
+      "votes": 349063,
+      "distribution": {
+        "1": 5039,
+        "2": 3406,
+        "3": 4924,
+        "4": 8424,
+        "5": 18049,
+        "6": 42837,
+        "7": 95186,
+        "8": 92706,
+        "9": 41067,
+        "10": 37425
+      },
+      "normalized": 6.1331
+    },
+    "filmweb": {
+      "rating": 6.56,
+      "votes": 47417,
+      "distribution": {
+        "1": 811,
+        "2": 756,
+        "3": 1664,
+        "4": 2522,
+        "5": 4769,
+        "6": 9357,
+        "7": 13634,
+        "8": 8885,
+        "9": 2967,
+        "10": 2052
+      },
+      "normalized": 4.4501
+    },
+    "jarek": {
+      "rating": 3,
+      "date_rated": "07.02.2010",
+      "normalized": 4.2591
+    },
+    "michal": {
+      "rating": 1,
+      "date_rated": "25.01.2005",
+      "normalized": 2.2657
+    },
+    "score": 4.277
+  },
+  "polish_title": "Żołnierze kosmosu",
+  "silent": false,
+  "description_pl": "Niezwykle widowiskowy film science fiction, zrealizowany przez mistrza gatunku <a href=\"/osoba/?id=nm0000682\">Paula Verhoevena</a>.  \nNowe tysiąclecie. Istnienie całego rodzaju ludzkiego zostaje zagrożone, gdy Ziemia zostaje zaatakowana przez przedstawicieli obcej cywilizacji - monstrualne, inteligentne i... zabójcze owady. Bohaterami filmu jest grupa młodych ludzi, którzy wstępują do elitarnej jednostki wojskowej. Morderczy trening ma ich przygotować do ostatecznej rozgrywki z najeźdźcami. Niesamowite efekty specjalne i wspaniałe futurystyczne krajobrazy zapierają dech w piersiach.",
+  "producers": [
+    {
+      "id": "nm0205727",
+      "name": "Jon Davison"
+    },
+    {
+      "id": "nm0230357",
+      "name": "Frances Doel"
+    },
+    {
+      "id": "nm0525864",
+      "name": "Stacy Lumbrezer"
+    },
+    {
+      "id": "nm0550728",
+      "name": "Alan Marshall"
+    },
+    {
+      "id": "nm0627159",
+      "name": "Edward Neumeier"
+    },
+    {
+      "id": "nm0864138",
+      "name": "Phil Tippett"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006231",
+      "name": "Basil Poledouris"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005911",
+      "name": "Jost Vacano"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

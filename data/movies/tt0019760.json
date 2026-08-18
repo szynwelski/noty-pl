@@ -1,0 +1,105 @@
+{
+  "imdb_id": "tt0019760",
+  "title": "Man with a Movie Camera",
+  "description": "A man travels around a city with a camera slung over his shoulder, documenting urban life with dazzling invention.",
+  "runtime_minutes": 68,
+  "release_date": "12.05.1929",
+  "genres": [
+    "Documentary"
+  ],
+  "stars": [
+    {
+      "id": "nm0442227",
+      "name": "Mikhail Kaufman"
+    },
+    {
+      "id": "nm0841294",
+      "name": "Elizaveta Svilova"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0895048",
+      "name": "Dziga Vertov"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0895048",
+      "name": "Dziga Vertov"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0442227",
+      "name": "Mikhail Kaufman",
+      "character": "Self - The Cameraman"
+    },
+    {
+      "id": "nm0841294",
+      "name": "Elizaveta Svilova",
+      "character": "Self - Woman editing film"
+    }
+  ],
+  "countries": [
+    "Soviet Union"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 107579,
+  "year": 1929,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTcyOTk0MDY2OF5BMl5BanBnXkFtZTgwNzYyMTM2MTE@._V1_.jpg",
+  "original_title": "Chelovek s kino-apparatom",
+  "ratings": {
+    "imdb": {
+      "rating": 8.3,
+      "votes": 30617,
+      "distribution": {
+        "1": 320,
+        "2": 218,
+        "3": 223,
+        "4": 352,
+        "5": 810,
+        "6": 1695,
+        "7": 4019,
+        "8": 7732,
+        "9": 6876,
+        "10": 8372
+      },
+      "normalized": 8.2596
+    },
+    "filmweb": {
+      "rating": 8.08,
+      "votes": 9248,
+      "distribution": {
+        "1": 216,
+        "2": 21,
+        "3": 54,
+        "4": 67,
+        "5": 174,
+        "6": 413,
+        "7": 1323,
+        "8": 3012,
+        "9": 2366,
+        "10": 1602
+      },
+      "normalized": 8.4132
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "19.10.2005",
+      "normalized": 6.3474
+    },
+    "score": 7.6734
+  },
+  "polish_title": "Człowiek z kamerą filmową",
+  "silent": true,
+  "description_pl": "\"Człowiek z kamerą\" to poetycki obraz Kijowa, Odessy oraz Moskwy lat 20., obserwowanych od wczesnych godzin rannych do momentów szczytu. Setki perspektyw, doskonały montaż i wielki żywioł filmowania. Wiertow nie tylko rejestruje rzeczywistość ale tworzy ją na nowo za pomocą wszechmocnego oka kamery. Niezwykłe rytmiczne zestawienia ujęć prowokują skojarzenia, obrazy codzienności zderzają się z autotematycznymi zdjęciami ukazującymi proces tworzenia dzieła filmowego.",
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-15"
+}

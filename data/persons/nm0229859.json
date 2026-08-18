@@ -1,0 +1,37 @@
+{
+  "id": "nm0229859",
+  "name": "Karel Dobrý",
+  "filmography": [
+    {
+      "imdb_id": "tt0117060",
+      "title": "Mission: Impossible",
+      "year": 1996,
+      "roles": [
+        "cast"
+      ],
+      "character": "Matthias"
+    },
+    {
+      "imdb_id": "tt0183790",
+      "title": "A Knight's Tale",
+      "year": 2001,
+      "roles": [
+        "cast"
+      ],
+      "character": "Flanders King of Arms"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjk4MzIyNWItZmY1Ni00OTEyLThiMDgtYjYxMzNkMDRmZjQ5XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "02.05.1969",
+  "birth_location": "Karlovy Vary, Czechoslovakia [now Czech Republic]",
+  "imdb_scraped": true,
+  "filmweb_id": 6997,
+  "name_pl": "Karel Dobrý",
+  "birth_location_pl": "Karlowe Wary",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Czechy"
+  ],
+  "wikidata_fw_id": 6997
+}

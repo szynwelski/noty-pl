@@ -1,0 +1,78 @@
+{
+  "id": "nm0000024",
+  "name": "John Gielgud",
+  "filmography": [
+    {
+      "imdb_id": "tt0059012",
+      "title": "Chimes at Midnight",
+      "year": 1965,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Henry IV"
+    },
+    {
+      "imdb_id": "tt0071877",
+      "title": "Murder on the Orient Express",
+      "year": 1974,
+      "roles": [
+        "cast"
+      ],
+      "character": "Beddoes"
+    },
+    {
+      "imdb_id": "tt0080678",
+      "title": "The Elephant Man",
+      "year": 1980,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Carr Gomm"
+    },
+    {
+      "imdb_id": "tt0082158",
+      "title": "Chariots of Fire",
+      "year": 1981,
+      "roles": [
+        "cast"
+      ],
+      "character": "Master of Trinity"
+    },
+    {
+      "imdb_id": "tt0083987",
+      "title": "Gandhi",
+      "year": 1982,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Lord Irwin"
+    },
+    {
+      "imdb_id": "tt0116136",
+      "title": "DragonHeart",
+      "year": 1996,
+      "roles": [
+        "cast"
+      ],
+      "character": "King Arthur"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTllNmFmMTMtZDU0YS00MjZlLTk4MjgtNGNlYWE1YmExZjNmXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 2685,
+  "birth_date": "14.04.1904",
+  "death_date": "21.05.2000",
+  "birth_location": "South Kensington, London, England, UK",
+  "height": "1.81 m",
+  "imdb_scraped": true,
+  "name_pl": "John Gielgud",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 2685
+}

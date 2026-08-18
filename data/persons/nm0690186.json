@@ -1,0 +1,47 @@
+{
+  "id": "nm0690186",
+  "name": "Ellen Pompeo",
+  "filmography": [
+    {
+      "imdb_id": "tt0264464",
+      "title": "Catch Me If You Can",
+      "year": 2002,
+      "roles": [
+        "cast"
+      ],
+      "character": "Marci"
+    },
+    {
+      "imdb_id": "tt0287978",
+      "title": "Daredevil",
+      "year": 2003,
+      "roles": [
+        "cast"
+      ],
+      "character": "Karen Page"
+    },
+    {
+      "imdb_id": "tt0302886",
+      "title": "Old School",
+      "year": 2003,
+      "roles": [
+        "cast"
+      ],
+      "character": "Nicole"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTI4NDc2NjA0OV5BMl5BanBnXkFtZTcwNTI1NDg1MQ@@._V1_.jpg",
+  "birth_date": "10.11.1969",
+  "birth_location": "Everett, Massachusetts, USA",
+  "height": "1.66 m",
+  "filmweb_id": 93650,
+  "name_pl": "Ellen Pompeo",
+  "birth_location_pl": "Everett, Massachusetts",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 93650
+}

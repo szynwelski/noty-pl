@@ -1,0 +1,40 @@
+{
+  "id": "nm0001792",
+  "name": "Rod Taylor",
+  "filmography": [
+    {
+      "imdb_id": "tt0049261",
+      "title": "Giant",
+      "year": 1956,
+      "roles": [
+        "cast"
+      ],
+      "character": "Sir David Karfrey"
+    },
+    {
+      "imdb_id": "tt0056869",
+      "title": "The Birds",
+      "year": 1963,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Mitch Brenner"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzY0Njk1MDA5M15BMl5BanBnXkFtZTgwNDc0OTkwNDM@._V1_.jpg",
+  "birth_date": "11.01.1930",
+  "death_date": "07.01.2015",
+  "birth_location": "Sydney, New South Wales, Australia",
+  "height": "1.78 m",
+  "imdb_scraped": true,
+  "filmweb_id": 9499,
+  "name_pl": "Rod Taylor",
+  "birth_location_pl": "Sydney, Nowa Południowa Walia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Australia"
+  ],
+  "wikidata_fw_id": 9499
+}

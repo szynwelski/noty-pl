@@ -1,0 +1,28 @@
+{
+  "id": "nm0423418",
+  "name": "Steve Jobs",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTI4NTk3NjU1MF5BMl5BanBnXkFtZTcwMTQ5MDg4Ng@@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0114709",
+      "title": "Toy Story",
+      "year": 1995,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "birth_date": "24.02.1955",
+  "death_date": "05.10.2011",
+  "birth_location": "San Francisco, California, USA",
+  "height": "1.88 m",
+  "imdb_scraped": true,
+  "filmweb_id": 534017,
+  "name_pl": "Steve Jobs",
+  "birth_location_pl": "San Francisco, Kalifornia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

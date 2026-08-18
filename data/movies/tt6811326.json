@@ -1,0 +1,151 @@
+{
+  "imdb_id": "tt6811326",
+  "title": "Elysium Hernalsiense",
+  "description": "",
+  "runtime_minutes": 76,
+  "release_date": "19.10.2017",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm4265324",
+      "name": "Hayley-Marie Axe"
+    },
+    {
+      "id": "nm0336374",
+      "name": "Jan Graveson"
+    },
+    {
+      "id": "nm0455511",
+      "name": "Edmund Kingsley"
+    },
+    {
+      "id": "nm0536188",
+      "name": "Jonathan Magnanti"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm3235966",
+      "name": "Bernhard Kammel"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm3235966",
+      "name": "Bernhard Kammel"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm4265324",
+      "name": "Hayley-Marie Axe",
+      "character": "Lily"
+    },
+    {
+      "id": "nm0336374",
+      "name": "Jan Graveson",
+      "character": "Margo"
+    },
+    {
+      "id": "nm0455511",
+      "name": "Edmund Kingsley",
+      "character": "Caspar"
+    },
+    {
+      "id": "nm0536188",
+      "name": "Jonathan Magnanti",
+      "character": "Father Noy"
+    },
+    {
+      "id": "nm6130483",
+      "name": "Francesca Mula",
+      "character": "Doctor"
+    },
+    {
+      "id": "nm0645362",
+      "name": "Enni Ojutkangas",
+      "character": "Lily"
+    },
+    {
+      "id": "nm7976225",
+      "name": "Ruben Paronyan",
+      "character": "Father Noy"
+    },
+    {
+      "id": "nm0879872",
+      "name": "Larisa Udovichenko",
+      "character": "Professor"
+    }
+  ],
+  "countries": [
+    "Austria"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 795007,
+  "year": 2017,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOTExOTlmNzMtNmQ2NC00MDExLTgwOWItYTgwZmZkMDZlOTg5XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 4.1,
+      "votes": 12,
+      "distribution": {
+        "1": 2,
+        "2": 1,
+        "3": 3,
+        "4": 1,
+        "5": 1,
+        "6": 3,
+        "7": 1,
+        "8": 0,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 5.2258
+    },
+    "filmweb": {
+      "rating": 4.34,
+      "votes": 32,
+      "distribution": {
+        "1": 5,
+        "2": 3,
+        "3": 3,
+        "4": 3,
+        "5": 7,
+        "6": 8,
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "10": 0
+      },
+      "normalized": 4.6728
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "21.10.2017",
+      "normalized": 5.6855
+    },
+    "score": 5.1947
+  },
+  "polish_title": "Elizjum Hernalsiense",
+  "silent": false,
+  "description_pl": "Na oddziale intensywnej opieki Szpitala Życia Wiecznego na przedmieściach Wiednia leży pewien człowiek. Jest w śpiączce, podczas której przewijają mu się wydarzenia, które doprowadziły go do tego miejsca. Główną rolę odgrywa w nich jego była żona. Wiele lat temu zostawiła go bez słowa i pojawiła się ponownie kilka godzin przed jego hospitalizacją. Rzeczywistość, wspomnienia i marzenia mieszają się ze sobą. Kiedy stan mężczyzny nagle się pogarsza, jego matka chce, by został zamrożony, zaś była żona chce oddać mu własną krew.  Wydarzenia przybierają nieoczekiwany przebieg. Albo przynajmniej tak się wydaje.",
+  "composers": [
+    {
+      "id": "nm2827648",
+      "name": "Franz Hautzinger"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm3235966",
+      "name": "Bernhard Kammel"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

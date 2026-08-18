@@ -1,0 +1,39 @@
+{
+  "id": "nm0000953",
+  "name": "Peter Bogdanovich",
+  "filmography": [
+    {
+      "imdb_id": "tt0067328",
+      "title": "The Last Picture Show",
+      "year": 1971,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0070510",
+      "title": "Paper Moon",
+      "year": 1973,
+      "roles": [
+        "director",
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTgxNzQ3NzAxMl5BMl5BanBnXkFtZTcwODQ5NDM5MQ@@._V1_.jpg",
+  "birth_date": "30.07.1939",
+  "death_date": "06.01.2022",
+  "birth_location": "Kingston, New York, USA",
+  "height": "1.78 m",
+  "imdb_scraped": true,
+  "filmweb_id": 13028,
+  "name_pl": "Peter Bogdanovich",
+  "birth_location_pl": "Kingston, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 13028
+}

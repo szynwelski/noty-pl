@@ -1,0 +1,184 @@
+{
+  "imdb_id": "tt0424227",
+  "title": "Turtles Can Fly",
+  "description": "Near the Iraqi-Turkish border on the eve of an American invasion, refugee children, like 13-year-old Kak (Ebrahim), gauge and await their fate.",
+  "runtime_minutes": 98,
+  "release_date": "23.02.2005",
+  "genres": [
+    "Drama",
+    "War"
+  ],
+  "stars": [
+    {
+      "id": "nm1714874",
+      "name": "Soran Ebrahim"
+    },
+    {
+      "id": "nm1716931",
+      "name": "Avaz Latif"
+    },
+    {
+      "id": "nm1797558",
+      "name": "Hiresh Feysal Rahman"
+    },
+    {
+      "id": "nm1845367",
+      "name": "Abdol Rahman Karim"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0315842",
+      "name": "Bahman Ghobadi"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0315842",
+      "name": "Bahman Ghobadi"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1714874",
+      "name": "Soran Ebrahim",
+      "character": "Satellite"
+    },
+    {
+      "id": "nm1716931",
+      "name": "Avaz Latif",
+      "character": "Agrin"
+    },
+    {
+      "id": "nm1797558",
+      "name": "Hiresh Feysal Rahman",
+      "character": "Hengov"
+    },
+    {
+      "id": "nm1845367",
+      "name": "Abdol Rahman Karim",
+      "character": "Riga"
+    },
+    {
+      "id": "nm1795482",
+      "name": "Saddam Hossein Feysal",
+      "character": "Pashow"
+    },
+    {
+      "id": "nm1846369",
+      "name": "Ajil Zibari",
+      "character": "Shirkooh"
+    },
+    {
+      "id": "nm13210710",
+      "name": "Marmar Alhilali",
+      "character": ""
+    },
+    {
+      "id": "nm12587171",
+      "name": "Dijvar Elban",
+      "character": "Dijwar"
+    },
+    {
+      "id": "nm3104997",
+      "name": "Emre Tetikel",
+      "character": "Ali Reza"
+    }
+  ],
+  "countries": [
+    "Iran",
+    "France",
+    "Iraq"
+  ],
+  "languages": [
+    "Kurdish",
+    "Arabic",
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 163092,
+  "year": 2004,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZWUwZDg3OWMtY2U1Yi00ZTI3LWIzYzYtODhmNzBhZTkyMTM1XkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Lakposhtha parvaz mikonand",
+  "ratings": {
+    "imdb": {
+      "rating": 8,
+      "votes": 22899,
+      "distribution": {
+        "1": 354,
+        "2": 98,
+        "3": 111,
+        "4": 216,
+        "5": 445,
+        "6": 1204,
+        "7": 3276,
+        "8": 6797,
+        "9": 4796,
+        "10": 5602
+      },
+      "normalized": 7.3454
+    },
+    "filmweb": {
+      "rating": 7.82,
+      "votes": 2223,
+      "distribution": {
+        "1": 9,
+        "2": 4,
+        "3": 16,
+        "4": 15,
+        "5": 67,
+        "6": 172,
+        "7": 477,
+        "8": 834,
+        "9": 410,
+        "10": 219
+      },
+      "normalized": 7.1594
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "19.03.2006",
+      "normalized": 5.4199
+    },
+    "score": 6.6416
+  },
+  "polish_title": "Gdyby żółwie mogły latać",
+  "silent": false,
+  "description_pl": "Akcja rozgrywa się na pograniczu iracko-tureckim, zamieszkałym przez Kurdów. Stany Zjednoczone wypowiedziały wojnę Irakowi, Kurdowie czekają więc na wyzwolenie. Są wśród nich dzieci: sieroty, którym przewodzi Kak Satellite. Satellite zna kilka słów po angielsku i ma opinię światowca. Tylko on w okolicy umie montować anteny satelitarne, dzięki którym można dowiedzieć się, jak przebiega wojna. Autorytet Satellite'a zostaje zagrożony, kiedy do wioski przybywa tajemnicze rodzeństwo: piękna Agrin i jej bezręki brat Hengov.",
+  "producers": [
+    {
+      "id": "nm1715577",
+      "name": "Babak Amini"
+    },
+    {
+      "id": "nm1715585",
+      "name": "Hamid Karim Batin Ghobadi"
+    },
+    {
+      "id": "nm1701152",
+      "name": "Hamid Ghavami"
+    },
+    {
+      "id": "nm1857163",
+      "name": "Abbas Ghazali"
+    },
+    {
+      "id": "nm0315842",
+      "name": "Bahman Ghobadi"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0019745",
+      "name": "Hossein Alizadeh"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm1825398",
+      "name": "Shahriar Assadi"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,229 @@
+{
+  "imdb_id": "tt7128066",
+  "title": "Charleston",
+  "description": "A couple of weeks after his wife Ioana dies in a car crash, drunk and alone on the night he turns 42, Alexandru receives a visit. Sebastian, a shy, younger man, has been Ioana's lover for the past five months. Sebastian has an outrageous request: he wants Alexandru to help him overcome the despair caused by Ioana's death.",
+  "runtime_minutes": 119,
+  "release_date": "08.06.2018",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0667904",
+      "name": "Serban Pavlu"
+    },
+    {
+      "id": "nm2228245",
+      "name": "Radu Iacoban"
+    },
+    {
+      "id": "nm0714287",
+      "name": "Victor Rebengiuc"
+    },
+    {
+      "id": "nm0162566",
+      "name": "Ana Ciontea"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm3202398",
+      "name": "Andrei Cretulescu"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm3202398",
+      "name": "Andrei Cretulescu"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0667904",
+      "name": "Serban Pavlu",
+      "character": "Alexandru"
+    },
+    {
+      "id": "nm2228245",
+      "name": "Radu Iacoban",
+      "character": "Sebastian"
+    },
+    {
+      "id": "nm0714287",
+      "name": "Victor Rebengiuc",
+      "character": "Dl. Antonescu"
+    },
+    {
+      "id": "nm0162566",
+      "name": "Ana Ciontea",
+      "character": "Dna Antonescu"
+    },
+    {
+      "id": "nm1442461",
+      "name": "Gabriela Popescu",
+      "character": "Minerva"
+    },
+    {
+      "id": "nm0880367",
+      "name": "Ana Ularu",
+      "character": "Ioana"
+    },
+    {
+      "id": "nm1890655",
+      "name": "Dorian Boguta",
+      "character": "Maximilian"
+    },
+    {
+      "id": "nm1146033",
+      "name": "Gavril Patru",
+      "character": "Ludovic"
+    },
+    {
+      "id": "nm2464980",
+      "name": "Andreea Vasile",
+      "character": "Rodica"
+    },
+    {
+      "id": "nm0864458",
+      "name": "Adrian Titieni",
+      "character": "Rudolf"
+    },
+    {
+      "id": "nm2871516",
+      "name": "Sergiu Costache",
+      "character": "Albert"
+    },
+    {
+      "id": "nm4870609",
+      "name": "Claudiu Dumitru",
+      "character": "Rafalel"
+    },
+    {
+      "id": "nm2570777",
+      "name": "Gheorghe Ifrim",
+      "character": "Marinica"
+    },
+    {
+      "id": "nm1796035",
+      "name": "Lucian Ifrim",
+      "character": "Marinica"
+    },
+    {
+      "id": "nm1621287",
+      "name": "Alina Berzunteanu",
+      "character": "Magdalena"
+    },
+    {
+      "id": "nm7038642",
+      "name": "Vlad Galer",
+      "character": "Hrubesch"
+    },
+    {
+      "id": "nm2643695",
+      "name": "Letitia Vladescu",
+      "character": "Nicoleta"
+    },
+    {
+      "id": "nm5471745",
+      "name": "Eugen Matei Lumezianu",
+      "character": "Sofer Taxi 1"
+    }
+  ],
+  "countries": [
+    "Romania",
+    "France"
+  ],
+  "languages": [
+    "Romanian"
+  ],
+  "color": "Color",
+  "filmweb_id": 789957,
+  "year": 2017,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYTM3ODVjYjUtZTNiNy00YzZjLWI2YzgtZWM2ODMzNmMwM2FiXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.7,
+      "votes": 1198,
+      "distribution": {
+        "1": 71,
+        "2": 11,
+        "3": 21,
+        "4": 48,
+        "5": 72,
+        "6": 163,
+        "7": 234,
+        "8": 175,
+        "9": 170,
+        "10": 233
+      },
+      "normalized": 5.0405
+    },
+    "filmweb": {
+      "rating": 6.43,
+      "votes": 151,
+      "distribution": {
+        "1": 1,
+        "2": 1,
+        "3": 5,
+        "4": 5,
+        "5": 23,
+        "6": 39,
+        "7": 43,
+        "8": 25,
+        "9": 7,
+        "10": 2
+      },
+      "normalized": 4.848
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "15.10.2017",
+      "normalized": 6.4102
+    },
+    "score": 5.4329
+  },
+  "polish_title": "Charleston",
+  "silent": false,
+  "description_pl": "Ioana ginie w wypadku samochodowym. Kilka tygodni po jej śmierci, mąż Ioany, 42-letni Alexandru znów upija się w samotności, gdy nagle ktoś puka do jego drzwi. W progu staje nieśmiały, młody człowiek, który przedstawia się jako Sebastian, kochanek Ioany przez ostatnie pięć miesięcy jej życia. Powód, dla którego zjawia się w domu Alexandru, jest zdumiewający. Sebastian chce, by mąż jego kochanki pomógł mu uporać się z bólem po jej stracie.",
+  "producers": [
+    {
+      "id": "nm3202398",
+      "name": "Andrei Cretulescu"
+    },
+    {
+      "id": "nm4905088",
+      "name": "Marie Legrand"
+    },
+    {
+      "id": "nm5510404",
+      "name": "Irina Malcea"
+    },
+    {
+      "id": "nm5889289",
+      "name": "Rani Massalha"
+    },
+    {
+      "id": "nm0603118",
+      "name": "Velvet Moraru"
+    },
+    {
+      "id": "nm2430317",
+      "name": "Ben Tisch"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm7905110",
+      "name": "Massimiliano Nardulli"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm2456483",
+      "name": "Barbu Balasoiu"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

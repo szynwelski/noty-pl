@@ -1,0 +1,186 @@
+{
+  "imdb_id": "tt0040746",
+  "title": "Rope",
+  "description": "Two young men murder a former classmate as a test of their intellectual and moral superiority, then hide the body as they host a dinner party attended by the victim's girlfriend and father, as well as their former schoolmaster and mentor.",
+  "runtime_minutes": 80,
+  "release_date": "25.09.1948",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000071",
+      "name": "James Stewart"
+    },
+    {
+      "id": "nm0197982",
+      "name": "John Dall"
+    },
+    {
+      "id": "nm0335048",
+      "name": "Farley Granger"
+    },
+    {
+      "id": "nm0389516",
+      "name": "Dick Hogan"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000033",
+      "name": "Alfred Hitchcock"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0002025",
+      "name": "Hume Cronyn"
+    },
+    {
+      "id": "nm0358096",
+      "name": "Patrick Hamilton"
+    },
+    {
+      "id": "nm0491306",
+      "name": "Arthur Laurents"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000071",
+      "name": "James Stewart",
+      "character": "Rupert Cadell"
+    },
+    {
+      "id": "nm0197982",
+      "name": "John Dall",
+      "character": "Brandon"
+    },
+    {
+      "id": "nm0335048",
+      "name": "Farley Granger",
+      "character": "Phillip"
+    },
+    {
+      "id": "nm0389516",
+      "name": "Dick Hogan",
+      "character": "David Kentley"
+    },
+    {
+      "id": "nm0263330",
+      "name": "Edith Evanson",
+      "character": "Mrs. Wilson"
+    },
+    {
+      "id": "nm0225255",
+      "name": "Douglas Dick",
+      "character": "Kenneth"
+    },
+    {
+      "id": "nm0151401",
+      "name": "Joan Chandler",
+      "character": "Janet"
+    },
+    {
+      "id": "nm0362567",
+      "name": "Cedric Hardwicke",
+      "character": "Mr. Kentley"
+    },
+    {
+      "id": "nm0171887",
+      "name": "Constance Collier",
+      "character": "Mrs. Atwater"
+    },
+    {
+      "id": "nm0000033",
+      "name": "Alfred Hitchcock",
+      "character": "Man Walking in Street After Opening Credits"
+    },
+    {
+      "id": "nm0731985",
+      "name": "Peggy Robertson",
+      "character": "Woman Walking on Sidewalk"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 7347,
+  "year": 1948,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDM1YzdlZjAtZWFiZS00ZjYyLTgxYzctNzBiYmE0OWFiMGU1XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.9,
+      "votes": 166124,
+      "distribution": {
+        "1": 1483,
+        "2": 559,
+        "3": 731,
+        "4": 1378,
+        "5": 3622,
+        "6": 11020,
+        "7": 33379,
+        "8": 58332,
+        "9": 33283,
+        "10": 22337
+      },
+      "normalized": 7.242
+    },
+    "filmweb": {
+      "rating": 7.4,
+      "votes": 10881,
+      "distribution": {
+        "1": 36,
+        "2": 24,
+        "3": 87,
+        "4": 154,
+        "5": 527,
+        "6": 1395,
+        "7": 3250,
+        "8": 3495,
+        "9": 1301,
+        "10": 612
+      },
+      "normalized": 6.436
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "06.02.2014",
+      "normalized": 7.1247
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "03.07.2013",
+      "normalized": 6.3474
+    },
+    "score": 6.7875
+  },
+  "polish_title": "Sznur",
+  "silent": false,
+  "description_pl": "Philip i jego kolega z uczelni - pod wpływem szkolnych wykładów na temat nietzscheańskiej koncepcji nadczłowieka - postanawiają zamordować swego znajomego, by w ten sposób przekonać się, czy w rzeczywistości istnieje możliwość popełnienia zbrodni doskonałej. Przestępcy ukrywają zwłoki w mieszkaniu ofiary na krótko przed mającym się tam odbyć przyjęciem. Ani narzeczona, ani rodzice zamordowanego nie domyślają się prawdy. Jedynie profesor Rupert zaczyna coś podejrzewać...",
+  "producers": [
+    {
+      "id": "nm0077141",
+      "name": "Sidney Bernstein"
+    },
+    {
+      "id": "nm0000033",
+      "name": "Alfred Hitchcock"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0005987",
+      "name": "David Buttolph"
+    }
+  ],
+  "fetched_at": "2026-08-15"
+}

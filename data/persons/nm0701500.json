@@ -1,0 +1,48 @@
+{
+  "id": "nm0701500",
+  "name": "Denver Pyle",
+  "filmography": [
+    {
+      "imdb_id": "tt0056217",
+      "title": "The Man Who Shot Liberty Valance",
+      "year": 1962,
+      "roles": [
+        "cast"
+      ],
+      "character": "Amos Carruthers"
+    },
+    {
+      "imdb_id": "tt0061418",
+      "title": "Bonnie and Clyde",
+      "year": 1967,
+      "roles": [
+        "cast"
+      ],
+      "character": "Frank Hamer"
+    },
+    {
+      "imdb_id": "tt0110478",
+      "title": "Maverick",
+      "year": 1994,
+      "roles": [
+        "cast"
+      ],
+      "character": "Old Gambler on Riverboat"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTM2MDk0NzA1Ml5BMl5BanBnXkFtZTcwMTMwNjUwOA@@._V1_.jpg",
+  "birth_date": "11.05.1920",
+  "death_date": "25.12.1997",
+  "birth_location": "Bethune, Colorado, USA",
+  "height": "1.85 m",
+  "filmweb_id": 42454,
+  "name_pl": "Denver Pyle",
+  "birth_location_pl": "Bethune, Kolorado",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 42454
+}

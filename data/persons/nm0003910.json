@@ -1,0 +1,46 @@
+{
+  "id": "nm0003910",
+  "name": "Travis Fine",
+  "filmography": [
+    {
+      "imdb_id": "tt0120863",
+      "title": "The Thin Red Line",
+      "year": 1998,
+      "roles": [
+        "cast"
+      ],
+      "character": "Pvt. Weld"
+    },
+    {
+      "imdb_id": "tt0172493",
+      "title": "Girl, Interrupted",
+      "year": 1999,
+      "roles": [
+        "cast"
+      ],
+      "character": "John"
+    },
+    {
+      "imdb_id": "tt0246989",
+      "title": "Tomcats",
+      "year": 2001,
+      "roles": [
+        "cast"
+      ],
+      "character": "Jan"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNWFmOWMxYzYtYjk4My00MGZiLTkwOGUtNTVjNTVkYjJjNmI2XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "26.06.1968",
+  "birth_location": "Atlanta, Georgia, USA",
+  "height": "1.80 m",
+  "filmweb_id": 54679,
+  "name_pl": "Travis Fine",
+  "birth_location_pl": "Atlanta, Georgia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

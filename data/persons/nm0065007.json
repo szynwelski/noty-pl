@@ -1,0 +1,49 @@
+{
+  "id": "nm0065007",
+  "name": "Demián Bichir",
+  "filmography": [
+    {
+      "imdb_id": "tt2404463",
+      "title": "The Heat",
+      "year": 2013,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Hale"
+    },
+    {
+      "imdb_id": "tt3460252",
+      "title": "The Hateful Eight",
+      "year": 2015,
+      "roles": [
+        "cast"
+      ],
+      "character": "Bob"
+    },
+    {
+      "imdb_id": "tt2316204",
+      "title": "Alien: Covenant",
+      "year": 2017,
+      "roles": [
+        "cast"
+      ],
+      "character": "Lope"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjIzNDMwMzI3OV5BMl5BanBnXkFtZTgwNTk2NzMyMTE@._V1_.jpg",
+  "birth_date": "01.08.1963",
+  "birth_location": "Torreón, Coahuila, Mexico",
+  "height": "1.82 m",
+  "filmweb_id": 58851,
+  "name_pl": "Demián Bichir",
+  "birth_location_pl": "Meksyk",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Meksyk",
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 58851
+}

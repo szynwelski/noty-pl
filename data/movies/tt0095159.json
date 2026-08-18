@@ -1,0 +1,232 @@
+{
+  "imdb_id": "tt0095159",
+  "title": "A Fish Called Wanda",
+  "description": "In London, four very different people team up on a jewel heist, then try to double-cross one another for the loot, complicated by their efforts to fool the very proper barrister Archibald Leach.",
+  "runtime_minutes": 108,
+  "release_date": "29.07.1988",
+  "genres": [
+    "Comedy",
+    "Crime"
+  ],
+  "stars": [
+    {
+      "id": "nm0000092",
+      "name": "John Cleese"
+    },
+    {
+      "id": "nm0000130",
+      "name": "Jamie Lee Curtis"
+    },
+    {
+      "id": "nm0000177",
+      "name": "Kevin Kline"
+    },
+    {
+      "id": "nm0001589",
+      "name": "Michael Palin"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0187769",
+      "name": "Charles Crichton"
+    },
+    {
+      "id": "nm0000092",
+      "name": "John Cleese"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000092",
+      "name": "John Cleese"
+    },
+    {
+      "id": "nm0187769",
+      "name": "Charles Crichton"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000092",
+      "name": "John Cleese",
+      "character": "Archie"
+    },
+    {
+      "id": "nm0000130",
+      "name": "Jamie Lee Curtis",
+      "character": "Wanda"
+    },
+    {
+      "id": "nm0000177",
+      "name": "Kevin Kline",
+      "character": "Otto"
+    },
+    {
+      "id": "nm0001589",
+      "name": "Michael Palin",
+      "character": "Ken"
+    },
+    {
+      "id": "nm0014883",
+      "name": "Maria Aitken",
+      "character": "Wendy"
+    },
+    {
+      "id": "nm0313702",
+      "name": "Tom Georgeson",
+      "character": "George"
+    },
+    {
+      "id": "nm0371175",
+      "name": "Patricia Hayes",
+      "character": "Mrs. Coady"
+    },
+    {
+      "id": "nm0658244",
+      "name": "Geoffrey Palmer",
+      "character": "Judge"
+    },
+    {
+      "id": "nm0165927",
+      "name": "Cynthia Cleese",
+      "character": "Portia"
+    },
+    {
+      "id": "nm0255895",
+      "name": "Mark Elwes",
+      "character": "Customer in Jeweler's Shop"
+    },
+    {
+      "id": "nm0680670",
+      "name": "Neville Phillips",
+      "character": "Manager of Jeweler's Shop"
+    },
+    {
+      "id": "nm0429514",
+      "name": "Peter Jonfield",
+      "character": "Inspector Marvin"
+    },
+    {
+      "id": "nm0132631",
+      "name": "Ken Campbell",
+      "character": "Bartlett"
+    },
+    {
+      "id": "nm0039185",
+      "name": "Al Ashton",
+      "character": "Warder"
+    },
+    {
+      "id": "nm0401771",
+      "name": "Roger Hume",
+      "character": "Locksmith"
+    },
+    {
+      "id": "nm0108926",
+      "name": "Roger Brierley",
+      "character": "Davidson"
+    },
+    {
+      "id": "nm0715932",
+      "name": "Llewellyn Rees",
+      "character": "Sir John"
+    },
+    {
+      "id": "nm0672888",
+      "name": "Michael Percival",
+      "character": "Percival"
+    }
+  ],
+  "countries": [
+    "United Kingdom",
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Italian",
+    "Russian",
+    "French"
+  ],
+  "color": "Color",
+  "filmweb_id": 1101,
+  "year": 1988,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNjFhZDg1ZmEtYmI0Ny00MjM3LWIxNzItMzU1MzczZTljMTkxXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.5,
+      "votes": 166740,
+      "distribution": {
+        "1": 1224,
+        "2": 856,
+        "3": 1430,
+        "4": 2772,
+        "5": 6660,
+        "6": 17785,
+        "7": 43151,
+        "8": 52000,
+        "9": 24031,
+        "10": 16831
+      },
+      "normalized": 6.4318
+    },
+    "filmweb": {
+      "rating": 7.33,
+      "votes": 28136,
+      "distribution": {
+        "1": 72,
+        "2": 81,
+        "3": 254,
+        "4": 472,
+        "5": 1358,
+        "6": 3974,
+        "7": 8934,
+        "8": 8378,
+        "9": 3043,
+        "10": 1570
+      },
+      "normalized": 6.3097
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "13.09.2010",
+      "normalized": 5.4199
+    },
+    "score": 6.0538
+  },
+  "polish_title": "Rybka zwana Wandą",
+  "silent": false,
+  "description_pl": "Wanda to seksowna Amerykanka uwielbiająca diamenty. Ona i jej narzeczony Otto wbrew umowie ze złodziejami kolekcji chcą wszystkie diamenty dla siebie. Informują więc policję o poczynaniach złodziei. Teraz zostaje tylko odkryć, gdzie skradziona kolekcja się znajduje.",
+  "producers": [
+    {
+      "id": "nm2011724",
+      "name": "Steve Abbott"
+    },
+    {
+      "id": "nm0000092",
+      "name": "John Cleese"
+    },
+    {
+      "id": "nm0173805",
+      "name": "John Comfort"
+    },
+    {
+      "id": "nm0787834",
+      "name": "Michael Shamberg"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006047",
+      "name": "John Du Prez"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0401727",
+      "name": "Alan Hume"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

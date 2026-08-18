@@ -1,0 +1,53 @@
+{
+  "id": "nm0601619",
+  "name": "Michael Moore",
+  "filmography": [
+    {
+      "imdb_id": "tt0310793",
+      "title": "Bowling for Columbine",
+      "year": 2002,
+      "roles": [
+        "director",
+        "writer",
+        "star",
+        "cast",
+        "producer"
+      ],
+      "character": "Self - Narrator"
+    },
+    {
+      "imdb_id": "tt0361596",
+      "title": "Fahrenheit 9/11",
+      "year": 2004,
+      "roles": [
+        "director",
+        "writer",
+        "star",
+        "cast",
+        "producer"
+      ],
+      "character": "Self - Narrator"
+    },
+    {
+      "imdb_id": "tt2662228",
+      "title": "10%: What Makes a Hero?",
+      "year": 2013,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTkyMDEwNjk1OF5BMl5BanBnXkFtZTcwOTI4NDA2MQ@@._V1_.jpg",
+  "birth_date": "23.04.1954",
+  "birth_location": "Flint, Michigan, USA",
+  "height": "1.83 m",
+  "filmweb_id": 49721,
+  "name_pl": "Michael Moore",
+  "birth_location_pl": "Flint, Michigan",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "nm0001766",
+  "name": "Barbara Stanwyck",
+  "filmography": [
+    {
+      "imdb_id": "tt0032080",
+      "title": "Union Pacific",
+      "year": 1939,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Mollie Monahan"
+    },
+    {
+      "imdb_id": "tt0036775",
+      "title": "Double Indemnity",
+      "year": 1944,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Phyllis Dietrichson"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMmQwNmYwMDQtNzkzYy00MDVmLWExNGEtNGU1MTkxMjgyZDk3XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "16.07.1907",
+  "death_date": "20.01.1990",
+  "birth_location": "Brooklyn, New York City, New York, USA",
+  "height": "1.65 m",
+  "imdb_scraped": true,
+  "filmweb_id": 41767,
+  "name_pl": "Barbara Stanwyck",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 41767
+}

@@ -1,0 +1,114 @@
+{
+  "imdb_id": "tt0229220",
+  "title": "Annie Oakley",
+  "description": "Annie Oakley, the 'Little Miss Sure Shot' of the 'Wild West' gives an exhibition of rifle shooting at glass balls and clay pigeons in a film from the Edison Catalog.",
+  "runtime_minutes": 1,
+  "release_date": "1894",
+  "genres": [
+    "Documentary",
+    "Short",
+    "Western"
+  ],
+  "stars": [
+    {
+      "id": "nm9491632",
+      "name": "Francis E. Butler"
+    },
+    {
+      "id": "nm0643007",
+      "name": "Annie Oakley"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0005690",
+      "name": "William K.L. Dickson"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm9491632",
+      "name": "Francis E. Butler",
+      "character": "Self"
+    },
+    {
+      "id": "nm0643007",
+      "name": "Annie Oakley",
+      "character": "Self"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "None",
+    "English"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 179512,
+  "year": 1894,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzEyODczZWYtMTk1My00M2E4LWJkMzAtZjNhMjkxOGFjYjg2XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.3,
+      "votes": 1719,
+      "distribution": {
+        "1": 50,
+        "2": 41,
+        "3": 47,
+        "4": 93,
+        "5": 284,
+        "6": 489,
+        "7": 371,
+        "8": 165,
+        "9": 51,
+        "10": 128
+      },
+      "normalized": 4.5261
+    },
+    "filmweb": {
+      "rating": 5.4,
+      "votes": 225,
+      "distribution": {
+        "1": 7,
+        "2": 8,
+        "3": 18,
+        "4": 26,
+        "5": 63,
+        "6": 47,
+        "7": 28,
+        "8": 18,
+        "9": 2,
+        "10": 8
+      },
+      "normalized": 4.007
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "11.12.2016",
+      "normalized": 7.1247
+    },
+    "score": 5.2193
+  },
+  "polish_title": "Annie Oakley",
+  "silent": true,
+  "producers": [
+    {
+      "id": "nm0249379",
+      "name": "Thomas A. Edison"
+    },
+    {
+      "id": "nm0005690",
+      "name": "William K.L. Dickson"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0374658",
+      "name": "William Heise"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "nm4425051",
+  "name": "Jack Quaid",
+  "filmography": [
+    {
+      "imdb_id": "tt1951264",
+      "title": "The Hunger Games: Catching Fire",
+      "year": 2013,
+      "roles": [
+        "cast"
+      ],
+      "character": "Marvel"
+    },
+    {
+      "imdb_id": "tt9362722",
+      "title": "Spider-Man: Across the Spider-Verse",
+      "year": 2023,
+      "roles": [
+        "cast"
+      ],
+      "character": "Peter Parker"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYjc5MmNjM2UtMDllYy00NjZiLTlkN2ItZDg3YjNhYjRmYmVjXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "24.04.1992",
+  "birth_location": "Los Angeles, California, USA",
+  "height": "1.90 m",
+  "imdb_scraped": true,
+  "filmweb_id": 1605647,
+  "name_pl": "Jack Quaid",
+  "birth_location_pl": "Los Angeles, Kalifornia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

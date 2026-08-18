@@ -1,0 +1,39 @@
+{
+  "id": "nm0896542",
+  "name": "King Vidor",
+  "filmography": [
+    {
+      "imdb_id": "tt0015624",
+      "title": "The Big Parade",
+      "year": 1925,
+      "roles": [
+        "director",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0019959",
+      "title": "Hallelujah",
+      "year": 1929,
+      "roles": [
+        "director",
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYjM2OGQzODYtNTY1ZS00NzA1LWFhNzMtODA0N2I1MGZmOTFiXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "08.02.1894",
+  "death_date": "01.11.1982",
+  "birth_location": "Galveston, Texas, USA",
+  "height": "1.78 m",
+  "imdb_scraped": true,
+  "filmweb_id": 53579,
+  "name_pl": "King Vidor",
+  "birth_location_pl": "Galveston, Teksas",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 53579
+}

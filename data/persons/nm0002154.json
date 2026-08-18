@@ -1,0 +1,30 @@
+{
+  "id": "nm0002154",
+  "name": "Alfred Abel",
+  "filmography": [
+    {
+      "imdb_id": "tt0017136",
+      "title": "Metropolis",
+      "year": 1927,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Johann (Joh) Fredersen"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDJkYjEzMWEtYjJmNy00ZjA0LTkxOGMtYWJjZTVkZGNmMjY2XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "12.03.1879",
+  "death_date": "12.12.1937",
+  "birth_location": "Leipzig, Germany",
+  "imdb_scraped": true,
+  "filmweb_id": 47755,
+  "name_pl": "Alfred Abel",
+  "birth_location_pl": "Lipsk",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Republika Weimarska",
+    "Cesarstwo Niemieckie"
+  ]
+}

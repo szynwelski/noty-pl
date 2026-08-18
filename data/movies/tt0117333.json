@@ -1,0 +1,224 @@
+{
+  "imdb_id": "tt0117333",
+  "title": "Phenomenon",
+  "description": "A small-town Everyman becomes a telekinetic genius.",
+  "runtime_minutes": 123,
+  "release_date": "03.07.1996",
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "Romance",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm0000237",
+      "name": "John Travolta"
+    },
+    {
+      "id": "nm0001718",
+      "name": "Kyra Sedgwick"
+    },
+    {
+      "id": "nm0001845",
+      "name": "Forest Whitaker"
+    },
+    {
+      "id": "nm0000380",
+      "name": "Robert Duvall"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0005509",
+      "name": "Jon Turteltaub"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0224187",
+      "name": "Gerald Di Pego"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000237",
+      "name": "John Travolta",
+      "character": "George Malley"
+    },
+    {
+      "id": "nm0001718",
+      "name": "Kyra Sedgwick",
+      "character": "Lace Pennamin"
+    },
+    {
+      "id": "nm0001845",
+      "name": "Forest Whitaker",
+      "character": "Nate Pope"
+    },
+    {
+      "id": "nm0000380",
+      "name": "Robert Duvall",
+      "character": "Doc"
+    },
+    {
+      "id": "nm0218810",
+      "name": "Jeffrey DeMunn",
+      "character": "Professor Ringold"
+    },
+    {
+      "id": "nm0453006",
+      "name": "Richard Kiley",
+      "character": "Dr. Wellin"
+    },
+    {
+      "id": "nm0302356",
+      "name": "David Gallagher",
+      "character": "Al"
+    },
+    {
+      "id": "nm0117907",
+      "name": "Ashley Buccille",
+      "character": "Glory"
+    },
+    {
+      "id": "nm0312629",
+      "name": "Tony Genaro",
+      "character": "Tito"
+    },
+    {
+      "id": "nm0639917",
+      "name": "Sean O'Bryan",
+      "character": "Banes"
+    },
+    {
+      "id": "nm0587379",
+      "name": "Michael Milhoan",
+      "character": "Jimmy"
+    },
+    {
+      "id": "nm0263283",
+      "name": "Troy Evans",
+      "character": "Roger"
+    },
+    {
+      "id": "nm0949340",
+      "name": "Bruce A. Young",
+      "character": "Jack Hatch"
+    },
+    {
+      "id": "nm0749490",
+      "name": "Vyto Ruginis",
+      "character": "Ted Rhome"
+    },
+    {
+      "id": "nm0000653",
+      "name": "Brent Spiner",
+      "character": "Dr. Bob"
+    },
+    {
+      "id": "nm0638117",
+      "name": "Elisabeth Nunziato",
+      "character": "Ella"
+    },
+    {
+      "id": "nm0311619",
+      "name": "Ellen Geer",
+      "character": "Bonnie"
+    },
+    {
+      "id": "nm0443856",
+      "name": "James Keane",
+      "character": "Pete the Cop"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Portuguese"
+  ],
+  "color": "Color",
+  "filmweb_id": 5587,
+  "year": 1996,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjAwMDA2NzEyMl5BMl5BanBnXkFtZTgwNTA2MjgxMTE@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.5,
+      "votes": 90399,
+      "distribution": {
+        "1": 1328,
+        "2": 1099,
+        "3": 1927,
+        "4": 4238,
+        "5": 10845,
+        "6": 21905,
+        "7": 24393,
+        "8": 13669,
+        "9": 5367,
+        "10": 5628
+      },
+      "normalized": 4.5061
+    },
+    "filmweb": {
+      "rating": 7.16,
+      "votes": 16654,
+      "distribution": {
+        "1": 41,
+        "2": 30,
+        "3": 137,
+        "4": 327,
+        "5": 894,
+        "6": 2851,
+        "7": 5812,
+        "8": 4527,
+        "9": 1418,
+        "10": 617
+      },
+      "normalized": 5.9244
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "19.10.2005",
+      "normalized": 5.4199
+    },
+    "score": 5.2835
+  },
+  "polish_title": "Fenomen",
+  "silent": false,
+  "description_pl": "W dniu urodzin prosty mechanik samochodowy, George Malley, dostrzega w barze dziwne światło. Następnego dnia po przebudzeniu okazuje się, że stał się geniuszem. Swoje niezwykłe zdolności stara się wykorzystać, czyniąc dobro. W jego wypadku inteligencja nie oznacza chłodu i obojętności, lecz empatię i wrażliwość na potrzeby innych. Wiadomość o niezwykłym mechaniku obiega kraj. Wszyscy chcą się dowiedzieć, na czym polega jego fenomen. Również sfery rządowe.",
+  "producers": [
+    {
+      "id": "nm0102189",
+      "name": "Barbara Boyle"
+    },
+    {
+      "id": "nm0006790",
+      "name": "Jonathan D. Krane"
+    },
+    {
+      "id": "nm0627917",
+      "name": "Charles Newirth"
+    },
+    {
+      "id": "nm0852888",
+      "name": "Michael Taylor"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0002353",
+      "name": "Thomas Newman"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0003659",
+      "name": "Phedon Papamichael"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

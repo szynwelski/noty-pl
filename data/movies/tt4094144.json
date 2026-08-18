@@ -1,0 +1,183 @@
+{
+  "imdb_id": "tt4094144",
+  "title": "The Strongest Man",
+  "description": "The Strongest Man is a Miami-centric comedy about an anxiety-ridden Cuban man, who fancies himself the strongest man in the world. In a quest to recover his most beloved possession, a stolen bicycle, he finds and loses so much more.",
+  "runtime_minutes": 99,
+  "release_date": "25.01.2015",
+  "genres": [
+    "Comedy"
+  ],
+  "stars": [
+    {
+      "id": "nm0051862",
+      "name": "Lisa Banes"
+    },
+    {
+      "id": "nm3950075",
+      "name": "Ashly Burch"
+    },
+    {
+      "id": "nm3968939",
+      "name": "Paul Chamberlain"
+    },
+    {
+      "id": "nm6822716",
+      "name": "Nancy Fong"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm3969228",
+      "name": "Kenny Riches"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm3969228",
+      "name": "Kenny Riches"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0051862",
+      "name": "Lisa Banes",
+      "character": "Mrs. Rosen"
+    },
+    {
+      "id": "nm3950075",
+      "name": "Ashly Burch",
+      "character": "Illi"
+    },
+    {
+      "id": "nm3968939",
+      "name": "Paul Chamberlain",
+      "character": "Conan"
+    },
+    {
+      "id": "nm6822716",
+      "name": "Nancy Fong",
+      "character": "Mrs. Yoon"
+    },
+    {
+      "id": "nm0297578",
+      "name": "Patrick Fugit",
+      "character": "Guru Fred"
+    },
+    {
+      "id": "nm6822717",
+      "name": "Robert Lorie",
+      "character": "Beef"
+    },
+    {
+      "id": "nm11278324",
+      "name": "David Park",
+      "character": "Mr. Yoon"
+    },
+    {
+      "id": "nm1736326",
+      "name": "Davy Rothbart",
+      "character": "Jake Sylvano"
+    },
+    {
+      "id": "nm3087799",
+      "name": "Freddie Wong",
+      "character": "Jimmy Yoon"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "color": "Color",
+  "filmweb_id": 734391,
+  "year": 2015,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzcxOTMxMjc3MV5BMl5BanBnXkFtZTgwMjE2NDAxNjE@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6,
+      "votes": 238,
+      "distribution": {
+        "1": 13,
+        "2": 5,
+        "3": 10,
+        "4": 15,
+        "5": 29,
+        "6": 31,
+        "7": 56,
+        "8": 22,
+        "9": 18,
+        "10": 39
+      },
+      "normalized": 4.8397
+    },
+    "filmweb": {
+      "rating": 5.14,
+      "votes": 250,
+      "distribution": {
+        "1": 15,
+        "2": 14,
+        "3": 37,
+        "4": 20,
+        "5": 43,
+        "6": 50,
+        "7": 43,
+        "8": 20,
+        "9": 5,
+        "10": 3
+      },
+      "normalized": 3.7651
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "12.10.2020",
+      "normalized": 6.4102
+    },
+    "score": 5.005
+  },
+  "polish_title": "Najsilniejszy człowiek na świecie",
+  "silent": false,
+  "description_pl": "Kubańczyk Beef (Robert \"Meatball\" Lorie) jest sprawnym budowlańcem z potężnymi bicepsami, burzą loków oraz uroczym wąsem. Nie chce mieć dzieci, ale chciałby by jego wnuki wspominały go jako najsilniejszego człowieka na świecie. Burzenie murów przychodzi mu bez problemu, ale wydaje się być bezradny w układaniu swojego życia. Illy, adoptowana córka bogatej kolekcjonerki sztuki, dla której czasami pracuje, namawia go i jego najlepszego kumpla - drobnego Koreańczyka Conana - do zajęć medytacyjnych. Prozaiczna codzienność skutecznie odciąga ich od metafizycznych poszukiwań i prób uporządkowania swojego życia.",
+  "producers": [
+    {
+      "id": "nm6908936",
+      "name": "Jesse R. Brown"
+    },
+    {
+      "id": "nm3968939",
+      "name": "Paul Chamberlain"
+    },
+    {
+      "id": "nm10359865",
+      "name": "Cara Despain"
+    },
+    {
+      "id": "nm6896311",
+      "name": "Robert Hewitt Jr."
+    },
+    {
+      "id": "nm3343315",
+      "name": "Anthony Pedone"
+    },
+    {
+      "id": "nm3969228",
+      "name": "Kenny Riches"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm7456476",
+      "name": "Andrew Rease Shaw"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm6822718",
+      "name": "Tom Garner"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

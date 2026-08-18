@@ -1,0 +1,39 @@
+{
+  "id": "nm0000580",
+  "name": "Luke Perry",
+  "filmography": [
+    {
+      "imdb_id": "tt0119116",
+      "title": "The Fifth Element",
+      "year": 1997,
+      "roles": [
+        "cast"
+      ],
+      "character": "Billy"
+    },
+    {
+      "imdb_id": "tt7131622",
+      "title": "Once Upon a Time in... Hollywood",
+      "year": 2019,
+      "roles": [
+        "cast"
+      ],
+      "character": "Wayne Maunder"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTA1Nzk4NDE5MjdeQTJeQWpwZ15BbWU3MDI3MDg2NTg@._V1_.jpg",
+  "birth_date": "11.10.1966",
+  "death_date": "04.03.2019",
+  "birth_location": "Mansfield, Ohio, USA",
+  "height": "1.78 m",
+  "imdb_scraped": true,
+  "filmweb_id": 3998,
+  "name_pl": "Luke Perry",
+  "birth_location_pl": "Mansfield, Ohio",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 3998
+}

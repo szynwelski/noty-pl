@@ -1,0 +1,201 @@
+{
+  "imdb_id": "tt0023663",
+  "title": "Shame",
+  "description": "During the first Five Year Plan in the USSR, an elderly worker in a Leningrad turbine factory comes under the influence of a saboteur planning to wreck production goals.",
+  "runtime_minutes": 115,
+  "release_date": "10.03.1933",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0306723",
+      "name": "Vladimir Gardin"
+    },
+    {
+      "id": "nm0090071",
+      "name": "Mariya Blyumental-Tamarina"
+    },
+    {
+      "id": "nm0330780",
+      "name": "Tatyana Guretskaya"
+    },
+    {
+      "id": "nm0009372",
+      "name": "Andrei Abrikosov"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0259611",
+      "name": "Fridrikh Ermler"
+    },
+    {
+      "id": "nm0951170",
+      "name": "Sergei Yutkevich"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0529376",
+      "name": "Leonid Lyubashevsky"
+    },
+    {
+      "id": "nm0259611",
+      "name": "Fridrikh Ermler"
+    },
+    {
+      "id": "nm0951170",
+      "name": "Sergei Yutkevich"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0306723",
+      "name": "Vladimir Gardin",
+      "character": "Babchenko"
+    },
+    {
+      "id": "nm0090071",
+      "name": "Mariya Blyumental-Tamarina",
+      "character": "Babchikha"
+    },
+    {
+      "id": "nm0330780",
+      "name": "Tatyana Guretskaya",
+      "character": "Katya"
+    },
+    {
+      "id": "nm0009372",
+      "name": "Andrei Abrikosov",
+      "character": "Pavel"
+    },
+    {
+      "id": "nm0855016",
+      "name": "Boris Tenin",
+      "character": "Vasya"
+    },
+    {
+      "id": "nm0692693",
+      "name": "Boris Poslavsky",
+      "character": "Skvorzov"
+    },
+    {
+      "id": "nm1248920",
+      "name": "Mariya Pototskaya",
+      "character": "Ego mat"
+    },
+    {
+      "id": "nm0017936",
+      "name": "Leonid Alekseev",
+      "character": "Direktor zavoda"
+    },
+    {
+      "id": "nm0468931",
+      "name": "Nikolai Kozlovsky",
+      "character": "Lazarev"
+    },
+    {
+      "id": "nm0805212",
+      "name": "Vladimir Sladkopevtsev",
+      "character": "Morgun"
+    },
+    {
+      "id": "nm0328964",
+      "name": "Yakov Gudkin",
+      "character": "Chutochkin"
+    },
+    {
+      "id": "nm0585270",
+      "name": "Nikolai Michurin",
+      "character": "Master"
+    },
+    {
+      "id": "nm0805618",
+      "name": "Fyodor Slavskiy",
+      "character": "Master"
+    },
+    {
+      "id": "nm0017835",
+      "name": "Pyotr Aleynikov",
+      "character": ""
+    },
+    {
+      "id": "nm0003540",
+      "name": "Nikolay Cherkasov",
+      "character": ""
+    },
+    {
+      "id": "nm0299540",
+      "name": "Zoya Fyodorova",
+      "character": ""
+    },
+    {
+      "id": "nm0472989",
+      "name": "Stepan Krylov",
+      "character": ""
+    }
+  ],
+  "countries": [
+    "Soviet Union"
+  ],
+  "languages": [
+    "Russian"
+  ],
+  "color": "Black and White",
+  "year": 1932,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODA1YWY3NGItMWNkOC00NDBkLWI5NzItMWVkZTQ5YjJkMjE0XkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 221671,
+  "original_title": "Vstrechnyy",
+  "ratings": {
+    "imdb": {
+      "rating": 6.4,
+      "votes": 99,
+      "distribution": {
+        "1": 9,
+        "2": 5,
+        "3": 4,
+        "4": 2,
+        "5": 16,
+        "6": 20,
+        "7": 15,
+        "8": 9,
+        "9": 5,
+        "10": 14
+      },
+      "normalized": 5.2017
+    },
+    "filmweb": {
+      "rating": 4.54,
+      "votes": 13,
+      "distribution": {
+        "2": 3,
+        "3": 3,
+        "4": 0,
+        "5": 2,
+        "6": 2,
+        "7": 2,
+        "8": 1,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 4.9403
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "19.10.2005",
+      "normalized": 4.5781
+    },
+    "score": 4.9067
+  },
+  "polish_title": "Turbina 50000",
+  "silent": false,
+  "composers": [
+    {
+      "id": "nm0006291",
+      "name": "Dmitri Shostakovich"
+    }
+  ],
+  "fetched_at": "2026-08-15"
+}

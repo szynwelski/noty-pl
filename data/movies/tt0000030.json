@@ -1,0 +1,90 @@
+{
+  "imdb_id": "tt0000030",
+  "title": "Rough Sea at Dover",
+  "description": "The sea is quite rough, and at Dover a series of heavy waves pounds against a pier and along the adjacent shoreline. The scene then shifts to a different view of flowing water, and shows a heavy current from a point along a riverbank.",
+  "runtime_minutes": 1,
+  "release_date": "14.01.1896",
+  "genres": [
+    "Documentary",
+    "Short"
+  ],
+  "directors": [
+    {
+      "id": "nm0010291",
+      "name": "Birt Acres"
+    },
+    {
+      "id": "nm0666972",
+      "name": "Robert W. Paul"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 220691,
+  "year": 1895,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNmU1MWVjMTItODQ0Yi00Nzg0LWJhYmMtMGNkOTU3NDJmNTZlXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.2,
+      "votes": 1029,
+      "distribution": {
+        "1": 58,
+        "2": 44,
+        "3": 75,
+        "4": 121,
+        "5": 309,
+        "6": 213,
+        "7": 112,
+        "8": 38,
+        "9": 22,
+        "10": 37
+      },
+      "normalized": 3.5862
+    },
+    "filmweb": {
+      "rating": 4.54,
+      "votes": 118,
+      "distribution": {
+        "1": 6,
+        "2": 11,
+        "3": 11,
+        "4": 31,
+        "5": 30,
+        "6": 16,
+        "7": 5,
+        "8": 5,
+        "9": 0,
+        "10": 3
+      },
+      "normalized": 4.0123
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "11.12.2016",
+      "normalized": 4.9718
+    },
+    "score": 4.1901
+  },
+  "polish_title": "Rough Sea at Dover",
+  "silent": true,
+  "description_pl": "Scena pokazująca dość mocno wzburzone morze w Dover. Widzimy jak seria wysokich fal uderza raz po raz w molo.",
+  "producers": [
+    {
+      "id": "nm0010291",
+      "name": "Birt Acres"
+    },
+    {
+      "id": "nm0666972",
+      "name": "Robert W. Paul"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-15"
+}

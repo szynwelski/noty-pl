@@ -1,0 +1,195 @@
+{
+  "imdb_id": "tt0008133",
+  "title": "The Immigrant",
+  "description": "Charlie is an immigrant who endures a challenging voyage and gets into trouble as soon as he arrives in America.",
+  "runtime_minutes": 30,
+  "release_date": "17.06.1917",
+  "genres": [
+    "Short",
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0000122",
+      "name": "Charles Chaplin"
+    },
+    {
+      "id": "nm0701012",
+      "name": "Edna Purviance"
+    },
+    {
+      "id": "nm0132444",
+      "name": "Eric Campbell"
+    },
+    {
+      "id": "nm0042317",
+      "name": "Albert Austin"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000122",
+      "name": "Charles Chaplin"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000122",
+      "name": "Charles Chaplin"
+    },
+    {
+      "id": "nm0117018",
+      "name": "Vincent Bryan"
+    },
+    {
+      "id": "nm1176713",
+      "name": "Maverick Terrell"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000122",
+      "name": "Charles Chaplin",
+      "character": "Immigrant"
+    },
+    {
+      "id": "nm0701012",
+      "name": "Edna Purviance",
+      "character": "Immigrant"
+    },
+    {
+      "id": "nm0132444",
+      "name": "Eric Campbell",
+      "character": "Head Waiter"
+    },
+    {
+      "id": "nm0042317",
+      "name": "Albert Austin",
+      "character": "Russian"
+    },
+    {
+      "id": "nm0074788",
+      "name": "Henry Bergman",
+      "character": "Artist"
+    },
+    {
+      "id": "nm0102901",
+      "name": "Kitty Bradbury",
+      "character": "Edna's mother"
+    },
+    {
+      "id": "nm0171035",
+      "name": "Frank J. Coleman",
+      "character": "Bearded cheating gambler"
+    },
+    {
+      "id": "nm0318981",
+      "name": "William Gillespie",
+      "character": "Café violinist"
+    },
+    {
+      "id": "nm0364361",
+      "name": "Tom Harrington",
+      "character": "Marriage registrar"
+    },
+    {
+      "id": "nm0445920",
+      "name": "James T. Kelley",
+      "character": "Shabby man in restaurant"
+    },
+    {
+      "id": "nm0709466",
+      "name": "John Rand",
+      "character": "Tipsy diner"
+    },
+    {
+      "id": "nm0838413",
+      "name": "Janet Sully",
+      "character": "Passenger"
+    },
+    {
+      "id": "nm0881022",
+      "name": "Loyal Underwood",
+      "character": "Pint-sized passenger"
+    },
+    {
+      "id": "nm0934232",
+      "name": "Tom Wilson",
+      "character": "Gambler on ship"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": null,
+  "filmweb_id": 91781,
+  "year": 1917,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYTIwMGVmNTAtOGMxMC00ZTYzLWI1ZTQtZGIzZDhiM2MxZDdkXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.5,
+      "votes": 10043,
+      "distribution": {
+        "1": 83,
+        "2": 25,
+        "3": 47,
+        "4": 119,
+        "5": 373,
+        "6": 1009,
+        "7": 2832,
+        "8": 3358,
+        "9": 1144,
+        "10": 1053
+      },
+      "normalized": 6.3308
+    },
+    "filmweb": {
+      "rating": 7.39,
+      "votes": 2137,
+      "distribution": {
+        "1": 5,
+        "2": 2,
+        "3": 10,
+        "4": 26,
+        "5": 86,
+        "6": 288,
+        "7": 736,
+        "8": 672,
+        "9": 159,
+        "10": 153
+      },
+      "normalized": 6.2045
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "29.10.2007",
+      "normalized": 6.3474
+    },
+    "score": 6.2942
+  },
+  "polish_title": "Imigrant",
+  "silent": true,
+  "description_pl": "Słodko gorzka love story z wątkiem imigracyjnym w tle. Oparty na osobistych przeżyciach <a href=\"/osoba/?id=nm0000122\">Chaplina</a> \"Imigrant\" opowiada historię pary, która poznaje się w drodze do Ameryki, gdzie oboje mają nadzieję na lepsze życie. Wkrótce przekonują się, że znalezienie swojego miejsca w ziemi obiecanej nie jest usłane różami.",
+  "producers": [
+    {
+      "id": "nm1291522",
+      "name": "Henry P. Caulfield"
+    },
+    {
+      "id": "nm0000122",
+      "name": "Charles Chaplin"
+    },
+    {
+      "id": "nm1680524",
+      "name": "John Jasper"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-15"
+}

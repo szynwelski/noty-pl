@@ -1,0 +1,212 @@
+{
+  "imdb_id": "tt0056194",
+  "title": "The Loneliness of the Long Distance Runner",
+  "description": "A young thief takes up long-distance running when he is sent to a borstal.",
+  "runtime_minutes": 104,
+  "release_date": "08.10.1962",
+  "genres": [
+    "Drama",
+    "Sport"
+  ],
+  "stars": [
+    {
+      "id": "nm0714878",
+      "name": "Michael Redgrave"
+    },
+    {
+      "id": "nm0183822",
+      "name": "Tom Courtenay"
+    },
+    {
+      "id": "nm0120517",
+      "name": "Avis Bunnage"
+    },
+    {
+      "id": "nm0566680",
+      "name": "Alec McCowen"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0724798",
+      "name": "Tony Richardson"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0798105",
+      "name": "Alan Sillitoe"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0714878",
+      "name": "Michael Redgrave",
+      "character": "Ruxton Towers Reformatory Governor"
+    },
+    {
+      "id": "nm0183822",
+      "name": "Tom Courtenay",
+      "character": "Colin Smith"
+    },
+    {
+      "id": "nm0120517",
+      "name": "Avis Bunnage",
+      "character": "Mrs. Smith"
+    },
+    {
+      "id": "nm0566680",
+      "name": "Alec McCowen",
+      "character": "Mr. Brown"
+    },
+    {
+      "id": "nm0092639",
+      "name": "James Bolam",
+      "character": "Mike"
+    },
+    {
+      "id": "nm0732750",
+      "name": "Joe Robinson",
+      "character": "Mr. Roach"
+    },
+    {
+      "id": "nm0911497",
+      "name": "Dervis Ward",
+      "character": "Detective"
+    },
+    {
+      "id": "nm0417429",
+      "name": "Topsy Jane",
+      "character": "Audrey"
+    },
+    {
+      "id": "nm0287905",
+      "name": "Julia Foster",
+      "character": "Gladys"
+    },
+    {
+      "id": "nm0042500",
+      "name": "Ray Austin",
+      "character": "Harry Craig"
+    },
+    {
+      "id": "nm1794593",
+      "name": "Ernest Blyth",
+      "character": "Army Officer at Sports Day"
+    },
+    {
+      "id": "nm0639367",
+      "name": "Jim Brady",
+      "character": "Man in Cafe"
+    },
+    {
+      "id": "nm0111818",
+      "name": "John Brooking",
+      "character": "Green"
+    },
+    {
+      "id": "nm0119978",
+      "name": "John Bull",
+      "character": "Ronalds"
+    },
+    {
+      "id": "nm0129051",
+      "name": "James Cairncross",
+      "character": "Mr. Jones"
+    },
+    {
+      "id": "nm0147048",
+      "name": "Dallas Cavell",
+      "character": "Lord Jaspers"
+    },
+    {
+      "id": "nm0241017",
+      "name": "Peter Duguid",
+      "character": "Doctor"
+    },
+    {
+      "id": "nm0245697",
+      "name": "Charles Dyer",
+      "character": "Bit Part"
+    }
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 32309,
+  "year": 1962,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZDM3MDA5NGMtZDQ1Yi00ZjdhLTgxNzgtY2UyN2RmNzg2YmZjXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.5,
+      "votes": 10064,
+      "distribution": {
+        "1": 102,
+        "2": 46,
+        "3": 59,
+        "4": 150,
+        "5": 397,
+        "6": 1103,
+        "7": 2530,
+        "8": 3352,
+        "9": 1337,
+        "10": 988
+      },
+      "normalized": 6.332
+    },
+    "filmweb": {
+      "rating": 7.53,
+      "votes": 5856,
+      "distribution": {
+        "1": 34,
+        "2": 14,
+        "3": 35,
+        "4": 75,
+        "5": 200,
+        "6": 582,
+        "7": 1661,
+        "8": 2115,
+        "9": 836,
+        "10": 304
+      },
+      "normalized": 6.6776
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "27.12.2008",
+      "normalized": 6.3474
+    },
+    "score": 6.4523
+  },
+  "polish_title": "Samotność długodystansowca",
+  "silent": false,
+  "description_pl": "Osiemnastoletni Colin Smith trafia do domu poprawczego. Sportowa gwiazda zakładu, mistrz długich dystansów dostrzegając fałsz i zakłamanie w codziennych postawach tak i wychowawców, jak i wychowanków, buntuje się przeciw zastałemu porządkowi. \"Uważam, że postać Colina to ja sam. Jego samotność jest taka sama jak moja - samotność artysty, który musi walczyć, albo zaprzedać się\" - powiedział Alan Sillitoe.",
+  "producers": [
+    {
+      "id": "nm1668256",
+      "name": "Michael Holden"
+    },
+    {
+      "id": "nm0724798",
+      "name": "Tony Richardson"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0011709",
+      "name": "John Addison"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0007178",
+      "name": "Walter Lassally"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

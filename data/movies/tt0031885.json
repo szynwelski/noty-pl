@@ -1,0 +1,208 @@
+{
+  "imdb_id": "tt0031885",
+  "title": "The Rules of the Game",
+  "description": "A bourgeois life in France at the onset of World War II, as the rich and their poor servants meet up at a French chateau.",
+  "runtime_minutes": 110,
+  "release_date": "08.04.1950",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0197950",
+      "name": "Marcel Dalio"
+    },
+    {
+      "id": "nm0339669",
+      "name": "Nora Gregor"
+    },
+    {
+      "id": "nm0239513",
+      "name": "Paulette Dubost"
+    },
+    {
+      "id": "nm0664186",
+      "name": "Mila Parély"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0719756",
+      "name": "Jean Renoir"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0719756",
+      "name": "Jean Renoir"
+    },
+    {
+      "id": "nm0002569",
+      "name": "Carl Koch"
+    },
+    {
+      "id": "nm0064559",
+      "name": "Beaumarchais"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0197950",
+      "name": "Marcel Dalio",
+      "character": "Robert de la Chesnaye"
+    },
+    {
+      "id": "nm0339669",
+      "name": "Nora Gregor",
+      "character": "Christine de la Chesnaye"
+    },
+    {
+      "id": "nm0239513",
+      "name": "Paulette Dubost",
+      "character": "Lisette, sa camériste"
+    },
+    {
+      "id": "nm0664186",
+      "name": "Mila Parély",
+      "character": "Geneviève de Marras"
+    },
+    {
+      "id": "nm0847851",
+      "name": "Odette Talazac",
+      "character": "Mme de la Plante"
+    },
+    {
+      "id": "nm0350789",
+      "name": "Claire Gérard",
+      "character": "Mme de la Bruyère"
+    },
+    {
+      "id": "nm0562309",
+      "name": "Anne Mayen",
+      "character": "Jackie, nièce de Christine"
+    },
+    {
+      "id": "nm0253619",
+      "name": "Lise Elina",
+      "character": "Radio-Reporter"
+    },
+    {
+      "id": "nm0136853",
+      "name": "Julien Carette",
+      "character": "Marceau, le braconnier"
+    },
+    {
+      "id": "nm0869765",
+      "name": "Roland Toutain",
+      "character": "André Jurieux"
+    },
+    {
+      "id": "nm0595321",
+      "name": "Gaston Modot",
+      "character": "Schumacher, le garde-chasse"
+    },
+    {
+      "id": "nm0719756",
+      "name": "Jean Renoir",
+      "character": "Octave"
+    },
+    {
+      "id": "nm0536252",
+      "name": "Pierre Magnier",
+      "character": "Le général"
+    },
+    {
+      "id": "nm0213532",
+      "name": "Eddy Debray",
+      "character": "Corneille, le majordome"
+    },
+    {
+      "id": "nm0623211",
+      "name": "Pierre Nay",
+      "character": "St. Aubin"
+    },
+    {
+      "id": "nm0290670",
+      "name": "Richard Francoeur",
+      "character": "La Bruyère"
+    },
+    {
+      "id": "nm0488216",
+      "name": "Léon Larive",
+      "character": "Le cuisinier"
+    },
+    {
+      "id": "nm0024177",
+      "name": "Nicolas Amato",
+      "character": "L'invité sud-américain"
+    }
+  ],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "French",
+    "German",
+    "English"
+  ],
+  "color": "Black and White",
+  "year": 1939,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzlmNmM0MGMtNzlkYS00OTMzLTgwMTktZTA3ZWMyYWFlYmQ3XkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 111236,
+  "original_title": "La règle du jeu",
+  "ratings": {
+    "imdb": {
+      "rating": 7.9,
+      "votes": 33567,
+      "distribution": {
+        "1": 937,
+        "2": 258,
+        "3": 340,
+        "4": 615,
+        "5": 1266,
+        "6": 2707,
+        "7": 5688,
+        "8": 8069,
+        "9": 6076,
+        "10": 7611
+      },
+      "normalized": 7.1307
+    },
+    "filmweb": {
+      "rating": 7.21,
+      "votes": 1948,
+      "distribution": {
+        "1": 19,
+        "2": 11,
+        "3": 32,
+        "4": 53,
+        "5": 134,
+        "6": 265,
+        "7": 521,
+        "8": 557,
+        "9": 235,
+        "10": 121
+      },
+      "normalized": 5.8698
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "19.10.2005",
+      "normalized": 7.2292
+    },
+    "score": 6.7432
+  },
+  "polish_title": "Reguły gry",
+  "silent": false,
+  "description_pl": "Pilot André jest zakochany bez wzajemności w arystokratce Christine de la Cheyniest, którą mąż, markiz Robert, zdradza z inną kobietą. Cała czwórka nie może uciec z sieci kłamstw. Przyjaciel André, Octave, namawia Roberta, aby wszyscy spotkali się na wielkim polowaniu urządzonym koło zamku markiza. Zbiera się tam cały przekrój społeczeństwa francuskiego sprzed drugiej wojny światowej. Intrygi zagęszczają się...",
+  "cinematographers": [
+    {
+      "id": "nm0045404",
+      "name": "Jean Bachelet"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-15"
+}

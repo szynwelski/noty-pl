@@ -1,0 +1,234 @@
+{
+  "imdb_id": "tt0175880",
+  "title": "Magnolia",
+  "description": "An epic mosaic of interrelated characters search for love, forgiveness and meaning in the San Fernando Valley.",
+  "runtime_minutes": 188,
+  "release_date": "07.01.2000",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0000129",
+      "name": "Tom Cruise"
+    },
+    {
+      "id": "nm0001673",
+      "name": "Jason Robards"
+    },
+    {
+      "id": "nm0000194",
+      "name": "Julianne Moore"
+    },
+    {
+      "id": "nm0000450",
+      "name": "Philip Seymour Hoffman"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000759",
+      "name": "Paul Thomas Anderson"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000759",
+      "name": "Paul Thomas Anderson"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000129",
+      "name": "Tom Cruise",
+      "character": "Frank T.J. Mackey"
+    },
+    {
+      "id": "nm0001673",
+      "name": "Jason Robards",
+      "character": "Earl Partridge"
+    },
+    {
+      "id": "nm0000194",
+      "name": "Julianne Moore",
+      "character": "Linda Partridge"
+    },
+    {
+      "id": "nm0372366",
+      "name": "Pat Healy",
+      "character": "Sir Edmund William Godfrey"
+    },
+    {
+      "id": "nm0959000",
+      "name": "Genevieve Zweig",
+      "character": "Mrs. Godfrey"
+    },
+    {
+      "id": "nm0281073",
+      "name": "Mark Flanagan",
+      "character": "Joseph Green"
+    },
+    {
+      "id": "nm0283568",
+      "name": "Neil Flynn",
+      "character": "Stanley Berry"
+    },
+    {
+      "id": "nm0572125",
+      "name": "Rod McLachlan",
+      "character": "Daniel Hill"
+    },
+    {
+      "id": "nm0333689",
+      "name": "Allan Graf",
+      "character": "Firefighter"
+    },
+    {
+      "id": "nm0652663",
+      "name": "Patton Oswalt",
+      "character": "Delmer Darion"
+    },
+    {
+      "id": "nm0327570",
+      "name": "Raymond 'Big Guy' Gonzales",
+      "character": "Reno Security Guard"
+    },
+    {
+      "id": "nm0402358",
+      "name": "Brad Hunt",
+      "character": "Craig Hansen"
+    },
+    {
+      "id": "nm0002350",
+      "name": "Jim Meskimen",
+      "character": "Forensic Scientist"
+    },
+    {
+      "id": "nm0641233",
+      "name": "Chris O'Hara",
+      "character": "Sydney Barringer"
+    },
+    {
+      "id": "nm0086515",
+      "name": "Clement Blake",
+      "character": "Arthur Barringer"
+    },
+    {
+      "id": "nm0255455",
+      "name": "Frank Elmore",
+      "character": "1958 Detective"
+    },
+    {
+      "id": "nm0782716",
+      "name": "John Kraft Seitz",
+      "character": "1958 Policeman"
+    },
+    {
+      "id": "nm0118339",
+      "name": "Cory Buck",
+      "character": "Young Boy"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French"
+  ],
+  "color": "Color",
+  "filmweb_id": 873,
+  "year": 1999,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOWY0Zjk1YTMtMGFlYi00OTFmLWEyOTAtNmRkYjE0ZDJiZWMwXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8,
+      "votes": 352060,
+      "distribution": {
+        "1": 7594,
+        "2": 3128,
+        "3": 4046,
+        "4": 5740,
+        "5": 10831,
+        "6": 23386,
+        "7": 54731,
+        "8": 97150,
+        "9": 74226,
+        "10": 71228
+      },
+      "normalized": 7.5021
+    },
+    "filmweb": {
+      "rating": 7.47,
+      "votes": 47590,
+      "distribution": {
+        "1": 308,
+        "2": 239,
+        "3": 702,
+        "4": 1034,
+        "5": 2491,
+        "6": 4898,
+        "7": 11589,
+        "8": 14984,
+        "9": 7615,
+        "10": 3730
+      },
+      "normalized": 6.6543
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "02.12.2005",
+      "normalized": 6.4102
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "19.10.2005",
+      "normalized": 7.2292
+    },
+    "score": 6.9489
+  },
+  "polish_title": "Magnolia",
+  "silent": false,
+  "description_pl": "Film o wielowątkowej, mozaikowej konstrukcji. Akcja obejmuje jeden dzień. Bohaterowie spotykają się na ulicach San Fernando. Są wśród nich: starszy pan chory na raka, wybitnie inteligentny chłopiec, na próżno zabiegający o akceptację ze strony ojca, dziewczyna hałaśliwą muzyką zagłuszająca poczucie pustki, kobieta ślepo zapatrzona w swojego męża i zapomniany triumfator popularnych teleturniejów.",
+  "producers": [
+    {
+      "id": "nm0000759",
+      "name": "Paul Thomas Anderson"
+    },
+    {
+      "id": "nm0006894",
+      "name": "Michael De Luca"
+    },
+    {
+      "id": "nm0365036",
+      "name": "Lynn Harris"
+    },
+    {
+      "id": "nm0526917",
+      "name": "Daniel Lupi"
+    },
+    {
+      "id": "nm0783280",
+      "name": "JoAnne Sellar"
+    },
+    {
+      "id": "nm0862664",
+      "name": "Dylan Tichenor"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0109726",
+      "name": "Jon Brion"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005696",
+      "name": "Robert Elswit"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

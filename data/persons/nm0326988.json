@@ -1,0 +1,45 @@
+{
+  "id": "nm0326988",
+  "name": "Carlos Gómez",
+  "filmography": [
+    {
+      "imdb_id": "tt0112851",
+      "title": "Desperado",
+      "year": 1995,
+      "roles": [
+        "cast"
+      ],
+      "character": "Right Hand"
+    },
+    {
+      "imdb_id": "tt0119874",
+      "title": "The Peacemaker",
+      "year": 1997,
+      "roles": [
+        "cast"
+      ],
+      "character": "Santiago"
+    },
+    {
+      "imdb_id": "tt0120768",
+      "title": "The Negotiator",
+      "year": 1998,
+      "roles": [
+        "cast"
+      ],
+      "character": "Eagle"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjg3NDBjMTUtYjlhZC00ZTU4LTg3MTAtZDY2ZGMzNDA1N2FiXkEyXkFqcGc@._V1_.jpg",
+  "birth_location": "New York City, New York, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 2872,
+  "name_pl": "Carlos Gómez",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "birth_date": "01.01.1962",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

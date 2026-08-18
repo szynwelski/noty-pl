@@ -1,0 +1,186 @@
+{
+  "imdb_id": "tt0057611",
+  "title": "The Silence",
+  "description": "Two estranged sisters, Ester and Anna, and Anna's 10-year-old son travel to the Central European country on the verge of war. Ester becomes seriously ill and the three of them move into a hotel in a small town called Timoka.",
+  "runtime_minutes": 96,
+  "release_date": "03.02.1964",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0862026",
+      "name": "Ingrid Thulin"
+    },
+    {
+      "id": "nm0511458",
+      "name": "Gunnel Lindblom"
+    },
+    {
+      "id": "nm0540311",
+      "name": "Birger Malmsten"
+    },
+    {
+      "id": "nm0415720",
+      "name": "Håkan Jahnberg"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000005",
+      "name": "Ingmar Bergman"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000005",
+      "name": "Ingmar Bergman"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0862026",
+      "name": "Ingrid Thulin",
+      "character": "Ester"
+    },
+    {
+      "id": "nm0511458",
+      "name": "Gunnel Lindblom",
+      "character": "Anna"
+    },
+    {
+      "id": "nm0540311",
+      "name": "Birger Malmsten",
+      "character": "The Waiter"
+    },
+    {
+      "id": "nm0512502",
+      "name": "Jörgen Lindström",
+      "character": "Johan"
+    },
+    {
+      "id": "nm0415720",
+      "name": "Håkan Jahnberg",
+      "character": "The Hotel Steward"
+    },
+    {
+      "id": "nm0015957",
+      "name": "Lissi Alandh",
+      "character": "Woman in Variety Hall"
+    },
+    {
+      "id": "nm0074814",
+      "name": "Karl-Arne Bergman",
+      "character": "The Paperboy"
+    },
+    {
+      "id": "nm0286929",
+      "name": "Leif Forstenberg",
+      "character": "Man in Variety Hall"
+    },
+    {
+      "id": "nm0349490",
+      "name": "Eduardo Gutiérrez",
+      "character": "Impressario"
+    },
+    {
+      "id": "nm0436012",
+      "name": "Eskil Kalling",
+      "character": "The Bar Owner"
+    },
+    {
+      "id": "nm0502205",
+      "name": "Birger Lensander",
+      "character": "The Doorkeeper"
+    },
+    {
+      "id": "nm0645988",
+      "name": "Kristina Olausson",
+      "character": "Anna"
+    },
+    {
+      "id": "nm0907345",
+      "name": "Nils Waldt",
+      "character": "The Cashier"
+    },
+    {
+      "id": "nm0927110",
+      "name": "Olof Widgren",
+      "character": "The Old Man"
+    }
+  ],
+  "countries": [
+    "Sweden"
+  ],
+  "languages": [
+    "Swedish",
+    "English",
+    "German",
+    "French",
+    "Spanish"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 30991,
+  "year": 1963,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMThjMDQ2YTMtZjdmNy00NmI2LTliY2EtMTcxM2RjM2JjOGZmXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Tystnaden",
+  "ratings": {
+    "imdb": {
+      "rating": 7.7,
+      "votes": 22816,
+      "distribution": {
+        "1": 229,
+        "2": 193,
+        "3": 229,
+        "4": 374,
+        "5": 804,
+        "6": 1975,
+        "7": 4643,
+        "8": 6879,
+        "9": 3936,
+        "10": 3554
+      },
+      "normalized": 6.7441
+    },
+    "filmweb": {
+      "rating": 7.59,
+      "votes": 7797,
+      "distribution": {
+        "1": 162,
+        "2": 25,
+        "3": 73,
+        "4": 111,
+        "5": 318,
+        "6": 646,
+        "7": 1671,
+        "8": 2668,
+        "9": 1407,
+        "10": 716
+      },
+      "normalized": 6.8723
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "08.12.2005",
+      "normalized": 7.2292
+    },
+    "score": 6.9485
+  },
+  "polish_title": "Milczenie",
+  "silent": false,
+  "description_pl": "Wracając do domu pociągiem, Anna (<a href=\"/osoba/?id=nm0511458\">Gunnel Lindblom</a>), jej syn Johan (<a href=\"/osoba/?id=nm0512502\">Jörgen Lindström</a>) i siostra Ester (<a href=\"/osoba/?id=nm0862026\">Ingrid Thulin</a>), która jest poważnie chora, zatrzymują się w obcym raju i decydują się na pobyt w hotelu, dopóki Ester nie wyzdrowieje. Mimo że jest ona tłumaczką, nie mówi w języku miejscowych, więc cała trójka komunikuje się z ludźmi za pomocą gestykulacji. Różnice charakterów powodują, że kobiety są emocjonalnie odseparowane od siebie. W rezultacie konflikt pomiędzy nimi stopniowo narasta. Tymczasem Johan skupia się na zwiedzaniu hotelu.",
+  "composers": [
+    {
+      "id": "nm0719582",
+      "name": "Ivan Renliden"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005815",
+      "name": "Sven Nykvist"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

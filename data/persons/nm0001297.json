@@ -1,0 +1,39 @@
+{
+  "id": "nm0001297",
+  "name": "Joel Grey",
+  "filmography": [
+    {
+      "imdb_id": "tt0068327",
+      "title": "Cabaret",
+      "year": 1972,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Master of Ceremonies"
+    },
+    {
+      "imdb_id": "tt0168629",
+      "title": "Dancer in the Dark",
+      "year": 2000,
+      "roles": [
+        "cast"
+      ],
+      "character": "Oldrich Novy"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTkwMDY3MTY4OV5BMl5BanBnXkFtZTcwMjUxMzc1MQ@@._V1_.jpg",
+  "birth_date": "11.04.1932",
+  "birth_location": "Cleveland, Ohio, USA",
+  "height": "1.63 m",
+  "imdb_scraped": true,
+  "filmweb_id": 10068,
+  "name_pl": "Joel Grey",
+  "birth_location_pl": "Cleveland, Ohio",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 10068
+}

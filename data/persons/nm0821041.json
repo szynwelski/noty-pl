@@ -1,0 +1,40 @@
+{
+  "id": "nm0821041",
+  "name": "Robert Stack",
+  "filmography": [
+    {
+      "imdb_id": "tt0035446",
+      "title": "To Be or Not to Be",
+      "year": 1942,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Lieutenant Stanislav Sobinski"
+    },
+    {
+      "imdb_id": "tt0080339",
+      "title": "Airplane!",
+      "year": 1980,
+      "roles": [
+        "cast"
+      ],
+      "character": "Captain Rex Kramer"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTE5ODNkNDQtNjVmNy00YTlhLWI0YmMtYzhkODFmZjY1ODA1XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "13.01.1919",
+  "death_date": "14.05.2003",
+  "birth_location": "Los Angeles, California, USA",
+  "height": "1.81 m",
+  "imdb_scraped": true,
+  "filmweb_id": 42416,
+  "name_pl": "Robert Stack",
+  "birth_location_pl": "Los Angeles, Kalifornia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 42416
+}

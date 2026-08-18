@@ -1,0 +1,168 @@
+{
+  "imdb_id": "tt0000420",
+  "title": "Alice in Wonderland",
+  "description": "This is the first movie version of the famous story. Alice dozes in a garden, awakened by a dithering white rabbit in waistcoat with pocket watch. She follows him down a hole and finds herself in a hall of many doors.",
+  "runtime_minutes": 9,
+  "release_date": "17.10.1903",
+  "genres": [
+    "Short",
+    "Family",
+    "Fantasy"
+  ],
+  "stars": [
+    {
+      "id": "nm0164281",
+      "name": "May Clark"
+    },
+    {
+      "id": "nm0378408",
+      "name": "Cecil M. Hepworth"
+    },
+    {
+      "id": "nm1012587",
+      "name": "Blair"
+    },
+    {
+      "id": "nm0265714",
+      "name": "Geoffrey Faithfull"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0378408",
+      "name": "Cecil M. Hepworth"
+    },
+    {
+      "id": "nm0832948",
+      "name": "Percy Stow"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0140902",
+      "name": "Lewis Carroll"
+    },
+    {
+      "id": "nm0378408",
+      "name": "Cecil M. Hepworth"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0164281",
+      "name": "May Clark",
+      "character": "Alice"
+    },
+    {
+      "id": "nm0378408",
+      "name": "Cecil M. Hepworth",
+      "character": "Frog"
+    },
+    {
+      "id": "nm1012587",
+      "name": "Blair",
+      "character": "Large Dog"
+    },
+    {
+      "id": "nm0265714",
+      "name": "Geoffrey Faithfull",
+      "character": "Card"
+    },
+    {
+      "id": "nm1539007",
+      "name": "Stanley Faithfull",
+      "character": "Card"
+    },
+    {
+      "id": "nm1539443",
+      "name": "Mrs. Hepworth",
+      "character": "White Rabbit"
+    },
+    {
+      "id": "nm0926498",
+      "name": "Norman Whitten",
+      "character": "Fish"
+    }
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 188070,
+  "year": 1903,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZjhmZmNiOWItYTk1Yy00OWM1LTgzZTYtMzIzMzA2MGZmMDMyXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.2,
+      "votes": 3218,
+      "distribution": {
+        "1": 59,
+        "2": 40,
+        "3": 73,
+        "4": 175,
+        "5": 486,
+        "6": 1009,
+        "7": 776,
+        "8": 334,
+        "9": 91,
+        "10": 175
+      },
+      "normalized": 4.2175
+    },
+    "filmweb": {
+      "rating": 6.57,
+      "votes": 1490,
+      "distribution": {
+        "1": 6,
+        "2": 10,
+        "3": 37,
+        "4": 81,
+        "5": 167,
+        "6": 372,
+        "7": 453,
+        "8": 240,
+        "9": 70,
+        "10": 54
+      },
+      "normalized": 4.6197
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "15.12.2016",
+      "normalized": 7.1247
+    },
+    "score": 5.3206
+  },
+  "polish_title": "Alicja w Krainie Czarów",
+  "silent": true,
+  "producers": [
+    {
+      "id": "nm1349938",
+      "name": "Herman Casler"
+    },
+    {
+      "id": "nm0378408",
+      "name": "Cecil M. Hepworth"
+    },
+    {
+      "id": "nm3176542",
+      "name": "Elias Koopman"
+    },
+    {
+      "id": "nm3176008",
+      "name": "Harry Marvin"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0378408",
+      "name": "Cecil M. Hepworth"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-15"
+}

@@ -1,0 +1,241 @@
+{
+  "imdb_id": "tt0116209",
+  "title": "The English Patient",
+  "description": "At the close of World War II, a young nurse tends to a badly burned plane crash victim. His past is shown in flashbacks, revealing an involvement in a fateful love affair.",
+  "runtime_minutes": 162,
+  "release_date": "06.12.1996",
+  "genres": [
+    "Drama",
+    "Romance",
+    "War"
+  ],
+  "stars": [
+    {
+      "id": "nm0000146",
+      "name": "Ralph Fiennes"
+    },
+    {
+      "id": "nm0000300",
+      "name": "Juliette Binoche"
+    },
+    {
+      "id": "nm0000353",
+      "name": "Willem Dafoe"
+    },
+    {
+      "id": "nm0000218",
+      "name": "Kristin Scott Thomas"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0005237",
+      "name": "Anthony Minghella"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0648546",
+      "name": "Michael Ondaatje"
+    },
+    {
+      "id": "nm0005237",
+      "name": "Anthony Minghella"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000146",
+      "name": "Ralph Fiennes",
+      "character": "Almásy"
+    },
+    {
+      "id": "nm0000300",
+      "name": "Juliette Binoche",
+      "character": "Hana"
+    },
+    {
+      "id": "nm0000353",
+      "name": "Willem Dafoe",
+      "character": "Caravaggio"
+    },
+    {
+      "id": "nm0000218",
+      "name": "Kristin Scott Thomas",
+      "character": "Katharine Clifton"
+    },
+    {
+      "id": "nm0004710",
+      "name": "Naveen Andrews",
+      "character": "Kip"
+    },
+    {
+      "id": "nm0000147",
+      "name": "Colin Firth",
+      "character": "Geoffrey Clifton"
+    },
+    {
+      "id": "nm0905554",
+      "name": "Julian Wadham",
+      "character": "Madox"
+    },
+    {
+      "id": "nm0001638",
+      "name": "Jürgen Prochnow",
+      "character": "Major Muller"
+    },
+    {
+      "id": "nm0923610",
+      "name": "Kevin Whately",
+      "character": "Hardy"
+    },
+    {
+      "id": "nm0581378",
+      "name": "Clive Merrison",
+      "character": "Fenelon-Barnes"
+    },
+    {
+      "id": "nm0144875",
+      "name": "Nino Castelnuovo",
+      "character": "D'Agostino"
+    },
+    {
+      "id": "nm0744599",
+      "name": "Hichem Rostom",
+      "character": "Fouad"
+    },
+    {
+      "id": "nm0754125",
+      "name": "Peter Rühring",
+      "character": "Bermann"
+    },
+    {
+      "id": "nm0425132",
+      "name": "Geordie Johnson",
+      "character": "Oliver"
+    },
+    {
+      "id": "nm0383533",
+      "name": "Torri Higginson",
+      "character": "Mary"
+    },
+    {
+      "id": "nm0720082",
+      "name": "Liisa Repo-Martell",
+      "character": "Jan"
+    },
+    {
+      "id": "nm0183557",
+      "name": "Raymond Coulthard",
+      "character": "Rupert Douglas"
+    },
+    {
+      "id": "nm0924360",
+      "name": "Philip Whitchurch",
+      "character": "Corporal Dade"
+    }
+  ],
+  "countries": [
+    "United Kingdom",
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Italian",
+    "Arabic"
+  ],
+  "color": "Color",
+  "filmweb_id": 7,
+  "year": 1996,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODg0NjdiN2UtZWY3MS00M2JmLTg1MDAtY2ZiNzNiMzAzYWFmXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.4,
+      "votes": 214804,
+      "distribution": {
+        "1": 4173,
+        "2": 2351,
+        "3": 3135,
+        "4": 5193,
+        "5": 10538,
+        "6": 23100,
+        "7": 51573,
+        "8": 54714,
+        "9": 30847,
+        "10": 29180
+      },
+      "normalized": 6.2651
+    },
+    "filmweb": {
+      "rating": 7.38,
+      "votes": 75127,
+      "distribution": {
+        "1": 384,
+        "2": 350,
+        "3": 1032,
+        "4": 1638,
+        "5": 3978,
+        "6": 8769,
+        "7": 20675,
+        "8": 23404,
+        "9": 9577,
+        "10": 5320
+      },
+      "normalized": 6.4412
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "22.07.2009",
+      "normalized": 4.5781
+    },
+    "score": 5.7615
+  },
+  "polish_title": "Angielski pacjent",
+  "silent": false,
+  "description_pl": "Rok 1943, trwa wojna w Afryce. Nad pustynią szybuje mały samolot sportowy, zostaje zestrzelony przez Niemców. Poparzony pilot trafia do angielskiego szpitala i wspomina swe życie przed wojną, kiedy przebywał w Afryce z grupą angielskich kartografów.",
+  "producers": [
+    {
+      "id": "nm0028861",
+      "name": "Steve E. Andrews"
+    },
+    {
+      "id": "nm0339224",
+      "name": "Scott Greenstein"
+    },
+    {
+      "id": "nm0902764",
+      "name": "Alessandro von Norman"
+    },
+    {
+      "id": "nm0918424",
+      "name": "Bob Weinstein"
+    },
+    {
+      "id": "nm0005544",
+      "name": "Harvey Weinstein"
+    },
+    {
+      "id": "nm0951762",
+      "name": "Paul Zaentz"
+    },
+    {
+      "id": "nm0951763",
+      "name": "Saul Zaentz"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0001189",
+      "name": "Gabriel Yared"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005868",
+      "name": "John Seale"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,151 @@
+{
+  "imdb_id": "tt0241776",
+  "title": "The Hunchback of Notre Dame",
+  "description": "1911 adaption of \"The Hunchback of Notre Dame\" in which three men around the Notre Dame Cathedral are romantically interested in Esmeralda, a Romani girl: Commander Phöebus, Quasimodo the bell ringer and archdeacon Claude Frollo.",
+  "runtime_minutes": 36,
+  "release_date": "1911",
+  "genres": [
+    "Short",
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0470307",
+      "name": "Henry Krauss"
+    },
+    {
+      "id": "nm0621051",
+      "name": "Stacia Napierkowska"
+    },
+    {
+      "id": "nm0018885",
+      "name": "René Alexandre"
+    },
+    {
+      "id": "nm0308551",
+      "name": "Claude Garry"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0135052",
+      "name": "Albert Capellani"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0141150",
+      "name": "Michel Carré"
+    },
+    {
+      "id": "nm0401076",
+      "name": "Victor Hugo"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0470307",
+      "name": "Henry Krauss",
+      "character": "Quasimodo"
+    },
+    {
+      "id": "nm0621051",
+      "name": "Stacia Napierkowska",
+      "character": "Esmeralda"
+    },
+    {
+      "id": "nm0018885",
+      "name": "René Alexandre",
+      "character": "Phoebus de Châteaupers"
+    },
+    {
+      "id": "nm0308551",
+      "name": "Claude Garry",
+      "character": "Claude Frollo"
+    },
+    {
+      "id": "nm0029671",
+      "name": "Jean Angelo",
+      "character": ""
+    },
+    {
+      "id": "nm0135053",
+      "name": "Paul Capellani",
+      "character": ""
+    },
+    {
+      "id": "nm0206312",
+      "name": "Jean Dax",
+      "character": ""
+    },
+    {
+      "id": "nm0617787",
+      "name": "Mévisto",
+      "character": ""
+    }
+  ],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "None",
+    "French"
+  ],
+  "color": "Black and White",
+  "year": 1911,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNWIwOWYwMzktMDBlYy00MDczLWIxYzctNTFmMTVkODc5MmU0XkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 383588,
+  "original_title": "Notre-Dame de Paris",
+  "ratings": {
+    "imdb": {
+      "rating": 5.4,
+      "votes": 110,
+      "distribution": {
+        "1": 9,
+        "2": 5,
+        "3": 5,
+        "4": 9,
+        "5": 29,
+        "6": 27,
+        "7": 11,
+        "8": 5,
+        "9": 5,
+        "10": 5
+      },
+      "normalized": 4.9781
+    },
+    "filmweb": {
+      "rating": 6.61,
+      "votes": 57,
+      "distribution": {
+        "2": 0,
+        "3": 0,
+        "4": 4,
+        "5": 8,
+        "6": 16,
+        "7": 16,
+        "8": 8,
+        "9": 1,
+        "10": 4
+      },
+      "normalized": 5.1146
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "18.11.2007",
+      "normalized": 5.4199
+    },
+    "score": 5.1709
+  },
+  "polish_title": "Dzwonnik z Notre Dame",
+  "silent": true,
+  "cinematographers": [
+    {
+      "id": "nm1761548",
+      "name": "Pierre Trimbach"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

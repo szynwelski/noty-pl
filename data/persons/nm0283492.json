@@ -1,0 +1,47 @@
+{
+  "id": "nm0283492",
+  "name": "Jerome Flynn",
+  "filmography": [
+    {
+      "imdb_id": "tt0944947",
+      "title": "Game of Thrones",
+      "year": 2011,
+      "roles": [
+        "cast"
+      ],
+      "character": "Bronn"
+    },
+    {
+      "imdb_id": "tt5709230",
+      "title": "Shut Up and Dance",
+      "year": 2016,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Hector"
+    },
+    {
+      "imdb_id": "tt6146586",
+      "title": "John Wick: Chapter 3 - Parabellum",
+      "year": 2019,
+      "roles": [
+        "cast"
+      ],
+      "character": "Berrada"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjMxMTE3Nzg1N15BMl5BanBnXkFtZTgwNTc2MTk4MjI@._V1_.jpg",
+  "birth_date": "16.03.1963",
+  "birth_location": "Bromley, Kent, England, UK",
+  "height": "1.83 m",
+  "filmweb_id": 51234,
+  "name_pl": "Jerome Flynn",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "nm0205063",
+  "name": "Lucy Davis",
+  "filmography": [
+    {
+      "imdb_id": "tt0112130",
+      "title": "Pride and Prejudice",
+      "year": 1995,
+      "roles": [
+        "cast"
+      ],
+      "character": "Maria Lucas"
+    },
+    {
+      "imdb_id": "tt0365748",
+      "title": "Shaun of the Dead",
+      "year": 2004,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Dianne"
+    },
+    {
+      "imdb_id": "tt0451279",
+      "title": "Wonder Woman",
+      "year": 2017,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Etta"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjIwMzE4MzQ5NV5BMl5BanBnXkFtZTgwOTk0NzM4NjM@._V1_.jpg",
+  "birth_date": "17.02.1973",
+  "birth_location": "Solihull, West Midlands, England, UK",
+  "height": "1.57 m",
+  "filmweb_id": 130451,
+  "name_pl": "Lucy Davis",
+  "birth_location_pl": "Solihull, Anglia",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 130451
+}

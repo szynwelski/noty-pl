@@ -1,0 +1,47 @@
+{
+  "id": "nm0094435",
+  "name": "Bong Joon Ho",
+  "filmography": [
+    {
+      "imdb_id": "tt0353969",
+      "title": "Memories of Murder",
+      "year": 2003,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt1706620",
+      "title": "Snowpiercer",
+      "year": 2013,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt6751668",
+      "title": "Parasite",
+      "year": 2019,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYmZhZTY3ZGEtOTA1ZC00ODcwLTg2ZjMtODViNzIwNzAxMDVmXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "14.09.1969",
+  "birth_location": "Daegu, South Korea",
+  "height": "1.82 m",
+  "filmweb_id": 181531,
+  "name_pl": "Joon-ho Bong",
+  "birth_location_pl": "Daegu",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Korea Południowa"
+  ],
+  "wikidata_fw_id": 181531
+}

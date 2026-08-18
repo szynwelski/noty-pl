@@ -1,0 +1,44 @@
+{
+  "id": "nm0000743",
+  "name": "Néstor Almendros",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDJiMTZjYmEtNDAzMy00Y2ZiLWI3ZTctZGU4YzAwMzRkZjk4XkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0077405",
+      "title": "Days of Heaven",
+      "year": 1978,
+      "roles": [
+        "cinematographer"
+      ]
+    },
+    {
+      "imdb_id": "tt0079417",
+      "title": "Kramer vs. Kramer",
+      "year": 1979,
+      "roles": [
+        "cinematographer"
+      ]
+    },
+    {
+      "imdb_id": "tt0080610",
+      "title": "The Last Metro",
+      "year": 1980,
+      "roles": [
+        "cinematographer"
+      ]
+    }
+  ],
+  "birth_date": "30.10.1930",
+  "death_date": "04.03.1992",
+  "birth_location": "Barcelona, Barcelona, Catalonia, Spain",
+  "filmweb_id": 12974,
+  "name_pl": "Néstor Almendros",
+  "birth_location_pl": "Barcelona",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Hiszpania"
+  ],
+  "wikidata_fw_id": 12974
+}

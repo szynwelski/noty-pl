@@ -1,0 +1,237 @@
+{
+  "imdb_id": "tt0120274",
+  "title": "Tango",
+  "description": "Mario Suarez is a forty-something tango artist, whose wife Laura has left him. He leaves his apartment and starts preparing a film about tango.",
+  "runtime_minutes": 115,
+  "release_date": "12.02.1999",
+  "genres": [
+    "Drama",
+    "Musical"
+  ],
+  "stars": [
+    {
+      "id": "nm0813691",
+      "name": "Miguel Ángel Solá"
+    },
+    {
+      "id": "nm0621507",
+      "name": "Cecilia Narova"
+    },
+    {
+      "id": "nm0535502",
+      "name": "Mía Maestro"
+    },
+    {
+      "id": "nm0178690",
+      "name": "Juan Carlos Copes"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0767022",
+      "name": "Carlos Saura"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0767022",
+      "name": "Carlos Saura"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0813691",
+      "name": "Miguel Ángel Solá",
+      "character": "Mario Suárez"
+    },
+    {
+      "id": "nm0621507",
+      "name": "Cecilia Narova",
+      "character": "Laura Fuentes"
+    },
+    {
+      "id": "nm0535502",
+      "name": "Mía Maestro",
+      "character": "Elena Flores"
+    },
+    {
+      "id": "nm0178690",
+      "name": "Juan Carlos Copes",
+      "character": "Carlos Nebbia"
+    },
+    {
+      "id": "nm0729017",
+      "name": "Carlos Rivarola",
+      "character": "Ernesto Landi"
+    },
+    {
+      "id": "nm0050807",
+      "name": "Sandra Ballesteros",
+      "character": "María Elman"
+    },
+    {
+      "id": "nm0643606",
+      "name": "Óscar Cardozo Ocampo",
+      "character": "Daniel Stein"
+    },
+    {
+      "id": "nm0684594",
+      "name": "Enrique Pinti",
+      "character": "Sergio Lieman"
+    },
+    {
+      "id": "nm0090496",
+      "name": "Julio Bocca",
+      "character": "Julio Bocca"
+    },
+    {
+      "id": "nm0302080",
+      "name": "Juan Luis Galiardo",
+      "character": "Angelo Larroca"
+    },
+    {
+      "id": "nm0781493",
+      "name": "Martín Seefeld",
+      "character": "Andrés Castro"
+    },
+    {
+      "id": "nm0246475",
+      "name": "Ricardo Díaz Mourelle",
+      "character": "Waldo Norman"
+    },
+    {
+      "id": "nm0811631",
+      "name": "Antonio Soares Junior",
+      "character": "Bodyguard 1"
+    },
+    {
+      "id": "nm0143032",
+      "name": "Ariel Casas",
+      "character": "Antonio"
+    },
+    {
+      "id": "nm0857878",
+      "name": "Carlos Thiel",
+      "character": "Dr. Ramírez"
+    },
+    {
+      "id": "nm0957074",
+      "name": "Nora Zinski",
+      "character": "Woman Investor 1"
+    },
+    {
+      "id": "nm0515889",
+      "name": "Fernando Llosa",
+      "character": "Man Investor 1"
+    },
+    {
+      "id": "nm0178689",
+      "name": "Johana Copes",
+      "character": "Dance Teacher"
+    }
+  ],
+  "countries": [
+    "Spain",
+    "Argentina"
+  ],
+  "languages": [
+    "Spanish"
+  ],
+  "color": "Color",
+  "filmweb_id": 183,
+  "year": 1998,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYjhlNjIxMjYtMGFkMy00OTk5LTllMzEtMGM2ODM5YTFmOTA3XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.9,
+      "votes": 3279,
+      "distribution": {
+        "1": 72,
+        "2": 47,
+        "3": 57,
+        "4": 126,
+        "5": 245,
+        "6": 461,
+        "7": 815,
+        "8": 643,
+        "9": 418,
+        "10": 395
+      },
+      "normalized": 5.3648
+    },
+    "filmweb": {
+      "rating": 7.57,
+      "votes": 2258,
+      "distribution": {
+        "1": 13,
+        "2": 10,
+        "3": 31,
+        "4": 50,
+        "5": 106,
+        "6": 226,
+        "7": 517,
+        "8": 708,
+        "9": 371,
+        "10": 226
+      },
+      "normalized": 6.5734
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "03.11.2008",
+      "normalized": 6.3474
+    },
+    "score": 6.0952
+  },
+  "polish_title": "Tango",
+  "silent": false,
+  "description_pl": "Utalentowany reżyser zostaje \nporzucony przez żonę. Aby pokonać rozpacz, \nrozpoczyna pracę nad filmowym musicalem. \nOdwiedza lokale, gdzie tańczy się tango. \nPoznaje piękną tancerkę, nawiązuje z nią romans. Ale jej opiekunem jest człowiek, który finansuje produkcję - i ma powiązania ze światem \nprzestępczym.",
+  "producers": [
+    {
+      "id": "nm0068635",
+      "name": "Alejandro Bellaba"
+    },
+    {
+      "id": "nm1231532",
+      "name": "Luis Ángel Bellaba"
+    },
+    {
+      "id": "nm0130415",
+      "name": "José María Calleja"
+    },
+    {
+      "id": "nm0168437",
+      "name": "Juan Carlos Codazzi"
+    },
+    {
+      "id": "nm0579852",
+      "name": "Carlos Mentasti"
+    },
+    {
+      "id": "nm0595151",
+      "name": "Rainer Mockert"
+    },
+    {
+      "id": "nm1234106",
+      "name": "Carlos Rizzuti"
+    },
+    {
+      "id": "nm0768771",
+      "name": "Luis A. Scalella"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006277",
+      "name": "Lalo Schifrin"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005886",
+      "name": "Vittorio Storaro"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

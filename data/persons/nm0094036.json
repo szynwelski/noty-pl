@@ -1,0 +1,57 @@
+{
+  "id": "nm0094036",
+  "name": "Rudy Bond",
+  "filmography": [
+    {
+      "imdb_id": "tt0044081",
+      "title": "A Streetcar Named Desire",
+      "year": 1951,
+      "roles": [
+        "cast"
+      ],
+      "character": "Steve"
+    },
+    {
+      "imdb_id": "tt0047296",
+      "title": "On the Waterfront",
+      "year": 1954,
+      "roles": [
+        "cast"
+      ],
+      "character": "Moose"
+    },
+    {
+      "imdb_id": "tt0050083",
+      "title": "12 Angry Men",
+      "year": 1957,
+      "roles": [
+        "cast"
+      ],
+      "character": "Judge"
+    },
+    {
+      "imdb_id": "tt0068646",
+      "title": "The Godfather",
+      "year": 1972,
+      "roles": [
+        "cast"
+      ],
+      "character": "Cuneo"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZDNlZWQzOTQtZTAxNy00NjUxLWIzN2MtMDVlN2RlMzNlYzY0XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "01.10.1912",
+  "death_date": "29.03.1982",
+  "birth_location": "Philadelphia, Pennsylvania, USA",
+  "height": "1.80 m",
+  "filmweb_id": 45159,
+  "name_pl": "Rudy Bond",
+  "birth_location_pl": "Filadelfia, Pensylwania",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 45159
+}

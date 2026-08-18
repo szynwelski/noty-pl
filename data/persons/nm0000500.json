@@ -1,0 +1,48 @@
+{
+  "id": "nm0000500",
+  "name": "Richard Linklater",
+  "filmography": [
+    {
+      "imdb_id": "tt0112471",
+      "title": "Before Sunrise",
+      "year": 1995,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0381681",
+      "title": "Before Sunset",
+      "year": 2004,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt2209418",
+      "title": "Before Midnight",
+      "year": 2013,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQ0Mzc2NzY0Ml5BMl5BanBnXkFtZTcwOTI3OTI5MQ@@._V1_.jpg",
+  "birth_date": "30.07.1960",
+  "birth_location": "Houston, Texas, USA",
+  "height": "1.75 m",
+  "filmweb_id": 42197,
+  "name_pl": "Richard Linklater",
+  "birth_location_pl": "Houston, Teksas",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 42197
+}

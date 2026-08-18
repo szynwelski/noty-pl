@@ -1,0 +1,40 @@
+{
+  "id": "nm1556238",
+  "name": "Samuel Anderson",
+  "filmography": [
+    {
+      "imdb_id": "tt0464049",
+      "title": "The History Boys",
+      "year": 2006,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Crowther"
+    },
+    {
+      "imdb_id": "tt8369840",
+      "title": "Another Life",
+      "year": 2019,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "William"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTk5MDI1ODQ3NV5BMl5BanBnXkFtZTgwMDQ3MTE0MTE@._V1_.jpg",
+  "birth_date": "27.04.1982",
+  "birth_location": "England, UK",
+  "height": "1.78 m",
+  "imdb_scraped": true,
+  "filmweb_id": 504364,
+  "name_pl": "Samuel Anderson",
+  "birth_location_pl": "Anglia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 504364
+}

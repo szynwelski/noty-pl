@@ -1,0 +1,37 @@
+{
+  "id": "nm0005131",
+  "name": "Norman Lear",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQ5Nzk5ODUyOV5BMl5BanBnXkFtZTYwMzk2NDk3._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0093779",
+      "title": "The Princess Bride",
+      "year": 1987,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0101921",
+      "title": "Fried Green Tomatoes",
+      "year": 1991,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "birth_date": "27.07.1922",
+  "death_date": "05.12.2023",
+  "birth_location": "New Haven, Connecticut, USA",
+  "height": "1.75 m",
+  "imdb_scraped": true,
+  "filmweb_id": 78279,
+  "name_pl": "Norman Lear",
+  "birth_location_pl": "New Haven, Connecticut",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 78279
+}

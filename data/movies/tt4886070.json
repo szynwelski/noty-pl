@@ -1,0 +1,183 @@
+{
+  "imdb_id": "tt4886070",
+  "title": "Motherland",
+  "description": "Nesrin, an urban upper-middle class woman, goes back to her parents' old village in Anatolia to finish a novel and live out her dream of being a writer. When her conservative mother turns up uninvited and refuses to leave, Nesrin's writing stalls and her fantasies of village life turn bitter.",
+  "runtime_minutes": 93,
+  "release_date": "25.12.2015",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm5041879",
+      "name": "Esra Bezen Bilgin"
+    },
+    {
+      "id": "nm2775648",
+      "name": "Nihal G. Koldas"
+    },
+    {
+      "id": "nm7476687",
+      "name": "Semih Aydin"
+    },
+    {
+      "id": "nm7476688",
+      "name": "Fatma Kisa"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm4127109",
+      "name": "Senem Tüzen"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm4127109",
+      "name": "Senem Tüzen"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm5041879",
+      "name": "Esra Bezen Bilgin",
+      "character": "Nesrin"
+    },
+    {
+      "id": "nm2775648",
+      "name": "Nihal G. Koldas",
+      "character": "Halise"
+    },
+    {
+      "id": "nm7476687",
+      "name": "Semih Aydin",
+      "character": "Halil"
+    },
+    {
+      "id": "nm7476688",
+      "name": "Fatma Kisa",
+      "character": "Emine"
+    },
+    {
+      "id": "nm11412014",
+      "name": "Sidika Cinar",
+      "character": "Komsu"
+    },
+    {
+      "id": "nm11412013",
+      "name": "Habibe Doygun",
+      "character": "Habibe"
+    },
+    {
+      "id": "nm11412015",
+      "name": "Nuriye Durkan",
+      "character": "Komsu"
+    },
+    {
+      "id": "nm11412017",
+      "name": "Hüseyin Özdere",
+      "character": "Tamirci"
+    },
+    {
+      "id": "nm11412016",
+      "name": "Selvet Uysal",
+      "character": "Komsu"
+    }
+  ],
+  "countries": [
+    "Turkey",
+    "Greece"
+  ],
+  "languages": [
+    "Turkish"
+  ],
+  "color": "Color",
+  "year": 2015,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZjU3Mjg1MTYtODRmMC00NjRlLWJlZTgtMzRhMmYzOWE2NDc3XkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 750925,
+  "original_title": "Ana Yurdu",
+  "ratings": {
+    "imdb": {
+      "rating": 6.4,
+      "votes": 982,
+      "distribution": {
+        "1": 35,
+        "2": 32,
+        "3": 41,
+        "4": 52,
+        "5": 116,
+        "6": 215,
+        "7": 246,
+        "8": 140,
+        "9": 41,
+        "10": 64
+      },
+      "normalized": 4.763
+    },
+    "filmweb": {
+      "rating": 5.33,
+      "votes": 45,
+      "distribution": {
+        "1": 1,
+        "2": 0,
+        "3": 9,
+        "4": 3,
+        "5": 8,
+        "6": 13,
+        "7": 6,
+        "8": 5,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 4.7422
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "27.10.2017",
+      "normalized": 7.2292
+    },
+    "score": 5.5781
+  },
+  "polish_title": "Kraj przodków",
+  "silent": false,
+  "description_pl": "Nesrin dochodzi do siebie po rozwodzie. Opuszcza Stambuł i wyjeżdża na wieś do domu zmarłej babki. To dla niej początek nowego życia oraz powrót do marzeń z dzieciństwa. Od zawsze chciała być pisarką i teraz ma na to szansę. Niestety doświadcza blokady twórczej, kiedy przybyła w odwiedziny matka nie chce zostawić jej w spokoju. Obie kobiety przez lata oddaliły się od siebie i teraz konfrontują się ze swoimi wybuchowymi emocjami. Nesrin, uwięziona między miłością a nienawiścią do matki, szybko pozbywa się złudzeń o spokojnym, wiejskim życiu. Czy w zderzeniu nowoczesności z konserwatyzmem znajdzie się miejsce na wybaczenie? Wzruszający film o trudnej, zaniedbanej relacji matki i córki.",
+  "producers": [
+    {
+      "id": "nm0218530",
+      "name": "Sevil Demirci"
+    },
+    {
+      "id": "nm4530764",
+      "name": "Adam Isenberg"
+    },
+    {
+      "id": "nm2876419",
+      "name": "Nikos Moutselos"
+    },
+    {
+      "id": "nm2708994",
+      "name": "Avraham Pirchi"
+    },
+    {
+      "id": "nm4127109",
+      "name": "Senem Tüzen"
+    },
+    {
+      "id": "nm3914219",
+      "name": "Olena Yershova"
+    },
+    {
+      "id": "nm2588539",
+      "name": "Baris Yildirim"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm3668064",
+      "name": "Vedat Özdemir"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

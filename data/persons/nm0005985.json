@@ -1,0 +1,36 @@
+{
+  "id": "nm0005985",
+  "name": "Ralph Burns",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZjI1ZmY1ZjItMDY0YS00YTFhLTg5YmEtYTg1MTk3ZTNjMGNjXkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0078754",
+      "title": "All That Jazz",
+      "year": 1979,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt0085995",
+      "title": "National Lampoon's Vacation",
+      "year": 1983,
+      "roles": [
+        "composer"
+      ]
+    }
+  ],
+  "birth_date": "29.06.1922",
+  "death_date": "21.11.2001",
+  "birth_location": "Newton, Massachusetts, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 12983,
+  "name_pl": "Ralph Burns",
+  "birth_location_pl": "Newton, Massachusetts",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 12983
+}

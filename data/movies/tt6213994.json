@@ -1,0 +1,177 @@
+{
+  "imdb_id": "tt6213994",
+  "title": "The Miner",
+  "description": "2009, Slovenia, European Union. For 30 years, Alija, the miner, has been one of the many Bosnian immigrant workers. Due to the crisis, miners are losing jobs. Alija is sent to check an abandoned mine. His task is to quickly make sure the mine is empty before management sells the company. But in the mine, Alija finds hidden proof of executions after WWII. He is told to stop digging and report the mine empty. He decides to continue, although he is risking his job. Alija discovers thousands of executed people. He informs the police. He found women among the dead. Some of them were civilians, missing persons, just like his sister that was lost in the 1995 genocide in Bosnia. Alija is convinced the victims need to be brought out, identified and buried. But there is no interest in doing that. The mine is proclaimed a WWII military grave and walled in. The dead will stay without a burial. Alija loses his job and struggles to preserve his dignity. He is sure he was doing the right thing, in spite of the unemployment his family is now faced with. Based on a true story.",
+  "runtime_minutes": 98,
+  "release_date": "28.09.2017",
+  "genres": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "stars": [
+    {
+      "id": "nm0524494",
+      "name": "Leon Lučev"
+    },
+    {
+      "id": "nm4494848",
+      "name": "Marina Redžepović"
+    },
+    {
+      "id": "nm2104299",
+      "name": "Zala Djuric"
+    },
+    {
+      "id": "nm8285384",
+      "name": "Tin Marn"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0805238",
+      "name": "Hanna Slak"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm11282819",
+      "name": "Mehmedalije Alica"
+    },
+    {
+      "id": "nm0805238",
+      "name": "Hanna Slak"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0524494",
+      "name": "Leon Lučev",
+      "character": "Alija Basic"
+    },
+    {
+      "id": "nm4494848",
+      "name": "Marina Redžepović",
+      "character": "Fuada Basic"
+    },
+    {
+      "id": "nm2104299",
+      "name": "Zala Djuric",
+      "character": "Elma Basic"
+    },
+    {
+      "id": "nm8285384",
+      "name": "Tin Marn",
+      "character": "Samir Basic"
+    },
+    {
+      "id": "nm0136036",
+      "name": "Boris Cavazza",
+      "character": "Lojze"
+    },
+    {
+      "id": "nm2823317",
+      "name": "Nikolaj Burger",
+      "character": "Tom"
+    },
+    {
+      "id": "nm4001185",
+      "name": "Jure Henigman",
+      "character": "Kamnik"
+    },
+    {
+      "id": "nm1252811",
+      "name": "Boris Petkovic",
+      "character": "Faruk"
+    },
+    {
+      "id": "nm0722992",
+      "name": "Tanja Ribic",
+      "character": ""
+    }
+  ],
+  "countries": [
+    "Slovenia",
+    "Croatia"
+  ],
+  "languages": [
+    "Slovenian"
+  ],
+  "color": "Color",
+  "filmweb_id": 794062,
+  "year": 2017,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BM2JiNzc4N2YtMzdlYS00YWIyLThhZmQtOWE2ZmI5NWM3Mjg4XkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Rudar",
+  "ratings": {
+    "imdb": {
+      "rating": 6.9,
+      "votes": 359,
+      "distribution": {
+        "1": 19,
+        "2": 4,
+        "3": 6,
+        "4": 14,
+        "5": 25,
+        "6": 42,
+        "7": 74,
+        "8": 80,
+        "9": 28,
+        "10": 67
+      },
+      "normalized": 5.3237
+    },
+    "filmweb": {
+      "rating": 7.4,
+      "votes": 139,
+      "distribution": {
+        "2": 1,
+        "3": 0,
+        "4": 2,
+        "5": 6,
+        "6": 16,
+        "7": 44,
+        "8": 53,
+        "9": 10,
+        "10": 7
+      },
+      "normalized": 5.4774
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "17.10.2017",
+      "normalized": 6.4102
+    },
+    "michal": {
+      "rating": 8,
+      "date_rated": "27.10.2017",
+      "normalized": 8.1116
+    },
+    "score": 6.3307
+  },
+  "polish_title": "Górnik",
+  "silent": false,
+  "description_pl": "Jest rok 2007. Mehmedalija Alić pochodzi z Bośni i jest górnikiem, bośniackim imigrantem, jak go tu nazywają. Od 30 lat pracuje w kopalniach w Słowenii, ostatnio w ekstremalnych warunkach, z narażeniem życia. Jest kryzys, kopalnie są zamykane. Alić zostaje wysłany do jednego ze starych korytarzy, by sprawdzić, czy coś da się jeszcze w nim znaleźć. To, co w nim znajduje, zaszokuje całą Słowenię. Fabularna opowieść o uporze jednego górnika w dążeniu do prawdy i sprawiedliwości społecznej. Historia oparta na autentycznych wydarzeniach.",
+  "producers": [
+    {
+      "id": "nm3356910",
+      "name": "Michel Balagué"
+    },
+    {
+      "id": "nm0432947",
+      "name": "Sinisa Juricic"
+    },
+    {
+      "id": "nm3833276",
+      "name": "Miha Knific"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm2571705",
+      "name": "Matthias Pilz"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

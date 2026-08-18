@@ -1,0 +1,36 @@
+{
+  "id": "nm0556985",
+  "name": "Tom Mason",
+  "filmography": [
+    {
+      "imdb_id": "tt0078788",
+      "title": "Apocalypse Now",
+      "year": 1979,
+      "roles": [
+        "cast"
+      ],
+      "character": "Supply Sergeant"
+    },
+    {
+      "imdb_id": "tt0163187",
+      "title": "Runaway Bride",
+      "year": 1999,
+      "roles": [
+        "cast"
+      ],
+      "character": "Final Wedding Pastor"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTI2YmJiOWEtNDJlMS00NzNlLWFhOTgtMTIyYzNlMWM1Nzk5XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "01.03.1949",
+  "birth_location": "Brooklyn, New York, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 78759,
+  "name_pl": "Tom Mason",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

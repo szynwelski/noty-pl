@@ -1,0 +1,218 @@
+{
+  "imdb_id": "tt0032080",
+  "title": "Union Pacific",
+  "description": "In 1862, Central Pacific and Union Pacific Railroads compete westward across the wilderness toward California. A crooked politician tries to stop construction of the transcontinental railroad.",
+  "runtime_minutes": 135,
+  "release_date": "05.05.1939",
+  "genres": [
+    "Drama",
+    "Western"
+  ],
+  "stars": [
+    {
+      "id": "nm0001766",
+      "name": "Barbara Stanwyck"
+    },
+    {
+      "id": "nm0566948",
+      "name": "Joel McCrea"
+    },
+    {
+      "id": "nm0848667",
+      "name": "Akim Tamiroff"
+    },
+    {
+      "id": "nm0696481",
+      "name": "Robert Preston"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001124",
+      "name": "Cecil B. DeMille"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0216755",
+      "name": "Walter DeLeon"
+    },
+    {
+      "id": "nm0837989",
+      "name": "C. Gardner Sullivan"
+    },
+    {
+      "id": "nm0489679",
+      "name": "Jesse Lasky Jr."
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0001766",
+      "name": "Barbara Stanwyck",
+      "character": "Mollie Monahan"
+    },
+    {
+      "id": "nm0566948",
+      "name": "Joel McCrea",
+      "character": "Jeff Butler"
+    },
+    {
+      "id": "nm0848667",
+      "name": "Akim Tamiroff",
+      "character": "Fiesta"
+    },
+    {
+      "id": "nm0696481",
+      "name": "Robert Preston",
+      "character": "Dick Allen"
+    },
+    {
+      "id": "nm0653892",
+      "name": "Lynne Overman",
+      "character": "Leach Overmile"
+    },
+    {
+      "id": "nm0002046",
+      "name": "Brian Donlevy",
+      "character": "Sid Campeau"
+    },
+    {
+      "id": "nm0056719",
+      "name": "Robert Barrat",
+      "character": "Duke Ring"
+    },
+    {
+      "id": "nm0000063",
+      "name": "Anthony Quinn",
+      "character": "Cordray"
+    },
+    {
+      "id": "nm0725897",
+      "name": "Stanley Ridges",
+      "character": "General Casement"
+    },
+    {
+      "id": "nm0464137",
+      "name": "Henry Kolker",
+      "character": "Asa M. Barrows"
+    },
+    {
+      "id": "nm0567756",
+      "name": "Francis McDonald",
+      "character": "General Dodge"
+    },
+    {
+      "id": "nm0732062",
+      "name": "Willard Robertson",
+      "character": "Oakes Ames"
+    },
+    {
+      "id": "nm0329467",
+      "name": "Harold Goodwin",
+      "character": "Calvin"
+    },
+    {
+      "id": "nm0450810",
+      "name": "Evelyn Keyes",
+      "character": "Mrs. Calvin"
+    },
+    {
+      "id": "nm0485518",
+      "name": "Richard Lane",
+      "character": "Sam Reed"
+    },
+    {
+      "id": "nm0351744",
+      "name": "William Haade",
+      "character": "Dusky Clayton"
+    },
+    {
+      "id": "nm0867538",
+      "name": "Regis Toomey",
+      "character": "Paddy O'Rourke"
+    },
+    {
+      "id": "nm0449858",
+      "name": "J.M. Kerrigan",
+      "character": "Monahan"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 91127,
+  "year": 1939,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzZiYjE4M2YtYjYzMy00MzkyLWFjNzktYTBmNWEwNjlhYzFhXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7,
+      "votes": 3919,
+      "distribution": {
+        "1": 55,
+        "2": 24,
+        "3": 34,
+        "4": 107,
+        "5": 209,
+        "6": 648,
+        "7": 1307,
+        "8": 903,
+        "9": 299,
+        "10": 333
+      },
+      "normalized": 5.4941
+    },
+    "filmweb": {
+      "rating": 5.86,
+      "votes": 306,
+      "distribution": {
+        "1": 21,
+        "2": 8,
+        "3": 21,
+        "4": 24,
+        "5": 31,
+        "6": 67,
+        "7": 64,
+        "8": 46,
+        "9": 15,
+        "10": 9
+      },
+      "normalized": 4.1919
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "19.10.2005",
+      "normalized": 5.4199
+    },
+    "score": 5.0353
+  },
+  "polish_title": "Union Pacific",
+  "silent": false,
+  "producers": [
+    {
+      "id": "nm0001124",
+      "name": "Cecil B. DeMille"
+    },
+    {
+      "id": "nm0495461",
+      "name": "William LeBaron"
+    },
+    {
+      "id": "nm0683993",
+      "name": "William H. Pine"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005800",
+      "name": "Victor Milner"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-15"
+}

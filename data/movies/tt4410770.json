@@ -1,0 +1,183 @@
+{
+  "imdb_id": "tt4410770",
+  "title": "Ma",
+  "description": "MA is a striking modern-day vision of Mother Mary's pilgrimage through the eyes of Ma (played by Celia Rowlson-Hall), a woman who must venture across the scorched landscape of the American Southwest to fulfill her destiny.",
+  "runtime_minutes": 80,
+  "release_date": "19.04.2015",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm2310589",
+      "name": "Kentucker Audley"
+    },
+    {
+      "id": "nm2809645",
+      "name": "Matt Lauria"
+    },
+    {
+      "id": "nm3542925",
+      "name": "Andrew Pastides"
+    },
+    {
+      "id": "nm1408986",
+      "name": "Michelle Perks"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm3278700",
+      "name": "Celia Rowlson-Hall"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm3278700",
+      "name": "Celia Rowlson-Hall"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm2310589",
+      "name": "Kentucker Audley",
+      "character": "Policeman"
+    },
+    {
+      "id": "nm2809645",
+      "name": "Matt Lauria",
+      "character": "Cowboy"
+    },
+    {
+      "id": "nm3542925",
+      "name": "Andrew Pastides",
+      "character": "Daniel"
+    },
+    {
+      "id": "nm1408986",
+      "name": "Michelle Perks",
+      "character": "Maid"
+    },
+    {
+      "id": "nm3278700",
+      "name": "Celia Rowlson-Hall",
+      "character": "Ma"
+    },
+    {
+      "id": "nm1541272",
+      "name": "Amy Seimetz",
+      "character": "Misti"
+    },
+    {
+      "id": "nm0114430",
+      "name": "Peter Vack",
+      "character": "Priest"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 741188,
+  "year": 2015,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTgwNjM1NTU0M15BMl5BanBnXkFtZTgwOTQ4MjEwMTI@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.9,
+      "votes": 253,
+      "distribution": {
+        "1": 17,
+        "2": 13,
+        "3": 14,
+        "4": 27,
+        "5": 27,
+        "6": 44,
+        "7": 45,
+        "8": 28,
+        "9": 9,
+        "10": 29
+      },
+      "normalized": 4.8111
+    },
+    "filmweb": {
+      "rating": 5.89,
+      "votes": 73,
+      "distribution": {
+        "2": 3,
+        "3": 6,
+        "4": 5,
+        "5": 20,
+        "6": 12,
+        "7": 11,
+        "8": 10,
+        "9": 3,
+        "10": 3
+      },
+      "normalized": 4.7568
+    },
+    "jarek": {
+      "rating": 2,
+      "date_rated": "12.10.2020",
+      "normalized": 3.5003
+    },
+    "score": 4.3561
+  },
+  "polish_title": "MA",
+  "silent": false,
+  "description_pl": "\"Ruch jest najbardziej prawdziwym sposobem wyrażenia siebie\", mówi Celia Rowlson Hall i realizuje unikalny eksperyment filmowy. Niezależny, sfinansowany prawie w całości z crowdfundingu, jest autorskim spojrzeniem na biblijną historię. Dzięki niespełna 30-letniej choreografce, tancerce i reżyserce, towarzyszymy w drodze Maryi dziewicy, która w Las Vegas ma urodzić Zbawiciela. Jej pielgrzymka jest pretekstem do żartobliwego przyjrzenia się roli współczesnych kobiet, ale też opowieścią o samotności i miłości do ludzi, natury i Boga. Podróż do trzewi ludzkiej egzystencji odbywa się bez dialogów, a Celia, w surrealistyczny i metaforyczny sposób łączy rytuały z performancem. Poprzez ruch kreśli nowatorskie zakończenie znanej wszystkim historii.",
+  "producers": [
+    {
+      "id": "nm2697089",
+      "name": "Mary Caulkins"
+    },
+    {
+      "id": "nm8683188",
+      "name": "Addison Hatch"
+    },
+    {
+      "id": "nm8683187",
+      "name": "Keith Hatch"
+    },
+    {
+      "id": "nm4801807",
+      "name": "Karl Kister"
+    },
+    {
+      "id": "nm8683186",
+      "name": "Raquel Loving"
+    },
+    {
+      "id": "nm2149548",
+      "name": "Sebastian Pardo"
+    },
+    {
+      "id": "nm4292589",
+      "name": "Riel Roch Decter"
+    },
+    {
+      "id": "nm1437437",
+      "name": "Aaron Schnobrich"
+    },
+    {
+      "id": "nm4680110",
+      "name": "Lauren Smitelli"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm4590024",
+      "name": "Brian McOmber"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm1044212",
+      "name": "Ian Bloom"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

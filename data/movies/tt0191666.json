@@ -1,0 +1,220 @@
+{
+  "imdb_id": "tt0191666",
+  "title": "Deserter's Gold",
+  "description": "During World War II a group of safe crackers sets off on a mission to steal gold from a German bank.",
+  "year": 1998,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMWE1NWJlNTItZDMxOC00ODFmLTgwYmQtNTgyMTFmNmQ5YzQ2XkEyXkFqcGc@._V1_.jpg",
+  "runtime_minutes": 123,
+  "release_date": "04.12.1998",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Family",
+    "War"
+  ],
+  "stars": [
+    {
+      "id": "nm0464945",
+      "name": "Marek Kondrat"
+    },
+    {
+      "id": "nm0511277",
+      "name": "Boguslaw Linda"
+    },
+    {
+      "id": "nm0953975",
+      "name": "Wiktor Zborowski"
+    },
+    {
+      "id": "nm0276758",
+      "name": "Katarzyna Figura"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0538105",
+      "name": "Janusz Majewski"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0538105",
+      "name": "Janusz Majewski"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0464945",
+      "name": "Marek Kondrat",
+      "character": "Kania"
+    },
+    {
+      "id": "nm0511277",
+      "name": "Boguslaw Linda",
+      "character": "Rudy"
+    },
+    {
+      "id": "nm0953975",
+      "name": "Wiktor Zborowski",
+      "character": "Haber"
+    },
+    {
+      "id": "nm0276758",
+      "name": "Katarzyna Figura",
+      "character": "Basia"
+    },
+    {
+      "id": "nm0309168",
+      "name": "Piotr Gasowski",
+      "character": "Silberman"
+    },
+    {
+      "id": "nm0257563",
+      "name": "Jan Englert",
+      "character": "Jeremi"
+    },
+    {
+      "id": "nm0682893",
+      "name": "Leonard Pietraszak",
+      "character": "Leliwa"
+    },
+    {
+      "id": "nm0216117",
+      "name": "Pawel Delag",
+      "character": "Kmicic"
+    },
+    {
+      "id": "nm0532536",
+      "name": "Piotr Machalica",
+      "character": "Lotka"
+    },
+    {
+      "id": "nm0957468",
+      "name": "Artur Zmijewski",
+      "character": "Pet"
+    },
+    {
+      "id": "nm0080077",
+      "name": "Zoltán Bezerédi",
+      "character": "Benedek"
+    },
+    {
+      "id": "nm0464417",
+      "name": "Róbert Koltai",
+      "character": "Chudej"
+    },
+    {
+      "id": "nm0765762",
+      "name": "Jacek Sas-Uhrynowski",
+      "character": "Baldini"
+    },
+    {
+      "id": "nm0148077",
+      "name": "Stanislawa Celinska",
+      "character": ""
+    },
+    {
+      "id": "nm0468586",
+      "name": "Krzysztof Kowalewski",
+      "character": "Commander of the bank guard"
+    },
+    {
+      "id": "nm0688684",
+      "name": "Wojciech Pokora",
+      "character": "Von nogay"
+    },
+    {
+      "id": "nm0462204",
+      "name": "Jan Kobuszewski",
+      "character": "Haber's Father"
+    },
+    {
+      "id": "nm0879203",
+      "name": "Beata Tyszkiewicz",
+      "character": "Countess"
+    }
+  ],
+  "countries": [
+    "Poland"
+  ],
+  "languages": [
+    "Polish"
+  ],
+  "color": "Color",
+  "filmweb_id": 1110,
+  "original_title": "Zloto dezerterów",
+  "ratings": {
+    "imdb": {
+      "rating": 4.8,
+      "votes": 609,
+      "distribution": {
+        "1": 32,
+        "2": 35,
+        "3": 71,
+        "4": 87,
+        "5": 129,
+        "6": 116,
+        "7": 79,
+        "8": 28,
+        "9": 8,
+        "10": 24
+      },
+      "normalized": 3.6569
+    },
+    "filmweb": {
+      "rating": 5.98,
+      "votes": 29730,
+      "distribution": {
+        "1": 744,
+        "2": 578,
+        "3": 1671,
+        "4": 2400,
+        "5": 4801,
+        "6": 7327,
+        "7": 6766,
+        "8": 3653,
+        "9": 1033,
+        "10": 757
+      },
+      "normalized": 3.2945
+    },
+    "jarek": {
+      "rating": 1,
+      "date_rated": "07.02.2010",
+      "normalized": 2.5327
+    },
+    "michal": {
+      "rating": 1,
+      "date_rated": "19.10.2005",
+      "normalized": 2.2657
+    },
+    "score": 2.9375
+  },
+  "polish_title": "Złoto dezerterów",
+  "silent": false,
+  "description_pl": "Jesień 1942 roku. Na warszawskim Żoliborzu odbywa się konspiracyjne spotkanie oficerów AK. Rotmistrz Leliwa informuje zebranych, że dowództwo powołało oddział do zadań specjalnych, oznaczony kryptonimem \"Litzmanstadt\". Dowódcą mianowano majora Jeremiego. Pierwszą misją grupy jest zdobycie gotówki na zakup broni i amunicji od włoskiej armii, która, wycofana z frontu wschodniego, tymczasowo stacjonuje w Polsce.",
+  "producers": [
+    {
+      "id": "nm0605155",
+      "name": "Janusz Morgenstern"
+    },
+    {
+      "id": "nm0753499",
+      "name": "Lew Rywin"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0520608",
+      "name": "Michal Lorenc"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0010627",
+      "name": "Witold Adamek"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

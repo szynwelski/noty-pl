@@ -1,0 +1,36 @@
+{
+  "id": "nm0393799",
+  "name": "Tom Hooper",
+  "filmography": [
+    {
+      "imdb_id": "tt1504320",
+      "title": "The King's Speech",
+      "year": 2010,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt1707386",
+      "title": "Les Misérables",
+      "year": 2012,
+      "roles": [
+        "director"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTMyOTQ5MTE5OV5BMl5BanBnXkFtZTcwNjMxNjA0NA@@._V1_.jpg",
+  "birth_date": "05.10.1972",
+  "birth_location": "London, England, UK",
+  "height": "1.91 m",
+  "imdb_scraped": true,
+  "filmweb_id": 164444,
+  "name_pl": "Tom Hooper",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 164444
+}

@@ -1,0 +1,37 @@
+{
+  "id": "nm0721526",
+  "name": "Émile Reynaud",
+  "filmography": [
+    {
+      "imdb_id": "tt0000003",
+      "title": "Poor Pierrot",
+      "year": 1892,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0000015",
+      "title": "Around a Cabin",
+      "year": 1894,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    }
+  ],
+  "birth_date": "08.12.1844",
+  "death_date": "09.01.1918",
+  "birth_location": "Montreuil, Seine [now Seine-Saint-Denis], France",
+  "imdb_scraped": true,
+  "filmweb_id": 187846,
+  "name_pl": "Émile Reynaud",
+  "birth_location_pl": "Montreuil",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja"
+  ]
+}

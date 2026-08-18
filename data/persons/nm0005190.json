@@ -1,0 +1,37 @@
+{
+  "id": "nm0005190",
+  "name": "Garry Marshall",
+  "filmography": [
+    {
+      "imdb_id": "tt0100405",
+      "title": "Pretty Woman",
+      "year": 1990,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0163187",
+      "title": "Runaway Bride",
+      "year": 1999,
+      "roles": [
+        "director"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTY5MzM1MTM0OF5BMl5BanBnXkFtZTcwMTQ2NjI4NA@@._V1_.jpg",
+  "birth_date": "13.11.1934",
+  "death_date": "19.07.2016",
+  "birth_location": "The Bronx, New York City, New York, USA",
+  "height": "1.78 m",
+  "imdb_scraped": true,
+  "filmweb_id": 7178,
+  "name_pl": "Garry Marshall",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 7178
+}

@@ -1,0 +1,35 @@
+{
+  "id": "nm0198460",
+  "name": "John Daly",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjE3ODIyMjEyMl5BMl5BanBnXkFtZTYwNzY1NTU1._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0088247",
+      "title": "The Terminator",
+      "year": 1984,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0091763",
+      "title": "Platoon",
+      "year": 1986,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "birth_date": "16.07.1937",
+  "death_date": "31.10.2008",
+  "birth_location": "London, England, UK",
+  "imdb_scraped": true,
+  "filmweb_id": 102133,
+  "name_pl": "John Daly",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ]
+}

@@ -1,0 +1,275 @@
+{
+  "imdb_id": "tt1730768",
+  "title": "The Zookeeper's Wife",
+  "description": "Keepers of the Warsaw Zoo, Antonina and Jan Zabinski, must save hundreds of people and animals during the Nazi invasion in WWII Poland.",
+  "runtime_minutes": 127,
+  "release_date": "07.04.2017",
+  "genres": [
+    "Biography",
+    "Drama",
+    "History",
+    "War"
+  ],
+  "stars": [
+    {
+      "id": "nm1567113",
+      "name": "Jessica Chastain"
+    },
+    {
+      "id": "nm0374949",
+      "name": "Johan Heldenbergh"
+    },
+    {
+      "id": "nm0117709",
+      "name": "Daniel Brühl"
+    },
+    {
+      "id": "nm7666861",
+      "name": "Timothy Radford"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0138927",
+      "name": "Niki Caro"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0941453",
+      "name": "Angela Workman"
+    },
+    {
+      "id": "nm2430979",
+      "name": "Diane Ackerman"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1567113",
+      "name": "Jessica Chastain",
+      "character": "Antonina Zabinska"
+    },
+    {
+      "id": "nm0374949",
+      "name": "Johan Heldenbergh",
+      "character": "Jan Zabinski"
+    },
+    {
+      "id": "nm0117709",
+      "name": "Daniel Brühl",
+      "character": "Lutz Heck"
+    },
+    {
+      "id": "nm7666861",
+      "name": "Timothy Radford",
+      "character": "Ryszard Zabinski (Younger)"
+    },
+    {
+      "id": "nm3575889",
+      "name": "Efrat Dor",
+      "character": "Magda Gross"
+    },
+    {
+      "id": "nm0325221",
+      "name": "Iddo Goldberg",
+      "character": "Maurycy Fraenkel"
+    },
+    {
+      "id": "nm6024635",
+      "name": "Shira Haas",
+      "character": "Urszula"
+    },
+    {
+      "id": "nm0568385",
+      "name": "Michael McElhatton",
+      "character": "Jerzyk"
+    },
+    {
+      "id": "nm7307794",
+      "name": "Val Maloku",
+      "character": "Ryszard Zabinski (Older)"
+    },
+    {
+      "id": "nm0411568",
+      "name": "Martha Issová",
+      "character": "Regina Kenigswein"
+    },
+    {
+      "id": "nm5000658",
+      "name": "Daniel Ratimorský",
+      "character": "Samuel Kenigswein"
+    },
+    {
+      "id": "nm7684187",
+      "name": "Frederick Preston",
+      "character": "Miecio Kenigswein"
+    },
+    {
+      "id": "nm7684188",
+      "name": "Theo Preston",
+      "character": "Stefcio Kenigswein"
+    },
+    {
+      "id": "nm8765250",
+      "name": "Viktoria Zakharyanova",
+      "character": "Stefania Keningswein"
+    },
+    {
+      "id": "nm1336552",
+      "name": "Goran Kostic",
+      "character": "Mr. Kinszerbaum"
+    },
+    {
+      "id": "nm0325611",
+      "name": "Arnost Goldflam",
+      "character": "Dr. Janusz Korczak"
+    },
+    {
+      "id": "nm3070482",
+      "name": "Marián Mitaš",
+      "character": "Stefan"
+    },
+    {
+      "id": "nm0389384",
+      "name": "Martin Hofmann",
+      "character": "Szymon Tenenbaum"
+    }
+  ],
+  "countries": [
+    "Czech Republic",
+    "United Kingdom",
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Hebrew",
+    "Polish"
+  ],
+  "color": "Color",
+  "filmweb_id": 696637,
+  "year": 2017,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNmM4YmY4ZDItZWQ3MC00MmMwLWI4MGUtMzlhMzE1YjE2NjgyXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7,
+      "votes": 49431,
+      "distribution": {
+        "1": 1397,
+        "2": 559,
+        "3": 424,
+        "4": 892,
+        "5": 2501,
+        "6": 7617,
+        "7": 17009,
+        "8": 11285,
+        "9": 4184,
+        "10": 3563
+      },
+      "normalized": 5.5436
+    },
+    "filmweb": {
+      "rating": 7.19,
+      "votes": 45724,
+      "distribution": {
+        "1": 88,
+        "2": 84,
+        "3": 427,
+        "4": 847,
+        "5": 3008,
+        "6": 7164,
+        "7": 15044,
+        "8": 12958,
+        "9": 4230,
+        "10": 1874
+      },
+      "normalized": 5.9853
+    },
+    "jarek": {
+      "rating": 8,
+      "date_rated": "03.04.2017",
+      "normalized": 7.8989
+    },
+    "score": 6.4759
+  },
+  "polish_title": "Azyl",
+  "silent": false,
+  "description_pl": "To jedna z takich historii, o które kino musiało się upomnieć. Poruszająca filmowa opowieść, która wydarzyła się naprawdę. Antonina Żabińska, żona dyrektora warszawskiego zoo, wspólnie z mężem, Janem, ukrywali podczas II wojny światowej dziesiątki Żydów. Osobiście wydostawali ich z getta i pomagali przetrwać w opustoszałych murach ogrodu zoologicznego. Niektórzy ukrywani byli w miejscach przeznaczonych dla zwierząt, inni w willi Żabińskich. W 1965 roku Jan i Antonina  Żabińscy zostali odznaczeni przez instytut Jad Waszem tytułem Sprawiedliwych wśród Narodów Świata.",
+  "producers": [
+    {
+      "id": "nm1329997",
+      "name": "Jeff Abberley"
+    },
+    {
+      "id": "nm1462514",
+      "name": "Julia Blackman"
+    },
+    {
+      "id": "nm0124652",
+      "name": "Marc Butan"
+    },
+    {
+      "id": "nm1567113",
+      "name": "Jessica Chastain"
+    },
+    {
+      "id": "nm5269491",
+      "name": "Diane Miller Levin"
+    },
+    {
+      "id": "nm0509176",
+      "name": "Mickey Liddell"
+    },
+    {
+      "id": "nm3336352",
+      "name": "Katie McNeill"
+    },
+    {
+      "id": "nm0385268",
+      "name": "Jennifer Monroe"
+    },
+    {
+      "id": "nm1364232",
+      "name": "Jamie Patricof"
+    },
+    {
+      "id": "nm2530397",
+      "name": "Joanne Sennitt"
+    },
+    {
+      "id": "nm4403105",
+      "name": "Pete Shilaimon"
+    },
+    {
+      "id": "nm0866132",
+      "name": "Michael Tollin"
+    },
+    {
+      "id": "nm2592220",
+      "name": "Robbie Tollin"
+    },
+    {
+      "id": "nm0888092",
+      "name": "Kevan Van Thompson"
+    },
+    {
+      "id": "nm1859471",
+      "name": "Kim Zubick"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0004581",
+      "name": "Harry Gregson-Williams"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0661238",
+      "name": "Andrij Parekh"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

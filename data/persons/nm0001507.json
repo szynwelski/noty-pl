@@ -1,0 +1,48 @@
+{
+  "id": "nm0001507",
+  "name": "Cheech Marin",
+  "filmography": [
+    {
+      "imdb_id": "tt0110357",
+      "title": "The Lion King",
+      "year": 1994,
+      "roles": [
+        "cast"
+      ],
+      "character": "Banzai"
+    },
+    {
+      "imdb_id": "tt0112851",
+      "title": "Desperado",
+      "year": 1995,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Short Bartender"
+    },
+    {
+      "imdb_id": "tt0116367",
+      "title": "From Dusk Till Dawn",
+      "year": 1996,
+      "roles": [
+        "cast"
+      ],
+      "character": "Border Guard"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQyODU1ODEzOF5BMl5BanBnXkFtZTYwMzkwODY1._V1_.jpg",
+  "birth_date": "13.07.1946",
+  "birth_location": "Los Angeles, California, USA",
+  "height": "1.68 m",
+  "filmweb_id": 2871,
+  "name_pl": "Cheech Marin",
+  "birth_location_pl": "Los Angeles, Kalifornia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 2871
+}

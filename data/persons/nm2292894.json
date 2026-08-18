@@ -1,0 +1,35 @@
+{
+  "id": "nm2292894",
+  "name": "Rick Riordan",
+  "filmography": [
+    {
+      "imdb_id": "tt0814255",
+      "title": "Percy Jackson & the Olympians: The Lightning Thief",
+      "year": 2010,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt1854564",
+      "title": "Percy Jackson: Sea of Monsters",
+      "year": 2013,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZGQ5MjA0N2QtOWYxMS00YjZmLTgzZTEtOGU3NjU5YTJlYjQ2XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "05.06.1964",
+  "birth_location": "San Antonio, Texas, USA",
+  "height": "1.73 m",
+  "imdb_scraped": true,
+  "filmweb_id": 1236581,
+  "name_pl": "Rick Riordan",
+  "birth_location_pl": "San Antonio, Teksas",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

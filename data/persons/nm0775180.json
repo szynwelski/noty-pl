@@ -1,0 +1,33 @@
+{
+  "id": "nm0775180",
+  "name": "Max Schreck",
+  "filmography": [
+    {
+      "imdb_id": "tt0013442",
+      "title": "Nosferatu",
+      "year": 1922,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Graf Orlok"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZGI5ZjAxZWMtNGNlMC00NzM2LWJkMWYtNTVmZDYwN2M1N2MzXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "06.09.1879",
+  "death_date": "20.02.1936",
+  "birth_location": "Berlin, Germany",
+  "height": "1.91 m",
+  "imdb_scraped": true,
+  "filmweb_id": 41889,
+  "name_pl": "Max Schreck",
+  "birth_location_pl": "Berlin",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "III Rzesza",
+    "Republika Weimarska",
+    "Cesarstwo Niemieckie"
+  ],
+  "wikidata_fw_id": 41889
+}

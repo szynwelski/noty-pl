@@ -1,0 +1,294 @@
+{
+  "imdb_id": "tt2302755",
+  "title": "Olympus Has Fallen",
+  "description": "Secret Service agent Mike Banning finds himself trapped inside the White House in the wake of a terrorist attack and works with national security to rescue the President from his kidnappers.",
+  "runtime_minutes": 119,
+  "release_date": "22.03.2013",
+  "genres": [
+    "Action",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0124930",
+      "name": "Gerard Butler"
+    },
+    {
+      "id": "nm0001173",
+      "name": "Aaron Eckhart"
+    },
+    {
+      "id": "nm0000151",
+      "name": "Morgan Freeman"
+    },
+    {
+      "id": "nm0000291",
+      "name": "Angela Bassett"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0298807",
+      "name": "Antoine Fuqua"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm4950667",
+      "name": "Creighton Rothenberger"
+    },
+    {
+      "id": "nm4951717",
+      "name": "Katrin Benedikt"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0124930",
+      "name": "Gerard Butler",
+      "character": "Mike Banning"
+    },
+    {
+      "id": "nm0001173",
+      "name": "Aaron Eckhart",
+      "character": "President Benjamin Asher"
+    },
+    {
+      "id": "nm0000151",
+      "name": "Morgan Freeman",
+      "character": "Speaker Trumbull"
+    },
+    {
+      "id": "nm3124890",
+      "name": "Finley Jacobsen",
+      "character": "Connor"
+    },
+    {
+      "id": "nm0001518",
+      "name": "Dylan McDermott",
+      "character": "Forbes"
+    },
+    {
+      "id": "nm0950935",
+      "name": "Rick Yune",
+      "character": "Kang"
+    },
+    {
+      "id": "nm0000291",
+      "name": "Angela Bassett",
+      "character": "Secret Service Director Lynn Jacobs"
+    },
+    {
+      "id": "nm0502425",
+      "name": "Melissa Leo",
+      "character": "Secretary of Defense Ruth McMillan"
+    },
+    {
+      "id": "nm0593664",
+      "name": "Radha Mitchell",
+      "character": "Leah"
+    },
+    {
+      "id": "nm0369513",
+      "name": "Cole Hauser",
+      "character": "Roma"
+    },
+    {
+      "id": "nm1971070",
+      "name": "Phil Austin",
+      "character": "Vice President Charlie Rodriguez"
+    },
+    {
+      "id": "nm0408786",
+      "name": "James Ingersoll",
+      "character": "Admiral Nathan Hoenig"
+    },
+    {
+      "id": "nm4073334",
+      "name": "Freddy Bosche",
+      "character": "Diaz"
+    },
+    {
+      "id": "nm4754472",
+      "name": "Lance Broadway",
+      "character": "O'Neil"
+    },
+    {
+      "id": "nm0639917",
+      "name": "Sean O'Bryan",
+      "character": "Ray Monroe"
+    },
+    {
+      "id": "nm1692978",
+      "name": "Keong Sim",
+      "character": "Lee Tae-Woo"
+    },
+    {
+      "id": "nm1821288",
+      "name": "Kevin Moon",
+      "character": "Cho"
+    },
+    {
+      "id": "nm0875025",
+      "name": "Malana Lea",
+      "character": "Lim"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Korean"
+  ],
+  "color": "Color",
+  "filmweb_id": 658833,
+  "year": 2013,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzg3Mjc0YzItZWQyOS00ODY4LTgwZjUtYWRmYzM1MDg1ZDA5XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.5,
+      "votes": 308392,
+      "distribution": {
+        "1": 5988,
+        "2": 4008,
+        "3": 6820,
+        "4": 12921,
+        "5": 29786,
+        "6": 69051,
+        "7": 89014,
+        "8": 50256,
+        "9": 18699,
+        "10": 21849
+      },
+      "normalized": 4.4518
+    },
+    "filmweb": {
+      "rating": 6.48,
+      "votes": 76550,
+      "distribution": {
+        "1": 444,
+        "2": 758,
+        "3": 2294,
+        "4": 3908,
+        "5": 9354,
+        "6": 18913,
+        "7": 23204,
+        "8": 12265,
+        "9": 3524,
+        "10": 1886
+      },
+      "normalized": 4.2764
+    },
+    "jarek": {
+      "rating": 3,
+      "date_rated": "25.10.2013",
+      "normalized": 4.2591
+    },
+    "michal": {
+      "rating": 2,
+      "date_rated": "17.05.2016",
+      "normalized": 3.1556
+    },
+    "score": 4.0357
+  },
+  "polish_title": "Olimp w ogniu",
+  "silent": false,
+  "description_pl": "Agent Secret Service - Banning - popada w niełaskę  prezydenta USA po tragicznym w skutkach wypadku. Zostaje odsunięty od  służby bezpośrednio przy głowie państwa i oddelegowany do najmniej  prestiżowych zajęć. Wszystko ulega zmianie, gdy Biały Dom zostaje  zaatakowany przez terrorystów uzbrojonych w niesamowitą technologię,  unieszkodliwiającą cały lokalny system obrony. Wszystkie próby odbicia  budynku, przeprowadzone przez Pentagon, kończą się niepowodzeniem.  Ostatnią szansą na uratowanie prezydenta jest Banning, który po latach  służby zna Biały Dom jak własną kieszeń.",
+  "producers": [
+    {
+      "id": "nm4078620",
+      "name": "Guy Avshalom"
+    },
+    {
+      "id": "nm0124930",
+      "name": "Gerard Butler"
+    },
+    {
+      "id": "nm0146120",
+      "name": "Ed Cathell III"
+    },
+    {
+      "id": "nm0203246",
+      "name": "Boaz Davidson"
+    },
+    {
+      "id": "nm0227234",
+      "name": "Danny Dimbort"
+    },
+    {
+      "id": "nm2803215",
+      "name": "Will French"
+    },
+    {
+      "id": "nm0298807",
+      "name": "Antoine Fuqua"
+    },
+    {
+      "id": "nm1247584",
+      "name": "Mark Gill"
+    },
+    {
+      "id": "nm0436445",
+      "name": "Zygi Kamasa"
+    },
+    {
+      "id": "nm0503592",
+      "name": "Avi Lerner"
+    },
+    {
+      "id": "nm0503600",
+      "name": "Danny Lerner"
+    },
+    {
+      "id": "nm0548335",
+      "name": "Heidi Jo Markel"
+    },
+    {
+      "id": "nm4579268",
+      "name": "Christine Otal"
+    },
+    {
+      "id": "nm1252942",
+      "name": "Lonnie Ramati"
+    },
+    {
+      "id": "nm3244425",
+      "name": "Stephen Roberts"
+    },
+    {
+      "id": "nm2258931",
+      "name": "Danielle Robinson"
+    },
+    {
+      "id": "nm0795121",
+      "name": "Trevor Short"
+    },
+    {
+      "id": "nm2229304",
+      "name": "Alan Siegel"
+    },
+    {
+      "id": "nm0860315",
+      "name": "John Thompson"
+    },
+    {
+      "id": "nm1295321",
+      "name": "Robert Van Norden"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0007129",
+      "name": "Trevor Morris"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0355434",
+      "name": "Conrad W. Hall"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

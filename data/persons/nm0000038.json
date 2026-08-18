@@ -1,0 +1,62 @@
+{
+  "id": "nm0000038",
+  "name": "Grace Kelly",
+  "filmography": [
+    {
+      "imdb_id": "tt0044706",
+      "title": "High Noon",
+      "year": 1952,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Amy Fowler Kane"
+    },
+    {
+      "imdb_id": "tt0046912",
+      "title": "Dial M for Murder",
+      "year": 1954,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Margot Wendice"
+    },
+    {
+      "imdb_id": "tt0047396",
+      "title": "Rear Window",
+      "year": 1954,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Lisa Fremont"
+    },
+    {
+      "imdb_id": "tt0048728",
+      "title": "To Catch a Thief",
+      "year": 1955,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Frances Stevens"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMGU3YzE0YWUtYzlkMy00MmNmLThjM2UtNTEzY2RmNmM5NjU1XkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 9533,
+  "birth_date": "12.11.1929",
+  "death_date": "14.09.1982",
+  "birth_location": "Philadelphia, Pennsylvania, USA",
+  "height": "1.69 m",
+  "imdb_scraped": true,
+  "name_pl": "Grace Kelly",
+  "birth_location_pl": "Filadelfia, Pensylwania",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Monako",
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 9533
+}

@@ -1,0 +1,39 @@
+{
+  "id": "nm0821739",
+  "name": "Sage Stallone",
+  "filmography": [
+    {
+      "imdb_id": "tt0100507",
+      "title": "Rocky V",
+      "year": 1990,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Rocky Jr."
+    },
+    {
+      "imdb_id": "tt0116040",
+      "title": "Daylight",
+      "year": 1996,
+      "roles": [
+        "cast"
+      ],
+      "character": "Vincent"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTI4MTk0ODk5NF5BMl5BanBnXkFtZTcwNzcxNzUzMQ@@._V1_.jpg",
+  "birth_date": "05.05.1976",
+  "death_date": "13.07.2012",
+  "birth_location": "Los Angeles, California, USA",
+  "height": "1.78 m",
+  "imdb_scraped": true,
+  "filmweb_id": 5471,
+  "name_pl": "Sage Stallone",
+  "birth_location_pl": "Los Angeles, Kalifornia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

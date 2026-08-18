@@ -1,0 +1,40 @@
+{
+  "id": "nm0000543",
+  "name": "Sal Mineo",
+  "filmography": [
+    {
+      "imdb_id": "tt0048545",
+      "title": "Rebel Without a Cause",
+      "year": 1955,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Plato Crawford"
+    },
+    {
+      "imdb_id": "tt0049261",
+      "title": "Giant",
+      "year": 1956,
+      "roles": [
+        "cast"
+      ],
+      "character": "Angel Obregón II"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNjVjMjMyNTgtNjkyZi00MzJmLTlkOWItMTlkNDg1NWQzYTI3XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "10.01.1939",
+  "death_date": "12.02.1976",
+  "birth_location": "The Bronx, New York City, New York, USA",
+  "height": "1.68 m",
+  "imdb_scraped": true,
+  "filmweb_id": 42896,
+  "name_pl": "Sal Mineo",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 42896
+}

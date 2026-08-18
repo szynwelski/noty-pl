@@ -1,0 +1,224 @@
+{
+  "imdb_id": "tt6608132",
+  "title": "77 Heartbreaks",
+  "description": "Adam made up his mind to restore Eva's love after he went through Eva's diary that is filled with 77 heartbreaking mistakes made by Adam.",
+  "runtime_minutes": 97,
+  "release_date": "15.06.2017",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm1218953",
+      "name": "Charlene Choi"
+    },
+    {
+      "id": "nm2979788",
+      "name": "Pak-Ho Chau"
+    },
+    {
+      "id": "nm0938893",
+      "name": "Anthony Chau-Sang Wong"
+    },
+    {
+      "id": "nm1239735",
+      "name": "Gillian Chung"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0946875",
+      "name": "Herman Yau"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0497231",
+      "name": "Erica Li"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1218953",
+      "name": "Charlene Choi",
+      "character": "Eva Lui"
+    },
+    {
+      "id": "nm2979788",
+      "name": "Pak-Ho Chau",
+      "character": "Adam Cheung"
+    },
+    {
+      "id": "nm0938893",
+      "name": "Anthony Chau-Sang Wong",
+      "character": "Solicitor Pak"
+    },
+    {
+      "id": "nm1239735",
+      "name": "Gillian Chung",
+      "character": "Heartbeat"
+    },
+    {
+      "id": "nm3588483",
+      "name": "Michelle Wai",
+      "character": "Mandy"
+    },
+    {
+      "id": "nm0516284",
+      "name": "Candy Lo",
+      "character": "Bondy"
+    },
+    {
+      "id": "nm1326593",
+      "name": "Yumiko Cheng",
+      "character": "Cat"
+    },
+    {
+      "id": "nm7674526",
+      "name": "J. Arie",
+      "character": "Daisy"
+    },
+    {
+      "id": "nm3021363",
+      "name": "Sze-Kwan Cheng",
+      "character": "NT"
+    },
+    {
+      "id": "nm3019405",
+      "name": "Wing-Kuen Luk",
+      "character": "Ronnie"
+    },
+    {
+      "id": "nm3280573",
+      "name": "Bob Lam",
+      "character": "Vincent"
+    },
+    {
+      "id": "nm3198671",
+      "name": "Terence Chui",
+      "character": "Francis"
+    },
+    {
+      "id": "nm0401192",
+      "name": "Kara Ying Hung Wai",
+      "character": "Eva's Mother"
+    },
+    {
+      "id": "nm0155593",
+      "name": "Lawrence Cheng",
+      "character": "Eva's Father"
+    },
+    {
+      "id": "nm0496797",
+      "name": "Amanda Lee",
+      "character": "Eva's Client"
+    },
+    {
+      "id": "nm4592338",
+      "name": "Tyson Chak",
+      "character": "Eva's Client"
+    },
+    {
+      "id": "nm0837282",
+      "name": "Paulyn Sun",
+      "character": "Adam's Step Mother"
+    },
+    {
+      "id": "nm4848909",
+      "name": "Rosa Maria Velasco",
+      "character": "Eva's Client"
+    }
+  ],
+  "countries": [
+    "Hong Kong"
+  ],
+  "languages": [
+    "Cantonese"
+  ],
+  "color": "Color",
+  "filmweb_id": 794866,
+  "year": 2017,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BN2EwNDAyZmUtNDkwOC00YmFlLWFlNTgtMGZiYThhYzhmMGFiXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Yuen Loeng Taa 77 Chi",
+  "ratings": {
+    "imdb": {
+      "rating": 6,
+      "votes": 543,
+      "distribution": {
+        "1": 26,
+        "2": 11,
+        "3": 14,
+        "4": 35,
+        "5": 77,
+        "6": 143,
+        "7": 101,
+        "8": 42,
+        "9": 13,
+        "10": 81
+      },
+      "normalized": 4.5968
+    },
+    "filmweb": {
+      "rating": 6.33,
+      "votes": 6,
+      "distribution": {
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1,
+        "6": 3,
+        "7": 1,
+        "8": 1,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 5.1844
+    },
+    "jarek": {
+      "rating": 3,
+      "date_rated": "25.03.2018",
+      "normalized": 4.2591
+    },
+    "score": 4.6801
+  },
+  "polish_title": "Yuan Liang Ta 77 Ci",
+  "silent": false,
+  "producers": [
+    {
+      "id": "nm1743515",
+      "name": "Chi-Wai Fung"
+    },
+    {
+      "id": "nm1707265",
+      "name": "Albert Lee"
+    },
+    {
+      "id": "nm4336842",
+      "name": "Jason Siu"
+    },
+    {
+      "id": "nm3014846",
+      "name": "Qinyi Yao"
+    },
+    {
+      "id": "nm1010222",
+      "name": "Albert Yeung"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm1058561",
+      "name": "Jan-Hung Mak"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm1630424",
+      "name": "Man-Yin Ngai"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

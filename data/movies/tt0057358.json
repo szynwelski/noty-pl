@@ -1,0 +1,197 @@
+{
+  "imdb_id": "tt0057358",
+  "title": "Winter Light",
+  "description": "A small-town priest struggles with his faith.",
+  "runtime_minutes": 81,
+  "release_date": "05.04.1963",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0862026",
+      "name": "Ingrid Thulin"
+    },
+    {
+      "id": "nm0085038",
+      "name": "Gunnar Björnstrand"
+    },
+    {
+      "id": "nm0511458",
+      "name": "Gunnel Lindblom"
+    },
+    {
+      "id": "nm0001884",
+      "name": "Max von Sydow"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000005",
+      "name": "Ingmar Bergman"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000005",
+      "name": "Ingmar Bergman"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0862026",
+      "name": "Ingrid Thulin",
+      "character": "Märta Lundberg"
+    },
+    {
+      "id": "nm0085038",
+      "name": "Gunnar Björnstrand",
+      "character": "Tomas Ericsson"
+    },
+    {
+      "id": "nm0511458",
+      "name": "Gunnel Lindblom",
+      "character": "Karin Persson"
+    },
+    {
+      "id": "nm0001884",
+      "name": "Max von Sydow",
+      "character": "Jonas Persson"
+    },
+    {
+      "id": "nm0249735",
+      "name": "Allan Edwall",
+      "character": "Algot Frövik"
+    },
+    {
+      "id": "nm0461727",
+      "name": "Kolbjörn Knudsen",
+      "character": "Knut Aronsson"
+    },
+    {
+      "id": "nm0862071",
+      "name": "Olof Thunberg",
+      "character": "Fredrik Blom"
+    },
+    {
+      "id": "nm0247955",
+      "name": "Elsa Ebbesen",
+      "character": "Magdalena Ledfors"
+    },
+    {
+      "id": "nm0027741",
+      "name": "Lars-Olof Andersson",
+      "character": "Young Boy"
+    },
+    {
+      "id": "nm0043453",
+      "name": "Eddie Axberg",
+      "character": "Johan Strand"
+    },
+    {
+      "id": "nm0097195",
+      "name": "Tor Borong",
+      "character": "Johan Åkerblom"
+    },
+    {
+      "id": "nm0137324",
+      "name": "Lars-Owe Carlberg",
+      "character": "Parish Constable"
+    },
+    {
+      "id": "nm0387108",
+      "name": "Ingmari Hjort",
+      "character": "Persson's Daughter"
+    },
+    {
+      "id": "nm4948269",
+      "name": "Stefan Larsson",
+      "character": "Persson's Son"
+    },
+    {
+      "id": "nm0960077",
+      "name": "Christer Öhman",
+      "character": "Young Boy"
+    },
+    {
+      "id": "nm0645873",
+      "name": "Johan Olafs",
+      "character": "Gentleman with Horse"
+    },
+    {
+      "id": "nm0845294",
+      "name": "Bertha Sånnell",
+      "character": "Hanna Appelblad"
+    }
+  ],
+  "countries": [
+    "Sweden"
+  ],
+  "languages": [
+    "Swedish"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 31669,
+  "year": 1963,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYzY2OWYwYzgtNzVkOS00ZTdjLTg5NWUtYTY0YzdiYmM4NTlmXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Nattvardsgästerna",
+  "ratings": {
+    "imdb": {
+      "rating": 8,
+      "votes": 29783,
+      "distribution": {
+        "1": 817,
+        "2": 198,
+        "3": 245,
+        "4": 375,
+        "5": 751,
+        "6": 1950,
+        "7": 5113,
+        "8": 8981,
+        "9": 5806,
+        "10": 5547
+      },
+      "normalized": 7.3569
+    },
+    "filmweb": {
+      "rating": 7.64,
+      "votes": 6100,
+      "distribution": {
+        "1": 149,
+        "2": 14,
+        "3": 54,
+        "4": 72,
+        "5": 193,
+        "6": 479,
+        "7": 1295,
+        "8": 2104,
+        "9": 1129,
+        "10": 611
+      },
+      "normalized": 6.9702
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "08.12.2005",
+      "normalized": 7.2292
+    },
+    "score": 7.1854
+  },
+  "polish_title": "Goście Wieczerzy Pańskiej",
+  "silent": false,
+  "description_pl": "Mała osada rybacka. Pastor Tomas Ericson wypełnia obowiązki z poczuciem braku wiary. Gdy przychodzą do niego wierni z problemami i wątpliwościami, słowa pociechy padające z jego ust nie brzmią przekonująco. Dopiero wiadomość o samobójczej śmierci rybaka, któremu pastor nie potrafił pomóc, wywołuje w nim swego rodzaju uniesienie, po którym potrafi odczuwać problemy innych.",
+  "composers": [
+    {
+      "id": "nm0027668",
+      "name": "Evald Andersson"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005815",
+      "name": "Sven Nykvist"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

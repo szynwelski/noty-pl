@@ -1,0 +1,82 @@
+{
+  "imdb_id": "tt0217234",
+  "title": "Admiral Cigarette",
+  "description": "The first advertising film and could be described as the first commercial, even though it was created fifty years before television. This was created in order to sell the brand Admiral Cigarettes.",
+  "runtime_minutes": 1,
+  "release_date": "1897",
+  "genres": [
+    "Documentary",
+    "Short"
+  ],
+  "directors": [
+    {
+      "id": "nm0374658",
+      "name": "William Heise"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 294776,
+  "year": 1897,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZGFkYmU5YzktZjRkZC00ZDIyLWFiNWQtNzM2ZTRhZDY5NTQwXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5,
+      "votes": 621,
+      "distribution": {
+        "1": 40,
+        "2": 31,
+        "3": 40,
+        "4": 103,
+        "5": 174,
+        "6": 110,
+        "7": 65,
+        "8": 18,
+        "9": 13,
+        "10": 27
+      },
+      "normalized": 3.8318
+    },
+    "filmweb": {
+      "rating": 5.22,
+      "votes": 99,
+      "distribution": {
+        "1": 5,
+        "2": 6,
+        "3": 5,
+        "4": 14,
+        "5": 30,
+        "6": 14,
+        "7": 13,
+        "8": 7,
+        "9": 2,
+        "10": 3
+      },
+      "normalized": 4.3802
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "11.12.2016",
+      "normalized": 7.1247
+    },
+    "score": 5.1122
+  },
+  "polish_title": "Admiral Cigarette",
+  "silent": true,
+  "description_pl": "Wcześni producenci filmowi zrozumieli potencjał kinowej reklamy. Do 1897 roku, kilka przedsiębiorstw filmowych Nowego Jorku zrobiło reklamujące się filmy dla różnych produktów i usług. Admirał Cigarette był jednym z najwcześniejszych filmów reklamy Edison. Chociaż poprzednie filmy Edisona wypromowały reklamy kolejowe i często były finansowane przez przedsiębiorstwa kolei, filmy jak Admirał Cigarette były dużo bardziej wyraźne w popieraniu swojej marki.",
+  "cinematographers": [
+    {
+      "id": "nm0374658",
+      "name": "William Heise"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

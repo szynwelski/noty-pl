@@ -1,0 +1,95 @@
+{
+  "imdb_id": "tt0177707",
+  "title": "Dickson Experimental Sound Film",
+  "description": "The earliest extant sound film, but the phonograph soundtrack has been lost. It depicts William K.L. Dickson standing in the background next to a huge sound pickup horn connected to a Thomas Edison phonograph recorder.",
+  "runtime_minutes": 1,
+  "release_date": "31.08.1894",
+  "genres": [
+    "Short",
+    "Music"
+  ],
+  "stars": [
+    {
+      "id": "nm0005690",
+      "name": "William K.L. Dickson"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0005690",
+      "name": "William K.L. Dickson"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0005690",
+      "name": "William K.L. Dickson",
+      "character": "Violinist"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "None",
+    "English"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 272734,
+  "year": 1894,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYzA4NGRjMzMtZDc2Ny00Yzg3LWEzYTItYjk1MjViMDUyZDgxXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.7,
+      "votes": 2847,
+      "distribution": {
+        "1": 67,
+        "2": 40,
+        "3": 71,
+        "4": 128,
+        "5": 383,
+        "6": 550,
+        "7": 738,
+        "8": 383,
+        "9": 136,
+        "10": 351
+      },
+      "normalized": 5.0043
+    },
+    "filmweb": {
+      "rating": 6.07,
+      "votes": 325,
+      "distribution": {
+        "1": 10,
+        "2": 7,
+        "3": 18,
+        "4": 24,
+        "5": 46,
+        "6": 96,
+        "7": 62,
+        "8": 26,
+        "9": 9,
+        "10": 27
+      },
+      "normalized": 4.3414
+    },
+    "jarek": {
+      "rating": 9,
+      "date_rated": "11.12.2016",
+      "normalized": 8.8973
+    },
+    "score": 6.081
+  },
+  "polish_title": "Dickson Experimental Sound Film",
+  "silent": false,
+  "description_pl": "Najwcześniejszy film z dźwiękiem. Dickson stoi w tle koło ogromnego rogu połączonego z fonografem Edisona. Sam gra na skrzypcach a na pierwszym planie tańczy dwóch mężczyzn. Film został stworzony by zademonstrować nową maszynę Edisona. Film istnieje nadal, ale ścieżka dźwiękowa została utracona.",
+  "cinematographers": [
+    {
+      "id": "nm0374658",
+      "name": "William Heise"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

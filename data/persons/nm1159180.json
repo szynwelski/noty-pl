@@ -1,0 +1,60 @@
+{
+  "id": "nm1159180",
+  "name": "Ed Helms",
+  "filmography": [
+    {
+      "imdb_id": "tt1119646",
+      "title": "The Hangover",
+      "year": 2009,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Stu"
+    },
+    {
+      "imdb_id": "tt1411697",
+      "title": "The Hangover Part II",
+      "year": 2011,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Stu"
+    },
+    {
+      "imdb_id": "tt1951261",
+      "title": "The Hangover Part III",
+      "year": 2013,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Stu"
+    },
+    {
+      "imdb_id": "tt1723121",
+      "title": "We're the Millers",
+      "year": 2013,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Brad Gurdlinger"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTk2MDQwODEwNV5BMl5BanBnXkFtZTcwNjc4MTY0NA@@._V1_.jpg",
+  "birth_date": "24.01.1974",
+  "birth_location": "Atlanta, Georgia, USA",
+  "height": "1.86 m",
+  "filmweb_id": 529242,
+  "name_pl": "Ed Helms",
+  "birth_location_pl": "Atlanta, Georgia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 529242
+}

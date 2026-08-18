@@ -1,0 +1,206 @@
+{
+  "imdb_id": "tt0022150",
+  "title": "Le Million",
+  "description": "An impoverished painter and his rival engage in a race across Paris to recover a jacket concealing a winning lottery ticket.",
+  "runtime_minutes": 91,
+  "release_date": "04.02.1931",
+  "genres": [
+    "Comedy",
+    "Musical"
+  ],
+  "stars": [
+    {
+      "id": "nm0030246",
+      "name": "Annabella"
+    },
+    {
+      "id": "nm0499151",
+      "name": "René Lefèvre"
+    },
+    {
+      "id": "nm0021342",
+      "name": "Jean-Louis Allibert"
+    },
+    {
+      "id": "nm0647378",
+      "name": "Paul Ollivier"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0163229",
+      "name": "René Clair"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0077278",
+      "name": "Georges Berr"
+    },
+    {
+      "id": "nm0347058",
+      "name": "Marcel Guillemaud"
+    },
+    {
+      "id": "nm0163229",
+      "name": "René Clair"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0030246",
+      "name": "Annabella",
+      "character": "Béatrice"
+    },
+    {
+      "id": "nm0499151",
+      "name": "René Lefèvre",
+      "character": "Michel Bouflette"
+    },
+    {
+      "id": "nm0021342",
+      "name": "Jean-Louis Allibert",
+      "character": "Prosper"
+    },
+    {
+      "id": "nm0647378",
+      "name": "Paul Ollivier",
+      "character": "Granpère Tulipe"
+    },
+    {
+      "id": "nm0802889",
+      "name": "Constantin Siroesco",
+      "character": "Ambrosio Sopranelli"
+    },
+    {
+      "id": "nm0179690",
+      "name": "Raymond Cordy",
+      "character": "Le chauffeur de taxi"
+    },
+    {
+      "id": "nm0137474",
+      "name": "Vanda Gréville",
+      "character": "Vanda"
+    },
+    {
+      "id": "nm0847851",
+      "name": "Odette Talazac",
+      "character": "La cantatrice"
+    },
+    {
+      "id": "nm0255851",
+      "name": "Pedro Elviro",
+      "character": "Le régisseur"
+    },
+    {
+      "id": "nm0682769",
+      "name": "Jane Pierson",
+      "character": "L'épicière"
+    },
+    {
+      "id": "nm0584703",
+      "name": "A. Michaud",
+      "character": "Le boucher"
+    },
+    {
+      "id": "nm0835954",
+      "name": "Eugène Stuber",
+      "character": "Le policier"
+    },
+    {
+      "id": "nm0017310",
+      "name": "Pierre Alcover",
+      "character": "Le policier"
+    },
+    {
+      "id": "nm0076144",
+      "name": "Armand Bernard",
+      "character": "Le chef d'orchestre"
+    },
+    {
+      "id": "nm0743130",
+      "name": "Gabrielle Rosny",
+      "character": ""
+    },
+    {
+      "id": "nm0198142",
+      "name": "Georgette Dalmas",
+      "character": ""
+    },
+    {
+      "id": "nm1753500",
+      "name": "Jean Gaubens",
+      "character": ""
+    },
+    {
+      "id": "nm0584745",
+      "name": "Teddy Michaud",
+      "character": ""
+    }
+  ],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "French"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 105270,
+  "year": 1931,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjA1MTA3NjI3M15BMl5BanBnXkFtZTcwNTA3OTMyMQ@@._V1_.jpg",
+  "original_title": "Le million",
+  "ratings": {
+    "imdb": {
+      "rating": 7.3,
+      "votes": 4105,
+      "distribution": {
+        "1": 50,
+        "2": 39,
+        "3": 40,
+        "4": 111,
+        "5": 231,
+        "6": 488,
+        "7": 1077,
+        "8": 1121,
+        "9": 469,
+        "10": 479
+      },
+      "normalized": 5.9843
+    },
+    "filmweb": {
+      "rating": 6.38,
+      "votes": 488,
+      "distribution": {
+        "1": 3,
+        "2": 6,
+        "3": 12,
+        "4": 21,
+        "5": 68,
+        "6": 140,
+        "7": 140,
+        "8": 71,
+        "9": 22,
+        "10": 5
+      },
+      "normalized": 4.5151
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "19.10.2005",
+      "normalized": 7.2292
+    },
+    "score": 5.9095
+  },
+  "polish_title": "Milion",
+  "silent": false,
+  "description_pl": "Dwaj nie cieszący się powodzeniem artyści, malarz Michel (René Lefèvre) i rzeźbiarz Prosper (<a href=\"/osoba/?id=nm0021342\">Louis Allibert</a>), mają szczęście. Michel wygrywa milion franków na loterii. Wkłada szczęśliwy los do marynarki, którą ktoś mu kradnie. W pościgu uczestniczą m.in. także wierzyciele i policja...\n\"Milion\" to mistrzowski utwór wczesnego okresu filmu dźwiękowego, a jednocześnie przykład precyzyjnie skonstruowanej komedii muzycznej.",
+  "cinematographers": [
+    {
+      "id": "nm0005838",
+      "name": "Georges Périnal"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-15"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "nm0355278",
+  "name": "Albert Hall",
+  "filmography": [
+    {
+      "imdb_id": "tt0078788",
+      "title": "Apocalypse Now",
+      "year": 1979,
+      "roles": [
+        "cast"
+      ],
+      "character": "Chief"
+    },
+    {
+      "imdb_id": "tt0465234",
+      "title": "National Treasure: Book of Secrets",
+      "year": 2007,
+      "roles": [
+        "cast"
+      ],
+      "character": "Dr. Nichols"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTgwOTY2Mjk3OF5BMl5BanBnXkFtZTYwNzYxMjgy._V1_.jpg",
+  "birth_date": "10.11.1937",
+  "birth_location": "Brighton, Alabama, USA",
+  "height": "1.80 m",
+  "imdb_scraped": true,
+  "filmweb_id": 8457,
+  "name_pl": "Albert Hall",
+  "birth_location_pl": "Brighton, Alabama",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 8457
+}

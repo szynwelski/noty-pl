@@ -1,0 +1,50 @@
+{
+  "id": "nm0000918",
+  "name": "Helmut Berger",
+  "filmography": [
+    {
+      "imdb_id": "tt0064118",
+      "title": "The Damned",
+      "year": 1969,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Martin Von Essenbeck"
+    },
+    {
+      "imdb_id": "tt0071585",
+      "title": "Conversation Piece",
+      "year": 1974,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Konrad Huebel"
+    },
+    {
+      "imdb_id": "tt0099674",
+      "title": "The Godfather Part III",
+      "year": 1990,
+      "roles": [
+        "cast"
+      ],
+      "character": "Frederick Keinszig"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTc2OTEwNzM0Ml5BMl5BanBnXkFtZTgwODQyMzI4MTE@._V1_.jpg",
+  "birth_date": "29.05.1944",
+  "death_date": "18.05.2023",
+  "birth_location": "Bad Ischl, Upper Austria, Austria",
+  "height": "1.84 m",
+  "filmweb_id": 31489,
+  "name_pl": "Helmut Berger",
+  "birth_location_pl": "Bad Ischl",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Austria"
+  ],
+  "wikidata_fw_id": 31489
+}

@@ -1,0 +1,246 @@
+{
+  "imdb_id": "tt0475276",
+  "title": "United 93",
+  "description": "A real-time account of the events on United Flight 93, one of the planes hijacked on September 11th, 2001 that crashed near Shanksville, Pennsylvania when passengers foiled the terrorist plot.",
+  "runtime_minutes": 111,
+  "release_date": "28.04.2006",
+  "genres": [
+    "Action",
+    "Drama",
+    "History",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0059654",
+      "name": "David Alan Basche"
+    },
+    {
+      "id": "nm1880888",
+      "name": "Olivia Thirlby"
+    },
+    {
+      "id": "nm1154919",
+      "name": "Liza Colón-Zayas"
+    },
+    {
+      "id": "nm1838836",
+      "name": "J.J. Johnson"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0339030",
+      "name": "Paul Greengrass"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0339030",
+      "name": "Paul Greengrass"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0059654",
+      "name": "David Alan Basche",
+      "character": "Todd Beamer"
+    },
+    {
+      "id": "nm1880888",
+      "name": "Olivia Thirlby",
+      "character": "Nicole Carol Miller"
+    },
+    {
+      "id": "nm1154919",
+      "name": "Liza Colón-Zayas",
+      "character": "Waleska Martinez"
+    },
+    {
+      "id": "nm1838836",
+      "name": "J.J. Johnson",
+      "character": "Captain Jason M. Dahl"
+    },
+    {
+      "id": "nm2212502",
+      "name": "Gary Commock",
+      "character": "First Officer LeRoy Homer"
+    },
+    {
+      "id": "nm1648515",
+      "name": "Polly Adams",
+      "character": "Deborah Welsh"
+    },
+    {
+      "id": "nm0019832",
+      "name": "Opal Alladin",
+      "character": "CeeCee Lyles"
+    },
+    {
+      "id": "nm0071011",
+      "name": "Starla Benford",
+      "character": "Wanda Anita Green"
+    },
+    {
+      "id": "nm2107865",
+      "name": "Trish Gates",
+      "character": "Sandra Bradshaw"
+    },
+    {
+      "id": "nm0568068",
+      "name": "Nancy McDoniel",
+      "character": "Lorraine G. Bay"
+    },
+    {
+      "id": "nm0063592",
+      "name": "Richard Bekins",
+      "character": "William Joseph Cashman"
+    },
+    {
+      "id": "nm0088964",
+      "name": "Susan Blommaert",
+      "character": "Jane Folger"
+    },
+    {
+      "id": "nm0153186",
+      "name": "Ray Charleson",
+      "character": "Joseph DeLuca"
+    },
+    {
+      "id": "nm0166061",
+      "name": "Christian Clemenson",
+      "character": "Thomas E. Burnett, Jr."
+    },
+    {
+      "id": "nm0198041",
+      "name": "Lorna Dallas",
+      "character": "Linda Gronlund"
+    },
+    {
+      "id": "nm0226986",
+      "name": "Denny Dillon",
+      "character": "Colleen Fraser"
+    },
+    {
+      "id": "nm0242654",
+      "name": "Trieste Kelly Dunn",
+      "character": "Deora Frances Bodley"
+    },
+    {
+      "id": "nm0335494",
+      "name": "Kate Jennings Grant",
+      "character": "Lauren Catuzzi Grandcolas"
+    }
+  ],
+  "countries": [
+    "United Kingdom",
+    "France",
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "German"
+  ],
+  "color": "Color",
+  "filmweb_id": 260187,
+  "year": 2006,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTI1Nzc3NjAwOF5BMl5BanBnXkFtZTcwNzYzMjYzMQ@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.6,
+      "votes": 115963,
+      "distribution": {
+        "1": 4153,
+        "2": 970,
+        "3": 1205,
+        "4": 1990,
+        "5": 4267,
+        "6": 10903,
+        "7": 26208,
+        "8": 31652,
+        "9": 17433,
+        "10": 17182
+      },
+      "normalized": 6.601
+    },
+    "filmweb": {
+      "rating": 6.88,
+      "votes": 24416,
+      "distribution": {
+        "1": 226,
+        "2": 102,
+        "3": 361,
+        "4": 696,
+        "5": 1949,
+        "6": 4879,
+        "7": 8569,
+        "8": 5072,
+        "9": 1428,
+        "10": 1134
+      },
+      "normalized": 5.4052
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "13.11.2006",
+      "normalized": 6.3474
+    },
+    "score": 6.1179
+  },
+  "polish_title": "Lot 93",
+  "silent": false,
+  "description_pl": "11 września 2001 r. Ameryka była świadkiem trzech ataków terrorystycznych, kiedy to trzy samoloty zostały uprowadzone, jeden zniszczył Pentagon, a dwa - wieże World Trade Center. Lecz był jeszcze jeden samolot, który nigdy do dosięgną swojego celu. Pasażerowie lotu 93 uratowali tysiące żyć, chociaż oznaczało to, że oni sami będą musieli umrzeć. To ich historia. Historia lotu 93.",
+  "producers": [
+    {
+      "id": "nm0079262",
+      "name": "Mairi Bett"
+    },
+    {
+      "id": "nm0079677",
+      "name": "Tim Bevan"
+    },
+    {
+      "id": "nm2224890",
+      "name": "Michael Bronner"
+    },
+    {
+      "id": "nm0153877",
+      "name": "Liza Chasin"
+    },
+    {
+      "id": "nm0271479",
+      "name": "Eric Fellner"
+    },
+    {
+      "id": "nm0339030",
+      "name": "Paul Greengrass"
+    },
+    {
+      "id": "nm0371735",
+      "name": "Debra Hayward"
+    },
+    {
+      "id": "nm0505656",
+      "name": "Lloyd Levin"
+    },
+    {
+      "id": "nm1660747",
+      "name": "Kate Solomon"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0694173",
+      "name": "John Powell"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0010096",
+      "name": "Barry Ackroyd"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

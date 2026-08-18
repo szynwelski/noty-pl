@@ -1,0 +1,147 @@
+{
+  "imdb_id": "tt0455565",
+  "title": "Jack-Jack Attack",
+  "description": "The Parrs' baby Jack-Jack is thought to be normal, not having any super-powers like his parents or siblings. But when an outsider is hired to watch him, Jack-Jack shows his true potential.",
+  "runtime_minutes": 5,
+  "release_date": "11.01.2008",
+  "genres": [
+    "Animation",
+    "Short",
+    "Adventure",
+    "Comedy",
+    "Family"
+  ],
+  "stars": [
+    {
+      "id": "nm0662088",
+      "name": "Bret 'Brook' Parker"
+    },
+    {
+      "id": "nm0524726",
+      "name": "Bud Luckey"
+    },
+    {
+      "id": "nm1747568",
+      "name": "Eli Fucile"
+    },
+    {
+      "id": "nm0005134",
+      "name": "Jason Lee"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0083348",
+      "name": "Brad Bird"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0083348",
+      "name": "Brad Bird"
+    },
+    {
+      "id": "nm0628599",
+      "name": "Teddy Newton"
+    },
+    {
+      "id": "nm0028764",
+      "name": "Mark Andrews"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0662088",
+      "name": "Bret 'Brook' Parker",
+      "character": "Kari McKeen"
+    },
+    {
+      "id": "nm0524726",
+      "name": "Bud Luckey",
+      "character": "Agent Rick Dicker"
+    },
+    {
+      "id": "nm1747568",
+      "name": "Eli Fucile",
+      "character": "Jack-Jack"
+    },
+    {
+      "id": "nm0005134",
+      "name": "Jason Lee",
+      "character": "Syndrome"
+    },
+    {
+      "id": "nm11541062",
+      "name": "Arwa",
+      "character": "Ladybug"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "year": 2005,
+  "type": "video",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzdmN2U1YTQtNTQ2Zi00YTBlLThjYTQtNzJhODE4YTk4NzY2XkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 250282,
+  "ratings": {
+    "imdb": {
+      "rating": 7.5,
+      "votes": 19806,
+      "distribution": {
+        "1": 137,
+        "2": 74,
+        "3": 99,
+        "4": 259,
+        "5": 717,
+        "6": 2271,
+        "7": 5689,
+        "8": 5997,
+        "9": 2140,
+        "10": 2423
+      },
+      "normalized": 6.3547
+    },
+    "filmweb": {
+      "rating": 6.76,
+      "votes": 6950,
+      "distribution": {
+        "1": 36,
+        "2": 26,
+        "3": 113,
+        "4": 246,
+        "5": 718,
+        "6": 1623,
+        "7": 2212,
+        "8": 1296,
+        "9": 428,
+        "10": 252
+      },
+      "normalized": 5.061
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "26.12.2020",
+      "normalized": 4.5781
+    },
+    "score": 5.3313
+  },
+  "polish_title": "Niemowlę kontratakuje",
+  "silent": false,
+  "description_pl": "Dodatek do wydania DVD przeboju Disneya \"Iniemamocni\". Rodzina Parrów jest niezwykłą rodziną - praktycznie wszyscy jej członkowie posiadają nadnaturalne moce, dzięki którym ratują świat. Wyjątkiem jest najmłodszy członek rodziny - Jack-Jack. Nikt, jak dotąd, nie zauważył u niego nadzwyczajnych uzdolnień. Jednak pod nieobecność rodziny chłopiec zaczyna ukazywać drzemiący w nim potencjał...",
+  "producers": [
+    {
+      "id": "nm0005124",
+      "name": "John Lasseter"
+    },
+    {
+      "id": "nm1575873",
+      "name": "Osnat Shurer"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

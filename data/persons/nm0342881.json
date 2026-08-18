@@ -1,0 +1,37 @@
+{
+  "id": "nm0342881",
+  "name": "Harry Groener",
+  "filmography": [
+    {
+      "imdb_id": "tt0257360",
+      "title": "About Schmidt",
+      "year": 2002,
+      "roles": [
+        "cast"
+      ],
+      "character": "John Rusk"
+    },
+    {
+      "imdb_id": "tt15398776",
+      "title": "Oppenheimer",
+      "year": 2023,
+      "roles": [
+        "cast"
+      ],
+      "character": "Senator McGee"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTgxODY1MTcyMV5BMl5BanBnXkFtZTYwODAwNTA1._V1_.jpg",
+  "birth_date": "10.09.1951",
+  "birth_location": "Augsburg, Bavaria, Germany",
+  "imdb_scraped": true,
+  "filmweb_id": 59103,
+  "name_pl": "Harry Groener",
+  "birth_location_pl": "Augsburg",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 59103
+}

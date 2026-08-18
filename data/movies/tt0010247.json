@@ -1,0 +1,201 @@
+{
+  "imdb_id": "tt0010247",
+  "title": "Sir Arne's Treasure",
+  "description": "In 16th century Sweden, the lives of three Scottish mercenaries and a vicar's family intersect after a crime forever alters a small coastal town. As the three try to escape, they find themselves trapped when all ships are frozen in ice.",
+  "runtime_minutes": 122,
+  "release_date": "10.12.1921",
+  "genres": [
+    "Drama",
+    "History"
+  ],
+  "stars": [
+    {
+      "id": "nm0830862",
+      "name": "Erik Stocklassa"
+    },
+    {
+      "id": "nm0074129",
+      "name": "Bror Berger"
+    },
+    {
+      "id": "nm0526234",
+      "name": "Richard Lund"
+    },
+    {
+      "id": "nm0632163",
+      "name": "Axel Nilsson"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0830249",
+      "name": "Mauritz Stiller"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0481248",
+      "name": "Selma Lagerlöf"
+    },
+    {
+      "id": "nm0596410",
+      "name": "Gustaf Molander"
+    },
+    {
+      "id": "nm0830249",
+      "name": "Mauritz Stiller"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0830862",
+      "name": "Erik Stocklassa",
+      "character": "Sir Filip"
+    },
+    {
+      "id": "nm0074129",
+      "name": "Bror Berger",
+      "character": "Sir Donald"
+    },
+    {
+      "id": "nm0526234",
+      "name": "Richard Lund",
+      "character": "Sir Archi"
+    },
+    {
+      "id": "nm0632163",
+      "name": "Axel Nilsson",
+      "character": "Torarin"
+    },
+    {
+      "id": "nm0782944",
+      "name": "Hjalmar Selander",
+      "character": "Herr Arne"
+    },
+    {
+      "id": "nm0782943",
+      "name": "Concordia Selander",
+      "character": "Herr Arne's Wife"
+    },
+    {
+      "id": "nm0348978",
+      "name": "Gösta Gustafson",
+      "character": "Priest"
+    },
+    {
+      "id": "nm0425770",
+      "name": "Mary Johnson",
+      "character": "Elsalill"
+    },
+    {
+      "id": "nm0745192",
+      "name": "Wanda Rothgardt",
+      "character": "Berghild"
+    },
+    {
+      "id": "nm0073906",
+      "name": "Stina Berg",
+      "character": "Landlady"
+    },
+    {
+      "id": "nm0036967",
+      "name": "Gustav Aronson",
+      "character": "Shipmaster"
+    },
+    {
+      "id": "nm0960089",
+      "name": "Jenny Öhrström Ebbesen",
+      "character": "Katri"
+    },
+    {
+      "id": "nm0071091",
+      "name": "Josua Bengtson",
+      "character": "Jailer"
+    },
+    {
+      "id": "nm0089002",
+      "name": "Georg Blomstedt",
+      "character": "Inn-Keeper"
+    },
+    {
+      "id": "nm0259529",
+      "name": "Albin Erlandzon",
+      "character": "Sailor"
+    },
+    {
+      "id": "nm0638827",
+      "name": "Yngve Nyqvist",
+      "character": "Coal Worker"
+    },
+    {
+      "id": "nm0738553",
+      "name": "Artur Rolén",
+      "character": "Sailor"
+    }
+  ],
+  "countries": [
+    "Sweden"
+  ],
+  "languages": [
+    "None",
+    "Swedish"
+  ],
+  "color": null,
+  "year": 1919,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMWM1OGQwNDAtYjUzMi00OThjLWJjYjItN2U4N2NhNTk1MDMxXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 103720,
+  "original_title": "Herr Arnes pengar",
+  "ratings": {
+    "imdb": {
+      "rating": 7.1,
+      "votes": 1709,
+      "distribution": {
+        "1": 150,
+        "2": 11,
+        "3": 29,
+        "4": 39,
+        "5": 97,
+        "6": 220,
+        "7": 464,
+        "8": 324,
+        "9": 179,
+        "10": 196
+      },
+      "normalized": 5.633
+    },
+    "filmweb": {
+      "rating": 7.05,
+      "votes": 801,
+      "distribution": {
+        "1": 2,
+        "2": 4,
+        "3": 15,
+        "4": 17,
+        "5": 67,
+        "6": 125,
+        "7": 260,
+        "8": 215,
+        "9": 63,
+        "10": 33
+      },
+      "normalized": 5.5302
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "16.12.2007",
+      "normalized": 5.4199
+    },
+    "score": 5.5277
+  },
+  "polish_title": "Skarb rodu Arne",
+  "silent": true,
+  "description_pl": "Akcja rozgrywa się na przełomie średniowiecza i czasów nowożytnych. Elsalill, przybrana córka bogatego pana Arne'a, jest jedyną, która przeżyła krawawy najazd, jaki jej rodzinie zgotowali żołnierze szkoccy. Nie wiedząc o tym, zakochuje się w jednym z żołnierzy.",
+  "composers": [
+    {
+      "id": "nm2443910",
+      "name": "Fredrik Emilson"
+    }
+  ],
+  "fetched_at": "2026-08-15"
+}

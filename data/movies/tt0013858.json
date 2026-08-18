@@ -1,0 +1,141 @@
+{
+  "imdb_id": "tt0013858",
+  "title": "The Balloonatic",
+  "description": "A hapless amusement park attendant finds his runaway balloon ride has left him in a strange predicament.",
+  "runtime_minutes": 22,
+  "release_date": "22.01.1923",
+  "genres": [
+    "Short",
+    "Comedy"
+  ],
+  "stars": [
+    {
+      "id": "nm0000036",
+      "name": "Buster Keaton"
+    },
+    {
+      "id": "nm9261438",
+      "name": "John Brown"
+    },
+    {
+      "id": "nm0369793",
+      "name": "Phyllis Haver"
+    },
+    {
+      "id": "nm0518673",
+      "name": "Babe London"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0166836",
+      "name": "Edward F. Cline"
+    },
+    {
+      "id": "nm0000036",
+      "name": "Buster Keaton"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000036",
+      "name": "Buster Keaton"
+    },
+    {
+      "id": "nm0166836",
+      "name": "Edward F. Cline"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000036",
+      "name": "Buster Keaton",
+      "character": "The Young Man"
+    },
+    {
+      "id": "nm9261438",
+      "name": "John Brown",
+      "character": "A Bear"
+    },
+    {
+      "id": "nm0369793",
+      "name": "Phyllis Haver",
+      "character": "The Young Woman"
+    },
+    {
+      "id": "nm0518673",
+      "name": "Babe London",
+      "character": "Fat Girl at The House of Trouble"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "None",
+    "English"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 96154,
+  "year": 1923,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDQ3MGRhZjctYzYwYy00ZmQ4LTkyNzktZTM2NWZmZDY0YTIyXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Balloonatic",
+  "ratings": {
+    "imdb": {
+      "rating": 6.6,
+      "votes": 3517,
+      "distribution": {
+        "1": 24,
+        "2": 27,
+        "3": 38,
+        "4": 137,
+        "5": 333,
+        "6": 932,
+        "7": 1193,
+        "8": 530,
+        "9": 135,
+        "10": 168
+      },
+      "normalized": 4.7932
+    },
+    "filmweb": {
+      "rating": 6.03,
+      "votes": 299,
+      "distribution": {
+        "2": 3,
+        "3": 7,
+        "4": 20,
+        "5": 63,
+        "6": 102,
+        "7": 74,
+        "8": 23,
+        "9": 4,
+        "10": 3
+      },
+      "normalized": 4.3385
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "01.07.2007",
+      "normalized": 4.5781
+    },
+    "score": 4.5699
+  },
+  "polish_title": "Zrobiony w balona",
+  "silent": true,
+  "description_pl": "Buster i Phyllis rywalizuję ze sobą. Próbują sobie udowodnić, poprzez uczestniczenie w wielu przygodach, swoje umiejętności dotyczące przetrwania na dzikim terenie. Tak zwane \"survival skills\". Buster używa nawet Balonu... Ta krótkometrażowa komedia jest jedną z ostatnich z udziałem Bustera Keatona, który już wkrótce zaczyna występować w filmach długometrażowych.",
+  "composers": [
+    {
+      "id": "nm1180175",
+      "name": "John Pattison"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0504380",
+      "name": "Elgin Lessley"
+    }
+  ],
+  "fetched_at": "2026-08-15"
+}

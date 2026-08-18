@@ -1,0 +1,45 @@
+{
+  "id": "nm0000570",
+  "name": "Alan Parker",
+  "filmography": [
+    {
+      "imdb_id": "tt0086969",
+      "title": "Birdy",
+      "year": 1984,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0095647",
+      "title": "Mississippi Burning",
+      "year": 1988,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0289992",
+      "title": "The Life of David Gale",
+      "year": 2003,
+      "roles": [
+        "director",
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOGJjMzFiYTgtY2JkOS00MGM0LTk4NjctMzNhZDNiN2JhNGFhXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "14.02.1944",
+  "death_date": "31.07.2020",
+  "birth_location": "Islington, London, England, UK",
+  "filmweb_id": 11456,
+  "name_pl": "Alan Parker",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 11456
+}

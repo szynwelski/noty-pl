@@ -1,0 +1,39 @@
+{
+  "id": "nm0000428",
+  "name": "D.W. Griffith",
+  "filmography": [
+    {
+      "imdb_id": "tt0004972",
+      "title": "The Birth of a Nation",
+      "year": 1915,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0009968",
+      "title": "Broken Blossoms",
+      "year": 1919,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTc4ZWFkM2ItZDAyZS00YzE5LTk4OTktZjU3NDkzMjliMTFjXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "22.01.1875",
+  "death_date": "23.07.1948",
+  "birth_location": "LaGrange, Kentucky, USA",
+  "height": "1.80 m",
+  "imdb_scraped": true,
+  "filmweb_id": 47702,
+  "name_pl": "D.W. Griffith",
+  "birth_location_pl": "LaGrange, Kentucky",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

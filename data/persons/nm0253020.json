@@ -1,0 +1,50 @@
+{
+  "id": "nm0253020",
+  "name": "Dana Elcar",
+  "filmography": [
+    {
+      "imdb_id": "tt0070735",
+      "title": "The Sting",
+      "year": 1973,
+      "roles": [
+        "cast"
+      ],
+      "character": "F.B.I. Agent Polk"
+    },
+    {
+      "imdb_id": "tt0088559",
+      "title": "MacGyver",
+      "year": 1985,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Pete Thornton"
+    },
+    {
+      "imdb_id": "tt0165375",
+      "title": "Pilot",
+      "year": 1985,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Andy Colson"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTU5NjkwMzc4Nl5BMl5BanBnXkFtZTcwNTY1MTYxOA@@._V1_.jpg",
+  "birth_date": "10.10.1927",
+  "death_date": "06.06.2005",
+  "birth_location": "Ferndale, Michigan, USA",
+  "height": "1.84 m",
+  "filmweb_id": 42407,
+  "name_pl": "Dana Elcar",
+  "birth_location_pl": "Ferndale, Michigan",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 42407
+}

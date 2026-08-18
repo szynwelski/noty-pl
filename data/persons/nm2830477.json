@@ -1,0 +1,29 @@
+{
+  "id": "nm2830477",
+  "name": "Piotr Polak",
+  "filmography": [
+    {
+      "imdb_id": "tt5782146",
+      "title": "The Man with the Magic Box",
+      "year": 2017,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Adam"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTBhOWM4NWItMDMxNC00ZjYwLWI4MGUtZmZkMGVkZjY3OTI3XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "24.12.1980",
+  "birth_location": "Kraków, Malopolskie, Poland",
+  "imdb_scraped": true,
+  "filmweb_id": 117975,
+  "name_pl": "Piotr Polak",
+  "birth_location_pl": "Kraków",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Polska"
+  ],
+  "wikidata_fw_id": 117975
+}

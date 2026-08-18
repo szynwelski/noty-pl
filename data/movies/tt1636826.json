@@ -1,0 +1,231 @@
+{
+  "imdb_id": "tt1636826",
+  "title": "Project X",
+  "description": "Three high-school seniors throw a birthday party to make a name for themselves, but things spiral out of control as word of the party spreads.",
+  "runtime_minutes": 88,
+  "release_date": "02.03.2012",
+  "genres": [
+    "Comedy",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm3287038",
+      "name": "Thomas Mann"
+    },
+    {
+      "id": "nm3967796",
+      "name": "Oliver Cooper"
+    },
+    {
+      "id": "nm3967854",
+      "name": "Jonathan Daniel Brown"
+    },
+    {
+      "id": "nm3967702",
+      "name": "Dax Flame"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm1294036",
+      "name": "Nima Nourizadeh"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0236966",
+      "name": "Matt Drake"
+    },
+    {
+      "id": "nm0045209",
+      "name": "Michael Bacall"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm3287038",
+      "name": "Thomas Mann",
+      "character": "Thomas"
+    },
+    {
+      "id": "nm3967796",
+      "name": "Oliver Cooper",
+      "character": "Costa"
+    },
+    {
+      "id": "nm3967854",
+      "name": "Jonathan Daniel Brown",
+      "character": "JB"
+    },
+    {
+      "id": "nm3967702",
+      "name": "Dax Flame",
+      "character": "Dax"
+    },
+    {
+      "id": "nm1926300",
+      "name": "Kirby Bliss Blanton",
+      "character": "Kirby"
+    },
+    {
+      "id": "nm1879875",
+      "name": "Brady Hender",
+      "character": "Everett"
+    },
+    {
+      "id": "nm2165686",
+      "name": "Nick Nervies",
+      "character": "Tyler"
+    },
+    {
+      "id": "nm3625065",
+      "name": "Alexis Knapp",
+      "character": "Alexis"
+    },
+    {
+      "id": "nm1886602",
+      "name": "Miles Teller",
+      "character": "Miles"
+    },
+    {
+      "id": "nm0533380",
+      "name": "Peter Mackenzie",
+      "character": "Dad"
+    },
+    {
+      "id": "nm0241290",
+      "name": "Caitlin Dulany",
+      "character": "Mom"
+    },
+    {
+      "id": "nm1260534",
+      "name": "Rob Evors",
+      "character": "Rob"
+    },
+    {
+      "id": "nm0788617",
+      "name": "Rick Shapiro",
+      "character": "T-Rick"
+    },
+    {
+      "id": "nm0458514",
+      "name": "Martin Klebba",
+      "character": "Angry Little Person"
+    },
+    {
+      "id": "nm0307066",
+      "name": "Pete Gardner",
+      "character": "Older Guy"
+    },
+    {
+      "id": "nm3783235",
+      "name": "Nichole Sakura",
+      "character": "JB's Girl"
+    },
+    {
+      "id": "nm3137618",
+      "name": "Sam Lant",
+      "character": "Freshman Party Crasher"
+    },
+    {
+      "id": "nm4913288",
+      "name": "Henry Michaelson",
+      "character": "Freshman Party Crasher"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 566646,
+  "year": 2012,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTc1MTk0Njg4OF5BMl5BanBnXkFtZTcwODc0ODkyNw@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.7,
+      "votes": 260840,
+      "distribution": {
+        "1": 5887,
+        "2": 3408,
+        "3": 5295,
+        "4": 9591,
+        "5": 21490,
+        "6": 46973,
+        "7": 71543,
+        "8": 47429,
+        "9": 20006,
+        "10": 29218
+      },
+      "normalized": 4.8704
+    },
+    "filmweb": {
+      "rating": 6.48,
+      "votes": 184768,
+      "distribution": {
+        "1": 2415,
+        "2": 2751,
+        "3": 7293,
+        "4": 11335,
+        "5": 22596,
+        "6": 40085,
+        "7": 47753,
+        "8": 29372,
+        "9": 11905,
+        "10": 9263
+      },
+      "normalized": 4.2674
+    },
+    "michal": {
+      "rating": 3,
+      "date_rated": "01.05.2015",
+      "normalized": 3.8753
+    },
+    "score": 4.3377
+  },
+  "polish_title": "Projekt X",
+  "silent": false,
+  "description_pl": "\"Project X\" to szalona komedia o przygodach grupki kolegów, którzy postanawiają zorganizować najbardziej wystrzałową imprezę urodzinową w historii. Film przedstawia widziane z perspektywy cyfrowych kamer przyjęcie zorganizowane przez nastolatków, które zupełnie wymyka się spod kontroli.",
+  "producers": [
+    {
+      "id": "nm0119056",
+      "name": "Scott Budnick"
+    },
+    {
+      "id": "nm0263988",
+      "name": "Marty P. Ewing"
+    },
+    {
+      "id": "nm2670366",
+      "name": "Alex Heineman"
+    },
+    {
+      "id": "nm0680846",
+      "name": "Todd Phillips"
+    },
+    {
+      "id": "nm0724345",
+      "name": "Steve Richards"
+    },
+    {
+      "id": "nm0739868",
+      "name": "Andrew Rona"
+    },
+    {
+      "id": "nm0005428",
+      "name": "Joel Silver"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm1092952",
+      "name": "Ken Seng"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

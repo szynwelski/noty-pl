@@ -1,0 +1,51 @@
+{
+  "id": "nm0001612",
+  "name": "Matthew Perry",
+  "filmography": [
+    {
+      "imdb_id": "tt0108778",
+      "title": "Friends",
+      "year": 1994,
+      "roles": [
+        "cast"
+      ],
+      "character": "Chandler Bing"
+    },
+    {
+      "imdb_id": "tt0190138",
+      "title": "The Whole Nine Yards",
+      "year": 2000,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Oz Oseransky"
+    },
+    {
+      "imdb_id": "tt0974661",
+      "title": "17 Again",
+      "year": 2009,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Mike O'Donnell (Adult)"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTMwODc5NjI3N15BMl5BanBnXkFtZTcwNDEyMTE3Mw@@._V1_.jpg",
+  "birth_date": "19.08.1969",
+  "death_date": "28.10.2023",
+  "birth_location": "Williamstown, Massachusetts, USA",
+  "height": "1.83 m",
+  "filmweb_id": 7802,
+  "name_pl": "Matthew Perry",
+  "birth_location_pl": "Williamstown, Massachusetts",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Kanada",
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 7802
+}

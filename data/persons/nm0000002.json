@@ -1,0 +1,89 @@
+{
+  "id": "nm0000002",
+  "name": "Lauren Bacall",
+  "filmography": [
+    {
+      "imdb_id": "tt0038355",
+      "title": "The Big Sleep",
+      "year": 1946,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Vivian Rutledge"
+    },
+    {
+      "imdb_id": "tt0040506",
+      "title": "Key Largo",
+      "year": 1948,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Nora Temple"
+    },
+    {
+      "imdb_id": "tt0071877",
+      "title": "Murder on the Orient Express",
+      "year": 1974,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Mrs. Harriet Hubbard"
+    },
+    {
+      "imdb_id": "tt0100157",
+      "title": "Misery",
+      "year": 1990,
+      "roles": [
+        "cast"
+      ],
+      "character": "Marcia Sindell"
+    },
+    {
+      "imdb_id": "tt0276919",
+      "title": "Dogville",
+      "year": 2003,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Ma Ginger"
+    },
+    {
+      "imdb_id": "tt0337876",
+      "title": "Birth",
+      "year": 2004,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Eleanor"
+    },
+    {
+      "imdb_id": "tt0342735",
+      "title": "Manderlay",
+      "year": 2005,
+      "roles": [
+        "cast"
+      ],
+      "character": "Mam"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZDI1ZDhmMzAtNzVlYS00NTQxLWJjYWYtMDJlOGNlNzk5N2E1XkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 132,
+  "birth_date": "16.09.1924",
+  "death_date": "12.08.2014",
+  "birth_location": "The Bronx, New York City, New York, USA",
+  "height": "1.74 m",
+  "imdb_scraped": true,
+  "name_pl": "Lauren Bacall",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 132
+}

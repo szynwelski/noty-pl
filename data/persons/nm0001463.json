@@ -1,0 +1,59 @@
+{
+  "id": "nm0001463",
+  "name": "Janet Leigh",
+  "filmography": [
+    {
+      "imdb_id": "tt0051036",
+      "title": "Sweet Smell of Success",
+      "year": 1957,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0052311",
+      "title": "Touch of Evil",
+      "year": 1958,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Susan Vargas"
+    },
+    {
+      "imdb_id": "tt0054215",
+      "title": "Psycho",
+      "year": 1960,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Marion Crane"
+    },
+    {
+      "imdb_id": "tt0056218",
+      "title": "The Manchurian Candidate",
+      "year": 1962,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Eugenie Rose Chaney"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNmQ0Yzc1NjEtNGRmZi00YmJiLWI1MzAtMmNlNDJlYTU3MTJkXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "06.07.1927",
+  "death_date": "03.10.2004",
+  "birth_location": "Merced, California, USA",
+  "height": "1.65 m",
+  "filmweb_id": 3166,
+  "name_pl": "Janet Leigh",
+  "birth_location_pl": "Merced, Kalifornia",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 3166
+}

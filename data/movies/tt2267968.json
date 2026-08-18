@@ -1,0 +1,247 @@
+{
+  "imdb_id": "tt2267968",
+  "title": "Kung Fu Panda 3",
+  "description": "Continuing his \"legendary adventures of awesomeness\", Po must face two hugely epic, but different threats: one supernatural and the other a little closer to home.",
+  "runtime_minutes": 95,
+  "release_date": "29.01.2016",
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Family",
+    "Fantasy"
+  ],
+  "stars": [
+    {
+      "id": "nm0085312",
+      "name": "Jack Black"
+    },
+    {
+      "id": "nm0186505",
+      "name": "Bryan Cranston"
+    },
+    {
+      "id": "nm0000163",
+      "name": "Dustin Hoffman"
+    },
+    {
+      "id": "nm0001401",
+      "name": "Angelina Jolie"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm1868917",
+      "name": "Alessandro Carloni"
+    },
+    {
+      "id": "nm0950775",
+      "name": "Jennifer Yuh Nelson"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0008743",
+      "name": "Jonathan Aibel"
+    },
+    {
+      "id": "nm0074184",
+      "name": "Glenn Berger"
+    },
+    {
+      "id": "nm0717550",
+      "name": "Ethan Reiff"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0085312",
+      "name": "Jack Black",
+      "character": "Po"
+    },
+    {
+      "id": "nm0186505",
+      "name": "Bryan Cranston",
+      "character": "Li"
+    },
+    {
+      "id": "nm0000163",
+      "name": "Dustin Hoffman",
+      "character": "Shifu"
+    },
+    {
+      "id": "nm0001401",
+      "name": "Angelina Jolie",
+      "character": "Tigress"
+    },
+    {
+      "id": "nm0799777",
+      "name": "J.K. Simmons",
+      "character": "Kai"
+    },
+    {
+      "id": "nm0000329",
+      "name": "Jackie Chan",
+      "character": "Monkey"
+    },
+    {
+      "id": "nm0736622",
+      "name": "Seth Rogen",
+      "character": "Mantis"
+    },
+    {
+      "id": "nm0005154",
+      "name": "Lucy Liu",
+      "character": "Viper"
+    },
+    {
+      "id": "nm0189144",
+      "name": "David Cross",
+      "character": "Crane"
+    },
+    {
+      "id": "nm0005028",
+      "name": "Kate Hudson",
+      "character": "Mei Mei"
+    },
+    {
+      "id": "nm0393222",
+      "name": "James Hong",
+      "character": "Mr. Ping"
+    },
+    {
+      "id": "nm0453641",
+      "name": "Randall Duk Kim",
+      "character": "Oogway"
+    },
+    {
+      "id": "nm3241020",
+      "name": "Steele Gagnon",
+      "character": "Bao"
+    },
+    {
+      "id": "nm4477006",
+      "name": "Liam Knight",
+      "character": "Lei Lei"
+    },
+    {
+      "id": "nm0001431",
+      "name": "Wayne Knight",
+      "character": "Big Fun"
+    },
+    {
+      "id": "nm0228183",
+      "name": "Barbara Dirickson",
+      "character": "Grandma Panda"
+    },
+    {
+      "id": "nm0737963",
+      "name": "Al Roker",
+      "character": "Sum"
+    },
+    {
+      "id": "nm1991550",
+      "name": "Willie Geist",
+      "character": "Dim"
+    }
+  ],
+  "countries": [
+    "United States",
+    "China"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 606583,
+  "year": 2016,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTUyNzgxNjg2M15BMl5BanBnXkFtZTgwMTY1NDI1NjE@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.1,
+      "votes": 222283,
+      "distribution": {
+        "1": 1295,
+        "2": 661,
+        "3": 1481,
+        "4": 3653,
+        "5": 11791,
+        "6": 37789,
+        "7": 77662,
+        "8": 50091,
+        "9": 17696,
+        "10": 20164
+      },
+      "normalized": 5.7568
+    },
+    "filmweb": {
+      "rating": 7.16,
+      "votes": 60029,
+      "distribution": {
+        "1": 99,
+        "2": 91,
+        "3": 347,
+        "4": 880,
+        "5": 3343,
+        "6": 10680,
+        "7": 22073,
+        "8": 15525,
+        "9": 4593,
+        "10": 2398
+      },
+      "normalized": 5.9334
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "29.03.2022",
+      "normalized": 4.9718
+    },
+    "score": 5.554
+  },
+  "polish_title": "Kung Fu Panda 3",
+  "silent": false,
+  "description_pl": "Po spotyka swego dawno zaginionego ojca i obaj wyruszają do sekretnej krainy pand, gdzie poznają nowych, przezabawnych bohaterów. Gdy nadprzyrodzony złoczyńca Kai zaczyna pustoszyć całe Chiny, pokonując wszystkich mistrzów kung fu, Po musi dokonać niemożliwego - wytrenować całą wioskę swych rozbrykanych, niezdarnych współbraci, by utworzyli drużynę niepokonanych Kung Fu Pand!",
+  "producers": [
+    {
+      "id": "nm0008743",
+      "name": "Jonathan Aibel"
+    },
+    {
+      "id": "nm0074184",
+      "name": "Glenn Berger"
+    },
+    {
+      "id": "nm0167795",
+      "name": "Melissa Cobb"
+    },
+    {
+      "id": "nm0868219",
+      "name": "Guillermo del Toro"
+    },
+    {
+      "id": "nm1915863",
+      "name": "Jeff Hermann"
+    },
+    {
+      "id": "nm6206158",
+      "name": "Peikang La"
+    },
+    {
+      "id": "nm2548474",
+      "name": "Ruigang Li"
+    },
+    {
+      "id": "nm0593610",
+      "name": "Mike Mitchell"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0001877",
+      "name": "Hans Zimmer"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

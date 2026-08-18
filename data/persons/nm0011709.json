@@ -1,0 +1,36 @@
+{
+  "id": "nm0011709",
+  "name": "John Addison",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOTQwZmE3NGYtNDZiZS00ZDg0LTk4OTQtOWZhOGQ3YTEwZGExXkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0056194",
+      "title": "The Loneliness of the Long Distance Runner",
+      "year": 1962,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt0069281",
+      "title": "Sleuth",
+      "year": 1972,
+      "roles": [
+        "composer"
+      ]
+    }
+  ],
+  "birth_date": "16.03.1920",
+  "death_date": "07.12.1998",
+  "birth_location": "West Chobham, Surrey, England, UK",
+  "imdb_scraped": true,
+  "filmweb_id": 43062,
+  "name_pl": "John Addison",
+  "birth_location_pl": "West Chobham, Anglia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania",
+    "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii"
+  ]
+}

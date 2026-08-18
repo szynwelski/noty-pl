@@ -1,0 +1,234 @@
+{
+  "imdb_id": "tt0032138",
+  "title": "The Wizard of Oz",
+  "description": "Young Dorothy Gale and her dog Toto are swept away by a tornado from their Kansas farm to the magical Land of Oz and embark on a quest with three new friends to see the Wizard, who can return her to her home and fulfill the others' wishes.",
+  "runtime_minutes": 102,
+  "release_date": "25.08.1939",
+  "genres": [
+    "Adventure",
+    "Family",
+    "Fantasy",
+    "Musical"
+  ],
+  "stars": [
+    {
+      "id": "nm0000023",
+      "name": "Judy Garland"
+    },
+    {
+      "id": "nm0604656",
+      "name": "Frank Morgan"
+    },
+    {
+      "id": "nm0001961",
+      "name": "Ray Bolger"
+    },
+    {
+      "id": "nm0481618",
+      "name": "Bert Lahr"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0281808",
+      "name": "Victor Fleming"
+    },
+    {
+      "id": "nm0002030",
+      "name": "George Cukor"
+    },
+    {
+      "id": "nm0851537",
+      "name": "Norman Taurog"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0486538",
+      "name": "Noel Langley"
+    },
+    {
+      "id": "nm0753249",
+      "name": "Florence Ryerson"
+    },
+    {
+      "id": "nm0941138",
+      "name": "Edgar Allan Woolf"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000023",
+      "name": "Judy Garland",
+      "character": "Dorothy"
+    },
+    {
+      "id": "nm0604656",
+      "name": "Frank Morgan",
+      "character": "Professor Marvel"
+    },
+    {
+      "id": "nm0001961",
+      "name": "Ray Bolger",
+      "character": "Hunk"
+    },
+    {
+      "id": "nm0481618",
+      "name": "Bert Lahr",
+      "character": "Zeke"
+    },
+    {
+      "id": "nm0355095",
+      "name": "Jack Haley",
+      "character": "Hickory"
+    },
+    {
+      "id": "nm0000992",
+      "name": "Billie Burke",
+      "character": "Glinda"
+    },
+    {
+      "id": "nm0002121",
+      "name": "Margaret Hamilton",
+      "character": "Miss Gulch"
+    },
+    {
+      "id": "nm0335788",
+      "name": "Charley Grapewin",
+      "character": "Uncle Henry"
+    },
+    {
+      "id": "nm0909930",
+      "name": "Pat Walshe",
+      "character": "Nikko"
+    },
+    {
+      "id": "nm0087404",
+      "name": "Clara Blandick",
+      "character": "Auntie Em"
+    },
+    {
+      "id": "nm1206094",
+      "name": "Terry",
+      "character": "Toto"
+    },
+    {
+      "id": "nm1306574",
+      "name": "The Singer Midgets",
+      "character": "The Munchkins"
+    },
+    {
+      "id": "nm15576007",
+      "name": "Gladys W. Allison",
+      "character": "Munchkin"
+    },
+    {
+      "id": "nm15576008",
+      "name": "John Ballas",
+      "character": "Munchkin"
+    },
+    {
+      "id": "nm7573140",
+      "name": "Franz Balluck",
+      "character": "Munchkin"
+    },
+    {
+      "id": "nm7573141",
+      "name": "Josefine Balluck",
+      "character": "Munchkin"
+    },
+    {
+      "id": "nm16649597",
+      "name": "Casper Balsam",
+      "character": "Munchkin"
+    },
+    {
+      "id": "nm0051453",
+      "name": "John T. Bambury",
+      "character": "Munchkin"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": null,
+  "filmweb_id": 31325,
+  "year": 1939,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYWRmY2I0MGItYTQ0OC00NWZmLWIwMDktYjJlNDc0MzVhMmViXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8.1,
+      "votes": 471296,
+      "distribution": {
+        "1": 5929,
+        "2": 2612,
+        "3": 3662,
+        "4": 6343,
+        "5": 15056,
+        "6": 36088,
+        "7": 86326,
+        "8": 127998,
+        "9": 81891,
+        "10": 105391
+      },
+      "normalized": 7.8027
+    },
+    "filmweb": {
+      "rating": 7.37,
+      "votes": 29899,
+      "distribution": {
+        "1": 269,
+        "2": 102,
+        "3": 272,
+        "4": 592,
+        "5": 1415,
+        "6": 3668,
+        "7": 8881,
+        "8": 9029,
+        "9": 3356,
+        "10": 2315
+      },
+      "normalized": 6.4022
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "02.12.2005",
+      "normalized": 7.1247
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "18.04.2017",
+      "normalized": 7.2292
+    },
+    "score": 7.1397
+  },
+  "polish_title": "Czarnoksiężnik z Oz",
+  "silent": false,
+  "description_pl": "Pewnego dnia, Toto - pies Dorotki (<a href=\"/osoba/?id=nm0000023\">Judy Garland</a>) gryzie w nogę podłą panią Gulch (<a href=\"/osoba/?id=nm0002121\">Margaret Hamilton</a>). Kobieta z zemsty chce uśpić Toto. Dorotka postanawia ratować przyjaciela i razem uciekają do domu. Jednak po drodze spotyka profesora Marvela (Frank Morgan), który namawia ją do powrotu. Gdy Dorotka jest już w domu, potężne tornado przenosi ją do czarodziejskiej krainy Oz. Okazuje się, że dom spadł na Czarownicę ze Wschodu. Jej siostra poprzysięga zemstę. Dorotka musi jak najszybciej dotrzeć do Szmaragdowego Miasta, stolicy krainy Oz i błagać władcę, wielkiego czarnoksiężnika o pomoc. Wzorcowa ekranizacja powieści dla dzieci ze wspaniałą <a href=\"/osoba/?id=nm0000023\">Judy Garland</a> i piosenką \"Somewhere Over the Rainbow\".",
+  "producers": [
+    {
+      "id": "nm0503777",
+      "name": "Mervyn LeRoy"
+    },
+    {
+      "id": "nm0509077",
+      "name": "Al Lichtman"
+    },
+    {
+      "id": "nm0006085",
+      "name": "Arthur Freed"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005849",
+      "name": "Harold Rosson"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-15"
+}

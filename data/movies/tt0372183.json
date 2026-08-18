@@ -1,0 +1,260 @@
+{
+  "imdb_id": "tt0372183",
+  "title": "The Bourne Supremacy",
+  "description": "When Jason Bourne is framed for a CIA operation gone awry, he is forced to resume his former life as a trained assassin to survive.",
+  "runtime_minutes": 108,
+  "release_date": "23.07.2004",
+  "genres": [
+    "Action",
+    "Mystery",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000354",
+      "name": "Matt Damon"
+    },
+    {
+      "id": "nm0004376",
+      "name": "Franka Potente"
+    },
+    {
+      "id": "nm0000260",
+      "name": "Joan Allen"
+    },
+    {
+      "id": "nm0004051",
+      "name": "Brian Cox"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0339030",
+      "name": "Paul Greengrass"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0524924",
+      "name": "Robert Ludlum"
+    },
+    {
+      "id": "nm0006904",
+      "name": "Tony Gilroy"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000354",
+      "name": "Matt Damon",
+      "character": "Jason Bourne"
+    },
+    {
+      "id": "nm0004376",
+      "name": "Franka Potente",
+      "character": "Marie"
+    },
+    {
+      "id": "nm0000260",
+      "name": "Joan Allen",
+      "character": "Pamela Landy"
+    },
+    {
+      "id": "nm0004051",
+      "name": "Brian Cox",
+      "character": "Ward Abbott"
+    },
+    {
+      "id": "nm0005466",
+      "name": "Julia Stiles",
+      "character": "Nicky"
+    },
+    {
+      "id": "nm0881631",
+      "name": "Karl Urban",
+      "character": "Kirill"
+    },
+    {
+      "id": "nm0542759",
+      "name": "Gabriel Mann",
+      "character": "Danny Zorn"
+    },
+    {
+      "id": "nm0190744",
+      "name": "Marton Csokas",
+      "character": "Jarda"
+    },
+    {
+      "id": "nm0303132",
+      "name": "Tom Gallop",
+      "character": "Tom Cronin"
+    },
+    {
+      "id": "nm0066023",
+      "name": "John Bedford Lloyd",
+      "character": "Teddy"
+    },
+    {
+      "id": "nm0761969",
+      "name": "Ethan Sandler",
+      "character": "Kurt"
+    },
+    {
+      "id": "nm1157358",
+      "name": "Michelle Monaghan",
+      "character": "Kim"
+    },
+    {
+      "id": "nm0734558",
+      "name": "Karel Roden",
+      "character": "Gretkov"
+    },
+    {
+      "id": "nm0032962",
+      "name": "Tomas Arana",
+      "character": "Martin Marshall"
+    },
+    {
+      "id": "nm0968541",
+      "name": "Oksana Akinshina",
+      "character": "Irena Neski"
+    },
+    {
+      "id": "nm0803250",
+      "name": "Yevgeni Sitokhin",
+      "character": "Mr. Neski"
+    },
+    {
+      "id": "nm1589375",
+      "name": "Marina Weis",
+      "character": "Mrs. Neski"
+    },
+    {
+      "id": "nm0341377",
+      "name": "Tim Griffin",
+      "character": "Nevins"
+    }
+  ],
+  "countries": [
+    "United States",
+    "Germany",
+    "India",
+    "Russia"
+  ],
+  "languages": [
+    "English",
+    "Russian",
+    "German",
+    "Italian"
+  ],
+  "color": "Color",
+  "filmweb_id": 106415,
+  "year": 2004,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZTU4ZDgyYjgtODA0Mi00MmE3LTgzYWQtZjc1YTFiMTczZTQ3XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.7,
+      "votes": 516670,
+      "distribution": {
+        "1": 1863,
+        "2": 950,
+        "3": 1769,
+        "4": 3780,
+        "5": 11189,
+        "6": 38350,
+        "7": 133605,
+        "8": 197542,
+        "9": 75415,
+        "10": 52207
+      },
+      "normalized": 6.8667
+    },
+    "filmweb": {
+      "rating": 7.57,
+      "votes": 162949,
+      "distribution": {
+        "1": 248,
+        "2": 206,
+        "3": 741,
+        "4": 1557,
+        "5": 5198,
+        "6": 16658,
+        "7": 48445,
+        "8": 60072,
+        "9": 20022,
+        "10": 9802
+      },
+      "normalized": 6.9443
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "02.12.2005",
+      "normalized": 4.9718
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "19.10.2005",
+      "normalized": 5.4199
+    },
+    "score": 6.0507
+  },
+  "polish_title": "Krucjata Bourne'a",
+  "silent": false,
+  "description_pl": "Mimo amnezji Bourne układa sobie powoli normalne życie z ukochaną Marie u boku. Ale krwawa przeszłość znowu daje o sobie znać i Bourne ledwo uchodzi z życiem z zamachu. Musi kryć się przed nieznanym wrogiem, lecz nie jest bezbronny - wkrótce okaże się, że i on potrafi być nieuchwytny i zdeterminowany w walce.",
+  "producers": [
+    {
+      "id": "nm0189777",
+      "name": "Patrick Crowley"
+    },
+    {
+      "id": "nm0510731",
+      "name": "Doug Liman"
+    },
+    {
+      "id": "nm0550881",
+      "name": "Frank Marshall"
+    },
+    {
+      "id": "nm0596572",
+      "name": "Henning Molfenter"
+    },
+    {
+      "id": "nm1421145",
+      "name": "Henry Morrison"
+    },
+    {
+      "id": "nm0641236",
+      "name": "Colin J. O'Hara"
+    },
+    {
+      "id": "nm1540863",
+      "name": "Thierry Potok"
+    },
+    {
+      "id": "nm0761296",
+      "name": "Paul Sandberg"
+    },
+    {
+      "id": "nm0990025",
+      "name": "Andrew R. Tennenbaum"
+    },
+    {
+      "id": "nm1788648",
+      "name": "Jeffrey M. Weiner"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0694173",
+      "name": "John Powell"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005929",
+      "name": "Oliver Wood"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

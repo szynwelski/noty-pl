@@ -1,0 +1,50 @@
+{
+  "id": "nm0590055",
+  "name": "John Mills",
+  "filmography": [
+    {
+      "imdb_id": "tt0034891",
+      "title": "In Which We Serve",
+      "year": 1942,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Ordinary Seaman Shorty Blake"
+    },
+    {
+      "imdb_id": "tt0083987",
+      "title": "Gandhi",
+      "year": 1982,
+      "roles": [
+        "cast"
+      ],
+      "character": "The Viceroy"
+    },
+    {
+      "imdb_id": "tt0118689",
+      "title": "Bean",
+      "year": 1997,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Chairman"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOWM2NTIzMmMtYWViZS00ZmQ1LWFmZGMtNjliZDIzNjA5MDJiXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "22.02.1908",
+  "death_date": "23.04.2005",
+  "birth_location": "The Watts Naval Training College, North Elmham, Norfolk, England, UK",
+  "height": "1.70 m",
+  "filmweb_id": 4867,
+  "name_pl": "John Mills",
+  "birth_location_pl": "North Elmham, Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 4867
+}

@@ -1,0 +1,38 @@
+{
+  "id": "nm0000751",
+  "name": "Suzy Amis",
+  "filmography": [
+    {
+      "imdb_id": "tt0114814",
+      "title": "The Usual Suspects",
+      "year": 1995,
+      "roles": [
+        "cast"
+      ],
+      "character": "Edie Finneran"
+    },
+    {
+      "imdb_id": "tt0120338",
+      "title": "Titanic",
+      "year": 1997,
+      "roles": [
+        "cast"
+      ],
+      "character": "Lizzy Calvert"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjEwNDU4ODI5N15BMl5BanBnXkFtZTcwNjM4NTgwMw@@._V1_.jpg",
+  "birth_date": "05.01.1962",
+  "birth_location": "Oklahoma City, Oklahoma, USA",
+  "height": "1.73 m",
+  "imdb_scraped": true,
+  "filmweb_id": 4443,
+  "name_pl": "Suzy Amis",
+  "birth_location_pl": "Oklahoma City, Oklahoma",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 4443
+}

@@ -1,0 +1,238 @@
+{
+  "imdb_id": "tt4539828",
+  "title": "Love on the Air",
+  "description": "Competing radio personalities in Chicago find common ground when they have to work together.",
+  "runtime_minutes": 84,
+  "release_date": "26.09.2015",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0842081",
+      "name": "Alison Sweeney"
+    },
+    {
+      "id": "nm0769157",
+      "name": "Jonathan Scarfe"
+    },
+    {
+      "id": "nm1925584",
+      "name": "Crystal Balint"
+    },
+    {
+      "id": "nm0416404",
+      "name": "David James Lewis"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0846070",
+      "name": "Kristoffer Tabori"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0757267",
+      "name": "Sharon Soboil"
+    },
+    {
+      "id": "nm0229801",
+      "name": "Tippi Dobrofsky"
+    },
+    {
+      "id": "nm0229800",
+      "name": "Neal H. Dobrofsky"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0842081",
+      "name": "Alison Sweeney",
+      "character": "Sonia Mayerick"
+    },
+    {
+      "id": "nm0769157",
+      "name": "Jonathan Scarfe",
+      "character": "Nick Linden"
+    },
+    {
+      "id": "nm1925584",
+      "name": "Crystal Balint",
+      "character": "Tanya"
+    },
+    {
+      "id": "nm0416404",
+      "name": "David James Lewis",
+      "character": "Scott Ryder"
+    },
+    {
+      "id": "nm0301925",
+      "name": "Vincent Gale",
+      "character": "Brad"
+    },
+    {
+      "id": "nm3944811",
+      "name": "Darla Taylor",
+      "character": "Amanda Lazaro"
+    },
+    {
+      "id": "nm0646955",
+      "name": "Nicole Oliver",
+      "character": "Julia"
+    },
+    {
+      "id": "nm4661192",
+      "name": "Jason Edward Coleman",
+      "character": "Liam"
+    },
+    {
+      "id": "nm0438127",
+      "name": "John Kapelos",
+      "character": "Gus"
+    },
+    {
+      "id": "nm3811636",
+      "name": "Thomas Cadrot",
+      "character": "Keith"
+    },
+    {
+      "id": "nm0533147",
+      "name": "David MacKay",
+      "character": "Henry"
+    },
+    {
+      "id": "nm1535265",
+      "name": "Lindsay Maxwell",
+      "character": "Janey"
+    },
+    {
+      "id": "nm6152882",
+      "name": "Rebekah Asselstine",
+      "character": "Receptionist"
+    },
+    {
+      "id": "nm2856442",
+      "name": "Farrah Aviva",
+      "character": "Dating Hostess"
+    },
+    {
+      "id": "nm3703274",
+      "name": "Sienna Bohn",
+      "character": "Hysterical Woman"
+    },
+    {
+      "id": "nm2979804",
+      "name": "Emily Maddison",
+      "character": "Swimsuit Model"
+    },
+    {
+      "id": "nm0736896",
+      "name": "Greg Rogers",
+      "character": "Guy #1"
+    },
+    {
+      "id": "nm3716343",
+      "name": "Matthew Graham",
+      "character": "Guy #2"
+    }
+  ],
+  "countries": [
+    "Canada"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 745293,
+  "year": 2015,
+  "type": "tvMovie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYjVmYzIyZmEtN2M4OC00NmEzLWE0ODQtOTk4YWI4NWM3NDVlXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.9,
+      "votes": 1959,
+      "distribution": {
+        "1": 39,
+        "2": 20,
+        "3": 42,
+        "4": 46,
+        "5": 154,
+        "6": 311,
+        "7": 553,
+        "8": 337,
+        "9": 160,
+        "10": 297
+      },
+      "normalized": 5.3486
+    },
+    "filmweb": {
+      "rating": 5.94,
+      "votes": 1019,
+      "distribution": {
+        "1": 10,
+        "2": 11,
+        "3": 36,
+        "4": 97,
+        "5": 202,
+        "6": 321,
+        "7": 210,
+        "8": 88,
+        "9": 24,
+        "10": 20
+      },
+      "normalized": 3.7223
+    },
+    "jarek": {
+      "rating": 2,
+      "date_rated": "27.12.2016",
+      "normalized": 3.5003
+    },
+    "score": 4.1904
+  },
+  "polish_title": "Na tych samych falach",
+  "silent": false,
+  "producers": [
+    {
+      "id": "nm2461659",
+      "name": "Marina Cordoni"
+    },
+    {
+      "id": "nm0498108",
+      "name": "Robert Lee"
+    },
+    {
+      "id": "nm0603216",
+      "name": "John Morayniss"
+    },
+    {
+      "id": "nm1086335",
+      "name": "Ira Pincus"
+    },
+    {
+      "id": "nm0721813",
+      "name": "Kelley Feldsott Reynolds"
+    },
+    {
+      "id": "nm1414743",
+      "name": "John Ritchie"
+    },
+    {
+      "id": "nm2239498",
+      "name": "Jonathan Schwartz"
+    },
+    {
+      "id": "nm0842081",
+      "name": "Alison Sweeney"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0423632",
+      "name": "Jon Joffin"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

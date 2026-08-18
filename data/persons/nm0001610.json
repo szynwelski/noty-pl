@@ -1,0 +1,49 @@
+{
+  "id": "nm0001610",
+  "name": "Elizabeth Perkins",
+  "filmography": [
+    {
+      "imdb_id": "tt0191754",
+      "title": "28 Days",
+      "year": 2000,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Lily"
+    },
+    {
+      "imdb_id": "tt0266543",
+      "title": "Finding Nemo",
+      "year": 2003,
+      "roles": [
+        "cast"
+      ],
+      "character": "Coral"
+    },
+    {
+      "imdb_id": "tt0417001",
+      "title": "Must Love Dogs",
+      "year": 2005,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Carol"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOWNiOTljMTUtNzdjZi00OTBmLTkyOTctMTY2YzU3NmUxZDdkXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "18.11.1960",
+  "birth_location": "Queens, New York City, New York, USA",
+  "height": "1.73 m",
+  "filmweb_id": 6632,
+  "name_pl": "Elizabeth Perkins",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 6632
+}

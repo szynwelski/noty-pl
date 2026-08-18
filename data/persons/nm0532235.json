@@ -1,0 +1,65 @@
+{
+  "id": "nm0532235",
+  "name": "Seth MacFarlane",
+  "filmography": [
+    {
+      "imdb_id": "tt0385690",
+      "title": "Stewie Griffin: The Untold Story",
+      "year": 2005,
+      "roles": [
+        "star",
+        "cast",
+        "producer"
+      ],
+      "character": "Stewie Griffin"
+    },
+    {
+      "imdb_id": "tt1637725",
+      "title": "Ted",
+      "year": 2012,
+      "roles": [
+        "director",
+        "writer",
+        "star",
+        "cast",
+        "producer"
+      ],
+      "character": "Ted"
+    },
+    {
+      "imdb_id": "tt2557490",
+      "title": "A Million Ways to Die in the West",
+      "year": 2014,
+      "roles": [
+        "director",
+        "writer",
+        "star",
+        "cast",
+        "producer"
+      ],
+      "character": "Albert"
+    },
+    {
+      "imdb_id": "tt3402138",
+      "title": "The Naked Gun",
+      "year": 2025,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTgyNDk3OTI2NF5BMl5BanBnXkFtZTcwMDA4NjU5OA@@._V1_.jpg",
+  "birth_date": "26.10.1973",
+  "birth_location": "Kent, Connecticut, USA",
+  "height": "1.80 m",
+  "filmweb_id": 107046,
+  "name_pl": "Seth MacFarlane",
+  "birth_location_pl": "Kent, Connecticut",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 107046
+}

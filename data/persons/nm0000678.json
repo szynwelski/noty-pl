@@ -1,0 +1,40 @@
+{
+  "id": "nm0000678",
+  "name": "Kathleen Turner",
+  "filmography": [
+    {
+      "imdb_id": "tt0091738",
+      "title": "Peggy Sue Got Married",
+      "year": 1986,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Peggy Sue"
+    },
+    {
+      "imdb_id": "tt0159097",
+      "title": "The Virgin Suicides",
+      "year": 1999,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Mrs. Lisbon"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjE5NTQxOTczNF5BMl5BanBnXkFtZTYwNTQ5NTc4._V1_.jpg",
+  "birth_date": "19.06.1954",
+  "birth_location": "Springfield, Missouri, USA",
+  "height": "1.73 m",
+  "imdb_scraped": true,
+  "filmweb_id": 42012,
+  "name_pl": "Kathleen Turner",
+  "birth_location_pl": "Springfield, Missouri",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 42012
+}

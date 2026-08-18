@@ -1,0 +1,204 @@
+{
+  "imdb_id": "tt0021156",
+  "title": "Morocco",
+  "description": "A cabaret singer and a Legionnaire fall in love, but their relationship is complicated by the results of his womanizing and the appearance of a rich man who wants her for himself.",
+  "runtime_minutes": 92,
+  "release_date": "06.12.1930",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0000011",
+      "name": "Gary Cooper"
+    },
+    {
+      "id": "nm0000017",
+      "name": "Marlene Dietrich"
+    },
+    {
+      "id": "nm0579663",
+      "name": "Adolphe Menjou"
+    },
+    {
+      "id": "nm0369443",
+      "name": "Ullrich Haupt"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0903049",
+      "name": "Josef von Sternberg"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0299154",
+      "name": "Jules Furthman"
+    },
+    {
+      "id": "nm0897109",
+      "name": "Benno Vigny"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000011",
+      "name": "Gary Cooper",
+      "character": "Légionnaire Tom Brown"
+    },
+    {
+      "id": "nm0000017",
+      "name": "Marlene Dietrich",
+      "character": "Mademoiselle Amy Jolly"
+    },
+    {
+      "id": "nm0579663",
+      "name": "Adolphe Menjou",
+      "character": "Monsieur La Bessiere"
+    },
+    {
+      "id": "nm0369443",
+      "name": "Ullrich Haupt",
+      "character": "Adjutant Caesar"
+    },
+    {
+      "id": "nm0816123",
+      "name": "Eve Southern",
+      "character": "Madame Caesar"
+    },
+    {
+      "id": "nm0567756",
+      "name": "Francis McDonald",
+      "character": "A Sergeant"
+    },
+    {
+      "id": "nm0691668",
+      "name": "Paul Porcasi",
+      "character": "Lo Tinto"
+    },
+    {
+      "id": "nm14434885",
+      "name": "Louise Ali",
+      "character": "Minor Role"
+    },
+    {
+      "id": "nm14434887",
+      "name": "Fay Allen",
+      "character": "Minor Role"
+    },
+    {
+      "id": "nm0026328",
+      "name": "Allegretti Anderson",
+      "character": "Minor Role"
+    },
+    {
+      "id": "nm14434884",
+      "name": "Daisy Boone",
+      "character": "Minor Role"
+    },
+    {
+      "id": "nm0154352",
+      "name": "Emile Chautard",
+      "character": "French General"
+    },
+    {
+      "id": "nm0174051",
+      "name": "Juliette Compton",
+      "character": "Anna Dolores"
+    },
+    {
+      "id": "nm0176302",
+      "name": "Albert Conti",
+      "character": "Col. Quinnovieres"
+    },
+    {
+      "id": "nm14434888",
+      "name": "Hazel Cox",
+      "character": "Minor Role"
+    },
+    {
+      "id": "nm14434883",
+      "name": "Edith Crain",
+      "character": "Minor Role"
+    },
+    {
+      "id": "nm0192882",
+      "name": "Thomas A. Curran",
+      "character": "Minor Role"
+    },
+    {
+      "id": "nm14434881",
+      "name": "Lucille Forby",
+      "character": "Minor Role"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish",
+    "Arabic",
+    "Italian"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 33204,
+  "year": 1930,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNmU0ZjVjNzgtYjE3NC00ZjgwLWFhNzQtNzA4NDI5ZGVhNmYxXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7,
+      "votes": 8496,
+      "distribution": {
+        "1": 110,
+        "2": 82,
+        "3": 128,
+        "4": 228,
+        "5": 588,
+        "6": 1438,
+        "7": 2710,
+        "8": 1690,
+        "9": 754,
+        "10": 768
+      },
+      "normalized": 5.5081
+    },
+    "filmweb": {
+      "rating": 6.81,
+      "votes": 1314,
+      "distribution": {
+        "1": 2,
+        "2": 6,
+        "3": 20,
+        "4": 33,
+        "5": 161,
+        "6": 326,
+        "7": 360,
+        "8": 267,
+        "9": 65,
+        "10": 74
+      },
+      "normalized": 5.2534
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "19.10.2005",
+      "normalized": 5.4199
+    },
+    "score": 5.3938
+  },
+  "polish_title": "Maroko",
+  "silent": false,
+  "description_pl": "Historia piosenkarki kabaretowej (Marlena Dietrich), która przybywa do Afryki Północnej, gdzie zakochuje się w żołnierzu Legii Cudzoziemskiej (Gary Cooper).",
+  "composers": [
+    {
+      "id": "nm0354531",
+      "name": "Karl Hajos"
+    }
+  ],
+  "fetched_at": "2026-08-15"
+}

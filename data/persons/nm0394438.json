@@ -1,0 +1,38 @@
+{
+  "id": "nm0394438",
+  "name": "William Hopper",
+  "filmography": [
+    {
+      "imdb_id": "tt0033870",
+      "title": "The Maltese Falcon",
+      "year": 1941,
+      "roles": [
+        "cast"
+      ],
+      "character": "Reporter"
+    },
+    {
+      "imdb_id": "tt0048545",
+      "title": "Rebel Without a Cause",
+      "year": 1955,
+      "roles": [
+        "cast"
+      ],
+      "character": "Judy's Father"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjMzODE2NTM5Ml5BMl5BanBnXkFtZTcwNDc0MjYxOA@@._V1_.jpg",
+  "birth_date": "26.01.1915",
+  "death_date": "06.03.1970",
+  "birth_location": "New York City, New York, USA",
+  "height": "1.91 m",
+  "imdb_scraped": true,
+  "filmweb_id": 43657,
+  "name_pl": "William Hopper",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

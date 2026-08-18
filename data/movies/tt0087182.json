@@ -1,0 +1,222 @@
+{
+  "imdb_id": "tt0087182",
+  "title": "Dune",
+  "description": "A Duke's son leads desert warriors against the galactic emperor and his father's evil nemesis to free their desert world from the emperor's rule.",
+  "runtime_minutes": 137,
+  "release_date": "14.12.1984",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm0001492",
+      "name": "Kyle MacLachlan"
+    },
+    {
+      "id": "nm0000515",
+      "name": "Virginia Madsen"
+    },
+    {
+      "id": "nm0000768",
+      "name": "Francesca Annis"
+    },
+    {
+      "id": "nm0162361",
+      "name": "Leonardo Cimino"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000186",
+      "name": "David Lynch"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0378541",
+      "name": "Frank Herbert"
+    },
+    {
+      "id": "nm0000186",
+      "name": "David Lynch"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0001492",
+      "name": "Kyle MacLachlan",
+      "character": "Paul Atreides"
+    },
+    {
+      "id": "nm0000515",
+      "name": "Virginia Madsen",
+      "character": "Princess Irulan"
+    },
+    {
+      "id": "nm0000768",
+      "name": "Francesca Annis",
+      "character": "Lady Jessica"
+    },
+    {
+      "id": "nm0162361",
+      "name": "Leonardo Cimino",
+      "character": "The Baron's Doctor"
+    },
+    {
+      "id": "nm0000374",
+      "name": "Brad Dourif",
+      "character": "Piter De Vries"
+    },
+    {
+      "id": "nm0001207",
+      "name": "José Ferrer",
+      "character": "Padishah Emperor Shaddam IV"
+    },
+    {
+      "id": "nm0001373",
+      "name": "Linda Hunt",
+      "character": "Shadout Mapes"
+    },
+    {
+      "id": "nm0428086",
+      "name": "Freddie Jones",
+      "character": "Thufir Hawat"
+    },
+    {
+      "id": "nm0430151",
+      "name": "Richard Jordan",
+      "character": "Duncan Idaho"
+    },
+    {
+      "id": "nm0542146",
+      "name": "Silvana Mangano",
+      "character": "Reverend Mother Ramallo"
+    },
+    {
+      "id": "nm0569239",
+      "name": "Everett McGill",
+      "character": "Stilgar"
+    },
+    {
+      "id": "nm0573299",
+      "name": "Kenneth McMillan",
+      "character": "Baron Vladimir Harkonnen"
+    },
+    {
+      "id": "nm0620756",
+      "name": "Jack Nance",
+      "character": "Nefud"
+    },
+    {
+      "id": "nm0680795",
+      "name": "Siân Phillips",
+      "character": "Reverend Mother Gaius Helen Mohiam"
+    },
+    {
+      "id": "nm0001638",
+      "name": "Jürgen Prochnow",
+      "character": "Duke Leto Atreides"
+    },
+    {
+      "id": "nm0809544",
+      "name": "Paul L. Smith",
+      "character": "The Beast Rabban"
+    },
+    {
+      "id": "nm0001772",
+      "name": "Patrick Stewart",
+      "character": "Gurney Halleck"
+    },
+    {
+      "id": "nm0001776",
+      "name": "Sting",
+      "character": "Feyd Rautha"
+    }
+  ],
+  "countries": [
+    "United States",
+    "Mexico"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 1086,
+  "year": 1984,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMGJlMGM3NDAtOWNhMy00MWExLWI2MzEtMDQ0ZDIzZDY5ZmQ2XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.2,
+      "votes": 193731,
+      "distribution": {
+        "1": 4633,
+        "2": 4139,
+        "3": 7046,
+        "4": 12511,
+        "5": 22254,
+        "6": 37139,
+        "7": 42947,
+        "8": 29883,
+        "9": 14613,
+        "10": 18566
+      },
+      "normalized": 3.9132
+    },
+    "filmweb": {
+      "rating": 6.52,
+      "votes": 38618,
+      "distribution": {
+        "1": 473,
+        "2": 684,
+        "3": 1881,
+        "4": 2450,
+        "5": 4691,
+        "6": 6897,
+        "7": 9506,
+        "8": 7130,
+        "9": 2931,
+        "10": 1975
+      },
+      "normalized": 4.3644
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "02.12.2005",
+      "normalized": 5.6855
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "18.11.2017",
+      "normalized": 5.4199
+    },
+    "score": 4.8457
+  },
+  "polish_title": "Diuna",
+  "silent": false,
+  "description_pl": "Ekranizacja słynnej powieści Franka Herberta dokonana przez <a href=\"/osoba/?id=nm0000186\">Davida Lyncha</a>. Jest rok 10991. Pustynna planeta Arrakis zwana także Diuną jest jedynym znanym we wszechświecie źródłem przyprawy - substancji, która przedłuża życie, poszerza świadomość, a także pozwala podróżować w przestrzeni i czasie.",
+  "producers": [
+    {
+      "id": "nm0209581",
+      "name": "Raffaella De Laurentiis"
+    },
+    {
+      "id": "nm0529927",
+      "name": "José López Rodero"
+    },
+    {
+      "id": "nm0209569",
+      "name": "Dino De Laurentiis"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005711",
+      "name": "Freddie Francis"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

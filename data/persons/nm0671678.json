@@ -1,0 +1,36 @@
+{
+  "id": "nm0671678",
+  "name": "Krzysztof Penderecki",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQ1NjI0ZmMtYzEwNS00ZjRkLWFkOTYtMzczMWEyNjM4ZTkwXkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0059643",
+      "title": "The Saragossa Manuscript",
+      "year": 1965,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt0879843",
+      "title": "Katyn",
+      "year": 2007,
+      "roles": [
+        "composer"
+      ]
+    }
+  ],
+  "birth_date": "23.11.1933",
+  "death_date": "29.03.2020",
+  "birth_location": "Debica, Podkarpackie, Poland",
+  "imdb_scraped": true,
+  "filmweb_id": 12034,
+  "name_pl": "Krzysztof Penderecki",
+  "birth_location_pl": "Dębica",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Polska"
+  ],
+  "wikidata_fw_id": 12034
+}

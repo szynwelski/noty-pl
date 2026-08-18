@@ -1,0 +1,187 @@
+{
+  "imdb_id": "tt0424136",
+  "title": "Hard Candy",
+  "description": "Hayley's a smart, charming teenage girl. Jeff's a handsome, smooth fashion photographer. An Internet chat, a coffee shop meet-up, an impromptu fashion shoot back at Jeff's place. Jeff thinks it's his lucky night. He's in for a surprise.",
+  "runtime_minutes": 104,
+  "release_date": "28.04.2006",
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0933940",
+      "name": "Patrick Wilson"
+    },
+    {
+      "id": "nm0680983",
+      "name": "Elliot Page"
+    },
+    {
+      "id": "nm0644897",
+      "name": "Sandra Oh"
+    },
+    {
+      "id": "nm1230874",
+      "name": "Odessa Rae"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm1720541",
+      "name": "David Slade"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0625198",
+      "name": "Brian Nelson"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0933940",
+      "name": "Patrick Wilson",
+      "character": "Jeff Kohlver"
+    },
+    {
+      "id": "nm0680983",
+      "name": "Elliot Page",
+      "character": "Hayley Stark"
+    },
+    {
+      "id": "nm0644897",
+      "name": "Sandra Oh",
+      "character": "Judy Tokuda"
+    },
+    {
+      "id": "nm1230874",
+      "name": "Odessa Rae",
+      "character": "Janelle Rogers"
+    },
+    {
+      "id": "nm1058259",
+      "name": "G.J. Echternkamp",
+      "character": "Nighthawks Clerk"
+    },
+    {
+      "id": "nm2109861",
+      "name": "Cori Bright",
+      "character": "Girl in Nighthawks"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 184532,
+  "year": 2005,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTc0MzgzNTI3N15BMl5BanBnXkFtZTcwNDk3MDIzMQ@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7,
+      "votes": 174991,
+      "distribution": {
+        "1": 4864,
+        "2": 2264,
+        "3": 2922,
+        "4": 4801,
+        "5": 10635,
+        "6": 25593,
+        "7": 51011,
+        "8": 42094,
+        "9": 17466,
+        "10": 13341
+      },
+      "normalized": 5.5802
+    },
+    "filmweb": {
+      "rating": 6.95,
+      "votes": 45051,
+      "distribution": {
+        "1": 459,
+        "2": 326,
+        "3": 1032,
+        "4": 1509,
+        "5": 3604,
+        "6": 7152,
+        "7": 13374,
+        "8": 11723,
+        "9": 4080,
+        "10": 1792
+      },
+      "normalized": 5.5258
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "01.03.2012",
+      "normalized": 5.6855
+    },
+    "score": 5.5972
+  },
+  "polish_title": "Pułapka",
+  "silent": false,
+  "description_pl": "Czternastoletnia Hayley Stark (<a href=\"/osoba/?id=nm0680983\">Ellen Page</a>) czatuje z Jeffem Kohlverem (<a href=\"/osoba/?id=nm0933940\">Patrick Wilson</a>), przemiłym i eleganckim artystą fotografikiem. Z pozoru niewinne słowa są śmiertelnie niebezpieczną grą. Jeff proponuje spotkanie w kawiarni, dziewczynka zgadza się i już wkrótce zamykają się za nią masywne drzwi mieszkania dwukrotnie starszego od niej mężczyzny. Wszystko układa się zgodnie z planem drapieżcy. Ofiara zgadza się na sesję zdjęciową, sama nawet chce się rozebrać. W sieć wpadła łatwa zdobycz...",
+  "producers": [
+    {
+      "id": "nm0666580",
+      "name": "Jody Allen"
+    },
+    {
+      "id": "nm0020885",
+      "name": "Paul Allen"
+    },
+    {
+      "id": "nm0129765",
+      "name": "Michael Caldwell"
+    },
+    {
+      "id": "nm2857925",
+      "name": "Ellora Chowdhury"
+    },
+    {
+      "id": "nm1723285",
+      "name": "Erica Farjo"
+    },
+    {
+      "id": "nm0383370",
+      "name": "David Higgins"
+    },
+    {
+      "id": "nm1715648",
+      "name": "Richard Hutton"
+    },
+    {
+      "id": "nm1852221",
+      "name": "Barney Jeffrey"
+    },
+    {
+      "id": "nm0466181",
+      "name": "Rosanne Korenberg"
+    },
+    {
+      "id": "nm0625198",
+      "name": "Brian Nelson"
+    },
+    {
+      "id": "nm0728754",
+      "name": "Hans Ritter"
+    },
+    {
+      "id": "nm2858529",
+      "name": "Alex Webster"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm1173522",
+      "name": "Jo Willems"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

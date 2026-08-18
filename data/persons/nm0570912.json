@@ -1,0 +1,82 @@
+{
+  "id": "nm0570912",
+  "name": "Adam McKay",
+  "filmography": [
+    {
+      "imdb_id": "tt1386588",
+      "title": "The Other Guys",
+      "year": 2010,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt1645170",
+      "title": "The Dictator",
+      "year": 2012,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt1596363",
+      "title": "The Big Short",
+      "year": 2015,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt3381008",
+      "title": "The Brothers Grimsby",
+      "year": 2016,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt7660850",
+      "title": "Succession",
+      "year": 2018,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt6266538",
+      "title": "Vice",
+      "year": 2018,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt11286314",
+      "title": "Don't Look Up",
+      "year": 2021,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMGYyNWQzYTEtYjJmYS00ZTk1LTk1MjAtOGE1ZDdiODdkMTY5XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "17.04.1968",
+  "birth_location": "Philadelphia, Pennsylvania, USA",
+  "height": "1.96 m",
+  "filmweb_id": 138482,
+  "name_pl": "Adam McKay",
+  "birth_location_pl": "Filadelfia, Pensylwania",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

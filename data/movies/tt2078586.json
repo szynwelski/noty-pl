@@ -1,0 +1,219 @@
+{
+  "imdb_id": "tt2078586",
+  "title": "Of Snails and Men",
+  "description": "The story of one man who tries to save his car factory",
+  "runtime_minutes": 93,
+  "release_date": "14.09.2012",
+  "genres": [
+    "Comedy"
+  ],
+  "stars": [
+    {
+      "id": "nm0890632",
+      "name": "Andi Vasluianu"
+    },
+    {
+      "id": "nm1715144",
+      "name": "Monica Barladeanu"
+    },
+    {
+      "id": "nm0899517",
+      "name": "Dorel Visan"
+    },
+    {
+      "id": "nm0836681",
+      "name": "Jean-François Stévenin"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0321363",
+      "name": "Tudor Giurgiu"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm2071662",
+      "name": "Ionut Teianu"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0890632",
+      "name": "Andi Vasluianu",
+      "character": "George"
+    },
+    {
+      "id": "nm1715144",
+      "name": "Monica Barladeanu",
+      "character": "Manuela"
+    },
+    {
+      "id": "nm0899517",
+      "name": "Dorel Visan",
+      "character": "Vladimir"
+    },
+    {
+      "id": "nm0836681",
+      "name": "Jean-François Stévenin",
+      "character": "Robert"
+    },
+    {
+      "id": "nm0836682",
+      "name": "Robinson Stévenin",
+      "character": "Olivier"
+    },
+    {
+      "id": "nm1382764",
+      "name": "Andreea Bibiri",
+      "character": "Ana"
+    },
+    {
+      "id": "nm2492387",
+      "name": "Ovidiu Crisan",
+      "character": "Ion"
+    },
+    {
+      "id": "nm1621287",
+      "name": "Alina Berzunteanu",
+      "character": "Carmen"
+    },
+    {
+      "id": "nm5471130",
+      "name": "Albert Dima",
+      "character": "Viorel"
+    },
+    {
+      "id": "nm0781139",
+      "name": "Valeria Seciu",
+      "character": "Tatiana"
+    },
+    {
+      "id": "nm1839813",
+      "name": "Ion Grosu",
+      "character": "Mirel"
+    },
+    {
+      "id": "nm5470849",
+      "name": "Liliana Ghita",
+      "character": "Manuela's mother"
+    },
+    {
+      "id": "nm0900760",
+      "name": "Clara Voda",
+      "character": "dr. Gina Filip"
+    },
+    {
+      "id": "nm1119249",
+      "name": "Alin Panc",
+      "character": "Alin"
+    },
+    {
+      "id": "nm4395719",
+      "name": "Sebastian Lupu",
+      "character": "Sebi"
+    },
+    {
+      "id": "nm1146033",
+      "name": "Gavril Patru",
+      "character": "Giani"
+    },
+    {
+      "id": "nm5471352",
+      "name": "Catalin Cucu",
+      "character": "Catalin"
+    },
+    {
+      "id": "nm5143535",
+      "name": "Emilian Oprea",
+      "character": "Emy"
+    }
+  ],
+  "countries": [
+    "Romania",
+    "France"
+  ],
+  "languages": [
+    "Romanian",
+    "French",
+    "Spanish"
+  ],
+  "color": "Color",
+  "filmweb_id": 651349,
+  "year": 2012,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQ3NzU2MTE5NF5BMl5BanBnXkFtZTgwMTg3NzY0MzE@._V1_.jpg",
+  "original_title": "Despre oameni si melci",
+  "ratings": {
+    "imdb": {
+      "rating": 7.2,
+      "votes": 2550,
+      "distribution": {
+        "1": 62,
+        "2": 22,
+        "3": 20,
+        "4": 47,
+        "5": 106,
+        "6": 317,
+        "7": 722,
+        "8": 624,
+        "9": 298,
+        "10": 332
+      },
+      "normalized": 5.8038
+    },
+    "filmweb": {
+      "rating": 6.36,
+      "votes": 204,
+      "distribution": {
+        "1": 3,
+        "2": 0,
+        "3": 6,
+        "4": 9,
+        "5": 20,
+        "6": 58,
+        "7": 78,
+        "8": 25,
+        "9": 3,
+        "10": 2
+      },
+      "normalized": 4.7287
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "15.02.2013",
+      "normalized": 4.9718
+    },
+    "score": 5.1681
+  },
+  "polish_title": "Ślimaki i ludzie",
+  "silent": false,
+  "description_pl": "Jest rok 1992. W rumuńskim miasteczku Muscel bankrutuje państwowa fabryka samochodów terenowych ARO. Wieść niesie, że w ciągu tygodnia ma zostać sprywatyzowana. Fabrykę chcą kupić Francuzi i uruchomić w niej linię puszkującą ślimaki. George, lider zakładowego związku zawodowego, rozpaczliwie poszukuje pomysłu na ocalenie fabryki. Namawia tysiąc mężczyzn pracujących w fabryce, by oddali swoje nasienie do nowo otwartego banku spermy w Bukareszcie. Uzyskana kwota pozwoliłaby kupić fabrykę.",
+  "producers": [
+    {
+      "id": "nm2700344",
+      "name": "Oana Giurgiu"
+    },
+    {
+      "id": "nm0321363",
+      "name": "Tudor Giurgiu"
+    },
+    {
+      "id": "nm0811773",
+      "name": "Patrick Sobelman"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm2398222",
+      "name": "Vlaicu Golcea"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0890481",
+      "name": "Vivi Dragan Vasile"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

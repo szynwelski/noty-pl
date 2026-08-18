@@ -1,0 +1,139 @@
+{
+  "imdb_id": "tt0012281",
+  "title": "Hintertreppe",
+  "description": "A crippled mailman is in love with a maid who lives in the same building he does in one of the city's poor neighborhoods. She, however, is in love with a wealthy, handsome young man. Desperate to win her love, he begins to intercept love letters they send to each other and replaces them with his own messages, which each thinks is from the other. His plan seems to be succeeding, but then something happens that bring tragic results to them all.",
+  "runtime_minutes": 50,
+  "release_date": "04.02.1922",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0691995",
+      "name": "Henny Porten"
+    },
+    {
+      "id": "nm0466776",
+      "name": "Fritz Kortner"
+    },
+    {
+      "id": "nm0226189",
+      "name": "William Dieterle"
+    },
+    {
+      "id": "nm2096855",
+      "name": "Eugene Dieterle"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0422226",
+      "name": "Leopold Jessner"
+    },
+    {
+      "id": "nm0501902",
+      "name": "Paul Leni"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0562346",
+      "name": "Carl Mayer"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0691995",
+      "name": "Henny Porten",
+      "character": "Das Dienstmädchen"
+    },
+    {
+      "id": "nm0466776",
+      "name": "Fritz Kortner",
+      "character": "Der Postbote"
+    },
+    {
+      "id": "nm0226189",
+      "name": "William Dieterle",
+      "character": "Der Handwerker"
+    },
+    {
+      "id": "nm2096855",
+      "name": "Eugene Dieterle",
+      "character": ""
+    }
+  ],
+  "countries": [
+    "Germany"
+  ],
+  "languages": [
+    "None",
+    "German"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 87770,
+  "year": 1921,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYWRkMDU3MjYtYWQ1OS00YzU1LTlhNTItNTM3NGIwZjMxZjMwXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.9,
+      "votes": 358,
+      "distribution": {
+        "1": 11,
+        "2": 3,
+        "3": 7,
+        "4": 9,
+        "5": 25,
+        "6": 83,
+        "7": 110,
+        "8": 71,
+        "9": 18,
+        "10": 21
+      },
+      "normalized": 5.3226
+    },
+    "filmweb": {
+      "rating": 6.48,
+      "votes": 138,
+      "distribution": {
+        "2": 0,
+        "3": 3,
+        "4": 9,
+        "5": 16,
+        "6": 43,
+        "7": 34,
+        "8": 25,
+        "9": 7,
+        "10": 1
+      },
+      "normalized": 4.8927
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "25.11.2007",
+      "normalized": 6.3474
+    },
+    "score": 5.5209
+  },
+  "polish_title": "Schody kuchenne",
+  "silent": true,
+  "description_pl": "Służąca (H. Porten) daremnie oczekuje na wiadomość od swego ukochanego (W. Dieterle), ta bowiem nie nadchodzi. Chcąc pocieszyc dziewczynę, listonosz sam pisze do niej listy. Kiedy nieoczekiwanie zjawia sie ukochany, listonosz w desperacji zabija go. Wybucha skandal i dziewczyna traci pracę. Pozostawiona sama sobie, popełnia samobójstwo...\nZa reżyserię obrazów w tym filmie odpowiada Paul Leni, aktorów zaś prowadzi znany reżyser teatralny Leopold Jessner. Wyniki tej pracy nie są jednak przekonywujące. Ogólnie chwalone było tylko dosadne przedstawienie środowiska w stylu ekspresjonistycznym. Wielu krytyków kwestionowało osobliwy patos, z natury rzeczy obcy filmowi...",
+  "producers": [
+    {
+      "id": "nm1803343",
+      "name": "Hanns Lippmann"
+    },
+    {
+      "id": "nm0691995",
+      "name": "Henny Porten"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0485134",
+      "name": "Hans Landsberger"
+    }
+  ],
+  "fetched_at": "2026-08-15"
+}

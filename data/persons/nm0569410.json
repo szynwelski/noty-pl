@@ -1,0 +1,48 @@
+{
+  "id": "nm0569410",
+  "name": "John McGiver",
+  "filmography": [
+    {
+      "imdb_id": "tt0054698",
+      "title": "Breakfast at Tiffany's",
+      "year": 1961,
+      "roles": [
+        "cast"
+      ],
+      "character": "Tiffany's Salesman"
+    },
+    {
+      "imdb_id": "tt0056218",
+      "title": "The Manchurian Candidate",
+      "year": 1962,
+      "roles": [
+        "cast"
+      ],
+      "character": "Senator Thomas Jordan"
+    },
+    {
+      "imdb_id": "tt0064665",
+      "title": "Midnight Cowboy",
+      "year": 1969,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Mr. O'Daniel"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTM5NjUzNzkwOV5BMl5BanBnXkFtZTcwNDczMTMxOA@@._V1_.jpg",
+  "birth_date": "05.11.1913",
+  "death_date": "09.09.1975",
+  "birth_location": "New York City, New York, USA",
+  "height": "1.80 m",
+  "filmweb_id": 52887,
+  "name_pl": "John McGiver",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

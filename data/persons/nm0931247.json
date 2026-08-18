@@ -1,0 +1,47 @@
+{
+  "id": "nm0931247",
+  "name": "Mark Williams",
+  "filmography": [
+    {
+      "imdb_id": "tt0115433",
+      "title": "101 Dalmatians",
+      "year": 1996,
+      "roles": [
+        "cast"
+      ],
+      "character": "Horace"
+    },
+    {
+      "imdb_id": "tt0295297",
+      "title": "Harry Potter and the Chamber of Secrets",
+      "year": 2002,
+      "roles": [
+        "cast"
+      ],
+      "character": "Mr. Weasley"
+    },
+    {
+      "imdb_id": "tt0330373",
+      "title": "Harry Potter and the Goblet of Fire",
+      "year": 2005,
+      "roles": [
+        "cast"
+      ],
+      "character": "Arthur Weasley"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTY1Mzc4NjA5OV5BMl5BanBnXkFtZTcwMDc5OTUwOA@@._V1_.jpg",
+  "birth_date": "22.08.1959",
+  "birth_location": "Bromsgrove, Worcestershire, England, UK",
+  "height": "1.85 m",
+  "filmweb_id": 3879,
+  "name_pl": "Mark Williams",
+  "birth_location_pl": "Bromsgrove, Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 3879
+}

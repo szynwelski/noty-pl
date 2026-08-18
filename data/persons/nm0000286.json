@@ -1,0 +1,40 @@
+{
+  "id": "nm0000286",
+  "name": "Stephen Baldwin",
+  "filmography": [
+    {
+      "imdb_id": "tt0114814",
+      "title": "The Usual Suspects",
+      "year": 1995,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "McManus"
+    },
+    {
+      "imdb_id": "tt0158622",
+      "title": "The Flintstones in Viva Rock Vegas",
+      "year": 2000,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Barney Rubble"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTIyOTA4OTc5MF5BMl5BanBnXkFtZTcwOTQ3ODE5MQ@@._V1_.jpg",
+  "birth_date": "12.05.1966",
+  "birth_location": "Massapequa, Long Island, New York, USA",
+  "height": "1.73 m",
+  "imdb_scraped": true,
+  "filmweb_id": 7717,
+  "name_pl": "Stephen Baldwin",
+  "birth_location_pl": "Massapequa, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 7717
+}

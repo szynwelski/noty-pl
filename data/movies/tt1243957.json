@@ -1,0 +1,276 @@
+{
+  "imdb_id": "tt1243957",
+  "title": "The Tourist",
+  "description": "A tourist on the train to Venice is approached by a mysterious woman for an unusual reason.",
+  "runtime_minutes": 103,
+  "release_date": "10.12.2010",
+  "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000136",
+      "name": "Johnny Depp"
+    },
+    {
+      "id": "nm0001401",
+      "name": "Angelina Jolie"
+    },
+    {
+      "id": "nm0079273",
+      "name": "Paul Bettany"
+    },
+    {
+      "id": "nm0001096",
+      "name": "Timothy Dalton"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0003697",
+      "name": "Florian Henckel von Donnersmarck"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0003697",
+      "name": "Florian Henckel von Donnersmarck"
+    },
+    {
+      "id": "nm0003160",
+      "name": "Christopher McQuarrie"
+    },
+    {
+      "id": "nm0271501",
+      "name": "Julian Fellowes"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000136",
+      "name": "Johnny Depp",
+      "character": "Frank Tupelo"
+    },
+    {
+      "id": "nm0001401",
+      "name": "Angelina Jolie",
+      "character": "Elise Clifton-Ward"
+    },
+    {
+      "id": "nm0079273",
+      "name": "Paul Bettany",
+      "character": "Inspector John Acheson"
+    },
+    {
+      "id": "nm0001096",
+      "name": "Timothy Dalton",
+      "character": "Chief Inspector Jones"
+    },
+    {
+      "id": "nm0000925",
+      "name": "Steven Berkoff",
+      "character": "Reginald Shaw"
+    },
+    {
+      "id": "nm0001722",
+      "name": "Rufus Sewell",
+      "character": "The Englishman"
+    },
+    {
+      "id": "nm0211565",
+      "name": "Christian De Sica",
+      "character": "Colonnello Lombardi"
+    },
+    {
+      "id": "nm0094526",
+      "name": "Alessio Boni",
+      "character": "Sergente Cerato"
+    },
+    {
+      "id": "nm1046417",
+      "name": "Daniele Pecci",
+      "character": "Tenente Narduzzi"
+    },
+    {
+      "id": "nm0346730",
+      "name": "Giovanni Guidelli",
+      "character": "Tenente Tommassini"
+    },
+    {
+      "id": "nm0100556",
+      "name": "Raoul Bova",
+      "character": "Conte Filippo Gaggia"
+    },
+    {
+      "id": "nm0901501",
+      "name": "Bruno Wolkowitch",
+      "character": "Capitaine Courson"
+    },
+    {
+      "id": "nm1688708",
+      "name": "Marc Ruchmann",
+      "character": "Brigadier Kaiser"
+    },
+    {
+      "id": "nm0062359",
+      "name": "Julien Baumgartner",
+      "character": "Brigadier Ricuort"
+    },
+    {
+      "id": "nm0898798",
+      "name": "François Vincentelli",
+      "character": "Brigadier Marion"
+    },
+    {
+      "id": "nm0796316",
+      "name": "Clément Sibony",
+      "character": "Brigadier Rousseau"
+    },
+    {
+      "id": "nm0011803",
+      "name": "Jean-Claude Adelin",
+      "character": "Brigadier Cavillan"
+    },
+    {
+      "id": "nm0483788",
+      "name": "Jean-Marie Lamour",
+      "character": "Cafe Waiter Jean-Michel"
+    }
+  ],
+  "countries": [
+    "United Kingdom",
+    "France",
+    "Italy",
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Italian",
+    "Russian",
+    "Spanish"
+  ],
+  "color": "Color",
+  "filmweb_id": 484295,
+  "year": 2010,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTMyMzc3OTkwMV5BMl5BanBnXkFtZTcwMjc0MTgwNA@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6,
+      "votes": 269840,
+      "distribution": {
+        "1": 5839,
+        "2": 5161,
+        "3": 9222,
+        "4": 18280,
+        "5": 40222,
+        "6": 71423,
+        "7": 63183,
+        "8": 29672,
+        "9": 11078,
+        "10": 15760
+      },
+      "normalized": 3.5341
+    },
+    "filmweb": {
+      "rating": 6.58,
+      "votes": 199225,
+      "distribution": {
+        "1": 936,
+        "2": 1574,
+        "3": 6026,
+        "4": 9218,
+        "5": 24013,
+        "6": 44933,
+        "7": 60237,
+        "8": 35471,
+        "9": 10945,
+        "10": 5872
+      },
+      "normalized": 4.4964
+    },
+    "jarek": {
+      "rating": 2,
+      "date_rated": "30.08.2011",
+      "normalized": 3.5003
+    },
+    "score": 3.8436
+  },
+  "polish_title": "Turysta",
+  "silent": false,
+  "description_pl": "\"<a href=\"/film/?id=tt1243957\">The Tourist</a>\" to remake francuskiego thrillera \"Anthony Zimmer\" z 2005 roku.\nFilm opowiada o amerykańskim turyście (<a href=\"/osoba/?id=nm0000136\">Johnny Depp</a>), który znajduje się w niebezpieczeństwie z powodu spisku uknutego przez agentkę Interpolu (<a href=\"/osoba/?id=nm0001401\">Angelina Jolie</a>). Kobieta wykorzystuje go jako przynętę, by wywabić z kryjówki nieuchwytnego przestępcę, z którym kiedyś miała romans.",
+  "producers": [
+    {
+      "id": "nm0053388",
+      "name": "Gary Barber"
+    },
+    {
+      "id": "nm0076275",
+      "name": "John Bernard"
+    },
+    {
+      "id": "nm0083696",
+      "name": "Roger Birnbaum"
+    },
+    {
+      "id": "nm2761920",
+      "name": "Olivier Courson"
+    },
+    {
+      "id": "nm0322802",
+      "name": "Jonathan Glickman"
+    },
+    {
+      "id": "nm1286457",
+      "name": "Ron Halpern"
+    },
+    {
+      "id": "nm2593874",
+      "name": "Tim Headington"
+    },
+    {
+      "id": "nm0454752",
+      "name": "Graham King"
+    },
+    {
+      "id": "nm0618680",
+      "name": "Jeffrey Nachmanoff"
+    },
+    {
+      "id": "nm2550741",
+      "name": "Bahman Naraghi"
+    },
+    {
+      "id": "nm0629568",
+      "name": "David Nichols"
+    },
+    {
+      "id": "nm1774736",
+      "name": "Denis O'Sullivan"
+    },
+    {
+      "id": "nm0680595",
+      "name": "Lloyd Phillips"
+    },
+    {
+      "id": "nm1183672",
+      "name": "Adam Rosenberg"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006133",
+      "name": "James Newton Howard"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005868",
+      "name": "John Seale"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

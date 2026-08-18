@@ -1,0 +1,48 @@
+{
+  "id": "nm0936591",
+  "name": "Andreas Wisniewski",
+  "filmography": [
+    {
+      "imdb_id": "tt0095016",
+      "title": "Die Hard",
+      "year": 1988,
+      "roles": [
+        "cast"
+      ],
+      "character": "Tony"
+    },
+    {
+      "imdb_id": "tt0117060",
+      "title": "Mission: Impossible",
+      "year": 1996,
+      "roles": [
+        "cast"
+      ],
+      "character": "Max's Companion"
+    },
+    {
+      "imdb_id": "tt1020558",
+      "title": "Centurion",
+      "year": 2010,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Commander Gratus"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjA1MTM4NjY5MV5BMl5BanBnXkFtZTcwMjMzNjAyOA@@._V1_.jpg",
+  "birth_date": "03.07.1959",
+  "birth_location": "West Berlin, West Germany",
+  "height": "1.91 m",
+  "filmweb_id": 7253,
+  "name_pl": "Andreas Wisniewski",
+  "birth_location_pl": "Berlin",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Niemcy"
+  ],
+  "wikidata_fw_id": 7253
+}

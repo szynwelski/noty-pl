@@ -1,0 +1,213 @@
+{
+  "imdb_id": "tt0018037",
+  "title": "The Jazz Singer",
+  "description": "The son of a Jewish Cantor must defy the traditions of his religious father in order to pursue his dream of becoming a jazz singer.",
+  "runtime_minutes": 88,
+  "release_date": "04.02.1928",
+  "genres": [
+    "Drama",
+    "Music",
+    "Musical",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0427231",
+      "name": "Al Jolson"
+    },
+    {
+      "id": "nm0564219",
+      "name": "May McAvoy"
+    },
+    {
+      "id": "nm0645941",
+      "name": "Warner Oland"
+    },
+    {
+      "id": "nm0078806",
+      "name": "Eugenie Besserer"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0189076",
+      "name": "Alan Crosland"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0710723",
+      "name": "Samson Raphaelson"
+    },
+    {
+      "id": "nm0169879",
+      "name": "Alfred A. Cohn"
+    },
+    {
+      "id": "nm0418772",
+      "name": "Jack Jarmuth"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0427231",
+      "name": "Al Jolson",
+      "character": "Jakie Rabinowitz"
+    },
+    {
+      "id": "nm0564219",
+      "name": "May McAvoy",
+      "character": "Mary Dale"
+    },
+    {
+      "id": "nm0645941",
+      "name": "Warner Oland",
+      "character": "The Cantor"
+    },
+    {
+      "id": "nm0078806",
+      "name": "Eugenie Besserer",
+      "character": "Sara Rabinowitz"
+    },
+    {
+      "id": "nm0496470",
+      "name": "Otto Lederer",
+      "character": "Moisha Yudelson"
+    },
+    {
+      "id": "nm0330036",
+      "name": "Robert Gordon",
+      "character": "Jakie Rabinowitz - Age 13"
+    },
+    {
+      "id": "nm0875983",
+      "name": "Richard Tucker",
+      "character": "Harry Lee"
+    },
+    {
+      "id": "nm0742390",
+      "name": "Yossele Rosenblatt",
+      "character": "Cantor Rosenblatt - Concert Recital"
+    },
+    {
+      "id": "nm2644055",
+      "name": "Charlene Aber",
+      "character": "Chorus Girl"
+    },
+    {
+      "id": "nm0008670",
+      "name": "Arline Abers",
+      "character": "Chorus Girl"
+    },
+    {
+      "id": "nm0033985",
+      "name": "Jane Arden",
+      "character": "Small Part"
+    },
+    {
+      "id": "nm0067636",
+      "name": "Ernest Belcher",
+      "character": "Choreographer - 'April Follies'"
+    },
+    {
+      "id": "nm0083460",
+      "name": "Violet Bird",
+      "character": "Small Part"
+    },
+    {
+      "id": "nm0113094",
+      "name": "Bernard B. Brown",
+      "character": "Violinist"
+    },
+    {
+      "id": "nm0139813",
+      "name": "Nat Carr",
+      "character": "Levi"
+    },
+    {
+      "id": "nm0217552",
+      "name": "Claire Delmar",
+      "character": "Small Part"
+    },
+    {
+      "id": "nm0218131",
+      "name": "William Demarest",
+      "character": "Buster Billings"
+    },
+    {
+      "id": "nm0250240",
+      "name": "Neely Edwards",
+      "character": "Dance Director"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Yiddish"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 89631,
+  "year": 1927,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNGQ2MDdkZmUtZGIwZS00ZDg4LTliODItYTBiZDVlMDI4Nzc0XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.4,
+      "votes": 12006,
+      "distribution": {
+        "1": 239,
+        "2": 160,
+        "3": 329,
+        "4": 622,
+        "5": 1356,
+        "6": 2886,
+        "7": 3047,
+        "8": 1433,
+        "9": 674,
+        "10": 1260
+      },
+      "normalized": 4.3834
+    },
+    "filmweb": {
+      "rating": 6.62,
+      "votes": 2164,
+      "distribution": {
+        "1": 5,
+        "2": 14,
+        "3": 28,
+        "4": 91,
+        "5": 250,
+        "6": 587,
+        "7": 694,
+        "8": 331,
+        "9": 74,
+        "10": 90
+      },
+      "normalized": 4.6928
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "19.10.2005",
+      "normalized": 6.3474
+    },
+    "score": 5.1412
+  },
+  "polish_title": "Śpiewak jazzbandu",
+  "silent": false,
+  "description_pl": "Główny bohater, Jakie (Al Jolson), jest jedynym synem pobożnego kantora w synagodze, Rabinowitza. Marzeniem ojca jest, by syn poszedł w jego ślady. Jednak Jakie, choć związany ze swoimi żydowskimi korzeniami, pragnie zrobić karierę jako piosenkarz jazzowy. Po zażartej kłótni z ojcem chłopak opuszcza dom. W ciągu kilku lat staje się popularnym artystą estradowym, przemalowanym na Murzyna i znanym jako Jack Robin. Wtedy powraca do domu, aby prosić ojca o wybaczenie.",
+  "composers": [
+    {
+      "id": "nm0799007",
+      "name": "Louis Silvers"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005803",
+      "name": "Hal Mohr"
+    }
+  ],
+  "fetched_at": "2026-08-15"
+}

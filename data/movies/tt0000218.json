@@ -1,0 +1,101 @@
+{
+  "imdb_id": "tt0000218",
+  "title": "L'affaire Dreyfus",
+  "description": "Dramatized re-enactments of the events of the Dreyfus-affair from 1894 to 1899.",
+  "runtime_minutes": 13,
+  "release_date": "27.09.1899",
+  "genres": [
+    "Short",
+    "Biography",
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0617588",
+      "name": "Georges Méliès"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0617588",
+      "name": "Georges Méliès"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0617588",
+      "name": "Georges Méliès"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0617588",
+      "name": "Georges Méliès",
+      "character": "Fernand Labori"
+    }
+  ],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 90973,
+  "year": 1899,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYjU0ODE3MTUtYjBmNy00YjVkLWJhM2ItZmVkOWFkMTUwODgwXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.9,
+      "votes": 836,
+      "distribution": {
+        "1": 28,
+        "2": 18,
+        "3": 35,
+        "4": 63,
+        "5": 163,
+        "6": 249,
+        "7": 144,
+        "8": 66,
+        "9": 29,
+        "10": 41
+      },
+      "normalized": 4.3663
+    },
+    "filmweb": {
+      "rating": 6.2,
+      "votes": 234,
+      "distribution": {
+        "1": 2,
+        "2": 1,
+        "3": 5,
+        "4": 13,
+        "5": 48,
+        "6": 68,
+        "7": 66,
+        "8": 19,
+        "9": 3,
+        "10": 9
+      },
+      "normalized": 4.5588
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "13.12.2016",
+      "normalized": 7.1247
+    },
+    "score": 5.3499
+  },
+  "polish_title": "Sprawa Dreyfusa",
+  "silent": true,
+  "description_pl": "Francuski reżyser Georges Méli­es w swym filmie \"Sprawa Dreyfusa\" opowiada się jednoznacznie za skazanym - i ułaskawionym - kapitanem Alfredem Dreyfusem. Afera wokół żydowskiego kapitana doprowadziła do najcięższego kryzysu politycznego we Francji.\nFilm ten stał się kasowym szlagierem na jarmarkach oraz w stałych salach kinowych. Był rozpowszechniany również za granicą.\nMélies przedstawia 11 zrealizowanych w atelier scenach pełny przebieg sprawy, od aresztowania Dreyfusa aż po jego ułaskawienie. Opiera się przy tym na dokumentacji fotograficznej oraz na rysunkach, które częściowo wprowadza w ruch.",
+  "cinematographers": [
+    {
+      "id": "nm0617588",
+      "name": "Georges Méliès"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-15"
+}

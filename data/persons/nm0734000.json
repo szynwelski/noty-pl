@@ -1,0 +1,49 @@
+{
+  "id": "nm0734000",
+  "name": "Jean Rochefort",
+  "filmography": [
+    {
+      "imdb_id": "tt0068655",
+      "title": "The Tall Blond Man with One Black Shoe",
+      "year": 1972,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Le colonel Louis Marie Alphonse Toulouse"
+    },
+    {
+      "imdb_id": "tt0430224",
+      "title": "Hell",
+      "year": 2005,
+      "roles": [
+        "cast"
+      ],
+      "character": "Louis"
+    },
+    {
+      "imdb_id": "tt0362225",
+      "title": "Tell No One",
+      "year": 2006,
+      "roles": [
+        "cast"
+      ],
+      "character": "Gilbert Neuville"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTY4NTY0MDg2MF5BMl5BanBnXkFtZTcwNTkxMTY1Mg@@._V1_.jpg",
+  "birth_date": "29.04.1930",
+  "death_date": "09.10.2017",
+  "birth_location": "Paris, France",
+  "height": "1.79 m",
+  "filmweb_id": 207,
+  "name_pl": "Jean Rochefort",
+  "birth_location_pl": "Dinan",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja"
+  ],
+  "wikidata_fw_id": 207
+}

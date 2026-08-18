@@ -1,0 +1,60 @@
+{
+  "id": "nm0001084",
+  "name": "Ice Cube",
+  "filmography": [
+    {
+      "imdb_id": "tt0118615",
+      "title": "Anaconda",
+      "year": 1997,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Danny Rich"
+    },
+    {
+      "imdb_id": "tt0120188",
+      "title": "Three Kings",
+      "year": 1999,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Chief Elgin"
+    },
+    {
+      "imdb_id": "tt1232829",
+      "title": "21 Jump Street",
+      "year": 2012,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Captain Dickson"
+    },
+    {
+      "imdb_id": "tt2294449",
+      "title": "22 Jump Street",
+      "year": 2014,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Captain Dickson"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTYyMTE0NDQwMV5BMl5BanBnXkFtZTcwMDA1NjA1Nw@@._V1_.jpg",
+  "birth_date": "15.06.1969",
+  "birth_location": "Los Angeles, California, USA",
+  "height": "1.73 m",
+  "filmweb_id": 5077,
+  "name_pl": "Ice Cube",
+  "birth_location_pl": "Los Angeles, Kalifornia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 5077
+}

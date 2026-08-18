@@ -1,0 +1,47 @@
+{
+  "id": "nm0954500",
+  "name": "Petr Zelenka",
+  "filmography": [
+    {
+      "imdb_id": "tt0128292",
+      "title": "Buttoners",
+      "year": 1997,
+      "roles": [
+        "director",
+        "writer",
+        "cast"
+      ],
+      "character": "úchyl na ulici c.2"
+    },
+    {
+      "imdb_id": "tt0282917",
+      "title": "Rok dábla",
+      "year": 2002,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0408120",
+      "title": "Príbehy obycejného sílenství",
+      "year": 2005,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYzBlOWMyZTctNDRiMy00ZTkzLWI4YmEtNzNkYzdhNGRiODY5XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "21.08.1967",
+  "birth_location": "Prague, Czechoslovakia [now Czech Republic]",
+  "filmweb_id": 112557,
+  "name_pl": "Petr Zelenka",
+  "birth_location_pl": "Praga",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Czechy"
+  ]
+}

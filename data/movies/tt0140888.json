@@ -1,0 +1,256 @@
+{
+  "imdb_id": "tt0140888",
+  "title": "Central Station",
+  "description": "The emotive journey of a former schoolteacher who writes letters for illiterate people, and a young boy whose mother has just died, as they search for the father he never knew.",
+  "runtime_minutes": 110,
+  "release_date": "20.11.1998",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0005244",
+      "name": "Fernanda Montenegro"
+    },
+    {
+      "id": "nm0646737",
+      "name": "Vinícius de Oliveira"
+    },
+    {
+      "id": "nm0702479",
+      "name": "Marília Pêra"
+    },
+    {
+      "id": "nm0513913",
+      "name": "Soia Lira"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0758574",
+      "name": "Walter Salles"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0138676",
+      "name": "João Emanuel Carneiro"
+    },
+    {
+      "id": "nm0077094",
+      "name": "Marcos Bernstein"
+    },
+    {
+      "id": "nm0758574",
+      "name": "Walter Salles"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0005244",
+      "name": "Fernanda Montenegro",
+      "character": "Isadora"
+    },
+    {
+      "id": "nm0646737",
+      "name": "Vinícius de Oliveira",
+      "character": "Josué"
+    },
+    {
+      "id": "nm0702479",
+      "name": "Marília Pêra",
+      "character": "Irene"
+    },
+    {
+      "id": "nm0513913",
+      "name": "Soia Lira",
+      "character": "Ana"
+    },
+    {
+      "id": "nm0060584",
+      "name": "Othon Bastos",
+      "character": "Cezar"
+    },
+    {
+      "id": "nm0041957",
+      "name": "Otávio Augusto",
+      "character": "Pedrão"
+    },
+    {
+      "id": "nm0293948",
+      "name": "Stela Freitas",
+      "character": "Yolanda"
+    },
+    {
+      "id": "nm0618690",
+      "name": "Matheus Nachtergaele",
+      "character": "Isaías"
+    },
+    {
+      "id": "nm0432753",
+      "name": "Caio Junqueira",
+      "character": "Moisés"
+    },
+    {
+      "id": "nm0633723",
+      "name": "Socorro Nobre",
+      "character": "Dora's Client"
+    },
+    {
+      "id": "nm0326926",
+      "name": "Manoel Gomes",
+      "character": "Dora's Client"
+    },
+    {
+      "id": "nm0028094",
+      "name": "Roberto Andrade",
+      "character": "Dora's Client"
+    },
+    {
+      "id": "nm0447771",
+      "name": "Sheyla Kenia",
+      "character": "Dora's Client"
+    },
+    {
+      "id": "nm0811672",
+      "name": "Malcon Soares",
+      "character": "Dora's Client"
+    },
+    {
+      "id": "nm0272878",
+      "name": "Maria Fernandes",
+      "character": "Dora's Client"
+    },
+    {
+      "id": "nm0549105",
+      "name": "Maria Marlene",
+      "character": "Dora's Client"
+    },
+    {
+      "id": "nm0131234",
+      "name": "Christano Camargo",
+      "character": "Dora's Client"
+    },
+    {
+      "id": "nm0646686",
+      "name": "Jorseba-Sebastiano Oliveira",
+      "character": "Dora's Client"
+    }
+  ],
+  "countries": [
+    "Brazil",
+    "France"
+  ],
+  "languages": [
+    "Portuguese"
+  ],
+  "color": "Color",
+  "filmweb_id": 738,
+  "year": 1998,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOGFiNWMzZTUtNDI5OS00MjFlLThkNzctYjg2OGJlM2U1NjIyXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Central do Brasil",
+  "ratings": {
+    "imdb": {
+      "rating": 8,
+      "votes": 51342,
+      "distribution": {
+        "1": 922,
+        "2": 245,
+        "3": 248,
+        "4": 397,
+        "5": 995,
+        "6": 2553,
+        "7": 7229,
+        "8": 14061,
+        "9": 9622,
+        "10": 15070
+      },
+      "normalized": 7.3779
+    },
+    "filmweb": {
+      "rating": 7.52,
+      "votes": 3221,
+      "distribution": {
+        "1": 47,
+        "2": 24,
+        "3": 35,
+        "4": 39,
+        "5": 114,
+        "6": 322,
+        "7": 792,
+        "8": 1105,
+        "9": 466,
+        "10": 277
+      },
+      "normalized": 6.554
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "18.03.2006",
+      "normalized": 6.3474
+    },
+    "score": 6.7598
+  },
+  "polish_title": "Dworzec nadziei",
+  "silent": false,
+  "description_pl": "Film psychologiczno-obyczajowy. Rio de Janeiro, czasy współczesne: 50-letnia kobieta przed dworcem kolejowym pisuje odpłatnie listy dla analfabetów. Pewnego dnia jej klientka, matka 9-latka, która prosi o napisanie listu do dawno niewidzianego męża, ginie w wypadku drogowym. \nWzruszającą opowieść o przyjaźni emerytowanej nauczycielki z małym osieroconym chłopcem, która na zawsze odmieniła ich życie.",
+  "producers": [
+    {
+      "id": "nm0083687",
+      "name": "Lillian Birnbaum"
+    },
+    {
+      "id": "nm0110021",
+      "name": "Paulo Brito"
+    },
+    {
+      "id": "nm0167590",
+      "name": "Afonso Coaracy"
+    },
+    {
+      "id": "nm0004453",
+      "name": "Arthur Cohn"
+    },
+    {
+      "id": "nm0207602",
+      "name": "Paulo Carlos De Brito"
+    },
+    {
+      "id": "nm0166439",
+      "name": "Martine de Clermont-Tonnerre"
+    },
+    {
+      "id": "nm1703769",
+      "name": "Jack Gajos"
+    },
+    {
+      "id": "nm0308821",
+      "name": "Thomas Garvin"
+    },
+    {
+      "id": "nm0710511",
+      "name": "Donald Ranvaud"
+    },
+    {
+      "id": "nm0000602",
+      "name": "Robert Redford"
+    },
+    {
+      "id": "nm0758574",
+      "name": "Walter Salles"
+    },
+    {
+      "id": "nm0866191",
+      "name": "Elisa Tolomelli"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0142504",
+      "name": "Walter Carvalho"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

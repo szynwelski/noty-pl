@@ -1,0 +1,33 @@
+{
+  "id": "nm0006837",
+  "name": "Bill Melendez",
+  "filmography": [
+    {
+      "imdb_id": "tt0059026",
+      "title": "A Charlie Brown Christmas",
+      "year": 1965,
+      "roles": [
+        "director",
+        "star",
+        "cast",
+        "producer"
+      ],
+      "character": "Snoopy"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOTEyYmFlODUtYmY3OC00MTA4LWJlNzQtNzUzZDg3Njc2YjdjXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "15.11.1916",
+  "death_date": "02.09.2008",
+  "birth_location": "Hermosillo, Sonora, Mexico",
+  "height": "1.82 m",
+  "imdb_scraped": true,
+  "filmweb_id": 114406,
+  "name_pl": "Bill Melendez",
+  "birth_location_pl": "Hermosillo",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Meksyk",
+    "Stany Zjednoczone"
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "imdb_id": "tt1598778",
+  "title": "Contagion",
+  "description": "Healthcare professionals, government officials and everyday people find themselves in the midst of a pandemic as the CDC works to find a cure.",
+  "runtime_minutes": 106,
+  "release_date": "09.09.2011",
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000354",
+      "name": "Matt Damon"
+    },
+    {
+      "id": "nm0000701",
+      "name": "Kate Winslet"
+    },
+    {
+      "id": "nm0000179",
+      "name": "Jude Law"
+    },
+    {
+      "id": "nm0000569",
+      "name": "Gwyneth Paltrow"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001752",
+      "name": "Steven Soderbergh"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1994243",
+      "name": "Scott Z. Burns"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000354",
+      "name": "Matt Damon",
+      "character": "Mitch Emhoff"
+    },
+    {
+      "id": "nm0000701",
+      "name": "Kate Winslet",
+      "character": "Dr. Erin Mears"
+    },
+    {
+      "id": "nm0000179",
+      "name": "Jude Law",
+      "character": "Alan Krumwiede"
+    },
+    {
+      "id": "nm0000569",
+      "name": "Gwyneth Paltrow",
+      "character": "Beth Emhoff"
+    },
+    {
+      "id": "nm1239049",
+      "name": "Tien You Chui",
+      "character": "Li Fai"
+    },
+    {
+      "id": "nm0387319",
+      "name": "Josie Ho",
+      "character": "Li Fai's Sister"
+    },
+    {
+      "id": "nm4586999",
+      "name": "Daria Strokous",
+      "character": "Irina"
+    },
+    {
+      "id": "nm4051069",
+      "name": "Griffin Kane",
+      "character": "Clark Morrow"
+    },
+    {
+      "id": "nm17974903",
+      "name": "Yoshiaki Kobayashi",
+      "character": "Japanese Bus Man"
+    },
+    {
+      "id": "nm0000401",
+      "name": "Laurence Fishburne",
+      "character": "Dr. Ellis Cheever"
+    },
+    {
+      "id": "nm0370035",
+      "name": "John Hawkes",
+      "character": "Roger"
+    },
+    {
+      "id": "nm1010931",
+      "name": "Monique Gabriela Curnen",
+      "character": "Lorraine Vasquez"
+    },
+    {
+      "id": "nm0568590",
+      "name": "Teri McEvoy",
+      "character": "School Nurse"
+    },
+    {
+      "id": "nm3171682",
+      "name": "Sue Redman",
+      "character": "ER Nurse #1"
+    },
+    {
+      "id": "nm1830346",
+      "name": "Teri Campbell",
+      "character": "ER Nurse #2"
+    },
+    {
+      "id": "nm0869842",
+      "name": "Stef Tovar",
+      "character": "Dr. Arrington"
+    },
+    {
+      "id": "nm0266990",
+      "name": "Mary Jo Faraci",
+      "character": "Social Worker"
+    },
+    {
+      "id": "nm3185990",
+      "name": "Grace Rex",
+      "character": "Carrie Anne"
+    }
+  ],
+  "countries": [
+    "United Arab Emirates",
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Mandarin",
+    "Cantonese"
+  ],
+  "color": "Color",
+  "filmweb_id": 559895,
+  "year": 2011,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTY3MDk5MDc3OV5BMl5BanBnXkFtZTcwNzAyNTg0Ng@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.8,
+      "votes": 333133,
+      "distribution": {
+        "1": 3152,
+        "2": 2313,
+        "3": 4314,
+        "4": 9470,
+        "5": 27060,
+        "6": 75255,
+        "7": 116665,
+        "8": 61838,
+        "9": 18536,
+        "10": 14530
+      },
+      "normalized": 5.0933
+    },
+    "filmweb": {
+      "rating": 6.25,
+      "votes": 68889,
+      "distribution": {
+        "1": 161,
+        "2": 273,
+        "3": 1515,
+        "4": 3197,
+        "5": 10930,
+        "6": 22849,
+        "7": 21394,
+        "8": 6978,
+        "9": 1070,
+        "10": 522
+      },
+      "normalized": 3.8003
+    },
+    "jarek": {
+      "rating": 3,
+      "date_rated": "01.11.2011",
+      "normalized": 4.2591
+    },
+    "score": 4.3842
+  },
+  "polish_title": "Contagion - Epidemia strachu",
+  "silent": false,
+  "description_pl": "Ziemię ogarnia pandemia śmiertelnego wirusa. Przenosi się on w powietrzu, postępuje w zastraszająco szybkim tempie i zabija w kilka dni. Wraz z rozprzestrzenianiem się epidemii koncerny medyczne i lekarze z całego świata, prześcigają się, aby znaleźć lekarstwo i kontrolować panikę, która szerzy się jeszcze szybciej niż wirus.",
+  "producers": [
+    {
+      "id": "nm0015997",
+      "name": "Zakaria Alaoui"
+    },
+    {
+      "id": "nm1901333",
+      "name": "Chen-On Chu"
+    },
+    {
+      "id": "nm0414423",
+      "name": "Gregory Jacobs"
+    },
+    {
+      "id": "nm0454908",
+      "name": "Jonathan King"
+    },
+    {
+      "id": "nm0688789",
+      "name": "Michael Polaire"
+    },
+    {
+      "id": "nm0787834",
+      "name": "Michael Shamberg"
+    },
+    {
+      "id": "nm0792049",
+      "name": "Stacey Sher"
+    },
+    {
+      "id": "nm1568142",
+      "name": "Jeff Skoll"
+    },
+    {
+      "id": "nm0963238",
+      "name": "Ricky Strauss"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0553498",
+      "name": "Cliff Martinez"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0001752",
+      "name": "Steven Soderbergh"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

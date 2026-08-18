@@ -1,0 +1,45 @@
+{
+  "id": "nm0956310",
+  "name": "Jerry Ziesmer",
+  "filmography": [
+    {
+      "imdb_id": "tt0078788",
+      "title": "Apocalypse Now",
+      "year": 1979,
+      "roles": [
+        "cast"
+      ],
+      "character": "Civilian"
+    },
+    {
+      "imdb_id": "tt0079817",
+      "title": "Rocky II",
+      "year": 1979,
+      "roles": [
+        "cast"
+      ],
+      "character": "Salesman"
+    },
+    {
+      "imdb_id": "tt0181875",
+      "title": "Almost Famous",
+      "year": 2000,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNjUzODY0MWMtMDMzMC00MjkxLWJiZmYtNGY0NDg5YThmNzc4XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "31.05.1939",
+  "death_date": "01.08.2021",
+  "birth_location": "Milwaukee, Wisconsin, USA",
+  "filmweb_id": 139440,
+  "name_pl": "Jerry Ziesmer",
+  "birth_location_pl": "Milwaukee, Wiskonsin",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

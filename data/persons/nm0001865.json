@@ -1,0 +1,48 @@
+{
+  "id": "nm0001865",
+  "name": "Amy Yasbeck",
+  "filmography": [
+    {
+      "imdb_id": "tt0100405",
+      "title": "Pretty Woman",
+      "year": 1990,
+      "roles": [
+        "cast"
+      ],
+      "character": "Elizabeth Stuckey"
+    },
+    {
+      "imdb_id": "tt0107977",
+      "title": "Robin Hood: Men in Tights",
+      "year": 1993,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Marian"
+    },
+    {
+      "imdb_id": "tt0110475",
+      "title": "The Mask",
+      "year": 1994,
+      "roles": [
+        "cast"
+      ],
+      "character": "Peggy Brandt"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOTFjODgxMDctZjM1ZS00YmFmLWFiNzYtNmRkZTc0Mjg5OGY5XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "12.09.1962",
+  "birth_location": "Cincinnati, Ohio, USA",
+  "height": "1.65 m",
+  "filmweb_id": 5750,
+  "name_pl": "Amy Yasbeck",
+  "birth_location_pl": "Cincinnati, Ohio",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 5750
+}

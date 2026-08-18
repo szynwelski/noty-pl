@@ -1,0 +1,224 @@
+{
+  "imdb_id": "tt0254686",
+  "title": "The Piano Teacher",
+  "description": "A young man romantically pursues his masochistic piano teacher.",
+  "runtime_minutes": 131,
+  "release_date": "31.08.2001",
+  "genres": [
+    "Drama",
+    "Music",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0001376",
+      "name": "Isabelle Huppert"
+    },
+    {
+      "id": "nm0320760",
+      "name": "Annie Girardot"
+    },
+    {
+      "id": "nm0536095",
+      "name": "Benoît Magimel"
+    },
+    {
+      "id": "nm0521443",
+      "name": "Susanne Lothar"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0359734",
+      "name": "Michael Haneke"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0359734",
+      "name": "Michael Haneke"
+    },
+    {
+      "id": "nm0420548",
+      "name": "Elfriede Jelinek"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0001376",
+      "name": "Isabelle Huppert",
+      "character": "Erika Kohut"
+    },
+    {
+      "id": "nm0320760",
+      "name": "Annie Girardot",
+      "character": "The Mother"
+    },
+    {
+      "id": "nm0536095",
+      "name": "Benoît Magimel",
+      "character": "Walter Klemmer"
+    },
+    {
+      "id": "nm0521443",
+      "name": "Susanne Lothar",
+      "character": "Mrs. Schober"
+    },
+    {
+      "id": "nm0759797",
+      "name": "Udo Samel",
+      "character": "Dr. George Blonskij"
+    },
+    {
+      "id": "nm0973796",
+      "name": "Anna Sigalevitch",
+      "character": "Anna Schober"
+    },
+    {
+      "id": "nm0477868",
+      "name": "Cornelia Köndgen",
+      "character": "Mme Gerda Blonskij"
+    },
+    {
+      "id": "nm1070601",
+      "name": "Thomas Weinhappel",
+      "character": "Baritone"
+    },
+    {
+      "id": "nm0295429",
+      "name": "Georg Friedrich",
+      "character": "Man in drive-in"
+    },
+    {
+      "id": "nm1071274",
+      "name": "Philipp Heiss",
+      "character": "Naprawnik"
+    },
+    {
+      "id": "nm0542090",
+      "name": "William Mang",
+      "character": "Teacher"
+    },
+    {
+      "id": "nm0577722",
+      "name": "Rudolf Melichar",
+      "character": "Director"
+    },
+    {
+      "id": "nm0774960",
+      "name": "Michael Schottenberg",
+      "character": "Teacher"
+    },
+    {
+      "id": "nm1070256",
+      "name": "Gabriele Schuchter",
+      "character": "Margot"
+    },
+    {
+      "id": "nm0076679",
+      "name": "Dieter Berner",
+      "character": "Singing teacher"
+    },
+    {
+      "id": "nm1070583",
+      "name": "Volker Waldegg",
+      "character": "Teacher"
+    },
+    {
+      "id": "nm0720243",
+      "name": "Martina Resetarits",
+      "character": "Teacher"
+    },
+    {
+      "id": "nm1070248",
+      "name": "Annemarie Schleinzer",
+      "character": "Teacher"
+    }
+  ],
+  "countries": [
+    "France",
+    "Austria",
+    "Germany"
+  ],
+  "languages": [
+    "French",
+    "German"
+  ],
+  "color": "Color",
+  "filmweb_id": 31740,
+  "year": 2001,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOGE3ZjE2NjItMGIyZi00NjMxLWJiZWItMWJmMzZjOTgzZjJhXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "La Pianiste",
+  "ratings": {
+    "imdb": {
+      "rating": 7.5,
+      "votes": 82347,
+      "distribution": {
+        "1": 1506,
+        "2": 850,
+        "3": 1188,
+        "4": 1892,
+        "5": 3791,
+        "6": 8670,
+        "7": 19052,
+        "8": 23097,
+        "9": 12814,
+        "10": 9487
+      },
+      "normalized": 6.4032
+    },
+    "filmweb": {
+      "rating": 7.32,
+      "votes": 45999,
+      "distribution": {
+        "1": 600,
+        "2": 381,
+        "3": 917,
+        "4": 1287,
+        "5": 2711,
+        "6": 4896,
+        "7": 10907,
+        "8": 13876,
+        "9": 7022,
+        "10": 3402
+      },
+      "normalized": 6.2873
+    },
+    "michal": {
+      "rating": 2,
+      "date_rated": "19.10.2005",
+      "normalized": 3.1556
+    },
+    "score": 5.282
+  },
+  "polish_title": "Pianistka",
+  "silent": false,
+  "description_pl": "Ekranizacja powieści Elfriede Jelinek. Kobieta w średnim wieku pogrąża się stopniowo w autodestrukcji - odwiedza zakazane rejony Wiednia, kina porno, miejsca schadzek. Pewnego dnia student wyznaje jej swoje uczucia...",
+  "producers": [
+    {
+      "id": "nm0187383",
+      "name": "Yvon Crenn"
+    },
+    {
+      "id": "nm0333123",
+      "name": "Christine Gozlan"
+    },
+    {
+      "id": "nm0374002",
+      "name": "Veit Heiduschka"
+    },
+    {
+      "id": "nm0441798",
+      "name": "Michael Katz"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0074141",
+      "name": "Christian Berger"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "nm0001505",
+  "name": "Joe Mantegna",
+  "filmography": [
+    {
+      "imdb_id": "tt0099674",
+      "title": "The Godfather Part III",
+      "year": 1990,
+      "roles": [
+        "cast"
+      ],
+      "character": "Joey Zasa"
+    },
+    {
+      "imdb_id": "tt0109190",
+      "title": "Baby's Day Out",
+      "year": 1994,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Eddie"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTYwMzY4NDYwN15BMl5BanBnXkFtZTgwNDM3OTY4MzE@._V1_.jpg",
+  "birth_date": "13.11.1947",
+  "birth_location": "Chicago, Illinois, USA",
+  "height": "1.81 m",
+  "imdb_scraped": true,
+  "filmweb_id": 2760,
+  "name_pl": "Joe Mantegna",
+  "birth_location_pl": "Chicago, Illinois",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 2760
+}

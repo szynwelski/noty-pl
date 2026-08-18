@@ -1,0 +1,45 @@
+{
+  "id": "nm0000339",
+  "name": "Roger Corman",
+  "filmography": [
+    {
+      "imdb_id": "tt0078875",
+      "title": "The Tin Drum",
+      "year": 1979,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0083946",
+      "title": "Fitzcarraldo",
+      "year": 1982,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0102926",
+      "title": "The Silence of the Lambs",
+      "year": 1991,
+      "roles": [
+        "cast"
+      ],
+      "character": "FBI Director Hayden Burke"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjU3NjM1MjE0OF5BMl5BanBnXkFtZTcwOTY1Njk5Mg@@._V1_.jpg",
+  "birth_date": "05.04.1926",
+  "death_date": "09.05.2024",
+  "birth_location": "Detroit, Michigan, USA",
+  "height": "1.88 m",
+  "filmweb_id": 59343,
+  "name_pl": "Roger Corman",
+  "birth_location_pl": "Detroit, Michigan",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

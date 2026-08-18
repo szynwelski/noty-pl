@@ -1,0 +1,38 @@
+{
+  "id": "nm0001508",
+  "name": "Penny Marshall",
+  "filmography": [
+    {
+      "imdb_id": "tt0099077",
+      "title": "Awakenings",
+      "year": 1990,
+      "roles": [
+        "director",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0352248",
+      "title": "Cinderella Man",
+      "year": 2005,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTI1MzEzMjgwNl5BMl5BanBnXkFtZTcwMzkzMjU1Mg@@._V1_.jpg",
+  "birth_date": "15.10.1943",
+  "death_date": "17.12.2018",
+  "birth_location": "Manhattan, New York City, New York, USA",
+  "height": "1.68 m",
+  "imdb_scraped": true,
+  "filmweb_id": 11388,
+  "name_pl": "Penny Marshall",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 11388
+}

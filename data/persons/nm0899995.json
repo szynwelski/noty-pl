@@ -1,0 +1,49 @@
+{
+  "id": "nm0899995",
+  "name": "Joe Viterelli",
+  "filmography": [
+    {
+      "imdb_id": "tt0116213",
+      "title": "Eraser",
+      "year": 1996,
+      "roles": [
+        "cast"
+      ],
+      "character": "Tony"
+    },
+    {
+      "imdb_id": "tt0122933",
+      "title": "Analyze This",
+      "year": 1999,
+      "roles": [
+        "cast"
+      ],
+      "character": "Jelly"
+    },
+    {
+      "imdb_id": "tt0289848",
+      "title": "Analyze That",
+      "year": 2002,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Jelly"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTg0NjkzMTg1OV5BMl5BanBnXkFtZTcwNjk3MTkyOA@@._V1_.jpg",
+  "birth_date": "10.03.1937",
+  "death_date": "28.01.2004",
+  "birth_location": "The Bronx, New York, USA",
+  "height": "1.68 m",
+  "filmweb_id": 3584,
+  "name_pl": "Joe Viterelli",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 3584
+}

@@ -1,0 +1,205 @@
+{
+  "imdb_id": "tt0025913",
+  "title": "Triumph of the Will",
+  "description": "The infamous propaganda film of the 1934 Nazi Party rally in Nuremberg, Germany.",
+  "runtime_minutes": 110,
+  "release_date": "28.03.1935",
+  "genres": [
+    "Documentary",
+    "History"
+  ],
+  "stars": [
+    {
+      "id": "nm0386944",
+      "name": "Adolf Hitler"
+    },
+    {
+      "id": "nm0351425",
+      "name": "Hermann Göring"
+    },
+    {
+      "id": "nm0023907",
+      "name": "Max Amann"
+    },
+    {
+      "id": "nm0097006",
+      "name": "Martin Bormann"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0726166",
+      "name": "Leni Riefenstahl"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0726166",
+      "name": "Leni Riefenstahl"
+    },
+    {
+      "id": "nm0752193",
+      "name": "Walter Ruttmann"
+    },
+    {
+      "id": "nm1168002",
+      "name": "Eberhard Taubert"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0386944",
+      "name": "Adolf Hitler",
+      "character": "Self - Führer und Reichskanzler"
+    },
+    {
+      "id": "nm0351425",
+      "name": "Hermann Göring",
+      "character": "Self - Listens to Hess, Reviews Army, Parades in SA Uniform Then Joins Hitler, Listens to Hitler, Stands and Nods Agreement"
+    },
+    {
+      "id": "nm0023907",
+      "name": "Max Amann",
+      "character": "Self - Views Parade of SA in Long Pants, No Banners"
+    },
+    {
+      "id": "nm0097006",
+      "name": "Martin Bormann",
+      "character": "Self - Sits on Hitler's Left, at HJ Rally, Enters Hall Behind Hess, Sits Behind Streicher"
+    },
+    {
+      "id": "nm0117944",
+      "name": "Walter Buch",
+      "character": "Self - Views Parade of SA in Long Pants, No Banners, Views SS Parade"
+    },
+    {
+      "id": "nm0201703",
+      "name": "Walter Darré",
+      "character": "Self - Health of Our Farmers Speech"
+    },
+    {
+      "id": "nm0226270",
+      "name": "Otto Dietrich",
+      "character": "Self - Truth About Germany Speech"
+    },
+    {
+      "id": "nm0226281",
+      "name": "Sepp Dietrich",
+      "character": "Self - Commander of the SS-Leibstandarten"
+    },
+    {
+      "id": "nm0290950",
+      "name": "Hans Frank",
+      "character": "Self - Speech"
+    },
+    {
+      "id": "nm0324305",
+      "name": "Joseph Goebbels",
+      "character": "Self - Arrives by Plane with Hitler, Bright Flame Speech, at HJ Rally, Views RAD Parade, Listens to Hitler"
+    },
+    {
+      "id": "nm0342323",
+      "name": "Jakob Grimminger",
+      "character": "Self - Blood Flag Bearer"
+    },
+    {
+      "id": "nm0381523",
+      "name": "Rudolf Hess",
+      "character": "Self - Opens Congress, You Are Germany Speech, at HJ Rally, Reviews Parade, Sits on Hitler's Right, Introduces Hitler, Listens to Hitler, Hitler Is Germany Speech"
+    },
+    {
+      "id": "nm0382193",
+      "name": "Reinhard Heydrich",
+      "character": "Self - Views SS Parade with Other Officers by Hitler's Car"
+    },
+    {
+      "id": "nm0383183",
+      "name": "Konstantin Hierl",
+      "character": "Self - National Labour Service Speech, Presents RAD to Hitler, Leads RAD Parade Then Joins Hitler"
+    },
+    {
+      "id": "nm0385441",
+      "name": "Heinrich Himmler",
+      "character": "Self - Walks to Flame with Hitler and Lutze, Leads SS at SA Rally, Leads SS Parade Then Joins Hitler, Sits Beside Lutze, Listens to Hitler"
+    },
+    {
+      "id": "nm6734880",
+      "name": "Franz Hofer",
+      "character": "Self - NSDAP-Gauleiter"
+    },
+    {
+      "id": "nm0507992",
+      "name": "Robert Ley",
+      "character": "Self - Reviews DAF with Hitler, Single Thought Speech, Salutes SA Parade, Listens to Hitler with Schwarz"
+    },
+    {
+      "id": "nm0527619",
+      "name": "Viktor Lutze",
+      "character": "Self - Speech as New SA Leader, Walks to Flame with Hitler, Faithful to Führer Speech, Leads SA Parade Then Joins Hitler, Sits Between Himmler and Hess, Listens to Hitler"
+    }
+  ],
+  "countries": [
+    "Germany"
+  ],
+  "languages": [
+    "German"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 98840,
+  "year": 1935,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjE1MzE2Mzg1NV5BMl5BanBnXkFtZTgwOTUzOTA2MjE@._V1_.jpg",
+  "original_title": "Triumph des Willens",
+  "ratings": {
+    "imdb": {
+      "rating": 7.1,
+      "votes": 18573,
+      "distribution": {
+        "1": 1184,
+        "2": 227,
+        "3": 298,
+        "4": 467,
+        "5": 1059,
+        "6": 1781,
+        "7": 3618,
+        "8": 3549,
+        "9": 2129,
+        "10": 4261
+      },
+      "normalized": 5.6969
+    },
+    "filmweb": {
+      "rating": 7.31,
+      "votes": 3301,
+      "distribution": {
+        "1": 73,
+        "2": 26,
+        "3": 41,
+        "4": 66,
+        "5": 194,
+        "6": 370,
+        "7": 849,
+        "8": 971,
+        "9": 386,
+        "10": 325
+      },
+      "normalized": 6.1284
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "19.10.2005",
+      "normalized": 5.4199
+    },
+    "score": 5.7484
+  },
+  "polish_title": "Triumf woli",
+  "silent": false,
+  "description_pl": "\"<a href=\"/film/?id=tt0025913\">Triumf woli</a>\" <a href=\"/osoba/?id=nm0726166\">Leni Riefenstahl</a> to legendarny dziś pełnometrażowy film dokumentalny, przedstawiający wydarzenia mające miejsce podczas zjazdu niemieckiej partii nazistowskiej w Norymberdze (1934). Bohaterami filmu są czołowe postacie Trzeciej Rzeszy, z kanclerzem \"Tysiącletniej Rzeszy\" Adolfem Hitlerem na czele. Obraz jest opowieścią o narodzinach narodowosocjalistycznych Niemiec. Zgodnie z intencją reżimu, film miał nieść treści polityczne, ale dzisiaj jest również bezcennym dokumentem \"czasów pogardy\", ukazującym metody działania propagandy na masy zwykłych Niemców.",
+  "composers": [
+    {
+      "id": "nm0934819",
+      "name": "Herbert Windt"
+    }
+  ],
+  "fetched_at": "2026-08-15"
+}

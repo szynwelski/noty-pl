@@ -1,0 +1,46 @@
+{
+  "id": "nm0188357",
+  "name": "Harry Crocker",
+  "filmography": [
+    {
+      "imdb_id": "tt0015624",
+      "title": "The Big Parade",
+      "year": 1925,
+      "roles": [
+        "cast"
+      ],
+      "character": "Doughboy"
+    },
+    {
+      "imdb_id": "tt0018773",
+      "title": "The Circus",
+      "year": 1928,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Rex - A Tight Rope Walker"
+    },
+    {
+      "imdb_id": "tt0021749",
+      "title": "City Lights",
+      "year": 1931,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "birth_date": "02.07.1893",
+  "death_date": "23.05.1958",
+  "birth_location": "San Francisco, California, USA",
+  "height": "1.83 m",
+  "filmweb_id": 111786,
+  "name_pl": "Harry Crocker",
+  "birth_location_pl": "San Francisco, Kalifornia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "nm0004908",
+  "name": "Edie Falco",
+  "filmography": [
+    {
+      "imdb_id": "tt0118887",
+      "title": "Cop Land",
+      "year": 1997,
+      "roles": [
+        "cast"
+      ],
+      "character": "Berta"
+    },
+    {
+      "imdb_id": "tt0414951",
+      "title": "The Quiet",
+      "year": 2005,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Olivia Deer"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTM4NDAzOTk4MF5BMl5BanBnXkFtZTcwNzQ0MzQxMw@@._V1_.jpg",
+  "birth_date": "05.07.1963",
+  "birth_location": "Brooklyn, New York City, New York, USA",
+  "height": "1.65 m",
+  "imdb_scraped": true,
+  "filmweb_id": 40617,
+  "name_pl": "Edie Falco",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 40617
+}

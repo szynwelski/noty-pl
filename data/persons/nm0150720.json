@@ -1,0 +1,38 @@
+{
+  "id": "nm0150720",
+  "name": "Michael Champion",
+  "filmography": [
+    {
+      "imdb_id": "tt0086960",
+      "title": "Beverly Hills Cop",
+      "year": 1984,
+      "roles": [
+        "cast"
+      ],
+      "character": "Casey"
+    },
+    {
+      "imdb_id": "tt0100802",
+      "title": "Total Recall",
+      "year": 1990,
+      "roles": [
+        "cast"
+      ],
+      "character": "Helm"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQyNzA3MzIyM15BMl5BanBnXkFtZTcwMTA5NTczMQ@@._V1_.jpg",
+  "birth_date": "03.11.1946",
+  "death_date": "16.06.2021",
+  "birth_location": "Anderson, Indiana, USA",
+  "height": "1.98 m",
+  "imdb_scraped": true,
+  "filmweb_id": 31508,
+  "name_pl": "Michael Champion",
+  "birth_location_pl": "Anderson, Indiana",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

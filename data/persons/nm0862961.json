@@ -1,0 +1,34 @@
+{
+  "id": "nm0862961",
+  "name": "Yann Tiersen",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjVmYmFkNWQtZTBlNC00MDljLTkyOWEtOGE3ZWNjZjk0NDlkXkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0211915",
+      "title": "Amélie",
+      "year": 2001,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt0301357",
+      "title": "Good Bye Lenin!",
+      "year": 2003,
+      "roles": [
+        "composer"
+      ]
+    }
+  ],
+  "birth_date": "23.06.1970",
+  "birth_location": "Brest, Finistère, France",
+  "imdb_scraped": true,
+  "filmweb_id": 11055,
+  "name_pl": "Yann Tiersen",
+  "birth_location_pl": "Brest",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja"
+  ]
+}

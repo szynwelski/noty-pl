@@ -1,0 +1,31 @@
+{
+  "id": "nm0000802",
+  "name": "Mary Astor",
+  "filmography": [
+    {
+      "imdb_id": "tt0033870",
+      "title": "The Maltese Falcon",
+      "year": 1941,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Brigid O'Shaughnessy"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNGVhMTJkYTItY2U2OS00Mjg2LThjN2UtNmI3OGUyNTA1ZDQ5XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "03.05.1906",
+  "death_date": "25.09.1987",
+  "birth_location": "Quincy, Illinois, USA",
+  "height": "1.68 m",
+  "imdb_scraped": true,
+  "filmweb_id": 40979,
+  "name_pl": "Mary Astor",
+  "birth_location_pl": "Quincy, Illinois",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 40979
+}

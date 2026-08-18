@@ -1,0 +1,180 @@
+{
+  "imdb_id": "tt8089288",
+  "title": "Susotázs",
+  "description": "During a professional conference in Prague, two interpreters in the Hungarian booth realize that only one person is listening to them. They vie for her attention.",
+  "runtime_minutes": 17,
+  "release_date": "11.04.2019",
+  "genres": [
+    "Short",
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm6146430",
+      "name": "Pál Göttinger"
+    },
+    {
+      "id": "nm8448055",
+      "name": "Géza Takács"
+    },
+    {
+      "id": "nm0652619",
+      "name": "Andrea Osvárt"
+    },
+    {
+      "id": "nm1944843",
+      "name": "Márton Szirmai"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0879436",
+      "name": "Barnabás Tóth"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0879436",
+      "name": "Barnabás Tóth"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm6146430",
+      "name": "Pál Göttinger",
+      "character": "Pál"
+    },
+    {
+      "id": "nm8448055",
+      "name": "Géza Takács",
+      "character": "András"
+    },
+    {
+      "id": "nm0652619",
+      "name": "Andrea Osvárt",
+      "character": "Lady"
+    },
+    {
+      "id": "nm1944843",
+      "name": "Márton Szirmai",
+      "character": "Technician"
+    },
+    {
+      "id": "nm0092806",
+      "name": "Borbála Boldoghy",
+      "character": "Organizer"
+    },
+    {
+      "id": "nm6221948",
+      "name": "László Valiszka",
+      "character": "Mr. Kovács"
+    },
+    {
+      "id": "nm11360271",
+      "name": "Paolo Falcioni",
+      "character": "Male speaker"
+    },
+    {
+      "id": "nm11360272",
+      "name": "Korrina Hegarty",
+      "character": "Female speaker"
+    }
+  ],
+  "countries": [
+    "Hungary"
+  ],
+  "languages": [
+    "Hungarian"
+  ],
+  "color": "Color",
+  "filmweb_id": 832097,
+  "year": 2018,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BN2U5YmNjOGMtMDZmMy00MGRjLTkxNjMtOWFhN2IyYmZmNzYyXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.3,
+      "votes": 1308,
+      "distribution": {
+        "1": 38,
+        "2": 4,
+        "3": 22,
+        "4": 18,
+        "5": 56,
+        "6": 184,
+        "7": 424,
+        "8": 320,
+        "9": 118,
+        "10": 124
+      },
+      "normalized": 5.8093
+    },
+    "filmweb": {
+      "rating": 6.73,
+      "votes": 401,
+      "distribution": {
+        "1": 1,
+        "2": 3,
+        "3": 6,
+        "4": 12,
+        "5": 37,
+        "6": 92,
+        "7": 138,
+        "8": 88,
+        "9": 20,
+        "10": 4
+      },
+      "normalized": 5.0744
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "26.12.2020",
+      "normalized": 6.3474
+    },
+    "score": 5.7437
+  },
+  "polish_title": "Chuchotage",
+  "silent": false,
+  "description_pl": "Pál (Pál Göttinger) i András (Géza Takács) są węgierskimi tłumaczami symultanicznymi. Biorą udział w międzynarodowej konferencji producentów lodówek w Pradze. Przed rozpoczęciem wystąpień dowiadują się, że na sali zasiada zaledwie jedna osoba korzystająca z ich usług. Mężczyźni rozpoczynają więc nietypową grę, aby ustalić, kto jest tym wyjątkowym słuchaczem.",
+  "producers": [
+    {
+      "id": "nm4782271",
+      "name": "Andrea Kuczkó"
+    },
+    {
+      "id": "nm0707452",
+      "name": "Gábor Rajna"
+    },
+    {
+      "id": "nm1777951",
+      "name": "Gábor Sipos"
+    },
+    {
+      "id": "nm1387483",
+      "name": "Judit Stalter"
+    },
+    {
+      "id": "nm0879436",
+      "name": "Barnabás Tóth"
+    },
+    {
+      "id": "nm3788726",
+      "name": "Lajos Tóth"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm3150896",
+      "name": "László Pirisi"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm1882106",
+      "name": "András Szõke"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

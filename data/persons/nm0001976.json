@@ -1,0 +1,39 @@
+{
+  "id": "nm0001976",
+  "name": "Horst Buchholz",
+  "filmography": [
+    {
+      "imdb_id": "tt0054047",
+      "title": "The Magnificent Seven",
+      "year": 1960,
+      "roles": [
+        "cast"
+      ],
+      "character": "Chico"
+    },
+    {
+      "imdb_id": "tt0118799",
+      "title": "Life Is Beautiful",
+      "year": 1997,
+      "roles": [
+        "cast"
+      ],
+      "character": "Dottor Lessing"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDg5MTkyODI4NV5BMl5BanBnXkFtZTcwODI1ODE1NA@@._V1_.jpg",
+  "birth_date": "04.12.1933",
+  "death_date": "03.03.2003",
+  "birth_location": "Berlin, Germany",
+  "height": "1.77 m",
+  "imdb_scraped": true,
+  "filmweb_id": 4632,
+  "name_pl": "Horst Buchholz",
+  "birth_location_pl": "Berlin",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Niemcy"
+  ],
+  "wikidata_fw_id": 4632
+}

@@ -1,0 +1,183 @@
+{
+  "imdb_id": "tt0428443",
+  "title": "The Hours Go By",
+  "description": "Renee returns home one Saturday after giving an early morning piano lesson. She lives in the provinces with her husband Juan and their five year-old son Santi. Over breakfast, they discuss a possible move to Buenos Aires but rule it out after Juan provides a reasoned argument against it. He suggests a family trip to the beach. Renee proposes for Juan alone to take Santi to the beach while she takes her ailing mother Virginia to the country. The film bifurcates as the narrative alternates between the two excursions. Renee picks up Virginia at an assisted-living facility; they drive to a rustic cabin, sit by the fireplace and later take a walk in the forest. Juan and the inquisitive Santi travel further, to an almost empty beach, walk down a pier, build a castle out of sand, and meet two fishermen who entertain the boy with sea tales and teach him how to gut a fish.",
+  "runtime_minutes": 85,
+  "release_date": "01.09.2005",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0133332",
+      "name": "Susana Campos"
+    },
+    {
+      "id": "nm0073381",
+      "name": "Roxana Berco"
+    },
+    {
+      "id": "nm1297986",
+      "name": "Guillermo Arengo"
+    },
+    {
+      "id": "nm1878513",
+      "name": "Agustín Alcoba"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm1166759",
+      "name": "Inés de Oliveira Cézar"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1166759",
+      "name": "Inés de Oliveira Cézar"
+    },
+    {
+      "id": "nm1900525",
+      "name": "Daniel Veronese"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0133332",
+      "name": "Susana Campos",
+      "character": "Virginia"
+    },
+    {
+      "id": "nm0073381",
+      "name": "Roxana Berco",
+      "character": "René"
+    },
+    {
+      "id": "nm1297986",
+      "name": "Guillermo Arengo",
+      "character": "Juan"
+    },
+    {
+      "id": "nm1878513",
+      "name": "Agustín Alcoba",
+      "character": "Santiago"
+    },
+    {
+      "id": "nm1876149",
+      "name": "Pedro Recalde",
+      "character": "Dionisio Pescador"
+    },
+    {
+      "id": "nm1876443",
+      "name": "Javier Fainzaig",
+      "character": "José Pescador"
+    },
+    {
+      "id": "nm1876839",
+      "name": "María del Rosario Quaranta",
+      "character": "Almacenera"
+    },
+    {
+      "id": "nm0484084",
+      "name": "Carlos Lanari",
+      "character": "Vasallo"
+    },
+    {
+      "id": "nm1876129",
+      "name": "Agustina Muñoz",
+      "character": "Alumna Agustina"
+    },
+    {
+      "id": "nm1875826",
+      "name": "Cecilia Lagar",
+      "character": "Alfonsa"
+    }
+  ],
+  "countries": [
+    "Argentina"
+  ],
+  "languages": [
+    "Spanish"
+  ],
+  "color": "Color",
+  "filmweb_id": 283976,
+  "year": 2005,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODZjMGQwZDYtZWFiMS00NzMxLTk4NGMtNzE2ZDA2ZDIyNjc1XkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Cómo pasan las horas",
+  "ratings": {
+    "imdb": {
+      "rating": 6.6,
+      "votes": 71,
+      "distribution": {
+        "1": 4,
+        "2": 6,
+        "3": 6,
+        "4": 4,
+        "5": 7,
+        "6": 6,
+        "7": 6,
+        "8": 10,
+        "9": 6,
+        "10": 16
+      },
+      "normalized": 5.2618
+    },
+    "filmweb": {
+      "rating": 6.48,
+      "votes": 25,
+      "distribution": {
+        "1": 1,
+        "2": 0,
+        "3": 2,
+        "4": 3,
+        "5": 2,
+        "6": 3,
+        "7": 4,
+        "8": 4,
+        "9": 5,
+        "10": 1
+      },
+      "normalized": 5.1313
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "31.07.2006",
+      "normalized": 5.4199
+    },
+    "score": 5.271
+  },
+  "polish_title": "Kiedy mijają godziny",
+  "silent": false,
+  "producers": [
+    {
+      "id": "nm0297621",
+      "name": "Noemí Fuhrer"
+    },
+    {
+      "id": "nm1198419",
+      "name": "Alejandro Israel"
+    },
+    {
+      "id": "nm2125229",
+      "name": "Andres Marks"
+    },
+    {
+      "id": "nm0770052",
+      "name": "Marcelo Schapces"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0667892",
+      "name": "Martín Pavlovsky"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0798589",
+      "name": "Gerardo Silvatici"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

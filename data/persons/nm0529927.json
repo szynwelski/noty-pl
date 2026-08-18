@@ -1,0 +1,31 @@
+{
+  "id": "nm0529927",
+  "name": "José López Rodero",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYTgxOGZlNWMtZGQwNi00N2IzLWE0ZDAtZjYyN2I2ZDllMGM3XkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0087182",
+      "title": "Dune",
+      "year": 1984,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0142688",
+      "title": "The Ninth Gate",
+      "year": 1999,
+      "roles": [
+        "cast"
+      ],
+      "character": "Pablo & Pedro Ceniza"
+    }
+  ],
+  "birth_date": "1937",
+  "birth_location": "Madrid, Spain",
+  "imdb_scraped": true,
+  "filmweb_id": 49594,
+  "name_pl": "José López Rodero",
+  "gender": "M",
+  "wikidata_processed": true
+}

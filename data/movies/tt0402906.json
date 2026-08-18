@@ -1,0 +1,167 @@
+{
+  "imdb_id": "tt0402906",
+  "title": "Ceský sen",
+  "description": "Two students from the Czech Film Academy commission a leading advertising agency to organize a huge campaign for the opening of a new supermarket named Czech Dream. The supermarket however does not exist and is not meant to. The advertising campaign includes radio and television ads, posters, flyers with photos of fake Czech Dream products, a promotional song, an internet site, and ads in newspapers and magazines. Will people believe in it and show up for the grand opening?",
+  "runtime_minutes": 90,
+  "release_date": "15.06.2007",
+  "genres": [
+    "Documentary",
+    "Comedy"
+  ],
+  "stars": [
+    {
+      "id": "nm0061781",
+      "name": "Varhan Orchestrovich Bauer"
+    },
+    {
+      "id": "nm1630168",
+      "name": "Jaromír Kalina"
+    },
+    {
+      "id": "nm1109731",
+      "name": "Vít Klusák"
+    },
+    {
+      "id": "nm2919969",
+      "name": "Martin Prikryl"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm1109731",
+      "name": "Vít Klusák"
+    },
+    {
+      "id": "nm1150657",
+      "name": "Filip Remunda"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1109731",
+      "name": "Vít Klusák"
+    },
+    {
+      "id": "nm1150657",
+      "name": "Filip Remunda"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0061781",
+      "name": "Varhan Orchestrovich Bauer",
+      "character": "Self"
+    },
+    {
+      "id": "nm1630168",
+      "name": "Jaromír Kalina",
+      "character": "Self"
+    },
+    {
+      "id": "nm1109731",
+      "name": "Vít Klusák",
+      "character": "Self"
+    },
+    {
+      "id": "nm2919969",
+      "name": "Martin Prikryl",
+      "character": "Self"
+    },
+    {
+      "id": "nm1150657",
+      "name": "Filip Remunda",
+      "character": "Self"
+    },
+    {
+      "id": "nm1891427",
+      "name": "Eva Williams",
+      "character": "Self"
+    }
+  ],
+  "countries": [
+    "Czech Republic"
+  ],
+  "languages": [
+    "Czech"
+  ],
+  "color": "Color",
+  "year": 2004,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjIxMTE5MzE2NF5BMl5BanBnXkFtZTcwNzExNzY5MQ@@._V1_.jpg",
+  "filmweb_id": 158911,
+  "ratings": {
+    "imdb": {
+      "rating": 7.3,
+      "votes": 2440,
+      "distribution": {
+        "1": 51,
+        "2": 20,
+        "3": 28,
+        "4": 52,
+        "5": 109,
+        "6": 281,
+        "7": 627,
+        "8": 645,
+        "9": 330,
+        "10": 297
+      },
+      "normalized": 5.8556
+    },
+    "filmweb": {
+      "rating": 7.08,
+      "votes": 11755,
+      "distribution": {
+        "1": 85,
+        "2": 59,
+        "3": 162,
+        "4": 243,
+        "5": 684,
+        "6": 1817,
+        "7": 4142,
+        "8": 3188,
+        "9": 1007,
+        "10": 368
+      },
+      "normalized": 5.7641
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "13.02.2013",
+      "normalized": 5.6855
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "24.05.2006",
+      "normalized": 5.4199
+    },
+    "score": 5.6813
+  },
+  "polish_title": "Czeski sen",
+  "silent": false,
+  "description_pl": "Fałszywe reklamy telewizyjne i radiowe, 400 podświetlonych billboardów, 200000 ulotek oraz tysiące nabranych klientów to elementy filmu dwójki czeskich studentów Filipa Remunda i Víta Klusáka. Opowiadają oni prawdziwą historię lipnej kampanii reklamowej nieistniejącego supermarketu. Jest to zabawna opowieść, która w sposób prowokacyjny przedstawia niespodziewany konsumpcjonizm będący efektem zmian w postkomunistycznym społeczeństwie.",
+  "producers": [
+    {
+      "id": "nm1237371",
+      "name": "Filip Cermák"
+    },
+    {
+      "id": "nm1571986",
+      "name": "Ivan Hronec"
+    },
+    {
+      "id": "nm1041597",
+      "name": "Morgan Spurlock"
+    },
+    {
+      "id": "nm2412325",
+      "name": "Irena Taskovski"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0061781",
+      "name": "Varhan Orchestrovich Bauer"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "nm0005768",
+  "name": "Ernest Laszlo",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOWU3Y2E0MWMtNTExNi00YmE0LWIxNzUtODI3MTNmMmQyNmY5XkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0046359",
+      "title": "Stalag 17",
+      "year": 1953,
+      "roles": [
+        "cinematographer"
+      ]
+    },
+    {
+      "imdb_id": "tt0053946",
+      "title": "Inherit the Wind",
+      "year": 1960,
+      "roles": [
+        "cinematographer"
+      ]
+    },
+    {
+      "imdb_id": "tt0055031",
+      "title": "Judgment at Nuremberg",
+      "year": 1961,
+      "roles": [
+        "cinematographer"
+      ]
+    }
+  ],
+  "birth_date": "23.04.1898",
+  "death_date": "06.01.1984",
+  "birth_location": "Budapest, Austria-Hungary [now Hungary]",
+  "filmweb_id": 51994,
+  "name_pl": "Ernest Laszlo",
+  "birth_location_pl": "Budapeszt",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Węgry",
+    "Stany Zjednoczone"
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "imdb_id": "tt1496025",
+  "title": "Underworld: Awakening",
+  "description": "When human forces discover the existence of the Vampire and Lycan clans, a war to eradicate both species commences. The vampire warrior Selene leads the battle against humankind.",
+  "runtime_minutes": 88,
+  "release_date": "20.01.2012",
+  "genres": [
+    "Action",
+    "Fantasy",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000295",
+      "name": "Kate Beckinsale"
+    },
+    {
+      "id": "nm1013003",
+      "name": "Michael Ealy"
+    },
+    {
+      "id": "nm2086223",
+      "name": "India Eisley"
+    },
+    {
+      "id": "nm0001653",
+      "name": "Stephen Rea"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0617523",
+      "name": "Måns Mårlind"
+    },
+    {
+      "id": "nm0825407",
+      "name": "Björn Stein"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0936482",
+      "name": "Len Wiseman"
+    },
+    {
+      "id": "nm0387198",
+      "name": "John Hlavin"
+    },
+    {
+      "id": "nm0833089",
+      "name": "J. Michael Straczynski"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000295",
+      "name": "Kate Beckinsale",
+      "character": "Selene"
+    },
+    {
+      "id": "nm1013003",
+      "name": "Michael Ealy",
+      "character": "Detective Sebastian"
+    },
+    {
+      "id": "nm2086223",
+      "name": "India Eisley",
+      "character": "Eve"
+    },
+    {
+      "id": "nm0001653",
+      "name": "Stephen Rea",
+      "character": "Dr. Jacob Lane"
+    },
+    {
+      "id": "nm3772243",
+      "name": "Theo James",
+      "character": "David"
+    },
+    {
+      "id": "nm0002142",
+      "name": "Sandrine Holt",
+      "character": "Lida"
+    },
+    {
+      "id": "nm0001097",
+      "name": "Charles Dance",
+      "character": "Thomas"
+    },
+    {
+      "id": "nm0390285",
+      "name": "Kris Holden-Ried",
+      "character": "Quint"
+    },
+    {
+      "id": "nm2811073",
+      "name": "Jacob Blair",
+      "character": "Officer Kolb"
+    },
+    {
+      "id": "nm0717150",
+      "name": "Adam Greydon Reid",
+      "character": "Med Tech #1"
+    },
+    {
+      "id": "nm0010818",
+      "name": "Catlin Adams",
+      "character": "Olivia"
+    },
+    {
+      "id": "nm0493096",
+      "name": "Robert Lawrenson",
+      "character": "Waterfront Cop"
+    },
+    {
+      "id": "nm2837384",
+      "name": "Lee Majdoub",
+      "character": "Desk Guard #1"
+    },
+    {
+      "id": "nm0409174",
+      "name": "John Innes",
+      "character": "Medical Supervisor"
+    },
+    {
+      "id": "nm1553065",
+      "name": "Tyler McClendon",
+      "character": "Scientist"
+    },
+    {
+      "id": "nm0659698",
+      "name": "Panou",
+      "character": "Old City Cop #1"
+    },
+    {
+      "id": "nm1870927",
+      "name": "Ian Rozylo",
+      "character": "Old City Cop #2"
+    },
+    {
+      "id": "nm0351699",
+      "name": "Benita Ha",
+      "character": "Surgical Nurse"
+    }
+  ],
+  "countries": [
+    "United States",
+    "Canada"
+  ],
+  "languages": [
+    "English",
+    "Russian"
+  ],
+  "color": "Color",
+  "filmweb_id": 544185,
+  "year": 2012,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjAxMjc0ODk0OF5BMl5BanBnXkFtZTcwMTc5NDQwNw@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.3,
+      "votes": 168258,
+      "distribution": {
+        "1": 2708,
+        "2": 2286,
+        "3": 4353,
+        "4": 8881,
+        "5": 20458,
+        "6": 41760,
+        "7": 42193,
+        "8": 20995,
+        "9": 8644,
+        "10": 15980
+      },
+      "normalized": 4.0971
+    },
+    "filmweb": {
+      "rating": 6.58,
+      "votes": 78308,
+      "distribution": {
+        "1": 447,
+        "2": 694,
+        "3": 2445,
+        "4": 4089,
+        "5": 9789,
+        "6": 17825,
+        "7": 22139,
+        "8": 12612,
+        "9": 4629,
+        "10": 3639
+      },
+      "normalized": 4.5071
+    },
+    "jarek": {
+      "rating": 1,
+      "date_rated": "01.03.2012",
+      "normalized": 2.5327
+    },
+    "score": 3.7123
+  },
+  "polish_title": "Underworld: Przebudzenie",
+  "silent": false,
+  "description_pl": "Długo wyczekiwana kontynuacja trylogii, która na całym świecie zarobiła niemal 300 milionów dolarów. <a href=\"/osoba/?id=nm0000295\">Kate Beckinsale</a> powraca w roli wampirzycy Seleny, która po latach uśpienia budzi się w świecie, w którym ludzie wiedzą już o istnieniu wampirów i Lykanów. Trwają przygotowania do wielkiej wojny, skierowanej przeciwko dwóm nieśmiertelnym rasom.",
+  "producers": [
+    {
+      "id": "nm0167708",
+      "name": "David Coatsworth"
+    },
+    {
+      "id": "nm2886124",
+      "name": "David Kern"
+    },
+    {
+      "id": "nm0524342",
+      "name": "Gary Lucchesi"
+    },
+    {
+      "id": "nm0574311",
+      "name": "James McQuaide"
+    },
+    {
+      "id": "nm2303562",
+      "name": "Eric Reid"
+    },
+    {
+      "id": "nm0742347",
+      "name": "Tom Rosenberg"
+    },
+    {
+      "id": "nm1270585",
+      "name": "Skip Williamson"
+    },
+    {
+      "id": "nm1368309",
+      "name": "Henry Winterstern"
+    },
+    {
+      "id": "nm0936482",
+      "name": "Len Wiseman"
+    },
+    {
+      "id": "nm0002999",
+      "name": "Richard S. Wright"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0368248",
+      "name": "Paul Haslinger"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0450670",
+      "name": "Scott Kevan"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

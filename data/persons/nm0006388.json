@@ -1,0 +1,36 @@
+{
+  "id": "nm0006388",
+  "name": "David O. Selznick",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZTY5NDk5YTctNmRlOC00OTJlLTk1OWMtYTg2NDcyNTljZjliXkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0024216",
+      "title": "King Kong",
+      "year": 1933,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0041959",
+      "title": "The Third Man",
+      "year": 1949,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "birth_date": "10.05.1902",
+  "death_date": "22.06.1965",
+  "birth_location": "Pittsburgh, Pennsylvania, USA",
+  "height": "1.85 m",
+  "imdb_scraped": true,
+  "filmweb_id": 13059,
+  "name_pl": "David O. Selznick",
+  "birth_location_pl": "Pittsburgh, Pensylwania",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "nm0004841",
+  "name": "Stewart Copeland",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTE5MzMxNTE2NF5BMl5BanBnXkFtZTYwNTk0MDI0._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0094291",
+      "title": "Wall Street",
+      "year": 1987,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt0124198",
+      "title": "Very Bad Things",
+      "year": 1998,
+      "roles": [
+        "composer"
+      ]
+    }
+  ],
+  "birth_date": "16.07.1952",
+  "birth_location": "Alexandria, Virginia, USA",
+  "height": "1.89 m",
+  "imdb_scraped": true,
+  "filmweb_id": 10453,
+  "name_pl": "Stewart Copeland",
+  "birth_location_pl": "Alexandria, Wirginia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

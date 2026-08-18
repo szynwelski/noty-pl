@@ -1,0 +1,229 @@
+{
+  "imdb_id": "tt0056172",
+  "title": "Lawrence of Arabia",
+  "description": "The story of T.E. Lawrence, the English officer who successfully united and led the diverse, often warring, Arab tribes during World War I in order to fight the Turks.",
+  "runtime_minutes": 227,
+  "release_date": "16.12.1962",
+  "genres": [
+    "Adventure",
+    "Biography",
+    "Drama",
+    "War"
+  ],
+  "stars": [
+    {
+      "id": "nm0000564",
+      "name": "Peter O'Toole"
+    },
+    {
+      "id": "nm0000027",
+      "name": "Alec Guinness"
+    },
+    {
+      "id": "nm0000063",
+      "name": "Anthony Quinn"
+    },
+    {
+      "id": "nm0370144",
+      "name": "Jack Hawkins"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000180",
+      "name": "David Lean"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0004122",
+      "name": "Robert Bolt"
+    },
+    {
+      "id": "nm0933858",
+      "name": "Michael Wilson"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000564",
+      "name": "Peter O'Toole",
+      "character": "Lawrence"
+    },
+    {
+      "id": "nm0000027",
+      "name": "Alec Guinness",
+      "character": "Prince Faisal"
+    },
+    {
+      "id": "nm0000063",
+      "name": "Anthony Quinn",
+      "character": "Auda Abu Tayi"
+    },
+    {
+      "id": "nm0370144",
+      "name": "Jack Hawkins",
+      "character": "General Edmund Allenby"
+    },
+    {
+      "id": "nm0001725",
+      "name": "Omar Sharif",
+      "character": "Sherif Ali"
+    },
+    {
+      "id": "nm0001207",
+      "name": "José Ferrer",
+      "character": "Turkish Bey"
+    },
+    {
+      "id": "nm0703033",
+      "name": "Anthony Quayle",
+      "character": "Colonel Brighton"
+    },
+    {
+      "id": "nm0001647",
+      "name": "Claude Rains",
+      "character": "Mr. Dryden"
+    },
+    {
+      "id": "nm0447913",
+      "name": "Arthur Kennedy",
+      "character": "Jackson Bentley"
+    },
+    {
+      "id": "nm0938372",
+      "name": "Donald Wolfit",
+      "character": "General Archibald Murray"
+    },
+    {
+      "id": "nm0424102",
+      "name": "I.S. Johar",
+      "character": "Gasim"
+    },
+    {
+      "id": "nm0711633",
+      "name": "Gamil Ratib",
+      "character": "Majid"
+    },
+    {
+      "id": "nm0712935",
+      "name": "Michel Ray",
+      "character": "Farraj"
+    },
+    {
+      "id": "nm0227249",
+      "name": "John Dimech",
+      "character": "Daud"
+    },
+    {
+      "id": "nm0596109",
+      "name": "Zia Mohyeddin",
+      "character": "Tafas"
+    },
+    {
+      "id": "nm0548010",
+      "name": "Howard Marion-Crawford",
+      "character": "Medical Officer"
+    },
+    {
+      "id": "nm0007232",
+      "name": "Jack Gwillim",
+      "character": "Club Secretary"
+    },
+    {
+      "id": "nm0588486",
+      "name": "Hugh Miller",
+      "character": "R.A.M.C. Colonel"
+    }
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Turkish"
+  ],
+  "color": null,
+  "filmweb_id": 33560,
+  "year": 1962,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYjY0YTQ1OTAtYjEyNy00NTQ4LThlMTQtM2QwYTVhYWFhNjU5XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8.3,
+      "votes": 344731,
+      "distribution": {
+        "1": 8105,
+        "2": 2007,
+        "3": 2513,
+        "4": 4360,
+        "5": 8683,
+        "6": 19168,
+        "7": 47594,
+        "8": 86448,
+        "9": 78088,
+        "10": 87765
+      },
+      "normalized": 8.3656
+    },
+    "filmweb": {
+      "rating": 7.63,
+      "votes": 24667,
+      "distribution": {
+        "1": 314,
+        "2": 109,
+        "3": 270,
+        "4": 459,
+        "5": 979,
+        "6": 2350,
+        "7": 5519,
+        "8": 7434,
+        "9": 4293,
+        "10": 2940
+      },
+      "normalized": 7.0859
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "05.02.2010",
+      "normalized": 7.1247
+    },
+    "michal": {
+      "rating": 8,
+      "date_rated": "26.10.2005",
+      "normalized": 8.1116
+    },
+    "score": 7.6719
+  },
+  "polish_title": "Lawrence z Arabii",
+  "silent": false,
+  "description_pl": "W sztabie brytyjskim w Kairze 29-letni Lawrence otrzymuje specjalne zadanie. Ma nawiązać kontakt z emirem Fajsalem i prosić o pomoc wojskową, by wzmocnić arabską rewoltę przeciwko Turkom. Okazuje się, że musiałby zdarzyć się cud, by znowu porwać ludzi do walki. Lawrence dokonuje tej nieprawdopodobnej rzeczy. Wraz z niewielkim oddziałem szejka Alego rusza do boju.",
+  "producers": [
+    {
+      "id": "nm0818545",
+      "name": "Sam Spiegel"
+    },
+    {
+      "id": "nm0441734",
+      "name": "James C. Katz"
+    },
+    {
+      "id": "nm0000180",
+      "name": "David Lean"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0003574",
+      "name": "Maurice Jarre"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0002875",
+      "name": "Freddie Young"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

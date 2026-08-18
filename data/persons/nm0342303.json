@@ -1,0 +1,37 @@
+{
+  "id": "nm0342303",
+  "name": "Wilhelm Grimm",
+  "filmography": [
+    {
+      "imdb_id": "tt0029583",
+      "title": "Snow White and the Seven Dwarfs",
+      "year": 1937,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0398286",
+      "title": "Tangled",
+      "year": 2010,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODc3OTllZTctYWMwZS00MWI1LTllOWUtNTNmYzZjZDJjYmI4XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "24.02.1786",
+  "death_date": "16.12.1859",
+  "birth_location": "Hanau, Hesse-Kassel, Holy Roman Empire [now Hesse, Germany]",
+  "imdb_scraped": true,
+  "filmweb_id": 93496,
+  "name_pl": "Wilhelm Grimm",
+  "birth_location_pl": "Hanau",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Hesja-Kassel",
+    "Królestwo Prus"
+  ],
+  "wikidata_fw_id": 93496
+}

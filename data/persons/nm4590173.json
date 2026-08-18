@@ -1,0 +1,47 @@
+{
+  "id": "nm4590173",
+  "name": "Emma Tremblay",
+  "filmography": [
+    {
+      "imdb_id": "tt1535108",
+      "title": "Elysium",
+      "year": 2013,
+      "roles": [
+        "cast"
+      ],
+      "character": "Matilda"
+    },
+    {
+      "imdb_id": "tt0435651",
+      "title": "The Giver",
+      "year": 2014,
+      "roles": [
+        "cast"
+      ],
+      "character": "Lily"
+    },
+    {
+      "imdb_id": "tt1872194",
+      "title": "The Judge",
+      "year": 2014,
+      "roles": [
+        "cast"
+      ],
+      "character": "Lauren Palmer"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTk4MTMwMjMzMV5BMl5BanBnXkFtZTgwODgzNTI4NzE@._V1_.jpg",
+  "birth_date": "21.04.2004",
+  "birth_location": "Vancouver, British Columbia, Canada",
+  "height": "1.65 m",
+  "imdb_scraped": true,
+  "filmweb_id": 1686167,
+  "name_pl": "Emma Tremblay",
+  "birth_location_pl": "Vancouver",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Kanada"
+  ],
+  "wikidata_fw_id": 1686167
+}

@@ -1,0 +1,207 @@
+{
+  "imdb_id": "tt3709678",
+  "title": "The Kindergarten Teacher",
+  "description": "A kindergarten teacher discovers in a five year-old child a prodigious gift for poetry. Amazed and inspired by this young boy, she decides to protect his talent in spite of everyone.",
+  "runtime_minutes": 119,
+  "release_date": "10.09.2014",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0488686",
+      "name": "Sarit Larry"
+    },
+    {
+      "id": "nm6472568",
+      "name": "Avi Shnaidman"
+    },
+    {
+      "id": "nm2443797",
+      "name": "Lior Raz"
+    },
+    {
+      "id": "nm9232512",
+      "name": "Hamuchtar"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm2028715",
+      "name": "Nadav Lapid"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm2028715",
+      "name": "Nadav Lapid"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0488686",
+      "name": "Sarit Larry",
+      "character": "Nira"
+    },
+    {
+      "id": "nm6472568",
+      "name": "Avi Shnaidman",
+      "character": "Yoav"
+    },
+    {
+      "id": "nm2443797",
+      "name": "Lior Raz",
+      "character": "Nira's husband"
+    },
+    {
+      "id": "nm9232512",
+      "name": "Hamuchtar",
+      "character": "Oded"
+    },
+    {
+      "id": "nm4257026",
+      "name": "Ester Rada",
+      "character": "Miri"
+    },
+    {
+      "id": "nm6472570",
+      "name": "Guy Oren",
+      "character": "Asi"
+    },
+    {
+      "id": "nm0493787",
+      "name": "Yehezkel Lazarov",
+      "character": "Amnon"
+    },
+    {
+      "id": "nm0867936",
+      "name": "Dan Toren",
+      "character": "Aharon"
+    },
+    {
+      "id": "nm6472571",
+      "name": "Avishag Kahalani",
+      "character": "Einav"
+    },
+    {
+      "id": "nm5896786",
+      "name": "Yiftach Kaminer",
+      "character": "Spanish poetry enthusiast"
+    },
+    {
+      "id": "nm5534855",
+      "name": "Nova Doval",
+      "character": "lihi the soldier"
+    },
+    {
+      "id": "nm6520886",
+      "name": "Yotam Koren",
+      "character": "Poetry class attendee"
+    }
+  ],
+  "countries": [
+    "Israel",
+    "France"
+  ],
+  "languages": [
+    "Hebrew"
+  ],
+  "color": null,
+  "filmweb_id": 717251,
+  "year": 2014,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjFmYjk3MWItYjI4ZS00OTgzLWJmMGItMzIxNmE0YzNhZWRmXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Ha-ganenet",
+  "ratings": {
+    "imdb": {
+      "rating": 6.6,
+      "votes": 1489,
+      "distribution": {
+        "1": 98,
+        "2": 28,
+        "3": 43,
+        "4": 71,
+        "5": 136,
+        "6": 271,
+        "7": 380,
+        "8": 280,
+        "9": 92,
+        "10": 90
+      },
+      "normalized": 4.9552
+    },
+    "filmweb": {
+      "rating": 6.34,
+      "votes": 79,
+      "distribution": {
+        "1": 1,
+        "2": 1,
+        "3": 3,
+        "4": 6,
+        "5": 5,
+        "6": 18,
+        "7": 31,
+        "8": 11,
+        "9": 3,
+        "10": 0
+      },
+      "normalized": 4.9264
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "22.12.2018",
+      "normalized": 4.9718
+    },
+    "score": 4.9511
+  },
+  "polish_title": "Przedszkolanka",
+  "silent": false,
+  "description_pl": "W świecie, który nie docenia artystów, gdzie wrażliwe dusze nie mają szans, poznajemy historię Don Kichota w spódnicy. Nira od 15 lat jest nauczycielką w przedszkolu. Lubi swoją pracę, ale podchodzi do niej bez emocji. Pewnego dnia słyszy kilka linijek wiersza wyrecytowanego przez 5-letniego Yoava. Okazuje się, że chłopiec sam go napisał i co więcej, napisał też wiele innych wierszy. Oczarowana Nira postanawia za wszelką cenę ochronić wyjątkową wrażliwość i talent małego poety. Jej desperackie działania spotkają się jednak z całkowitym niezrozumieniem otoczenia i wkrótce przerodzą się w niechęć. Wobec takiego obrotu sprawy jej opiekuńcze dążenia nasilą się i przerodzą w prawdziwą, maniakalną obsesję. Film ma wymiar autobiograficzny, a reżyser wykorzystał w filmie swoje wiersze, które pisał we wczesnym dzieciństwie.",
+  "producers": [
+    {
+      "id": "nm0035993",
+      "name": "Simon Arnal"
+    },
+    {
+      "id": "nm0071379",
+      "name": "Caroline Benjo"
+    },
+    {
+      "id": "nm3838035",
+      "name": "Julie Billy"
+    },
+    {
+      "id": "nm3094496",
+      "name": "Osnat Handelsman-Keren"
+    },
+    {
+      "id": "nm2732734",
+      "name": "Talia Kleinhendler"
+    },
+    {
+      "id": "nm5398118",
+      "name": "Olivier Père"
+    },
+    {
+      "id": "nm0779970",
+      "name": "Carole Scotta"
+    },
+    {
+      "id": "nm3751643",
+      "name": "Zehava Shekel"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm2131022",
+      "name": "Michael Emet"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0325905",
+      "name": "Shai Goldman"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "nm0800922",
+  "name": "Brad Simpson",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZjU0ZDIxYWEtMGUxZi00ZDI3LWJkODItN2YyNTM5NTcwY2U4XkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0297884",
+      "title": "Far from Heaven",
+      "year": 2002,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0816711",
+      "title": "World War Z",
+      "year": 2013,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt3104988",
+      "title": "Crazy Rich Asians",
+      "year": 2018,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "birth_date": "16.02.1973",
+  "birth_location": "Washington, District of Columbia, USA",
+  "filmweb_id": 287113,
+  "name_pl": "Brad Simpson",
+  "birth_location_pl": "Waszyngton, Dystrykt Kolumbii",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

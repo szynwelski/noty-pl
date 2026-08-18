@@ -1,0 +1,40 @@
+{
+  "id": "nm0001732",
+  "name": "Cybill Shepherd",
+  "filmography": [
+    {
+      "imdb_id": "tt0067328",
+      "title": "The Last Picture Show",
+      "year": 1971,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Jacy Farrow"
+    },
+    {
+      "imdb_id": "tt0075314",
+      "title": "Taxi Driver",
+      "year": 1976,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Betsy"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTUzNTA1Mzg5M15BMl5BanBnXkFtZTYwNjkzNDk3._V1_.jpg",
+  "birth_date": "18.02.1950",
+  "birth_location": "Memphis, Tennessee, USA",
+  "height": "1.73 m",
+  "imdb_scraped": true,
+  "filmweb_id": 8267,
+  "name_pl": "Cybill Shepherd",
+  "birth_location_pl": "Memphis, Tennessee",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 8267
+}

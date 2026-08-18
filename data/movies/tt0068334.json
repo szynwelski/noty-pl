@@ -1,0 +1,216 @@
+{
+  "imdb_id": "tt0068334",
+  "title": "The Candidate",
+  "description": "Bill McKay is a candidate for the U.S. Senate from California. He has no hope of winning, so he is willing to tweak the establishment.",
+  "runtime_minutes": 110,
+  "release_date": "05.08.1972",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0000602",
+      "name": "Robert Redford"
+    },
+    {
+      "id": "nm0001967",
+      "name": "Peter Boyle"
+    },
+    {
+      "id": "nm0002048",
+      "name": "Melvyn Douglas"
+    },
+    {
+      "id": "nm0692093",
+      "name": "Don Porter"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0006916",
+      "name": "Michael Ritchie"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0488373",
+      "name": "Jeremy Larner"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000602",
+      "name": "Robert Redford",
+      "character": "Bill McKay"
+    },
+    {
+      "id": "nm0001967",
+      "name": "Peter Boyle",
+      "character": "Marvin Lucas"
+    },
+    {
+      "id": "nm0002048",
+      "name": "Melvyn Douglas",
+      "character": "John J. McKay"
+    },
+    {
+      "id": "nm0692093",
+      "name": "Don Porter",
+      "character": "Senator Crocker Jarmon"
+    },
+    {
+      "id": "nm0307255",
+      "name": "Allen Garfield",
+      "character": "Klein"
+    },
+    {
+      "id": "nm0137948",
+      "name": "Karen Carlson",
+      "character": "Nancy McKay"
+    },
+    {
+      "id": "nm0714793",
+      "name": "Quinn K. Redeker",
+      "character": "Rick Jenkin"
+    },
+    {
+      "id": "nm0881518",
+      "name": "Morgan Upton",
+      "character": "Wally Henderson"
+    },
+    {
+      "id": "nm0503627",
+      "name": "Michael Lerner",
+      "character": "Paul Corliss"
+    },
+    {
+      "id": "nm0864851",
+      "name": "Kenneth Tobey",
+      "character": "Floyd J. Starkey"
+    },
+    {
+      "id": "nm0695626",
+      "name": "Christopher Pray",
+      "character": "David"
+    },
+    {
+      "id": "nm0586683",
+      "name": "Joe Miksak",
+      "character": "Neil Atkinson"
+    },
+    {
+      "id": "nm0838135",
+      "name": "Jenny Sullivan",
+      "character": "Lynn"
+    },
+    {
+      "id": "nm0197080",
+      "name": "Tom Dahlgren",
+      "character": "Pilot"
+    },
+    {
+      "id": "nm0383732",
+      "name": "Gerald Hiken",
+      "character": "Station Manager"
+    },
+    {
+      "id": "nm0020762",
+      "name": "Leslie Allen",
+      "character": "Mabel"
+    },
+    {
+      "id": "nm0329342",
+      "name": "Jason Goodrow",
+      "character": "Boy in Commercial"
+    },
+    {
+      "id": "nm0207021",
+      "name": "Robert De Anda",
+      "character": "Jaime"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "color": "Color",
+  "filmweb_id": 6681,
+  "year": 1972,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDQzMGMzYTctOWE5Mi00OGFlLTlhY2YtZjg1NGFlZDkwNzkxXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7,
+      "votes": 13580,
+      "distribution": {
+        "1": 159,
+        "2": 83,
+        "3": 132,
+        "4": 263,
+        "5": 819,
+        "6": 2402,
+        "7": 4890,
+        "8": 3064,
+        "9": 1000,
+        "10": 768
+      },
+      "normalized": 5.5167
+    },
+    "filmweb": {
+      "rating": 6.85,
+      "votes": 1233,
+      "distribution": {
+        "1": 4,
+        "2": 2,
+        "3": 9,
+        "4": 19,
+        "5": 95,
+        "6": 286,
+        "7": 517,
+        "8": 224,
+        "9": 31,
+        "10": 46
+      },
+      "normalized": 5.3295
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "04.01.2012",
+      "normalized": 5.4199
+    },
+    "score": 5.422
+  },
+  "polish_title": "Kandydat",
+  "silent": false,
+  "description_pl": "Robert Redford gra tytułowego kandydata, Billa McKaya, który z ramienia partii demokratycznej ubiega się o stanowisko gubernatora Kalifornii. Wydaje się, że nie ma kontrkandydata. Jednak wciągnięty w maszynerię środków masowego przekazu i polityki, i on coraz bardziej traci autentyczność i własną twarz.",
+  "producers": [
+    {
+      "id": "nm0003144",
+      "name": "Walter Coblenz"
+    },
+    {
+      "id": "nm0728285",
+      "name": "Nelson Rising"
+    },
+    {
+      "id": "nm0000602",
+      "name": "Robert Redford"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0748270",
+      "name": "John Rubinstein"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005755",
+      "name": "Victor J. Kemper"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

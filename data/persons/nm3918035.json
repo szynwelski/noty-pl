@@ -1,0 +1,79 @@
+{
+  "id": "nm3918035",
+  "name": "Zendaya",
+  "filmography": [
+    {
+      "imdb_id": "tt2250912",
+      "title": "Spider-Man: Homecoming",
+      "year": 2017,
+      "roles": [
+        "cast"
+      ],
+      "character": "Michelle"
+    },
+    {
+      "imdb_id": "tt6320628",
+      "title": "Spider-Man: Far from Home",
+      "year": 2019,
+      "roles": [
+        "cast"
+      ],
+      "character": "MJ"
+    },
+    {
+      "imdb_id": "tt1160419",
+      "title": "Dune: Part One",
+      "year": 2021,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Chani"
+    },
+    {
+      "imdb_id": "tt10872600",
+      "title": "Spider-Man: No Way Home",
+      "year": 2021,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "MJ"
+    },
+    {
+      "imdb_id": "tt16426418",
+      "title": "Challengers",
+      "year": 2024,
+      "roles": [
+        "star",
+        "cast",
+        "producer"
+      ],
+      "character": "Tashi Donaldson"
+    },
+    {
+      "imdb_id": "tt15239678",
+      "title": "Dune: Part Two",
+      "year": 2024,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Chani"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZjM5N2U3MzQtZWU5My00YzE0LThmZTgtYjE1NDJjNmIzZmIxXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "01.09.1996",
+  "birth_location": "Oakland, California, USA",
+  "height": "1.78 m",
+  "imdb_scraped": true,
+  "filmweb_id": 1546035,
+  "name_pl": "Zendaya",
+  "birth_location_pl": "Oakland, Kalifornia",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 1546035
+}

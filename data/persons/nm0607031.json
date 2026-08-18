@@ -1,0 +1,34 @@
+{
+  "id": "nm0607031",
+  "name": "Bob Morrisey",
+  "filmography": [
+    {
+      "imdb_id": "tt0362227",
+      "title": "The Terminal",
+      "year": 2004,
+      "roles": [
+        "cast"
+      ],
+      "character": "Government Inspector"
+    },
+    {
+      "imdb_id": "tt1059786",
+      "title": "Eagle Eye",
+      "year": 2008,
+      "roles": [
+        "cast"
+      ],
+      "character": "Director of Intelligence"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTExMjE1NjkyNDFeQTJeQWpwZ15BbWU3MDMwMjQxNDE@._V1_.jpg",
+  "birth_date": "15.08.1946",
+  "death_date": "29.12.2017",
+  "birth_location": "Somerville, Massachusetts, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 83692,
+  "name_pl": "Bob Morrisey",
+  "birth_location_pl": "Somerville, Massachusetts",
+  "gender": "M",
+  "wikidata_processed": true
+}

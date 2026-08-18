@@ -1,0 +1,244 @@
+{
+  "imdb_id": "tt0297284",
+  "title": "Mindhunters",
+  "description": "A group of FBI trainees are taken to a remote island for simulation training. However, once there, they realize that they are being hunted by a serial killer, who might be someone amidst them.",
+  "runtime_minutes": 106,
+  "release_date": "13.05.2005",
+  "genres": [
+    "Crime",
+    "Horror",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000174",
+      "name": "Val Kilmer"
+    },
+    {
+      "id": "nm0005112",
+      "name": "LL Cool J"
+    },
+    {
+      "id": "nm0000225",
+      "name": "Christian Slater"
+    },
+    {
+      "id": "nm0047248",
+      "name": "Eion Bailey"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001317",
+      "name": "Renny Harlin"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0469694",
+      "name": "Wayne Kramer"
+    },
+    {
+      "id": "nm0110778",
+      "name": "Kevin Brodbin"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000174",
+      "name": "Val Kilmer",
+      "character": "Jake Harris"
+    },
+    {
+      "id": "nm0005112",
+      "name": "LL Cool J",
+      "character": "Gabe Jensen"
+    },
+    {
+      "id": "nm0000225",
+      "name": "Christian Slater",
+      "character": "J.D. Reston"
+    },
+    {
+      "id": "nm0047248",
+      "name": "Eion Bailey",
+      "character": "Bobby Whitman"
+    },
+    {
+      "id": "nm0004286",
+      "name": "Clifton Collins Jr.",
+      "character": "Vince Sherman"
+    },
+    {
+      "id": "nm0962261",
+      "name": "Will Kemp",
+      "character": "Rafe Perry"
+    },
+    {
+      "id": "nm0001538",
+      "name": "Jonny Lee Miller",
+      "character": "Lucas Harper"
+    },
+    {
+      "id": "nm0606700",
+      "name": "Kathryn Morris",
+      "character": "Sara Moore"
+    },
+    {
+      "id": "nm0892383",
+      "name": "Patricia Velasquez",
+      "character": "Nicole Willis"
+    },
+    {
+      "id": "nm1197602",
+      "name": "Cassandra Bell",
+      "character": "Jen"
+    },
+    {
+      "id": "nm0092374",
+      "name": "Daniël Boissevain",
+      "character": "Second Man in the Bar"
+    },
+    {
+      "id": "nm0436589",
+      "name": "Antonie Kamerling",
+      "character": "Man in the Bar"
+    },
+    {
+      "id": "nm0784127",
+      "name": "Jasmine Sendar",
+      "character": "Friend of Jen"
+    },
+    {
+      "id": "nm0925544",
+      "name": "Trevor White",
+      "character": "Attacker"
+    }
+  ],
+  "countries": [
+    "Netherlands",
+    "United Kingdom",
+    "Finland",
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 108108,
+  "year": 2004,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BY2EzNGRhYjktOTFkYy00NDdlLTk3NDAtYzFhNzBkZmRhYmE1XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.3,
+      "votes": 69014,
+      "distribution": {
+        "1": 1155,
+        "2": 1023,
+        "3": 1909,
+        "4": 3877,
+        "5": 8026,
+        "6": 16703,
+        "7": 18723,
+        "8": 10072,
+        "9": 3492,
+        "10": 4034
+      },
+      "normalized": 4.1366
+    },
+    "filmweb": {
+      "rating": 6.98,
+      "votes": 24411,
+      "distribution": {
+        "1": 131,
+        "2": 143,
+        "3": 483,
+        "4": 821,
+        "5": 1982,
+        "6": 4193,
+        "7": 7427,
+        "8": 6006,
+        "9": 2046,
+        "10": 1179
+      },
+      "normalized": 5.5797
+    },
+    "michal": {
+      "rating": 3,
+      "date_rated": "03.10.2006",
+      "normalized": 3.8753
+    },
+    "score": 4.5305
+  },
+  "polish_title": "Łowcy umysłów",
+  "silent": false,
+  "description_pl": "Na opuszczonej wysepce FBI prowadzi program szkoleniowy dla jednej ze swoich sekcji, zwanej \"Mindhunters\", zajmującej się ściganiem seryjnych morderców przy wykorzystaniu profilu psychologicznego. Sytuacja wymyka się jednak spod kontroli, kiedy okazuje się, że jeden z młodych agentów jest zabójcą, który za cel stawia sobie wymordowanie wszystkich pozostałych uczestników treningu. Ci muszą połączyć siły, by zidentyfikować nieznanego napastnika.",
+  "producers": [
+    {
+      "id": "nm0097001",
+      "name": "Moritz Borman"
+    },
+    {
+      "id": "nm0111225",
+      "name": "Cary Brokaw"
+    },
+    {
+      "id": "nm0212355",
+      "name": "Hans de Weers"
+    },
+    {
+      "id": "nm0247524",
+      "name": "Guy East"
+    },
+    {
+      "id": "nm0324200",
+      "name": "Erwin Godschalk"
+    },
+    {
+      "id": "nm0001317",
+      "name": "Renny Harlin"
+    },
+    {
+      "id": "nm0628352",
+      "name": "Robert F. Newmyer"
+    },
+    {
+      "id": "nm0798711",
+      "name": "Jeffrey Silver"
+    },
+    {
+      "id": "nm0801691",
+      "name": "Nigel Sinclair"
+    },
+    {
+      "id": "nm0818733",
+      "name": "Rebecca Spikings"
+    },
+    {
+      "id": "nm0833873",
+      "name": "Scott Strauss"
+    },
+    {
+      "id": "nm0918424",
+      "name": "Bob Weinstein"
+    },
+    {
+      "id": "nm0005544",
+      "name": "Harvey Weinstein"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0437887",
+      "name": "Tuomas Kantelinen"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0304639",
+      "name": "Robert Gantz"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

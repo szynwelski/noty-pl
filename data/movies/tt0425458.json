@@ -1,0 +1,192 @@
+{
+  "imdb_id": "tt0425458",
+  "title": "Six Shooter",
+  "description": "A black and bloody Irish comedy about a sad train journey where an older man, whose wife has died that morning, encounters a strange and possibly psychotic young oddball....",
+  "runtime_minutes": 27,
+  "release_date": "2005",
+  "genres": [
+    "Short",
+    "Comedy",
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0322407",
+      "name": "Brendan Gleeson"
+    },
+    {
+      "id": "nm0175860",
+      "name": "Rúaidhrí Conroy"
+    },
+    {
+      "id": "nm0932837",
+      "name": "David Wilmot"
+    },
+    {
+      "id": "nm0642718",
+      "name": "Aisling O'Sullivan"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm1732981",
+      "name": "Martin McDonagh"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1732981",
+      "name": "Martin McDonagh"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0322407",
+      "name": "Brendan Gleeson",
+      "character": "Donnelly"
+    },
+    {
+      "id": "nm0175860",
+      "name": "Rúaidhrí Conroy",
+      "character": "Kid"
+    },
+    {
+      "id": "nm0932837",
+      "name": "David Wilmot",
+      "character": "Man"
+    },
+    {
+      "id": "nm0642718",
+      "name": "Aisling O'Sullivan",
+      "character": "Woman"
+    },
+    {
+      "id": "nm0527994",
+      "name": "Gary Lydon",
+      "character": "Chief Guard"
+    },
+    {
+      "id": "nm1727304",
+      "name": "Domhnall Gleeson",
+      "character": "Cashier"
+    },
+    {
+      "id": "nm0614903",
+      "name": "David Murray",
+      "character": "Doctor"
+    },
+    {
+      "id": "nm2409597",
+      "name": "Tadgh Conroy",
+      "character": "Young Kid"
+    },
+    {
+      "id": "nm0669164",
+      "name": "David Pearse",
+      "character": "Short Man"
+    },
+    {
+      "id": "nm2407809",
+      "name": "Ann McFarlane",
+      "character": "Donnelly's Wife"
+    },
+    {
+      "id": "nm2115557",
+      "name": "John Wallace",
+      "character": "Junior Garda"
+    },
+    {
+      "id": "nm2413999",
+      "name": "Richard Nisbet",
+      "character": "Garda"
+    },
+    {
+      "id": "nm2397611",
+      "name": "Mick Horan",
+      "character": "Kid's Dad"
+    }
+  ],
+  "countries": [
+    "Ireland",
+    "United Kingdom"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 188979,
+  "year": 2004,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYTg1MjM0YzgtOGYyNi00NWM3LTgxODktZTQ3NTgwN2Q2NWUxXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.4,
+      "votes": 15691,
+      "distribution": {
+        "1": 182,
+        "2": 83,
+        "3": 118,
+        "4": 231,
+        "5": 564,
+        "6": 1681,
+        "7": 4314,
+        "8": 5068,
+        "9": 1956,
+        "10": 1494
+      },
+      "normalized": 6.202
+    },
+    "filmweb": {
+      "rating": 7.13,
+      "votes": 3631,
+      "distribution": {
+        "1": 19,
+        "2": 14,
+        "3": 32,
+        "4": 62,
+        "5": 198,
+        "6": 609,
+        "7": 1293,
+        "8": 950,
+        "9": 332,
+        "10": 122
+      },
+      "normalized": 5.8068
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "07.01.2017",
+      "normalized": 5.6855
+    },
+    "score": 5.8981
+  },
+  "polish_title": "Sześciostrzałowiec",
+  "silent": false,
+  "description_pl": "Rzecz dzieje się w pociągu, w którym spotykają się ludzie niespodziewanie dotknięci śmiercią kogoś bliskiego: świeżo owdowiały samotny mężczyzna i para, która właśnie straciła dziecko. Jednak zamiast spokojnej, pełnej powagi żałoby, dominującym nastrojem w wagonie jest irytacja - a to za sprawą agresywnego, niegrzecznego i bez dwóch zdań niezdrowego na umyśle młodzieńca, który nieustannie dogaduje wszystkim obecnym.",
+  "producers": [
+    {
+      "id": "nm0020727",
+      "name": "Kenton Allen"
+    },
+    {
+      "id": "nm1729469",
+      "name": "Mia Bays"
+    },
+    {
+      "id": "nm1808471",
+      "name": "Mary McCarthy"
+    },
+    {
+      "id": "nm0568107",
+      "name": "John McDonnell"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0410164",
+      "name": "Baz Irvine"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

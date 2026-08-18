@@ -1,0 +1,36 @@
+{
+  "id": "nm0109300",
+  "name": "John Briley",
+  "filmography": [
+    {
+      "imdb_id": "tt0083987",
+      "title": "Gandhi",
+      "year": 1982,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0092804",
+      "title": "Cry Freedom",
+      "year": 1987,
+      "roles": [
+        "writer",
+        "producer"
+      ]
+    }
+  ],
+  "birth_date": "25.06.1925",
+  "death_date": "14.12.2019",
+  "birth_location": "Kalamazoo, Michigan, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 12964,
+  "name_pl": "John Briley",
+  "birth_location_pl": "Kalamazoo, Michigan",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 12964
+}

@@ -1,0 +1,56 @@
+{
+  "id": "nm0301826",
+  "name": "Bob Gale",
+  "filmography": [
+    {
+      "imdb_id": "tt0088763",
+      "title": "Back to the Future",
+      "year": 1985,
+      "roles": [
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0096874",
+      "title": "Back to the Future Part II",
+      "year": 1989,
+      "roles": [
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0099088",
+      "title": "Back to the Future Part III",
+      "year": 1990,
+      "roles": [
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0165832",
+      "title": "Interstate 60",
+      "year": 2002,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTU1OTAxNzAwNl5BMl5BanBnXkFtZTcwMjk5NTQzMQ@@._V1_.jpg",
+  "birth_date": "25.05.1951",
+  "birth_location": "University City, Missouri, USA",
+  "filmweb_id": 41013,
+  "name_pl": "Bob Gale",
+  "birth_location_pl": "University City, Missouri",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 41013
+}

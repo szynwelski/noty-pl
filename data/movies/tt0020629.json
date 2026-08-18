@@ -1,0 +1,209 @@
+{
+  "imdb_id": "tt0020629",
+  "title": "All Quiet on the Western Front",
+  "description": "A German youth eagerly enters World War I, but his enthusiasm wanes as he gets a firsthand view of the horror.",
+  "runtime_minutes": 152,
+  "release_date": "24.08.1930",
+  "genres": [
+    "Drama",
+    "War"
+  ],
+  "stars": [
+    {
+      "id": "nm0000817",
+      "name": "Lew Ayres"
+    },
+    {
+      "id": "nm0938464",
+      "name": "Louis Wolheim"
+    },
+    {
+      "id": "nm0942046",
+      "name": "John Wray"
+    },
+    {
+      "id": "nm0524803",
+      "name": "Arnold Lucy"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0587277",
+      "name": "Lewis Milestone"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0718871",
+      "name": "Erich Maria Remarque"
+    },
+    {
+      "id": "nm0027173",
+      "name": "Maxwell Anderson"
+    },
+    {
+      "id": "nm0007973",
+      "name": "George Abbott"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000817",
+      "name": "Lew Ayres",
+      "character": "Paul"
+    },
+    {
+      "id": "nm0938464",
+      "name": "Louis Wolheim",
+      "character": "Kat"
+    },
+    {
+      "id": "nm0942046",
+      "name": "John Wray",
+      "character": "Himmelstoss"
+    },
+    {
+      "id": "nm0524803",
+      "name": "Arnold Lucy",
+      "character": "Kantorek"
+    },
+    {
+      "id": "nm0018273",
+      "name": "Ben Alexander",
+      "character": "Kemmerich"
+    },
+    {
+      "id": "nm0464131",
+      "name": "Scott Kolk",
+      "character": "Leer"
+    },
+    {
+      "id": "nm0204113",
+      "name": "Owen Davis Jr.",
+      "character": "Peter"
+    },
+    {
+      "id": "nm0737253",
+      "name": "Walter Rogers",
+      "character": "Behn"
+    },
+    {
+      "id": "nm0049055",
+      "name": "William Bakewell",
+      "character": "Albert"
+    },
+    {
+      "id": "nm0322345",
+      "name": "Russell Gleason",
+      "character": "Mueller"
+    },
+    {
+      "id": "nm0018685",
+      "name": "Richard Alexander",
+      "character": "Westhus"
+    },
+    {
+      "id": "nm0329467",
+      "name": "Harold Goodwin",
+      "character": "Detering"
+    },
+    {
+      "id": "nm0838843",
+      "name": "Slim Summerville",
+      "character": "Tjaden"
+    },
+    {
+      "id": "nm0172318",
+      "name": "G. Pat Collins",
+      "character": "Bertinck"
+    },
+    {
+      "id": "nm0580240",
+      "name": "Beryl Mercer",
+      "character": "Paul's Mother"
+    },
+    {
+      "id": "nm0106785",
+      "name": "Edmund Breese",
+      "character": "Herr Meyer"
+    },
+    {
+      "id": "nm0038884",
+      "name": "Max Asher",
+      "character": "German Student's Father"
+    },
+    {
+      "id": "nm0686032",
+      "name": "Zasu Pitts",
+      "character": "Frau Bäumer - Silent Version Trailer only"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Latin"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 91165,
+  "year": 1930,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODY0NzU2MWYtODZmMi00Y2Y5LTliZmMtN2JjZTA1OTcyMzAzXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8.1,
+      "votes": 72536,
+      "distribution": {
+        "1": 1563,
+        "2": 551,
+        "3": 531,
+        "4": 847,
+        "5": 1982,
+        "6": 4468,
+        "7": 11725,
+        "8": 22140,
+        "9": 15340,
+        "10": 13389
+      },
+      "normalized": 7.6627
+    },
+    "filmweb": {
+      "rating": 7.7,
+      "votes": 4910,
+      "distribution": {
+        "1": 24,
+        "2": 10,
+        "3": 26,
+        "4": 61,
+        "5": 146,
+        "6": 465,
+        "7": 1157,
+        "8": 1770,
+        "9": 859,
+        "10": 392
+      },
+      "normalized": 7.0992
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "05.06.2010",
+      "normalized": 7.1247
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "27.03.2006",
+      "normalized": 7.2292
+    },
+    "score": 7.279
+  },
+  "polish_title": "Na Zachodzie bez zmian",
+  "silent": false,
+  "description_pl": "Film nakręcony na podstawie powieści niemieckiego pisarza Ericha Maria Remarque'a.\nOpowiada historię grupy młodych Niemców, wysłanych prosto ze szkoły w okopy I Wojny Światowej. Ognisty patriotyzm młodych żołnierzy szybko zaczyna wygasać, gdy widzą rzeczywistość wojny. Ich życie zmienia się diametralnie, strach i śmierć otaczają ich każdego dnia. Zatracają gdzieś młodzieńczą niewinność i uczą się bezwzględnie zabijać.",
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-15"
+}

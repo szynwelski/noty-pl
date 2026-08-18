@@ -1,0 +1,36 @@
+{
+  "id": "nm1124997",
+  "name": "John Jacobs",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZjQ2YTkyYzktM2E5Yy00N2RmLWIxMjEtNzM4MzVhZjczMTg3XkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0305224",
+      "title": "Anger Management",
+      "year": 2003,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0270980",
+      "title": "My Boss's Daughter",
+      "year": 2003,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt1637725",
+      "title": "Ted",
+      "year": 2012,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "filmweb_id": 480588,
+  "name_pl": "John Jacobs",
+  "gender": "M"
+}

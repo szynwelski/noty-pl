@@ -1,0 +1,40 @@
+{
+  "id": "nm0153182",
+  "name": "Ian Charleson",
+  "filmography": [
+    {
+      "imdb_id": "tt0082158",
+      "title": "Chariots of Fire",
+      "year": 1981,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Eric Liddell"
+    },
+    {
+      "imdb_id": "tt0083987",
+      "title": "Gandhi",
+      "year": 1982,
+      "roles": [
+        "cast"
+      ],
+      "character": "Charlie Andrews"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNThkOTM1ZTMtMGI3MC00MWYwLWI1M2YtYzQxMDZiZTY2NjY1XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "11.08.1949",
+  "death_date": "06.01.1990",
+  "birth_location": "Edinburgh, Scotland, UK",
+  "height": "1.83 m",
+  "imdb_scraped": true,
+  "filmweb_id": 9321,
+  "name_pl": "Ian Charleson",
+  "birth_location_pl": "Edynburg, Szkocja",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 9321
+}

@@ -1,0 +1,243 @@
+{
+  "imdb_id": "tt0096895",
+  "title": "Batman",
+  "description": "The Dark Knight of Gotham City begins his war on crime with his first major enemy being Jack Napier, a criminal who becomes the clownishly homicidal Joker.",
+  "runtime_minutes": 126,
+  "release_date": "23.06.1989",
+  "genres": [
+    "Crime"
+  ],
+  "stars": [
+    {
+      "id": "nm0000474",
+      "name": "Michael Keaton"
+    },
+    {
+      "id": "nm0000197",
+      "name": "Jack Nicholson"
+    },
+    {
+      "id": "nm0000107",
+      "name": "Kim Basinger"
+    },
+    {
+      "id": "nm0943237",
+      "name": "Robert Wuhl"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000318",
+      "name": "Tim Burton"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0004170",
+      "name": "Bob Kane"
+    },
+    {
+      "id": "nm0358334",
+      "name": "Sam Hamm"
+    },
+    {
+      "id": "nm0803730",
+      "name": "Warren Skaaren"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000474",
+      "name": "Michael Keaton",
+      "character": "Batman"
+    },
+    {
+      "id": "nm0000197",
+      "name": "Jack Nicholson",
+      "character": "Joker"
+    },
+    {
+      "id": "nm0000107",
+      "name": "Kim Basinger",
+      "character": "Vicki Vale"
+    },
+    {
+      "id": "nm0943237",
+      "name": "Robert Wuhl",
+      "character": "Alexander Knox"
+    },
+    {
+      "id": "nm0385757",
+      "name": "Pat Hingle",
+      "character": "Commissioner Gordon"
+    },
+    {
+      "id": "nm0001850",
+      "name": "Billy Dee Williams",
+      "character": "Harvey Dent"
+    },
+    {
+      "id": "nm0001284",
+      "name": "Michael Gough",
+      "character": "Alfred"
+    },
+    {
+      "id": "nm0001588",
+      "name": "Jack Palance",
+      "character": "Grissom"
+    },
+    {
+      "id": "nm0355717",
+      "name": "Jerry Hall",
+      "character": "Alicia"
+    },
+    {
+      "id": "nm0910145",
+      "name": "Tracey Walter",
+      "character": "Bob the Goon"
+    },
+    {
+      "id": "nm0908751",
+      "name": "Lee Wallace",
+      "character": "Mayor"
+    },
+    {
+      "id": "nm0393853",
+      "name": "William Hootkins",
+      "character": "Eckhardt"
+    },
+    {
+      "id": "nm0833380",
+      "name": "Richard Strange",
+      "character": "Goon"
+    },
+    {
+      "id": "nm0153704",
+      "name": "Carl Chase",
+      "character": "Goon"
+    },
+    {
+      "id": "nm0567881",
+      "name": "Mac McDonald",
+      "character": "Goon"
+    },
+    {
+      "id": "nm0178059",
+      "name": "George Lane Cooper",
+      "character": "Goon"
+    },
+    {
+      "id": "nm0687658",
+      "name": "Terence Plummer",
+      "character": "Goon"
+    },
+    {
+      "id": "nm0848883",
+      "name": "Philip Tan",
+      "character": "Goon"
+    }
+  ],
+  "countries": [
+    "United States",
+    "United Kingdom"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Spanish"
+  ],
+  "color": null,
+  "filmweb_id": 1024,
+  "year": 1989,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYzZmZWViM2EtNzhlMi00NzBlLWE0MWEtZDFjMjk3YjIyNTBhXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.5,
+      "votes": 434699,
+      "distribution": {
+        "1": 2847,
+        "2": 1679,
+        "3": 2815,
+        "4": 5829,
+        "5": 15918,
+        "6": 45440,
+        "7": 120093,
+        "8": 136482,
+        "9": 54723,
+        "10": 48873
+      },
+      "normalized": 6.4806
+    },
+    "filmweb": {
+      "rating": 7.3,
+      "votes": 194743,
+      "distribution": {
+        "1": 1261,
+        "2": 1100,
+        "3": 2466,
+        "4": 4450,
+        "5": 10686,
+        "6": 25767,
+        "7": 57369,
+        "8": 55781,
+        "9": 20874,
+        "10": 14989
+      },
+      "normalized": 6.2554
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "02.12.2005",
+      "normalized": 4.9718
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "19.10.2005",
+      "normalized": 5.4199
+    },
+    "score": 5.7819
+  },
+  "polish_title": "Batman",
+  "silent": false,
+  "description_pl": "Akcja filmu rozgrywa się w Gotham City, ciemnym, ponurym mieście \"chronionym\" tylko przez skorumpowaną policję. Pojawia się złowrogi Joker <a href=\"/osoba/?id=nm0000197\">(Jack Nicholson</a>), który knuje intrygi przeciw mieszkańcom. Słabe władze miejskie nie są w stanie stawić mu czoła. Joker konfrontuje się jednak z przeciwnikiem - tajemniczym Batmanem (<a href=\"/osoba/?id=nm0000474\">Michael Keaton</a>). Człowiekowi-nietoperzowi pomaga dziennikarka Vicki Vale (<a href=\"/osoba/?id=nm0000107\">Kim Basinger</a>).",
+  "producers": [
+    {
+      "id": "nm0345542",
+      "name": "Peter Guber"
+    },
+    {
+      "id": "nm0435887",
+      "name": "Barbara Kalish"
+    },
+    {
+      "id": "nm0448554",
+      "name": "Chris Kenny"
+    },
+    {
+      "id": "nm0578195",
+      "name": "Benjamin Melniker"
+    },
+    {
+      "id": "nm0005307",
+      "name": "Jon Peters"
+    },
+    {
+      "id": "nm0882388",
+      "name": "Michael E. Uslan"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0000384",
+      "name": "Danny Elfman"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0695536",
+      "name": "Roger Pratt"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "nm0000578",
+  "name": "Anthony Perkins",
+  "filmography": [
+    {
+      "imdb_id": "tt0054215",
+      "title": "Psycho",
+      "year": 1960,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Norman Bates"
+    },
+    {
+      "imdb_id": "tt0065528",
+      "title": "Catch-22",
+      "year": 1970,
+      "roles": [
+        "cast"
+      ],
+      "character": "Chaplain Tappman"
+    },
+    {
+      "imdb_id": "tt0071877",
+      "title": "Murder on the Orient Express",
+      "year": 1974,
+      "roles": [
+        "cast"
+      ],
+      "character": "Hector McQueen"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZDkzNjU1OGUtMzFkYi00Yjg4LWIxMDYtYWQyNDY0N2UxNTYzXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "04.04.1932",
+  "death_date": "12.09.1992",
+  "birth_location": "New York City, New York, USA",
+  "height": "1.87 m",
+  "filmweb_id": 203,
+  "name_pl": "Anthony Perkins",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 203
+}

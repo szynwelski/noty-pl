@@ -1,0 +1,125 @@
+{
+  "id": "nm0000320",
+  "name": "Luis Buñuel",
+  "filmography": [
+    {
+      "imdb_id": "tt0018770",
+      "title": "The Fall of the House of Usher",
+      "year": 1928,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0020530",
+      "title": "Un chien andalou",
+      "year": 1929,
+      "roles": [
+        "director",
+        "writer",
+        "star",
+        "cast"
+      ],
+      "character": "Man in Prologue"
+    },
+    {
+      "imdb_id": "tt0021577",
+      "title": "L'Age d'Or",
+      "year": 1930,
+      "roles": [
+        "director",
+        "writer",
+        "cast"
+      ]
+    },
+    {
+      "imdb_id": "tt0023037",
+      "title": "Land Without Bread",
+      "year": 1933,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0051983",
+      "title": "Nazarin",
+      "year": 1959,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0055601",
+      "title": "Viridiana",
+      "year": 1961,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0056732",
+      "title": "The Exterminating Angel",
+      "year": 1962,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0061395",
+      "title": "Belle de Jour",
+      "year": 1967,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0066491",
+      "title": "Tristana",
+      "year": 1970,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0068361",
+      "title": "The Discreet Charm of the Bourgeoisie",
+      "year": 1972,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0075824",
+      "title": "That Obscure Object of Desire",
+      "year": 1977,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTAxNDAyNjE4OTBeQTJeQWpwZ15BbWU3MDc2NDM3MTg@._V1_.jpg",
+  "birth_date": "22.02.1900",
+  "death_date": "29.07.1983",
+  "birth_location": "Calanda, Aragon, Spain",
+  "height": "1.71 m",
+  "filmweb_id": 335,
+  "name_pl": "Luis Buñuel",
+  "birth_location_pl": "Calanda",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Hiszpania",
+    "Meksyk"
+  ]
+}

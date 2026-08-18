@@ -1,0 +1,202 @@
+{
+  "imdb_id": "tt0056732",
+  "title": "The Exterminating Angel",
+  "description": "The guests at an upper-class dinner party find themselves unable to leave.",
+  "runtime_minutes": 95,
+  "release_date": "21.08.1967",
+  "genres": [
+    "Drama",
+    "Fantasy"
+  ],
+  "stars": [
+    {
+      "id": "nm0683831",
+      "name": "Silvia Pinal"
+    },
+    {
+      "id": "nm0025954",
+      "name": "Jacqueline Andere"
+    },
+    {
+      "id": "nm0708048",
+      "name": "Enrique Rambal"
+    },
+    {
+      "id": "nm0062593",
+      "name": "José Baviera"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000320",
+      "name": "Luis Buñuel"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000320",
+      "name": "Luis Buñuel"
+    },
+    {
+      "id": "nm0017274",
+      "name": "Luis Alcoriza"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0683831",
+      "name": "Silvia Pinal",
+      "character": "Leticia 'La Valkiria'"
+    },
+    {
+      "id": "nm0025954",
+      "name": "Jacqueline Andere",
+      "character": "Alicia de Roc"
+    },
+    {
+      "id": "nm0708048",
+      "name": "Enrique Rambal",
+      "character": "Edmundo Nobile"
+    },
+    {
+      "id": "nm0062593",
+      "name": "José Baviera",
+      "character": "Leandro Gomez"
+    },
+    {
+      "id": "nm0070748",
+      "name": "Augusto Benedico",
+      "character": "Carlos Conde"
+    },
+    {
+      "id": "nm0075251",
+      "name": "Luis Beristáin",
+      "character": "Cristián Ugalde"
+    },
+    {
+      "id": "nm0106055",
+      "name": "Antonio Bravo",
+      "character": "Sergio Russell"
+    },
+    {
+      "id": "nm0111610",
+      "name": "Claudio Brook",
+      "character": "Julio mayordomo"
+    },
+    {
+      "id": "nm0133106",
+      "name": "César del Campo",
+      "character": "Alvaro"
+    },
+    {
+      "id": "nm0244041",
+      "name": "Rosa Elena Durgel",
+      "character": "Silvia"
+    },
+    {
+      "id": "nm0302620",
+      "name": "Lucy Gallardo",
+      "character": "Lucía de Nobile"
+    },
+    {
+      "id": "nm0305918",
+      "name": "Enrique García Álvarez",
+      "character": "Alberto Roc"
+    },
+    {
+      "id": "nm0347242",
+      "name": "Ofelia Guilmáin",
+      "character": "Juana Avila"
+    },
+    {
+      "id": "nm0646527",
+      "name": "Nadia Haro Oliva",
+      "character": "Ana Maynar"
+    },
+    {
+      "id": "nm0432465",
+      "name": "Tito Junco",
+      "character": "Raúl"
+    },
+    {
+      "id": "nm0523453",
+      "name": "Xavier Loyá",
+      "character": "Francisco Avila"
+    },
+    {
+      "id": "nm0557206",
+      "name": "Xavier Massé",
+      "character": "Eduardo"
+    },
+    {
+      "id": "nm0599621",
+      "name": "Ofelia Montesco",
+      "character": "Beatriz"
+    }
+  ],
+  "countries": [
+    "Mexico"
+  ],
+  "languages": [
+    "Spanish"
+  ],
+  "color": "Black and White",
+  "year": 1962,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZTk0YjNmMjEtMjZjOC00MDNhLTg2NzUtMmFlYzY0YWJkMzA2XkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 908,
+  "original_title": "El ángel exterminador",
+  "ratings": {
+    "imdb": {
+      "rating": 7.9,
+      "votes": 38417,
+      "distribution": {
+        "1": 1158,
+        "2": 306,
+        "3": 347,
+        "4": 532,
+        "5": 1155,
+        "6": 2872,
+        "7": 6007,
+        "8": 10768,
+        "9": 7771,
+        "10": 7501
+      },
+      "normalized": 7.1366
+    },
+    "filmweb": {
+      "rating": 7.55,
+      "votes": 7788,
+      "distribution": {
+        "1": 86,
+        "2": 35,
+        "3": 100,
+        "4": 136,
+        "5": 290,
+        "6": 703,
+        "7": 1820,
+        "8": 2725,
+        "9": 1342,
+        "10": 551
+      },
+      "normalized": 6.7508
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "09.11.2012",
+      "normalized": 7.2292
+    },
+    "score": 7.0389
+  },
+  "polish_title": "Anioł zagłady",
+  "silent": false,
+  "description_pl": "Państwo Nobile wracają z opery w towarzystwie kilkunastu znajomych zaproszonych na kolację. Kiedy przyjęcie dobiega końca, okazuje się, że wszyscy służący zniknęli, a pozostałych w domu ludzi coś w tajemniczy sposób powstrzymuje przed jego opuszczeniem. W ciągu kolejnych kilku dni zmuszeni do walki o przetrwanie goście odrzucają wszelkie reguły i pozory uprzejmości, pielęgnowane przez lata ze względu na pozycję społeczną.",
+  "cinematographers": [
+    {
+      "id": "nm0004195",
+      "name": "Gabriel Figueroa"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

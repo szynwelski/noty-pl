@@ -1,0 +1,47 @@
+{
+  "id": "nm0844333",
+  "name": "Malgorzata Szumowska",
+  "filmography": [
+    {
+      "imdb_id": "tt0426154",
+      "title": "Stranger",
+      "year": 2004,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt1263736",
+      "title": "33 Scenes from Life",
+      "year": 2008,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt1549589",
+      "title": "Elles",
+      "year": 2011,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZWZjOGIzNjAtOWU3Yi00MjQwLTgxZmItMjQwYzFmZjNmM2VjXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "26.02.1973",
+  "birth_location": "Kraków, Malopolskie, Poland",
+  "filmweb_id": 464,
+  "name_pl": "Małgorzata Szumowska",
+  "birth_location_pl": "Kraków",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Polska"
+  ],
+  "wikidata_fw_id": 464
+}

@@ -1,0 +1,60 @@
+{
+  "id": "nm0001229",
+  "name": "Glenn Ford",
+  "filmography": [
+    {
+      "imdb_id": "tt0038559",
+      "title": "Gilda",
+      "year": 1946,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Johnny Farrell"
+    },
+    {
+      "imdb_id": "tt0045555",
+      "title": "The Big Heat",
+      "year": 1953,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Sgt. Dave Bannion"
+    },
+    {
+      "imdb_id": "tt0050086",
+      "title": "3:10 to Yuma",
+      "year": 1957,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Ben Wade"
+    },
+    {
+      "imdb_id": "tt0078346",
+      "title": "Superman",
+      "year": 1978,
+      "roles": [
+        "cast"
+      ],
+      "character": "Pa Kent"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTA4MjA4MTUzMjVeQTJeQWpwZ15BbWU2MDAwNzAxMw@@._V1_.jpg",
+  "birth_date": "01.05.1916",
+  "death_date": "30.08.2006",
+  "birth_location": "Sainte-Christine-d'Auvergne, Portneuf, Québec, Canada",
+  "height": "1.79 m",
+  "filmweb_id": 43257,
+  "name_pl": "Glenn Ford",
+  "birth_location_pl": "Sainte-Christine",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Kanada",
+    "Stany Zjednoczone"
+  ]
+}

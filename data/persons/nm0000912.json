@@ -1,0 +1,31 @@
+{
+  "id": "nm0000912",
+  "name": "Jack Benny",
+  "filmography": [
+    {
+      "imdb_id": "tt0035446",
+      "title": "To Be or Not to Be",
+      "year": 1942,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Joseph Tura"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZjYyYTg5MjctMjk5ZC00OTY3LTgwNTktMjY5ZDdiM2U1MjhjXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "14.02.1894",
+  "death_date": "26.12.1974",
+  "birth_location": "Waukegan, Illinois, USA",
+  "height": "1.72 m",
+  "imdb_scraped": true,
+  "filmweb_id": 154561,
+  "name_pl": "Jack Benny",
+  "birth_location_pl": "Chicago, Illinois",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 154561
+}

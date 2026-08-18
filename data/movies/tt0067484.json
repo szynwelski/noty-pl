@@ -1,0 +1,204 @@
+{
+  "imdb_id": "tt0067484",
+  "title": "I Hate Mondays",
+  "description": "An acute case of Mondayitis in Warsaw. Interwoven stories of a few inhabitants of Warsaw, including one very unlucky Italian on a governmental mission and a charitable Polish American.",
+  "runtime_minutes": 98,
+  "release_date": "27.08.1971",
+  "genres": [
+    "Comedy"
+  ],
+  "stars": [
+    {
+      "id": "nm0936789",
+      "name": "Kazimierz Witkiewicz"
+    },
+    {
+      "id": "nm1144804",
+      "name": "Zygmunt Apostol"
+    },
+    {
+      "id": "nm0082200",
+      "name": "Bogusz Bilewski"
+    },
+    {
+      "id": "nm0194387",
+      "name": "Mieczyslaw Czechowicz"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0158582",
+      "name": "Tadeusz Chmielewski"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0158582",
+      "name": "Tadeusz Chmielewski"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0936789",
+      "name": "Kazimierz Witkiewicz",
+      "character": "Francesco Romanelli"
+    },
+    {
+      "id": "nm1144804",
+      "name": "Zygmunt Apostol",
+      "character": "Artist"
+    },
+    {
+      "id": "nm0082200",
+      "name": "Bogusz Bilewski",
+      "character": "Driver"
+    },
+    {
+      "id": "nm0194387",
+      "name": "Mieczyslaw Czechowicz",
+      "character": "Thief"
+    },
+    {
+      "id": "nm0310715",
+      "name": "Andrzej Gawronski",
+      "character": "Wladek"
+    },
+    {
+      "id": "nm0378812",
+      "name": "Andrzej Herder",
+      "character": "Cop"
+    },
+    {
+      "id": "nm0440751",
+      "name": "Joanna Kasperska",
+      "character": "Joanna"
+    },
+    {
+      "id": "nm0435856",
+      "name": "Juliusz Kalinowski",
+      "character": "Grandpa"
+    },
+    {
+      "id": "nm0466586",
+      "name": "Teofila Koronkiewicz",
+      "character": "Old Woman"
+    },
+    {
+      "id": "nm0468596",
+      "name": "Mitchell Kowall",
+      "character": "Mroz"
+    },
+    {
+      "id": "nm0468602",
+      "name": "Halina Kowalska",
+      "character": "Marianna"
+    },
+    {
+      "id": "nm0468648",
+      "name": "Waclaw Kowalski",
+      "character": "Technician"
+    },
+    {
+      "id": "nm1293231",
+      "name": "Hilary Kurpanik",
+      "character": "Car Owner"
+    },
+    {
+      "id": "nm0489752",
+      "name": "Czeslaw Lasota",
+      "character": "Technician"
+    },
+    {
+      "id": "nm0487576",
+      "name": "Henryk Lapinski",
+      "character": "Director's Assistant"
+    },
+    {
+      "id": "nm0493958",
+      "name": "Bohdan Lazuka",
+      "character": "Self"
+    },
+    {
+      "id": "nm1293565",
+      "name": "Wanda Majerówna",
+      "character": "Woman on the Street"
+    },
+    {
+      "id": "nm0611649",
+      "name": "Adam Mularczyk",
+      "character": "Taxi Driver"
+    }
+  ],
+  "countries": [
+    "Poland"
+  ],
+  "languages": [
+    "Polish",
+    "Italian",
+    "English"
+  ],
+  "color": "Color",
+  "year": 1971,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOWMxMjYzNzMtZTlmZS00NTJlLTk0NjYtOTQ5ZDg1MzQ3MGM3XkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 901,
+  "original_title": "Nie lubie poniedzialku",
+  "ratings": {
+    "imdb": {
+      "rating": 7.5,
+      "votes": 2540,
+      "distribution": {
+        "1": 34,
+        "2": 4,
+        "3": 14,
+        "4": 35,
+        "5": 86,
+        "6": 253,
+        "7": 695,
+        "8": 845,
+        "9": 314,
+        "10": 260
+      },
+      "normalized": 6.1757
+    },
+    "filmweb": {
+      "rating": 7.63,
+      "votes": 112215,
+      "distribution": {
+        "1": 420,
+        "2": 346,
+        "3": 795,
+        "4": 1593,
+        "5": 4009,
+        "6": 11166,
+        "7": 29416,
+        "8": 37541,
+        "9": 16247,
+        "10": 10682
+      },
+      "normalized": 7.1338
+    },
+    "michal": {
+      "rating": 8,
+      "date_rated": "19.10.2005",
+      "normalized": 8.1116
+    },
+    "score": 7.1404
+  },
+  "polish_title": "Nie lubię poniedziałku",
+  "silent": false,
+  "description_pl": "Rzecz dzieje się pewnego feralnego poniedziałku w Warszawie. Bohaterem zaś jest zbiorowość - kilkanaście osób, których pechowe i skomplikowane perypetie słabiej lub silniej zazębiają się ze sobą. \"Nie lubię poniedziałku\" to satyra na polską rzeczywistość wczesnych lat siedemdziesiątych. Codzienność ukazana jako świat absurdu.",
+  "composers": [
+    {
+      "id": "nm0560604",
+      "name": "Jerzy Matuszkiewicz"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0415753",
+      "name": "Mieczyslaw Jahoda"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

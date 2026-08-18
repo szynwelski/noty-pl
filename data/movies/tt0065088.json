@@ -1,0 +1,232 @@
+{
+  "imdb_id": "tt0065088",
+  "title": "They Shoot Horses, Don't They?",
+  "description": "The lives of a disparate group of contestants intertwine in a grueling and inhumane dance marathon.",
+  "runtime_minutes": 129,
+  "release_date": "20.08.1970",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0000404",
+      "name": "Jane Fonda"
+    },
+    {
+      "id": "nm0765546",
+      "name": "Michael Sarrazin"
+    },
+    {
+      "id": "nm0948772",
+      "name": "Susannah York"
+    },
+    {
+      "id": "nm0949574",
+      "name": "Gig Young"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001628",
+      "name": "Sydney Pollack"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0566752",
+      "name": "Horace McCoy"
+    },
+    {
+      "id": "nm0688117",
+      "name": "James Poe"
+    },
+    {
+      "id": "nm0860651",
+      "name": "Robert E. Thompson"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000404",
+      "name": "Jane Fonda",
+      "character": "Gloria"
+    },
+    {
+      "id": "nm0765546",
+      "name": "Michael Sarrazin",
+      "character": "Robert"
+    },
+    {
+      "id": "nm0948772",
+      "name": "Susannah York",
+      "character": "Alice"
+    },
+    {
+      "id": "nm0949574",
+      "name": "Gig Young",
+      "character": "Rocky"
+    },
+    {
+      "id": "nm0000999",
+      "name": "Red Buttons",
+      "character": "Sailor"
+    },
+    {
+      "id": "nm0000889",
+      "name": "Bonnie Bedelia",
+      "character": "Ruby"
+    },
+    {
+      "id": "nm0175700",
+      "name": "Michael Conrad",
+      "character": "Rollo"
+    },
+    {
+      "id": "nm0001136",
+      "name": "Bruce Dern",
+      "character": "James"
+    },
+    {
+      "id": "nm0506891",
+      "name": "Al Lewis",
+      "character": "Turkey"
+    },
+    {
+      "id": "nm0276341",
+      "name": "Robert Fields",
+      "character": "Joel"
+    },
+    {
+      "id": "nm0201089",
+      "name": "Severn Darden",
+      "character": "Cecil"
+    },
+    {
+      "id": "nm0572885",
+      "name": "Allyn Ann McLerie",
+      "character": "Shirl"
+    },
+    {
+      "id": "nm0448195",
+      "name": "Madge Kennedy",
+      "character": "Mrs. Laydon"
+    },
+    {
+      "id": "nm0404985",
+      "name": "Jacquelyn Hyde",
+      "character": "Jackie"
+    },
+    {
+      "id": "nm0649939",
+      "name": "Felice Orlandi",
+      "character": "Mario"
+    },
+    {
+      "id": "nm0582586",
+      "name": "Art Metrano",
+      "character": "Max"
+    },
+    {
+      "id": "nm0082471",
+      "name": "Gail Billings",
+      "character": "Lillian"
+    },
+    {
+      "id": "nm0932391",
+      "name": "Lynn Willis",
+      "character": "Coley James"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 32735,
+  "year": 1969,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjUwNmFmMzQtNzAzOS00N2M4LWJlMzktYjZmZmY2MDliZTZhXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.8,
+      "votes": 21938,
+      "distribution": {
+        "1": 261,
+        "2": 134,
+        "3": 174,
+        "4": 315,
+        "5": 700,
+        "6": 1643,
+        "7": 4329,
+        "8": 6940,
+        "9": 4061,
+        "10": 3381
+      },
+      "normalized": 6.9197
+    },
+    "filmweb": {
+      "rating": 7.92,
+      "votes": 22315,
+      "distribution": {
+        "1": 150,
+        "2": 76,
+        "3": 195,
+        "4": 312,
+        "5": 632,
+        "6": 1543,
+        "7": 4072,
+        "8": 7452,
+        "9": 4764,
+        "10": 3119
+      },
+      "normalized": 8.0999
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "11.08.2010",
+      "normalized": 7.1247
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "19.10.2005",
+      "normalized": 7.2292
+    },
+    "score": 7.3434
+  },
+  "polish_title": "Czyż nie dobija się koni?",
+  "silent": false,
+  "description_pl": "Lata 30, rekordowe bezrobocie. W tej sytuacji maratoński konkurs taneczny, w którym główną nagrodą jest 1500 dolarów, stanowi nie byle jaką okazję do wyrwania się z nędzy. Ofiary wielkiego kryzysu uczestniczą w nim tłumnie - tańcząc dniem i nocą, dosłownie do upadłego.",
+  "producers": [
+    {
+      "id": "nm0153590",
+      "name": "Robert Chartoff"
+    },
+    {
+      "id": "nm0338004",
+      "name": "Johnny Green"
+    },
+    {
+      "id": "nm0798139",
+      "name": "Theodore B. Sills"
+    },
+    {
+      "id": "nm0005563",
+      "name": "Irwin Winkler"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0338004",
+      "name": "Johnny Green"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005769",
+      "name": "Philip H. Lathrop"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

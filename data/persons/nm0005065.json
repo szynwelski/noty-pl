@@ -1,0 +1,47 @@
+{
+  "id": "nm0005065",
+  "name": "Quincy Jones",
+  "filmography": [
+    {
+      "imdb_id": "tt0061811",
+      "title": "In the Heat of the Night",
+      "year": 1967,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt0068638",
+      "title": "The Getaway",
+      "year": 1972,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt8661880",
+      "title": "It Must Schwing: The Blue Note Story",
+      "year": 2018,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Self"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNjg5MTQ4MzY5M15BMl5BanBnXkFtZTcwMzM4MzU1Mw@@._V1_.jpg",
+  "birth_date": "14.03.1933",
+  "death_date": "03.11.2024",
+  "birth_location": "Chicago, Illinois, USA",
+  "height": "1.69 m",
+  "filmweb_id": 7743,
+  "name_pl": "Quincy Jones",
+  "birth_location_pl": "Chicago, Illinois",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 7743
+}

@@ -1,0 +1,296 @@
+{
+  "imdb_id": "tt0816692",
+  "title": "Interstellar",
+  "description": "In a dystopian future where Earth has become near-uninhabitable, a team of astronauts embark on a mission to find a new home for humanity.",
+  "runtime_minutes": 169,
+  "release_date": "07.11.2014",
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm0000190",
+      "name": "Matthew McConaughey"
+    },
+    {
+      "id": "nm0004266",
+      "name": "Anne Hathaway"
+    },
+    {
+      "id": "nm1567113",
+      "name": "Jessica Chastain"
+    },
+    {
+      "id": "nm3237775",
+      "name": "Mackenzie Foy"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0634240",
+      "name": "Christopher Nolan"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0634300",
+      "name": "Jonathan Nolan"
+    },
+    {
+      "id": "nm0634240",
+      "name": "Christopher Nolan"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000190",
+      "name": "Matthew McConaughey",
+      "character": "Cooper"
+    },
+    {
+      "id": "nm0004266",
+      "name": "Anne Hathaway",
+      "character": "Brand"
+    },
+    {
+      "id": "nm1567113",
+      "name": "Jessica Chastain",
+      "character": "Murph"
+    },
+    {
+      "id": "nm0000995",
+      "name": "Ellen Burstyn",
+      "character": "Murph (older)"
+    },
+    {
+      "id": "nm3237775",
+      "name": "Mackenzie Foy",
+      "character": "Murph (10 Yrs.)"
+    },
+    {
+      "id": "nm0001475",
+      "name": "John Lithgow",
+      "character": "Donald"
+    },
+    {
+      "id": "nm3154303",
+      "name": "Timothée Chalamet",
+      "character": "Tom (15 Yrs.)"
+    },
+    {
+      "id": "nm0654648",
+      "name": "David Oyelowo",
+      "character": "School Principal"
+    },
+    {
+      "id": "nm2180792",
+      "name": "Collette Wolfe",
+      "character": "Ms. Hanley"
+    },
+    {
+      "id": "nm0565133",
+      "name": "Francis X. McCarthy",
+      "character": "Boots"
+    },
+    {
+      "id": "nm0410347",
+      "name": "Bill Irwin",
+      "character": "TARS"
+    },
+    {
+      "id": "nm0095960",
+      "name": "Andrew Borba",
+      "character": "Smith"
+    },
+    {
+      "id": "nm0004747",
+      "name": "Wes Bentley",
+      "character": "Doyle"
+    },
+    {
+      "id": "nm0001137",
+      "name": "William Devane",
+      "character": "Williams"
+    },
+    {
+      "id": "nm0000323",
+      "name": "Michael Caine",
+      "character": "Professor Brand"
+    },
+    {
+      "id": "nm1408543",
+      "name": "David Gyasi",
+      "character": "Romilly"
+    },
+    {
+      "id": "nm1577637",
+      "name": "Josh Stewart",
+      "character": "CASE"
+    },
+    {
+      "id": "nm0000729",
+      "name": "Casey Affleck",
+      "character": "Tom"
+    }
+  ],
+  "countries": [
+    "United States",
+    "United Kingdom",
+    "Canada"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 375629,
+  "year": 2014,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8.7,
+      "votes": 2588134,
+      "distribution": {
+        "1": 18914,
+        "2": 7614,
+        "3": 10303,
+        "4": 16662,
+        "5": 33541,
+        "6": 79222,
+        "7": 214197,
+        "8": 454215,
+        "9": 698382,
+        "10": 1055084
+      },
+      "normalized": 9.4774
+    },
+    "filmweb": {
+      "rating": 8.0,
+      "votes": 448068,
+      "distribution": {
+        "1": 1473,
+        "2": 1058,
+        "3": 3581,
+        "4": 5408,
+        "5": 14884,
+        "6": 32678,
+        "7": 79982,
+        "8": 132601,
+        "9": 105568,
+        "10": 70835
+      },
+      "normalized": 8.3785
+    },
+    "jarek": {
+      "rating": 9,
+      "date_rated": "07.03.2015",
+      "normalized": 8.8973
+    },
+    "michal": {
+      "rating": 8,
+      "date_rated": "13.12.2014",
+      "normalized": 8.1116
+    },
+    "score": 8.7162
+  },
+  "polish_title": "Interstellar",
+  "silent": false,
+  "description_pl": "Na skutek błędów popełnionych przez ludzkość w XX w. Ziemia staje na krawędzi zagłady. Nastąpił upadek państw, a ich rządy straciły władzę. Szczątkowo funkcjonująca gospodarka nie jest w stanie zapewnić ludziom nawet żywności. Gdy jednak odkryta zostaje możliwość podróżowania w czasoprzestrzeni, naukowcy wywodzący się z resztek organizacji NASA podejmują się jej zbadania, tym samym stając się ostatnią deską ratunku dla ludzi i ich planety.",
+  "producers": [
+    {
+      "id": "nm0042648",
+      "name": "Kaari Autry"
+    },
+    {
+      "id": "nm2466023",
+      "name": "Jenny Basen"
+    },
+    {
+      "id": "nm0159806",
+      "name": "Jill Christensen"
+    },
+    {
+      "id": "nm3528914",
+      "name": "Stacey Douglas"
+    },
+    {
+      "id": "nm0323852",
+      "name": "Kim Goddard"
+    },
+    {
+      "id": "nm2044373",
+      "name": "Jordan Goldberg"
+    },
+    {
+      "id": "nm2852273",
+      "name": "Harrison Goldstein"
+    },
+    {
+      "id": "nm5186388",
+      "name": "Árni Björn Helgason"
+    },
+    {
+      "id": "nm0616735",
+      "name": "Jake Myers"
+    },
+    {
+      "id": "nm0634240",
+      "name": "Christopher Nolan"
+    },
+    {
+      "id": "nm0643553",
+      "name": "Lynda Obst"
+    },
+    {
+      "id": "nm4949579",
+      "name": "Graeme Puttock"
+    },
+    {
+      "id": "nm0776975",
+      "name": "Debbie Schwab"
+    },
+    {
+      "id": "nm0845429",
+      "name": "Inga Björk Sólnes"
+    },
+    {
+      "id": "nm0858799",
+      "name": "Emma Thomas"
+    },
+    {
+      "id": "nm6225360",
+      "name": "Gudlaug O. Thorisdottir"
+    },
+    {
+      "id": "nm0861399",
+      "name": "Kip Thorne"
+    },
+    {
+      "id": "nm2100078",
+      "name": "Thomas Tull"
+    },
+    {
+      "id": "nm2458030",
+      "name": "Stephanie Fraser"
+    },
+    {
+      "id": "nm4559671",
+      "name": "Brock Skretting"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0001877",
+      "name": "Hans Zimmer"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0887227",
+      "name": "Hoyte van Hoytema"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

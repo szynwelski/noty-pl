@@ -1,0 +1,26 @@
+{
+  "id": "nm0800108",
+  "name": "David Simon",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzc5MTc5MzEyMF5BMl5BanBnXkFtZTcwNzE4ODA4MQ@@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0306414",
+      "title": "The Wire",
+      "year": 2002,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "birth_date": "13.05.1960",
+  "birth_location": "Washington, District of Columbia, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 176473,
+  "name_pl": "David Simon",
+  "birth_location_pl": "Waszyngton, Dystrykt Kolumbii",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

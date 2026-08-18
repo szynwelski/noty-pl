@@ -1,0 +1,283 @@
+{
+  "imdb_id": "tt7555294",
+  "title": "L.A.'s Finest",
+  "description": "The spinoff series of Bad Boys films focuses on drug enforcement agent Sydney Burnett, now working for the Los Angeles Police Department.",
+  "runtime_minutes": 60,
+  "release_date": "13.05.2019",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0004695",
+      "name": "Jessica Alba"
+    },
+    {
+      "id": "nm0005517",
+      "name": "Gabrielle Union"
+    },
+    {
+      "id": "nm0552222",
+      "name": "Duane Martin"
+    },
+    {
+      "id": "nm1472917",
+      "name": "Zach Gilford"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0004695",
+      "name": "Jessica Alba",
+      "character": "Nancy McKenna"
+    },
+    {
+      "id": "nm0005517",
+      "name": "Gabrielle Union",
+      "character": "Sydney Burnett"
+    },
+    {
+      "id": "nm0552222",
+      "name": "Duane Martin",
+      "character": "Ben Baines"
+    },
+    {
+      "id": "nm1472917",
+      "name": "Zach Gilford",
+      "character": "Ben Walker"
+    },
+    {
+      "id": "nm0574131",
+      "name": "Ryan McPartlin",
+      "character": "Patrick McKenna"
+    },
+    {
+      "id": "nm5993697",
+      "name": "Sophie Reynolds",
+      "character": "Isabel McKenna"
+    },
+    {
+      "id": "nm0001368",
+      "name": "Ernie Hudson",
+      "character": "Joseph Vaughn"
+    },
+    {
+      "id": "nm0298539",
+      "name": "David Fumero",
+      "character": "Jason Calloway"
+    },
+    {
+      "id": "nm1130845",
+      "name": "Joshua Alba",
+      "character": "Nico Perez"
+    },
+    {
+      "id": "nm0758582",
+      "name": "John Salley",
+      "character": "Fletcher"
+    },
+    {
+      "id": "nm0022306",
+      "name": "Laz Alonso",
+      "character": "Warren Hendrix"
+    },
+    {
+      "id": "nm2718712",
+      "name": "Sabina Gadecki",
+      "character": "Jen Striker"
+    },
+    {
+      "id": "nm0119003",
+      "name": "Rebecca Budig",
+      "character": "Carlene Hart"
+    },
+    {
+      "id": "nm6264728",
+      "name": "Ciara Riley Wilson",
+      "character": "Letti Ramirez"
+    },
+    {
+      "id": "nm1289351",
+      "name": "Barry Sloane",
+      "character": "Dante Sherman"
+    },
+    {
+      "id": "nm4205710",
+      "name": "Miguel Gomez",
+      "character": "Ricky Leon"
+    },
+    {
+      "id": "nm2499696",
+      "name": "Taylor Black",
+      "character": "Emma Mitchell"
+    },
+    {
+      "id": "nm0741219",
+      "name": "Adam Rose",
+      "character": "Nathan Baker"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "year": 2019,
+  "type": "tvSeries",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMWFiOTE5MmUtOWE1OS00YzFmLWE2OTItYTk1ZTA1MmVkNTg2XkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 817149,
+  "ratings": {
+    "imdb": {
+      "rating": 6.2,
+      "votes": 8978,
+      "distribution": {
+        "1": 739,
+        "2": 281,
+        "3": 290,
+        "4": 351,
+        "5": 631,
+        "6": 1172,
+        "7": 1725,
+        "8": 1344,
+        "9": 682,
+        "10": 1763
+      }
+    },
+    "filmweb": {
+      "rating": 6.12,
+      "votes": 628,
+      "distribution": {
+        "1": 13,
+        "2": 15,
+        "3": 30,
+        "4": 47,
+        "5": 90,
+        "6": 167,
+        "7": 148,
+        "8": 68,
+        "9": 12,
+        "10": 38
+      }
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "26.03.2022"
+    }
+  },
+  "polish_title": "L.A.'s Finest",
+  "silent": false,
+  "producers": [
+    {
+      "id": "nm0004695",
+      "name": "Jessica Alba"
+    },
+    {
+      "id": "nm1000411",
+      "name": "Doug Belgrad"
+    },
+    {
+      "id": "nm0000988",
+      "name": "Jerry Bruckheimer"
+    },
+    {
+      "id": "nm6421220",
+      "name": "Sophie Cassidy"
+    },
+    {
+      "id": "nm0188929",
+      "name": "Anton Cropper"
+    },
+    {
+      "id": "nm0309294",
+      "name": "Jeff Gaspin"
+    },
+    {
+      "id": "nm0514779",
+      "name": "Jonathan Littman"
+    },
+    {
+      "id": "nm2474120",
+      "name": "Brandon Margolis"
+    },
+    {
+      "id": "nm2249759",
+      "name": "Jeff Morrone"
+    },
+    {
+      "id": "nm10545540",
+      "name": "James Oh"
+    },
+    {
+      "id": "nm0342864",
+      "name": "KristieAnne Reed"
+    },
+    {
+      "id": "nm1228961",
+      "name": "Brandon Sonnier"
+    },
+    {
+      "id": "nm0005517",
+      "name": "Gabrielle Union"
+    },
+    {
+      "id": "nm0891541",
+      "name": "Pam Veasey"
+    },
+    {
+      "id": "nm2038407",
+      "name": "John Dove"
+    },
+    {
+      "id": "nm4024003",
+      "name": "Aaron Carew"
+    },
+    {
+      "id": "nm3465038",
+      "name": "Meghan Certo"
+    },
+    {
+      "id": "nm0183938",
+      "name": "Mary Courtney"
+    },
+    {
+      "id": "nm0383410",
+      "name": "Jean Higgins"
+    },
+    {
+      "id": "nm8535351",
+      "name": "Marisa Tam"
+    },
+    {
+      "id": "nm1623000",
+      "name": "Zak Kauffman"
+    },
+    {
+      "id": "nm0925441",
+      "name": "Scott White"
+    },
+    {
+      "id": "nm7662092",
+      "name": "Sheila Phillips"
+    },
+    {
+      "id": "nm0602172",
+      "name": "Vahan Moosekian"
+    },
+    {
+      "id": "nm0735788",
+      "name": "Daniel Rodriguez"
+    },
+    {
+      "id": "nm0879968",
+      "name": "Anne M. Uemura"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

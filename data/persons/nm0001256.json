@@ -1,0 +1,39 @@
+{
+  "id": "nm0001256",
+  "name": "Greta Garbo",
+  "filmography": [
+    {
+      "imdb_id": "tt0022958",
+      "title": "Grand Hotel",
+      "year": 1932,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Grusinskaya"
+    },
+    {
+      "imdb_id": "tt0056799",
+      "title": "30 Years of Fun",
+      "year": 1963,
+      "roles": [
+        "cast"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQ0MDU3ODQ0MF5BMl5BanBnXkFtZTgwNzY4NDQ3MTE@._V1_.jpg",
+  "birth_date": "18.09.1905",
+  "death_date": "15.04.1990",
+  "birth_location": "Stockholm, Stockholms län, Sweden",
+  "height": "1.68 m",
+  "imdb_scraped": true,
+  "filmweb_id": 46349,
+  "name_pl": "Greta Garbo",
+  "birth_location_pl": "Sztokholm",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Szwecja",
+    "Stany Zjednoczone"
+  ]
+}

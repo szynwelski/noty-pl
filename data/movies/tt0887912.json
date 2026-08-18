@@ -1,0 +1,240 @@
+{
+  "imdb_id": "tt0887912",
+  "title": "The Hurt Locker",
+  "description": "During the Iraq War, a Sergeant recently assigned to an army bomb squad is put at odds with his squad mates due to his maverick way of handling his work.",
+  "runtime_minutes": 131,
+  "release_date": "31.07.2009",
+  "genres": [
+    "Drama",
+    "Thriller",
+    "War"
+  ],
+  "stars": [
+    {
+      "id": "nm0719637",
+      "name": "Jeremy Renner"
+    },
+    {
+      "id": "nm1107001",
+      "name": "Anthony Mackie"
+    },
+    {
+      "id": "nm1310016",
+      "name": "Brian Geraghty"
+    },
+    {
+      "id": "nm0001602",
+      "name": "Guy Pearce"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000941",
+      "name": "Kathryn Bigelow"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1676793",
+      "name": "Mark Boal"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0719637",
+      "name": "Jeremy Renner",
+      "character": "Staff Sergeant William James"
+    },
+    {
+      "id": "nm1107001",
+      "name": "Anthony Mackie",
+      "character": "Sergeant JT Sanborn"
+    },
+    {
+      "id": "nm1310016",
+      "name": "Brian Geraghty",
+      "character": "Specialist Owen Eldridge"
+    },
+    {
+      "id": "nm0001602",
+      "name": "Guy Pearce",
+      "character": "Sergeant Matt Thompson"
+    },
+    {
+      "id": "nm0000146",
+      "name": "Ralph Fiennes",
+      "character": "Contractor Team Leader"
+    },
+    {
+      "id": "nm0001556",
+      "name": "David Morse",
+      "character": "Colonel Reed"
+    },
+    {
+      "id": "nm1431940",
+      "name": "Evangeline Lilly",
+      "character": "Connie James"
+    },
+    {
+      "id": "nm0131235",
+      "name": "Christian Camargo",
+      "character": "Colonel John Cambridge"
+    },
+    {
+      "id": "nm2778904",
+      "name": "Suhail Dabbach",
+      "character": "Black Suit Man"
+    },
+    {
+      "id": "nm3441508",
+      "name": "Christopher Sayegh",
+      "character": "Beckham"
+    },
+    {
+      "id": "nm3443737",
+      "name": "Nabil Koni",
+      "character": "Professor Nabil"
+    },
+    {
+      "id": "nm0819874",
+      "name": "Sam Spruell",
+      "character": "Contractor Charlie"
+    },
+    {
+      "id": "nm0714866",
+      "name": "Sam Redford",
+      "character": "Contractor Jimmy"
+    },
+    {
+      "id": "nm3443699",
+      "name": "Feisal Sadoun",
+      "character": "Contractor Feisal"
+    },
+    {
+      "id": "nm3442056",
+      "name": "Barrie Rice",
+      "character": "Contractor Chris"
+    },
+    {
+      "id": "nm3442035",
+      "name": "Imad Dadudi",
+      "character": "Iraqi Police Captain at UN"
+    },
+    {
+      "id": "nm2360944",
+      "name": "Erin Gann",
+      "character": "Mortuary Affairs Officer"
+    },
+    {
+      "id": "nm1158571",
+      "name": "Justin Campbell",
+      "character": "Sergeant Carter"
+    }
+  ],
+  "countries": [
+    "United States",
+    "Luxembourg",
+    "Canada",
+    "Jordan"
+  ],
+  "languages": [
+    "English",
+    "Arabic"
+  ],
+  "color": "Color",
+  "filmweb_id": 416984,
+  "year": 2008,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzgyMGM2YTItYzY2Yi00NDQ0LWE0M2EtMGUzYjFlMDgyY2M3XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.5,
+      "votes": 498866,
+      "distribution": {
+        "1": 7840,
+        "2": 3107,
+        "3": 4284,
+        "4": 7510,
+        "5": 17731,
+        "6": 47721,
+        "7": 128321,
+        "8": 163902,
+        "9": 75617,
+        "10": 42833
+      },
+      "normalized": 6.4886
+    },
+    "filmweb": {
+      "rating": 7.32,
+      "votes": 102564,
+      "distribution": {
+        "1": 509,
+        "2": 388,
+        "3": 1152,
+        "4": 1973,
+        "5": 4955,
+        "6": 12253,
+        "7": 31576,
+        "8": 33274,
+        "9": 12016,
+        "10": 4468
+      },
+      "normalized": 6.301
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "11.08.2010",
+      "normalized": 6.4102
+    },
+    "score": 6.3999
+  },
+  "polish_title": "The Hurt Locker. W pułapce wojny",
+  "silent": false,
+  "description_pl": "Akcja filmu dzieje się w Iraku i opowiada o dokonaniach elitarnej jednostki saperów. Zmuszeni do niebezpiecznej gry w kotka myszkę w zamęcie wojny, łączą swoje siły, gdyż w miejscu, w którym sie znajdują każdy człowiek może się okazać potencjalnym wrogiem, a każdy obiekt - śmiertelną bombą.",
+  "producers": [
+    {
+      "id": "nm0000941",
+      "name": "Kathryn Bigelow"
+    },
+    {
+      "id": "nm1676793",
+      "name": "Mark Boal"
+    },
+    {
+      "id": "nm1291566",
+      "name": "Nicolas Chartier"
+    },
+    {
+      "id": "nm2827093",
+      "name": "Jenn Lee"
+    },
+    {
+      "id": "nm0548299",
+      "name": "Tony Mark"
+    },
+    {
+      "id": "nm1200828",
+      "name": "Donall McCusker"
+    },
+    {
+      "id": "nm1861321",
+      "name": "Jack Schuster"
+    },
+    {
+      "id": "nm0788513",
+      "name": "Greg Shapiro"
+    },
+    {
+      "id": "nm1191033",
+      "name": "Kirk Shaw"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0010096",
+      "name": "Barry Ackroyd"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

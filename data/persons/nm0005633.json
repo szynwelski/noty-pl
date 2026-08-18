@@ -1,0 +1,43 @@
+{
+  "id": "nm0005633",
+  "name": "John Alcott",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BY2MwNGQxMmMtNDA2Mi00YjVkLWFhMGUtM2U3NzVkN2M0ZWU5XkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0066921",
+      "title": "A Clockwork Orange",
+      "year": 1971,
+      "roles": [
+        "cinematographer"
+      ]
+    },
+    {
+      "imdb_id": "tt0072684",
+      "title": "Barry Lyndon",
+      "year": 1975,
+      "roles": [
+        "cinematographer"
+      ]
+    },
+    {
+      "imdb_id": "tt0081505",
+      "title": "The Shining",
+      "year": 1980,
+      "roles": [
+        "cinematographer"
+      ]
+    }
+  ],
+  "birth_date": "27.11.1930",
+  "death_date": "28.07.1986",
+  "birth_location": "Isleworth, Middlesex, England, UK",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "filmweb_id": 12470,
+  "name_pl": "John Alcott",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "M"
+}

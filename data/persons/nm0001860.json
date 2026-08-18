@@ -1,0 +1,49 @@
+{
+  "id": "nm0001860",
+  "name": "Alicia Witt",
+  "filmography": [
+    {
+      "imdb_id": "tt0113101",
+      "title": "Four Rooms",
+      "year": 1995,
+      "roles": [
+        "cast"
+      ],
+      "character": "Kiva"
+    },
+    {
+      "imdb_id": "tt0313737",
+      "title": "Two Weeks Notice",
+      "year": 2002,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "June Carver"
+    },
+    {
+      "imdb_id": "tt0411061",
+      "title": "88 Minutes",
+      "year": 2007,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Kim Cummings"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZDUzZWM5NDItMjRiYS00NWFiLWFjZjktNGI0YzY4NTQyMjcwXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "21.08.1975",
+  "birth_location": "Worcester, Massachusetts, USA",
+  "height": "1.74 m",
+  "filmweb_id": 2846,
+  "name_pl": "Alicia Witt",
+  "birth_location_pl": "Worcester, Massachusetts",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 2846
+}

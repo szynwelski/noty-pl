@@ -1,0 +1,153 @@
+{
+  "imdb_id": "tt3180668",
+  "title": "Remote Control",
+  "description": "A runaway living on a rooftop in Ulaanbaatar, Tsog survives by selling milk and retreating into his vivid imaginary world. When he notices a lonely woman living in the building next door, he imagines he has found a kindred spirit and embarks on a mission to intertwine their fates.",
+  "runtime_minutes": 90,
+  "release_date": "2014",
+  "genres": [
+    "Drama",
+    "Family"
+  ],
+  "stars": [
+    {
+      "id": "nm6298060",
+      "name": "Yondonjamts Bayan Ochir"
+    },
+    {
+      "id": "nm6298053",
+      "name": "Sodbileg Bayarsanaa"
+    },
+    {
+      "id": "nm6298058",
+      "name": "Ganbaatar Chagnaadorj"
+    },
+    {
+      "id": "nm6298071",
+      "name": "Baasandorj Enkhtaivan"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0125684",
+      "name": "Byamba Sakhya"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0125684",
+      "name": "Byamba Sakhya"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm6298060",
+      "name": "Yondonjamts Bayan Ochir",
+      "character": "Bunya"
+    },
+    {
+      "id": "nm6298053",
+      "name": "Sodbileg Bayarsanaa",
+      "character": "Tulga"
+    },
+    {
+      "id": "nm6298058",
+      "name": "Ganbaatar Chagnaadorj",
+      "character": "Jagaa"
+    },
+    {
+      "id": "nm6298071",
+      "name": "Baasandorj Enkhtaivan",
+      "character": "Tsog"
+    },
+    {
+      "id": "nm6298054",
+      "name": "Bayarmaa Nergui",
+      "character": "Anu"
+    }
+  ],
+  "countries": [
+    "Mongolia",
+    "Germany"
+  ],
+  "languages": [],
+  "color": "Color",
+  "year": 2013,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZTMxYTMyM2EtNzI4Ny00MjY2LWEzYjktZGU1OWYyNWIxZGM4XkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 728555,
+  "ratings": {
+    "imdb": {
+      "rating": 6.7,
+      "votes": 118,
+      "distribution": {
+        "1": 4,
+        "2": 3,
+        "3": 0,
+        "4": 6,
+        "5": 8,
+        "6": 14,
+        "7": 28,
+        "8": 24,
+        "9": 8,
+        "10": 23
+      },
+      "normalized": 5.2629
+    },
+    "filmweb": {
+      "rating": 6.44,
+      "votes": 9,
+      "distribution": {
+        "2": 0,
+        "3": 1,
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 3,
+        "9": 1,
+        "10": 0
+      },
+      "normalized": 5.1805
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "22.12.2018",
+      "normalized": 4.9718
+    },
+    "score": 5.1384
+  },
+  "polish_title": "Pilot",
+  "silent": false,
+  "description_pl": "Młody chłopak - Tsog - sprzedaje mleko w Ułan Bator. Stara się nie wracać zbyt często na wieś, do rodzinnego domu. Ojciec - alkoholik, zgorzkniała, nie okazująca uczuć macocha i szemrany brat nie stworzyli miejsca ciepła i miłości. Chłopak, kiedy tylko może, ucieka w świat fantazji. Jego bohaterem jest młody mnich, który, jak głosi legenda, był prześladowany za to, że nauczył się latać. Pewnego dnia, po większej awanturze, ucieka z domu i zamieszkuje na dachu jednego z apartamentowców w stolicy. Jego wyobraźnię zaludniają ludzie, których codziennie obserwuje. Jego szczególną uwagę zwraca mieszkająca na ostatnim piętrze Anu, piękna, ale równie samotna jak on. Dzięki skradzionemu pilotowi, Tsog może pod jej nieobecność oglądać programy w jej telewizorze. Wkrótce obserwowanie Anu staje się jego obsesją. Chłopak włącza ją do świata swojej wyobraźni. Fantazje i rzeczywistość spotkają się.",
+  "producers": [
+    {
+      "id": "nm0213901",
+      "name": "Heino Deckert"
+    },
+    {
+      "id": "nm6298066",
+      "name": "Khulan Khashbat"
+    },
+    {
+      "id": "nm2473385",
+      "name": "Innbo Shim"
+    },
+    {
+      "id": "nm4633476",
+      "name": "Ariunaa Tserenpil"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm4642196",
+      "name": "Sansargereltekh Sangidorj"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0002882",
+      "name": "Charles Libin"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

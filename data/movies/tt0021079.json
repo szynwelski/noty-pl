@@ -1,0 +1,216 @@
+{
+  "imdb_id": "tt0021079",
+  "title": "Little Caesar",
+  "description": "A small-time criminal moves to a big city to seek bigger fortune.",
+  "runtime_minutes": 79,
+  "release_date": "25.01.1931",
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0000064",
+      "name": "Edward G. Robinson"
+    },
+    {
+      "id": "nm0001195",
+      "name": "Douglas Fairbanks Jr."
+    },
+    {
+      "id": "nm0268225",
+      "name": "Glenda Farrell"
+    },
+    {
+      "id": "nm0171873",
+      "name": "William Collier Jr."
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0503777",
+      "name": "Mervyn LeRoy"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0122446",
+      "name": "W.R. Burnett"
+    },
+    {
+      "id": "nm0267020",
+      "name": "Francis Edward Faragoh"
+    },
+    {
+      "id": "nm0498133",
+      "name": "Robert N. Lee"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000064",
+      "name": "Edward G. Robinson",
+      "character": "Caesar Enrico 'Rico' Bandello"
+    },
+    {
+      "id": "nm0001195",
+      "name": "Douglas Fairbanks Jr.",
+      "character": "Joe Massara"
+    },
+    {
+      "id": "nm0268225",
+      "name": "Glenda Farrell",
+      "character": "Olga Stassoff"
+    },
+    {
+      "id": "nm0171873",
+      "name": "William Collier Jr.",
+      "character": "Tony Passa"
+    },
+    {
+      "id": "nm0085782",
+      "name": "Sidney Blackmer",
+      "character": "Big Boy"
+    },
+    {
+      "id": "nm0408433",
+      "name": "Ralph Ince",
+      "character": "Pete Montana"
+    },
+    {
+      "id": "nm0414090",
+      "name": "Thomas E. Jackson",
+      "character": "Sgt. Flaherty"
+    },
+    {
+      "id": "nm0276354",
+      "name": "Stanley Fields",
+      "character": "Sam Vettori"
+    },
+    {
+      "id": "nm0085427",
+      "name": "Maurice Black",
+      "character": "Little Arnie Lorch"
+    },
+    {
+      "id": "nm0831889",
+      "name": "George E. Stone",
+      "character": "Otero"
+    },
+    {
+      "id": "nm0435920",
+      "name": "Armand Kaliz",
+      "character": "De Voss"
+    },
+    {
+      "id": "nm0067494",
+      "name": "Nicholas Bela",
+      "character": "Ritz Colonna"
+    },
+    {
+      "id": "nm0010958",
+      "name": "Ernie Adams",
+      "character": "Cashier"
+    },
+    {
+      "id": "nm0050609",
+      "name": "Elmer Ballard",
+      "character": "Bat Carilla"
+    },
+    {
+      "id": "nm0097202",
+      "name": "Ferike Boros",
+      "character": "Mrs. Passa"
+    },
+    {
+      "id": "nm0187914",
+      "name": "Kernan Cripps",
+      "character": "Detective"
+    },
+    {
+      "id": "nm0197356",
+      "name": "George Daly",
+      "character": "Machine-Gunner"
+    },
+    {
+      "id": "nm0269706",
+      "name": "Adolph Faylauer",
+      "character": "New Year's Celebrant"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 32732,
+  "year": 1931,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDA5MDVmMDUtYmJlMC00NGVmLTllNGYtZDIxOTkwYWM2NmViXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.1,
+      "votes": 16133,
+      "distribution": {
+        "1": 123,
+        "2": 77,
+        "3": 129,
+        "4": 287,
+        "5": 860,
+        "6": 2454,
+        "7": 5421,
+        "8": 4212,
+        "9": 1337,
+        "10": 1233
+      },
+      "normalized": 5.6926
+    },
+    "filmweb": {
+      "rating": 6.17,
+      "votes": 3501,
+      "distribution": {
+        "1": 149,
+        "2": 82,
+        "3": 123,
+        "4": 192,
+        "5": 436,
+        "6": 853,
+        "7": 900,
+        "8": 469,
+        "9": 162,
+        "10": 135
+      },
+      "normalized": 3.788
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "19.10.2005",
+      "normalized": 6.3474
+    },
+    "score": 5.276
+  },
+  "polish_title": "Mały Cezar",
+  "silent": false,
+  "producers": [
+    {
+      "id": "nm0909259",
+      "name": "Hal B. Wallis"
+    },
+    {
+      "id": "nm0953123",
+      "name": "Darryl F. Zanuck"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0309974",
+      "name": "Tony Gaudio"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-15"
+}

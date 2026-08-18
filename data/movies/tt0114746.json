@@ -1,0 +1,251 @@
+{
+  "imdb_id": "tt0114746",
+  "title": "12 Monkeys",
+  "description": "In a future world devastated by disease, a convict is sent back in time to gather information about the man-made virus that wiped out most of the human population on the planet.",
+  "runtime_minutes": 129,
+  "release_date": "05.01.1996",
+  "genres": [
+    "Mystery",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000246",
+      "name": "Bruce Willis"
+    },
+    {
+      "id": "nm0000656",
+      "name": "Madeleine Stowe"
+    },
+    {
+      "id": "nm0000093",
+      "name": "Brad Pitt"
+    },
+    {
+      "id": "nm0577828",
+      "name": "Joseph Melito"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000416",
+      "name": "Terry Gilliam"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0003408",
+      "name": "Chris Marker"
+    },
+    {
+      "id": "nm0672459",
+      "name": "David Webb Peoples"
+    },
+    {
+      "id": "nm0672466",
+      "name": "Janet Peoples"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000246",
+      "name": "Bruce Willis",
+      "character": "James Cole"
+    },
+    {
+      "id": "nm0000656",
+      "name": "Madeleine Stowe",
+      "character": "Kathryn Railly"
+    },
+    {
+      "id": "nm0000093",
+      "name": "Brad Pitt",
+      "character": "Jeffrey Goines"
+    },
+    {
+      "id": "nm0577828",
+      "name": "Joseph Melito",
+      "character": "Young Cole"
+    },
+    {
+      "id": "nm0781218",
+      "name": "Jon Seda",
+      "character": "Jose"
+    },
+    {
+      "id": "nm0151232",
+      "name": "Michael Chance",
+      "character": "Scarface"
+    },
+    {
+      "id": "nm0132912",
+      "name": "Vernon Campbell",
+      "character": "Tiny"
+    },
+    {
+      "id": "nm0909378",
+      "name": "H. Michael Walls",
+      "character": "Botanist"
+    },
+    {
+      "id": "nm0012432",
+      "name": "Bob Adrian",
+      "character": "Geologist"
+    },
+    {
+      "id": "nm0429254",
+      "name": "Simon Jones",
+      "character": "Zoologist"
+    },
+    {
+      "id": "nm0282665",
+      "name": "Carol Florence",
+      "character": "Astrophysicist"
+    },
+    {
+      "id": "nm0713209",
+      "name": "Bill Raymond",
+      "character": "Microbiologist"
+    },
+    {
+      "id": "nm0009481",
+      "name": "Ernest Abuba",
+      "character": "Engineer"
+    },
+    {
+      "id": "nm0820788",
+      "name": "Irma St. Paule",
+      "character": "Poet"
+    },
+    {
+      "id": "nm0673776",
+      "name": "Joey Perillo",
+      "character": "Detective Franki"
+    },
+    {
+      "id": "nm0456705",
+      "name": "Bruce Kirkpatrick",
+      "character": "Policeman No. 1"
+    },
+    {
+      "id": "nm0931929",
+      "name": "Wilfred Williams",
+      "character": "Policeman No. 2"
+    },
+    {
+      "id": "nm0950028",
+      "name": "Rozwill Young",
+      "character": "Billings"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Latin",
+    "Spanish",
+    "German"
+  ],
+  "color": "Color",
+  "filmweb_id": 1210,
+  "year": 1995,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDQwNDY0M2MtOGFmNy00ZjI5LTkzN2ItMzg5M2IwZTZjY2MyXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Twelve Monkeys",
+  "ratings": {
+    "imdb": {
+      "rating": 8,
+      "votes": 682895,
+      "distribution": {
+        "1": 5030,
+        "2": 2631,
+        "3": 3786,
+        "4": 6949,
+        "5": 16114,
+        "6": 43838,
+        "7": 128690,
+        "8": 235832,
+        "9": 151598,
+        "10": 88427
+      },
+      "normalized": 7.5313
+    },
+    "filmweb": {
+      "rating": 7.56,
+      "votes": 222958,
+      "distribution": {
+        "1": 1463,
+        "2": 1267,
+        "3": 2580,
+        "4": 4146,
+        "5": 9487,
+        "6": 21893,
+        "7": 52850,
+        "8": 73809,
+        "9": 37022,
+        "10": 18441
+      },
+      "normalized": 6.9222
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "02.12.2005",
+      "normalized": 7.1247
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "19.10.2005",
+      "normalized": 5.4199
+    },
+    "score": 6.7495
+  },
+  "polish_title": "12 małp",
+  "silent": false,
+  "description_pl": "Jest rok 2035. Nieznany wirus niszczy ludzkość. Tylko 1% populacji uchodzi z życiem. Ludzie żyją pod ziemią. Więzień James Cole zostaje wysłany w przeszłość do roku 1996,  aby zebrać informacje na temat pochodzenia wirusa. Jednak w wyniku pomyłki trafia do roku 1990, gdzie natychmiast aresztuje go policja.",
+  "producers": [
+    {
+      "id": "nm0146868",
+      "name": "Robert Cavallo"
+    },
+    {
+      "id": "nm0250856",
+      "name": "Mark Egerton"
+    },
+    {
+      "id": "nm0466946",
+      "name": "Robert Kosberg"
+    },
+    {
+      "id": "nm0506013",
+      "name": "Gary Levinsohn"
+    },
+    {
+      "id": "nm0680595",
+      "name": "Lloyd Phillips"
+    },
+    {
+      "id": "nm0746273",
+      "name": "Charles Roven"
+    },
+    {
+      "id": "nm0810423",
+      "name": "Kelley Smith-Wait"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0118729",
+      "name": "Paul Buckmaster"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0695536",
+      "name": "Roger Pratt"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

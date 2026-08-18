@@ -1,0 +1,224 @@
+{
+  "imdb_id": "tt0033870",
+  "title": "The Maltese Falcon",
+  "description": "A San Francisco private detective is swept up in the hunt for a priceless 16th-century statuette after his partner is murdered in a seemingly ordinary tailing job.",
+  "runtime_minutes": 100,
+  "release_date": "18.10.1941",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Film-Noir",
+    "Mystery",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0000007",
+      "name": "Humphrey Bogart"
+    },
+    {
+      "id": "nm0000802",
+      "name": "Mary Astor"
+    },
+    {
+      "id": "nm0313438",
+      "name": "Gladys George"
+    },
+    {
+      "id": "nm0000048",
+      "name": "Peter Lorre"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001379",
+      "name": "John Huston"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0001379",
+      "name": "John Huston"
+    },
+    {
+      "id": "nm0358591",
+      "name": "Dashiell Hammett"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000007",
+      "name": "Humphrey Bogart",
+      "character": "Samuel Spade"
+    },
+    {
+      "id": "nm0000802",
+      "name": "Mary Astor",
+      "character": "Brigid O'Shaughnessy"
+    },
+    {
+      "id": "nm0313438",
+      "name": "Gladys George",
+      "character": "Iva Archer"
+    },
+    {
+      "id": "nm0000048",
+      "name": "Peter Lorre",
+      "character": "Joel Cairo"
+    },
+    {
+      "id": "nm0533692",
+      "name": "Barton MacLane",
+      "character": "Lt. of Detectives Dundy"
+    },
+    {
+      "id": "nm0665886",
+      "name": "Lee Patrick",
+      "character": "Effie Perine"
+    },
+    {
+      "id": "nm0002113",
+      "name": "Sydney Greenstreet",
+      "character": "Kasper Gutman"
+    },
+    {
+      "id": "nm0000955",
+      "name": "Ward Bond",
+      "character": "Detective Tom Polhaus"
+    },
+    {
+      "id": "nm0184578",
+      "name": "Jerome Cowan",
+      "character": "Miles Archer"
+    },
+    {
+      "id": "nm0176879",
+      "name": "Elisha Cook Jr.",
+      "character": "Wilmer Cook"
+    },
+    {
+      "id": "nm0121707",
+      "name": "James Burke",
+      "character": "Luke"
+    },
+    {
+      "id": "nm0022367",
+      "name": "Murray Alper",
+      "character": "Frank Richman"
+    },
+    {
+      "id": "nm0357963",
+      "name": "John Hamilton",
+      "character": "Bryan"
+    },
+    {
+      "id": "nm0236866",
+      "name": "Charles Drake",
+      "character": "Reporter"
+    },
+    {
+      "id": "nm0304058",
+      "name": "Chester Gan",
+      "character": "Bit Part"
+    },
+    {
+      "id": "nm0354878",
+      "name": "Creighton Hale",
+      "character": "Stenographer"
+    },
+    {
+      "id": "nm0392912",
+      "name": "Robert Homans",
+      "character": "Policeman"
+    },
+    {
+      "id": "nm0394438",
+      "name": "William Hopper",
+      "character": "Reporter"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 30684,
+  "year": 1941,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZjJhOTcwNGYtZGM3ZS00ZTYzLWJlZDYtMzllYmRkMDI4MjBkXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.9,
+      "votes": 175066,
+      "distribution": {
+        "1": 2190,
+        "2": 843,
+        "3": 1193,
+        "4": 2104,
+        "5": 5015,
+        "6": 12654,
+        "7": 32746,
+        "8": 52424,
+        "9": 34917,
+        "10": 30980
+      },
+      "normalized": 7.2442
+    },
+    "filmweb": {
+      "rating": 7.6,
+      "votes": 23457,
+      "distribution": {
+        "1": 91,
+        "2": 52,
+        "3": 133,
+        "4": 263,
+        "5": 759,
+        "6": 2358,
+        "7": 6512,
+        "8": 8117,
+        "9": 3499,
+        "10": 1673
+      },
+      "normalized": 6.9894
+    },
+    "jarek": {
+      "rating": 8,
+      "date_rated": "05.02.2010",
+      "normalized": 7.8989
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "19.10.2005",
+      "normalized": 7.2292
+    },
+    "score": 7.3404
+  },
+  "polish_title": "Sokół maltański",
+  "silent": false,
+  "description_pl": "Sam Spade (<a href=\"/osoba/?id=nm0000007\">Humphrey Bogart</a>), prywatny detektyw, otrzymuje zlecenie odnalezienia młodszej siostry Ruth Wonderly (<a href=\"/osoba/?id=nm0000802\">Mary Astor</a>). W miarę jak Spade zaczyna zagłębiać się w sprawie, przekonuje się, że jego prawdziwe zlecenie polega na odnalezieniu niewielkiego posągu przedstawiającego sokoła. Rzeźba ta powstała w roku 1539 i była wyrazem hołdu złożonego przez Templariuszy królowi Hiszpanii. W drodze do Hiszpanii galera, która ją przewoziła, została zatopiona przez piratów, a po posągu słuch zaginął. Rzeźba odnajduje się po latach w San Francisco, ale chętnych do jej zdobycia jest wielu.",
+  "producers": [
+    {
+      "id": "nm0087533",
+      "name": "Henry Blanke"
+    },
+    {
+      "id": "nm0909259",
+      "name": "Hal B. Wallis"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006037",
+      "name": "Adolph Deutsch"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0249186",
+      "name": "Arthur Edeson"
+    }
+  ],
+  "fetched_at": "2026-08-15"
+}

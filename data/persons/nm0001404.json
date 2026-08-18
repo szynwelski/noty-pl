@@ -1,0 +1,51 @@
+{
+  "id": "nm0001404",
+  "name": "Madeline Kahn",
+  "filmography": [
+    {
+      "imdb_id": "tt0070510",
+      "title": "Paper Moon",
+      "year": 1973,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Trixie Delight"
+    },
+    {
+      "imdb_id": "tt0072431",
+      "title": "Young Frankenstein",
+      "year": 1974,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Elizabeth"
+    },
+    {
+      "imdb_id": "tt0082517",
+      "title": "History of the World: Part I",
+      "year": 1981,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Empress Nympho"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTkzMDkzMTI0OF5BMl5BanBnXkFtZTcwNTUzOTAxNQ@@._V1_.jpg",
+  "birth_date": "29.09.1942",
+  "death_date": "03.12.1999",
+  "birth_location": "Chelsea, Massachusetts, USA",
+  "height": "1.60 m",
+  "filmweb_id": 47038,
+  "name_pl": "Madeline Kahn",
+  "birth_location_pl": "Boston, Massachusetts",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 47038
+}

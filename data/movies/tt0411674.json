@@ -1,0 +1,232 @@
+{
+  "imdb_id": "tt0411674",
+  "title": "Mondovino",
+  "description": "A documentary on the impact of globalization on the world's different wine regions.",
+  "runtime_minutes": 135,
+  "release_date": "03.11.2004",
+  "genres": [
+    "Documentary"
+  ],
+  "stars": [
+    {
+      "id": "nm1901355",
+      "name": "Albiera Antinori"
+    },
+    {
+      "id": "nm1906402",
+      "name": "Allegra Antinori"
+    },
+    {
+      "id": "nm1899991",
+      "name": "Lodovico Antinori"
+    },
+    {
+      "id": "nm1902904",
+      "name": "Piero Antinori"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0636506",
+      "name": "Jonathan Nossiter"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0636506",
+      "name": "Jonathan Nossiter"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1901355",
+      "name": "Albiera Antinori",
+      "character": "Self"
+    },
+    {
+      "id": "nm1906402",
+      "name": "Allegra Antinori",
+      "character": "Self"
+    },
+    {
+      "id": "nm1899991",
+      "name": "Lodovico Antinori",
+      "character": "Self"
+    },
+    {
+      "id": "nm1902904",
+      "name": "Piero Antinori",
+      "character": "Self"
+    },
+    {
+      "id": "nm1908783",
+      "name": "Isanette Bianchetti",
+      "character": "Self"
+    },
+    {
+      "id": "nm1908775",
+      "name": "Jean-Charles Boisset",
+      "character": "Self"
+    },
+    {
+      "id": "nm1906392",
+      "name": "Marchioness Bona",
+      "character": "Self"
+    },
+    {
+      "id": "nm1784280",
+      "name": "Michael Broadbent",
+      "character": "Self"
+    },
+    {
+      "id": "nm1909112",
+      "name": "Antonio Cabezas",
+      "character": "Self"
+    },
+    {
+      "id": "nm1899650",
+      "name": "Battista Columbu",
+      "character": "Self"
+    },
+    {
+      "id": "nm1902074",
+      "name": "Lina Columbu",
+      "character": "Self"
+    },
+    {
+      "id": "nm1904637",
+      "name": "Xavier de Eizaguirre",
+      "character": "Self"
+    },
+    {
+      "id": "nm1905253",
+      "name": "Alix de Montille",
+      "character": "Self"
+    },
+    {
+      "id": "nm1899919",
+      "name": "Etienne de Montille",
+      "character": "Self"
+    },
+    {
+      "id": "nm1708597",
+      "name": "Hubert de Montille",
+      "character": "Self"
+    },
+    {
+      "id": "nm1908080",
+      "name": "Arnaldo Etchart",
+      "character": "Self (grandfather)"
+    },
+    {
+      "id": "nm1902866",
+      "name": "Marco Etchart",
+      "character": "Self"
+    },
+    {
+      "id": "nm1900025",
+      "name": "Salvatore Ferragamo",
+      "character": "Self"
+    }
+  ],
+  "countries": [
+    "Argentina",
+    "France",
+    "Italy",
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Italian",
+    "Spanish",
+    "Portuguese"
+  ],
+  "color": "Color",
+  "filmweb_id": 169202,
+  "year": 2004,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTY3NzQ3NDI4Ml5BMl5BanBnXkFtZTcwNDQyNjgyMQ@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7,
+      "votes": 1555,
+      "distribution": {
+        "1": 31,
+        "2": 19,
+        "3": 30,
+        "4": 50,
+        "5": 109,
+        "6": 200,
+        "7": 412,
+        "8": 385,
+        "9": 179,
+        "10": 140
+      },
+      "normalized": 5.4769
+    },
+    "filmweb": {
+      "rating": 7.54,
+      "votes": 24,
+      "distribution": {
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 1,
+        "6": 4,
+        "7": 6,
+        "8": 6,
+        "9": 2,
+        "10": 4
+      },
+      "normalized": 5.3024
+    },
+    "michal": {
+      "rating": 3,
+      "date_rated": "19.10.2005",
+      "normalized": 3.8753
+    },
+    "score": 4.8849
+  },
+  "polish_title": "W świecie wina",
+  "silent": false,
+  "description_pl": "Film dokumentalny opowiadający o wpływie globalizacji światowej na różne rejony produkujące wina.",
+  "producers": [
+    {
+      "id": "nm0320776",
+      "name": "Emmanuel Giraud"
+    },
+    {
+      "id": "nm0360492",
+      "name": "Catherine Hannoun"
+    },
+    {
+      "id": "nm0636506",
+      "name": "Jonathan Nossiter"
+    },
+    {
+      "id": "nm0685882",
+      "name": "Juan Pittaluga"
+    },
+    {
+      "id": "nm1187731",
+      "name": "Ricardo Preve"
+    },
+    {
+      "id": "nm0756709",
+      "name": "Michel Saint-Jean"
+    },
+    {
+      "id": "nm1222032",
+      "name": "Tommaso Vergallo"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0636506",
+      "name": "Jonathan Nossiter"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

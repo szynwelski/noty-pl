@@ -1,0 +1,59 @@
+{
+  "id": "nm0001698",
+  "name": "John Savage",
+  "filmography": [
+    {
+      "imdb_id": "tt0077416",
+      "title": "The Deer Hunter",
+      "year": 1978,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Steven"
+    },
+    {
+      "imdb_id": "tt0079261",
+      "title": "Hair",
+      "year": 1979,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Claude"
+    },
+    {
+      "imdb_id": "tt0099674",
+      "title": "The Godfather Part III",
+      "year": 1990,
+      "roles": [
+        "cast"
+      ],
+      "character": "Andrew Hagen"
+    },
+    {
+      "imdb_id": "tt0139462",
+      "title": "Message in a Bottle",
+      "year": 1999,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Johnny Land"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNjY2MDkwNDMyMF5BMl5BanBnXkFtZTgwNjE1NDI2NDM@._V1_.jpg",
+  "birth_location": "Old Bethpage, Long Island, New York, USA",
+  "height": "1.70 m",
+  "imdb_scraped": true,
+  "filmweb_id": 2807,
+  "name_pl": "John Savage",
+  "birth_location_pl": "Old Bethpage, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "birth_date": "25.08.1949",
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 2807
+}

@@ -1,0 +1,99 @@
+{
+  "imdb_id": "tt0000075",
+  "title": "The Conjuring of a Woman at the House of Robert Houdin",
+  "description": "As an elegant maestro of mirage and delusion drapes his beautiful female assistant with a gauzy textile, much to our amazement, the lady vanishes into thin air.",
+  "runtime_minutes": 1,
+  "release_date": "1896",
+  "genres": [
+    "Short",
+    "Horror"
+  ],
+  "stars": [
+    {
+      "id": "nm0194945",
+      "name": "Jehanne d'Alcy"
+    },
+    {
+      "id": "nm0617588",
+      "name": "Georges Méliès"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0617588",
+      "name": "Georges Méliès"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0194945",
+      "name": "Jehanne d'Alcy",
+      "character": "Woman"
+    },
+    {
+      "id": "nm0617588",
+      "name": "Georges Méliès",
+      "character": "Magician"
+    }
+  ],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 96471,
+  "year": 1896,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDhhN2IxMTUtYmQzNy00NTc4LTliNTAtYjdlOGEzNzU1ODliXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Escamotage d'une dame au théâtre Robert Houdin",
+  "ratings": {
+    "imdb": {
+      "rating": 6.3,
+      "votes": 2264,
+      "distribution": {
+        "1": 48,
+        "2": 34,
+        "3": 55,
+        "4": 96,
+        "5": 358,
+        "6": 714,
+        "7": 543,
+        "8": 238,
+        "9": 76,
+        "10": 102
+      },
+      "normalized": 4.406
+    },
+    "filmweb": {
+      "rating": 6.14,
+      "votes": 503,
+      "distribution": {
+        "2": 8,
+        "3": 14,
+        "4": 25,
+        "5": 100,
+        "6": 172,
+        "7": 107,
+        "8": 54,
+        "9": 14,
+        "10": 9
+      },
+      "normalized": 4.2477
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "11.12.2016",
+      "normalized": 5.6855
+    },
+    "score": 4.7797
+  },
+  "polish_title": "Znikająca kobieta",
+  "silent": true,
+  "description_pl": "Krótkometrażowy film <a href=\"/osoba/?id=nm0617588\">Georgesa Meliesa</a>. Nakręcił on scenę, używając techniki zatrzymania nagrania, w której kobieta, pod wpływem czarów magika, zamienia się w szkielet, by po chwili wrócić do swojej pierwotnej postaci.",
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-15"
+}

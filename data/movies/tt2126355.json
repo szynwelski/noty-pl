@@ -1,0 +1,254 @@
+{
+  "imdb_id": "tt2126355",
+  "title": "San Andreas",
+  "description": "In the aftermath of a massive earthquake in California, a rescue-chopper pilot makes a dangerous journey with his ex-wife across the state in order to rescue his daughter.",
+  "runtime_minutes": 114,
+  "release_date": "29.05.2015",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0425005",
+      "name": "Dwayne Johnson"
+    },
+    {
+      "id": "nm0001303",
+      "name": "Carla Gugino"
+    },
+    {
+      "id": "nm1275259",
+      "name": "Alexandra Daddario"
+    },
+    {
+      "id": "nm2686262",
+      "name": "Colton Haynes"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0679031",
+      "name": "Brad Peyton"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0193681",
+      "name": "Carlton Cuse"
+    },
+    {
+      "id": "nm1061002",
+      "name": "Andre Fabrizio"
+    },
+    {
+      "id": "nm0664920",
+      "name": "Jeremy Passmore"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0425005",
+      "name": "Dwayne Johnson",
+      "character": "Raymond Gaines"
+    },
+    {
+      "id": "nm0001303",
+      "name": "Carla Gugino",
+      "character": "Emma Gaines"
+    },
+    {
+      "id": "nm1275259",
+      "name": "Alexandra Daddario",
+      "character": "Blake Gaines"
+    },
+    {
+      "id": "nm0344435",
+      "name": "Ioan Gruffudd",
+      "character": "Daniel Riddick"
+    },
+    {
+      "id": "nm0659544",
+      "name": "Archie Panjabi",
+      "character": "Serena Johnson"
+    },
+    {
+      "id": "nm0316079",
+      "name": "Paul Giamatti",
+      "character": "Dr. Lawrence Hayes"
+    },
+    {
+      "id": "nm3793639",
+      "name": "Hugo Johnstone-Burt",
+      "character": "Ben Taylor"
+    },
+    {
+      "id": "nm3280686",
+      "name": "Art Parkinson",
+      "character": "Ollie Taylor"
+    },
+    {
+      "id": "nm0498449",
+      "name": "Will Yun Lee",
+      "character": "Dr. Kim Park"
+    },
+    {
+      "id": "nm0001541",
+      "name": "Kylie Minogue",
+      "character": "Susan Riddick"
+    },
+    {
+      "id": "nm2686262",
+      "name": "Colton Haynes",
+      "character": "Joby O'Leary"
+    },
+    {
+      "id": "nm0931822",
+      "name": "Todd Williams",
+      "character": "Marcus"
+    },
+    {
+      "id": "nm0313902",
+      "name": "Matt Gerald",
+      "character": "Harrison"
+    },
+    {
+      "id": "nm4110469",
+      "name": "Alec Utgoff",
+      "character": "Alexi"
+    },
+    {
+      "id": "nm4828594",
+      "name": "Marissa Neitling",
+      "character": "Phoebe"
+    },
+    {
+      "id": "nm2515564",
+      "name": "Morgan Griffin",
+      "character": "Natalie"
+    },
+    {
+      "id": "nm3667760",
+      "name": "Breanne Hill",
+      "character": "Larissa"
+    },
+    {
+      "id": "nm0185331",
+      "name": "Laurence Coy",
+      "character": "Elgin"
+    }
+  ],
+  "countries": [
+    "United States",
+    "Canada"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 698052,
+  "year": 2015,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYmQzNDEzMzMtM2U5OS00YTUzLWI2NDYtYjI2NjAyNWE5YzMzXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.1,
+      "votes": 277939,
+      "distribution": {
+        "1": 5778,
+        "2": 5061,
+        "3": 9265,
+        "4": 18684,
+        "5": 41553,
+        "6": 75874,
+        "7": 64214,
+        "8": 29043,
+        "9": 10700,
+        "10": 17767
+      },
+      "normalized": 3.6841
+    },
+    "filmweb": {
+      "rating": 6.0,
+      "votes": 74237,
+      "distribution": {
+        "1": 585,
+        "2": 1258,
+        "3": 4005,
+        "4": 6490,
+        "5": 13585,
+        "6": 20125,
+        "7": 16136,
+        "8": 7682,
+        "9": 2568,
+        "10": 1803
+      },
+      "normalized": 3.3071
+    },
+    "jarek": {
+      "rating": 3,
+      "date_rated": "29.07.2015",
+      "normalized": 4.2591
+    },
+    "score": 3.7501
+  },
+  "polish_title": "San Andreas",
+  "silent": false,
+  "description_pl": "Na skutek przesunięcia, cieszącego się złą sławą, uskoku San Andreas w Kalifornii dochodzi do trzęsienia ziemi o sile 9 stopni w skali Richtera. Pilot helikoptera ratunkowego (<a href=\"/osoba/?id=nm0425005\">Johnson</a>) i jego żona, z którą nie utrzymuje kontaktów, muszą udać się z Los Angeles do San Francisco, aby uratować swoją jedyną córkę. Okazuje się jednak, że karkołomna podróż na północ jest jedynie początkiem, a gdy oboje myślą, że najgorsze już za nimi... jest tylko gorzej.",
+  "producers": [
+    {
+      "id": "nm0075732",
+      "name": "Bruce Berman"
+    },
+    {
+      "id": "nm0107196",
+      "name": "Richard Brener"
+    },
+    {
+      "id": "nm2764991",
+      "name": "Samuel J. Brown"
+    },
+    {
+      "id": "nm0184620",
+      "name": "Rob Cowan"
+    },
+    {
+      "id": "nm1926945",
+      "name": "Michael Disco"
+    },
+    {
+      "id": "nm0256497",
+      "name": "Toby Emmerich"
+    },
+    {
+      "id": "nm0004927",
+      "name": "Beau Flynn"
+    },
+    {
+      "id": "nm1205652",
+      "name": "Hiram Garcia"
+    },
+    {
+      "id": "nm5363473",
+      "name": "Wendy Jacobson"
+    },
+    {
+      "id": "nm1246087",
+      "name": "Tripp Vinson"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0516908",
+      "name": "Andrew Lockington"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0006911",
+      "name": "Steve Yedlin"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

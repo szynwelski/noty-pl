@@ -1,0 +1,37 @@
+{
+  "id": "nm0926101",
+  "name": "Lee Whitlock",
+  "filmography": [
+    {
+      "imdb_id": "tt0795493",
+      "title": "Cassandra's Dream",
+      "year": 2007,
+      "roles": [
+        "cast"
+      ],
+      "character": "Mike"
+    },
+    {
+      "imdb_id": "tt0408236",
+      "title": "Sweeney Todd: The Demon Barber of Fleet Street",
+      "year": 2007,
+      "roles": [
+        "cast"
+      ],
+      "character": "Policeman"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYzFjYzcyN2MtMThmZS00NjdlLTkyMTEtY2RlYTZiNzgzYzA1XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "17.04.1968",
+  "death_date": "17.02.2023",
+  "birth_location": "Hammersmith, London, England, UK",
+  "imdb_scraped": true,
+  "filmweb_id": 70566,
+  "name_pl": "Lee Whitlock",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "imdb_id": "tt0000010",
+  "title": "Leaving the Factory",
+  "description": "Workers leaving the Lumière factory for lunch in Lyon, France in 1895; a place of great photographic innovation and one of the birth places of cinema.",
+  "runtime_minutes": 1,
+  "release_date": "1896",
+  "genres": [
+    "Documentary",
+    "Short"
+  ],
+  "directors": [
+    {
+      "id": "nm0525910",
+      "name": "Louis Lumière"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 31350,
+  "year": 1895,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYjdkY2I3ZDItMmY2MC00ZmU1LTk4NTYtMzcwMWM4MzYzOTA2XkEyXkFqcGc@._V1_.jpg",
+  "original_title": "La sortie de l'usine Lumière à Lyon",
+  "ratings": {
+    "imdb": {
+      "rating": 6.8,
+      "votes": 8418,
+      "distribution": {
+        "1": 121,
+        "2": 114,
+        "3": 111,
+        "4": 222,
+        "5": 1027,
+        "6": 1815,
+        "7": 2344,
+        "8": 1068,
+        "9": 440,
+        "10": 1156
+      },
+      "normalized": 5.1698
+    },
+    "filmweb": {
+      "rating": 7.17,
+      "votes": 5428,
+      "distribution": {
+        "1": 86,
+        "2": 40,
+        "3": 81,
+        "4": 127,
+        "5": 509,
+        "6": 817,
+        "7": 1630,
+        "8": 961,
+        "9": 322,
+        "10": 855
+      },
+      "normalized": 5.9054
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "11.12.2016",
+      "normalized": 7.1247
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "21.10.2007",
+      "normalized": 6.3474
+    },
+    "score": 6.1368
+  },
+  "polish_title": "Wyjście robotników z fabryki",
+  "silent": true,
+  "description_pl": "Pierwszy film w dziejach kinematografii pokazany publicznie, otwierający zestaw 10 filmików braci Lumiere podczas pierwszego płatnego, publicznego pokazu w Salonie Indyjskim Grande Cafe w Paryżu w dniu 28 grudnia 1895 roku, uznawanego za narodziny kina.",
+  "producers": [
+    {
+      "id": "nm0525908",
+      "name": "Auguste Lumière"
+    },
+    {
+      "id": "nm0525910",
+      "name": "Louis Lumière"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0525910",
+      "name": "Louis Lumière"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-15"
+}

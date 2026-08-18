@@ -1,0 +1,145 @@
+{
+  "imdb_id": "tt0052893",
+  "title": "Hiroshima Mon Amour",
+  "description": "A French actress filming an anti-war film in Hiroshima has an affair with a married Japanese architect as they share their differing perspectives on war.",
+  "runtime_minutes": 90,
+  "release_date": "16.05.1960",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0728938",
+      "name": "Emmanuelle Riva"
+    },
+    {
+      "id": "nm0645402",
+      "name": "Eiji Okada"
+    },
+    {
+      "id": "nm0202072",
+      "name": "Stella Dassas"
+    },
+    {
+      "id": "nm0053289",
+      "name": "Pierre Barbaud"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0720297",
+      "name": "Alain Resnais"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0243921",
+      "name": "Marguerite Duras"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0728938",
+      "name": "Emmanuelle Riva",
+      "character": "Elle"
+    },
+    {
+      "id": "nm0645402",
+      "name": "Eiji Okada",
+      "character": "Lui"
+    },
+    {
+      "id": "nm0202072",
+      "name": "Stella Dassas",
+      "character": "Mother"
+    },
+    {
+      "id": "nm0053289",
+      "name": "Pierre Barbaud",
+      "character": "Father"
+    },
+    {
+      "id": "nm0294401",
+      "name": "Bernard Fresson",
+      "character": "German Lover"
+    },
+    {
+      "id": "nm0514263",
+      "name": "Moira Lister",
+      "character": "(Dubbed Emmanuelle Riva)"
+    }
+  ],
+  "countries": [
+    "France",
+    "Japan"
+  ],
+  "languages": [
+    "French",
+    "Japanese",
+    "English"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 32062,
+  "year": 1959,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzY2NTA1MzUwN15BMl5BanBnXkFtZTgwOTc4NTU4MjE@._V1_.jpg",
+  "original_title": "Hiroshima mon amour",
+  "ratings": {
+    "imdb": {
+      "rating": 7.8,
+      "votes": 39726,
+      "distribution": {
+        "1": 464,
+        "2": 308,
+        "3": 379,
+        "4": 738,
+        "5": 1497,
+        "6": 3418,
+        "7": 7288,
+        "8": 11105,
+        "9": 7433,
+        "10": 7096
+      },
+      "normalized": 6.9349
+    },
+    "filmweb": {
+      "rating": 7.78,
+      "votes": 11139,
+      "distribution": {
+        "1": 37,
+        "2": 22,
+        "3": 94,
+        "4": 166,
+        "5": 410,
+        "6": 859,
+        "7": 2369,
+        "8": 3820,
+        "9": 2319,
+        "10": 1043
+      },
+      "normalized": 7.4806
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "19.10.2005",
+      "normalized": 7.2292
+    },
+    "score": 7.2149
+  },
+  "polish_title": "Hiroszima, moja miłość",
+  "silent": false,
+  "description_pl": "Do Hiroshimy na zdjęcia filmowe przyjeżdża francuska aktorka. Tuż przed powrotem spotyka starszego o dwa lata japońskiego architekta. Nawiązują romans, podczas którego wspominają drugą wojnę. Dla niego największym przeżyciem była bomba atomowa, która zabiła jego rodziców, gdy on był na wojnie. Ona podczas wojny zakochała się w młodym Niemcu, zabitym w przeddzień pokoju...",
+  "producers": [
+    {
+      "id": "nm0202367",
+      "name": "Anatole Dauman"
+    },
+    {
+      "id": "nm0355150",
+      "name": "Samy Halfon"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

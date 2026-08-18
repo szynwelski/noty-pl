@@ -1,0 +1,44 @@
+{
+  "id": "nm0303132",
+  "name": "Tom Gallop",
+  "filmography": [
+    {
+      "imdb_id": "tt0212720",
+      "title": "A.I. Artificial Intelligence",
+      "year": 2001,
+      "roles": [
+        "cast"
+      ],
+      "character": "Supernerd"
+    },
+    {
+      "imdb_id": "tt0372183",
+      "title": "The Bourne Supremacy",
+      "year": 2004,
+      "roles": [
+        "cast"
+      ],
+      "character": "Tom Cronin"
+    },
+    {
+      "imdb_id": "tt0440963",
+      "title": "The Bourne Ultimatum",
+      "year": 2007,
+      "roles": [
+        "cast"
+      ],
+      "character": "Tom Cronin"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDA1ZjY5MDYtNGIxNC00N2Y1LTg4Y2MtNzE4ZjViMjVmYTdmXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "17.08.1966",
+  "birth_location": "Rockford, Michigan, USA",
+  "filmweb_id": 102781,
+  "name_pl": "Tom Gallop",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

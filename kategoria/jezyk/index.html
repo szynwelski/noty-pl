@@ -1,0 +1,485 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🎬</text></svg>">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Języki — Noty</title>
+  <link rel="stylesheet" href="../../static/style.css">
+  <script src="../../static/translations.js"></script>
+  <script src="../../static/tooltip.js"></script>
+</head>
+<body>
+  <nav>
+    <a class="logo" href="/">no<span>ty</span></a>
+    <a class="nav-link" href="/">Filmy</a>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Osoby <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/osoba/rezyser/">Reżyserzy</a>
+        <a href="/osoba/scenarzysta/">Scenarzyści</a>
+        <a href="/osoba/gwiazda/">Gwiazdy</a>
+        <a href="/osoba/aktor/">Aktorzy</a>
+        <a href="/osoba/kompozytor/">Kompozytorzy</a>
+        <a href="/osoba/operator/">Operatorzy</a>
+        <a href="/osoba/producent/">Producenci</a>
+        <a href="/osoba/wszechstronna/">Wszechstronni</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Krytycy <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/krytyk/jarek/">Jarek</a>
+        <a href="/krytyk/michal/">Michał</a>
+        <a href="/krytyk/imdb/">IMDb</a>
+        <a href="/krytyk/filmweb/">Filmweb</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Kategorie <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/kategoria/gatunek/">Gatunki</a>
+        <a href="/kategoria/kraj/">Kraje</a>
+        <a href="/kategoria/jezyk/">Języki</a>
+        <a href="/kategoria/dekada/">Dekady</a>
+        <a href="/kategoria/rok/">Lata</a>
+        <a href="/kategoria/czas/">Czas trwania</a>
+        <a href="/kategoria/popularnosc/">Popularność</a>
+        <hr>
+        <a href="/kategoria/plec/">Płeć</a>
+        <a href="/kategoria/obywatelstwo/">Obywatelstwo</a>
+        <a href="/kategoria/urodzenie/">Urodzenie</a>
+        <a href="/kategoria/wiek/">Wiek</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Statystyki <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/statystyki/podsumowanie/">Podsumowanie</a>
+        <a href="/statystyki/rekordy/">Rekordy</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Metodologia <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/metodologia/filmy/">Filmy</a>
+        <a href="/metodologia/osoby/">Osoby</a>
+        <a href="/metodologia/kategorie-filmow/">Kategorie filmów</a>
+        <a href="/metodologia/kategorie-osob/">Kategorie osób</a>
+      </div>
+    </div>
+    <button id="search-global-btn" class="nav-search-btn" title="Szukaj (⌘K)">
+      <svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+    </button>
+  </nav>
+  <div id="search-modal" class="search-modal">
+    <div id="search-modal-backdrop" class="search-modal-backdrop"></div>
+    <div class="search-modal-box">
+      <div class="search-modal-header">
+        <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink:0;color:var(--muted)"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        <input id="search-modal-input" class="search-modal-input" type="text" placeholder="Szukaj filmów i osób…" autocomplete="off" spellcheck="false">
+        <kbd class="search-modal-esc">Esc</kbd>
+      </div>
+      <div id="search-modal-results" class="search-modal-results"></div>
+    </div>
+  </div>
+  <script src="/static/search.js"></script>
+
+  <div id="tooltip"></div>
+  <div class="container">
+    <h1>Języki <a href="/metodologia/kategorie-filmow/" title="Jak obliczana jest ocena?" style="font-size:.7rem;font-weight:400;color:var(--muted);border:1px solid var(--border);border-radius:50%;padding:.1em .5em;vertical-align:middle;text-decoration:none;margin-left:.4rem">?</a></h1>
+
+    <div id="loading">Ładowanie…</div>
+    <div id="content" style="display:none">
+      <div class="search-bar" style="margin-bottom:1rem">
+        <select id="filter-genre"   class="filter-select"><option value="">Gatunek</option></select>
+        <select id="filter-country" class="filter-select"><option value="">Kraj</option></select>
+        <select id="filter-decade"  class="filter-select"><option value="">Dekada</option></select>
+        <span class="count" id="count"></span>
+      </div>
+      <p class="muted" id="summary"></p>
+      <table>
+        <thead>
+          <tr>
+            <th data-col="jezyk">Język</th>
+            <th class="num sorted" data-col="filmy" data-dir="-1">Filmów</th>
+            <th class="num" data-col="ocena">Ocena</th>
+            <th class="num" data-col="jarek">Jarek</th>
+            <th class="num" data-col="michal">Michał</th>
+            <th class="num" data-col="imdb">IMDb</th>
+            <th class="num" data-col="filmweb">Filmweb</th>
+          </tr>
+        </thead>
+        <tbody id="tbody"></tbody>
+      </table>
+
+      <h2 style="margin-top:2.5rem">Współwystępowanie języków</h2>
+      <p class="muted">Top 15 języków. Kolor komórki = liczba filmów z obydwoma językami.</p>
+      <div id="heatmap-wrap" style="overflow-x:auto;margin-top:0.25rem"></div>
+    </div>
+  </div>
+  <script>
+    const SRCS       = ['jarek', 'michal', 'imdb', 'filmweb'];
+    const COL_LABELS = { ocena: 'Ocena', jarek: 'Jarek', michal: 'Michał', imdb: 'IMDb', filmweb: 'Filmweb' };
+    const COL_DEC    = { ocena: 2, jarek: 1, michal: 1, imdb: 2, filmweb: 2 };
+    const BAYES_AVG_M = 10;
+
+
+    function cell(val, src) {
+      return val != null
+        ? `<span class="${scoreClass(val)}">${Number(val).toFixed(COL_DEC[src])}</span>`
+        : '<span class="muted">—</span>';
+    }
+
+    function avg(arr) {
+      return arr.length ? arr.reduce((s, v) => s + v, 0) / arr.length : null;
+    }
+
+    function bayesianAvg(scores, globalMean) {
+      const n = scores.length;
+      if (!n) return null;
+      return (scores.reduce((s, v) => s + v, 0) + BAYES_AVG_M * globalMean) / (n + BAYES_AVG_M);
+    }
+
+    function buildItemTip(top5) {
+      const rows = top5.map(m =>
+        `<tr>
+          <td><a href="/film/?id=${m.id}" class="meta-link" style="color:inherit">${m.title}</a>
+              ${m.year ? `<span class="muted" style="font-size:.78rem"> (${m.year})</span>` : ''}</td>
+          <td><span class="${scoreClass(m.score)}">${fmt(m.score)}</span></td>
+        </tr>`
+      ).join('');
+      return `<div class="tip-title">Top 5</div><table>${rows}</table>`;
+    }
+
+    function buildSrcTip(src, r) {
+      const d = r._src[src];
+      if (!d || d.avg == null) return '';
+      const dec = COL_DEC[src];
+      const rk = d.rank != null ? ` <span class="tip-rank">#${d.rank} <span style="opacity:.65">z ${d.total}</span></span>` : '';
+      return `<div class="tip-title">${COL_LABELS[src]}</div>` +
+        `<div class="tip-main-val">${Number(d.avg).toFixed(dec)}${rk}</div>` +
+        _tipRows([['Filmów', String(d.count)]]);
+    }
+
+    function filmListUrl(base) {
+      const p = new URLSearchParams(base);
+      const fg = document.getElementById('filter-genre')?.value;
+      const fc = document.getElementById('filter-country')?.value;
+      if (fg) p.set('gatunek', GENRES[fg]    || fg);
+      if (fc) p.set('kraj',    COUNTRIES[fc] || fc);
+      return '/?' + p.toString();
+    }
+
+    let allMovies = [], rows = [], sortCol = 'filmy', sortDir = -1;
+
+    function render() {
+      const sorted = [...rows].sort((a, b) => {
+        const av = a[sortCol], bv = b[sortCol];
+        if (sortCol === 'jezyk') return (av || '').localeCompare(bv || '', 'pl') * sortDir;
+        if (av == null && bv == null) return 0;
+        if (av == null) return 1;
+        if (bv == null) return -1;
+        return (av - bv) * sortDir;
+      });
+
+      const tbody = document.getElementById('tbody');
+      tbody.innerHTML = sorted.map(r => `
+        <tr data-key="${r.jezykKey}">
+          <td class="item-cell" data-idx="${r._idx}"><a href="${filmListUrl({jezyk: r.jezyk})}" class="meta-link">${r.jezyk}</a></td>
+          <td class="num">${r.filmy}</td>
+          <td class="num avg-cell" data-idx="${r._idx}" data-src="ocena">${cell(r.ocena, 'ocena')}</td>
+          <td class="num avg-cell" data-idx="${r._idx}" data-src="jarek">${cell(r.jarek, 'jarek')}</td>
+          <td class="num avg-cell" data-idx="${r._idx}" data-src="michal">${cell(r.michal, 'michal')}</td>
+          <td class="num avg-cell" data-idx="${r._idx}" data-src="imdb">${cell(r.imdb, 'imdb')}</td>
+          <td class="num avg-cell" data-idx="${r._idx}" data-src="filmweb">${cell(r.filmweb, 'filmweb')}</td>
+        </tr>`
+      ).join('');
+
+      tbody.querySelectorAll('.item-cell').forEach(td => {
+        const r = rows[+td.dataset.idx];
+        if (r.top5.length) attachTip(td, () => buildItemTip(r.top5));
+      });
+      tbody.querySelectorAll('.avg-cell').forEach(td => {
+        const r = rows[+td.dataset.idx];
+        const src = td.dataset.src;
+        if (src === 'ocena') {
+          if (r.ocena != null) attachTip(td, () =>
+            `<div class="tip-title">Ocena</div>` +
+            `<div class="tip-main-val">${Number(r.ocena).toFixed(2)}${r._avgRank ? ` <span class="tip-rank">#${r._avgRank} <span style="opacity:.65">z ${rows.length}</span></span>` : ''}</div>` +
+            _tipRows([['Filmów', String(r._src.ocena.count)]])
+          );
+        } else {
+          if (r._src[src]?.avg != null) attachTip(td, () => buildSrcTip(src, r));
+        }
+      });
+
+      document.getElementById('count').textContent = `${rows.length} języków`;
+    }
+
+    // ── Heatmapa ──────────────────────────────────────────────────────────────
+
+    function renderHeatmap(coOccur, byItem) {
+      const N = 15;
+      const CELL = 46, HEADER_H = 160;
+      const top = Object.entries(byItem)
+        .sort((a, b) => b[1].count - a[1].count)
+        .slice(0, N).map(([k]) => k);
+
+      const val = (i, j) => {
+        if (i === j) return -1;
+        return coOccur[[top[i], top[j]].sort().join('\0')] || 0;
+      };
+      let maxVal = 0;
+      for (let i = 0; i < N; i++)
+        for (let j = 0; j < N; j++)
+          if (i !== j) maxVal = Math.max(maxVal, val(i, j));
+
+      const wrap = document.getElementById('heatmap-wrap');
+      wrap.innerHTML = '';
+      const grid = document.createElement('div');
+      grid.style.cssText = `display:grid;grid-template-columns:max-content repeat(${N},${CELL}px);width:fit-content;font-size:.72rem`;
+
+      const corner = document.createElement('div');
+      corner.style.cssText = `height:${HEADER_H}px`;
+      grid.appendChild(corner);
+      top.forEach(k => {
+        const c = document.createElement('div');
+        c.style.cssText = `width:${CELL}px;height:${HEADER_H}px;overflow:hidden;display:flex;align-items:flex-end;justify-content:center;padding-bottom:10px`;
+        const span = document.createElement('span');
+        span.style.cssText = `writing-mode:vertical-rl;transform:rotate(180deg);font-weight:500;white-space:nowrap;overflow:hidden;max-height:${HEADER_H}px`;
+        span.textContent = LANGUAGES[k] || k;
+        c.appendChild(span);
+        grid.appendChild(c);
+      });
+
+      top.forEach((ka, i) => {
+        const label = document.createElement('div');
+        label.style.cssText = `display:flex;align-items:center;justify-content:flex-end;padding-right:.5rem;font-weight:500;white-space:nowrap;height:${CELL}px`;
+        label.textContent = LANGUAGES[ka] || ka;
+        grid.appendChild(label);
+        top.forEach((kb, j) => {
+          const td = document.createElement('div');
+          td.style.cssText = `width:${CELL}px;height:${CELL}px`;
+          if (i === j) {
+            td.style.background = 'var(--border)';
+          } else {
+            const v = val(i, j);
+            td.style.background = `hsla(220,65%,50%,${(v / maxVal * 0.85 + 0.05).toFixed(3)})`;
+            attachTip(td, () =>
+              `<div class="tip-title">${LANGUAGES[ka]||ka} × ${LANGUAGES[kb]||kb}</div>` +
+              `<div class="tip-main-val">${v} filmów</div>`
+            );
+          }
+          grid.appendChild(td);
+        });
+      });
+
+      wrap.appendChild(grid);
+    }
+
+    // ── Obliczenia ────────────────────────────────────────────────────────────
+
+    function computeStats(movies) {
+      const globalSrc = {};
+      for (const src of SRCS) {
+        const all = movies.flatMap(m => { const v = m.ratings?.[src]?.rating; return v != null ? [v] : []; });
+        globalSrc[src] = avg(all) || 0;
+      }
+      const allScores = movies.flatMap(m => m.score != null ? [m.score] : []);
+      const globalAvg = avg(allScores) || 0;
+
+      const byItem = {}, coOccur = {};
+      for (const m of movies) {
+        const ks = m.languages || [];
+        for (const k of ks) {
+          if (!byItem[k]) byItem[k] = { count: 0, scores: [], films: [], src: {} };
+          const d = byItem[k];
+          d.count++;
+          if (m.score != null) {
+            d.scores.push(m.score);
+            d.films.push({ id: m.id, title: m.polish_title || m.title, year: m.year, score: m.score });
+          }
+          for (const src of SRCS) {
+            const v = m.ratings?.[src]?.rating;
+            if (v != null) {
+              if (!d.src[src]) d.src[src] = [];
+              d.src[src].push(v);
+            }
+          }
+        }
+        for (let i = 0; i < ks.length; i++)
+          for (let j = i+1; j < ks.length; j++) {
+            const key = [ks[i], ks[j]].sort().join('\0');
+            coOccur[key] = (coOccur[key] || 0) + 1;
+          }
+      }
+
+      rows = Object.entries(byItem).map(([k, d], i) => {
+        const srcStats = {};
+        for (const src of SRCS) {
+          const vals = d.src[src] || [];
+          if (!vals.length) continue;
+          srcStats[src] = { avg: bayesianAvg(vals, globalSrc[src]), count: vals.length };
+        }
+        return {
+          _idx:     i,
+          jezykKey: k,
+          jezyk:    LANGUAGES[k] || k,
+          filmy:    d.count,
+          ocena:    bayesianAvg(d.scores, globalAvg),
+          jarek:    srcStats.jarek?.avg   ?? null,
+          michal:   srcStats.michal?.avg  ?? null,
+          imdb:     srcStats.imdb?.avg    ?? null,
+          filmweb:  srcStats.filmweb?.avg ?? null,
+          top5:     [...d.films].sort((a, b) => b.score - a.score).slice(0, 5),
+          _src:     { ocena: { count: d.scores.length }, ...srcStats },
+        };
+      });
+
+      const allCols = ['ocena', ...SRCS];
+      for (const col of allCols) {
+        const ranked = [...rows].filter(r => r[col] != null).sort((a, b) => b[col] - a[col]);
+        ranked.forEach((r, i) => {
+          if (col === 'ocena') r._avgRank = i + 1;
+          else { r._src[col].rank = i+1; r._src[col].total = ranked.length; }
+        });
+      }
+
+      return { byItem, coOccur };
+    }
+
+    // ── Filtry ────────────────────────────────────────────────────────────────
+
+    function buildFilters() {
+      const genres = {}, countries = {}, decades = {};
+      allMovies.forEach(m => {
+        (m.genres    || []).forEach(g => { genres[g]    = (genres[g]    || 0) + 1; });
+        (m.countries || []).forEach(c => { countries[c] = (countries[c] || 0) + 1; });
+        if (m.year) { const d = Math.floor(m.year / 10) * 10; decades[d] = (decades[d] || 0) + 1; }
+      });
+      [
+        { id: 'filter-genre',   freq: genres,    dict: GENRES,    label: 'Gatunek' },
+        { id: 'filter-country', freq: countries, dict: COUNTRIES, label: 'Kraj' },
+      ].forEach(({ id, freq, dict, label }) => {
+        const sel = document.getElementById(id);
+        const cur = sel.value;
+        sel.innerHTML = `<option value="">${label}</option>`;
+        Object.entries(freq).sort((a, b) => b[1] - a[1]).forEach(([val]) => {
+          const opt = document.createElement('option');
+          opt.value = val;
+          opt.textContent = dict[val] || val;
+          sel.appendChild(opt);
+        });
+        if (cur) sel.value = cur;
+        sel.onchange = refresh;
+      });
+      const decSel = document.getElementById('filter-decade');
+      const decCur = decSel.value;
+      decSel.innerHTML = '<option value="">Dekada</option>';
+      Object.keys(decades).map(Number).sort((a, b) => a - b).forEach(d => {
+        const opt = document.createElement('option');
+        opt.value = d;
+        opt.textContent = String(d) + '.';
+        decSel.appendChild(opt);
+      });
+      if (decCur) decSel.value = decCur;
+      decSel.onchange = refresh;
+    }
+
+    function filteredMovies() {
+      const fg = document.getElementById('filter-genre')?.value;
+      const fc = document.getElementById('filter-country')?.value;
+      const fd = document.getElementById('filter-decade')?.value;
+      return allMovies.filter(m => {
+        if (fg && !(m.genres    || []).includes(fg)) return false;
+        if (fc && !(m.countries || []).includes(fc)) return false;
+        if (fd && !(m.year >= +fd && m.year < +fd + 10)) return false;
+        return true;
+      });
+    }
+
+    function syncUrl() {
+      const fg = document.getElementById('filter-genre')?.value;
+      const fc = document.getElementById('filter-country')?.value;
+      const fd = document.getElementById('filter-decade')?.value;
+      const p = new URLSearchParams();
+      if (fg) p.set('gatunek', GENRES[fg]    || fg);
+      if (fc) p.set('kraj',    COUNTRIES[fc] || fc);
+      if (fd) p.set('dekada',  fd);
+      if (sortCol !== 'filmy' || sortDir !== -1) {
+        p.set('sortuj', sortCol);
+        if (sortDir === 1) p.set('kier', 'rosnaco');
+      }
+      history.replaceState(null, '', p.toString() ? '?' + p.toString() : location.pathname);
+    }
+
+    function refresh() {
+      syncUrl();
+      const movies = filteredMovies();
+      const { byItem, coOccur } = computeStats(movies);
+      document.getElementById('summary').textContent = `${rows.length} języków · ${movies.length} filmów`;
+      render();
+      renderHeatmap(coOccur, byItem);
+    }
+
+    // ── Ładowanie danych ──────────────────────────────────────────────────────
+
+    fetch('../../data/movies_index.json')
+      .then(r => r.json())
+      .then(movies => {
+        allMovies = movies;
+        buildFilters();
+
+        const urlP = new URLSearchParams(location.search);
+        const pg = urlP.get('gatunek'), pc = urlP.get('kraj'), pd = urlP.get('dekada');
+        const revG = Object.fromEntries(Object.entries(GENRES).map(([k,v])=>[v,k]));
+        const revC = Object.fromEntries(Object.entries(COUNTRIES).map(([k,v])=>[v,k]));
+        if (pg) document.getElementById('filter-genre').value   = revG[pg] || pg;
+        if (pc) document.getElementById('filter-country').value = revC[pc] || pc;
+        if (pd) document.getElementById('filter-decade').value  = pd;
+        const ps = urlP.get('sortuj');
+        if (ps) {
+          sortCol = ps;
+          sortDir = urlP.get('kier') === 'rosnaco' ? 1 : -1;
+          document.querySelectorAll('th[data-col]').forEach(t => { t.classList.remove('sorted'); t.removeAttribute('data-dir'); });
+          const th = document.querySelector(`th[data-col="${ps}"]`);
+          if (th) { th.classList.add('sorted'); th.dataset.dir = String(sortDir); }
+        }
+
+        document.getElementById('loading').style.display = 'none';
+        document.getElementById('content').style.display = '';
+        refresh();
+
+        const hlKey = urlP.get('zaznacz');
+        if (hlKey) {
+          setTimeout(() => {
+            let target = null;
+            document.querySelectorAll('tr[data-key]').forEach(tr => { if (tr.dataset.key === hlKey) target = tr; });
+            if (target) {
+              target.scrollIntoView({ behavior: 'smooth', block: 'center' });
+              setTimeout(() => { void target.offsetHeight; target.classList.add('row-highlight'); }, 600);
+            }
+          }, 0);
+        }
+      })
+      .catch(err => {
+        document.getElementById('loading').textContent = 'Błąd: ' + err.message;
+        console.error(err);
+      });
+
+    document.querySelectorAll('th[data-col]').forEach(th => {
+      th.addEventListener('click', () => {
+        const col = th.dataset.col;
+        sortDir = sortCol === col ? sortDir * -1 : (col === 'jezyk' ? 1 : -1);
+        sortCol = col;
+        document.querySelectorAll('th').forEach(t => { t.classList.remove('sorted'); delete t.dataset.dir; });
+        th.classList.add('sorted');
+        th.dataset.dir = String(sortDir);
+        syncUrl();
+        render();
+      });
+    });
+  </script>
+</body>
+</html>

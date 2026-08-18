@@ -1,0 +1,229 @@
+{
+  "imdb_id": "tt0104348",
+  "title": "Glengarry Glen Ross",
+  "description": "An examination of the machinations behind the scenes at a real estate office. Unscrupulous salesmen try to hawk dubious real estate to suckers.",
+  "runtime_minutes": 100,
+  "release_date": "02.10.1992",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "stars": [
+    {
+      "id": "nm0000199",
+      "name": "Al Pacino"
+    },
+    {
+      "id": "nm0000493",
+      "name": "Jack Lemmon"
+    },
+    {
+      "id": "nm0000285",
+      "name": "Alec Baldwin"
+    },
+    {
+      "id": "nm0000273",
+      "name": "Alan Arkin"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001226",
+      "name": "James Foley"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000519",
+      "name": "David Mamet"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000199",
+      "name": "Al Pacino",
+      "character": "Ricky Roma"
+    },
+    {
+      "id": "nm0000493",
+      "name": "Jack Lemmon",
+      "character": "Shelley Levene"
+    },
+    {
+      "id": "nm0000285",
+      "name": "Alec Baldwin",
+      "character": "Blake"
+    },
+    {
+      "id": "nm0000273",
+      "name": "Alan Arkin",
+      "character": "George Aaronow"
+    },
+    {
+      "id": "nm0000438",
+      "name": "Ed Harris",
+      "character": "Dave Moss"
+    },
+    {
+      "id": "nm0000228",
+      "name": "Kevin Spacey",
+      "character": "John Williamson"
+    },
+    {
+      "id": "nm0000596",
+      "name": "Jonathan Pryce",
+      "character": "James Lingk"
+    },
+    {
+      "id": "nm0022883",
+      "name": "Bruce Altman",
+      "character": "Mr. Spannel"
+    },
+    {
+      "id": "nm0161980",
+      "name": "Jude Ciccolella",
+      "character": "Detective"
+    },
+    {
+      "id": "nm0125084",
+      "name": "Paul Butler",
+      "character": "Policeman"
+    },
+    {
+      "id": "nm0157937",
+      "name": "Lori Tan Chinn",
+      "character": "Coat Check Girl"
+    },
+    {
+      "id": "nm0428925",
+      "name": "Neal Jones",
+      "character": "Man in Donut Shop"
+    },
+    {
+      "id": "nm0744028",
+      "name": "Barry Rohrssen",
+      "character": "Assistant Detective"
+    },
+    {
+      "id": "nm0294135",
+      "name": "Leigh French",
+      "character": "Additional Voice"
+    },
+    {
+      "id": "nm0156475",
+      "name": "George Cheung",
+      "character": "Additional Voice"
+    },
+    {
+      "id": "nm0242886",
+      "name": "Murphy Dunne",
+      "character": "Additional Voice"
+    },
+    {
+      "id": "nm0497086",
+      "name": "Dana Lee",
+      "character": "Additional Voice"
+    },
+    {
+      "id": "nm0668372",
+      "name": "Julie Payne",
+      "character": "Additional Voice"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 1248,
+  "year": 1992,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BM2Q5NDA1ODctNmM4Yy00Yjk4LTg2ZTUtZTJjYzYyMjA2MTdmXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.6,
+      "votes": 126859,
+      "distribution": {
+        "1": 1134,
+        "2": 671,
+        "3": 1075,
+        "4": 1901,
+        "5": 4475,
+        "6": 11425,
+        "7": 28352,
+        "8": 39867,
+        "9": 21451,
+        "10": 16508
+      },
+      "normalized": 6.6066
+    },
+    "filmweb": {
+      "rating": 7.2,
+      "votes": 14033,
+      "distribution": {
+        "1": 85,
+        "2": 46,
+        "3": 149,
+        "4": 274,
+        "5": 813,
+        "6": 2052,
+        "7": 4480,
+        "8": 4182,
+        "9": 1369,
+        "10": 583
+      },
+      "normalized": 5.9865
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "07.05.2016",
+      "normalized": 5.4199
+    },
+    "score": 6.0043
+  },
+  "polish_title": "Glengarry Glen Ross",
+  "silent": false,
+  "description_pl": "W biurze podupadającej firmy handlującej nieruchomościami, \"Premiere Properties\", czterech długoletnich agentów zostaje poddanych ciężkiej próbie. Pewnego dnia zjawia się przysłany przez szefostwo młody, energiczny i pewny siebie doradca Blake (<a href=\"/osoba/?id=nm0000285\">Alec Baldwin</a>), który stawia ultimatum niewydajnym w ostatnich czasach pracownikom. Albo przystąpią do konkursu na najlepsze wyniki sprzedaży i zrealizują stare niechodliwe zlecenia - za co można dostać w nagrodę cadillaca - albo grozi im zwolnienie z pracy.",
+  "producers": [
+    {
+      "id": "nm0135847",
+      "name": "Joseph M. Caracciolo Jr."
+    },
+    {
+      "id": "nm0505685",
+      "name": "Nava Levin"
+    },
+    {
+      "id": "nm0646908",
+      "name": "Karen L. Oliver"
+    },
+    {
+      "id": "nm0750830",
+      "name": "Morris Ruskin"
+    },
+    {
+      "id": "nm0865774",
+      "name": "Jerry Tokofsky"
+    },
+    {
+      "id": "nm0958726",
+      "name": "Stanley R. Zupnik"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006133",
+      "name": "James Newton Howard"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005851",
+      "name": "Juan Ruiz Anchía"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

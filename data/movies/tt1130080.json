@@ -1,0 +1,247 @@
+{
+  "imdb_id": "tt1130080",
+  "title": "The Informant!",
+  "description": "The U.S. government decides to go after an agro-business giant with a price-fixing accusation, based on the evidence submitted by their star witness, vice president-turned-informant Mark Whitacre.",
+  "runtime_minutes": 108,
+  "release_date": "18.09.2009",
+  "genres": [
+    "Biography",
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0000354",
+      "name": "Matt Damon"
+    },
+    {
+      "id": "nm0355024",
+      "name": "Tony Hale"
+    },
+    {
+      "id": "nm0652663",
+      "name": "Patton Oswalt"
+    },
+    {
+      "id": "nm3488879",
+      "name": "Lucas McHugh Carroll"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001752",
+      "name": "Steven Soderbergh"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1994243",
+      "name": "Scott Z. Burns"
+    },
+    {
+      "id": "nm1141272",
+      "name": "Kurt Eichenwald"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000354",
+      "name": "Matt Damon",
+      "character": "Mark Whitacre"
+    },
+    {
+      "id": "nm0355024",
+      "name": "Tony Hale",
+      "character": "James Epstein"
+    },
+    {
+      "id": "nm0652663",
+      "name": "Patton Oswalt",
+      "character": "Ed Herbst"
+    },
+    {
+      "id": "nm3488879",
+      "name": "Lucas McHugh Carroll",
+      "character": "Alexander Whitacre"
+    },
+    {
+      "id": "nm0420646",
+      "name": "Eddie Jemison",
+      "character": "Kirk Schmidt"
+    },
+    {
+      "id": "nm0005404",
+      "name": "Rusty Schwimmer",
+      "character": "Liz Taylor"
+    },
+    {
+      "id": "nm1575801",
+      "name": "Craig Ricci Shaynak",
+      "character": "Discouraged Foreman"
+    },
+    {
+      "id": "nm1166844",
+      "name": "Tom Papa",
+      "character": "Mick Andreas"
+    },
+    {
+      "id": "nm0653959",
+      "name": "Rick Overton",
+      "character": "Terry Wilson"
+    },
+    {
+      "id": "nm0001491",
+      "name": "Melanie Lynskey",
+      "character": "Ginger Whitacre"
+    },
+    {
+      "id": "nm0001855",
+      "name": "Tom Wilson",
+      "character": "Mark Cheviron"
+    },
+    {
+      "id": "nm0000836",
+      "name": "Scott Bakula",
+      "character": "FBI Special Agent Brian Shepard"
+    },
+    {
+      "id": "nm0012523",
+      "name": "Scott Adsit",
+      "character": "Sid Hulse"
+    },
+    {
+      "id": "nm0235652",
+      "name": "Ann Dowd",
+      "character": "FBI Special Agent Kate Medford"
+    },
+    {
+      "id": "nm0369838",
+      "name": "Allan Havey",
+      "character": "FBI Special Agent Dean Paisley"
+    },
+    {
+      "id": "nm2042790",
+      "name": "Howie Johnson",
+      "character": "Rusty Williams"
+    },
+    {
+      "id": "nm0570364",
+      "name": "Joel McHale",
+      "character": "FBI Special Agent Bob Herndon"
+    },
+    {
+      "id": "nm3599639",
+      "name": "Nick Craig",
+      "character": "Kid at Pool #1"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "color": null,
+  "filmweb_id": 465727,
+  "year": 2009,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTgyNjE1OTc4Ml5BMl5BanBnXkFtZTgwNjc4MTA3MjI@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.5,
+      "votes": 70174,
+      "distribution": {
+        "1": 1179,
+        "2": 829,
+        "3": 1444,
+        "4": 3143,
+        "5": 7783,
+        "6": 18800,
+        "7": 22118,
+        "8": 10150,
+        "9": 2600,
+        "10": 2128
+      },
+      "normalized": 4.5154
+    },
+    "filmweb": {
+      "rating": 6.05,
+      "votes": 6942,
+      "distribution": {
+        "1": 58,
+        "2": 55,
+        "3": 255,
+        "4": 441,
+        "5": 1258,
+        "6": 2150,
+        "7": 1927,
+        "8": 636,
+        "9": 106,
+        "10": 56
+      },
+      "normalized": 3.4828
+    },
+    "jarek": {
+      "rating": 2,
+      "date_rated": "01.11.2011",
+      "normalized": 3.5003
+    },
+    "score": 3.8328
+  },
+  "polish_title": "Intrygant",
+  "silent": false,
+  "description_pl": "FBI dostaje zawiadomienie o poważnych nadużyciach dotyczących ustalania cen w gigantycznej korporacji spożywczej. W trakcie śledztwa okazuje się jednak, że informator ma we współpracy swój cel. Nie wzbudzając jakichkolwiek podejrzeń, zdefraudował miliony firmowych pieniędzy...",
+  "producers": [
+    {
+      "id": "nm0105946",
+      "name": "Howard Braunstein"
+    },
+    {
+      "id": "nm0000123",
+      "name": "George Clooney"
+    },
+    {
+      "id": "nm1141272",
+      "name": "Kurt Eichenwald"
+    },
+    {
+      "id": "nm0289048",
+      "name": "Jennifer Fox"
+    },
+    {
+      "id": "nm0414423",
+      "name": "Gregory Jacobs"
+    },
+    {
+      "id": "nm0415468",
+      "name": "Michael Jaffe"
+    },
+    {
+      "id": "nm0518757",
+      "name": "Michael London"
+    },
+    {
+      "id": "nm0688789",
+      "name": "Michael Polaire"
+    },
+    {
+      "id": "nm1568142",
+      "name": "Jeff Skoll"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006121",
+      "name": "Marvin Hamlisch"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0001752",
+      "name": "Steven Soderbergh"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

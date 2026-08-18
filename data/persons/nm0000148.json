@@ -1,0 +1,237 @@
+{
+  "id": "nm0000148",
+  "name": "Harrison Ford",
+  "filmography": [
+    {
+      "imdb_id": "tt0069704",
+      "title": "American Graffiti",
+      "year": 1973,
+      "roles": [
+        "cast"
+      ],
+      "character": "Bob Falfa"
+    },
+    {
+      "imdb_id": "tt0071360",
+      "title": "The Conversation",
+      "year": 1974,
+      "roles": [
+        "cast"
+      ],
+      "character": "Martin Stett"
+    },
+    {
+      "imdb_id": "tt0076759",
+      "title": "Star Wars: Episode IV - A New Hope",
+      "year": 1977,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Han Solo"
+    },
+    {
+      "imdb_id": "tt0078788",
+      "title": "Apocalypse Now",
+      "year": 1979,
+      "roles": [
+        "cast"
+      ],
+      "character": "Colonel"
+    },
+    {
+      "imdb_id": "tt0080684",
+      "title": "Star Wars: Episode V - The Empire Strikes Back",
+      "year": 1980,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Han Solo"
+    },
+    {
+      "imdb_id": "tt0082971",
+      "title": "Raiders of the Lost Ark",
+      "year": 1981,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Indy"
+    },
+    {
+      "imdb_id": "tt0083658",
+      "title": "Blade Runner",
+      "year": 1982,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Deckard"
+    },
+    {
+      "imdb_id": "tt0086190",
+      "title": "Star Wars: Episode VI - Return of the Jedi",
+      "year": 1983,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Han Solo"
+    },
+    {
+      "imdb_id": "tt0087469",
+      "title": "Indiana Jones and the Temple of Doom",
+      "year": 1984,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Indiana Jones"
+    },
+    {
+      "imdb_id": "tt0090329",
+      "title": "Witness",
+      "year": 1985,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "John Book"
+    },
+    {
+      "imdb_id": "tt0095174",
+      "title": "Frantic",
+      "year": 1988,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Dr. Richard Walker"
+    },
+    {
+      "imdb_id": "tt0097576",
+      "title": "Indiana Jones and the Last Crusade",
+      "year": 1989,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Indiana Jones"
+    },
+    {
+      "imdb_id": "tt0100404",
+      "title": "Presumed Innocent",
+      "year": 1990,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Rusty Sabich"
+    },
+    {
+      "imdb_id": "tt0106977",
+      "title": "The Fugitive",
+      "year": 1993,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Dr. Richard Kimble"
+    },
+    {
+      "imdb_id": "tt0118571",
+      "title": "Air Force One",
+      "year": 1997,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "President James Marshall"
+    },
+    {
+      "imdb_id": "tt0118972",
+      "title": "The Devil's Own",
+      "year": 1997,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Tom O'Meara"
+    },
+    {
+      "imdb_id": "tt0267626",
+      "title": "K-19: The Widowmaker",
+      "year": 2002,
+      "roles": [
+        "star",
+        "cast",
+        "producer"
+      ],
+      "character": "Capt. Alexei Vostrikov"
+    },
+    {
+      "imdb_id": "tt0367882",
+      "title": "Indiana Jones and the Kingdom of the Crystal Skull",
+      "year": 2008,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Indiana Jones"
+    },
+    {
+      "imdb_id": "tt1126618",
+      "title": "Morning Glory",
+      "year": 2010,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Mike Pomeroy"
+    },
+    {
+      "imdb_id": "tt1731141",
+      "title": "Ender's Game",
+      "year": 2013,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Colonel Graff"
+    },
+    {
+      "imdb_id": "tt2488496",
+      "title": "Star Wars: Episode VII - The Force Awakens",
+      "year": 2015,
+      "roles": [
+        "cast"
+      ],
+      "character": "Han Solo"
+    },
+    {
+      "imdb_id": "tt1856101",
+      "title": "Blade Runner 2049",
+      "year": 2017,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Rick Deckard"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTY4Mjg0NjIxOV5BMl5BanBnXkFtZTcwMTM2NTI3MQ@@._V1_.jpg",
+  "birth_date": "13.07.1942",
+  "birth_location": "Chicago, Illinois, USA",
+  "height": "1.85 m",
+  "filmweb_id": 174,
+  "name_pl": "Harrison Ford",
+  "birth_location_pl": "Chicago, Illinois",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 174
+}

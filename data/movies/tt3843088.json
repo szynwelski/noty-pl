@@ -1,0 +1,120 @@
+{
+  "imdb_id": "tt3843088",
+  "title": "Labour of Love",
+  "description": "Set in the crumbling environs of Calcutta, Labour of Love is a lyrical unfolding of two ordinary lives suspended in the duress of a spiralling recession.",
+  "runtime_minutes": 84,
+  "release_date": "26.06.2015",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm3368782",
+      "name": "Ritwick Chakraborty"
+    },
+    {
+      "id": "nm6948875",
+      "name": "Basabdatta Chatterjee"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm6609600",
+      "name": "Aditya Vikram Sengupta"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm6609600",
+      "name": "Aditya Vikram Sengupta"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm3368782",
+      "name": "Ritwick Chakraborty",
+      "character": "Man"
+    },
+    {
+      "id": "nm6948875",
+      "name": "Basabdatta Chatterjee",
+      "character": "Woman"
+    }
+  ],
+  "countries": [
+    "India"
+  ],
+  "languages": [
+    "Bengali"
+  ],
+  "color": "Color",
+  "filmweb_id": 724818,
+  "year": 2014,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZjVhYWNiNDQtOWExYy00NTI5LTkwYWItYzgzZTgzNTU2N2Q3XkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Asha Jaoar Majhe",
+  "ratings": {
+    "imdb": {
+      "rating": 7.9,
+      "votes": 1454,
+      "distribution": {
+        "1": 37,
+        "2": 13,
+        "3": 12,
+        "4": 13,
+        "5": 37,
+        "6": 92,
+        "7": 192,
+        "8": 318,
+        "9": 326,
+        "10": 414
+      },
+      "normalized": 6.3585
+    },
+    "filmweb": {
+      "rating": 6.39,
+      "votes": 36,
+      "distribution": {
+        "2": 0,
+        "3": 3,
+        "4": 2,
+        "5": 5,
+        "6": 9,
+        "7": 9,
+        "8": 4,
+        "9": 1,
+        "10": 3
+      },
+      "normalized": 5.0756
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "22.12.2018",
+      "normalized": 5.6855
+    },
+    "score": 5.7065
+  },
+  "polish_title": "Oczekiwanie",
+  "silent": false,
+  "description_pl": "Spirala recesji, jaka dotknęła Indie miała swój szczytowy moment kilka lat temu. Z dnia na dzień tysiące ludzi straciły pracę. W obliczu niepewności o finansową przyszłość stanęło również pewne małżeństwo. Żyją w rozpadających się okolicach Kalkuty i są pod dużą presją. Nie wiedzą czy nagle nie staną się bezrobotni. Ich życie wypełnia niekończący się cykl: praca na zmiany i domowa rutyna z długim oczekiwaniem w ciszy pustego domu na to drugie. To nie są komfortowe warunki do rozkwitu miłości. Zmuszają ich do negocjowania między oczekiwaniami a rzeczywistością. Miłość starają się manifestować gdzie tylko się da, choćby przez tak małe gesty jak przyszycie guzika czy gotowanie dla dwojga. Jak oszukać czas, by móc go spędzać razem?",
+  "producers": [
+    {
+      "id": "nm6609602",
+      "name": "Jonaki Bhattacharya"
+    },
+    {
+      "id": "nm8654316",
+      "name": "Vikram Mohinta"
+    },
+    {
+      "id": "nm6609603",
+      "name": "Ritobrata Paul"
+    },
+    {
+      "id": "nm6609600",
+      "name": "Aditya Vikram Sengupta"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,234 @@
+{
+  "imdb_id": "tt0112740",
+  "title": "Crimson Tide",
+  "description": "On a U.S. nuclear missile sub, a young First Officer stages a mutiny to prevent his trigger-happy Captain from launching his missiles before confirming his orders to do so.",
+  "runtime_minutes": 116,
+  "release_date": "12.05.1995",
+  "genres": [
+    "Action",
+    "Drama",
+    "Thriller",
+    "War"
+  ],
+  "stars": [
+    {
+      "id": "nm0000432",
+      "name": "Gene Hackman"
+    },
+    {
+      "id": "nm0000243",
+      "name": "Denzel Washington"
+    },
+    {
+      "id": "nm0002023",
+      "name": "Matt Craven"
+    },
+    {
+      "id": "nm0001169",
+      "name": "George Dzundza"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001716",
+      "name": "Tony Scott"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0771512",
+      "name": "Michael Schiffer"
+    },
+    {
+      "id": "nm0377543",
+      "name": "Richard P. Henrick"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000432",
+      "name": "Gene Hackman",
+      "character": "Ramsey"
+    },
+    {
+      "id": "nm0000243",
+      "name": "Denzel Washington",
+      "character": "Hunter"
+    },
+    {
+      "id": "nm0002023",
+      "name": "Matt Craven",
+      "character": "Zimmer"
+    },
+    {
+      "id": "nm0001169",
+      "name": "George Dzundza",
+      "character": "Cob"
+    },
+    {
+      "id": "nm0001557",
+      "name": "Viggo Mortensen",
+      "character": "Weps"
+    },
+    {
+      "id": "nm0001254",
+      "name": "James Gandolfini",
+      "character": "Lt. Bobby Dougherty"
+    },
+    {
+      "id": "nm0140969",
+      "name": "Rocky Carroll",
+      "character": "Lt. Westergaurd"
+    },
+    {
+      "id": "nm0004968",
+      "name": "Jaime Gomez",
+      "character": "Ood Mahoney"
+    },
+    {
+      "id": "nm0587379",
+      "name": "Michael Milhoan",
+      "character": "Hunsicker"
+    },
+    {
+      "id": "nm0122020",
+      "name": "Scott Burkholder",
+      "character": "TSO Billy Linkletter"
+    },
+    {
+      "id": "nm0001572",
+      "name": "Danny Nucci",
+      "character": "Danny Rivetti"
+    },
+    {
+      "id": "nm0000969",
+      "name": "Lillo Brancato",
+      "character": "Russell Vossler"
+    },
+    {
+      "id": "nm0116717",
+      "name": "Eric Bruskotter",
+      "character": "Bennefield"
+    },
+    {
+      "id": "nm0005401",
+      "name": "Ricky Schroder",
+      "character": "Lt. Paul Hellerman"
+    },
+    {
+      "id": "nm0001872",
+      "name": "Steve Zahn",
+      "character": "William Barnes"
+    },
+    {
+      "id": "nm0857304",
+      "name": "Marcello Thedford",
+      "character": "Lawson"
+    },
+    {
+      "id": "nm0461311",
+      "name": "R.J. Knoll",
+      "character": "Marty Sotille"
+    },
+    {
+      "id": "nm0222761",
+      "name": "Billy Devlin",
+      "character": "Navigator"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 6699,
+  "year": 1995,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTNhZDk2NmQtNDc3ZC00Nzk3LWFmNTctYTc0OWMyNGM0ZWYyXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.4,
+      "votes": 137657,
+      "distribution": {
+        "1": 880,
+        "2": 413,
+        "3": 750,
+        "4": 1662,
+        "5": 4885,
+        "6": 16189,
+        "7": 45849,
+        "8": 41990,
+        "9": 15187,
+        "10": 9852
+      },
+      "normalized": 6.2553
+    },
+    "filmweb": {
+      "rating": 7.54,
+      "votes": 57369,
+      "distribution": {
+        "1": 75,
+        "2": 60,
+        "3": 186,
+        "4": 464,
+        "5": 1567,
+        "6": 5494,
+        "7": 18003,
+        "8": 22703,
+        "9": 6423,
+        "10": 2394
+      },
+      "normalized": 6.8464
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "11.09.2025",
+      "normalized": 7.2292
+    },
+    "score": 6.777
+  },
+  "polish_title": "Karmazynowy przypływ",
+  "silent": false,
+  "description_pl": "W Rosji dochodzi do przewrotu wojskowego. Światu grozi wybuch III Wojny. Amerykański podwodny okręt atomowy zostaje wysłany do patrolowania przybrzeżnych wód Rosji. Kapitan Frank Ramsey (<a href=\"/osoba/?id=nm0000432\">Gene Hackman</a>) i jego pierwszy oficer znaleźli się w samym centrum globalnego kryzysu. Odcięci od swego dowództwa, dwaj oficerowi muszą sami zdecydować, czy przystąpić do ataku, który z pewnością byłby katastrofalny w skutkach dla całego świata, czy też pozwolić, by zrobiła to strona przeciwna. Napięcie sięga głębin!",
+  "producers": [
+    {
+      "id": "nm0000988",
+      "name": "Jerry Bruckheimer"
+    },
+    {
+      "id": "nm0287946",
+      "name": "Lucas Foster"
+    },
+    {
+      "id": "nm0595235",
+      "name": "Mike Moder"
+    },
+    {
+      "id": "nm0800971",
+      "name": "Don Simpson"
+    },
+    {
+      "id": "nm0804739",
+      "name": "James W. Skotchdopole"
+    },
+    {
+      "id": "nm0881130",
+      "name": "Bill Unger"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0001877",
+      "name": "Hans Zimmer"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0003011",
+      "name": "Dariusz Wolski"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "nm2070427",
+  "name": "Tom Mison",
+  "filmography": [
+    {
+      "imdb_id": "tt1563738",
+      "title": "One Day",
+      "year": 2011,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Callum"
+    },
+    {
+      "imdb_id": "tt1441952",
+      "title": "Salmon Fishing in the Yemen",
+      "year": 2011,
+      "roles": [
+        "cast"
+      ],
+      "character": "Capt. Robert Mayers"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNmQ2OTY4NzMtMDY3Mi00ZTFmLTgyMTctNjkzZDRlMTk3MTczXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "23.07.1982",
+  "birth_location": "Surrey, England, UK",
+  "height": "1.85 m",
+  "imdb_scraped": true,
+  "filmweb_id": 548287,
+  "name_pl": "Tom Mison",
+  "birth_location_pl": "Anglia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 548287
+}

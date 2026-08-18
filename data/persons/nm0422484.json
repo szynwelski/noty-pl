@@ -1,0 +1,48 @@
+{
+  "id": "nm0422484",
+  "name": "Norman Jewison",
+  "filmography": [
+    {
+      "imdb_id": "tt0061811",
+      "title": "In the Heat of the Night",
+      "year": 1967,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0070239",
+      "title": "Jesus Christ Superstar",
+      "year": 1973,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0078718",
+      "title": "And Justice for All",
+      "year": 1979,
+      "roles": [
+        "director",
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTM4MTI3Nzk0M15BMl5BanBnXkFtZTcwNTc0MzY1Mw@@._V1_.jpg",
+  "birth_date": "21.07.1926",
+  "death_date": "20.01.2024",
+  "birth_location": "Toronto, Ontario, Canada",
+  "height": "1.73 m",
+  "filmweb_id": 12204,
+  "name_pl": "Norman Jewison",
+  "birth_location_pl": "Toronto",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Kanada"
+  ],
+  "wikidata_fw_id": 12204
+}

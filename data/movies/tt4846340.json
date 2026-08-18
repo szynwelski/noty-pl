@@ -1,0 +1,256 @@
+{
+  "imdb_id": "tt4846340",
+  "title": "Hidden Figures",
+  "description": "Three female African-American mathematicians play a pivotal role in astronaut John Glenn's launch into orbit while dealing with racial and gender discrimination.",
+  "runtime_minutes": 127,
+  "release_date": "06.01.2017",
+  "genres": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "stars": [
+    {
+      "id": "nm0378245",
+      "name": "Taraji P. Henson"
+    },
+    {
+      "id": "nm0818055",
+      "name": "Octavia Spencer"
+    },
+    {
+      "id": "nm1847117",
+      "name": "Janelle Monáe"
+    },
+    {
+      "id": "nm0000126",
+      "name": "Kevin Costner"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0577647",
+      "name": "Theodore Melfi"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm2284377",
+      "name": "Allison Schroeder"
+    },
+    {
+      "id": "nm0577647",
+      "name": "Theodore Melfi"
+    },
+    {
+      "id": "nm7446421",
+      "name": "Margot Lee Shetterly"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0378245",
+      "name": "Taraji P. Henson",
+      "character": "Katherine G. Johnson"
+    },
+    {
+      "id": "nm0818055",
+      "name": "Octavia Spencer",
+      "character": "Dorothy Vaughan"
+    },
+    {
+      "id": "nm1847117",
+      "name": "Janelle Monáe",
+      "character": "Mary Jackson"
+    },
+    {
+      "id": "nm0000126",
+      "name": "Kevin Costner",
+      "character": "Al Harrison"
+    },
+    {
+      "id": "nm0000379",
+      "name": "Kirsten Dunst",
+      "character": "Vivian Mitchell"
+    },
+    {
+      "id": "nm1433588",
+      "name": "Jim Parsons",
+      "character": "Paul Stafford"
+    },
+    {
+      "id": "nm0991810",
+      "name": "Mahershala Ali",
+      "character": "Colonel Jim Johnson"
+    },
+    {
+      "id": "nm0388038",
+      "name": "Aldis Hodge",
+      "character": "Levi Jackson"
+    },
+    {
+      "id": "nm1412974",
+      "name": "Glen Powell",
+      "character": "John Glenn"
+    },
+    {
+      "id": "nm0703910",
+      "name": "Kimberly Quinn",
+      "character": "Ruth"
+    },
+    {
+      "id": "nm0472762",
+      "name": "Olek Krupa",
+      "character": "Karl Zielinski"
+    },
+    {
+      "id": "nm4852204",
+      "name": "Kurt Krause",
+      "character": "Sam Turner"
+    },
+    {
+      "id": "nm0835349",
+      "name": "Ken Strunk",
+      "character": "Jim Webb"
+    },
+    {
+      "id": "nm6983144",
+      "name": "Lidya Jewett",
+      "character": "Young Katherine Coleman"
+    },
+    {
+      "id": "nm0083915",
+      "name": "Donna Biscoe",
+      "character": "Mrs. Joylette Coleman"
+    },
+    {
+      "id": "nm4578163",
+      "name": "Ariana Neal",
+      "character": "Joylette Johnson"
+    },
+    {
+      "id": "nm5181138",
+      "name": "Saniyya Sidney",
+      "character": "Constance Johnson"
+    },
+    {
+      "id": "nm7563185",
+      "name": "Zani Jones Mbayise",
+      "character": "Kathy Johnson"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 763134,
+  "year": 2016,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BY2RhNDRhNzctZTllMy00NTc2LWJjZmUtMzg3MTNiNjhhODMxXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.8,
+      "votes": 292788,
+      "distribution": {
+        "1": 2533,
+        "2": 712,
+        "3": 828,
+        "4": 1624,
+        "5": 4648,
+        "6": 16453,
+        "7": 62430,
+        "8": 107302,
+        "9": 53637,
+        "10": 42621
+      },
+      "normalized": 7.0259
+    },
+    "filmweb": {
+      "rating": 7.61,
+      "votes": 69642,
+      "distribution": {
+        "1": 116,
+        "2": 48,
+        "3": 187,
+        "4": 410,
+        "5": 1589,
+        "6": 6279,
+        "7": 20537,
+        "8": 28514,
+        "9": 9363,
+        "10": 2599
+      },
+      "normalized": 7.0598
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "10.11.2021",
+      "normalized": 5.4199
+    },
+    "score": 6.5019
+  },
+  "polish_title": "Ukryte działania",
+  "silent": false,
+  "description_pl": "Niezwykła, nieznana do tej pory prawdziwa historia trzech błyskotliwych kobiet afro-amerykańskiego pochodzenia, które na przełomie lat 50. i 60. XX wieku podjęły pracę dla NASA. Pokonując niewyobrażalne przeszkody społeczne i obyczajowe, pomogły wysłać w kosmos pierwszego Amerykanina, astronautę Johna Glenna, inicjując tym samym kosmiczny wyścig między światowymi mocarstwami.",
+  "producers": [
+    {
+      "id": "nm1858656",
+      "name": "Peter Chernin"
+    },
+    {
+      "id": "nm8315574",
+      "name": "Jamal Daniel"
+    },
+    {
+      "id": "nm0317642",
+      "name": "Donna Gigliotti"
+    },
+    {
+      "id": "nm0356720",
+      "name": "Kevin Halloran"
+    },
+    {
+      "id": "nm1190974",
+      "name": "Ivana Lombardi"
+    },
+    {
+      "id": "nm0577647",
+      "name": "Theodore Melfi"
+    },
+    {
+      "id": "nm0703910",
+      "name": "Kimberly Quinn"
+    },
+    {
+      "id": "nm7446421",
+      "name": "Margot Lee Shetterly"
+    },
+    {
+      "id": "nm0867768",
+      "name": "Jenno Topping"
+    },
+    {
+      "id": "nm1395176",
+      "name": "Mimi Valdes"
+    },
+    {
+      "id": "nm1214289",
+      "name": "Pharrell Williams"
+    },
+    {
+      "id": "nm1234917",
+      "name": "Renee Witt"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0907999",
+      "name": "Mandy Walker"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

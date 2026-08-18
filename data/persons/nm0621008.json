@@ -1,0 +1,49 @@
+{
+  "id": "nm0621008",
+  "name": "Charles Napier",
+  "filmography": [
+    {
+      "imdb_id": "tt0089880",
+      "title": "Rambo: First Blood Part II",
+      "year": 1985,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Murdock"
+    },
+    {
+      "imdb_id": "tt0102926",
+      "title": "The Silence of the Lambs",
+      "year": 1991,
+      "roles": [
+        "cast"
+      ],
+      "character": "Lt. Boyle"
+    },
+    {
+      "imdb_id": "tt0417433",
+      "title": "Annapolis",
+      "year": 2006,
+      "roles": [
+        "cast"
+      ],
+      "character": "Supt. Carter"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTMyODc4NjY0OF5BMl5BanBnXkFtZTcwNzk1NTg4Ng@@._V1_.jpg",
+  "birth_date": "12.04.1936",
+  "death_date": "05.10.2011",
+  "birth_location": "Mt. Union, Kentucky, USA",
+  "height": "1.83 m",
+  "filmweb_id": 8049,
+  "name_pl": "Charles Napier",
+  "birth_location_pl": "Mt. Union, Kentucky",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 8049
+}

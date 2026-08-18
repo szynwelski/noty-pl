@@ -1,0 +1,188 @@
+{
+  "imdb_id": "tt2385033",
+  "title": "Close Encounter of Mahjong",
+  "description": "A refreshing Chinese dark comedy.",
+  "runtime_minutes": 78,
+  "release_date": "15.04.2011",
+  "genres": [
+    "Crime"
+  ],
+  "stars": [
+    {
+      "id": "nm5028639",
+      "name": "Alan Wei"
+    },
+    {
+      "id": "nm3324837",
+      "name": "Ke Tang"
+    },
+    {
+      "id": "nm10072722",
+      "name": "Linfeng Chen"
+    },
+    {
+      "id": "nm3337313",
+      "name": "Jn Hu"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm4956057",
+      "name": "Donald Li"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm4956057",
+      "name": "Donald Li"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm5028639",
+      "name": "Alan Wei",
+      "character": "Bald Yan"
+    },
+    {
+      "id": "nm3324837",
+      "name": "Ke Tang",
+      "character": "Cindy"
+    },
+    {
+      "id": "nm10072722",
+      "name": "Linfeng Chen",
+      "character": ""
+    },
+    {
+      "id": "nm3337313",
+      "name": "Jn Hu",
+      "character": ""
+    },
+    {
+      "id": "nm4956057",
+      "name": "Donald Li",
+      "character": ""
+    },
+    {
+      "id": "nm10072719",
+      "name": "Zichao Li",
+      "character": ""
+    },
+    {
+      "id": "nm3005772",
+      "name": "Adam Palin",
+      "character": ""
+    },
+    {
+      "id": "nm10072690",
+      "name": "Xingzhu Yao",
+      "character": "Liu's wife"
+    },
+    {
+      "id": "nm10072691",
+      "name": "Haiyan Yin",
+      "character": "Shanshan the maid"
+    },
+    {
+      "id": "nm10072689",
+      "name": "Yuanzifu",
+      "character": "Mo"
+    },
+    {
+      "id": "nm10072721",
+      "name": "Jianguo Zhai",
+      "character": ""
+    },
+    {
+      "id": "nm5029412",
+      "name": "Yaodong Zheng",
+      "character": "Liu"
+    }
+  ],
+  "countries": [
+    "China"
+  ],
+  "languages": [
+    "Mandarin"
+  ],
+  "color": null,
+  "filmweb_id": 569026,
+  "year": 2011,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDlmMDVkMWQtYzQ5MC00ZTI1LTliMTQtOTQwMjNlOWQ0NmNiXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Ju zhong ju",
+  "ratings": {
+    "imdb": {
+      "rating": 7.1,
+      "votes": 13,
+      "distribution": {
+        "1": 5,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 0,
+        "6": 1,
+        "7": 1,
+        "8": 2,
+        "9": 2,
+        "10": 1
+      },
+      "normalized": 5.3096
+    },
+    "filmweb": {
+      "rating": 5.71,
+      "votes": 41,
+      "distribution": {
+        "1": 1,
+        "2": 0,
+        "3": 4,
+        "4": 2,
+        "5": 6,
+        "6": 18,
+        "7": 7,
+        "8": 1,
+        "9": 2,
+        "10": 0
+      },
+      "normalized": 4.8504
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "18.02.2013",
+      "normalized": 7.1247
+    },
+    "score": 5.7616
+  },
+  "polish_title": "Bliskie spotkanie z mahjongiem",
+  "silent": false,
+  "description_pl": "W zamkniętym tajemniczym pokoju, przy stoliku do chińskiej gry mahjong, spotykają się przesądny hazardzista, zdradziecka piękność, zwichrowany mąż, irytujący handlowiec, amator cudzoziemiec i lubieżna pokojówka. Każdy z graczy jest drobnym krętaczem, który próbuje wyrwać się ze stworzonego przez siebie świata tajemnic i kłamstw.",
+  "producers": [
+    {
+      "id": "nm0322045",
+      "name": "Barry Glasser"
+    },
+    {
+      "id": "nm5029409",
+      "name": "Lei Huang"
+    },
+    {
+      "id": "nm5029482",
+      "name": "Zhe Li"
+    },
+    {
+      "id": "nm0566699",
+      "name": "Victor Miller"
+    },
+    {
+      "id": "nm5028639",
+      "name": "Alan Wei"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm15143332",
+      "name": "Ben Niu"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

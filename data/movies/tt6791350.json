@@ -1,0 +1,260 @@
+{
+  "imdb_id": "tt6791350",
+  "title": "Guardians of the Galaxy Vol. 3",
+  "description": "Still reeling from the loss of Gamora, Peter Quill rallies his team to defend the universe and one of their own - a mission that could mean the end of the Guardians if not successful.",
+  "runtime_minutes": 150,
+  "release_date": "05.05.2023",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm0695435",
+      "name": "Chris Pratt"
+    },
+    {
+      "id": "nm1030244",
+      "name": "Chukwudi Iwuji"
+    },
+    {
+      "id": "nm0177896",
+      "name": "Bradley Cooper"
+    },
+    {
+      "id": "nm2962353",
+      "name": "Pom Klementieff"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0348181",
+      "name": "James Gunn"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0348181",
+      "name": "James Gunn"
+    },
+    {
+      "id": "nm4160687",
+      "name": "Jim Starlin"
+    },
+    {
+      "id": "nm0498278",
+      "name": "Stan Lee"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0695435",
+      "name": "Chris Pratt",
+      "character": "Peter Quill"
+    },
+    {
+      "id": "nm1030244",
+      "name": "Chukwudi Iwuji",
+      "character": "The High Evolutionary"
+    },
+    {
+      "id": "nm0177896",
+      "name": "Bradley Cooper",
+      "character": "Rocket"
+    },
+    {
+      "id": "nm2962353",
+      "name": "Pom Klementieff",
+      "character": "Mantis"
+    },
+    {
+      "id": "nm1176985",
+      "name": "Dave Bautista",
+      "character": "Drax"
+    },
+    {
+      "id": "nm2394794",
+      "name": "Karen Gillan",
+      "character": "Nebula"
+    },
+    {
+      "id": "nm0004874",
+      "name": "Vin Diesel",
+      "character": "Groot"
+    },
+    {
+      "id": "nm5837211",
+      "name": "Austin Freeman",
+      "character": "On-Set Groot"
+    },
+    {
+      "id": "nm0002888",
+      "name": "Stephen Blackehart",
+      "character": "Steemie Blueliver"
+    },
+    {
+      "id": "nm0741893",
+      "name": "Terence Rosemore",
+      "character": "Xlomo Smeth"
+    },
+    {
+      "id": "nm7210025",
+      "name": "Maria Bakalova",
+      "character": "Cosmo"
+    },
+    {
+      "id": "nm0348231",
+      "name": "Sean Gunn",
+      "character": "Kraglin"
+    },
+    {
+      "id": "nm4016192",
+      "name": "Sarah Alami",
+      "character": "Ssssaralami"
+    },
+    {
+      "id": "nm14821266",
+      "name": "Jasmine Munoz",
+      "character": "Hoobtoe"
+    },
+    {
+      "id": "nm4530613",
+      "name": "Giovannie Cruz",
+      "character": "Orloni Peddler"
+    },
+    {
+      "id": "nm2401020",
+      "name": "Will Poulter",
+      "character": "Adam Warlock"
+    },
+    {
+      "id": "nm4456672",
+      "name": "Nico Santos",
+      "character": "Recorder Theel"
+    },
+    {
+      "id": "nm0794896",
+      "name": "Miriam Shor",
+      "character": "Recorder Vim"
+    }
+  ],
+  "countries": [
+    "United States",
+    "New Zealand",
+    "France",
+    "Canada"
+  ],
+  "languages": [
+    "English",
+    "Russian"
+  ],
+  "color": "Color",
+  "filmweb_id": 806077,
+  "year": 2023,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOTJhOTMxMmItZmE0Ny00MDc3LWEzOGEtOGFkMzY4MWYyZDQ0XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.9,
+      "votes": 482643,
+      "distribution": {
+        "1": 4459,
+        "2": 1863,
+        "3": 2771,
+        "4": 4748,
+        "5": 11233,
+        "6": 33807,
+        "7": 89973,
+        "8": 149845,
+        "9": 100455,
+        "10": 83489
+      },
+      "normalized": 7.2894
+    },
+    "filmweb": {
+      "rating": 7.68,
+      "votes": 83768,
+      "distribution": {
+        "1": 779,
+        "2": 430,
+        "3": 792,
+        "4": 1249,
+        "5": 3029,
+        "6": 7498,
+        "7": 18667,
+        "8": 27565,
+        "9": 14970,
+        "10": 8789
+      },
+      "normalized": 7.282
+    },
+    "jarek": {
+      "rating": 2,
+      "date_rated": "01.07.2023",
+      "normalized": 3.5003
+    },
+    "michal": {
+      "rating": 3,
+      "date_rated": "02.07.2023",
+      "normalized": 3.8753
+    },
+    "score": 5.4867
+  },
+  "polish_title": "Strażnicy Galaktyki: Volume 3",
+  "silent": false,
+  "description_pl": "W \"Strażnikach Galaktyki vol. 3\" Marvel Studios nasza ulubiona banda odmieńców wygląda obecnie trochę inaczej. Po nabyciu Knowhere od Kolekcjonera Strażnicy pracują nad naprawieniem ogromnych szkód wyrządzonych przez Thanosa - zdeterminowani, by uczynić Knowhere bezpiecznym schronieniem nie tylko dla nich samych, ale także dla wszystkich uchodźców wysiedlonych przez surowy wszechświat. Jednak wkrótce ich życie zostaje wywrócone do góry nogami przez echa burzliwej przeszłości Rocketa. Peter Quill, wciąż niepogodzony ze stratą Gamory, musi zebrać wokół siebie swoją bandę na niebezpieczną misję ratowania życia Rocketa - misję, która, jeśli nie zakończy się powodzeniem, może doprowadzić do końca Strażników w dotychczasowej formie.",
+  "producers": [
+    {
+      "id": "nm0022285",
+      "name": "Victoria Alonso"
+    },
+    {
+      "id": "nm16301048",
+      "name": "Nathan Brickman"
+    },
+    {
+      "id": "nm0195669",
+      "name": "Louis D'Esposito"
+    },
+    {
+      "id": "nm0270559",
+      "name": "Kevin Feige"
+    },
+    {
+      "id": "nm0335343",
+      "name": "David J. Grant"
+    },
+    {
+      "id": "nm4660464",
+      "name": "Simon Hatt"
+    },
+    {
+      "id": "nm0004211",
+      "name": "Nikolas Korda"
+    },
+    {
+      "id": "nm6157086",
+      "name": "Sara Smith"
+    },
+    {
+      "id": "nm0936040",
+      "name": "Lars P. Winther"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0614373",
+      "name": "John Murphy"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0103956",
+      "name": "Henry Braham"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

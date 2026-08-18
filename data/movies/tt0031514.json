@@ -1,0 +1,203 @@
+{
+  "imdb_id": "tt0031514",
+  "title": "Daybreak",
+  "description": "After committing a murder, a man locks himself in his apartment and recollects the events that led him to the killing.",
+  "runtime_minutes": 93,
+  "release_date": "29.07.1940",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Romance",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0300064",
+      "name": "Jean Gabin"
+    },
+    {
+      "id": "nm0491238",
+      "name": "Jacqueline Laurent"
+    },
+    {
+      "id": "nm0001916",
+      "name": "Arletty"
+    },
+    {
+      "id": "nm0077598",
+      "name": "Jules Berry"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0138893",
+      "name": "Marcel Carné"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0899254",
+      "name": "Jacques Viot"
+    },
+    {
+      "id": "nm0699535",
+      "name": "Jacques Prévert"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0300064",
+      "name": "Jean Gabin",
+      "character": "François"
+    },
+    {
+      "id": "nm0491238",
+      "name": "Jacqueline Laurent",
+      "character": "Françoise"
+    },
+    {
+      "id": "nm0001916",
+      "name": "Arletty",
+      "character": "Clara"
+    },
+    {
+      "id": "nm0077598",
+      "name": "Jules Berry",
+      "character": "M. Valentin"
+    },
+    {
+      "id": "nm0077620",
+      "name": "Mady Berry",
+      "character": "La concierge"
+    },
+    {
+      "id": "nm0350764",
+      "name": "René Génin",
+      "character": "Le concierge"
+    },
+    {
+      "id": "nm0223005",
+      "name": "Arthur Devère",
+      "character": "Mr. Gerbois"
+    },
+    {
+      "id": "nm0074470",
+      "name": "René Bergeron",
+      "character": "Le patron du café"
+    },
+    {
+      "id": "nm0088396",
+      "name": "Bernard Blier",
+      "character": "Gaston"
+    },
+    {
+      "id": "nm0702454",
+      "name": "Marcel Pérès",
+      "character": "Paulo"
+    },
+    {
+      "id": "nm0515394",
+      "name": "Germaine Lix",
+      "character": "La chanteuse"
+    },
+    {
+      "id": "nm0284870",
+      "name": "Gabrielle Fontan",
+      "character": "La vieille dame dans l'escalier"
+    },
+    {
+      "id": "nm0062297",
+      "name": "Jacques Baumer",
+      "character": "Le commissaire"
+    },
+    {
+      "id": "nm0140386",
+      "name": "Annie Cariel",
+      "character": "Une locataire"
+    },
+    {
+      "id": "nm0180115",
+      "name": "Léonce Corne",
+      "character": ""
+    },
+    {
+      "id": "nm0235367",
+      "name": "Georges Douking",
+      "character": "L'aveugle"
+    },
+    {
+      "id": "nm0268600",
+      "name": "Henry Farty",
+      "character": ""
+    },
+    {
+      "id": "nm0331664",
+      "name": "Georges Gosset",
+      "character": "Un agent"
+    }
+  ],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "French"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 35927,
+  "year": 1939,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjI2MTc2NzQyMl5BMl5BanBnXkFtZTgwNTg1MTMxMzE@._V1_.jpg",
+  "original_title": "Le jour se lève",
+  "ratings": {
+    "imdb": {
+      "rating": 7.6,
+      "votes": 8928,
+      "distribution": {
+        "1": 219,
+        "2": 29,
+        "3": 61,
+        "4": 113,
+        "5": 338,
+        "6": 829,
+        "7": 2005,
+        "8": 2897,
+        "9": 1371,
+        "10": 1066
+      },
+      "normalized": 6.5222
+    },
+    "filmweb": {
+      "rating": 7.52,
+      "votes": 1463,
+      "distribution": {
+        "1": 4,
+        "2": 6,
+        "3": 8,
+        "4": 23,
+        "5": 74,
+        "6": 174,
+        "7": 403,
+        "8": 438,
+        "9": 192,
+        "10": 141
+      },
+      "normalized": 6.3334
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "19.10.2005",
+      "normalized": 6.3474
+    },
+    "score": 6.401
+  },
+  "polish_title": "Brzask",
+  "silent": false,
+  "description_pl": "Jeden z ważniejszych filmów francuskiego \"czarnego romantyzmu\" z wielkim Jeanem Gabinem w roli przegranego, skazanego na klęskę bohatera, dla którego już nie ma ucieczki. \r\nFrancois siedzi w zabarykadowanym pokoju, obserwowanym i ostrzeliwanym przez policję; rozmyśla, jak z dnia na dzień stał się mordercą. Wspomina miłość do pięknej Francoise, rywalizację z treserem zwierząt Valentinem i uwikłanie w niejasną relację z jego asystentką Clarą.",
+  "composers": [
+    {
+      "id": "nm0006144",
+      "name": "Maurice Jaubert"
+    }
+  ],
+  "fetched_at": "2026-08-15"
+}

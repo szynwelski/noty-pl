@@ -1,0 +1,205 @@
+{
+  "imdb_id": "tt0388789",
+  "title": "Born Into Brothels: Calcutta's Red Light Kids",
+  "description": "Two documentary filmmakers chronicle their time in Sonagchi, Calcutta and the relationships they developed with children of prostitutes who work the city's notorious red light district.",
+  "runtime_minutes": 85,
+  "release_date": "11.03.2005",
+  "genres": [
+    "Documentary",
+    "Biography",
+    "News"
+  ],
+  "stars": [
+    {
+      "id": "nm2100653",
+      "name": "Kochi"
+    },
+    {
+      "id": "nm2099087",
+      "name": "Avijit Halder"
+    },
+    {
+      "id": "nm2092248",
+      "name": "Shanti Das"
+    },
+    {
+      "id": "nm2095158",
+      "name": "Manik"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm1498640",
+      "name": "Zana Briski"
+    },
+    {
+      "id": "nm1502104",
+      "name": "Ross Kauffman"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1498640",
+      "name": "Zana Briski"
+    },
+    {
+      "id": "nm1502104",
+      "name": "Ross Kauffman"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm2100653",
+      "name": "Kochi",
+      "character": "Self"
+    },
+    {
+      "id": "nm2099087",
+      "name": "Avijit Halder",
+      "character": "Self"
+    },
+    {
+      "id": "nm2092248",
+      "name": "Shanti Das",
+      "character": "Self"
+    },
+    {
+      "id": "nm2095158",
+      "name": "Manik",
+      "character": "Self"
+    },
+    {
+      "id": "nm2103986",
+      "name": "Puja Mukerjee",
+      "character": "Self"
+    },
+    {
+      "id": "nm2100744",
+      "name": "Gour",
+      "character": "Self"
+    },
+    {
+      "id": "nm16734548",
+      "name": "Suchitra",
+      "character": "Self"
+    },
+    {
+      "id": "nm2099174",
+      "name": "Tapasi",
+      "character": "Self"
+    },
+    {
+      "id": "nm2104476",
+      "name": "Mamuni",
+      "character": "Self"
+    },
+    {
+      "id": "nm1498640",
+      "name": "Zana Briski",
+      "character": "Herself \"Zana Auntie\""
+    },
+    {
+      "id": "nm2099225",
+      "name": "Sunil Halder",
+      "character": "Self"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "Bengali",
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 184473,
+  "year": 2004,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTY0Nzc4NDEwNl5BMl5BanBnXkFtZTcwMjMyNzcyMQ@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.2,
+      "votes": 18949,
+      "distribution": {
+        "1": 520,
+        "2": 193,
+        "3": 261,
+        "4": 443,
+        "5": 1134,
+        "6": 2383,
+        "7": 5158,
+        "8": 4746,
+        "9": 2147,
+        "10": 1964
+      },
+      "normalized": 5.8645
+    },
+    "filmweb": {
+      "rating": 7.59,
+      "votes": 5799,
+      "distribution": {
+        "1": 25,
+        "2": 14,
+        "3": 33,
+        "4": 65,
+        "5": 172,
+        "6": 553,
+        "7": 1462,
+        "8": 2342,
+        "9": 847,
+        "10": 286
+      },
+      "normalized": 6.8255
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "16.09.2015",
+      "normalized": 4.5781
+    },
+    "score": 5.756
+  },
+  "polish_title": "Przeznaczone do burdelu",
+  "silent": false,
+  "description_pl": "Twórcy dokumentu Zana Briski oraz Ross Kauffman wkraczają do podziemnego świata prostytucji w Sonagachi, dzielnicy czerwonych latarni w Kalkucie, gdzie spotykają dzieci, których matki pracują jako prostytutki. Briski oferuje naukę fotografii dzieciom w zamian za pozwolenie na fotografowanie ich matek. Film zawiera zdjęcia zrobione przez dzieci, przedstawiające ich codzienne życie. Obejmuje również późniejsze wydarzenia, w tym możliwości edukacji dzieci i wystawy zrobionych przez nie zdjęć. \"Born Into Brothels\" zdobył Oscara za najlepszy film dokumentalny wraz z dwudziestoma innymi nagrodami na festiwalach filmowych.",
+  "producers": [
+    {
+      "id": "nm2035066",
+      "name": "Pamela Tanner Boll"
+    },
+    {
+      "id": "nm1498640",
+      "name": "Zana Briski"
+    },
+    {
+      "id": "nm2987664",
+      "name": "Lisa Cohen"
+    },
+    {
+      "id": "nm1424734",
+      "name": "Geralyn White Dreyfous"
+    },
+    {
+      "id": "nm1673747",
+      "name": "Jannat Gargi"
+    },
+    {
+      "id": "nm1502761",
+      "name": "Andrew Herwitz"
+    },
+    {
+      "id": "nm1502104",
+      "name": "Ross Kauffman"
+    },
+    {
+      "id": "nm1676652",
+      "name": "Ellen Peck"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm2089521",
+      "name": "John McDowell"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

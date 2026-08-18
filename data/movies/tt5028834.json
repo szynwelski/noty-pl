@@ -1,0 +1,153 @@
+{
+  "imdb_id": "tt5028834",
+  "title": "Moira",
+  "description": "Mamuka is released from prison and tries to take care of his disabled father and younger brother.",
+  "runtime_minutes": 95,
+  "release_date": "23.09.2015",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm7587620",
+      "name": "Ani Bebia"
+    },
+    {
+      "id": "nm6150252",
+      "name": "Paata Inauri"
+    },
+    {
+      "id": "nm3301424",
+      "name": "Jano Izoria"
+    },
+    {
+      "id": "nm7587618",
+      "name": "Giorgi Khurtsilava"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0992140",
+      "name": "Levan Tutberidze"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm6765915",
+      "name": "Goga Kobalia"
+    },
+    {
+      "id": "nm6765917",
+      "name": "Davit Pirtskhalava"
+    },
+    {
+      "id": "nm0992140",
+      "name": "Levan Tutberidze"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm7587620",
+      "name": "Ani Bebia",
+      "character": ""
+    },
+    {
+      "id": "nm6150252",
+      "name": "Paata Inauri",
+      "character": "Mamuka"
+    },
+    {
+      "id": "nm3301424",
+      "name": "Jano Izoria",
+      "character": ""
+    },
+    {
+      "id": "nm7587618",
+      "name": "Giorgi Khurtsilava",
+      "character": ""
+    },
+    {
+      "id": "nm0535681",
+      "name": "Zurab Magalashvili",
+      "character": ""
+    },
+    {
+      "id": "nm12058748",
+      "name": "Taylor Shien",
+      "character": "Amelia"
+    },
+    {
+      "id": "nm7428405",
+      "name": "Keti Tskhakaia",
+      "character": ""
+    }
+  ],
+  "countries": [
+    "Georgia"
+  ],
+  "languages": [
+    "Georgian"
+  ],
+  "color": "Color",
+  "filmweb_id": 747646,
+  "year": 2015,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOTcwYmE4NmYtZGVmNC00ODU5LThmOTMtNDRhNzdiNzkyNGViXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.9,
+      "votes": 183,
+      "distribution": {
+        "1": 7,
+        "2": 2,
+        "3": 4,
+        "4": 7,
+        "5": 11,
+        "6": 26,
+        "7": 39,
+        "8": 25,
+        "9": 8,
+        "10": 54
+      },
+      "normalized": 5.3129
+    },
+    "filmweb": {
+      "rating": 5.86,
+      "votes": 37,
+      "distribution": {
+        "2": 0,
+        "3": 4,
+        "4": 3,
+        "5": 7,
+        "6": 8,
+        "7": 10,
+        "8": 5,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 4.9102
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "03.01.2019",
+      "normalized": 5.6855
+    },
+    "score": 5.3029
+  },
+  "polish_title": "Mojra",
+  "silent": false,
+  "description_pl": "Historia o rodzinie żyjącej w pięknej nadmorskiej miejscowości. Po tym, jak Mamuka (Paata Inauri) zostaje zwolniony z więzienia, stara się pomóc rodzinie i uratować ją przed ubóstwem. Jego matka pracuje za granicą, ojciec jest przykuty do wózka inwalidzkiego, a bezrobotny młodszy brat jest wciągany przez światek lokalnych przestępców. Mamuka bierze kredyt i kupuje małą łódź rybacką. Jest chętny do pracy i chce ściągnąć matkę z powrotem. Bracia nadają łodzi rybackiej nazwę Moira - bogini losu. Ale los jest często ślepy i bezlitosny...",
+  "composers": [
+    {
+      "id": "nm2043506",
+      "name": "Nukri Abashidze"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm1330488",
+      "name": "Gorka Gómez Andreu"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

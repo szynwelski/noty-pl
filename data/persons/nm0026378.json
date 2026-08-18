@@ -1,0 +1,37 @@
+{
+  "id": "nm0026378",
+  "name": "Arthur Anderson",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYzUxM2U1ZTItZmUwNy00NTg5LWFiYmYtYjJjZDQ0OWQyY2EwXkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0245562",
+      "title": "Windtalkers",
+      "year": 2002,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0338337",
+      "title": "Paycheck",
+      "year": 2003,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0317919",
+      "title": "Mission: Impossible III",
+      "year": 2006,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "image_url_small": "https://m.media-amazon.com/images/M/MV5BYzUxM2U1ZTItZmUwNy00NTg5LWFiYmYtYjJjZDQ0OWQyY2EwXkEyXkFqcGc@._V1_CR810,0,1023,1535_.jpg",
+  "imdb_scraped": true,
+  "filmweb_id": 274108,
+  "name_pl": "Arthur Anderson",
+  "gender": "M",
+  "wikidata_processed": true
+}

@@ -1,0 +1,49 @@
+{
+  "id": "nm0097278",
+  "name": "Henryk Borowski",
+  "filmography": [
+    {
+      "imdb_id": "tt0054004",
+      "title": "Knights of the Teutonic Order",
+      "year": 1960,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Siegfried de Löwe"
+    },
+    {
+      "imdb_id": "tt0182324",
+      "title": "Mistrz",
+      "year": 1966,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Mecenas"
+    },
+    {
+      "imdb_id": "tt0069492",
+      "title": "Wesele",
+      "year": 1973,
+      "roles": [
+        "cast"
+      ],
+      "character": "Old Man"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjZhZDRkY2QtYWI2NC00YjE2LWFiYjQtYmZkOGVlNTYzN2E5XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "14.02.1910",
+  "death_date": "13.11.1991",
+  "birth_location": "Plock, Poland, Russian Empire [now Plock, Mazowieckie, Poland]",
+  "filmweb_id": 8968,
+  "name_pl": "Henryk Borowski",
+  "birth_location_pl": "Płock",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Polska"
+  ],
+  "wikidata_fw_id": 8968
+}

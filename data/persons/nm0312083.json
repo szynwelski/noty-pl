@@ -1,0 +1,42 @@
+{
+  "id": "nm0312083",
+  "name": "Dieter Geissler",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYTg0OGUwMjctZDZjOS00ZGFlLWI5ZjMtZTRjMDlhZTc3OWM4XkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0088323",
+      "title": "The NeverEnding Story",
+      "year": 1984,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0104627",
+      "title": "Knight Moves",
+      "year": 1992,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0162661",
+      "title": "Sleepy Hollow",
+      "year": 1999,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "birth_date": "18.01.1939",
+  "birth_location": "Beuthen, Upper Silesia, Germany",
+  "filmweb_id": 81783,
+  "name_pl": "Dieter Geissler",
+  "birth_location_pl": "Beuthen",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Niemcy"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "nm0239958",
+  "name": "Rick Ducommun",
+  "filmography": [
+    {
+      "imdb_id": "tt0107048",
+      "title": "Groundhog Day",
+      "year": 1993,
+      "roles": [
+        "cast"
+      ],
+      "character": "Gus"
+    },
+    {
+      "imdb_id": "tt0175142",
+      "title": "Scary Movie",
+      "year": 2000,
+      "roles": [
+        "cast"
+      ],
+      "character": "Cindy's Dad"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMGI1NDhjODQtN2JiZC00OWQ1LThhNTYtN2Y1MDM1MzZjZGM2XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "03.07.1952",
+  "death_date": "12.06.2015",
+  "birth_location": "Prince Albert, Saskatchewan, Canada",
+  "height": "1.88 m",
+  "imdb_scraped": true,
+  "filmweb_id": 41308,
+  "name_pl": "Rick Ducommun",
+  "birth_location_pl": "Prince Albert",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Kanada"
+  ],
+  "wikidata_fw_id": 41308
+}

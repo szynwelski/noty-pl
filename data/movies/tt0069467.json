@@ -1,0 +1,209 @@
+{
+  "imdb_id": "tt0069467",
+  "title": "Cries & Whispers",
+  "description": "When a woman dying of cancer in early twentieth-century Sweden is visited by her two sisters, long-repressed feelings between the siblings rise to the surface.",
+  "runtime_minutes": 92,
+  "release_date": "05.03.1973",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0027683",
+      "name": "Harriet Andersson"
+    },
+    {
+      "id": "nm0880521",
+      "name": "Liv Ullmann"
+    },
+    {
+      "id": "nm0843306",
+      "name": "Kari Sylwan"
+    },
+    {
+      "id": "nm0862026",
+      "name": "Ingrid Thulin"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000005",
+      "name": "Ingmar Bergman"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000005",
+      "name": "Ingmar Bergman"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0027683",
+      "name": "Harriet Andersson",
+      "character": "Agnes"
+    },
+    {
+      "id": "nm0880521",
+      "name": "Liv Ullmann",
+      "character": "Maria"
+    },
+    {
+      "id": "nm0843306",
+      "name": "Kari Sylwan",
+      "character": "Anna"
+    },
+    {
+      "id": "nm0862026",
+      "name": "Ingrid Thulin",
+      "character": "Karin"
+    },
+    {
+      "id": "nm0252244",
+      "name": "Anders Ek",
+      "character": "Isak"
+    },
+    {
+      "id": "nm0318676",
+      "name": "Inga Gill",
+      "character": "Storyteller"
+    },
+    {
+      "id": "nm0430746",
+      "name": "Erland Josephson",
+      "character": "David"
+    },
+    {
+      "id": "nm0605786",
+      "name": "Henning Moritzen",
+      "character": "Joakim"
+    },
+    {
+      "id": "nm0959813",
+      "name": "Georg Årlin",
+      "character": "Fredrik"
+    },
+    {
+      "id": "nm0000005",
+      "name": "Ingmar Bergman",
+      "character": "Narrator"
+    },
+    {
+      "id": "nm0902894",
+      "name": "Ingrid Bergman",
+      "character": "Spectator"
+    },
+    {
+      "id": "nm0074822",
+      "name": "Lena Bergman",
+      "character": "Maria as a Child"
+    },
+    {
+      "id": "nm0137324",
+      "name": "Lars-Owe Carlberg",
+      "character": "Spectator"
+    },
+    {
+      "id": "nm0321549",
+      "name": "Malin Gjörup",
+      "character": "Anna's Daughter"
+    },
+    {
+      "id": "nm0423943",
+      "name": "Greta Johansson",
+      "character": "Undertaker"
+    },
+    {
+      "id": "nm0423980",
+      "name": "Karin Johansson",
+      "character": "Undertaker"
+    },
+    {
+      "id": "nm0516566",
+      "name": "Ann-Christin Lobråten",
+      "character": "Spectator"
+    },
+    {
+      "id": "nm0526464",
+      "name": "Börje Lundh",
+      "character": "Spectator"
+    }
+  ],
+  "countries": [
+    "Sweden"
+  ],
+  "languages": [
+    "Swedish",
+    "German",
+    "Danish"
+  ],
+  "color": null,
+  "filmweb_id": 31652,
+  "year": 1972,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZGJkMWJiZjYtZTZiMC00MDJmLWIxMDEtZDkxMzYzYTAyODZkXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Viskningar och rop",
+  "ratings": {
+    "imdb": {
+      "rating": 7.9,
+      "votes": 40119,
+      "distribution": {
+        "1": 877,
+        "2": 400,
+        "3": 451,
+        "4": 778,
+        "5": 1343,
+        "6": 2950,
+        "7": 6284,
+        "8": 10621,
+        "9": 7773,
+        "10": 8642
+      },
+      "normalized": 7.1424
+    },
+    "filmweb": {
+      "rating": 7.76,
+      "votes": 13177,
+      "distribution": {
+        "1": 235,
+        "2": 57,
+        "3": 153,
+        "4": 227,
+        "5": 514,
+        "6": 938,
+        "7": 2427,
+        "8": 4098,
+        "9": 2771,
+        "10": 1757
+      },
+      "normalized": 7.4351
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "08.12.2005",
+      "normalized": 7.2292
+    },
+    "score": 7.2689
+  },
+  "polish_title": "Szepty i krzyki",
+  "silent": false,
+  "description_pl": "Trzy siostry spotkały się po latach. Karin i Maria przyjechały do umierającej Agnes. Ciszę w domu przerywają krzyki konającej Agnes. Film pokazuje trzy siostry nieumiejące nawiązać porozumienia w obliczu tragedii, wszystkie pozostają samotne ze swoimi własnymi kłopotami.",
+  "producers": [
+    {
+      "id": "nm0000005",
+      "name": "Ingmar Bergman"
+    },
+    {
+      "id": "nm0137324",
+      "name": "Lars-Owe Carlberg"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005815",
+      "name": "Sven Nykvist"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

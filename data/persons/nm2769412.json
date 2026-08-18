@@ -1,0 +1,61 @@
+{
+  "id": "nm2769412",
+  "name": "Stephenie Meyer",
+  "filmography": [
+    {
+      "imdb_id": "tt1099212",
+      "title": "Twilight",
+      "year": 2008,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt1259571",
+      "title": "The Twilight Saga: New Moon",
+      "year": 2009,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt1325004",
+      "title": "The Twilight Saga: Eclipse",
+      "year": 2010,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt1324999",
+      "title": "The Twilight Saga: Breaking Dawn - Part 1",
+      "year": 2011,
+      "roles": [
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt1673434",
+      "title": "The Twilight Saga: Breaking Dawn - Part 2",
+      "year": 2012,
+      "roles": [
+        "writer",
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTM3NTQ0NjA2Ml5BMl5BanBnXkFtZTcwMjA4MTUwNw@@._V1_.jpg",
+  "birth_date": "24.12.1973",
+  "birth_location": "Hartford, Connecticut, USA",
+  "height": "1.63 m",
+  "imdb_scraped": true,
+  "filmweb_id": 814110,
+  "name_pl": "Stephenie Meyer",
+  "birth_location_pl": "Hartford, Connecticut",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

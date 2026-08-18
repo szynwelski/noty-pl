@@ -1,0 +1,39 @@
+{
+  "id": "nm0090124",
+  "name": "Bruce Boa",
+  "filmography": [
+    {
+      "imdb_id": "tt0075005",
+      "title": "The Omen",
+      "year": 1976,
+      "roles": [
+        "cast"
+      ],
+      "character": "Thorn's Aide"
+    },
+    {
+      "imdb_id": "tt0093058",
+      "title": "Full Metal Jacket",
+      "year": 1987,
+      "roles": [
+        "cast"
+      ],
+      "character": "Poge Colonel"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMWUyZGViMTQtMjg0Ny00M2ZjLWI4OTctNTdmM2NlODUwZTY5XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "10.07.1930",
+  "death_date": "17.04.2004",
+  "birth_location": "Calgary, Alberta, Canada",
+  "height": "1.87 m",
+  "imdb_scraped": true,
+  "filmweb_id": 49758,
+  "name_pl": "Bruce Boa",
+  "birth_location_pl": "Calgary",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Kanada"
+  ],
+  "wikidata_fw_id": 49758
+}

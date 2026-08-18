@@ -1,0 +1,51 @@
+{
+  "id": "nm0001228",
+  "name": "Peter Fonda",
+  "filmography": [
+    {
+      "imdb_id": "tt0064276",
+      "title": "Easy Rider",
+      "year": 1969,
+      "roles": [
+        "writer",
+        "star",
+        "cast",
+        "producer"
+      ],
+      "character": "Wyatt"
+    },
+    {
+      "imdb_id": "tt0381849",
+      "title": "3:10 to Yuma",
+      "year": 2007,
+      "roles": [
+        "cast"
+      ],
+      "character": "Byron McElroy"
+    },
+    {
+      "imdb_id": "tt1300851",
+      "title": "The Boondock Saints II: All Saints Day",
+      "year": 2009,
+      "roles": [
+        "cast"
+      ],
+      "character": "The Roman"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzczNzY1NjQtZTQ0Ny00OGIwLWFkM2QtM2VhYTUzN2U2ZDMxXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "23.02.1940",
+  "death_date": "16.08.2019",
+  "birth_location": "Manhattan, New York City, New York, USA",
+  "height": "1.89 m",
+  "filmweb_id": 8142,
+  "name_pl": "Peter Fonda",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 8142
+}

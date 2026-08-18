@@ -1,0 +1,230 @@
+{
+  "imdb_id": "tt0119925",
+  "title": "The Postman",
+  "description": "A nameless drifter dons a postman's uniform and bag of mail as he begins a quest to inspire hope to the survivors living in post-apocalyptic America.",
+  "runtime_minutes": 177,
+  "release_date": "25.12.1997",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm0000126",
+      "name": "Kevin Costner"
+    },
+    {
+      "id": "nm0001599",
+      "name": "Will Patton"
+    },
+    {
+      "id": "nm0005478",
+      "name": "Larenz Tate"
+    },
+    {
+      "id": "nm0931404",
+      "name": "Olivia Williams"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000126",
+      "name": "Kevin Costner"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0109432",
+      "name": "David Brin"
+    },
+    {
+      "id": "nm0744839",
+      "name": "Eric Roth"
+    },
+    {
+      "id": "nm0001338",
+      "name": "Brian Helgeland"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000126",
+      "name": "Kevin Costner",
+      "character": "The Postman"
+    },
+    {
+      "id": "nm0001599",
+      "name": "Will Patton",
+      "character": "General Bethlehem"
+    },
+    {
+      "id": "nm0005478",
+      "name": "Larenz Tate",
+      "character": "Ford Lincoln Mercury"
+    },
+    {
+      "id": "nm0931404",
+      "name": "Olivia Williams",
+      "character": "Abby"
+    },
+    {
+      "id": "nm0751638",
+      "name": "James Russo",
+      "character": "Idaho"
+    },
+    {
+      "id": "nm0901926",
+      "name": "Daniel von Bargen",
+      "character": "Pineview Sheriff Briscoe"
+    },
+    {
+      "id": "nm0678816",
+      "name": "Tom Petty",
+      "character": "Bridge City Mayor"
+    },
+    {
+      "id": "nm0000282",
+      "name": "Scott Bairstow",
+      "character": "Luke"
+    },
+    {
+      "id": "nm0000610",
+      "name": "Giovanni Ribisi",
+      "character": "Bandit 20"
+    },
+    {
+      "id": "nm0561809",
+      "name": "Roberta Maxwell",
+      "character": "Irene March"
+    },
+    {
+      "id": "nm0764134",
+      "name": "Joe Santos",
+      "character": "Colonel Getty"
+    },
+    {
+      "id": "nm0572261",
+      "name": "Ron McLarty",
+      "character": "Old George"
+    },
+    {
+      "id": "nm0005152",
+      "name": "Peggy Lipton",
+      "character": "Ellen March"
+    },
+    {
+      "id": "nm0933096",
+      "name": "Brian Anthony Wilson",
+      "character": "Woody"
+    },
+    {
+      "id": "nm0021112",
+      "name": "Todd Allen",
+      "character": "Gibbs"
+    },
+    {
+      "id": "nm0513010",
+      "name": "Rex Linn",
+      "character": "Mercer"
+    },
+    {
+      "id": "nm0004999",
+      "name": "Shawn Hatosy",
+      "character": "Billy"
+    },
+    {
+      "id": "nm0403652",
+      "name": "Ryan Hurst",
+      "character": "Eddie March"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 200,
+  "year": 1997,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMGNiZjA3ODMtYmExMS00MzRiLWI3N2QtNDQxYzRlYzAwNjBhXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.1,
+      "votes": 83850,
+      "distribution": {
+        "1": 3043,
+        "2": 2262,
+        "3": 3581,
+        "4": 5730,
+        "5": 10760,
+        "6": 17889,
+        "7": 18262,
+        "8": 11241,
+        "9": 4787,
+        "10": 6295
+      },
+      "normalized": 3.7727
+    },
+    "filmweb": {
+      "rating": 6.5,
+      "votes": 20141,
+      "distribution": {
+        "1": 183,
+        "2": 259,
+        "3": 678,
+        "4": 1077,
+        "5": 2334,
+        "6": 4481,
+        "7": 6079,
+        "8": 3298,
+        "9": 1064,
+        "10": 688
+      },
+      "normalized": 4.337
+    },
+    "michal": {
+      "rating": 3,
+      "date_rated": "20.10.2005",
+      "normalized": 3.8753
+    },
+    "score": 3.995
+  },
+  "polish_title": "Wysłannik przyszłości",
+  "silent": false,
+  "description_pl": "Akcja filmu toczy się w przyszłości. Jest rok 2013, Ameryka została zniszczona przez\r\nIII wojnę światową, ocalała ludność żyje w niewielkich skupiskach, unika wzajemnych\r\nkontaktów. Pojawia się jednak tajemniczy nieznajomy, wędrujący od wioski do wioski,\r\ngrający sceny z dramatów Szekspira.",
+  "producers": [
+    {
+      "id": "nm0075801",
+      "name": "Lester Berman"
+    },
+    {
+      "id": "nm0000126",
+      "name": "Kevin Costner"
+    },
+    {
+      "id": "nm0005494",
+      "name": "Steve Tisch"
+    },
+    {
+      "id": "nm0933604",
+      "name": "Jim Wilson"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006133",
+      "name": "James Newton Howard"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0934752",
+      "name": "Stephen F. Windon"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

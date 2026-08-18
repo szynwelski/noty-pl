@@ -1,0 +1,27 @@
+{
+  "id": "nm0333931",
+  "name": "Bill Graham",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzAzN2YyYTQtODU2Zi00Y2QxLTlhZDYtYmY4YzVlNDhiNGI3XkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0101761",
+      "title": "The Doors",
+      "year": 1991,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "birth_date": "08.01.1931",
+  "death_date": "25.10.1991",
+  "birth_location": "Berlin, Germany",
+  "imdb_scraped": true,
+  "filmweb_id": 146246,
+  "name_pl": "Bill Graham",
+  "birth_location_pl": "Berlin",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

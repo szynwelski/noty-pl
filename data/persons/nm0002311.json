@@ -1,0 +1,49 @@
+{
+  "id": "nm0002311",
+  "name": "Montagu Love",
+  "filmography": [
+    {
+      "imdb_id": "tt0020080",
+      "title": "The Last Warning",
+      "year": 1928,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Arthur McHugh"
+    },
+    {
+      "imdb_id": "tt0019585",
+      "title": "The Wind",
+      "year": 1928,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Roddy"
+    },
+    {
+      "imdb_id": "tt0029843",
+      "title": "The Adventures of Robin Hood",
+      "year": 1938,
+      "roles": [
+        "cast"
+      ],
+      "character": "Bishop of the Black Canons"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZDBkZDkzMmQtOWM1NC00YzcxLTk3ZGEtZjcwM2Y5MTNmMWRiXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "15.03.1880",
+  "death_date": "17.05.1943",
+  "birth_location": "Portsmouth, Hampshire, England, UK",
+  "height": "1.88 m",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "filmweb_id": 54895,
+  "name_pl": "Montagu Love",
+  "birth_location_pl": "Portsmouth, Anglia",
+  "gender": "M"
+}

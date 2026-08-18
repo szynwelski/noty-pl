@@ -1,0 +1,36 @@
+{
+  "id": "nm0005735",
+  "name": "Ernest Haller",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYmIwY2E4YWMtZjBkMi00NmY0LThmMjAtNGU5MTU2MzE5YWQ5XkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0048545",
+      "title": "Rebel Without a Cause",
+      "year": 1955,
+      "roles": [
+        "cinematographer"
+      ]
+    },
+    {
+      "imdb_id": "tt0056687",
+      "title": "What Ever Happened to Baby Jane?",
+      "year": 1962,
+      "roles": [
+        "cinematographer"
+      ]
+    }
+  ],
+  "birth_date": "31.05.1896",
+  "death_date": "21.10.1970",
+  "birth_location": "Los Angeles, California, USA",
+  "height": "1.75 m",
+  "imdb_scraped": true,
+  "filmweb_id": 13063,
+  "name_pl": "Ernest Haller",
+  "birth_location_pl": "Los Angeles, Kalifornia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

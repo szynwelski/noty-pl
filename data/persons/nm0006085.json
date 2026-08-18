@@ -1,0 +1,35 @@
+{
+  "id": "nm0006085",
+  "name": "Arthur Freed",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDNiMGRmMzctM2NjNS00YTY1LThkMDctMzI4OWRjZWU1ZWYxXkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0032138",
+      "title": "The Wizard of Oz",
+      "year": 1939,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0045152",
+      "title": "Singin' in the Rain",
+      "year": 1952,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "birth_date": "09.09.1894",
+  "death_date": "12.04.1973",
+  "birth_location": "Charleston, South Carolina, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 82654,
+  "name_pl": "Arthur Freed",
+  "birth_location_pl": "Charleston, Karolina Południowa",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

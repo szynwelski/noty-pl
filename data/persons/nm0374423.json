@@ -1,0 +1,35 @@
+{
+  "id": "nm0374423",
+  "name": "Robert A. Heinlein",
+  "filmography": [
+    {
+      "imdb_id": "tt0120201",
+      "title": "Starship Troopers",
+      "year": 1997,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt2397535",
+      "title": "Predestination",
+      "year": 2014,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZGFjYmQ2YTAtYzgwNS00YjU3LTk1YTEtMDJhYmMwODM0ZGM0XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "07.07.1907",
+  "death_date": "08.05.1988",
+  "birth_location": "Butler, Missouri, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 11010,
+  "name_pl": "Robert A. Heinlein",
+  "birth_location_pl": "Butler, Missouri",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

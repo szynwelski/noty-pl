@@ -1,0 +1,243 @@
+{
+  "imdb_id": "tt9770150",
+  "title": "Nomadland",
+  "description": "After losing everything in the Great Recession, a woman in her sixties embarks on a journey through the American West, living as a van-dwelling nomad.",
+  "runtime_minutes": 107,
+  "release_date": "19.02.2021",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0000531",
+      "name": "Frances McDormand"
+    },
+    {
+      "id": "nm0000657",
+      "name": "David Strathairn"
+    },
+    {
+      "id": "nm9584508",
+      "name": "Linda May"
+    },
+    {
+      "id": "nm11894469",
+      "name": "Gay DeForest"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm2125482",
+      "name": "Chloé Zhao"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm2125482",
+      "name": "Chloé Zhao"
+    },
+    {
+      "id": "nm9572798",
+      "name": "Jessica Bruder"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000531",
+      "name": "Frances McDormand",
+      "character": "Fern"
+    },
+    {
+      "id": "nm0000657",
+      "name": "David Strathairn",
+      "character": "Dave"
+    },
+    {
+      "id": "nm9584508",
+      "name": "Linda May",
+      "character": "Linda"
+    },
+    {
+      "id": "nm11894469",
+      "name": "Gay DeForest",
+      "character": "Gay"
+    },
+    {
+      "id": "nm11894470",
+      "name": "Patricia Grier",
+      "character": "Patty"
+    },
+    {
+      "id": "nm11894471",
+      "name": "Angela Reyes",
+      "character": "Angela"
+    },
+    {
+      "id": "nm11894472",
+      "name": "Carl R. Hughes",
+      "character": "Carl"
+    },
+    {
+      "id": "nm11894473",
+      "name": "Douglas G. Soul",
+      "character": "Doug"
+    },
+    {
+      "id": "nm11894474",
+      "name": "Ryan Aquino",
+      "character": "Ryan"
+    },
+    {
+      "id": "nm11894475",
+      "name": "Teresa Buchanan",
+      "character": "Teresa"
+    },
+    {
+      "id": "nm11894476",
+      "name": "Karie Lynn McDermott Wilder",
+      "character": "Karie"
+    },
+    {
+      "id": "nm11894477",
+      "name": "Brandy Wilber",
+      "character": "Brandy"
+    },
+    {
+      "id": "nm11894478",
+      "name": "Makenzie Etcheverry",
+      "character": "Makenzie"
+    },
+    {
+      "id": "nm9984799",
+      "name": "Bob Wells",
+      "character": "Bob"
+    },
+    {
+      "id": "nm11922485",
+      "name": "Annette Webb",
+      "character": "Annette"
+    },
+    {
+      "id": "nm11894480",
+      "name": "Rachel Bannon",
+      "character": "Rachel"
+    },
+    {
+      "id": "nm10470534",
+      "name": "Charlene Swankie",
+      "character": "Swankie"
+    },
+    {
+      "id": "nm11894481",
+      "name": "Bryce Bedsworth",
+      "character": "Bryce"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 837168,
+  "year": 2020,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZGNkOWQ0ZjMtMTc4Ny00NDRhLTgyMjUtNzFmZDM0MTc3N2JjXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.3,
+      "votes": 221248,
+      "distribution": {
+        "1": 3241,
+        "2": 1861,
+        "3": 2617,
+        "4": 4665,
+        "5": 11024,
+        "6": 26332,
+        "7": 73490,
+        "8": 57317,
+        "9": 26431,
+        "10": 14270
+      },
+      "normalized": 6.1097
+    },
+    "filmweb": {
+      "rating": 7.14,
+      "votes": 52678,
+      "distribution": {
+        "1": 145,
+        "2": 140,
+        "3": 596,
+        "4": 1082,
+        "5": 3625,
+        "6": 8403,
+        "7": 17881,
+        "8": 14092,
+        "9": 3905,
+        "10": 2809
+      },
+      "normalized": 5.9021
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "30.10.2022",
+      "normalized": 5.4199
+    },
+    "score": 5.8106
+  },
+  "polish_title": "Nomadland",
+  "silent": false,
+  "description_pl": "Fern (<a href=\"/osoba/?id=nm0000531\">Frances McDormand</a>) pakuje swojego vana i wyrusza w drogę jako współczesna nomadka, po tym jak w wyniku recesji straciła właściwie cały swój dotychczasowy dobytek. \"Nomadland\", trzeci film fabularny reżyserki Chloé Zhao, przedstawia historię Lindy May, Swankie i Boba Wellsa, prawdziwych nomadów, którzy stają się mentorami i towarzyszami Fern podczas jej podróży po rozległym amerykańskim Zachodzie.",
+  "producers": [
+    {
+      "id": "nm2571693",
+      "name": "Mollye Asher"
+    },
+    {
+      "id": "nm9572798",
+      "name": "Jessica Bruder"
+    },
+    {
+      "id": "nm3239083",
+      "name": "Emily Jade Foley"
+    },
+    {
+      "id": "nm1885766",
+      "name": "Dan Janvey"
+    },
+    {
+      "id": "nm1416193",
+      "name": "Geoff Linville"
+    },
+    {
+      "id": "nm0000531",
+      "name": "Frances McDormand"
+    },
+    {
+      "id": "nm3831988",
+      "name": "Taylor Shung"
+    },
+    {
+      "id": "nm0817379",
+      "name": "Peter Spears"
+    },
+    {
+      "id": "nm2125482",
+      "name": "Chloé Zhao"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0251801",
+      "name": "Ludovico Einaudi"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm4452305",
+      "name": "Joshua James Richards"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "nm0446303",
+  "name": "David Kelly",
+  "filmography": [
+    {
+      "imdb_id": "tt0091757",
+      "title": "Pirates",
+      "year": 1986,
+      "roles": [
+        "cast"
+      ],
+      "character": "Surgeon"
+    },
+    {
+      "imdb_id": "tt0367594",
+      "title": "Charlie and the Chocolate Factory",
+      "year": 2005,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Grandpa Joe"
+    },
+    {
+      "imdb_id": "tt0486655",
+      "title": "Stardust",
+      "year": 2007,
+      "roles": [
+        "cast"
+      ],
+      "character": "Guard"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTg0MzEwMjYwNl5BMl5BanBnXkFtZTYwNjgzNTg1._V1_.jpg",
+  "birth_date": "11.07.1929",
+  "death_date": "12.02.2012",
+  "birth_location": "Dublin, Ireland",
+  "height": "1.73 m",
+  "filmweb_id": 8519,
+  "name_pl": "David Kelly",
+  "birth_location_pl": "Dublin",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Irlandia"
+  ]
+}

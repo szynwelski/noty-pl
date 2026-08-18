@@ -1,0 +1,27 @@
+{
+  "id": "nm0338379",
+  "name": "Tom Green",
+  "filmography": [
+    {
+      "imdb_id": "tt0000313",
+      "title": "Let Me Dream Again",
+      "year": 1900,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Man"
+    }
+  ],
+  "birth_date": "17.09.1852",
+  "death_date": "1942",
+  "birth_location": "Spalding, Lincolnshire, England, UK",
+  "imdb_scraped": true,
+  "filmweb_id": 363163,
+  "name_pl": "Tom Green",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ]
+}

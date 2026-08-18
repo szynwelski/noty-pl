@@ -1,0 +1,50 @@
+{
+  "id": "nm0001511",
+  "name": "Lee Marvin",
+  "filmography": [
+    {
+      "imdb_id": "tt0045555",
+      "title": "The Big Heat",
+      "year": 1953,
+      "roles": [
+        "cast"
+      ],
+      "character": "Vince Stone"
+    },
+    {
+      "imdb_id": "tt0047677",
+      "title": "The Wild One",
+      "year": 1953,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Chino"
+    },
+    {
+      "imdb_id": "tt0056217",
+      "title": "The Man Who Shot Liberty Valance",
+      "year": 1962,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Liberty Valance"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOTc1YzU5ZjAtNWRiNC00ZGRlLWE1MDktNTJmMGZkOTE1NzFmXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "19.02.1924",
+  "death_date": "29.08.1987",
+  "birth_location": "New York City, New York, USA",
+  "height": "1.86 m",
+  "filmweb_id": 42043,
+  "name_pl": "Lee Marvin",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 42043
+}

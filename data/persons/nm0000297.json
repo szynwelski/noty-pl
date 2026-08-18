@@ -1,0 +1,77 @@
+{
+  "id": "nm0000297",
+  "name": "Tom Berenger",
+  "filmography": [
+    {
+      "imdb_id": "tt0091763",
+      "title": "Platoon",
+      "year": 1986,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Sgt. Barnes"
+    },
+    {
+      "imdb_id": "tt0139654",
+      "title": "Training Day",
+      "year": 2001,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Stan Gursky"
+    },
+    {
+      "imdb_id": "tt0160184",
+      "title": "D-Tox",
+      "year": 2002,
+      "roles": [
+        "cast"
+      ],
+      "character": "Hank"
+    },
+    {
+      "imdb_id": "tt1375666",
+      "title": "Inception",
+      "year": 2010,
+      "roles": [
+        "cast"
+      ],
+      "character": "Browning"
+    },
+    {
+      "imdb_id": "tt3776288",
+      "title": "Sniper: Legacy",
+      "year": 2014,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "MGySgt Thomas Beckett"
+    },
+    {
+      "imdb_id": "tt12305696",
+      "title": "Sniper: Assassin's End",
+      "year": 2020,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Thomas Beckett"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTk1OTQ5MzUzM15BMl5BanBnXkFtZTgwMDUxMTY1NDE@._V1_.jpg",
+  "birth_date": "31.05.1949",
+  "birth_location": "Chicago, Illinois, USA",
+  "height": "1.80 m",
+  "filmweb_id": 138,
+  "name_pl": "Tom Berenger",
+  "birth_location_pl": "Chicago, Illinois",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

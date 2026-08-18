@@ -1,0 +1,191 @@
+{
+  "imdb_id": "tt0056111",
+  "title": "Ivan's Childhood",
+  "description": "During WWII, Soviet orphan Ivan Bondarev strikes up a friendship with three sympathetic Soviet officers while working as a scout behind the German lines.",
+  "runtime_minutes": 95,
+  "release_date": "27.06.1963",
+  "genres": [
+    "Drama",
+    "War"
+  ],
+  "stars": [
+    {
+      "id": "nm0122168",
+      "name": "Nikolay Burlyaev"
+    },
+    {
+      "id": "nm0958284",
+      "name": "Valentin Zubkov"
+    },
+    {
+      "id": "nm0955529",
+      "name": "Evgeniy Zharikov"
+    },
+    {
+      "id": "nm0472989",
+      "name": "Stepan Krylov"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001789",
+      "name": "Andrei Tarkovsky"
+    },
+    {
+      "id": "nm0007672",
+      "name": "Eduard Abalov"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1530016",
+      "name": "Vladimir Bogomolov"
+    },
+    {
+      "id": "nm0660353",
+      "name": "Mikhail Papava"
+    },
+    {
+      "id": "nm0464846",
+      "name": "Andrei Konchalovsky"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0122168",
+      "name": "Nikolay Burlyaev",
+      "character": "Ivan Bondarev"
+    },
+    {
+      "id": "nm0958284",
+      "name": "Valentin Zubkov",
+      "character": "Leonid Kholin"
+    },
+    {
+      "id": "nm0955529",
+      "name": "Evgeniy Zharikov",
+      "character": "Galtsev"
+    },
+    {
+      "id": "nm0472989",
+      "name": "Stepan Krylov",
+      "character": "Katasonov"
+    },
+    {
+      "id": "nm0342458",
+      "name": "Nikolay Grinko",
+      "character": "Gryaznov"
+    },
+    {
+      "id": "nm0590753",
+      "name": "Dmitri Milyutenko",
+      "character": "Old Man"
+    },
+    {
+      "id": "nm0540909",
+      "name": "Valentina Malyavina",
+      "character": "Masha"
+    },
+    {
+      "id": "nm0712173",
+      "name": "Irma Tarkovskaya",
+      "character": "Ivan's Mother"
+    },
+    {
+      "id": "nm0464846",
+      "name": "Andrei Konchalovsky",
+      "character": "Soldier with glasses"
+    },
+    {
+      "id": "nm0767832",
+      "name": "Ivan Savkin",
+      "character": ""
+    },
+    {
+      "id": "nm0546466",
+      "name": "Vladimir Marenkov",
+      "character": ""
+    },
+    {
+      "id": "nm2511229",
+      "name": "Vera Miturich",
+      "character": "Girl"
+    },
+    {
+      "id": "nm0810673",
+      "name": "Nikolay Smorchkov",
+      "character": "Starshina"
+    }
+  ],
+  "countries": [
+    "Soviet Union"
+  ],
+  "languages": [
+    "Russian",
+    "German"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 103880,
+  "year": 1962,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMGM0ZGQ3ZWMtMGZjMi00MTIzLTg2ODItMjdmNmY3YTlkMDNiXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Ivanovo detstvo",
+  "ratings": {
+    "imdb": {
+      "rating": 8,
+      "votes": 43869,
+      "distribution": {
+        "1": 794,
+        "2": 309,
+        "3": 291,
+        "4": 452,
+        "5": 1002,
+        "6": 2710,
+        "7": 7657,
+        "8": 14238,
+        "9": 9016,
+        "10": 7400
+      },
+      "normalized": 7.3709
+    },
+    "filmweb": {
+      "rating": 7.43,
+      "votes": 4871,
+      "distribution": {
+        "1": 96,
+        "2": 11,
+        "3": 28,
+        "4": 69,
+        "5": 158,
+        "6": 480,
+        "7": 1449,
+        "8": 1624,
+        "9": 656,
+        "10": 300
+      },
+      "normalized": 6.4307
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "17.11.2007",
+      "normalized": 7.2292
+    },
+    "score": 7.0103
+  },
+  "polish_title": "Dziecko wojny",
+  "silent": false,
+  "description_pl": "II wojna światowa. Radzieckie oddziały spotykają w drodze na front chłopca, któremu udało się uciec z obozu koncentracyjnego. Jak się okazuje, Iwan (<a href=\"/osoba/?id=nm0122168\">Nikołaj Burlajew</a>) stracił  z rąk okupantów wszystkich najbliższych. Dowódca oddziału, kapitan Cholin (<a href=\"/osoba/?id=nm0958284\">Valentin Zubkov</a>), chce go wysłać do szkoły znajdującej się na terenach nie objętych działaniami wojennymi. Jednak chłopiec upiera się, żeby zostać w wojsku.",
+  "composers": [
+    {
+      "id": "nm0653778",
+      "name": "Vyacheslav Ovchinnikov"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0951134",
+      "name": "Vadim Yusov"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

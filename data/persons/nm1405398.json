@@ -1,0 +1,40 @@
+{
+  "id": "nm1405398",
+  "name": "Dan Stevens",
+  "filmography": [
+    {
+      "imdb_id": "tt2771200",
+      "title": "Beauty and the Beast",
+      "year": 2017,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Beast"
+    },
+    {
+      "imdb_id": "tt20239370",
+      "title": "Mason's Rats",
+      "year": 2022,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Nigel"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTY0NTY5OTI2MF5BMl5BanBnXkFtZTgwNDkzMzIxMzE@._V1_.jpg",
+  "birth_date": "10.10.1982",
+  "birth_location": "Croydon, Surrey, England, UK",
+  "height": "1.83 m",
+  "imdb_scraped": true,
+  "filmweb_id": 191851,
+  "name_pl": "Dan Stevens",
+  "birth_location_pl": "Croydon, Anglia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 191851
+}

@@ -1,0 +1,30 @@
+{
+  "id": "nm0003044",
+  "name": "Michael Jordan",
+  "filmography": [
+    {
+      "imdb_id": "tt0117705",
+      "title": "Space Jam",
+      "year": 1996,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Michael Jordan"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjAzNjAzMDM1Ml5BMl5BanBnXkFtZTcwMjU5NjI3Mg@@._V1_.jpg",
+  "birth_date": "17.02.1963",
+  "birth_location": "Brooklyn, New York City, New York, USA",
+  "height": "1.94 m",
+  "imdb_scraped": true,
+  "filmweb_id": 5182,
+  "name_pl": "Michael Jordan",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 5182
+}

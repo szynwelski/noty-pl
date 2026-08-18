@@ -1,0 +1,227 @@
+{
+  "imdb_id": "tt0095765",
+  "title": "Cinema Paradiso",
+  "description": "Salvatore, a famous film director, returns to his hometown for the funeral of the local theater's film projectionist, Alfredo. He reminisces about his life as a young boy falling in love with cinema.",
+  "runtime_minutes": 174,
+  "release_date": "23.02.1990",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0634159",
+      "name": "Philippe Noiret"
+    },
+    {
+      "id": "nm0134073",
+      "name": "Enzo Cannavale"
+    },
+    {
+      "id": "nm0041066",
+      "name": "Antonella Attili"
+    },
+    {
+      "id": "nm0199774",
+      "name": "Isa Danieli"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0868153",
+      "name": "Giuseppe Tornatore"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0868153",
+      "name": "Giuseppe Tornatore"
+    },
+    {
+      "id": "nm0660031",
+      "name": "Vanna Paoli"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0634159",
+      "name": "Philippe Noiret",
+      "character": "Alfredo"
+    },
+    {
+      "id": "nm0134073",
+      "name": "Enzo Cannavale",
+      "character": "Spaccafico"
+    },
+    {
+      "id": "nm0041066",
+      "name": "Antonella Attili",
+      "character": "Maria Di Vita - Younger"
+    },
+    {
+      "id": "nm0199774",
+      "name": "Isa Danieli",
+      "character": "Anna"
+    },
+    {
+      "id": "nm0347842",
+      "name": "Leo Gullotta",
+      "character": "Usher"
+    },
+    {
+      "id": "nm0502813",
+      "name": "Marco Leonardi",
+      "character": "Salvatore 'Totò' Di Vita - Teenager"
+    },
+    {
+      "id": "nm0535991",
+      "name": "Pupella Maggio",
+      "character": "Maria Di Vita - Older"
+    },
+    {
+      "id": "nm0620919",
+      "name": "Agnese Nano",
+      "character": "Elena Mendola"
+    },
+    {
+      "id": "nm0872689",
+      "name": "Leopoldo Trieste",
+      "character": "Father Adelfio"
+    },
+    {
+      "id": "nm0143150",
+      "name": "Salvatore Cascio",
+      "character": "Salvatore 'Totò' Di Vita - Child"
+    },
+    {
+      "id": "nm0162326",
+      "name": "Tano Cimarosa",
+      "character": "Blacksmith"
+    },
+    {
+      "id": "nm0224214",
+      "name": "Nicola Di Pinto",
+      "character": "Village Idiot"
+    },
+    {
+      "id": "nm0501665",
+      "name": "Roberta Lena",
+      "character": "Lia"
+    },
+    {
+      "id": "nm0856196",
+      "name": "Nino Terzo",
+      "character": "Peppino's Father"
+    },
+    {
+      "id": "nm0674742",
+      "name": "Jacques Perrin",
+      "character": "Salvatore 'Totò' Di Vita - Adult"
+    },
+    {
+      "id": "nm0287637",
+      "name": "Brigitte Fossey",
+      "character": "Elena Mendola - Adult"
+    },
+    {
+      "id": "nm0481115",
+      "name": "Nellina Laganà",
+      "character": ""
+    },
+    {
+      "id": "nm0321291",
+      "name": "Turi Giuffrida",
+      "character": ""
+    }
+  ],
+  "countries": [
+    "Italy",
+    "France"
+  ],
+  "languages": [
+    "Italian"
+  ],
+  "color": "Color",
+  "year": 1988,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTljNzc4YWEtYTZlMS00ODMyLWIwMTAtNWQxY2VkMDEwYTk5XkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 8228,
+  "original_title": "Nuovo Cinema Paradiso",
+  "ratings": {
+    "imdb": {
+      "rating": 8.5,
+      "votes": 319484,
+      "distribution": {
+        "1": 3778,
+        "2": 1274,
+        "3": 1431,
+        "4": 2698,
+        "5": 5503,
+        "6": 12209,
+        "7": 34813,
+        "8": 76301,
+        "9": 89339,
+        "10": 92138
+      },
+      "normalized": 8.7715
+    },
+    "filmweb": {
+      "rating": 8.1,
+      "votes": 78313,
+      "distribution": {
+        "1": 465,
+        "2": 135,
+        "3": 339,
+        "4": 676,
+        "5": 1763,
+        "6": 4356,
+        "7": 13244,
+        "8": 25802,
+        "9": 19381,
+        "10": 12152
+      },
+      "normalized": 8.6636
+    },
+    "jarek": {
+      "rating": 8,
+      "date_rated": "23.03.2006",
+      "normalized": 7.8989
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "08.03.2006",
+      "normalized": 6.3474
+    },
+    "score": 7.9204
+  },
+  "polish_title": "Cinema Paradiso",
+  "silent": false,
+  "description_pl": "Cinema Paradiso opowiada historię znanego włoskiego reżysera Salvatore (<a href=\"/osoba/?id=nm0674742\">Jacques Perrin</a>), który po latach powraca pamięcią do czasów dzieciństwa spędzonego w małym sycylijskim miasteczku. Cały świat zaaferowany jest wydarzeniami politycznymi po II wojnie światowej, jednak tutaj, w prowincjonalnym miasteczku, ludzie żyją swoimi sprawami, a ich jedyną rozrywką są filmy wyświetlane w kinie parafialnym \"Paradiso\". Toto (<a href=\"/osoba/?id=nm0143150\">Salvatore Cascio</a>), jak nazywają w mieście małego Salvatore, przyjaźni się z miejscowym kinowym operatorem Alfredo (<a href=\"/osoba/?id=nm0634159\">Philippe Noiret</a>), który wprowadza chłopca w magiczny świat ruchomych obrazków. Toto dzień po dniu spędza w ciemnej kinowej sali, chłonąc pojawiające się na ekranie obrazy i marząc o samodzielnym robieniu filmów. Kino staje się także dla niego źródłem pierwszych miłosnych doświadczeń. Oto pojawia się Elena (Agnese Nano), najpiękniejsza dziewczyna w miasteczku, w której zapatrzony w filmowe romanse Toto szaleńczo się zakochuje.",
+  "producers": [
+    {
+      "id": "nm0139199",
+      "name": "Gabriella Carosio"
+    },
+    {
+      "id": "nm0188053",
+      "name": "Franco Cristaldi"
+    },
+    {
+      "id": "nm0738603",
+      "name": "Giovanna Romagnoli"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0001553",
+      "name": "Ennio Morricone"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005721",
+      "name": "Blasco Giurato"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

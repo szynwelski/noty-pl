@@ -1,0 +1,36 @@
+{
+  "id": "nm0808458",
+  "name": "Herbert Smith",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTAzOTI1MjI0NzheQTJeQWpwZ15BbWU2MDg4NTIwMw@@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0034891",
+      "title": "In Which We Serve",
+      "year": 1942,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0036910",
+      "title": "Henry V",
+      "year": 1944,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "birth_date": "30.06.1901",
+  "death_date": "04.02.1986",
+  "birth_location": "London, England, UK",
+  "imdb_scraped": true,
+  "filmweb_id": 148489,
+  "name_pl": "Herbert Smith",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania",
+    "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii"
+  ]
+}

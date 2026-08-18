@@ -1,0 +1,49 @@
+{
+  "id": "nm0137506",
+  "name": "George Carlin",
+  "filmography": [
+    {
+      "imdb_id": "tt0096928",
+      "title": "Bill & Ted's Excellent Adventure",
+      "year": 1989,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Rufus"
+    },
+    {
+      "imdb_id": "tt0120655",
+      "title": "Dogma",
+      "year": 1999,
+      "roles": [
+        "cast"
+      ],
+      "character": "Cardinal Glick"
+    },
+    {
+      "imdb_id": "tt0261392",
+      "title": "Jay and Silent Bob Strike Back",
+      "year": 2001,
+      "roles": [
+        "cast"
+      ],
+      "character": "Hitchhiker"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDUxZTI5ZTgtZGE3NC00YTUxLWE5ODItY2EwMDI0YzY5ODA2XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "12.05.1937",
+  "death_date": "22.06.2008",
+  "birth_location": "New York City, New York, USA",
+  "height": "1.75 m",
+  "filmweb_id": 9171,
+  "name_pl": "George Carlin",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 9171
+}

@@ -1,0 +1,39 @@
+{
+  "id": "nm0092290",
+  "name": "Curt Bois",
+  "filmography": [
+    {
+      "imdb_id": "tt0034583",
+      "title": "Casablanca",
+      "year": 1942,
+      "roles": [
+        "cast"
+      ],
+      "character": "Pickpocket"
+    },
+    {
+      "imdb_id": "tt0093191",
+      "title": "Wings of Desire",
+      "year": 1987,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Homer"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTVjODE3NzYtMTc5NS00YTAyLWI0ZDYtN2JiOWU0MTM0Yzg2XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "05.04.1901",
+  "death_date": "25.12.1991",
+  "birth_location": "Berlin, Germany",
+  "imdb_scraped": true,
+  "filmweb_id": 45266,
+  "name_pl": "Curt Bois",
+  "birth_location_pl": "Berlin",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Niemcy"
+  ],
+  "wikidata_fw_id": 45266
+}

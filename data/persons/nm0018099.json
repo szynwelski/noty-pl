@@ -1,0 +1,37 @@
+{
+  "id": "nm0018099",
+  "name": "John Ales",
+  "filmography": [
+    {
+      "imdb_id": "tt0117723",
+      "title": "Spy Hard",
+      "year": 1996,
+      "roles": [
+        "cast"
+      ],
+      "character": "Kabul"
+    },
+    {
+      "imdb_id": "tt33764258",
+      "title": "The Odyssey",
+      "year": 2026,
+      "roles": [
+        "cast"
+      ],
+      "character": "Beggar in Ithaca"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZTM3OWY0ZDMtMWM4NC00N2MzLTg4YzMtNTc5NjJhNjI2MDQ0XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "03.01.1969",
+  "birth_location": "Los Angeles, California, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 8402,
+  "name_pl": "John Ales",
+  "birth_location_pl": "Los Angeles, Kalifornia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 8402
+}

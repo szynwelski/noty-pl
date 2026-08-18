@@ -1,0 +1,51 @@
+{
+  "id": "nm0006144",
+  "name": "Maurice Jaubert",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODQ0Mzk3YTEtYmJjNy00ODZkLThhYTItZDcxZTk2ZTBjZTFlXkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0024803",
+      "title": "Zero de Conduite",
+      "year": 1933,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt0029706",
+      "title": "Un Carnet de bal",
+      "year": 1937,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt0030643",
+      "title": "Port of Shadows",
+      "year": 1938,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt0031514",
+      "title": "Daybreak",
+      "year": 1939,
+      "roles": [
+        "composer"
+      ]
+    }
+  ],
+  "birth_date": "03.01.1900",
+  "death_date": "19.06.1940",
+  "birth_location": "Nice, Alpes-Maritimes, France",
+  "filmweb_id": 59809,
+  "name_pl": "Maurice Jaubert",
+  "birth_location_pl": "Nicea",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja"
+  ]
+}

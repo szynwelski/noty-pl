@@ -1,0 +1,30 @@
+{
+  "id": "nm0005433",
+  "name": "Jessica Simpson",
+  "filmography": [
+    {
+      "imdb_id": "tt0424993",
+      "title": "Employee of the Month",
+      "year": 2006,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Amy"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQwMDIyODQzN15BMl5BanBnXkFtZTcwMDM0NjgwNQ@@._V1_.jpg",
+  "birth_date": "10.07.1980",
+  "birth_location": "Abilene, Texas, USA",
+  "height": "1.57 m",
+  "imdb_scraped": true,
+  "filmweb_id": 144030,
+  "name_pl": "Jessica Simpson",
+  "birth_location_pl": "Abilene, Teksas",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 144030
+}

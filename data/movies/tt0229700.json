@@ -1,0 +1,119 @@
+{
+  "imdb_id": "tt0229700",
+  "title": "Coronation of the Emperor Nicholas the Second",
+  "description": "The coronation of the Russian Tsar Nicholas II in Moscow.",
+  "runtime_minutes": 2,
+  "release_date": "26.06.1896",
+  "genres": [
+    "Documentary",
+    "Short",
+    "News"
+  ],
+  "stars": [
+    {
+      "id": "nm0874739",
+      "name": "Tsar Nicholas II"
+    },
+    {
+      "id": "nm0874746",
+      "name": "Tsarina Alexandra"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm7939620",
+      "name": "Camille Cerf"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0874739",
+      "name": "Tsar Nicholas II",
+      "character": "Self - Tsar of Russia"
+    },
+    {
+      "id": "nm0874746",
+      "name": "Tsarina Alexandra",
+      "character": "Self - Tsarina of Russia"
+    },
+    {
+      "id": "nm0334735",
+      "name": "Grand Duchess Olga",
+      "character": "Self - Tsar's Daughter"
+    },
+    {
+      "id": "nm9025008",
+      "name": "Dmitri Pavlovich Romanov",
+      "character": "Self"
+    }
+  ],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "year": 1896,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOWMzOTM4ZmQtNmFiZS00YTg0LTg2ZGItNzk0Mzk0MWFiZjY5XkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Scene from the Coronation of the Czar of Russia",
+  "filmweb_id": 736066,
+  "ratings": {
+    "imdb": {
+      "rating": 5.5,
+      "votes": 210,
+      "distribution": {
+        "1": 19,
+        "2": 6,
+        "3": 11,
+        "4": 15,
+        "5": 51,
+        "6": 58,
+        "7": 22,
+        "8": 10,
+        "9": 4,
+        "10": 14
+      },
+      "normalized": 4.7557
+    },
+    "filmweb": {
+      "rating": 5.57,
+      "votes": 14,
+      "distribution": {
+        "1": 1,
+        "2": 0,
+        "3": 2,
+        "4": 1,
+        "5": 3,
+        "6": 1,
+        "7": 3,
+        "8": 2,
+        "9": 1,
+        "10": 0
+      },
+      "normalized": 5.0452
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "11.12.2016",
+      "normalized": 6.4102
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "21.10.2007",
+      "normalized": 4.5781
+    },
+    "score": 5.1973
+  },
+  "polish_title": "Scene from the Coronation of the Czar of Russia",
+  "silent": true,
+  "cinematographers": [
+    {
+      "id": "nm7939620",
+      "name": "Camille Cerf"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

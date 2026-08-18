@@ -1,0 +1,31 @@
+{
+  "id": "nm0001234",
+  "name": "John Forsythe",
+  "filmography": [
+    {
+      "imdb_id": "tt0078718",
+      "title": "And Justice for All",
+      "year": 1979,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Judge Fleming"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZGYyZmU4NGQtY2NjZC00NWY2LWEyMjktZWIwYmE2NzczZGE5XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "29.01.1918",
+  "death_date": "01.04.2010",
+  "birth_location": "Penn's Grove, New Jersey, USA",
+  "height": "1.80 m",
+  "imdb_scraped": true,
+  "filmweb_id": 49099,
+  "name_pl": "John Forsythe",
+  "birth_location_pl": "Penns Grove, New Jersey",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 49099
+}

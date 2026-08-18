@@ -1,0 +1,48 @@
+{
+  "id": "nm0000517",
+  "name": "Terrence Malick",
+  "filmography": [
+    {
+      "imdb_id": "tt0077405",
+      "title": "Days of Heaven",
+      "year": 1978,
+      "roles": [
+        "director",
+        "writer",
+        "cast"
+      ],
+      "character": "Mill Worker"
+    },
+    {
+      "imdb_id": "tt0120863",
+      "title": "The Thin Red Line",
+      "year": 1998,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0478304",
+      "title": "The Tree of Life",
+      "year": 2011,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTUzNjQzNjYyMV5BMl5BanBnXkFtZTcwMTU5MDYyNQ@@._V1_.jpg",
+  "birth_date": "30.11.1943",
+  "birth_location": "Ottawa, Illinois, USA",
+  "height": "1.70 m",
+  "filmweb_id": 10300,
+  "name_pl": "Terrence Malick",
+  "birth_location_pl": "Ottawa, Illinois",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

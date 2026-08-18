@@ -1,0 +1,40 @@
+{
+  "id": "nm0001122",
+  "name": "Ellen DeGeneres",
+  "filmography": [
+    {
+      "imdb_id": "tt0266543",
+      "title": "Finding Nemo",
+      "year": 2003,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Dory"
+    },
+    {
+      "imdb_id": "tt2277860",
+      "title": "Finding Dory",
+      "year": 2016,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Dory"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDAwMzAyNDEzMV5BMl5BanBnXkFtZTcwMDU3MTAxMw@@._V1_.jpg",
+  "birth_date": "26.01.1958",
+  "birth_location": "Metairie, Louisiana, USA",
+  "height": "1.70 m",
+  "imdb_scraped": true,
+  "filmweb_id": 5773,
+  "name_pl": "Ellen DeGeneres",
+  "birth_location_pl": "Metairie, Luizjana",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 5773
+}

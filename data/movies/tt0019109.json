@@ -1,0 +1,191 @@
+{
+  "imdb_id": "tt0019109",
+  "title": "Lonesome",
+  "description": "Two lonely people in the big city meet and enjoy the thrills of an amusement park, only to lose each other in the crowd after spending a great day together. Will they ever see each other again?",
+  "runtime_minutes": 69,
+  "release_date": "22.11.1928",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0448661",
+      "name": "Barbara Kent"
+    },
+    {
+      "id": "nm0874497",
+      "name": "Glenn Tryon"
+    },
+    {
+      "id": "nm0390345",
+      "name": "Fay Holderness"
+    },
+    {
+      "id": "nm0701694",
+      "name": "Gusztáv Pártos"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0270838",
+      "name": "Pál Fejös"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0656264",
+      "name": "Mann Page"
+    },
+    {
+      "id": "nm0522871",
+      "name": "Edward T. Lowe Jr."
+    },
+    {
+      "id": "nm0715723",
+      "name": "Tom Reed"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0448661",
+      "name": "Barbara Kent",
+      "character": "Mary"
+    },
+    {
+      "id": "nm0874497",
+      "name": "Glenn Tryon",
+      "character": "Jim"
+    },
+    {
+      "id": "nm0390345",
+      "name": "Fay Holderness",
+      "character": "Overdressed Woman"
+    },
+    {
+      "id": "nm0701694",
+      "name": "Gusztáv Pártos",
+      "character": "Romantic Gentleman"
+    },
+    {
+      "id": "nm0680376",
+      "name": "Eddie Phillips",
+      "character": "The Sport"
+    },
+    {
+      "id": "nm0222596",
+      "name": "Andy Devine",
+      "character": "Jim's Friend"
+    },
+    {
+      "id": "nm0035455",
+      "name": "Henry Armetta",
+      "character": "Ferris wheel guy"
+    },
+    {
+      "id": "nm0213159",
+      "name": "Edgar Dearing",
+      "character": "Cop"
+    },
+    {
+      "id": "nm0256563",
+      "name": "Louise Emmons",
+      "character": "Telephone Caller"
+    },
+    {
+      "id": "nm0260705",
+      "name": "Fred Esmelton",
+      "character": "Swami"
+    },
+    {
+      "id": "nm0713281",
+      "name": "Jack Raymond",
+      "character": "Barker"
+    },
+    {
+      "id": "nm0743313",
+      "name": "Churchill Ross",
+      "character": "Telephone Caller"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": null,
+  "filmweb_id": 269549,
+  "year": 1928,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZWRiMjFmNGEtY2Y5ZC00NmUyLThhYmUtNDA5ZTJhMWI5OTdjXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.7,
+      "votes": 2990,
+      "distribution": {
+        "1": 40,
+        "2": 11,
+        "3": 19,
+        "4": 46,
+        "5": 108,
+        "6": 259,
+        "7": 656,
+        "8": 970,
+        "9": 457,
+        "10": 424
+      },
+      "normalized": 6.3942
+    },
+    "filmweb": {
+      "rating": 7.23,
+      "votes": 141,
+      "distribution": {
+        "1": 1,
+        "2": 0,
+        "3": 2,
+        "4": 2,
+        "5": 3,
+        "6": 27,
+        "7": 42,
+        "8": 48,
+        "9": 11,
+        "10": 5
+      },
+      "normalized": 5.4203
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "19.10.2005",
+      "normalized": 6.3474
+    },
+    "score": 6.054
+  },
+  "polish_title": "Samotni",
+  "silent": true,
+  "description_pl": "Dwoje samotnych ludzi z wielkiego miasta spotyka się w parku i odczuwa dreszcz radości związany z tym spotkaniem. Po wspaniałym dniu spędzonym razem trąca się z oczu w tłumie. Czy kiedykolwiek zdołają się odnaleźć?",
+  "producers": [
+    {
+      "id": "nm0480673",
+      "name": "Carl Laemmle Jr."
+    },
+    {
+      "id": "nm1356479",
+      "name": "Oskar Schubert-Stevens"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0155906",
+      "name": "Joseph Cherniavsky"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0913084",
+      "name": "Gilbert Warrenton"
+    }
+  ],
+  "fetched_at": "2026-08-15"
+}

@@ -1,0 +1,194 @@
+{
+  "imdb_id": "tt0078748",
+  "title": "Alien",
+  "description": "After investigating a mysterious transmission of unknown origin, the crew of a commercial spacecraft encounters a deadly lifeform.",
+  "runtime_minutes": 117,
+  "release_date": "22.06.1979",
+  "genres": [
+    "Horror",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm0000244",
+      "name": "Sigourney Weaver"
+    },
+    {
+      "id": "nm0000643",
+      "name": "Tom Skerritt"
+    },
+    {
+      "id": "nm0000457",
+      "name": "John Hurt"
+    },
+    {
+      "id": "nm0001021",
+      "name": "Veronica Cartwright"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000631",
+      "name": "Ridley Scott"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0639321",
+      "name": "Dan O'Bannon"
+    },
+    {
+      "id": "nm0795953",
+      "name": "Ronald Shusett"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000244",
+      "name": "Sigourney Weaver",
+      "character": "Ripley"
+    },
+    {
+      "id": "nm0000643",
+      "name": "Tom Skerritt",
+      "character": "Dallas"
+    },
+    {
+      "id": "nm0000457",
+      "name": "John Hurt",
+      "character": "Kane"
+    },
+    {
+      "id": "nm0001021",
+      "name": "Veronica Cartwright",
+      "character": "Lambert"
+    },
+    {
+      "id": "nm0001765",
+      "name": "Harry Dean Stanton",
+      "character": "Brett"
+    },
+    {
+      "id": "nm0000453",
+      "name": "Ian Holm",
+      "character": "Ash"
+    },
+    {
+      "id": "nm0001433",
+      "name": "Yaphet Kotto",
+      "character": "Parker"
+    },
+    {
+      "id": "nm0045993",
+      "name": "Bolaji Badejo",
+      "character": "Alien"
+    },
+    {
+      "id": "nm0395600",
+      "name": "Helen Horton",
+      "character": "Mother"
+    },
+    {
+      "id": "nm0694101",
+      "name": "Eddie Powell",
+      "character": "Alien"
+    }
+  ],
+  "countries": [
+    "United Kingdom",
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 980,
+  "year": 1979,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BN2NhMDk2MmEtZDQzOC00MmY5LThhYzAtMDdjZGFjOGZjMjdjXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8.4,
+      "votes": 1072968,
+      "distribution": {
+        "1": 5874,
+        "2": 2709,
+        "3": 3949,
+        "4": 7230,
+        "5": 16733,
+        "6": 45159,
+        "7": 144158,
+        "8": 302206,
+        "9": 301598,
+        "10": 243352
+      },
+      "normalized": 8.6445
+    },
+    "filmweb": {
+      "rating": 7.87,
+      "votes": 302265,
+      "distribution": {
+        "1": 2503,
+        "2": 1564,
+        "3": 3251,
+        "4": 4865,
+        "5": 9852,
+        "6": 22613,
+        "7": 57297,
+        "8": 92757,
+        "9": 60010,
+        "10": 47553
+      },
+      "normalized": 7.9909
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "02.12.2005",
+      "normalized": 5.6855
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "19.10.2005",
+      "normalized": 5.4199
+    },
+    "score": 6.9352
+  },
+  "polish_title": "Obcy - 8. pasażer \"Nostromo\"",
+  "silent": false,
+  "description_pl": "Kosmos. Odległy wszechświat. Grupa siedmiorga członków załogi przebywa w stanie hibernacji. Ich sen przerywa sygnał SOS nadawany z księżyca LV-426. Kapitan Dallas (Tom Skeritt), dowódca statku, zarządza zejście na niezbadany księżyc w ramach akcji ratunkowej. Jeden z członków załogi, niejaki Kane (<a href=\"/osoba/?id=nm0000457\">John Hurt</a>), zostaje zaatakowany przez nieznane stworzenie, które rzuca mu się na twarz i zaciska wokół szyi. Załoga zabiera Kane'a na pokład. Od tej chwili ich podróż przeradza się koszmar. Sygnał SOS nadawany z nieznanego księżyca okazuje się ostrzeżeniem, lecz już za późno... Załoga otrzymuje nowego, niechcianego pasażera, ósmego pasażera \"Nostromo\".",
+  "producers": [
+    {
+      "id": "nm0140826",
+      "name": "Gordon Carroll"
+    },
+    {
+      "id": "nm0318429",
+      "name": "David Giler"
+    },
+    {
+      "id": "nm0001353",
+      "name": "Walter Hill"
+    },
+    {
+      "id": "nm0694138",
+      "name": "Ivor Powell"
+    },
+    {
+      "id": "nm0795953",
+      "name": "Ronald Shusett"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0000025",
+      "name": "Jerry Goldsmith"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0889169",
+      "name": "Derek Vanlint"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

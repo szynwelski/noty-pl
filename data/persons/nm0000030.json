@@ -1,0 +1,61 @@
+{
+  "id": "nm0000030",
+  "name": "Audrey Hepburn",
+  "filmography": [
+    {
+      "imdb_id": "tt0046250",
+      "title": "Roman Holiday",
+      "year": 1953,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Princess Ann"
+    },
+    {
+      "imdb_id": "tt0047437",
+      "title": "Sabrina",
+      "year": 1954,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Sabrina Fairchild"
+    },
+    {
+      "imdb_id": "tt0054698",
+      "title": "Breakfast at Tiffany's",
+      "year": 1961,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Holly Golightly"
+    },
+    {
+      "imdb_id": "tt0056923",
+      "title": "Charade",
+      "year": 1963,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Regina Lampert"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMWUzODRjYzItY2ZlOC00NDgxLThhM2EtZGRjZDcyZDljOWUxXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 186,
+  "birth_date": "04.05.1929",
+  "death_date": "20.01.1993",
+  "birth_location": "Ixelles, Brussels, Belgium",
+  "height": "1.70 m",
+  "imdb_scraped": true,
+  "name_pl": "Audrey Hepburn",
+  "birth_location_pl": "Elsene",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 186
+}

@@ -1,0 +1,39 @@
+{
+  "id": "nm0244019",
+  "name": "Marc Duret",
+  "filmography": [
+    {
+      "imdb_id": "tt0095250",
+      "title": "The Big Blue",
+      "year": 1988,
+      "roles": [
+        "cast"
+      ],
+      "character": "Roberto"
+    },
+    {
+      "imdb_id": "tt0100263",
+      "title": "La Femme Nikita",
+      "year": 1990,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Rico"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BM2IwYjE2ZGEtOTYxOS00YThiLWI5ZmEtNzljNDllYWEwOWIwXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "28.09.1957",
+  "birth_location": "Nice, Alpes-Maritimes, France",
+  "height": "1.60 m",
+  "imdb_scraped": true,
+  "filmweb_id": 2905,
+  "name_pl": "Marc Duret",
+  "birth_location_pl": "Nicea",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja"
+  ],
+  "wikidata_fw_id": 2905
+}

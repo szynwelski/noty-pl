@@ -1,0 +1,61 @@
+{
+  "id": "nm0001494",
+  "name": "Ralph Macchio",
+  "filmography": [
+    {
+      "imdb_id": "tt0087538",
+      "title": "The Karate Kid",
+      "year": 1984,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Daniel LaRusso"
+    },
+    {
+      "imdb_id": "tt0091326",
+      "title": "The Karate Kid Part II",
+      "year": 1986,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Daniel"
+    },
+    {
+      "imdb_id": "tt7221388",
+      "title": "Cobra Kai",
+      "year": 2018,
+      "roles": [
+        "star",
+        "cast",
+        "producer"
+      ],
+      "character": "Daniel LaRusso"
+    },
+    {
+      "imdb_id": "tt1674782",
+      "title": "Karate Kid: Legends",
+      "year": 2025,
+      "roles": [
+        "cast",
+        "producer"
+      ],
+      "character": "Daniel LaRusso"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjExMjk0NTA5MF5BMl5BanBnXkFtZTcwMjM4MzU1Mw@@._V1_.jpg",
+  "birth_date": "04.11.1961",
+  "birth_location": "Huntington, Long Island, New York, USA",
+  "height": "1.75 m",
+  "filmweb_id": 9155,
+  "name_pl": "Ralph Macchio",
+  "birth_location_pl": "Huntington, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 9155
+}

@@ -1,0 +1,71 @@
+{
+  "id": "nm0000078",
+  "name": "John Wayne",
+  "filmography": [
+    {
+      "imdb_id": "tt0031971",
+      "title": "Stagecoach",
+      "year": 1939,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Ringo Kid"
+    },
+    {
+      "imdb_id": "tt0040724",
+      "title": "Red River",
+      "year": 1948,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Thomas Dunson"
+    },
+    {
+      "imdb_id": "tt0049730",
+      "title": "The Searchers",
+      "year": 1956,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Ethan Edwards"
+    },
+    {
+      "imdb_id": "tt0053221",
+      "title": "Rio Bravo",
+      "year": 1959,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Sheriff John T. Chance"
+    },
+    {
+      "imdb_id": "tt0056217",
+      "title": "The Man Who Shot Liberty Valance",
+      "year": 1962,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Tom Doniphon"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZTQ5NjBjNzUtNmU3My00ZWViLTk5MDYtM2YzM2MxYzk3MDU0XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "26.05.1907",
+  "death_date": "11.06.1979",
+  "birth_location": "Winterset, Iowa, USA",
+  "height": "1.93 m",
+  "filmweb_id": 46384,
+  "name_pl": "John Wayne",
+  "birth_location_pl": "Winterset, Iowa",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 46384
+}

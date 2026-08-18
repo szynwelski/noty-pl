@@ -1,0 +1,46 @@
+{
+  "id": "nm0358118",
+  "name": "Richard Hamilton",
+  "filmography": [
+    {
+      "imdb_id": "tt0086312",
+      "title": "Silkwood",
+      "year": 1983,
+      "roles": [
+        "cast"
+      ],
+      "character": "Georgie"
+    },
+    {
+      "imdb_id": "tt0119654",
+      "title": "Men in Black",
+      "year": 1997,
+      "roles": [
+        "cast"
+      ],
+      "character": "Dee"
+    },
+    {
+      "imdb_id": "tt0139462",
+      "title": "Message in a Bottle",
+      "year": 1999,
+      "roles": [
+        "cast"
+      ],
+      "character": "Chet"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYWIzMjZkZTctNjU4Ni00ZTY1LWI0NzItZDgxM2VkYjlkOGZlXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "31.12.1920",
+  "death_date": "21.12.2004",
+  "birth_location": "Chicago, Illinois, USA",
+  "filmweb_id": 5055,
+  "name_pl": "Richard Hamilton",
+  "birth_location_pl": "Chicago, Illinois",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "imdb_id": "tt2318615",
+  "title": "Japan's Tragedy",
+  "description": "In 2010, 31,560 people ended their own lives and about 20,000 people died or went missing with the earthquake. Unemployed widower Fujio Murai's family tragedy contains instances of both; diagnosed with lung cancer, Fujio refuses surgery and returns home with his son Yoshio.",
+  "runtime_minutes": 101,
+  "release_date": "31.08.2013",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0619938",
+      "name": "Tatsuya Nakadai"
+    },
+    {
+      "id": "nm0855429",
+      "name": "Shinobu Terajima"
+    },
+    {
+      "id": "nm0457556",
+      "name": "Kazuki Kitamura"
+    },
+    {
+      "id": "nm0648451",
+      "name": "Akemi Ohmori"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0462029",
+      "name": "Masahiro Kobayashi"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0462029",
+      "name": "Masahiro Kobayashi"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0619938",
+      "name": "Tatsuya Nakadai",
+      "character": "Fujio"
+    },
+    {
+      "id": "nm0855429",
+      "name": "Shinobu Terajima",
+      "character": ""
+    },
+    {
+      "id": "nm0457556",
+      "name": "Kazuki Kitamura",
+      "character": ""
+    },
+    {
+      "id": "nm0648451",
+      "name": "Akemi Ohmori",
+      "character": ""
+    }
+  ],
+  "countries": [
+    "Japan"
+  ],
+  "languages": [
+    "Japanese"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 689783,
+  "year": 2012,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODMwMDc4MWQtNGM4OC00ZDcyLWIwYzYtZGM1MTgxNDcxZDk3XkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Nihon no higeki",
+  "ratings": {
+    "imdb": {
+      "rating": 7.1,
+      "votes": 81,
+      "distribution": {
+        "1": 2,
+        "2": 1,
+        "3": 2,
+        "4": 7,
+        "5": 10,
+        "6": 8,
+        "7": 20,
+        "8": 18,
+        "9": 5,
+        "10": 8
+      },
+      "normalized": 5.3421
+    },
+    "filmweb": {
+      "rating": 7.29,
+      "votes": 7,
+      "distribution": {
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 1,
+        "10": 0
+      },
+      "normalized": 5.2337
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "01.10.2017",
+      "normalized": 5.6855
+    },
+    "score": 5.4204
+  },
+  "polish_title": "Japońska tragedia",
+  "silent": false,
+  "description_pl": "Fujio Murai (w tej roli słynny aktor <a href=\"/osoba/?id=nm0619938\">Nakadai Tatsuya</a>) wraca do starego, rodzinnego domu w Kanamachi. Towarzyszy mu syn Yoshio. Ojciec i syn zmagają się ze śmiercią i stratą. Mistrz kina Masahiro Kobayashi przedstawia powściągliwy dramat rodzinny, nakręcony niemal w całości w czerni i bieli. Film jest poświęcony ofiarom trzęsienia ziemi i tsunami w 2011 roku, ale także tym z 31.560 ludzi, którzy popełnili samobójstwo w Japonii w 2010 roku.",
+  "producers": [
+    {
+      "id": "nm0462029",
+      "name": "Masahiro Kobayashi"
+    },
+    {
+      "id": "nm2746981",
+      "name": "Naoko Kobayashi"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm4225884",
+      "name": "Sumio Ohki"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

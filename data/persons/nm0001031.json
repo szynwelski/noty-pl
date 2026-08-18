@@ -1,0 +1,37 @@
+{
+  "id": "nm0001031",
+  "name": "Claude Chabrol",
+  "filmography": [
+    {
+      "imdb_id": "tt0053472",
+      "title": "Breathless",
+      "year": 1960,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0250797",
+      "title": "Unfaithful",
+      "year": 2002,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOTI1NTM1MDAxOF5BMl5BanBnXkFtZTgwNjE0MDIwMjE@._V1_.jpg",
+  "birth_date": "24.06.1930",
+  "death_date": "12.09.2010",
+  "birth_location": "Paris, France",
+  "height": "1.68 m",
+  "imdb_scraped": true,
+  "filmweb_id": 10411,
+  "name_pl": "Claude Chabrol",
+  "birth_location_pl": "Paryż",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja"
+  ],
+  "wikidata_fw_id": 10411
+}

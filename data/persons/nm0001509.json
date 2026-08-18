@@ -1,0 +1,31 @@
+{
+  "id": "nm0001509",
+  "name": "Dean Martin",
+  "filmography": [
+    {
+      "imdb_id": "tt0053221",
+      "title": "Rio Bravo",
+      "year": 1959,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Dude"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDYwYzljYjMtYTRlNy00YzgwLTgzNzctMzU3MDUyNmEwMGZlXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "07.06.1917",
+  "death_date": "25.12.1995",
+  "birth_location": "Steubenville, Ohio, USA",
+  "height": "1.78 m",
+  "imdb_scraped": true,
+  "filmweb_id": 47432,
+  "name_pl": "Dean Martin",
+  "birth_location_pl": "Steubenville, Ohio",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 47432
+}

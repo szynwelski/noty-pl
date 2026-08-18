@@ -1,0 +1,75 @@
+{
+  "id": "nm0123748",
+  "name": "Tony Burton",
+  "filmography": [
+    {
+      "imdb_id": "tt0079817",
+      "title": "Rocky II",
+      "year": 1979,
+      "roles": [
+        "cast"
+      ],
+      "character": "Apollo's Trainer"
+    },
+    {
+      "imdb_id": "tt0081505",
+      "title": "The Shining",
+      "year": 1980,
+      "roles": [
+        "cast"
+      ],
+      "character": "Durkin"
+    },
+    {
+      "imdb_id": "tt0084602",
+      "title": "Rocky III",
+      "year": 1982,
+      "roles": [
+        "cast"
+      ],
+      "character": "Duke"
+    },
+    {
+      "imdb_id": "tt0089927",
+      "title": "Rocky IV",
+      "year": 1985,
+      "roles": [
+        "cast"
+      ],
+      "character": "Duke"
+    },
+    {
+      "imdb_id": "tt0100507",
+      "title": "Rocky V",
+      "year": 1990,
+      "roles": [
+        "cast"
+      ],
+      "character": "Duke"
+    },
+    {
+      "imdb_id": "tt0479143",
+      "title": "Rocky Balboa",
+      "year": 2006,
+      "roles": [
+        "cast"
+      ],
+      "character": "Duke"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTEwMDY1NTEzNjJeQTJeQWpwZ15BbWU3MDY0MTA0MDg@._V1_.jpg",
+  "birth_date": "23.03.1937",
+  "death_date": "25.02.2016",
+  "birth_location": "Flint, Michigan, USA",
+  "height": "1.83 m",
+  "filmweb_id": 8161,
+  "name_pl": "Tony Burton",
+  "birth_location_pl": "Flint, Michigan",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 8161
+}

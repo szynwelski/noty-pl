@@ -1,0 +1,49 @@
+{
+  "id": "nm0376540",
+  "name": "Martin Henderson",
+  "filmography": [
+    {
+      "imdb_id": "tt0298130",
+      "title": "The Ring",
+      "year": 2002,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Noah"
+    },
+    {
+      "imdb_id": "tt0245562",
+      "title": "Windtalkers",
+      "year": 2002,
+      "roles": [
+        "cast"
+      ],
+      "character": "Nellie"
+    },
+    {
+      "imdb_id": "tt2719848",
+      "title": "Everest",
+      "year": 2015,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Andy 'Harold' Harris"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjc4MTA3NDIzNF5BMl5BanBnXkFtZTcwNTIwNTU5MQ@@._V1_.jpg",
+  "birth_date": "08.10.1974",
+  "birth_location": "Auckland, New Zealand",
+  "height": "1.78 m",
+  "filmweb_id": 48109,
+  "name_pl": "Martin Henderson",
+  "birth_location_pl": "Auckland",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Nowa Zelandia"
+  ],
+  "wikidata_fw_id": 48109
+}

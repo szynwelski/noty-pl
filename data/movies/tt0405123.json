@@ -1,0 +1,108 @@
+{
+  "imdb_id": "tt0405123",
+  "title": "Wrestling",
+  "description": "The eighth sequence of the \"Wintergartenprogramm (1895)\" by the Skladanowsky Brothers. In it, two men in white leotards and tights, and black slips over it, wrestle on a theatre stage.",
+  "runtime_minutes": 1,
+  "release_date": "1895",
+  "genres": [
+    "Documentary",
+    "Short"
+  ],
+  "stars": [
+    {
+      "id": "nm3692079",
+      "name": "Greiner"
+    },
+    {
+      "id": "nm0762186",
+      "name": "Eugen Sandow"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm1587194",
+      "name": "Emil Skladanowsky"
+    },
+    {
+      "id": "nm0804434",
+      "name": "Max Skladanowsky"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm3692079",
+      "name": "Greiner",
+      "character": "Self - Wrestler"
+    },
+    {
+      "id": "nm0762186",
+      "name": "Eugen Sandow",
+      "character": "Self - Wrestler"
+    }
+  ],
+  "countries": [
+    "Germany"
+  ],
+  "languages": [
+    "None",
+    "German"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 279736,
+  "year": 1895,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzQ3OWFiZGEtNzRmYi00YjRjLTlkZDEtMmY4NDBlZWM0YTA4XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5,
+      "votes": 497,
+      "distribution": {
+        "1": 27,
+        "2": 27,
+        "3": 39,
+        "4": 64,
+        "5": 177,
+        "6": 89,
+        "7": 41,
+        "8": 11,
+        "9": 5,
+        "10": 17
+      },
+      "normalized": 4.0062
+    },
+    "filmweb": {
+      "rating": 4.63,
+      "votes": 57,
+      "distribution": {
+        "1": 2,
+        "2": 6,
+        "3": 7,
+        "4": 12,
+        "5": 15,
+        "6": 5,
+        "7": 7,
+        "8": 1,
+        "9": 1,
+        "10": 1
+      },
+      "normalized": 4.4706
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "11.12.2016",
+      "normalized": 5.6855
+    },
+    "score": 4.7208
+  },
+  "polish_title": "Ringkämpfer",
+  "silent": true,
+  "cinematographers": [
+    {
+      "id": "nm0804434",
+      "name": "Max Skladanowsky"
+    }
+  ],
+  "composers": [],
+  "original_title": "Ringkämpfer",
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "nm0633604",
+  "name": "John Noble",
+  "filmography": [
+    {
+      "imdb_id": "tt0404390",
+      "title": "Running Scared",
+      "year": 2006,
+      "roles": [
+        "cast"
+      ],
+      "character": "Ivan Yugorsky"
+    },
+    {
+      "imdb_id": "tt0938283",
+      "title": "The Last Airbender",
+      "year": 2010,
+      "roles": [
+        "cast"
+      ],
+      "character": "The Dragon Spirit"
+    },
+    {
+      "imdb_id": "tt2191671",
+      "title": "Elementary",
+      "year": 2012,
+      "roles": [
+        "cast"
+      ],
+      "character": "Mr. Morland Holmes"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzA2OTg5MDE2Ml5BMl5BanBnXkFtZTgwMzI0MTAwNzE@._V1_.jpg",
+  "birth_date": "20.08.1948",
+  "birth_location": "Port Pirie, South Australia, Australia",
+  "height": "1.82 m",
+  "filmweb_id": 156207,
+  "name_pl": "John Noble",
+  "birth_location_pl": "Port Pirie",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Australia"
+  ],
+  "wikidata_fw_id": 156207
+}

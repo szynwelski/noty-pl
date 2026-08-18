@@ -1,0 +1,39 @@
+{
+  "id": "nm0468957",
+  "name": "Linda Kozlowski",
+  "filmography": [
+    {
+      "imdb_id": "tt0090555",
+      "title": "Crocodile Dundee",
+      "year": 1986,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Sue Charlton"
+    },
+    {
+      "imdb_id": "tt0092493",
+      "title": "Crocodile Dundee II",
+      "year": 1988,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Sue Charlton"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjAxODM3Njk1NV5BMl5BanBnXkFtZTcwNTk0MDkwMw@@._V1_.jpg",
+  "birth_date": "07.01.1958",
+  "birth_location": "Fairfield, Connecticut, USA",
+  "height": "1.70 m",
+  "imdb_scraped": true,
+  "filmweb_id": 40193,
+  "name_pl": "Linda Kozlowski",
+  "birth_location_pl": "Fairfield, Connecticut",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

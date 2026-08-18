@@ -1,0 +1,35 @@
+{
+  "id": "nm0005468",
+  "name": "Michael Stipe",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTMxMDMwNDgwMF5BMl5BanBnXkFtZTcwMzYxNDkxMw@@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0120601",
+      "title": "Being John Malkovich",
+      "year": 1999,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0332375",
+      "title": "Saved!",
+      "year": 2004,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "birth_date": "04.01.1960",
+  "birth_location": "Decatur, Georgia, USA",
+  "height": "1.75 m",
+  "imdb_scraped": true,
+  "filmweb_id": 140890,
+  "name_pl": "Michael Stipe",
+  "birth_location_pl": "Decatur, Georgia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

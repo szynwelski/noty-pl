@@ -1,0 +1,105 @@
+{
+  "imdb_id": "tt12433630",
+  "title": "Mozna panikowac",
+  "description": "The portrait of Szymon Malinowski, a 62-year-old professor of atmospheric physics at the University of Warsaw, who tries to warn the society about the looming climate disaster.",
+  "runtime_minutes": 59,
+  "release_date": "01.06.2020",
+  "genres": [
+    "Documentary",
+    "Biography"
+  ],
+  "stars": [
+    {
+      "id": "nm11628617",
+      "name": "Szymon Malinowski"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm8179799",
+      "name": "Jonathan L. Ramsey"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm11628617",
+      "name": "Szymon Malinowski"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm11628617",
+      "name": "Szymon Malinowski",
+      "character": "Self"
+    }
+  ],
+  "countries": [
+    "Poland"
+  ],
+  "languages": [
+    "Polish"
+  ],
+  "color": "Color",
+  "filmweb_id": 855443,
+  "year": 2020,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMGM5ZjY1N2ItNDQxMy00ZjQ2LTkyYTktNDM3ZDk3Y2UzOWQyXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.2,
+      "votes": 108,
+      "distribution": {
+        "1": 2,
+        "2": 0,
+        "3": 1,
+        "4": 1,
+        "5": 4,
+        "6": 19,
+        "7": 32,
+        "8": 31,
+        "9": 8,
+        "10": 10
+      },
+      "normalized": 5.3778
+    },
+    "filmweb": {
+      "rating": 7.19,
+      "votes": 2648,
+      "distribution": {
+        "1": 10,
+        "2": 4,
+        "3": 30,
+        "4": 43,
+        "5": 164,
+        "6": 393,
+        "7": 933,
+        "8": 726,
+        "9": 221,
+        "10": 124
+      },
+      "normalized": 5.8765
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "02.07.2020",
+      "normalized": 7.1247
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "05.07.2020",
+      "normalized": 6.3474
+    },
+    "score": 6.1816
+  },
+  "polish_title": "Można panikować",
+  "silent": false,
+  "description_pl": "\"Można panikować\" to przepełniony nostalgią portret 62-letniego fizyka atmosferycznego, prof. Szymona Malinowskiego. Profesor zajmuje się zjawiskami prowadzającymi do zmian klimatycznych i alarmuje o nadchodzącym zagrożeniu. Szymon, który przez całe życie zawodowe edukował innych, jest ukazany w momencie kiedy musi poradzić sobie z osobistą tragedią, która skłania go do oceny dokonań życia.",
+  "cinematographers": [
+    {
+      "id": "nm11570169",
+      "name": "Wiktor Skierski"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

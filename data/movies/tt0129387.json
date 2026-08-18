@@ -1,0 +1,261 @@
+{
+  "imdb_id": "tt0129387",
+  "title": "There's Something About Mary",
+  "description": "A man gets a chance to meet up with his dream girl from high school, even though his date with her back then was a complete disaster.",
+  "runtime_minutes": 119,
+  "release_date": "15.07.1998",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0000139",
+      "name": "Cameron Diaz"
+    },
+    {
+      "id": "nm0000369",
+      "name": "Matt Dillon"
+    },
+    {
+      "id": "nm0001774",
+      "name": "Ben Stiller"
+    },
+    {
+      "id": "nm0262968",
+      "name": "Lee Evans"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0125803",
+      "name": "Bobby Farrelly"
+    },
+    {
+      "id": "nm0268380",
+      "name": "Peter Farrelly"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0214036",
+      "name": "Ed Decter"
+    },
+    {
+      "id": "nm0833828",
+      "name": "John J. Strauss"
+    },
+    {
+      "id": "nm0268380",
+      "name": "Peter Farrelly"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000139",
+      "name": "Cameron Diaz",
+      "character": "Mary"
+    },
+    {
+      "id": "nm0000369",
+      "name": "Matt Dillon",
+      "character": "Healy"
+    },
+    {
+      "id": "nm0001774",
+      "name": "Ben Stiller",
+      "character": "Ted"
+    },
+    {
+      "id": "nm0262968",
+      "name": "Lee Evans",
+      "character": "Tucker"
+    },
+    {
+      "id": "nm0254402",
+      "name": "Chris Elliott",
+      "character": "Dom"
+    },
+    {
+      "id": "nm0005417",
+      "name": "Lin Shaye",
+      "character": "Magda"
+    },
+    {
+      "id": "nm0001787",
+      "name": "Jeffrey Tambor",
+      "character": "Sully"
+    },
+    {
+      "id": "nm0692850",
+      "name": "Markie Post",
+      "character": "Mary's Mom"
+    },
+    {
+      "id": "nm0202966",
+      "name": "Keith David",
+      "character": "Mary's Dad"
+    },
+    {
+      "id": "nm0114868",
+      "name": "W. Earl Brown",
+      "character": "Warren"
+    },
+    {
+      "id": "nm0798971",
+      "name": "Sarah Silverman",
+      "character": "Brenda"
+    },
+    {
+      "id": "nm0018554",
+      "name": "Khandi Alexander",
+      "character": "Joanie"
+    },
+    {
+      "id": "nm0018950",
+      "name": "Marnie Alexenburg",
+      "character": "Lisa"
+    },
+    {
+      "id": "nm0614181",
+      "name": "Danny Murphy",
+      "character": "Boss' Brother"
+    },
+    {
+      "id": "nm0879186",
+      "name": "Richard Tyson",
+      "character": "Detective Krevoy"
+    },
+    {
+      "id": "nm0602813",
+      "name": "Rob Moran",
+      "character": "Detective Stabler"
+    },
+    {
+      "id": "nm0283475",
+      "name": "Jackie Flynn",
+      "character": "South Carolina Police"
+    },
+    {
+      "id": "nm0560041",
+      "name": "Hillary Matthews",
+      "character": "Dom's Wife"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 11054,
+  "year": 1998,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNWZjMDhkZGItOGE4OS00YjUyLTlmOTUtMjE0ZDVmM2I2YmU0XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.1,
+      "votes": 350393,
+      "distribution": {
+        "1": 4636,
+        "2": 3344,
+        "3": 5009,
+        "4": 9273,
+        "5": 21553,
+        "6": 54811,
+        "7": 109280,
+        "8": 82738,
+        "9": 34019,
+        "10": 25730
+      },
+      "normalized": 5.7797
+    },
+    "filmweb": {
+      "rating": 6.23,
+      "votes": 39199,
+      "distribution": {
+        "1": 319,
+        "2": 515,
+        "3": 1400,
+        "4": 2483,
+        "5": 5931,
+        "6": 10842,
+        "7": 10796,
+        "8": 4763,
+        "9": 1283,
+        "10": 867
+      },
+      "normalized": 3.7503
+    },
+    "jarek": {
+      "rating": 3,
+      "date_rated": "07.02.2010",
+      "normalized": 4.2591
+    },
+    "michal": {
+      "rating": 1,
+      "date_rated": "19.10.2005",
+      "normalized": 2.2657
+    },
+    "score": 4.0137
+  },
+  "polish_title": "Sposób na blondynkę",
+  "silent": false,
+  "description_pl": "Życiowy nieudacznik Ted nie może zapomnieć o najpiękniejszej dziewczynie ze szkoły - Mary. Ich jedyna planowana wspólna randka na balu maturalnym nie doszła do skutku. Niecodzienny wypadek sprawił, że Ted trafił do szpitala. Kiedy tam przebywał, Mary wyjechała z rodzicami na Florydę. Po czternastu latach mężczyzna postanawia odnaleźć ukochaną z młodości. Wynajmuje w tym celu prywatnego detektywa. Ten spotyka Mary i zakochuje się w niej od pierwszego wejrzenia. Ted musi zacząć działać sam.",
+  "producers": [
+    {
+      "id": "nm0065980",
+      "name": "Frank Beddor"
+    },
+    {
+      "id": "nm0153444",
+      "name": "Mark Charpentier"
+    },
+    {
+      "id": "nm0125803",
+      "name": "Bobby Farrelly"
+    },
+    {
+      "id": "nm0268380",
+      "name": "Peter Farrelly"
+    },
+    {
+      "id": "nm0279037",
+      "name": "Marc S. Fischer"
+    },
+    {
+      "id": "nm0372368",
+      "name": "Patrick Healy"
+    },
+    {
+      "id": "nm0736930",
+      "name": "J.B. Rogers"
+    },
+    {
+      "id": "nm0825790",
+      "name": "Michael Steinberg"
+    },
+    {
+      "id": "nm0858554",
+      "name": "Bradley Thomas"
+    },
+    {
+      "id": "nm0921853",
+      "name": "Charles B. Wessler"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0725041",
+      "name": "Jonathan Richman"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0410419",
+      "name": "Mark Irwin"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,250 @@
+{
+  "imdb_id": "tt2820852",
+  "title": "Furious 7",
+  "description": "Deckard Shaw seeks revenge against Dominic Toretto and his family for his comatose brother.",
+  "runtime_minutes": 137,
+  "release_date": "03.04.2015",
+  "genres": [
+    "Action",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0004874",
+      "name": "Vin Diesel"
+    },
+    {
+      "id": "nm0908094",
+      "name": "Paul Walker"
+    },
+    {
+      "id": "nm0425005",
+      "name": "Dwayne Johnson"
+    },
+    {
+      "id": "nm0005458",
+      "name": "Jason Statham"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm1490123",
+      "name": "James Wan"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0604555",
+      "name": "Chris Morgan"
+    },
+    {
+      "id": "nm0860155",
+      "name": "Gary Scott Thompson"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0004874",
+      "name": "Vin Diesel",
+      "character": "Dominic Toretto"
+    },
+    {
+      "id": "nm0908094",
+      "name": "Paul Walker",
+      "character": "Brian O'Conner"
+    },
+    {
+      "id": "nm0425005",
+      "name": "Dwayne Johnson",
+      "character": "Hobbs"
+    },
+    {
+      "id": "nm0005458",
+      "name": "Jason Statham",
+      "character": "Deckard Shaw"
+    },
+    {
+      "id": "nm0735442",
+      "name": "Michelle Rodriguez",
+      "character": "Letty"
+    },
+    {
+      "id": "nm0108287",
+      "name": "Jordana Brewster",
+      "character": "Mia"
+    },
+    {
+      "id": "nm0879085",
+      "name": "Tyrese Gibson",
+      "character": "Roman"
+    },
+    {
+      "id": "nm0524839",
+      "name": "Ludacris",
+      "character": "Tej"
+    },
+    {
+      "id": "nm0085407",
+      "name": "Lucas Black",
+      "character": "Sean Boswell"
+    },
+    {
+      "id": "nm0000621",
+      "name": "Kurt Russell",
+      "character": "Mr. Nobody"
+    },
+    {
+      "id": "nm2812026",
+      "name": "Nathalie Emmanuel",
+      "character": "Ramsey"
+    },
+    {
+      "id": "nm0665235",
+      "name": "Elsa Pataky",
+      "character": "Elena"
+    },
+    {
+      "id": "nm2933757",
+      "name": "Gal Gadot",
+      "character": "Gisele"
+    },
+    {
+      "id": "nm1383586",
+      "name": "John Brotherton",
+      "character": "Sheppard"
+    },
+    {
+      "id": "nm1812656",
+      "name": "Luke Evans",
+      "character": "Owen Shaw"
+    },
+    {
+      "id": "nm1388074",
+      "name": "Tony Jaa",
+      "character": "Kiet"
+    },
+    {
+      "id": "nm0005023",
+      "name": "Djimon Hounsou",
+      "character": "Jakande"
+    },
+    {
+      "id": "nm0346595",
+      "name": "Noel Gugliemi",
+      "character": "Hector"
+    }
+  ],
+  "countries": [
+    "United States",
+    "China",
+    "Japan",
+    "Canada",
+    "United Arab Emirates"
+  ],
+  "languages": [
+    "English",
+    "Thai",
+    "Arabic",
+    "Spanish"
+  ],
+  "color": "Color",
+  "filmweb_id": 678251,
+  "year": 2015,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQxOTA2NDUzOV5BMl5BanBnXkFtZTgwNzY2MTMxMzE@._V1_.jpg",
+  "original_title": "Fast & Furious 7",
+  "ratings": {
+    "imdb": {
+      "rating": 7.1,
+      "votes": 443329,
+      "distribution": {
+        "1": 10109,
+        "2": 4589,
+        "3": 6482,
+        "4": 11506,
+        "5": 26307,
+        "6": 59206,
+        "7": 111433,
+        "8": 90635,
+        "9": 46399,
+        "10": 76663
+      },
+      "normalized": 5.7896
+    },
+    "filmweb": {
+      "rating": 7.27,
+      "votes": 160978,
+      "distribution": {
+        "1": 1247,
+        "2": 1315,
+        "3": 3493,
+        "4": 5092,
+        "5": 11149,
+        "6": 22457,
+        "7": 40458,
+        "8": 38554,
+        "9": 19449,
+        "10": 17764
+      },
+      "normalized": 6.1829
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "02.01.2018",
+      "normalized": 4.9718
+    },
+    "score": 5.6481
+  },
+  "polish_title": "Szybcy i wściekli 7",
+  "silent": false,
+  "description_pl": "Tej prędkości, tej wściekłości nigdy dość! Dominic Toretto, Brian  O'Conner, Letty Ortiz i inni szybcy i wściekli wracają na ekrany kin. Za  każdym razem twórcy filmu starają się przebić efekty poprzedniej  części, tak będzie i tym razem - zwłaszcza że motywem przewodnim filmu  będzie zemsta. Tyle, że ta nie będzie słodka, a wyrafinowana, brutalna i  skuteczna - Deckard Shaw planuje pomścić śmierć brata – Owena. W filmie po  raz ostatni zobaczymy <a href=\"/osoba/?id=nm0908094\">Paula Walkera</a>.",
+  "producers": [
+    {
+      "id": "nm1771385",
+      "name": "Brandon Birtell"
+    },
+    {
+      "id": "nm0004874",
+      "name": "Vin Diesel"
+    },
+    {
+      "id": "nm0288202",
+      "name": "Michael Fottrell"
+    },
+    {
+      "id": "nm1205652",
+      "name": "Hiram Garcia"
+    },
+    {
+      "id": "nm1070966",
+      "name": "Amanda Lewis"
+    },
+    {
+      "id": "nm0565046",
+      "name": "Adam McCarthy"
+    },
+    {
+      "id": "nm0602605",
+      "name": "F. Valentino Morales"
+    },
+    {
+      "id": "nm0604555",
+      "name": "Chris Morgan"
+    },
+    {
+      "id": "nm0605775",
+      "name": "Neal H. Moritz"
+    },
+    {
+      "id": "nm2176972",
+      "name": "Samantha Vincent"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0003911",
+      "name": "Brian Tyler"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "nm0480512",
+  "name": "Walter Ladengast",
+  "filmography": [
+    {
+      "imdb_id": "tt0071691",
+      "title": "The Enigma of Kaspar Hauser",
+      "year": 1974,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Professor Daumer"
+    },
+    {
+      "imdb_id": "tt0079641",
+      "title": "Nosferatu the Vampyre",
+      "year": 1979,
+      "roles": [
+        "cast"
+      ],
+      "character": "Dr. Abraham van Helsing"
+    }
+  ],
+  "birth_date": "04.07.1899",
+  "death_date": "03.07.1980",
+  "birth_location": "Vienna, Austria-Hungary [now Austria]",
+  "imdb_scraped": true,
+  "filmweb_id": 44776,
+  "name_pl": "Walter Ladengast",
+  "birth_location_pl": "Wiedeń",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Austria"
+  ]
+}

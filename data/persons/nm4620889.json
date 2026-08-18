@@ -1,0 +1,53 @@
+{
+  "id": "nm4620889",
+  "name": "Étienne-Jules Marey",
+  "filmography": [
+    {
+      "imdb_id": "tt5285442",
+      "title": "Mosquinha",
+      "year": 1890,
+      "roles": [
+        "director",
+        "cinematographer"
+      ]
+    },
+    {
+      "imdb_id": "tt3508566",
+      "title": "La vague",
+      "year": 1891,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt5447082",
+      "title": "Two Fencers",
+      "year": 1891,
+      "roles": [
+        "director",
+        "cinematographer"
+      ]
+    },
+    {
+      "imdb_id": "tt2049440",
+      "title": "Falling Cat",
+      "year": 1894,
+      "roles": [
+        "director",
+        "cinematographer"
+      ]
+    }
+  ],
+  "birth_date": "05.03.1830",
+  "death_date": "15.05.1904",
+  "birth_location": "Beaune, Côte-d'Or, France",
+  "imdb_scraped": true,
+  "filmweb_id": 1709128,
+  "name_pl": "Étienne-Jules Marey",
+  "birth_location_pl": "Beaune",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja"
+  ]
+}

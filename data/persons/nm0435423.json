@@ -1,0 +1,44 @@
+{
+  "id": "nm0435423",
+  "name": "Elzbieta Karkoszka",
+  "filmography": [
+    {
+      "imdb_id": "tt0075256",
+      "title": "The Calm",
+      "year": 1976,
+      "roles": [
+        "cast"
+      ]
+    },
+    {
+      "imdb_id": "tt0114204",
+      "title": "Pulkownik Kwiatkowski",
+      "year": 1995,
+      "roles": [
+        "cast"
+      ]
+    },
+    {
+      "imdb_id": "tt1442584",
+      "title": "Wszystko, co kocham",
+      "year": 2009,
+      "roles": [
+        "cast"
+      ],
+      "character": "Janek's grandmother"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNjE1Mzk1NTAtNGZkNy00ZTE5LWIzMDctZGQzYzc1MjI2NDk5XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "17.03.1943",
+  "birth_location": "Sciegna, Lódzkie, Poland",
+  "filmweb_id": 8694,
+  "name_pl": "Elżbieta Karkoszka",
+  "birth_location_pl": "Ściegny k. Piotrkowa Trybunalskiego",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Polska"
+  ],
+  "wikidata_fw_id": 8694
+}

@@ -1,0 +1,39 @@
+{
+  "id": "nm0000274",
+  "name": "David Arquette",
+  "filmography": [
+    {
+      "imdb_id": "tt0117571",
+      "title": "Scream",
+      "year": 1996,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Deputy Dewey"
+    },
+    {
+      "imdb_id": "tt0233142",
+      "title": "3000 Miles to Graceland",
+      "year": 2001,
+      "roles": [
+        "cast"
+      ],
+      "character": "Gus"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjEzODYyNjg3NV5BMl5BanBnXkFtZTcwMzYwOTgyNg@@._V1_.jpg",
+  "birth_date": "08.09.1971",
+  "birth_location": "Winchester, Virginia, USA",
+  "height": "1.79 m",
+  "imdb_scraped": true,
+  "filmweb_id": 3463,
+  "name_pl": "David Arquette",
+  "birth_location_pl": "Winchester, Wirginia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 3463
+}

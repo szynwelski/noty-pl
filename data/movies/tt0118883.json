@@ -1,0 +1,244 @@
+{
+  "imdb_id": "tt0118883",
+  "title": "Conspiracy Theory",
+  "description": "A taxi driver with a penchant for conspiracy theories becomes a target after one of these theories turns out to be true. Unfortunately, to save himself, he has to figure out which theory it is.",
+  "runtime_minutes": 135,
+  "release_date": "08.08.1997",
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000154",
+      "name": "Mel Gibson"
+    },
+    {
+      "id": "nm0000210",
+      "name": "Julia Roberts"
+    },
+    {
+      "id": "nm0001772",
+      "name": "Patrick Stewart"
+    },
+    {
+      "id": "nm0185475",
+      "name": "Cylk Cozart"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001149",
+      "name": "Richard Donner"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0001338",
+      "name": "Brian Helgeland"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000154",
+      "name": "Mel Gibson",
+      "character": "Jerry Fletcher"
+    },
+    {
+      "id": "nm0000210",
+      "name": "Julia Roberts",
+      "character": "Alice Sutton"
+    },
+    {
+      "id": "nm0001772",
+      "name": "Patrick Stewart",
+      "character": "Dr. Jonas"
+    },
+    {
+      "id": "nm0185475",
+      "name": "Cylk Cozart",
+      "character": "Agent Lowry"
+    },
+    {
+      "id": "nm0434676",
+      "name": "Steve Kahan",
+      "character": "Wilson"
+    },
+    {
+      "id": "nm0018777",
+      "name": "Terry Alexander",
+      "character": "Flip"
+    },
+    {
+      "id": "nm0564107",
+      "name": "Alex McArthur",
+      "character": "Cynic"
+    },
+    {
+      "id": "nm0572125",
+      "name": "Rod McLachlan",
+      "character": "Justice Guard"
+    },
+    {
+      "id": "nm0693446",
+      "name": "Michael Potts",
+      "character": "Justice Guard"
+    },
+    {
+      "id": "nm0827529",
+      "name": "Jim Sterling",
+      "character": "Justice Guard"
+    },
+    {
+      "id": "nm0372890",
+      "name": "Rich Hebert",
+      "character": "Public Works Man"
+    },
+    {
+      "id": "nm0930172",
+      "name": "Brian J. Williams",
+      "character": "Clarke"
+    },
+    {
+      "id": "nm1183872",
+      "name": "G.A. Aguilar",
+      "character": "Piper"
+    },
+    {
+      "id": "nm0479320",
+      "name": "Cece Neber Labao",
+      "character": "Finch's Secretary"
+    },
+    {
+      "id": "nm0870701",
+      "name": "Saxon Trainor",
+      "character": "Alice's Secretary"
+    },
+    {
+      "id": "nm0824317",
+      "name": "Claudia Stedelin",
+      "character": "Wilson's Secretary"
+    },
+    {
+      "id": "nm0413778",
+      "name": "Leonard Jackson",
+      "character": "Old Man - Bookstore"
+    },
+    {
+      "id": "nm0316945",
+      "name": "Donal Gibson",
+      "character": "Doctor - Roosevelt Hospital"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 185,
+  "year": 1997,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjQ1MTYxMzA4OF5BMl5BanBnXkFtZTgwNjg2NTM1MTI@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.7,
+      "votes": 115089,
+      "distribution": {
+        "1": 1139,
+        "2": 876,
+        "3": 1616,
+        "4": 3623,
+        "5": 9831,
+        "6": 25751,
+        "7": 38620,
+        "8": 20280,
+        "9": 6786,
+        "10": 6567
+      },
+      "normalized": 4.9183
+    },
+    "filmweb": {
+      "rating": 7.29,
+      "votes": 41615,
+      "distribution": {
+        "1": 80,
+        "2": 73,
+        "3": 257,
+        "4": 553,
+        "5": 1889,
+        "6": 5774,
+        "7": 14559,
+        "8": 13341,
+        "9": 3536,
+        "10": 1553
+      },
+      "normalized": 6.2226
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "02.12.2005",
+      "normalized": 4.9718
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "22.09.2020",
+      "normalized": 5.4199
+    },
+    "score": 5.3832
+  },
+  "polish_title": "Teoria spisku",
+  "silent": false,
+  "description_pl": "Jerry Fletcher (<a href=\"/osoba/?id=nm0000154\">Mel Gibson</a>) jest nowojorskim taksówkarzem. Alice Sutton (<a href=\"/osoba/?id=nm0000210\">Julia Roberts</a>) pracuje dla rządu. Fletcher cierpi na stany lękowe i wierzy, że światem rządzi tajna organizacja. Przy okazji wydaje własny biuletyn na ten temat. Choć nikt mu nie wierzy, pewnego dnia zostaje on aresztowany przez tajne służby. Udaje mu się zbiec, ale teraz jest już pewien swoich podejrzeń, którymi dzieli się z Alice.",
+  "producers": [
+    {
+      "id": "nm0185621",
+      "name": "Dan Cracchiolo"
+    },
+    {
+      "id": "nm0001149",
+      "name": "Richard Donner"
+    },
+    {
+      "id": "nm0244158",
+      "name": "Julie Durk"
+    },
+    {
+      "id": "nm0328987",
+      "name": "J. Mills Goodloe"
+    },
+    {
+      "id": "nm0720721",
+      "name": "Ilyse Reutlinger"
+    },
+    {
+      "id": "nm0005428",
+      "name": "Joel Silver"
+    },
+    {
+      "id": "nm0813414",
+      "name": "Richard Solomon"
+    },
+    {
+      "id": "nm0888329",
+      "name": "Jim Van Wyck"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0001980",
+      "name": "Carter Burwell"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0006701",
+      "name": "John Schwartzman"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

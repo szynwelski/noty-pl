@@ -1,0 +1,39 @@
+{
+  "id": "nm0540416",
+  "name": "Dorothy Malone",
+  "filmography": [
+    {
+      "imdb_id": "tt0038355",
+      "title": "The Big Sleep",
+      "year": 1946,
+      "roles": [
+        "cast"
+      ],
+      "character": "Acme Book Shop Proprietress"
+    },
+    {
+      "imdb_id": "tt0103772",
+      "title": "Basic Instinct",
+      "year": 1992,
+      "roles": [
+        "cast"
+      ],
+      "character": "Hazel Dobkins"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTgyMzY2OTUyNV5BMl5BanBnXkFtZTcwMTg4MjM5OA@@._V1_.jpg",
+  "birth_date": "29.01.1924",
+  "death_date": "19.01.2018",
+  "birth_location": "Chicago, Illinois, USA",
+  "height": "1.70 m",
+  "imdb_scraped": true,
+  "filmweb_id": 8338,
+  "name_pl": "Dorothy Malone",
+  "birth_location_pl": "Chicago, Illinois",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 8338
+}

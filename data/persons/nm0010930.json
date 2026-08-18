@@ -1,0 +1,30 @@
+{
+  "id": "nm0010930",
+  "name": "Douglas Adams",
+  "filmography": [
+    {
+      "imdb_id": "tt0371724",
+      "title": "The Hitchhiker's Guide to the Galaxy",
+      "year": 2005,
+      "roles": [
+        "writer",
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzhlN2JlN2UtNTk2NS00MjFkLWE1MjQtMGM5NjZhZDY4NjUwXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "11.03.1952",
+  "death_date": "11.05.2001",
+  "birth_location": "Cambridge, Cambridgeshire, England, UK",
+  "height": "1.96 m",
+  "imdb_scraped": true,
+  "filmweb_id": 160192,
+  "name_pl": "Douglas Adams",
+  "birth_location_pl": "Cambridge, Anglia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 160192
+}

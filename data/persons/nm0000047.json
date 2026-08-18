@@ -1,0 +1,31 @@
+{
+  "id": "nm0000047",
+  "name": "Sophia Loren",
+  "filmography": [
+    {
+      "imdb_id": "tt0061523",
+      "title": "A Countess from Hong Kong",
+      "year": 1967,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Natascha"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOTczNzg5MzAwMl5BMl5BanBnXkFtZTcwNzE0MjcxNQ@@._V1_.jpg",
+  "filmweb_id": 53468,
+  "birth_date": "20.09.1934",
+  "birth_location": "Rome, Lazio, Italy",
+  "height": "1.71 m",
+  "imdb_scraped": true,
+  "name_pl": "Sophia Loren",
+  "birth_location_pl": "Rzym",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Włochy",
+    "Francja"
+  ],
+  "wikidata_fw_id": 53468
+}

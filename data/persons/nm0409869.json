@@ -1,0 +1,39 @@
+{
+  "id": "nm0409869",
+  "name": "John Ireland",
+  "filmography": [
+    {
+      "imdb_id": "tt0040724",
+      "title": "Red River",
+      "year": 1948,
+      "roles": [
+        "cast"
+      ],
+      "character": "Cherry Valance"
+    },
+    {
+      "imdb_id": "tt0054331",
+      "title": "Spartacus",
+      "year": 1960,
+      "roles": [
+        "cast"
+      ],
+      "character": "Crixus"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjI1OTY1MDk2MF5BMl5BanBnXkFtZTcwODMwMjkzNA@@._V1_.jpg",
+  "birth_date": "30.01.1914",
+  "death_date": "21.03.1992",
+  "birth_location": "Vancouver, British Columbia, Canada",
+  "height": "1.85 m",
+  "imdb_scraped": true,
+  "filmweb_id": 41173,
+  "name_pl": "John Ireland",
+  "birth_location_pl": "Vancouver",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Kanada"
+  ],
+  "wikidata_fw_id": 41173
+}

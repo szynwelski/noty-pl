@@ -1,0 +1,77 @@
+{
+  "imdb_id": "tt0230613",
+  "title": "Panorama of Eiffel Tower",
+  "description": "Showing the entire height of this wonderful structure from the base of the dome and return, with the great Paris Exposition in the background, looking down Champs de Mars. A most realistic picture.",
+  "runtime_minutes": 2,
+  "release_date": "1900",
+  "genres": [
+    "Documentary",
+    "Short"
+  ],
+  "directors": [
+    {
+      "id": "nm0924920",
+      "name": "James H. White"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 328528,
+  "year": 1900,
+  "type": "short",
+  "image_url": null,
+  "ratings": {
+    "imdb": {
+      "rating": 5.7,
+      "votes": 376,
+      "distribution": {
+        "1": 21,
+        "2": 9,
+        "3": 17,
+        "4": 33,
+        "5": 85,
+        "6": 120,
+        "7": 45,
+        "8": 25,
+        "9": 5,
+        "10": 16
+      },
+      "normalized": 4.576
+    },
+    "filmweb": {
+      "rating": 5.22,
+      "votes": 18,
+      "distribution": {
+        "1": 1,
+        "2": 0,
+        "3": 2,
+        "4": 1,
+        "5": 6,
+        "6": 3,
+        "7": 5,
+        "8": 0,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 4.9472
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "13.12.2016",
+      "normalized": 6.4102
+    },
+    "score": 5.3111
+  },
+  "polish_title": "Panorama of Eiffel Tower",
+  "silent": true,
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-16"
+}

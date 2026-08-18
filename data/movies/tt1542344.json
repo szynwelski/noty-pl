@@ -1,0 +1,262 @@
+{
+  "imdb_id": "tt1542344",
+  "title": "127 Hours",
+  "description": "A mountain climber becomes trapped under a boulder while canyoneering alone near Moab, Utah and resorts to desperate measures in order to survive.",
+  "runtime_minutes": 94,
+  "release_date": "28.01.2011",
+  "genres": [
+    "Biography",
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0290556",
+      "name": "James Franco"
+    },
+    {
+      "id": "nm0848554",
+      "name": "Amber Tamblyn"
+    },
+    {
+      "id": "nm0544718",
+      "name": "Kate Mara"
+    },
+    {
+      "id": "nm2505304",
+      "name": "Sean Bott"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000965",
+      "name": "Danny Boyle"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1737008",
+      "name": "Aron Ralston"
+    },
+    {
+      "id": "nm0000965",
+      "name": "Danny Boyle"
+    },
+    {
+      "id": "nm0064479",
+      "name": "Simon Beaufoy"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0290556",
+      "name": "James Franco",
+      "character": "Aron Ralston"
+    },
+    {
+      "id": "nm0848554",
+      "name": "Amber Tamblyn",
+      "character": "Megan"
+    },
+    {
+      "id": "nm0544718",
+      "name": "Kate Mara",
+      "character": "Kristi"
+    },
+    {
+      "id": "nm2505304",
+      "name": "Sean Bott",
+      "character": "Aron's Friend"
+    },
+    {
+      "id": "nm3218960",
+      "name": "Koleman Stinger",
+      "character": "Aron Age 5"
+    },
+    {
+      "id": "nm0001852",
+      "name": "Treat Williams",
+      "character": "Aron's Dad"
+    },
+    {
+      "id": "nm1482833",
+      "name": "John Lawrence",
+      "character": "Brion"
+    },
+    {
+      "id": "nm0123632",
+      "name": "Kate Burton",
+      "character": "Aron's Mom"
+    },
+    {
+      "id": "nm4121613",
+      "name": "Bailee Michelle Johnson",
+      "character": "Sonja Age 10"
+    },
+    {
+      "id": "nm2287070",
+      "name": "Parker Hadley",
+      "character": "Aron Age 15"
+    },
+    {
+      "id": "nm0993242",
+      "name": "Clémence Poésy",
+      "character": "Rana"
+    },
+    {
+      "id": "nm0703744",
+      "name": "Fenton Quinn",
+      "character": "Blue John"
+    },
+    {
+      "id": "nm0135221",
+      "name": "Lizzy Caplan",
+      "character": "Sonja"
+    },
+    {
+      "id": "nm4041503",
+      "name": "Peter Joshua Hull",
+      "character": "Boy on Sofa"
+    },
+    {
+      "id": "nm0115764",
+      "name": "Pieter Jan Brugge",
+      "character": "Eric Meijer"
+    },
+    {
+      "id": "nm4103704",
+      "name": "Rebecca C. Olson",
+      "character": "Monique Meijer"
+    },
+    {
+      "id": "nm4106909",
+      "name": "Jeffrey Wood",
+      "character": "Andy Meijer"
+    },
+    {
+      "id": "nm0499824",
+      "name": "Norman Lehnert",
+      "character": "Dan"
+    }
+  ],
+  "countries": [
+    "United Kingdom",
+    "United States",
+    "France"
+  ],
+  "languages": [
+    "English",
+    "Italian"
+  ],
+  "color": "Color",
+  "filmweb_id": 546975,
+  "year": 2010,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTc2NjMzOTE3Ml5BMl5BanBnXkFtZTcwMDE0OTc5Mw@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.5,
+      "votes": 426950,
+      "distribution": {
+        "1": 2810,
+        "2": 1576,
+        "3": 2712,
+        "4": 5331,
+        "5": 14255,
+        "6": 44877,
+        "7": 125216,
+        "8": 140036,
+        "9": 54387,
+        "10": 35750
+      },
+      "normalized": 6.4792
+    },
+    "filmweb": {
+      "rating": 7.09,
+      "votes": 132214,
+      "distribution": {
+        "1": 355,
+        "2": 409,
+        "3": 1598,
+        "4": 2649,
+        "5": 7868,
+        "6": 21316,
+        "7": 47073,
+        "8": 37228,
+        "9": 10570,
+        "10": 3148
+      },
+      "normalized": 5.8024
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "18.02.2011",
+      "normalized": 6.4102
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "29.01.2011",
+      "normalized": 6.3474
+    },
+    "score": 6.2598
+  },
+  "polish_title": "127 godzin",
+  "silent": false,
+  "description_pl": "Najnowszy film <a href=\"/osoba/?id=nm0000965\">Danny'ego Boyle'a</a>, wyróżnionego Oscarem za \"Slumdog. Milioner z ulicy\", to ekranizacja książki Arona Ralstona. Dramatyczne przeżycia młodego alpinisty, który podczas samotnej wędrówki zostaje uwięziony w rozpadlinie skalnej w niedostępnych górach Utah i jest zmuszony do desperackiej walki o przetrwanie",
+  "producers": [
+    {
+      "id": "nm0068925",
+      "name": "Bernard Bellew"
+    },
+    {
+      "id": "nm0000965",
+      "name": "Danny Boyle"
+    },
+    {
+      "id": "nm1384503",
+      "name": "Christian Colson"
+    },
+    {
+      "id": "nm11396650",
+      "name": "Lisa Maria Falcone"
+    },
+    {
+      "id": "nm2186966",
+      "name": "Tom Heller"
+    },
+    {
+      "id": "nm0412246",
+      "name": "François Ivernel"
+    },
+    {
+      "id": "nm0006830",
+      "name": "John J. Kelly"
+    },
+    {
+      "id": "nm0566831",
+      "name": "Cameron McCracken"
+    },
+    {
+      "id": "nm1755424",
+      "name": "Diarmuid McKeown"
+    },
+    {
+      "id": "nm0743882",
+      "name": "Tessa Ross"
+    },
+    {
+      "id": "nm3469362",
+      "name": "Gareth Smith"
+    },
+    {
+      "id": "nm0810478",
+      "name": "John Smithson"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006246",
+      "name": "A.R. Rahman"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

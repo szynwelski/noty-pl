@@ -1,0 +1,147 @@
+{
+  "imdb_id": "tt0067085",
+  "title": "Fata Morgana",
+  "description": "Footage shot in and around the Algerian Sahara Desert, accompanied only by a spoken creation myth and the songs of Leonard Cohen.",
+  "runtime_minutes": 79,
+  "release_date": "01.02.1972",
+  "genres": [
+    "Documentary",
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0252151",
+      "name": "Lotte Eisner"
+    },
+    {
+      "id": "nm0127351",
+      "name": "Wolfgang Büttner"
+    },
+    {
+      "id": "nm15668501",
+      "name": "Manfred Eigendorf"
+    },
+    {
+      "id": "nm0220770",
+      "name": "Eugen Des Montagnes"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001348",
+      "name": "Werner Herzog"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0001348",
+      "name": "Werner Herzog"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0252151",
+      "name": "Lotte Eisner",
+      "character": "Self - Narrator"
+    },
+    {
+      "id": "nm0127351",
+      "name": "Wolfgang Büttner",
+      "character": "Self - Narrator"
+    },
+    {
+      "id": "nm15668501",
+      "name": "Manfred Eigendorf",
+      "character": "Self - Narrator"
+    },
+    {
+      "id": "nm0220770",
+      "name": "Eugen Des Montagnes",
+      "character": "Self"
+    },
+    {
+      "id": "nm0322391",
+      "name": "James William Gledhill",
+      "character": "Self"
+    },
+    {
+      "id": "nm0903154",
+      "name": "Wolfgang von Ungern-Sternberg",
+      "character": "Self"
+    }
+  ],
+  "countries": [
+    "West Germany"
+  ],
+  "languages": [
+    "German"
+  ],
+  "color": "Color",
+  "filmweb_id": 113758,
+  "year": 1971,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZGE1ZjMxZWMtMzIwYi00YjFlLWFhMzQtYmJkMTUwNDA0ODVjXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.6,
+      "votes": 4477,
+      "distribution": {
+        "1": 102,
+        "2": 53,
+        "3": 118,
+        "4": 179,
+        "5": 422,
+        "6": 844,
+        "7": 1247,
+        "8": 773,
+        "9": 364,
+        "10": 375
+      },
+      "normalized": 4.7787
+    },
+    "filmweb": {
+      "rating": 6.76,
+      "votes": 399,
+      "distribution": {
+        "1": 2,
+        "2": 7,
+        "3": 20,
+        "4": 13,
+        "5": 42,
+        "6": 64,
+        "7": 109,
+        "8": 79,
+        "9": 49,
+        "10": 14
+      },
+      "normalized": 5.1335
+    },
+    "michal": {
+      "rating": 8,
+      "date_rated": "19.10.2005",
+      "normalized": 8.1116
+    },
+    "score": 6.0079
+  },
+  "polish_title": "Fata Morgana",
+  "silent": false,
+  "description_pl": "Eksperymentalny film, którego tematem są krajobrazy afrykańskie, księga Popol Vuh i muzyka. Fata Morgana to dokumentalny, impresyjny i bardzo osobisty poemat, jedno z najznakomitszych i zarazem najdziwniejszych dzieł Herzoga i nowego kina niemieckiego w ogóle. Film składa się z trzech części. Stworzenie, Raj i Złoty wiek, a każda z tych sekwencji \"symfonii obrazowej\" opatrzona jest komentarzem z Popol Vuh - świętej księgi Indian.",
+  "producers": [
+    {
+      "id": "nm0037075",
+      "name": "Joschi Arpa"
+    },
+    {
+      "id": "nm0001348",
+      "name": "Werner Herzog"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005860",
+      "name": "Jörg Schmidt-Reitwein"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

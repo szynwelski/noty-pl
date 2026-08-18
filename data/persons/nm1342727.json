@@ -1,0 +1,50 @@
+{
+  "id": "nm1342727",
+  "name": "Skandar Keynes",
+  "filmography": [
+    {
+      "imdb_id": "tt0363771",
+      "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+      "year": 2005,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Edmund Pevensie"
+    },
+    {
+      "imdb_id": "tt0499448",
+      "title": "The Chronicles of Narnia: Prince Caspian",
+      "year": 2008,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Edmund Pevensie"
+    },
+    {
+      "imdb_id": "tt0980970",
+      "title": "The Chronicles of Narnia: The Voyage of the Dawn Treader",
+      "year": 2010,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Edmund Pevensie"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTU4ODQ4Nzc4N15BMl5BanBnXkFtZTcwMDQxNTk2MQ@@._V1_.jpg",
+  "birth_date": "05.09.1991",
+  "birth_location": "London, England, UK",
+  "height": "1.73 m",
+  "filmweb_id": 188687,
+  "name_pl": "Skandar Keynes",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 188687
+}

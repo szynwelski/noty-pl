@@ -1,0 +1,81 @@
+{
+  "id": "nm0000345",
+  "name": "Billy Crystal",
+  "filmography": [
+    {
+      "imdb_id": "tt0093779",
+      "title": "The Princess Bride",
+      "year": 1987,
+      "roles": [
+        "cast"
+      ],
+      "character": "Miracle Max"
+    },
+    {
+      "imdb_id": "tt0098635",
+      "title": "When Harry Met Sally...",
+      "year": 1989,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Harry Burns"
+    },
+    {
+      "imdb_id": "tt0122933",
+      "title": "Analyze This",
+      "year": 1999,
+      "roles": [
+        "star",
+        "cast",
+        "producer"
+      ],
+      "character": "Ben Sobel"
+    },
+    {
+      "imdb_id": "tt0198781",
+      "title": "Monsters, Inc.",
+      "year": 2001,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Mike"
+    },
+    {
+      "imdb_id": "tt0289848",
+      "title": "Analyze That",
+      "year": 2002,
+      "roles": [
+        "star",
+        "cast",
+        "producer"
+      ],
+      "character": "Ben Sobel"
+    },
+    {
+      "imdb_id": "tt0323250",
+      "title": "Mike's New Car",
+      "year": 2002,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Mike"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQ4MjA4MjM4NV5BMl5BanBnXkFtZTcwMzE0MjcxNQ@@._V1_.jpg",
+  "birth_date": "14.03.1948",
+  "birth_location": "Yorkville, Manhattan, New York City, New York, USA",
+  "height": "1.68 m",
+  "filmweb_id": 25,
+  "name_pl": "Billy Crystal",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 25
+}

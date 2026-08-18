@@ -1,0 +1,236 @@
+{
+  "imdb_id": "tt0164052",
+  "title": "Hollow Man",
+  "description": "A brilliant scientist's discovery renders him invisible, but transforms him into an omnipotent, dangerous megalomaniac.",
+  "runtime_minutes": 112,
+  "release_date": "04.08.2000",
+  "genres": [
+    "Action",
+    "Horror",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000102",
+      "name": "Kevin Bacon"
+    },
+    {
+      "id": "nm0000223",
+      "name": "Elisabeth Shue"
+    },
+    {
+      "id": "nm0000982",
+      "name": "Josh Brolin"
+    },
+    {
+      "id": "nm0225332",
+      "name": "Kim Dickens"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000682",
+      "name": "Paul Verhoeven"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0549256",
+      "name": "Andrew W. Marlowe"
+    },
+    {
+      "id": "nm0860155",
+      "name": "Gary Scott Thompson"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000102",
+      "name": "Kevin Bacon",
+      "character": "Sebastian Caine"
+    },
+    {
+      "id": "nm0000223",
+      "name": "Elisabeth Shue",
+      "character": "Linda McKay"
+    },
+    {
+      "id": "nm0000982",
+      "name": "Josh Brolin",
+      "character": "Matthew Kensington"
+    },
+    {
+      "id": "nm0225332",
+      "name": "Kim Dickens",
+      "character": "Sarah Kennedy"
+    },
+    {
+      "id": "nm0342399",
+      "name": "Greg Grunberg",
+      "character": "Carter Abbey"
+    },
+    {
+      "id": "nm0806217",
+      "name": "Joey Slotnick",
+      "character": "Frank Chase"
+    },
+    {
+      "id": "nm0709824",
+      "name": "Mary Randle",
+      "character": "Janice Walton"
+    },
+    {
+      "id": "nm0001137",
+      "name": "William Devane",
+      "character": "Dr. Kramer"
+    },
+    {
+      "id": "nm0593961",
+      "name": "Rhona Mitra",
+      "character": "Sebastian's Neighbor"
+    },
+    {
+      "id": "nm0261021",
+      "name": "Pablo Espinosa",
+      "character": "Warehouse Guard"
+    },
+    {
+      "id": "nm0741558",
+      "name": "Margot Rose",
+      "character": "Mrs. Kramer"
+    },
+    {
+      "id": "nm0803765",
+      "name": "Jimmie F. Skaggs",
+      "character": "Wino"
+    },
+    {
+      "id": "nm0769027",
+      "name": "Jeffrey Scaperrotta",
+      "character": "Boy in Car"
+    },
+    {
+      "id": "nm0101256",
+      "name": "Sarah Bowles",
+      "character": "Girl in Car"
+    },
+    {
+      "id": "nm0779425",
+      "name": "Kelli Scott",
+      "character": "Mom"
+    },
+    {
+      "id": "nm0022775",
+      "name": "Steve Altes",
+      "character": "Dad"
+    },
+    {
+      "id": "nm0566445",
+      "name": "J. Patrick McCormack",
+      "character": "General Caster"
+    },
+    {
+      "id": "nm0838445",
+      "name": "Darius A. Sultan",
+      "character": "Gate Guard"
+    }
+  ],
+  "countries": [
+    "Germany",
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 968,
+  "year": 2000,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOWQ2OTk4YTMtNmM1Mi00YjczLWExMTktOWM1ODIyMzJmODMzXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.9,
+      "votes": 148824,
+      "distribution": {
+        "1": 2859,
+        "2": 3262,
+        "3": 6377,
+        "4": 13330,
+        "5": 29417,
+        "6": 44913,
+        "7": 30248,
+        "8": 11010,
+        "9": 2905,
+        "10": 4503
+      },
+      "normalized": 3.4164
+    },
+    "filmweb": {
+      "rating": 6.09,
+      "votes": 24773,
+      "distribution": {
+        "1": 118,
+        "2": 249,
+        "3": 836,
+        "4": 1691,
+        "5": 4162,
+        "6": 8028,
+        "7": 6752,
+        "8": 2159,
+        "9": 405,
+        "10": 373
+      },
+      "normalized": 3.496
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "02.12.2005",
+      "normalized": 4.9718
+    },
+    "michal": {
+      "rating": 1,
+      "date_rated": "19.10.2005",
+      "normalized": 2.2657
+    },
+    "score": 3.5375
+  },
+  "polish_title": "Człowiek widmo",
+  "silent": false,
+  "description_pl": "W tajnym laboratorium opłacana przez Pentagon grupa naukowców pracuje nad substancją, dzięki której można stać się niewidzialnym. Po serii udanych eksperymentów na zwierzętach Sebastian Caine (<a href=\"/osoba/?id=nm0000102\">Kevin Bacon</a>) - narcystyczny kierownik laboratorium - decyduje się wypróbować cudowną substancję na sobie. Coś jednak idzie nie tak i, zamiast weekendu, nasz bohater musi spędzić znacznie więcej czasu \"w stanie niewidzialności\". I tu zaczyna się dramat, bo w poczuciu bezkarności z charyzmatycznego faceta Sebastian zmienia się w pozbawionego skrupułów zwyrodnialca.",
+  "producers": [
+    {
+      "id": "nm0525864",
+      "name": "Stacy Lumbrezer"
+    },
+    {
+      "id": "nm0550728",
+      "name": "Alan Marshall"
+    },
+    {
+      "id": "nm0742274",
+      "name": "Marion Rosenberg"
+    },
+    {
+      "id": "nm0799047",
+      "name": "Kenneth J. Silverstein"
+    },
+    {
+      "id": "nm0926824",
+      "name": "Douglas Wick"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0000025",
+      "name": "Jerry Goldsmith"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005911",
+      "name": "Jost Vacano"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

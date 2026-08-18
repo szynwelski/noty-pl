@@ -1,0 +1,40 @@
+{
+  "id": "nm0000303",
+  "name": "Honor Blackman",
+  "filmography": [
+    {
+      "imdb_id": "tt0058150",
+      "title": "Goldfinger",
+      "year": 1964,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Pussy Galore"
+    },
+    {
+      "imdb_id": "tt0376543",
+      "title": "Color Me Kubrick",
+      "year": 2005,
+      "roles": [
+        "cast"
+      ],
+      "character": "Madam"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTY5N2VkZDItZGJjNy00ZTQ5LWEwYmItZWRiZDRjOGY2ZTMwXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "22.08.1925",
+  "death_date": "05.04.2020",
+  "birth_location": "Plaistow, London, England, UK",
+  "height": "1.68 m",
+  "imdb_scraped": true,
+  "filmweb_id": 6950,
+  "name_pl": "Honor Blackman",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 6950
+}

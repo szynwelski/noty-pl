@@ -1,0 +1,46 @@
+{
+  "id": "nm1802209",
+  "name": "Nick Kroll",
+  "filmography": [
+    {
+      "imdb_id": "tt1155056",
+      "title": "I Love You, Man",
+      "year": 2009,
+      "roles": [
+        "cast"
+      ],
+      "character": "Larry"
+    },
+    {
+      "imdb_id": "tt1279935",
+      "title": "Date Night",
+      "year": 2010,
+      "roles": [
+        "cast"
+      ],
+      "character": "Claw Maitre D'"
+    },
+    {
+      "imdb_id": "tt0427152",
+      "title": "Dinner for Schmucks",
+      "year": 2010,
+      "roles": [
+        "cast"
+      ],
+      "character": "Josh"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTg3NTE5Mjg2NF5BMl5BanBnXkFtZTgwODAxMzE4NDM@._V1_.jpg",
+  "birth_date": "05.06.1978",
+  "birth_location": "New York City, New York, USA",
+  "height": "1.75 m",
+  "filmweb_id": 783399,
+  "name_pl": "Nick Kroll",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

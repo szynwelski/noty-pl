@@ -1,0 +1,199 @@
+{
+  "imdb_id": "tt2290780",
+  "title": "Be Right Back",
+  "description": "After learning about a new service that lets people stay in touch with the deceased, a lonely, grieving Martha reconnects with her late lover.",
+  "runtime_minutes": 48,
+  "release_date": "11.02.2013",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm2017943",
+      "name": "Hayley Atwell"
+    },
+    {
+      "id": "nm1727304",
+      "name": "Domhnall Gleeson"
+    },
+    {
+      "id": "nm1721217",
+      "name": "Claire Keelan"
+    },
+    {
+      "id": "nm1561651",
+      "name": "Sinead Matthews"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm2787176",
+      "name": "Owen Harris"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0111765",
+      "name": "Charlie Brooker"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm2017943",
+      "name": "Hayley Atwell",
+      "character": "Martha"
+    },
+    {
+      "id": "nm1727304",
+      "name": "Domhnall Gleeson",
+      "character": "Ash"
+    },
+    {
+      "id": "nm1721217",
+      "name": "Claire Keelan",
+      "character": "Naomi"
+    },
+    {
+      "id": "nm1561651",
+      "name": "Sinead Matthews",
+      "character": "Sarah"
+    },
+    {
+      "id": "nm2929459",
+      "name": "Flora Nicholson",
+      "character": "Midwife"
+    },
+    {
+      "id": "nm1445529",
+      "name": "Glenn Hanning",
+      "character": "Delivery Man"
+    },
+    {
+      "id": "nm1469243",
+      "name": "Tim Delap",
+      "character": "Simon"
+    },
+    {
+      "id": "nm3843541",
+      "name": "Indira Ainger",
+      "character": "Martha's Daughter"
+    },
+    {
+      "id": "nm4287763",
+      "name": "Christopher Blythe",
+      "character": "Mourner"
+    },
+    {
+      "id": "nm4304212",
+      "name": "Pamela Betsy Cooper",
+      "character": "Mourner"
+    },
+    {
+      "id": "nm5366001",
+      "name": "Tony Fadil",
+      "character": "Christopher"
+    },
+    {
+      "id": "nm1705294",
+      "name": "Richard Glaves",
+      "character": "Sarah's Man"
+    },
+    {
+      "id": "nm4767135",
+      "name": "Richard Herdman",
+      "character": "Onlooker"
+    },
+    {
+      "id": "nm2711324",
+      "name": "Chris Wilson",
+      "character": "Paramedic"
+    }
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "year": 2013,
+  "type": "tvEpisode",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDkzYjc1MGYtZGJiYy00NDAxLWI1MjAtNDcxMjkwOGJkOTE5XkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 640699,
+  "ratings": {
+    "imdb": {
+      "rating": 7.9,
+      "votes": 61464,
+      "distribution": {
+        "1": 302,
+        "2": 139,
+        "3": 249,
+        "4": 461,
+        "5": 1339,
+        "6": 4295,
+        "7": 13061,
+        "8": 21241,
+        "9": 12795,
+        "10": 7582
+      }
+    },
+    "filmweb": {
+      "rating": 8.28,
+      "votes": 185948,
+      "distribution": {
+        "1": 673,
+        "2": 314,
+        "3": 805,
+        "4": 893,
+        "5": 2511,
+        "6": 6460,
+        "7": 23908,
+        "8": 64568,
+        "9": 61360,
+        "10": 24456
+      }
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "05.07.2020"
+    }
+  },
+  "polish_title": "Czarne lustro",
+  "silent": false,
+  "description_pl": "\"Czarne lustro\" to antologia nawiązująca do zbiorowego niepokoju, jaki odczuwamy względem współczesnego świata. Każdy odcinek opowiada inną, wyrazistą i trzymającą w napięciu historię, poruszającą temat współczesnej technoparanoi. Mimochodem technologia zmieniła wszystkie aspekty naszego życia. W każdym domu, na każdym biurku i w każdej dłoni można zobaczyć ekran plazmowy, monitor lub smartfon - czarne lustro odbijające codzienność XXI wieku.",
+  "producers": [
+    {
+      "id": "nm0111765",
+      "name": "Charlie Brooker"
+    },
+    {
+      "id": "nm3117428",
+      "name": "Annabel Jones"
+    },
+    {
+      "id": "nm1247315",
+      "name": "Emma Pike"
+    },
+    {
+      "id": "nm0718553",
+      "name": "Barney Reisz"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm3220493",
+      "name": "Vince Pope"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm2537468",
+      "name": "Gustav Danielsson"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

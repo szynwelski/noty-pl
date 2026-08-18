@@ -1,0 +1,50 @@
+{
+  "id": "nm0000346",
+  "name": "Macaulay Culkin",
+  "filmography": [
+    {
+      "imdb_id": "tt0099785",
+      "title": "Home Alone",
+      "year": 1990,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Kevin"
+    },
+    {
+      "imdb_id": "tt0104431",
+      "title": "Home Alone 2: Lost in New York",
+      "year": 1992,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Kevin"
+    },
+    {
+      "imdb_id": "tt0332375",
+      "title": "Saved!",
+      "year": 2004,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Roland"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTM1NzUwMjY2M15BMl5BanBnXkFtZTcwOTI5MTMyMw@@._V1_.jpg",
+  "birth_date": "26.08.1980",
+  "birth_location": "New York City, New York, USA",
+  "height": "1.70 m",
+  "filmweb_id": 41470,
+  "name_pl": "Macaulay Culkin",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 41470
+}

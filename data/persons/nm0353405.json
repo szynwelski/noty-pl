@@ -1,0 +1,50 @@
+{
+  "id": "nm0353405",
+  "name": "Jean Hagen",
+  "filmography": [
+    {
+      "imdb_id": "tt0041090",
+      "title": "Adam's Rib",
+      "year": 1949,
+      "roles": [
+        "cast"
+      ],
+      "character": "Beryl Caighn"
+    },
+    {
+      "imdb_id": "tt0042208",
+      "title": "The Asphalt Jungle",
+      "year": 1950,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Doll Conovan"
+    },
+    {
+      "imdb_id": "tt0045152",
+      "title": "Singin' in the Rain",
+      "year": 1952,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Lina Lamont"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjA5MjMwMjQxNV5BMl5BanBnXkFtZTcwMjY2MzYwOA@@._V1_.jpg",
+  "birth_date": "03.08.1923",
+  "death_date": "29.08.1977",
+  "birth_location": "Chicago, Illinois, USA",
+  "height": "1.63 m",
+  "filmweb_id": 43001,
+  "name_pl": "Jean Hagen",
+  "birth_location_pl": "Chicago, Illinois",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 43001
+}

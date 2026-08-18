@@ -1,0 +1,37 @@
+{
+  "id": "nm0012524",
+  "name": "Frank Adu",
+  "filmography": [
+    {
+      "imdb_id": "tt0073312",
+      "title": "Love and Death",
+      "year": 1975,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Drill Sergeant"
+    },
+    {
+      "imdb_id": "tt0075314",
+      "title": "Taxi Driver",
+      "year": 1976,
+      "roles": [
+        "cast"
+      ],
+      "character": "Angry Black Man"
+    }
+  ],
+  "birth_date": "25.04.1937",
+  "death_date": "01.12.2018",
+  "birth_location": "White Plains, New York, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 8270,
+  "name_pl": "Frank Adu",
+  "birth_location_pl": "White Plains, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

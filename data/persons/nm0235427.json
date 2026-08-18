@@ -1,0 +1,47 @@
+{
+  "id": "nm0235427",
+  "name": "Gary Dourdan",
+  "filmography": [
+    {
+      "imdb_id": "tt0118583",
+      "title": "Alien: Resurrection",
+      "year": 1997,
+      "roles": [
+        "cast"
+      ],
+      "character": "Christie"
+    },
+    {
+      "imdb_id": "tt0124901",
+      "title": "Thursday",
+      "year": 1998,
+      "roles": [
+        "cast"
+      ],
+      "character": "Ballpean"
+    },
+    {
+      "imdb_id": "tt0160399",
+      "title": "Impostor",
+      "year": 2001,
+      "roles": [
+        "cast"
+      ],
+      "character": "Captain Burke"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTM3OTkzNTU4Ml5BMl5BanBnXkFtZTYwNTU0Njg3._V1_.jpg",
+  "birth_date": "11.12.1966",
+  "birth_location": "Philadelphia, Pennsylvania, USA",
+  "height": "1.88 m",
+  "filmweb_id": 3897,
+  "name_pl": "Gary Dourdan",
+  "birth_location_pl": "Filadelfia, Pensylwania",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 3897
+}

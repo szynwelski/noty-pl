@@ -1,0 +1,161 @@
+{
+  "imdb_id": "tt7497068",
+  "title": "2557",
+  "description": "A young Thai woman gets sucked into a violently escalating conflict between her Thai and expat friends - Bangkok's small time crooks all of them.",
+  "runtime_minutes": 111,
+  "release_date": "23.04.2017",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm5474532",
+      "name": "Leonel Dietsche"
+    },
+    {
+      "id": "nm9337881",
+      "name": "Surabig Soho Dokkathum"
+    },
+    {
+      "id": "nm9337878",
+      "name": "Wason Dokkathum"
+    },
+    {
+      "id": "nm9337882",
+      "name": "Chatchai Hongsirikun"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm4580904",
+      "name": "Roderick Warich"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm4416275",
+      "name": "Dominik Rockenmaier"
+    },
+    {
+      "id": "nm4580904",
+      "name": "Roderick Warich"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm5474532",
+      "name": "Leonel Dietsche",
+      "character": "Leo"
+    },
+    {
+      "id": "nm9337881",
+      "name": "Surabig Soho Dokkathum",
+      "character": "Big"
+    },
+    {
+      "id": "nm9337878",
+      "name": "Wason Dokkathum",
+      "character": "Wason"
+    },
+    {
+      "id": "nm9337882",
+      "name": "Chatchai Hongsirikun",
+      "character": "Chat"
+    },
+    {
+      "id": "nm9337880",
+      "name": "Theeraset Rienkengsurakarn",
+      "character": "Tuu"
+    },
+    {
+      "id": "nm9337879",
+      "name": "Awita Rueangchang",
+      "character": "Ploy"
+    },
+    {
+      "id": "nm5963707",
+      "name": "Jan Silberberg",
+      "character": "Alli"
+    },
+    {
+      "id": "nm9337877",
+      "name": "Salisa Thammabut",
+      "character": "Salisabass"
+    }
+  ],
+  "countries": [
+    "Germany"
+  ],
+  "languages": [
+    "Thai"
+  ],
+  "color": "Color",
+  "filmweb_id": 793961,
+  "year": 2017,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZmI5ZDdmN2MtM2ViYi00NTkzLTg3YmMtOWNkOTIzYmJiM2ExXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.3,
+      "votes": 28,
+      "distribution": {
+        "1": 3,
+        "2": 0,
+        "3": 6,
+        "4": 1,
+        "5": 1,
+        "6": 3,
+        "7": 5,
+        "8": 3,
+        "9": 1,
+        "10": 5
+      },
+      "normalized": 5.2651
+    },
+    "filmweb": {
+      "rating": 5.04,
+      "votes": 51,
+      "distribution": {
+        "1": 1,
+        "2": 3,
+        "3": 13,
+        "4": 3,
+        "5": 11,
+        "6": 5,
+        "7": 8,
+        "8": 5,
+        "9": 2,
+        "10": 0
+      },
+      "normalized": 4.6299
+    },
+    "jarek": {
+      "rating": 3,
+      "date_rated": "20.10.2017",
+      "normalized": 4.2591
+    },
+    "score": 4.718
+  },
+  "polish_title": "2557",
+  "silent": false,
+  "description_pl": "Salisa jest Tajką. Ma dwadzieścia lat. 2557 to jej Film. To są jej wspomnienia. Wspomnienia zapachu ziemi po deszczu. Długich nocy spędzanych w barbarzyńskich klubach i alejkach dzielnicy Krung Thep. Jej znajomi to Tajowie, ale i obcokrajowcy, wszyscy to męty społeczne. Wspomnienia o miłosnym trójkącie, o obrabowaniu i zdradzie. Wspomnienia o paranoi przed wojskowym zamachem stanu. Wspomnienia o zabójstwie i ucieczce. Ta podróż kończy się na pokrytych kurzem połaciach Isaan. Duchy 2557.",
+  "producers": [
+    {
+      "id": "nm5474532",
+      "name": "Leonel Dietsche"
+    },
+    {
+      "id": "nm4416275",
+      "name": "Dominik Rockenmaier"
+    },
+    {
+      "id": "nm4580904",
+      "name": "Roderick Warich"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

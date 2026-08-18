@@ -1,0 +1,40 @@
+{
+  "id": "nm0234541",
+  "name": "Roy Dotrice",
+  "filmography": [
+    {
+      "imdb_id": "tt0086879",
+      "title": "Amadeus",
+      "year": 1984,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Leopold Mozart"
+    },
+    {
+      "imdb_id": "tt0114345",
+      "title": "The Scarlet Letter",
+      "year": 1995,
+      "roles": [
+        "cast"
+      ],
+      "character": "Rev. Thomas Cheever"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTEzMTk0NjE4MDdeQTJeQWpwZ15BbWU3MDAwNTU0MDg@._V1_.jpg",
+  "birth_date": "26.05.1923",
+  "death_date": "16.10.2017",
+  "birth_location": "Guernsey, Channel Islands, UK",
+  "height": "1.75 m",
+  "imdb_scraped": true,
+  "filmweb_id": 6225,
+  "name_pl": "Roy Dotrice",
+  "birth_location_pl": "Guernsey, Wyspy Normandzkie",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 6225
+}

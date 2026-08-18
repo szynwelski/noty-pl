@@ -1,0 +1,93 @@
+{
+  "imdb_id": "tt0453118",
+  "title": "Juggler",
+  "description": "The fourth sequence of the \"Wintergartenprogramm (1895)\" by the Skladanowsky Brothers. In it, a man nicknamed Paul Petras performs tricks on a theatre stage with a bowler hat and a billiards ball in equilibrium on his arms and body.",
+  "runtime_minutes": 1,
+  "release_date": "01.11.1895",
+  "genres": [
+    "Short"
+  ],
+  "stars": [
+    {
+      "id": "nm2349938",
+      "name": "Sylvester Schäffer"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0804434",
+      "name": "Max Skladanowsky"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm2349938",
+      "name": "Sylvester Schäffer",
+      "character": "Paul Petras"
+    }
+  ],
+  "countries": [
+    "Germany"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 229909,
+  "year": 1895,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjIxMmJjYzktNjQwOS00YzE1LTk2MzQtNjcyNzgyOWE0Y2NkXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.2,
+      "votes": 347,
+      "distribution": {
+        "1": 20,
+        "2": 10,
+        "3": 26,
+        "4": 37,
+        "5": 119,
+        "6": 72,
+        "7": 35,
+        "8": 6,
+        "9": 7,
+        "10": 15
+      },
+      "normalized": 4.382
+    },
+    "filmweb": {
+      "rating": 4.71,
+      "votes": 35,
+      "distribution": {
+        "1": 2,
+        "2": 3,
+        "3": 6,
+        "4": 4,
+        "5": 10,
+        "6": 2,
+        "7": 5,
+        "8": 2,
+        "9": 0,
+        "10": 1
+      },
+      "normalized": 4.699
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "11.12.2016",
+      "normalized": 5.6855
+    },
+    "score": 4.9222
+  },
+  "polish_title": "Der Jongleur",
+  "silent": true,
+  "cinematographers": [
+    {
+      "id": "nm0804434",
+      "name": "Max Skladanowsky"
+    }
+  ],
+  "composers": [],
+  "original_title": "Der Jongleur",
+  "fetched_at": "2026-08-16"
+}

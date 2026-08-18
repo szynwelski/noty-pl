@@ -1,0 +1,82 @@
+{
+  "imdb_id": "tt0240354",
+  "title": "Athlete with Wand",
+  "description": "A gymnast assumes a number of positions while holding a wand in both hands.",
+  "runtime_minutes": 1,
+  "release_date": "1894",
+  "genres": [
+    "Short",
+    "Sport"
+  ],
+  "directors": [
+    {
+      "id": "nm0005690",
+      "name": "William K.L. Dickson"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 270244,
+  "year": 1894,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjAwYjVhNGEtMGNiYS00OTA5LWE5MGUtNWQ4NTdkOTExNjdjXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 4.5,
+      "votes": 701,
+      "distribution": {
+        "1": 65,
+        "2": 44,
+        "3": 76,
+        "4": 139,
+        "5": 216,
+        "6": 78,
+        "7": 35,
+        "8": 17,
+        "9": 4,
+        "10": 27
+      },
+      "normalized": 3.3732
+    },
+    "filmweb": {
+      "rating": 3.81,
+      "votes": 140,
+      "distribution": {
+        "1": 15,
+        "2": 18,
+        "3": 33,
+        "4": 27,
+        "5": 29,
+        "6": 7,
+        "7": 4,
+        "8": 4,
+        "9": 1,
+        "10": 2
+      },
+      "normalized": 3.5894
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "11.12.2016",
+      "normalized": 4.9718
+    },
+    "score": 3.9781
+  },
+  "polish_title": "Athlete with Wand",
+  "silent": true,
+  "description_pl": "Ten krótki film przedstawia gimnastykującego się mężczyznę. Trzyma w ręku krótki drążek, który ułatwia mu wykonywanie figur. Drążek ten zawsze jest trzymany oburącz podczas wykonywania sobie tylko znanych figur gimnastycznych.",
+  "cinematographers": [
+    {
+      "id": "nm0374658",
+      "name": "William Heise"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,107 @@
+{
+  "imdb_id": "tt0477266",
+  "title": "Billy Edwards and the Unknown",
+  "description": "Billy Edwards and a challenger named Warwick fight an exhibition boxing match.",
+  "runtime_minutes": 1,
+  "release_date": "30.01.1895",
+  "genres": [
+    "Short",
+    "Sport"
+  ],
+  "stars": [
+    {
+      "id": "nm2075054",
+      "name": "Billy Edwards"
+    },
+    {
+      "id": "nm3056571",
+      "name": "Warwick"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0005690",
+      "name": "William K.L. Dickson"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm2075054",
+      "name": "Billy Edwards",
+      "character": "Self - Boxer"
+    },
+    {
+      "id": "nm3056571",
+      "name": "Warwick",
+      "character": "Self - Boxer"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 272710,
+  "year": 1895,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMThmY2ZlOTEtOWQ4NS00MGI0LTgxMjYtYWMzOWIxMDdjYTNkXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 4.5,
+      "votes": 399,
+      "distribution": {
+        "1": 32,
+        "2": 24,
+        "3": 44,
+        "4": 91,
+        "5": 117,
+        "6": 52,
+        "7": 14,
+        "8": 10,
+        "9": 2,
+        "10": 13
+      },
+      "normalized": 3.8654
+    },
+    "filmweb": {
+      "rating": 4.4,
+      "votes": 40,
+      "distribution": {
+        "1": 2,
+        "2": 4,
+        "3": 7,
+        "4": 4,
+        "5": 14,
+        "6": 6,
+        "7": 1,
+        "8": 2,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 4.6004
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "11.12.2016",
+      "normalized": 5.6855
+    },
+    "score": 4.7171
+  },
+  "polish_title": "Billy Edwards and the Unknown",
+  "silent": true,
+  "description_pl": "Billy Edwards i jego przeciwnik zwany Warwick stają naprzeciwko siebie w meczu bokserskim.",
+  "producers": [
+    {
+      "id": "nm0005690",
+      "name": "William K.L. Dickson"
+    },
+    {
+      "id": "nm0374658",
+      "name": "William Heise"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

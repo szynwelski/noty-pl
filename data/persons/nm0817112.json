@@ -1,0 +1,37 @@
+{
+  "id": "nm0817112",
+  "name": "Walter Sparrow",
+  "filmography": [
+    {
+      "imdb_id": "tt0102798",
+      "title": "Robin Hood: Prince of Thieves",
+      "year": 1991,
+      "roles": [
+        "cast"
+      ],
+      "character": "Duncan"
+    },
+    {
+      "imdb_id": "tt0108071",
+      "title": "The Secret Garden",
+      "year": 1993,
+      "roles": [
+        "cast"
+      ],
+      "character": "Ben Weatherstaff"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNGExMDM0NGEtZjEwOS00MGVkLTkwNjUtOWNmN2MzNWI2YmZlXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "22.01.1927",
+  "death_date": "31.05.2000",
+  "birth_location": "Eltham, London, England, UK",
+  "imdb_scraped": true,
+  "filmweb_id": 2981,
+  "name_pl": "Walter Sparrow",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ]
+}

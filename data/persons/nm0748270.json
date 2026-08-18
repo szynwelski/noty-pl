@@ -1,0 +1,45 @@
+{
+  "id": "nm0748270",
+  "name": "John Rubinstein",
+  "filmography": [
+    {
+      "imdb_id": "tt0068334",
+      "title": "The Candidate",
+      "year": 1972,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt0289765",
+      "title": "Red Dragon",
+      "year": 2002,
+      "roles": [
+        "cast"
+      ],
+      "character": "Dinner Guest"
+    },
+    {
+      "imdb_id": "tt0315733",
+      "title": "21 Grams",
+      "year": 2003,
+      "roles": [
+        "cast"
+      ],
+      "character": "Gynecologist"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjc0MWJmMTUtNzhkNC00NjY4LThmNjQtMTFiOWMzOWE4ZmJiXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "08.12.1946",
+  "birth_location": "Los Angeles, California, USA",
+  "height": "1.73 m",
+  "filmweb_id": 7982,
+  "name_pl": "John Rubinstein",
+  "birth_location_pl": "Los Angeles, Kalifornia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

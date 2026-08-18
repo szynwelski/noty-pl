@@ -1,0 +1,166 @@
+{
+  "imdb_id": "tt11313142",
+  "title": "Sticker",
+  "description": "After an unsuccessful attempt to renew his car registration, Dejan falls in a bureaucratic trap that tests his determination to be a responsible father.",
+  "runtime_minutes": 18,
+  "release_date": "24.01.2020",
+  "genres": [
+    "Short",
+    "Comedy"
+  ],
+  "stars": [
+    {
+      "id": "nm2762049",
+      "name": "Sasko Kocev"
+    },
+    {
+      "id": "nm1549786",
+      "name": "Xhevdet Jashari"
+    },
+    {
+      "id": "nm0865420",
+      "name": "Ljupcho Todorovski"
+    },
+    {
+      "id": "nm0198732",
+      "name": "Simeon Moni Damevski"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm4651141",
+      "name": "Georgi M. Unkovski"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm4651141",
+      "name": "Georgi M. Unkovski"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm2762049",
+      "name": "Sasko Kocev",
+      "character": "Dejan"
+    },
+    {
+      "id": "nm1549786",
+      "name": "Xhevdet Jashari",
+      "character": "New Detective"
+    },
+    {
+      "id": "nm0865420",
+      "name": "Ljupcho Todorovski",
+      "character": "Senior Detective"
+    },
+    {
+      "id": "nm0198732",
+      "name": "Simeon Moni Damevski",
+      "character": "Police Officer"
+    },
+    {
+      "id": "nm2218427",
+      "name": "Dimitrija Doksevski",
+      "character": "Police Officer #2"
+    },
+    {
+      "id": "nm5072860",
+      "name": "Sonja Stamboldzioska",
+      "character": "DMV Clerk"
+    },
+    {
+      "id": "nm11217157",
+      "name": "Kalina Dimitrovska",
+      "character": "Daughter"
+    },
+    {
+      "id": "nm10729780",
+      "name": "Anastasija Anevska",
+      "character": "Mistaken Daughter"
+    },
+    {
+      "id": "nm11026743",
+      "name": "Matej Nastevski",
+      "character": "Singing Boy"
+    }
+  ],
+  "countries": [
+    "North Macedonia"
+  ],
+  "languages": [
+    "Macedonian"
+  ],
+  "color": "Color",
+  "filmweb_id": 862468,
+  "year": 2019,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZDc5NmU0ODMtNTQzOC00MmU0LWE5MjUtNDhmZTljMTA5NDNiXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.5,
+      "votes": 435,
+      "distribution": {
+        "1": 50,
+        "2": 5,
+        "3": 5,
+        "4": 3,
+        "5": 9,
+        "6": 25,
+        "7": 78,
+        "8": 80,
+        "9": 57,
+        "10": 123
+      },
+      "normalized": 5.659
+    },
+    "filmweb": {
+      "rating": 6.67,
+      "votes": 255,
+      "distribution": {
+        "1": 1,
+        "2": 0,
+        "3": 2,
+        "4": 4,
+        "5": 21,
+        "6": 80,
+        "7": 97,
+        "8": 40,
+        "9": 7,
+        "10": 3
+      },
+      "normalized": 5.0135
+    },
+    "michal": {
+      "rating": 3,
+      "date_rated": "16.04.2021",
+      "normalized": 3.8753
+    },
+    "score": 4.8493
+  },
+  "polish_title": "Naklejka",
+  "silent": false,
+  "description_pl": "Po nieudanej próbie odnowienia rejestracji samochodu Dejan (Sasko Kocev) stopniowo pogrąża się w ponurym, biurokratycznym wirze. Ta kafkowska pułapka wyzwala przemoc i wystawia na próbę jego determinację, by być dobrym ojcem. Mężczyzna walczy o zachowanie wewnętrznej godności i właściwych priorytetów.",
+  "producers": [
+    {
+      "id": "nm4872518",
+      "name": "Goran Acevski"
+    },
+    {
+      "id": "nm6674977",
+      "name": "Marija Dimitrova"
+    },
+    {
+      "id": "nm11145776",
+      "name": "Ivan Unkovski"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm4502508",
+      "name": "Naum Doksevski"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

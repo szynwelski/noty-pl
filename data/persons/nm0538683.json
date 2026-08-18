@@ -1,0 +1,50 @@
+{
+  "id": "nm0538683",
+  "name": "Mako",
+  "filmography": [
+    {
+      "imdb_id": "tt0120102",
+      "title": "Seven Years in Tibet",
+      "year": 1997,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Kungo Tsarong"
+    },
+    {
+      "imdb_id": "tt0417299",
+      "title": "Avatar: The Last Airbender",
+      "year": 2005,
+      "roles": [
+        "cast"
+      ],
+      "character": "Uncle"
+    },
+    {
+      "imdb_id": "tt0397535",
+      "title": "Memoirs of a Geisha",
+      "year": 2005,
+      "roles": [
+        "cast"
+      ],
+      "character": "Sakamoto"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTk3MDYzODA3Nl5BMl5BanBnXkFtZTcwMDA0MjEzOA@@._V1_.jpg",
+  "birth_date": "10.12.1933",
+  "death_date": "21.07.2006",
+  "birth_location": "Kobe, Japan",
+  "height": "1.63 m",
+  "filmweb_id": 164123,
+  "name_pl": "Mako",
+  "birth_location_pl": "Kobe",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Japonia",
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 164123
+}

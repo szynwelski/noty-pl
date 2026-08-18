@@ -1,0 +1,82 @@
+{
+  "id": "nm0000694",
+  "name": "Wim Wenders",
+  "filmography": [
+    {
+      "imdb_id": "tt0075675",
+      "title": "The American Friend",
+      "year": 1977,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0085640",
+      "title": "Hammett",
+      "year": 1982,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0087884",
+      "title": "Paris, Texas",
+      "year": 1984,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0093191",
+      "title": "Wings of Desire",
+      "year": 1987,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0110361",
+      "title": "Lisbon Story",
+      "year": 1994,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0120632",
+      "title": "City of Angels",
+      "year": 1998,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt8661880",
+      "title": "It Must Schwing: The Blue Note Story",
+      "year": 2018,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTYzNTgyNzQ1MV5BMl5BanBnXkFtZTYwMTQwMjc1._V1_.jpg",
+  "birth_date": "14.08.1945",
+  "birth_location": "Düsseldorf, Germany",
+  "height": "1.91 m",
+  "filmweb_id": 222,
+  "name_pl": "Wim Wenders",
+  "birth_location_pl": "Düsseldorf",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Niemcy"
+  ],
+  "wikidata_fw_id": 222
+}

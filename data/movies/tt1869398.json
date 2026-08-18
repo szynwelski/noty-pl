@@ -1,0 +1,121 @@
+{
+  "imdb_id": "tt1869398",
+  "title": "El hombre que baila",
+  "description": "",
+  "runtime_minutes": 70,
+  "release_date": "2011",
+  "genres": [
+    "Documentary"
+  ],
+  "stars": [
+    {
+      "id": "nm4096206",
+      "name": "Néstor Lombardo"
+    },
+    {
+      "id": "nm4383435",
+      "name": "Elsa María"
+    },
+    {
+      "id": "nm4382471",
+      "name": "Héctor Mayoral"
+    },
+    {
+      "id": "nm4382732",
+      "name": "Benicio Pérez"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm4382773",
+      "name": "Sergio Aisenstein"
+    },
+    {
+      "id": "nm1926694",
+      "name": "Pablo Pintor"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm4382773",
+      "name": "Sergio Aisenstein"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm4096206",
+      "name": "Néstor Lombardo",
+      "character": "Self"
+    },
+    {
+      "id": "nm4383435",
+      "name": "Elsa María",
+      "character": "Self"
+    },
+    {
+      "id": "nm4382471",
+      "name": "Héctor Mayoral",
+      "character": "Self"
+    },
+    {
+      "id": "nm4382732",
+      "name": "Benicio Pérez",
+      "character": "Self"
+    },
+    {
+      "id": "nm4382838",
+      "name": "Héctor Sepúlveda",
+      "character": "Self"
+    }
+  ],
+  "countries": [
+    "Argentina"
+  ],
+  "languages": [
+    "Spanish"
+  ],
+  "color": "Color",
+  "filmweb_id": 633337,
+  "year": 2011,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDgwYWJjMTItNzAwYS00M2Q2LWI1ZWMtYjJlY2I2OGNkNzBjXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "votes": 0,
+      "normalized": 5.5
+    },
+    "filmweb": {
+      "rating": 4.5,
+      "votes": 4,
+      "distribution": {
+        "2": 0,
+        "3": 1,
+        "4": 2,
+        "5": 0,
+        "6": 0,
+        "7": 1,
+        "8": 0,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 5.118
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "18.02.2013",
+      "normalized": 5.6855
+    },
+    "score": 5.4345
+  },
+  "polish_title": "Człowiek, który tańczy",
+  "silent": false,
+  "description_pl": "Hector Mayoral, największy tancerz tanga wszechczasów, u schyłku życia odczuwa egzystencjalny niepokój. Czuje się zagubiony we współczesnym Buenos Aires, obcy wśród jego mieszkańców. Mayoral chce się dowiedzieć, co wydarzyło się w jego świecie, co stało się z jego środowiskiem. Wyrusza na poszukiwanie swoich starych przyjaciół, tancerzy milonga, którzy wykonują obecnie zwykłe, przyziemne zawody. Chce, by wspólnie przywrócili tajemnicę Tanga. Mayoral jest nie tylko doskonałym tancerzem, ale także pierwszorzędnym gawędziarzem. Kimś, kto tkwi w samym sercu istoty tanga i jednocześnie potrafi oglądać je z zewnątrz, aby móc je analizować i interpretować.",
+  "cinematographers": [
+    {
+      "id": "nm1100576",
+      "name": "Nicolás Theodossiou"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

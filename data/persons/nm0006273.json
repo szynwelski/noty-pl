@@ -1,0 +1,29 @@
+{
+  "id": "nm0006273",
+  "name": "Erik Satie",
+  "filmography": [
+    {
+      "imdb_id": "tt0014872",
+      "title": "Entr'acte",
+      "year": 1924,
+      "roles": [
+        "cast",
+        "composer"
+      ],
+      "character": "Un homme qui charge le canon"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDU1NTkwNzMtMDdmMi00M2U5LWEwOGMtZjVlNTZmMGI1NzEyXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "17.05.1866",
+  "death_date": "01.07.1925",
+  "birth_location": "Honfleur, Calvados, France",
+  "imdb_scraped": true,
+  "filmweb_id": 72705,
+  "name_pl": "Erik Satie",
+  "birth_location_pl": "Honfleur",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "nm0661917",
+  "name": "Ray Park",
+  "filmography": [
+    {
+      "imdb_id": "tt0120915",
+      "title": "Star Wars: Episode I - The Phantom Menace",
+      "year": 1999,
+      "roles": [
+        "cast"
+      ],
+      "character": "Darth Maul"
+    },
+    {
+      "imdb_id": "tt0120903",
+      "title": "X-Men",
+      "year": 2000,
+      "roles": [
+        "cast"
+      ],
+      "character": "Toad"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMGU5NDdjZmMtODBhMy00MWFjLWE4ZmMtMDcwMmE3YTFmY2MzXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "23.08.1974",
+  "birth_location": "Glasgow, Scotland, UK",
+  "height": "1.75 m",
+  "imdb_scraped": true,
+  "filmweb_id": 7920,
+  "name_pl": "Ray Park",
+  "birth_location_pl": "Glasgow, Szkocja",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 7920
+}

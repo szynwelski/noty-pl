@@ -1,0 +1,219 @@
+{
+  "id": "nm0000122",
+  "name": "Charles Chaplin",
+  "filmography": [
+    {
+      "imdb_id": "tt0006177",
+      "title": "The Tramp",
+      "year": 1915,
+      "roles": [
+        "director",
+        "writer",
+        "star",
+        "cast"
+      ],
+      "character": "Tramp"
+    },
+    {
+      "imdb_id": "tt0007264",
+      "title": "The Rink",
+      "year": 1916,
+      "roles": [
+        "director",
+        "writer",
+        "star",
+        "cast",
+        "producer"
+      ],
+      "character": "A Waiter - Posing as Sir Cecil Seltzer"
+    },
+    {
+      "imdb_id": "tt0007880",
+      "title": "Easy Street",
+      "year": 1917,
+      "roles": [
+        "director",
+        "writer",
+        "star",
+        "cast",
+        "producer"
+      ],
+      "character": "The Derelict"
+    },
+    {
+      "imdb_id": "tt0008133",
+      "title": "The Immigrant",
+      "year": 1917,
+      "roles": [
+        "director",
+        "writer",
+        "star",
+        "cast",
+        "producer"
+      ],
+      "character": "Immigrant"
+    },
+    {
+      "imdb_id": "tt0012349",
+      "title": "The Kid",
+      "year": 1921,
+      "roles": [
+        "director",
+        "writer",
+        "star",
+        "cast",
+        "composer"
+      ],
+      "character": "A Tramp"
+    },
+    {
+      "imdb_id": "tt0015864",
+      "title": "The Gold Rush",
+      "year": 1925,
+      "roles": [
+        "director",
+        "writer",
+        "star",
+        "cast"
+      ],
+      "character": "The Lone Prospector"
+    },
+    {
+      "imdb_id": "tt0018773",
+      "title": "The Circus",
+      "year": 1928,
+      "roles": [
+        "director",
+        "writer",
+        "star",
+        "cast",
+        "composer"
+      ],
+      "character": "A Tramp"
+    },
+    {
+      "imdb_id": "tt0021749",
+      "title": "City Lights",
+      "year": 1931,
+      "roles": [
+        "director",
+        "writer",
+        "star",
+        "cast",
+        "composer"
+      ],
+      "character": "A Tramp"
+    },
+    {
+      "imdb_id": "tt0027977",
+      "title": "Modern Times",
+      "year": 1936,
+      "roles": [
+        "director",
+        "writer",
+        "star",
+        "cast",
+        "composer"
+      ],
+      "character": "A Factory Worker"
+    },
+    {
+      "imdb_id": "tt0032553",
+      "title": "The Great Dictator",
+      "year": 1940,
+      "roles": [
+        "director",
+        "writer",
+        "star",
+        "cast",
+        "producer"
+      ],
+      "character": "Hynkel - Dictator of Tomania"
+    },
+    {
+      "imdb_id": "tt0039631",
+      "title": "Monsieur Verdoux",
+      "year": 1947,
+      "roles": [
+        "director",
+        "writer",
+        "star",
+        "cast",
+        "composer"
+      ],
+      "character": "Henri Verdoux - Alias Varnay - Alias Bonheur - Alias Floray"
+    },
+    {
+      "imdb_id": "tt0044837",
+      "title": "Limelight",
+      "year": 1952,
+      "roles": [
+        "director",
+        "writer",
+        "star",
+        "cast",
+        "composer"
+      ],
+      "character": "Calvero"
+    },
+    {
+      "imdb_id": "tt0050598",
+      "title": "A King in New York",
+      "year": 1957,
+      "roles": [
+        "director",
+        "writer",
+        "star",
+        "cast",
+        "composer",
+        "producer"
+      ],
+      "character": "King Shahdov"
+    },
+    {
+      "imdb_id": "tt0056799",
+      "title": "30 Years of Fun",
+      "year": 1963,
+      "roles": [
+        "star",
+        "cast"
+      ]
+    },
+    {
+      "imdb_id": "tt0061523",
+      "title": "A Countess from Hong Kong",
+      "year": 1967,
+      "roles": [
+        "director",
+        "writer",
+        "composer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0309987",
+      "title": "The Dreamers",
+      "year": 2003,
+      "roles": [
+        "cast"
+      ],
+      "character": "A Tramp"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDcwMDc0ODAzOF5BMl5BanBnXkFtZTgwNTY2OTI1MDE@._V1_.jpg",
+  "birth_date": "16.04.1889",
+  "death_date": "25.12.1977",
+  "birth_location": "Walworth, London, England, UK",
+  "height": "1.64 m",
+  "filmweb_id": 47504,
+  "name_pl": "Charlie Chaplin",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania",
+    "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii"
+  ],
+  "wikidata_fw_id": 47504
+}

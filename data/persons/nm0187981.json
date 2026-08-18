@@ -1,0 +1,40 @@
+{
+  "id": "nm0187981",
+  "name": "Donald Crisp",
+  "filmography": [
+    {
+      "imdb_id": "tt0004972",
+      "title": "The Birth of a Nation",
+      "year": 1915,
+      "roles": [
+        "cast"
+      ],
+      "character": "Gen. Ulysses S. Grant"
+    },
+    {
+      "imdb_id": "tt0009968",
+      "title": "Broken Blossoms",
+      "year": 1919,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Battling Burrows"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjAzNjk0MDI0M15BMl5BanBnXkFtZTcwNjUwNTYwOA@@._V1_.jpg",
+  "birth_date": "27.07.1882",
+  "death_date": "25.05.1974",
+  "birth_location": "Bow, London, England, UK",
+  "height": "1.77 m",
+  "imdb_scraped": true,
+  "filmweb_id": 47044,
+  "name_pl": "Donald Crisp",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 47044
+}

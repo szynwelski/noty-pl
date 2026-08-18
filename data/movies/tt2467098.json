@@ -1,0 +1,87 @@
+{
+  "imdb_id": "tt2467098",
+  "title": "Queen Victoria's Visit to Dublin",
+  "description": "",
+  "runtime_minutes": null,
+  "release_date": "1900",
+  "genres": [
+    "Documentary",
+    "Short"
+  ],
+  "stars": [
+    {
+      "id": "nm0703075",
+      "name": "Queen Victoria"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0703075",
+      "name": "Queen Victoria",
+      "character": "Self"
+    }
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "None",
+    "English"
+  ],
+  "color": "Black and White",
+  "year": 1900,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjMzNjlhZDYtM2VkNC00M2EwLWFkNWItOTU0NmQyNTMyY2NhXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 286887,
+  "ratings": {
+    "imdb": {
+      "rating": 4.6,
+      "votes": 27,
+      "distribution": {
+        "1": 5,
+        "2": 1,
+        "3": 0,
+        "4": 4,
+        "5": 6,
+        "6": 4,
+        "7": 3,
+        "8": 0,
+        "9": 1,
+        "10": 3
+      },
+      "normalized": 5.162
+    },
+    "filmweb": {
+      "rating": 4.0,
+      "votes": 6,
+      "distribution": {
+        "2": 0,
+        "3": 3,
+        "4": 2,
+        "5": 0,
+        "6": 0,
+        "7": 1,
+        "8": 0,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 5.0475
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "11.12.2016",
+      "normalized": 5.6855
+    },
+    "score": 5.2983
+  },
+  "polish_title": "Queen Victoria's Last Visit to Ireland",
+  "silent": true,
+  "cinematographers": [
+    {
+      "id": "nm0378408",
+      "name": "Cecil M. Hepworth"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

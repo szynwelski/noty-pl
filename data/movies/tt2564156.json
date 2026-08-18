@@ -1,0 +1,267 @@
+{
+  "imdb_id": "tt2564156",
+  "title": "In God We Trust",
+  "description": "Eleanor Squillari went to work every day believing she was working for a great company, a great man. For twenty-five years she sat 15 feet from Bernard L. Madoff as his personal secretary. She never imagined that he was perpetrating the largest financial crime in history. On December 11th, 2008, her life as she knew it was destroyed...until she decided to do something about it.",
+  "runtime_minutes": 82,
+  "release_date": "07.12.2014",
+  "genres": [
+    "Documentary"
+  ],
+  "stars": [
+    {
+      "id": "nm2127497",
+      "name": "Victor Kubicek"
+    },
+    {
+      "id": "nm4913441",
+      "name": "Andrew Madoff"
+    },
+    {
+      "id": "nm3318676",
+      "name": "Bernie Madoff"
+    },
+    {
+      "id": "nm4913795",
+      "name": "Ruth Madoff"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm2203770",
+      "name": "Derek Anderson"
+    },
+    {
+      "id": "nm2127497",
+      "name": "Victor Kubicek"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm2127497",
+      "name": "Victor Kubicek"
+    },
+    {
+      "id": "nm2203770",
+      "name": "Derek Anderson"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm2127497",
+      "name": "Victor Kubicek",
+      "character": "Self"
+    },
+    {
+      "id": "nm4913441",
+      "name": "Andrew Madoff",
+      "character": "Self"
+    },
+    {
+      "id": "nm3318676",
+      "name": "Bernie Madoff",
+      "character": "Self"
+    },
+    {
+      "id": "nm4913795",
+      "name": "Ruth Madoff",
+      "character": "Self"
+    },
+    {
+      "id": "nm5547380",
+      "name": "Eleanor Squillari",
+      "character": "Self"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 700168,
+  "year": 2013,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTc3NDg1NTgxMV5BMl5BanBnXkFtZTgwMzE4MTU4NTE@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.3,
+      "votes": 34,
+      "distribution": {
+        "1": 3,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 0,
+        "6": 4,
+        "7": 9,
+        "8": 5,
+        "9": 3,
+        "10": 7
+      },
+      "normalized": 5.3345
+    },
+    "filmweb": {
+      "rating": 6.42,
+      "votes": 26,
+      "distribution": {
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 6,
+        "6": 7,
+        "7": 7,
+        "8": 4,
+        "9": 0,
+        "10": 1
+      },
+      "normalized": 5.1169
+    },
+    "jarek": {
+      "rating": 3,
+      "date_rated": "01.12.2016",
+      "normalized": 4.2591
+    },
+    "score": 4.9035
+  },
+  "polish_title": "W Bogu pokładamy nadzieję",
+  "silent": false,
+  "producers": [
+    {
+      "id": "nm5614965",
+      "name": "David Aim"
+    },
+    {
+      "id": "nm5615009",
+      "name": "Marc Altshuler"
+    },
+    {
+      "id": "nm2203770",
+      "name": "Derek Anderson"
+    },
+    {
+      "id": "nm1765210",
+      "name": "Stephanie Apt"
+    },
+    {
+      "id": "nm5614626",
+      "name": "Chalid Arrab"
+    },
+    {
+      "id": "nm5615252",
+      "name": "Toneya Bird"
+    },
+    {
+      "id": "nm5613996",
+      "name": "Lauren Bleiweiss"
+    },
+    {
+      "id": "nm0110921",
+      "name": "Tyler Brodie"
+    },
+    {
+      "id": "nm0131771",
+      "name": "Beverly J. Camhe"
+    },
+    {
+      "id": "nm4177246",
+      "name": "Laura DuBois"
+    },
+    {
+      "id": "nm5613726",
+      "name": "Laura Eastwood"
+    },
+    {
+      "id": "nm5615331",
+      "name": "Natalie Graeme"
+    },
+    {
+      "id": "nm0336683",
+      "name": "Hunter Gray"
+    },
+    {
+      "id": "nm1499325",
+      "name": "Kyle Heller"
+    },
+    {
+      "id": "nm5614432",
+      "name": "Nate Katz"
+    },
+    {
+      "id": "nm2127497",
+      "name": "Victor Kubicek"
+    },
+    {
+      "id": "nm5613699",
+      "name": "Ludwig Kuttner"
+    },
+    {
+      "id": "nm5614124",
+      "name": "Justin Lane"
+    },
+    {
+      "id": "nm0489681",
+      "name": "Alexander Lasky"
+    },
+    {
+      "id": "nm0522938",
+      "name": "Frank Lowe"
+    },
+    {
+      "id": "nm0652269",
+      "name": "Beatrix Ost"
+    },
+    {
+      "id": "nm3011396",
+      "name": "Phaedon A. Papadopoulos"
+    },
+    {
+      "id": "nm2762473",
+      "name": "Gloria Pitagorsky"
+    },
+    {
+      "id": "nm5619715",
+      "name": "Luke Raymond"
+    },
+    {
+      "id": "nm0744595",
+      "name": "Susanne Rostock"
+    },
+    {
+      "id": "nm5614114",
+      "name": "Mark Seal"
+    },
+    {
+      "id": "nm5529074",
+      "name": "John Snyder"
+    },
+    {
+      "id": "nm1850736",
+      "name": "Marianna Tretiak"
+    },
+    {
+      "id": "nm1798628",
+      "name": "Seth Weinstein"
+    },
+    {
+      "id": "nm5614925",
+      "name": "Paul Wilmot"
+    },
+    {
+      "id": "nm2476012",
+      "name": "Arden Wohl"
+    },
+    {
+      "id": "nm3011928",
+      "name": "Orlando Wood"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm5601177",
+      "name": "Rad Roubeni"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

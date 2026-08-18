@@ -1,0 +1,47 @@
+{
+  "id": "nm0046033",
+  "name": "Diedrich Bader",
+  "filmography": [
+    {
+      "imdb_id": "tt0151804",
+      "title": "Office Space",
+      "year": 1999,
+      "roles": [
+        "cast"
+      ],
+      "character": "Lawrence"
+    },
+    {
+      "imdb_id": "tt0268380",
+      "title": "Ice Age",
+      "year": 2002,
+      "roles": [
+        "cast"
+      ],
+      "character": "Oscar"
+    },
+    {
+      "imdb_id": "tt1073498",
+      "title": "Meet the Spartans",
+      "year": 2008,
+      "roles": [
+        "cast"
+      ],
+      "character": "Traitoro"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTkzMTkyNzYyOV5BMl5BanBnXkFtZTYwNTMyNDE0._V1_.jpg",
+  "birth_date": "24.12.1966",
+  "birth_location": "Alexandria, Virginia, USA",
+  "height": "1.88 m",
+  "filmweb_id": 45401,
+  "name_pl": "Diedrich Bader",
+  "birth_location_pl": "Alexandria, Wirginia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 45401
+}

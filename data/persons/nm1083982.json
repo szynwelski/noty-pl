@@ -1,0 +1,35 @@
+{
+  "id": "nm1083982",
+  "name": "Andy Weir",
+  "filmography": [
+    {
+      "imdb_id": "tt3659388",
+      "title": "The Martian",
+      "year": 2015,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt12042730",
+      "title": "Project Hail Mary",
+      "year": 2026,
+      "roles": [
+        "writer",
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZGZhOGVjZTItNzQ4Yy00MGVkLWIyZmYtYWMxZjc1ZjM3N2JmXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "16.06.1972",
+  "birth_location": "Davis, California, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 2129868,
+  "name_pl": "Andy Weir",
+  "birth_location_pl": "Davis, Kalifornia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

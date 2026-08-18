@@ -1,0 +1,41 @@
+{
+  "id": "nm0579663",
+  "name": "Adolphe Menjou",
+  "filmography": [
+    {
+      "imdb_id": "tt0021156",
+      "title": "Morocco",
+      "year": 1930,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Monsieur La Bessiere"
+    },
+    {
+      "imdb_id": "tt0050825",
+      "title": "Paths of Glory",
+      "year": 1957,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Gen. George Broulard"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODlmZGE5MTgtYmNjYy00M2Q3LWI0ZjktMGE4ZDRjYjlmZGQ2XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "18.02.1890",
+  "death_date": "29.10.1963",
+  "birth_location": "Pittsburgh, Pennsylvania, USA",
+  "height": "1.79 m",
+  "imdb_scraped": true,
+  "filmweb_id": 43099,
+  "name_pl": "Adolphe Menjou",
+  "birth_location_pl": "Pittsburgh, Pensylwania",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 43099
+}

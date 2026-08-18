@@ -1,0 +1,41 @@
+{
+  "id": "nm0001076",
+  "name": "Joan Crawford",
+  "filmography": [
+    {
+      "imdb_id": "tt0022958",
+      "title": "Grand Hotel",
+      "year": 1932,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Flaemmchen"
+    },
+    {
+      "imdb_id": "tt0056687",
+      "title": "What Ever Happened to Baby Jane?",
+      "year": 1962,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Blanche Hudson"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNGI0YzEwZmYtOWM2ZS00N2ZkLTk0YmQtMWYzMGViOThiZjg5XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "23.03.1906",
+  "death_date": "10.05.1977",
+  "birth_location": "San Antonio, Texas, USA",
+  "height": "1.60 m",
+  "imdb_scraped": true,
+  "filmweb_id": 54879,
+  "name_pl": "Joan Crawford",
+  "birth_location_pl": "San Antonio, Teksas",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 54879
+}

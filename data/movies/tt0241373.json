@@ -1,0 +1,103 @@
+{
+  "imdb_id": "tt0241373",
+  "title": "Dickson Greeting",
+  "description": "The very first American film shown to public audiences and the press. It depicts William K.L. Dickson taking off his hat and greeting the audience.",
+  "runtime_minutes": 1,
+  "release_date": "20.05.1891",
+  "genres": [
+    "Short"
+  ],
+  "stars": [
+    {
+      "id": "nm0005690",
+      "name": "William K.L. Dickson"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0005690",
+      "name": "William K.L. Dickson"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0005690",
+      "name": "William K.L. Dickson",
+      "character": ""
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 117023,
+  "year": 1891,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMmViNWQwYzMtN2RiMy00MGI2LThiMjEtOWZkZjNhZjRmYWViXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.3,
+      "votes": 1755,
+      "distribution": {
+        "1": 107,
+        "2": 94,
+        "3": 114,
+        "4": 172,
+        "5": 482,
+        "6": 349,
+        "7": 175,
+        "8": 91,
+        "9": 37,
+        "10": 134
+      },
+      "normalized": 3.3524
+    },
+    "filmweb": {
+      "rating": 4.26,
+      "votes": 251,
+      "distribution": {
+        "1": 22,
+        "2": 26,
+        "3": 49,
+        "4": 41,
+        "5": 58,
+        "6": 24,
+        "7": 11,
+        "8": 12,
+        "9": 3,
+        "10": 5
+      },
+      "normalized": 3.249
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "11.12.2016",
+      "normalized": 5.6855
+    },
+    "score": 4.0956
+  },
+  "polish_title": "Dickson Greeting",
+  "silent": true,
+  "description_pl": "Pod koniec XIX wieku w Ameryce miało miejsce duże zebranie kobiecych klubów. Pani Edison była zainteresowana ich działalnością. Jej mąż zaprosił 147 kobiet do swojej pracowni gdzie pokazał im projektor, którym okazało się być stojące na podłodze małe sosnowe pudełko. Na górze pudełka znajdowała się dziurka o średnicy cala. Spoglądając przez ten otwór oczom kobiet ukazał się mężczyzna. Później wszystkie zgodnie stwierdziły, że było to zdumiewające przeżycie. Mężczyzna ukłonił się, uśmiechnął, pomachał rękami a następnie zdjął swój kapelusz z całkowitą naturalnością i gracją.",
+  "producers": [
+    {
+      "id": "nm0005690",
+      "name": "William K.L. Dickson"
+    },
+    {
+      "id": "nm0374658",
+      "name": "William Heise"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0374658",
+      "name": "William Heise"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

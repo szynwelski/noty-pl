@@ -1,0 +1,47 @@
+{
+  "id": "nm0232019",
+  "name": "James Donald",
+  "filmography": [
+    {
+      "imdb_id": "tt0034891",
+      "title": "In Which We Serve",
+      "year": 1942,
+      "roles": [
+        "cast"
+      ],
+      "character": "Doc"
+    },
+    {
+      "imdb_id": "tt0050212",
+      "title": "The Bridge on the River Kwai",
+      "year": 1957,
+      "roles": [
+        "cast"
+      ],
+      "character": "Major Clipton"
+    },
+    {
+      "imdb_id": "tt0057115",
+      "title": "The Great Escape",
+      "year": 1963,
+      "roles": [
+        "cast"
+      ],
+      "character": "Ramsey 'The SBO'"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTM5Mjc3OTYzMl5BMl5BanBnXkFtZTcwNTA0MTYxOA@@._V1_.jpg",
+  "birth_date": "18.05.1917",
+  "death_date": "03.08.1993",
+  "birth_location": "Aberdeen, Aberdeenshire, Scotland, UK",
+  "height": "1.81 m",
+  "filmweb_id": 44096,
+  "name_pl": "James Donald",
+  "birth_location_pl": "Aberdeen, Szkocja",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ]
+}

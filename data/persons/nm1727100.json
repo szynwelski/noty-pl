@@ -1,0 +1,48 @@
+{
+  "id": "nm1727100",
+  "name": "Jay Chou",
+  "filmography": [
+    {
+      "imdb_id": "tt0473444",
+      "title": "Curse of the Golden Flower",
+      "year": 2006,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Prince Jai"
+    },
+    {
+      "imdb_id": "tt1425257",
+      "title": "True Legend",
+      "year": 2010,
+      "roles": [
+        "cast"
+      ],
+      "character": "God of Wushu"
+    },
+    {
+      "imdb_id": "tt0990407",
+      "title": "The Green Hornet",
+      "year": 2011,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Kato"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTgwNTEyMzUzMV5BMl5BanBnXkFtZTcwOTY2MDIzNA@@._V1_.jpg",
+  "birth_date": "18.01.1979",
+  "birth_location": "New Taipei, Taiwan",
+  "height": "1.73 m",
+  "filmweb_id": 365773,
+  "name_pl": "Jay Chou",
+  "birth_location_pl": "Linkou (obecnie Nowe Tajpej)",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Republika Chińska"
+  ]
+}

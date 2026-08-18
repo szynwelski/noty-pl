@@ -1,0 +1,218 @@
+{
+  "imdb_id": "tt4835086",
+  "title": "We Are X",
+  "description": "A documentary film about the legendary Japanese rock band X JAPAN.",
+  "runtime_minutes": 93,
+  "release_date": "23.01.2018",
+  "genres": [
+    "Documentary",
+    "Music"
+  ],
+  "stars": [
+    {
+      "id": "nm0370668",
+      "name": "Yoshiki"
+    },
+    {
+      "id": "nm1094327",
+      "name": "Hiroshi Morie"
+    },
+    {
+      "id": "nm1173300",
+      "name": "Sugizo"
+    },
+    {
+      "id": "nm0223360",
+      "name": "Toshimitsu Deyama"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0452772",
+      "name": "Stephen Kijak"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0370668",
+      "name": "Yoshiki",
+      "character": "Self"
+    },
+    {
+      "id": "nm0223360",
+      "name": "Toshimitsu Deyama",
+      "character": "Self"
+    },
+    {
+      "id": "nm0411165",
+      "name": "Tomoaki Ishizuka",
+      "character": "Self"
+    },
+    {
+      "id": "nm1094327",
+      "name": "Hiroshi Morie",
+      "character": "Self"
+    },
+    {
+      "id": "nm1173300",
+      "name": "Sugizo",
+      "character": "Self"
+    },
+    {
+      "id": "nm0559512",
+      "name": "Hideto Matsumoto",
+      "character": "Self"
+    },
+    {
+      "id": "nm0767989",
+      "name": "Taiji Sawada",
+      "character": "Self"
+    },
+    {
+      "id": "nm0005430",
+      "name": "Gene Simmons",
+      "character": "Self"
+    },
+    {
+      "id": "nm0096983",
+      "name": "Wes Borland",
+      "character": "Self"
+    },
+    {
+      "id": "nm1249554",
+      "name": "Richard Fortus",
+      "character": "Self"
+    },
+    {
+      "id": "nm0001504",
+      "name": "Marilyn Manson",
+      "character": "Self"
+    },
+    {
+      "id": "nm2313102",
+      "name": "Dir en Grey",
+      "character": "Themselves"
+    },
+    {
+      "id": "nm2377564",
+      "name": "Glay",
+      "character": "Themselves"
+    },
+    {
+      "id": "nm0498278",
+      "name": "Stan Lee",
+      "character": "Self"
+    },
+    {
+      "id": "nm6467378",
+      "name": "Cédric Martin",
+      "character": "Self - Fan with X back tattoo"
+    }
+  ],
+  "countries": [
+    "United Kingdom",
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Japanese"
+  ],
+  "color": "Color",
+  "year": 2016,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNjA1ZDk4OTUtZWExMS00NWNiLWI4NDgtMDAwZjdhNGExMDJmXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 757610,
+  "ratings": {
+    "imdb": {
+      "rating": 7.5,
+      "votes": 1120,
+      "distribution": {
+        "1": 28,
+        "2": 6,
+        "3": 7,
+        "4": 24,
+        "5": 38,
+        "6": 114,
+        "7": 248,
+        "8": 257,
+        "9": 145,
+        "10": 253
+      },
+      "normalized": 5.9775
+    },
+    "filmweb": {
+      "rating": 7.6,
+      "votes": 89,
+      "distribution": {
+        "1": 1,
+        "2": 1,
+        "3": 3,
+        "4": 4,
+        "5": 5,
+        "6": 6,
+        "7": 16,
+        "8": 23,
+        "9": 9,
+        "10": 21
+      },
+      "normalized": 5.4645
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "22.11.2016",
+      "normalized": 6.4102
+    },
+    "score": 5.9507
+  },
+  "polish_title": "X Japan to my!",
+  "silent": false,
+  "producers": [
+    {
+      "id": "nm0061557",
+      "name": "John Battsek"
+    },
+    {
+      "id": "nm2177487",
+      "name": "Diane Becker"
+    },
+    {
+      "id": "nm2639385",
+      "name": "George Chignell"
+    },
+    {
+      "id": "nm1890524",
+      "name": "Ned Doyle"
+    },
+    {
+      "id": "nm1967439",
+      "name": "Kerstin Emhoff"
+    },
+    {
+      "id": "nm12776979",
+      "name": "James Ashley-Turner Hall"
+    },
+    {
+      "id": "nm0570462",
+      "name": "Jonathan McHugh"
+    },
+    {
+      "id": "nm4188579",
+      "name": "Jonathan Platt"
+    },
+    {
+      "id": "nm2219330",
+      "name": "Mark Rau"
+    },
+    {
+      "id": "nm1153837",
+      "name": "Nicole Stott"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0370668",
+      "name": "Yoshiki"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "nm0011741",
+  "name": "Wesley Addy",
+  "filmography": [
+    {
+      "imdb_id": "tt0056687",
+      "title": "What Ever Happened to Baby Jane?",
+      "year": 1962,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Marty McDonald"
+    },
+    {
+      "imdb_id": "tt0074958",
+      "title": "Network",
+      "year": 1976,
+      "roles": [
+        "cast"
+      ],
+      "character": "Nelson Chaney"
+    },
+    {
+      "imdb_id": "tt0115645",
+      "title": "Before and After",
+      "year": 1996,
+      "roles": [
+        "cast"
+      ],
+      "character": "Judge Grady"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTcxMzYxMDExNV5BMl5BanBnXkFtZTcwNjk2MjYwOA@@._V1_.jpg",
+  "birth_date": "04.08.1913",
+  "death_date": "31.12.1996",
+  "birth_location": "Omaha, Nebraska, USA",
+  "filmweb_id": 63441,
+  "name_pl": "Wesley Addy",
+  "birth_location_pl": "Omaha, Nebraska",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 63441
+}

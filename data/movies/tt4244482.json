@@ -1,0 +1,178 @@
+{
+  "imdb_id": "tt4244482",
+  "title": "Ordered to Forget",
+  "description": "As the mass deportations of the Chechen and Ingush peoples begin in 1944, young Daud and Seda escape to the mountains. When they get back to their native village, however, they witness a horrifying war crime.",
+  "runtime_minutes": 86,
+  "release_date": "14.10.2014",
+  "genres": [
+    "Drama",
+    "History",
+    "War"
+  ],
+  "stars": [
+    {
+      "id": "nm6949330",
+      "name": "Shamkhan Mitraev"
+    },
+    {
+      "id": "nm6949331",
+      "name": "Kheda Akhmadova"
+    },
+    {
+      "id": "nm2687747",
+      "name": "Timur Bazinskiy"
+    },
+    {
+      "id": "nm3474050",
+      "name": "Roza Khayrullina"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0259483",
+      "name": "Hussein Erkenov"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm6949333",
+      "name": "Ruslan Kokonaev"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm6949330",
+      "name": "Shamkhan Mitraev",
+      "character": "Daud"
+    },
+    {
+      "id": "nm6949331",
+      "name": "Kheda Akhmadova",
+      "character": "Seda"
+    },
+    {
+      "id": "nm2687747",
+      "name": "Timur Bazinskiy",
+      "character": "NKVD General"
+    },
+    {
+      "id": "nm3474050",
+      "name": "Roza Khayrullina",
+      "character": ""
+    },
+    {
+      "id": "nm6949332",
+      "name": "Movsar Ataev",
+      "character": ""
+    },
+    {
+      "id": "nm4244960",
+      "name": "Roman Kuznechenko",
+      "character": ""
+    },
+    {
+      "id": "nm6949333",
+      "name": "Ruslan Kokonaev",
+      "character": ""
+    },
+    {
+      "id": "nm6949334",
+      "name": "Zarema Ulabayeva",
+      "character": ""
+    },
+    {
+      "id": "nm6949335",
+      "name": "Sanukhat Khakisheva",
+      "character": ""
+    },
+    {
+      "id": "nm6949336",
+      "name": "Roman Katyshkin",
+      "character": ""
+    }
+  ],
+  "countries": [
+    "Russia"
+  ],
+  "languages": [
+    "Chechen",
+    "Russian"
+  ],
+  "color": "Color",
+  "filmweb_id": 733086,
+  "year": 2014,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BN2E5MTg2MjYtMTk0Yy00NTAyLWE1YTYtNWZhMTUyNjM2ODhkXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Prikazano zabyt",
+  "ratings": {
+    "imdb": {
+      "rating": 6.4,
+      "votes": 73,
+      "distribution": {
+        "1": 13,
+        "2": 5,
+        "3": 4,
+        "4": 4,
+        "5": 3,
+        "6": 11,
+        "7": 10,
+        "8": 2,
+        "9": 3,
+        "10": 18
+      },
+      "normalized": 5.2312
+    },
+    "filmweb": {
+      "rating": 4.14,
+      "votes": 7,
+      "distribution": {
+        "1": 1,
+        "2": 0,
+        "3": 1,
+        "4": 3,
+        "5": 0,
+        "6": 1,
+        "7": 1,
+        "8": 0,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 5.0294
+    },
+    "jarek": {
+      "rating": 8,
+      "date_rated": "22.12.2018",
+      "normalized": 7.8989
+    },
+    "score": 6.0532
+  },
+  "polish_title": "Rozkaz: zapomnieć",
+  "silent": false,
+  "producers": [
+    {
+      "id": "nm6949333",
+      "name": "Ruslan Kokonaev"
+    },
+    {
+      "id": "nm1457587",
+      "name": "Aiken Kuatbaeva"
+    },
+    {
+      "id": "nm11727436",
+      "name": "Soltan Zaourbekov"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0201999",
+      "name": "Vladimir Dashkevich"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0677985",
+      "name": "Anatoli Petriga"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

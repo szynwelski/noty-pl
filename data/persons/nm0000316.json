@@ -1,0 +1,91 @@
+{
+  "id": "nm0000316",
+  "name": "Mel Brooks",
+  "filmography": [
+    {
+      "imdb_id": "tt0072431",
+      "title": "Young Frankenstein",
+      "year": 1974,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0080678",
+      "title": "The Elephant Man",
+      "year": 1980,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0082517",
+      "title": "History of the World: Part I",
+      "year": 1981,
+      "roles": [
+        "director",
+        "writer",
+        "star",
+        "cast",
+        "producer"
+      ],
+      "character": "Moses"
+    },
+    {
+      "imdb_id": "tt0094012",
+      "title": "Spaceballs",
+      "year": 1987,
+      "roles": [
+        "director",
+        "writer",
+        "star",
+        "cast",
+        "producer"
+      ],
+      "character": "President Skroob"
+    },
+    {
+      "imdb_id": "tt0100050",
+      "title": "Look Who's Talking Too",
+      "year": 1990,
+      "roles": [
+        "cast"
+      ],
+      "character": "Mr. Toilet Man"
+    },
+    {
+      "imdb_id": "tt0107977",
+      "title": "Robin Hood: Men in Tights",
+      "year": 1993,
+      "roles": [
+        "director",
+        "writer",
+        "cast",
+        "producer"
+      ],
+      "character": "Rabbi Tuckman"
+    },
+    {
+      "imdb_id": "tt0425061",
+      "title": "Get Smart",
+      "year": 2008,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTU2MzI5NjA1NV5BMl5BanBnXkFtZTgwMjEyNjQ0MTI@._V1_.jpg",
+  "birth_date": "28.06.1926",
+  "birth_location": "Brooklyn, New York City, New York, USA",
+  "height": "1.65 m",
+  "filmweb_id": 5753,
+  "name_pl": "Mel Brooks",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

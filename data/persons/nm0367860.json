@@ -1,0 +1,62 @@
+{
+  "id": "nm0367860",
+  "name": "Wojciech Has",
+  "filmography": [
+    {
+      "imdb_id": "tt0052083",
+      "title": "Lydia Ate the Apple",
+      "year": 1958,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0057196",
+      "title": "How to Be Loved",
+      "year": 1963,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0059643",
+      "title": "The Saragossa Manuscript",
+      "year": 1965,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0070628",
+      "title": "The Hourglass Sanatorium",
+      "year": 1973,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0084411",
+      "title": "An Uneventful Story",
+      "year": 1983,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjRmYzQ0ZDUtMjViMy00MTI3LWIxNGEtMDViZmY3NWRiZWVjXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "01.04.1925",
+  "death_date": "03.10.2000",
+  "birth_location": "Kraków, Malopolskie, Poland",
+  "filmweb_id": 340,
+  "name_pl": "Wojciech Has",
+  "birth_location_pl": "Kraków",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Polska"
+  ]
+}

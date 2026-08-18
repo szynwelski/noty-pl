@@ -1,0 +1,39 @@
+{
+  "id": "nm0000954",
+  "name": "Jon Bon Jovi",
+  "filmography": [
+    {
+      "imdb_id": "tt0223897",
+      "title": "Pay It Forward",
+      "year": 2000,
+      "roles": [
+        "cast"
+      ],
+      "character": "Ricky McKinney"
+    },
+    {
+      "imdb_id": "tt0141926",
+      "title": "U-571",
+      "year": 2000,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Emmett"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTc4NzA2Mzk3OV5BMl5BanBnXkFtZTcwNzI0MTM5Mg@@._V1_.jpg",
+  "birth_date": "02.03.1962",
+  "birth_location": "Perth Amboy, New Jersey, USA",
+  "height": "1.75 m",
+  "imdb_scraped": true,
+  "filmweb_id": 9589,
+  "name_pl": "Jon Bon Jovi",
+  "birth_location_pl": "Perth Amboy, New Jersey",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 9589
+}

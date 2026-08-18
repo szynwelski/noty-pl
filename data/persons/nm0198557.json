@@ -1,0 +1,38 @@
+{
+  "id": "nm0198557",
+  "name": "Salvador Dalí",
+  "filmography": [
+    {
+      "imdb_id": "tt0020530",
+      "title": "Un chien andalou",
+      "year": 1929,
+      "roles": [
+        "writer",
+        "cast"
+      ],
+      "character": "Seminarist"
+    },
+    {
+      "imdb_id": "tt0021577",
+      "title": "L'Age d'Or",
+      "year": 1930,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTc4MTE0MDE5OF5BMl5BanBnXkFtZTYwMDMxNjI2._V1_.jpg",
+  "birth_date": "11.05.1904",
+  "death_date": "23.01.1989",
+  "birth_location": "Figueres, Girona, Catalonia, Spain",
+  "height": "1.72 m",
+  "imdb_scraped": true,
+  "filmweb_id": 6706,
+  "name_pl": "Salvador Dali",
+  "birth_location_pl": "Figueres",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Hiszpania"
+  ]
+}

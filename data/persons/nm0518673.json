@@ -1,0 +1,38 @@
+{
+  "id": "nm0518673",
+  "name": "Babe London",
+  "filmography": [
+    {
+      "imdb_id": "tt0013858",
+      "title": "The Balloonatic",
+      "year": 1923,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Fat Girl at The House of Trouble"
+    },
+    {
+      "imdb_id": "tt0015863",
+      "title": "Go West",
+      "year": 1925,
+      "roles": [
+        "cast"
+      ],
+      "character": "Woman in Department Store"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDBkODlmYTgtM2IzZC00MDE2LWJmNzYtYzg5N2FhNDE5YmEzXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "28.08.1901",
+  "death_date": "29.11.1980",
+  "birth_location": "Des Moines, Iowa, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 111922,
+  "name_pl": "Babe London",
+  "birth_location_pl": "Des Moines, Iowa",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

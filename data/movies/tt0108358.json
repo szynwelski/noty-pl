@@ -1,0 +1,245 @@
+{
+  "imdb_id": "tt0108358",
+  "title": "Tombstone",
+  "description": "A successful lawman's plans to retire anonymously in Tombstone, Arizona, are disrupted by the kind of outlaws he was famous for eliminating.",
+  "runtime_minutes": 130,
+  "release_date": "25.12.1993",
+  "genres": [
+    "Biography",
+    "Drama",
+    "History",
+    "Western"
+  ],
+  "stars": [
+    {
+      "id": "nm0000621",
+      "name": "Kurt Russell"
+    },
+    {
+      "id": "nm0000174",
+      "name": "Val Kilmer"
+    },
+    {
+      "id": "nm0000385",
+      "name": "Sam Elliott"
+    },
+    {
+      "id": "nm0000200",
+      "name": "Bill Paxton"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0181902",
+      "name": "George P. Cosmatos"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0418883",
+      "name": "Kevin Jarre"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000621",
+      "name": "Kurt Russell",
+      "character": "Wyatt Earp"
+    },
+    {
+      "id": "nm0000174",
+      "name": "Val Kilmer",
+      "character": "Doc Holliday"
+    },
+    {
+      "id": "nm0000385",
+      "name": "Sam Elliott",
+      "character": "Virgil Earp"
+    },
+    {
+      "id": "nm0000200",
+      "name": "Bill Paxton",
+      "character": "Morgan Earp"
+    },
+    {
+      "id": "nm0000959",
+      "name": "Powers Boothe",
+      "character": "Curly Bill Brocius"
+    },
+    {
+      "id": "nm0000299",
+      "name": "Michael Biehn",
+      "character": "Johnny Ringo"
+    },
+    {
+      "id": "nm0000032",
+      "name": "Charlton Heston",
+      "character": "Henry Hooker"
+    },
+    {
+      "id": "nm0000594",
+      "name": "Jason Priestley",
+      "character": "Billy Breckinridge"
+    },
+    {
+      "id": "nm0855103",
+      "name": "Jon Tenney",
+      "character": "Behan"
+    },
+    {
+      "id": "nm0002332",
+      "name": "Stephen Lang",
+      "character": "Ike Clanton"
+    },
+    {
+      "id": "nm0002006",
+      "name": "Thomas Haden Church",
+      "character": "Billy Clanton"
+    },
+    {
+      "id": "nm0001127",
+      "name": "Dana Delany",
+      "character": "Josephine Marcus"
+    },
+    {
+      "id": "nm0539155",
+      "name": "Paula Malcomson",
+      "character": "Allie Earp"
+    },
+    {
+      "id": "nm0172492",
+      "name": "Lisa Collins",
+      "character": "Louisa Earp"
+    },
+    {
+      "id": "nm0923984",
+      "name": "Dana Wheeler-Nicholson",
+      "character": "Mattie Earp"
+    },
+    {
+      "id": "nm0001586",
+      "name": "Joanna Pacula",
+      "character": "Kate"
+    },
+    {
+      "id": "nm0740264",
+      "name": "Michael Rooker",
+      "character": "Sherman McMasters"
+    },
+    {
+      "id": "nm0001013",
+      "name": "Harry Carey Jr.",
+      "character": "Marshal Fred White"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Latin",
+    "Spanish"
+  ],
+  "color": "Color",
+  "filmweb_id": 11123,
+  "year": 1993,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNmQyMzlhNjUtMzRjYS00MWY4LWI5MDAtZGU1MWE2M2E0OGMxXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.8,
+      "votes": 194365,
+      "distribution": {
+        "1": 1085,
+        "2": 595,
+        "3": 997,
+        "4": 2030,
+        "5": 5540,
+        "6": 14847,
+        "7": 37933,
+        "8": 56533,
+        "9": 34531,
+        "10": 40274
+      },
+      "normalized": 7.008
+    },
+    "filmweb": {
+      "rating": 7.55,
+      "votes": 22227,
+      "distribution": {
+        "1": 31,
+        "2": 30,
+        "3": 119,
+        "4": 234,
+        "5": 799,
+        "6": 2326,
+        "7": 6533,
+        "8": 8133,
+        "9": 2644,
+        "10": 1378
+      },
+      "normalized": 6.8447
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "11.08.2010",
+      "normalized": 5.6855
+    },
+    "michal": {
+      "rating": 3,
+      "date_rated": "19.10.2005",
+      "normalized": 3.8753
+    },
+    "score": 5.8534
+  },
+  "polish_title": "Tombstone",
+  "silent": false,
+  "description_pl": "Rok 1879. Koniec wojny secesyjnej wywołał wielką emigrację na zachód. Farmerzy i awanturnicy rzucali wyzwanie losowi. W miasteczkach leżących na szlaku wędrówek drastycznie rosła przestępczość. Szeryf Wyatt Earp, zmęczony życiem w ciągłym niebezpieczeństwie, postanawia zrezygnować z odznaki, by z dala od Dodge City zaznać spokoju i poświęcić się rodzinie. Wraz z żoną i braćmi, Virgilem oraz Morganem, przenosi się do Tombstone w Arizonie, w pobliżu którego odkryto bogate złoża srebra.",
+  "producers": [
+    {
+      "id": "nm0199733",
+      "name": "Sean Daniel"
+    },
+    {
+      "id": "nm0004591",
+      "name": "John Fasano"
+    },
+    {
+      "id": "nm0270809",
+      "name": "Buzz Feitshans"
+    },
+    {
+      "id": "nm0005710",
+      "name": "William A. Fraker"
+    },
+    {
+      "id": "nm0413208",
+      "name": "James Jacks"
+    },
+    {
+      "id": "nm0592824",
+      "name": "Bob Misiorowski"
+    },
+    {
+      "id": "nm0805997",
+      "name": "Michael R. Sloan"
+    },
+    {
+      "id": "nm0883351",
+      "name": "Andrew G. Vajna"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0005976",
+      "name": "Bruce Broughton"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005710",
+      "name": "William A. Fraker"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

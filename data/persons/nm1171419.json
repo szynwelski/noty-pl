@@ -1,0 +1,28 @@
+{
+  "id": "nm1171419",
+  "name": "John Schmidt",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTJmNWM0NzMtMmJjMi00YTE5LWE3MzEtZWIyYmIwZTlkNGYwXkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0318374",
+      "title": "The Cooler",
+      "year": 2003,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0427944",
+      "title": "Thank You for Smoking",
+      "year": 2005,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "imdb_scraped": true,
+  "filmweb_id": 455299,
+  "name_pl": "John Schmidt",
+  "gender": "M",
+  "wikidata_processed": true
+}

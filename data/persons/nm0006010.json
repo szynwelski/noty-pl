@@ -1,0 +1,35 @@
+{
+  "id": "nm0006010",
+  "name": "Stanley Clarke",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTMwODI0MzExMl5BMl5BanBnXkFtZTYwMTM4NzUz._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0165929",
+      "title": "Romeo Must Die",
+      "year": 2000,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt0293662",
+      "title": "The Transporter",
+      "year": 2002,
+      "roles": [
+        "composer"
+      ]
+    }
+  ],
+  "birth_date": "30.06.1951",
+  "birth_location": "Philadelphia, Pennsylvania, USA",
+  "height": "1.91 m",
+  "imdb_scraped": true,
+  "filmweb_id": 10392,
+  "name_pl": "Stanley Clarke",
+  "birth_location_pl": "Filadelfia, Pensylwania",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

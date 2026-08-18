@@ -1,0 +1,52 @@
+{
+  "id": "nm0386944",
+  "name": "Adolf Hitler",
+  "filmography": [
+    {
+      "imdb_id": "tt0025913",
+      "title": "Triumph of the Will",
+      "year": 1935,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Self - Führer und Reichskanzler"
+    },
+    {
+      "imdb_id": "tt0182766",
+      "title": "The Battle of Britain",
+      "year": 1943,
+      "roles": [
+        "cast"
+      ],
+      "character": "Self - Führer und Reichskanzler"
+    },
+    {
+      "imdb_id": "tt0066765",
+      "title": "Monty Python's and Now for Something Completely Different",
+      "year": 1971,
+      "roles": [
+        "cast"
+      ],
+      "character": "Self - Speech to RAD, from T.d.W."
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTc1NWI3MTgtN2MwZS00MTk1LWFjMDYtNTQxZjdiYTkyYTVkXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "20.04.1889",
+  "death_date": "30.04.1945",
+  "birth_location": "Braunau am Inn, Upper Austria, Austria-Hungary [now Austria]",
+  "height": "1.75 m",
+  "filmweb_id": 140484,
+  "name_pl": "Adolf Hitler",
+  "birth_location_pl": "Braunau am Inn",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Austria",
+    "III Rzesza",
+    "Przedlitawia",
+    "Rzesza Niemiecka"
+  ],
+  "wikidata_fw_id": 140484
+}

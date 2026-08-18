@@ -1,0 +1,201 @@
+{
+  "imdb_id": "tt8661260",
+  "title": "School Service",
+  "description": "\"Are your children safe on their way home?\" School Service follows the story of Maya, a young girl taken against her will from the province and placed as a beggar in Manila by a small-time syndicate.",
+  "runtime_minutes": 95,
+  "release_date": "04.08.2018",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm1204735",
+      "name": "AiAi Delas Alas"
+    },
+    {
+      "id": "nm0482774",
+      "name": "Joel Lamangan"
+    },
+    {
+      "id": "nm0344743",
+      "name": "Joe Gruta"
+    },
+    {
+      "id": "nm5962470",
+      "name": "Therese Malvar"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm1402433",
+      "name": "Louie Ignacio"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1402433",
+      "name": "Louie Ignacio"
+    },
+    {
+      "id": "nm2891978",
+      "name": "Onay Sales"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1204735",
+      "name": "AiAi Delas Alas",
+      "character": "Nanay Rita"
+    },
+    {
+      "id": "nm0482774",
+      "name": "Joel Lamangan",
+      "character": "Robert"
+    },
+    {
+      "id": "nm0344743",
+      "name": "Joe Gruta",
+      "character": "Tatay Celso"
+    },
+    {
+      "id": "nm5962470",
+      "name": "Therese Malvar",
+      "character": "Linda"
+    },
+    {
+      "id": "nm6730571",
+      "name": "Felixia Crysten Dizon",
+      "character": ""
+    },
+    {
+      "id": "nm8232896",
+      "name": "Kevin Sagra",
+      "character": "Kiko"
+    },
+    {
+      "id": "nm7718354",
+      "name": "Kenken Nuyad",
+      "character": "Topi"
+    },
+    {
+      "id": "nm11185895",
+      "name": "Ace Cafe",
+      "character": "Marlon"
+    },
+    {
+      "id": "nm9953103",
+      "name": "Santino Oquendo",
+      "character": "Dodong"
+    },
+    {
+      "id": "nm9953104",
+      "name": "Celine Juan",
+      "character": "Maya"
+    },
+    {
+      "id": "nm2844062",
+      "name": "Edgar Ebro",
+      "character": "Passersby"
+    },
+    {
+      "id": "nm5132998",
+      "name": "Breann Grainger",
+      "character": ""
+    }
+  ],
+  "countries": [
+    "Philippines"
+  ],
+  "languages": [
+    "Filipino",
+    "Tagalog"
+  ],
+  "color": "Color",
+  "filmweb_id": 813178,
+  "year": 2018,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZjU4ZjE1Y2UtZWJiNy00NTUzLWI3MmItNDhhY2EyMTJlODRmXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.2,
+      "votes": 58,
+      "distribution": {
+        "1": 8,
+        "2": 1,
+        "3": 3,
+        "4": 2,
+        "5": 3,
+        "6": 4,
+        "7": 19,
+        "8": 5,
+        "9": 6,
+        "10": 7
+      },
+      "normalized": 5.2126
+    },
+    "filmweb": {
+      "rating": 5.79,
+      "votes": 29,
+      "distribution": {
+        "1": 1,
+        "2": 0,
+        "3": 2,
+        "4": 2,
+        "5": 5,
+        "6": 8,
+        "7": 9,
+        "8": 1,
+        "9": 1,
+        "10": 0
+      },
+      "normalized": 4.9449
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "17.10.2018",
+      "normalized": 6.4102
+    },
+    "score": 5.5226
+  },
+  "polish_title": "Szkolny autobus",
+  "silent": false,
+  "description_pl": "Maya jest ofiarą \"school service\", który z zewnątrz wygląda jak normalny autobus szkolny. Dziewczynka wracała ze szkoły, kiedy autobus zatrzymał się i kierowca zaoferował jej podwiezienie. Jednak nie zatrzymał się przy jej domu. Maya wraz z innymi dziećmi została uprowadzona do Manili, by zostać żebraczką. O zmierzchu dzieci są wyrzucane na ulice, aby zacząć pracę – zatrzymywać przechodniów, samochody i błagać o jałmużnę. Maya zaczyna potworne życie w obcym mieście i wciąż myśli tylko o powrocie do domu. Jednak to może się nigdy nie wydarzyć…",
+  "producers": [
+    {
+      "id": "nm3325878",
+      "name": "Jaime G. Baltazar"
+    },
+    {
+      "id": "nm1204735",
+      "name": "AiAi Delas Alas"
+    },
+    {
+      "id": "nm1202581",
+      "name": "Dennis C. Evangelista"
+    },
+    {
+      "id": "nm8490559",
+      "name": "Jean Paula Go-Marasigan"
+    },
+    {
+      "id": "nm5940119",
+      "name": "Baby Go"
+    },
+    {
+      "id": "nm1402433",
+      "name": "Louie Ignacio"
+    },
+    {
+      "id": "nm2371611",
+      "name": "Ferdinand Lapuz"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm2515844",
+      "name": "Rain Yamson"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

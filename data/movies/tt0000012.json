@@ -1,0 +1,151 @@
+{
+  "imdb_id": "tt0000012",
+  "title": "The Arrival of a Train",
+  "description": "A train arrives at La Ciotat station.",
+  "runtime_minutes": 1,
+  "release_date": "30.06.1896",
+  "genres": [
+    "Documentary",
+    "Short"
+  ],
+  "stars": [
+    {
+      "id": "nm2880396",
+      "name": "Madeleine Koehler"
+    },
+    {
+      "id": "nm9735580",
+      "name": "Marcel Koehler"
+    },
+    {
+      "id": "nm0525900",
+      "name": "Mrs. Auguste Lumiere"
+    },
+    {
+      "id": "nm9735581",
+      "name": "Jeanne-Joséphine Lumière"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0525908",
+      "name": "Auguste Lumière"
+    },
+    {
+      "id": "nm0525910",
+      "name": "Louis Lumière"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm2880396",
+      "name": "Madeleine Koehler",
+      "character": "Self"
+    },
+    {
+      "id": "nm9735580",
+      "name": "Marcel Koehler",
+      "character": "Self"
+    },
+    {
+      "id": "nm9735581",
+      "name": "Jeanne-Joséphine Lumière",
+      "character": "Self"
+    },
+    {
+      "id": "nm0525900",
+      "name": "Mrs. Auguste Lumiere",
+      "character": "Self"
+    },
+    {
+      "id": "nm9735579",
+      "name": "Rose Lumière",
+      "character": "Self"
+    },
+    {
+      "id": "nm9653419",
+      "name": "Suzanne Lumière",
+      "character": "Self"
+    }
+  ],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 31348,
+  "year": 1896,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDgxZjNhNjQtOTU3Ni00YmFmLWFhYzUtMWQxNzA0ZmU0OWQxXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "L'arrivée d'un train à La Ciotat",
+  "ratings": {
+    "imdb": {
+      "rating": 7.4,
+      "votes": 14186,
+      "distribution": {
+        "1": 176,
+        "2": 118,
+        "3": 137,
+        "4": 264,
+        "5": 1102,
+        "6": 1868,
+        "7": 4003,
+        "8": 2868,
+        "9": 1014,
+        "10": 2636
+      },
+      "normalized": 6.1984
+    },
+    "filmweb": {
+      "rating": 7.25,
+      "votes": 4041,
+      "distribution": {
+        "1": 48,
+        "2": 26,
+        "3": 50,
+        "4": 97,
+        "5": 320,
+        "6": 586,
+        "7": 1258,
+        "8": 778,
+        "9": 276,
+        "10": 602
+      },
+      "normalized": 6.0309
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "11.12.2016",
+      "normalized": 6.4102
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "21.10.2007",
+      "normalized": 6.3474
+    },
+    "score": 6.2467
+  },
+  "polish_title": "Wjazd pociągu na stację w Ciotat",
+  "silent": true,
+  "description_pl": "Jeden z pierwszych filmów przedstawiający wjazd pociągu na stację kolejową. Pierwsze publiczne pokazy były zakończone ucieczkami widzów, którzy się bali nadjeżdżającej z ekranu lokomotywy.",
+  "producers": [
+    {
+      "id": "nm0525908",
+      "name": "Auguste Lumière"
+    },
+    {
+      "id": "nm0525910",
+      "name": "Louis Lumière"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0525910",
+      "name": "Louis Lumière"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-15"
+}

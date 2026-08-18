@@ -1,0 +1,46 @@
+{
+  "id": "nm0090008",
+  "name": "Stanley Blystone",
+  "filmography": [
+    {
+      "imdb_id": "tt0018773",
+      "title": "The Circus",
+      "year": 1928,
+      "roles": [
+        "cast"
+      ],
+      "character": "Cop"
+    },
+    {
+      "imdb_id": "tt0027977",
+      "title": "Modern Times",
+      "year": 1936,
+      "roles": [
+        "cast"
+      ],
+      "character": "Gamin's Father"
+    },
+    {
+      "imdb_id": "tt0029947",
+      "title": "Bringing Up Baby",
+      "year": 1938,
+      "roles": [
+        "cast"
+      ],
+      "character": "Doorman"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMGM5ZWJlYTItYzRlYS00ZGZhLTgzZTAtOWQ3YzI4NmI3MThhXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "01.08.1894",
+  "death_date": "16.07.1956",
+  "birth_location": "Eau Claire, Wisconsin, USA",
+  "filmweb_id": 52926,
+  "name_pl": "Stanley Blystone",
+  "birth_location_pl": "Eau Claire, Wisconsin",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

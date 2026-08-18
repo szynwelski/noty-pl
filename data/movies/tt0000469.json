@@ -1,0 +1,77 @@
+{
+  "imdb_id": "tt0000469",
+  "title": "The Sick Kitten",
+  "description": "A girl gives a spoonful of medicine to a kitten.",
+  "runtime_minutes": 1,
+  "release_date": "1903",
+  "genres": [
+    "Short",
+    "Comedy",
+    "Family"
+  ],
+  "directors": [
+    {
+      "id": "nm0808310",
+      "name": "George Albert Smith"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "year": 1903,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZGUwMDRmNDEtOTNhZC00ZTc5LThjN2ItY2QyNmVlMjE5MjQ0XkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 430053,
+  "ratings": {
+    "imdb": {
+      "rating": 5.8,
+      "votes": 1297,
+      "distribution": {
+        "1": 32,
+        "2": 24,
+        "3": 57,
+        "4": 96,
+        "5": 292,
+        "6": 387,
+        "7": 209,
+        "8": 106,
+        "9": 31,
+        "10": 63
+      },
+      "normalized": 4.0255
+    },
+    "filmweb": {
+      "rating": 5.33,
+      "votes": 63,
+      "distribution": {
+        "2": 2,
+        "3": 9,
+        "4": 7,
+        "5": 20,
+        "6": 8,
+        "7": 10,
+        "8": 4,
+        "9": 3,
+        "10": 0
+      },
+      "normalized": 4.6248
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "12.12.2016",
+      "normalized": 5.6855
+    },
+    "score": 4.7786
+  },
+  "polish_title": "The Little Doctor and the Sick Kitten",
+  "silent": true,
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-15"
+}

@@ -1,0 +1,233 @@
+{
+  "imdb_id": "tt2106651",
+  "title": "Spectral",
+  "description": "A sci-fi/thriller story centered on a special-ops team that is dispatched to fight supernatural beings.",
+  "runtime_minutes": 107,
+  "release_date": "09.12.2016",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm0197647",
+      "name": "James Badge Dale"
+    },
+    {
+      "id": "nm0607865",
+      "name": "Emily Mortimer"
+    },
+    {
+      "id": "nm0339304",
+      "name": "Bruce Greenwood"
+    },
+    {
+      "id": "nm0242882",
+      "name": "Max Martini"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0558873",
+      "name": "Nic Mathieu"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm2305174",
+      "name": "Ian Fried"
+    },
+    {
+      "id": "nm0558873",
+      "name": "Nic Mathieu"
+    },
+    {
+      "id": "nm1079776",
+      "name": "George Nolfi"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0197647",
+      "name": "James Badge Dale",
+      "character": "Clyne"
+    },
+    {
+      "id": "nm0607865",
+      "name": "Emily Mortimer",
+      "character": "Fran Madison"
+    },
+    {
+      "id": "nm0339304",
+      "name": "Bruce Greenwood",
+      "character": "General Orland"
+    },
+    {
+      "id": "nm0242882",
+      "name": "Max Martini",
+      "character": "Capt. Sessions"
+    },
+    {
+      "id": "nm0362484",
+      "name": "Cory Hardrict",
+      "character": "Alessio"
+    },
+    {
+      "id": "nm0186728",
+      "name": "Clayne Crawford",
+      "character": "Sgt. Toll"
+    },
+    {
+      "id": "nm0579460",
+      "name": "Gonzalo Menendez",
+      "character": "Captain Marco Cabrera"
+    },
+    {
+      "id": "nm3425494",
+      "name": "Ursula Parker",
+      "character": "Sari"
+    },
+    {
+      "id": "nm4772881",
+      "name": "Aaron Serban",
+      "character": "Bogdan"
+    },
+    {
+      "id": "nm0808055",
+      "name": "Dylan Smith",
+      "character": "Talbot"
+    },
+    {
+      "id": "nm1559194",
+      "name": "Louis Ozawa",
+      "character": "Sgt. Chen"
+    },
+    {
+      "id": "nm1250510",
+      "name": "Jimmy Akingbola",
+      "character": "Sgt. Steve McFadden"
+    },
+    {
+      "id": "nm0730455",
+      "name": "Ryan Robbins",
+      "character": "Sgt. Comstock"
+    },
+    {
+      "id": "nm0740535",
+      "name": "Stephen Root",
+      "character": "Dr. Mindala"
+    },
+    {
+      "id": "nm1711389",
+      "name": "Philip Bulcock",
+      "character": "Sgt. Chris Davis"
+    },
+    {
+      "id": "nm4817257",
+      "name": "Royce Pierreson",
+      "character": "Sgt. Lilo Diaz"
+    },
+    {
+      "id": "nm0360426",
+      "name": "Declan Hannigan",
+      "character": "Hayden"
+    },
+    {
+      "id": "nm2852393",
+      "name": "Mark O'Neal",
+      "character": "Lewis"
+    }
+  ],
+  "countries": [
+    "United States",
+    "Hungary"
+  ],
+  "languages": [
+    "English",
+    "Russian",
+    "Romanian",
+    "Slovenian"
+  ],
+  "color": "Color",
+  "filmweb_id": 704445,
+  "year": 2016,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BY2NjOWY0MGItYWJhMC00M2E5LWJkZmEtNzJkMDAwZmQ0MDU5XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.3,
+      "votes": 71364,
+      "distribution": {
+        "1": 885,
+        "2": 788,
+        "3": 1648,
+        "4": 3370,
+        "5": 8898,
+        "6": 19577,
+        "7": 20018,
+        "8": 9342,
+        "9": 2985,
+        "10": 3853
+      },
+      "normalized": 4.1333
+    },
+    "filmweb": {
+      "rating": 6.04,
+      "votes": 21550,
+      "distribution": {
+        "1": 97,
+        "2": 174,
+        "3": 807,
+        "4": 1607,
+        "5": 3978,
+        "6": 6817,
+        "7": 5461,
+        "8": 1954,
+        "9": 425,
+        "10": 230
+      },
+      "normalized": 3.4
+    },
+    "jarek": {
+      "rating": 3,
+      "date_rated": "01.03.2018",
+      "normalized": 4.2591
+    },
+    "score": 3.9308
+  },
+  "polish_title": "Spectral",
+  "silent": false,
+  "description_pl": "Elitarna jednostka Sił Specjalnych wyrusza w misję, której celem jest powstrzymanie tajemniczego najazdu agresywnych, niszczycielskich istot pozaziemskich, próbujących zawładnąć Ziemią.",
+  "producers": [
+    {
+      "id": "nm0624041",
+      "name": "Udi Nedivi"
+    },
+    {
+      "id": "nm0726099",
+      "name": "Guy Riedel"
+    },
+    {
+      "id": "nm2949271",
+      "name": "Jillian Share"
+    },
+    {
+      "id": "nm2100078",
+      "name": "Thomas Tull"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0432725",
+      "name": "Tom Holkenborg"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005648",
+      "name": "Bojan Bazelli"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

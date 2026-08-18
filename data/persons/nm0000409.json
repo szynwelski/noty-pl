@@ -1,0 +1,89 @@
+{
+  "id": "nm0000409",
+  "name": "Brendan Fraser",
+  "filmography": [
+    {
+      "imdb_id": "tt0119190",
+      "title": "George of the Jungle",
+      "year": 1997,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "George"
+    },
+    {
+      "imdb_id": "tt0120616",
+      "title": "The Mummy",
+      "year": 1999,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Rick O'Connell"
+    },
+    {
+      "imdb_id": "tt0230030",
+      "title": "Bedazzled",
+      "year": 2000,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Elliot"
+    },
+    {
+      "imdb_id": "tt0209163",
+      "title": "The Mummy Returns",
+      "year": 2001,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Rick O'Connell"
+    },
+    {
+      "imdb_id": "tt0375679",
+      "title": "Crash",
+      "year": 2004,
+      "roles": [
+        "cast"
+      ],
+      "character": "Rick"
+    },
+    {
+      "imdb_id": "tt0859163",
+      "title": "The Mummy: Tomb of the Dragon Emperor",
+      "year": 2008,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Rick O'Connell"
+    },
+    {
+      "imdb_id": "tt5537002",
+      "title": "Killers of the Flower Moon",
+      "year": 2023,
+      "roles": [
+        "cast"
+      ],
+      "character": "W.S. Hamilton"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjA5MjExMzY0M15BMl5BanBnXkFtZTgwNTMxOTg4MTI@._V1_.jpg",
+  "birth_date": "03.12.1968",
+  "birth_location": "Indianapolis, Indiana, USA",
+  "height": "1.92 m",
+  "filmweb_id": 5137,
+  "name_pl": "Brendan Fraser",
+  "birth_location_pl": "Indianapolis, Indiana",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Kanada",
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 5137
+}

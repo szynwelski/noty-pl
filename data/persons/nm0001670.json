@@ -1,0 +1,41 @@
+{
+  "id": "nm0001670",
+  "name": "Natasha Richardson",
+  "filmography": [
+    {
+      "imdb_id": "tt0120783",
+      "title": "The Parent Trap",
+      "year": 1998,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Elizabeth James"
+    },
+    {
+      "imdb_id": "tt0765447",
+      "title": "Evening",
+      "year": 2007,
+      "roles": [
+        "cast"
+      ],
+      "character": "Constance Haverford"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjE1OTUzNDQ0OV5BMl5BanBnXkFtZTcwOTA4MDMzMg@@._V1_.jpg",
+  "birth_date": "11.05.1963",
+  "death_date": "18.03.2009",
+  "birth_location": "Marylebone, London, England, UK",
+  "height": "1.72 m",
+  "imdb_scraped": true,
+  "filmweb_id": 9059,
+  "name_pl": "Natasha Richardson",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone",
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 9059
+}

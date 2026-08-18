@@ -1,0 +1,29 @@
+{
+  "id": "nm2588606",
+  "name": "Steve McQueen",
+  "filmography": [
+    {
+      "imdb_id": "tt2024544",
+      "title": "12 Years a Slave",
+      "year": 2013,
+      "roles": [
+        "director",
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQzNjQ5NDUxNl5BMl5BanBnXkFtZTcwNjA0MTg1Ng@@._V1_.jpg",
+  "birth_date": "09.10.1969",
+  "birth_location": "London, England, UK",
+  "height": "1.77 m",
+  "imdb_scraped": true,
+  "filmweb_id": 868291,
+  "name_pl": "Steve McQueen",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 868291
+}

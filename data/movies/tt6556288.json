@@ -1,0 +1,115 @@
+{
+  "imdb_id": "tt6556288",
+  "title": "Stanko",
+  "description": "Stanko, a loser, gets his last chance to fulfill a task. The movie deals with the theme of girls trafficking, but tells at first of friendship and universal bonds between two people on the margin of society.",
+  "runtime_minutes": 79,
+  "release_date": "14.04.2016",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm8796741",
+      "name": "Ivana Kanalosova"
+    },
+    {
+      "id": "nm8796740",
+      "name": "Peter Kocan"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm6568608",
+      "name": "Rasto Boros"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm6568608",
+      "name": "Rasto Boros"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm8796741",
+      "name": "Ivana Kanalosova",
+      "character": "Girl"
+    },
+    {
+      "id": "nm8796740",
+      "name": "Peter Kocan",
+      "character": "Stanko"
+    }
+  ],
+  "countries": [
+    "Slovakia"
+  ],
+  "languages": [
+    "Slovak",
+    "English",
+    "Italian",
+    "French"
+  ],
+  "color": null,
+  "filmweb_id": 751093,
+  "year": 2015,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOWE0YWJhNDAtYWJkZS00OWQxLTk0NTMtNzk0YTg2MWI5MDc3XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.4,
+      "votes": 15,
+      "distribution": {
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 0,
+        "6": 1,
+        "7": 3,
+        "8": 4,
+        "9": 1,
+        "10": 3
+      },
+      "normalized": 5.3183
+    },
+    "filmweb": {
+      "rating": 5.73,
+      "votes": 30,
+      "distribution": {
+        "2": 4,
+        "3": 1,
+        "4": 2,
+        "5": 3,
+        "6": 9,
+        "7": 5,
+        "8": 5,
+        "9": 1,
+        "10": 0
+      },
+      "normalized": 4.9334
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "12.10.2020",
+      "normalized": 4.9718
+    },
+    "score": 5.0745
+  },
+  "polish_title": "Stanko",
+  "silent": false,
+  "description_pl": "Stanko od lat mieszka we Włoszech. Kiedyś powodziło mu się całkiem nieźle, ale kłamstwa i złamane obietnice doprowadziły go do życia na marginesie społeczeństwa. Kiedy zaprzepaścił już wszystkie swoje szanse, Paolo, gangster zajmujący się handlem kobietami, zleca mu przywiezienie do Włoch dziewczyny ze Słowacji. Chłopak postanawia tym razem nie zawieść zaufania, chociaż nie ma pojęcia czym to się skończy dla dziewczyny. Podróż nieoczekiwanie się komplikuje, kiedy Stanko zaprzyjaźnia się z nią… Tragikomiczne kino drogi o ludziach, którym w życiu zostały tylko marzenia i przyjaźń.",
+  "composers": [
+    {
+      "id": "nm4161210",
+      "name": "David Kollar"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm3753204",
+      "name": "Ivo Miko"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

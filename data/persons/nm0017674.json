@@ -1,0 +1,37 @@
+{
+  "id": "nm0017674",
+  "name": "Fred Aldrich",
+  "filmography": [
+    {
+      "imdb_id": "tt0043014",
+      "title": "Sunset Boulevard",
+      "year": 1950,
+      "roles": [
+        "cast"
+      ],
+      "character": "Cop Who Drags Joe's Body from Pool"
+    },
+    {
+      "imdb_id": "tt0053221",
+      "title": "Rio Bravo",
+      "year": 1959,
+      "roles": [
+        "cast"
+      ],
+      "character": "Barfly"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYzEzNDk2ZGMtZWIxZS00MWE0LTlmZWEtZjIyZjdmZjY3YjRiXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "23.12.1904",
+  "death_date": "25.01.1979",
+  "birth_location": "New York City, New York, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 263777,
+  "name_pl": "Fred Aldrich",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

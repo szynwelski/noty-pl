@@ -1,0 +1,41 @@
+{
+  "id": "nm0000014",
+  "name": "Olivia de Havilland",
+  "filmography": [
+    {
+      "imdb_id": "tt0029843",
+      "title": "The Adventures of Robin Hood",
+      "year": 1938,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Maid Marian"
+    },
+    {
+      "imdb_id": "tt0031381",
+      "title": "Gone with the Wind",
+      "year": 1939,
+      "roles": [
+        "cast"
+      ],
+      "character": "Melanie Hamilton, their cousin"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDY4N2U1YzMtZGQ1My00YTkxLTk4OTMtNmUyN2I5ODA3MjIxXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 9464,
+  "birth_date": "01.07.1916",
+  "death_date": "26.07.2020",
+  "birth_location": "Tokyo, Japan",
+  "height": "1.60 m",
+  "imdb_scraped": true,
+  "name_pl": "Olivia de Havilland",
+  "birth_location_pl": "Tokio",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania",
+    "Francja",
+    "Stany Zjednoczone"
+  ]
+}

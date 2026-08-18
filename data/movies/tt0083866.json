@@ -1,0 +1,217 @@
+{
+  "imdb_id": "tt0083866",
+  "title": "E.T. the Extra-Terrestrial",
+  "description": "A troubled child summons the courage to help a friendly alien escape from Earth and return to his home planet.",
+  "runtime_minutes": 115,
+  "release_date": "11.06.1982",
+  "genres": [
+    "Adventure",
+    "Family",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm0001794",
+      "name": "Henry Thomas"
+    },
+    {
+      "id": "nm0000106",
+      "name": "Drew Barrymore"
+    },
+    {
+      "id": "nm0001075",
+      "name": "Peter Coyote"
+    },
+    {
+      "id": "nm0908914",
+      "name": "Dee Wallace"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000229",
+      "name": "Steven Spielberg"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0558953",
+      "name": "Melissa Mathison"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0001794",
+      "name": "Henry Thomas",
+      "character": "Elliott"
+    },
+    {
+      "id": "nm0000106",
+      "name": "Drew Barrymore",
+      "character": "Gertie"
+    },
+    {
+      "id": "nm0001075",
+      "name": "Peter Coyote",
+      "character": "Keys"
+    },
+    {
+      "id": "nm0908914",
+      "name": "Dee Wallace",
+      "character": "Mary"
+    },
+    {
+      "id": "nm0534085",
+      "name": "Robert MacNaughton",
+      "character": "Michael"
+    },
+    {
+      "id": "nm0551502",
+      "name": "K.C. Martel",
+      "character": "Greg"
+    },
+    {
+      "id": "nm0296892",
+      "name": "Sean Frye",
+      "character": "Steve"
+    },
+    {
+      "id": "nm0001367",
+      "name": "C. Thomas Howell",
+      "character": "Tyler"
+    },
+    {
+      "id": "nm0000143",
+      "name": "Erika Eleniak",
+      "character": "Pretty Girl"
+    },
+    {
+      "id": "nm1056761",
+      "name": "David M. O'Dell",
+      "character": "Schoolboy"
+    },
+    {
+      "id": "nm0842721",
+      "name": "Richard Swingler",
+      "character": "Science Teacher"
+    },
+    {
+      "id": "nm0869324",
+      "name": "Frank Toth",
+      "character": "Policeman"
+    },
+    {
+      "id": "nm0059240",
+      "name": "Robert Barton",
+      "character": "Ultra Sound Man"
+    },
+    {
+      "id": "nm0201616",
+      "name": "Michael Darrell",
+      "character": "Van Man"
+    },
+    {
+      "id": "nm0075500",
+      "name": "David Berkson",
+      "character": "Medical Unit"
+    },
+    {
+      "id": "nm0137315",
+      "name": "David Carlberg",
+      "character": "Medical Unit"
+    },
+    {
+      "id": "nm0463100",
+      "name": "Milt Kogan",
+      "character": "Medical Unit"
+    },
+    {
+      "id": "nm0483932",
+      "name": "Alexander Lampone",
+      "character": "Medical Unit"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 1215,
+  "year": 1982,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYTNhNmY0YWMtMTczYi00MTA0LThhMmUtMTIxYzE0Y2QwMzRlXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.9,
+      "votes": 475295,
+      "distribution": {
+        "1": 4205,
+        "2": 2285,
+        "3": 3454,
+        "4": 6250,
+        "5": 15027,
+        "6": 38512,
+        "7": 101272,
+        "8": 150674,
+        "9": 77196,
+        "10": 76420
+      },
+      "normalized": 7.2828
+    },
+    "filmweb": {
+      "rating": 7.13,
+      "votes": 140208,
+      "distribution": {
+        "1": 917,
+        "2": 929,
+        "3": 2126,
+        "4": 4022,
+        "5": 9241,
+        "6": 21551,
+        "7": 43654,
+        "8": 35761,
+        "9": 13054,
+        "10": 8953
+      },
+      "normalized": 5.8876
+    },
+    "michal": {
+      "rating": 3,
+      "date_rated": "19.10.2005",
+      "normalized": 3.8753
+    },
+    "score": 5.6819
+  },
+  "polish_title": "E.T.",
+  "silent": false,
+  "description_pl": "<a href=\"/film/?id=tt0083866\">E.T.</a> to historia wyjątkowej przyjaźni, która rozwija się między Elliottem, samotnym chłopcem żyjącym na jednym z kalifornijskich przedmieść, a mądrym przybyszem z obcej planety, który gubi się na Ziemi. Kiedy Elliott usiłuje pomóc przyjacielowi skontaktować się z jego planetą, obaj muszą unikać naukowców i agentów rządowych za wszelką cenę pragnących wykorzystać przybysza do swoich celów. Wszystko to prowadzi do wspaniałej przygody, większej od wszystkiego co mogli sobie wyobrazić.",
+  "producers": [
+    {
+      "id": "nm0005086",
+      "name": "Kathleen Kennedy"
+    },
+    {
+      "id": "nm0558953",
+      "name": "Melissa Mathison"
+    },
+    {
+      "id": "nm0000229",
+      "name": "Steven Spielberg"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0002354",
+      "name": "John Williams"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005679",
+      "name": "Allen Daviau"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

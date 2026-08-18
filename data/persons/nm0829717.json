@@ -1,0 +1,39 @@
+{
+  "id": "nm0829717",
+  "name": "Paul Stewart",
+  "filmography": [
+    {
+      "imdb_id": "tt0033467",
+      "title": "Citizen Kane",
+      "year": 1941,
+      "roles": [
+        "cast"
+      ],
+      "character": "Raymond"
+    },
+    {
+      "imdb_id": "tt0165375",
+      "title": "Pilot",
+      "year": 1985,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Dr. Carl Steubens"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTgwMjUyMjU5OV5BMl5BanBnXkFtZTcwMjM5NDYwOA@@._V1_.jpg",
+  "birth_date": "13.03.1908",
+  "death_date": "17.02.1986",
+  "birth_location": "New York City, New York, USA",
+  "height": "1.79 m",
+  "imdb_scraped": true,
+  "filmweb_id": 92522,
+  "name_pl": "Paul Stewart",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

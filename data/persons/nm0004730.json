@@ -1,0 +1,49 @@
+{
+  "id": "nm0004730",
+  "name": "Orson Bean",
+  "filmography": [
+    {
+      "imdb_id": "tt0052561",
+      "title": "Anatomy of a Murder",
+      "year": 1959,
+      "roles": [
+        "cast"
+      ],
+      "character": "Dr. Matthew Smith"
+    },
+    {
+      "imdb_id": "tt0120601",
+      "title": "Being John Malkovich",
+      "year": 1999,
+      "roles": [
+        "cast"
+      ],
+      "character": "Dr. Lester"
+    },
+    {
+      "imdb_id": "tt3766354",
+      "title": "The Equalizer 2",
+      "year": 2018,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Sam Rubinstein"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNjY5MTIwMzAyMl5BMl5BanBnXkFtZTYwNDY5Mjgz._V1_.jpg",
+  "birth_date": "22.07.1928",
+  "death_date": "07.02.2020",
+  "birth_location": "Burlington, Vermont, USA",
+  "height": "1.83 m",
+  "filmweb_id": 7167,
+  "name_pl": "Orson Bean",
+  "birth_location_pl": "Burlington, Vermont",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 7167
+}

@@ -1,0 +1,254 @@
+{
+  "imdb_id": "tt0335438",
+  "title": "Starsky & Hutch",
+  "description": "Two streetwise cops bust criminals in their red and white Ford Gran Torino, with the help of a police snitch called \"Huggy Bear\".",
+  "runtime_minutes": 101,
+  "release_date": "05.03.2004",
+  "genres": [
+    "Comedy",
+    "Crime"
+  ],
+  "stars": [
+    {
+      "id": "nm0001774",
+      "name": "Ben Stiller"
+    },
+    {
+      "id": "nm0005562",
+      "name": "Owen Wilson"
+    },
+    {
+      "id": "nm0004879",
+      "name": "Snoop Dogg"
+    },
+    {
+      "id": "nm0000681",
+      "name": "Vince Vaughn"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0680846",
+      "name": "Todd Phillips"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0088479",
+      "name": "William Blinn"
+    },
+    {
+      "id": "nm1192866",
+      "name": "Stevie Long"
+    },
+    {
+      "id": "nm1016088",
+      "name": "John O'Brien"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0001774",
+      "name": "Ben Stiller",
+      "character": "David Starsky"
+    },
+    {
+      "id": "nm0005562",
+      "name": "Owen Wilson",
+      "character": "Ken Hutchinson"
+    },
+    {
+      "id": "nm0004879",
+      "name": "Snoop Dogg",
+      "character": "Huggy Bear"
+    },
+    {
+      "id": "nm0004365",
+      "name": "Fred Williamson",
+      "character": "Captain Doby"
+    },
+    {
+      "id": "nm0000681",
+      "name": "Vince Vaughn",
+      "character": "Reese Feldman"
+    },
+    {
+      "id": "nm0000496",
+      "name": "Juliette Lewis",
+      "character": "Kitty"
+    },
+    {
+      "id": "nm0000867",
+      "name": "Jason Bateman",
+      "character": "Kevin"
+    },
+    {
+      "id": "nm0005442",
+      "name": "Amy Smart",
+      "character": "Holly"
+    },
+    {
+      "id": "nm0001182",
+      "name": "Carmen Electra",
+      "character": "Staci"
+    },
+    {
+      "id": "nm0156475",
+      "name": "George Cheung",
+      "character": "Chau"
+    },
+    {
+      "id": "nm0001606",
+      "name": "Chris Penn",
+      "character": "Manetti"
+    },
+    {
+      "id": "nm0005378",
+      "name": "Brande Roderick",
+      "character": "Heather"
+    },
+    {
+      "id": "nm0801356",
+      "name": "Molly Sims",
+      "character": "Mrs. Feldman"
+    },
+    {
+      "id": "nm0909768",
+      "name": "Matt Walsh",
+      "character": "Eddie"
+    },
+    {
+      "id": "nm1564940",
+      "name": "G.T. Holme",
+      "character": "Bartender"
+    },
+    {
+      "id": "nm1564954",
+      "name": "Jeffrey Lorenzo",
+      "character": "Willis"
+    },
+    {
+      "id": "nm1490495",
+      "name": "Har Mar Superstar",
+      "character": "Dancin' Rick"
+    },
+    {
+      "id": "nm0652663",
+      "name": "Patton Oswalt",
+      "character": "Disco DJ"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Korean"
+  ],
+  "color": null,
+  "filmweb_id": 96204,
+  "year": 2004,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYWMwZTUzODktMmYyNS00ZTYxLWIzYWMtMzMwMWEyMTRkNzJlXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.1,
+      "votes": 162562,
+      "distribution": {
+        "1": 2301,
+        "2": 2180,
+        "3": 4304,
+        "4": 10137,
+        "5": 25047,
+        "6": 48471,
+        "7": 41596,
+        "8": 17431,
+        "9": 4953,
+        "10": 6142
+      },
+      "normalized": 3.7194
+    },
+    "filmweb": {
+      "rating": 6.23,
+      "votes": 32855,
+      "distribution": {
+        "1": 167,
+        "2": 266,
+        "3": 928,
+        "4": 1990,
+        "5": 5251,
+        "6": 9971,
+        "7": 9312,
+        "8": 3490,
+        "9": 780,
+        "10": 700
+      },
+      "normalized": 3.7545
+    },
+    "jarek": {
+      "rating": 3,
+      "date_rated": "07.02.2010",
+      "normalized": 4.2591
+    },
+    "michal": {
+      "rating": 1,
+      "date_rated": "19.10.2005",
+      "normalized": 2.2657
+    },
+    "score": 3.4997
+  },
+  "polish_title": "Starsky i Hutch",
+  "silent": false,
+  "description_pl": "Ekranizacja popularnego serialu z lat siedemdziesiątych opowiadająca o dwóch policjantach, Starskym i Hutchu (w tych rolach <a href=\"/osoba/?id=nm0001774\">Ben Stiller</a> i <a href=\"/osoba/?id=nm0005562\">Owen Wilson</a>), którzy podobnie jak w serialu staną przed bardzo niebezpieczną zagadką kryminalną. Ich informatorem jest Huggy Bear (<a href=\"/osoba/?id=nm0004879\">Snoop Dogg</a>). Po mieście poruszają się charakterystycznym, czerwonym samochodem.",
+  "producers": [
+    {
+      "id": "nm0012155",
+      "name": "Gilbert Adler"
+    },
+    {
+      "id": "nm0088479",
+      "name": "William Blinn"
+    },
+    {
+      "id": "nm0119056",
+      "name": "Scott Budnick"
+    },
+    {
+      "id": "nm0180366",
+      "name": "Stuart Cornfeld"
+    },
+    {
+      "id": "nm0326040",
+      "name": "Akiva Goldsman"
+    },
+    {
+      "id": "nm0525059",
+      "name": "Tony Ludwig"
+    },
+    {
+      "id": "nm0724843",
+      "name": "Alan Riche"
+    },
+    {
+      "id": "nm0796914",
+      "name": "David Siegel"
+    },
+    {
+      "id": "nm0001774",
+      "name": "Ben Stiller"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0788640",
+      "name": "Theodore Shapiro"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0677021",
+      "name": "Barry Peterson"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

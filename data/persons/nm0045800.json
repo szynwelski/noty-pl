@@ -1,0 +1,49 @@
+{
+  "id": "nm0045800",
+  "name": "Lloyd Bacon",
+  "filmography": [
+    {
+      "imdb_id": "tt0006177",
+      "title": "The Tramp",
+      "year": 1915,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Second Thief"
+    },
+    {
+      "imdb_id": "tt0007264",
+      "title": "The Rink",
+      "year": 1916,
+      "roles": [
+        "cast"
+      ],
+      "character": "Guest"
+    },
+    {
+      "imdb_id": "tt0007880",
+      "title": "Easy Street",
+      "year": 1917,
+      "roles": [
+        "cast"
+      ],
+      "character": "Drug Addict"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDViOTQ3NTktOWQzMC00YzhmLTk4NjktMDIwOGVkOWU4MzM4XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "04.12.1889",
+  "death_date": "15.11.1955",
+  "birth_location": "San Jose, California, USA",
+  "height": "1.78 m",
+  "filmweb_id": 53795,
+  "name_pl": "Lloyd Bacon",
+  "birth_location_pl": "San Jose, Kalifornia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 53795
+}

@@ -1,0 +1,57 @@
+{
+  "imdb_id": "tt6332268",
+  "title": "Scarlet Macaw on Perch",
+  "description": "",
+  "runtime_minutes": null,
+  "release_date": "1902",
+  "genres": [
+    "Short"
+  ],
+  "directors": [
+    {
+      "id": "nm8643876",
+      "name": "Edward Raymond Turner"
+    }
+  ],
+  "top_cast": [],
+  "countries": [],
+  "languages": [],
+  "color": "Color",
+  "year": 1902,
+  "type": "short",
+  "image_url": null,
+  "filmweb_id": null,
+  "ratings": {
+    "imdb": {
+      "rating": 5.1,
+      "votes": 22,
+      "distribution": {
+        "1": 4,
+        "2": 2,
+        "3": 1,
+        "4": 1,
+        "5": 5,
+        "6": 2,
+        "7": 3,
+        "8": 2,
+        "9": 0,
+        "10": 2
+      },
+      "normalized": 5.2082
+    },
+    "jarek": {
+      "rating": 8,
+      "date_rated": "16.12.2016",
+      "normalized": 7.8989
+    },
+    "score": 6.2024,
+    "filmweb": {
+      "normalized": 5.5
+    }
+  },
+  "silent": true,
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-16"
+}

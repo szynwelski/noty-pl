@@ -1,0 +1,201 @@
+{
+  "imdb_id": "tt17490712",
+  "ratings": {
+    "imdb": {
+      "rating": 6.3,
+      "votes": 81372,
+      "distribution": {
+        "1": 1612,
+        "2": 1251,
+        "3": 2086,
+        "4": 4270,
+        "5": 9760,
+        "6": 19377,
+        "7": 21376,
+        "8": 11219,
+        "9": 3971,
+        "10": 6450
+      },
+      "normalized": 4.1301
+    },
+    "jarek": {
+      "rating": 1,
+      "date_rated": "28.07.2026",
+      "normalized": 2.5327
+    },
+    "filmweb": {
+      "rating": 6.03,
+      "votes": 16551,
+      "distribution": {
+        "1": 126,
+        "2": 247,
+        "3": 728,
+        "4": 1222,
+        "5": 2898,
+        "6": 4897,
+        "7": 4160,
+        "8": 1621,
+        "9": 364,
+        "10": 288
+      },
+      "normalized": 3.3914
+    },
+    "score": 3.3514
+  },
+  "title": "Mortal Kombat II",
+  "description": "The fan favorite champions -- now joined by Johnny Cage himself -- are pitted against one another in the ultimate battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.",
+  "year": 2026,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTg2YWNkN2EtMzc1Ny00ZTBhLWFmYTItMmMyNzhjNjhhNmVhXkEyXkFqcGc@._V1_.jpg",
+  "runtime_minutes": 116,
+  "release_date": "08.05.2026",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm9709536",
+      "name": "Adeline Rudolph"
+    },
+    {
+      "id": "nm0881631",
+      "name": "Karl Urban"
+    },
+    {
+      "id": "nm7455038",
+      "name": "Martyn Ford"
+    },
+    {
+      "id": "nm6616259",
+      "name": "Tati Gabrielle"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm2585406",
+      "name": "Simon McQuoid"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm2916300",
+      "name": "Jeremy Slater"
+    },
+    {
+      "id": "nm0095460",
+      "name": "Ed Boon"
+    },
+    {
+      "id": "nm0864880",
+      "name": "John Tobias"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm9709536",
+      "name": "Adeline Rudolph",
+      "character": "Kitana"
+    },
+    {
+      "id": "nm0881631",
+      "name": "Karl Urban",
+      "character": "Johnny Cage"
+    },
+    {
+      "id": "nm7455038",
+      "name": "Martyn Ford",
+      "character": "Shao Kahn"
+    },
+    {
+      "id": "nm6616259",
+      "name": "Tati Gabrielle",
+      "character": "Jade"
+    },
+    {
+      "id": "nm2537621",
+      "name": "Jessica McNamee",
+      "character": "Sonya Blade"
+    },
+    {
+      "id": "nm1419635",
+      "name": "Mehcad Brooks",
+      "character": "Jax Briggs"
+    },
+    {
+      "id": "nm3485108",
+      "name": "Ludi Lin",
+      "character": "Liu Kang"
+    },
+    {
+      "id": "nm0493257",
+      "name": "Josh Lawson",
+      "character": "Kano"
+    },
+    {
+      "id": "nm0038355",
+      "name": "Tadanobu Asano",
+      "character": "Lord Raiden"
+    },
+    {
+      "id": "nm1977856",
+      "name": "Chin Han",
+      "character": "Shang Tsung"
+    },
+    {
+      "id": "nm0380632",
+      "name": "Damon Herriman",
+      "character": "Quan Chi"
+    },
+    {
+      "id": "nm3029144",
+      "name": "Joe Taslim",
+      "character": "Bi-Han"
+    },
+    {
+      "id": "nm0760796",
+      "name": "Hiroyuki Sanada",
+      "character": "Hanzo Hasashi"
+    },
+    {
+      "id": "nm4089208",
+      "name": "Max Huang",
+      "character": "Kung Lao"
+    },
+    {
+      "id": "nm1167985",
+      "name": "Lewis Tan",
+      "character": "Cole Young"
+    },
+    {
+      "id": "nm11379573",
+      "name": "CJ Bloomfield",
+      "character": "Baraka"
+    },
+    {
+      "id": "nm11350678",
+      "name": "Ana Thu Nguyen",
+      "character": "Queen Sindel"
+    },
+    {
+      "id": "nm11289077",
+      "name": "Sophia Xu",
+      "character": "Young Kitana"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "color": "Color",
+  "silent": false,
+  "fetched_at": "2026-08-16",
+  "filmweb_id": 10007434,
+  "polish_title": "Mortal Kombat II",
+  "description_pl": "Dominacja Shao Khana (Martyn Ford) wreszcie musi zostać przerwana. Dlatego mnich Liu Kang (<a href=\"/osoba/?id=nm3485108\">Ludi Lin</a>), była elitarną żołnierka Sonya Blade (<a href=\"/osoba/?id=nm2537621\">Jessica McNamee</a>), jej mentor Jax Briggs (<a href=\"/osoba/?id=nm1419635\">Mehcad Brooks</a>) oraz upadły były mistrz MMA Cole Young (<a href=\"/osoba/?id=nm1167985\">Lewis Tan</a>) ponownie łączą siły, by ocalić Ziemię. Tym razem wsparcia udziela im Johnny Cage (<a href=\"/osoba/?id=nm0881631\">Karl Urban</a>), a cała grupa rzuca się w wir brutalnych walk, w których stawką jest coś więcej niż tylko własna fizyczność."
+}

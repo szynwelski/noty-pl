@@ -1,0 +1,30 @@
+{
+  "id": "nm1440281",
+  "name": "John Robinson",
+  "filmography": [
+    {
+      "imdb_id": "tt0363589",
+      "title": "Elephant",
+      "year": 2003,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "John McFarland"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNmE4NzcxOTgtM2I4Ny00YWFmLWFmYWEtOTFlMDUyZTI5N2I4XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "25.10.1985",
+  "birth_location": "Portland, Oregon, USA",
+  "height": "1.78 m",
+  "imdb_scraped": true,
+  "filmweb_id": 117220,
+  "name_pl": "John Robinson",
+  "birth_location_pl": "Portland, Oregon",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 117220
+}

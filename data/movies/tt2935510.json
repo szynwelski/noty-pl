@@ -1,0 +1,286 @@
+{
+  "imdb_id": "tt2935510",
+  "title": "Ad Astra",
+  "description": "An astronaut embarks on a space mission to investigate a threat to the universe and uncover the truth about his father who disappeared thirty years ago.",
+  "runtime_minutes": 123,
+  "release_date": "20.09.2019",
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Mystery",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000093",
+      "name": "Brad Pitt"
+    },
+    {
+      "id": "nm0000169",
+      "name": "Tommy Lee Jones"
+    },
+    {
+      "id": "nm1550948",
+      "name": "Ruth Negga"
+    },
+    {
+      "id": "nm0000661",
+      "name": "Donald Sutherland"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0336695",
+      "name": "James Gray"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0336695",
+      "name": "James Gray"
+    },
+    {
+      "id": "nm1342473",
+      "name": "Ethan Gross"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000093",
+      "name": "Brad Pitt",
+      "character": "Roy McBride"
+    },
+    {
+      "id": "nm0000169",
+      "name": "Tommy Lee Jones",
+      "character": "H. Clifford McBride"
+    },
+    {
+      "id": "nm1550948",
+      "name": "Ruth Negga",
+      "character": "Helen Lantos"
+    },
+    {
+      "id": "nm0000661",
+      "name": "Donald Sutherland",
+      "character": "Thomas Pruitt"
+    },
+    {
+      "id": "nm0253708",
+      "name": "Kimberly Elise",
+      "character": "Lorraine Deavers"
+    },
+    {
+      "id": "nm0000363",
+      "name": "Loren Dean",
+      "character": "Donald Stanford"
+    },
+    {
+      "id": "nm1334507",
+      "name": "Donnie Keshawarz",
+      "character": "Captain Lawrence Tanner"
+    },
+    {
+      "id": "nm1017646",
+      "name": "Sean Blakemore",
+      "character": "Willie Levant"
+    },
+    {
+      "id": "nm0632629",
+      "name": "Bobby Nish",
+      "character": "Franklin Yoshida"
+    },
+    {
+      "id": "nm0004986",
+      "name": "LisaGay Hamilton",
+      "character": "Adjutant General Vogel"
+    },
+    {
+      "id": "nm0278125",
+      "name": "John Finn",
+      "character": "Brigadier General Stroud"
+    },
+    {
+      "id": "nm0651159",
+      "name": "John Ortiz",
+      "character": "Lieutenant General Rivas"
+    },
+    {
+      "id": "nm0791467",
+      "name": "Freda Foh Shen",
+      "character": "Captain Lu"
+    },
+    {
+      "id": "nm5028271",
+      "name": "Kayla El Adam",
+      "character": "Female Flight Attendant"
+    },
+    {
+      "id": "nm0438500",
+      "name": "Ravi Kapoor",
+      "character": "Arjun Dhariwal"
+    },
+    {
+      "id": "nm0000239",
+      "name": "Liv Tyler",
+      "character": "Eve"
+    },
+    {
+      "id": "nm2324837",
+      "name": "Elisa Perry",
+      "character": "Woman in White Pants"
+    },
+    {
+      "id": "nm0784815",
+      "name": "Daniel Sauli",
+      "character": "Sal"
+    }
+  ],
+  "countries": [
+    "United States",
+    "China",
+    "Brazil"
+  ],
+  "languages": [
+    "English",
+    "Norwegian"
+  ],
+  "color": "Color",
+  "filmweb_id": 792557,
+  "year": 2019,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOGRhOGNjZjEtNTU2Ni00MDlmLWI3MWEtNzc1OGE2ZmEwZGNhXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.5,
+      "votes": 283363,
+      "distribution": {
+        "1": 6935,
+        "2": 5522,
+        "3": 8574,
+        "4": 14798,
+        "5": 32071,
+        "6": 65036,
+        "7": 78041,
+        "8": 46426,
+        "9": 15400,
+        "10": 10560
+      },
+      "normalized": 4.4573
+    },
+    "filmweb": {
+      "rating": 6.03,
+      "votes": 61533,
+      "distribution": {
+        "1": 392,
+        "2": 614,
+        "3": 2708,
+        "4": 4266,
+        "5": 12088,
+        "6": 17503,
+        "7": 15549,
+        "8": 6389,
+        "9": 1470,
+        "10": 554
+      },
+      "normalized": 3.344
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "01.10.2019",
+      "normalized": 4.5781
+    },
+    "score": 4.1265
+  },
+  "polish_title": "Ad Astra",
+  "silent": false,
+  "description_pl": "Astronauta Roy McBride (<a href=\"/osoba/?id=nm0000093\">Brad Pitt</a>) wyrusza na wyprawę na granice Układu Słonecznego, aby odnaleźć swego zaginionego ojca i odkryć tajemnicę, która zagraża przetrwaniu naszej planety. W czasie swej podróży odkryje sekrety, które postawią pod znakiem zapytania sens ludzkiej egzystencji i nasze miejsce we wszechświecie.",
+  "producers": [
+    {
+      "id": "nm0124652",
+      "name": "Marc Butan"
+    },
+    {
+      "id": "nm2640850",
+      "name": "Jeffrey Chan"
+    },
+    {
+      "id": "nm9198229",
+      "name": "Paul Conway"
+    },
+    {
+      "id": "nm0306890",
+      "name": "Dede Gardner"
+    },
+    {
+      "id": "nm0336695",
+      "name": "James Gray"
+    },
+    {
+      "id": "nm0441097",
+      "name": "Anthony Katagas"
+    },
+    {
+      "id": "nm1250070",
+      "name": "Jeremy Kleiner"
+    },
+    {
+      "id": "nm0556021",
+      "name": "Sophie Mas"
+    },
+    {
+      "id": "nm0586969",
+      "name": "Arnon Milchan"
+    },
+    {
+      "id": "nm1305862",
+      "name": "Yariv Milchan"
+    },
+    {
+      "id": "nm2300300",
+      "name": "Anthony Mosawi"
+    },
+    {
+      "id": "nm3567152",
+      "name": "Christina Oh"
+    },
+    {
+      "id": "nm0000093",
+      "name": "Brad Pitt"
+    },
+    {
+      "id": "nm4702983",
+      "name": "Lourenço Sant'Anna"
+    },
+    {
+      "id": "nm0769644",
+      "name": "Michael Schaefer"
+    },
+    {
+      "id": "nm2095560",
+      "name": "Rodrigo Teixeira"
+    },
+    {
+      "id": "nm0868615",
+      "name": "Doug Torres"
+    },
+    {
+      "id": "nm1236491",
+      "name": "Dong Yu"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm2068037",
+      "name": "Max Richter"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0887227",
+      "name": "Hoyte van Hoytema"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

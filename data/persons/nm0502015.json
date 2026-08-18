@@ -1,0 +1,47 @@
+{
+  "id": "nm0502015",
+  "name": "Harry Lennix",
+  "filmography": [
+    {
+      "imdb_id": "tt0350258",
+      "title": "Ray",
+      "year": 2004,
+      "roles": [
+        "cast"
+      ],
+      "character": "Joe Adams"
+    },
+    {
+      "imdb_id": "tt0473705",
+      "title": "State of Play",
+      "year": 2009,
+      "roles": [
+        "cast"
+      ],
+      "character": "Detective Bell"
+    },
+    {
+      "imdb_id": "tt0770828",
+      "title": "Man of Steel",
+      "year": 2013,
+      "roles": [
+        "cast"
+      ],
+      "character": "General Swanwick"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMmQ1YTRkMDYtZjc5OC00MzE5LTkwZTAtOTU1YjZhY2E0NGE4XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "16.11.1964",
+  "birth_location": "Chicago, Illinois, USA",
+  "height": "1.93 m",
+  "filmweb_id": 55920,
+  "name_pl": "Harry Lennix",
+  "birth_location_pl": "Chicago, Illinois",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 55920
+}

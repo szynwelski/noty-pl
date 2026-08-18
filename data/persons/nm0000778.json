@@ -1,0 +1,38 @@
+{
+  "id": "nm0000778",
+  "name": "Alfonso Arau",
+  "filmography": [
+    {
+      "imdb_id": "tt0065214",
+      "title": "The Wild Bunch",
+      "year": 1969,
+      "roles": [
+        "cast"
+      ],
+      "character": "Herrera"
+    },
+    {
+      "imdb_id": "tt2380307",
+      "title": "Coco",
+      "year": 2017,
+      "roles": [
+        "cast"
+      ],
+      "character": "Papá Julio"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNjQ4ODg0OTY0OF5BMl5BanBnXkFtZTcwNjA1MzMzMQ@@._V1_.jpg",
+  "birth_date": "11.01.1932",
+  "birth_location": "Mexico City, Distrito Federal, Mexico",
+  "height": "1.75 m",
+  "imdb_scraped": true,
+  "filmweb_id": 31576,
+  "name_pl": "Alfonso Arau",
+  "birth_location_pl": "Meksyk",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Meksyk"
+  ],
+  "wikidata_fw_id": 31576
+}

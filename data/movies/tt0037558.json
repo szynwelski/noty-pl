@@ -1,0 +1,220 @@
+{
+  "imdb_id": "tt0037558",
+  "title": "Brief Encounter",
+  "description": "Meeting a stranger in a railway station, a woman is tempted to cheat on her husband.",
+  "runtime_minutes": 86,
+  "release_date": "24.08.1946",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0424743",
+      "name": "Celia Johnson"
+    },
+    {
+      "id": "nm0002145",
+      "name": "Trevor Howard"
+    },
+    {
+      "id": "nm0391361",
+      "name": "Stanley Holloway"
+    },
+    {
+      "id": "nm0136983",
+      "name": "Joyce Carey"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000180",
+      "name": "David Lean"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0002021",
+      "name": "Noël Coward"
+    },
+    {
+      "id": "nm0369743",
+      "name": "Anthony Havelock-Allan"
+    },
+    {
+      "id": "nm0000180",
+      "name": "David Lean"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0424743",
+      "name": "Celia Johnson",
+      "character": "Laura Jesson"
+    },
+    {
+      "id": "nm0002145",
+      "name": "Trevor Howard",
+      "character": "Dr. Alec Harvey"
+    },
+    {
+      "id": "nm0391361",
+      "name": "Stanley Holloway",
+      "character": "Albert Godby"
+    },
+    {
+      "id": "nm0136983",
+      "name": "Joyce Carey",
+      "character": "Myrtle Bagot"
+    },
+    {
+      "id": "nm0713231",
+      "name": "Cyril Raymond",
+      "character": "Fred Jesson"
+    },
+    {
+      "id": "nm0339573",
+      "name": "Everley Gregg",
+      "character": "Dolly Messiter"
+    },
+    {
+      "id": "nm0550323",
+      "name": "Marjorie Mars",
+      "character": "Mary Norton"
+    },
+    {
+      "id": "nm0059200",
+      "name": "Margaret Barton",
+      "character": "Beryl Walters - Tea Room Assistant"
+    },
+    {
+      "id": "nm0044794",
+      "name": "Wilfred Babbage",
+      "character": "Policeman at War Memorial"
+    },
+    {
+      "id": "nm0060023",
+      "name": "Alfie Bass",
+      "character": "Waiter at the Royal"
+    },
+    {
+      "id": "nm0097848",
+      "name": "Wallace Bosco",
+      "character": "Doctor at Bobbie's Accident"
+    },
+    {
+      "id": "nm0111356",
+      "name": "Sydney Bromley",
+      "character": "Johnnie - Second Soldier"
+    },
+    {
+      "id": "nm0002021",
+      "name": "Noël Coward",
+      "character": "Train Station Announcer"
+    },
+    {
+      "id": "nm0202743",
+      "name": "Nuna Davey",
+      "character": "Herminie Rolandson - Mary's Cousin"
+    },
+    {
+      "id": "nm0245581",
+      "name": "Valentine Dyall",
+      "character": "Stephen Lynn - Alec's 'Friend'"
+    },
+    {
+      "id": "nm0359566",
+      "name": "Irene Handl",
+      "character": "Cellist and Organist"
+    },
+    {
+      "id": "nm0363140",
+      "name": "Dennis Harkin",
+      "character": "Stanley - Beryl's Man"
+    },
+    {
+      "id": "nm0388063",
+      "name": "Edward Hodge",
+      "character": "Bill - First Soldier"
+    }
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 111019,
+  "year": 1945,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYWViMGRhMTEtN2FlOC00MDVkLTllYmMtNDQyNDgzZmE0YzIxXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8,
+      "votes": 49059,
+      "distribution": {
+        "1": 857,
+        "2": 257,
+        "3": 414,
+        "4": 616,
+        "5": 1394,
+        "6": 3283,
+        "7": 8110,
+        "8": 14208,
+        "9": 9949,
+        "10": 9971
+      },
+      "normalized": 7.3732
+    },
+    "filmweb": {
+      "rating": 7.79,
+      "votes": 2549,
+      "distribution": {
+        "1": 14,
+        "2": 7,
+        "3": 13,
+        "4": 25,
+        "5": 71,
+        "6": 179,
+        "7": 555,
+        "8": 976,
+        "9": 510,
+        "10": 199
+      },
+      "normalized": 7.1358
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "15.09.2016",
+      "normalized": 7.2292
+    },
+    "score": 7.2461
+  },
+  "polish_title": "Spotkanie",
+  "silent": false,
+  "description_pl": "Nieśmiała mężatka Laura (<a href=\"/osoba/?id=nm0424743\">Celia Johnson</a>) poznaje sympatycznego, żonatego lekarza Aleca (<a href=\"/osoba/?id=nm0002145\">Trevor Howard</a>). Miejscem spotkań pary jest hałaśliwy dworzec kolejowy. Stukot kół wagonów, gwizdy parowozów docierające do dworcowej restauracji wzbudzają w Laurze nostalgię i marzenia o dalekich podróżach i wyjazdach, kontrastujących z nudnym, nieciekawym otoczeniem.",
+  "producers": [
+    {
+      "id": "nm0002021",
+      "name": "Noël Coward"
+    },
+    {
+      "id": "nm0369743",
+      "name": "Anthony Havelock-Allan"
+    },
+    {
+      "id": "nm0623768",
+      "name": "Ronald Neame"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005761",
+      "name": "Robert Krasker"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-15"
+}

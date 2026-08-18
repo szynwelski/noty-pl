@@ -1,0 +1,39 @@
+{
+  "id": "nm0011148",
+  "name": "Lillian Adams",
+  "filmography": [
+    {
+      "imdb_id": "tt0253867",
+      "title": "The Sweetest Thing",
+      "year": 2002,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Aunt Frida"
+    },
+    {
+      "imdb_id": "tt0315327",
+      "title": "Bruce Almighty",
+      "year": 2003,
+      "roles": [
+        "cast"
+      ],
+      "character": "Mama Kowolski"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYjYyNmI0NGEtNTljYS00ZmE5LWJiMTktYjQ1ZTQzMmNhM2RlXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "13.05.1922",
+  "death_date": "25.05.2011",
+  "birth_location": "Chicago, Illinois, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 107596,
+  "name_pl": "Lillian Adams",
+  "birth_location_pl": "Chicago, Illinois",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 107596
+}

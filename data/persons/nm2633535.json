@@ -1,0 +1,39 @@
+{
+  "id": "nm2633535",
+  "name": "Asa Butterfield",
+  "filmography": [
+    {
+      "imdb_id": "tt0970179",
+      "title": "Hugo",
+      "year": 2011,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Hugo Cabret"
+    },
+    {
+      "imdb_id": "tt1731141",
+      "title": "Ender's Game",
+      "year": 2013,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Ender Wiggin"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODZjZGM5MzctMThlOS00MTQyLThiMTItY2UxNWMzZGUwNzgyXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "01.04.1997",
+  "birth_location": "Islington, London, England, UK",
+  "height": "1.86 m",
+  "imdb_scraped": true,
+  "filmweb_id": 660642,
+  "name_pl": "Asa Butterfield",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ]
+}

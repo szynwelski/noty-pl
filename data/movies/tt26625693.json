@@ -1,0 +1,296 @@
+{
+  "imdb_id": "tt26625693",
+  "title": "The Order",
+  "description": "A series of bank robberies and car heists frightens communities in the Pacific Northwest. A lone FBI agent believes that the crimes were not the work of financially motivated criminals but rather a group of dangerous domestic terrorists.",
+  "runtime_minutes": 116,
+  "release_date": "18.04.2025",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000179",
+      "name": "Jude Law"
+    },
+    {
+      "id": "nm0396558",
+      "name": "Nicholas Hoult"
+    },
+    {
+      "id": "nm4446467",
+      "name": "Tye Sheridan"
+    },
+    {
+      "id": "nm0549505",
+      "name": "Marc Maron"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0997291",
+      "name": "Justin Kurzel"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1598140",
+      "name": "Zach Baylin"
+    },
+    {
+      "id": "nm16620157",
+      "name": "Kevin Flynn"
+    },
+    {
+      "id": "nm3569182",
+      "name": "Gary Gerhardt"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000179",
+      "name": "Jude Law",
+      "character": "Terry Husk"
+    },
+    {
+      "id": "nm0396558",
+      "name": "Nicholas Hoult",
+      "character": "Bob Mathews"
+    },
+    {
+      "id": "nm4446467",
+      "name": "Tye Sheridan",
+      "character": "Jamie Bowen"
+    },
+    {
+      "id": "nm0549505",
+      "name": "Marc Maron",
+      "character": "Alan Berg"
+    },
+    {
+      "id": "nm0853478",
+      "name": "George Tchortov",
+      "character": "Gary Yarbrough"
+    },
+    {
+      "id": "nm10398587",
+      "name": "Daniel Yip",
+      "character": "Engineer"
+    },
+    {
+      "id": "nm4618729",
+      "name": "Daniel Doheny",
+      "character": "Walter West"
+    },
+    {
+      "id": "nm2477204",
+      "name": "Sebastian Pigott",
+      "character": "Bruce Pierce"
+    },
+    {
+      "id": "nm1846293",
+      "name": "John Warkentin",
+      "character": "Hotel Receptionist"
+    },
+    {
+      "id": "nm7591883",
+      "name": "Phillip Forest Lewitski",
+      "character": "David Lane"
+    },
+    {
+      "id": "nm0392087",
+      "name": "Vanessa Holmes",
+      "character": "Bank Teller #1"
+    },
+    {
+      "id": "nm4819617",
+      "name": "Bryan J. McHale",
+      "character": "Bank Manager"
+    },
+    {
+      "id": "nm2716623",
+      "name": "Rae Farrer",
+      "character": "Bank Teller #2"
+    },
+    {
+      "id": "nm9698955",
+      "name": "Carter Morrison",
+      "character": "Spokane Cop"
+    },
+    {
+      "id": "nm3747611",
+      "name": "Odessa Young",
+      "character": "Zillah Craig"
+    },
+    {
+      "id": "nm0335073",
+      "name": "Philip Granger",
+      "character": "Sheriff Loftlin"
+    },
+    {
+      "id": "nm16431370",
+      "name": "Ryan Chandoul Wesley",
+      "character": "Willie Bowen"
+    },
+    {
+      "id": "nm8961852",
+      "name": "Morgan Holmstrom",
+      "character": "Kimmy Bowen"
+    }
+  ],
+  "countries": [
+    "United States",
+    "United Kingdom",
+    "Canada"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 10035559,
+  "year": 2024,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZWIxOGQyYjYtOGEwOC00YWNjLWJmNTktZjJlM2RmNTdjMmVlXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.8,
+      "votes": 64051,
+      "distribution": {
+        "1": 895,
+        "2": 350,
+        "3": 592,
+        "4": 1204,
+        "5": 4067,
+        "6": 15232,
+        "7": 25980,
+        "8": 11007,
+        "9": 2264,
+        "10": 2460
+      },
+      "normalized": 5.1355
+    },
+    "filmweb": {
+      "rating": 6.69,
+      "votes": 21073,
+      "distribution": {
+        "1": 27,
+        "2": 25,
+        "3": 151,
+        "4": 348,
+        "5": 1599,
+        "6": 5796,
+        "7": 9294,
+        "8": 3437,
+        "9": 309,
+        "10": 87
+      },
+      "normalized": 4.8027
+    },
+    "jarek": {
+      "rating": 3,
+      "date_rated": "27.05.2026",
+      "normalized": 4.2591
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "24.07.2025",
+      "normalized": 5.4199
+    },
+    "score": 4.9043
+  },
+  "polish_title": "The Order: Ciche braterstwo",
+  "silent": false,
+  "description_pl": "Zainspirowany szokująco prawdziwymi wydarzeniami \"The Order: Ciche braterstwo\" to trzymający w napięciu thriller z <a href=\"/osoba/?id=nm0000179\">Jude'em Lawem</a> w roli wytrawnego agenta FBI Terry'ego Huska, który odkrywa krajowy spisek terrorystyczny dążący do obalenia rządu federalnego.",
+  "producers": [
+    {
+      "id": "nm1598140",
+      "name": "Zach Baylin"
+    },
+    {
+      "id": "nm0078735",
+      "name": "Lynne Bespflug"
+    },
+    {
+      "id": "nm1569509",
+      "name": "Alastair Burlingham"
+    },
+    {
+      "id": "nm7437903",
+      "name": "Charlie Dombek"
+    },
+    {
+      "id": "nm1023349",
+      "name": "Stuart Ford"
+    },
+    {
+      "id": "nm3895587",
+      "name": "Stephen Fuss"
+    },
+    {
+      "id": "nm6789866",
+      "name": "Zach Garrett"
+    },
+    {
+      "id": "nm2302559",
+      "name": "Bryan Haas"
+    },
+    {
+      "id": "nm1649293",
+      "name": "Ben Jackson"
+    },
+    {
+      "id": "nm0997291",
+      "name": "Justin Kurzel"
+    },
+    {
+      "id": "nm0000179",
+      "name": "Jude Law"
+    },
+    {
+      "id": "nm2846368",
+      "name": "Sean Patrick O'Reilly"
+    },
+    {
+      "id": "nm3365730",
+      "name": "Miguel Palos"
+    },
+    {
+      "id": "nm1827703",
+      "name": "Gary Raskin"
+    },
+    {
+      "id": "nm1167190",
+      "name": "Eric Rebalkin"
+    },
+    {
+      "id": "nm1099918",
+      "name": "Jeremy Saulnier"
+    },
+    {
+      "id": "nm4381655",
+      "name": "Kate Susman"
+    },
+    {
+      "id": "nm8392050",
+      "name": "Anant Tamirisa"
+    },
+    {
+      "id": "nm4723138",
+      "name": "Paul Weinberg"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm1011485",
+      "name": "Jed Kurzel"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm1714622",
+      "name": "Adam Arkapaw"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

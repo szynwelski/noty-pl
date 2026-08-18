@@ -1,0 +1,112 @@
+{
+  "imdb_id": "tt0479113",
+  "title": "One Man Band",
+  "description": "Two buskers engage in a petty feud over a child's donation.",
+  "runtime_minutes": 4,
+  "release_date": "06.06.2006",
+  "genres": [
+    "Animation",
+    "Short",
+    "Comedy",
+    "Family",
+    "Music"
+  ],
+  "directors": [
+    {
+      "id": "nm0028764",
+      "name": "Mark Andrews"
+    },
+    {
+      "id": "nm1285750",
+      "name": "Andrew Jimenez"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1285750",
+      "name": "Andrew Jimenez"
+    },
+    {
+      "id": "nm0028764",
+      "name": "Mark Andrews"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Color",
+  "filmweb_id": 264394,
+  "year": 2005,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDBmYzhmOTItZDhiOS00M2MxLTk3ZWQtNjc4NDI0ZTAzNWVmXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.6,
+      "votes": 17992,
+      "distribution": {
+        "1": 100,
+        "2": 61,
+        "3": 92,
+        "4": 247,
+        "5": 666,
+        "6": 1879,
+        "7": 4689,
+        "8": 5828,
+        "9": 2399,
+        "10": 2031
+      },
+      "normalized": 6.5386
+    },
+    "filmweb": {
+      "rating": 7.04,
+      "votes": 7533,
+      "distribution": {
+        "1": 19,
+        "2": 20,
+        "3": 71,
+        "4": 177,
+        "5": 538,
+        "6": 1396,
+        "7": 2537,
+        "8": 1964,
+        "9": 582,
+        "10": 229
+      },
+      "normalized": 5.6781
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "26.12.2020",
+      "normalized": 4.5781
+    },
+    "score": 5.5983
+  },
+  "polish_title": "Człowiek-Orkiestra",
+  "silent": false,
+  "description_pl": "Mała dziewczynka przechadza się środkiem alei. Tak się złożyło, że po obu stronach tejże drogi stoją dwaj Ludzie-Orkiestry. Obaj walczą ze sobą na utwory, a ich starcie trwa od niepamiętnych czasów. Upatrują sobie dziewczynkę na jurorkę ich występów - lepszy okaże się ten, czyje crescendo przyciągnie jej uwagę...",
+  "producers": [
+    {
+      "id": "nm0083348",
+      "name": "Brad Bird"
+    },
+    {
+      "id": "nm0005124",
+      "name": "John Lasseter"
+    },
+    {
+      "id": "nm1575873",
+      "name": "Osnat Shurer"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0315974",
+      "name": "Michael Giacchino"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

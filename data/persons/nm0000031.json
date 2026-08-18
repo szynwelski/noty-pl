@@ -1,0 +1,71 @@
+{
+  "id": "nm0000031",
+  "name": "Katharine Hepburn",
+  "filmography": [
+    {
+      "imdb_id": "tt0029947",
+      "title": "Bringing Up Baby",
+      "year": 1938,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Susan"
+    },
+    {
+      "imdb_id": "tt0032904",
+      "title": "The Philadelphia Story",
+      "year": 1940,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Tracy Lord"
+    },
+    {
+      "imdb_id": "tt0041090",
+      "title": "Adam's Rib",
+      "year": 1949,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Amanda Bonner"
+    },
+    {
+      "imdb_id": "tt0043265",
+      "title": "The African Queen",
+      "year": 1951,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Rose Sayer"
+    },
+    {
+      "imdb_id": "tt0061735",
+      "title": "Guess Who's Coming to Dinner",
+      "year": 1967,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Christina Drayton"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDc5YThiZjAtMjYwZi00YjllLTlkYjEtNjQyYTFiZTU3ZTM5XkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 43455,
+  "birth_date": "12.05.1907",
+  "death_date": "29.06.2003",
+  "birth_location": "Hartford, Connecticut, USA",
+  "height": "1.72 m",
+  "imdb_scraped": true,
+  "name_pl": "Katharine Hepburn",
+  "birth_location_pl": "Hartford, Connecticut",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 43455
+}

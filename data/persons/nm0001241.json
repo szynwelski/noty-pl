@@ -1,0 +1,52 @@
+{
+  "id": "nm0001241",
+  "name": "Stephen Frears",
+  "filmography": [
+    {
+      "imdb_id": "tt0094947",
+      "title": "Dangerous Liaisons",
+      "year": 1988,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0104412",
+      "title": "Hero",
+      "year": 1992,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0301199",
+      "title": "Dirty Pretty Things",
+      "year": 2002,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt3083008",
+      "title": "The Program",
+      "year": 2015,
+      "roles": [
+        "director"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTE5MDk4NjgxOF5BMl5BanBnXkFtZTYwNTE4MjUz._V1_.jpg",
+  "birth_date": "20.06.1941",
+  "birth_location": "Leicester, Leicestershire, England, UK",
+  "height": "1.70 m",
+  "filmweb_id": 11749,
+  "name_pl": "Stephen Frears",
+  "birth_location_pl": "Leicester, Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 11749
+}

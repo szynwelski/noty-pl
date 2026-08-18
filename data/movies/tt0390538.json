@@ -1,0 +1,231 @@
+{
+  "imdb_id": "tt0390538",
+  "title": "Tarnation",
+  "description": "Filmmaker Jonathan Caouette's documentary on growing up with his schizophrenic mother -- a mixture of snapshots, Super-8 film, answering machine messages, video diaries, early short films, and more - culled from nineteen years of his life.",
+  "runtime_minutes": 88,
+  "release_date": "10.11.2004",
+  "genres": [
+    "Documentary",
+    "Biography"
+  ],
+  "stars": [
+    {
+      "id": "nm1503401",
+      "name": "Jonathan Caouette"
+    },
+    {
+      "id": "nm1668821",
+      "name": "Renee Leblanc"
+    },
+    {
+      "id": "nm1674974",
+      "name": "Adolph Davis"
+    },
+    {
+      "id": "nm1668783",
+      "name": "Rosemary Davis"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm1503401",
+      "name": "Jonathan Caouette"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1503401",
+      "name": "Jonathan Caouette"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1503401",
+      "name": "Jonathan Caouette",
+      "character": "Self"
+    },
+    {
+      "id": "nm1668821",
+      "name": "Renee Leblanc",
+      "character": "Self"
+    },
+    {
+      "id": "nm1674974",
+      "name": "Adolph Davis",
+      "character": "Self"
+    },
+    {
+      "id": "nm1668783",
+      "name": "Rosemary Davis",
+      "character": "Self"
+    },
+    {
+      "id": "nm1670595",
+      "name": "David Sanin Paz",
+      "character": "Self"
+    },
+    {
+      "id": "nm2800479",
+      "name": "Joshua Williams",
+      "character": "Self"
+    },
+    {
+      "id": "nm2788283",
+      "name": "Michael Cox",
+      "character": "Self - Guy cussing in short film"
+    },
+    {
+      "id": "nm2797847",
+      "name": "David Leblanc",
+      "character": "Self"
+    },
+    {
+      "id": "nm2802336",
+      "name": "Stacey Mowery",
+      "character": "Self"
+    },
+    {
+      "id": "nm2789732",
+      "name": "Michael Mouton",
+      "character": "Self"
+    },
+    {
+      "id": "nm1364905",
+      "name": "Greg Ayres",
+      "character": "Self"
+    },
+    {
+      "id": "nm2799847",
+      "name": "Vanda Stovall",
+      "character": "Self"
+    },
+    {
+      "id": "nm1191852",
+      "name": "Dagon James",
+      "character": "Self"
+    },
+    {
+      "id": "nm2061155",
+      "name": "Vivian Kalinov",
+      "character": "Self"
+    },
+    {
+      "id": "nm2799518",
+      "name": "Steve Caouette",
+      "character": "Self"
+    },
+    {
+      "id": "nm2821467",
+      "name": "Lisa Berri",
+      "character": "Self - Blue Velvet cast"
+    },
+    {
+      "id": "nm1419629",
+      "name": "Kelli Brisbane",
+      "character": "Self - Blue Velvet cast"
+    },
+    {
+      "id": "nm1511985",
+      "name": "Mike Smith Rivera",
+      "character": "Self - Blue Velvet cast"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": null,
+  "filmweb_id": 153084,
+  "year": 2003,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTM5NzczNDE5M15BMl5BanBnXkFtZTcwNDcxMzcyMQ@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.1,
+      "votes": 6907,
+      "distribution": {
+        "1": 269,
+        "2": 150,
+        "3": 178,
+        "4": 222,
+        "5": 408,
+        "6": 754,
+        "7": 1475,
+        "8": 1534,
+        "9": 909,
+        "10": 1008
+      },
+      "normalized": 5.672
+    },
+    "filmweb": {
+      "rating": 7.28,
+      "votes": 2404,
+      "distribution": {
+        "1": 97,
+        "2": 24,
+        "3": 52,
+        "4": 64,
+        "5": 95,
+        "6": 241,
+        "7": 525,
+        "8": 647,
+        "9": 407,
+        "10": 252
+      },
+      "normalized": 6.0172
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "28.12.2006",
+      "normalized": 4.5781
+    },
+    "score": 5.4224
+  },
+  "polish_title": "Tarnation",
+  "silent": false,
+  "description_pl": "Dokument stworzony przez Jonathana Caouette'a ukazujący 19 lat z życia filmowca - okres dorastania u boku jego schizofrenicznej matki. Jest to mieszanka zdjęć, pamiętników, rodzinnych filmów video, nagrań automatycznej sekretarki i wiele innych...",
+  "producers": [
+    {
+      "id": "nm1140728",
+      "name": "Vanessa Arteaga"
+    },
+    {
+      "id": "nm1557549",
+      "name": "Jason Banker"
+    },
+    {
+      "id": "nm1503401",
+      "name": "Jonathan Caouette"
+    },
+    {
+      "id": "nm1848115",
+      "name": "Marie Therese Guirgis"
+    },
+    {
+      "id": "nm0593463",
+      "name": "John Cameron Mitchell"
+    },
+    {
+      "id": "nm0001814",
+      "name": "Gus Van Sant"
+    },
+    {
+      "id": "nm1852281",
+      "name": "Ryan Werner"
+    },
+    {
+      "id": "nm0935829",
+      "name": "Stephen Winter"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm1503401",
+      "name": "Jonathan Caouette"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

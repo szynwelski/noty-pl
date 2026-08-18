@@ -1,0 +1,80 @@
+{
+  "id": "nm0001429",
+  "name": "Takeshi Kitano",
+  "filmography": [
+    {
+      "imdb_id": "tt0113481",
+      "title": "Johnny Mnemonic",
+      "year": 1995,
+      "roles": [
+        "cast"
+      ],
+      "character": "Takahashi"
+    },
+    {
+      "imdb_id": "tt0363226",
+      "title": "The Blind Swordsman: Zatoichi",
+      "year": 2003,
+      "roles": [
+        "director",
+        "writer",
+        "star",
+        "cast"
+      ],
+      "character": "Zatôichi"
+    },
+    {
+      "imdb_id": "tt3068190",
+      "title": "Kids Return: The Reunion",
+      "year": 2013,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt4176776",
+      "title": "Ryuzo and the Seven Henchmen",
+      "year": 2015,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt1219827",
+      "title": "Ghost in the Shell",
+      "year": 2017,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Aramaki"
+    },
+    {
+      "imdb_id": "tt6293042",
+      "title": "Outrage Coda",
+      "year": 2017,
+      "roles": [
+        "director",
+        "writer",
+        "star",
+        "cast"
+      ],
+      "character": "Otomo"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTIwMjA4ODgzM15BMl5BanBnXkFtZTYwNzc3MjI0._V1_.jpg",
+  "birth_date": "18.01.1947",
+  "birth_location": "Tokyo, Japan",
+  "height": "1.68 m",
+  "filmweb_id": 8109,
+  "name_pl": "Takeshi Kitano",
+  "birth_location_pl": "Tokio",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Japonia"
+  ],
+  "wikidata_fw_id": 8109
+}

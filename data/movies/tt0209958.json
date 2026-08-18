@@ -1,0 +1,235 @@
+{
+  "imdb_id": "tt0209958",
+  "title": "The Cell",
+  "description": "An F.B.I. Agent persuades a social worker, who is adept with a new experimental technology, to enter the mind of a comatose serial killer in order to learn where he has hidden his latest kidnap victim.",
+  "runtime_minutes": 107,
+  "release_date": "18.08.2000",
+  "genres": [
+    "Crime",
+    "Horror",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000182",
+      "name": "Jennifer Lopez"
+    },
+    {
+      "id": "nm0000681",
+      "name": "Vince Vaughn"
+    },
+    {
+      "id": "nm0000352",
+      "name": "Vincent D'Onofrio"
+    },
+    {
+      "id": "nm0416381",
+      "name": "Colton James"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0802248",
+      "name": "Tarsem Singh"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0698873",
+      "name": "Mark Protosevich"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000182",
+      "name": "Jennifer Lopez",
+      "character": "Catherine Deane"
+    },
+    {
+      "id": "nm0000681",
+      "name": "Vince Vaughn",
+      "character": "Peter Novak"
+    },
+    {
+      "id": "nm0000352",
+      "name": "Vincent D'Onofrio",
+      "character": "Carl Stargher"
+    },
+    {
+      "id": "nm0416381",
+      "name": "Colton James",
+      "character": "Edward Baines"
+    },
+    {
+      "id": "nm0048414",
+      "name": "Dylan Baker",
+      "character": "Henry West"
+    },
+    {
+      "id": "nm0001399",
+      "name": "Marianne Jean-Baptiste",
+      "character": "Dr. Miriam Kent"
+    },
+    {
+      "id": "nm0065418",
+      "name": "Gerry Becker",
+      "character": "Dr. Cooperman"
+    },
+    {
+      "id": "nm0888727",
+      "name": "Musetta Vander",
+      "character": "Ella Baines"
+    },
+    {
+      "id": "nm0000872",
+      "name": "Patrick Bauchau",
+      "character": "Lucien Baines"
+    },
+    {
+      "id": "nm0840059",
+      "name": "Catherine Sutherland",
+      "character": "Anne Marie Vicksey"
+    },
+    {
+      "id": "nm0304000",
+      "name": "James Gammon",
+      "character": "Teddy Lee"
+    },
+    {
+      "id": "nm0916617",
+      "name": "Jake Weber",
+      "character": "Gordon Ramsey"
+    },
+    {
+      "id": "nm0606487",
+      "name": "Dean Norris",
+      "character": "Cole"
+    },
+    {
+      "id": "nm0836964",
+      "name": "Tara Subkoff",
+      "character": "Julia Hickson"
+    },
+    {
+      "id": "nm0425616",
+      "name": "Lauri Johnson",
+      "character": "Mrs. Hickson"
+    },
+    {
+      "id": "nm0182824",
+      "name": "John Cothran",
+      "character": "Agent Stockwell"
+    },
+    {
+      "id": "nm0174780",
+      "name": "Jack Conley",
+      "character": "Agent Brock"
+    },
+    {
+      "id": "nm0209850",
+      "name": "Kamar de los Reyes",
+      "character": "Officer Alexander"
+    }
+  ],
+  "countries": [
+    "Germany",
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 1333,
+  "year": 2000,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOWMyN2RjZTgtOGFlMi00ZWIyLWFlNzktM2U1OTkxNWU0NzBhXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.4,
+      "votes": 115595,
+      "distribution": {
+        "1": 2786,
+        "2": 2168,
+        "3": 3490,
+        "4": 6616,
+        "5": 13523,
+        "6": 25229,
+        "7": 29121,
+        "8": 18196,
+        "9": 7267,
+        "10": 7199
+      },
+      "normalized": 4.3038
+    },
+    "filmweb": {
+      "rating": 6.43,
+      "votes": 22372,
+      "distribution": {
+        "1": 245,
+        "2": 239,
+        "3": 710,
+        "4": 1211,
+        "5": 2868,
+        "6": 5479,
+        "7": 6375,
+        "8": 3497,
+        "9": 1149,
+        "10": 599
+      },
+      "normalized": 4.1887
+    },
+    "michal": {
+      "rating": 3,
+      "date_rated": "19.10.2005",
+      "normalized": 3.8753
+    },
+    "score": 4.1226
+  },
+  "polish_title": "Cela",
+  "silent": false,
+  "description_pl": "Bazujący na tradycji thrillerów psychologicznych \"The Cell\", opowiada o młodej , utalentowanej psychoterapeutce, Catherine Deane, która musi zgłębić umysł obłąkanego seryjnego mordercy, aby uratować jego kolejną ofiarę. Przy pomocy ekipy naukowców, Deane wykorzystuje najnowsze osiągnięcia techniki, w celu poznania psychiki Karla Starghera. Agent FBI, Peter Novak, oraz jego partner prowadzą wyścig z czasem, by na podstawie strzępów informacji odnaleźć zaginioną dziewczynę.",
+  "producers": [
+    {
+      "id": "nm0138918",
+      "name": "Julio Caro"
+    },
+    {
+      "id": "nm0486514",
+      "name": "Donna Langley"
+    },
+    {
+      "id": "nm0542024",
+      "name": "Carolyn Manetti"
+    },
+    {
+      "id": "nm0572805",
+      "name": "Eric McLeod"
+    },
+    {
+      "id": "nm0698873",
+      "name": "Mark Protosevich"
+    },
+    {
+      "id": "nm0743856",
+      "name": "Stephen J. Ross"
+    },
+    {
+      "id": "nm0815864",
+      "name": "Nico Soultanakis"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006290",
+      "name": "Howard Shore"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0490817",
+      "name": "Paul Laufer"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

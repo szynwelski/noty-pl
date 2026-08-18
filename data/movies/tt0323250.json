@@ -1,0 +1,133 @@
+{
+  "imdb_id": "tt0323250",
+  "title": "Mike's New Car",
+  "description": "Mike's bought a new 6-wheel-drive car, and he can't wait to show it off to Sulley. Only problem is, Mike hasn't exactly mastered the controls yet, and they're pretty complicated.",
+  "runtime_minutes": 4,
+  "release_date": "09.08.2002",
+  "genres": [
+    "Animation",
+    "Short",
+    "Comedy",
+    "Family",
+    "Fantasy"
+  ],
+  "stars": [
+    {
+      "id": "nm0000345",
+      "name": "Billy Crystal"
+    },
+    {
+      "id": "nm0000422",
+      "name": "John Goodman"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0230032",
+      "name": "Pete Docter"
+    },
+    {
+      "id": "nm1246888",
+      "name": "Roger Gould"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0230032",
+      "name": "Pete Docter"
+    },
+    {
+      "id": "nm0682066",
+      "name": "Jeff Pidgeon"
+    },
+    {
+      "id": "nm1246888",
+      "name": "Roger Gould"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000345",
+      "name": "Billy Crystal",
+      "character": "Mike"
+    },
+    {
+      "id": "nm0000422",
+      "name": "John Goodman",
+      "character": "Sullivan"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 34850,
+  "year": 2002,
+  "type": "video",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDQ5Zjk0MjQtMGRjYy00MWI1LWEwNGQtYThkNTM4ZGMwOTRhXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7,
+      "votes": 16273,
+      "distribution": {
+        "1": 142,
+        "2": 78,
+        "3": 159,
+        "4": 384,
+        "5": 1129,
+        "6": 2894,
+        "7": 5832,
+        "8": 3274,
+        "9": 1090,
+        "10": 1291
+      },
+      "normalized": 5.5221
+    },
+    "filmweb": {
+      "rating": 6.32,
+      "votes": 4979,
+      "distribution": {
+        "1": 17,
+        "2": 40,
+        "3": 147,
+        "4": 332,
+        "5": 701,
+        "6": 1416,
+        "7": 1421,
+        "8": 615,
+        "9": 151,
+        "10": 139
+      },
+      "normalized": 4.0141
+    },
+    "michal": {
+      "rating": 3,
+      "date_rated": "26.12.2020",
+      "normalized": 3.8753
+    },
+    "score": 4.4705
+  },
+  "polish_title": "Nowy samochód Mike'a",
+  "silent": false,
+  "description_pl": "Krótkometrażowy film animowany studia Pixar (twórcy m.in. Toy Story oraz Potwory i spółka).\n\nWystępuja w nim znani z \"Potworów i spółki\" Mike Wazowski i James 'Sulley' Sullivan. Mike kupił sobie nowy samochód. Chcąc sie nim pochwalić zaprasza \"Sulleya\" na przejażdzkę w czasie której czeka ich mnstwo niespodzianek.\n\nFilm zrealizowany jako dodatek do \"Potworów i spółki\" wydanych na wideo i DVD.",
+  "producers": [
+    {
+      "id": "nm1275770",
+      "name": "Gale Gortney"
+    },
+    {
+      "id": "nm0005124",
+      "name": "John Lasseter"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0005271",
+      "name": "Randy Newman"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,129 @@
+{
+  "imdb_id": "tt3044360",
+  "title": "Darling",
+  "description": "",
+  "runtime_minutes": 7,
+  "release_date": "11.06.2013",
+  "genres": [
+    "Animation",
+    "Short"
+  ],
+  "stars": [
+    {
+      "id": "nm0029775",
+      "name": "Kathrin Angerer"
+    },
+    {
+      "id": "nm0882998",
+      "name": "Theo Vadersen"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm1889276",
+      "name": "Izabela Plucinska"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1885256",
+      "name": "Justyna Celeda"
+    },
+    {
+      "id": "nm1889276",
+      "name": "Izabela Plucinska"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0029775",
+      "name": "Kathrin Angerer",
+      "character": ""
+    },
+    {
+      "id": "nm0882998",
+      "name": "Theo Vadersen",
+      "character": ""
+    }
+  ],
+  "countries": [
+    "Germany",
+    "Poland"
+  ],
+  "languages": [
+    "Polish"
+  ],
+  "color": "Color",
+  "year": 2013,
+  "type": "short",
+  "image_url": null,
+  "filmweb_id": 684350,
+  "original_title": "Liebling",
+  "ratings": {
+    "imdb": {
+      "rating": 5.9,
+      "votes": 11,
+      "distribution": {
+        "1": 0,
+        "2": 0,
+        "3": 1,
+        "4": 1,
+        "5": 2,
+        "6": 3,
+        "7": 2,
+        "8": 2,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 5.2792
+    },
+    "filmweb": {
+      "rating": 6.44,
+      "votes": 27,
+      "distribution": {
+        "2": 0,
+        "3": 3,
+        "4": 0,
+        "5": 5,
+        "6": 4,
+        "7": 9,
+        "8": 3,
+        "9": 1,
+        "10": 2
+      },
+      "normalized": 5.1191
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "01.12.2016",
+      "normalized": 5.6855
+    },
+    "score": 5.3613
+  },
+  "polish_title": "Kochanie",
+  "silent": false,
+  "description_pl": "Czym jest utrata pamięci? W labiryncie strachu bliski staje się nieznajomym, a dom pułapką. Poruszając się po omacku, śladem znajomych przedmiotów i kształtów bohaterka stara się wrócić do życia, które kiedyś było jej własnym. Najnowsza plastelinowa animacja Izabeli Plucińskiej jest przejmującym obrazem zagubienia i wyobcowania oraz próby poskładania całości z nieprzystających do siebie fragmentów.",
+  "producers": [
+    {
+      "id": "nm1297564",
+      "name": "Christine Haupt"
+    },
+    {
+      "id": "nm5794559",
+      "name": "Robert Kern"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm1475175",
+      "name": "Detlef A. Schitto"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm1889276",
+      "name": "Izabela Plucinska"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

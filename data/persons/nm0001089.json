@@ -1,0 +1,39 @@
+{
+  "id": "nm0001089",
+  "name": "Henry Czerny",
+  "filmography": [
+    {
+      "imdb_id": "tt0117060",
+      "title": "Mission: Impossible",
+      "year": 1996,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Kittridge"
+    },
+    {
+      "imdb_id": "tt0429493",
+      "title": "The A-Team",
+      "year": 2010,
+      "roles": [
+        "cast"
+      ],
+      "character": "Director McCready"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNjM0MDIwMzQyNl5BMl5BanBnXkFtZTgwMjU1OTc1NjE@._V1_.jpg",
+  "birth_date": "08.02.1959",
+  "birth_location": "Toronto, Ontario, Canada",
+  "height": "1.77 m",
+  "imdb_scraped": true,
+  "filmweb_id": 8065,
+  "name_pl": "Henry Czerny",
+  "birth_location_pl": "Toronto",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Kanada"
+  ],
+  "wikidata_fw_id": 8065
+}

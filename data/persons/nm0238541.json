@@ -1,0 +1,46 @@
+{
+  "id": "nm0238541",
+  "name": "Alice Drummond",
+  "filmography": [
+    {
+      "imdb_id": "tt0087332",
+      "title": "Ghostbusters",
+      "year": 1984,
+      "roles": [
+        "cast"
+      ],
+      "character": "Librarian"
+    },
+    {
+      "imdb_id": "tt0099077",
+      "title": "Awakenings",
+      "year": 1990,
+      "roles": [
+        "cast"
+      ],
+      "character": "Lucy"
+    },
+    {
+      "imdb_id": "tt0109040",
+      "title": "Ace Ventura: Pet Detective",
+      "year": 1994,
+      "roles": [
+        "cast"
+      ],
+      "character": "Mrs. Finkle"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjIyNDcyMDgzNl5BMl5BanBnXkFtZTcwMzc4NTgwOA@@._V1_.jpg",
+  "birth_date": "21.05.1928",
+  "death_date": "30.11.2016",
+  "birth_location": "Pawtucket, Rhode Island, USA",
+  "filmweb_id": 8213,
+  "name_pl": "Alice Drummond",
+  "birth_location_pl": "Pawtucket, Rhode Island",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

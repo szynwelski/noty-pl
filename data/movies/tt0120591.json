@@ -1,0 +1,261 @@
+{
+  "imdb_id": "tt0120591",
+  "title": "Armageddon",
+  "description": "After discovering that an asteroid the size of Texas will impact Earth in less than a month, NASA recruits a misfit team of deep-core drillers to save the planet.",
+  "runtime_minutes": 151,
+  "release_date": "01.07.1998",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000246",
+      "name": "Bruce Willis"
+    },
+    {
+      "id": "nm0000671",
+      "name": "Billy Bob Thornton"
+    },
+    {
+      "id": "nm0000255",
+      "name": "Ben Affleck"
+    },
+    {
+      "id": "nm0000239",
+      "name": "Liv Tyler"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000881",
+      "name": "Michael Bay"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0378144",
+      "name": "Jonathan Hensleigh"
+    },
+    {
+      "id": "nm0009190",
+      "name": "J.J. Abrams"
+    },
+    {
+      "id": "nm0006904",
+      "name": "Tony Gilroy"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000246",
+      "name": "Bruce Willis",
+      "character": "Harry S. Stamper"
+    },
+    {
+      "id": "nm0000671",
+      "name": "Billy Bob Thornton",
+      "character": "Dan Truman"
+    },
+    {
+      "id": "nm0000255",
+      "name": "Ben Affleck",
+      "character": "A.J. Frost"
+    },
+    {
+      "id": "nm0000239",
+      "name": "Liv Tyler",
+      "character": "Grace Stamper"
+    },
+    {
+      "id": "nm0001599",
+      "name": "Will Patton",
+      "character": "Chick"
+    },
+    {
+      "id": "nm0000114",
+      "name": "Steve Buscemi",
+      "character": "Rockhound"
+    },
+    {
+      "id": "nm0001209",
+      "name": "William Fichtner",
+      "character": "Colonel Willie Sharp"
+    },
+    {
+      "id": "nm0005562",
+      "name": "Owen Wilson",
+      "character": "Oscar"
+    },
+    {
+      "id": "nm0003817",
+      "name": "Michael Clarke Duncan",
+      "character": "Bear"
+    },
+    {
+      "id": "nm0001780",
+      "name": "Peter Stormare",
+      "character": "Lev Andropov"
+    },
+    {
+      "id": "nm0132637",
+      "name": "Ken Hudson Campbell",
+      "character": "Max"
+    },
+    {
+      "id": "nm0824763",
+      "name": "Jessica Steen",
+      "character": "Co-Pilot Jennifer Watts"
+    },
+    {
+      "id": "nm0202966",
+      "name": "Keith David",
+      "character": "General Kimsey"
+    },
+    {
+      "id": "nm0254760",
+      "name": "Chris Ellis",
+      "character": "Flight Director Clark"
+    },
+    {
+      "id": "nm0005042",
+      "name": "Jason Isaacs",
+      "character": "Ronald Quincy"
+    },
+    {
+      "id": "nm0566651",
+      "name": "Grayson McCouch",
+      "character": "Gruber"
+    },
+    {
+      "id": "nm0111272",
+      "name": "Clark Heathcliff Brolly",
+      "character": "Noonan"
+    },
+    {
+      "id": "nm0853549",
+      "name": "Marshall R. Teague",
+      "character": "Colonel Davis"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Russian",
+    "Indonesian"
+  ],
+  "color": "Color",
+  "filmweb_id": 9,
+  "year": 1998,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYzQ3MzJmZjUtNTc0OC00ZWRiLWJkMTYtMTZkMDVhMDQ4OGU4XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.7,
+      "votes": 482601,
+      "distribution": {
+        "1": 11331,
+        "2": 8183,
+        "3": 12107,
+        "4": 21105,
+        "5": 43308,
+        "6": 90785,
+        "7": 128679,
+        "8": 86258,
+        "9": 37535,
+        "10": 43310
+      },
+      "normalized": 4.8551
+    },
+    "filmweb": {
+      "rating": 7.42,
+      "votes": 256967,
+      "distribution": {
+        "1": 1104,
+        "2": 1269,
+        "3": 3425,
+        "4": 6184,
+        "5": 14397,
+        "6": 33259,
+        "7": 66561,
+        "8": 72564,
+        "9": 32872,
+        "10": 25332
+      },
+      "normalized": 6.5444
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "02.12.2005",
+      "normalized": 4.9718
+    },
+    "michal": {
+      "rating": 3,
+      "date_rated": "07.01.2023",
+      "normalized": 3.8753
+    },
+    "score": 5.0617
+  },
+  "polish_title": "Armageddon",
+  "silent": false,
+  "description_pl": "Według obliczeń NASA za 18 dni ma dojść do zderzenia ogromnej asteroidy z Ziemią. Szansą na ocalenie planety może być dotarcie do obiektu promem kosmicznym, przewiercenie go i umieszczenie w otworach ładunków, których wybuch spowoduje zmianę trasy lotu planetoidy. Szef NASA (<a href=\"/osoba/?id=nm0000671\">Billy Bob Thornton</a>) wzywa więc z Teksasu na pomoc Harry'ego (<a href=\"/osoba/?id=nm0000246\">Bruce Willis</a>), specjalistę w dziedzinie wiertnictwa. On oraz jego ludzie przechodzą w centrum lotów kosmicznych przyspieszone szkolenie. Następnie wyruszają z ryzykowną misją w kosmos. Muszą zniszczyć asteroidę, zanim dojdzie do tragedii.",
+  "producers": [
+    {
+      "id": "nm0060962",
+      "name": "Kenny Bates"
+    },
+    {
+      "id": "nm0000881",
+      "name": "Michael Bay"
+    },
+    {
+      "id": "nm0000988",
+      "name": "Jerry Bruckheimer"
+    },
+    {
+      "id": "nm0306695",
+      "name": "Scott Gardenhour"
+    },
+    {
+      "id": "nm0378144",
+      "name": "Jonathan Hensleigh"
+    },
+    {
+      "id": "nm0005036",
+      "name": "Gale Anne Hurd"
+    },
+    {
+      "id": "nm0648288",
+      "name": "Chad Oman"
+    },
+    {
+      "id": "nm0762389",
+      "name": "Pat Sandston"
+    },
+    {
+      "id": "nm0888329",
+      "name": "Jim Van Wyck"
+    },
+    {
+      "id": "nm0907176",
+      "name": "Barry H. Waldman"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0704909",
+      "name": "Trevor Rabin"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0006701",
+      "name": "John Schwartzman"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

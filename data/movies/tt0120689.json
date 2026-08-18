@@ -1,0 +1,224 @@
+{
+  "imdb_id": "tt0120689",
+  "title": "The Green Mile",
+  "description": "A death row guard learns that a gentle giant in his charge possesses a mysterious gift.",
+  "runtime_minutes": 189,
+  "release_date": "10.12.1999",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Fantasy",
+    "Mystery"
+  ],
+  "stars": [
+    {
+      "id": "nm0000158",
+      "name": "Tom Hanks"
+    },
+    {
+      "id": "nm0003817",
+      "name": "Michael Clarke Duncan"
+    },
+    {
+      "id": "nm0001556",
+      "name": "David Morse"
+    },
+    {
+      "id": "nm0001372",
+      "name": "Bonnie Hunt"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001104",
+      "name": "Frank Darabont"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000175",
+      "name": "Stephen King"
+    },
+    {
+      "id": "nm0001104",
+      "name": "Frank Darabont"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000158",
+      "name": "Tom Hanks",
+      "character": "Paul Edgecomb"
+    },
+    {
+      "id": "nm0003817",
+      "name": "Michael Clarke Duncan",
+      "character": "John Coffey"
+    },
+    {
+      "id": "nm0001556",
+      "name": "David Morse",
+      "character": "Brutus 'Brutal' Howell"
+    },
+    {
+      "id": "nm0001372",
+      "name": "Bonnie Hunt",
+      "character": "Jan Edgecomb"
+    },
+    {
+      "id": "nm0000342",
+      "name": "James Cromwell",
+      "character": "Warden Hal Moores"
+    },
+    {
+      "id": "nm0005052",
+      "name": "Michael Jeter",
+      "character": "Eduard Delacroix"
+    },
+    {
+      "id": "nm0001295",
+      "name": "Graham Greene",
+      "character": "Arlen Bitterbuck"
+    },
+    {
+      "id": "nm0006535",
+      "name": "Doug Hutchison",
+      "character": "Percy Wetmore"
+    },
+    {
+      "id": "nm0005377",
+      "name": "Sam Rockwell",
+      "character": "'Wild Bill' Wharton"
+    },
+    {
+      "id": "nm0001608",
+      "name": "Barry Pepper",
+      "character": "Dean Stanton"
+    },
+    {
+      "id": "nm0218810",
+      "name": "Jeffrey DeMunn",
+      "character": "Harry Terwilliger"
+    },
+    {
+      "id": "nm0165101",
+      "name": "Patricia Clarkson",
+      "character": "Melinda Moores"
+    },
+    {
+      "id": "nm0001765",
+      "name": "Harry Dean Stanton",
+      "character": "Toot-Toot"
+    },
+    {
+      "id": "nm0339428",
+      "name": "Dabbs Greer",
+      "character": "Old Paul Edgecomb"
+    },
+    {
+      "id": "nm0107573",
+      "name": "Eve Brent",
+      "character": "Elaine Connelly"
+    },
+    {
+      "id": "nm0006669",
+      "name": "William Sadler",
+      "character": "Klaus Detterick"
+    },
+    {
+      "id": "nm0587183",
+      "name": "Mack Miles",
+      "character": "Orderly Hector"
+    },
+    {
+      "id": "nm0850847",
+      "name": "Rai Tasco",
+      "character": "Man in Nursing Home"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "color": "Color",
+  "filmweb_id": 862,
+  "year": 1999,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8.6,
+      "votes": 1578268,
+      "distribution": {
+        "1": 7213,
+        "2": 3244,
+        "3": 4831,
+        "4": 8216,
+        "5": 17982,
+        "6": 48967,
+        "7": 162720,
+        "8": 404036,
+        "9": 493911,
+        "10": 427148
+      },
+      "normalized": 9.219
+    },
+    "filmweb": {
+      "rating": 8.63,
+      "votes": 1054149,
+      "distribution": {
+        "1": 6331,
+        "2": 2416,
+        "3": 4925,
+        "4": 8193,
+        "5": 17614,
+        "6": 32912,
+        "7": 90726,
+        "8": 242356,
+        "9": 304785,
+        "10": 343891
+      },
+      "normalized": 10.0
+    },
+    "jarek": {
+      "rating": 8,
+      "date_rated": "02.12.2005",
+      "normalized": 7.8989
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "19.10.2005",
+      "normalized": 6.3474
+    },
+    "score": 8.3663
+  },
+  "polish_title": "Zielona mila",
+  "silent": false,
+  "description_pl": "Rok 1935. Paul Edgecombe (<a href=\"/osoba/?id=nm0000158\">Tom Hanks</a>)  jest jednym ze strażników bloku śmierci w więzieniu Cold Mountain. Do  jego obowiązków należy odprowadzanie skazańców do celi śmierci długim  korytarzem, wyłożonym zieloną wykładziną, zwaną \"Zieloną milą\". Pewnego  dnia do więzienia przybywa olbrzymi czarnoskóry skazaniec, John Coffey (<a href=\"/osoba/?id=nm0003817\">Michael Clarke Duncan</a>).  Ma oczekiwać na karę śmierci za zamordowanie dwóch białych dziewczynek.  Jego wizyta na zawsze zmieni życie Paula i pozostałych pracowników  więzienia.",
+  "producers": [
+    {
+      "id": "nm0001104",
+      "name": "Frank Darabont"
+    },
+    {
+      "id": "nm0883603",
+      "name": "David Valdes"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0002353",
+      "name": "Thomas Newman"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005897",
+      "name": "David Tattersall"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

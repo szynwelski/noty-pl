@@ -1,0 +1,80 @@
+{
+  "id": "nm0000111",
+  "name": "Matthew Broderick",
+  "filmography": [
+    {
+      "imdb_id": "tt0086567",
+      "title": "WarGames",
+      "year": 1983,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "David Lightman"
+    },
+    {
+      "imdb_id": "tt0097441",
+      "title": "Glory",
+      "year": 1989,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Col. Robert Gould Shaw"
+    },
+    {
+      "imdb_id": "tt0110357",
+      "title": "The Lion King",
+      "year": 1994,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Simba"
+    },
+    {
+      "imdb_id": "tt0120685",
+      "title": "Godzilla",
+      "year": 1998,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Dr. Niko Tatopoulos"
+    },
+    {
+      "imdb_id": "tt0327162",
+      "title": "The Stepford Wives",
+      "year": 2004,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Walter Kresby"
+    },
+    {
+      "imdb_id": "tt15671028",
+      "title": "No Hard Feelings",
+      "year": 2023,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Laird Becker"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODQ0ZDUwYTktNzEyYi00MjAyLTkzN2ItZGE1NGIzYzIwMmVhXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "21.03.1962",
+  "birth_location": "New York City, New York, USA",
+  "height": "1.72 m",
+  "filmweb_id": 142,
+  "name_pl": "Matthew Broderick",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 142
+}

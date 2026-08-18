@@ -1,0 +1,42 @@
+{
+  "id": "nm0900143",
+  "name": "Monica Vitti",
+  "filmography": [
+    {
+      "imdb_id": "tt0053619",
+      "title": "L'Avventura",
+      "year": 1960,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Claudia"
+    },
+    {
+      "imdb_id": "tt0056736",
+      "title": "L'Eclisse",
+      "year": 1962,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Vittoria"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDA4NDAxMTQxMF5BMl5BanBnXkFtZTcwMDUxNjc5Ng@@._V1_.jpg",
+  "birth_date": "03.11.1931",
+  "death_date": "02.02.2022",
+  "birth_location": "Rome, Lazio, Italy",
+  "height": "1.70 m",
+  "imdb_scraped": true,
+  "filmweb_id": 50978,
+  "name_pl": "Monica Vitti",
+  "birth_location_pl": "Rzym",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Włochy",
+    "Zjednoczone Królestwo Włoch"
+  ],
+  "wikidata_fw_id": 50978
+}

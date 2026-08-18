@@ -1,0 +1,37 @@
+{
+  "id": "nm0002020",
+  "name": "Costa-Gavras",
+  "filmography": [
+    {
+      "imdb_id": "tt0084335",
+      "title": "Missing",
+      "year": 1982,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0101700",
+      "title": "Delicatessen",
+      "year": 1991,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTMwNTQ0NjYyMV5BMl5BanBnXkFtZTcwMTU1MjA1NA@@._V1_.jpg",
+  "birth_date": "13.02.1933",
+  "birth_location": "Loutra-Iraias, Greece",
+  "imdb_scraped": true,
+  "filmweb_id": 11528,
+  "name_pl": "Costa-Gavras",
+  "birth_location_pl": "Loutra Iraias",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Grecja",
+    "Francja"
+  ],
+  "wikidata_fw_id": 11528
+}

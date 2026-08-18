@@ -1,0 +1,76 @@
+{
+  "id": "nm1431940",
+  "name": "Evangeline Lilly",
+  "filmography": [
+    {
+      "imdb_id": "tt0411008",
+      "title": "Lost",
+      "year": 2004,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Kate Austen"
+    },
+    {
+      "imdb_id": "tt0887912",
+      "title": "The Hurt Locker",
+      "year": 2008,
+      "roles": [
+        "cast"
+      ],
+      "character": "Connie James"
+    },
+    {
+      "imdb_id": "tt0433035",
+      "title": "Real Steel",
+      "year": 2011,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Bailey Tallet"
+    },
+    {
+      "imdb_id": "tt1170358",
+      "title": "The Hobbit: The Desolation of Smaug",
+      "year": 2013,
+      "roles": [
+        "cast"
+      ],
+      "character": "Tauriel"
+    },
+    {
+      "imdb_id": "tt2310332",
+      "title": "The Hobbit: The Battle of the Five Armies",
+      "year": 2014,
+      "roles": [
+        "cast"
+      ],
+      "character": "Tauriel"
+    },
+    {
+      "imdb_id": "tt4154796",
+      "title": "Avengers: Endgame",
+      "year": 2019,
+      "roles": [
+        "cast"
+      ],
+      "character": "Hope Van Dyne"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTc2MDMzODU0OV5BMl5BanBnXkFtZTgwODIwOTAxMzI@._V1_.jpg",
+  "birth_date": "03.08.1979",
+  "birth_location": "Fort Saskatchewan, Alberta, Canada",
+  "height": "1.65 m",
+  "filmweb_id": 225562,
+  "name_pl": "Evangeline Lilly",
+  "birth_location_pl": "Fort Saskatchewan",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Kanada"
+  ],
+  "wikidata_fw_id": 225562
+}

@@ -1,0 +1,44 @@
+{
+  "id": "nm0513512",
+  "name": "Jerzy Lipman",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZmE3M2ZjOTUtMTZlNi00MDRiLWE4NTctOTI1M2I3Zjc0ZjZmXkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0050585",
+      "title": "Kanal",
+      "year": 1957,
+      "roles": [
+        "cinematographer"
+      ]
+    },
+    {
+      "imdb_id": "tt0056291",
+      "title": "Knife in the Water",
+      "year": 1962,
+      "roles": [
+        "cinematographer"
+      ]
+    },
+    {
+      "imdb_id": "tt0064785",
+      "title": "Colonel Wolodyjowski",
+      "year": 1969,
+      "roles": [
+        "cinematographer"
+      ]
+    }
+  ],
+  "birth_date": "10.04.1922",
+  "death_date": "10.11.1983",
+  "birth_location": "Brzesc, Poleskie, Poland [now Brest, Belarus]",
+  "filmweb_id": 11985,
+  "name_pl": "Jerzy Lipman",
+  "birth_location_pl": "Brześć",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Polska"
+  ],
+  "wikidata_fw_id": 11985
+}

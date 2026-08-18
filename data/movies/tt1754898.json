@@ -1,0 +1,103 @@
+{
+  "imdb_id": "tt1754898",
+  "title": "Wintergartenprogramm",
+  "description": "The first cinema screening, consisting of the shorts \"Italian Peasant Dance (1895)\", \"Funny Horizontal Bar (1895)\", \"Das boxende Känguruh (1895)\", \"Juggler (1895)\", \"Acrobatic Potpourri (1895)\", \"Kamarinskaya (1895)\", \"The serpentine dancer (1895)\", \"Wrestling (1895)\" and \"Apotheose (1895)\".",
+  "runtime_minutes": 7,
+  "release_date": "01.11.1895",
+  "genres": [
+    "Short"
+  ],
+  "stars": [
+    {
+      "id": "nm1587194",
+      "name": "Emil Skladanowsky"
+    },
+    {
+      "id": "nm0804434",
+      "name": "Max Skladanowsky"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0804434",
+      "name": "Max Skladanowsky"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0804434",
+      "name": "Max Skladanowsky"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1587194",
+      "name": "Emil Skladanowsky",
+      "character": "Self"
+    },
+    {
+      "id": "nm0804434",
+      "name": "Max Skladanowsky",
+      "character": "Self"
+    }
+  ],
+  "countries": [
+    "Germany"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 229115,
+  "year": 1895,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNWJlNTBlYTUtMzIzOC00NTgzLWJiYWQtOTFiNjAxZDkxYzA4XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.7,
+      "votes": 503,
+      "distribution": {
+        "1": 18,
+        "2": 7,
+        "3": 26,
+        "4": 49,
+        "5": 106,
+        "6": 165,
+        "7": 71,
+        "8": 32,
+        "9": 8,
+        "10": 21
+      },
+      "normalized": 4.4074
+    },
+    "filmweb": {
+      "rating": 4.8,
+      "votes": 45,
+      "distribution": {
+        "1": 4,
+        "2": 3,
+        "3": 7,
+        "4": 4,
+        "5": 13,
+        "6": 4,
+        "7": 4,
+        "8": 4,
+        "9": 0,
+        "10": 2
+      },
+      "normalized": 4.6235
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "11.12.2016",
+      "normalized": 4.9718
+    },
+    "score": 4.6676
+  },
+  "polish_title": "Wintergartenprogramm",
+  "silent": true,
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "nm0001040",
+  "name": "Joan Chen",
+  "filmography": [
+    {
+      "imdb_id": "tt0278784",
+      "title": "Northwest Passage",
+      "year": 1989,
+      "roles": [
+        "cast"
+      ],
+      "character": "Jocelyn Packard"
+    },
+    {
+      "imdb_id": "tt0098936",
+      "title": "Twin Peaks",
+      "year": 1990,
+      "roles": [
+        "cast"
+      ],
+      "character": "Jocelyn Packard"
+    },
+    {
+      "imdb_id": "tt0113492",
+      "title": "Judge Dredd",
+      "year": 1995,
+      "roles": [
+        "cast"
+      ],
+      "character": "Ilsa"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTMxNTA3MTQxNV5BMl5BanBnXkFtZTYwNjY2NDk3._V1_.jpg",
+  "birth_date": "26.04.1961",
+  "birth_location": "Shanghai, China",
+  "height": "1.63 m",
+  "filmweb_id": 9272,
+  "name_pl": "Joan Chen",
+  "birth_location_pl": "Szanghaj",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Chińska Republika Ludowa",
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 9272
+}

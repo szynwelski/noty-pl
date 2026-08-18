@@ -1,0 +1,258 @@
+{
+  "imdb_id": "tt3731562",
+  "title": "Kong: Skull Island",
+  "description": "After the Vietnam war, a team of scientists explores an uncharted island in the Pacific, venturing into the domain of the mighty Kong and must fight to escape a primal Eden.",
+  "runtime_minutes": 118,
+  "release_date": "10.03.2017",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm1089991",
+      "name": "Tom Hiddleston"
+    },
+    {
+      "id": "nm0000168",
+      "name": "Samuel L. Jackson"
+    },
+    {
+      "id": "nm0488953",
+      "name": "Brie Larson"
+    },
+    {
+      "id": "nm0000604",
+      "name": "John C. Reilly"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm3611349",
+      "name": "Jordan Vogt-Roberts"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0319659",
+      "name": "Dan Gilroy"
+    },
+    {
+      "id": "nm1440919",
+      "name": "Max Borenstein"
+    },
+    {
+      "id": "nm2081046",
+      "name": "Derek Connolly"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1089991",
+      "name": "Tom Hiddleston",
+      "character": "James Conrad"
+    },
+    {
+      "id": "nm0000168",
+      "name": "Samuel L. Jackson",
+      "character": "Preston Packard"
+    },
+    {
+      "id": "nm0488953",
+      "name": "Brie Larson",
+      "character": "Mason Weaver"
+    },
+    {
+      "id": "nm0000604",
+      "name": "John C. Reilly",
+      "character": "Hank Marlow"
+    },
+    {
+      "id": "nm0000422",
+      "name": "John Goodman",
+      "character": "Bill Randa"
+    },
+    {
+      "id": "nm3659660",
+      "name": "Corey Hawkins",
+      "character": "Houston Brooks"
+    },
+    {
+      "id": "nm0651159",
+      "name": "John Ortiz",
+      "character": "Victor Nieves"
+    },
+    {
+      "id": "nm1320897",
+      "name": "Tian Jing",
+      "character": "San"
+    },
+    {
+      "id": "nm1527905",
+      "name": "Toby Kebbell",
+      "character": "Jack Chapman"
+    },
+    {
+      "id": "nm4207146",
+      "name": "Jason Mitchell",
+      "character": "Mills"
+    },
+    {
+      "id": "nm0924154",
+      "name": "Shea Whigham",
+      "character": "Cole"
+    },
+    {
+      "id": "nm3287038",
+      "name": "Thomas Mann",
+      "character": "Slivko"
+    },
+    {
+      "id": "nm3082341",
+      "name": "Eugene Cordero",
+      "character": "Reles"
+    },
+    {
+      "id": "nm1476601",
+      "name": "Marc Evan Jackson",
+      "character": "Landsat Steve"
+    },
+    {
+      "id": "nm4311291",
+      "name": "Will Brittain",
+      "character": "Young Marlow"
+    },
+    {
+      "id": "nm2032193",
+      "name": "Miyavi",
+      "character": "Gunpei Ikari"
+    },
+    {
+      "id": "nm0420955",
+      "name": "Richard Jenkins",
+      "character": "Sen. Willis"
+    },
+    {
+      "id": "nm2085100",
+      "name": "Allyn Rachel",
+      "character": "Secretary O'Brien"
+    }
+  ],
+  "countries": [
+    "United States",
+    "China",
+    "Vietnam"
+  ],
+  "languages": [
+    "English",
+    "Vietnamese",
+    "Japanese"
+  ],
+  "color": "Color",
+  "filmweb_id": 719066,
+  "year": 2017,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTcwMjcxYTQtYjJlOS00YTE1LWIyZGYtOGRlOTBlMWZmYTliXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.7,
+      "votes": 377707,
+      "distribution": {
+        "1": 4099,
+        "2": 3202,
+        "3": 5981,
+        "4": 12662,
+        "5": 33257,
+        "6": 88059,
+        "7": 127729,
+        "8": 64457,
+        "9": 18403,
+        "10": 19858
+      },
+      "normalized": 4.8586
+    },
+    "filmweb": {
+      "rating": 6.48,
+      "votes": 109866,
+      "distribution": {
+        "1": 764,
+        "2": 827,
+        "3": 2921,
+        "4": 5230,
+        "5": 13932,
+        "6": 28692,
+        "7": 33988,
+        "8": 15515,
+        "9": 3951,
+        "10": 4046
+      },
+      "normalized": 4.2719
+    },
+    "jarek": {
+      "rating": 3,
+      "date_rated": "09.12.2018",
+      "normalized": 4.2591
+    },
+    "score": 4.4632
+  },
+  "polish_title": "Kong: Wyspa Czaszki",
+  "silent": false,
+  "description_pl": "Film śledzi losy zespołu badaczy, którzy zapuszczają się w głąb niezbadanej wyspy położonej na Pacyfiku — tak samo pięknej, jak i zdradliwej — nie wiedząc, że wchodzą na teren należący do mitycznego King Konga.",
+  "producers": [
+    {
+      "id": "nm0098149",
+      "name": "Debbi Bossi"
+    },
+    {
+      "id": "nm3932730",
+      "name": "Edward Cheng"
+    },
+    {
+      "id": "nm0006950",
+      "name": "Jennifer Conroy"
+    },
+    {
+      "id": "nm1247503",
+      "name": "Alex Garcia"
+    },
+    {
+      "id": "nm0419169",
+      "name": "Jon Jashni"
+    },
+    {
+      "id": "nm0572805",
+      "name": "Eric McLeod"
+    },
+    {
+      "id": "nm0661289",
+      "name": "Mary Parent"
+    },
+    {
+      "id": "nm0670621",
+      "name": "Tom C. Peitzman"
+    },
+    {
+      "id": "nm1017025",
+      "name": "Nicholas Simon"
+    },
+    {
+      "id": "nm2100078",
+      "name": "Thomas Tull"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm2273444",
+      "name": "Henry Jackman"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0284583",
+      "name": "Larry Fong"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

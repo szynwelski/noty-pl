@@ -1,0 +1,36 @@
+{
+  "id": "nm0000490",
+  "name": "Spike Lee",
+  "filmography": [
+    {
+      "imdb_id": "tt0307901",
+      "title": "25th Hour",
+      "year": 2002,
+      "roles": [
+        "director",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0454848",
+      "title": "Inside Man",
+      "year": 2006,
+      "roles": [
+        "director"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTgyMTEyNDgxOF5BMl5BanBnXkFtZTcwNTkzMTA3Nw@@._V1_.jpg",
+  "birth_date": "20.03.1957",
+  "birth_location": "Atlanta, Georgia, USA",
+  "height": "1.65 m",
+  "imdb_scraped": true,
+  "filmweb_id": 190,
+  "name_pl": "Spike Lee",
+  "birth_location_pl": "Atlanta, Georgia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

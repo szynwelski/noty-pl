@@ -1,0 +1,73 @@
+{
+  "id": "nm0000558",
+  "name": "Leslie Nielsen",
+  "filmography": [
+    {
+      "imdb_id": "tt0080339",
+      "title": "Airplane!",
+      "year": 1980,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Dr. Rumack"
+    },
+    {
+      "imdb_id": "tt0095705",
+      "title": "The Naked Gun: From the Files of Police Squad!",
+      "year": 1988,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Lt. Frank Drebin"
+    },
+    {
+      "imdb_id": "tt0117723",
+      "title": "Spy Hard",
+      "year": 1996,
+      "roles": [
+        "star",
+        "cast",
+        "producer"
+      ],
+      "character": "Dick Steele 'Agent WD-40'"
+    },
+    {
+      "imdb_id": "tt0119718",
+      "title": "Mr. Magoo",
+      "year": 1997,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Mr. Magoo"
+    },
+    {
+      "imdb_id": "tt0120901",
+      "title": "Wrongfully Accused",
+      "year": 1998,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Ryan Harrison"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTI3MTE1NjM4N15BMl5BanBnXkFtZTYwNzI3MTI0._V1_.jpg",
+  "birth_date": "11.02.1926",
+  "death_date": "28.11.2010",
+  "birth_location": "Regina, Saskatchewan, Canada",
+  "height": "1.88 m",
+  "filmweb_id": 2946,
+  "name_pl": "Leslie Nielsen",
+  "birth_location_pl": "Regina",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Kanada",
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 2946
+}

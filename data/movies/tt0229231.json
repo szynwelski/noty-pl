@@ -1,0 +1,156 @@
+{
+  "imdb_id": "tt0229231",
+  "title": "Band Drill",
+  "description": "A scene from Charles Hoyt's 'A Milk White Flag': A brass band marches out, led by bandmaster Steele Ayers. When Ayers reaches his position, he turns around and directs the musicians as they take up their own positions.",
+  "runtime_minutes": 1,
+  "release_date": "28.11.1894",
+  "genres": [
+    "Short",
+    "Comedy"
+  ],
+  "stars": [
+    {
+      "id": "nm9549763",
+      "name": "Fred W. Boardman"
+    },
+    {
+      "id": "nm9549764",
+      "name": "William Cushing"
+    },
+    {
+      "id": "nm9549765",
+      "name": "Ad Dorsch"
+    },
+    {
+      "id": "nm9549766",
+      "name": "E.P. Brown"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0005690",
+      "name": "William K.L. Dickson"
+    },
+    {
+      "id": "nm0374658",
+      "name": "William Heise"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0398453",
+      "name": "Charles Hale Hoyt"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm9549763",
+      "name": "Fred W. Boardman",
+      "character": "Musician"
+    },
+    {
+      "id": "nm9549764",
+      "name": "William Cushing",
+      "character": "Musician"
+    },
+    {
+      "id": "nm9549765",
+      "name": "Ad Dorsch",
+      "character": "Musician"
+    },
+    {
+      "id": "nm9549766",
+      "name": "E.P. Brown",
+      "character": "Musician"
+    },
+    {
+      "id": "nm9549767",
+      "name": "J.F. Boardman",
+      "character": "Musician"
+    },
+    {
+      "id": "nm9549768",
+      "name": "George Goddard",
+      "character": "Musician"
+    },
+    {
+      "id": "nm9549769",
+      "name": "E.F. Balch",
+      "character": "Musician"
+    },
+    {
+      "id": "nm9549770",
+      "name": "Paul Pfarr",
+      "character": "Musician"
+    },
+    {
+      "id": "nm1641960",
+      "name": "Frank Baldwin",
+      "character": "Steele Ayres - the bandmaster"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 270246,
+  "year": 1894,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDA4ZDIxOWYtYjQyMC00MWVhLTliMWItYTY5ZTc2NzUyYzZkXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 4.3,
+      "votes": 615,
+      "distribution": {
+        "1": 53,
+        "2": 51,
+        "3": 80,
+        "4": 150,
+        "5": 162,
+        "6": 66,
+        "7": 21,
+        "8": 10,
+        "9": 7,
+        "10": 15
+      },
+      "normalized": 3.3702
+    },
+    "filmweb": {
+      "rating": 4.13,
+      "votes": 89,
+      "distribution": {
+        "1": 9,
+        "2": 9,
+        "3": 18,
+        "4": 16,
+        "5": 19,
+        "6": 8,
+        "7": 3,
+        "8": 5,
+        "9": 1,
+        "10": 1
+      },
+      "normalized": 4.0694
+    },
+    "jarek": {
+      "rating": 3,
+      "date_rated": "11.12.2016",
+      "normalized": 4.2591
+    },
+    "score": 3.8996
+  },
+  "polish_title": "Band Drill",
+  "silent": true,
+  "description_pl": "Ten film pokazuje nam wchodzącą orkiestrę z dyrygentem na czele. Po wejściu na scenę i ustawieniu się w szeregu zaczynają grać. Niestety nie możemy tego usłyszeć...",
+  "cinematographers": [
+    {
+      "id": "nm0374658",
+      "name": "William Heise"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

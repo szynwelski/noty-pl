@@ -1,0 +1,78 @@
+{
+  "imdb_id": "tt0187702",
+  "title": "The Arrest of a Pickpocket",
+  "description": "A policeman catches a pickpocket, who slips from his jacket but is caught by a sailor.",
+  "runtime_minutes": 1,
+  "release_date": "1895",
+  "genres": [
+    "Short",
+    "Crime"
+  ],
+  "directors": [
+    {
+      "id": "nm0010291",
+      "name": "Birt Acres"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 272163,
+  "year": 1895,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMmJkZjMyMTItNGM3MC00MWY1LTlmY2QtNmQzMjM2Nzc2Y2IzXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 4.8,
+      "votes": 315,
+      "distribution": {
+        "1": 21,
+        "2": 20,
+        "3": 31,
+        "4": 46,
+        "5": 90,
+        "6": 55,
+        "7": 25,
+        "8": 9,
+        "9": 6,
+        "10": 12
+      },
+      "normalized": 4.2283
+    },
+    "filmweb": {
+      "rating": 4.98,
+      "votes": 45,
+      "distribution": {
+        "1": 1,
+        "2": 2,
+        "3": 8,
+        "4": 10,
+        "5": 6,
+        "6": 7,
+        "7": 7,
+        "8": 3,
+        "9": 0,
+        "10": 1
+      },
+      "normalized": 4.6691
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "11.12.2016",
+      "normalized": 5.6855
+    },
+    "score": 4.861
+  },
+  "polish_title": "Aresztowanie Kieszonkowca",
+  "silent": true,
+  "description_pl": "Policjant łapie złodzieja, który ucieka z jego marynarką, lecz zostaje złapany przez marynarza.",
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-16"
+}

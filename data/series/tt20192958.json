@@ -1,0 +1,157 @@
+{
+  "imdb_id": "tt20192958",
+  "title": "Three Robots: Exit Strategies",
+  "description": "Three robots walk into the post-apocalypse, and take a whirlwind tour of humankind's last attempts to save itself.",
+  "runtime_minutes": 12,
+  "release_date": "20.05.2022",
+  "genres": [
+    "Animation",
+    "Short",
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Drama",
+    "Fantasy",
+    "Horror",
+    "Mystery",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm3091777",
+      "name": "Josh Brener"
+    },
+    {
+      "id": "nm0930637",
+      "name": "Gary Anthony Williams"
+    },
+    {
+      "id": "nm1705090",
+      "name": "Katie Lowes"
+    },
+    {
+      "id": "nm0663177",
+      "name": "Chris Parnell"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm2444148",
+      "name": "Patrick Osborne"
+    },
+    {
+      "id": "nm0950775",
+      "name": "Jennifer Yuh Nelson"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm3376496",
+      "name": "John Scalzi"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm3091777",
+      "name": "Josh Brener",
+      "character": "K-VRC"
+    },
+    {
+      "id": "nm0930637",
+      "name": "Gary Anthony Williams",
+      "character": "XBOT 4000"
+    },
+    {
+      "id": "nm1705090",
+      "name": "Katie Lowes",
+      "character": "Elena"
+    },
+    {
+      "id": "nm0663177",
+      "name": "Chris Parnell",
+      "character": "The Cat"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "year": 2022,
+  "type": "tvEpisode",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOWFiNjRiMTQtZWIzMy00NTU3LTlkNjYtOThhNGFkODllMWY3XkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 824633,
+  "ratings": {
+    "imdb": {
+      "rating": 7.1,
+      "votes": 14294,
+      "distribution": {
+        "1": 315,
+        "2": 182,
+        "3": 219,
+        "4": 301,
+        "5": 850,
+        "6": 2084,
+        "7": 4444,
+        "8": 3370,
+        "9": 1284,
+        "10": 1245
+      }
+    },
+    "filmweb": {
+      "rating": 7.94,
+      "votes": 54233,
+      "distribution": {
+        "1": 98,
+        "2": 90,
+        "3": 250,
+        "4": 388,
+        "5": 1135,
+        "6": 3408,
+        "7": 10946,
+        "8": 20253,
+        "9": 13148,
+        "10": 4517
+      }
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "31.10.2022"
+    }
+  },
+  "polish_title": "Miłość, śmierć i roboty",
+  "silent": false,
+  "description_pl": "\"Miłość, śmierć i roboty\" to seria krótkich animowanych opowieści należących do różnych gatunków - science fiction, fantasy, horroru i komedii. Opowiedziane w śmiały sposób historie ogląda się przyjemnie, a losy ich bohaterów przez długi czas pozostają w pamięci. Historie tworzą pierwszą antologię animowanych opowieści, która dostarczy widzom niezapomnianych i poruszających do głębi wrażeń.",
+  "producers": [
+    {
+      "id": "nm0232433",
+      "name": "Joshua Donen"
+    },
+    {
+      "id": "nm0000399",
+      "name": "David Fincher"
+    },
+    {
+      "id": "nm2126361",
+      "name": "Victoria L. Howard"
+    },
+    {
+      "id": "nm10380524",
+      "name": "Jennifer Miller"
+    },
+    {
+      "id": "nm1783265",
+      "name": "Tim Miller"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm1052252",
+      "name": "Rob Cairns"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

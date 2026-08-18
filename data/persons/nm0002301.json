@@ -1,0 +1,43 @@
+{
+  "id": "nm0002301",
+  "name": "Carl Davis",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDA3NTkyMDctMGYwYy00NTVmLWIzZGUtMmY4MjAxNTM2OWE0XkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0014341",
+      "title": "Our Hospitality",
+      "year": 1923,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt0112130",
+      "title": "Pride and Prejudice",
+      "year": 1995,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt0210719",
+      "title": "The Great Gatsby",
+      "year": 2000,
+      "roles": [
+        "composer"
+      ]
+    }
+  ],
+  "birth_date": "28.10.1936",
+  "death_date": "03.08.2023",
+  "birth_location": "Brooklyn, New York City, New York, USA",
+  "filmweb_id": 12979,
+  "name_pl": "Carl Davis",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

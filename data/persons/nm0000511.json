@@ -1,0 +1,59 @@
+{
+  "id": "nm0000511",
+  "name": "Shirley MacLaine",
+  "filmography": [
+    {
+      "imdb_id": "tt0053604",
+      "title": "The Apartment",
+      "year": 1960,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Fran Kubelik"
+    },
+    {
+      "imdb_id": "tt0078841",
+      "title": "Being There",
+      "year": 1979,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Eve Rand"
+    },
+    {
+      "imdb_id": "tt0086425",
+      "title": "Terms of Endearment",
+      "year": 1983,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Aurora Greenway"
+    },
+    {
+      "imdb_id": "tt0359950",
+      "title": "The Secret Life of Walter Mitty",
+      "year": 2013,
+      "roles": [
+        "cast"
+      ],
+      "character": "Edna Mitty"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTI0MTE5MjQ1MF5BMl5BanBnXkFtZTYwMzU2MDg1._V1_.jpg",
+  "birth_date": "24.04.1934",
+  "birth_location": "Richmond, Virginia, USA",
+  "height": "1.70 m",
+  "filmweb_id": 194,
+  "name_pl": "Shirley MacLaine",
+  "birth_location_pl": "Richmond, Wirginia",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 194
+}

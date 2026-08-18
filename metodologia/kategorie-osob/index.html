@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🎬</text></svg>">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Metodologia kategorii osób — Noty</title>
+  <link rel="stylesheet" href="../../static/style.css">
+  <style>
+    .prose { max-width: 720px; }
+    .prose h2 { margin-top: 2.5rem; margin-bottom: .75rem; }
+    .prose p  { margin-bottom: 1rem; color: var(--text); line-height: 1.75; }
+    .prose ul { margin: .5rem 0 1rem 1.5rem; }
+    .prose li { margin-bottom: .4rem; line-height: 1.7; }
+    .prose code {
+      background: var(--border);
+      border-radius: 4px;
+      padding: .1em .4em;
+      font-size: .88em;
+      font-family: ui-monospace, monospace;
+    }
+    .formula {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: .9rem 1.25rem;
+      margin: 1rem 0;
+      font-family: ui-monospace, monospace;
+      font-size: .9rem;
+      overflow-x: auto;
+    }
+    .note {
+      background: var(--surface);
+      border-left: 3px solid var(--accent);
+      padding: .75rem 1rem;
+      border-radius: 0 var(--radius) var(--radius) 0;
+      margin: 1rem 0;
+      font-size: .9rem;
+      color: var(--muted);
+    }
+  </style>
+</head>
+<body>
+  <nav>
+    <a class="logo" href="/">no<span>ty</span></a>
+    <a class="nav-link" href="/">Filmy</a>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Osoby <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/osoba/rezyser/">Reżyserzy</a>
+        <a href="/osoba/scenarzysta/">Scenarzyści</a>
+        <a href="/osoba/gwiazda/">Gwiazdy</a>
+        <a href="/osoba/aktor/">Aktorzy</a>
+        <a href="/osoba/kompozytor/">Kompozytorzy</a>
+        <a href="/osoba/operator/">Operatorzy</a>
+        <a href="/osoba/producent/">Producenci</a>
+        <a href="/osoba/wszechstronna/">Wszechstronni</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Krytycy <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/krytyk/jarek/">Jarek</a>
+        <a href="/krytyk/michal/">Michał</a>
+        <a href="/krytyk/imdb/">IMDb</a>
+        <a href="/krytyk/filmweb/">Filmweb</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Kategorie <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/kategoria/gatunek/">Gatunki</a>
+        <a href="/kategoria/kraj/">Kraje</a>
+        <a href="/kategoria/jezyk/">Języki</a>
+        <a href="/kategoria/dekada/">Dekady</a>
+        <a href="/kategoria/rok/">Lata</a>
+        <a href="/kategoria/czas/">Czas trwania</a>
+        <a href="/kategoria/popularnosc/">Popularność</a>
+        <hr>
+        <a href="/kategoria/plec/">Płeć</a>
+        <a href="/kategoria/obywatelstwo/">Obywatelstwo</a>
+        <a href="/kategoria/urodzenie/">Urodzenie</a>
+        <a href="/kategoria/wiek/">Wiek</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Statystyki <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/statystyki/podsumowanie/">Podsumowanie</a>
+        <a href="/statystyki/rekordy/">Rekordy</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Metodologia <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/metodologia/filmy/">Filmy</a>
+        <a href="/metodologia/osoby/">Osoby</a>
+        <a href="/metodologia/kategorie-filmow/">Kategorie filmów</a>
+        <a href="/metodologia/kategorie-osob/">Kategorie osób</a>
+      </div>
+    </div>
+    <button id="search-global-btn" class="nav-search-btn" title="Szukaj (⌘K)">
+      <svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+    </button>
+  </nav>
+  <div id="search-modal" class="search-modal">
+    <div id="search-modal-backdrop" class="search-modal-backdrop"></div>
+    <div class="search-modal-box">
+      <div class="search-modal-header">
+        <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink:0;color:var(--muted)"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        <input id="search-modal-input" class="search-modal-input" type="text" placeholder="Szukaj filmów i osób…" autocomplete="off" spellcheck="false">
+        <kbd class="search-modal-esc">Esc</kbd>
+      </div>
+      <div id="search-modal-results" class="search-modal-results"></div>
+    </div>
+  </div>
+  <script src="/static/search.js"></script>
+
+  <div class="container">
+    <div class="prose">
+      <h1>Jak obliczane są oceny kategorii osób?</h1>
+
+      <p>
+        Strony <a href="/kategoria/obywatelstwo/">Obywatelstwo</a>,
+        <a href="/kategoria/urodzenie/">Urodzenie</a> i
+        <a href="/kategoria/wiek/">Wiek</a> pokazują statystyki twórców
+        pogrupowanych według cechy osobowej. Dwie pierwsze grupują osoby;
+        strona <em>Wiek</em> działa inaczej — opis na końcu.
+      </p>
+
+      <h2 id="kategorie">Obywatelstwo i urodzenie</h2>
+
+      <p>
+        Strony <em>Obywatelstwo</em> i <em>Urodzenie</em> grupują osoby według
+        obywatelstwa lub miejsca i dekady urodzenia i obliczają zbiorczą ocenę
+        dla każdej grupy. Ocena grupy jest obliczana osobno dla każdej roli,
+        a następnie uśredniana.
+      </p>
+
+      <p>
+        Dla danej roli i danej grupy (np. polskich reżyserów) stosowany jest
+        <strong>estymator Bayesa</strong> — ten sam wzór, który jest używany
+        dla <a href="/metodologia/kategorie-filmow/">kategorii filmów</a>:
+      </p>
+
+      <div class="formula">
+        ocena_rola = (n × średnia + 30 × średnia_globalna) / (n + 30)
+      </div>
+
+      <p>gdzie:</p>
+      <ul>
+        <li><code>n</code> — liczba osób z danej grupy w tej roli,</li>
+        <li><code>średnia</code> — arytmetyczna średnia ich ocen bayesowskich (top-5),</li>
+        <li><code>średnia_globalna</code> — globalna średnia ocen wszystkich osób w tej roli,</li>
+        <li><code>30</code> — waga a priori (dla filmów wynosi 10; dla kategorii osób przyjęto 30,
+            bo pojedyncza osoba niesie mniej informacji niż pojedynczy film).</li>
+      </ul>
+
+      <p>
+        Ocena ogólna grupy to <strong>prosta średnia</strong> z ocen bayesowskich
+        po tych rolach, w których grupa ma co najmniej jedną osobę.
+        Role bez żadnej osoby z danej grupy są pomijane — nie są uzupełniane
+        globalną średnią, żeby nie karać grup z naturalnie wąską specjalizacją.
+      </p>
+
+      <div class="note">
+        Przy małej liczbie osób (np. 2 reżyserów z danego kraju) wynik
+        jest silnie przyciągany do globalnej średniej (~5,46).
+        Dopiero przy ok. 30 osobach waga własnych danych zrównuje się z wagą a priori,
+        a przy 60+ własna średnia dominuje. Dzięki temu kraje z 1–2 osobami
+        nie wyprzedzają w rankingu krajów z bogatą reprezentacją.
+      </div>
+
+      <h2 id="wiek">Ocena a wiek twórcy (strona „Wiek")</h2>
+
+      <p>
+        Strona <em>Wiek</em> nie grupuje osób, lecz <strong>udziały</strong>
+        (osoba × film × rola). Dla każdego udziału liczymy wiek twórcy w roku
+        premiery filmu i parujemy go z finalną oceną tego filmu:
+      </p>
+
+      <div class="formula">
+        wiek = rok_filmu − rok_urodzenia
+      </div>
+
+      <p>
+        Dla każdego wieku i każdej roli uśredniamy oceny filmów, a wynik ściągamy
+        <strong>estymatorem Bayesa</strong> (M = 30) ku globalnej średniej danej roli
+        — tym samym wzorem co wyżej, ale na poziomie ocen filmów, nie osób:
+      </p>
+
+      <div class="formula">
+        ocena_wieku = (n × średnia_ocen_filmów + 30 × średnia_globalna_roli) / (n + 30)
+      </div>
+
+      <p>
+        Ogólna linia „Ocena" to prosta średnia z wartości bayesowskich po rolach
+        obecnych w danym wieku. Linia na wykresie to dodatkowo <strong>trend
+        wygładzony 5-letnią średnią kroczącą</strong> (ważoną liczbą udziałów),
+        żeby pojedyncze roczniki nie tworzyły szumu; dokładne wartości rok po roku
+        są w tabeli.
+      </p>
+
+      <div class="note">
+        Danych nie filtrujemy, więc w tabeli widać też skrajne wieki. Wiek ujemny
+        biorą współcześni twórcy (kompozytorzy nowych ścieżek, producenci
+        rekonstrukcji) przypisani do filmu niemego pod jego oryginalnym rokiem;
+        wiek liczony w setkach lat to autorzy materiału źródłowego (np. adaptacje
+        Szekspira). Na wykresie te przypadki nie występują — jest on ograniczony
+        do zakresu 5–95 lat.
+      </div>
+
+    </div>
+  </div>
+</body>
+</html>

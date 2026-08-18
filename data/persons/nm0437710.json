@@ -1,0 +1,47 @@
+{
+  "id": "nm0437710",
+  "name": "Maria Kaniewska",
+  "filmography": [
+    {
+      "imdb_id": "tt0054359",
+      "title": "Szatan z siódmej klasy",
+      "year": 1960,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0070557",
+      "title": "Man - Woman Wanted",
+      "year": 1973,
+      "roles": [
+        "cast"
+      ],
+      "character": "Woman buying a sugar"
+    },
+    {
+      "imdb_id": "tt0338086",
+      "title": "Haker",
+      "year": 2002,
+      "roles": [
+        "cast"
+      ],
+      "character": "Brzósko-Suchacki's Wife"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZDQ0ZGUwYjktMjExYy00ZWE4LWJmMDctOTcwMzE2MjExYTkzXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "27.05.1911",
+  "death_date": "11.12.2005",
+  "birth_location": "Kyiv, Kyiv Governorate, Russian Empire [now Kyiv, Ukraine]",
+  "filmweb_id": 44483,
+  "name_pl": "Maria Kaniewska",
+  "birth_location_pl": "Kijów",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Polska"
+  ],
+  "wikidata_fw_id": 44483
+}

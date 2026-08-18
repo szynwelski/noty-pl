@@ -1,0 +1,114 @@
+{
+  "imdb_id": "tt0040019",
+  "title": "School for Postmen",
+  "description": "School for Postmen\" is a 1947 short film directed and starring Jacques Tati, playing a French postman adamant to prove he can be just as fast as American postmen at delivering mail.",
+  "runtime_minutes": 16,
+  "release_date": "06.08.2014",
+  "genres": [
+    "Short",
+    "Comedy"
+  ],
+  "stars": [
+    {
+      "id": "nm0004244",
+      "name": "Jacques Tati"
+    },
+    {
+      "id": "nm0218056",
+      "name": "Paul Demange"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0004244",
+      "name": "Jacques Tati"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0004244",
+      "name": "Jacques Tati"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0004244",
+      "name": "Jacques Tati",
+      "character": "Postman"
+    },
+    {
+      "id": "nm0218056",
+      "name": "Paul Demange",
+      "character": "Chief Postman"
+    }
+  ],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "French"
+  ],
+  "color": "Black and White",
+  "year": 1947,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYzI4NWZhMWItY2Q4ZC00ZjViLWJkNDgtMGM2ZmYzYjJlNzQ1XkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 114804,
+  "original_title": "L'école des facteurs",
+  "ratings": {
+    "imdb": {
+      "rating": 7.2,
+      "votes": 2572,
+      "distribution": {
+        "1": 22,
+        "2": 8,
+        "3": 21,
+        "4": 47,
+        "5": 104,
+        "6": 357,
+        "7": 767,
+        "8": 827,
+        "9": 233,
+        "10": 186
+      },
+      "normalized": 5.8049
+    },
+    "filmweb": {
+      "rating": 7.1,
+      "votes": 87,
+      "distribution": {
+        "2": 0,
+        "3": 2,
+        "4": 3,
+        "5": 8,
+        "6": 12,
+        "7": 24,
+        "8": 26,
+        "9": 8,
+        "10": 4
+      },
+      "normalized": 5.3306
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "27.11.2005",
+      "normalized": 6.3474
+    },
+    "score": 5.8276
+  },
+  "polish_title": "Szkoła listonoszy",
+  "silent": false,
+  "description_pl": "Po krótkim wykładzie i instrukcjach trzej listonosze wyjeżdżają na rowerach do pracy. Dalej akcja filmu skupia się na przezabawnych perypetiach jednego z nich.",
+  "composers": [
+    {
+      "id": "nm0006342",
+      "name": "Jean Yatove"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0299654",
+      "name": "Louis Félix"
+    }
+  ],
+  "fetched_at": "2026-08-15"
+}

@@ -1,0 +1,202 @@
+{
+  "imdb_id": "tt0078763",
+  "title": "Camera Buff",
+  "description": "An ordinary factory worker buys a camera on the occasion of the birth of his child. The authorities order him to make documentaries about the factory's success, but his endeavor to be truthful leads him to opposition against censorship.",
+  "runtime_minutes": 112,
+  "release_date": "14.02.1980",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0836136",
+      "name": "Jerzy Stuhr"
+    },
+    {
+      "id": "nm0951423",
+      "name": "Malgorzata Zabkowska"
+    },
+    {
+      "id": "nm0688666",
+      "name": "Ewa Pokas"
+    },
+    {
+      "id": "nm2932086",
+      "name": "Stefan Czyzewski"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001425",
+      "name": "Krzysztof Kieślowski"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0001425",
+      "name": "Krzysztof Kieślowski"
+    },
+    {
+      "id": "nm0836136",
+      "name": "Jerzy Stuhr"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0836136",
+      "name": "Jerzy Stuhr",
+      "character": "Filip Mosz"
+    },
+    {
+      "id": "nm0951423",
+      "name": "Malgorzata Zabkowska",
+      "character": "Irka Mosz"
+    },
+    {
+      "id": "nm0688666",
+      "name": "Ewa Pokas",
+      "character": "Anna Wlodarczyk"
+    },
+    {
+      "id": "nm2932086",
+      "name": "Stefan Czyzewski",
+      "character": "Director"
+    },
+    {
+      "id": "nm0637360",
+      "name": "Jerzy Nowak",
+      "character": "Stanislaw Osuch"
+    },
+    {
+      "id": "nm0102940",
+      "name": "Tadeusz Bradecki",
+      "character": "Witek Jachowicz"
+    },
+    {
+      "id": "nm0514351",
+      "name": "Marek Litewka",
+      "character": "Piotrek Krawczyk"
+    },
+    {
+      "id": "nm0811733",
+      "name": "Boguslaw Sobczuk",
+      "character": "Kedzierski"
+    },
+    {
+      "id": "nm0953130",
+      "name": "Krzysztof Zanussi",
+      "character": "Krzysztof Zanussi"
+    },
+    {
+      "id": "nm0432908",
+      "name": "Andrzej Jurga",
+      "character": "Andrzej Jurga"
+    },
+    {
+      "id": "nm0081506",
+      "name": "Alicja Bienicewicz",
+      "character": "Jaska"
+    },
+    {
+      "id": "nm1889109",
+      "name": "Tadeusz Rzepka",
+      "character": "Wawrzyniec"
+    },
+    {
+      "id": "nm0457270",
+      "name": "Aleksandra Kisielewska",
+      "character": "Hania, secretary"
+    },
+    {
+      "id": "nm0532907",
+      "name": "Wlodzimierz Maciudzinski",
+      "character": "Stelmaszczyk"
+    },
+    {
+      "id": "nm0822368",
+      "name": "Roman Stankiewicz",
+      "character": "Czeslaw"
+    },
+    {
+      "id": "nm0054126",
+      "name": "Antonina Barczewska",
+      "character": "Katarzyna"
+    },
+    {
+      "id": "nm0843698",
+      "name": "Feliks Szajnert",
+      "character": "Doctor"
+    },
+    {
+      "id": "nm0117493",
+      "name": "Jolanta Brzezinska",
+      "character": "Wawrzyniec's Wife"
+    }
+  ],
+  "countries": [
+    "Poland"
+  ],
+  "languages": [
+    "Polish"
+  ],
+  "color": "Color",
+  "filmweb_id": 3808,
+  "year": 1979,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYTBjYjgxYjktY2UzMS00MDEwLTgyZTUtY2U5OWY3ZDBiMWYyXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Amator",
+  "ratings": {
+    "imdb": {
+      "rating": 7.8,
+      "votes": 9217,
+      "distribution": {
+        "1": 57,
+        "2": 27,
+        "3": 41,
+        "4": 75,
+        "5": 203,
+        "6": 687,
+        "7": 1961,
+        "8": 3476,
+        "9": 1715,
+        "10": 975
+      },
+      "normalized": 6.9079
+    },
+    "filmweb": {
+      "rating": 7.96,
+      "votes": 36733,
+      "distribution": {
+        "1": 112,
+        "2": 39,
+        "3": 105,
+        "4": 214,
+        "5": 620,
+        "6": 1909,
+        "7": 7220,
+        "8": 15529,
+        "9": 8247,
+        "10": 2738
+      },
+      "normalized": 8.2247
+    },
+    "michal": {
+      "rating": 10,
+      "date_rated": "21.10.2004",
+      "normalized": 9.6799
+    },
+    "score": 8.2708
+  },
+  "polish_title": "Amator",
+  "silent": false,
+  "description_pl": "Pracujący w zakładzie przemysłowym jako zaopatrzeniowiec Filip Mosz (<a href=\"/osoba/?id=nm0836136\">Jerzy Stuhr</a>) kupuje amatorską kamerę filmową. Pragnie uwiecznić narodziny i rozwój swojej córki. Niespodziewanie z zakładu pracy otrzymuje propozycję nakręcenia filmu z okazji 5-lecia istnienia przedsiębiorstwa. W zakładzie powstaje amatorski klub filmowy, nad którym patronat obejmuje sam dyrektor (Stefan Czyżewski).",
+  "composers": [
+    {
+      "id": "nm0461197",
+      "name": "Krzysztof Knittel"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

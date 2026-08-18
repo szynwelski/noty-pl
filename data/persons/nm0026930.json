@@ -1,0 +1,38 @@
+{
+  "id": "nm0026930",
+  "name": "John Anderson",
+  "filmography": [
+    {
+      "imdb_id": "tt0054215",
+      "title": "Psycho",
+      "year": 1960,
+      "roles": [
+        "cast"
+      ],
+      "character": "California Charlie"
+    },
+    {
+      "imdb_id": "tt0088559",
+      "title": "MacGyver",
+      "year": 1985,
+      "roles": [
+        "cast"
+      ],
+      "character": "Harry Jackson"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjE4NTk2NDUyNF5BMl5BanBnXkFtZTcwNzQ3MjYwOA@@._V1_.jpg",
+  "birth_date": "20.10.1922",
+  "death_date": "07.08.1992",
+  "birth_location": "Clayton, Illinois, USA",
+  "height": "1.88 m",
+  "imdb_scraped": true,
+  "filmweb_id": 49871,
+  "name_pl": "John Anderson",
+  "birth_location_pl": "Clayton, Illinois",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

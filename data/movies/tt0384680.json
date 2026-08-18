@@ -1,0 +1,228 @@
+{
+  "imdb_id": "tt0384680",
+  "title": "The Weather Man",
+  "description": "A Chicago weatherman separated from his wife and children debates whether professional and personal success are mutually exclusive.",
+  "runtime_minutes": 102,
+  "release_date": "28.10.2005",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0000115",
+      "name": "Nicolas Cage"
+    },
+    {
+      "id": "nm0204706",
+      "name": "Hope Davis"
+    },
+    {
+      "id": "nm0396558",
+      "name": "Nicholas Hoult"
+    },
+    {
+      "id": "nm0000323",
+      "name": "Michael Caine"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0893659",
+      "name": "Gore Verbinski"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0175726",
+      "name": "Steve Conrad"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000115",
+      "name": "Nicolas Cage",
+      "character": "David Spritz"
+    },
+    {
+      "id": "nm0204706",
+      "name": "Hope Davis",
+      "character": "Noreen"
+    },
+    {
+      "id": "nm0396558",
+      "name": "Nicholas Hoult",
+      "character": "Mike"
+    },
+    {
+      "id": "nm0000323",
+      "name": "Michael Caine",
+      "character": "Robert Spritzel"
+    },
+    {
+      "id": "nm0478810",
+      "name": "Gemmenne de la Peña",
+      "character": "Shelly"
+    },
+    {
+      "id": "nm0728346",
+      "name": "Michael Rispoli",
+      "character": "Russ"
+    },
+    {
+      "id": "nm0004743",
+      "name": "Gil Bellows",
+      "character": "Don"
+    },
+    {
+      "id": "nm0566282",
+      "name": "Judith McConnell",
+      "character": "Lauren"
+    },
+    {
+      "id": "nm1706644",
+      "name": "Chris Marrs",
+      "character": "DMV Guy"
+    },
+    {
+      "id": "nm1795428",
+      "name": "Dina Facklis",
+      "character": "Andrea"
+    },
+    {
+      "id": "nm1548324",
+      "name": "J. Nicole Brooks",
+      "character": "Clerk"
+    },
+    {
+      "id": "nm0600535",
+      "name": "Sia A. Moody",
+      "character": "Nurse"
+    },
+    {
+      "id": "nm0888070",
+      "name": "Guy Van Swearingen",
+      "character": "Nipper Guy"
+    },
+    {
+      "id": "nm2003740",
+      "name": "Alexander Pine",
+      "character": "Fast Food Employee"
+    },
+    {
+      "id": "nm2003931",
+      "name": "Jackson Bubala",
+      "character": "Fast Food Child"
+    },
+    {
+      "id": "nm0082609",
+      "name": "Jennifer Bills",
+      "character": "Fast Food Mom"
+    },
+    {
+      "id": "nm2003994",
+      "name": "Peter Grosz",
+      "character": "Shelly's Archery Instructor"
+    },
+    {
+      "id": "nm2003868",
+      "name": "Joe Bianchi",
+      "character": "Paul"
+    }
+  ],
+  "countries": [
+    "Germany",
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 117988,
+  "year": 2005,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzU0NjJjMzctODZkOC00ZWIwLWJlNDUtNzhmZDk3ZjM2MGMxXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.5,
+      "votes": 86516,
+      "distribution": {
+        "1": 1535,
+        "2": 1085,
+        "3": 1870,
+        "4": 3723,
+        "5": 8500,
+        "6": 19347,
+        "7": 25708,
+        "8": 14506,
+        "9": 5244,
+        "10": 4998
+      },
+      "normalized": 4.5088
+    },
+    "filmweb": {
+      "rating": 6.56,
+      "votes": 15442,
+      "distribution": {
+        "1": 95,
+        "2": 75,
+        "3": 330,
+        "4": 655,
+        "5": 1798,
+        "6": 3782,
+        "7": 5275,
+        "8": 2423,
+        "9": 597,
+        "10": 412
+      },
+      "normalized": 4.4597
+    },
+    "michal": {
+      "rating": 3,
+      "date_rated": "22.03.2006",
+      "normalized": 3.8753
+    },
+    "score": 4.2813
+  },
+  "polish_title": "Prognoza na życie",
+  "silent": false,
+  "description_pl": "Rozwiedziony telewizyjny meteorolog z Chicago dostaje lepszą pracę w stacji telewizyjnej w Nowym Jorku. Jednak, aby móc wyjechać spokojnie z Chicago, musi zawrzeć pokój ze swoją byłą żoną i dziećmi.",
+  "producers": [
+    {
+      "id": "nm1479756",
+      "name": "David Alper"
+    },
+    {
+      "id": "nm0064057",
+      "name": "William S. Beasley"
+    },
+    {
+      "id": "nm0085542",
+      "name": "Todd Black"
+    },
+    {
+      "id": "nm0089820",
+      "name": "Jason Blumenthal"
+    },
+    {
+      "id": "nm0175726",
+      "name": "Steve Conrad"
+    },
+    {
+      "id": "nm0326496",
+      "name": "Norman Golightly"
+    },
+    {
+      "id": "nm0005494",
+      "name": "Steve Tisch"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0003659",
+      "name": "Phedon Papamichael"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

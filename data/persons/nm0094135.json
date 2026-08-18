@@ -1,0 +1,39 @@
+{
+  "id": "nm0094135",
+  "name": "Beulah Bondi",
+  "filmography": [
+    {
+      "imdb_id": "tt0031679",
+      "title": "Mr. Smith Goes to Washington",
+      "year": 1939,
+      "roles": [
+        "cast"
+      ],
+      "character": "Ma Smith"
+    },
+    {
+      "imdb_id": "tt0038650",
+      "title": "It's a Wonderful Life",
+      "year": 1946,
+      "roles": [
+        "cast"
+      ],
+      "character": "Mrs. Bailey"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjAyODAzNTIyOF5BMl5BanBnXkFtZTcwMzEwNjk5Nw@@._V1_.jpg",
+  "birth_date": "03.05.1888",
+  "death_date": "11.01.1981",
+  "birth_location": "Chicago, Illinois, USA",
+  "height": "1.65 m",
+  "imdb_scraped": true,
+  "filmweb_id": 53057,
+  "name_pl": "Beulah Bondi",
+  "birth_location_pl": "Chicago, Illinois",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 53057
+}

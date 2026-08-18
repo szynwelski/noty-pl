@@ -1,0 +1,61 @@
+{
+  "id": "nm0005436",
+  "name": "John Singleton",
+  "filmography": [
+    {
+      "imdb_id": "tt0322259",
+      "title": "2 Fast 2 Furious",
+      "year": 2003,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0430105",
+      "title": "Four Brothers",
+      "year": 2005,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0462200",
+      "title": "Black Snake Moan",
+      "year": 2006,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt1600195",
+      "title": "Abduction",
+      "year": 2011,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt6439752",
+      "title": "Snowfall",
+      "year": 2017,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTczMzM0ODg5Ml5BMl5BanBnXkFtZTcwMzMzMDA3Ng@@._V1_.jpg",
+  "birth_date": "06.01.1968",
+  "death_date": "28.04.2019",
+  "birth_location": "Los Angeles, California, USA",
+  "height": "1.68 m",
+  "filmweb_id": 12901,
+  "name_pl": "John Singleton",
+  "birth_location_pl": "Los Angeles, Kalifornia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 12901
+}

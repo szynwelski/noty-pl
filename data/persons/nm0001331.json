@@ -1,0 +1,37 @@
+{
+  "id": "nm0001331",
+  "name": "Todd Haynes",
+  "filmography": [
+    {
+      "imdb_id": "tt0297884",
+      "title": "Far from Heaven",
+      "year": 2002,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt9071322",
+      "title": "Dark Waters",
+      "year": 2019,
+      "roles": [
+        "director"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOTQ5Njk0MDU1MF5BMl5BanBnXkFtZTcwMTQ1MzA2MQ@@._V1_.jpg",
+  "birth_date": "02.01.1961",
+  "birth_location": "Los Angeles, California, USA",
+  "height": "1.78 m",
+  "imdb_scraped": true,
+  "filmweb_id": 10492,
+  "name_pl": "Todd Haynes",
+  "birth_location_pl": "Los Angeles, Kalifornia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 10492
+}

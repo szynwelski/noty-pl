@@ -1,0 +1,30 @@
+{
+  "id": "nm0005157",
+  "name": "Jake Lloyd",
+  "filmography": [
+    {
+      "imdb_id": "tt0120915",
+      "title": "Star Wars: Episode I - The Phantom Menace",
+      "year": 1999,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Anakin Skywalker"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTk2MDExNzQwN15BMl5BanBnXkFtZTgwMzM2NzQwNjE@._V1_.jpg",
+  "birth_date": "05.03.1989",
+  "birth_location": "Fort Collins, Colorado, USA",
+  "height": "1.70 m",
+  "imdb_scraped": true,
+  "filmweb_id": 4945,
+  "name_pl": "Jake Lloyd",
+  "birth_location_pl": "Fort Collins, Kolorado",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 4945
+}

@@ -1,0 +1,40 @@
+{
+  "id": "nm0917188",
+  "name": "Chris Wedge",
+  "filmography": [
+    {
+      "imdb_id": "tt0268380",
+      "title": "Ice Age",
+      "year": 2002,
+      "roles": [
+        "director",
+        "cast"
+      ],
+      "character": "Dodo"
+    },
+    {
+      "imdb_id": "tt0438097",
+      "title": "Ice Age: The Meltdown",
+      "year": 2006,
+      "roles": [
+        "cast",
+        "producer"
+      ],
+      "character": "Scrat"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQ3OTE5MjcxNV5BMl5BanBnXkFtZTgwMTE0MTU0MjE@._V1_.jpg",
+  "birth_date": "20.03.1957",
+  "birth_location": "Binghamton, New York, USA",
+  "height": "1.83 m",
+  "imdb_scraped": true,
+  "filmweb_id": 54726,
+  "name_pl": "Chris Wedge",
+  "birth_location_pl": "Binghamton, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 54726
+}

@@ -1,0 +1,67 @@
+{
+  "id": "nm0000485",
+  "name": "Fritz Lang",
+  "filmography": [
+    {
+      "imdb_id": "tt0012494",
+      "title": "Destiny",
+      "year": 1921,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0017136",
+      "title": "Metropolis",
+      "year": 1927,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0022100",
+      "title": "M",
+      "year": 1931,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0027652",
+      "title": "Fury",
+      "year": 1936,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0045555",
+      "title": "The Big Heat",
+      "year": 1953,
+      "roles": [
+        "director"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzU2ODY0NzkwNF5BMl5BanBnXkFtZTgwNDI0MTE5MTE@._V1_.jpg",
+  "birth_date": "05.12.1890",
+  "death_date": "02.08.1976",
+  "birth_location": "Vienna, Austria-Hungary [now Austria]",
+  "height": "1.80 m",
+  "filmweb_id": 47748,
+  "name_pl": "Fritz Lang",
+  "birth_location_pl": "Wiedeń",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Austria",
+    "Niemcy",
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 47748
+}

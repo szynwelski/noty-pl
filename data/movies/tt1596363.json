@@ -1,0 +1,251 @@
+{
+  "imdb_id": "tt1596363",
+  "title": "The Big Short",
+  "description": "Prior to the 2008 financial crisis, a group of investors bet against the US mortgage market and are stunned by the corruption they uncover through their research.",
+  "runtime_minutes": 130,
+  "release_date": "23.12.2015",
+  "genres": [
+    "Biography",
+    "Comedy",
+    "Drama",
+    "History"
+  ],
+  "stars": [
+    {
+      "id": "nm0000288",
+      "name": "Christian Bale"
+    },
+    {
+      "id": "nm0136797",
+      "name": "Steve Carell"
+    },
+    {
+      "id": "nm0331516",
+      "name": "Ryan Gosling"
+    },
+    {
+      "id": "nm0000093",
+      "name": "Brad Pitt"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0570912",
+      "name": "Adam McKay"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1017488",
+      "name": "Charles Randolph"
+    },
+    {
+      "id": "nm0570912",
+      "name": "Adam McKay"
+    },
+    {
+      "id": "nm1034122",
+      "name": "Michael Lewis"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000288",
+      "name": "Christian Bale",
+      "character": "Michael Burry"
+    },
+    {
+      "id": "nm0136797",
+      "name": "Steve Carell",
+      "character": "Mark Baum"
+    },
+    {
+      "id": "nm0331516",
+      "name": "Ryan Gosling",
+      "character": "Jared Vennett"
+    },
+    {
+      "id": "nm5647921",
+      "name": "Rudy Eisenzopf",
+      "character": "Lewis Ranieri"
+    },
+    {
+      "id": "nm2517511",
+      "name": "Casey Groves",
+      "character": "Fund Manager"
+    },
+    {
+      "id": "nm0847857",
+      "name": "Charlie Talbert",
+      "character": "Lewis Bond Trader"
+    },
+    {
+      "id": "nm4000521",
+      "name": "Harold Gervais",
+      "character": "Lewis Bond Trader"
+    },
+    {
+      "id": "nm8770973",
+      "name": "Maria Frangos",
+      "character": "Exotic Dancer"
+    },
+    {
+      "id": "nm3363398",
+      "name": "Hunter Burke",
+      "character": "Analyst"
+    },
+    {
+      "id": "nm0387900",
+      "name": "Bernard Hocke",
+      "character": "Coach"
+    },
+    {
+      "id": "nm2754773",
+      "name": "Shauna Rappold",
+      "character": "Michael Burry's Mom"
+    },
+    {
+      "id": "nm1975871",
+      "name": "Brandon Stacy",
+      "character": "Michael Burry's Dad"
+    },
+    {
+      "id": "nm5583008",
+      "name": "Aiden Flowers",
+      "character": "Young Michael Burry"
+    },
+    {
+      "id": "nm0258523",
+      "name": "Peter Epstein",
+      "character": "Paul Baum"
+    },
+    {
+      "id": "nm0545008",
+      "name": "Anthony Marble",
+      "character": "Therapy Businessman"
+    },
+    {
+      "id": "nm0178385",
+      "name": "Silas Cooper",
+      "character": "Therapy Businessman"
+    },
+    {
+      "id": "nm4747279",
+      "name": "Leslie Castay",
+      "character": "Therapist"
+    },
+    {
+      "id": "nm5843518",
+      "name": "Andrew Farrier",
+      "character": "Burry's Analyst"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 732548,
+  "year": 2015,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZDZkNDQ3YjktYjBlZC00YTY1LTgxOGYtY2RhMWFhZmNkZGY3XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.8,
+      "votes": 545411,
+      "distribution": {
+        "1": 2536,
+        "2": 1381,
+        "3": 2209,
+        "4": 4457,
+        "5": 12353,
+        "6": 38215,
+        "7": 125763,
+        "8": 205640,
+        "9": 100571,
+        "10": 52286
+      },
+      "normalized": 7.0699
+    },
+    "filmweb": {
+      "rating": 7.44,
+      "votes": 158766,
+      "distribution": {
+        "1": 207,
+        "2": 194,
+        "3": 846,
+        "4": 1441,
+        "5": 5466,
+        "6": 16963,
+        "7": 51532,
+        "8": 60210,
+        "9": 17594,
+        "10": 4313
+      },
+      "normalized": 6.5916
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "22.11.2016",
+      "normalized": 5.6855
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "23.01.2016",
+      "normalized": 6.3474
+    },
+    "score": 6.4236
+  },
+  "polish_title": "Big Short",
+  "silent": false,
+  "description_pl": "Historia oparta na prawdziwych wydarzeniach, które stały się zarzewiem ogólnoświatowego kryzysu 2007-2010. Zadziwiające, jak zaledwie kilku mężczyzn - poprzez spekulacje, malwersacje, balansowanie na granicy prawa - doprowadziło do gigantycznej zapaści gospodarczo-ekonomicznej właściwie w każdym zakątku globu. Sensacyjne kulisy wydarzeń, które wpłynęły na każdego z nas.",
+  "producers": [
+    {
+      "id": "nm0306890",
+      "name": "Dede Gardner"
+    },
+    {
+      "id": "nm1250070",
+      "name": "Jeremy Kleiner"
+    },
+    {
+      "id": "nm4469156",
+      "name": "Donnie McCormick"
+    },
+    {
+      "id": "nm0582111",
+      "name": "Kevin J. Messick"
+    },
+    {
+      "id": "nm0586969",
+      "name": "Arnon Milchan"
+    },
+    {
+      "id": "nm0000093",
+      "name": "Brad Pitt"
+    },
+    {
+      "id": "nm0743118",
+      "name": "Louise Rosner"
+    },
+    {
+      "id": "nm2481049",
+      "name": "Robyn Wholey"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm1615109",
+      "name": "Nicholas Britell"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0010096",
+      "name": "Barry Ackroyd"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

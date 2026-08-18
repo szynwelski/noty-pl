@@ -1,0 +1,228 @@
+{
+  "imdb_id": "tt0104691",
+  "title": "The Last of the Mohicans",
+  "description": "Three Mohican trappers agree to protect the daughters of a British Colonel in the midst of the French and Indian War.",
+  "runtime_minutes": 112,
+  "release_date": "25.09.1992",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "Romance",
+    "War"
+  ],
+  "stars": [
+    {
+      "id": "nm0000358",
+      "name": "Daniel Day-Lewis"
+    },
+    {
+      "id": "nm0000656",
+      "name": "Madeleine Stowe"
+    },
+    {
+      "id": "nm0575184",
+      "name": "Russell Means"
+    },
+    {
+      "id": "nm0777760",
+      "name": "Eric Schweig"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000520",
+      "name": "Michael Mann"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0178126",
+      "name": "James Fenimore Cooper"
+    },
+    {
+      "id": "nm0049721",
+      "name": "John L. Balderston"
+    },
+    {
+      "id": "nm0673585",
+      "name": "Paul Perez"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000358",
+      "name": "Daniel Day-Lewis",
+      "character": "Hawkeye"
+    },
+    {
+      "id": "nm0000656",
+      "name": "Madeleine Stowe",
+      "character": "Cora"
+    },
+    {
+      "id": "nm0575184",
+      "name": "Russell Means",
+      "character": "Chingachgook"
+    },
+    {
+      "id": "nm0777760",
+      "name": "Eric Schweig",
+      "character": "Uncas"
+    },
+    {
+      "id": "nm0562003",
+      "name": "Jodhi May",
+      "character": "Alice Munro"
+    },
+    {
+      "id": "nm0905357",
+      "name": "Steven Waddington",
+      "character": "Maj. Duncan Heyward"
+    },
+    {
+      "id": "nm0836071",
+      "name": "Wes Studi",
+      "character": "Magua"
+    },
+    {
+      "id": "nm0747687",
+      "name": "Maurice Roëves",
+      "character": "Col. Edmund Munro"
+    },
+    {
+      "id": "nm0161717",
+      "name": "Patrice Chéreau",
+      "character": "Gen Montcalm"
+    },
+    {
+      "id": "nm0087801",
+      "name": "Edward Blatchford",
+      "character": "Jack Winthrop"
+    },
+    {
+      "id": "nm0455767",
+      "name": "Terry Kinney",
+      "character": "John Cameron"
+    },
+    {
+      "id": "nm0255130",
+      "name": "Tracey Ellis",
+      "character": "Alexandra Cameron"
+    },
+    {
+      "id": "nm0723481",
+      "name": "Justin M. Rice",
+      "character": "James Cameron"
+    },
+    {
+      "id": "nm0052139",
+      "name": "Dennis Banks",
+      "character": "Ongewasgone"
+    },
+    {
+      "id": "nm0000592",
+      "name": "Pete Postlethwaite",
+      "character": "Capt. Beams"
+    },
+    {
+      "id": "nm0000538",
+      "name": "Colm Meaney",
+      "character": "Maj. Ambrose"
+    },
+    {
+      "id": "nm0028753",
+      "name": "Mac Andrews",
+      "character": "Gen. Webb"
+    },
+    {
+      "id": "nm0832695",
+      "name": "Malcolm Storry",
+      "character": "Phelps"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "North American Indian"
+  ],
+  "color": "Color",
+  "filmweb_id": 8427,
+  "year": 1992,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODAxNTAxMDItMzkwZS00ZTEyLWJlZmMtYTc0MGI1NDdkNWZkXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.6,
+      "votes": 208874,
+      "distribution": {
+        "1": 1184,
+        "2": 752,
+        "3": 1356,
+        "4": 2631,
+        "5": 7048,
+        "6": 19469,
+        "7": 47416,
+        "8": 61918,
+        "9": 33317,
+        "10": 33783
+      },
+      "normalized": 6.6208
+    },
+    "filmweb": {
+      "rating": 7.59,
+      "votes": 104619,
+      "distribution": {
+        "1": 399,
+        "2": 320,
+        "3": 808,
+        "4": 1549,
+        "5": 4490,
+        "6": 11267,
+        "7": 26996,
+        "8": 33225,
+        "9": 15595,
+        "10": 9970
+      },
+      "normalized": 6.993
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "13.09.2010",
+      "normalized": 5.4199
+    },
+    "score": 6.3446
+  },
+  "polish_title": "Ostatni Mohikanin",
+  "silent": false,
+  "description_pl": "Akcja filmu toczy się w XVIII-wiecznej skolonizowanej Ameryce, gdzie trwa wojna pomiędzy Anglią i Francją. Film opowiada o losach białego Indianina, który jako dziecko został przygarnięty przez plemię Mohikanów. Główny bohater stara się żyć w zgodzie z naturą i zasadami swojego plemienia, nie mieszając się w sprawy zwaśnionych narodów, jednakże miłość do córki angielskiego generała oraz nieoczekiwane koleje losu krzyżują jego ścieżki z ścieżkami obcej wojny.",
+  "producers": [
+    {
+      "id": "nm0235684",
+      "name": "Ned Dowd"
+    },
+    {
+      "id": "nm0523324",
+      "name": "Hunt Lowry"
+    },
+    {
+      "id": "nm0000520",
+      "name": "Michael Mann"
+    },
+    {
+      "id": "nm0732708",
+      "name": "James G. Robinson"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005883",
+      "name": "Dante Spinotti"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

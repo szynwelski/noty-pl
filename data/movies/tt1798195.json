@@ -1,0 +1,160 @@
+{
+  "imdb_id": "tt1798195",
+  "title": "La promesa",
+  "description": "Are robots really different from us if they learn our ways?",
+  "runtime_minutes": 11,
+  "release_date": "30.10.2011",
+  "genres": [
+    "Short",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm7322202",
+      "name": "Tatiana de León"
+    },
+    {
+      "id": "nm0778637",
+      "name": "Pablo Scola"
+    },
+    {
+      "id": "nm4227092",
+      "name": "Gerardo Cid"
+    },
+    {
+      "id": "nm12869448",
+      "name": "Ricardo Cid"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0418494",
+      "name": "Erwin Jaquez"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0418494",
+      "name": "Erwin Jaquez"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm7322202",
+      "name": "Tatiana de León",
+      "character": "The Girl"
+    },
+    {
+      "id": "nm0778637",
+      "name": "Pablo Scola",
+      "character": "The Man"
+    },
+    {
+      "id": "nm4227092",
+      "name": "Gerardo Cid",
+      "character": "Guardia"
+    },
+    {
+      "id": "nm12869448",
+      "name": "Ricardo Cid",
+      "character": "Guardia"
+    },
+    {
+      "id": "nm4226659",
+      "name": "Naim Galindo",
+      "character": "Doctor"
+    },
+    {
+      "id": "nm3564508",
+      "name": "Jorge Valdés",
+      "character": "Doctor"
+    },
+    {
+      "id": "nm0944042",
+      "name": "Margarita Wynne",
+      "character": "The Woman"
+    }
+  ],
+  "countries": [
+    "Mexico"
+  ],
+  "languages": [
+    "Spanish"
+  ],
+  "color": null,
+  "filmweb_id": 861578,
+  "year": 2011,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTYwNzA3NTI5Nl5BMl5BanBnXkFtZTgwNTAwNjg2NTE@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.1,
+      "votes": 138,
+      "distribution": {
+        "1": 8,
+        "2": 6,
+        "3": 13,
+        "4": 15,
+        "5": 34,
+        "6": 34,
+        "7": 11,
+        "8": 8,
+        "9": 2,
+        "10": 7
+      },
+      "normalized": 4.7811
+    },
+    "filmweb": {
+      "rating": 4.67,
+      "votes": 3,
+      "distribution": {
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 2,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 5.1479
+    },
+    "michal": {
+      "rating": 2,
+      "date_rated": "07.04.2021",
+      "normalized": 3.1556
+    },
+    "score": 4.3615
+  },
+  "polish_title": "La promesa",
+  "silent": false,
+  "producers": [
+    {
+      "id": "nm1733063",
+      "name": "Rune Hansen"
+    },
+    {
+      "id": "nm3348018",
+      "name": "Jose Nacif"
+    },
+    {
+      "id": "nm1418464",
+      "name": "Mónica Reina"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm3184045",
+      "name": "Ernesto Paredano"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0418494",
+      "name": "Erwin Jaquez"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

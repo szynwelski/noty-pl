@@ -1,0 +1,43 @@
+{
+  "id": "nm0269689",
+  "name": "Dodi Fayed",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZTJkNzI3YjYtYWIzMC00MDU4LTg1ZDktY2UyOTEzZGM5N2NkXkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0082158",
+      "title": "Chariots of Fire",
+      "year": 1981,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0102057",
+      "title": "Hook",
+      "year": 1991,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0114345",
+      "title": "The Scarlet Letter",
+      "year": 1995,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "birth_date": "15.04.1955",
+  "death_date": "31.08.1997",
+  "birth_location": "Alexandria, Egypt",
+  "filmweb_id": 79218,
+  "name_pl": "Dodi Fayed",
+  "birth_location_pl": "Aleksandria",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Egipt"
+  ]
+}

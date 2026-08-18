@@ -1,0 +1,216 @@
+{
+  "imdb_id": "tt0120630",
+  "title": "Chicken Run",
+  "description": "When a cockerel apparently flies into a chicken farm, the chickens see him as an opportunity to escape their evil owners.",
+  "runtime_minutes": 84,
+  "release_date": "23.06.2000",
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy",
+    "Drama",
+    "Family"
+  ],
+  "stars": [
+    {
+      "id": "nm0000154",
+      "name": "Mel Gibson"
+    },
+    {
+      "id": "nm0768018",
+      "name": "Julia Sawalha"
+    },
+    {
+      "id": "nm0200057",
+      "name": "Phil Daniels"
+    },
+    {
+      "id": "nm0272521",
+      "name": "Lynn Ferguson"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0520485",
+      "name": "Peter Lord"
+    },
+    {
+      "id": "nm0661910",
+      "name": "Nick Park"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0520485",
+      "name": "Peter Lord"
+    },
+    {
+      "id": "nm0661910",
+      "name": "Nick Park"
+    },
+    {
+      "id": "nm0456732",
+      "name": "Karey Kirkpatrick"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000154",
+      "name": "Mel Gibson",
+      "character": "Rocky"
+    },
+    {
+      "id": "nm0768018",
+      "name": "Julia Sawalha",
+      "character": "Ginger"
+    },
+    {
+      "id": "nm0200057",
+      "name": "Phil Daniels",
+      "character": "Fetcher"
+    },
+    {
+      "id": "nm0272521",
+      "name": "Lynn Ferguson",
+      "character": "Mac"
+    },
+    {
+      "id": "nm0371304",
+      "name": "Tony Haygarth",
+      "character": "Mr. Tweedy"
+    },
+    {
+      "id": "nm0001363",
+      "name": "Jane Horrocks",
+      "character": "Babs"
+    },
+    {
+      "id": "nm0001669",
+      "name": "Miranda Richardson",
+      "character": "Mrs. Tweedy"
+    },
+    {
+      "id": "nm0001758",
+      "name": "Timothy Spall",
+      "character": "Nick"
+    },
+    {
+      "id": "nm0001767",
+      "name": "Imelda Staunton",
+      "character": "Bunty"
+    },
+    {
+      "id": "nm0926368",
+      "name": "Benjamin Whitrow",
+      "character": "Fowler"
+    },
+    {
+      "id": "nm12028202",
+      "name": "Wyatt Shears",
+      "character": "Additional Chicken"
+    }
+  ],
+  "countries": [
+    "United Kingdom",
+    "France",
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": null,
+  "filmweb_id": 955,
+  "year": 2000,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZGViZmJjMTQtNDk3NC00NjQ4LTg0ODItYWI3MjY3YmUwMjczXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.1,
+      "votes": 226316,
+      "distribution": {
+        "1": 2112,
+        "2": 1537,
+        "3": 2484,
+        "4": 5046,
+        "5": 13583,
+        "6": 35986,
+        "7": 74220,
+        "8": 53747,
+        "9": 20250,
+        "10": 17351
+      },
+      "normalized": 5.7578
+    },
+    "filmweb": {
+      "rating": 6.26,
+      "votes": 58329,
+      "distribution": {
+        "1": 1022,
+        "2": 1088,
+        "3": 2259,
+        "4": 3705,
+        "5": 7993,
+        "6": 14079,
+        "7": 15631,
+        "8": 8401,
+        "9": 2434,
+        "10": 1717
+      },
+      "normalized": 3.8286
+    },
+    "jarek": {
+      "rating": 1,
+      "date_rated": "02.12.2005",
+      "normalized": 2.5327
+    },
+    "michal": {
+      "rating": 2,
+      "date_rated": "19.10.2005",
+      "normalized": 3.1556
+    },
+    "score": 3.8187
+  },
+  "polish_title": "Uciekające kurczaki",
+  "silent": false,
+  "description_pl": "Zamknięci, otoczeni drutem kolczastym, drżący o swoje życie Rocky, Ginger, Bunty oraz Fowler podejmują rozpaczliwą próbę ucieczki. I oto po raz pierwszy w historii filmu będziemy mogli śledzić przygody... bohaterskiego drobiu! Akcja tej niezwykłej, animowanej komedii rozgrywa się bowiem na fermie, gdzie każda kura, która nie znosi tylu jajek, ile powinna, kończy w potrawce. Ale Ginger i jej kumple nie mają zamiaru czekać bezczynnie na sfiletowanie. Przygotowują podkop i wydostają się na wolność.",
+  "producers": [
+    {
+      "id": "nm0248180",
+      "name": "Jake Eberts"
+    },
+    {
+      "id": "nm0005076",
+      "name": "Jeffrey Katzenberg"
+    },
+    {
+      "id": "nm0520485",
+      "name": "Peter Lord"
+    },
+    {
+      "id": "nm0661910",
+      "name": "Nick Park"
+    },
+    {
+      "id": "nm1291620",
+      "name": "Jacky Priddle"
+    },
+    {
+      "id": "nm0741578",
+      "name": "Michael Rose"
+    },
+    {
+      "id": "nm0791185",
+      "name": "Carla Shelley"
+    },
+    {
+      "id": "nm0819862",
+      "name": "David Sproxton"
+    },
+    {
+      "id": "nm0949811",
+      "name": "Lenny Young"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

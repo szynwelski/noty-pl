@@ -1,0 +1,29 @@
+{
+  "id": "nm0270415",
+  "name": "Friedrich Feher",
+  "filmography": [
+    {
+      "imdb_id": "tt0010323",
+      "title": "The Cabinet of Dr. Caligari",
+      "year": 1920,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Franzis"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzU1MzNlMWEtMjEwMC00ZWQwLWIwMmUtNTU3ZWQ0MjU0MWZjXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "16.03.1889",
+  "death_date": "30.09.1950",
+  "birth_location": "Vienna, Austria-Hungary [now Austria]",
+  "imdb_scraped": true,
+  "filmweb_id": 41451,
+  "name_pl": "Friedrich Fehér",
+  "birth_location_pl": "Wiedeń",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Austria"
+  ]
+}

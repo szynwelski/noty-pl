@@ -1,0 +1,37 @@
+{
+  "id": "nm0941000",
+  "name": "Tim Woodward",
+  "filmography": [
+    {
+      "imdb_id": "tt0114345",
+      "title": "The Scarlet Letter",
+      "year": 1995,
+      "roles": [
+        "cast"
+      ],
+      "character": "Brewster Stonehall"
+    },
+    {
+      "imdb_id": "tt0267626",
+      "title": "K-19: The Widowmaker",
+      "year": 2002,
+      "roles": [
+        "cast"
+      ],
+      "character": "Partonov"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTkyMDk3MjY0M15BMl5BanBnXkFtZTcwNjU5NDk1NA@@._V1_.jpg",
+  "birth_date": "24.04.1953",
+  "death_date": "09.11.2023",
+  "birth_location": "London, England, UK",
+  "imdb_scraped": true,
+  "filmweb_id": 6230,
+  "name_pl": "Tim Woodward",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ]
+}

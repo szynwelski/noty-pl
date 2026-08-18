@@ -1,0 +1,161 @@
+{
+  "imdb_id": "tt0013626",
+  "title": "The Smiling Madame Beudet",
+  "description": "An unhappily married woman devises a scheme to get rid of her husband.",
+  "runtime_minutes": 26,
+  "release_date": "09.11.1923",
+  "genres": [
+    "Short",
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0220460",
+      "name": "Germaine Dermoz"
+    },
+    {
+      "id": "nm0347605",
+      "name": "Madeleine Guitty"
+    },
+    {
+      "id": "nm0195956",
+      "name": "Jean d'Yd"
+    },
+    {
+      "id": "nm2557717",
+      "name": "Yvette Grisier"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0241273",
+      "name": "Germaine Dulac"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0024853",
+      "name": "Denys Amiel"
+    },
+    {
+      "id": "nm0643375",
+      "name": "André Obey"
+    },
+    {
+      "id": "nm0241273",
+      "name": "Germaine Dulac"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0220460",
+      "name": "Germaine Dermoz",
+      "character": "Mme Beudet"
+    },
+    {
+      "id": "nm0347605",
+      "name": "Madeleine Guitty",
+      "character": "Mme Labas"
+    },
+    {
+      "id": "nm0195956",
+      "name": "Jean d'Yd",
+      "character": "Mr Labas"
+    },
+    {
+      "id": "nm2557717",
+      "name": "Yvette Grisier",
+      "character": "La bonne"
+    },
+    {
+      "id": "nm0660012",
+      "name": "Raoul Paoli",
+      "character": "Le champion de tennis"
+    },
+    {
+      "id": "nm0005901",
+      "name": "Armand Thirard",
+      "character": "Le commis"
+    },
+    {
+      "id": "nm0037124",
+      "name": "Alexandre Arquillière",
+      "character": "Beudet"
+    }
+  ],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "None",
+    "French"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 270455,
+  "year": 1923,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjVhNmNhNGYtZDZjOS00NmRmLWE5ZmItYTViNjFhNjg1NTM5XkEyXkFqcGc@._V1_.jpg",
+  "original_title": "La souriante Madame Beudet",
+  "ratings": {
+    "imdb": {
+      "rating": 6.6,
+      "votes": 3273,
+      "distribution": {
+        "1": 36,
+        "2": 49,
+        "3": 86,
+        "4": 136,
+        "5": 338,
+        "6": 796,
+        "7": 922,
+        "8": 524,
+        "9": 215,
+        "10": 171
+      },
+      "normalized": 4.798
+    },
+    "filmweb": {
+      "rating": 6.02,
+      "votes": 662,
+      "distribution": {
+        "1": 4,
+        "2": 9,
+        "3": 27,
+        "4": 50,
+        "5": 129,
+        "6": 177,
+        "7": 173,
+        "8": 76,
+        "9": 13,
+        "10": 4
+      },
+      "normalized": 3.9946
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "06.01.2008",
+      "normalized": 5.4199
+    },
+    "score": 4.7375
+  },
+  "polish_title": "Uśmiechnięta pani Beudet",
+  "silent": true,
+  "description_pl": "Film <a href=\"/osoba/?id=nm0241273\">Germaine Dulac</a> to jeden z najwcześniejszych przykładów kina feministycznego. \"Uśmiechnięta pani Beudet\" to opowieść o inteligentnej kobiecie uwięzionej w pozbawionym miłości małżeństwie. Znudzonej tytułowej pani domu (<a href=\"/osoba/?id=nm0220460\">Germaine Dermoz</a>) pozostaje tylko jedno rozwiązanie - postanawia zabić męża (<a href=\"/osoba/?id=nm0037124\">Alexandre Arquillière</a>).",
+  "producers": [
+    {
+      "id": "nm0216066",
+      "name": "Charles Delac"
+    },
+    {
+      "id": "nm0888606",
+      "name": "Marcel Vandal"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm3908999",
+      "name": "Manfred Knaak"
+    }
+  ],
+  "fetched_at": "2026-08-15"
+}

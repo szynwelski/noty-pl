@@ -1,0 +1,49 @@
+{
+  "id": "nm0001583",
+  "name": "Jerry Orbach",
+  "filmography": [
+    {
+      "imdb_id": "tt0092890",
+      "title": "Dirty Dancing",
+      "year": 1987,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Jake Houseman"
+    },
+    {
+      "imdb_id": "tt0101414",
+      "title": "Beauty and the Beast",
+      "year": 1991,
+      "roles": [
+        "cast"
+      ],
+      "character": "Lumiere"
+    },
+    {
+      "imdb_id": "tt0105698",
+      "title": "Universal Soldier",
+      "year": 1992,
+      "roles": [
+        "cast"
+      ],
+      "character": "Dr. Christopher Gregor"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZDQxMmFjZDEtNzhlNi00YTU4LWI3MDAtM2EzZTEzYmIzYmYwXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "20.10.1935",
+  "death_date": "28.12.2004",
+  "birth_location": "New York City, New York, USA",
+  "height": "1.86 m",
+  "filmweb_id": 7981,
+  "name_pl": "Jerry Orbach",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 7981
+}

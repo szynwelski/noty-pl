@@ -1,0 +1,50 @@
+{
+  "id": "nm3592338",
+  "name": "Emilia Clarke",
+  "filmography": [
+    {
+      "imdb_id": "tt0944947",
+      "title": "Game of Thrones",
+      "year": 2011,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Daenerys Targaryen"
+    },
+    {
+      "imdb_id": "tt1340138",
+      "title": "Terminator Genisys",
+      "year": 2015,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Sarah Connor"
+    },
+    {
+      "imdb_id": "tt2674426",
+      "title": "Me Before You",
+      "year": 2016,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Lou Clark"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNjg3OTg4MDczMl5BMl5BanBnXkFtZTgwODc0NzUwNjE@._V1_.jpg",
+  "birth_date": "23.10.1986",
+  "birth_location": "London, England, UK",
+  "height": "1.57 m",
+  "imdb_scraped": true,
+  "filmweb_id": 1523086,
+  "name_pl": "Emilia Clarke",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 1523086
+}

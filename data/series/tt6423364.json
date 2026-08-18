@@ -1,0 +1,233 @@
+{
+  "imdb_id": "tt6423364",
+  "title": "Bad Blood",
+  "description": "A dramatization of the life and death of Montreal mob boss Vito Rizzuto.",
+  "runtime_minutes": 47,
+  "release_date": "07.12.2018",
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0167649",
+      "name": "Kim Coates"
+    },
+    {
+      "id": "nm0274371",
+      "name": "Louis Ferreira"
+    },
+    {
+      "id": "nm0853175",
+      "name": "Sharon Taylor"
+    },
+    {
+      "id": "nm1234276",
+      "name": "Melanie Scrofano"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0167649",
+      "name": "Kim Coates",
+      "character": "Declan Gardiner"
+    },
+    {
+      "id": "nm0274371",
+      "name": "Louis Ferreira",
+      "character": "Domenic Cosoleto"
+    },
+    {
+      "id": "nm0853175",
+      "name": "Sharon Taylor",
+      "character": "Rose Sunwind"
+    },
+    {
+      "id": "nm1234276",
+      "name": "Melanie Scrofano",
+      "character": "Valentina Cosoleto"
+    },
+    {
+      "id": "nm1792091",
+      "name": "Dylan Taylor",
+      "character": "Ignazio 'Nats' Cosoleto"
+    },
+    {
+      "id": "nm1965525",
+      "name": "Anna Hopkins",
+      "character": "Teresa Langana"
+    },
+    {
+      "id": "nm0440511",
+      "name": "Daniel Kash",
+      "character": "Enzo Cosoleto"
+    },
+    {
+      "id": "nm2484864",
+      "name": "Lisa Berry",
+      "character": "Nellie Bullock"
+    },
+    {
+      "id": "nm1222820",
+      "name": "Ryan McDonald",
+      "character": "Reggie Ross"
+    },
+    {
+      "id": "nm2068892",
+      "name": "Franco Lo Presti",
+      "character": "Luca Cosoleto"
+    },
+    {
+      "id": "nm5628646",
+      "name": "Eric Hicks",
+      "character": "Ken Tucker"
+    },
+    {
+      "id": "nm4320510",
+      "name": "Wole Daramola",
+      "character": "Siro"
+    },
+    {
+      "id": "nm1501142",
+      "name": "Johnny Falcone",
+      "character": "Christian Langana"
+    },
+    {
+      "id": "nm0001439",
+      "name": "Anthony LaPaglia",
+      "character": "Vito Rizzuto"
+    },
+    {
+      "id": "nm0170186",
+      "name": "Enrico Colantoni",
+      "character": "Bruno Bonsignori"
+    },
+    {
+      "id": "nm0000649",
+      "name": "Paul Sorvino",
+      "character": "Nicolo Rizzuto Sr."
+    },
+    {
+      "id": "nm0747114",
+      "name": "Maxim Roy",
+      "character": "Michelle"
+    },
+    {
+      "id": "nm0621176",
+      "name": "Tony Nappo",
+      "character": "Gio"
+    }
+  ],
+  "countries": [
+    "Canada"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "year": 2017,
+  "type": "tvSeries",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOWMwN2FjMWMtMjk2Mi00YjMwLTljZGEtYjQ3MjYwODExODM5XkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 798735,
+  "ratings": {
+    "imdb": {
+      "rating": 7.5,
+      "votes": 11101,
+      "distribution": {
+        "1": 177,
+        "2": 90,
+        "3": 94,
+        "4": 158,
+        "5": 352,
+        "6": 863,
+        "7": 2720,
+        "8": 3476,
+        "9": 1576,
+        "10": 1595
+      }
+    },
+    "filmweb": {
+      "rating": 7.29,
+      "votes": 3423,
+      "distribution": {
+        "1": 10,
+        "2": 8,
+        "3": 24,
+        "4": 51,
+        "5": 154,
+        "6": 434,
+        "7": 1203,
+        "8": 1098,
+        "9": 332,
+        "10": 109
+      }
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "29.12.2018"
+    }
+  },
+  "polish_title": "Bad Blood",
+  "silent": false,
+  "producers": [
+    {
+      "id": "nm0058164",
+      "name": "Simon Barry"
+    },
+    {
+      "id": "nm0167649",
+      "name": "Kim Coates"
+    },
+    {
+      "id": "nm0465480",
+      "name": "Michael Konyves"
+    },
+    {
+      "id": "nm4930671",
+      "name": "Lauren MacKinlay"
+    },
+    {
+      "id": "nm1573938",
+      "name": "Mark Montefiore"
+    },
+    {
+      "id": "nm3302638",
+      "name": "Cameron MacLaren"
+    },
+    {
+      "id": "nm1064772",
+      "name": "Alison Lea Bingeman"
+    },
+    {
+      "id": "nm1789854",
+      "name": "Nataline Rodrigues"
+    },
+    {
+      "id": "nm0809558",
+      "name": "Paula J. Smith"
+    },
+    {
+      "id": "nm0885250",
+      "name": "Josée Vallée"
+    },
+    {
+      "id": "nm0200634",
+      "name": "Christopher J. Danton"
+    },
+    {
+      "id": "nm3557854",
+      "name": "Patrick O'Sullivan"
+    },
+    {
+      "id": "nm0710298",
+      "name": "Virginia Rankin"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0494623",
+      "name": "FM Le Sieur"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

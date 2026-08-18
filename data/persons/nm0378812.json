@@ -1,0 +1,38 @@
+{
+  "id": "nm0378812",
+  "name": "Andrzej Herder",
+  "filmography": [
+    {
+      "imdb_id": "tt0053176",
+      "title": "Night Train",
+      "year": 1959,
+      "roles": [
+        "cast"
+      ],
+      "character": "Sailor"
+    },
+    {
+      "imdb_id": "tt0067484",
+      "title": "I Hate Mondays",
+      "year": 1971,
+      "roles": [
+        "cast"
+      ],
+      "character": "Cop"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOGQ4YzMwYWYtMWE1Mi00YWEzLWEzMzAtN2UyMWQ0YjU4MDRmXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "31.08.1937",
+  "death_date": "21.05.2002",
+  "birth_location": "Warsaw, Mazowieckie, Poland",
+  "imdb_scraped": true,
+  "filmweb_id": 7049,
+  "name_pl": "Andrzej Herder",
+  "birth_location_pl": "Warszawa",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Polska"
+  ],
+  "wikidata_fw_id": 7049
+}

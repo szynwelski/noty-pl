@@ -1,0 +1,31 @@
+{
+  "id": "nm0000305",
+  "name": "Mel Blanc",
+  "filmography": [
+    {
+      "imdb_id": "tt0032910",
+      "title": "Pinocchio",
+      "year": 1940,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Gideon (hiccoughs)"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOGEzZGFiZmUtMDkwNi00ODk0LTkxNTUtNmY4ZTUyMDBkYjYxXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "30.05.1908",
+  "death_date": "10.07.1989",
+  "birth_location": "San Francisco, California, USA",
+  "height": "1.73 m",
+  "imdb_scraped": true,
+  "filmweb_id": 81203,
+  "name_pl": "Mel Blanc",
+  "birth_location_pl": "San Francisco, Kalifornia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 81203
+}

@@ -1,0 +1,267 @@
+{
+  "imdb_id": "tt10696896",
+  "title": "Stillwater",
+  "description": "A father travels from Oklahoma to France to help his estranged daughter, who is in prison for a murder she claims she didn't commit.",
+  "runtime_minutes": 139,
+  "release_date": "30.07.2021",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000354",
+      "name": "Matt Damon"
+    },
+    {
+      "id": "nm1891185",
+      "name": "Camille Cottin"
+    },
+    {
+      "id": "nm1113550",
+      "name": "Abigail Breslin"
+    },
+    {
+      "id": "nm11144034",
+      "name": "Lilou Siauvaud"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0565336",
+      "name": "Tom McCarthy"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0565336",
+      "name": "Tom McCarthy"
+    },
+    {
+      "id": "nm2917557",
+      "name": "Marcus Hinchey"
+    },
+    {
+      "id": "nm0081179",
+      "name": "Thomas Bidegain"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000354",
+      "name": "Matt Damon",
+      "character": "Bill"
+    },
+    {
+      "id": "nm1891185",
+      "name": "Camille Cottin",
+      "character": "Virginie"
+    },
+    {
+      "id": "nm1113550",
+      "name": "Abigail Breslin",
+      "character": "Allison"
+    },
+    {
+      "id": "nm11144034",
+      "name": "Lilou Siauvaud",
+      "character": "Maya"
+    },
+    {
+      "id": "nm0241759",
+      "name": "Deanna Dunagan",
+      "character": "Sharon"
+    },
+    {
+      "id": "nm9860937",
+      "name": "Idir Azougli",
+      "character": "Akim"
+    },
+    {
+      "id": "nm0494504",
+      "name": "Anne Le Ny",
+      "character": "Leparq"
+    },
+    {
+      "id": "nm0531014",
+      "name": "Moussa Maaskri",
+      "character": "Dirosa"
+    },
+    {
+      "id": "nm0849103",
+      "name": "Isabelle Tanakil",
+      "character": "Isabelle"
+    },
+    {
+      "id": "nm1929699",
+      "name": "Naidra Ayadi",
+      "character": "Nedjma"
+    },
+    {
+      "id": "nm2715213",
+      "name": "Gilbert Traïna",
+      "character": "Bald Man"
+    },
+    {
+      "id": "nm1673097",
+      "name": "Pierre Piacentino",
+      "character": "Max"
+    },
+    {
+      "id": "nm5369309",
+      "name": "Hamza Baggour",
+      "character": "Bearded Kid"
+    },
+    {
+      "id": "nm1644221",
+      "name": "Jean-Marc Michelangeli",
+      "character": "Captain"
+    },
+    {
+      "id": "nm0618986",
+      "name": "William Nadylam",
+      "character": "Patrick"
+    },
+    {
+      "id": "nm12797756",
+      "name": "Nassiriat Mohamed",
+      "character": "Souad"
+    },
+    {
+      "id": "nm10601066",
+      "name": "Mahia Zrouki",
+      "character": "Samira"
+    },
+    {
+      "id": "nm7585918",
+      "name": "Mama Bouras",
+      "character": "Intern"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "color": "Color",
+  "filmweb_id": 850822,
+  "year": 2021,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYTM2NTA5NTQtZDYyNS00ZmFkLTkwYmItZGQ0YmRmN2UxYTZlXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.6,
+      "votes": 64785,
+      "distribution": {
+        "1": 1116,
+        "2": 534,
+        "3": 906,
+        "4": 1879,
+        "5": 5564,
+        "6": 16230,
+        "7": 22620,
+        "8": 10592,
+        "9": 2873,
+        "10": 2471
+      },
+      "normalized": 4.7078
+    },
+    "filmweb": {
+      "rating": 6.42,
+      "votes": 14927,
+      "distribution": {
+        "1": 11,
+        "2": 31,
+        "3": 207,
+        "4": 495,
+        "5": 1988,
+        "6": 4832,
+        "7": 5190,
+        "8": 1812,
+        "9": 242,
+        "10": 119
+      },
+      "normalized": 4.1713
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "20.01.2022",
+      "normalized": 5.4199
+    },
+    "score": 4.7663
+  },
+  "polish_title": "Stillwater",
+  "silent": false,
+  "description_pl": "Bill jest bezrobotnym twardzielem z Oklahomy, który pracował na platformie wiertniczej. Wiódł ciężkie życie naznaczone nadużywaniem narkotyków i alkoholu. Chcąc naprawić swoje błędy z przeszłości, Bill musi pomóc swojej córce Allison (<a href=\"/osoba/?id=nm1113550\">Abigail Breslin</a>). Allison odsiaduje w Marsylii dziewięcioletni wyrok za morderstwo swojej dziewczyny, Leny. Dziewczyna twierdzi, że nie popełniła przestępstwa.",
+  "producers": [
+    {
+      "id": "nm1148054",
+      "name": "Raphaël Benoliel"
+    },
+    {
+      "id": "nm0081179",
+      "name": "Thomas Bidegain"
+    },
+    {
+      "id": "nm0153877",
+      "name": "Liza Chasin"
+    },
+    {
+      "id": "nm4380548",
+      "name": "Noé Debré"
+    },
+    {
+      "id": "nm0326512",
+      "name": "Steve Golin"
+    },
+    {
+      "id": "nm0450267",
+      "name": "Robert Kessel"
+    },
+    {
+      "id": "nm0454908",
+      "name": "Jonathan King"
+    },
+    {
+      "id": "nm0511482",
+      "name": "David Linde"
+    },
+    {
+      "id": "nm0565336",
+      "name": "Tom McCarthy"
+    },
+    {
+      "id": "nm1568142",
+      "name": "Jeff Skoll"
+    },
+    {
+      "id": "nm1432699",
+      "name": "Corinne Golden Weber"
+    },
+    {
+      "id": "nm0920348",
+      "name": "Melissa Wells"
+    },
+    {
+      "id": "nm0935248",
+      "name": "Mari-Jo Winkler"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0002217",
+      "name": "Mychael Danna"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm1086687",
+      "name": "Masanobu Takayanagi"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,250 @@
+{
+  "imdb_id": "tt0120632",
+  "title": "City of Angels",
+  "description": "An angel considers becoming human after falling in love with a Los Angeles surgeon.",
+  "runtime_minutes": 114,
+  "release_date": "10.04.1998",
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0000115",
+      "name": "Nicolas Cage"
+    },
+    {
+      "id": "nm0000212",
+      "name": "Meg Ryan"
+    },
+    {
+      "id": "nm0105672",
+      "name": "Andre Braugher"
+    },
+    {
+      "id": "nm0001240",
+      "name": "Dennis Franz"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0797869",
+      "name": "Brad Silberling"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000694",
+      "name": "Wim Wenders"
+    },
+    {
+      "id": "nm0359563",
+      "name": "Peter Handke"
+    },
+    {
+      "id": "nm0718637",
+      "name": "Richard Reitinger"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000115",
+      "name": "Nicolas Cage",
+      "character": "Seth"
+    },
+    {
+      "id": "nm0000212",
+      "name": "Meg Ryan",
+      "character": "Dr. Maggie Rice"
+    },
+    {
+      "id": "nm0105672",
+      "name": "Andre Braugher",
+      "character": "Cassiel"
+    },
+    {
+      "id": "nm0001240",
+      "name": "Dennis Franz",
+      "character": "Nathaniel Messinger"
+    },
+    {
+      "id": "nm0272173",
+      "name": "Colm Feore",
+      "character": "Jordan Ferris"
+    },
+    {
+      "id": "nm0000862",
+      "name": "Robin Bartlett",
+      "character": "Anne"
+    },
+    {
+      "id": "nm0581008",
+      "name": "Joanna Merlin",
+      "character": "Teresa Messinger"
+    },
+    {
+      "id": "nm0198970",
+      "name": "Sarah Dampf",
+      "character": "Susan"
+    },
+    {
+      "id": "nm0234564",
+      "name": "Rhonda Dotson",
+      "character": "Susan's Mother"
+    },
+    {
+      "id": "nm0316708",
+      "name": "Nigel Gibbs",
+      "character": "Doctor"
+    },
+    {
+      "id": "nm0003289",
+      "name": "John Putch",
+      "character": "Man in Car"
+    },
+    {
+      "id": "nm0425616",
+      "name": "Lauri Johnson",
+      "character": "Woman in Car"
+    },
+    {
+      "id": "nm0041290",
+      "name": "Christian Aubert",
+      "character": "Foreign Visitor in Car"
+    },
+    {
+      "id": "nm0666256",
+      "name": "Jay Patterson",
+      "character": "Air Traffic Controller"
+    },
+    {
+      "id": "nm0476094",
+      "name": "Shishir Kurup",
+      "character": "Jimmy, Anesthesiologist"
+    },
+    {
+      "id": "nm0548498",
+      "name": "Brian Markinson",
+      "character": "Tom, Surgical Fellow"
+    },
+    {
+      "id": "nm0892342",
+      "name": "Hector Velasquez",
+      "character": "Scrub Nurse"
+    },
+    {
+      "id": "nm0437915",
+      "name": "Marlene Kanter",
+      "character": "Circulating Nurse #1"
+    }
+  ],
+  "countries": [
+    "Germany",
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": null,
+  "filmweb_id": 116,
+  "year": 1998,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODYwMzM3ODEtZWZjOS00NWZhLWE2MWUtMDFlMWNiNGEwOWNlXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.7,
+      "votes": 135659,
+      "distribution": {
+        "1": 2332,
+        "2": 1737,
+        "3": 2818,
+        "4": 5478,
+        "5": 12405,
+        "6": 26763,
+        "7": 36732,
+        "8": 23843,
+        "9": 10636,
+        "10": 12915
+      },
+      "normalized": 4.9066
+    },
+    "filmweb": {
+      "rating": 7.49,
+      "votes": 149565,
+      "distribution": {
+        "1": 569,
+        "2": 577,
+        "3": 1670,
+        "4": 3154,
+        "5": 7422,
+        "6": 17790,
+        "7": 38151,
+        "8": 45482,
+        "9": 20901,
+        "10": 13849
+      },
+      "normalized": 6.7236
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "02.12.2005",
+      "normalized": 6.4102
+    },
+    "score": 6.0135
+  },
+  "polish_title": "Miasto aniołów",
+  "silent": false,
+  "description_pl": "Przejmująca historia pewnego anioła, który zakochuje się w pięknej lekarce. W szpitalu w Los Angeles leży ciężko chory na serce pacjent. Przy jego łóżku pojawia się anioł, Seth. W tym samym czasie umiera pacjent doktor Maggie Rice. Młoda lekarka bardzo przeżywa śmierć mężczyzny. Seth obserwuje ją i zakochuje się. Postanawia powrócić do świata żywych i związać swoją przyszłość z Maggie. Ale nie jest im dane wspólne szczęście.",
+  "producers": [
+    {
+      "id": "nm0146868",
+      "name": "Robert Cavallo"
+    },
+    {
+      "id": "nm0322221",
+      "name": "Alan Glazer"
+    },
+    {
+      "id": "nm0505835",
+      "name": "Jeff Levine"
+    },
+    {
+      "id": "nm0586969",
+      "name": "Arnon Milchan"
+    },
+    {
+      "id": "nm0627917",
+      "name": "Charles Newirth"
+    },
+    {
+      "id": "nm0746273",
+      "name": "Charles Roven"
+    },
+    {
+      "id": "nm0781769",
+      "name": "Douglas Segal"
+    },
+    {
+      "id": "nm0810423",
+      "name": "Kelley Smith-Wait"
+    },
+    {
+      "id": "nm0824406",
+      "name": "Dawn Steel"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0001189",
+      "name": "Gabriel Yared"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005868",
+      "name": "John Seale"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

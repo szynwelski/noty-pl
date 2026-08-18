@@ -1,0 +1,81 @@
+{
+  "imdb_id": "tt1321468",
+  "title": "Royal Carriages Passing Westminster",
+  "description": "",
+  "runtime_minutes": 1,
+  "release_date": "1897",
+  "genres": [
+    "Documentary",
+    "Short"
+  ],
+  "directors": [
+    {
+      "id": "nm0666972",
+      "name": "Robert W. Paul"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 536798,
+  "year": 1897,
+  "type": "short",
+  "image_url": null,
+  "ratings": {
+    "imdb": {
+      "rating": 4,
+      "votes": 89,
+      "distribution": {
+        "1": 18,
+        "2": 6,
+        "3": 9,
+        "4": 15,
+        "5": 20,
+        "6": 11,
+        "7": 4,
+        "8": 2,
+        "9": 1,
+        "10": 3
+      },
+      "normalized": 4.7593
+    },
+    "filmweb": {
+      "rating": 3.25,
+      "votes": 4,
+      "distribution": {
+        "1": 1,
+        "2": 0,
+        "3": 2,
+        "4": 0,
+        "5": 0,
+        "6": 1,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 5.0711
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "11.12.2016",
+      "normalized": 4.9718
+    },
+    "score": 4.9341
+  },
+  "polish_title": "Royal Carriages Passing Westminster",
+  "silent": true,
+  "cinematographers": [
+    {
+      "id": "nm0666972",
+      "name": "Robert W. Paul"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

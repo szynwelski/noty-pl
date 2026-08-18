@@ -1,0 +1,37 @@
+{
+  "id": "nm0549125",
+  "name": "Bob Marley",
+  "filmography": [
+    {
+      "imdb_id": "tt0144117",
+      "title": "The Boondock Saints",
+      "year": 1999,
+      "roles": [
+        "cast"
+      ],
+      "character": "Detective Greenly"
+    },
+    {
+      "imdb_id": "tt1300851",
+      "title": "The Boondock Saints II: All Saints Day",
+      "year": 2009,
+      "roles": [
+        "cast"
+      ],
+      "character": "Greenly"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjA0ODEyNDAwN15BMl5BanBnXkFtZTgwODQ0NTEyMjE@._V1_.jpg",
+  "birth_date": "04.04.1967",
+  "birth_location": "Portland, Maine, USA",
+  "height": "1.91 m",
+  "imdb_scraped": true,
+  "filmweb_id": 93744,
+  "name_pl": "Bob Marley",
+  "birth_location_pl": "Portland, Maine",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

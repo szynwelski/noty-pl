@@ -1,0 +1,73 @@
+{
+  "id": "nm0000019",
+  "name": "Federico Fellini",
+  "filmography": [
+    {
+      "imdb_id": "tt0038890",
+      "title": "Rome, Open City",
+      "year": 1945,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0038823",
+      "title": "Paisan",
+      "year": 1946,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0046521",
+      "title": "I Vitelloni",
+      "year": 1953,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0047528",
+      "title": "La Strada",
+      "year": 1954,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0050783",
+      "title": "Nights of Cabiria",
+      "year": 1957,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0056801",
+      "title": "8½",
+      "year": 1963,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjE0NDI1MDU5Nl5BMl5BanBnXkFtZTgwNjQ2ODMwMzE@._V1_.jpg",
+  "birth_date": "20.01.1920",
+  "death_date": "31.10.1993",
+  "birth_location": "Rimini, Emilia-Romagna, Italy",
+  "height": "1.82 m",
+  "filmweb_id": 31760,
+  "imdb_scraped": true,
+  "name_pl": "Federico Fellini",
+  "birth_location_pl": "Rimini",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Włochy"
+  ],
+  "wikidata_fw_id": 31760
+}

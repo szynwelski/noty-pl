@@ -1,0 +1,37 @@
+{
+  "id": "nm0425770",
+  "name": "Mary Johnson",
+  "filmography": [
+    {
+      "imdb_id": "tt0010247",
+      "title": "Sir Arne's Treasure",
+      "year": 1919,
+      "roles": [
+        "cast"
+      ],
+      "character": "Elsalill"
+    },
+    {
+      "imdb_id": "tt0014108",
+      "title": "The Blizzard",
+      "year": 1923,
+      "roles": [
+        "cast"
+      ],
+      "character": "Ingrid - Föräldralös flicka"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZDAzZDRlYTMtZDVjYy00N2EyLThjMTctZmZiNWU4MmNhZDRiXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "11.05.1896",
+  "death_date": "15.05.1975",
+  "birth_location": "Fors, Södermanland, Sweden",
+  "imdb_scraped": true,
+  "filmweb_id": 122943,
+  "name_pl": "Mary Johnson",
+  "birth_location_pl": "Fors",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Szwecja"
+  ]
+}

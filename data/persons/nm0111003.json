@@ -1,0 +1,40 @@
+{
+  "id": "nm0111003",
+  "name": "Vlastimil Brodský",
+  "filmography": [
+    {
+      "imdb_id": "tt0060802",
+      "title": "Closely Watched Trains",
+      "year": 1966,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "rada Zednícek"
+    },
+    {
+      "imdb_id": "tt0064994",
+      "title": "Larks on a String",
+      "year": 1969,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Professor"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDlmZDViNGEtYzllNi00MTdhLWIzYzYtODE1YTQ4MWJhOTQzXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "15.12.1920",
+  "death_date": "20.04.2002",
+  "birth_location": "Hrusov, Ostrava, Czechoslovakia",
+  "imdb_scraped": true,
+  "filmweb_id": 46076,
+  "name_pl": "Vlastimil Brodský",
+  "birth_location_pl": "Gruszów",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Czechy"
+  ],
+  "wikidata_fw_id": 46076
+}

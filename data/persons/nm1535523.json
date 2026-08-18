@@ -1,0 +1,60 @@
+{
+  "id": "nm1535523",
+  "name": "Jaden Smith",
+  "filmography": [
+    {
+      "imdb_id": "tt0454921",
+      "title": "The Pursuit of Happyness",
+      "year": 2006,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Christopher"
+    },
+    {
+      "imdb_id": "tt0970416",
+      "title": "The Day the Earth Stood Still",
+      "year": 2008,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Jacob Benson"
+    },
+    {
+      "imdb_id": "tt1155076",
+      "title": "The Karate Kid",
+      "year": 2010,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Dre Parker"
+    },
+    {
+      "imdb_id": "tt1815862",
+      "title": "After Earth",
+      "year": 2013,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Kitai Raige"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjMwMjU2MTQ4MF5BMl5BanBnXkFtZTgwODM5OTMzODE@._V1_.jpg",
+  "birth_date": "08.07.1998",
+  "birth_location": "Malibu, California, USA",
+  "height": "1.75 m",
+  "filmweb_id": 325892,
+  "name_pl": "Jaden Smith",
+  "birth_location_pl": "Los Angeles, Kalifornia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 325892
+}

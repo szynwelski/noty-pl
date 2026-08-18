@@ -1,0 +1,49 @@
+{
+  "id": "nm0003579",
+  "name": "Magda Schneider",
+  "filmography": [
+    {
+      "imdb_id": "tt0048624",
+      "title": "Sissi",
+      "year": 1955,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Duchess Ludovika in Bayern"
+    },
+    {
+      "imdb_id": "tt0049762",
+      "title": "Sissi - Die junge Kaiserin",
+      "year": 1956,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Duchess Ludovika of Bavaria"
+    },
+    {
+      "imdb_id": "tt0050974",
+      "title": "Sissi: The Fateful Years of an Empress",
+      "year": 1957,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Duchess Ludovika of Bavaria"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZjlmZWI3NDktOGIzMy00YWY0LWExN2ItOTgwYjBmZWNhNjUyXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "17.05.1909",
+  "death_date": "30.07.1996",
+  "birth_location": "Augsburg, Bavaria, Germany",
+  "filmweb_id": 87533,
+  "name_pl": "Magda Schneider",
+  "birth_location_pl": "Augsburg",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Niemcy"
+  ]
+}

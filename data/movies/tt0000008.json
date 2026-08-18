@@ -1,0 +1,94 @@
+{
+  "imdb_id": "tt0000008",
+  "title": "Edison Kinetoscopic Record of a Sneeze",
+  "description": "A man (Thomas Edison's assistant) takes a pinch of snuff and sneezes. This is one of the earliest Thomas Edison films and was the second motion picture to be copyrighted in the United States.",
+  "runtime_minutes": 1,
+  "release_date": "09.01.1894",
+  "genres": [
+    "Documentary",
+    "Short"
+  ],
+  "stars": [
+    {
+      "id": "nm0653028",
+      "name": "Fred Ott"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0005690",
+      "name": "William K.L. Dickson"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0653028",
+      "name": "Fred Ott",
+      "character": "Self - Sneezing Man"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 96238,
+  "year": 1894,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYWM1NDc1MTgtZDU1My00YzBkLWJmNzMtYzU4ZGIyN2ViNjQ1XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.4,
+      "votes": 2416,
+      "distribution": {
+        "1": 138,
+        "2": 121,
+        "3": 140,
+        "4": 258,
+        "5": 574,
+        "6": 460,
+        "7": 254,
+        "8": 152,
+        "9": 57,
+        "10": 262
+      },
+      "normalized": 3.322
+    },
+    "filmweb": {
+      "rating": 4.74,
+      "votes": 458,
+      "distribution": {
+        "1": 40,
+        "2": 44,
+        "3": 67,
+        "4": 68,
+        "5": 96,
+        "6": 51,
+        "7": 26,
+        "8": 26,
+        "9": 6,
+        "10": 34
+      },
+      "normalized": 3.0671
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "11.12.2016",
+      "normalized": 4.9718
+    },
+    "score": 3.787
+  },
+  "polish_title": "Kamera Edisona rejestruje kichnięcie",
+  "silent": true,
+  "description_pl": "Asystent Edisona wącha tabakę i kicha. Całe nagranie trwa 5 sekund. To jeden z najwcześniejszych filmów Edisona. Obraz ten, jako pierwszy w Stanach Zjednoczonych, został opatrzony prawami autorskimi.",
+  "cinematographers": [
+    {
+      "id": "nm0374658",
+      "name": "William Heise"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-15"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "nm0000700",
+  "name": "Debra Winger",
+  "filmography": [
+    {
+      "imdb_id": "tt0086425",
+      "title": "Terms of Endearment",
+      "year": 1983,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Emma Horton"
+    },
+    {
+      "imdb_id": "tt0316465",
+      "title": "Radio",
+      "year": 2003,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Linda"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNmU2YjZlNzgtOTIyNi00YTYzLWFlMDktYTNmZGI1MjVmNDBmXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "16.05.1955",
+  "birth_location": "Cleveland Heights, Ohio, USA",
+  "height": "1.63 m",
+  "imdb_scraped": true,
+  "filmweb_id": 118,
+  "name_pl": "Debra Winger",
+  "birth_location_pl": "Cleveland Heights, Ohio",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

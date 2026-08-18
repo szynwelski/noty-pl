@@ -1,0 +1,238 @@
+{
+  "imdb_id": "tt0092644",
+  "title": "Beverly Hills Cop II",
+  "description": "Axel Foley returns to Beverly Hills to help Taggart and Rosewood investigate Chief Bogomil's near-fatal shooting and the series of \"alphabet crimes\" associated with it.",
+  "runtime_minutes": 103,
+  "release_date": "20.05.1987",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Crime",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000552",
+      "name": "Eddie Murphy"
+    },
+    {
+      "id": "nm0001662",
+      "name": "Judge Reinhold"
+    },
+    {
+      "id": "nm0001638",
+      "name": "Jürgen Prochnow"
+    },
+    {
+      "id": "nm0001074",
+      "name": "Ronny Cox"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001716",
+      "name": "Tony Scott"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0045301",
+      "name": "Danilo Bach"
+    },
+    {
+      "id": "nm0677943",
+      "name": "Daniel Petrie Jr."
+    },
+    {
+      "id": "nm0000552",
+      "name": "Eddie Murphy"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000552",
+      "name": "Eddie Murphy",
+      "character": "Axel Foley"
+    },
+    {
+      "id": "nm0001662",
+      "name": "Judge Reinhold",
+      "character": "Billy Rosewood"
+    },
+    {
+      "id": "nm0001638",
+      "name": "Jürgen Prochnow",
+      "character": "Maxwell Dent"
+    },
+    {
+      "id": "nm0001074",
+      "name": "Ronny Cox",
+      "character": "Andrew Bogomil"
+    },
+    {
+      "id": "nm0039226",
+      "name": "John Ashton",
+      "character": "John Taggart"
+    },
+    {
+      "id": "nm0000557",
+      "name": "Brigitte Nielsen",
+      "character": "Karla Fry"
+    },
+    {
+      "id": "nm0307255",
+      "name": "Allen Garfield",
+      "character": "Harold Lutz"
+    },
+    {
+      "id": "nm0001777",
+      "name": "Dean Stockwell",
+      "character": "Chip Cain"
+    },
+    {
+      "id": "nm0001663",
+      "name": "Paul Reiser",
+      "character": "Jeffrey Friedman"
+    },
+    {
+      "id": "nm0384280",
+      "name": "Gilbert R. Hill",
+      "character": "Inspector Todd"
+    },
+    {
+      "id": "nm0002117",
+      "name": "Paul Guilfoyle",
+      "character": "Nikos Thomopolis"
+    },
+    {
+      "id": "nm0725894",
+      "name": "Robert Ridgely",
+      "character": "Mayor Egan"
+    },
+    {
+      "id": "nm0640256",
+      "name": "Brian Edward O'Connor",
+      "character": "Biddle"
+    },
+    {
+      "id": "nm0010417",
+      "name": "Alice Adair",
+      "character": "Jan Bogomil"
+    },
+    {
+      "id": "nm0124914",
+      "name": "Eugene Butler",
+      "character": "May"
+    },
+    {
+      "id": "nm0936780",
+      "name": "Glenn Withrow",
+      "character": "Willie"
+    },
+    {
+      "id": "nm0514093",
+      "name": "Stephen Liska",
+      "character": "Chauffeur"
+    },
+    {
+      "id": "nm0331906",
+      "name": "Gilbert Gottfried",
+      "character": "Sidney Bernstein"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 5850,
+  "year": 1987,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYTU2ZGU3YzAtYjc1MS00ZTFmLWFhM2ItZWQxMjY1ZmM3ZDk2XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.6,
+      "votes": 147947,
+      "distribution": {
+        "1": 1131,
+        "2": 1048,
+        "3": 2105,
+        "4": 4869,
+        "5": 15022,
+        "6": 41088,
+        "7": 46893,
+        "8": 20840,
+        "9": 6513,
+        "10": 8438
+      },
+      "normalized": 4.683
+    },
+    "filmweb": {
+      "rating": 7.17,
+      "votes": 54733,
+      "distribution": {
+        "1": 112,
+        "2": 116,
+        "3": 357,
+        "4": 909,
+        "5": 2873,
+        "6": 9195,
+        "7": 20668,
+        "8": 13958,
+        "9": 3745,
+        "10": 2800
+      },
+      "normalized": 5.9525
+    },
+    "michal": {
+      "rating": 3,
+      "date_rated": "19.10.2005",
+      "normalized": 3.8753
+    },
+    "score": 4.8369
+  },
+  "polish_title": "Gliniarz z Beverly Hills II",
+  "silent": false,
+  "description_pl": "W Beverly Hills grupa zamaskowanych bandytów napada na salon jubilerski. Łupem złodziei pada biżuteria ogromnej wartości. Śledztwo w tej sprawie prowadzi kapitan Andrew Bogomil wraz ze swoimi dwoma współpracownikami, jednak wkrótce wszyscy trzej zostają odsunięci od sprawy. Foley postanawia odłożyć prowadzone właśnie śledztwo w sprawie fałszerzy kart kredytowych i wyruszyć do Beverly Hills, aby dowiedzieć się o tym co się stało.",
+  "producers": [
+    {
+      "id": "nm0000988",
+      "name": "Jerry Bruckheimer"
+    },
+    {
+      "id": "nm0800971",
+      "name": "Don Simpson"
+    },
+    {
+      "id": "nm0862895",
+      "name": "Richard Tienken"
+    },
+    {
+      "id": "nm0905160",
+      "name": "Robert D. Wachs"
+    },
+    {
+      "id": "nm0000552",
+      "name": "Eddie Murphy"
+    },
+    {
+      "id": "nm0677943",
+      "name": "Daniel Petrie Jr."
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0266536",
+      "name": "Harold Faltermeyer"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0453808",
+      "name": "Jeffrey L. Kimball"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

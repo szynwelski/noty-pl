@@ -1,0 +1,52 @@
+{
+  "id": "nm0556580",
+  "name": "Andrew Mason",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjVkODFlYzgtMzA5Yi00ZTJkLTk1OGEtZjg4YWMzNjYwZTQ2XkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0118929",
+      "title": "Dark City",
+      "year": 1998,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0133093",
+      "title": "The Matrix",
+      "year": 1999,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0199753",
+      "title": "Red Planet",
+      "year": 2000,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0234215",
+      "title": "The Matrix Reloaded",
+      "year": 2003,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0242653",
+      "title": "The Matrix Revolutions",
+      "year": 2003,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "imdb_scraped": true,
+  "filmweb_id": 132166,
+  "name_pl": "Andrew Mason",
+  "gender": "M",
+  "wikidata_processed": true
+}

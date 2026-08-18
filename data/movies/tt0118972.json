@@ -1,0 +1,235 @@
+{
+  "imdb_id": "tt0118972",
+  "title": "The Devil's Own",
+  "description": "A police officer uncovers the real identity of his house-guest, an I.R.A. terrorist in hiding.",
+  "runtime_minutes": 111,
+  "release_date": "26.03.1997",
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000148",
+      "name": "Harrison Ford"
+    },
+    {
+      "id": "nm0000093",
+      "name": "Brad Pitt"
+    },
+    {
+      "id": "nm0171513",
+      "name": "Margaret Colin"
+    },
+    {
+      "id": "nm0001952",
+      "name": "Rubén Blades"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001587",
+      "name": "Alan J. Pakula"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0418883",
+      "name": "Kevin Jarre"
+    },
+    {
+      "id": "nm0169173",
+      "name": "David Aaron Cohen"
+    },
+    {
+      "id": "nm0665932",
+      "name": "Vincent Patrick"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000148",
+      "name": "Harrison Ford",
+      "character": "Tom O'Meara"
+    },
+    {
+      "id": "nm0000093",
+      "name": "Brad Pitt",
+      "character": "Rory Devaney"
+    },
+    {
+      "id": "nm0171513",
+      "name": "Margaret Colin",
+      "character": "Sheila O'Meara"
+    },
+    {
+      "id": "nm0001952",
+      "name": "Rubén Blades",
+      "character": "Edwin Diaz"
+    },
+    {
+      "id": "nm0001852",
+      "name": "Treat Williams",
+      "character": "Billy Burke"
+    },
+    {
+      "id": "nm0372493",
+      "name": "George Hearn",
+      "character": "Peter Fitzsimmons"
+    },
+    {
+      "id": "nm0752751",
+      "name": "Mitchell Ryan",
+      "character": "Chief Jim Kelly"
+    },
+    {
+      "id": "nm0001523",
+      "name": "Natascha McElhone",
+      "character": "Megan Doherty"
+    },
+    {
+      "id": "nm0739902",
+      "name": "Paul Ronan",
+      "character": "Sean Phelan"
+    },
+    {
+      "id": "nm0429254",
+      "name": "Simon Jones",
+      "character": "Harry Sloan"
+    },
+    {
+      "id": "nm0005466",
+      "name": "Julia Stiles",
+      "character": "Bridget O'Meara"
+    },
+    {
+      "id": "nm0137185",
+      "name": "Ashley Acarino",
+      "character": "Morgan O'Meara"
+    },
+    {
+      "id": "nm0801979",
+      "name": "Kelly Singer",
+      "character": "Annie O'Meara"
+    },
+    {
+      "id": "nm0641244",
+      "name": "David O'Hara",
+      "character": "Martin MacDuff"
+    },
+    {
+      "id": "nm0932837",
+      "name": "David Wilmot",
+      "character": "Dessie"
+    },
+    {
+      "id": "nm0112390",
+      "name": "Anthony Brophy",
+      "character": "Gerard"
+    },
+    {
+      "id": "nm0242908",
+      "name": "Shane Dunne",
+      "character": "Young Frankie"
+    },
+    {
+      "id": "nm0242880",
+      "name": "Martin Dunne",
+      "character": "Frankie's Father"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "color": "Color",
+  "filmweb_id": 565,
+  "year": 1997,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDU1ODI0ZGUtZDA3My00NGViLWFhM2QtNmI1NzU0ZTA1ODc5XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.2,
+      "votes": 78579,
+      "distribution": {
+        "1": 1052,
+        "2": 780,
+        "3": 1544,
+        "4": 4105,
+        "5": 11506,
+        "6": 26062,
+        "7": 21614,
+        "8": 7491,
+        "9": 2039,
+        "10": 2386
+      },
+      "normalized": 3.9595
+    },
+    "filmweb": {
+      "rating": 6.87,
+      "votes": 20066,
+      "distribution": {
+        "1": 27,
+        "2": 38,
+        "3": 185,
+        "4": 452,
+        "5": 1550,
+        "6": 4272,
+        "7": 8309,
+        "8": 3860,
+        "9": 709,
+        "10": 664
+      },
+      "normalized": 5.3858
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "20.10.2005",
+      "normalized": 4.5781
+    },
+    "score": 4.6411
+  },
+  "polish_title": "Zdrada",
+  "silent": false,
+  "description_pl": "Irlandia Północna. Młody chłopak jest świadkiem śmierci ojca. Mordercą jest zamaskowany terrorysta. Kilkanaście lat później, jako dorosły człowiek, bohater walczy w szeregach IRA. Ścigany przez Anglików emigruje do Ameryki, gdzie znajduje schronienie w domu nowojorskiego policjanta.",
+  "producers": [
+    {
+      "id": "nm0171348",
+      "name": "Robert F. Colesberry"
+    },
+    {
+      "id": "nm0330379",
+      "name": "Lawrence Gordon"
+    },
+    {
+      "id": "nm0491889",
+      "name": "Donald Laventhall"
+    },
+    {
+      "id": "nm0505656",
+      "name": "Lloyd Levin"
+    },
+    {
+      "id": "nm0861769",
+      "name": "Karen L. Thorson"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0000035",
+      "name": "James Horner"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0932336",
+      "name": "Gordon Willis"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

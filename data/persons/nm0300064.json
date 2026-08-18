@@ -1,0 +1,51 @@
+{
+  "id": "nm0300064",
+  "name": "Jean Gabin",
+  "filmography": [
+    {
+      "imdb_id": "tt0028950",
+      "title": "Grand Illusion",
+      "year": 1937,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Le lieutenant Maréchal"
+    },
+    {
+      "imdb_id": "tt0030643",
+      "title": "Port of Shadows",
+      "year": 1938,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Jean"
+    },
+    {
+      "imdb_id": "tt0031514",
+      "title": "Daybreak",
+      "year": 1939,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "François"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTYxMjg0OTQwN15BMl5BanBnXkFtZTgwMjIwNjQ3MTE@._V1_.jpg",
+  "birth_date": "17.05.1904",
+  "death_date": "15.11.1976",
+  "birth_location": "Paris, France",
+  "height": "1.74 m",
+  "filmweb_id": 51049,
+  "name_pl": "Jean Gabin",
+  "birth_location_pl": "Paryż",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja"
+  ],
+  "wikidata_fw_id": 51049
+}

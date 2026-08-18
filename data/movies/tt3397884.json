@@ -1,0 +1,256 @@
+{
+  "imdb_id": "tt3397884",
+  "title": "Sicario",
+  "description": "An FBI agent joins a covert DoD task force targeting a Mexican cartel. Operating outside legal boundaries with a CIA handler and a mysterious fixer, she discovers the mission's true purpose goes far beyond what she was told.",
+  "runtime_minutes": 121,
+  "release_date": "02.10.2015",
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm1289434",
+      "name": "Emily Blunt"
+    },
+    {
+      "id": "nm0000982",
+      "name": "Josh Brolin"
+    },
+    {
+      "id": "nm0001125",
+      "name": "Benicio Del Toro"
+    },
+    {
+      "id": "nm1256532",
+      "name": "Jon Bernthal"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0898288",
+      "name": "Denis Villeneuve"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0792263",
+      "name": "Taylor Sheridan"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1289434",
+      "name": "Emily Blunt",
+      "character": "Kate Macer"
+    },
+    {
+      "id": "nm0000982",
+      "name": "Josh Brolin",
+      "character": "Matt Graver"
+    },
+    {
+      "id": "nm0001125",
+      "name": "Benicio Del Toro",
+      "character": "Alejandro"
+    },
+    {
+      "id": "nm0001255",
+      "name": "Victor Garber",
+      "character": "Dave Jennings"
+    },
+    {
+      "id": "nm1256532",
+      "name": "Jon Bernthal",
+      "character": "Ted"
+    },
+    {
+      "id": "nm2257207",
+      "name": "Daniel Kaluuya",
+      "character": "Reggie Wayne"
+    },
+    {
+      "id": "nm0232998",
+      "name": "Jeffrey Donovan",
+      "character": "Steve Forsing"
+    },
+    {
+      "id": "nm0874232",
+      "name": "Raoul Max Trujillo",
+      "character": "Rafael"
+    },
+    {
+      "id": "nm0147814",
+      "name": "Julio Cesar Cedillo",
+      "character": "Fausto Alarcon"
+    },
+    {
+      "id": "nm0737276",
+      "name": "Hank Rogerson",
+      "character": "Phil Coopers"
+    },
+    {
+      "id": "nm3229268",
+      "name": "Bernardo Saracino",
+      "character": "Manuel Diaz"
+    },
+    {
+      "id": "nm0380073",
+      "name": "Maximiliano Hernández",
+      "character": "Silvio"
+    },
+    {
+      "id": "nm0927794",
+      "name": "Kevin Wiggins",
+      "character": "Burnett"
+    },
+    {
+      "id": "nm1598758",
+      "name": "Edgar Arreola",
+      "character": "Guillermo"
+    },
+    {
+      "id": "nm2484906",
+      "name": "Kim Nieve",
+      "character": "Silvio's Wife"
+    },
+    {
+      "id": "nm7608281",
+      "name": "Jesus Nevarez-Castillo",
+      "character": "Eliseo"
+    },
+    {
+      "id": "nm0961185",
+      "name": "Dylan Kenin",
+      "character": "Delta Leader"
+    },
+    {
+      "id": "nm2823321",
+      "name": "John Trejo",
+      "character": "Delta #2"
+    }
+  ],
+  "countries": [
+    "United States",
+    "Mexico",
+    "Hong Kong"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Ukrainian"
+  ],
+  "color": "Color",
+  "filmweb_id": 713103,
+  "year": 2015,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjA5NjM3NTk1M15BMl5BanBnXkFtZTgwMzg1MzU2NjE@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.7,
+      "votes": 546404,
+      "distribution": {
+        "1": 2935,
+        "2": 1655,
+        "3": 2899,
+        "4": 5695,
+        "5": 15386,
+        "6": 46666,
+        "7": 134650,
+        "8": 193149,
+        "9": 92837,
+        "10": 50532
+      },
+      "normalized": 6.8699
+    },
+    "filmweb": {
+      "rating": 7.22,
+      "votes": 143720,
+      "distribution": {
+        "1": 201,
+        "2": 243,
+        "3": 1179,
+        "4": 2134,
+        "5": 7939,
+        "6": 20886,
+        "7": 48711,
+        "8": 45800,
+        "9": 13644,
+        "10": 2983
+      },
+      "normalized": 6.0643
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "03.01.2016",
+      "normalized": 6.4102
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "02.10.2015",
+      "normalized": 6.3474
+    },
+    "score": 6.423
+  },
+  "polish_title": "Sicario",
+  "silent": false,
+  "description_pl": "Młoda agentka FBI Kate Macer przyłącza się do supertajnej akcji CIA mającej na celu pojmanie szefa wielkiego meksykańskiego kartelu narkotykowego. Macer stopniowo poznaje szczegóły operacji, która często ociera się o granicę prawa i moralności, prowadząc do najgłębszych czeluści przestępczego piekła. Przewodnikiem po jego kolejnych kręgach będzie dla Macer tajemniczy współpracownik CIA o meksykańskim pochodzeniu, zwany \"konsultantem\", który jak się okaże ma dla całej akcji kluczowe znaczenie. Jego prawdziwa tożsamość będzie dla Macer największym szokiem.",
+  "producers": [
+    {
+      "id": "nm0412588",
+      "name": "Basil Iwanyk"
+    },
+    {
+      "id": "nm2443562",
+      "name": "Erica Lee"
+    },
+    {
+      "id": "nm0524745",
+      "name": "Thad Luckinbill"
+    },
+    {
+      "id": "nm2590720",
+      "name": "Trent Luckinbill"
+    },
+    {
+      "id": "nm0568093",
+      "name": "Edward L. McDonnell"
+    },
+    {
+      "id": "nm3274809",
+      "name": "Emma McGill"
+    },
+    {
+      "id": "nm1142384",
+      "name": "Stacy Perskie"
+    },
+    {
+      "id": "nm0777214",
+      "name": "Ellen H. Schwartz"
+    },
+    {
+      "id": "nm1053785",
+      "name": "Molly Smith"
+    },
+    {
+      "id": "nm0823295",
+      "name": "John H. Starke"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0433580",
+      "name": "Jóhann Jóhannsson"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005683",
+      "name": "Roger Deakins"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "nm0951420",
+  "name": "William Zabka",
+  "filmography": [
+    {
+      "imdb_id": "tt0087538",
+      "title": "The Karate Kid",
+      "year": 1984,
+      "roles": [
+        "cast"
+      ],
+      "character": "Johnny Lawrence"
+    },
+    {
+      "imdb_id": "tt0089670",
+      "title": "National Lampoon's European Vacation",
+      "year": 1985,
+      "roles": [
+        "cast"
+      ],
+      "character": "Jack"
+    },
+    {
+      "imdb_id": "tt7221388",
+      "title": "Cobra Kai",
+      "year": 2018,
+      "roles": [
+        "star",
+        "cast",
+        "producer"
+      ],
+      "character": "Johnny Lawrence"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDJhN2NiMDYtNDRiYi00YzNhLWJkZjEtZDg5MTcyNjA0ZTJkXkEyXkFqcGc@._V1_.jpg",
+  "birth_location": "New York City, New York, USA",
+  "height": "1.84 m",
+  "imdb_scraped": true,
+  "filmweb_id": 42234,
+  "name_pl": "William Zabka",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "birth_date": "20.10.1965",
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 42234
+}

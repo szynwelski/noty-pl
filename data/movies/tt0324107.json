@@ -1,0 +1,188 @@
+{
+  "imdb_id": "tt0324107",
+  "title": "Los suicidas",
+  "description": "Daniel is a young journalist investigating the context of the photograph of a presumed suicidal. When he starts falling in love with Marcela, the assigned photographer for the research, the case will start to drag them into darkness.",
+  "runtime_minutes": 80,
+  "release_date": "05.10.2006",
+  "genres": [
+    "Mystery"
+  ],
+  "stars": [
+    {
+      "id": "nm1354220",
+      "name": "Laura Agorreca"
+    },
+    {
+      "id": "nm2091633",
+      "name": "Eugenia Alonso"
+    },
+    {
+      "id": "nm0049559",
+      "name": "Leonora Balcarce"
+    },
+    {
+      "id": "nm0376655",
+      "name": "Daniel Hendler"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0898224",
+      "name": "Juan Villegas"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1194321",
+      "name": "Antonio Di Benedetto"
+    },
+    {
+      "id": "nm0898224",
+      "name": "Juan Villegas"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1354220",
+      "name": "Laura Agorreca",
+      "character": "Blanca"
+    },
+    {
+      "id": "nm2091633",
+      "name": "Eugenia Alonso",
+      "character": "Bibi"
+    },
+    {
+      "id": "nm0049559",
+      "name": "Leonora Balcarce",
+      "character": "Marcela"
+    },
+    {
+      "id": "nm0376655",
+      "name": "Daniel Hendler",
+      "character": "Daniel"
+    },
+    {
+      "id": "nm3574803",
+      "name": "Héctor Lo Ríggio",
+      "character": "Vendedor de díarios"
+    },
+    {
+      "id": "nm2388443",
+      "name": "Mario Mahler",
+      "character": "Jefe de redacción"
+    },
+    {
+      "id": "nm3574837",
+      "name": "Carlos Martínez",
+      "character": "Self"
+    },
+    {
+      "id": "nm2116018",
+      "name": "Mariel Laura Sánchez",
+      "character": "Marianita"
+    },
+    {
+      "id": "nm0865740",
+      "name": "Camila Toker",
+      "character": "Julia"
+    },
+    {
+      "id": "nm1320353",
+      "name": "Javier van de Couter",
+      "character": "Manuel"
+    },
+    {
+      "id": "nm0898055",
+      "name": "Elvira Villarino",
+      "character": "La Madre"
+    },
+    {
+      "id": "nm0918068",
+      "name": "Liliana Weimer",
+      "character": "Viuda"
+    }
+  ],
+  "countries": [
+    "Argentina"
+  ],
+  "languages": [
+    "Spanish"
+  ],
+  "color": "Color",
+  "filmweb_id": 375009,
+  "year": 2005,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYjg3ODE2YjctNzNiZC00ZDg3LTg5ZTAtZDRkMGQyNDFmYzU1XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.7,
+      "votes": 147,
+      "distribution": {
+        "1": 21,
+        "2": 5,
+        "3": 12,
+        "4": 15,
+        "5": 25,
+        "6": 30,
+        "7": 17,
+        "8": 7,
+        "9": 3,
+        "10": 12
+      },
+      "normalized": 4.9724
+    },
+    "filmweb": {
+      "rating": 6.0,
+      "votes": 5,
+      "distribution": {
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 2,
+        "6": 2,
+        "7": 0,
+        "8": 1,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 5.1755
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "12.10.2006",
+      "normalized": 4.5781
+    },
+    "score": 4.9087
+  },
+  "polish_title": "Samobójcy",
+  "silent": false,
+  "description_pl": "Daniel jest młodym dziennikarzem, który otrzymuje zadanie zbadania sprawy rzekomego samobójstwa. 25 lat wcześniej, gdy Daniel był jeszcze dzieckiem, jego ojciec także odebrał sobie życie. Teraz prześladują go okoliczności badanej sprawy: jest przekonany, że jest w nich zaszyfrowany klucz do jego własnego przeznaczenia. W miarę jak rozwija się dochodzenie, Daniel uświadamia sobie, że zdążył się zakochać w pracującej z nim tajemniczej i nieprzystępnej Marceli. Z jego obecną dziewczyną coraz bardziej oddalają się od siebie, co jednak nie robi na nim większego wrażenia w obliczu odkryć, jakich dokonuje podczas dochodzenia.\r\n\r\nMroczne studium beznadziei w reżyserii Juana Villegasa, autora słynnego filmu \"Sábado\", z Danielem Hendlerem (\"Family Law\") w głównej roli.",
+  "producers": [
+    {
+      "id": "nm0960662",
+      "name": "Nathalie Cabiron"
+    },
+    {
+      "id": "nm1938574",
+      "name": "Jimena Monteoliva"
+    },
+    {
+      "id": "nm0898224",
+      "name": "Juan Villegas"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm1385280",
+      "name": "Guillermo Guareschi"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0729855",
+      "name": "Paola Rizzi"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

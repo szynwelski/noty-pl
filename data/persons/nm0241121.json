@@ -1,0 +1,40 @@
+{
+  "id": "nm0241121",
+  "name": "Jean Dujardin",
+  "filmography": [
+    {
+      "imdb_id": "tt1655442",
+      "title": "The Artist",
+      "year": 2011,
+      "roles": [
+        "star",
+        "cast",
+        "producer"
+      ],
+      "character": "George Valentin"
+    },
+    {
+      "imdb_id": "tt0993846",
+      "title": "The Wolf of Wall Street",
+      "year": 2013,
+      "roles": [
+        "cast"
+      ],
+      "character": "Jean Jacques Saurel"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzExNjY1OTU5OF5BMl5BanBnXkFtZTgwMTc3OTc3NjE@._V1_.jpg",
+  "birth_date": "19.06.1972",
+  "birth_location": "Rueil-Malmaison, Hauts-de-Seine, France",
+  "height": "1.80 m",
+  "imdb_scraped": true,
+  "filmweb_id": 141839,
+  "name_pl": "Jean Dujardin",
+  "birth_location_pl": "Rueil-Malmaison",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja"
+  ],
+  "wikidata_fw_id": 141839
+}

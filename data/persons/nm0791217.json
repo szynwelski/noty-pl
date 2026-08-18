@@ -1,0 +1,47 @@
+{
+  "id": "nm0791217",
+  "name": "Mary Shelley",
+  "filmography": [
+    {
+      "imdb_id": "tt0021884",
+      "title": "Frankenstein",
+      "year": 1931,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0026138",
+      "title": "Bride of Frankenstein",
+      "year": 1935,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0072431",
+      "title": "Young Frankenstein",
+      "year": 1974,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYWE0NTEyZjYtZTEwZi00ZWNiLThjMDAtODdkYmM4YTU1YzNhXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "30.08.1797",
+  "death_date": "01.02.1851",
+  "birth_location": "London, England, UK",
+  "height": "1.68 m",
+  "filmweb_id": 704707,
+  "name_pl": "Mary Shelley",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania",
+    "Królestwo Wielkiej Brytanii",
+    "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii"
+  ],
+  "wikidata_fw_id": 704707
+}

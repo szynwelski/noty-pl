@@ -1,0 +1,38 @@
+{
+  "id": "nm0943050",
+  "name": "Barbara Wrzesinska",
+  "filmography": [
+    {
+      "imdb_id": "tt0069416",
+      "title": "Trzeba zabic te milosc",
+      "year": 1972,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "zena sefa, kochanka Andrzeja"
+    },
+    {
+      "imdb_id": "tt0069492",
+      "title": "Wesele",
+      "year": 1973,
+      "roles": [
+        "cast"
+      ],
+      "character": "Maryna"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOWJiNTYwNjgtNzNlOC00NjQzLWI0ZTgtYmU3NzAyOWI1ZjRiXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "15.01.1938",
+  "birth_location": "Warsaw, Mazowieckie, Poland",
+  "imdb_scraped": true,
+  "filmweb_id": 8705,
+  "name_pl": "Barbara Wrzesińska",
+  "birth_location_pl": "Warszawa",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Polska"
+  ],
+  "wikidata_fw_id": 8705
+}

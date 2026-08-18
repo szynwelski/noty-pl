@@ -1,0 +1,189 @@
+{
+  "imdb_id": "tt2792332",
+  "title": "Love Building",
+  "description": "Love Building is a camp designed to mend broken relationships. 14 couples in the program have 7 days to re-design their love lives. But the 3 trainers meant to assist them have problems of their own and things gradually get out of hand.",
+  "runtime_minutes": 85,
+  "release_date": "13.09.2013",
+  "genres": [
+    "Comedy"
+  ],
+  "stars": [
+    {
+      "id": "nm12302009",
+      "name": "Ankah Bello"
+    },
+    {
+      "id": "nm1890655",
+      "name": "Dorian Boguta"
+    },
+    {
+      "id": "nm1058007",
+      "name": "Dragos Bucur"
+    },
+    {
+      "id": "nm7497712",
+      "name": "Emil Ciuchi"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm2394747",
+      "name": "Iulia Rugina"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm2396262",
+      "name": "Ana Agopian"
+    },
+    {
+      "id": "nm2390613",
+      "name": "Oana Rasuceanu"
+    },
+    {
+      "id": "nm2394747",
+      "name": "Iulia Rugina"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm12302009",
+      "name": "Ankah Bello",
+      "character": "Anca"
+    },
+    {
+      "id": "nm1890655",
+      "name": "Dorian Boguta",
+      "character": "Valentin Preda"
+    },
+    {
+      "id": "nm1058007",
+      "name": "Dragos Bucur",
+      "character": "Silviu Soare"
+    },
+    {
+      "id": "nm7497712",
+      "name": "Emil Ciuchi",
+      "character": "Emil"
+    },
+    {
+      "id": "nm5471745",
+      "name": "Eugen Matei Lumezianu",
+      "character": "Eugen"
+    },
+    {
+      "id": "nm6487132",
+      "name": "Silvia Morosanu",
+      "character": "Silvia Marinescu"
+    },
+    {
+      "id": "nm1090879",
+      "name": "Alexandru Papadopol",
+      "character": "Cristian Lazurean"
+    },
+    {
+      "id": "nm5408070",
+      "name": "Ion Rusu",
+      "character": "Ioan"
+    },
+    {
+      "id": "nm6545561",
+      "name": "Ruxandra Serban",
+      "character": "Ruxandra"
+    },
+    {
+      "id": "nm6475171",
+      "name": "Adina Stetcu",
+      "character": "Adina Popa"
+    }
+  ],
+  "countries": [
+    "Romania"
+  ],
+  "languages": [
+    "Romanian"
+  ],
+  "color": "Color",
+  "filmweb_id": 694665,
+  "year": 2013,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZmVmMTIxY2UtYmE1Zi00MzExLThjZTYtYWRhNzYxMGE1YTI4XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.7,
+      "votes": 753,
+      "distribution": {
+        "1": 29,
+        "2": 9,
+        "3": 21,
+        "4": 29,
+        "5": 67,
+        "6": 123,
+        "7": 151,
+        "8": 132,
+        "9": 75,
+        "10": 117
+      },
+      "normalized": 5.0664
+    },
+    "filmweb": {
+      "rating": 6.23,
+      "votes": 132,
+      "distribution": {
+        "2": 3,
+        "3": 4,
+        "4": 7,
+        "5": 18,
+        "6": 40,
+        "7": 40,
+        "8": 14,
+        "9": 5,
+        "10": 1
+      },
+      "normalized": 4.7495
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "01.10.2017",
+      "normalized": 5.6855
+    },
+    "score": 5.1671
+  },
+  "polish_title": "Ćwiczenie miłości",
+  "silent": false,
+  "description_pl": "Love Building to obóz, który powstał z myślą o naprawie nieszczęśliwych związków. W programie bierze udział 14 par, które mają 7 dni na naprawę swojego życia uczuciowego. Problem w tym, że przydzielono im 3 trenerów mających własne problemy emocjonalne, co powoduje, że sytuacja powoli wymyka się spod kontroli... W ciągu kolejnych sześciu dniu cała grupa przechodzi szereg różnych prób. Dla obserwatora z zewnątrz te ćwiczenia mogą się wydawać dość nowatorskie, ale trudno sobie wyobrazić coś bardziej intymnego... Pozostaje tylko jedno pytanie, które wciąż unosi się nad nieustannym poszukiwaniem \"szczęśliwego zakończenia\": \"Czy miłość można naprawić w zaledwie 7 dni?\".",
+  "producers": [
+    {
+      "id": "nm1890655",
+      "name": "Dorian Boguta"
+    },
+    {
+      "id": "nm1058007",
+      "name": "Dragos Bucur"
+    },
+    {
+      "id": "nm0158305",
+      "name": "Dan Chisu"
+    },
+    {
+      "id": "nm3426994",
+      "name": "Eugen Kelemen"
+    },
+    {
+      "id": "nm1090879",
+      "name": "Alexandru Papadopol"
+    },
+    {
+      "id": "nm2430317",
+      "name": "Ben Tisch"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm3115984",
+      "name": "Marius Iacob"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

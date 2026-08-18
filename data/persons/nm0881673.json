@@ -1,0 +1,38 @@
+{
+  "id": "nm0881673",
+  "name": "Michal Urbaniak",
+  "filmography": [
+    {
+      "imdb_id": "tt0225535",
+      "title": "The Debt",
+      "year": 1999,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt2209426",
+      "title": "My Father's Bike",
+      "year": 2012,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Wlodzimierz Starnawski"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNGFlZTZiYzMtMTQyNi00NDgxLTg3NGMtYjMyMTkxMjlkYTZmXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "22.01.1943",
+  "death_date": "20.12.2025",
+  "birth_location": "Warsaw, Mazowieckie, Poland",
+  "imdb_scraped": true,
+  "filmweb_id": 11943,
+  "name_pl": "Michał Urbaniak",
+  "birth_location_pl": "Warszawa",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Polska"
+  ],
+  "wikidata_fw_id": 11943
+}

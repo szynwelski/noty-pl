@@ -1,0 +1,58 @@
+{
+  "id": "nm1347153",
+  "name": "Tyler Perry",
+  "filmography": [
+    {
+      "imdb_id": "tt2267998",
+      "title": "Gone Girl",
+      "year": 2014,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Tanner Bolt"
+    },
+    {
+      "imdb_id": "tt6266538",
+      "title": "Vice",
+      "year": 2018,
+      "roles": [
+        "cast"
+      ],
+      "character": "Colin Powell"
+    },
+    {
+      "imdb_id": "tt11286314",
+      "title": "Don't Look Up",
+      "year": 2021,
+      "roles": [
+        "cast"
+      ],
+      "character": "Jack Bremmer"
+    },
+    {
+      "imdb_id": "tt11832046",
+      "title": "PAW Patrol: The Movie",
+      "year": 2021,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Gus"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzYzNjk4MTU3NF5BMl5BanBnXkFtZTcwODMxMTEwNQ@@._V1_.jpg",
+  "birth_date": "14.09.1969",
+  "birth_location": "New Orleans, Louisiana, USA",
+  "height": "1.96 m",
+  "filmweb_id": 243642,
+  "name_pl": "Tyler Perry",
+  "birth_location_pl": "Nowy Orlean, Luizjana",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 243642
+}

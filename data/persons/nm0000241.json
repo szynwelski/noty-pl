@@ -1,0 +1,92 @@
+{
+  "id": "nm0000241",
+  "name": "Jean-Claude Van Damme",
+  "filmography": [
+    {
+      "imdb_id": "tt0092675",
+      "title": "Bloodsport",
+      "year": 1988,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Frank"
+    },
+    {
+      "imdb_id": "tt0097659",
+      "title": "Kickboxer",
+      "year": 1989,
+      "roles": [
+        "writer",
+        "star",
+        "cast"
+      ],
+      "character": "Kurt Sloane"
+    },
+    {
+      "imdb_id": "tt0105698",
+      "title": "Universal Soldier",
+      "year": 1992,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Luc Deveraux"
+    },
+    {
+      "imdb_id": "tt0117420",
+      "title": "The Quest",
+      "year": 1996,
+      "roles": [
+        "director",
+        "writer",
+        "star",
+        "cast"
+      ],
+      "character": "Christopher Dubois"
+    },
+    {
+      "imdb_id": "tt1302011",
+      "title": "Kung Fu Panda 2",
+      "year": 2011,
+      "roles": [
+        "cast"
+      ],
+      "character": "Master Croc"
+    },
+    {
+      "imdb_id": "tt1764651",
+      "title": "The Expendables 2",
+      "year": 2012,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Vilain"
+    },
+    {
+      "imdb_id": "tt12808182",
+      "title": "The Last Mercenary",
+      "year": 2021,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Richard Brumère"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTA2OTE1Njg4NjVeQTJeQWpwZ15BbWU3MDAyNjU4MDM@._V1_.jpg",
+  "birth_date": "18.10.1960",
+  "birth_location": "Berchem-Sainte-Agathe, Brussels, Belgium",
+  "height": "1.75 m",
+  "filmweb_id": 317,
+  "name_pl": "Jean-Claude Van Damme",
+  "birth_location_pl": "Berchem-Sainte-Agathe",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Belgia"
+  ],
+  "wikidata_fw_id": 317
+}

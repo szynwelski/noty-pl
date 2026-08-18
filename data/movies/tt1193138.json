@@ -1,0 +1,262 @@
+{
+  "imdb_id": "tt1193138",
+  "title": "Up in the Air",
+  "description": "Ryan's job is to travel around the country, firing people. When his boss hires Natalie, who proposes firing people via video conference, he tries to convince her that her method is a mistake.",
+  "runtime_minutes": 109,
+  "release_date": "23.12.2009",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0000123",
+      "name": "George Clooney"
+    },
+    {
+      "id": "nm0267812",
+      "name": "Vera Farmiga"
+    },
+    {
+      "id": "nm0447695",
+      "name": "Anna Kendrick"
+    },
+    {
+      "id": "nm0000867",
+      "name": "Jason Bateman"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0718646",
+      "name": "Jason Reitman"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1174529",
+      "name": "Walter Kirn"
+    },
+    {
+      "id": "nm0718646",
+      "name": "Jason Reitman"
+    },
+    {
+      "id": "nm1417242",
+      "name": "Sheldon Turner"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000123",
+      "name": "George Clooney",
+      "character": "Ryan Bingham"
+    },
+    {
+      "id": "nm0267812",
+      "name": "Vera Farmiga",
+      "character": "Alex Goran"
+    },
+    {
+      "id": "nm0447695",
+      "name": "Anna Kendrick",
+      "character": "Natalie Keener"
+    },
+    {
+      "id": "nm0000867",
+      "name": "Jason Bateman",
+      "character": "Craig Gregory"
+    },
+    {
+      "id": "nm0607920",
+      "name": "Amy Morton",
+      "character": "Kara Bingham"
+    },
+    {
+      "id": "nm0001491",
+      "name": "Melanie Lynskey",
+      "character": "Julie Bingham"
+    },
+    {
+      "id": "nm0799777",
+      "name": "J.K. Simmons",
+      "character": "Bob"
+    },
+    {
+      "id": "nm0000385",
+      "name": "Sam Elliott",
+      "character": "Maynard Finch"
+    },
+    {
+      "id": "nm1104131",
+      "name": "Danny McBride",
+      "character": "Jim Miller"
+    },
+    {
+      "id": "nm0302108",
+      "name": "Zach Galifianakis",
+      "character": "Steve"
+    },
+    {
+      "id": "nm1645313",
+      "name": "Christopher Lowell",
+      "character": "Kevin"
+    },
+    {
+      "id": "nm0247611",
+      "name": "Steve Eastin",
+      "character": "Samuels"
+    },
+    {
+      "id": "nm0949873",
+      "name": "Marvin Young",
+      "character": "Young MC"
+    },
+    {
+      "id": "nm0532188",
+      "name": "Cut Chemist",
+      "character": "Conference DJ"
+    },
+    {
+      "id": "nm3593660",
+      "name": "Adrienne Lamping",
+      "character": "Tammy"
+    },
+    {
+      "id": "nm2303011",
+      "name": "Meagan Flynn",
+      "character": "Flight Attendant"
+    },
+    {
+      "id": "nm1670446",
+      "name": "Dustin Miles",
+      "character": "Ned"
+    },
+    {
+      "id": "nm0876636",
+      "name": "Tamara Tungate",
+      "character": "Club Hostess"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 475937,
+  "year": 2009,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTI3MzYxMTA4NF5BMl5BanBnXkFtZTcwMDE4ODg3Mg@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.4,
+      "votes": 362225,
+      "distribution": {
+        "1": 2379,
+        "2": 1472,
+        "3": 2494,
+        "4": 5431,
+        "5": 15096,
+        "6": 46338,
+        "7": 113391,
+        "8": 109393,
+        "9": 43498,
+        "10": 22733
+      },
+      "normalized": 6.2934
+    },
+    "filmweb": {
+      "rating": 6.86,
+      "votes": 91623,
+      "distribution": {
+        "1": 189,
+        "2": 200,
+        "3": 966,
+        "4": 2078,
+        "5": 6912,
+        "6": 19612,
+        "7": 36099,
+        "8": 19772,
+        "9": 4247,
+        "10": 1548
+      },
+      "normalized": 5.3696
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "15.08.2010",
+      "normalized": 6.4102
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "23.01.2010",
+      "normalized": 5.4199
+    },
+    "score": 5.8733
+  },
+  "polish_title": "W chmurach",
+  "silent": false,
+  "description_pl": "Ryan Bingham (<a href=\"/osoba/?id=nm0000123\">George Clooney</a>) to profesjonalista specjalizujący się w \"doradztwie dotyczącym zmian w karierze zawodowej\" (eufemistyczne ujęcie zwalniania pracowników). Życie Ryana to ciągła podróż, jego mieszkanie to tylko puste miejsce. Podczas jednej z podroży poznaje Alex (<a href=\"/osoba/?id=nm0267812\">Vera Farmiga</a>) i  zaczyna myśleć o zmianie stylu życia. Czy tak się stanie?",
+  "producers": [
+    {
+      "id": "nm2093343",
+      "name": "Ali Bell"
+    },
+    {
+      "id": "nm0079545",
+      "name": "Michael Beugg"
+    },
+    {
+      "id": "nm0089787",
+      "name": "Jason Blumenfeld"
+    },
+    {
+      "id": "nm0166641",
+      "name": "Jeffrey Clifford"
+    },
+    {
+      "id": "nm0239277",
+      "name": "Daniel Dubiecki"
+    },
+    {
+      "id": "nm2615685",
+      "name": "Helen Estabrook"
+    },
+    {
+      "id": "nm0341372",
+      "name": "Ted Griffin"
+    },
+    {
+      "id": "nm0575817",
+      "name": "Joe Medjuck"
+    },
+    {
+      "id": "nm0689696",
+      "name": "Tom Pollock"
+    },
+    {
+      "id": "nm0718645",
+      "name": "Ivan Reitman"
+    },
+    {
+      "id": "nm0718646",
+      "name": "Jason Reitman"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0448843",
+      "name": "Rolfe Kent"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0824470",
+      "name": "Eric Steelberg"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "nm0005870",
+  "name": "John F. Seitz",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzRiOWE2MjQtZWJmZS00NmY3LWJlMzMtYTU4ODczZDAxMmYwXkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0036775",
+      "title": "Double Indemnity",
+      "year": 1944,
+      "roles": [
+        "cinematographer"
+      ]
+    },
+    {
+      "imdb_id": "tt0037884",
+      "title": "The Lost Weekend",
+      "year": 1945,
+      "roles": [
+        "cinematographer"
+      ]
+    },
+    {
+      "imdb_id": "tt0043014",
+      "title": "Sunset Boulevard",
+      "year": 1950,
+      "roles": [
+        "cinematographer"
+      ]
+    }
+  ],
+  "birth_date": "23.06.1892",
+  "death_date": "27.02.1979",
+  "birth_location": "Chicago, Illinois, USA",
+  "filmweb_id": 41764,
+  "name_pl": "John F. Seitz",
+  "birth_location_pl": "Chicago, Illinois",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "imdb_id": "tt0350855",
+  "title": "Duel au pistolet",
+  "description": "Two duelists, armed with pistols, fire: one of them is hit and collapses.",
+  "runtime_minutes": 1,
+  "release_date": "27.09.1896",
+  "genres": [
+    "Short",
+    "Crime",
+    "Drama"
+  ],
+  "directors": [
+    {
+      "id": "nm0895515",
+      "name": "Gabriel Veyre"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "Mexico",
+    "France"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 287325,
+  "year": 1896,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYjM2Mzk4YWItMmEwOC00MjZkLTgwNjQtMWU4MmY5NmUyN2NiXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.1,
+      "votes": 512,
+      "distribution": {
+        "1": 20,
+        "2": 11,
+        "3": 19,
+        "4": 29,
+        "5": 97,
+        "6": 152,
+        "7": 96,
+        "8": 48,
+        "9": 11,
+        "10": 29
+      },
+      "normalized": 4.7153
+    },
+    "filmweb": {
+      "rating": 6.13,
+      "votes": 71,
+      "distribution": {
+        "1": 1,
+        "2": 0,
+        "3": 4,
+        "4": 3,
+        "5": 11,
+        "6": 26,
+        "7": 15,
+        "8": 8,
+        "9": 0,
+        "10": 3
+      },
+      "normalized": 4.8492
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "11.12.2016",
+      "normalized": 6.4102
+    },
+    "score": 5.3249
+  },
+  "polish_title": "Duel au pistolet",
+  "silent": true,
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-16"
+}

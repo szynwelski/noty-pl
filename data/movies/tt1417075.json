@@ -1,0 +1,267 @@
+{
+  "imdb_id": "tt1417075",
+  "title": "In Darkness",
+  "description": "A dramatization of one man's rescue of Jewish refugees in the German-occupied Polish city of Lvov.",
+  "runtime_minutes": 145,
+  "release_date": "05.01.2012",
+  "genres": [
+    "Drama",
+    "War"
+  ],
+  "stars": [
+    {
+      "id": "nm0927240",
+      "name": "Robert Więckiewicz"
+    },
+    {
+      "id": "nm0299811",
+      "name": "Benno Fürmann"
+    },
+    {
+      "id": "nm1377449",
+      "name": "Agnieszka Grochowska"
+    },
+    {
+      "id": "nm0775056",
+      "name": "Maria Schrader"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0002140",
+      "name": "Agnieszka Holland"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm2051351",
+      "name": "Robert Marshall"
+    },
+    {
+      "id": "nm3433061",
+      "name": "David F. Shamoon"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0927240",
+      "name": "Robert Więckiewicz",
+      "character": "Leopold Socha"
+    },
+    {
+      "id": "nm0299811",
+      "name": "Benno Fürmann",
+      "character": "Mundek Margulies"
+    },
+    {
+      "id": "nm1377449",
+      "name": "Agnieszka Grochowska",
+      "character": "Klara Keller"
+    },
+    {
+      "id": "nm0775056",
+      "name": "Maria Schrader",
+      "character": "Paulina Chiger"
+    },
+    {
+      "id": "nm0460578",
+      "name": "Herbert Knaup",
+      "character": "Ignacy Chiger"
+    },
+    {
+      "id": "nm1591309",
+      "name": "Marcin Bosak",
+      "character": "Yanek Weiss"
+    },
+    {
+      "id": "nm1717476",
+      "name": "Julia Kijowska",
+      "character": "Chaja"
+    },
+    {
+      "id": "nm2447960",
+      "name": "Jerzy Walczak",
+      "character": "Jacob Berestycki"
+    },
+    {
+      "id": "nm3892945",
+      "name": "Oliwer Stanczak",
+      "character": "Pawel Chiger"
+    },
+    {
+      "id": "nm3894320",
+      "name": "Milla Bankowicz",
+      "character": "Krystyna Chiger"
+    },
+    {
+      "id": "nm2546550",
+      "name": "Krzysztof Skonieczny",
+      "character": "Szczepek"
+    },
+    {
+      "id": "nm0695835",
+      "name": "Kinga Preis",
+      "character": "Wanda Socha"
+    },
+    {
+      "id": "nm0591003",
+      "name": "Aleksander Mincer",
+      "character": "Szlomo Landsberg"
+    },
+    {
+      "id": "nm1644158",
+      "name": "Piotr Glowacki",
+      "character": "Icek Frenkiel"
+    },
+    {
+      "id": "nm3999128",
+      "name": "Maria Semotiuk",
+      "character": "Mania Keller"
+    },
+    {
+      "id": "nm1679513",
+      "name": "Michal Zurawski",
+      "character": "Bortnik"
+    },
+    {
+      "id": "nm4665987",
+      "name": "Zofia Pieczynska",
+      "character": "Stefcia Socha"
+    },
+    {
+      "id": "nm0844372",
+      "name": "Etl Szyc",
+      "character": "Szona Grossman"
+    }
+  ],
+  "countries": [
+    "Poland",
+    "Germany",
+    "Canada"
+  ],
+  "languages": [
+    "Polish",
+    "German",
+    "Yiddish",
+    "Ukrainian",
+    "Russian"
+  ],
+  "color": "Color",
+  "filmweb_id": 525620,
+  "year": 2011,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTk3NDg2OTU3N15BMl5BanBnXkFtZTcwMDM3ODkwNw@@._V1_.jpg",
+  "original_title": "W ciemnosci",
+  "ratings": {
+    "imdb": {
+      "rating": 7.3,
+      "votes": 11565,
+      "distribution": {
+        "1": 323,
+        "2": 101,
+        "3": 103,
+        "4": 187,
+        "5": 512,
+        "6": 1356,
+        "7": 3529,
+        "8": 3160,
+        "9": 1243,
+        "10": 1051
+      },
+      "normalized": 6.0139
+    },
+    "filmweb": {
+      "rating": 7.14,
+      "votes": 107491,
+      "distribution": {
+        "1": 1475,
+        "2": 447,
+        "3": 1455,
+        "4": 1999,
+        "5": 6269,
+        "6": 14394,
+        "7": 34061,
+        "8": 33371,
+        "9": 10626,
+        "10": 3394
+      },
+      "normalized": 5.9065
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "14.05.2012",
+      "normalized": 7.2292
+    },
+    "score": 6.3832
+  },
+  "polish_title": "W ciemności",
+  "silent": false,
+  "description_pl": "Katolik... grzesznik... drobny złodziejaszek... Leopold Socha, Polak ze Lwowa - przez ponad rok pomagał i dawał schronienie ukrywającej się w kanałach grupie uciekinierów z getta. Za pieniądze. Jednak to, co wydawało się okazją do zarobku, doprowadziło do powstania głębokiej więzi emocjonalnej pomiędzy Sochą a uciekinierami, ewoluując w heroiczną walkę o ludzkie życie.",
+  "producers": [
+    {
+      "id": "nm0079079",
+      "name": "Andrzej Besztak"
+    },
+    {
+      "id": "nm1309555",
+      "name": "Leander Carell"
+    },
+    {
+      "id": "nm1454254",
+      "name": "Wojciech Danowski"
+    },
+    {
+      "id": "nm1548852",
+      "name": "Marc-Daniel Dichant"
+    },
+    {
+      "id": "nm2862529",
+      "name": "Christoph Fisser"
+    },
+    {
+      "id": "nm3454639",
+      "name": "Anna Maria Jetel"
+    },
+    {
+      "id": "nm0429936",
+      "name": "Eric Jordan"
+    },
+    {
+      "id": "nm1327312",
+      "name": "Patrick Knippel"
+    },
+    {
+      "id": "nm0532702",
+      "name": "Juliusz Machulski"
+    },
+    {
+      "id": "nm0720697",
+      "name": "Steffen Reuter"
+    },
+    {
+      "id": "nm3433061",
+      "name": "David F. Shamoon"
+    },
+    {
+      "id": "nm0827121",
+      "name": "Paul Stephens"
+    },
+    {
+      "id": "nm1803681",
+      "name": "Charlie Woebcken"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0343322",
+      "name": "Antoni Lazarkiewicz"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0245896",
+      "name": "Jolanta Dylewska"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

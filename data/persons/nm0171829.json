@@ -1,0 +1,48 @@
+{
+  "id": "nm0171829",
+  "name": "Kenneth Colley",
+  "filmography": [
+    {
+      "imdb_id": "tt0079470",
+      "title": "Monty Python's Life of Brian",
+      "year": 1979,
+      "roles": [
+        "cast"
+      ],
+      "character": "Jesus"
+    },
+    {
+      "imdb_id": "tt0080684",
+      "title": "Star Wars: Episode V - The Empire Strikes Back",
+      "year": 1980,
+      "roles": [
+        "cast"
+      ],
+      "character": "Admiral Piett"
+    },
+    {
+      "imdb_id": "tt0086190",
+      "title": "Star Wars: Episode VI - Return of the Jedi",
+      "year": 1983,
+      "roles": [
+        "cast"
+      ],
+      "character": "Admiral Piett"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNjBkNWQzNTgtZGVmZi00ZDQwLWJjZDktN2MyMzQxNDgwOGVmXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "07.12.1937",
+  "death_date": "30.06.2025",
+  "birth_location": "Manchester, England, UK",
+  "height": "1.73 m",
+  "filmweb_id": 4799,
+  "name_pl": "Kenneth Colley",
+  "birth_location_pl": "Manchester, Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 4799
+}

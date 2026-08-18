@@ -1,0 +1,36 @@
+{
+  "id": "nm0894523",
+  "name": "Jules Verne",
+  "filmography": [
+    {
+      "imdb_id": "tt0000417",
+      "title": "A Trip to the Moon",
+      "year": 1902,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0000499",
+      "title": "An Impossible Voyage",
+      "year": 1904,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZjZjNmEzOGYtZDhhNy00MTUzLWFiYWEtYmRmOTczMjE3NWJkXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "08.02.1828",
+  "death_date": "24.03.1905",
+  "birth_location": "Nantes, Loire-Atlantique, France",
+  "height": "1.65 m",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja"
+  ],
+  "filmweb_id": 505581,
+  "name_pl": "Juliusz Verne",
+  "birth_location_pl": "Nantes",
+  "gender": "M"
+}

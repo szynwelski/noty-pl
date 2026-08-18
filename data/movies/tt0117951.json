@@ -1,0 +1,206 @@
+{
+  "imdb_id": "tt0117951",
+  "title": "Trainspotting",
+  "description": "Renton, deeply immersed in the Edinburgh drug scene, tries to clean up and get out despite the allure of drugs and the influence of friends.",
+  "runtime_minutes": 93,
+  "release_date": "09.08.1996",
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0000191",
+      "name": "Ewan McGregor"
+    },
+    {
+      "id": "nm0001971",
+      "name": "Ewen Bremner"
+    },
+    {
+      "id": "nm0001538",
+      "name": "Jonny Lee Miller"
+    },
+    {
+      "id": "nm0571727",
+      "name": "Kevin McKidd"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000965",
+      "name": "Danny Boyle"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0920543",
+      "name": "Irvine Welsh"
+    },
+    {
+      "id": "nm0388076",
+      "name": "John Hodge"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000191",
+      "name": "Ewan McGregor",
+      "character": "Renton"
+    },
+    {
+      "id": "nm0001971",
+      "name": "Ewen Bremner",
+      "character": "Spud"
+    },
+    {
+      "id": "nm0001538",
+      "name": "Jonny Lee Miller",
+      "character": "Sick Boy"
+    },
+    {
+      "id": "nm0571727",
+      "name": "Kevin McKidd",
+      "character": "Tommy"
+    },
+    {
+      "id": "nm0001015",
+      "name": "Robert Carlyle",
+      "character": "Begbie"
+    },
+    {
+      "id": "nm0531808",
+      "name": "Kelly Macdonald",
+      "character": "Diane"
+    },
+    {
+      "id": "nm0611932",
+      "name": "Peter Mullan",
+      "character": "Swanney"
+    },
+    {
+      "id": "nm0181920",
+      "name": "James Cosmo",
+      "character": "David Renton"
+    },
+    {
+      "id": "nm0629374",
+      "name": "Eileen Nicholas",
+      "character": "Cathy Renton"
+    },
+    {
+      "id": "nm0896510",
+      "name": "Susan Vidler",
+      "character": "Allison"
+    },
+    {
+      "id": "nm0528422",
+      "name": "Pauline Lynch",
+      "character": "Lizzy"
+    },
+    {
+      "id": "nm0376602",
+      "name": "Shirley Henderson",
+      "character": "Gail"
+    },
+    {
+      "id": "nm0574320",
+      "name": "Stuart McQuarrie",
+      "character": "Gavin"
+    },
+    {
+      "id": "nm0920543",
+      "name": "Irvine Welsh",
+      "character": "Mikey Forrester"
+    },
+    {
+      "id": "nm0936072",
+      "name": "Dale Winton",
+      "character": "Game Show Host"
+    },
+    {
+      "id": "nm0020717",
+      "name": "Keith Allen",
+      "character": "Dealer"
+    },
+    {
+      "id": "nm0020728",
+      "name": "Kevin Allen",
+      "character": "Andreas"
+    },
+    {
+      "id": "nm0743217",
+      "name": "Annie Louise Ross",
+      "character": "Gail's Mother"
+    }
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 989,
+  "year": 1996,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYmVkNGJkMzQtYWQwOS00OTZmLThjODQtZjNjNzllYzRiNTE0XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8.1,
+      "votes": 772572,
+      "distribution": {
+        "1": 6931,
+        "2": 3301,
+        "3": 4140,
+        "4": 6857,
+        "5": 15139,
+        "6": 40511,
+        "7": 123833,
+        "8": 249568,
+        "9": 190278,
+        "10": 132014
+      },
+      "normalized": 7.864
+    },
+    "filmweb": {
+      "rating": 7.8,
+      "votes": 239525,
+      "distribution": {
+        "1": 1305,
+        "2": 892,
+        "3": 2247,
+        "4": 3407,
+        "5": 7969,
+        "6": 18327,
+        "7": 49126,
+        "8": 81419,
+        "9": 49054,
+        "10": 25779
+      },
+      "normalized": 7.7345
+    },
+    "jarek": {
+      "rating": 8,
+      "date_rated": "02.12.2005",
+      "normalized": 7.8989
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "19.10.2005",
+      "normalized": 7.2292
+    },
+    "score": 7.6817
+  },
+  "polish_title": "Trainspotting",
+  "silent": false,
+  "description_pl": "Środowisko szkockich ćpunów. Główny bohater Mark Renton po wielu próbach postanawia zrezygnować z nałogu na dobre, przenosi się do innego miasta, zakochuje w dziewczynie. Jednak przeszłość w postaci dawnych kumpli od strzykawki oraz zatwardziały recydywista podąża jego śladem, aby go dopaść.... \nW filmie wykorzystano muzykę takich brytyjskich grup jak: Pulp, Blur, czy Lou Reed.",
+  "cinematographers": [
+    {
+      "id": "nm0005909",
+      "name": "Brian Tufano"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

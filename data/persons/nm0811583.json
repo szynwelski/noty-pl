@@ -1,0 +1,98 @@
+{
+  "id": "nm0811583",
+  "name": "Zack Snyder",
+  "filmography": [
+    {
+      "imdb_id": "tt0416449",
+      "title": "300",
+      "year": 2006,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0409459",
+      "title": "Watchmen",
+      "year": 2009,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0978764",
+      "title": "Sucker Punch",
+      "year": 2011,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0770828",
+      "title": "Man of Steel",
+      "year": 2013,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt1253863",
+      "title": "300: Rise of an Empire",
+      "year": 2014,
+      "roles": [
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt1386697",
+      "title": "Suicide Squad",
+      "year": 2016,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0451279",
+      "title": "Wonder Woman",
+      "year": 2017,
+      "roles": [
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt1477834",
+      "title": "Aquaman",
+      "year": 2018,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt12361974",
+      "title": "Zack Snyder's Justice League",
+      "year": 2021,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTMzMjUyNjk1MV5BMl5BanBnXkFtZTcwMDc2Mzk3NA@@._V1_.jpg",
+  "birth_date": "01.03.1966",
+  "birth_location": "Green Bay, Wisconsin, USA",
+  "height": "1.70 m",
+  "filmweb_id": 121387,
+  "name_pl": "Zack Snyder",
+  "birth_location_pl": "Green Bay, Wisconsin",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 121387
+}

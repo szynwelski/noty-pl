@@ -1,0 +1,204 @@
+{
+  "imdb_id": "tt0007880",
+  "title": "Easy Street",
+  "description": "A reformed tramp becomes a police constable who must fight a huge thug who dominates an inner-city street.",
+  "runtime_minutes": 24,
+  "release_date": "03.02.1917",
+  "genres": [
+    "Short",
+    "Comedy"
+  ],
+  "stars": [
+    {
+      "id": "nm0000122",
+      "name": "Charles Chaplin"
+    },
+    {
+      "id": "nm0701012",
+      "name": "Edna Purviance"
+    },
+    {
+      "id": "nm0132444",
+      "name": "Eric Campbell"
+    },
+    {
+      "id": "nm0042317",
+      "name": "Albert Austin"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000122",
+      "name": "Charles Chaplin"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0117018",
+      "name": "Vincent Bryan"
+    },
+    {
+      "id": "nm0000122",
+      "name": "Charles Chaplin"
+    },
+    {
+      "id": "nm1176713",
+      "name": "Maverick Terrell"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000122",
+      "name": "Charles Chaplin",
+      "character": "The Derelict"
+    },
+    {
+      "id": "nm0701012",
+      "name": "Edna Purviance",
+      "character": "The Mission Worker"
+    },
+    {
+      "id": "nm0132444",
+      "name": "Eric Campbell",
+      "character": "The Bully"
+    },
+    {
+      "id": "nm0042317",
+      "name": "Albert Austin",
+      "character": "Minister"
+    },
+    {
+      "id": "nm0045800",
+      "name": "Lloyd Bacon",
+      "character": "Drug Addict"
+    },
+    {
+      "id": "nm0074788",
+      "name": "Henry Bergman",
+      "character": "Anarchist"
+    },
+    {
+      "id": "nm0116974",
+      "name": "Leota Bryan",
+      "character": "The Bully's Wife"
+    },
+    {
+      "id": "nm0171035",
+      "name": "Frank J. Coleman",
+      "character": "Mission Visitor"
+    },
+    {
+      "id": "nm0318981",
+      "name": "William Gillespie",
+      "character": "Drug Taker"
+    },
+    {
+      "id": "nm0445920",
+      "name": "James T. Kelley",
+      "character": "Mission Visitor"
+    },
+    {
+      "id": "nm0591103",
+      "name": "Charlotte Mineau",
+      "character": "Mother of Many Children"
+    },
+    {
+      "id": "nm0709466",
+      "name": "John Rand",
+      "character": "Mission Tramp"
+    },
+    {
+      "id": "nm0838413",
+      "name": "Janet Sully",
+      "character": "Mission Visitor"
+    },
+    {
+      "id": "nm0881022",
+      "name": "Loyal Underwood",
+      "character": "Father of Many Children"
+    },
+    {
+      "id": "nm0002232",
+      "name": "Erich von Stroheim Jr.",
+      "character": "Baby"
+    },
+    {
+      "id": "nm0925118",
+      "name": "Leo White",
+      "character": "Policeman"
+    },
+    {
+      "id": "nm0940051",
+      "name": "Tom Wood",
+      "character": "Policeman"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": null,
+  "filmweb_id": 91782,
+  "year": 1917,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BM2JhNTY0ZDgtNGFmNi00ZjBlLTgzYTktNTYzNmEyN2NmNDUwXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.4,
+      "votes": 6274,
+      "distribution": {
+        "1": 54,
+        "2": 18,
+        "3": 34,
+        "4": 106,
+        "5": 277,
+        "6": 788,
+        "7": 1778,
+        "8": 1869,
+        "9": 677,
+        "10": 673
+      },
+      "normalized": 6.1793
+    },
+    "filmweb": {
+      "rating": 7.03,
+      "votes": 745,
+      "distribution": {
+        "1": 2,
+        "2": 3,
+        "3": 9,
+        "4": 12,
+        "5": 40,
+        "6": 151,
+        "7": 284,
+        "8": 165,
+        "9": 50,
+        "10": 29
+      },
+      "normalized": 5.4946
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "29.10.2007",
+      "normalized": 6.3474
+    },
+    "score": 6.0071
+  },
+  "polish_title": "Spokojna ulica",
+  "silent": true,
+  "description_pl": "Śpiący na ziemi włóczęga (<a href=\"/osoba/?id=nm0000122\">Charlie Chaplin</a>) słyszy śpiew i zaciekawiony wchodzi do budynku misji. Daje się ponieść panującej tam atmosferze i przyłącza się do śpiewających. Podniesiony w ten sposób na duchu i zadurzony w pracującej tam dziewczynie (<a href=\"/osoba/?id=nm0701012\">Edna Purviance</a>) postanawia nawrócić się ze złej drogi. Podejmuje pracę jako policjant. Zostaje przydzielony do patrolowania Easy Street - najniebezpieczniejszej ulicy w dzielnicy slumsów.",
+  "producers": [
+    {
+      "id": "nm1291522",
+      "name": "Henry P. Caulfield"
+    },
+    {
+      "id": "nm0000122",
+      "name": "Charles Chaplin"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-15"
+}

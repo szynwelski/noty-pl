@@ -1,0 +1,47 @@
+{
+  "id": "nm0002901",
+  "name": "Muse Watson",
+  "filmography": [
+    {
+      "imdb_id": "tt0112401",
+      "title": "Assassins",
+      "year": 1995,
+      "roles": [
+        "cast"
+      ],
+      "character": "Ketcham"
+    },
+    {
+      "imdb_id": "tt0119345",
+      "title": "I Know What You Did Last Summer",
+      "year": 1997,
+      "roles": [
+        "cast"
+      ],
+      "character": "Benjamin Willis"
+    },
+    {
+      "imdb_id": "tt0455275",
+      "title": "Prison Break",
+      "year": 2005,
+      "roles": [
+        "cast"
+      ],
+      "character": "Charles Westmoreland"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNjc4MzQ1OTEyNV5BMl5BanBnXkFtZTcwOTQyODU0Mw@@._V1_.jpg",
+  "birth_date": "20.07.1948",
+  "birth_location": "Alexandria, Louisiana, USA",
+  "height": "1.82 m",
+  "filmweb_id": 3418,
+  "name_pl": "Muse Watson",
+  "birth_location_pl": "Alexandria, Luizjana",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 3418
+}

@@ -1,0 +1,76 @@
+{
+  "id": "nm0001220",
+  "name": "Ian Fleming",
+  "filmography": [
+    {
+      "imdb_id": "tt0057076",
+      "title": "From Russia with Love",
+      "year": 1963,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0058150",
+      "title": "Goldfinger",
+      "year": 1964,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0071807",
+      "title": "The Man with the Golden Gun",
+      "year": 1974,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0076752",
+      "title": "The Spy Who Loved Me",
+      "year": 1977,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0113189",
+      "title": "GoldenEye",
+      "year": 1995,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0120347",
+      "title": "Tomorrow Never Dies",
+      "year": 1997,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0246460",
+      "title": "Die Another Day",
+      "year": 2002,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjIzNzk1Mjg5M15BMl5BanBnXkFtZTcwMDc2NTg2OA@@._V1_.jpg",
+  "birth_date": "28.05.1908",
+  "death_date": "12.08.1964",
+  "birth_location": "Mayfair, London, England, UK",
+  "height": "1.83 m",
+  "filmweb_id": 12062,
+  "name_pl": "Ian Fleming",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ]
+}

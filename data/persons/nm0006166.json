@@ -1,0 +1,38 @@
+{
+  "id": "nm0006166",
+  "name": "Michel Legrand",
+  "filmography": [
+    {
+      "imdb_id": "tt0055852",
+      "title": "Cleo from 5 to 7",
+      "year": 1962,
+      "roles": [
+        "cast",
+        "composer"
+      ],
+      "character": "Bob, le pianiste"
+    },
+    {
+      "imdb_id": "tt0067144",
+      "title": "The Go-Between",
+      "year": 1971,
+      "roles": [
+        "composer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTYxODkyODEzNl5BMl5BanBnXkFtZTcwMTY0MTY1OQ@@._V1_.jpg",
+  "birth_date": "24.02.1932",
+  "death_date": "26.01.2019",
+  "birth_location": "Paris, France",
+  "imdb_scraped": true,
+  "filmweb_id": 12032,
+  "name_pl": "Michel Legrand",
+  "birth_location_pl": "Paryż",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja",
+    "Stany Zjednoczone"
+  ]
+}

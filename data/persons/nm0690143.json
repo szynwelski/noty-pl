@@ -1,0 +1,37 @@
+{
+  "id": "nm0690143",
+  "name": "Erich Pommer",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTdhZTNmZDQtM2I1OC00ZTY4LTk2NDMtZWE2MDdjMjY1Y2IyXkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0010323",
+      "title": "The Cabinet of Dr. Caligari",
+      "year": 1920,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0018014",
+      "title": "Hotel Imperial",
+      "year": 1927,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "birth_date": "20.07.1889",
+  "death_date": "08.05.1966",
+  "birth_location": "Hildesheim, Germany",
+  "height": "1.71 m",
+  "imdb_scraped": true,
+  "filmweb_id": 83407,
+  "name_pl": "Erich Pommer",
+  "birth_location_pl": "Hildesheim",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone",
+    "Niemcy"
+  ]
+}

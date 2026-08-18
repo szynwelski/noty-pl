@@ -1,0 +1,227 @@
+{
+  "imdb_id": "tt0068646",
+  "title": "The Godfather",
+  "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+  "runtime_minutes": 175,
+  "release_date": "24.03.1972",
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0000008",
+      "name": "Marlon Brando"
+    },
+    {
+      "id": "nm0000199",
+      "name": "Al Pacino"
+    },
+    {
+      "id": "nm0001001",
+      "name": "James Caan"
+    },
+    {
+      "id": "nm0000473",
+      "name": "Diane Keaton"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000338",
+      "name": "Francis Ford Coppola"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0701374",
+      "name": "Mario Puzo"
+    },
+    {
+      "id": "nm0000338",
+      "name": "Francis Ford Coppola"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000008",
+      "name": "Marlon Brando",
+      "character": "Don Vito Corleone"
+    },
+    {
+      "id": "nm0000199",
+      "name": "Al Pacino",
+      "character": "Michael"
+    },
+    {
+      "id": "nm0001001",
+      "name": "James Caan",
+      "character": "Sonny"
+    },
+    {
+      "id": "nm0144710",
+      "name": "Richard S. Castellano",
+      "character": "Clemenza"
+    },
+    {
+      "id": "nm0000380",
+      "name": "Robert Duvall",
+      "character": "Tom Hagen"
+    },
+    {
+      "id": "nm0001330",
+      "name": "Sterling Hayden",
+      "character": "Capt. McCluskey"
+    },
+    {
+      "id": "nm0549134",
+      "name": "John Marley",
+      "character": "Jack Woltz"
+    },
+    {
+      "id": "nm0002017",
+      "name": "Richard Conte",
+      "character": "Barzini"
+    },
+    {
+      "id": "nm0504803",
+      "name": "Al Lettieri",
+      "character": "Sollozzo"
+    },
+    {
+      "id": "nm0000473",
+      "name": "Diane Keaton",
+      "character": "Kay Adams"
+    },
+    {
+      "id": "nm0001820",
+      "name": "Abe Vigoda",
+      "character": "Tessio"
+    },
+    {
+      "id": "nm0001735",
+      "name": "Talia Shire",
+      "character": "Connie"
+    },
+    {
+      "id": "nm0751625",
+      "name": "Gianni Russo",
+      "character": "Carlo"
+    },
+    {
+      "id": "nm0001030",
+      "name": "John Cazale",
+      "character": "Fredo"
+    },
+    {
+      "id": "nm0094036",
+      "name": "Rudy Bond",
+      "character": "Cuneo"
+    },
+    {
+      "id": "nm0553887",
+      "name": "Al Martino",
+      "character": "Johnny Fontane"
+    },
+    {
+      "id": "nm0455088",
+      "name": "Morgana King",
+      "character": "Mama Corleone"
+    },
+    {
+      "id": "nm0598926",
+      "name": "Lenny Montana",
+      "character": "Luca Brasi"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Italian",
+    "Latin"
+  ],
+  "color": "Color",
+  "filmweb_id": 1089,
+  "year": 1972,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNGEwYjgwOGQtYjg5ZS00Njc1LTk2ZGEtM2QwZWQ2NjdhZTE5XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 9.2,
+      "votes": 2247356,
+      "distribution": {
+        "1": 43934,
+        "2": 7546,
+        "3": 8426,
+        "4": 11564,
+        "5": 22691,
+        "6": 41876,
+        "7": 111684,
+        "8": 283759,
+        "9": 563824,
+        "10": 1152052
+      },
+      "normalized": 10.0
+    },
+    "filmweb": {
+      "rating": 8.63,
+      "votes": 582513,
+      "distribution": {
+        "1": 4730,
+        "2": 1595,
+        "3": 3425,
+        "4": 5026,
+        "5": 10141,
+        "6": 18814,
+        "7": 50830,
+        "8": 125075,
+        "9": 157575,
+        "10": 205302
+      },
+      "normalized": 10.0
+    },
+    "jarek": {
+      "rating": 8,
+      "date_rated": "02.12.2005",
+      "normalized": 7.8989
+    },
+    "michal": {
+      "rating": 10,
+      "date_rated": "25.01.2005",
+      "normalized": 9.6799
+    },
+    "score": 9.3947
+  },
+  "polish_title": "Ojciec chrzestny",
+  "silent": false,
+  "description_pl": "USA, koniec II wojny światowej. Szefem nowojorskiej mafii jest sędziwy Don Vito Corleone (<a href=\"/osoba/?id=nm0000008\">Marlon Brando</a>), a jego pomocnikami są synowie: Sonny (<a href=\"/osoba/?id=nm0001001\">James Caan</a>) i Fredo (<a href=\"/osoba/?id=nm0001030\">John Cazale</a>) oraz inteligentny i rozważny Irlandczyk, Tom Hagen (<a href=\"/osoba/?id=nm0000380\">Robert Duvall</a>). Trzeci syn Vito, Michael (<a href=\"/osoba/?id=nm0000199\">Al Pacino</a>), absolwent wyższej uczelni, jest przeciwny działalności ojca. Pewnego dnia rodzina Corleone, odmawiając udziału w dystrybucji narkotyków, staje się niepotrzebną przeszkodą dla innych mafii. Dochodzi do nieudanego zamachu na Dona Corleone, a następnie do \"wielkiej wojny\" nowojorskich gangów, w której niespodziewanie odegra kluczową rolę Michael.",
+  "producers": [
+    {
+      "id": "nm0292875",
+      "name": "Gray Frederickson"
+    },
+    {
+      "id": "nm0748665",
+      "name": "Albert S. Ruddy"
+    },
+    {
+      "id": "nm0441734",
+      "name": "James C. Katz"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0000065",
+      "name": "Nino Rota"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0932336",
+      "name": "Gordon Willis"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

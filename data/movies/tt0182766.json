@@ -1,0 +1,190 @@
+{
+  "imdb_id": "tt0182766",
+  "title": "The Battle of Britain",
+  "description": "The official World War II US government account of Great Britain's stand against the Nazi war machine after the Dunkirk evacuation.",
+  "runtime_minutes": 54,
+  "release_date": "26.11.1945",
+  "genres": [
+    "Documentary",
+    "History",
+    "War"
+  ],
+  "stars": [
+    {
+      "id": "nm0046035",
+      "name": "Douglas Bader"
+    },
+    {
+      "id": "nm0107022",
+      "name": "Arno Breker"
+    },
+    {
+      "id": "nm0161476",
+      "name": "Winston Churchill"
+    },
+    {
+      "id": "nm0351425",
+      "name": "Hermann Göring"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001008",
+      "name": "Frank Capra"
+    },
+    {
+      "id": "nm0892044",
+      "name": "Anthony Veiller"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0258493",
+      "name": "Julius J. Epstein"
+    },
+    {
+      "id": "nm0491076",
+      "name": "S.K. Lauren"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0046035",
+      "name": "Douglas Bader",
+      "character": "Self (after downing Me-109 and Dornier)"
+    },
+    {
+      "id": "nm0107022",
+      "name": "Arno Breker",
+      "character": "Self - Views Eiffel Tower with Hitler and Speer"
+    },
+    {
+      "id": "nm0161476",
+      "name": "Winston Churchill",
+      "character": "Self - with Londoners, Donates Coin on Street"
+    },
+    {
+      "id": "nm0351425",
+      "name": "Hermann Göring",
+      "character": "Self - with Hitler at the Berghof"
+    },
+    {
+      "id": "nm0386944",
+      "name": "Adolf Hitler",
+      "character": "Self - Führer und Reichskanzler"
+    },
+    {
+      "id": "nm0400702",
+      "name": "John B. Hughes",
+      "character": "Self - Narrator"
+    },
+    {
+      "id": "nm0404158",
+      "name": "Walter Huston",
+      "character": "Self - Narrator"
+    },
+    {
+      "id": "nm0408586",
+      "name": "Frieda Inescort",
+      "character": "Self - Narrator"
+    },
+    {
+      "id": "nm0423513",
+      "name": "Alfred Jodl",
+      "character": "Self - Views Map with Hitler"
+    },
+    {
+      "id": "nm0445198",
+      "name": "Wilhelm Keitel",
+      "character": "Self - in Railway Carriage with Göring"
+    },
+    {
+      "id": "nm0454377",
+      "name": "King George VI",
+      "character": "Self - Views Beach Laid with Barbed Wire"
+    },
+    {
+      "id": "nm0703069",
+      "name": "Queen Elizabeth the Queen Mother",
+      "character": "Self - Visits Bombed Londoners with the King"
+    },
+    {
+      "id": "nm0706085",
+      "name": "Erich Raeder",
+      "character": "Self - in Map Room with Hitler and Jodl"
+    },
+    {
+      "id": "nm0739683",
+      "name": "Erwin Rommel",
+      "character": "Self - in Railway Carriage with Göring and Keitel"
+    },
+    {
+      "id": "nm0817553",
+      "name": "Albert Speer",
+      "character": "Self - Views Eiffel Tower with Hitler and Breker"
+    },
+    {
+      "id": "nm0892044",
+      "name": "Anthony Veiller",
+      "character": "Self - Narrator"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Black and White",
+  "year": 1943,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTgzMzQwMTYwOV5BMl5BanBnXkFtZTgwOTk2NDgwMzE@._V1_.jpg",
+  "filmweb_id": 192739,
+  "ratings": {
+    "imdb": {
+      "rating": 7.1,
+      "votes": 1123,
+      "distribution": {
+        "1": 36,
+        "2": 7,
+        "3": 15,
+        "4": 28,
+        "5": 63,
+        "6": 158,
+        "7": 319,
+        "8": 244,
+        "9": 91,
+        "10": 162
+      },
+      "normalized": 5.5113
+    },
+    "filmweb": {
+      "rating": 6.39,
+      "votes": 23,
+      "distribution": {
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 4,
+        "6": 7,
+        "7": 9,
+        "8": 1,
+        "9": 0,
+        "10": 1
+      },
+      "normalized": 5.1213
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "19.07.2007",
+      "normalized": 5.4199
+    },
+    "score": 5.3508
+  },
+  "polish_title": "The Battle of Britain",
+  "silent": false,
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,195 @@
+{
+  "imdb_id": "tt6186970",
+  "title": "The Silent Child",
+  "description": "A deaf girl named Libby lives in a world of silence until a caring social worker teaches her to use sign language to communicate.",
+  "runtime_minutes": 20,
+  "release_date": "08.08.2017",
+  "genres": [
+    "Short",
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0276162",
+      "name": "Rachel Fielding"
+    },
+    {
+      "id": "nm0948753",
+      "name": "Philip York"
+    },
+    {
+      "id": "nm2053650",
+      "name": "Rachel Shenton"
+    },
+    {
+      "id": "nm8576008",
+      "name": "Maisie Sly"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm1546084",
+      "name": "Chris Overton"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm2053650",
+      "name": "Rachel Shenton"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0276162",
+      "name": "Rachel Fielding",
+      "character": "Sue"
+    },
+    {
+      "id": "nm0948753",
+      "name": "Philip York",
+      "character": "Paul"
+    },
+    {
+      "id": "nm2053650",
+      "name": "Rachel Shenton",
+      "character": "Joanne"
+    },
+    {
+      "id": "nm8576008",
+      "name": "Maisie Sly",
+      "character": "Libby"
+    },
+    {
+      "id": "nm0057930",
+      "name": "Anna Barry",
+      "character": "Nancy"
+    },
+    {
+      "id": "nm8581420",
+      "name": "Samuel Glyde-Rees",
+      "character": "Seb"
+    },
+    {
+      "id": "nm8581419",
+      "name": "Annie Cusselle",
+      "character": "Pip"
+    },
+    {
+      "id": "nm9675298",
+      "name": "Marilyn Willrich",
+      "character": "Customer 1"
+    },
+    {
+      "id": "nm9738589",
+      "name": "Zeranna Bueno Del Carpio",
+      "character": "Customer 2"
+    }
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "English",
+    "British Sign Language"
+  ],
+  "color": "Color",
+  "filmweb_id": 802442,
+  "year": 2017,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTczN2JjZDQtZjJjNC00MzdiLWI2OTQtNGMxYzNiYzY1OWVlXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.7,
+      "votes": 3409,
+      "distribution": {
+        "1": 56,
+        "2": 21,
+        "3": 19,
+        "4": 33,
+        "5": 104,
+        "6": 271,
+        "7": 715,
+        "8": 1056,
+        "9": 543,
+        "10": 591
+      },
+      "normalized": 6.5141
+    },
+    "filmweb": {
+      "rating": 7.15,
+      "votes": 1296,
+      "distribution": {
+        "1": 6,
+        "2": 4,
+        "3": 15,
+        "4": 25,
+        "5": 92,
+        "6": 198,
+        "7": 382,
+        "8": 411,
+        "9": 136,
+        "10": 27
+      },
+      "normalized": 5.7357
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "05.11.2022",
+      "normalized": 6.3474
+    },
+    "score": 6.1991
+  },
+  "polish_title": "Milczące dziecko",
+  "silent": false,
+  "description_pl": "W wiejskiej, angielskiej rodzinie klasy średniej dorasta czteroletnia Libby (Maisie Sly). Czteroletnia dziewczynka jest głucha i całe swoje życie spędza w świecie ciszy. Zapracowani rodzice Sue (Rachel Fielding) i Paul (Philip York) decydują się na skorzystanie z pomocy pracownika socjalnego, który umożliwi ich najmłodszej córce pójście po raz pierwszy do szkoły. Joanne (<a href=\"/osoba/?id=nm2053650\">Rachel Shenton</a>) i Libby niemal natychmiast znajdują nić porozumienia, gdy kobieta zaczyna uczyć dziewczynkę brytyjskiego języka migowego.",
+  "producers": [
+    {
+      "id": "nm3090677",
+      "name": "Mo Chaudry"
+    },
+    {
+      "id": "nm8538781",
+      "name": "Ali Farahani"
+    },
+    {
+      "id": "nm0289398",
+      "name": "Julie Foy"
+    },
+    {
+      "id": "nm8287957",
+      "name": "Rebecca Harris-Turner"
+    },
+    {
+      "id": "nm8538779",
+      "name": "Vanessa Johnstone"
+    },
+    {
+      "id": "nm9714687",
+      "name": "Ian Lowes"
+    },
+    {
+      "id": "nm8565580",
+      "name": "Terry Murphy"
+    },
+    {
+      "id": "nm2936281",
+      "name": "Daniel Ormerod"
+    },
+    {
+      "id": "nm1546084",
+      "name": "Chris Overton"
+    },
+    {
+      "id": "nm2053650",
+      "name": "Rachel Shenton"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm8538781",
+      "name": "Ali Farahani"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

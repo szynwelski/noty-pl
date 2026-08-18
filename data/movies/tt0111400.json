@@ -1,0 +1,241 @@
+{
+  "imdb_id": "tt0111400",
+  "title": "Terminal Velocity",
+  "description": "A maverick skydiver and a former KGB agent team up to stop the Russian mafia from stealing gold.",
+  "runtime_minutes": 102,
+  "release_date": "23.09.1994",
+  "genres": [
+    "Action",
+    "Mystery",
+    "Romance",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000221",
+      "name": "Charlie Sheen"
+    },
+    {
+      "id": "nm0000176",
+      "name": "Nastassja Kinski"
+    },
+    {
+      "id": "nm0001254",
+      "name": "James Gandolfini"
+    },
+    {
+      "id": "nm0001520",
+      "name": "Christopher McDonald"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0764776",
+      "name": "Deran Sarafian"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0878638",
+      "name": "David Twohy"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000221",
+      "name": "Charlie Sheen",
+      "character": "Richard 'Ditch' Brodie"
+    },
+    {
+      "id": "nm0000176",
+      "name": "Nastassja Kinski",
+      "character": "Chris Morrow"
+    },
+    {
+      "id": "nm0001254",
+      "name": "James Gandolfini",
+      "character": "Ben Pinkwater"
+    },
+    {
+      "id": "nm0001520",
+      "name": "Christopher McDonald",
+      "character": "Kerr"
+    },
+    {
+      "id": "nm0120147",
+      "name": "Gary Bullock",
+      "character": "Lex"
+    },
+    {
+      "id": "nm0397826",
+      "name": "Hans Howes",
+      "character": "Sam"
+    },
+    {
+      "id": "nm0887708",
+      "name": "Melvin Van Peebles",
+      "character": "Noble"
+    },
+    {
+      "id": "nm0567239",
+      "name": "Suli McCullough",
+      "character": "Robocam"
+    },
+    {
+      "id": "nm0211040",
+      "name": "Cathryn de Prume",
+      "character": "Karen"
+    },
+    {
+      "id": "nm0764773",
+      "name": "Richard Sarafian Jr.",
+      "character": "Dominic"
+    },
+    {
+      "id": "nm0225435",
+      "name": "Lori Lynn Dickerson",
+      "character": "Helicopter Newscaster"
+    },
+    {
+      "id": "nm0278176",
+      "name": "Terry Finn",
+      "character": "Birthday Mom"
+    },
+    {
+      "id": "nm0891469",
+      "name": "Martha Vazquez",
+      "character": "Newscaster"
+    },
+    {
+      "id": "nm0445551",
+      "name": "Tim Kelleher",
+      "character": "Jump Junkie #1"
+    },
+    {
+      "id": "nm0486728",
+      "name": "Brooke Langton",
+      "character": "Jump Junkie #2"
+    },
+    {
+      "id": "nm0522020",
+      "name": "Tim Lounibos",
+      "character": "Jump Junkie #3"
+    },
+    {
+      "id": "nm0793836",
+      "name": "Sofia Shinas",
+      "character": "Broken Legs Max"
+    },
+    {
+      "id": "nm0563428",
+      "name": "Matthew Mazuroski",
+      "character": "Tom, Jump Instructor"
+    }
+  ],
+  "countries": [
+    "United States",
+    "Canada",
+    "Japan",
+    "United Kingdom"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 7969,
+  "year": 1994,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNWNhM2E3YjktMmZhMC00YWQ2LWEwMzItM2UyZGNmYWMwMGEzXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.6,
+      "votes": 15608,
+      "distribution": {
+        "1": 365,
+        "2": 354,
+        "3": 836,
+        "4": 1712,
+        "5": 4012,
+        "6": 4441,
+        "7": 2329,
+        "8": 821,
+        "9": 235,
+        "10": 503
+      },
+      "normalized": 3.0584
+    },
+    "filmweb": {
+      "rating": 6.03,
+      "votes": 1617,
+      "distribution": {
+        "1": 11,
+        "2": 16,
+        "3": 43,
+        "4": 98,
+        "5": 299,
+        "6": 584,
+        "7": 419,
+        "8": 101,
+        "9": 20,
+        "10": 26
+      },
+      "normalized": 3.7026
+    },
+    "michal": {
+      "rating": 2,
+      "date_rated": "19.01.2013",
+      "normalized": 3.1556
+    },
+    "score": 3.3055
+  },
+  "polish_title": "Na granicy ryzyka",
+  "silent": false,
+  "description_pl": "Richard Brody jest instruktorem skoków spadochronowych. Pewnego dnia zgłasza się do niego atrakcyjna dziewczyna, która chce wykonać skok. Richard bez przygotowania dziewczyny godzi się na przeprowadzenie całej akcji. Niestety dziewczyna ginie, a Richard trafia na ślad spisku, w który zaangażowani są agenci KGB.",
+  "producers": [
+    {
+      "id": "nm0095796",
+      "name": "Ron Booth"
+    },
+    {
+      "id": "nm0103497",
+      "name": "Joan Bradshaw"
+    },
+    {
+      "id": "nm0181202",
+      "name": "Robert W. Cort"
+    },
+    {
+      "id": "nm0257259",
+      "name": "Tom Engelman"
+    },
+    {
+      "id": "nm0276059",
+      "name": "Ted Field"
+    },
+    {
+      "id": "nm0472256",
+      "name": "Scott Kroopf"
+    },
+    {
+      "id": "nm0639504",
+      "name": "Dean O'Brien"
+    },
+    {
+      "id": "nm0878638",
+      "name": "David Twohy"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006193",
+      "name": "Joel McNeely"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005929",
+      "name": "Oliver Wood"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

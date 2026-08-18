@@ -1,0 +1,31 @@
+{
+  "id": "nm0001657",
+  "name": "Oliver Reed",
+  "filmography": [
+    {
+      "imdb_id": "tt0172495",
+      "title": "Gladiator",
+      "year": 2000,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Proximo"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTM3NDg5MDg1MF5BMl5BanBnXkFtZTcwNzEwODkyOA@@._V1_.jpg",
+  "birth_date": "13.02.1938",
+  "death_date": "02.05.1999",
+  "birth_location": "Wimbledon, London, England, UK",
+  "height": "1.80 m",
+  "imdb_scraped": true,
+  "filmweb_id": 7716,
+  "name_pl": "Oliver Reed",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 7716
+}

@@ -1,0 +1,209 @@
+{
+  "imdb_id": "tt0048545",
+  "title": "Rebel Without a Cause",
+  "description": "A rebellious young man with a troubled past comes to a new town, finding friends and enemies.",
+  "runtime_minutes": 111,
+  "release_date": "27.10.1955",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0000015",
+      "name": "James Dean"
+    },
+    {
+      "id": "nm0000081",
+      "name": "Natalie Wood"
+    },
+    {
+      "id": "nm0000543",
+      "name": "Sal Mineo"
+    },
+    {
+      "id": "nm0000822",
+      "name": "Jim Backus"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0712947",
+      "name": "Nicholas Ray"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0827856",
+      "name": "Stewart Stern"
+    },
+    {
+      "id": "nm0795730",
+      "name": "Irving Shulman"
+    },
+    {
+      "id": "nm0712947",
+      "name": "Nicholas Ray"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000015",
+      "name": "James Dean",
+      "character": "Jim Stark"
+    },
+    {
+      "id": "nm0000081",
+      "name": "Natalie Wood",
+      "character": "Judy"
+    },
+    {
+      "id": "nm0000543",
+      "name": "Sal Mineo",
+      "character": "Plato Crawford"
+    },
+    {
+      "id": "nm0000822",
+      "name": "Jim Backus",
+      "character": "Frank Stark"
+    },
+    {
+      "id": "nm0233352",
+      "name": "Ann Doran",
+      "character": "Carol Stark"
+    },
+    {
+      "id": "nm0001904",
+      "name": "Corey Allen",
+      "character": "Buzz Gunderson"
+    },
+    {
+      "id": "nm0394438",
+      "name": "William Hopper",
+      "character": "Judy's Father"
+    },
+    {
+      "id": "nm0399955",
+      "name": "Rochelle Hudson",
+      "character": "Judy's Mother"
+    },
+    {
+      "id": "nm0000454",
+      "name": "Dennis Hopper",
+      "character": "Goon"
+    },
+    {
+      "id": "nm0686857",
+      "name": "Edward Platt",
+      "character": "Ray Fremick"
+    },
+    {
+      "id": "nm0796660",
+      "name": "Steffi Sidney",
+      "character": "Mil"
+    },
+    {
+      "id": "nm0134783",
+      "name": "Marietta Canty",
+      "character": "Crawford Family Maid"
+    },
+    {
+      "id": "nm0109877",
+      "name": "Virginia Brissac",
+      "character": "Mrs. Stark"
+    },
+    {
+      "id": "nm0518885",
+      "name": "Beverly Long",
+      "character": "Helen"
+    },
+    {
+      "id": "nm0938052",
+      "name": "Ian Wolfe",
+      "character": "Dr. Minton"
+    },
+    {
+      "id": "nm0563615",
+      "name": "Frank Mazzola",
+      "character": "Crunch"
+    },
+    {
+      "id": "nm0288311",
+      "name": "Robert Foulk",
+      "character": "Gene"
+    },
+    {
+      "id": "nm0799779",
+      "name": "Jack Simmons",
+      "character": "Cookie"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 4382,
+  "year": 1955,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BY2QzZWUzODQtODUyZi00NDBlLTgzMGEtY2UzNmZhYzI0MTEyXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.6,
+      "votes": 103950,
+      "distribution": {
+        "1": 822,
+        "2": 518,
+        "3": 769,
+        "4": 1592,
+        "5": 3990,
+        "6": 10317,
+        "7": 24494,
+        "8": 31933,
+        "9": 15183,
+        "10": 14332
+      },
+      "normalized": 6.5982
+    },
+    "filmweb": {
+      "rating": 7.43,
+      "votes": 35314,
+      "distribution": {
+        "1": 114,
+        "2": 106,
+        "3": 356,
+        "4": 700,
+        "5": 1856,
+        "6": 4295,
+        "7": 9714,
+        "8": 10940,
+        "9": 4672,
+        "10": 2561
+      },
+      "normalized": 6.5485
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "18.12.2005",
+      "normalized": 7.2292
+    },
+    "score": 6.792
+  },
+  "polish_title": "Buntownik bez powodu",
+  "silent": false,
+  "description_pl": "Jim Stark jest \"trudnym\" nastolatkiem, z którym radzą sobie rodzice. Myślą oni, że liczne przeprowadzki pomogą chłopcu, tymczasem jest na odwrót. Jim potrzebuje przyjaciół, jest pogrążony w samotności, a ciągła zmiana miejsca zamieszkania nie ułatwiają mu znalezienie tego czego szuka.",
+  "composers": [
+    {
+      "id": "nm0006260",
+      "name": "Leonard Rosenman"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005735",
+      "name": "Ernest Haller"
+    }
+  ],
+  "fetched_at": "2026-08-15"
+}

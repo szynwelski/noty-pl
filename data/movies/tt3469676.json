@@ -1,0 +1,130 @@
+{
+  "imdb_id": "tt3469676",
+  "title": "28",
+  "description": "Three men transport the body of a woman, who was raped and murdered, in an old van. One of the men will find out that the woman is his estranged wife.",
+  "runtime_minutes": 98,
+  "release_date": "02.06.2017",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm5594794",
+      "name": "Semini Iddamalgoda"
+    },
+    {
+      "id": "nm1550104",
+      "name": "Sarath Kothalawala"
+    },
+    {
+      "id": "nm1550987",
+      "name": "Rukmal Nirosh"
+    },
+    {
+      "id": "nm1269796",
+      "name": "Mahendra Perera"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm2702141",
+      "name": "Prasanna Jayakody"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm2702141",
+      "name": "Prasanna Jayakody"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm5594794",
+      "name": "Semini Iddamalgoda",
+      "character": "Suddhi"
+    },
+    {
+      "id": "nm1550104",
+      "name": "Sarath Kothalawala",
+      "character": ""
+    },
+    {
+      "id": "nm1550987",
+      "name": "Rukmal Nirosh",
+      "character": "Mani"
+    },
+    {
+      "id": "nm1269796",
+      "name": "Mahendra Perera",
+      "character": "Abasiri"
+    }
+  ],
+  "countries": [
+    "Sri Lanka"
+  ],
+  "languages": [
+    "Sinhala"
+  ],
+  "color": "Color",
+  "year": 2014,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzFlMzQ2MTAtYmNiYS00ZTg0LThiOGQtZWNlYTFmMGEwZDU3XkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 708562,
+  "ratings": {
+    "imdb": {
+      "rating": 7,
+      "votes": 116,
+      "distribution": {
+        "1": 5,
+        "2": 3,
+        "3": 2,
+        "4": 3,
+        "5": 7,
+        "6": 14,
+        "7": 13,
+        "8": 26,
+        "9": 14,
+        "10": 29
+      },
+      "normalized": 5.3334
+    },
+    "filmweb": {
+      "rating": 4.74,
+      "votes": 38,
+      "distribution": {
+        "1": 4,
+        "2": 2,
+        "3": 4,
+        "4": 4,
+        "5": 7,
+        "6": 10,
+        "7": 7,
+        "8": 0,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 4.6766
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "22.12.2018",
+      "normalized": 6.4102
+    },
+    "score": 5.4734
+  },
+  "polish_title": "28",
+  "silent": false,
+  "composers": [
+    {
+      "id": "nm6221771",
+      "name": "Deshaka Bamunumulla"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm4767277",
+      "name": "Chandana Jayasinghe"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

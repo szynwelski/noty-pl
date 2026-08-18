@@ -1,0 +1,48 @@
+{
+  "id": "nm0574433",
+  "name": "Frank McRae",
+  "filmography": [
+    {
+      "imdb_id": "tt0079817",
+      "title": "Rocky II",
+      "year": 1979,
+      "roles": [
+        "cast"
+      ],
+      "character": "Meat Foreman"
+    },
+    {
+      "imdb_id": "tt0085995",
+      "title": "National Lampoon's Vacation",
+      "year": 1983,
+      "roles": [
+        "cast"
+      ],
+      "character": "Grover"
+    },
+    {
+      "imdb_id": "tt0097770",
+      "title": "Lock Up",
+      "year": 1989,
+      "roles": [
+        "cast"
+      ],
+      "character": "Eclipse"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTEyMTA4NDkyNTBeQTJeQWpwZ15BbWU3MDYxODEzMTg@._V1_.jpg",
+  "birth_date": "18.03.1944",
+  "death_date": "29.04.2021",
+  "birth_location": "Memphis, Tennessee, USA",
+  "height": "1.98 m",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "filmweb_id": 7245,
+  "wikidata_fw_id": 7245,
+  "gender": "M",
+  "name_pl": "Frank McRae",
+  "birth_location_pl": "Memphis, Tennessee"
+}

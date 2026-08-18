@@ -1,0 +1,256 @@
+{
+  "imdb_id": "tt0450405",
+  "title": "Cirque du Freak: The Vampire's Assistant",
+  "description": "Teenager Darren Shan meets a mysterious man at a freak show who turns out to be a vampire. After a series of events, Darren must leave his normal life and go on the road with the Cirque du Freak, becoming a creature of the night.",
+  "runtime_minutes": 109,
+  "release_date": "23.10.2009",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm1491631",
+      "name": "Chris Massoglia"
+    },
+    {
+      "id": "nm0000604",
+      "name": "John C. Reilly"
+    },
+    {
+      "id": "nm0000161",
+      "name": "Salma Hayek"
+    },
+    {
+      "id": "nm1242688",
+      "name": "Josh Hutcherson"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0919369",
+      "name": "Paul Weitz"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0919369",
+      "name": "Paul Weitz"
+    },
+    {
+      "id": "nm0001338",
+      "name": "Brian Helgeland"
+    },
+    {
+      "id": "nm1752231",
+      "name": "Darren Shan"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1491631",
+      "name": "Chris Massoglia",
+      "character": "Darren"
+    },
+    {
+      "id": "nm0000604",
+      "name": "John C. Reilly",
+      "character": "Crepsley"
+    },
+    {
+      "id": "nm0000161",
+      "name": "Salma Hayek",
+      "character": "Madame Truska"
+    },
+    {
+      "id": "nm1242688",
+      "name": "Josh Hutcherson",
+      "character": "Steve"
+    },
+    {
+      "id": "nm2827359",
+      "name": "Jessica Carlson",
+      "character": "Rebecca"
+    },
+    {
+      "id": "nm0148964",
+      "name": "Michael Cerveris",
+      "character": "Mr. Tiny"
+    },
+    {
+      "id": "nm0829032",
+      "name": "Ray Stevenson",
+      "character": "Murlaugh"
+    },
+    {
+      "id": "nm0297578",
+      "name": "Patrick Fugit",
+      "character": "Evra the Snake Boy"
+    },
+    {
+      "id": "nm2838320",
+      "name": "Morgan Saylor",
+      "character": "Annie"
+    },
+    {
+      "id": "nm0573134",
+      "name": "Don McManus",
+      "character": "Mr. Shan"
+    },
+    {
+      "id": "nm0131974",
+      "name": "Colleen Camp",
+      "character": "Mrs. Shan"
+    },
+    {
+      "id": "nm0913822",
+      "name": "Ken Watanabe",
+      "character": "Mr. Tall"
+    },
+    {
+      "id": "nm0428963",
+      "name": "Orlando Jones",
+      "character": "Alexander Ribs"
+    },
+    {
+      "id": "nm0265670",
+      "name": "Frankie Faison",
+      "character": "Rhamus Twobellies"
+    },
+    {
+      "id": "nm0000353",
+      "name": "Willem Dafoe",
+      "character": "Gavner Purl"
+    },
+    {
+      "id": "nm1102891",
+      "name": "Kristen Schaal",
+      "character": "Gertha Teeth"
+    },
+    {
+      "id": "nm0106755",
+      "name": "Patrick Breen",
+      "character": "Mr. Kersey"
+    },
+    {
+      "id": "nm0940430",
+      "name": "Tom Woodruff Jr.",
+      "character": "Wolfman"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French"
+  ],
+  "color": "Color",
+  "filmweb_id": 212254,
+  "year": 2009,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTI1NDA1MTMwNl5BMl5BanBnXkFtZTcwNTg0MDE4Mg@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.8,
+      "votes": 49735,
+      "distribution": {
+        "1": 1523,
+        "2": 1208,
+        "3": 2038,
+        "4": 4009,
+        "5": 8046,
+        "6": 12258,
+        "7": 9212,
+        "8": 4514,
+        "9": 1783,
+        "10": 5144
+      },
+      "normalized": 3.3095
+    },
+    "filmweb": {
+      "rating": 5.99,
+      "votes": 18830,
+      "distribution": {
+        "1": 213,
+        "2": 327,
+        "3": 994,
+        "4": 1641,
+        "5": 3503,
+        "6": 5021,
+        "7": 4161,
+        "8": 1789,
+        "9": 585,
+        "10": 596
+      },
+      "normalized": 3.3196
+    },
+    "jarek": {
+      "rating": 2,
+      "date_rated": "15.09.2010",
+      "normalized": 3.5003
+    },
+    "score": 3.3765
+  },
+  "polish_title": "Asystent wampira",
+  "silent": false,
+  "description_pl": "Młody chłopiec imieniem Darren spotyka na pokazie \"dziwaków\" tajemniczego mężczyznę, który okazuje się być wampirem. Po serii pewnych wydarzeń, Darren musi porzucić swoje dotychczasowe życie i ruszyć w dalszą drogę z Cirque du Freak i stać się wampirem.",
+  "producers": [
+    {
+      "id": "nm1097895",
+      "name": "Kerry Kohansky-Roberts"
+    },
+    {
+      "id": "nm0464387",
+      "name": "Dan Kolsrud"
+    },
+    {
+      "id": "nm1894168",
+      "name": "Ewan Leslie"
+    },
+    {
+      "id": "nm0508764",
+      "name": "Rodney Liber"
+    },
+    {
+      "id": "nm0583948",
+      "name": "Andrew Miano"
+    },
+    {
+      "id": "nm0687108",
+      "name": "Courtney Pledger"
+    },
+    {
+      "id": "nm0705381",
+      "name": "Sarah Radclyffe"
+    },
+    {
+      "id": "nm0795682",
+      "name": "Lauren Shuler Donner"
+    },
+    {
+      "id": "nm0841534",
+      "name": "John Swallow"
+    },
+    {
+      "id": "nm0919369",
+      "name": "Paul Weitz"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0871136",
+      "name": "Stephen Trask"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0614013",
+      "name": "J. Michael Muro"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

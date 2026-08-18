@@ -1,0 +1,36 @@
+{
+  "id": "nm0931783",
+  "name": "Tennessee Williams",
+  "filmography": [
+    {
+      "imdb_id": "tt0044081",
+      "title": "A Streetcar Named Desire",
+      "year": 1951,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0051459",
+      "title": "Cat on a Hot Tin Roof",
+      "year": 1958,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODcxNDE1MjgxOV5BMl5BanBnXkFtZTgwMTcxOTE3MDI@._V1_.jpg",
+  "birth_date": "26.03.1911",
+  "death_date": "25.02.1983",
+  "birth_location": "Columbus, Mississippi, USA",
+  "height": "1.68 m",
+  "imdb_scraped": true,
+  "filmweb_id": 45157,
+  "name_pl": "Tennessee Williams",
+  "birth_location_pl": "Columbus, Missisipi",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

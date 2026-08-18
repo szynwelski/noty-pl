@@ -1,0 +1,99 @@
+{
+  "imdb_id": "tt3816040",
+  "title": "The OceanMaker",
+  "description": "After the seas have disappeared, a courageous young female pilot fights against vicious sky pirates for control of the last remaining source of water: the clouds.",
+  "runtime_minutes": 9,
+  "release_date": "09.10.2014",
+  "genres": [
+    "Animation",
+    "Short",
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "directors": [
+    {
+      "id": "nm1909378",
+      "name": "Lucas Martell"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1909378",
+      "name": "Lucas Martell"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "Belize",
+    "United States"
+  ],
+  "languages": [],
+  "color": "Color",
+  "filmweb_id": 765138,
+  "year": 2014,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOTQ3MTIzMzMtOTM0My00ZGVlLThjY2EtOGJmOGFlNjVhZDhkXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.8,
+      "votes": 694,
+      "distribution": {
+        "1": 12,
+        "2": 10,
+        "3": 13,
+        "4": 27,
+        "5": 66,
+        "6": 126,
+        "7": 192,
+        "8": 147,
+        "9": 52,
+        "10": 49
+      },
+      "normalized": 5.2443
+    },
+    "filmweb": {
+      "rating": 6.33,
+      "votes": 141,
+      "distribution": {
+        "1": 1,
+        "2": 0,
+        "3": 5,
+        "4": 11,
+        "5": 18,
+        "6": 35,
+        "7": 42,
+        "8": 24,
+        "9": 3,
+        "10": 2
+      },
+      "normalized": 4.7967
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "07.04.2021",
+      "normalized": 4.5781
+    },
+    "score": 4.873
+  },
+  "polish_title": "The OceanMaker",
+  "silent": false,
+  "description_pl": "Ziemia po kataklizmie. Wszelka woda - jeziora, rzeki, oceany - wyparowała. Resztki ludzkości walczą między sobą o dostęp do chmur - ostatniego dostępnego źródła tego życiodajnego płynu. Pilotka samolotu ma pewien pomysł na to, jak sprawić, żeby w końcu spadł deszcz.",
+  "producers": [
+    {
+      "id": "nm6316424",
+      "name": "Christina Martell"
+    },
+    {
+      "id": "nm1909378",
+      "name": "Lucas Martell"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm3430401",
+      "name": "Chris Reyman"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

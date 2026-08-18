@@ -1,0 +1,223 @@
+{
+  "imdb_id": "tt0029843",
+  "title": "The Adventures of Robin Hood",
+  "description": "When Prince John and the Norman Lords begin oppressing the Saxon masses in King Richard's absence in 1190s England, a Saxon lord fights back as the outlaw leader of a resistance movement.",
+  "runtime_minutes": 102,
+  "release_date": "14.05.1938",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0001224",
+      "name": "Errol Flynn"
+    },
+    {
+      "id": "nm0000014",
+      "name": "Olivia de Havilland"
+    },
+    {
+      "id": "nm0001651",
+      "name": "Basil Rathbone"
+    },
+    {
+      "id": "nm0001647",
+      "name": "Claude Rains"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0002031",
+      "name": "Michael Curtiz"
+    },
+    {
+      "id": "nm0445033",
+      "name": "William Keighley"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0706993",
+      "name": "Norman Reilly Raine"
+    },
+    {
+      "id": "nm0589316",
+      "name": "Seton I. Miller"
+    },
+    {
+      "id": "nm0500284",
+      "name": "Rowland Leigh"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0001224",
+      "name": "Errol Flynn",
+      "character": "Robin Hood"
+    },
+    {
+      "id": "nm0000014",
+      "name": "Olivia de Havilland",
+      "character": "Maid Marian"
+    },
+    {
+      "id": "nm0001651",
+      "name": "Basil Rathbone",
+      "character": "Sir Guy of Gisbourne"
+    },
+    {
+      "id": "nm0001647",
+      "name": "Claude Rains",
+      "character": "Prince John"
+    },
+    {
+      "id": "nm0461549",
+      "name": "Patric Knowles",
+      "character": "Will Scarlett"
+    },
+    {
+      "id": "nm0657874",
+      "name": "Eugene Pallette",
+      "character": "Friar Tuck"
+    },
+    {
+      "id": "nm0002118",
+      "name": "Alan Hale",
+      "character": "Little John"
+    },
+    {
+      "id": "nm0178259",
+      "name": "Melville Cooper",
+      "character": "High Sheriff of Nottingham"
+    },
+    {
+      "id": "nm0402842",
+      "name": "Ian Hunter",
+      "character": "King Richard the Lion-Heart"
+    },
+    {
+      "id": "nm0640547",
+      "name": "Una O'Connor",
+      "character": "Bess"
+    },
+    {
+      "id": "nm0612743",
+      "name": "Herbert Mundin",
+      "character": "Much"
+    },
+    {
+      "id": "nm0002311",
+      "name": "Montagu Love",
+      "character": "Bishop of the Black Canons"
+    },
+    {
+      "id": "nm0929856",
+      "name": "Leonard Willey",
+      "character": "Sir Essex"
+    },
+    {
+      "id": "nm0633660",
+      "name": "Robert Noble",
+      "character": "Sir Ralf"
+    },
+    {
+      "id": "nm0402905",
+      "name": "Kenneth Hunter",
+      "character": "Sir Mortimer"
+    },
+    {
+      "id": "nm0913094",
+      "name": "Robert Warwick",
+      "character": "Sir Geoffrey"
+    },
+    {
+      "id": "nm0448560",
+      "name": "Colin Kenny",
+      "character": "Sir Baldwin"
+    },
+    {
+      "id": "nm0560091",
+      "name": "Lester Matthews",
+      "character": "Sir Ivor"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": null,
+  "filmweb_id": 8957,
+  "year": 1938,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZmFlZDg5MTItNDNmNi00NjFmLThlYmMtY2RiMzY2NmZkNDgyXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.9,
+      "votes": 58021,
+      "distribution": {
+        "1": 960,
+        "2": 324,
+        "3": 381,
+        "4": 718,
+        "5": 1794,
+        "6": 4383,
+        "7": 10774,
+        "8": 16778,
+        "9": 9775,
+        "10": 12134
+      },
+      "normalized": 7.1622
+    },
+    "filmweb": {
+      "rating": 7.3,
+      "votes": 2640,
+      "distribution": {
+        "1": 27,
+        "2": 10,
+        "3": 30,
+        "4": 48,
+        "5": 143,
+        "6": 384,
+        "7": 767,
+        "8": 745,
+        "9": 262,
+        "10": 224
+      },
+      "normalized": 6.0724
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "25.07.2016",
+      "normalized": 6.3474
+    },
+    "score": 6.5273
+  },
+  "polish_title": "Przygody Robin Hooda",
+  "silent": false,
+  "description_pl": "Sir Robin z Locksley (<a href=\"/osoba/?id=nm0001224\">Errol Flynn</a>), opowiadający się po stronie nieobecnego króla Ryszarda, zostaje pozbawiony swych włości i skazany na banicję. Wkrótce zbiera drużynę wesołków, z którymi postanawiają przywrócić sprawiedliwość i dać pocieszenie ludziom. Napadają bogatych i oddają łup biednym. Jednakże Robin, doskonały łucznik, z jednej strony podkochuje się w Lady Marion, z drugiej musi zmierzyć się z Szeryfem z Nottingham, Guyem Gisbournem i księciem Janem...",
+  "producers": [
+    {
+      "id": "nm0087533",
+      "name": "Henry Blanke"
+    },
+    {
+      "id": "nm0909259",
+      "name": "Hal B. Wallis"
+    },
+    {
+      "id": "nm0912491",
+      "name": "Jack L. Warner"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006157",
+      "name": "Erich Wolfgang Korngold"
+    }
+  ],
+  "fetched_at": "2026-08-15"
+}

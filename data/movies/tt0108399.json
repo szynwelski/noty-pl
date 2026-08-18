@@ -1,0 +1,260 @@
+{
+  "imdb_id": "tt0108399",
+  "title": "True Romance",
+  "description": "In Detroit, a pop-culture enthusiast steals cocaine from his new wife's pimp and tries to sell it in Hollywood, prompting the mobsters who own the drugs to pursue the couple.",
+  "runtime_minutes": 119,
+  "release_date": "10.09.1993",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Romance",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000225",
+      "name": "Christian Slater"
+    },
+    {
+      "id": "nm0000099",
+      "name": "Patricia Arquette"
+    },
+    {
+      "id": "nm0000454",
+      "name": "Dennis Hopper"
+    },
+    {
+      "id": "nm0000174",
+      "name": "Val Kilmer"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001716",
+      "name": "Tony Scott"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000233",
+      "name": "Quentin Tarantino"
+    },
+    {
+      "id": "nm0000812",
+      "name": "Roger Avary"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000225",
+      "name": "Christian Slater",
+      "character": "Clarence Worley"
+    },
+    {
+      "id": "nm0000099",
+      "name": "Patricia Arquette",
+      "character": "Alabama Whitman"
+    },
+    {
+      "id": "nm0000454",
+      "name": "Dennis Hopper",
+      "character": "Clifford Worley"
+    },
+    {
+      "id": "nm0000174",
+      "name": "Val Kilmer",
+      "character": "Mentor"
+    },
+    {
+      "id": "nm0000198",
+      "name": "Gary Oldman",
+      "character": "Drexl Spivey"
+    },
+    {
+      "id": "nm0000093",
+      "name": "Brad Pitt",
+      "character": "Floyd (Dick's Roommate)"
+    },
+    {
+      "id": "nm0000686",
+      "name": "Christopher Walken",
+      "character": "Vincenzo Coccotti"
+    },
+    {
+      "id": "nm0001621",
+      "name": "Bronson Pinchot",
+      "character": "Elliot Blitzer"
+    },
+    {
+      "id": "nm0000168",
+      "name": "Samuel L. Jackson",
+      "character": "Big Don"
+    },
+    {
+      "id": "nm0001650",
+      "name": "Michael Rapaport",
+      "character": "Dick Ritchie"
+    },
+    {
+      "id": "nm0007210",
+      "name": "Saul Rubinek",
+      "character": "Lee Donowitz"
+    },
+    {
+      "id": "nm0004916",
+      "name": "Conchata Ferrell",
+      "character": "Mary Louise Ravencroft"
+    },
+    {
+      "id": "nm0001254",
+      "name": "James Gandolfini",
+      "character": "Virgil"
+    },
+    {
+      "id": "nm0505764",
+      "name": "Anna Thomson",
+      "character": "Lucy"
+    },
+    {
+      "id": "nm0034519",
+      "name": "Victor Argo",
+      "character": "Lenny"
+    },
+    {
+      "id": "nm0061003",
+      "name": "Paul Bates",
+      "character": "Marty"
+    },
+    {
+      "id": "nm0001606",
+      "name": "Chris Penn",
+      "character": "Nicky Dimes"
+    },
+    {
+      "id": "nm0001744",
+      "name": "Tom Sizemore",
+      "character": "Cody Nicholson"
+    }
+  ],
+  "countries": [
+    "United States",
+    "France"
+  ],
+  "languages": [
+    "English",
+    "Italian"
+  ],
+  "color": "Color",
+  "filmweb_id": 8858,
+  "year": 1993,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYzQ5OGMwMDAtMzcyOS00YTA4LWEwM2MtOTA1MDZjZGEyYmI1XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.9,
+      "votes": 262727,
+      "distribution": {
+        "1": 1691,
+        "2": 787,
+        "3": 1236,
+        "4": 2368,
+        "5": 6127,
+        "6": 18073,
+        "7": 52485,
+        "8": 86491,
+        "9": 50333,
+        "10": 43136
+      },
+      "normalized": 7.2612
+    },
+    "filmweb": {
+      "rating": 7.52,
+      "votes": 53982,
+      "distribution": {
+        "1": 359,
+        "2": 288,
+        "3": 643,
+        "4": 1077,
+        "5": 2350,
+        "6": 5599,
+        "7": 13615,
+        "8": 17097,
+        "9": 8205,
+        "10": 4749
+      },
+      "normalized": 6.7785
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "19.10.2005",
+      "normalized": 5.4199
+    },
+    "score": 6.4865
+  },
+  "polish_title": "Prawdziwy romans",
+  "silent": false,
+  "description_pl": "Samotnik Clarence Worley zafascynowany jest światem kina i komiksów. Jego życiem kieruje duch Elvisa Presleya. Pewnego dnia spotyka dziewczynę - Alabamę, w której zakochuje się od pierwszego wejrzenia i to z wzajemnością. Niestety czekają ich nie lada kłopoty.",
+  "producers": [
+    {
+      "id": "nm0053388",
+      "name": "Gary Barber"
+    },
+    {
+      "id": "nm0169110",
+      "name": "Lisa Cogswell"
+    },
+    {
+      "id": "nm0103756",
+      "name": "Don Edmonds"
+    },
+    {
+      "id": "nm0291552",
+      "name": "Spencer Franklin"
+    },
+    {
+      "id": "nm0352820",
+      "name": "Samuel Hadida"
+    },
+    {
+      "id": "nm0543921",
+      "name": "Gregory Manson"
+    },
+    {
+      "id": "nm0675305",
+      "name": "Steve Perry"
+    },
+    {
+      "id": "nm0732708",
+      "name": "James G. Robinson"
+    },
+    {
+      "id": "nm0804739",
+      "name": "James W. Skotchdopole"
+    },
+    {
+      "id": "nm0881130",
+      "name": "Bill Unger"
+    },
+    {
+      "id": "nm0918424",
+      "name": "Bob Weinstein"
+    },
+    {
+      "id": "nm0005544",
+      "name": "Harvey Weinstein"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0001877",
+      "name": "Hans Zimmer"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0453808",
+      "name": "Jeffrey L. Kimball"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,207 @@
+{
+  "imdb_id": "tt0061811",
+  "title": "In the Heat of the Night",
+  "description": "A black Philadelphia police detective is mistakenly suspected of a local murder while passing through a racially hostile Mississippi town, and after being cleared is reluctantly asked by the police chief to investigate the case.",
+  "runtime_minutes": 110,
+  "release_date": "02.08.1967",
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0001627",
+      "name": "Sidney Poitier"
+    },
+    {
+      "id": "nm0001768",
+      "name": "Rod Steiger"
+    },
+    {
+      "id": "nm0643105",
+      "name": "Warren Oates"
+    },
+    {
+      "id": "nm0335519",
+      "name": "Lee Grant"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0422484",
+      "name": "Norman Jewison"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0798103",
+      "name": "Stirling Silliphant"
+    },
+    {
+      "id": "nm0050398",
+      "name": "John Ball"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0001627",
+      "name": "Sidney Poitier",
+      "character": "Det. Virgil Tibbs"
+    },
+    {
+      "id": "nm0001768",
+      "name": "Rod Steiger",
+      "character": "Chief Bill Gillespie"
+    },
+    {
+      "id": "nm0643105",
+      "name": "Warren Oates",
+      "character": "Officer Sam Wood"
+    },
+    {
+      "id": "nm0335519",
+      "name": "Lee Grant",
+      "character": "Mrs. Colbert"
+    },
+    {
+      "id": "nm0309588",
+      "name": "Larry Gates",
+      "character": "Eric Endicott"
+    },
+    {
+      "id": "nm0666247",
+      "name": "James Patterson",
+      "character": "Mr. Purdy"
+    },
+    {
+      "id": "nm0769974",
+      "name": "William Schallert",
+      "character": "Mayor Schubert"
+    },
+    {
+      "id": "nm0723968",
+      "name": "Beah Richards",
+      "character": "Mama Caleba"
+    },
+    {
+      "id": "nm0926338",
+      "name": "Peter Whitney",
+      "character": "Courtney"
+    },
+    {
+      "id": "nm0613794",
+      "name": "Kermit Murdock",
+      "character": "Henderson"
+    },
+    {
+      "id": "nm0542847",
+      "name": "Larry D. Mann",
+      "character": "Watkins"
+    },
+    {
+      "id": "nm0164273",
+      "name": "Matt Clark",
+      "character": "Packy Harrison"
+    },
+    {
+      "id": "nm0539395",
+      "name": "Arthur Malet",
+      "character": "Ulam"
+    },
+    {
+      "id": "nm0829387",
+      "name": "Fred Stewart",
+      "character": "Dr. Stuart"
+    },
+    {
+      "id": "nm0212913",
+      "name": "Quentin Dean",
+      "character": "Delores Purdy"
+    },
+    {
+      "id": "nm0934113",
+      "name": "Scott Wilson",
+      "character": "Harvey Oberst"
+    },
+    {
+      "id": "nm0779850",
+      "name": "Timothy Scott",
+      "character": "Shagbag"
+    },
+    {
+      "id": "nm0914925",
+      "name": "William Watson",
+      "character": "McNeil"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 30866,
+  "year": 1967,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjVmYjZkMmQtYmFjZC00MmFhLTg5NzMtNzgzODE0YjQwNzlmXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.9,
+      "votes": 92155,
+      "distribution": {
+        "1": 1335,
+        "2": 241,
+        "3": 317,
+        "4": 572,
+        "5": 1649,
+        "6": 5262,
+        "7": 18436,
+        "8": 34794,
+        "9": 17417,
+        "10": 12132
+      },
+      "normalized": 7.1944
+    },
+    "filmweb": {
+      "rating": 7.41,
+      "votes": 7475,
+      "distribution": {
+        "1": 37,
+        "2": 15,
+        "3": 33,
+        "4": 92,
+        "5": 209,
+        "6": 818,
+        "7": 2531,
+        "8": 2730,
+        "9": 733,
+        "10": 277
+      },
+      "normalized": 6.432
+    },
+    "michal": {
+      "rating": 8,
+      "date_rated": "04.08.2016",
+      "normalized": 8.1116
+    },
+    "score": 7.246
+  },
+  "polish_title": "W upalną noc",
+  "silent": false,
+  "description_pl": "Będący przejazdem w pewnej miejscowości na południu Stanów Zjednoczonych policjant - Virgil Tibbs (<a href=\"/osoba/?id=nm0001627\">Sidney Poitier</a>) zostaje niesłusznie posądzony o morderstwo, tylko dlatego, że jest Afroamerykaninem. Kiedy miejscowa policja dowiaduje się, że jest on znanym i cenionym ekspertem filadelfijskiego wydziału zabójstw, prosi go o pomoc w dochodzeniu.",
+  "composers": [
+    {
+      "id": "nm0005065",
+      "name": "Quincy Jones"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005549",
+      "name": "Haskell Wexler"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "nm0001697",
+  "name": "Chris Sarandon",
+  "filmography": [
+    {
+      "imdb_id": "tt0093779",
+      "title": "The Princess Bride",
+      "year": 1987,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Prince Humperdinck"
+    },
+    {
+      "imdb_id": "tt0107688",
+      "title": "The Nightmare Before Christmas",
+      "year": 1993,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Jack (Speaking)"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYTc3ZjZmMjEtNjY0Ny00MTRjLWFmMWUtZTRiOTRlYTRlZDZjXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "24.07.1942",
+  "birth_location": "Beckley, West Virginia, USA",
+  "height": "1.85 m",
+  "imdb_scraped": true,
+  "filmweb_id": 41501,
+  "name_pl": "Chris Sarandon",
+  "birth_location_pl": "Beckley, Wirginia Zachodnia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 41501
+}

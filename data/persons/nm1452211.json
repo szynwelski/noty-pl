@@ -1,0 +1,37 @@
+{
+  "id": "nm1452211",
+  "name": "Bob Sapp",
+  "filmography": [
+    {
+      "imdb_id": "tt0357277",
+      "title": "Elektra",
+      "year": 2005,
+      "roles": [
+        "cast"
+      ],
+      "character": "Stone"
+    },
+    {
+      "imdb_id": "tt0816462",
+      "title": "Conan the Barbarian",
+      "year": 2011,
+      "roles": [
+        "cast"
+      ],
+      "character": "Ukafa"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQ1Mzk3Mzc0OV5BMl5BanBnXkFtZTcwNTM0MDYwOA@@._V1_.jpg",
+  "birth_date": "22.09.1973",
+  "birth_location": "Colorado Springs, Colorado, USA",
+  "height": "1.96 m",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "filmweb_id": 160996,
+  "name_pl": "Bob Sapp",
+  "birth_location_pl": "Colorado Springs, Kolorado",
+  "gender": "M"
+}

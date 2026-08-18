@@ -1,0 +1,483 @@
+{
+  "imdb_id": "tt6259380",
+  "title": "Code 8",
+  "description": "A super-powered construction worker falls in with a group of criminals in order to raise the funds to help his ill mother.",
+  "runtime_minutes": 98,
+  "release_date": "13.12.2019",
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0558182",
+      "name": "Kari Matchett"
+    },
+    {
+      "id": "nm2064412",
+      "name": "Robbie Amell"
+    },
+    {
+      "id": "nm2818965",
+      "name": "Penny Eizenga"
+    },
+    {
+      "id": "nm0063143",
+      "name": "Lawrence Bayne"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm3728712",
+      "name": "Jeff Chan"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm2425790",
+      "name": "Chris Pare"
+    },
+    {
+      "id": "nm3728712",
+      "name": "Jeff Chan"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0558182",
+      "name": "Kari Matchett",
+      "character": "Mary Reed"
+    },
+    {
+      "id": "nm2064412",
+      "name": "Robbie Amell",
+      "character": "Connor Reed"
+    },
+    {
+      "id": "nm2818965",
+      "name": "Penny Eizenga",
+      "character": "Receptionist"
+    },
+    {
+      "id": "nm0063143",
+      "name": "Lawrence Bayne",
+      "character": "Big Joe"
+    },
+    {
+      "id": "nm0428291",
+      "name": "Jai Jai Jones",
+      "character": "Travis"
+    },
+    {
+      "id": "nm3520506",
+      "name": "Alex Mallari Jr.",
+      "character": "Kingston"
+    },
+    {
+      "id": "nm0072648",
+      "name": "Shaun Benson",
+      "character": "Dixon"
+    },
+    {
+      "id": "nm0437646",
+      "name": "Sung Kang",
+      "character": "Park"
+    },
+    {
+      "id": "nm1378320",
+      "name": "Aaron Abrams",
+      "character": "Davis"
+    },
+    {
+      "id": "nm0730045",
+      "name": "Martin Roach",
+      "character": "Captain Milltown"
+    },
+    {
+      "id": "nm6970024",
+      "name": "Nneka Elliott",
+      "character": "Reporter"
+    },
+    {
+      "id": "nm8088536",
+      "name": "Matthew Gouveia",
+      "character": "Dave - Grocery Store Manager"
+    },
+    {
+      "id": "nm3749442",
+      "name": "Kevin Claydon",
+      "character": "Truck Passenger"
+    },
+    {
+      "id": "nm1854386",
+      "name": "Stephen Amell",
+      "character": "Garrett"
+    },
+    {
+      "id": "nm5315658",
+      "name": "Laysla De Oliveira",
+      "character": "Maddy"
+    },
+    {
+      "id": "nm4696567",
+      "name": "Vlad Alexis",
+      "character": "Freddie"
+    },
+    {
+      "id": "nm0159456",
+      "name": "Ho Chow",
+      "character": "Security Guard"
+    },
+    {
+      "id": "nm0636142",
+      "name": "Simon Northwood",
+      "character": "Rhino"
+    }
+  ],
+  "countries": [
+    "Canada",
+    "United Kingdom"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 809454,
+  "year": 2019,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMWNjZDVlMzUtZWVhNi00YmRmLThlM2MtZWZmOTY4ZjI0MTVlXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.1,
+      "votes": 58406,
+      "distribution": {
+        "1": 854,
+        "2": 607,
+        "3": 1250,
+        "4": 3018,
+        "5": 8787,
+        "6": 19117,
+        "7": 15000,
+        "8": 5679,
+        "9": 1526,
+        "10": 2568
+      },
+      "normalized": 3.7851
+    },
+    "filmweb": {
+      "rating": 5.96,
+      "votes": 12749,
+      "distribution": {
+        "1": 33,
+        "2": 72,
+        "3": 405,
+        "4": 893,
+        "5": 2602,
+        "6": 4643,
+        "7": 3049,
+        "8": 807,
+        "9": 125,
+        "10": 120
+      },
+      "normalized": 3.2913
+    },
+    "jarek": {
+      "rating": 3,
+      "date_rated": "27.04.2020",
+      "normalized": 4.2591
+    },
+    "score": 3.7785
+  },
+  "polish_title": "Kod 8",
+  "silent": false,
+  "producers": [
+    {
+      "id": "nm7656049",
+      "name": "Sam Akel"
+    },
+    {
+      "id": "nm9220851",
+      "name": "Abdulaziz Alsunaid"
+    },
+    {
+      "id": "nm2064412",
+      "name": "Robbie Amell"
+    },
+    {
+      "id": "nm1854386",
+      "name": "Stephen Amell"
+    },
+    {
+      "id": "nm9220843",
+      "name": "Rebecca Bouck"
+    },
+    {
+      "id": "nm9148199",
+      "name": "Christopher Anthony Brown"
+    },
+    {
+      "id": "nm0132250",
+      "name": "Brian Campbell"
+    },
+    {
+      "id": "nm9220845",
+      "name": "David Cartee"
+    },
+    {
+      "id": "nm3728712",
+      "name": "Jeff Chan"
+    },
+    {
+      "id": "nm9220849",
+      "name": "Joel Chan"
+    },
+    {
+      "id": "nm9220850",
+      "name": "Rebecca Chan"
+    },
+    {
+      "id": "nm9220846",
+      "name": "Rylie Chase"
+    },
+    {
+      "id": "nm3689938",
+      "name": "Dave Conlon"
+    },
+    {
+      "id": "nm9220835",
+      "name": "Diana Coppenbarger"
+    },
+    {
+      "id": "nm3903416",
+      "name": "Michael Davison"
+    },
+    {
+      "id": "nm9220875",
+      "name": "Eric Diep"
+    },
+    {
+      "id": "nm2248252",
+      "name": "Jay Douglas"
+    },
+    {
+      "id": "nm5470359",
+      "name": "Lauren Doyle"
+    },
+    {
+      "id": "nm8446604",
+      "name": "Kristen Dyrr"
+    },
+    {
+      "id": "nm4613520",
+      "name": "Q Fortier"
+    },
+    {
+      "id": "nm9220877",
+      "name": "Tiamat Fox"
+    },
+    {
+      "id": "nm6922838",
+      "name": "Brett Fraley"
+    },
+    {
+      "id": "nm6661872",
+      "name": "Priscilla Galvez"
+    },
+    {
+      "id": "nm9220842",
+      "name": "Susan Geddes"
+    },
+    {
+      "id": "nm2222628",
+      "name": "Wayne Marc Godfrey"
+    },
+    {
+      "id": "nm9220838",
+      "name": "Joseph Gonzalez"
+    },
+    {
+      "id": "nm8784418",
+      "name": "Candice Michelle Goodwin"
+    },
+    {
+      "id": "nm9220837",
+      "name": "Spencer Graham"
+    },
+    {
+      "id": "nm4789595",
+      "name": "Cissy Guidry"
+    },
+    {
+      "id": "nm4613711",
+      "name": "Lainie Guidry"
+    },
+    {
+      "id": "nm2247914",
+      "name": "Nav Gupta"
+    },
+    {
+      "id": "nm8865654",
+      "name": "Piper Herrington"
+    },
+    {
+      "id": "nm9220855",
+      "name": "Craig Hindall"
+    },
+    {
+      "id": "nm2368613",
+      "name": "Peter Huang"
+    },
+    {
+      "id": "nm9220848",
+      "name": "Raymond Joe"
+    },
+    {
+      "id": "nm0429134",
+      "name": "Robert Jones"
+    },
+    {
+      "id": "nm0437646",
+      "name": "Sung Kang"
+    },
+    {
+      "id": "nm1724526",
+      "name": "Lee Kim"
+    },
+    {
+      "id": "nm10214974",
+      "name": "Dawn Ladd"
+    },
+    {
+      "id": "nm9220844",
+      "name": "Aaliyah Larson"
+    },
+    {
+      "id": "nm9220841",
+      "name": "Larry Lee"
+    },
+    {
+      "id": "nm9220836",
+      "name": "Andrew Ling"
+    },
+    {
+      "id": "nm9220839",
+      "name": "Jay Lozada"
+    },
+    {
+      "id": "nm9575415",
+      "name": "Leah Meyer"
+    },
+    {
+      "id": "nm6382857",
+      "name": "Jasmin Morrison"
+    },
+    {
+      "id": "nm1013994",
+      "name": "Julian Moses"
+    },
+    {
+      "id": "nm9220854",
+      "name": "Angela Naismith"
+    },
+    {
+      "id": "nm9220876",
+      "name": "Ramon Palermo"
+    },
+    {
+      "id": "nm0660188",
+      "name": "Effy Papadopoulos"
+    },
+    {
+      "id": "nm2425790",
+      "name": "Chris Pare"
+    },
+    {
+      "id": "nm8071380",
+      "name": "Natasha Di Pasquale"
+    },
+    {
+      "id": "nm9842753",
+      "name": "Jakee Patel"
+    },
+    {
+      "id": "nm0672011",
+      "name": "Sascha Penn"
+    },
+    {
+      "id": "nm9220856",
+      "name": "Elizabeth Richards"
+    },
+    {
+      "id": "nm6661859",
+      "name": "Darcy Smith"
+    },
+    {
+      "id": "nm6888368",
+      "name": "Omar Spahi"
+    },
+    {
+      "id": "nm7260927",
+      "name": "Conner Stifel"
+    },
+    {
+      "id": "nm6966876",
+      "name": "Daniel Sun"
+    },
+    {
+      "id": "nm9575568",
+      "name": "Jennifer Theodonis"
+    },
+    {
+      "id": "nm9220874",
+      "name": "David Thomson"
+    },
+    {
+      "id": "nm9220840",
+      "name": "Frankie Tompkins"
+    },
+    {
+      "id": "nm9220872",
+      "name": "Bertrand Trepanier"
+    },
+    {
+      "id": "nm9220853",
+      "name": "Elena Volodina"
+    },
+    {
+      "id": "nm0913963",
+      "name": "Mary Anne Waterhouse"
+    },
+    {
+      "id": "nm9220852",
+      "name": "Reggie Weber"
+    },
+    {
+      "id": "nm8805647",
+      "name": "Diana MacNeill Wegner"
+    },
+    {
+      "id": "nm3704446",
+      "name": "Lou Wegner"
+    },
+    {
+      "id": "nm8212259",
+      "name": "Max Zell"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm3219940",
+      "name": "Ryan Taubert"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm3643519",
+      "name": "Alex Disenhof"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

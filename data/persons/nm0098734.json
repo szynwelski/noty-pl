@@ -1,0 +1,38 @@
+{
+  "id": "nm0098734",
+  "name": "Sam Bottoms",
+  "filmography": [
+    {
+      "imdb_id": "tt0067328",
+      "title": "The Last Picture Show",
+      "year": 1971,
+      "roles": [
+        "cast"
+      ],
+      "character": "Billy"
+    },
+    {
+      "imdb_id": "tt0078788",
+      "title": "Apocalypse Now",
+      "year": 1979,
+      "roles": [
+        "cast"
+      ],
+      "character": "Lance"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTIxMDQ3NDQ5OF5BMl5BanBnXkFtZTYwODY3MDY0._V1_.jpg",
+  "birth_date": "17.10.1955",
+  "death_date": "16.12.2008",
+  "birth_location": "Santa Barbara, California, USA",
+  "height": "1.80 m",
+  "imdb_scraped": true,
+  "filmweb_id": 8458,
+  "name_pl": "Sam Bottoms",
+  "birth_location_pl": "Santa Barbara, Kalifornia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

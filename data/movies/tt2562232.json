@@ -1,0 +1,260 @@
+{
+  "imdb_id": "tt2562232",
+  "title": "Birdman or (The Unexpected Virtue of Ignorance)",
+  "description": "A washed-up superhero actor attempts to revive his fading career by writing, directing, and starring in a Broadway production.",
+  "runtime_minutes": 119,
+  "release_date": "14.11.2014",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0000474",
+      "name": "Michael Keaton"
+    },
+    {
+      "id": "nm0302108",
+      "name": "Zach Galifianakis"
+    },
+    {
+      "id": "nm0001570",
+      "name": "Edward Norton"
+    },
+    {
+      "id": "nm2057859",
+      "name": "Andrea Riseborough"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0327944",
+      "name": "Alejandro G. Iñárritu"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0327944",
+      "name": "Alejandro G. Iñárritu"
+    },
+    {
+      "id": "nm1481172",
+      "name": "Nicolás Giacobone"
+    },
+    {
+      "id": "nm5409486",
+      "name": "Alexander Dinelaris"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000474",
+      "name": "Michael Keaton",
+      "character": "Riggan"
+    },
+    {
+      "id": "nm0302108",
+      "name": "Zach Galifianakis",
+      "character": "Jake"
+    },
+    {
+      "id": "nm0001570",
+      "name": "Edward Norton",
+      "character": "Mike"
+    },
+    {
+      "id": "nm1297015",
+      "name": "Emma Stone",
+      "character": "Sam"
+    },
+    {
+      "id": "nm2196179",
+      "name": "Kenny Chin",
+      "character": "Korean Grocer"
+    },
+    {
+      "id": "nm3691128",
+      "name": "Jamahl Garrison-Lowe",
+      "character": "Stagehand (Daniel)"
+    },
+    {
+      "id": "nm0915208",
+      "name": "Naomi Watts",
+      "character": "Lesley"
+    },
+    {
+      "id": "nm0787892",
+      "name": "Jeremy Shamos",
+      "character": "Ralph"
+    },
+    {
+      "id": "nm2057859",
+      "name": "Andrea Riseborough",
+      "character": "Laura"
+    },
+    {
+      "id": "nm1255832",
+      "name": "Katherine O'Sullivan",
+      "character": "Costume Assistant"
+    },
+    {
+      "id": "nm0949433",
+      "name": "Damian Young",
+      "character": "Gabriel"
+    },
+    {
+      "id": "nm0793661",
+      "name": "Keenan Shimizu",
+      "character": "Han"
+    },
+    {
+      "id": "nm4510749",
+      "name": "Akira Ito",
+      "character": "Translator"
+    },
+    {
+      "id": "nm1932619",
+      "name": "Natalie Gold",
+      "character": "Clara"
+    },
+    {
+      "id": "nm0923266",
+      "name": "Merritt Wever",
+      "character": "Annie"
+    },
+    {
+      "id": "nm0796251",
+      "name": "Michael Siberry",
+      "character": "Larry"
+    },
+    {
+      "id": "nm0585485",
+      "name": "Clark Middleton",
+      "character": "Sydney"
+    },
+    {
+      "id": "nm0752407",
+      "name": "Amy Ryan",
+      "character": "Sylvia"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 680709,
+  "year": 2014,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODAzNDMxMzAxOV5BMl5BanBnXkFtZTgwMDMxMjA4MjE@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.7,
+      "votes": 701958,
+      "distribution": {
+        "1": 15282,
+        "2": 7489,
+        "3": 9763,
+        "4": 15296,
+        "5": 30019,
+        "6": 63009,
+        "7": 137247,
+        "8": 199039,
+        "9": 138421,
+        "10": 86393
+      },
+      "normalized": 6.8847
+    },
+    "filmweb": {
+      "rating": 7.22,
+      "votes": 190181,
+      "distribution": {
+        "1": 1095,
+        "2": 1003,
+        "3": 4115,
+        "4": 4786,
+        "5": 13468,
+        "6": 24497,
+        "7": 49200,
+        "8": 56342,
+        "9": 26865,
+        "10": 8810
+      },
+      "normalized": 6.0689
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "12.08.2015",
+      "normalized": 6.3474
+    },
+    "score": 6.4337
+  },
+  "polish_title": "Birdman",
+  "silent": false,
+  "description_pl": "Tragikomiczne perypetie aktora, który niegdyś zyskał sławę jako bohater serii hollywoodzkich filmów o komiksowym superbohaterze, a teraz próbuje wystawić na Broadwayu sztukę we własnej adaptacji i reżyserii, z sobą samym w roli głównej. Jeśli chce doprowadzić do premiery, musi stawić czoło licznym przeciwnościom losu i własnemu ego, odzyskać zaufanie bliskich, odbudować zrujnowaną karierę i odnaleźć siebie.",
+  "producers": [
+    {
+      "id": "nm3174584",
+      "name": "Armando Bo"
+    },
+    {
+      "id": "nm2576804",
+      "name": "Molly Conners"
+    },
+    {
+      "id": "nm5409486",
+      "name": "Alexander Dinelaris"
+    },
+    {
+      "id": "nm1481172",
+      "name": "Nicolás Giacobone"
+    },
+    {
+      "id": "nm1463905",
+      "name": "Drew Houpt"
+    },
+    {
+      "id": "nm0327944",
+      "name": "Alejandro G. Iñárritu"
+    },
+    {
+      "id": "nm3164071",
+      "name": "Sarah E. Johnson"
+    },
+    {
+      "id": "nm0971956",
+      "name": "John Lesher"
+    },
+    {
+      "id": "nm0586969",
+      "name": "Arnon Milchan"
+    },
+    {
+      "id": "nm0804739",
+      "name": "James W. Skotchdopole"
+    },
+    {
+      "id": "nm2939606",
+      "name": "Christina Won"
+    },
+    {
+      "id": "nm2002108",
+      "name": "Christopher Woodrow"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm1632232",
+      "name": "Antonio Sanchez"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0523881",
+      "name": "Emmanuel Lubezki"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

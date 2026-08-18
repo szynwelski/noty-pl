@@ -1,0 +1,243 @@
+{
+  "imdb_id": "tt0111255",
+  "title": "The Specialist",
+  "description": "A woman entices a bomb expert she's involved with into destroying the mafia that killed her family.",
+  "runtime_minutes": 110,
+  "release_date": "07.10.1994",
+  "genres": [
+    "Action",
+    "Drama",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000230",
+      "name": "Sylvester Stallone"
+    },
+    {
+      "id": "nm0000232",
+      "name": "Sharon Stone"
+    },
+    {
+      "id": "nm0000249",
+      "name": "James Woods"
+    },
+    {
+      "id": "nm0001768",
+      "name": "Rod Steiger"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0515891",
+      "name": "Luis Llosa"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0794326",
+      "name": "John Shirley"
+    },
+    {
+      "id": "nm0785311",
+      "name": "Alexandra Seros"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000230",
+      "name": "Sylvester Stallone",
+      "character": "Ray Quick"
+    },
+    {
+      "id": "nm0000232",
+      "name": "Sharon Stone",
+      "character": "May Munro"
+    },
+    {
+      "id": "nm0000249",
+      "name": "James Woods",
+      "character": "Ned Trent"
+    },
+    {
+      "id": "nm0001768",
+      "name": "Rod Steiger",
+      "character": "Joe Leon"
+    },
+    {
+      "id": "nm0000616",
+      "name": "Eric Roberts",
+      "character": "Tomas Leon"
+    },
+    {
+      "id": "nm0845079",
+      "name": "Mario Ernesto Sánchez",
+      "character": "Charlie"
+    },
+    {
+      "id": "nm0234267",
+      "name": "Sergio Doré Jr.",
+      "character": "Strongarm"
+    },
+    {
+      "id": "nm0709885",
+      "name": "Chase Randolph",
+      "character": "May's Dad"
+    },
+    {
+      "id": "nm0068269",
+      "name": "Jeana Bell",
+      "character": "May's Mom"
+    },
+    {
+      "id": "nm0099111",
+      "name": "Brittany Paige Bouck",
+      "character": "Young May"
+    },
+    {
+      "id": "nm0261555",
+      "name": "Emilio Estefan Jr.",
+      "character": "Piano Player"
+    },
+    {
+      "id": "nm0292604",
+      "name": "LaGaylia Frazier",
+      "character": "Singer #1"
+    },
+    {
+      "id": "nm0327905",
+      "name": "Ramón González Cuevas",
+      "character": "Priest at Cemetery"
+    },
+    {
+      "id": "nm0611154",
+      "name": "Tony Munafo",
+      "character": "Tony"
+    },
+    {
+      "id": "nm0704058",
+      "name": "Cheito Quinonez",
+      "character": "Singer at Party"
+    },
+    {
+      "id": "nm0851255",
+      "name": "Tony Tatis",
+      "character": "Backup Singer"
+    },
+    {
+      "id": "nm0258047",
+      "name": "Mercedes Enriquez",
+      "character": "Pregnant Woman on Bus"
+    },
+    {
+      "id": "nm0067083",
+      "name": "Yeniffer Behrens",
+      "character": "Schoolgirl on Bus"
+    }
+  ],
+  "countries": [
+    "United States",
+    "Peru"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": null,
+  "filmweb_id": 9689,
+  "year": 1994,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZTI4MTYxYzItNmMyOC00MzBmLTg4MmUtNjM1OTlhM2IzMTc1XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.6,
+      "votes": 74034,
+      "distribution": {
+        "1": 1794,
+        "2": 1865,
+        "3": 3699,
+        "4": 8091,
+        "5": 17046,
+        "6": 20134,
+        "7": 12062,
+        "8": 4643,
+        "9": 1536,
+        "10": 3164
+      },
+      "normalized": 2.9912
+    },
+    "filmweb": {
+      "rating": 6.35,
+      "votes": 23996,
+      "distribution": {
+        "1": 98,
+        "2": 146,
+        "3": 608,
+        "4": 1191,
+        "5": 3404,
+        "6": 7097,
+        "7": 7466,
+        "8": 2863,
+        "9": 611,
+        "10": 512
+      },
+      "normalized": 4.0053
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "23.03.2006",
+      "normalized": 4.9718
+    },
+    "michal": {
+      "rating": 2,
+      "date_rated": "05.09.2007",
+      "normalized": 3.1556
+    },
+    "score": 3.781
+  },
+  "polish_title": "Specjalista",
+  "silent": false,
+  "description_pl": "May Munro jest owładnięta żądzą zemsty na ludziach, którzy zamordowali jej rodziców, gdy była jeszcze dzieckiem. Kobieta wynajmuje Raya Quicka, eksperta od materiałów wybuchowych, by zamordował zabójców jej rodziców. Gdy Ned Trent, były partner Quicka, zostaje przydzielony do ochrony jednej z potencjalnych ofiar, rozpoczyna się śmiertelna gra w kotka i myszkę.",
+  "producers": [
+    {
+      "id": "nm0006625",
+      "name": "Steve Barron"
+    },
+    {
+      "id": "nm0082773",
+      "name": "Chuck Binder"
+    },
+    {
+      "id": "nm0252382",
+      "name": "Susan Ekins"
+    },
+    {
+      "id": "nm0521905",
+      "name": "R.J. Louis"
+    },
+    {
+      "id": "nm0609184",
+      "name": "Jeff Most"
+    },
+    {
+      "id": "nm0611154",
+      "name": "Tony Munafo"
+    },
+    {
+      "id": "nm0005545",
+      "name": "Jerry Weintraub"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0000290",
+      "name": "John Barry"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0453808",
+      "name": "Jeffrey L. Kimball"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

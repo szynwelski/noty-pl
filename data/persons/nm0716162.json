@@ -1,0 +1,38 @@
+{
+  "id": "nm0716162",
+  "name": "Bob Reeves",
+  "filmography": [
+    {
+      "imdb_id": "tt0018526",
+      "title": "Underworld",
+      "year": 1927,
+      "roles": [
+        "cast"
+      ],
+      "character": "Detective at Railroad Station"
+    },
+    {
+      "imdb_id": "tt0018839",
+      "title": "The Docks of New York",
+      "year": 1928,
+      "roles": [
+        "cast"
+      ],
+      "character": "Court Bailiff"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNjg4YmM3YTgtMTRhZi00Y2NmLWFiYTctZjQxMzZlNWE5MzY5XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "28.01.1892",
+  "death_date": "12.04.1960",
+  "birth_location": "Marlin, Texas, USA",
+  "height": "1.88 m",
+  "imdb_scraped": true,
+  "filmweb_id": 242363,
+  "name_pl": "Bob Reeves",
+  "birth_location_pl": "Marlin, Teksas",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

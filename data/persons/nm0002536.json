@@ -1,0 +1,50 @@
+{
+  "id": "nm0002536",
+  "name": "Emmy Rossum",
+  "filmography": [
+    {
+      "imdb_id": "tt0327056",
+      "title": "Mystic River",
+      "year": 2003,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Katie Markum"
+    },
+    {
+      "imdb_id": "tt0319262",
+      "title": "The Day After Tomorrow",
+      "year": 2004,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Laura Chapman"
+    },
+    {
+      "imdb_id": "tt3060492",
+      "title": "Before I Disappear",
+      "year": 2014,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Maggie"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOGY5YzFhOWMtOWRmNC00OTFlLTlmNzktMjk5OWQ4OThkNTFjXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "12.09.1986",
+  "birth_location": "New York City, New York, USA",
+  "height": "1.73 m",
+  "filmweb_id": 64609,
+  "name_pl": "Emmy Rossum",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 64609
+}

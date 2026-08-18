@@ -1,0 +1,31 @@
+{
+  "id": "nm0779280",
+  "name": "Jane Scott",
+  "filmography": [
+    {
+      "imdb_id": "tt0090555",
+      "title": "Crocodile Dundee",
+      "year": 1986,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0092493",
+      "title": "Crocodile Dundee II",
+      "year": 1988,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "imdb_scraped": true,
+  "filmweb_id": 128480,
+  "name_pl": "Jane Scott",
+  "birth_location_pl": "Epsom, Anglia",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ]
+}

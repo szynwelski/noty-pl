@@ -1,0 +1,31 @@
+{
+  "id": "nm0001380",
+  "name": "Jim Hutton",
+  "filmography": [
+    {
+      "imdb_id": "tt0059418",
+      "title": "Major Dundee",
+      "year": 1965,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Lieutenant Graham"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDIxNTgzNzUzMl5BMl5BanBnXkFtZTcwODk4MjkzNA@@._V1_.jpg",
+  "birth_date": "31.05.1934",
+  "death_date": "02.06.1979",
+  "birth_location": "Binghamton, New York, USA",
+  "height": "1.95 m",
+  "imdb_scraped": true,
+  "filmweb_id": 103514,
+  "name_pl": "Jim Hutton",
+  "birth_location_pl": "Binghamton, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 103514
+}

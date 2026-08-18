@@ -1,0 +1,239 @@
+{
+  "imdb_id": "tt0086960",
+  "title": "Beverly Hills Cop",
+  "description": "A freewheeling Detroit cop pursuing a murder investigation finds himself dealing with the very different culture of Beverly Hills.",
+  "runtime_minutes": 105,
+  "release_date": "05.12.1984",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Crime",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000552",
+      "name": "Eddie Murphy"
+    },
+    {
+      "id": "nm0001662",
+      "name": "Judge Reinhold"
+    },
+    {
+      "id": "nm0039226",
+      "name": "John Ashton"
+    },
+    {
+      "id": "nm0002060",
+      "name": "Lisa Eilbacher"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000976",
+      "name": "Martin Brest"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0677943",
+      "name": "Daniel Petrie Jr."
+    },
+    {
+      "id": "nm0045301",
+      "name": "Danilo Bach"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000552",
+      "name": "Eddie Murphy",
+      "character": "Axel Foley"
+    },
+    {
+      "id": "nm0001662",
+      "name": "Judge Reinhold",
+      "character": "Det. Billy Rosewood"
+    },
+    {
+      "id": "nm0039226",
+      "name": "John Ashton",
+      "character": "Sgt. Taggart"
+    },
+    {
+      "id": "nm0002060",
+      "name": "Lisa Eilbacher",
+      "character": "Jenny Summers"
+    },
+    {
+      "id": "nm0001074",
+      "name": "Ronny Cox",
+      "character": "Lt. Bogomil"
+    },
+    {
+      "id": "nm0000925",
+      "name": "Steven Berkoff",
+      "character": "Victor Maitland"
+    },
+    {
+      "id": "nm0751638",
+      "name": "James Russo",
+      "character": "Mikey Tandino"
+    },
+    {
+      "id": "nm0052186",
+      "name": "Jonathan Banks",
+      "character": "Zack"
+    },
+    {
+      "id": "nm0254634",
+      "name": "Stephen Elliott",
+      "character": "Chief Hubbard"
+    },
+    {
+      "id": "nm0384280",
+      "name": "Gilbert R. Hill",
+      "character": "Inspector Todd"
+    },
+    {
+      "id": "nm0453903",
+      "name": "Art Kimbro",
+      "character": "Det. Foster"
+    },
+    {
+      "id": "nm0047317",
+      "name": "Joel Bailey",
+      "character": "Det. McCabe"
+    },
+    {
+      "id": "nm0001621",
+      "name": "Bronson Pinchot",
+      "character": "Serge"
+    },
+    {
+      "id": "nm0001663",
+      "name": "Paul Reiser",
+      "character": "Jeffrey"
+    },
+    {
+      "id": "nm0150720",
+      "name": "Michael Champion",
+      "character": "Casey"
+    },
+    {
+      "id": "nm0675887",
+      "name": "Frank Pesce",
+      "character": "Cigarette Buyer"
+    },
+    {
+      "id": "nm0096908",
+      "name": "Gene Borkan",
+      "character": "Truck Driver"
+    },
+    {
+      "id": "nm0195702",
+      "name": "Michael Gregory",
+      "character": "Hotel Manager"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": null,
+  "filmweb_id": 5849,
+  "year": 1984,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNjU4OGM2MzctNGU3ZC00M2EzLThiN2ItOTlmN2FjODM0MzFhXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.4,
+      "votes": 233953,
+      "distribution": {
+        "1": 976,
+        "2": 690,
+        "3": 1202,
+        "4": 2628,
+        "5": 8604,
+        "6": 28405,
+        "7": 78410,
+        "8": 68224,
+        "9": 23512,
+        "10": 21302
+      },
+      "normalized": 6.2688
+    },
+    "filmweb": {
+      "rating": 7.33,
+      "votes": 87560,
+      "distribution": {
+        "1": 137,
+        "2": 159,
+        "3": 550,
+        "4": 1302,
+        "5": 3531,
+        "6": 12194,
+        "7": 30777,
+        "8": 26630,
+        "9": 7724,
+        "10": 4556
+      },
+      "normalized": 6.3197
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "02.12.2005",
+      "normalized": 4.9718
+    },
+    "michal": {
+      "rating": 3,
+      "date_rated": "19.10.2005",
+      "normalized": 3.8753
+    },
+    "score": 5.3589
+  },
+  "polish_title": "Gliniarz z Beverly Hills",
+  "silent": false,
+  "description_pl": "Foley (<a href=\"/osoba/?id=nm0000552\">Eddie Murphy</a>) to przebiegły i błyskotliwy policjant z ulic Detroit, który bez skrupułów wkracza w luksusowy świat Beverly Hills, byle tylko dorwać mordercę. Przed jego sprytem, niekonwencjonalnymi metodami i zabójczym poczuciem humoru nie obroni się nawet międzynarodowa siatka przemytników narkotyków!",
+  "producers": [
+    {
+      "id": "nm0000988",
+      "name": "Jerry Bruckheimer"
+    },
+    {
+      "id": "nm0395116",
+      "name": "Linda Horner"
+    },
+    {
+      "id": "nm0595235",
+      "name": "Mike Moder"
+    },
+    {
+      "id": "nm0800971",
+      "name": "Don Simpson"
+    },
+    {
+      "id": "nm0918537",
+      "name": "Lori Weintraub"
+    },
+    {
+      "id": "nm0000552",
+      "name": "Eddie Murphy"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0266536",
+      "name": "Harold Faltermeyer"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0839732",
+      "name": "Bruce Surtees"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

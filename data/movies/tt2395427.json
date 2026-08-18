@@ -1,0 +1,275 @@
+{
+  "imdb_id": "tt2395427",
+  "title": "Avengers: Age of Ultron",
+  "description": "When Tony Stark and Bruce Banner try to jump-start a dormant peacekeeping program called Ultron, things go horribly wrong and it's up to Earth's mightiest heroes to stop the villainous Ultron from enacting his terrible plan.",
+  "runtime_minutes": 141,
+  "release_date": "01.05.2015",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm0000375",
+      "name": "Robert Downey Jr."
+    },
+    {
+      "id": "nm0262635",
+      "name": "Chris Evans"
+    },
+    {
+      "id": "nm0749263",
+      "name": "Mark Ruffalo"
+    },
+    {
+      "id": "nm1165110",
+      "name": "Chris Hemsworth"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0923736",
+      "name": "Joss Whedon"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0923736",
+      "name": "Joss Whedon"
+    },
+    {
+      "id": "nm0498278",
+      "name": "Stan Lee"
+    },
+    {
+      "id": "nm0456158",
+      "name": "Jack Kirby"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000375",
+      "name": "Robert Downey Jr.",
+      "character": "Tony Stark"
+    },
+    {
+      "id": "nm0262635",
+      "name": "Chris Evans",
+      "character": "Steve Rogers"
+    },
+    {
+      "id": "nm0749263",
+      "name": "Mark Ruffalo",
+      "character": "Bruce Banner"
+    },
+    {
+      "id": "nm1165110",
+      "name": "Chris Hemsworth",
+      "character": "Thor"
+    },
+    {
+      "id": "nm0424060",
+      "name": "Scarlett Johansson",
+      "character": "Natasha Romanoff"
+    },
+    {
+      "id": "nm0719637",
+      "name": "Jeremy Renner",
+      "character": "Clint Barton"
+    },
+    {
+      "id": "nm0000652",
+      "name": "James Spader",
+      "character": "Ultron"
+    },
+    {
+      "id": "nm0000168",
+      "name": "Samuel L. Jackson",
+      "character": "Nick Fury"
+    },
+    {
+      "id": "nm0000332",
+      "name": "Don Cheadle",
+      "character": "James Rhodes"
+    },
+    {
+      "id": "nm1093951",
+      "name": "Aaron Taylor-Johnson",
+      "character": "Pietro Maximoff"
+    },
+    {
+      "id": "nm0647634",
+      "name": "Elizabeth Olsen",
+      "character": "Wanda Maximoff"
+    },
+    {
+      "id": "nm0079273",
+      "name": "Paul Bettany",
+      "character": "Jarvis"
+    },
+    {
+      "id": "nm1130627",
+      "name": "Cobie Smulders",
+      "character": "Maria Hill"
+    },
+    {
+      "id": "nm1107001",
+      "name": "Anthony Mackie",
+      "character": "Sam Wilson"
+    },
+    {
+      "id": "nm2017943",
+      "name": "Hayley Atwell",
+      "character": "Peggy Carter"
+    },
+    {
+      "id": "nm0252961",
+      "name": "Idris Elba",
+      "character": "Heimdall"
+    },
+    {
+      "id": "nm0004802",
+      "name": "Linda Cardellini",
+      "character": "Laura Barton"
+    },
+    {
+      "id": "nm0001745",
+      "name": "Stellan Skarsgård",
+      "character": "Erik Selvig"
+    }
+  ],
+  "countries": [
+    "United States",
+    "South Korea",
+    "Cambodia"
+  ],
+  "languages": [
+    "English",
+    "Korean"
+  ],
+  "color": "Color",
+  "filmweb_id": 637247,
+  "year": 2015,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODBhYTg1NGQtNGVmNS00ZTdiLThjYTYtZDFkNzRiNTZmNDZjXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.3,
+      "votes": 1015199,
+      "distribution": {
+        "1": 13151,
+        "2": 5604,
+        "3": 9192,
+        "4": 19505,
+        "5": 48716,
+        "6": 135549,
+        "7": 297067,
+        "8": 261775,
+        "9": 111914,
+        "10": 112726
+      },
+      "normalized": 6.165
+    },
+    "filmweb": {
+      "rating": 7.21,
+      "votes": 213960,
+      "distribution": {
+        "1": 675,
+        "2": 688,
+        "3": 2369,
+        "4": 4690,
+        "5": 13542,
+        "6": 33693,
+        "7": 66909,
+        "8": 58001,
+        "9": 21366,
+        "10": 12027
+      },
+      "normalized": 6.0459
+    },
+    "jarek": {
+      "rating": 2,
+      "date_rated": "30.05.2015",
+      "normalized": 3.5003
+    },
+    "score": 5.2371
+  },
+  "polish_title": "Avengers: Czas Ultrona",
+  "silent": false,
+  "description_pl": "Kiedy Tony Stark próbuje wskrzesić dawno zapomniany program utrzymania światowego pokoju, sytuacja niespodziewanie się komplikuje. Na scenę wkracza mroczny Ultron ze zbrodniczym planem zniszczenia całej planety. Los milionów niewinnych istnień spocznie w rękach najpotężniejszych bohaterów Ziemi z drużyny Mścicieli. Iron Man, Kapitan Ameryka, Thor, Hulk, Czarna Wdowa i Hawkeye zostaną wystawieni na największą próbę pełną niełatwych sojuszy i niespodziewanych zwrotów akcji.",
+  "producers": [
+    {
+      "id": "nm0022285",
+      "name": "Victoria Alonso"
+    },
+    {
+      "id": "nm0068416",
+      "name": "Mitchell Bell"
+    },
+    {
+      "id": "nm0160577",
+      "name": "Jamie Christopher"
+    },
+    {
+      "id": "nm0195669",
+      "name": "Louis D'Esposito"
+    },
+    {
+      "id": "nm0269463",
+      "name": "Jon Favreau"
+    },
+    {
+      "id": "nm0270559",
+      "name": "Kevin Feige"
+    },
+    {
+      "id": "nm2643957",
+      "name": "Alan Fine"
+    },
+    {
+      "id": "nm0285701",
+      "name": "Jeffrey Ford"
+    },
+    {
+      "id": "nm0389414",
+      "name": "Genevieve Hofmeyr"
+    },
+    {
+      "id": "nm2360790",
+      "name": "Lee Ji-seung"
+    },
+    {
+      "id": "nm3354467",
+      "name": "Daniel S. Kaminsky"
+    },
+    {
+      "id": "nm1436246",
+      "name": "Jeremy Latcham"
+    },
+    {
+      "id": "nm0498278",
+      "name": "Stan Lee"
+    },
+    {
+      "id": "nm1017025",
+      "name": "Nicholas Simon"
+    },
+    {
+      "id": "nm0803141",
+      "name": "Enzo Sisti"
+    },
+    {
+      "id": "nm0924357",
+      "name": "Patricia Whitcher"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm1023204",
+      "name": "Ben Davis"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

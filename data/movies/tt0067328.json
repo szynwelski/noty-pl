@@ -1,0 +1,219 @@
+{
+  "imdb_id": "tt0067328",
+  "title": "The Last Picture Show",
+  "description": "In 1951, a group of high schoolers come of age in a bleak, isolated, atrophied North Texas town that is slowly dying, both culturally and economically.",
+  "runtime_minutes": 118,
+  "release_date": "22.10.1971",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0000961",
+      "name": "Timothy Bottoms"
+    },
+    {
+      "id": "nm0000313",
+      "name": "Jeff Bridges"
+    },
+    {
+      "id": "nm0001732",
+      "name": "Cybill Shepherd"
+    },
+    {
+      "id": "nm0424565",
+      "name": "Ben Johnson"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000953",
+      "name": "Peter Bogdanovich"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0573505",
+      "name": "Larry McMurtry"
+    },
+    {
+      "id": "nm0000953",
+      "name": "Peter Bogdanovich"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000961",
+      "name": "Timothy Bottoms",
+      "character": "Sonny Crawford"
+    },
+    {
+      "id": "nm0000313",
+      "name": "Jeff Bridges",
+      "character": "Duane Jackson"
+    },
+    {
+      "id": "nm0001732",
+      "name": "Cybill Shepherd",
+      "character": "Jacy Farrow"
+    },
+    {
+      "id": "nm0424565",
+      "name": "Ben Johnson",
+      "character": "Sam the Lion"
+    },
+    {
+      "id": "nm0001458",
+      "name": "Cloris Leachman",
+      "character": "Ruth Popper"
+    },
+    {
+      "id": "nm0000995",
+      "name": "Ellen Burstyn",
+      "character": "Lois Farrow"
+    },
+    {
+      "id": "nm0107281",
+      "name": "Eileen Brennan",
+      "character": "Genevieve"
+    },
+    {
+      "id": "nm0347656",
+      "name": "Clu Gulager",
+      "character": "Abilene"
+    },
+    {
+      "id": "nm0098734",
+      "name": "Sam Bottoms",
+      "character": "Billy"
+    },
+    {
+      "id": "nm0880580",
+      "name": "Sharon Ullrick",
+      "character": "Charlene Duggs"
+    },
+    {
+      "id": "nm0001642",
+      "name": "Randy Quaid",
+      "character": "Lester Marlow"
+    },
+    {
+      "id": "nm0372723",
+      "name": "Joe Heathcock",
+      "character": "The Sheriff"
+    },
+    {
+      "id": "nm0862174",
+      "name": "Bill Thurman",
+      "character": "Coach Popper"
+    },
+    {
+      "id": "nm0236281",
+      "name": "Barc Doyle",
+      "character": "Joe Bob Blanton"
+    },
+    {
+      "id": "nm0298479",
+      "name": "Jessie Lee Fulton",
+      "character": "Miss Mosey"
+    },
+    {
+      "id": "nm0110668",
+      "name": "Gary Brockette",
+      "character": "Bobby Sheen"
+    },
+    {
+      "id": "nm0401666",
+      "name": "Helena Humann",
+      "character": "Jimmie Sue"
+    },
+    {
+      "id": "nm0146178",
+      "name": "Loyd Catlett",
+      "character": "Leroy"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 1304,
+  "year": 1971,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZjgwZDI3ZmItNjIwMy00OTZlLWEzNjMtMDU3NDZjZjg3ODQzXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8,
+      "votes": 57408,
+      "distribution": {
+        "1": 781,
+        "2": 325,
+        "3": 419,
+        "4": 781,
+        "5": 1736,
+        "6": 4017,
+        "7": 10097,
+        "8": 17079,
+        "9": 11227,
+        "10": 10946
+      },
+      "normalized": 7.3803
+    },
+    "filmweb": {
+      "rating": 7.81,
+      "votes": 6970,
+      "distribution": {
+        "1": 25,
+        "2": 12,
+        "3": 32,
+        "4": 67,
+        "5": 194,
+        "6": 550,
+        "7": 1589,
+        "8": 2556,
+        "9": 1285,
+        "10": 660
+      },
+      "normalized": 7.4987
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "04.03.2007",
+      "normalized": 6.3474
+    },
+    "score": 7.0755
+  },
+  "polish_title": "Ostatni seans filmowy",
+  "silent": false,
+  "description_pl": "Akcja rozgrywa się w niewielkim miasteczku w Teksasie pomiędzy II Wojną Światową a konfliktem koreańskim. Sonny i Duane są najlepszymi przyjaciółmi; spędzają czas na wizytach w kinie, grając w koszykówkę i podrywając dziewczyny. Ostatni seans filmowy w kinie daje im do zrozumienia, że skończył się pewien okres w ich życiu, że stanęli przed czymś nowym - dorosłością.",
+  "producers": [
+    {
+      "id": "nm0295375",
+      "name": "Stephen J. Friedman"
+    },
+    {
+      "id": "nm0773721",
+      "name": "Bert Schneider"
+    },
+    {
+      "id": "nm0773837",
+      "name": "Harold Schneider"
+    },
+    {
+      "id": "nm0706182",
+      "name": "Bob Rafelson"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005892",
+      "name": "Robert Surtees"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,104 @@
+{
+  "imdb_id": "tt0222735",
+  "title": "After the Ball, the Bath",
+  "description": "The first film to ever show a nudity scene on screen is a simple presentation of a servant preparing a bath for another woman.",
+  "runtime_minutes": 1,
+  "release_date": "1897",
+  "genres": [
+    "Short"
+  ],
+  "stars": [
+    {
+      "id": "nm0103641",
+      "name": "Jeanne Brady"
+    },
+    {
+      "id": "nm0194945",
+      "name": "Jehanne d'Alcy"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0617588",
+      "name": "Georges Méliès"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0617588",
+      "name": "Georges Méliès"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0103641",
+      "name": "Jeanne Brady",
+      "character": "Servant"
+    },
+    {
+      "id": "nm0194945",
+      "name": "Jehanne d'Alcy",
+      "character": "Woman"
+    }
+  ],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 147974,
+  "year": 1897,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMWQyOTE4NmItYTYyZC00NTkxLWEyZTYtMjljNzZkNGZmNDM0XkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Après le bal",
+  "ratings": {
+    "imdb": {
+      "rating": 5.3,
+      "votes": 1637,
+      "distribution": {
+        "1": 55,
+        "2": 74,
+        "3": 106,
+        "4": 208,
+        "5": 463,
+        "6": 396,
+        "7": 190,
+        "8": 64,
+        "9": 21,
+        "10": 60
+      },
+      "normalized": 3.379
+    },
+    "filmweb": {
+      "rating": 5.22,
+      "votes": 306,
+      "distribution": {
+        "1": 5,
+        "2": 10,
+        "3": 27,
+        "4": 40,
+        "5": 100,
+        "6": 70,
+        "7": 34,
+        "8": 12,
+        "9": 4,
+        "10": 4
+      },
+      "normalized": 3.6736
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "11.12.2016",
+      "normalized": 6.4102
+    },
+    "score": 4.4876
+  },
+  "polish_title": "Po balu",
+  "silent": true,
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-16"
+}

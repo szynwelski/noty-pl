@@ -1,0 +1,98 @@
+{
+  "imdb_id": "tt3647128",
+  "title": "The Tide Keeper",
+  "description": "One night an old seaman dreams a storm into his bed. Who knows how to stem the tide, except through dreams?",
+  "runtime_minutes": 9,
+  "release_date": "2014",
+  "genres": [
+    "Animation",
+    "Short",
+    "Fantasy",
+    "Mystery",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm3830129",
+      "name": "Lee Stuart"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm3899187",
+      "name": "Alyx Duncan"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm3899187",
+      "name": "Alyx Duncan"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm3830129",
+      "name": "Lee Stuart",
+      "character": ""
+    }
+  ],
+  "countries": [
+    "New Zealand"
+  ],
+  "languages": [],
+  "color": "Color",
+  "filmweb_id": 725377,
+  "year": 2014,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTVjMTE0NGMtZmY3ZC00NmE2LTkzMTktN2EzNmYyNWQyODMyXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.3,
+      "votes": 26,
+      "distribution": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3,
+        "5": 2,
+        "6": 5,
+        "7": 6,
+        "8": 6,
+        "9": 0,
+        "10": 4
+      },
+      "normalized": 5.328
+    },
+    "filmweb": {
+      "rating": 6.43,
+      "votes": 7,
+      "distribution": {
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 0,
+        "6": 3,
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "10": 0
+      },
+      "normalized": 5.186
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "22.12.2018",
+      "normalized": 6.4102
+    },
+    "score": 5.6414
+  },
+  "polish_title": "Strażnik przypływów",
+  "silent": false,
+  "composers": [
+    {
+      "id": "nm6406479",
+      "name": "Francesca Mountfort"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,214 @@
+{
+  "imdb_id": "tt0150662",
+  "title": "Show Me Love",
+  "description": "Two teenage girls in small-town Sweden. Elin is beautiful, popular, and bored with life. Agnes is friendless, sad, and secretly in love with Elin.",
+  "runtime_minutes": 89,
+  "release_date": "23.10.1998",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0197164",
+      "name": "Alexandra Dahlström"
+    },
+    {
+      "id": "nm0510275",
+      "name": "Rebecka Liljeberg"
+    },
+    {
+      "id": "nm0137907",
+      "name": "Erica Carlson"
+    },
+    {
+      "id": "nm0751798",
+      "name": "Mathias Rust"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0600546",
+      "name": "Lukas Moodysson"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0600546",
+      "name": "Lukas Moodysson"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0197164",
+      "name": "Alexandra Dahlström",
+      "character": "Elin Olsson"
+    },
+    {
+      "id": "nm0510275",
+      "name": "Rebecka Liljeberg",
+      "character": "Agnes Ahlberg"
+    },
+    {
+      "id": "nm0137907",
+      "name": "Erica Carlson",
+      "character": "Jessica Olsson"
+    },
+    {
+      "id": "nm0751798",
+      "name": "Mathias Rust",
+      "character": "Johan Hulth"
+    },
+    {
+      "id": "nm0405972",
+      "name": "Stefan Hörberg",
+      "character": "Markus"
+    },
+    {
+      "id": "nm0638495",
+      "name": "Josefine Nyberg",
+      "character": "Viktoria"
+    },
+    {
+      "id": "nm0138120",
+      "name": "Ralph Carlsson",
+      "character": "Agnes pappa Olof"
+    },
+    {
+      "id": "nm0373148",
+      "name": "Maria Hedborg",
+      "character": "Agnes mamma Karin"
+    },
+    {
+      "id": "nm0927054",
+      "name": "Axel Widegren",
+      "character": "Agnes lillebror Oskar"
+    },
+    {
+      "id": "nm0881075",
+      "name": "Jill Ung",
+      "character": "Elins mamma Birgitta"
+    },
+    {
+      "id": "nm0803755",
+      "name": "Lisa Skagerstam",
+      "character": "Camilla"
+    },
+    {
+      "id": "nm0840914",
+      "name": "Lina Svantesson",
+      "character": "Elins kompis (1)"
+    },
+    {
+      "id": "nm0489208",
+      "name": "Johanna Larsson",
+      "character": "Elins kompis (2)"
+    },
+    {
+      "id": "nm0423930",
+      "name": "Elinor Johansson",
+      "character": "Elins kompis (3)"
+    },
+    {
+      "id": "nm0577839",
+      "name": "Jessica Melkersson",
+      "character": "Elins kompis (4)"
+    },
+    {
+      "id": "nm0527950",
+      "name": "Bo Lyckman",
+      "character": "Mannen i bilen"
+    },
+    {
+      "id": "nm0853993",
+      "name": "Daniel Teider",
+      "character": "Johans lillebror"
+    },
+    {
+      "id": "nm0084978",
+      "name": "Nils Björkman",
+      "character": "Bengtsson"
+    }
+  ],
+  "countries": [
+    "Sweden",
+    "Denmark"
+  ],
+  "languages": [
+    "Swedish"
+  ],
+  "color": "Color",
+  "filmweb_id": 30595,
+  "year": 1998,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDMyOTRjOWEtMTBkNS00MGI2LTg4MWYtZGY1ZTgyMDc1ZTJjXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Fucking Åmål",
+  "ratings": {
+    "imdb": {
+      "rating": 7.5,
+      "votes": 58218,
+      "distribution": {
+        "1": 1358,
+        "2": 511,
+        "3": 568,
+        "4": 898,
+        "5": 2165,
+        "6": 5387,
+        "7": 12189,
+        "8": 14834,
+        "9": 9066,
+        "10": 11242
+      },
+      "normalized": 6.384
+    },
+    "filmweb": {
+      "rating": 7.09,
+      "votes": 17867,
+      "distribution": {
+        "1": 108,
+        "2": 90,
+        "3": 311,
+        "4": 535,
+        "5": 1263,
+        "6": 2859,
+        "7": 5398,
+        "8": 4651,
+        "9": 1610,
+        "10": 1042
+      },
+      "normalized": 5.7893
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "19.10.2005",
+      "normalized": 6.3474
+    },
+    "score": 6.1736
+  },
+  "polish_title": "Fucking Amal",
+  "silent": false,
+  "description_pl": "Åmål to małe miasto, w którym nigdy nie dzieje się nic ciekawego, wszyscy się znają, a trendy najnowszej mody docierają tu dużo po czasie. Mieszka tam Elin (<a href=\"/osoba/?id=nm0197164\">Alexandra Dahlström</a>), która wśród kolegów ma opinię \"łatwej\", mimo iż jeszcze nigdy nie uprawiała seksu. Kocha się w niej Agnes (Rebecka Liljeberg), jej koleżanka ze szkoły. Pewnego dnia dziewczyny spotykają się same na przyjęciu urodzinowym...",
+  "producers": [
+    {
+      "id": "nm0030823",
+      "name": "Anna Anthony"
+    },
+    {
+      "id": "nm0421639",
+      "name": "Peter Aalbæk Jensen"
+    },
+    {
+      "id": "nm0433646",
+      "name": "Lars Jönsson"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0105308",
+      "name": "Ulf Brantås"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "nm0304098",
+  "name": "Abel Gance",
+  "filmography": [
+    {
+      "imdb_id": "tt0018192",
+      "title": "Napoleon",
+      "year": 1927,
+      "roles": [
+        "director",
+        "writer",
+        "cast"
+      ],
+      "character": "Louis Saint-Just"
+    },
+    {
+      "imdb_id": "tt0018770",
+      "title": "The Fall of the House of Usher",
+      "year": 1928,
+      "roles": [
+        "cast"
+      ],
+      "character": "Bar Customer"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYmY1ZTJiNWYtMGUwZC00YzYzLWE2NzYtMTYwNWYzMjE5MTBlXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "25.10.1889",
+  "death_date": "10.11.1981",
+  "birth_location": "Paris, France",
+  "imdb_scraped": true,
+  "filmweb_id": 62879,
+  "name_pl": "Abel Gance",
+  "birth_location_pl": "Paryż",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja"
+  ]
+}

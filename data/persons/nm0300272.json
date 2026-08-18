@@ -1,0 +1,43 @@
+{
+  "id": "nm0300272",
+  "name": "Peter Gabriel",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTg4OTg2NDE0MV5BMl5BanBnXkFtZTcwMzU3ODg5Mg@@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0086969",
+      "title": "Birdy",
+      "year": 1984,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt0095497",
+      "title": "The Last Temptation of Christ",
+      "year": 1988,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt0252444",
+      "title": "Rabbit-Proof Fence",
+      "year": 2002,
+      "roles": [
+        "composer"
+      ]
+    }
+  ],
+  "birth_date": "13.02.1950",
+  "birth_location": "Woking, Surrey, England, UK",
+  "height": "1.81 m",
+  "filmweb_id": 11453,
+  "name_pl": "Peter Gabriel",
+  "birth_location_pl": "Woking, Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ]
+}

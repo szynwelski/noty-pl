@@ -1,0 +1,46 @@
+{
+  "id": "nm0311619",
+  "name": "Ellen Geer",
+  "filmography": [
+    {
+      "imdb_id": "tt0067185",
+      "title": "Harold and Maude",
+      "year": 1971,
+      "roles": [
+        "cast"
+      ],
+      "character": "Sunshine Doré"
+    },
+    {
+      "imdb_id": "tt0117333",
+      "title": "Phenomenon",
+      "year": 1996,
+      "roles": [
+        "cast"
+      ],
+      "character": "Bonnie"
+    },
+    {
+      "imdb_id": "tt0415978",
+      "title": "Me and You and Everyone We Know",
+      "year": 2005,
+      "roles": [
+        "cast"
+      ],
+      "character": "Ellen"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTc3MTU4OTQ4Ml5BMl5BanBnXkFtZTcwMjU2OTkyMQ@@._V1_.jpg",
+  "birth_date": "29.08.1941",
+  "birth_location": "New York City, New York, USA",
+  "filmweb_id": 52176,
+  "name_pl": "Ellen Geer",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 52176
+}

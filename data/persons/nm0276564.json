@@ -1,0 +1,35 @@
+{
+  "id": "nm0276564",
+  "name": "Piotr Figiel",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOWQxMDUyNzItYWJjYi00ODkwLThjMTUtYWMwMWY1ODIyMjdkXkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0075256",
+      "title": "The Calm",
+      "year": 1976,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt0098096",
+      "title": "Pilkarski poker",
+      "year": 1989,
+      "roles": [
+        "composer"
+      ]
+    }
+  ],
+  "birth_date": "13.04.1940",
+  "death_date": "22.12.2011",
+  "birth_location": "Warsaw, Mazowieckie, Poland",
+  "imdb_scraped": true,
+  "filmweb_id": 12795,
+  "name_pl": "Piotr Figiel",
+  "birth_location_pl": "Warszawa",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Polska"
+  ]
+}

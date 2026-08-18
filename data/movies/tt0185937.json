@@ -1,0 +1,201 @@
+{
+  "imdb_id": "tt0185937",
+  "title": "The Blair Witch Project",
+  "description": "Three film students vanish after traveling into a Maryland forest to film a documentary on the local Blair Witch legend, leaving only their footage behind.",
+  "runtime_minutes": 81,
+  "release_date": "30.07.1999",
+  "genres": [
+    "Horror",
+    "Mystery"
+  ],
+  "stars": [
+    {
+      "id": "nm0231946",
+      "name": "Heather Donahue"
+    },
+    {
+      "id": "nm0931321",
+      "name": "Michael C. Williams"
+    },
+    {
+      "id": "nm0502671",
+      "name": "Joshua Leonard"
+    },
+    {
+      "id": "nm1482809",
+      "name": "Bob Griffin"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0617130",
+      "name": "Daniel Myrick"
+    },
+    {
+      "id": "nm0844896",
+      "name": "Eduardo Sánchez"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0617130",
+      "name": "Daniel Myrick"
+    },
+    {
+      "id": "nm0844896",
+      "name": "Eduardo Sánchez"
+    },
+    {
+      "id": "nm0231946",
+      "name": "Heather Donahue"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0231946",
+      "name": "Heather Donahue",
+      "character": "Heather Donahue"
+    },
+    {
+      "id": "nm0931321",
+      "name": "Michael C. Williams",
+      "character": "Michael Williams"
+    },
+    {
+      "id": "nm0502671",
+      "name": "Joshua Leonard",
+      "character": "Joshua Leonard"
+    },
+    {
+      "id": "nm1482809",
+      "name": "Bob Griffin",
+      "character": "Short Fisherman"
+    },
+    {
+      "id": "nm0454865",
+      "name": "Jim King",
+      "character": "Burkittsville Resident Interviewee"
+    },
+    {
+      "id": "nm0845172",
+      "name": "Sandra Sánchez",
+      "character": "Waitress"
+    },
+    {
+      "id": "nm0841781",
+      "name": "Ed Swanson",
+      "character": "Fisherman with Glasses"
+    },
+    {
+      "id": "nm0213986",
+      "name": "Patricia DeCou",
+      "character": "Mary Brown"
+    },
+    {
+      "id": "nm0556844",
+      "name": "Mark Mason",
+      "character": "Man in Yellow Hat"
+    },
+    {
+      "id": "nm0356492",
+      "name": "Susie Gooch",
+      "character": "Interviewee with Child"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 847,
+  "year": 1999,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNGFmYzA5NzktOTc1Ni00YTIxLWJiZTEtNmEyZjBjNDM2MjRlXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.5,
+      "votes": 321162,
+      "distribution": {
+        "1": 17645,
+        "2": 9264,
+        "3": 11696,
+        "4": 17167,
+        "5": 30309,
+        "6": 53570,
+        "7": 71990,
+        "8": 55567,
+        "9": 26621,
+        "10": 27333
+      },
+      "normalized": 4.4463
+    },
+    "filmweb": {
+      "rating": 6.32,
+      "votes": 129228,
+      "distribution": {
+        "1": 2964,
+        "2": 2782,
+        "3": 7095,
+        "4": 8645,
+        "5": 16058,
+        "6": 24713,
+        "7": 31007,
+        "8": 22059,
+        "9": 8864,
+        "10": 5041
+      },
+      "normalized": 3.9309
+    },
+    "jarek": {
+      "rating": 2,
+      "date_rated": "02.12.2005",
+      "normalized": 3.5003
+    },
+    "michal": {
+      "rating": 3,
+      "date_rated": "19.10.2005",
+      "normalized": 3.8753
+    },
+    "score": 3.9382
+  },
+  "polish_title": "Blair Witch Project",
+  "silent": false,
+  "description_pl": "Jeden z najbardziej kontrowersyjnych filmów. Trójka studentów szkoły filmowej wyposażonych w kamery wideo i podstawowy ekwipunek turystyczny, wyrusza na wyprawę w okolice Burkittesville, żeby nakręcić dokumentalny film inspirowany lokalną legendą o Wiedźmie z Blair. Legenda głosi, że od dwóch wieków w okolicznych lasach wiedźmy torturowały i zabijały dzieci. To co miało być prostym zadaniem zmieniło się w koszmar. Studentów już nigdy nie odnaleziono.",
+  "producers": [
+    {
+      "id": "nm0184770",
+      "name": "Robin Cowie"
+    },
+    {
+      "id": "nm0251593",
+      "name": "Bob Eick"
+    },
+    {
+      "id": "nm0289320",
+      "name": "Kevin J. Foxe"
+    },
+    {
+      "id": "nm0354918",
+      "name": "Gregg Hale"
+    },
+    {
+      "id": "nm0597842",
+      "name": "Michael Monello"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0178992",
+      "name": "Antonio Cora"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0292864",
+      "name": "Neal Fredericks"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

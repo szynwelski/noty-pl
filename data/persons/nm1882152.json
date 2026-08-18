@@ -1,0 +1,48 @@
+{
+  "id": "nm1882152",
+  "name": "Xavier Samuel",
+  "filmography": [
+    {
+      "imdb_id": "tt1325004",
+      "title": "The Twilight Saga: Eclipse",
+      "year": 2010,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Riley"
+    },
+    {
+      "imdb_id": "tt2713180",
+      "title": "Fury",
+      "year": 2014,
+      "roles": [
+        "cast"
+      ],
+      "character": "Lieutenant Parker"
+    },
+    {
+      "imdb_id": "tt3704428",
+      "title": "Elvis",
+      "year": 2022,
+      "roles": [
+        "cast"
+      ],
+      "character": "Scotty Moore"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODAzOThiMmYtZTMwYy00ZmNkLWFkYzgtNjRiNjZlODZkZGQxXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "10.12.1983",
+  "birth_location": "Hamilton, Victoria, Australia",
+  "height": "1.78 m",
+  "imdb_scraped": true,
+  "filmweb_id": 780141,
+  "name_pl": "Xavier Samuel",
+  "birth_location_pl": "Hamilton",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Australia"
+  ],
+  "wikidata_fw_id": 780141
+}

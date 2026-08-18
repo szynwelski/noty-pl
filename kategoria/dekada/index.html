@@ -1,0 +1,566 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🎬</text></svg>">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Dekady — Noty</title>
+  <link rel="stylesheet" href="../../static/style.css">
+  <script src="../../static/translations.js"></script>
+  <script src="../../static/tooltip.js"></script>
+</head>
+<body>
+  <nav>
+    <a class="logo" href="/">no<span>ty</span></a>
+    <a class="nav-link" href="/">Filmy</a>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Osoby <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/osoba/rezyser/">Reżyserzy</a>
+        <a href="/osoba/scenarzysta/">Scenarzyści</a>
+        <a href="/osoba/gwiazda/">Gwiazdy</a>
+        <a href="/osoba/aktor/">Aktorzy</a>
+        <a href="/osoba/kompozytor/">Kompozytorzy</a>
+        <a href="/osoba/operator/">Operatorzy</a>
+        <a href="/osoba/producent/">Producenci</a>
+        <a href="/osoba/wszechstronna/">Wszechstronni</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Krytycy <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/krytyk/jarek/">Jarek</a>
+        <a href="/krytyk/michal/">Michał</a>
+        <a href="/krytyk/imdb/">IMDb</a>
+        <a href="/krytyk/filmweb/">Filmweb</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Kategorie <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/kategoria/gatunek/">Gatunki</a>
+        <a href="/kategoria/kraj/">Kraje</a>
+        <a href="/kategoria/jezyk/">Języki</a>
+        <a href="/kategoria/dekada/">Dekady</a>
+        <a href="/kategoria/rok/">Lata</a>
+        <a href="/kategoria/czas/">Czas trwania</a>
+        <a href="/kategoria/popularnosc/">Popularność</a>
+        <hr>
+        <a href="/kategoria/plec/">Płeć</a>
+        <a href="/kategoria/obywatelstwo/">Obywatelstwo</a>
+        <a href="/kategoria/urodzenie/">Urodzenie</a>
+        <a href="/kategoria/wiek/">Wiek</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Statystyki <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/statystyki/podsumowanie/">Podsumowanie</a>
+        <a href="/statystyki/rekordy/">Rekordy</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Metodologia <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/metodologia/filmy/">Filmy</a>
+        <a href="/metodologia/osoby/">Osoby</a>
+        <a href="/metodologia/kategorie-filmow/">Kategorie filmów</a>
+        <a href="/metodologia/kategorie-osob/">Kategorie osób</a>
+      </div>
+    </div>
+    <button id="search-global-btn" class="nav-search-btn" title="Szukaj (⌘K)">
+      <svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+    </button>
+  </nav>
+  <div id="search-modal" class="search-modal">
+    <div id="search-modal-backdrop" class="search-modal-backdrop"></div>
+    <div class="search-modal-box">
+      <div class="search-modal-header">
+        <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink:0;color:var(--muted)"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        <input id="search-modal-input" class="search-modal-input" type="text" placeholder="Szukaj filmów i osób…" autocomplete="off" spellcheck="false">
+        <kbd class="search-modal-esc">Esc</kbd>
+      </div>
+      <div id="search-modal-results" class="search-modal-results"></div>
+    </div>
+  </div>
+  <script src="/static/search.js"></script>
+
+  <div id="tooltip"></div>
+  <div class="container">
+    <h1>Dekady <a href="/metodologia/kategorie-filmow/" title="Jak obliczana jest ocena?" style="font-size:.7rem;font-weight:400;color:var(--muted);border:1px solid var(--border);border-radius:50%;padding:.1em .5em;vertical-align:middle;text-decoration:none;margin-left:.4rem">?</a></h1>
+
+    <div id="loading">Ładowanie…</div>
+    <div id="content" style="display:none">
+      <div class="search-bar" style="margin-bottom:1rem">
+        <select id="filter-genre"   class="filter-select"><option value="">Gatunek</option></select>
+        <select id="filter-country" class="filter-select"><option value="">Kraj</option></select>
+        <select id="filter-lang"    class="filter-select"><option value="">Język</option></select>
+        <span class="count" id="count"></span>
+      </div>
+
+      <table>
+        <thead>
+          <tr>
+            <th data-col="dekada" class="sorted" data-dir="1">Dekada</th>
+            <th class="num" data-col="filmy">Filmów</th>
+            <th class="num" data-col="ocena">Ocena</th>
+            <th class="num" data-col="jarek">Jarek</th>
+            <th class="num" data-col="michal">Michał</th>
+            <th class="num muted" data-col="imdb">IMDb</th>
+            <th class="num muted" data-col="filmweb">Filmweb</th>
+          </tr>
+        </thead>
+        <tbody id="tbody"></tbody>
+      </table>
+
+      <h2 style="margin-top:2.5rem">Trend ocen według dekady</h2>
+      <p class="muted">Kliknij pozycję legendy, żeby zobaczyć tylko jedną linię; kliknij ponownie, żeby przywrócić wszystkie.</p>
+      <div id="chart-legend" style="display:flex;gap:1.25rem;flex-wrap:wrap;margin:.75rem 0 .25rem"></div>
+      <svg id="chart-svg" viewBox="0 0 800 220" style="width:100%;max-width:800px;overflow:visible;display:block"></svg>
+
+      <h2 style="margin-top:2rem">Liczba filmów według dekady</h2>
+      <svg id="bar-svg" viewBox="0 0 800 110" style="width:100%;max-width:800px;overflow:visible;display:block"></svg>
+    </div>
+  </div>
+  <script>
+    const SRCS       = ['jarek', 'michal', 'imdb', 'filmweb'];
+    const COL_LABELS = { ocena: 'Ocena', jarek: 'Jarek', michal: 'Michał', imdb: 'IMDb', filmweb: 'Filmweb' };
+    const COL_DEC    = { ocena: 2, jarek: 1, michal: 1, imdb: 2, filmweb: 2 };
+    const BAYES_AVG_M = 10;
+    const LINE_COLS  = { ocena: '#1a1d2e', jarek: '#3d6fe8', michal: '#16a34a', imdb: '#ca8a04', filmweb: '#dc2626' };
+    const LINES      = ['ocena', 'jarek', 'michal', 'imdb', 'filmweb'];
+
+    function toRoman(n) {
+      const vals = [100,90,50,40,10,9,5,4,1];
+      const syms = ['C','XC','L','XL','X','IX','V','IV','I'];
+      let r = '';
+      for (let i = 0; i < vals.length; i++)
+        while (n >= vals[i]) { r += syms[i]; n -= vals[i]; }
+      return r;
+    }
+
+    function decadeLabel(d) {
+      const century = Math.floor(d / 100) + 1;
+      const dec = d % 100;
+      return `${toRoman(century)} w., ${String(dec).padStart(2, '0')}.`;
+    }
+
+    function decadeRange(d) {
+      return `${d}–${d + 9}`;
+    }
+
+
+    function cell(val, src) {
+      return val != null
+        ? `<span class="${scoreClass(val)}">${Number(val).toFixed(COL_DEC[src])}</span>`
+        : '<span class="muted">—</span>';
+    }
+
+    function avg(arr) {
+      return arr.length ? arr.reduce((s, v) => s + v, 0) / arr.length : null;
+    }
+
+    function bayesianAvg(scores, globalMean) {
+      const n = scores.length;
+      if (!n) return null;
+      return (scores.reduce((s, v) => s + v, 0) + BAYES_AVG_M * globalMean) / (n + BAYES_AVG_M);
+    }
+
+    function filmListUrl(base) {
+      const p = new URLSearchParams(base);
+      const fg = document.getElementById('filter-genre')?.value;
+      const fc = document.getElementById('filter-country')?.value;
+      const fl = document.getElementById('filter-lang')?.value;
+      if (fg) p.set('gatunek', GENRES[fg]    || fg);
+      if (fc) p.set('kraj',    COUNTRIES[fc] || fc);
+      if (fl) p.set('jezyk',   LANGUAGES[fl] || fl);
+      return '/?' + p.toString();
+    }
+
+    let allMovies = [], rows = [], sortCol = 'dekada', sortDir = 1, activeLine = null;
+
+    // ── Tabela ────────────────────────────────────────────────────────────────
+
+    function render() {
+      const sorted = [...rows].sort((a, b) => {
+        if (sortCol === 'dekada') return (a._decade - b._decade) * sortDir;
+        const av = a[sortCol], bv = b[sortCol];
+        if (av == null && bv == null) return 0;
+        if (av == null) return 1;
+        if (bv == null) return -1;
+        return (av - bv) * sortDir;
+      });
+
+      const tbody = document.getElementById('tbody');
+      tbody.innerHTML = sorted.map(r => `
+        <tr data-key="${r._decade}">
+          <td class="decade-cell" data-idx="${r._idx}"><a href="${filmListUrl({od: r._decade, do: r._decade+9})}" class="meta-link">${decadeLabel(r._decade)}</a></td>
+          <td class="num">${r.filmy}</td>
+          <td class="num avg-cell" data-idx="${r._idx}" data-src="ocena">${cell(r.ocena, 'ocena')}</td>
+          <td class="num avg-cell" data-idx="${r._idx}" data-src="jarek">${cell(r.jarek, 'jarek')}</td>
+          <td class="num avg-cell" data-idx="${r._idx}" data-src="michal">${cell(r.michal, 'michal')}</td>
+          <td class="num muted avg-cell" data-idx="${r._idx}" data-src="imdb">${cell(r.imdb, 'imdb')}</td>
+          <td class="num muted avg-cell" data-idx="${r._idx}" data-src="filmweb">${cell(r.filmweb, 'filmweb')}</td>
+        </tr>`
+      ).join('');
+
+      tbody.querySelectorAll('.decade-cell').forEach(td => {
+        const r = rows[+td.dataset.idx];
+        if (!r.top5?.length) return;
+        attachTip(td, () => {
+          const filmRows = r.top5.map(f =>
+            `<tr>
+              <td style="padding-right:.6em"><a href="/film/?id=${f.id}" style="color:inherit">${f.title}</a>
+                ${f.year ? `<span class="muted" style="font-size:.78rem"> (${f.year})</span>` : ''}</td>
+              <td><span class="${scoreClass(f.score)}">${fmt(f.score)}</span></td>
+            </tr>`
+          ).join('');
+          return `<div class="tip-title">Top 5: ${decadeLabel(r._decade)} <span style="opacity:.65;font-weight:400">(${decadeRange(r._decade)})</span></div><table>${filmRows}</table>`;
+        });
+      });
+
+      tbody.querySelectorAll('.avg-cell').forEach(td => {
+        const r = rows[+td.dataset.idx];
+        const src = td.dataset.src;
+        const val = r[src];
+        if (val == null) return;
+        const rk = r._src[src];
+        attachTip(td, () =>
+          `<div class="tip-title">${COL_LABELS[src]}</div>` +
+          `<div class="tip-main-val">${Number(val).toFixed(COL_DEC[src])}${rk?.rank != null ? ` <span class="tip-rank">#${rk.rank} <span style="opacity:.65">z ${rk.total}</span></span>` : ''}</div>` +
+          _tipRows([['Filmów', String(rk?.count ?? r.filmy)]])
+        );
+      });
+    }
+
+    // ── Wykres ────────────────────────────────────────────────────────────────
+
+    function applyChartVisibility() {
+      document.querySelectorAll('.chart-line').forEach(el => {
+        el.style.opacity = (!activeLine || activeLine === el.dataset.src) ? '' : '0.06';
+      });
+      document.querySelectorAll('.chart-dot').forEach(el => {
+        el.style.opacity = (!activeLine || activeLine === el.dataset.src) ? '' : '0.06';
+      });
+      document.querySelectorAll('.legend-item').forEach(el => {
+        el.style.opacity = (!activeLine || activeLine === el.dataset.src) ? '1' : '0.35';
+        el.style.fontWeight = activeLine === el.dataset.src ? '600' : '';
+      });
+    }
+
+    function renderChart() {
+      activeLine = null;
+      const data = [...rows].sort((a, b) => a._decade - b._decade);
+      if (data.length < 2) return;
+
+      const W = 800, H = 220, PL = 42, PR = 16, PT = 16, PB = 32;
+      const cw = W - PL - PR, ch = H - PT - PB;
+
+      const allVals = data.flatMap(r => LINES.map(s => r[s]).filter(v => v != null));
+      if (!allVals.length) return;
+      const rawMin = Math.min(...allVals), rawMax = Math.max(...allVals);
+      const yMin = Math.floor((rawMin - 0.3) * 2) / 2;
+      const yMax = Math.ceil((rawMax + 0.3) * 2) / 2;
+
+      const xPos = i => PL + (data.length > 1 ? (i / (data.length - 1)) * cw : cw / 2);
+      const yPos = v => PT + ch * (1 - (v - yMin) / (yMax - yMin));
+
+      let s = '';
+
+      // Grid + y labels
+      for (let y = Math.ceil(yMin * 2) / 2; y <= yMax + 0.001; y = Math.round((y + 0.5) * 100) / 100) {
+        const yp = yPos(y).toFixed(1);
+        const isInt = Number.isInteger(y);
+        s += `<line x1="${PL}" x2="${W - PR}" y1="${yp}" y2="${yp}" stroke="var(--border)" stroke-width="${isInt ? 1 : 0.5}"${isInt ? '' : ' stroke-dasharray="2,3"'}/>`;
+        if (isInt) s += `<text x="${PL - 5}" y="${(+yp + 4).toFixed(1)}" text-anchor="end" font-size="11" fill="var(--muted)">${y}</text>`;
+      }
+      s += `<line x1="${PL}" x2="${PL}" y1="${PT}" y2="${PT + ch}" stroke="var(--border)"/>`;
+      s += `<line x1="${PL}" x2="${W - PR}" y1="${PT + ch}" y2="${PT + ch}" stroke="var(--border)"/>`;
+
+      // X labels
+      data.forEach((r, i) => {
+        s += `<text x="${xPos(i).toFixed(1)}" y="${(PT + ch + 16).toFixed(1)}" text-anchor="middle" font-size="11" fill="var(--muted)">${r._decade}</text>`;
+      });
+
+      // Lines (pointer-events:none so dots are always hittable)
+      for (const src of LINES) {
+        const pts = data.map((r, i) => r[src] != null ? `${xPos(i).toFixed(1)},${yPos(r[src]).toFixed(1)}` : null).filter(Boolean);
+        if (pts.length < 2) continue;
+        const isService = src === 'imdb' || src === 'filmweb';
+        const sw = src === 'ocena' ? 2.5 : 1.75;
+        s += `<polyline points="${pts.join(' ')}" fill="none" stroke="${LINE_COLS[src]}" stroke-width="${sw}"${isService ? ' stroke-dasharray="5,3" opacity=".75"' : ''} stroke-linejoin="round" stroke-linecap="round" pointer-events="none" class="chart-line" data-src="${src}"/>`;
+      }
+
+      // Dots
+      for (const src of LINES) {
+        data.forEach((r, i) => {
+          if (r[src] == null) return;
+          const isService = src === 'imdb' || src === 'filmweb';
+          s += `<circle cx="${xPos(i).toFixed(1)}" cy="${yPos(r[src]).toFixed(1)}" r="4" fill="${LINE_COLS[src]}"${isService ? ' opacity=".75"' : ''} class="chart-dot" data-src="${src}" data-idx="${r._idx}"/>`;
+        });
+      }
+
+      document.getElementById('chart-svg').innerHTML = s;
+
+      // Legend
+      const legendEl = document.getElementById('chart-legend');
+      legendEl.innerHTML = LINES.map(src => {
+        const isService = src === 'imdb' || src === 'filmweb';
+        const sw = src === 'ocena' ? 2.5 : 1.75;
+        return `<span class="legend-item" data-src="${src}" style="display:inline-flex;align-items:center;gap:.3rem;font-size:.85rem;color:var(--muted);cursor:pointer;user-select:none${isService ? ';opacity:.8' : ''}">` +
+          `<svg width="18" height="8" style="flex-shrink:0"><line x1="0" y1="4" x2="18" y2="4" stroke="${LINE_COLS[src]}" stroke-width="${sw}"${isService ? ' stroke-dasharray="5,3"' : ''}/></svg>` +
+          `${COL_LABELS[src]}</span>`;
+      }).join('');
+
+      legendEl.querySelectorAll('.legend-item').forEach(item => {
+        item.addEventListener('click', () => {
+          activeLine = activeLine === item.dataset.src ? null : item.dataset.src;
+          applyChartVisibility();
+        });
+      });
+
+      // Dot tooltips
+      document.querySelectorAll('.chart-dot').forEach(dot => {
+        const r = rows[+dot.dataset.idx];
+        const src = dot.dataset.src;
+        const val = r[src];
+        if (val == null) return;
+        const count = r._src[src]?.count ?? r.filmy;
+        attachTip(dot, () =>
+          `<div class="tip-title">${decadeLabel(r._decade)} <span style="opacity:.65;font-weight:400">(${decadeRange(r._decade)})</span> — ${COL_LABELS[src]}</div>` +
+          `<div class="tip-main-val">${Number(val).toFixed(COL_DEC[src])}</div>` +
+          _tipRows([['Filmów', String(count)]])
+        );
+      });
+    }
+
+    // ── Wykres słupkowy ───────────────────────────────────────────────────────
+
+    function renderBarChart() {
+      const data = [...rows].sort((a, b) => a._decade - b._decade);
+      if (!data.length) return;
+
+      const W = 800, H = 110, PL = 42, PR = 16, PT = 8, PB = 32;
+      const cw = W - PL - PR, ch = H - PT - PB;
+
+      const maxFilmy = Math.max(...data.map(r => r.filmy));
+      const spacing = data.length > 1 ? cw / (data.length - 1) : cw;
+      const barW = Math.min(40, Math.max(4, spacing * 0.6));
+
+      const xPos = i => PL + (data.length > 1 ? (i / (data.length - 1)) * cw : cw / 2);
+
+      let s = '';
+
+      s += `<line x1="${PL}" x2="${PL}" y1="${PT}" y2="${PT + ch}" stroke="var(--border)"/>`;
+      s += `<line x1="${PL}" x2="${W - PR}" y1="${PT + ch}" y2="${PT + ch}" stroke="var(--border)"/>`;
+      s += `<text x="${PL - 5}" y="${(PT + 4).toFixed(1)}" text-anchor="end" font-size="11" fill="var(--muted)">${maxFilmy}</text>`;
+
+      data.forEach((r, i) => {
+        s += `<text x="${xPos(i).toFixed(1)}" y="${(PT + ch + 16).toFixed(1)}" text-anchor="middle" font-size="11" fill="var(--muted)">${r._decade}</text>`;
+      });
+
+      data.forEach((r, i) => {
+        const bh = Math.max(1, ch * (r.filmy / maxFilmy));
+        const x = (xPos(i) - barW / 2).toFixed(1);
+        const y = (PT + ch - bh).toFixed(1);
+        s += `<rect class="bar-rect" data-idx="${r._idx}" x="${x}" y="${y}" width="${barW.toFixed(1)}" height="${bh.toFixed(1)}" fill="var(--accent)" opacity=".45" rx="2" style="cursor:default"/>`;
+      });
+
+      document.getElementById('bar-svg').innerHTML = s;
+
+      document.querySelectorAll('.bar-rect').forEach(rect => {
+        const r = rows[+rect.dataset.idx];
+        attachTip(rect, () =>
+          `<div class="tip-title">${decadeLabel(r._decade)} <span style="opacity:.65;font-weight:400">(${decadeRange(r._decade)})</span></div>` +
+          `<div class="tip-main-val">${r.filmy} filmów</div>`
+        );
+      });
+    }
+
+    // ── Obliczenia ────────────────────────────────────────────────────────────
+
+    function computeStats(movies) {
+      const globalSrc = {};
+      for (const src of SRCS) {
+        const all = movies.flatMap(m => { const v = m.ratings?.[src]?.rating; return v != null ? [v] : []; });
+        globalSrc[src] = avg(all) || 0;
+      }
+      const allScores = movies.flatMap(m => m.score != null ? [m.score] : []);
+      const globalAvg = avg(allScores) || 0;
+
+      const byDecade = {};
+      for (const m of movies) {
+        if (!m.year) continue;
+        const d = Math.floor(m.year / 10) * 10;
+        if (!byDecade[d]) byDecade[d] = { count: 0, scores: [], films: [], src: {} };
+        byDecade[d].count++;
+        if (m.score != null) {
+          byDecade[d].scores.push(m.score);
+          byDecade[d].films.push({ id: m.id, title: m.polish_title || m.title, year: m.year, score: m.score });
+        }
+        for (const src of SRCS) {
+          const v = m.ratings?.[src]?.rating;
+          if (v != null) {
+            if (!byDecade[d].src[src]) byDecade[d].src[src] = [];
+            byDecade[d].src[src].push(v);
+          }
+        }
+      }
+
+      rows = Object.entries(byDecade).map(([d, data], i) => {
+        const decade = +d;
+        const srcStats = {};
+        for (const src of SRCS) {
+          const vals = data.src[src] || [];
+          if (!vals.length) continue;
+          srcStats[src] = { avg: bayesianAvg(vals, globalSrc[src]), count: vals.length };
+        }
+        return {
+          _idx:    i,
+          _decade: decade,
+          filmy:   data.count,
+          ocena:   bayesianAvg(data.scores, globalAvg),
+          jarek:   srcStats.jarek?.avg   ?? null,
+          michal:  srcStats.michal?.avg  ?? null,
+          imdb:    srcStats.imdb?.avg    ?? null,
+          filmweb: srcStats.filmweb?.avg ?? null,
+          top5:    [...data.films].sort((a, b) => b.score - a.score).slice(0, 5),
+          _src:    { ocena: { count: data.scores.length }, ...srcStats },
+        };
+      });
+
+      for (const col of ['ocena', ...SRCS]) {
+        const ranked = [...rows].filter(r => r[col] != null).sort((a, b) => b[col] - a[col]);
+        ranked.forEach((r, i) => {
+          r._src[col] = r._src[col] || {};
+          r._src[col].rank  = i + 1;
+          r._src[col].total = ranked.length;
+        });
+      }
+    }
+
+    // ── Filtry ────────────────────────────────────────────────────────────────
+
+    function buildFilters() {
+      const freq = { genres: {}, countries: {}, languages: {} };
+      allMovies.forEach(m => {
+        (m.genres    || []).forEach(v => { freq.genres[v]    = (freq.genres[v]    || 0) + 1; });
+        (m.countries || []).forEach(v => { freq.countries[v] = (freq.countries[v] || 0) + 1; });
+        (m.languages || []).forEach(v => { freq.languages[v] = (freq.languages[v] || 0) + 1; });
+      });
+      [
+        { id: 'filter-genre',   freq: freq.genres,    dict: GENRES,    label: 'Gatunek' },
+        { id: 'filter-country', freq: freq.countries, dict: COUNTRIES, label: 'Kraj' },
+        { id: 'filter-lang',    freq: freq.languages, dict: LANGUAGES, label: 'Język' },
+      ].forEach(({ id, freq, dict, label }) => {
+        const sel = document.getElementById(id);
+        sel.innerHTML = `<option value="">${label}</option>`;
+        Object.entries(freq).sort((a, b) => b[1] - a[1]).forEach(([val]) => {
+          const opt = document.createElement('option');
+          opt.value = val;
+          opt.textContent = dict[val] || val;
+          sel.appendChild(opt);
+        });
+        sel.onchange = refresh;
+      });
+    }
+
+    function filteredMovies() {
+      const fg = document.getElementById('filter-genre')?.value;
+      const fc = document.getElementById('filter-country')?.value;
+      const fl = document.getElementById('filter-lang')?.value;
+      return allMovies.filter(m => {
+        if (fg && !(m.genres    || []).includes(fg)) return false;
+        if (fc && !(m.countries || []).includes(fc)) return false;
+        if (fl && !(m.languages || []).includes(fl)) return false;
+        return true;
+      });
+    }
+
+    function syncUrl() {
+      const fg = document.getElementById('filter-genre')?.value;
+      const fc = document.getElementById('filter-country')?.value;
+      const fl = document.getElementById('filter-lang')?.value;
+      const p = new URLSearchParams();
+      if (fg) p.set('gatunek', GENRES[fg]    || fg);
+      if (fc) p.set('kraj',    COUNTRIES[fc]  || fc);
+      if (fl) p.set('jezyk',   LANGUAGES[fl]  || fl);
+      const defaultDir = sortCol === 'dekada' ? 1 : -1;
+      if (sortCol !== 'dekada' || sortDir !== 1) {
+        p.set('sortuj', sortCol);
+        if (sortDir !== defaultDir) p.set('kier', sortDir === 1 ? 'rosnaco' : 'malejaco');
+      }
+      history.replaceState(null, '', p.toString() ? '?' + p.toString() : location.pathname);
+    }
+
+    function refresh() {
+      syncUrl();
+      const movies = filteredMovies();
+      computeStats(movies);
+      document.getElementById('count').textContent = `${rows.length} dekad · ${movies.length} filmów`;
+      render();
+      renderChart();
+      renderBarChart();
+    }
+
+    // ── Ładowanie ─────────────────────────────────────────────────────────────
+
+    fetch('../../data/movies_index.json')
+      .then(r => r.json())
+      .then(movies => {
+        allMovies = movies;
+        buildFilters();
+
+        const urlP = new URLSearchParams(location.search);
+        const pg = urlP.get('gatunek'), pc = urlP.get('kraj'), pl = urlP.get('jezyk');
+        const revG = Object.fromEntries(Object.entries(GENRES).map(([k,v])=>[v,k]));
+        const revC = Object.fromEntries(Object.entries(COUNTRIES).map(([k,v])=>[v,k]));
+        const revL = Object.fromEntries(Object.entries(LANGUAGES).map(([k,v])=>[v,k]));
+        if (pg) document.getElementById('filter-genre').value   = revG[pg]   || pg;
+        if (pc) document.getElementById('filter-country').value = revC[pc]   || pc;
+        if (pl) document.getElementById('filter-lang').value    = revL[pl]   || pl;
+
+        const ps = urlP.get('sortuj');
+        if (ps) {
+          sortCol = ps;
+          const kier = urlP.get('kier');
+          sortDir = kier ? (kier === 'rosnaco' ? 1 : -1) : (ps === 'dekada' ? 1 : -1);
+          document.querySelectorAll('th[data-col]').forEach(t => { t.classList.remove('sorted'); delete t.dataset.dir; });
+          const th = document.querySelector(`th[data-col="${ps}"]`);
+          if (th) { th.classList.add('sorted'); th.dataset.dir = String(sortDir); }
+        }
+
+        document.getElementById('loading').style.display = 'none';
+        document.getElementById('content').style.display = '';
+        refresh();
+
+        const hlKey = urlP.get('zaznacz');
+        if (hlKey) {
+          setTimeout(() => {
+            const target = document.querySelector(`tr[data-key="${hlKey}"]`);
+            if (target) {
+              target.scrollIntoView({ behavior: 'smooth', block: 'center' });
+              setTimeout(() => { void target.offsetHeight; target.classList.add('row-highlight'); }, 600);
+            }
+          }, 0);
+        }
+      })
+      .catch(err => {
+        document.getElementById('loading').textContent = 'Błąd: ' + err.message;
+      });
+
+    document.querySelectorAll('th[data-col]').forEach(th => {
+      th.addEventListener('click', () => {
+        const col = th.dataset.col;
+        sortDir = sortCol === col ? sortDir * -1 : (col === 'dekada' ? 1 : -1);
+        sortCol = col;
+        document.querySelectorAll('th').forEach(t => { t.classList.remove('sorted'); delete t.dataset.dir; });
+        th.classList.add('sorted');
+        th.dataset.dir = String(sortDir);
+        syncUrl();
+        render();
+      });
+    });
+  </script>
+</body>
+</html>

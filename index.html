@@ -1,0 +1,624 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🎬</text></svg>">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Noty — Ranking filmów</title>
+  <link rel="stylesheet" href="static/style.css">
+  <script src="static/translations.js"></script>
+</head>
+<body>
+  <nav>
+    <a class="logo" href="/">no<span>ty</span></a>
+    <a class="nav-link" href="/">Filmy</a>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Osoby <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/osoba/rezyser/">Reżyserzy</a>
+        <a href="/osoba/scenarzysta/">Scenarzyści</a>
+        <a href="/osoba/gwiazda/">Gwiazdy</a>
+        <a href="/osoba/aktor/">Aktorzy</a>
+        <a href="/osoba/kompozytor/">Kompozytorzy</a>
+        <a href="/osoba/operator/">Operatorzy</a>
+        <a href="/osoba/producent/">Producenci</a>
+        <a href="/osoba/wszechstronna/">Wszechstronni</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Krytycy <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/krytyk/jarek/">Jarek</a>
+        <a href="/krytyk/michal/">Michał</a>
+        <a href="/krytyk/imdb/">IMDb</a>
+        <a href="/krytyk/filmweb/">Filmweb</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Kategorie <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/kategoria/gatunek/">Gatunki</a>
+        <a href="/kategoria/kraj/">Kraje</a>
+        <a href="/kategoria/jezyk/">Języki</a>
+        <a href="/kategoria/dekada/">Dekady</a>
+        <a href="/kategoria/rok/">Lata</a>
+        <a href="/kategoria/czas/">Czas trwania</a>
+        <a href="/kategoria/popularnosc/">Popularność</a>
+        <hr>
+        <a href="/kategoria/plec/">Płeć</a>
+        <a href="/kategoria/obywatelstwo/">Obywatelstwo</a>
+        <a href="/kategoria/urodzenie/">Urodzenie</a>
+        <a href="/kategoria/wiek/">Wiek</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Statystyki <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/statystyki/podsumowanie/">Podsumowanie</a>
+        <a href="/statystyki/rekordy/">Rekordy</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Metodologia <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/metodologia/filmy/">Filmy</a>
+        <a href="/metodologia/osoby/">Osoby</a>
+        <a href="/metodologia/kategorie-filmow/">Kategorie filmów</a>
+        <a href="/metodologia/kategorie-osob/">Kategorie osób</a>
+      </div>
+    </div>
+    <button id="search-global-btn" class="nav-search-btn" title="Szukaj (⌘K)">
+      <svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+    </button>
+  </nav>
+  <div id="search-modal" class="search-modal">
+    <div id="search-modal-backdrop" class="search-modal-backdrop"></div>
+    <div class="search-modal-box">
+      <div class="search-modal-header">
+        <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink:0;color:var(--muted)"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        <input id="search-modal-input" class="search-modal-input" type="text" placeholder="Szukaj filmów i osób…" autocomplete="off" spellcheck="false">
+        <kbd class="search-modal-esc">Esc</kbd>
+      </div>
+      <div id="search-modal-results" class="search-modal-results"></div>
+    </div>
+  </div>
+  <script src="/static/search.js"></script>
+
+  <div id="tooltip"></div>
+  <div class="container">
+    <h1>Ranking filmów <a href="/metodologia/filmy/" title="Jak obliczana jest ocena?" style="font-size:.7rem;font-weight:400;color:var(--muted);border:1px solid var(--border);border-radius:50%;padding:.1em .5em;vertical-align:middle;text-decoration:none;margin-left:.4rem">?</a></h1>
+    <div class="search-bar">
+      <div class="search-wrap">
+        <input id="search" type="text" placeholder="Szukaj tytułu…" autocomplete="off">
+        <button id="search-clear" class="search-clear" style="display:none" aria-label="Wyczyść">×</button>
+      </div>
+      <select id="filter-genre" class="filter-select"><option value="">Gatunek</option></select>
+      <select id="filter-country" class="filter-select"><option value="">Kraj</option></select>
+      <select id="filter-lang" class="filter-select"><option value="">Język</option></select>
+      <span class="year-range">
+        <input id="year-from" type="number" placeholder="od">
+        <span class="year-sep">–</span>
+        <input id="year-to" type="number" placeholder="do">
+      </span>
+      <select id="filter-runtime"     class="filter-select" style="display:none"><option value="">Czas trwania</option></select>
+      <select id="filter-votes-imdb" class="filter-select" style="display:none"><option value="">Głosy IMDb</option></select>
+      <select id="filter-votes-fw"   class="filter-select" style="display:none"><option value="">Głosy Filmweb</option></select>
+      <button id="filter-clear" class="filter-clear" title="Wyczyść filtry">×</button>
+      <span class="count" id="count"></span>
+    </div>
+    <div id="loading">Ładowanie…</div>
+    <div id="error" style="display:none"></div>
+    <table id="table" style="display:none">
+      <thead>
+        <tr>
+          <th class="num" data-col="rank">#</th>
+          <th data-col="tytul">Tytuł</th>
+          <th class="num sorted" data-col="ocena" data-dir="-1">Ocena</th>
+          <th class="num" data-col="jarek">Jarek</th>
+          <th class="num" data-col="michal">Michał</th>
+          <th class="num" data-col="imdb">IMDb</th>
+          <th class="num" data-col="filmweb">Filmweb</th>
+          <th class="num" data-col="rok">Rok</th>
+          <th class="num" data-col="czas"       id="th-czas"       style="display:none">Czas</th>
+          <th class="num" data-col="glosy-imdb" id="th-glosy-imdb" style="display:none">Głosy IMDb</th>
+          <th class="num" data-col="glosy-fw"   id="th-glosy-fw"   style="display:none">Głosy Filmweb</th>
+          <th class="num" data-col="data-oceny" id="th-data-oceny" style="display:none">Data oceny</th>
+        </tr>
+      </thead>
+      <tbody id="tbody"></tbody>
+    </table>
+  </div>
+  <script src="static/tooltip.js"></script>
+  <script>
+    function scoreClass(s) {
+      if (s == null) return '';
+      if (s >= 7) return 'score';
+      if (s >= 5) return 'score mid';
+      return 'score low';
+    }
+
+    // ── Ranks ─────────────────────────────────────────────────────────────────
+
+    let rankMap = {};
+
+    function computeAllRanks(movies) {
+      rankMap = {};
+      const RANK_SOURCES = ['score', 'michal', 'jarek', 'filmweb', 'imdb'];
+      for (const src of RANK_SOURCES) {
+        const val = m => src === 'score' ? m.score : m.ratings?.[src]?.rating;
+        const sorted = movies.filter(m => val(m) != null).sort((a, b) => val(b) - val(a));
+        sorted.forEach((m, i) => {
+          if (!rankMap[m.id]) rankMap[m.id] = {};
+          rankMap[m.id][src] = { rank: i + 1, total: sorted.length };
+        });
+      }
+    }
+
+    // ── Render ────────────────────────────────────────────────────────────────
+
+    let allMovies = [], sortCol = 'ocena', sortDir = -1, brakSrc = null,
+        czasOd = null, czasDo = null,
+        glosyOd = null, glosyDo = null,
+        glosyFwOd = null, glosyFwDo = null,
+        ocenilSrc = null, ocenilRok = null;
+
+    // 'DD.MM.YYYY' → sortable YYYYMMDD number (for the "Data oceny" column)
+    function dateSortKey(s) {
+      return s && s.length === 10 ? +(s.slice(6, 10) + s.slice(3, 5) + s.slice(0, 2)) : null;
+    }
+
+    function updateRuntimeUI() {
+      const active = czasOd != null || czasDo != null;
+      document.getElementById('filter-runtime').style.display = active ? '' : 'none';
+      document.getElementById('th-czas').style.display = active ? '' : 'none';
+      document.querySelector('.search-bar').classList.toggle('runtime-active', active);
+    }
+
+    function updateVotesUI() {
+      const activeImdb = glosyOd != null || glosyDo != null;
+      const activeFw   = glosyFwOd != null || glosyFwDo != null;
+      document.getElementById('filter-votes-imdb').style.display = activeImdb ? '' : 'none';
+      document.getElementById('filter-votes-fw').style.display   = activeFw   ? '' : 'none';
+      document.getElementById('th-glosy-imdb').style.display     = activeImdb ? '' : 'none';
+      document.getElementById('th-glosy-fw').style.display       = activeFw   ? '' : 'none';
+      document.querySelector('.search-bar').classList.toggle('votes-imdb-active', activeImdb);
+      document.querySelector('.search-bar').classList.toggle('votes-fw-active',   activeFw);
+    }
+
+    function buildRuntimeSelect() {
+      const sel = document.getElementById('filter-runtime');
+      for (let b = 1; b <= 201; b += 10) {
+        const opt = document.createElement('option');
+        opt.value = b;
+        opt.textContent = `${b}–${b + 9} min`;
+        sel.appendChild(opt);
+      }
+      const opt = document.createElement('option');
+      opt.value = 211;
+      opt.textContent = '211+ min';
+      sel.appendChild(opt);
+    }
+
+    const VOTE_BUCKETS = [
+      { od: 1,       do: 1000,    label: '1–1 000' },
+      { od: 1001,    do: 10000,   label: '1 001–10 000' },
+      { od: 10001,   do: 100000,  label: '10 001–100 000' },
+      { od: 100001,  do: 1000000, label: '100 001–1 000 000' },
+      { od: 1000001, do: null,    label: '1 000 001+' },
+    ];
+
+    function buildVotesSelects() {
+      for (const id of ['filter-votes-imdb', 'filter-votes-fw']) {
+        const sel = document.getElementById(id);
+        VOTE_BUCKETS.forEach(b => {
+          const opt = document.createElement('option');
+          opt.value = b.od;
+          opt.textContent = b.label;
+          sel.appendChild(opt);
+        });
+      }
+    }
+
+    // Infinite scroll: filter/sort run on the full array; rows render in chunks.
+    const PAGE_SIZE = 100;
+    let currentList = [], rendered = 0;
+
+    function buildRow(m) {
+        const i = m._rank;
+        const r = m.ratings || {};
+        const score  = m.score;
+        const jarek  = r.jarek?.rating;
+        const michal = r.michal?.rating;
+        const imdb   = r.imdb?.rating;
+        const fw     = r.filmweb?.rating;
+        const display = m.polish_title || m.title;
+        const sub = (m.polish_title && m.polish_title !== m.title) ? m.title
+          : (m.original_title && m.original_title !== m.title ? m.original_title : null);
+
+        const tr = document.createElement('tr');
+        tr.dataset.id = m.id;
+        tr.innerHTML = `
+          <td class="num muted">${i}</td>
+          <td data-tip="title">
+            <a href="/film/?id=${m.id}">${display}</a>
+            ${sub ? `<div class="muted" style="font-size:.8rem">${sub}</div>` : ''}
+          </td>
+          <td class="num" data-tip="score"><span class="${scoreClass(score)}">${fmt(score)}</span></td>
+          <td class="num" data-tip="jarek">${jarek  != null ? jarek  : '<span class="muted">—</span>'}</td>
+          <td class="num" data-tip="michal">${michal != null ? michal : '<span class="muted">—</span>'}</td>
+          <td class="num muted" data-tip="imdb">${fmt(imdb, 1)}</td>
+          <td class="num muted" data-tip="filmweb">${fmt(fw, 1)}</td>
+          <td class="num muted">${m.year || '—'}</td>
+          ${czasOd != null || czasDo != null ? `<td class="num muted rt-cell">${m.runtime_minutes != null ? m.runtime_minutes + ' min' : '—'}</td>` : ''}
+          ${glosyOd != null || glosyDo != null ? `<td class="num muted votes-cell" data-tip="votes-imdb">${fmtVotes(m.ratings?.imdb?.votes) ?? '—'}</td>` : ''}
+          ${glosyFwOd != null || glosyFwDo != null ? `<td class="num muted votes-cell" data-tip="votes-fw">${fmtVotes(m.ratings?.filmweb?.votes) ?? '—'}</td>` : ''}
+          ${ocenilSrc ? `<td class="num muted">${m.ratings?.[ocenilSrc]?.date_rated || '—'}</td>` : ''}`;
+
+        // attach tooltips
+        const rks = rankMap[m.id] || {};
+        const titleTd = tr.querySelector('[data-tip="title"]');
+        if (titleTd && (m.image_url || m.directors?.length || m.stars?.length))
+          attachTip(titleTd, () => tipFilm(m));
+        tr.querySelector('[data-tip="score"]') && score != null &&
+          attachTip(tr.querySelector('[data-tip="score"]'), () => tipScore(r, score, rks.score));
+        for (const src of ['jarek', 'michal']) {
+          const td = tr.querySelector(`[data-tip="${src}"]`);
+          if (td && r[src]?.rating != null)
+            attachTip(td, () => tipCritic(r[src], SRC_LABELS[src], rks[src]));
+        }
+        for (const src of ['imdb', 'filmweb']) {
+          const td = tr.querySelector(`[data-tip="${src}"]`);
+          if (td && r[src]?.rating != null)
+            attachTip(td, () => tipService(r[src], SRC_LABELS[src], rks[src]));
+        }
+        const vImdbTd = tr.querySelector('[data-tip="votes-imdb"]');
+        if (vImdbTd && r.imdb?.votes != null)
+          attachTip(vImdbTd, () => `<div class="tip-main-val">${r.imdb.votes.toLocaleString('pl-PL')}</div><div class="muted" style="font-size:.8rem;margin-top:.2rem">głosów na IMDb</div>`);
+        const vFwTd = tr.querySelector('[data-tip="votes-fw"]');
+        if (vFwTd && r.filmweb?.votes != null)
+          attachTip(vFwTd, () => `<div class="tip-main-val">${r.filmweb.votes.toLocaleString('pl-PL')}</div><div class="muted" style="font-size:.8rem;margin-top:.2rem">głosów na Filmweb</div>`);
+
+        return tr;
+    }
+
+    function renderChunk() {
+      const tbody = document.getElementById('tbody');
+      const frag = document.createDocumentFragment();
+      const end = Math.min(rendered + PAGE_SIZE, currentList.length);
+      for (let i = rendered; i < end; i++) frag.appendChild(buildRow(currentList[i]));
+      tbody.appendChild(frag);
+      rendered = end;
+    }
+
+    // Render more chunks while the viewport bottom is near the end of the list.
+    function maybeLoadMore() {
+      while (rendered < currentList.length &&
+             window.innerHeight + window.scrollY >= document.documentElement.scrollHeight - 600) {
+        renderChunk();
+      }
+    }
+
+    // Render chunks until the row for `id` exists (for ?zaznacz= deep-linking).
+    function expandTo(id) {
+      const idx = currentList.findIndex(m => m.id === id);
+      if (idx < 0) return false;
+      while (rendered <= idx && rendered < currentList.length) renderChunk();
+      return true;
+    }
+
+    // Flash-highlight a row once the smooth scroll to it settles. Adding the 2s
+    // flash before a long scroll finishes would let it fade out off-screen.
+    function highlightRow(row) {
+      row.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      let settle, scrolled = false;
+      const flash = () => {
+        window.removeEventListener('scroll', onScroll);
+        void row.offsetHeight;              // reflow so the animation restarts
+        row.classList.add('row-highlight');
+      };
+      const onScroll = () => { scrolled = true; clearTimeout(settle); settle = setTimeout(flash, 120); };
+      window.addEventListener('scroll', onScroll, { passive: true });
+      setTimeout(() => { if (!scrolled) flash(); }, 250);  // row was already in view
+    }
+
+    function render(movies) {
+      currentList = movies;
+      rendered = 0;
+      document.getElementById('tbody').innerHTML = '';
+      renderChunk();
+      document.getElementById('count').textContent = `${movies.length} filmów`;
+      maybeLoadMore();
+    }
+
+    function sortedMovies(query) {
+      let list = [...allMovies].sort((a, b) => {
+        let av, bv;
+        const ra = a.ratings || {}, rb = b.ratings || {};
+        if (sortCol === 'ocena')        { av = a.score;             bv = b.score; }
+        else if (sortCol === 'michal')  { av = ra.michal?.rating;   bv = rb.michal?.rating; }
+        else if (sortCol === 'jarek')   { av = ra.jarek?.rating;    bv = rb.jarek?.rating; }
+        else if (sortCol === 'filmweb') { av = ra.filmweb?.rating;  bv = rb.filmweb?.rating; }
+        else if (sortCol === 'imdb')    { av = ra.imdb?.rating;     bv = rb.imdb?.rating; }
+        else if (sortCol === 'rok')     { av = a.year;  bv = b.year; }
+        else if (sortCol === 'czas')       { av = a.runtime_minutes;         bv = b.runtime_minutes; }
+        else if (sortCol === 'glosy-imdb') { av = ra.imdb?.votes;            bv = rb.imdb?.votes; }
+        else if (sortCol === 'glosy-fw')   { av = ra.filmweb?.votes;         bv = rb.filmweb?.votes; }
+        else if (sortCol === 'data-oceny') { av = dateSortKey(ra[ocenilSrc]?.date_rated); bv = dateSortKey(rb[ocenilSrc]?.date_rated); }
+        else if (sortCol === 'tytul') {
+          const key = s => s.replace(/^[^\p{L}\p{N}]+/u, '');
+          return key(a.polish_title || a.title || '').localeCompare(
+            key(b.polish_title || b.title || ''), 'pl', { numeric: true, sensitivity: 'base' }
+          ) * sortDir;
+        }
+        if (av == null && bv == null) return 0;
+        if (av == null) return 1;
+        if (bv == null) return -1;
+        return (av - bv) * sortDir;
+      });
+      list.forEach((m, i) => { m._rank = i + 1; });
+      if (query) {
+        const q = query.toLowerCase();
+        list = list.filter(m =>
+          (m.title || '').toLowerCase().includes(q) ||
+          (m.polish_title || '').toLowerCase().includes(q) ||
+          (m.original_title || '').toLowerCase().includes(q)
+        );
+      }
+      const fg = document.getElementById('filter-genre')?.value;
+      const fc = document.getElementById('filter-country')?.value;
+      const fl = document.getElementById('filter-lang')?.value;
+      if (fg) list = list.filter(m => (m.genres    || []).includes(fg));
+      if (fc) list = list.filter(m => (m.countries || []).includes(fc));
+      if (fl) list = list.filter(m => (m.languages || []).includes(fl));
+      const yf = parseInt(document.getElementById('year-from')?.value);
+      const yt = parseInt(document.getElementById('year-to')?.value);
+      if (!isNaN(yf)) list = list.filter(m => m.year >= yf);
+      if (!isNaN(yt)) list = list.filter(m => m.year <= yt);
+      if (czasOd != null) list = list.filter(m => (m.runtime_minutes || 0) >= czasOd);
+      if (czasDo != null) list = list.filter(m => m.runtime_minutes != null && m.runtime_minutes <= czasDo);
+      if (glosyOd   != null) list = list.filter(m => (m.ratings?.imdb?.votes    || 0) >= glosyOd);
+      if (glosyDo   != null) list = list.filter(m => m.ratings?.imdb?.votes    != null && m.ratings.imdb.votes    <= glosyDo);
+      if (glosyFwOd != null) list = list.filter(m => (m.ratings?.filmweb?.votes || 0) >= glosyFwOd);
+      if (glosyFwDo != null) list = list.filter(m => m.ratings?.filmweb?.votes != null && m.ratings.filmweb.votes <= glosyFwDo);
+      if (brakSrc) list = list.filter(m => m.ratings?.[brakSrc]?.rating == null);
+      if (ocenilSrc) list = list.filter(m => {
+        const dr = m.ratings?.[ocenilSrc]?.date_rated;
+        if (!dr) return false;
+        return !ocenilRok || dr.slice(-4) === ocenilRok;
+      });
+      return list;
+    }
+
+    function hasActiveFilters() {
+      return !!(
+        document.getElementById('filter-genre')?.value ||
+        document.getElementById('filter-country')?.value ||
+        document.getElementById('filter-lang')?.value ||
+        document.getElementById('year-from')?.value ||
+        document.getElementById('year-to')?.value ||
+        czasOd != null || czasDo != null ||
+        glosyOd != null || glosyDo != null || glosyFwOd != null || glosyFwDo != null ||
+        (document.getElementById('search') || {}).value
+      );
+    }
+
+    function syncUrl() {
+      const fg = document.getElementById('filter-genre')?.value;
+      const fc = document.getElementById('filter-country')?.value;
+      const fl = document.getElementById('filter-lang')?.value;
+      const yf = document.getElementById('year-from')?.value;
+      const yt = document.getElementById('year-to')?.value;
+      const p = new URLSearchParams();
+      if (fg) p.set('gatunek', GENRES[fg]    || fg);
+      if (fc) p.set('kraj',    COUNTRIES[fc]  || fc);
+      if (fl) p.set('jezyk',   LANGUAGES[fl]  || fl);
+      if (yf) p.set('od', yf);
+      if (yt) p.set('do', yt);
+      if (czasOd   != null) p.set('czas-od',     czasOd);
+      if (czasDo   != null) p.set('czas-do',     czasDo);
+      if (glosyOd   != null) p.set('glosy-swiat-od',   glosyOd);
+      if (glosyDo   != null) p.set('glosy-swiat-do',   glosyDo);
+      if (glosyFwOd != null) p.set('glosy-polska-od', glosyFwOd);
+      if (glosyFwDo != null) p.set('glosy-polska-do', glosyFwDo);
+      if (brakSrc) p.set('brak', brakSrc);
+      if (ocenilSrc) p.set('ocenil', ocenilSrc);
+      if (ocenilRok) p.set('rok-oceny', ocenilRok);
+      if (sortCol !== 'ocena' || sortDir !== -1) {
+        p.set('sortuj', sortCol);
+        if (sortDir === 1) p.set('kier', 'rosnaco');
+      }
+      const qs = p.toString();
+      history.replaceState(null, '', qs ? '?' + qs : location.pathname);
+      const clearBtn = document.getElementById('filter-clear');
+      if (clearBtn) clearBtn.classList.toggle('visible', hasActiveFilters());
+    }
+
+    function refresh() {
+      syncUrl();
+      if (window.scrollY > 0) window.scrollTo(0, 0);  // new sort/filter → back to the top
+      render(sortedMovies((document.getElementById('search') || {value:''}).value));
+    }
+
+    // Infinite scroll trigger (throttled to one check per frame)
+    let scrollTicking = false;
+    window.addEventListener('scroll', () => {
+      if (scrollTicking) return;
+      scrollTicking = true;
+      requestAnimationFrame(() => { scrollTicking = false; maybeLoadMore(); });
+    }, { passive: true });
+
+    // ── Filters ───────────────────────────────────────────────────────────────
+
+    function buildFilters(movies) {
+      const freq = { genres: {}, countries: {}, languages: {} };
+      movies.forEach(m => {
+        (m.genres    || []).forEach(v => { freq.genres[v]    = (freq.genres[v]    || 0) + 1; });
+        (m.countries || []).forEach(v => { freq.countries[v] = (freq.countries[v] || 0) + 1; });
+        (m.languages || []).forEach(v => { freq.languages[v] = (freq.languages[v] || 0) + 1; });
+      });
+      const DEFS = [
+        { id: 'filter-genre',   freq: freq.genres,    dict: GENRES,    label: 'Gatunek' },
+        { id: 'filter-country', freq: freq.countries, dict: COUNTRIES, label: 'Kraj' },
+        { id: 'filter-lang',    freq: freq.languages, dict: LANGUAGES, label: 'Język' },
+      ];
+      DEFS.forEach(({ id, freq, dict, label }) => {
+        const sel = document.getElementById(id);
+        const cur = sel.value;
+        sel.innerHTML = `<option value="">${label}</option>`;
+        Object.entries(freq).sort((a, b) => b[1] - a[1]).forEach(([val]) => {
+          const opt = document.createElement('option');
+          opt.value = val;
+          opt.textContent = dict[val] || val;
+          sel.appendChild(opt);
+        });
+        if (cur) sel.value = cur;
+        sel.onchange = refresh;
+      });
+    }
+
+    document.querySelectorAll('th[data-col]').forEach(th => {
+      th.addEventListener('click', () => {
+        const col = th.dataset.col;
+        if (col === 'rank') return;
+        if (sortCol === col) { sortDir *= -1; }
+        else { sortCol = col; sortDir = col === 'tytul' ? 1 : -1; }
+        document.querySelectorAll('th').forEach(t => { t.classList.remove('sorted'); t.removeAttribute('data-dir'); });
+        th.classList.add('sorted');
+        th.dataset.dir = sortDir === 1 ? '1' : '-1';
+        refresh();
+      });
+    });
+
+    document.getElementById('year-from').addEventListener('input', refresh);
+    document.getElementById('year-to').addEventListener('input', refresh);
+    document.getElementById('filter-runtime').addEventListener('change', function() {
+      const v = parseInt(this.value);
+      if (isNaN(v)) {
+        czasOd = null; czasDo = null;
+      } else {
+        czasOd = v;
+        czasDo = v >= 211 ? null : v + 9;
+      }
+      updateRuntimeUI();
+      refresh();
+    });
+    document.getElementById('filter-votes-imdb').addEventListener('change', function() {
+      const v = parseInt(this.value);
+      if (isNaN(v)) { glosyOd = null; glosyDo = null; }
+      else { const b = VOTE_BUCKETS.find(b => b.od === v); glosyOd = b.od; glosyDo = b.do; }
+      updateVotesUI();
+      refresh();
+    });
+    document.getElementById('filter-votes-fw').addEventListener('change', function() {
+      const v = parseInt(this.value);
+      if (isNaN(v)) { glosyFwOd = null; glosyFwDo = null; }
+      else { const b = VOTE_BUCKETS.find(b => b.od === v); glosyFwOd = b.od; glosyFwDo = b.do; }
+      updateVotesUI();
+      refresh();
+    });
+    document.getElementById('filter-clear').addEventListener('click', () => {
+      document.getElementById('filter-genre').value = '';
+      document.getElementById('filter-country').value = '';
+      document.getElementById('filter-lang').value = '';
+      document.getElementById('filter-runtime').value     = '';
+      document.getElementById('filter-votes-imdb').value = '';
+      document.getElementById('filter-votes-fw').value   = '';
+      document.getElementById('year-from').value = '';
+      document.getElementById('year-to').value = '';
+      czasOd = null; czasDo = null;
+      glosyOd = null; glosyDo = null; glosyFwOd = null; glosyFwDo = null;
+      updateRuntimeUI();
+      updateVotesUI();
+      const s = document.getElementById('search');
+      s.value = '';
+      document.getElementById('search-clear').style.display = 'none';
+      refresh();
+    });
+
+    const searchEl = document.getElementById('search');
+    const clearBtn = document.getElementById('search-clear');
+    searchEl.addEventListener('input', () => {
+      clearBtn.style.display = searchEl.value ? 'flex' : 'none';
+      refresh();
+    });
+    clearBtn.addEventListener('click', () => {
+      searchEl.value = '';
+      clearBtn.style.display = 'none';
+      searchEl.focus();
+      refresh();
+    });
+
+    fetch('data/movies_index.json')
+      .then(r => r.json())
+      .then(data => {
+        allMovies = data;
+        computeAllRanks(data);
+        buildFilters(data);
+        buildRuntimeSelect();
+        buildVotesSelects();
+        const urlP = new URLSearchParams(location.search);
+        brakSrc = urlP.get('brak') || null;
+        ocenilSrc = urlP.get('ocenil') || null;
+        ocenilRok = urlP.get('rok-oceny') || null;
+        if (ocenilSrc !== 'michal' && ocenilSrc !== 'jarek') { ocenilSrc = null; ocenilRok = null; }
+        document.getElementById('th-data-oceny').style.display = ocenilSrc ? '' : 'none';
+        const pCzasOd = urlP.get('czas-od'), pCzasDo = urlP.get('czas-do');
+        if (pCzasOd) { czasOd = parseInt(pCzasOd); czasDo = pCzasDo ? parseInt(pCzasDo) : null; }
+        updateRuntimeUI();
+        if (czasOd != null) {
+          const bucketStart = Math.min(Math.floor((czasOd - 1) / 10) * 10 + 1, 211);
+          document.getElementById('filter-runtime').value = String(bucketStart);
+        }
+        const pGlosyOd = urlP.get('glosy-swiat-od'), pGlosyDo = urlP.get('glosy-swiat-do');
+        if (pGlosyOd) { glosyOd = parseInt(pGlosyOd); glosyDo = pGlosyDo ? parseInt(pGlosyDo) : null; }
+        const pGlosyFwOd = urlP.get('glosy-polska-od'), pGlosyFwDo = urlP.get('glosy-polska-do');
+        if (pGlosyFwOd) { glosyFwOd = parseInt(pGlosyFwOd); glosyFwDo = pGlosyFwDo ? parseInt(pGlosyFwDo) : null; }
+        updateVotesUI();
+        if (glosyOd != null) {
+          const b = VOTE_BUCKETS.find(b => b.od === glosyOd);
+          if (b) document.getElementById('filter-votes-imdb').value = String(b.od);
+        }
+        if (glosyFwOd != null) {
+          const b = VOTE_BUCKETS.find(b => b.od === glosyFwOd);
+          if (b) document.getElementById('filter-votes-fw').value = String(b.od);
+        }
+        const pg = urlP.get('gatunek'), pc = urlP.get('kraj'), pl = urlP.get('jezyk');
+        const revG = Object.fromEntries(Object.entries(GENRES).map(([k,v])=>[v,k]));
+        const revC = Object.fromEntries(Object.entries(COUNTRIES).map(([k,v])=>[v,k]));
+        const revL = Object.fromEntries(Object.entries(LANGUAGES).map(([k,v])=>[v,k]));
+        if (pg) document.getElementById('filter-genre').value   = revG[pg]   || pg;
+        if (pc) document.getElementById('filter-country').value = revC[pc]   || pc;
+        if (pl) document.getElementById('filter-lang').value    = revL[pl]   || pl;
+        const pyf = urlP.get('od'), pyt = urlP.get('do');
+        if (pyf) document.getElementById('year-from').value = pyf;
+        if (pyt) document.getElementById('year-to').value   = pyt;
+        const ps = urlP.get('sortuj');
+        if (ps) {
+          sortCol = ps;
+          sortDir = urlP.get('kier') === 'rosnaco' ? 1 : -1;
+          document.querySelectorAll('th[data-col]').forEach(t => { t.classList.remove('sorted'); t.removeAttribute('data-dir'); });
+          const th = document.querySelector(`th[data-col="${ps}"]`);
+          if (th) { th.classList.add('sorted'); th.dataset.dir = String(sortDir); }
+        }
+        document.getElementById('loading').style.display = 'none';
+        document.getElementById('table').style.display = '';
+        const clearBtn = document.getElementById('filter-clear');
+        if (clearBtn) clearBtn.classList.toggle('visible', hasActiveFilters());
+        render(sortedMovies((document.getElementById('search') || {value:''}).value));
+        const hlId = urlP.get('zaznacz');
+        if (hlId) {
+          expandTo(hlId);  // render chunks up to the target so its row exists
+          requestAnimationFrame(() => {
+            const row = document.querySelector(`tr[data-id="${hlId}"]`);
+            if (row) highlightRow(row);
+          });
+        }
+      })
+      .catch(e => {
+        document.getElementById('loading').style.display = 'none';
+        document.getElementById('error').style.display = '';
+        document.getElementById('error').textContent = 'Błąd ładowania danych: ' + e;
+      });
+  </script>
+</body>
+</html>

@@ -1,0 +1,207 @@
+{
+  "imdb_id": "tt0061852",
+  "title": "The Jungle Book",
+  "description": "Bagheera the Panther and Baloo the Bear have a difficult time trying to convince a boy to leave the jungle for human civilization.",
+  "runtime_minutes": 78,
+  "release_date": "18.10.1967",
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy",
+    "Family",
+    "Musical"
+  ],
+  "stars": [
+    {
+      "id": "nm0365201",
+      "name": "Phil Harris"
+    },
+    {
+      "id": "nm0001982",
+      "name": "Sebastian Cabot"
+    },
+    {
+      "id": "nm0697515",
+      "name": "Louis Prima"
+    },
+    {
+      "id": "nm0001695",
+      "name": "George Sanders"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0718627",
+      "name": "Wolfgang Reitherman"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0166307",
+      "name": "Larry Clemmons"
+    },
+    {
+      "id": "nm0942723",
+      "name": "Ralph Wright"
+    },
+    {
+      "id": "nm0027011",
+      "name": "Ken Anderson"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0365201",
+      "name": "Phil Harris",
+      "character": "Baloo the Bear"
+    },
+    {
+      "id": "nm0001982",
+      "name": "Sebastian Cabot",
+      "character": "Bagheera the Panther"
+    },
+    {
+      "id": "nm0697515",
+      "name": "Louis Prima",
+      "character": "King Louie of the Apes"
+    },
+    {
+      "id": "nm0001695",
+      "name": "George Sanders",
+      "character": "Shere Khan the Tiger"
+    },
+    {
+      "id": "nm0001359",
+      "name": "Sterling Holloway",
+      "character": "Kaa the Snake"
+    },
+    {
+      "id": "nm0641729",
+      "name": "J. Pat O'Malley",
+      "character": "Col. Hathi the Elephant"
+    },
+    {
+      "id": "nm0718624",
+      "name": "Bruce Reitherman",
+      "character": "Mowgli the Man Cub"
+    },
+    {
+      "id": "nm0271658",
+      "name": "Verna Felton",
+      "character": "Elephant"
+    },
+    {
+      "id": "nm0397212",
+      "name": "Clint Howard",
+      "character": "Elephant"
+    },
+    {
+      "id": "nm0835665",
+      "name": "Chad Stuart",
+      "character": "Vulture"
+    },
+    {
+      "id": "nm0399913",
+      "name": "Lord Tim Hudson",
+      "character": "Vulture"
+    },
+    {
+      "id": "nm0007995",
+      "name": "John Abbott",
+      "character": "Wolf"
+    },
+    {
+      "id": "nm0942220",
+      "name": "Ben Wright",
+      "character": "Wolf"
+    },
+    {
+      "id": "nm0139669",
+      "name": "Darleen Carr",
+      "character": "The Girl"
+    },
+    {
+      "id": "nm0218012",
+      "name": "Leo DeLyon",
+      "character": "Flunkey"
+    },
+    {
+      "id": "nm7227138",
+      "name": "Pete Henderson",
+      "character": "Monkey"
+    },
+    {
+      "id": "nm0496884",
+      "name": "Bill Lee",
+      "character": "Shere Khan"
+    },
+    {
+      "id": "nm0531763",
+      "name": "James MacDonald",
+      "character": "Shere Khan's Roars"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": null,
+  "filmweb_id": 106375,
+  "year": 1967,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNGE4M2NiZDktY2E2MC00ZTY5LWIyMDktZWIxNzQ2OWU2NmQzXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.6,
+      "votes": 214931,
+      "distribution": {
+        "1": 1083,
+        "2": 592,
+        "3": 1156,
+        "4": 2628,
+        "5": 8148,
+        "6": 23567,
+        "7": 60852,
+        "8": 66298,
+        "9": 25418,
+        "10": 25189
+      },
+      "normalized": 6.6265
+    },
+    "filmweb": {
+      "rating": 7.03,
+      "votes": 31850,
+      "distribution": {
+        "1": 58,
+        "2": 80,
+        "3": 228,
+        "4": 629,
+        "5": 2072,
+        "6": 6047,
+        "7": 12363,
+        "8": 7335,
+        "9": 1780,
+        "10": 1258
+      },
+      "normalized": 5.6824
+    },
+    "michal": {
+      "rating": 3,
+      "date_rated": "19.10.2005",
+      "normalized": 3.8753
+    },
+    "score": 5.3947
+  },
+  "polish_title": "Księga dżungli",
+  "silent": false,
+  "description_pl": "Pełnometrażowy film animowany ze studia Walta Disneya oparty na powieści Rudyarda Kiplinga. Mowgli jako małe dziecko gubi się w dżungli. Tam zostaje przygarnięty i wychowany przez wilki. Kiedy chłopiec dorasta, grozi mu niebezpieczeństwo ze strony tygrysa Shere Khana. Zwierzęta decydują wysłać dziecko do ludzkiej osady. W drodze do niej, w muzycznej opowieści, poznaje wielu zwierzęcych przyjaciół.",
+  "composers": [
+    {
+      "id": "nm0005980",
+      "name": "George Bruns"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

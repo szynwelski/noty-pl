@@ -1,0 +1,105 @@
+{
+  "imdb_id": "tt0139738",
+  "title": "The Kiss",
+  "description": "In a medium closeup shot of the first kiss ever recorded on screen, two fervent lovers cuddle and talk passionately at a hair's breadth, just before the love-smitten gentleman decides to give his chosen one an innocent peck.",
+  "runtime_minutes": 1,
+  "release_date": "01.04.1896",
+  "genres": [
+    "Short",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0410425",
+      "name": "May Irwin"
+    },
+    {
+      "id": "nm0723472",
+      "name": "John C. Rice"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0374658",
+      "name": "William Heise"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1429063",
+      "name": "John J. McNally"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0410425",
+      "name": "May Irwin",
+      "character": "The Widow Jones"
+    },
+    {
+      "id": "nm0723472",
+      "name": "John C. Rice",
+      "character": "Billie Bikes"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 96437,
+  "year": 1896,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNGJmZjI1MDQtODljMi00ZmQwLThjN2MtODMzNGZmNDBhY2I3XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.8,
+      "votes": 3941,
+      "distribution": {
+        "1": 134,
+        "2": 100,
+        "3": 177,
+        "4": 308,
+        "5": 880,
+        "6": 1071,
+        "7": 573,
+        "8": 313,
+        "9": 109,
+        "10": 276
+      },
+      "normalized": 3.574
+    },
+    "filmweb": {
+      "rating": 5.54,
+      "votes": 572,
+      "distribution": {
+        "1": 21,
+        "2": 19,
+        "3": 61,
+        "4": 52,
+        "5": 120,
+        "6": 133,
+        "7": 73,
+        "8": 52,
+        "9": 15,
+        "10": 26
+      },
+      "normalized": 3.5524
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "11.12.2016",
+      "normalized": 7.1247
+    },
+    "score": 4.7504
+  },
+  "polish_title": "Pocałunek",
+  "silent": true,
+  "description_pl": "Ten krótkometrażowy film przedstawia scenę jednego z pierwszych pocałunków w historii kina (w usta). W opinii wielu ludzi tamtych czasów, scena ta była rozpatrywana jako pornograficzna.",
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-16"
+}

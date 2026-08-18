@@ -1,0 +1,78 @@
+{
+  "id": "nm0001314",
+  "name": "John Hannah",
+  "filmography": [
+    {
+      "imdb_id": "tt0109831",
+      "title": "Four Weddings and a Funeral",
+      "year": 1994,
+      "roles": [
+        "cast"
+      ],
+      "character": "Matthew - Wedding One"
+    },
+    {
+      "imdb_id": "tt0120148",
+      "title": "Sliding Doors",
+      "year": 1998,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "James"
+    },
+    {
+      "imdb_id": "tt0120616",
+      "title": "The Mummy",
+      "year": 1999,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Jonathan"
+    },
+    {
+      "imdb_id": "tt0209163",
+      "title": "The Mummy Returns",
+      "year": 2001,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Jonathan"
+    },
+    {
+      "imdb_id": "tt0859163",
+      "title": "The Mummy: Tomb of the Dragon Emperor",
+      "year": 2008,
+      "roles": [
+        "cast"
+      ],
+      "character": "Jonathan Carnahan"
+    },
+    {
+      "imdb_id": "tt27731608",
+      "title": "Loch Henry",
+      "year": 2023,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Richard King"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTk4Nzk0NjA5OV5BMl5BanBnXkFtZTcwNjM2NDA4MQ@@._V1_.jpg",
+  "birth_date": "23.04.1962",
+  "birth_location": "East Kilbride, Scotland, UK",
+  "height": "1.78 m",
+  "filmweb_id": 3611,
+  "name_pl": "John Hannah",
+  "birth_location_pl": "East Kilbride, Szkocja",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 3611
+}

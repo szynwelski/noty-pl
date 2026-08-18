@@ -1,0 +1,43 @@
+{
+  "id": "nm0200125",
+  "name": "William H. Daniels",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYjRiNWNmZDMtZWUyOS00MWFhLTk5M2ItNjlmNDMxYjAxZjg3XkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0022958",
+      "title": "Grand Hotel",
+      "year": 1932,
+      "roles": [
+        "cinematographer"
+      ]
+    },
+    {
+      "imdb_id": "tt0042546",
+      "title": "Harvey",
+      "year": 1950,
+      "roles": [
+        "cinematographer"
+      ]
+    },
+    {
+      "imdb_id": "tt0051459",
+      "title": "Cat on a Hot Tin Roof",
+      "year": 1958,
+      "roles": [
+        "cinematographer"
+      ]
+    }
+  ],
+  "birth_date": "01.12.1901",
+  "death_date": "14.06.1970",
+  "birth_location": "Cleveland, Ohio, USA",
+  "filmweb_id": 43452,
+  "name_pl": "William H. Daniels",
+  "birth_location_pl": "Cleveland, Ohio",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

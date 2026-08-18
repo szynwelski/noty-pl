@@ -1,0 +1,271 @@
+{
+  "imdb_id": "tt1408101",
+  "title": "Star Trek Into Darkness",
+  "description": "After the crew of the Enterprise find an unstoppable force of terror from within their own organization, Captain Kirk leads a manhunt to a war-zone world to capture a one-man weapon of mass destruction.",
+  "runtime_minutes": 132,
+  "release_date": "16.05.2013",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm1517976",
+      "name": "Chris Pine"
+    },
+    {
+      "id": "nm0704270",
+      "name": "Zachary Quinto"
+    },
+    {
+      "id": "nm0757855",
+      "name": "Zoe Saldaña"
+    },
+    {
+      "id": "nm1212722",
+      "name": "Benedict Cumberbatch"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0009190",
+      "name": "J.J. Abrams"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0649460",
+      "name": "Roberto Orci"
+    },
+    {
+      "id": "nm0476064",
+      "name": "Alex Kurtzman"
+    },
+    {
+      "id": "nm0511541",
+      "name": "Damon Lindelof"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1517976",
+      "name": "Chris Pine",
+      "character": "Kirk"
+    },
+    {
+      "id": "nm0704270",
+      "name": "Zachary Quinto",
+      "character": "Spock"
+    },
+    {
+      "id": "nm0757855",
+      "name": "Zoe Saldaña",
+      "character": "Uhura"
+    },
+    {
+      "id": "nm0000559",
+      "name": "Leonard Nimoy",
+      "character": "Spock Prime"
+    },
+    {
+      "id": "nm0881631",
+      "name": "Karl Urban",
+      "character": "Bones"
+    },
+    {
+      "id": "nm0670408",
+      "name": "Simon Pegg",
+      "character": "Scotty"
+    },
+    {
+      "id": "nm0158626",
+      "name": "John Cho",
+      "character": "Sulu"
+    },
+    {
+      "id": "nm1212722",
+      "name": "Benedict Cumberbatch",
+      "character": "Khan"
+    },
+    {
+      "id": "nm0947338",
+      "name": "Anton Yelchin",
+      "character": "Chekov"
+    },
+    {
+      "id": "nm0339304",
+      "name": "Bruce Greenwood",
+      "character": "Pike"
+    },
+    {
+      "id": "nm0000693",
+      "name": "Peter Weller",
+      "character": "Marcus"
+    },
+    {
+      "id": "nm1404408",
+      "name": "Alice Eve",
+      "character": "Carol Marcus"
+    },
+    {
+      "id": "nm0164929",
+      "name": "Noel Clarke",
+      "character": "Thomas Harewood"
+    },
+    {
+      "id": "nm1345890",
+      "name": "Nazneen Contractor",
+      "character": "Rima Harewood"
+    },
+    {
+      "id": "nm0286022",
+      "name": "Amanda Foreman",
+      "character": "Ensign Brackett"
+    },
+    {
+      "id": "nm1179178",
+      "name": "Jay Scully",
+      "character": "Lieutenant Chapin"
+    },
+    {
+      "id": "nm1640855",
+      "name": "Jonathan Dixon",
+      "character": "Ensign Froman"
+    },
+    {
+      "id": "nm1490300",
+      "name": "Aisha Hinds",
+      "character": "Navigation Officer Darwin"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Klingon"
+  ],
+  "color": "Color",
+  "filmweb_id": 521206,
+  "year": 2013,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTk2NzczOTgxNF5BMl5BanBnXkFtZTcwODQ5ODczOQ@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.7,
+      "votes": 511893,
+      "distribution": {
+        "1": 4794,
+        "2": 2321,
+        "3": 3534,
+        "4": 6620,
+        "5": 15217,
+        "6": 41899,
+        "7": 114325,
+        "8": 166781,
+        "9": 90122,
+        "10": 66280
+      },
+      "normalized": 6.8651
+    },
+    "filmweb": {
+      "rating": 7.11,
+      "votes": 85854,
+      "distribution": {
+        "1": 254,
+        "2": 241,
+        "3": 856,
+        "4": 1723,
+        "5": 5051,
+        "6": 13989,
+        "7": 30949,
+        "8": 23255,
+        "9": 6580,
+        "10": 2956
+      },
+      "normalized": 5.8399
+    },
+    "jarek": {
+      "rating": 3,
+      "date_rated": "21.06.2013",
+      "normalized": 4.2591
+    },
+    "michal": {
+      "rating": 3,
+      "date_rated": "19.06.2013",
+      "normalized": 3.8753
+    },
+    "score": 5.2098
+  },
+  "polish_title": "W ciemność. Star Trek",
+  "silent": false,
+  "description_pl": "Dzielna załoga Enterprise musi zmierzyć się z zagrożeniem dla całej Federacji, które, jak się okazuje, ma swoje źródło w jej własnych szeregach. Kapitan Kirk (<a href=\"/osoba/?id=nm1517976\">Chris Pine</a>), mając również prywatne rachunki do wyrównania, dowodzi polowaniem na człowieka będącego jednoosobową bronią masowej zagłady. Droga wiedzie do rozdartego wojną świata, gdzie przyjaźń i lojalność Kirka oraz jego załogi będzie wystawiona na ciężką próbę.",
+  "producers": [
+    {
+      "id": "nm0009190",
+      "name": "J.J. Abrams"
+    },
+    {
+      "id": "nm1333357",
+      "name": "Bryan Burk"
+    },
+    {
+      "id": "nm0155942",
+      "name": "Jeffrey Chernov"
+    },
+    {
+      "id": "nm1911103",
+      "name": "David Ellison"
+    },
+    {
+      "id": "nm1602154",
+      "name": "Dana Goldberg"
+    },
+    {
+      "id": "nm0331166",
+      "name": "Tommy Gormley"
+    },
+    {
+      "id": "nm0363986",
+      "name": "Tommy Harper"
+    },
+    {
+      "id": "nm0476064",
+      "name": "Alex Kurtzman"
+    },
+    {
+      "id": "nm0511541",
+      "name": "Damon Lindelof"
+    },
+    {
+      "id": "nm0649460",
+      "name": "Roberto Orci"
+    },
+    {
+      "id": "nm2038668",
+      "name": "Michelle Rejwan"
+    },
+    {
+      "id": "nm2845194",
+      "name": "Ben Rosenblatt"
+    },
+    {
+      "id": "nm1868509",
+      "name": "Paul Schwake"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0315974",
+      "name": "Michael Giacchino"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0591053",
+      "name": "Dan Mindel"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

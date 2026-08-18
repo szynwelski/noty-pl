@@ -1,0 +1,151 @@
+{
+  "imdb_id": "tt4581632",
+  "title": "Noche de perros",
+  "description": "Enzo is employed in a neighborhood garage that borrows a luxurious car for a while and convinces his friend Richard to accompany him. Its owner is a cruel mafioso who will make them live a nightmare night to these guys who just want to have fun.",
+  "runtime_minutes": 85,
+  "release_date": "10.09.2015",
+  "genres": [
+    "Comedy"
+  ],
+  "stars": [
+    {
+      "id": "nm6637486",
+      "name": "Matías Azcuaga"
+    },
+    {
+      "id": "nm7243089",
+      "name": "Facundo Cardosi"
+    },
+    {
+      "id": "nm5318713",
+      "name": "Fabián Carrasco"
+    },
+    {
+      "id": "nm1941751",
+      "name": "Guadalupe Docampo"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm5176932",
+      "name": "Nacho Sesma"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm5176932",
+      "name": "Nacho Sesma"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm6637486",
+      "name": "Matías Azcuaga",
+      "character": "Amante"
+    },
+    {
+      "id": "nm7243089",
+      "name": "Facundo Cardosi",
+      "character": "Enzo"
+    },
+    {
+      "id": "nm5318713",
+      "name": "Fabián Carrasco",
+      "character": "Matías"
+    },
+    {
+      "id": "nm1941751",
+      "name": "Guadalupe Docampo",
+      "character": "Angie"
+    },
+    {
+      "id": "nm0326024",
+      "name": "Nicolás Goldschmidt",
+      "character": "Richard"
+    },
+    {
+      "id": "nm0327428",
+      "name": "Mónica Gonzaga",
+      "character": "Mónica"
+    },
+    {
+      "id": "nm0782633",
+      "name": "Marcelo Sein",
+      "character": "Luis"
+    }
+  ],
+  "countries": [
+    "Argentina"
+  ],
+  "languages": [
+    "Spanish"
+  ],
+  "color": "Color",
+  "filmweb_id": 750838,
+  "year": 2015,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BY2UwN2YwNDctOTEzYS00NjVhLThjZGQtODllZjA4NGE5NjRmXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.7,
+      "votes": 41,
+      "distribution": {
+        "1": 1,
+        "2": 1,
+        "3": 2,
+        "4": 5,
+        "5": 5,
+        "6": 5,
+        "7": 10,
+        "8": 5,
+        "9": 1,
+        "10": 6
+      },
+      "normalized": 5.2922
+    },
+    "filmweb": {
+      "rating": 5.79,
+      "votes": 81,
+      "distribution": {
+        "1": 2,
+        "2": 0,
+        "3": 5,
+        "4": 6,
+        "5": 22,
+        "6": 17,
+        "7": 19,
+        "8": 7,
+        "9": 3,
+        "10": 0
+      },
+      "normalized": 4.6941
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "12.10.2020",
+      "normalized": 7.1247
+    },
+    "score": 5.7037
+  },
+  "polish_title": "Pieska noc",
+  "silent": false,
+  "description_pl": "Enzo pracuje na parkingu pewnej rezydencji. Pewnej nocy \"pożycza\" luksusowy samochód, żeby pokręcić się po mieście razem z najlepszym kumplem Richardem. Chłopcy chcą się po prostu zabawić: w planie jest przejażdżka, parę piwek. Może poderwać dziewczynę albo sponiewierać się tak, żeby zapomnieć inne dziewczyny - te, z którymi byli albo chcieli być. To wszystko w jedną noc. Oczywiście nie wszystko idzie po ich myśli. Niepodziewanie dla młodych bohaterów imprezowa noc przemienia się w szaloną spiralę kłopotów.",
+  "producers": [
+    {
+      "id": "nm10112140",
+      "name": "Damian Moon"
+    },
+    {
+      "id": "nm5176932",
+      "name": "Nacho Sesma"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm4643228",
+      "name": "Manuel Bascoy"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "nm0001371",
+  "name": "Tom Hulce",
+  "filmography": [
+    {
+      "imdb_id": "tt0086879",
+      "title": "Amadeus",
+      "year": 1984,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Wolfgang Amadeus Mozart"
+    },
+    {
+      "imdb_id": "tt0489099",
+      "title": "Jumper",
+      "year": 2008,
+      "roles": [
+        "cast"
+      ],
+      "character": "Mr. Bowker"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTM0ODY0MTE0NF5BMl5BanBnXkFtZTcwOTQwNTIzOA@@._V1_.jpg",
+  "birth_date": "06.12.1953",
+  "birth_location": "Detroit, Michigan, USA",
+  "height": "1.69 m",
+  "imdb_scraped": true,
+  "filmweb_id": 246,
+  "name_pl": "Tom Hulce",
+  "birth_location_pl": "Detroit, Michigan",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 246
+}

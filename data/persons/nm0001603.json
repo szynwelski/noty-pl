@@ -1,0 +1,63 @@
+{
+  "id": "nm0001603",
+  "name": "Sam Peckinpah",
+  "filmography": [
+    {
+      "imdb_id": "tt0059418",
+      "title": "Major Dundee",
+      "year": 1965,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0065214",
+      "title": "The Wild Bunch",
+      "year": 1969,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0068638",
+      "title": "The Getaway",
+      "year": 1972,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0070518",
+      "title": "Pat Garrett & Billy the Kid",
+      "year": 1973,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0077369",
+      "title": "Convoy",
+      "year": 1978,
+      "roles": [
+        "director"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOTIzYTVhYzYtOTg1Zi00Mzg5LWE5NTEtOTM3ZjE1MzNjZGQxXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "21.02.1925",
+  "death_date": "28.12.1984",
+  "birth_location": "Fresno, California, USA",
+  "height": "1.75 m",
+  "filmweb_id": 42031,
+  "name_pl": "Sam Peckinpah",
+  "birth_location_pl": "Fresno, Kalifornia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 42031
+}

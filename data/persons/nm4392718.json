@@ -1,0 +1,48 @@
+{
+  "id": "nm4392718",
+  "name": "Andrew Bachelor",
+  "filmography": [
+    {
+      "imdb_id": "tt3846674",
+      "title": "To All the Boys I've Loved Before",
+      "year": 2018,
+      "roles": [
+        "cast"
+      ],
+      "character": "Greg"
+    },
+    {
+      "imdb_id": "tt5783956",
+      "title": "When We First Met",
+      "year": 2018,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Max"
+    },
+    {
+      "imdb_id": "tt9866072",
+      "title": "Holidate",
+      "year": 2020,
+      "roles": [
+        "cast"
+      ],
+      "character": "Neil"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzNjNGFjYzItNGE5Yi00NjAyLTk4YWYtMzFlOTVkMDUxMzc1XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "26.06.1988",
+  "birth_location": "Toronto, Ontario, Canada",
+  "height": "1.73 m",
+  "imdb_scraped": true,
+  "filmweb_id": 2089874,
+  "name_pl": "Andrew Bachelor",
+  "birth_location_pl": "Toronto",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Kanada"
+  ],
+  "wikidata_fw_id": 2089874
+}

@@ -1,0 +1,196 @@
+{
+  "imdb_id": "tt0014872",
+  "title": "Entr'acte",
+  "description": "An absolute dada movie. Somebody gets killed, his coffin gets out of control and after a chase it stops. The person gets out of it and let everybody who followed the coffin dissapear.",
+  "runtime_minutes": 22,
+  "release_date": "04.10.1979",
+  "genres": [
+    "Short"
+  ],
+  "stars": [
+    {
+      "id": "nm0127120",
+      "name": "Jean Börlin"
+    },
+    {
+      "id": "nm0297029",
+      "name": "Inge Frïss"
+    },
+    {
+      "id": "nm0681366",
+      "name": "Francis Picabia"
+    },
+    {
+      "id": "nm0239781",
+      "name": "Marcel Duchamp"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0163229",
+      "name": "René Clair"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0681366",
+      "name": "Francis Picabia"
+    },
+    {
+      "id": "nm0163229",
+      "name": "René Clair"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0127120",
+      "name": "Jean Börlin",
+      "character": "Le chasseur au chapeau tyrolien"
+    },
+    {
+      "id": "nm0297029",
+      "name": "Inge Frïss",
+      "character": "La ballerine"
+    },
+    {
+      "id": "nm0681366",
+      "name": "Francis Picabia",
+      "character": "Un homme qui charge le canon"
+    },
+    {
+      "id": "nm0239781",
+      "name": "Marcel Duchamp",
+      "character": "Un joueur d'échecs"
+    },
+    {
+      "id": "nm0712915",
+      "name": "Man Ray",
+      "character": "Un joueur d'échecs"
+    },
+    {
+      "id": "nm0587366",
+      "name": "Darius Milhaud",
+      "character": ""
+    },
+    {
+      "id": "nm0009766",
+      "name": "Marcel Achard",
+      "character": "Un homme qui suit le corbillard"
+    },
+    {
+      "id": "nm0005952",
+      "name": "Georges Auric",
+      "character": "Un homme qui suit le corbillard"
+    },
+    {
+      "id": "nm0152841",
+      "name": "Georges Charensol",
+      "character": "Un homme qui suit le corbillard"
+    },
+    {
+      "id": "nm0480190",
+      "name": "Georges Lacombe",
+      "character": "Un homme qui suit le corbillard"
+    },
+    {
+      "id": "nm0494106",
+      "name": "Roger Le Bon",
+      "character": "Un homme qui suit le corbillard"
+    },
+    {
+      "id": "nm0541170",
+      "name": "Jean Mamy",
+      "character": "Un homme qui suit le corbillard"
+    },
+    {
+      "id": "nm0555886",
+      "name": "Rolf de Maré",
+      "character": "Un homme qui suit le corbillard"
+    },
+    {
+      "id": "nm0006273",
+      "name": "Erik Satie",
+      "character": "Un homme qui charge le canon"
+    },
+    {
+      "id": "nm0778542",
+      "name": "Pierre Scize",
+      "character": "Un homme qui suit le corbillard"
+    },
+    {
+      "id": "nm0869482",
+      "name": "Louis Touchages",
+      "character": "Un homme qui suit le corbillard"
+    }
+  ],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "None",
+    "French"
+  ],
+  "color": "Black and White",
+  "year": 1924,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMmYzNjVmYTEtNTM5Yy00ZjdmLTk3MDEtYWM3OTZkYTFmOGUwXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 105272,
+  "ratings": {
+    "imdb": {
+      "rating": 7.3,
+      "votes": 4501,
+      "distribution": {
+        "1": 55,
+        "2": 45,
+        "3": 66,
+        "4": 109,
+        "5": 248,
+        "6": 558,
+        "7": 1131,
+        "8": 1245,
+        "9": 533,
+        "10": 511
+      },
+      "normalized": 5.9889
+    },
+    "filmweb": {
+      "rating": 7.19,
+      "votes": 1506,
+      "distribution": {
+        "1": 4,
+        "2": 4,
+        "3": 20,
+        "4": 50,
+        "5": 86,
+        "6": 228,
+        "7": 445,
+        "8": 437,
+        "9": 167,
+        "10": 65
+      },
+      "normalized": 5.8156
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "13.01.2008",
+      "normalized": 6.3474
+    },
+    "score": 6.0506
+  },
+  "polish_title": "Antrakt",
+  "silent": true,
+  "description_pl": "Zgodnie z założeniami ruchu 'cinema pur', który odrzuca filmy komercyjne, pozbawiając film wszelkich treści, która może wynikac jedynie z rytmu poruszających się obrazów, \"Antrakt\" składa się z nie związanych z sobą pojedynczych scen (m.in. dwaj szchiści, dwie osoby ciągnące armatę, a także tancerz, który zostaje zastrzelony). Rene Clair dba wyłącznie o to, by w zabawny sposób wprawić w ruch przedmioty, ludzi i kamerę.",
+  "composers": [
+    {
+      "id": "nm0006273",
+      "name": "Erik Satie"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0075560",
+      "name": "Jimmy Berliet"
+    }
+  ],
+  "fetched_at": "2026-08-15"
+}

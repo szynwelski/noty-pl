@@ -1,0 +1,232 @@
+{
+  "imdb_id": "tt0093779",
+  "title": "The Princess Bride",
+  "description": "A bedridden boy's grandfather reads him the story of a farmboy-turned-pirate who encounters numerous obstacles, enemies and allies in his quest to be reunited with his true love.",
+  "runtime_minutes": 98,
+  "release_date": "09.10.1987",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Family",
+    "Fantasy",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0000144",
+      "name": "Cary Elwes"
+    },
+    {
+      "id": "nm0001597",
+      "name": "Mandy Patinkin"
+    },
+    {
+      "id": "nm0000705",
+      "name": "Robin Wright"
+    },
+    {
+      "id": "nm0001697",
+      "name": "Chris Sarandon"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001661",
+      "name": "Rob Reiner"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0001279",
+      "name": "William Goldman"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000144",
+      "name": "Cary Elwes",
+      "character": "Westley"
+    },
+    {
+      "id": "nm0001597",
+      "name": "Mandy Patinkin",
+      "character": "Inigo Montoya"
+    },
+    {
+      "id": "nm0000705",
+      "name": "Robin Wright",
+      "character": "The Princess Bride"
+    },
+    {
+      "id": "nm0001697",
+      "name": "Chris Sarandon",
+      "character": "Prince Humperdinck"
+    },
+    {
+      "id": "nm0001302",
+      "name": "Christopher Guest",
+      "character": "Count Rugen"
+    },
+    {
+      "id": "nm0001728",
+      "name": "Wallace Shawn",
+      "character": "Vizzini"
+    },
+    {
+      "id": "nm0000764",
+      "name": "André René Roussimoff",
+      "character": "Fezzik"
+    },
+    {
+      "id": "nm0000625",
+      "name": "Fred Savage",
+      "character": "The Grandson"
+    },
+    {
+      "id": "nm0000393",
+      "name": "Peter Falk",
+      "character": "The Grandfather"
+    },
+    {
+      "id": "nm0177228",
+      "name": "Peter Cook",
+      "character": "The Impressive Clergyman"
+    },
+    {
+      "id": "nm0809321",
+      "name": "Mel Smith",
+      "character": "The Albino"
+    },
+    {
+      "id": "nm0001406",
+      "name": "Carol Kane",
+      "character": "Valerie"
+    },
+    {
+      "id": "nm0000345",
+      "name": "Billy Crystal",
+      "character": "Miracle Max"
+    },
+    {
+      "id": "nm0246014",
+      "name": "Anne Dyson",
+      "character": "The Queen"
+    },
+    {
+      "id": "nm0556834",
+      "name": "Margery Mason",
+      "character": "The Ancient Booer"
+    },
+    {
+      "id": "nm0832695",
+      "name": "Malcolm Storry",
+      "character": "Yellin"
+    },
+    {
+      "id": "nm0337016",
+      "name": "Willoughby Gray",
+      "character": "The King"
+    },
+    {
+      "id": "nm0105280",
+      "name": "Betsy Brantley",
+      "character": "The Mother"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 8025,
+  "year": 1987,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjFiOTEyNGMtN2E4MC00ZjZlLTk3ZDQtNTU1ZGNiZTA1MzJlXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8,
+      "votes": 489563,
+      "distribution": {
+        "1": 5644,
+        "2": 2187,
+        "3": 3506,
+        "4": 5537,
+        "5": 12390,
+        "6": 30422,
+        "7": 76947,
+        "8": 125390,
+        "9": 100447,
+        "10": 127093
+      },
+      "normalized": 7.5126
+    },
+    "filmweb": {
+      "rating": 7.2,
+      "votes": 14433,
+      "distribution": {
+        "1": 66,
+        "2": 52,
+        "3": 175,
+        "4": 296,
+        "5": 824,
+        "6": 2182,
+        "7": 4691,
+        "8": 4087,
+        "9": 1355,
+        "10": 705
+      },
+      "normalized": 5.9887
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "05.02.2010",
+      "normalized": 6.4102
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "10.01.2009",
+      "normalized": 5.4199
+    },
+    "score": 6.3329
+  },
+  "polish_title": "Narzeczona dla księcia",
+  "silent": false,
+  "description_pl": "Dziadek czyta wnukowi książkę, a to co czyta pojawia się na ekranie jako film. Jest to historia wielkiej miłości ubogiego, ale walecznego młodzieńca i pięknej dziewczyny. Ona zostaje narzeczoną księcia, sądząc, że ukochany nie żyje, ale on powraca  i walczy o nią. Jest też wątek pewnego młodzieńca szukającego mordercy swego ojca. Zanim nastąpi szczęśliwe zakończenie jest wiele pojedynków, intryg i walki dobra ze złem.",
+  "producers": [
+    {
+      "id": "nm0005131",
+      "name": "Norman Lear"
+    },
+    {
+      "id": "nm0630222",
+      "name": "Steve Nicolaides"
+    },
+    {
+      "id": "nm0001661",
+      "name": "Rob Reiner"
+    },
+    {
+      "id": "nm0770650",
+      "name": "Andrew Scheinman"
+    },
+    {
+      "id": "nm0832790",
+      "name": "Jeffrey Stott"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0461360",
+      "name": "Mark Knopfler"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0000939",
+      "name": "Adrian Biddle"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

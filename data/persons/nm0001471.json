@@ -1,0 +1,31 @@
+{
+  "id": "nm0001471",
+  "name": "Jerry Lewis",
+  "filmography": [
+    {
+      "imdb_id": "tt0106307",
+      "title": "Arizona Dream",
+      "year": 1993,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Leo Sweetie"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTU5MDM1MzQzNl5BMl5BanBnXkFtZTgwMzQ2MTgyMzI@._V1_.jpg",
+  "birth_date": "16.03.1926",
+  "death_date": "20.08.2017",
+  "birth_location": "Newark, New Jersey, USA",
+  "height": "1.79 m",
+  "imdb_scraped": true,
+  "filmweb_id": 8003,
+  "name_pl": "Jerry Lewis",
+  "birth_location_pl": "Newark, New Jersey",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 8003
+}

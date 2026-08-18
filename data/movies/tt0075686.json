@@ -1,0 +1,225 @@
+{
+  "imdb_id": "tt0075686",
+  "title": "Annie Hall",
+  "description": "Alvy Singer, a divorced Jewish comedian, reflects on his relationship with ex-lover Annie Hall, an aspiring nightclub singer, which ended abruptly just like his previous marriages.",
+  "runtime_minutes": 93,
+  "release_date": "20.04.1977",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0000095",
+      "name": "Woody Allen"
+    },
+    {
+      "id": "nm0000473",
+      "name": "Diane Keaton"
+    },
+    {
+      "id": "nm0731634",
+      "name": "Tony Roberts"
+    },
+    {
+      "id": "nm0001406",
+      "name": "Carol Kane"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000095",
+      "name": "Woody Allen"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000095",
+      "name": "Woody Allen"
+    },
+    {
+      "id": "nm0108613",
+      "name": "Marshall Brickman"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000095",
+      "name": "Woody Allen",
+      "character": "Alvy Singer"
+    },
+    {
+      "id": "nm0000473",
+      "name": "Diane Keaton",
+      "character": "Annie Hall"
+    },
+    {
+      "id": "nm0731634",
+      "name": "Tony Roberts",
+      "character": "Rob"
+    },
+    {
+      "id": "nm0001406",
+      "name": "Carol Kane",
+      "character": "Allison"
+    },
+    {
+      "id": "nm0800328",
+      "name": "Paul Simon",
+      "character": "Tony Lacey"
+    },
+    {
+      "id": "nm0001167",
+      "name": "Shelley Duvall",
+      "character": "Pam"
+    },
+    {
+      "id": "nm0546755",
+      "name": "Janet Margolin",
+      "character": "Robin"
+    },
+    {
+      "id": "nm0223157",
+      "name": "Colleen Dewhurst",
+      "character": "Mom Hall"
+    },
+    {
+      "id": "nm0000686",
+      "name": "Christopher Walken",
+      "character": "Duane Hall"
+    },
+    {
+      "id": "nm0843332",
+      "name": "Donald Symington",
+      "character": "Dad Hall"
+    },
+    {
+      "id": "nm0524894",
+      "name": "Helen Ludlam",
+      "character": "Grammy Hall"
+    },
+    {
+      "id": "nm0492584",
+      "name": "Mordecai Lawner",
+      "character": "Alvy's Dad"
+    },
+    {
+      "id": "nm0626990",
+      "name": "Joan Neuman",
+      "character": "Alvy's Mom"
+    },
+    {
+      "id": "nm0612922",
+      "name": "Jonathan Munk",
+      "character": "Alvy - Age 9"
+    },
+    {
+      "id": "nm0901649",
+      "name": "Ruth Volner",
+      "character": "Alvy's Aunt"
+    },
+    {
+      "id": "nm0742412",
+      "name": "Martin Rosenblatt",
+      "character": "Alvy's Uncle"
+    },
+    {
+      "id": "nm0031742",
+      "name": "Hy Anzell",
+      "character": "Joey Nichols"
+    },
+    {
+      "id": "nm0637113",
+      "name": "Rashel Novikoff",
+      "character": "Aunt Tessie Moskowitz"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "color": "Color",
+  "filmweb_id": 935,
+  "year": 1977,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNjZlOWE5N2UtMTdhZC00NjU5LTg2MjYtOGU4NDhhNWNlMmRlXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.9,
+      "votes": 292392,
+      "distribution": {
+        "1": 5316,
+        "2": 2201,
+        "3": 2729,
+        "4": 4217,
+        "5": 8920,
+        "6": 20705,
+        "7": 51179,
+        "8": 83104,
+        "9": 60248,
+        "10": 53773
+      },
+      "normalized": 7.2655
+    },
+    "filmweb": {
+      "rating": 7.73,
+      "votes": 65653,
+      "distribution": {
+        "1": 382,
+        "2": 185,
+        "3": 617,
+        "4": 850,
+        "5": 2468,
+        "6": 5350,
+        "7": 14229,
+        "8": 22681,
+        "9": 12954,
+        "10": 5937
+      },
+      "normalized": 7.4277
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "02.12.2005",
+      "normalized": 5.6855
+    },
+    "michal": {
+      "rating": 8,
+      "date_rated": "23.03.2006",
+      "normalized": 8.1116
+    },
+    "score": 7.1226
+  },
+  "polish_title": "Annie Hall",
+  "silent": false,
+  "description_pl": "Życie Alvy Singera (<a href=\"/osoba/?id=nm0000095\">Woddy Allen</a>), jednego z najbardziej błyskotliwych komików na Manhattanie, zmienia się, gdy jego najlepszy przyjaciel Rob Tony Roberts przedstawia go uroczej piosenkarce z nocnego klubu, Annie Hall (<a href=\"/osoba/?id=nm0000473\">Diane Keaton</a>). Alvy nie zdaje sobie sprawy, że jest naprawdę zakochany, do czasu gdy Annie poszukując nowego życia i... kochanka (Paul Simon) porzuca go. Dopiero wtedy Alvy robi wszystko, aby odzyskać Annie - czyli to co w życiu najważniejsze - prawdziwą miłość.",
+  "producers": [
+    {
+      "id": "nm0303031",
+      "name": "Fred T. Gallo"
+    },
+    {
+      "id": "nm0339086",
+      "name": "Robert Greenhut"
+    },
+    {
+      "id": "nm0423618",
+      "name": "Charles H. Joffe"
+    },
+    {
+      "id": "nm0738435",
+      "name": "Jack Rollins"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0932336",
+      "name": "Gordon Willis"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,102 @@
+{
+  "imdb_id": "tt1838592",
+  "title": "Los ojos de la guerra",
+  "description": "A direct appeal to the defense of human rights and the reporting of their violation through the lives, the eyes and the testimonies of war reporters.",
+  "runtime_minutes": 97,
+  "release_date": "23.10.2011",
+  "genres": [
+    "Documentary"
+  ],
+  "stars": [
+    {
+      "id": "nm2569358",
+      "name": "Hernán Zin"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm2051419",
+      "name": "Roberto Lozano Bruna"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm2051419",
+      "name": "Roberto Lozano Bruna"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm2569358",
+      "name": "Hernán Zin",
+      "character": "Self"
+    }
+  ],
+  "countries": [
+    "Spain"
+  ],
+  "languages": [
+    "Spanish"
+  ],
+  "color": "Color",
+  "filmweb_id": 667807,
+  "year": 2011,
+  "type": "movie",
+  "image_url": null,
+  "ratings": {
+    "imdb": {
+      "rating": 8,
+      "votes": 27,
+      "distribution": {
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 3,
+        "7": 4,
+        "8": 10,
+        "9": 6,
+        "10": 2
+      },
+      "normalized": 5.3724
+    },
+    "filmweb": {
+      "rating": 6.94,
+      "votes": 16,
+      "distribution": {
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 2,
+        "6": 3,
+        "7": 5,
+        "8": 6,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 5.2239
+    },
+    "jarek": {
+      "rating": 8,
+      "date_rated": "15.02.2013",
+      "normalized": 7.8989
+    },
+    "score": 6.1651
+  },
+  "polish_title": "Oczy wojny",
+  "silent": false,
+  "composers": [
+    {
+      "id": "nm1299481",
+      "name": "Sergio de la Puente"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm3526607",
+      "name": "Roberto Fraile"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

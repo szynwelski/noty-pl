@@ -1,0 +1,73 @@
+{
+  "id": "nm0001466",
+  "name": "Sergio Leone",
+  "filmography": [
+    {
+      "imdb_id": "tt0058461",
+      "title": "A Fistful of Dollars",
+      "year": 1964,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0059578",
+      "title": "For a Few Dollars More",
+      "year": 1965,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0060196",
+      "title": "The Good, the Bad and the Ugly",
+      "year": 1966,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0064116",
+      "title": "Once Upon a Time in the West",
+      "year": 1968,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0067140",
+      "title": "Duck, You Sucker!",
+      "year": 1971,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0087843",
+      "title": "Once Upon a Time in America",
+      "year": 1984,
+      "roles": [
+        "director"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTk4Njk5MzY3MV5BMl5BanBnXkFtZTcwMTEyMzE0NA@@._V1_.jpg",
+  "birth_date": "03.01.1929",
+  "death_date": "30.04.1989",
+  "birth_location": "Rome, Lazio, Italy",
+  "height": "1.73 m",
+  "filmweb_id": 12503,
+  "name_pl": "Sergio Leone",
+  "birth_location_pl": "Rzym",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Włochy"
+  ],
+  "wikidata_fw_id": 12503
+}

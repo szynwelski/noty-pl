@@ -1,0 +1,251 @@
+{
+  "imdb_id": "tt1152836",
+  "title": "Public Enemies",
+  "description": "The Feds try to take down notorious American gangsters John Dillinger, Baby Face Nelson, and Pretty Boy Floyd during a booming crime wave in the 1930s.",
+  "runtime_minutes": 140,
+  "release_date": "01.07.2009",
+  "genres": [
+    "Biography",
+    "Crime",
+    "Drama",
+    "History"
+  ],
+  "stars": [
+    {
+      "id": "nm0000288",
+      "name": "Christian Bale"
+    },
+    {
+      "id": "nm0000136",
+      "name": "Johnny Depp"
+    },
+    {
+      "id": "nm0831601",
+      "name": "Christian Stolte"
+    },
+    {
+      "id": "nm0164809",
+      "name": "Jason Clarke"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000520",
+      "name": "Michael Mann"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0072032",
+      "name": "Ronan Bennett"
+    },
+    {
+      "id": "nm0000520",
+      "name": "Michael Mann"
+    },
+    {
+      "id": "nm0081189",
+      "name": "Ann Biderman"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000288",
+      "name": "Christian Bale",
+      "character": "Melvin Purvis"
+    },
+    {
+      "id": "nm0000136",
+      "name": "Johnny Depp",
+      "character": "John Dillinger"
+    },
+    {
+      "id": "nm0831601",
+      "name": "Christian Stolte",
+      "character": "Charles Makley"
+    },
+    {
+      "id": "nm0164809",
+      "name": "Jason Clarke",
+      "character": "'Red' Hamilton"
+    },
+    {
+      "id": "nm0334318",
+      "name": "Stephen Graham",
+      "character": "Baby Face Nelson"
+    },
+    {
+      "id": "nm0920992",
+      "name": "David Wenham",
+      "character": "Harry 'Pete' Pierpont"
+    },
+    {
+      "id": "nm1722096",
+      "name": "John Judd",
+      "character": "Turnkey"
+    },
+    {
+      "id": "nm0001151",
+      "name": "Stephen Dorff",
+      "character": "Homer Van Meter"
+    },
+    {
+      "id": "nm2312716",
+      "name": "Michael Vieau",
+      "character": "Ed Shouse"
+    },
+    {
+      "id": "nm0457244",
+      "name": "John Kishline",
+      "character": "Guard Dainard"
+    },
+    {
+      "id": "nm1659547",
+      "name": "Carey Mulligan",
+      "character": "Carol Slayman"
+    },
+    {
+      "id": "nm0751638",
+      "name": "James Russo",
+      "character": "Walter Dietrich"
+    },
+    {
+      "id": "nm0000610",
+      "name": "Giovanni Ribisi",
+      "character": "Alvin Karpis"
+    },
+    {
+      "id": "nm1169522",
+      "name": "Wesley Walker",
+      "character": "Jim Leslie"
+    },
+    {
+      "id": "nm3156661",
+      "name": "John Scherp",
+      "character": "Earl Adams"
+    },
+    {
+      "id": "nm5075881",
+      "name": "Elena Kenney",
+      "character": "Viola Norris"
+    },
+    {
+      "id": "nm2205833",
+      "name": "William Nero Jr.",
+      "character": "Toddler on Farm"
+    },
+    {
+      "id": "nm1475594",
+      "name": "Channing Tatum",
+      "character": "Pretty Boy Floyd"
+    }
+  ],
+  "countries": [
+    "United States",
+    "Japan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 467091,
+  "year": 2009,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BY2FjYTZjZTUtNDMyOS00YzViLWFlZjQtZTAzNGQwM2VjYjVjXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.9,
+      "votes": 336486,
+      "distribution": {
+        "1": 3145,
+        "2": 1919,
+        "3": 3703,
+        "4": 8091,
+        "5": 21938,
+        "6": 58985,
+        "7": 116462,
+        "8": 72529,
+        "9": 25264,
+        "10": 24450
+      },
+      "normalized": 5.4317
+    },
+    "filmweb": {
+      "rating": 7.14,
+      "votes": 178854,
+      "distribution": {
+        "1": 594,
+        "2": 677,
+        "3": 2534,
+        "4": 4536,
+        "5": 12066,
+        "6": 27718,
+        "7": 56697,
+        "8": 48739,
+        "9": 16637,
+        "10": 8656
+      },
+      "normalized": 5.9088
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "11.08.2010",
+      "normalized": 5.6855
+    },
+    "score": 5.6753
+  },
+  "polish_title": "Wrogowie publiczni",
+  "silent": false,
+  "description_pl": "Historia najsłynniejszych amerykańskich gangsterów lat trzydziestych - Johna Dillingera, Baby'ego Face'a Nelsona i Pretty Boya Floyda. Kierowana wówczas przez J. Edgara Hoovera FBI z małej agencji stała się potężną organizacją o światowej sławie między innymi przez swoje wysiłki zmierzające do schwytania przestępców.",
+  "producers": [
+    {
+      "id": "nm0113583",
+      "name": "G. Mac Brown"
+    },
+    {
+      "id": "nm0140754",
+      "name": "Bryan H. Carroll"
+    },
+    {
+      "id": "nm0149052",
+      "name": "Gusmano Cesaretti"
+    },
+    {
+      "id": "nm0209326",
+      "name": "Kevin de la Noy"
+    },
+    {
+      "id": "nm0000520",
+      "name": "Michael Mann"
+    },
+    {
+      "id": "nm0592746",
+      "name": "Kevin Misher"
+    },
+    {
+      "id": "nm0635566",
+      "name": "Maria Norman"
+    },
+    {
+      "id": "nm0000134",
+      "name": "Robert De Niro"
+    },
+    {
+      "id": "nm0742772",
+      "name": "Jane Rosenthal"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006106",
+      "name": "Elliot Goldenthal"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005883",
+      "name": "Dante Spinotti"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

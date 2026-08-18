@@ -1,0 +1,50 @@
+{
+  "id": "nm0442766",
+  "name": "Kenji Kawai",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZGUxMDQwYWYtNDY4Yy00ZjUwLThhOTYtZjMxZDZhOTUzN2E0XkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0113568",
+      "title": "Ghost in the Shell",
+      "year": 1995,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt0267287",
+      "title": "Avalon",
+      "year": 2001,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt1220719",
+      "title": "Ip Man",
+      "year": 2008,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt1386932",
+      "title": "Ip Man 2",
+      "year": 2010,
+      "roles": [
+        "composer"
+      ]
+    }
+  ],
+  "birth_date": "23.04.1957",
+  "birth_location": "Shinagawa, Tokyo, Japan",
+  "filmweb_id": 40461,
+  "name_pl": "Kenji Kawai",
+  "birth_location_pl": "Shinagawa, Tokio",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Japonia"
+  ]
+}

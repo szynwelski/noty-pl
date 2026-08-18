@@ -1,0 +1,38 @@
+{
+  "id": "nm0548355",
+  "name": "Jane Marken",
+  "filmography": [
+    {
+      "imdb_id": "tt0038853",
+      "title": "Gates of the Night",
+      "year": 1946,
+      "roles": [
+        "cast"
+      ],
+      "character": "Mme Germaine"
+    },
+    {
+      "imdb_id": "tt0049189",
+      "title": "...And God Created Woman",
+      "year": 1956,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Madame Morin"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMWFkMGUwNjctMTE0My00MTg0LTgzNWEtNTQ2NWYyNzNmNGUyXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "13.01.1895",
+  "death_date": "01.12.1976",
+  "birth_location": "Paris, France",
+  "imdb_scraped": true,
+  "filmweb_id": 52165,
+  "name_pl": "Jane Marken",
+  "birth_location_pl": "Paryż",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja"
+  ]
+}

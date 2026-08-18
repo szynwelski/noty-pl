@@ -1,0 +1,233 @@
+{
+  "imdb_id": "tt0379217",
+  "title": "Coffee and Cigarettes",
+  "description": "A series of vignettes that all have coffee and cigarettes in common.",
+  "runtime_minutes": 95,
+  "release_date": "11.06.2004",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Music"
+  ],
+  "stars": [
+    {
+      "id": "nm0000195",
+      "name": "Bill Murray"
+    },
+    {
+      "id": "nm0001823",
+      "name": "Tom Waits"
+    },
+    {
+      "id": "nm0000905",
+      "name": "Roberto Benigni"
+    },
+    {
+      "id": "nm0753526",
+      "name": "RZA"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000464",
+      "name": "Jim Jarmusch"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000464",
+      "name": "Jim Jarmusch"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000195",
+      "name": "Bill Murray",
+      "character": "Bill Murray"
+    },
+    {
+      "id": "nm0001823",
+      "name": "Tom Waits",
+      "character": "Tom"
+    },
+    {
+      "id": "nm0000905",
+      "name": "Roberto Benigni",
+      "character": "Roberto"
+    },
+    {
+      "id": "nm0942833",
+      "name": "Steven Wright",
+      "character": "Steven"
+    },
+    {
+      "id": "nm0497578",
+      "name": "Joie Lee",
+      "character": "Good Twin"
+    },
+    {
+      "id": "nm0497046",
+      "name": "Cinqué Lee",
+      "character": "Evil Twin"
+    },
+    {
+      "id": "nm0000114",
+      "name": "Steve Buscemi",
+      "character": "Danny"
+    },
+    {
+      "id": "nm0006563",
+      "name": "Iggy Pop",
+      "character": "Iggy"
+    },
+    {
+      "id": "nm0726527",
+      "name": "Joseph Rigano",
+      "character": "Joe"
+    },
+    {
+      "id": "nm0068633",
+      "name": "Vinny Vella",
+      "character": "Vinny"
+    },
+    {
+      "id": "nm1530887",
+      "name": "Vinny Vella Jr.",
+      "character": "Vinny Jr."
+    },
+    {
+      "id": "nm0294182",
+      "name": "Renee French",
+      "character": "Renée"
+    },
+    {
+      "id": "nm0735294",
+      "name": "E.J. Rodriguez",
+      "character": "Waiter"
+    },
+    {
+      "id": "nm0220976",
+      "name": "Alex Descas",
+      "character": "Alex"
+    },
+    {
+      "id": "nm0207218",
+      "name": "Isaach De Bankolé",
+      "character": "Isaach"
+    },
+    {
+      "id": "nm0000949",
+      "name": "Cate Blanchett",
+      "character": "Cate"
+    },
+    {
+      "id": "nm1236766",
+      "name": "Michael Hogan",
+      "character": "Waiter"
+    },
+    {
+      "id": "nm1226421",
+      "name": "Jack White",
+      "character": "Jack"
+    }
+  ],
+  "countries": [
+    "Italy",
+    "Japan",
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 110812,
+  "year": 2003,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZGQ2MmE1ZDItOTk0Zi00ZDVlLTg4MzUtYTdlMTQyNmE3OTI2XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7,
+      "votes": 71184,
+      "distribution": {
+        "1": 943,
+        "2": 706,
+        "3": 1031,
+        "4": 1811,
+        "5": 4093,
+        "6": 10344,
+        "7": 21964,
+        "8": 17190,
+        "9": 7395,
+        "10": 5707
+      },
+      "normalized": 5.5479
+    },
+    "filmweb": {
+      "rating": 7.56,
+      "votes": 69969,
+      "distribution": {
+        "1": 360,
+        "2": 285,
+        "3": 939,
+        "4": 1289,
+        "5": 3058,
+        "6": 6573,
+        "7": 16839,
+        "8": 23642,
+        "9": 11758,
+        "10": 5226
+      },
+      "normalized": 6.9104
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "12.07.2006",
+      "normalized": 5.4199
+    },
+    "score": 5.9594
+  },
+  "polish_title": "Kawa i papierosy",
+  "silent": false,
+  "description_pl": "Seria epizodów, w których bohaterowie popijając kawę i paląc papierosy rozmawiają na przeróżne tematy i omawiają między innymi: możliwość użycia nikotyny jako środka owadobójczego, sposoby na przyrządzenie prawdziwej angielskiej herbaty, wynalazki Nikoli Tesli, przygody członków nieistniejącego zespołu rockowego o nazwie SQÜRL, Paryż w latach 20. i co tak naprawdę stało się z Elvisem Presleyem.",
+  "producers": [
+    {
+      "id": "nm1370488",
+      "name": "Rachel Dengiz"
+    },
+    {
+      "id": "nm0459852",
+      "name": "Jason Kliot"
+    },
+    {
+      "id": "nm0531384",
+      "name": "Demetra J. MacBride"
+    },
+    {
+      "id": "nm0569640",
+      "name": "Gretchen McGowan"
+    },
+    {
+      "id": "nm0799886",
+      "name": "Rudd Simmons"
+    },
+    {
+      "id": "nm0809995",
+      "name": "Stacey Smith"
+    },
+    {
+      "id": "nm0823196",
+      "name": "Jim Stark"
+    },
+    {
+      "id": "nm0823900",
+      "name": "Cassis Birgit Staudt"
+    },
+    {
+      "id": "nm0895903",
+      "name": "Joana Vicente"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

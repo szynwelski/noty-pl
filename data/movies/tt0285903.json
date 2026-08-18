@@ -1,0 +1,120 @@
+{
+  "imdb_id": "tt0285903",
+  "title": "The Pickaninny Dance, from the 'Passing Show'",
+  "description": "A scene representing Southern plantation life before the war. A jig and a breakdown by three colored boys.",
+  "year": 1894,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNWYyYjk3MTUtZmMzOS00MzBmLWIwNWUtZjBhOTZmZjI2OTIxXkEyXkFqcGc@._V1_.jpg",
+  "runtime_minutes": 1,
+  "release_date": "06.10.1894",
+  "genres": [
+    "Documentary",
+    "Short",
+    "Comedy"
+  ],
+  "stars": [
+    {
+      "id": "nm0992002",
+      "name": "Joe Rastus"
+    },
+    {
+      "id": "nm0992129",
+      "name": "Denny Tolliver"
+    },
+    {
+      "id": "nm0992183",
+      "name": "Walter Wilkins"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0005690",
+      "name": "William K.L. Dickson"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0742571",
+      "name": "Sydney Rosenfeld"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0992002",
+      "name": "Joe Rastus",
+      "character": "Self"
+    },
+    {
+      "id": "nm0992129",
+      "name": "Denny Tolliver",
+      "character": "Self"
+    },
+    {
+      "id": "nm0992183",
+      "name": "Walter Wilkins",
+      "character": "Self"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "None",
+    "English"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 271891,
+  "ratings": {
+    "imdb": {
+      "rating": 4.4,
+      "votes": 334,
+      "distribution": {
+        "1": 38,
+        "2": 24,
+        "3": 29,
+        "4": 60,
+        "5": 94,
+        "6": 45,
+        "7": 16,
+        "8": 9,
+        "9": 4,
+        "10": 15
+      },
+      "normalized": 4.0097
+    },
+    "filmweb": {
+      "rating": 3.41,
+      "votes": 22,
+      "distribution": {
+        "1": 5,
+        "2": 5,
+        "3": 4,
+        "4": 1,
+        "5": 3,
+        "6": 0,
+        "7": 3,
+        "8": 1,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 4.6828
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "11.12.2016",
+      "normalized": 6.4102
+    },
+    "score": 5.0342
+  },
+  "polish_title": "The Pickaninny Dance, From the 'Passing Show'",
+  "silent": true,
+  "description_pl": "Film przedstawia życie południowej plantacji przed wojną. Widzimy też chwile załamania trzech kolorowych chłopców.",
+  "cinematographers": [
+    {
+      "id": "nm0374658",
+      "name": "William Heise"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

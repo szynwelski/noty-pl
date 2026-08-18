@@ -1,0 +1,39 @@
+{
+  "id": "nm0000239",
+  "name": "Liv Tyler",
+  "filmography": [
+    {
+      "imdb_id": "tt0120591",
+      "title": "Armageddon",
+      "year": 1998,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Grace Stamper"
+    },
+    {
+      "imdb_id": "tt2935510",
+      "title": "Ad Astra",
+      "year": 2019,
+      "roles": [
+        "cast"
+      ],
+      "character": "Eve"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZmU1YzllYzQtYTM5Zi00ODRkLWE0NzItM2UzNTM2YmY4ZjY0XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "01.07.1977",
+  "birth_location": "New York City, New York, USA",
+  "height": "1.76 m",
+  "imdb_scraped": true,
+  "filmweb_id": 219,
+  "name_pl": "Liv Tyler",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 219
+}

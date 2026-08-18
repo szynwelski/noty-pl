@@ -1,0 +1,38 @@
+{
+  "id": "nm0809321",
+  "name": "Mel Smith",
+  "filmography": [
+    {
+      "imdb_id": "tt0093779",
+      "title": "The Princess Bride",
+      "year": 1987,
+      "roles": [
+        "cast"
+      ],
+      "character": "The Albino"
+    },
+    {
+      "imdb_id": "tt0118689",
+      "title": "Bean",
+      "year": 1997,
+      "roles": [
+        "director"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTM5NzQ0ODI2OV5BMl5BanBnXkFtZTcwNjE2NDkxOA@@._V1_.jpg",
+  "birth_date": "03.12.1952",
+  "death_date": "19.07.2013",
+  "birth_location": "Chiswick, London, England, UK",
+  "height": "1.82 m",
+  "imdb_scraped": true,
+  "filmweb_id": 11163,
+  "name_pl": "Mel Smith",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 11163
+}

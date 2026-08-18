@@ -1,0 +1,168 @@
+{
+  "imdb_id": "tt0008395",
+  "title": "Otets Sergiy",
+  "description": "Prince Kasatsky is a just and proud youth, shock and disappointment with the world bring him to church, he becomes father Sergius. It is a story of his piety and temptation.",
+  "runtime_minutes": 112,
+  "release_date": "1919",
+  "genres": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "stars": [
+    {
+      "id": "nm0610620",
+      "name": "Ivan Mozzhukhin"
+    },
+    {
+      "id": "nm2521330",
+      "name": "Olga Kondorova"
+    },
+    {
+      "id": "nm0246141",
+      "name": "V. Dzheneyeva"
+    },
+    {
+      "id": "nm0301146",
+      "name": "Vladimir Gajdarov"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0698839",
+      "name": "Yakov Protazanov"
+    },
+    {
+      "id": "nm0901502",
+      "name": "Alexandre Volkoff"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0866243",
+      "name": "Lev Tolstoy"
+    },
+    {
+      "id": "nm0901502",
+      "name": "Alexandre Volkoff"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0610620",
+      "name": "Ivan Mozzhukhin",
+      "character": "Prince Kasatsky, later Father Sergius"
+    },
+    {
+      "id": "nm2521330",
+      "name": "Olga Kondorova",
+      "character": "Countess Korotkova"
+    },
+    {
+      "id": "nm0246141",
+      "name": "V. Dzheneyeva",
+      "character": "Maria - her daughter"
+    },
+    {
+      "id": "nm0301146",
+      "name": "Vladimir Gajdarov",
+      "character": "Czar Nikolai I"
+    },
+    {
+      "id": "nm0659712",
+      "name": "Nikolai Panov",
+      "character": "Kasatsky's father"
+    },
+    {
+      "id": "nm0514027",
+      "name": "Nathalie Lissenko",
+      "character": "Widow of the merchant Makovkin"
+    },
+    {
+      "id": "nm0847809",
+      "name": "Iona Talanov",
+      "character": "Merchant"
+    },
+    {
+      "id": "nm0650153",
+      "name": "Vera Orlova",
+      "character": "His daughter"
+    },
+    {
+      "id": "nm0049242",
+      "name": "Pyotr Baksheyev",
+      "character": ""
+    },
+    {
+      "id": "nm0667755",
+      "name": "Polycarpe Pavloff",
+      "character": ""
+    },
+    {
+      "id": "nm0727333",
+      "name": "Nicolas Rimsky",
+      "character": ""
+    }
+  ],
+  "countries": [
+    "Russia"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "year": 1918,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDFjMWUyN2UtZjk2Yi00OThhLTllMGUtMjc1YTdkOWRiYzk3XkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 88121,
+  "ratings": {
+    "imdb": {
+      "rating": 6.8,
+      "votes": 683,
+      "distribution": {
+        "1": 53,
+        "2": 9,
+        "3": 8,
+        "4": 18,
+        "5": 60,
+        "6": 104,
+        "7": 167,
+        "8": 111,
+        "9": 80,
+        "10": 73
+      },
+      "normalized": 5.2465
+    },
+    "filmweb": {
+      "rating": 6.18,
+      "votes": 66,
+      "distribution": {
+        "2": 2,
+        "3": 4,
+        "4": 3,
+        "5": 9,
+        "6": 16,
+        "7": 21,
+        "8": 8,
+        "9": 2,
+        "10": 1
+      },
+      "normalized": 4.8857
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "19.10.2005",
+      "normalized": 7.2292
+    },
+    "score": 5.7871
+  },
+  "polish_title": "Ojciec Sergiusz",
+  "silent": true,
+  "composers": [
+    {
+      "id": "nm0119753",
+      "name": "Y. Bukke"
+    }
+  ],
+  "fetched_at": "2026-08-15"
+}

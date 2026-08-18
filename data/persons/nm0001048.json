@@ -1,0 +1,37 @@
+{
+  "id": "nm0001048",
+  "name": "Andrew Dice Clay",
+  "filmography": [
+    {
+      "imdb_id": "tt2334873",
+      "title": "Blue Jasmine",
+      "year": 2013,
+      "roles": [
+        "cast"
+      ],
+      "character": "Augie"
+    },
+    {
+      "imdb_id": "tt1517451",
+      "title": "A Star Is Born",
+      "year": 2018,
+      "roles": [
+        "cast"
+      ],
+      "character": "Lorenzo"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDU2ZGM2OTAtZDY1Ni00ZTJjLTk2ZDgtMDZjODIxYmU5YTZiXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "29.09.1957",
+  "birth_location": "Brooklyn, New York City, New York, USA",
+  "height": "1.83 m",
+  "imdb_scraped": true,
+  "filmweb_id": 40653,
+  "name_pl": "Andrew Dice Clay",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "nm0001615",
+  "name": "Elizabeth Peña",
+  "filmography": [
+    {
+      "imdb_id": "tt0160399",
+      "title": "Impostor",
+      "year": 2001,
+      "roles": [
+        "cast"
+      ],
+      "character": "Midwife"
+    },
+    {
+      "imdb_id": "tt0317705",
+      "title": "The Incredibles",
+      "year": 2004,
+      "roles": [
+        "cast"
+      ],
+      "character": "Mirage"
+    },
+    {
+      "imdb_id": "tt0473360",
+      "title": "Goal II: Living the Dream",
+      "year": 2007,
+      "roles": [
+        "cast"
+      ],
+      "character": "Rosa Maria"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTk1OTQ3MDAzOV5BMl5BanBnXkFtZTYwMjA0NTc1._V1_.jpg",
+  "birth_date": "23.09.1959",
+  "death_date": "14.10.2014",
+  "birth_location": "Elizabeth, New Jersey, USA",
+  "height": "1.57 m",
+  "filmweb_id": 3809,
+  "name_pl": "Elizabeth Peña",
+  "birth_location_pl": "Elizabeth, New Jersey",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

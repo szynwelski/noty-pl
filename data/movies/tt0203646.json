@@ -1,0 +1,100 @@
+{
+  "imdb_id": "tt0203646",
+  "title": "Leonard-Cushing Fight",
+  "description": "Short depicting the box-fight between Mike Leonard and Jack Cushing fight.",
+  "runtime_minutes": 1,
+  "release_date": "14.06.1894",
+  "genres": [
+    "Documentary",
+    "Short",
+    "Sport"
+  ],
+  "stars": [
+    {
+      "id": "nm0193696",
+      "name": "Jack Cushing"
+    },
+    {
+      "id": "nm0502719",
+      "name": "Mike Leonard"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0005690",
+      "name": "William K.L. Dickson"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0193696",
+      "name": "Jack Cushing",
+      "character": "Self"
+    },
+    {
+      "id": "nm0502719",
+      "name": "Mike Leonard",
+      "character": "Self"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 271220,
+  "year": 1894,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYmQ0MTBmNjQtN2YxNi00NjU4LWE3NzQtNGM3MjNlYThjMzQyXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5,
+      "votes": 588,
+      "distribution": {
+        "1": 42,
+        "2": 26,
+        "3": 41,
+        "4": 85,
+        "5": 189,
+        "6": 106,
+        "7": 46,
+        "8": 19,
+        "9": 5,
+        "10": 29
+      },
+      "normalized": 3.8556
+    },
+    "filmweb": {
+      "rating": 4.3,
+      "votes": 82,
+      "distribution": {
+        "1": 4,
+        "2": 15,
+        "3": 13,
+        "4": 13,
+        "5": 16,
+        "6": 9,
+        "7": 6,
+        "8": 3,
+        "9": 2,
+        "10": 1
+      },
+      "normalized": 4.2013
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "11.12.2016",
+      "normalized": 7.1247
+    },
+    "score": 5.0605
+  },
+  "polish_title": "Leonard-Cushing Fight",
+  "silent": true,
+  "description_pl": "Film przedstawia walkę bokserską na ringu. W białych spodenkach występuje Mike Leonard, w czarnych Jack Cushing. W tle widać pięciu przyglądających się widzów.",
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-16"
+}

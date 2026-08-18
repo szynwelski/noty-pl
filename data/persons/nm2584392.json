@@ -1,0 +1,48 @@
+{
+  "id": "nm2584392",
+  "name": "Tom Hopper",
+  "filmography": [
+    {
+      "imdb_id": "tt1199099",
+      "title": "Merlin",
+      "year": 2008,
+      "roles": [
+        "cast"
+      ],
+      "character": "Sir Percival"
+    },
+    {
+      "imdb_id": "tt1312171",
+      "title": "The Umbrella Academy",
+      "year": 2019,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Luther Hargreeves"
+    },
+    {
+      "imdb_id": "tt4479380",
+      "title": "SAS: Rise of the Black Swan",
+      "year": 2021,
+      "roles": [
+        "cast"
+      ],
+      "character": "Sgt. Declan Smith"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNWUwYjZkZTktYTg4ZS00NGYxLWFiYzUtMGZjNGRkMzk4MTk3XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "28.01.1985",
+  "birth_location": "Coalville, Leicestershire, England, UK",
+  "height": "1.96 m",
+  "imdb_scraped": true,
+  "filmweb_id": 698443,
+  "name_pl": "Tom Hopper",
+  "birth_location_pl": "Coalville, Anglia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 698443
+}

@@ -1,0 +1,264 @@
+{
+  "imdb_id": "tt2015381",
+  "title": "Guardians of the Galaxy",
+  "description": "A group of intergalactic criminals must pull together to stop a fanatical warrior with plans to purge the universe.",
+  "runtime_minutes": 121,
+  "release_date": "01.08.2014",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm0695435",
+      "name": "Chris Pratt"
+    },
+    {
+      "id": "nm0004874",
+      "name": "Vin Diesel"
+    },
+    {
+      "id": "nm0177896",
+      "name": "Bradley Cooper"
+    },
+    {
+      "id": "nm0757855",
+      "name": "Zoe Saldaña"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0348181",
+      "name": "James Gunn"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0348181",
+      "name": "James Gunn"
+    },
+    {
+      "id": "nm2270979",
+      "name": "Nicole Perlman"
+    },
+    {
+      "id": "nm3966115",
+      "name": "Dan Abnett"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0695435",
+      "name": "Chris Pratt",
+      "character": "Peter Quill"
+    },
+    {
+      "id": "nm0004874",
+      "name": "Vin Diesel",
+      "character": "Groot"
+    },
+    {
+      "id": "nm0177896",
+      "name": "Bradley Cooper",
+      "character": "Rocket"
+    },
+    {
+      "id": "nm0757855",
+      "name": "Zoe Saldaña",
+      "character": "Gamora"
+    },
+    {
+      "id": "nm1176985",
+      "name": "Dave Bautista",
+      "character": "Drax"
+    },
+    {
+      "id": "nm1195855",
+      "name": "Lee Pace",
+      "character": "Ronan"
+    },
+    {
+      "id": "nm0740264",
+      "name": "Michael Rooker",
+      "character": "Yondu Udonta"
+    },
+    {
+      "id": "nm2394794",
+      "name": "Karen Gillan",
+      "character": "Nebula"
+    },
+    {
+      "id": "nm0005023",
+      "name": "Djimon Hounsou",
+      "character": "Korath"
+    },
+    {
+      "id": "nm0000604",
+      "name": "John C. Reilly",
+      "character": "Corpsman Dey"
+    },
+    {
+      "id": "nm0000335",
+      "name": "Glenn Close",
+      "character": "Nova Prime"
+    },
+    {
+      "id": "nm0001125",
+      "name": "Benicio Del Toro",
+      "character": "The Collector"
+    },
+    {
+      "id": "nm2652095",
+      "name": "Laura Haddock",
+      "character": "Meredith Quill"
+    },
+    {
+      "id": "nm0348231",
+      "name": "Sean Gunn",
+      "character": "Kraglin"
+    },
+    {
+      "id": "nm0784818",
+      "name": "Peter Serafinowicz",
+      "character": "Denarian Saal"
+    },
+    {
+      "id": "nm0265457",
+      "name": "Christopher Fairbank",
+      "character": "The Broker"
+    },
+    {
+      "id": "nm5395388",
+      "name": "Krystian Godlewski",
+      "character": "On Set Groot"
+    },
+    {
+      "id": "nm5200476",
+      "name": "Wyatt Oleff",
+      "character": "Young Quill"
+    }
+  ],
+  "countries": [
+    "United States",
+    "United Kingdom"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 594357,
+  "year": 2014,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BM2ZmNjQ2MzAtNDlhNi00MmQyLWJhZDMtNmJiMjFlOWY4MzcxXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8,
+      "votes": 1377690,
+      "distribution": {
+        "1": 11881,
+        "2": 4896,
+        "3": 6879,
+        "4": 12090,
+        "5": 28248,
+        "6": 79979,
+        "7": 234791,
+        "8": 444074,
+        "9": 312957,
+        "10": 241895
+      },
+      "normalized": 7.5865
+    },
+    "filmweb": {
+      "rating": 7.47,
+      "votes": 282795,
+      "distribution": {
+        "1": 1635,
+        "2": 1138,
+        "3": 3253,
+        "4": 5164,
+        "5": 13058,
+        "6": 31768,
+        "7": 75417,
+        "8": 90039,
+        "9": 39823,
+        "10": 21500
+      },
+      "normalized": 6.6703
+    },
+    "jarek": {
+      "rating": 3,
+      "date_rated": "02.09.2014",
+      "normalized": 4.2591
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "07.01.2015",
+      "normalized": 5.4199
+    },
+    "score": 5.984
+  },
+  "polish_title": "Strażnicy Galaktyki",
+  "silent": false,
+  "description_pl": "Zuchwały awanturnik Peter Quill kradnie tajemniczy artefakt stanowiący obiekt pożądania złego i potężnego Ronana, którego ambicje zagrażają całemu wszechświatowi. Chcąc uniknąć gniewu Ronana, Quill zmuszony jest zawrzeć niewygodny sojusz z czterema niemającymi nic do stracenia outsiderami: Rocketem – uzbrojonym szopem, Grootem – drzewokształtnym humanoidem, śmiertelnie niebezpieczną i tajemniczą Gamorą i żądnym zemsty Draxem Niszczycielem. Kiedy główny bohater odkrywa prawdziwą moc artefaktu i zagrożenie, jakie stanowi on dla kosmosu, musi zmobilizować swoich niesubordynowanych towarzyszy do ostatniej bitwy, od której zależą losy galaktyki.",
+  "producers": [
+    {
+      "id": "nm0022285",
+      "name": "Victoria Alonso"
+    },
+    {
+      "id": "nm7674990",
+      "name": "Lester Chin"
+    },
+    {
+      "id": "nm0160577",
+      "name": "Jamie Christopher"
+    },
+    {
+      "id": "nm0195669",
+      "name": "Louis D'Esposito"
+    },
+    {
+      "id": "nm0270559",
+      "name": "Kevin Feige"
+    },
+    {
+      "id": "nm2643957",
+      "name": "Alan Fine"
+    },
+    {
+      "id": "nm0335343",
+      "name": "David J. Grant"
+    },
+    {
+      "id": "nm0004211",
+      "name": "Nikolas Korda"
+    },
+    {
+      "id": "nm1436246",
+      "name": "Jeremy Latcham"
+    },
+    {
+      "id": "nm0498278",
+      "name": "Stan Lee"
+    },
+    {
+      "id": "nm4809108",
+      "name": "Jonathan Schwartz"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0061045",
+      "name": "Tyler Bates"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm1023204",
+      "name": "Ben Davis"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "nm0000876",
+  "name": "Noah Baumbach",
+  "filmography": [
+    {
+      "imdb_id": "tt0432283",
+      "title": "Fantastic Mr. Fox",
+      "year": 2009,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt7653254",
+      "title": "Marriage Story",
+      "year": 2019,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt1517268",
+      "title": "Barbie",
+      "year": 2023,
+      "roles": [
+        "writer",
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjA3NTUzNzM2OF5BMl5BanBnXkFtZTcwNjU4MjYxMw@@._V1_.jpg",
+  "birth_date": "03.09.1969",
+  "birth_location": "Brooklyn, New York City, New York, USA",
+  "height": "1.75 m",
+  "imdb_scraped": true,
+  "filmweb_id": 99608,
+  "name_pl": "Noah Baumbach",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 99608
+}

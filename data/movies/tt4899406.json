@@ -1,0 +1,186 @@
+{
+  "imdb_id": "tt4899406",
+  "title": "Neon Bull",
+  "description": "Iremar works at the rodeo in North East of Brazil. From his home, the truck used to transport the animals, he dreams of a future in the region's booming clothing industry.",
+  "runtime_minutes": 101,
+  "release_date": "14.01.2016",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm2131960",
+      "name": "Juliano Cazarré"
+    },
+    {
+      "id": "nm2701325",
+      "name": "Maeve Jinkings"
+    },
+    {
+      "id": "nm7502810",
+      "name": "Josinaldo Alves"
+    },
+    {
+      "id": "nm0083531",
+      "name": "Roberto Birindelli"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm3486709",
+      "name": "Gabriel Mascaro"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1103123",
+      "name": "Marcelo Gomes"
+    },
+    {
+      "id": "nm3486709",
+      "name": "Gabriel Mascaro"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm2131960",
+      "name": "Juliano Cazarré",
+      "character": "Iremar"
+    },
+    {
+      "id": "nm2701325",
+      "name": "Maeve Jinkings",
+      "character": "Galega"
+    },
+    {
+      "id": "nm7502810",
+      "name": "Josinaldo Alves",
+      "character": "Mário"
+    },
+    {
+      "id": "nm0083531",
+      "name": "Roberto Birindelli",
+      "character": "Fazendeiro"
+    },
+    {
+      "id": "nm2325658",
+      "name": "Marcelo Caetano",
+      "character": "Vendedor de Etiquetas"
+    },
+    {
+      "id": "nm6670009",
+      "name": "Samya De Lavor",
+      "character": "Geise"
+    },
+    {
+      "id": "nm0646737",
+      "name": "Vinícius de Oliveira",
+      "character": "Júnior"
+    },
+    {
+      "id": "nm7273303",
+      "name": "Abigail Pereira",
+      "character": "Valquíria"
+    },
+    {
+      "id": "nm7502809",
+      "name": "Carlos Pessoa",
+      "character": "Zé"
+    },
+    {
+      "id": "nm7502808",
+      "name": "Alyne Santana",
+      "character": "Cacá"
+    }
+  ],
+  "countries": [
+    "Brazil",
+    "Uruguay",
+    "Netherlands"
+  ],
+  "languages": [
+    "Portuguese"
+  ],
+  "color": "Color",
+  "filmweb_id": 748473,
+  "year": 2015,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjE0ODM0MDg1NV5BMl5BanBnXkFtZTgwNjgxMjUzODE@._V1_.jpg",
+  "original_title": "Boi Neon",
+  "ratings": {
+    "imdb": {
+      "rating": 6.8,
+      "votes": 3711,
+      "distribution": {
+        "1": 106,
+        "2": 62,
+        "3": 75,
+        "4": 165,
+        "5": 323,
+        "6": 623,
+        "7": 1017,
+        "8": 801,
+        "9": 301,
+        "10": 238
+      },
+      "normalized": 5.1852
+    },
+    "filmweb": {
+      "rating": 6.03,
+      "votes": 586,
+      "distribution": {
+        "1": 11,
+        "2": 7,
+        "3": 50,
+        "4": 41,
+        "5": 76,
+        "6": 138,
+        "7": 156,
+        "8": 78,
+        "9": 21,
+        "10": 8
+      },
+      "normalized": 4.0437
+    },
+    "jarek": {
+      "rating": 1,
+      "date_rated": "11.10.2020",
+      "normalized": 2.5327
+    },
+    "michal": {
+      "rating": 3,
+      "date_rated": "19.10.2015",
+      "normalized": 3.8753
+    },
+    "score": 3.9092
+  },
+  "polish_title": "Neonowy byk",
+  "silent": false,
+  "description_pl": "Iremar bierze udział w Vaquejadas - rodeo w północno-wschodniej Brazylii. To sport dla prawdziwych macho. Jego domem jest przyczepa, którą wozi byki z przedstawienia na przedstawienie. Towarzyszy mu tancerka egzotyczna Galega, jej bezczelna córka Cacá oraz Zé, towarzysz z rodeo. Wspólnie tworzą rodzinę. Po przedstawieniach zaszywa się w swojej ciężarówce i szyje stroje utkane brokatem i cekinami marząc o zostaniu projektantem mody. Świecidełka, seksi kroje i zmysłowe tkaniny urozmaicają mu każdy wieczór.",
+  "producers": [
+    {
+      "id": "nm3599723",
+      "name": "Rachel Daisy Ellis"
+    },
+    {
+      "id": "nm0687751",
+      "name": "Rodrigo Plá"
+    },
+    {
+      "id": "nm1803542",
+      "name": "Sandino Saravia Vinay"
+    },
+    {
+      "id": "nm3117965",
+      "name": "Marleen Slot"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm1514227",
+      "name": "Diego García"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

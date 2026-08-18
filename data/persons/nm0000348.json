@@ -1,0 +1,61 @@
+{
+  "id": "nm0000348",
+  "name": "Tony Curtis",
+  "filmography": [
+    {
+      "imdb_id": "tt0051036",
+      "title": "Sweet Smell of Success",
+      "year": 1957,
+      "roles": [
+        "star",
+        "cast",
+        "producer"
+      ],
+      "character": "Sidney Falco"
+    },
+    {
+      "imdb_id": "tt0053291",
+      "title": "Some Like It Hot",
+      "year": 1959,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Joe"
+    },
+    {
+      "imdb_id": "tt0054331",
+      "title": "Spartacus",
+      "year": 1960,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Antoninus"
+    },
+    {
+      "imdb_id": "tt0064688",
+      "title": "Those Daring Young Men in Their Jaunty Jalopies",
+      "year": 1969,
+      "roles": [
+        "cast"
+      ],
+      "character": "Chester Schofield"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYTY0ZTQwZmYtM2QxZS00NjBhLTlmZGItODgxZjk5NzQ0MzlhXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "03.06.1925",
+  "death_date": "29.09.2010",
+  "birth_location": "Manhattan, New York City, New York, USA",
+  "height": "1.75 m",
+  "filmweb_id": 40890,
+  "name_pl": "Tony Curtis",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 40890
+}

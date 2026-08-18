@@ -1,0 +1,35 @@
+{
+  "id": "nm0689852",
+  "name": "John Polson",
+  "filmography": [
+    {
+      "imdb_id": "tt0120755",
+      "title": "Mission: Impossible II",
+      "year": 2000,
+      "roles": [
+        "cast"
+      ],
+      "character": "Billy Baird"
+    },
+    {
+      "imdb_id": "tt2191671",
+      "title": "Elementary",
+      "year": 2012,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYjYxYzhjYzAtOGUyNy00MTdjLTgzNDYtNjQ3MGQxMjFkZWVhXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "06.09.1965",
+  "birth_location": "Sydney, Australia",
+  "imdb_scraped": true,
+  "filmweb_id": 7721,
+  "name_pl": "John Polson",
+  "birth_location_pl": "Sydney",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Australia"
+  ]
+}

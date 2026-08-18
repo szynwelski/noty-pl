@@ -1,0 +1,49 @@
+{
+  "id": "nm0005112",
+  "name": "LL Cool J",
+  "filmography": [
+    {
+      "imdb_id": "tt0146838",
+      "title": "Any Given Sunday",
+      "year": 1999,
+      "roles": [
+        "cast"
+      ],
+      "character": "Julian Washington"
+    },
+    {
+      "imdb_id": "tt0257076",
+      "title": "S.W.A.T.",
+      "year": 2003,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Deacon 'Deke' Kaye"
+    },
+    {
+      "imdb_id": "tt0297284",
+      "title": "Mindhunters",
+      "year": 2004,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Gabe Jensen"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTg1OTk3MDczM15BMl5BanBnXkFtZTgwMzM2MDc4ODE@._V1_.jpg",
+  "birth_date": "14.01.1968",
+  "birth_location": "Bay Shore, Long Island, New York, USA",
+  "height": "1.87 m",
+  "filmweb_id": 3167,
+  "name_pl": "LL Cool J",
+  "birth_location_pl": "Islip, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 3167
+}

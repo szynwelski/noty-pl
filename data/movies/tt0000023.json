@@ -1,0 +1,83 @@
+{
+  "imdb_id": "tt0000023",
+  "title": "The Sea",
+  "description": "Several little boys run along a pier, then jump into the ocean.",
+  "runtime_minutes": 1,
+  "release_date": "28.12.1895",
+  "genres": [
+    "Documentary",
+    "Short"
+  ],
+  "directors": [
+    {
+      "id": "nm0525910",
+      "name": "Louis Lumière"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 240955,
+  "year": 1895,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNjcxMzlhZmEtZTA5OS00NjJmLTg4NTgtNGEzNmJjZTNjOGFkXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Baignade en mer",
+  "ratings": {
+    "imdb": {
+      "rating": 5.7,
+      "votes": 1687,
+      "distribution": {
+        "1": 61,
+        "2": 46,
+        "3": 77,
+        "4": 148,
+        "5": 392,
+        "6": 489,
+        "7": 268,
+        "8": 99,
+        "9": 30,
+        "10": 77
+      },
+      "normalized": 3.8198
+    },
+    "filmweb": {
+      "rating": 5.39,
+      "votes": 290,
+      "distribution": {
+        "1": 9,
+        "2": 8,
+        "3": 22,
+        "4": 35,
+        "5": 80,
+        "6": 71,
+        "7": 33,
+        "8": 18,
+        "9": 8,
+        "10": 6
+      },
+      "normalized": 3.8623
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "11.12.2016",
+      "normalized": 5.6855
+    },
+    "score": 4.4559
+  },
+  "polish_title": "Kąpiel w morzu",
+  "silent": true,
+  "description_pl": "Na planie widzimy morze. Zza skał wyłania się kobieta wraz z grupką dziesięcioletnich chłopców. Jeden z nich skacze do morza. Pozostali idą w jego ślady.",
+  "cinematographers": [
+    {
+      "id": "nm0525910",
+      "name": "Louis Lumière"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-15"
+}

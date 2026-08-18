@@ -1,0 +1,241 @@
+{
+  "imdb_id": "tt0115862",
+  "title": "The Chamber",
+  "description": "A young man fresh out of law school tries to win a reprieve for his racist grandfather who is on death row.",
+  "runtime_minutes": 113,
+  "release_date": "11.10.1996",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000563",
+      "name": "Chris O'Donnell"
+    },
+    {
+      "id": "nm0000432",
+      "name": "Gene Hackman"
+    },
+    {
+      "id": "nm0001159",
+      "name": "Faye Dunaway"
+    },
+    {
+      "id": "nm0698764",
+      "name": "Robert Prosky"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001226",
+      "name": "James Foley"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0001300",
+      "name": "John Grisham"
+    },
+    {
+      "id": "nm0001279",
+      "name": "William Goldman"
+    },
+    {
+      "id": "nm0004675",
+      "name": "Phil Alden Robinson"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000563",
+      "name": "Chris O'Donnell",
+      "character": "Adam Hall"
+    },
+    {
+      "id": "nm0000432",
+      "name": "Gene Hackman",
+      "character": "Sam Cayhall"
+    },
+    {
+      "id": "nm0001159",
+      "name": "Faye Dunaway",
+      "character": "Lee Cayhall Bowen"
+    },
+    {
+      "id": "nm0698764",
+      "name": "Robert Prosky",
+      "character": "E. Garner Goodman"
+    },
+    {
+      "id": "nm0000855",
+      "name": "Raymond J. Barry",
+      "character": "Rollie Wedge"
+    },
+    {
+      "id": "nm0413313",
+      "name": "Bo Jackson",
+      "character": "Sgt. Clyde Packer"
+    },
+    {
+      "id": "nm0005375",
+      "name": "Lela Rochon",
+      "character": "Nora Stark"
+    },
+    {
+      "id": "nm0335344",
+      "name": "David Marshall Grant",
+      "character": "Gov. David McAllister"
+    },
+    {
+      "id": "nm0699425",
+      "name": "Nicholas Pryor",
+      "character": "Judge Flynn F. Slattery"
+    },
+    {
+      "id": "nm0696193",
+      "name": "Harve Presnell",
+      "character": "Atty. Gen. Roxburgh"
+    },
+    {
+      "id": "nm0103071",
+      "name": "Richard Bradford",
+      "character": "Wyn Lettner"
+    },
+    {
+      "id": "nm0329659",
+      "name": "Greg Goossen",
+      "character": "J.B. Gullitt"
+    },
+    {
+      "id": "nm0411304",
+      "name": "Seth Isler",
+      "character": "Marvin B. Kramer"
+    },
+    {
+      "id": "nm0674012",
+      "name": "Millie Perkins",
+      "character": "Ruth Kramer"
+    },
+    {
+      "id": "nm0426233",
+      "name": "Sid Johnson",
+      "character": "Josh Kramer"
+    },
+    {
+      "id": "nm0424611",
+      "name": "Blake Johnson",
+      "character": "John Kramer"
+    },
+    {
+      "id": "nm0813977",
+      "name": "Josef Sommer",
+      "character": "Phelps Bowen"
+    },
+    {
+      "id": "nm0898692",
+      "name": "Leonard Vincent",
+      "character": "Lucas Mann"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 6824,
+  "year": 1996,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BM2E2ZDE4OTItOGFlMi00YmJjLWIwYjMtODAwMDdhZWQ5NGFlXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6,
+      "votes": 15951,
+      "distribution": {
+        "1": 306,
+        "2": 221,
+        "3": 452,
+        "4": 1012,
+        "5": 2776,
+        "6": 5292,
+        "7": 3574,
+        "8": 1408,
+        "9": 386,
+        "10": 524
+      },
+      "normalized": 3.615
+    },
+    "filmweb": {
+      "rating": 6.74,
+      "votes": 9078,
+      "distribution": {
+        "1": 14,
+        "2": 26,
+        "3": 98,
+        "4": 224,
+        "5": 823,
+        "6": 2184,
+        "7": 3532,
+        "8": 1716,
+        "9": 322,
+        "10": 139
+      },
+      "normalized": 4.9702
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "05.04.2008",
+      "normalized": 4.5781
+    },
+    "score": 4.3878
+  },
+  "polish_title": "Komora",
+  "silent": false,
+  "description_pl": "Adam Hall (<a href=\"/osoba/?id=nm0000563\">Chris O'Donnel</a>) jest młodym prawnikiem, świeżo po studiach. Próbuje wywalczyć ułaskawienie dla swojego dziadka skazanego na śmierć za zamordowanie dwóch żydowskich chłopców. Zabójstwo miało miejsce trzydzieści lat wcześniej, a dziadek był wtedy członkiem Ku Klux Klanu. Wnuk próbuje dociec co w rzeczywistości wydarzyło się owego feralnego dnia. Walka o uwolnienie dziadka staje się dla Adama życiowym sprawdzianem, wyzwaniem i jedynym celem.",
+  "producers": [
+    {
+      "id": "nm0204862",
+      "name": "John Davis"
+    },
+    {
+      "id": "nm0295560",
+      "name": "David T. Friendly"
+    },
+    {
+      "id": "nm0004976",
+      "name": "Brian Grazer"
+    },
+    {
+      "id": "nm0000165",
+      "name": "Ron Howard"
+    },
+    {
+      "id": "nm0444916",
+      "name": "Karen Kehela Sherwood"
+    },
+    {
+      "id": "nm0452305",
+      "name": "Ric Kidney"
+    },
+    {
+      "id": "nm0811285",
+      "name": "Karen Snow"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0001980",
+      "name": "Carter Burwell"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0048524",
+      "name": "Ian Baker"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

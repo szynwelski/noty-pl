@@ -1,0 +1,35 @@
+{
+  "id": "nm0001403",
+  "name": "Neil Jordan",
+  "filmography": [
+    {
+      "imdb_id": "tt0110148",
+      "title": "Interview with the Vampire: The Vampire Chronicles",
+      "year": 1994,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt1531901",
+      "title": "Byzantium",
+      "year": 2012,
+      "roles": [
+        "director"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjA5MDE0NjgwOV5BMl5BanBnXkFtZTcwODU2OTM4Mg@@._V1_.jpg",
+  "birth_date": "25.02.1950",
+  "birth_location": "Sligo, Ireland",
+  "imdb_scraped": true,
+  "filmweb_id": 10293,
+  "name_pl": "Neil Jordan",
+  "birth_location_pl": "Sligo",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Irlandia"
+  ],
+  "wikidata_fw_id": 10293
+}

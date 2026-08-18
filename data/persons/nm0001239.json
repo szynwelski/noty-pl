@@ -1,0 +1,48 @@
+{
+  "id": "nm0001239",
+  "name": "John Frankenheimer",
+  "filmography": [
+    {
+      "imdb_id": "tt0056218",
+      "title": "The Manchurian Candidate",
+      "year": 1962,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0122690",
+      "title": "Ronin",
+      "year": 1998,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0144214",
+      "title": "The General's Daughter",
+      "year": 1999,
+      "roles": [
+        "cast"
+      ],
+      "character": "General Sonnenberg"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjE3MTAwMDU3NF5BMl5BanBnXkFtZTYwOTUwMjc0._V1_.jpg",
+  "birth_date": "19.02.1930",
+  "death_date": "06.07.2002",
+  "birth_location": "Queens, New York City, New York, USA",
+  "height": "1.91 m",
+  "filmweb_id": 10862,
+  "name_pl": "John Frankenheimer",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 10862
+}

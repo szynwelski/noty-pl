@@ -1,0 +1,47 @@
+{
+  "id": "nm0007178",
+  "name": "Walter Lassally",
+  "filmography": [
+    {
+      "imdb_id": "tt0056194",
+      "title": "The Loneliness of the Long Distance Runner",
+      "year": 1962,
+      "roles": [
+        "cinematographer"
+      ]
+    },
+    {
+      "imdb_id": "tt0057831",
+      "title": "Zorba the Greek",
+      "year": 1964,
+      "roles": [
+        "cinematographer"
+      ]
+    },
+    {
+      "imdb_id": "tt2209418",
+      "title": "Before Midnight",
+      "year": 2013,
+      "roles": [
+        "cast"
+      ],
+      "character": "Patrick"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTU2NTAxNTEyM15BMl5BanBnXkFtZTgwNDQyMTEwNDI@._V1_.jpg",
+  "birth_date": "18.12.1926",
+  "death_date": "23.10.2017",
+  "birth_location": "Berlin, Germany",
+  "filmweb_id": 40772,
+  "name_pl": "Walter Lassally",
+  "birth_location_pl": "Berlin",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania",
+    "Niemcy",
+    "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii"
+  ],
+  "wikidata_fw_id": 40772
+}

@@ -1,0 +1,228 @@
+{
+  "imdb_id": "tt0108122",
+  "title": "Short Cuts",
+  "description": "The day-to-day lives of several suburban Los Angeles residents.",
+  "runtime_minutes": 188,
+  "release_date": "01.10.1993",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0000510",
+      "name": "Andie MacDowell"
+    },
+    {
+      "id": "nm0000194",
+      "name": "Julianne Moore"
+    },
+    {
+      "id": "nm0000209",
+      "name": "Tim Robbins"
+    },
+    {
+      "id": "nm0001117",
+      "name": "Bruce Davison"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000265",
+      "name": "Robert Altman"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0142577",
+      "name": "Raymond Carver"
+    },
+    {
+      "id": "nm0000265",
+      "name": "Robert Altman"
+    },
+    {
+      "id": "nm3004592",
+      "name": "Frank Barhydt"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000510",
+      "name": "Andie MacDowell",
+      "character": "Ann Finnigan"
+    },
+    {
+      "id": "nm0000194",
+      "name": "Julianne Moore",
+      "character": "Marian Wyman"
+    },
+    {
+      "id": "nm0000209",
+      "name": "Tim Robbins",
+      "character": "Gene Shepard"
+    },
+    {
+      "id": "nm0001117",
+      "name": "Bruce Davison",
+      "character": "Howard Finnigan"
+    },
+    {
+      "id": "nm0000493",
+      "name": "Jack Lemmon",
+      "character": "Paul Finnigan"
+    },
+    {
+      "id": "nm0144258",
+      "name": "Zane Cassidy",
+      "character": "Casey Finnigan"
+    },
+    {
+      "id": "nm0000546",
+      "name": "Matthew Modine",
+      "character": "Dr. Ralph Wyman"
+    },
+    {
+      "id": "nm0000271",
+      "name": "Anne Archer",
+      "character": "Claire Kane"
+    },
+    {
+      "id": "nm0911542",
+      "name": "Fred Ward",
+      "character": "Stuart Kane"
+    },
+    {
+      "id": "nm0000492",
+      "name": "Jennifer Jason Leigh",
+      "character": "Lois Kaiser"
+    },
+    {
+      "id": "nm0001606",
+      "name": "Chris Penn",
+      "character": "Jerry Kaiser"
+    },
+    {
+      "id": "nm0394206",
+      "name": "Joseph C. Hopkins",
+      "character": "Joe Kaiser"
+    },
+    {
+      "id": "nm0531434",
+      "name": "Josette Maccario",
+      "character": "Josette Kaiser"
+    },
+    {
+      "id": "nm0000666",
+      "name": "Lili Taylor",
+      "character": "Honey Bush"
+    },
+    {
+      "id": "nm0000375",
+      "name": "Robert Downey Jr.",
+      "character": "Bill Bush"
+    },
+    {
+      "id": "nm0000656",
+      "name": "Madeleine Stowe",
+      "character": "Sherri Shepard"
+    },
+    {
+      "id": "nm0295487",
+      "name": "Cassie Friel",
+      "character": "Sandy Shepard"
+    },
+    {
+      "id": "nm0295491",
+      "name": "Dustin Friel",
+      "character": "Will Shepard"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 1240,
+  "year": 1993,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYThkMTY5ZTgtYzc0Yy00MTZiLWE5YjUtMDAwM2E4Yjg5MmM5XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.6,
+      "votes": 50220,
+      "distribution": {
+        "1": 845,
+        "2": 470,
+        "3": 647,
+        "4": 983,
+        "5": 2178,
+        "6": 4713,
+        "7": 10103,
+        "8": 14394,
+        "9": 8735,
+        "10": 7152
+      },
+      "normalized": 6.5702
+    },
+    "filmweb": {
+      "rating": 7.54,
+      "votes": 5534,
+      "distribution": {
+        "1": 28,
+        "2": 18,
+        "3": 54,
+        "4": 102,
+        "5": 219,
+        "6": 591,
+        "7": 1369,
+        "8": 1912,
+        "9": 811,
+        "10": 430
+      },
+      "normalized": 6.6982
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "17.03.2007",
+      "normalized": 6.3474
+    },
+    "score": 6.5386
+  },
+  "polish_title": "Na skróty",
+  "silent": false,
+  "description_pl": "Współczesne Los Angeles. Kilkanaście osób z różnych warstw społecznych łączy jedynie fakt, że mieszkają w tym samym mieście. Ich losy jednak co i raz się splatają prowadząc czasem do zabawnych sytuacji, a niekiedy nawet do tragedii.",
+  "producers": [
+    {
+      "id": "nm0111225",
+      "name": "Cary Brokaw"
+    },
+    {
+      "id": "nm0124312",
+      "name": "Scott Bushnell"
+    },
+    {
+      "id": "nm0438332",
+      "name": "Mike Kaplan"
+    },
+    {
+      "id": "nm0506379",
+      "name": "David Levy"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006142",
+      "name": "Mark Isham"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0516162",
+      "name": "Walt Lloyd"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

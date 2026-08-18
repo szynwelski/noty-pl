@@ -1,0 +1,81 @@
+{
+  "imdb_id": "tt0231549",
+  "title": "European Rest Cure",
+  "description": "An American tourist has a terrible ordeal on his European vacation.",
+  "runtime_minutes": 17,
+  "release_date": "1904",
+  "genres": [
+    "Comedy",
+    "Short"
+  ],
+  "directors": [
+    {
+      "id": "nm0692105",
+      "name": "Edwin S. Porter"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "None",
+    "English"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 488077,
+  "year": 1904,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjAzNTI3MzI0Nl5BMl5BanBnXkFtZTcwMzQ1MTYzMw@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.3,
+      "votes": 262,
+      "distribution": {
+        "1": 10,
+        "2": 12,
+        "3": 28,
+        "4": 26,
+        "5": 68,
+        "6": 57,
+        "7": 39,
+        "8": 13,
+        "9": 1,
+        "10": 8
+      },
+      "normalized": 4.5682
+    },
+    "filmweb": {
+      "rating": 5.27,
+      "votes": 11,
+      "distribution": {
+        "2": 0,
+        "3": 3,
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 2,
+        "8": 2,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 5.0497
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "16.12.2016",
+      "normalized": 6.4102
+    },
+    "score": 5.3427
+  },
+  "polish_title": "European Rest Cure",
+  "silent": true,
+  "cinematographers": [
+    {
+      "id": "nm0692105",
+      "name": "Edwin S. Porter"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

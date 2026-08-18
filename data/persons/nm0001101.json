@@ -1,0 +1,29 @@
+{
+  "id": "nm0001101",
+  "name": "Ted Danson",
+  "filmography": [
+    {
+      "imdb_id": "tt0120815",
+      "title": "Saving Private Ryan",
+      "year": 1998,
+      "roles": [
+        "cast"
+      ],
+      "character": "Captain Hamill"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTYwOTQzNDM3OF5BMl5BanBnXkFtZTcwODQ3MDgzMw@@._V1_.jpg",
+  "birth_date": "29.12.1947",
+  "birth_location": "San Diego, California, USA",
+  "height": "1.87 m",
+  "imdb_scraped": true,
+  "filmweb_id": 4355,
+  "name_pl": "Ted Danson",
+  "birth_location_pl": "San Diego, Kalifornia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 4355
+}

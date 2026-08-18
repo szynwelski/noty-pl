@@ -1,0 +1,399 @@
+{
+  "imdb_id": "tt2861424",
+  "title": "Rick and Morty",
+  "description": "The fractured domestic lives of a nihilistic mad scientist and his anxious grandson are further complicated by their inter-dimensional misadventures.",
+  "runtime_minutes": 23,
+  "release_date": "02.12.2013",
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm0663177",
+      "name": "Chris Parnell"
+    },
+    {
+      "id": "nm0334561",
+      "name": "Spencer Grammer"
+    },
+    {
+      "id": "nm0149950",
+      "name": "Sarah Chalke"
+    },
+    {
+      "id": "nm1551598",
+      "name": "Justin Roiland"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0663177",
+      "name": "Chris Parnell",
+      "character": "Jerry Smith"
+    },
+    {
+      "id": "nm0334561",
+      "name": "Spencer Grammer",
+      "character": "Summer Smith"
+    },
+    {
+      "id": "nm0149950",
+      "name": "Sarah Chalke",
+      "character": "Beth Smith"
+    },
+    {
+      "id": "nm1551598",
+      "name": "Justin Roiland",
+      "character": "Rick Sanchez"
+    },
+    {
+      "id": "nm1312566",
+      "name": "Kari Wahlgren",
+      "character": "Jessica"
+    },
+    {
+      "id": "nm0444786",
+      "name": "Tom Kenny",
+      "character": "Squanchy"
+    },
+    {
+      "id": "nm0005606",
+      "name": "Maurice LaMarche",
+      "character": "Abradolph Lincler"
+    },
+    {
+      "id": "nm2466457",
+      "name": "Ryan Ridley",
+      "character": "Alien #1"
+    },
+    {
+      "id": "nm3264535",
+      "name": "Ian Cardoni",
+      "character": "Rick Sanchez"
+    },
+    {
+      "id": "nm8803649",
+      "name": "Harry Belden",
+      "character": "Morty Smith"
+    },
+    {
+      "id": "nm1363595",
+      "name": "Dan Harmon",
+      "character": "Birdperson"
+    },
+    {
+      "id": "nm0636046",
+      "name": "Nolan North",
+      "character": "Additional Voices"
+    },
+    {
+      "id": "nm1807425",
+      "name": "Brandon Johnson",
+      "character": "Mr. Goldenfold"
+    },
+    {
+      "id": "nm1041479",
+      "name": "Rob Schrab",
+      "character": "Tom Randolph"
+    },
+    {
+      "id": "nm4183062",
+      "name": "Nick Reczynski",
+      "character": "Snake Humanoid"
+    },
+    {
+      "id": "nm1012247",
+      "name": "Cassie Steele",
+      "character": "Tammy"
+    },
+    {
+      "id": "nm1082823",
+      "name": "Eric Bauza",
+      "character": "Shane"
+    },
+    {
+      "id": "nm4523855",
+      "name": "Echo Kellum",
+      "character": "Brad"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "year": 2013,
+  "type": "tvSeries",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZGQyZjk2MzMtMTcyNC00NGU3LTlmNjItNDExMWM4ZDFhYmQ2XkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 671074,
+  "ratings": {
+    "imdb": {
+      "rating": 9,
+      "votes": 707723,
+      "distribution": {
+        "1": 15020,
+        "2": 2880,
+        "3": 2807,
+        "4": 3493,
+        "5": 6401,
+        "6": 13467,
+        "7": 40879,
+        "8": 104549,
+        "9": 191459,
+        "10": 326768
+      }
+    },
+    "filmweb": {
+      "rating": 8.57,
+      "votes": 120410,
+      "distribution": {
+        "1": 722,
+        "2": 225,
+        "3": 528,
+        "4": 616,
+        "5": 1260,
+        "6": 3284,
+        "7": 11510,
+        "8": 30142,
+        "9": 42151,
+        "10": 29972
+      }
+    },
+    "jarek": {
+      "rating": 1,
+      "date_rated": "01.07.2023"
+    }
+  },
+  "polish_title": "Rick i Morty",
+  "silent": false,
+  "description_pl": "Po 20 latach milczenia Rick Sanchez nagle zjawia się pod drzwiami córki Beth, aby zamieszkać z nią i jej rodziną. Chociaż kobieta wita ojca z otwartymi rękoma, jej mąż, Jerry, nie jest już tak szczęśliwy z powodu pojawienia się teścia. Jerry ma sporo wątpliwości dotyczących Ricka, socjopatycznego naukowca, który używa ich garażu jako swojego osobistego laboratorium.",
+  "producers": [
+    {
+      "id": "nm1363595",
+      "name": "Dan Harmon"
+    },
+    {
+      "id": "nm1551598",
+      "name": "Justin Roiland"
+    },
+    {
+      "id": "nm0338215",
+      "name": "Ollie Green"
+    },
+    {
+      "id": "nm4012139",
+      "name": "Sydney Ryan"
+    },
+    {
+      "id": "nm0188443",
+      "name": "Keith Crofford"
+    },
+    {
+      "id": "nm0578821",
+      "name": "J. Michael Mendel"
+    },
+    {
+      "id": "nm0366757",
+      "name": "Lee Harting"
+    },
+    {
+      "id": "nm2396606",
+      "name": "James Siciliano"
+    },
+    {
+      "id": "nm3552502",
+      "name": "Steven Levy"
+    },
+    {
+      "id": "nm5990010",
+      "name": "Suzanne Belk"
+    },
+    {
+      "id": "nm1041479",
+      "name": "Rob Schrab"
+    },
+    {
+      "id": "nm2793398",
+      "name": "Scott Marder"
+    },
+    {
+      "id": "nm6145089",
+      "name": "Albro Lundy IV"
+    },
+    {
+      "id": "nm0751990",
+      "name": "Nicholas Rutherford"
+    },
+    {
+      "id": "nm0494020",
+      "name": "Mike Lazzo"
+    },
+    {
+      "id": "nm4597572",
+      "name": "Richard Grieve"
+    },
+    {
+      "id": "nm1454010",
+      "name": "Delna Bhesania"
+    },
+    {
+      "id": "nm1453759",
+      "name": "Barry Ward"
+    },
+    {
+      "id": "nm2466457",
+      "name": "Ryan Ridley"
+    },
+    {
+      "id": "nm2216111",
+      "name": "Heather Anne Campbell"
+    },
+    {
+      "id": "nm1740698",
+      "name": "Monica Mitchell"
+    },
+    {
+      "id": "nm4621803",
+      "name": "Alex Rubens"
+    },
+    {
+      "id": "nm4572871",
+      "name": "Jonathan Roig"
+    },
+    {
+      "id": "nm0107466",
+      "name": "Deirdre Brenner"
+    },
+    {
+      "id": "nm3014665",
+      "name": "Anne Lane"
+    },
+    {
+      "id": "nm4078504",
+      "name": "Anthony Alfonso"
+    },
+    {
+      "id": "nm1332799",
+      "name": "Joe Russo"
+    },
+    {
+      "id": "nm4155289",
+      "name": "Dan Guterman"
+    },
+    {
+      "id": "nm0572982",
+      "name": "Mike McMahan"
+    },
+    {
+      "id": "nm0592684",
+      "name": "Rick Mischel"
+    },
+    {
+      "id": "nm6289215",
+      "name": "Emily Deere"
+    },
+    {
+      "id": "nm5153408",
+      "name": "Walter Newman"
+    },
+    {
+      "id": "nm1251053",
+      "name": "Kelly Crews"
+    },
+    {
+      "id": "nm3185372",
+      "name": "Cameron Tang"
+    },
+    {
+      "id": "nm3278218",
+      "name": "Jeff Loveness"
+    },
+    {
+      "id": "nm1946485",
+      "name": "Tina Chow"
+    },
+    {
+      "id": "nm4467722",
+      "name": "David Otterby"
+    },
+    {
+      "id": "nm0278322",
+      "name": "James Fino"
+    },
+    {
+      "id": "nm1572852",
+      "name": "Jess Lacher"
+    },
+    {
+      "id": "nm3171597",
+      "name": "Tom Kauffman"
+    },
+    {
+      "id": "nm4153260",
+      "name": "Mark Van Ee"
+    },
+    {
+      "id": "nm5642271",
+      "name": "Michael Waldron"
+    },
+    {
+      "id": "nm0550825",
+      "name": "David Marshall"
+    },
+    {
+      "id": "nm4139731",
+      "name": "Beth Stelling"
+    },
+    {
+      "id": "nm4294196",
+      "name": "John Harris"
+    },
+    {
+      "id": "nm17155457",
+      "name": "Claire Finn"
+    },
+    {
+      "id": "nm6484031",
+      "name": "Tania Quiroz"
+    },
+    {
+      "id": "nm3067580",
+      "name": "Cormac Slevin"
+    },
+    {
+      "id": "nm12682706",
+      "name": "Jennifer Vogan"
+    },
+    {
+      "id": "nm3946744",
+      "name": "Matthew Enright"
+    },
+    {
+      "id": "nm7641234",
+      "name": "Aninka Jonck"
+    },
+    {
+      "id": "nm3632835",
+      "name": "Mehar Sethi"
+    },
+    {
+      "id": "nm7661237",
+      "name": "Ruchi Shah"
+    },
+    {
+      "id": "nm6773977",
+      "name": "Garrick Bernard"
+    },
+    {
+      "id": "nm0585287",
+      "name": "Kenny Micka"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

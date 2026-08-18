@@ -1,0 +1,206 @@
+{
+  "imdb_id": "tt0074626",
+  "title": "Heart of Glass",
+  "description": "The foreman of a small village glassworks dies without revealing the secret to the famous \"Ruby Glass\".",
+  "runtime_minutes": 94,
+  "release_date": "17.12.1976",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0081547",
+      "name": "Josef Bierbichler"
+    },
+    {
+      "id": "nm0351668",
+      "name": "Stefan Güttler"
+    },
+    {
+      "id": "nm0770670",
+      "name": "Clemens Scheitz"
+    },
+    {
+      "id": "nm0695711",
+      "name": "Volker Prechtel"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001348",
+      "name": "Werner Herzog"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0002157",
+      "name": "Herbert Achternbusch"
+    },
+    {
+      "id": "nm0001348",
+      "name": "Werner Herzog"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0081547",
+      "name": "Josef Bierbichler",
+      "character": "Hias"
+    },
+    {
+      "id": "nm0351668",
+      "name": "Stefan Güttler",
+      "character": "Huttenbesitzer"
+    },
+    {
+      "id": "nm0770670",
+      "name": "Clemens Scheitz",
+      "character": "Adalbert"
+    },
+    {
+      "id": "nm0695711",
+      "name": "Volker Prechtel",
+      "character": "Wudy"
+    },
+    {
+      "id": "nm0804117",
+      "name": "Sonja Skiba",
+      "character": "Ludmilla"
+    },
+    {
+      "id": "nm1283473",
+      "name": "Brunhilde Klöckner",
+      "character": "Paulin"
+    },
+    {
+      "id": "nm1282342",
+      "name": "Wolf Albrecht",
+      "character": ""
+    },
+    {
+      "id": "nm1284954",
+      "name": "Thomas Binkley",
+      "character": ""
+    },
+    {
+      "id": "nm1285022",
+      "name": "Janos Fischer",
+      "character": ""
+    },
+    {
+      "id": "nm1285029",
+      "name": "Wilhelm Friedrich",
+      "character": "Father of Glass Factory Owner"
+    },
+    {
+      "id": "nm1283135",
+      "name": "Edith Gratz",
+      "character": ""
+    },
+    {
+      "id": "nm1283300",
+      "name": "Alois Hruschka",
+      "character": ""
+    },
+    {
+      "id": "nm1283308",
+      "name": "Egmont Hugel",
+      "character": ""
+    },
+    {
+      "id": "nm2328900",
+      "name": "Sterling Jones",
+      "character": ""
+    },
+    {
+      "id": "nm1281966",
+      "name": "Karl Kaufmann",
+      "character": ""
+    },
+    {
+      "id": "nm1283498",
+      "name": "Helmut Kossick",
+      "character": ""
+    },
+    {
+      "id": "nm1285096",
+      "name": "Helmut Krüger",
+      "character": ""
+    },
+    {
+      "id": "nm0475217",
+      "name": "Wolfram Kunkel",
+      "character": ""
+    }
+  ],
+  "countries": [
+    "West Germany"
+  ],
+  "languages": [
+    "German"
+  ],
+  "color": null,
+  "filmweb_id": 31920,
+  "year": 1976,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjRiYjYzYjUtYjg0Zi00MDM2LTkzZTMtYzkwZDU5Mzc0NmE4XkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Herz aus Glas",
+  "ratings": {
+    "imdb": {
+      "rating": 6.8,
+      "votes": 7384,
+      "distribution": {
+        "1": 144,
+        "2": 122,
+        "3": 127,
+        "4": 309,
+        "5": 582,
+        "6": 1198,
+        "7": 1995,
+        "8": 1388,
+        "9": 839,
+        "10": 680
+      },
+      "normalized": 5.172
+    },
+    "filmweb": {
+      "rating": 7.31,
+      "votes": 1827,
+      "distribution": {
+        "1": 17,
+        "2": 19,
+        "3": 40,
+        "4": 59,
+        "5": 124,
+        "6": 202,
+        "7": 432,
+        "8": 493,
+        "9": 265,
+        "10": 176
+      },
+      "normalized": 6.0252
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "19.10.2005",
+      "normalized": 7.2292
+    },
+    "score": 6.1421
+  },
+  "polish_title": "Szklane serce",
+  "silent": false,
+  "description_pl": "W jednej z wiosek w dziewiętnastowiecznej Bawarii umiera wynalazca rubinowego szkła, zabierając tajemnicę dzieła swojego życia do grobu. Jego śmierć w znaczący sposób wpływa na życie mieszkańców osady. Próba odkrycia tajemnicy wyrobu szkła doprowadza do serii tragicznych wypadków. Aktorzy podczas pracy na planie zostali poddani hipnozie.\n\nNagroda za najlepszy niemiecki film na festiwalu Deutscher Filmpreis w 1977 roku.",
+  "composers": [
+    {
+      "id": "nm0691311",
+      "name": "Popol Vuh"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005860",
+      "name": "Jörg Schmidt-Reitwein"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

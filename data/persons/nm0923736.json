@@ -1,0 +1,55 @@
+{
+  "id": "nm0923736",
+  "name": "Joss Whedon",
+  "filmography": [
+    {
+      "imdb_id": "tt0118583",
+      "title": "Alien: Resurrection",
+      "year": 1997,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0379786",
+      "title": "Serenity",
+      "year": 2005,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0848228",
+      "title": "The Avengers",
+      "year": 2012,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt2395427",
+      "title": "Avengers: Age of Ultron",
+      "year": 2015,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTg5MzQ0MDA4MF5BMl5BanBnXkFtZTcwNzUwOTk4OQ@@._V1_.jpg",
+  "birth_date": "23.06.1964",
+  "birth_location": "New York City, New York, USA",
+  "height": "1.78 m",
+  "filmweb_id": 10758,
+  "name_pl": "Joss Whedon",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 10758
+}

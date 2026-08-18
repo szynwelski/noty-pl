@@ -1,0 +1,212 @@
+{
+  "imdb_id": "tt0082755",
+  "title": "Teddy Bear",
+  "description": "The paradox-filled, often darkly humorous life of the sports club chairman, navigating the absurdities of communist Poland.",
+  "runtime_minutes": 111,
+  "release_date": "04.05.1981",
+  "genres": [
+    "Comedy"
+  ],
+  "stars": [
+    {
+      "id": "nm0878957",
+      "name": "Stanislaw Tym"
+    },
+    {
+      "id": "nm0123347",
+      "name": "Barbara Burska"
+    },
+    {
+      "id": "nm0667047",
+      "name": "Christine Paul"
+    },
+    {
+      "id": "nm0468586",
+      "name": "Krzysztof Kowalewski"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0054402",
+      "name": "Stanisław Bareja"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0054402",
+      "name": "Stanisław Bareja"
+    },
+    {
+      "id": "nm0878957",
+      "name": "Stanislaw Tym"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0878957",
+      "name": "Stanislaw Tym",
+      "character": "Ryszard Ochódzki"
+    },
+    {
+      "id": "nm0123347",
+      "name": "Barbara Burska",
+      "character": "Irena Ochódzka"
+    },
+    {
+      "id": "nm0667047",
+      "name": "Christine Paul",
+      "character": "Aleksandra Kozel"
+    },
+    {
+      "id": "nm0468586",
+      "name": "Krzysztof Kowalewski",
+      "character": "Jan Hochwander"
+    },
+    {
+      "id": "nm0668037",
+      "name": "Bronislaw Pawlik",
+      "character": "'Tecza' Worker"
+    },
+    {
+      "id": "nm0069819",
+      "name": "Ewa Bem",
+      "character": "Singer"
+    },
+    {
+      "id": "nm0194462",
+      "name": "Zofia Czerwinska",
+      "character": "Candidate for Irena Ochódzka"
+    },
+    {
+      "id": "nm0432374",
+      "name": "Cezary Julski",
+      "character": "Bald-headed Woman Husband"
+    },
+    {
+      "id": "nm0480409",
+      "name": "Marian Lacz",
+      "character": "Gasman"
+    },
+    {
+      "id": "nm0586725",
+      "name": "Stanislaw Mikulski",
+      "character": "Capt. Lech Rys aka 'Uncle Dobra Rada'"
+    },
+    {
+      "id": "nm0637393",
+      "name": "Wlodzimierz Nowak",
+      "character": "Poet"
+    },
+    {
+      "id": "nm0688684",
+      "name": "Wojciech Pokora",
+      "character": "Songwriter"
+    },
+    {
+      "id": "nm0698178",
+      "name": "Eugeniusz Priwieziencew",
+      "character": "Militiaman"
+    },
+    {
+      "id": "nm0730152",
+      "name": "Eugeniusz Robaczewski",
+      "character": "Songwriter"
+    },
+    {
+      "id": "nm0803903",
+      "name": "Hanna Skarzanka",
+      "character": "Charwoman"
+    },
+    {
+      "id": "nm0820323",
+      "name": "Stefan Sródka",
+      "character": "Paluch's Pal"
+    },
+    {
+      "id": "nm0877010",
+      "name": "Jerzy Turek",
+      "character": "Second Class Coach Waclaw Jarzabek"
+    },
+    {
+      "id": "nm0913582",
+      "name": "Andrzej Wasilewicz",
+      "character": "Man with Mother"
+    }
+  ],
+  "countries": [
+    "Poland"
+  ],
+  "languages": [
+    "Polish",
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 896,
+  "year": 1981,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BY2I4ZTU1MmYtOTE1OS00OTIwLTg5ZTAtMzA0NjU4OTkzYjZkXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Mis",
+  "ratings": {
+    "imdb": {
+      "rating": 8.2,
+      "votes": 7245,
+      "distribution": {
+        "1": 215,
+        "2": 46,
+        "3": 66,
+        "4": 105,
+        "5": 191,
+        "6": 409,
+        "7": 950,
+        "8": 1631,
+        "9": 1364,
+        "10": 2268
+      },
+      "normalized": 7.5978
+    },
+    "filmweb": {
+      "rating": 7.78,
+      "votes": 348785,
+      "distribution": {
+        "1": 3570,
+        "2": 2062,
+        "3": 4638,
+        "4": 6979,
+        "5": 13733,
+        "6": 28692,
+        "7": 68331,
+        "8": 99976,
+        "9": 62870,
+        "10": 57934
+      },
+      "normalized": 7.662
+    },
+    "jarek": {
+      "rating": 8,
+      "date_rated": "02.01.2011",
+      "normalized": 7.8989
+    },
+    "michal": {
+      "rating": 8,
+      "date_rated": "19.10.2005",
+      "normalized": 8.1116
+    },
+    "score": 7.8176
+  },
+  "polish_title": "Miś",
+  "silent": false,
+  "description_pl": "Komedia złożona z groteskowych epizodów ukazujących rozpad PRL-owskiego systemu. Liczne sceny z barów mlecznych, urzędów i sklepów ujawniają absurd codziennej egzystencji Polaków. Wokół historii Ochódzkiego (<a href=\"/osoba/?id=nm0878957\">Stanisław Tym</a>) narasta wiele ważnych, małych opowieści charakteryzujących rzeczywistość początku lat osiemdziesiątych.",
+  "composers": [
+    {
+      "id": "nm0220334",
+      "name": "Jerzy Derfel"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0434230",
+      "name": "Zdzislaw Kaczmarek"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

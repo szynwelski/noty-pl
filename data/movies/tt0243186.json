@@ -1,0 +1,97 @@
+{
+  "imdb_id": "tt0243186",
+  "title": "Cock Fight, No. 2",
+  "description": "Two gamecocks are fighting inside a wire cage, while two spectators look on in the background. The two men agree to make a bet on the outcome. One of them shows his money to the other, who is commenting on the fight.",
+  "runtime_minutes": 1,
+  "release_date": "15.01.1894",
+  "genres": [
+    "Short"
+  ],
+  "stars": [
+    {
+      "id": "nm0920663",
+      "name": "Henry Welton"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0005690",
+      "name": "William K.L. Dickson"
+    },
+    {
+      "id": "nm0374658",
+      "name": "William Heise"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0920663",
+      "name": "Henry Welton",
+      "character": "Self"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 270598,
+  "year": 1894,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYjJiMjU5YjMtY2VkOS00ZWE2LTlkZDgtOGQ2ZDIzMDJkMWQ4XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 3.9,
+      "votes": 568,
+      "distribution": {
+        "1": 86,
+        "2": 51,
+        "3": 64,
+        "4": 125,
+        "5": 118,
+        "6": 64,
+        "7": 16,
+        "8": 18,
+        "9": 3,
+        "10": 23
+      },
+      "normalized": 3.2077
+    },
+    "filmweb": {
+      "rating": 3.6,
+      "votes": 57,
+      "distribution": {
+        "1": 12,
+        "2": 6,
+        "3": 11,
+        "4": 12,
+        "5": 8,
+        "6": 3,
+        "7": 1,
+        "8": 2,
+        "9": 1,
+        "10": 1
+      },
+      "normalized": 4.2507
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "11.12.2016",
+      "normalized": 5.6855
+    },
+    "score": 4.3813
+  },
+  "polish_title": "Cock Fight, No. 2",
+  "silent": true,
+  "description_pl": "Ten krótki film pokazuje walkę dwóch kogutów oraz zakłady widzów tego pojedynku.",
+  "cinematographers": [
+    {
+      "id": "nm0374658",
+      "name": "William Heise"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

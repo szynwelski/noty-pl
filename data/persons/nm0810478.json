@@ -1,0 +1,29 @@
+{
+  "id": "nm0810478",
+  "name": "John Smithson",
+  "filmography": [
+    {
+      "imdb_id": "tt0379557",
+      "title": "Touching the Void",
+      "year": 2003,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt1542344",
+      "title": "127 Hours",
+      "year": 2010,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "birth_date": "1952",
+  "birth_location": "England, United Kingdom",
+  "imdb_scraped": true,
+  "filmweb_id": 138644,
+  "name_pl": "John Smithson",
+  "gender": "M",
+  "wikidata_processed": true
+}

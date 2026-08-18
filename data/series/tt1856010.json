@@ -1,0 +1,353 @@
+{
+  "imdb_id": "tt1856010",
+  "title": "House of Cards",
+  "description": "A Congressman works with his equally conniving wife to exact revenge on the people who betrayed him.",
+  "runtime_minutes": 50,
+  "release_date": "01.02.2013",
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000228",
+      "name": "Kevin Spacey"
+    },
+    {
+      "id": "nm0318703",
+      "name": "Michel Gill"
+    },
+    {
+      "id": "nm0000705",
+      "name": "Robin Wright"
+    },
+    {
+      "id": "nm0544718",
+      "name": "Kate Mara"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000228",
+      "name": "Kevin Spacey",
+      "character": "Francis Underwood"
+    },
+    {
+      "id": "nm0318703",
+      "name": "Michel Gill",
+      "character": "President Garrett Walker"
+    },
+    {
+      "id": "nm0000705",
+      "name": "Robin Wright",
+      "character": "Claire Underwood"
+    },
+    {
+      "id": "nm0446672",
+      "name": "Michael Kelly",
+      "character": "Doug Stamper"
+    },
+    {
+      "id": "nm2858333",
+      "name": "Justin Doescher",
+      "character": "Frank Underwood Security"
+    },
+    {
+      "id": "nm0147689",
+      "name": "Derek Cecil",
+      "character": "Seth Grayson"
+    },
+    {
+      "id": "nm0040739",
+      "name": "Jayne Atkinson",
+      "character": "Catherine Durant"
+    },
+    {
+      "id": "nm2080557",
+      "name": "Nathan Darrow",
+      "character": "Edward Meechum"
+    },
+    {
+      "id": "nm0991810",
+      "name": "Mahershala Ali",
+      "character": "Remy Danton"
+    },
+    {
+      "id": "nm0569409",
+      "name": "Boris McGiver",
+      "character": "Tom Hammerschmidt"
+    },
+    {
+      "id": "nm0817027",
+      "name": "Paul Sparks",
+      "character": "Thomas Yates"
+    },
+    {
+      "id": "nm0662504",
+      "name": "Molly Parker",
+      "character": "Jackie Sharp"
+    },
+    {
+      "id": "nm0000117",
+      "name": "Neve Campbell",
+      "character": "Leann Harvey"
+    },
+    {
+      "id": "nm3124435",
+      "name": "Jeremy Holm",
+      "character": "Nathan Green"
+    },
+    {
+      "id": "nm6443305",
+      "name": "Marla Aaron Wapner",
+      "character": "WH Press Corp"
+    },
+    {
+      "id": "nm5005896",
+      "name": "Nini Le Huynh",
+      "character": "Claire's Assistant"
+    },
+    {
+      "id": "nm5472893",
+      "name": "Gregory Divers",
+      "character": "White House Press Corps"
+    },
+    {
+      "id": "nm0555500",
+      "name": "Elizabeth Marvel",
+      "character": "Heather Dunbar"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 696516,
+  "year": 2013,
+  "type": "tvSeries",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQ4MDczNDYwNV5BMl5BanBnXkFtZTcwNjMwMDk5OA@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8.6,
+      "votes": 562074,
+      "distribution": {
+        "1": 7938,
+        "2": 1639,
+        "3": 2015,
+        "4": 3120,
+        "5": 6747,
+        "6": 16253,
+        "7": 49888,
+        "8": 123356,
+        "9": 183721,
+        "10": 167397
+      }
+    },
+    "filmweb": {
+      "rating": 4.67,
+      "votes": 12,
+      "distribution": {
+        "1": 1,
+        "2": 2,
+        "3": 3,
+        "4": 2,
+        "5": 0,
+        "6": 0,
+        "7": 1,
+        "8": 0,
+        "9": 3,
+        "10": 0
+      }
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "07.01.2014"
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "12.08.2024"
+    }
+  },
+  "polish_title": "House Of Cards",
+  "silent": false,
+  "producers": [
+    {
+      "id": "nm0116232",
+      "name": "Dana Brunetti"
+    },
+    {
+      "id": "nm0000399",
+      "name": "David Fincher"
+    },
+    {
+      "id": "nm2724053",
+      "name": "Robert Zotnowski"
+    },
+    {
+      "id": "nm0203577",
+      "name": "Andrew Davies"
+    },
+    {
+      "id": "nm0229645",
+      "name": "Michael Dobbs"
+    },
+    {
+      "id": "nm0232433",
+      "name": "Joshua Donen"
+    },
+    {
+      "id": "nm0744839",
+      "name": "Eric Roth"
+    },
+    {
+      "id": "nm0000228",
+      "name": "Kevin Spacey"
+    },
+    {
+      "id": "nm2802722",
+      "name": "Beau Willimon"
+    },
+    {
+      "id": "nm0542535",
+      "name": "John Mankiewicz"
+    },
+    {
+      "id": "nm0961577",
+      "name": "Frank Pugliese"
+    },
+    {
+      "id": "nm1682083",
+      "name": "Hameed Shaukat"
+    },
+    {
+      "id": "nm5966976",
+      "name": "Jay Carson"
+    },
+    {
+      "id": "nm0000705",
+      "name": "Robin Wright"
+    },
+    {
+      "id": "nm3521294",
+      "name": "Melissa James Gibson"
+    },
+    {
+      "id": "nm0539184",
+      "name": "Boris Malden"
+    },
+    {
+      "id": "nm0561423",
+      "name": "Peter Mavromates"
+    },
+    {
+      "id": "nm0006904",
+      "name": "Tony Gilroy"
+    },
+    {
+      "id": "nm3613351",
+      "name": "Elliot Kahan"
+    },
+    {
+      "id": "nm5940483",
+      "name": "Kenneth Lin"
+    },
+    {
+      "id": "nm3610572",
+      "name": "Elizabeth A. Lyons"
+    },
+    {
+      "id": "nm0166498",
+      "name": "Rick Cleveland"
+    },
+    {
+      "id": "nm3542197",
+      "name": "Keith Huff"
+    },
+    {
+      "id": "nm0565200",
+      "name": "Karyn McCarthy"
+    },
+    {
+      "id": "nm0577644",
+      "name": "John P. Melfi"
+    },
+    {
+      "id": "nm2920012",
+      "name": "Sarah Treem"
+    },
+    {
+      "id": "nm0543911",
+      "name": "David Manson"
+    },
+    {
+      "id": "nm0665494",
+      "name": "Iain Paterson"
+    },
+    {
+      "id": "nm0171315",
+      "name": "John David Coles"
+    },
+    {
+      "id": "nm1027122",
+      "name": "Karen Moore"
+    },
+    {
+      "id": "nm0247495",
+      "name": "Laura Eason"
+    },
+    {
+      "id": "nm5620591",
+      "name": "Bill Kennedy"
+    },
+    {
+      "id": "nm0517753",
+      "name": "Jack LoGiudice"
+    },
+    {
+      "id": "nm0590889",
+      "name": "Daniel Minahan"
+    },
+    {
+      "id": "nm3420752",
+      "name": "Jesse Rose-Smith"
+    },
+    {
+      "id": "nm2842577",
+      "name": "Jerome Hairston"
+    },
+    {
+      "id": "nm1545084",
+      "name": "Joe Hipps"
+    },
+    {
+      "id": "nm0395842",
+      "name": "Jason Horwitch"
+    },
+    {
+      "id": "nm0442080",
+      "name": "Amy J. Kaufman"
+    },
+    {
+      "id": "nm3105180",
+      "name": "Charlotte Stoudt"
+    },
+    {
+      "id": "nm0178078",
+      "name": "H.H. Cooper"
+    },
+    {
+      "id": "nm7608333",
+      "name": "Wolfgang Hammer"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0063618",
+      "name": "Jeff Beal"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

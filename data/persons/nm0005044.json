@@ -1,0 +1,49 @@
+{
+  "id": "nm0005044",
+  "name": "Jonathan Jackson",
+  "filmography": [
+    {
+      "imdb_id": "tt0120646",
+      "title": "The Deep End of the Ocean",
+      "year": 1999,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Vincent (age 16)"
+    },
+    {
+      "imdb_id": "tt0278504",
+      "title": "Insomnia",
+      "year": 2002,
+      "roles": [
+        "cast"
+      ],
+      "character": "Randy Stetz"
+    },
+    {
+      "imdb_id": "tt0283084",
+      "title": "Tuck Everlasting",
+      "year": 2002,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Jesse Tuck"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BM2RhODExOWEtYTFjNS00YTI0LTkzYWItZGM5ZDQ4ZTFiNGU5XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "11.05.1982",
+  "birth_location": "Orlando, Florida, USA",
+  "height": "1.75 m",
+  "filmweb_id": 47243,
+  "name_pl": "Jonathan Jackson",
+  "birth_location_pl": "Orlando, Floryda",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 47243
+}

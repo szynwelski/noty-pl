@@ -1,0 +1,46 @@
+{
+  "id": "nm0081697",
+  "name": "Chief John Big Tree",
+  "filmography": [
+    {
+      "imdb_id": "tt0015016",
+      "title": "The Iron Horse",
+      "year": 1924,
+      "roles": [
+        "cast"
+      ],
+      "character": "Cheyenne Chief"
+    },
+    {
+      "imdb_id": "tt0029162",
+      "title": "Lost Horizon",
+      "year": 1937,
+      "roles": [
+        "cast"
+      ],
+      "character": "Porter"
+    },
+    {
+      "imdb_id": "tt0031971",
+      "title": "Stagecoach",
+      "year": 1939,
+      "roles": [
+        "cast"
+      ],
+      "character": "Indian Scout"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDI0MjQ3NDY0OV5BMl5BanBnXkFtZTcwMzA3NjcxMw@@._V1_.jpg",
+  "birth_date": "02.06.1877",
+  "death_date": "06.07.1967",
+  "birth_location": "Buffalo, New York, USA",
+  "filmweb_id": 199743,
+  "name_pl": "Chief John Big Tree",
+  "birth_location_pl": "Michigan",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

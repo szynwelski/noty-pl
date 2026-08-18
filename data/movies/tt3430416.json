@@ -1,0 +1,205 @@
+{
+  "imdb_id": "tt3430416",
+  "title": "Schneider vs. Bax",
+  "description": "On his birthday, a hitman reluctantly takes on the easy task of killing a writer, only to find the job a lot more difficult than expected.",
+  "runtime_minutes": 96,
+  "release_date": "28.05.2015",
+  "genres": [
+    "Comedy",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0212423",
+      "name": "Tom Dewispelaere"
+    },
+    {
+      "id": "nm0912334",
+      "name": "Alex van Warmerdam"
+    },
+    {
+      "id": "nm0469083",
+      "name": "Maria Kraakman"
+    },
+    {
+      "id": "nm0078517",
+      "name": "Gene Bervoets"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0912334",
+      "name": "Alex van Warmerdam"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0912334",
+      "name": "Alex van Warmerdam"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0212423",
+      "name": "Tom Dewispelaere",
+      "character": "Schneider"
+    },
+    {
+      "id": "nm0912334",
+      "name": "Alex van Warmerdam",
+      "character": "Ramon Bax"
+    },
+    {
+      "id": "nm0469083",
+      "name": "Maria Kraakman",
+      "character": "Francisca"
+    },
+    {
+      "id": "nm0078517",
+      "name": "Gene Bervoets",
+      "character": "Mertens"
+    },
+    {
+      "id": "nm0539482",
+      "name": "Annet Malherbe",
+      "character": "Gina"
+    },
+    {
+      "id": "nm0092592",
+      "name": "Pierre Bokma",
+      "character": "Bolek"
+    },
+    {
+      "id": "nm0305488",
+      "name": "Henri Garcin",
+      "character": "Gerard"
+    },
+    {
+      "id": "nm2156780",
+      "name": "Loes Haverkort",
+      "character": "Lucy"
+    },
+    {
+      "id": "nm1235052",
+      "name": "Eva van de Wijdeven",
+      "character": "Nadine"
+    },
+    {
+      "id": "nm7216007",
+      "name": "Ali Zijlstra",
+      "character": "Loetje"
+    },
+    {
+      "id": "nm0720642",
+      "name": "Mike Reus",
+      "character": "Supervisor"
+    },
+    {
+      "id": "nm3417880",
+      "name": "Bart Harder",
+      "character": "Jules"
+    },
+    {
+      "id": "nm7216005",
+      "name": "Fay Bakker",
+      "character": "Oldest Daughter"
+    },
+    {
+      "id": "nm7216006",
+      "name": "Rosa Bakker",
+      "character": "Youngest Daughter"
+    },
+    {
+      "id": "nm7216008",
+      "name": "Renzo van Cleemputte",
+      "character": "Blind boy"
+    }
+  ],
+  "countries": [
+    "Netherlands"
+  ],
+  "languages": [
+    "Dutch"
+  ],
+  "color": "Color",
+  "filmweb_id": 736782,
+  "year": 2015,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzIyNDI5MDM1N15BMl5BanBnXkFtZTgwMjM0ODk1NTE@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.6,
+      "votes": 3592,
+      "distribution": {
+        "1": 71,
+        "2": 43,
+        "3": 81,
+        "4": 140,
+        "5": 332,
+        "6": 772,
+        "7": 1181,
+        "8": 712,
+        "9": 160,
+        "10": 100
+      },
+      "normalized": 4.7896
+    },
+    "filmweb": {
+      "rating": 6.13,
+      "votes": 739,
+      "distribution": {
+        "1": 9,
+        "2": 5,
+        "3": 33,
+        "4": 60,
+        "5": 104,
+        "6": 208,
+        "7": 199,
+        "8": 86,
+        "9": 26,
+        "10": 9
+      },
+      "normalized": 4.0946
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "12.10.2020",
+      "normalized": 4.9718
+    },
+    "score": 4.6187
+  },
+  "polish_title": "Schneider kontra Bax",
+  "silent": false,
+  "description_pl": "Schneider (<a href=\"/osoba/?id=nm0212423\">Tom Dewispelaere</a>), zabójca na zlecenie, w dniu swoich urodzin otrzymuje od szefa ważne zadanie. Celem jest Ramon Bax (Alex van Warmerdam) - pisarz, który mieszka samotnie w odizolowanym miejscu. Dzięki zapewnieniu, że przy odrobinie szczęścia wróci do domu przed południem i będzie mógł pomóc żonie w przygotowaniach do wieczornej kolacji, Schneider przyjmuje zlecenie. Jednak pozornie prosta do wykonania robota okazuje się być czymś więcej, niż oczekiwał...",
+  "producers": [
+    {
+      "id": "nm2284422",
+      "name": "Eurydice Gysel"
+    },
+    {
+      "id": "nm0607831",
+      "name": "Koen Mortier"
+    },
+    {
+      "id": "nm0912337",
+      "name": "Marc van Warmerdam"
+    },
+    {
+      "id": "nm0888376",
+      "name": "Berry van Zwieten"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0912334",
+      "name": "Alex van Warmerdam"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0259445",
+      "name": "Tom Erisman"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

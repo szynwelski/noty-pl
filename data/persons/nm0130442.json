@@ -1,0 +1,45 @@
+{
+  "id": "nm0130442",
+  "name": "John Callen",
+  "filmography": [
+    {
+      "imdb_id": "tt0903624",
+      "title": "The Hobbit: An Unexpected Journey",
+      "year": 2012,
+      "roles": [
+        "cast"
+      ],
+      "character": "Oin"
+    },
+    {
+      "imdb_id": "tt1170358",
+      "title": "The Hobbit: The Desolation of Smaug",
+      "year": 2013,
+      "roles": [
+        "cast"
+      ],
+      "character": "Oin"
+    },
+    {
+      "imdb_id": "tt2310332",
+      "title": "The Hobbit: The Battle of the Five Armies",
+      "year": 2014,
+      "roles": [
+        "cast"
+      ],
+      "character": "Oin"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjI2MzAxOTA2MV5BMl5BanBnXkFtZTcwMDMxOTA5OA@@._V1_.jpg",
+  "height": "1.81 m",
+  "imdb_scraped": true,
+  "filmweb_id": 308002,
+  "name_pl": "John Callen",
+  "birth_location_pl": "Londyn, Anglia",
+  "birth_date": "04.11.1946",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ]
+}

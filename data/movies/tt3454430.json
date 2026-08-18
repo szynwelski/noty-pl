@@ -1,0 +1,115 @@
+{
+  "imdb_id": "tt3454430",
+  "title": "Echoes of Time",
+  "description": "The greatest human delusion is the illusion that man is free.",
+  "runtime_minutes": 92,
+  "release_date": "11.10.2014",
+  "genres": [
+    "Drama",
+    "Fantasy"
+  ],
+  "stars": [
+    {
+      "id": "nm0541804",
+      "name": "Marko Mandic"
+    },
+    {
+      "id": "nm0559119",
+      "name": "Natasa Matjasec"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm3608210",
+      "name": "Ema Kugler"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm3608210",
+      "name": "Ema Kugler"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0541804",
+      "name": "Marko Mandic",
+      "character": "The Ruler"
+    },
+    {
+      "id": "nm0559119",
+      "name": "Natasa Matjasec",
+      "character": "Rulers Alter-ego"
+    }
+  ],
+  "countries": [
+    "Slovenia"
+  ],
+  "languages": [
+    "Slovenian"
+  ],
+  "color": "Color",
+  "filmweb_id": 724387,
+  "year": 2014,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNWE2ZTIzMTctODE2Yy00MmFmLTg2MGMtMDE5OGI0ZjZmMjQ0XkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Odmevi casa",
+  "ratings": {
+    "imdb": {
+      "rating": 4.5,
+      "votes": 23,
+      "distribution": {
+        "1": 5,
+        "2": 1,
+        "3": 5,
+        "4": 4,
+        "5": 3,
+        "6": 2,
+        "7": 0,
+        "8": 0,
+        "9": 1,
+        "10": 2
+      },
+      "normalized": 5.1753
+    },
+    "filmweb": {
+      "rating": 3.68,
+      "votes": 19,
+      "distribution": {
+        "1": 6,
+        "2": 3,
+        "3": 3,
+        "4": 0,
+        "5": 2,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "9": 2,
+        "10": 0
+      },
+      "normalized": 4.7605
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "22.12.2018",
+      "normalized": 5.6855
+    },
+    "score": 5.2071
+  },
+  "polish_title": "Echa czasu",
+  "silent": false,
+  "description_pl": "Największym na świecie złudzeniem jest wolność jednostki. Poetycki film słoweńskiej artystki, ze scenami z pogranicza jawy i snu. Jak mówi twórczyni to wyrób \"hand made\" - film zrobiony przez jedną osobę.",
+  "composers": [
+    {
+      "id": "nm1633608",
+      "name": "Robert Jisa"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm2992921",
+      "name": "Janez Stucin"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,133 @@
+{
+  "imdb_id": "tt0055499",
+  "title": "Through a Glass Darkly",
+  "description": "Recently released from a mental hospital, Karin rejoins her emotionally disconnected family in their island home, only to slip from reality as she begins to believe she is being visited by God.",
+  "runtime_minutes": 90,
+  "release_date": "16.10.1961",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0027683",
+      "name": "Harriet Andersson"
+    },
+    {
+      "id": "nm0085038",
+      "name": "Gunnar Björnstrand"
+    },
+    {
+      "id": "nm0001884",
+      "name": "Max von Sydow"
+    },
+    {
+      "id": "nm0664885",
+      "name": "Lars Passgård"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000005",
+      "name": "Ingmar Bergman"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000005",
+      "name": "Ingmar Bergman"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0027683",
+      "name": "Harriet Andersson",
+      "character": "Karin"
+    },
+    {
+      "id": "nm0085038",
+      "name": "Gunnar Björnstrand",
+      "character": "David"
+    },
+    {
+      "id": "nm0001884",
+      "name": "Max von Sydow",
+      "character": "Martin"
+    },
+    {
+      "id": "nm0664885",
+      "name": "Lars Passgård",
+      "character": "Minus"
+    }
+  ],
+  "countries": [
+    "Sweden"
+  ],
+  "languages": [
+    "Swedish",
+    "Latin"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 31668,
+  "year": 1961,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMThmYzA0MjEtOTU1Yi00YTk4LThlNjEtN2MwZThiOGIxNWViXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Såsom i en spegel",
+  "ratings": {
+    "imdb": {
+      "rating": 7.9,
+      "votes": 29642,
+      "distribution": {
+        "1": 525,
+        "2": 198,
+        "3": 262,
+        "4": 372,
+        "5": 775,
+        "6": 2051,
+        "7": 5486,
+        "8": 9320,
+        "9": 5867,
+        "10": 4786
+      },
+      "normalized": 7.1191
+    },
+    "filmweb": {
+      "rating": 7.73,
+      "votes": 7914,
+      "distribution": {
+        "1": 149,
+        "2": 16,
+        "3": 46,
+        "4": 71,
+        "5": 227,
+        "6": 567,
+        "7": 1692,
+        "8": 2828,
+        "9": 1618,
+        "10": 700
+      },
+      "normalized": 7.2799
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "16.04.2008",
+      "normalized": 5.4199
+    },
+    "score": 6.6063
+  },
+  "polish_title": "Jak w zwierciadle",
+  "silent": false,
+  "description_pl": "Film jest pierwszym z tzw. trylogii pionowej <a href=\"/osoba/?id=nm0000005\">Bergmana</a>, następne to \"<a href=\"/film/?id=tt0057358\">Goście Wieczerzy Pańskiej</a>\" i \"<a href=\"/film/?id=tt0057611\">Milczenie</a>\". Bohaterka filmu, Karin cierpi na schizofrenię. Spędza kilka dni w letnim domku na skalistej wyspie. Razem z nią są tutaj jej mąż - lekarz, kilkunastoletni brat i jej ojciec, znany pisarz. Jej choroba wyzwala wśród obecnych różne postawy, egoizm ojca, obojętność męża. Tylko jej młody brat stara się zrozumieć siostrę.",
+  "composers": [
+    {
+      "id": "nm0635059",
+      "name": "Erik Nordgren"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005815",
+      "name": "Sven Nykvist"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

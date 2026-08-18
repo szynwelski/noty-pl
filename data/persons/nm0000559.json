@@ -1,0 +1,40 @@
+{
+  "id": "nm0000559",
+  "name": "Leonard Nimoy",
+  "filmography": [
+    {
+      "imdb_id": "tt0796366",
+      "title": "Star Trek",
+      "year": 2009,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Spock Prime"
+    },
+    {
+      "imdb_id": "tt1408101",
+      "title": "Star Trek Into Darkness",
+      "year": 2013,
+      "roles": [
+        "cast"
+      ],
+      "character": "Spock Prime"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTIzMzY1MzEyNV5BMl5BanBnXkFtZTYwNjU4MTg1._V1_.jpg",
+  "birth_date": "26.03.1931",
+  "death_date": "27.02.2015",
+  "birth_location": "Boston, Massachusetts, USA",
+  "height": "1.82 m",
+  "imdb_scraped": true,
+  "filmweb_id": 45066,
+  "name_pl": "Leonard Nimoy",
+  "birth_location_pl": "Boston, Massachusetts",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 45066
+}

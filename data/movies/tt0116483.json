@@ -1,0 +1,232 @@
+{
+  "imdb_id": "tt0116483",
+  "title": "Happy Gilmore",
+  "description": "After his grandmother's house is repossessed by the IRS, a bad tempered hockey player takes his talents to golf to earn the big bucks and get his grandmothers house back.",
+  "runtime_minutes": 92,
+  "release_date": "16.02.1996",
+  "genres": [
+    "Comedy",
+    "Sport"
+  ],
+  "stars": [
+    {
+      "id": "nm0001191",
+      "name": "Adam Sandler"
+    },
+    {
+      "id": "nm0001520",
+      "name": "Christopher McDonald"
+    },
+    {
+      "id": "nm0100866",
+      "name": "Julie Bowen"
+    },
+    {
+      "id": "nm0062844",
+      "name": "Frances Bay"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0240797",
+      "name": "Dennis Dugan"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0379056",
+      "name": "Tim Herlihy"
+    },
+    {
+      "id": "nm0001191",
+      "name": "Adam Sandler"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0001191",
+      "name": "Adam Sandler",
+      "character": "Happy Gilmore"
+    },
+    {
+      "id": "nm0001520",
+      "name": "Christopher McDonald",
+      "character": "Shooter"
+    },
+    {
+      "id": "nm0100866",
+      "name": "Julie Bowen",
+      "character": "Virginia"
+    },
+    {
+      "id": "nm0062844",
+      "name": "Frances Bay",
+      "character": "Grandma"
+    },
+    {
+      "id": "nm0001835",
+      "name": "Carl Weathers",
+      "character": "Chubbs"
+    },
+    {
+      "id": "nm0184445",
+      "name": "Allen Covert",
+      "character": "Otto"
+    },
+    {
+      "id": "nm0806912",
+      "name": "Robert Smigel",
+      "character": "IRS Agent"
+    },
+    {
+      "id": "nm0054837",
+      "name": "Bob Barker",
+      "character": "Bob Barker"
+    },
+    {
+      "id": "nm0001423",
+      "name": "Richard Kiel",
+      "character": "Mr. Larson"
+    },
+    {
+      "id": "nm0240797",
+      "name": "Dennis Dugan",
+      "character": "Doug Thompson"
+    },
+    {
+      "id": "nm0280886",
+      "name": "Joe Flaherty",
+      "character": "Jeering Fan"
+    },
+    {
+      "id": "nm0005504",
+      "name": "Lee Trevino",
+      "character": "Lee Trevino"
+    },
+    {
+      "id": "nm0005265",
+      "name": "Kevin Nealon",
+      "character": "Potter"
+    },
+    {
+      "id": "nm0526564",
+      "name": "Verne Lundquist",
+      "character": "Announcer"
+    },
+    {
+      "id": "nm0888006",
+      "name": "Jared Van Snellenberg",
+      "character": "Happy's Waterbury Caddy"
+    },
+    {
+      "id": "nm0133400",
+      "name": "Ken Camroux-Taylor",
+      "character": "Coach"
+    },
+    {
+      "id": "nm0255908",
+      "name": "Rich Elwood",
+      "character": "Assistant Coach"
+    },
+    {
+      "id": "nm0566028",
+      "name": "Nancy Hillis",
+      "character": "Terry"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 6039,
+  "year": 1996,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzMyZTM1MTMtNDdjOS00NzIzLTkxY2QtZTU4OGYxOTUwNDMxXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7,
+      "votes": 311120,
+      "distribution": {
+        "1": 3037,
+        "2": 2343,
+        "3": 3876,
+        "4": 7728,
+        "5": 19267,
+        "6": 49824,
+        "7": 97173,
+        "8": 67144,
+        "9": 28870,
+        "10": 31858
+      },
+      "normalized": 5.5985
+    },
+    "filmweb": {
+      "rating": 6.5,
+      "votes": 45528,
+      "distribution": {
+        "1": 200,
+        "2": 318,
+        "3": 1014,
+        "4": 2133,
+        "5": 5411,
+        "6": 12293,
+        "7": 14801,
+        "8": 6459,
+        "9": 1665,
+        "10": 1234
+      },
+      "normalized": 4.3268
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "02.12.2005",
+      "normalized": 4.9718
+    },
+    "score": 4.9657
+  },
+  "polish_title": "Farciarz Gilmore",
+  "silent": false,
+  "description_pl": "Gilmore (<a href=\"/osoba/?id=nm0001191\">Adam Sandler</a>) chce zostać hokeistą, jednak co rok jest odrzucany w eliminacjach. Pewnego dnia dowiaduje się, że urząd skarbowy chce zlicytować dom jego babci (<a href=\"/osoba/?id=nm0062844\">Frances Bay</a>). Podczas wyprowadzki zakłada się z tragarzami o to, kto dalej odbije piłeczkę golfową. Ponieważ wygrał zakład postanawia, że w ten sposób odzyska pieniądze na niezapłacony podatek. No i tak trafia do turnieju golfowego.",
+  "producers": [
+    {
+      "id": "nm0109401",
+      "name": "Bernie Brillstein"
+    },
+    {
+      "id": "nm0139893",
+      "name": "Warren Carr"
+    },
+    {
+      "id": "nm0316406",
+      "name": "Jack Giarraputo"
+    },
+    {
+      "id": "nm0340522",
+      "name": "Brad Grey"
+    },
+    {
+      "id": "nm0800465",
+      "name": "Robert Simonds"
+    },
+    {
+      "id": "nm0921523",
+      "name": "Sandy Wernick"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006205",
+      "name": "Mark Mothersbaugh"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0016473",
+      "name": "Arthur Albert"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

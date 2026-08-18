@@ -1,0 +1,149 @@
+{
+  "imdb_id": "tt4677358",
+  "title": "Sniag",
+  "description": "Snow is a film for the choice, betrayal and forgiveness between brothers and sons, narrated on the background of the harsh reality in an abandoned place.",
+  "runtime_minutes": 80,
+  "release_date": "09.10.2015",
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0227389",
+      "name": "Plamen Velikov"
+    },
+    {
+      "id": "nm1004253",
+      "name": "Krassimir Dokov"
+    },
+    {
+      "id": "nm0945771",
+      "name": "Vladimir Yamnenko"
+    },
+    {
+      "id": "nm3437226",
+      "name": "Ovanes Torosian"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0890505",
+      "name": "Ventsislav Vasilev"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0890505",
+      "name": "Ventsislav Vasilev"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0227389",
+      "name": "Plamen Velikov",
+      "character": "Bobi"
+    },
+    {
+      "id": "nm1004253",
+      "name": "Krassimir Dokov",
+      "character": "Liubaka"
+    },
+    {
+      "id": "nm0945771",
+      "name": "Vladimir Yamnenko",
+      "character": "Chico Gosho"
+    },
+    {
+      "id": "nm3437226",
+      "name": "Ovanes Torosian",
+      "character": "Marti"
+    },
+    {
+      "id": "nm8145471",
+      "name": "Konstantin Asenov",
+      "character": "Bobi - young age"
+    },
+    {
+      "id": "nm7880179",
+      "name": "Ivana Papazova",
+      "character": "Lover"
+    },
+    {
+      "id": "nm2853596",
+      "name": "Biser Marinov",
+      "character": "Security at the post office"
+    }
+  ],
+  "countries": [
+    "Bulgaria",
+    "Ukraine"
+  ],
+  "languages": [
+    "Bulgarian",
+    "Russian",
+    "Ukrainian"
+  ],
+  "color": "Color",
+  "filmweb_id": 751064,
+  "year": 2015,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYmJlYmFlOTItYjFmOC00YTdkLTk4NzQtOWRlMDNmZDRiMzQxXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.4,
+      "votes": 70,
+      "distribution": {
+        "1": 8,
+        "2": 3,
+        "3": 3,
+        "4": 7,
+        "5": 9,
+        "6": 14,
+        "7": 4,
+        "8": 3,
+        "9": 1,
+        "10": 18
+      },
+      "normalized": 5.2345
+    },
+    "filmweb": {
+      "rating": 5.59,
+      "votes": 34,
+      "distribution": {
+        "2": 0,
+        "3": 7,
+        "4": 1,
+        "5": 8,
+        "6": 7,
+        "7": 7,
+        "8": 2,
+        "9": 2,
+        "10": 0
+      },
+      "normalized": 4.8663
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "03.01.2019",
+      "normalized": 6.4102
+    },
+    "score": 5.5037
+  },
+  "polish_title": "Śnieg",
+  "silent": false,
+  "description_pl": "Dwaj bracia, Lyubaka i Gosho oraz ich synowie, Bobby i Marti napadają na pocztę. Po kradzieży Lyubaka ucieka z łupem. Wkrótce zostanie znaleziony martwy, a pieniądze znikną bez śladu. Pozostali zrobią wszystko, by je szybko odnaleźć. Bobby chce także wyjaśnić sprawę śmierci ojca. Jednak aby to zrobić, musi cofnąć się do smutnych wspomnień z domu rodzinnego. To tam trzeba szukać korzeni skomplikowanych relacji pomiędzy czterema mężczyznami. Kiedy wydarzenia, jak puzzle, zaczną pasować do siebie, Bobby odkrywa przerażającą prawdę i staje przed trudnym wyborem - pomścić śmierć ojca czy przebaczyć?",
+  "composers": [
+    {
+      "id": "nm1823632",
+      "name": "Kaloyan Dimitrov"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm1585763",
+      "name": "Dimitar Kostov"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

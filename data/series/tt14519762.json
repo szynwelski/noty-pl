@@ -1,0 +1,162 @@
+{
+  "imdb_id": "tt14519762",
+  "title": "Life Hutch",
+  "description": "When his ship is damaged in battle, a combat pilot crash-lands on a desolate planet. Fortunately there's an automated shelter on the surface he can take refuge in until rescue arrives - if he can survive that long.",
+  "runtime_minutes": 13,
+  "release_date": "14.05.2021",
+  "genres": [
+    "Animation",
+    "Short",
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Drama",
+    "Fantasy",
+    "Horror",
+    "Mystery",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0430107",
+      "name": "Michael B. Jordan"
+    },
+    {
+      "id": "nm0094636",
+      "name": "Michelle C. Bonilla"
+    },
+    {
+      "id": "nm1281932",
+      "name": "Brian T. Delaney"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm7924254",
+      "name": "Alex Beaty"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0255196",
+      "name": "Harlan Ellison"
+    },
+    {
+      "id": "nm3664884",
+      "name": "Philip Gelatt"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0430107",
+      "name": "Michael B. Jordan",
+      "character": "Terence"
+    },
+    {
+      "id": "nm0094636",
+      "name": "Michelle C. Bonilla",
+      "character": "Commander"
+    },
+    {
+      "id": "nm1281932",
+      "name": "Brian T. Delaney",
+      "character": "Pilot"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "year": 2021,
+  "type": "tvEpisode",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZTE5MTljZTEtZTIyMS00NjQzLWFjODUtMjkyZDIxMzhlNjI3XkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 824633,
+  "ratings": {
+    "imdb": {
+      "rating": 6.5,
+      "votes": 12185,
+      "distribution": {
+        "1": 204,
+        "2": 156,
+        "3": 248,
+        "4": 512,
+        "5": 1417,
+        "6": 3183,
+        "7": 3667,
+        "8": 1693,
+        "9": 538,
+        "10": 567
+      }
+    },
+    "filmweb": {
+      "rating": 7.94,
+      "votes": 54233,
+      "distribution": {
+        "1": 98,
+        "2": 90,
+        "3": 250,
+        "4": 388,
+        "5": 1135,
+        "6": 3408,
+        "7": 10946,
+        "8": 20253,
+        "9": 13148,
+        "10": 4517
+      }
+    },
+    "jarek": {
+      "rating": 3,
+      "date_rated": "31.10.2022"
+    }
+  },
+  "polish_title": "Miłość, śmierć i roboty",
+  "silent": false,
+  "description_pl": "\"Miłość, śmierć i roboty\" to seria krótkich animowanych opowieści należących do różnych gatunków - science fiction, fantasy, horroru i komedii. Opowiedziane w śmiały sposób historie ogląda się przyjemnie, a losy ich bohaterów przez długi czas pozostają w pamięci. Historie tworzą pierwszą antologię animowanych opowieści, która dostarczy widzom niezapomnianych i poruszających do głębi wrażeń.",
+  "producers": [
+    {
+      "id": "nm1619667",
+      "name": "Samantha Finkler Brainerd"
+    },
+    {
+      "id": "nm0232433",
+      "name": "Joshua Donen"
+    },
+    {
+      "id": "nm0000399",
+      "name": "David Fincher"
+    },
+    {
+      "id": "nm2126361",
+      "name": "Victoria L. Howard"
+    },
+    {
+      "id": "nm10380524",
+      "name": "Jennifer Miller"
+    },
+    {
+      "id": "nm1783265",
+      "name": "Tim Miller"
+    },
+    {
+      "id": "nm0793276",
+      "name": "Al Shier"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm1052252",
+      "name": "Rob Cairns"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm1092952",
+      "name": "Ken Seng"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

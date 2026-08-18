@@ -1,0 +1,46 @@
+{
+  "id": "nm0327273",
+  "name": "Michel Gondry",
+  "filmography": [
+    {
+      "imdb_id": "tt0338013",
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "year": 2004,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0354899",
+      "title": "The Science of Sleep",
+      "year": 2006,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0990407",
+      "title": "The Green Hornet",
+      "year": 2011,
+      "roles": [
+        "director"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjEwNDg3MDA1MF5BMl5BanBnXkFtZTcwMDAxMzc1MQ@@._V1_.jpg",
+  "birth_date": "08.05.1963",
+  "birth_location": "Versailles, Seine-et-Oise [now Yvelines], France",
+  "height": "1.78 m",
+  "filmweb_id": 42660,
+  "name_pl": "Michel Gondry",
+  "birth_location_pl": "Wersal",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja"
+  ]
+}

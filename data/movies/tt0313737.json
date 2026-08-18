@@ -1,0 +1,226 @@
+{
+  "imdb_id": "tt0313737",
+  "title": "Two Weeks Notice",
+  "description": "A lawyer decides that she's used too much like a nanny by her boss, so she walks out on him.",
+  "runtime_minutes": 101,
+  "release_date": "20.12.2002",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0000113",
+      "name": "Sandra Bullock"
+    },
+    {
+      "id": "nm0000424",
+      "name": "Hugh Grant"
+    },
+    {
+      "id": "nm0001860",
+      "name": "Alicia Witt"
+    },
+    {
+      "id": "nm0412374",
+      "name": "Dana Ivey"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0492909",
+      "name": "Marc Lawrence"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0492909",
+      "name": "Marc Lawrence"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000113",
+      "name": "Sandra Bullock",
+      "character": "Lucy Kelson"
+    },
+    {
+      "id": "nm0000424",
+      "name": "Hugh Grant",
+      "character": "George Wade"
+    },
+    {
+      "id": "nm0001860",
+      "name": "Alicia Witt",
+      "character": "June Carver"
+    },
+    {
+      "id": "nm0412374",
+      "name": "Dana Ivey",
+      "character": "Ruth Kelson"
+    },
+    {
+      "id": "nm0458951",
+      "name": "Robert Klein",
+      "character": "Larry Kelson"
+    },
+    {
+      "id": "nm0122688",
+      "name": "Heather Burns",
+      "character": "Meryl Brooks"
+    },
+    {
+      "id": "nm0354069",
+      "name": "David Haig",
+      "character": "Howard Wade"
+    },
+    {
+      "id": "nm0592923",
+      "name": "Dorian Missick",
+      "character": "Tony"
+    },
+    {
+      "id": "nm0045935",
+      "name": "Joseph Badalucco Jr.",
+      "character": "Construction Foreman"
+    },
+    {
+      "id": "nm0230731",
+      "name": "Jonathan Dokuchitz",
+      "character": "Tom"
+    },
+    {
+      "id": "nm0185274",
+      "name": "Veanne Cox",
+      "character": "Melanie Corman"
+    },
+    {
+      "id": "nm1293256",
+      "name": "Janine LaManna",
+      "character": "Elaine Cominsky"
+    },
+    {
+      "id": "nm0688840",
+      "name": "Iraida Polanco",
+      "character": "Rosario"
+    },
+    {
+      "id": "nm0537426",
+      "name": "Charlotte Maier",
+      "character": "Helen Wade"
+    },
+    {
+      "id": "nm0935395",
+      "name": "Katheryn Winnick",
+      "character": "Tiffany"
+    },
+    {
+      "id": "nm0031529",
+      "name": "Jason Antoon",
+      "character": "Norman"
+    },
+    {
+      "id": "nm0615525",
+      "name": "Rocco Musacchia",
+      "character": "Fisherman"
+    },
+    {
+      "id": "nm1293221",
+      "name": "Wynter Kullman",
+      "character": "Tyler"
+    }
+  ],
+  "countries": [
+    "United States",
+    "Australia"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 35915,
+  "year": 2002,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzNlMTBiNDctOGJmYS00ZTk2LTgwY2QtNjFmNTFlODIwYzYyXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.2,
+      "votes": 134446,
+      "distribution": {
+        "1": 2549,
+        "2": 2322,
+        "3": 3705,
+        "4": 8141,
+        "5": 20026,
+        "6": 37540,
+        "7": 31846,
+        "8": 15431,
+        "9": 5762,
+        "10": 7124
+      },
+      "normalized": 3.9357
+    },
+    "filmweb": {
+      "rating": 6.56,
+      "votes": 82427,
+      "distribution": {
+        "1": 163,
+        "2": 327,
+        "3": 1423,
+        "4": 3514,
+        "5": 9741,
+        "6": 22740,
+        "7": 27241,
+        "8": 12142,
+        "9": 2950,
+        "10": 2186
+      },
+      "normalized": 4.4446
+    },
+    "jarek": {
+      "rating": 3,
+      "date_rated": "02.02.2018",
+      "normalized": 4.2591
+    },
+    "michal": {
+      "rating": 3,
+      "date_rated": "28.10.2005",
+      "normalized": 3.8753
+    },
+    "score": 4.1287
+  },
+  "polish_title": "Dwa tygodnie na miłość",
+  "silent": false,
+  "description_pl": "Film opowiada o młodej prawniczce, Lucy Kelson, która jest przeciwniczką burzenia starych, zabytkowych budynków. Zawiera umowę z bardzo bogatym i popularnym Georgem Wadem, który musi zburzyć jeden z ulubionych budynków Lucy. George całkowicie uzależnia się od Lucy. Pragnie, aby podejmowała za niego wszystkie, nawet nieistotne, decyzje. Lucy postanawia odejść z firmy, ale odkrywa że zakochała się w George'u i tak naprawdę chce z nim być.",
+  "producers": [
+    {
+      "id": "nm0075732",
+      "name": "Bruce Berman"
+    },
+    {
+      "id": "nm0000113",
+      "name": "Sandra Bullock"
+    },
+    {
+      "id": "nm0253523",
+      "name": "Scott Elias"
+    },
+    {
+      "id": "nm0572131",
+      "name": "Mary McLaglen"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0694173",
+      "name": "John Powell"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0004088",
+      "name": "László Kovács"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

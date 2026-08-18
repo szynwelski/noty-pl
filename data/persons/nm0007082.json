@@ -1,0 +1,37 @@
+{
+  "id": "nm0007082",
+  "name": "John Stockwell",
+  "filmography": [
+    {
+      "imdb_id": "tt0092099",
+      "title": "Top Gun",
+      "year": 1986,
+      "roles": [
+        "cast"
+      ],
+      "character": "Cougar"
+    },
+    {
+      "imdb_id": "tt0250224",
+      "title": "Crazy/Beautiful",
+      "year": 2001,
+      "roles": [
+        "director"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTAxNDUxNDk1N15BMl5BanBnXkFtZTYwNDAzOTg0._V1_.jpg",
+  "birth_date": "25.03.1961",
+  "birth_location": "Galveston, Texas, USA",
+  "height": "1.75 m",
+  "imdb_scraped": true,
+  "filmweb_id": 8106,
+  "name_pl": "John Stockwell",
+  "birth_location_pl": "Galveston, Teksas",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 8106
+}

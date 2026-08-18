@@ -1,0 +1,54 @@
+{
+  "id": "nm0111845",
+  "name": "Adam Brooks",
+  "filmography": [
+    {
+      "imdb_id": "tt0113117",
+      "title": "French Kiss",
+      "year": 1995,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0360201",
+      "title": "Wimbledon",
+      "year": 2004,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0832266",
+      "title": "Definitely, Maybe",
+      "year": 2008,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt1178663",
+      "title": "Whatever Works",
+      "year": 2009,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Boris' Friend"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNmY5MWU1ZDYtMDBkYy00M2I3LWJjYmEtOTY3ZjdmYjhlZjM5XkEyXkFqcGc@._V1_.jpg",
+  "image_url_small": "https://m.media-amazon.com/images/M/MV5BNmY5MWU1ZDYtMDBkYy00M2I3LWJjYmEtOTY3ZjdmYjhlZjM5XkEyXkFqcGc@._V1_CR69,62,724,1086_.jpg",
+  "birth_location": "Toronto, Ontario, Canada",
+  "imdb_scraped": true,
+  "filmweb_id": 40855,
+  "name_pl": "Adam Brooks",
+  "birth_location_pl": "Toronto",
+  "gender": "M",
+  "wikidata_processed": true,
+  "birth_date": "03.09.1956",
+  "nationality": [
+    "Kanada"
+  ]
+}

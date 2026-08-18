@@ -1,0 +1,39 @@
+{
+  "id": "nm0926599",
+  "name": "May Whitty",
+  "filmography": [
+    {
+      "imdb_id": "tt0030341",
+      "title": "The Lady Vanishes",
+      "year": 1938,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Miss Froy"
+    },
+    {
+      "imdb_id": "tt0034248",
+      "title": "Suspicion",
+      "year": 1941,
+      "roles": [
+        "cast"
+      ],
+      "character": "Mrs. McLaidlaw"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTc2NTIxMDQ4N15BMl5BanBnXkFtZTcwNTY4NDYwOA@@._V1_.jpg",
+  "birth_date": "19.06.1865",
+  "death_date": "29.05.1948",
+  "birth_location": "Liverpool, Merseyside, England, UK",
+  "imdb_scraped": true,
+  "filmweb_id": 61172,
+  "name_pl": "May Whitty",
+  "birth_location_pl": "Liverpool, Anglia",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 61172
+}

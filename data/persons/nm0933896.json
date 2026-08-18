@@ -1,0 +1,43 @@
+{
+  "id": "nm0933896",
+  "name": "Nancy Wilson",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTMzOTk3NjE2NV5BMl5BanBnXkFtZTcwNDk3ODU0Mw@@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0116695",
+      "title": "Jerry Maguire",
+      "year": 1996,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt0181875",
+      "title": "Almost Famous",
+      "year": 2000,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt0259711",
+      "title": "Vanilla Sky",
+      "year": 2001,
+      "roles": [
+        "composer"
+      ]
+    }
+  ],
+  "birth_date": "16.03.1954",
+  "birth_location": "San Francisco, California, USA",
+  "height": "1.60 m",
+  "filmweb_id": 11500,
+  "name_pl": "Nancy Wilson",
+  "birth_location_pl": "San Francisco, Kalifornia",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

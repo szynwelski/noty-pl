@@ -1,0 +1,29 @@
+{
+  "id": "nm0123347",
+  "name": "Barbara Burska",
+  "filmography": [
+    {
+      "imdb_id": "tt0082755",
+      "title": "Teddy Bear",
+      "year": 1981,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Irena Ochódzka"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZTA1ZGRkYTItMWI1Mi00ZDMzLThiNzktNGU3Njk3YWMxNDUyXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "06.05.1947",
+  "birth_location": "Warsaw, Mazowieckie, Poland",
+  "imdb_scraped": true,
+  "filmweb_id": 7025,
+  "name_pl": "Barbara Burska",
+  "birth_location_pl": "Warszawa",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Polska"
+  ],
+  "wikidata_fw_id": 7025
+}

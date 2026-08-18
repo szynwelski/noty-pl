@@ -1,0 +1,37 @@
+{
+  "id": "nm0493200",
+  "name": "Denis Lawson",
+  "filmography": [
+    {
+      "imdb_id": "tt0076759",
+      "title": "Star Wars: Episode IV - A New Hope",
+      "year": 1977,
+      "roles": [
+        "cast"
+      ],
+      "character": "Red Two (Wedge)"
+    },
+    {
+      "imdb_id": "tt0086190",
+      "title": "Star Wars: Episode VI - Return of the Jedi",
+      "year": 1983,
+      "roles": [
+        "cast"
+      ],
+      "character": "Wedge"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQyMDE3NjA0OF5BMl5BanBnXkFtZTcwNDY0MTUwOA@@._V1_.jpg",
+  "birth_date": "27.09.1947",
+  "birth_location": "Crieff, Perthshire, Scotland, UK",
+  "height": "1.73 m",
+  "imdb_scraped": true,
+  "filmweb_id": 78387,
+  "name_pl": "Denis Lawson",
+  "birth_location_pl": "Crieff, Szkocja",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ]
+}

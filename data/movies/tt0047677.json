@@ -1,0 +1,211 @@
+{
+  "imdb_id": "tt0047677",
+  "title": "The Wild One",
+  "description": "Two rival motorcycle gangs terrorize a small town after one of their leaders is thrown in jail.",
+  "runtime_minutes": 79,
+  "release_date": "1954",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0000008",
+      "name": "Marlon Brando"
+    },
+    {
+      "id": "nm0614500",
+      "name": "Mary Murphy"
+    },
+    {
+      "id": "nm0445290",
+      "name": "Robert Keith"
+    },
+    {
+      "id": "nm0001511",
+      "name": "Lee Marvin"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0070670",
+      "name": "Laslo Benedek"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0668122",
+      "name": "John Paxton"
+    },
+    {
+      "id": "nm0740316",
+      "name": "Frank Rooney"
+    },
+    {
+      "id": "nm0534693",
+      "name": "Ben Maddow"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000008",
+      "name": "Marlon Brando",
+      "character": "Johnny Strabler"
+    },
+    {
+      "id": "nm0614500",
+      "name": "Mary Murphy",
+      "character": "Kathie Bleeker"
+    },
+    {
+      "id": "nm0445290",
+      "name": "Robert Keith",
+      "character": "Sheriff Harry Bleeker"
+    },
+    {
+      "id": "nm0001511",
+      "name": "Lee Marvin",
+      "character": "Chino"
+    },
+    {
+      "id": "nm0282435",
+      "name": "Jay C. Flippen",
+      "character": "Sheriff Stew Singer"
+    },
+    {
+      "id": "nm0539439",
+      "name": "Peggy Maley",
+      "character": "Mildred"
+    },
+    {
+      "id": "nm0761576",
+      "name": "Hugh Sanders",
+      "character": "Charlie Thomas"
+    },
+    {
+      "id": "nm0853576",
+      "name": "Ray Teal",
+      "character": "Frank Bleeker"
+    },
+    {
+      "id": "nm0113876",
+      "name": "John Brown",
+      "character": "Bill Hannegan"
+    },
+    {
+      "id": "nm0942926",
+      "name": "Will Wright",
+      "character": "Art Kleiner"
+    },
+    {
+      "id": "nm0652366",
+      "name": "Robert Osterloh",
+      "character": "Ben - Gas Station Attendant"
+    },
+    {
+      "id": "nm0891648",
+      "name": "William Vedder",
+      "character": "Jimmy - Dishwasher"
+    },
+    {
+      "id": "nm0234918",
+      "name": "Yvonne Doughty",
+      "character": "Britches"
+    },
+    {
+      "id": "nm0017044",
+      "name": "Wally Albright",
+      "character": "Cyclist"
+    },
+    {
+      "id": "nm0017108",
+      "name": "Chris Alcaide",
+      "character": "Deputy"
+    },
+    {
+      "id": "nm0026629",
+      "name": "Don Anderson",
+      "character": "Stinger"
+    },
+    {
+      "id": "nm0026426",
+      "name": "Robert Anderson",
+      "character": "Highway Patrolman at Sage Valley Race"
+    },
+    {
+      "id": "nm0080948",
+      "name": "Robert Bice",
+      "character": "Wilson"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 5313,
+  "year": 1953,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYjIyMmE2ZWQtOTIzMi00YThlLThkNzYtOTAzMDA2N2QwODQ1XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.7,
+      "votes": 19259,
+      "distribution": {
+        "1": 203,
+        "2": 137,
+        "3": 246,
+        "4": 614,
+        "5": 1487,
+        "6": 4149,
+        "7": 6660,
+        "8": 3414,
+        "9": 1072,
+        "10": 1277
+      },
+      "normalized": 4.9644
+    },
+    "filmweb": {
+      "rating": 6.62,
+      "votes": 4970,
+      "distribution": {
+        "1": 69,
+        "2": 26,
+        "3": 79,
+        "4": 177,
+        "5": 538,
+        "6": 1290,
+        "7": 1600,
+        "8": 748,
+        "9": 226,
+        "10": 217
+      },
+      "normalized": 4.6464
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "18.12.2005",
+      "normalized": 4.5781
+    },
+    "score": 4.7296
+  },
+  "polish_title": "Dziki",
+  "silent": false,
+  "description_pl": "Scenariusz filmu oparto na książce Franka Rooneya, która z kolei odnosiła się do prawdziwych wydarzeń. W roku 1947 cztery tysiące młodych ludzi na motorach opanowało i zdewastowało kalifornijskie miasteczko Hollister. Bohaterem jest charyzmatyczny Johnny, który przewodzi włóczącej się po autostradach bandzie pod nazwą Black Rebels. Pojawienie się grupy motocyklistów w małym, spokojnym miasteczku wywołuje panikę wśród mieszkańców. Kiedy do miasteczka zjeżdża wrogo nastawiony gang, dramatyczny rozwój wypadków jest już tylko kwestią czasu.",
+  "composers": [
+    {
+      "id": "nm0006302",
+      "name": "Leith Stevens"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005803",
+      "name": "Hal Mohr"
+    }
+  ],
+  "fetched_at": "2026-08-15"
+}

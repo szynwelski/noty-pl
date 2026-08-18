@@ -1,0 +1,237 @@
+{
+  "imdb_id": "tt0057076",
+  "title": "From Russia with Love",
+  "description": "James Bond willingly inserts himself into an assassination plot involving a naive Russian beauty in order to retrieve a Soviet encryption device that was stolen by the evil SPECTRE organization.",
+  "runtime_minutes": 115,
+  "release_date": "27.05.1964",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000125",
+      "name": "Sean Connery"
+    },
+    {
+      "id": "nm0001727",
+      "name": "Robert Shaw"
+    },
+    {
+      "id": "nm0502322",
+      "name": "Lotte Lenya"
+    },
+    {
+      "id": "nm0000938",
+      "name": "Daniela Bianchi"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0950109",
+      "name": "Terence Young"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0537363",
+      "name": "Richard Maibaum"
+    },
+    {
+      "id": "nm0367820",
+      "name": "Johanna Harwood"
+    },
+    {
+      "id": "nm0001220",
+      "name": "Ian Fleming"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000125",
+      "name": "Sean Connery",
+      "character": "James Bond"
+    },
+    {
+      "id": "nm0001727",
+      "name": "Robert Shaw",
+      "character": "Grant"
+    },
+    {
+      "id": "nm0502322",
+      "name": "Lotte Lenya",
+      "character": "Rosa Klebb"
+    },
+    {
+      "id": "nm0000938",
+      "name": "Daniela Bianchi",
+      "character": "Tatiana"
+    },
+    {
+      "id": "nm0000784",
+      "name": "Pedro Armendáriz",
+      "character": "Kerim Bey"
+    },
+    {
+      "id": "nm0496866",
+      "name": "Bernard Lee",
+      "character": "'M'"
+    },
+    {
+      "id": "nm0311013",
+      "name": "Eunice Gayson",
+      "character": "Sylvia"
+    },
+    {
+      "id": "nm0331770",
+      "name": "Walter Gotell",
+      "character": "Morzeny"
+    },
+    {
+      "id": "nm0212470",
+      "name": "Francis De Wolff",
+      "character": "Vavra"
+    },
+    {
+      "id": "nm0664965",
+      "name": "George Pastell",
+      "character": "Train Conductor"
+    },
+    {
+      "id": "nm0716605",
+      "name": "Nadja Regin",
+      "character": "Kerim's Girl"
+    },
+    {
+      "id": "nm0561755",
+      "name": "Lois Maxwell",
+      "character": "Miss Moneypenny"
+    },
+    {
+      "id": "nm0348518",
+      "name": "Aliza Gur",
+      "character": "Vida"
+    },
+    {
+      "id": "nm0000936",
+      "name": "Martine Beswick",
+      "character": "Zora"
+    },
+    {
+      "id": "nm0792996",
+      "name": "Vladek Sheybal",
+      "character": "Kronsteen"
+    },
+    {
+      "id": "nm0206060",
+      "name": "Anthony Dawson",
+      "character": "Ernst Blofeld"
+    },
+    {
+      "id": "nm0347493",
+      "name": "Lisa Guiraut",
+      "character": "Gypsy Dancer"
+    },
+    {
+      "id": "nm0149194",
+      "name": "Hasan Ceylan",
+      "character": "Foreign Agent"
+    }
+  ],
+  "countries": [
+    "United Kingdom",
+    "United States",
+    "Italy",
+    "Turkey"
+  ],
+  "languages": [
+    "English",
+    "Russian",
+    "Turkish",
+    "French",
+    "Romany",
+    "Italian"
+  ],
+  "color": "Color",
+  "filmweb_id": 815,
+  "year": 1963,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMWY2MWY2ODAtMTY5Ny00MzA2LWFkMWYtODU2MjE0MmM4ZTQ4XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.3,
+      "votes": 160264,
+      "distribution": {
+        "1": 678,
+        "2": 426,
+        "3": 842,
+        "4": 2070,
+        "5": 6620,
+        "6": 20895,
+        "7": 52824,
+        "8": 45650,
+        "9": 16377,
+        "10": 13882
+      },
+      "normalized": 6.0876
+    },
+    "filmweb": {
+      "rating": 7.21,
+      "votes": 51977,
+      "distribution": {
+        "1": 113,
+        "2": 75,
+        "3": 283,
+        "4": 744,
+        "5": 2550,
+        "6": 8110,
+        "7": 19607,
+        "8": 14631,
+        "9": 3491,
+        "10": 2373
+      },
+      "normalized": 6.0367
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "22.12.2011",
+      "normalized": 4.9718
+    },
+    "score": 5.6987
+  },
+  "polish_title": "Pozdrowienia z Rosji",
+  "silent": false,
+  "description_pl": "<a href=\"/osoba/?id=nm0000125\">Sean Connery</a> powraca jako James Bond, tym razem w konfrontacji z groźną organizacją WIDMO. Śmiertelna rywalizacja dotyczy przejęcia kontroli nad Lektorem -  radziecką maszyną dekodującą wszelkie szyfry. Misja Bonda jak zwykle obfituje w mrożące krew w żyłach pościgi i walki, ze słynną sceną bójki w Orient Expressie. James Bond kolejny raz daje dowód, że agenta 007 nie da się powstrzymać!",
+  "producers": [
+    {
+      "id": "nm0110482",
+      "name": "Albert R. Broccoli"
+    },
+    {
+      "id": "nm6250365",
+      "name": "John Lowry"
+    },
+    {
+      "id": "nm0759162",
+      "name": "Harry Saltzman"
+    },
+    {
+      "id": "nm0814621",
+      "name": "Stanley Sopel"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0000290",
+      "name": "John Barry"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0601924",
+      "name": "Ted Moore"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

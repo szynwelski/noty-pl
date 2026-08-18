@@ -1,0 +1,238 @@
+{
+  "imdb_id": "tt1854564",
+  "title": "Percy Jackson: Sea of Monsters",
+  "description": "In order to restore their dying safe haven, the son of Poseidon and his friends embark on a quest to the Sea of Monsters, to find the mythical Golden Fleece, all the while trying to stop an ancient evil from rising.",
+  "runtime_minutes": 106,
+  "release_date": "07.08.2013",
+  "genres": [
+    "Adventure",
+    "Family",
+    "Fantasy"
+  ],
+  "stars": [
+    {
+      "id": "nm0503567",
+      "name": "Logan Lerman"
+    },
+    {
+      "id": "nm1275259",
+      "name": "Alexandra Daddario"
+    },
+    {
+      "id": "nm1040365",
+      "name": "Brandon T. Jackson"
+    },
+    {
+      "id": "nm0277213",
+      "name": "Nathan Fillion"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0294457",
+      "name": "Thor Freudenthal"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0973233",
+      "name": "Marc Guggenheim"
+    },
+    {
+      "id": "nm2292894",
+      "name": "Rick Riordan"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0503567",
+      "name": "Logan Lerman",
+      "character": "Percy Jackson"
+    },
+    {
+      "id": "nm1275259",
+      "name": "Alexandra Daddario",
+      "character": "Annabeth"
+    },
+    {
+      "id": "nm1040365",
+      "name": "Brandon T. Jackson",
+      "character": "Grover"
+    },
+    {
+      "id": "nm0808022",
+      "name": "Douglas Smith",
+      "character": "Tyson"
+    },
+    {
+      "id": "nm1628079",
+      "name": "Leven Rambin",
+      "character": "Clarisse"
+    },
+    {
+      "id": "nm1831976",
+      "name": "Jake Abel",
+      "character": "Luke"
+    },
+    {
+      "id": "nm0372117",
+      "name": "Anthony Head",
+      "character": "Chiron"
+    },
+    {
+      "id": "nm0001804",
+      "name": "Stanley Tucci",
+      "character": "Mr. D"
+    },
+    {
+      "id": "nm1470338",
+      "name": "Connor Dunn",
+      "character": "Tereus"
+    },
+    {
+      "id": "nm4485819",
+      "name": "Paloma Kwiatkowski",
+      "character": "Thalia"
+    },
+    {
+      "id": "nm0277213",
+      "name": "Nathan Fillion",
+      "character": "Hermes"
+    },
+    {
+      "id": "nm3851019",
+      "name": "Alisha Newton",
+      "character": "Young Annabeth"
+    },
+    {
+      "id": "nm2584620",
+      "name": "Bjorn Yearwood",
+      "character": "Young Grover"
+    },
+    {
+      "id": "nm5074027",
+      "name": "Samuel Braun",
+      "character": "Young Luke"
+    },
+    {
+      "id": "nm3393791",
+      "name": "Katelyn Mager",
+      "character": "Young Thalia"
+    },
+    {
+      "id": "nm0083487",
+      "name": "Mary Birdsong",
+      "character": "Gray Sister #1"
+    },
+    {
+      "id": "nm1304328",
+      "name": "Yvette Nicole Brown",
+      "character": "Gray Sister #2"
+    },
+    {
+      "id": "nm0701512",
+      "name": "Missi Pyle",
+      "character": "Gray Sister #3"
+    }
+  ],
+  "countries": [
+    "United States",
+    "Canada"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 589034,
+  "year": 2013,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMGMyZTI2MjUtODEzMi00M2JlLWEwZGEtYWE5MmY5OWNkYTRjXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.7,
+      "votes": 135457,
+      "distribution": {
+        "1": 4365,
+        "2": 3667,
+        "3": 6354,
+        "4": 11724,
+        "5": 24170,
+        "6": 34680,
+        "7": 23420,
+        "8": 11151,
+        "9": 4606,
+        "10": 11320
+      },
+      "normalized": 3.1018
+    },
+    "filmweb": {
+      "rating": 6.33,
+      "votes": 58773,
+      "distribution": {
+        "1": 542,
+        "2": 796,
+        "3": 2325,
+        "4": 3980,
+        "5": 8628,
+        "6": 14750,
+        "7": 14629,
+        "8": 7675,
+        "9": 2712,
+        "10": 2736
+      },
+      "normalized": 3.9531
+    },
+    "jarek": {
+      "rating": 3,
+      "date_rated": "03.01.2016",
+      "normalized": 4.2591
+    },
+    "score": 3.7713
+  },
+  "polish_title": "Percy Jackson: Morze potworów",
+  "silent": false,
+  "description_pl": "Drugi film  z serii ekranizacji cyklu bestsellerowych książek Ricka Riordana; Percy  Jackson, potomek bogów greckich, wyrusza na wyprawę, by odnaleźć bezcenne  złote runo, a po drodze czekają go niezwykłe przygody i niewyobrażalne  niebezpieczeństwa, a wśród nich starcie z morskimi potworami. W roli  głównej: <a href=\"/osoba/?id=nm0503567\">Logan Lerman</a> (\"<a href=\"/film/?id=tt1509767\">Trzej muszkieterowie 3D</a>\"). Reżyseria: Thor Freudenthal (\"Hotel dla psów\", \"Dziennik cwaniaczka\").",
+  "producers": [
+    {
+      "id": "nm0003806",
+      "name": "Bill Bannerman"
+    },
+    {
+      "id": "nm0055431",
+      "name": "Michael Barnathan"
+    },
+    {
+      "id": "nm0001060",
+      "name": "Chris Columbus"
+    },
+    {
+      "id": "nm0363200",
+      "name": "Jeffrey Harlacker"
+    },
+    {
+      "id": "nm0604878",
+      "name": "Mark Morgan"
+    },
+    {
+      "id": "nm0705365",
+      "name": "Mark Radcliffe"
+    },
+    {
+      "id": "nm1651942",
+      "name": "Karen Rosenfelt"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0516908",
+      "name": "Andrew Lockington"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0426224",
+      "name": "Shelly Johnson"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

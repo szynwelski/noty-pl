@@ -1,0 +1,80 @@
+{
+  "imdb_id": "tt5285442",
+  "title": "Mosquinha",
+  "description": "Shot of the flight of a fly.",
+  "runtime_minutes": 1,
+  "release_date": "04.03.1890",
+  "genres": [
+    "Short"
+  ],
+  "directors": [
+    {
+      "id": "nm4620889",
+      "name": "Étienne-Jules Marey"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 704819,
+  "year": 1890,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZTRiODYyZGQtMDMxOS00ZTA3LTgwNzUtOTM5MTc5N2Q4NTZkXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.4,
+      "votes": 848,
+      "distribution": {
+        "1": 38,
+        "2": 24,
+        "3": 14,
+        "4": 40,
+        "5": 119,
+        "6": 217,
+        "7": 190,
+        "8": 93,
+        "9": 37,
+        "10": 76
+      },
+      "normalized": 4.7823
+    },
+    "filmweb": {
+      "rating": 5.29,
+      "votes": 94,
+      "distribution": {
+        "1": 10,
+        "2": 4,
+        "3": 5,
+        "4": 11,
+        "5": 20,
+        "6": 18,
+        "7": 8,
+        "8": 10,
+        "9": 4,
+        "10": 4
+      },
+      "normalized": 4.4294
+    },
+    "jarek": {
+      "rating": 8,
+      "date_rated": "11.12.2016",
+      "normalized": 7.8989
+    },
+    "score": 5.7035
+  },
+  "polish_title": "Mosquinha",
+  "silent": true,
+  "cinematographers": [
+    {
+      "id": "nm4620889",
+      "name": "Étienne-Jules Marey"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

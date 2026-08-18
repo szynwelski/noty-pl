@@ -1,0 +1,39 @@
+{
+  "id": "nm1067825",
+  "name": "John Swihart",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNjRmMzM3MmEtZWJiYy00ZWI0LWFmMjctMDZmMmY5NjM5YTFhXkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0460649",
+      "title": "How I Met Your Mother",
+      "year": 2005,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt0424993",
+      "title": "Employee of the Month",
+      "year": 2006,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt1186370",
+      "title": "Spread",
+      "year": 2009,
+      "roles": [
+        "composer"
+      ]
+    }
+  ],
+  "imdb_scraped": true,
+  "filmweb_id": 175378,
+  "name_pl": "John Swihart",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "imdb_id": "tt0857265",
+  "title": "Sleuth",
+  "description": "On his sprawling country estate, an aging writer matches wits with the struggling actor who has stolen his wife's heart.",
+  "runtime_minutes": 88,
+  "release_date": "23.11.2007",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000323",
+      "name": "Michael Caine"
+    },
+    {
+      "id": "nm0000179",
+      "name": "Jude Law"
+    },
+    {
+      "id": "nm0056217",
+      "name": "Harold Pinter"
+    },
+    {
+      "id": "nm0000110",
+      "name": "Kenneth Branagh"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000110",
+      "name": "Kenneth Branagh"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0787289",
+      "name": "Anthony Shaffer"
+    },
+    {
+      "id": "nm0056217",
+      "name": "Harold Pinter"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000323",
+      "name": "Michael Caine",
+      "character": "Andrew Wyke"
+    },
+    {
+      "id": "nm0000179",
+      "name": "Jude Law",
+      "character": "Milo Tindle"
+    },
+    {
+      "id": "nm0056217",
+      "name": "Harold Pinter",
+      "character": "Man on T.V."
+    },
+    {
+      "id": "nm0000110",
+      "name": "Kenneth Branagh",
+      "character": "Other Man on T.V."
+    },
+    {
+      "id": "nm2684512",
+      "name": "Carmel O'Sullivan",
+      "character": "Maggie"
+    }
+  ],
+  "countries": [
+    "United Kingdom",
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 375787,
+  "year": 2007,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZWZhNDU2MTMtOGJmZi00ZmQ0LWJkY2QtMTU0OGM0Zjg1YzRjXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.3,
+      "votes": 33994,
+      "distribution": {
+        "1": 783,
+        "2": 556,
+        "3": 989,
+        "4": 1834,
+        "5": 3852,
+        "6": 7521,
+        "7": 8548,
+        "8": 5215,
+        "9": 2306,
+        "10": 2390
+      },
+      "normalized": 4.1672
+    },
+    "filmweb": {
+      "rating": 7.16,
+      "votes": 21212,
+      "distribution": {
+        "1": 102,
+        "2": 113,
+        "3": 359,
+        "4": 585,
+        "5": 1457,
+        "6": 3239,
+        "7": 6102,
+        "8": 5636,
+        "9": 2527,
+        "10": 1092
+      },
+      "normalized": 5.9289
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "24.08.2010",
+      "normalized": 4.9718
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "18.07.2008",
+      "normalized": 4.5781
+    },
+    "score": 4.9115
+  },
+  "polish_title": "Pojedynek",
+  "silent": false,
+  "description_pl": "Andrew Wyke (<a href=\"/osoba/?id=nm0000323\">Michael Caine</a>) jest znanym powieściopisarzem szczególnie specjalizującym się w kryminałach. Pewnego dnia odwiedza go Milo Tindle (<a href=\"/osoba/?id=nm0000179\">Jude Law</a>), bezrobotny aktor, z pochodzenia Włoch, który na spotkaniu z Wykem ma przeprowadzić ważną rozmowę. Między dwoma mężczyznami zachodzi intrygująca rozgrywka..",
+  "producers": [
+    {
+      "id": "nm0000110",
+      "name": "Kenneth Branagh"
+    },
+    {
+      "id": "nm2447838",
+      "name": "Simon Halfon"
+    },
+    {
+      "id": "nm1649293",
+      "name": "Ben Jackson"
+    },
+    {
+      "id": "nm0000179",
+      "name": "Jude Law"
+    },
+    {
+      "id": "nm0608434",
+      "name": "Simon Moseley"
+    },
+    {
+      "id": "nm0683653",
+      "name": "Marion Pilowsky"
+    },
+    {
+      "id": "nm0827923",
+      "name": "Tom Sternberg"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0236462",
+      "name": "Patrick Doyle"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0952539",
+      "name": "Haris Zambarloukos"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

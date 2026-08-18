@@ -1,0 +1,51 @@
+{
+  "id": "nm0109401",
+  "name": "Bernie Brillstein",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZDc1MWU5ZGEtMWMwOC00ZGU4LThlZTYtMGZjZmM5MGEwMTc0XkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0080455",
+      "title": "The Blues Brothers",
+      "year": 1980,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0087332",
+      "title": "Ghostbusters",
+      "year": 1984,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0097428",
+      "title": "Ghostbusters II",
+      "year": 1989,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0116483",
+      "title": "Happy Gilmore",
+      "year": 1996,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "birth_date": "26.04.1931",
+  "death_date": "07.08.2008",
+  "birth_location": "New York City, New York, USA",
+  "filmweb_id": 70230,
+  "name_pl": "Bernie Brillstein",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "nm0001185",
+  "name": "Hector Elizondo",
+  "filmography": [
+    {
+      "imdb_id": "tt0100405",
+      "title": "Pretty Woman",
+      "year": 1990,
+      "roles": [
+        "cast"
+      ],
+      "character": "Barney Thompson"
+    },
+    {
+      "imdb_id": "tt0163187",
+      "title": "Runaway Bride",
+      "year": 1999,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Fisher"
+    },
+    {
+      "imdb_id": "tt0278488",
+      "title": "How High",
+      "year": 2001,
+      "roles": [
+        "cast"
+      ],
+      "character": "Bill the Crew Coach"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTAxMDEzMTE4MDFeQTJeQWpwZ15BbWU3MDk3ODU3MTM@._V1_.jpg",
+  "birth_date": "22.12.1936",
+  "birth_location": "New York City, New York, USA",
+  "height": "1.78 m",
+  "filmweb_id": 5478,
+  "name_pl": "Hector Elizondo",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

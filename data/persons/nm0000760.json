@@ -1,0 +1,40 @@
+{
+  "id": "nm0000760",
+  "name": "Richard Dean Anderson",
+  "filmography": [
+    {
+      "imdb_id": "tt0088559",
+      "title": "MacGyver",
+      "year": 1985,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "MacGyver"
+    },
+    {
+      "imdb_id": "tt0165375",
+      "title": "Pilot",
+      "year": 1985,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "MacGyver"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTY5NTY2MzM5N15BMl5BanBnXkFtZTcwMzYxMTAwNA@@._V1_.jpg",
+  "birth_date": "23.01.1950",
+  "birth_location": "Minneapolis, Minnesota, USA",
+  "height": "1.87 m",
+  "imdb_scraped": true,
+  "filmweb_id": 44985,
+  "name_pl": "Richard Dean Anderson",
+  "birth_location_pl": "Minneapolis, Minnesota",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 44985
+}

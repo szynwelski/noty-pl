@@ -1,0 +1,37 @@
+{
+  "id": "nm0048589",
+  "name": "Joe Baker",
+  "filmography": [
+    {
+      "imdb_id": "tt0109686",
+      "title": "Dumb and Dumber",
+      "year": 1994,
+      "roles": [
+        "cast"
+      ],
+      "character": "Barnard"
+    },
+    {
+      "imdb_id": "tt0114148",
+      "title": "Pocahontas",
+      "year": 1995,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Lon"
+    }
+  ],
+  "birth_date": "14.12.1928",
+  "death_date": "16.05.2001",
+  "birth_location": "London, England, UK",
+  "imdb_scraped": true,
+  "filmweb_id": 129757,
+  "name_pl": "Joe Baker",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ]
+}

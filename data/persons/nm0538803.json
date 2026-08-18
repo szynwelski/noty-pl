@@ -1,0 +1,42 @@
+{
+  "id": "nm0538803",
+  "name": "Jerzy Maksymiuk",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYjNiNDM5MDUtZTQwZC00MTYzLWI2YzMtYzhhZjkyMTdhMGU5XkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0070628",
+      "title": "The Hourglass Sanatorium",
+      "year": 1973,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt0081697",
+      "title": "Urodziny mlodego warszawiaka",
+      "year": 1980,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt0084411",
+      "title": "An Uneventful Story",
+      "year": 1983,
+      "roles": [
+        "composer"
+      ]
+    }
+  ],
+  "birth_date": "09.04.1936",
+  "birth_location": "Grodno, Bialostockie, Poland [now Hrodna, Belarus]",
+  "filmweb_id": 42048,
+  "name_pl": "Jerzy Maksymiuk",
+  "birth_location_pl": "Grodno",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Polska"
+  ]
+}

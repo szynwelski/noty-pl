@@ -1,0 +1,241 @@
+{
+  "imdb_id": "tt0118715",
+  "title": "The Big Lebowski",
+  "description": "Jeff \"The Dude\" Lebowski, mistaken for a millionaire of the same name, seeks restitution for his ruined rug and enlists his bowling buddies to help get it.",
+  "runtime_minutes": 117,
+  "release_date": "06.03.1998",
+  "genres": [
+    "Comedy",
+    "Crime"
+  ],
+  "stars": [
+    {
+      "id": "nm0000313",
+      "name": "Jeff Bridges"
+    },
+    {
+      "id": "nm0000422",
+      "name": "John Goodman"
+    },
+    {
+      "id": "nm0000194",
+      "name": "Julianne Moore"
+    },
+    {
+      "id": "nm0000114",
+      "name": "Steve Buscemi"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001054",
+      "name": "Joel Coen"
+    },
+    {
+      "id": "nm0001053",
+      "name": "Ethan Coen"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0001053",
+      "name": "Ethan Coen"
+    },
+    {
+      "id": "nm0001054",
+      "name": "Joel Coen"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000313",
+      "name": "Jeff Bridges",
+      "character": "The Dude"
+    },
+    {
+      "id": "nm0000422",
+      "name": "John Goodman",
+      "character": "Walter Sobchak"
+    },
+    {
+      "id": "nm0000194",
+      "name": "Julianne Moore",
+      "character": "Maude Lebowski"
+    },
+    {
+      "id": "nm0000114",
+      "name": "Steve Buscemi",
+      "character": "Donny"
+    },
+    {
+      "id": "nm0399663",
+      "name": "David Huddleston",
+      "character": "The Big Lebowski"
+    },
+    {
+      "id": "nm0000450",
+      "name": "Philip Seymour Hoffman",
+      "character": "Brandt"
+    },
+    {
+      "id": "nm0005346",
+      "name": "Tara Reid",
+      "character": "Bunny Lebowski"
+    },
+    {
+      "id": "nm0600657",
+      "name": "Philip Moon",
+      "character": "Treehorn Thug #1"
+    },
+    {
+      "id": "nm0671032",
+      "name": "Mark Pellegrino",
+      "character": "Treehorn Thug #2"
+    },
+    {
+      "id": "nm0001780",
+      "name": "Peter Stormare",
+      "character": "Nihilist #1"
+    },
+    {
+      "id": "nm0281359",
+      "name": "Flea",
+      "character": "Nihilist #2"
+    },
+    {
+      "id": "nm0901024",
+      "name": "Torsten Voges",
+      "character": "Nihilist #3"
+    },
+    {
+      "id": "nm0319541",
+      "name": "Jimmie Dale Gilmore",
+      "character": "Smokey"
+    },
+    {
+      "id": "nm0444940",
+      "name": "Jack Kehler",
+      "character": "Dude's Landlord"
+    },
+    {
+      "id": "nm0001806",
+      "name": "John Turturro",
+      "character": "Jesus Quintana"
+    },
+    {
+      "id": "nm0393841",
+      "name": "James G. Hoosier",
+      "character": "Quintana's Partner"
+    },
+    {
+      "id": "nm0502458",
+      "name": "Carlos Leon",
+      "character": "Maude's Thug #1"
+    },
+    {
+      "id": "nm0123738",
+      "name": "Terrence Burton",
+      "character": "Maude's Thug #2"
+    }
+  ],
+  "countries": [
+    "United Kingdom",
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Hebrew",
+    "Spanish"
+  ],
+  "color": "Color",
+  "filmweb_id": 13,
+  "year": 1998,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BY2E3OWQ5OWYtYTRkMC00NjVjLWIzZDQtNmRmM2ZiYTIyYmYxXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8.1,
+      "votes": 922308,
+      "distribution": {
+        "1": 10040,
+        "2": 5366,
+        "3": 7245,
+        "4": 12080,
+        "5": 25946,
+        "6": 63493,
+        "7": 154131,
+        "8": 249553,
+        "9": 197108,
+        "10": 197346
+      },
+      "normalized": 7.8866
+    },
+    "filmweb": {
+      "rating": 7.43,
+      "votes": 160040,
+      "distribution": {
+        "1": 918,
+        "2": 776,
+        "3": 2424,
+        "4": 3505,
+        "5": 8555,
+        "6": 18025,
+        "7": 40420,
+        "8": 48762,
+        "9": 24582,
+        "10": 12073
+      },
+      "normalized": 6.5679
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "02.12.2005",
+      "normalized": 5.6855
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "19.10.2005",
+      "normalized": 5.4199
+    },
+    "score": 6.39
+  },
+  "polish_title": "Big Lebowski",
+  "silent": false,
+  "description_pl": "Historia Jeffa Lebowskiego (<a href=\"/osoba/?id=nm0000313\">Jeff Bridges</a>), który pada ofiarą fatalnej pomyłki. Dwóch zbirów włamuje się do mieszkania zasiedziałego w latach 70-tych, zblazowanego, bezrobotnego Jeffa Lebowskiego, każącego się nazywać \"Koleś\" (\"The Dude\"), w głębokim przekonaniu, że napadają na Jeffa Lebowskiego (David Huddleston), milionera z Pasadeny. Ofiara pomyłki odwiedza bogatego imiennika w celu otrzymania rekompensaty za zniszczony (obsikany przez włamywaczy) dywan. \"Koleś\" oraz jego kumpel Walter (<a href=\"/osoba/?id=nm0000422\">John Goodman</a>) nie dostają perskiego dywanu, po który przyszli, za to wplątują się w coenowską czarną komedię pomyłek, wymuszeń, moralnego zdegenerowania, fałszerstw, seksu i narkotyków.",
+  "producers": [
+    {
+      "id": "nm0079677",
+      "name": "Tim Bevan"
+    },
+    {
+      "id": "nm0131625",
+      "name": "John Cameron"
+    },
+    {
+      "id": "nm0001053",
+      "name": "Ethan Coen"
+    },
+    {
+      "id": "nm0271479",
+      "name": "Eric Fellner"
+    },
+    {
+      "id": "nm0001054",
+      "name": "Joel Coen"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0001980",
+      "name": "Carter Burwell"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005683",
+      "name": "Roger Deakins"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

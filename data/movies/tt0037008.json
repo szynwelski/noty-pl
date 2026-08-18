@@ -1,0 +1,209 @@
+{
+  "imdb_id": "tt0037008",
+  "title": "Laura",
+  "description": "A police detective falls in love with the woman whose murder he is investigating.",
+  "runtime_minutes": 88,
+  "release_date": "1944",
+  "genres": [
+    "Drama",
+    "Film-Noir",
+    "Mystery"
+  ],
+  "stars": [
+    {
+      "id": "nm0000074",
+      "name": "Gene Tierney"
+    },
+    {
+      "id": "nm0000763",
+      "name": "Dana Andrews"
+    },
+    {
+      "id": "nm0916067",
+      "name": "Clifton Webb"
+    },
+    {
+      "id": "nm0001637",
+      "name": "Vincent Price"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0695937",
+      "name": "Otto Preminger"
+    },
+    {
+      "id": "nm0541149",
+      "name": "Rouben Mamoulian"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0143837",
+      "name": "Vera Caspary"
+    },
+    {
+      "id": "nm0237225",
+      "name": "Jay Dratler"
+    },
+    {
+      "id": "nm0388755",
+      "name": "Samuel Hoffenstein"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000074",
+      "name": "Gene Tierney",
+      "character": "Laura Hunt"
+    },
+    {
+      "id": "nm0000763",
+      "name": "Dana Andrews",
+      "character": "Det. Lt. Mark McPherson"
+    },
+    {
+      "id": "nm0916067",
+      "name": "Clifton Webb",
+      "character": "Waldo Lydecker"
+    },
+    {
+      "id": "nm0001637",
+      "name": "Vincent Price",
+      "character": "Shelby Carpenter"
+    },
+    {
+      "id": "nm0000752",
+      "name": "Judith Anderson",
+      "character": "Ann Treadwell"
+    },
+    {
+      "id": "nm0593372",
+      "name": "Grant Mitchell",
+      "character": "Lancaster Corey"
+    },
+    {
+      "id": "nm0010928",
+      "name": "Dorothy Adams",
+      "character": "Bessie Clary - Laura's Maid"
+    },
+    {
+      "id": "nm0011390",
+      "name": "Terry Adams",
+      "character": "Woman"
+    },
+    {
+      "id": "nm0016251",
+      "name": "John Alban",
+      "character": "Executive"
+    },
+    {
+      "id": "nm0017044",
+      "name": "Wally Albright",
+      "character": "Newsboy"
+    },
+    {
+      "id": "nm0053354",
+      "name": "Bobby Barber",
+      "character": "Newsboy"
+    },
+    {
+      "id": "nm0080930",
+      "name": "Edward Biby",
+      "character": "Party Guest"
+    },
+    {
+      "id": "nm0106567",
+      "name": "Gary Breckner",
+      "character": "Narrator"
+    },
+    {
+      "id": "nm0137625",
+      "name": "James Carlisle",
+      "character": "Party Guest"
+    },
+    {
+      "id": "nm0141651",
+      "name": "Harry Carter",
+      "character": "Party Guest"
+    },
+    {
+      "id": "nm0151420",
+      "name": "Lane Chandler",
+      "character": "Detective"
+    },
+    {
+      "id": "nm0151576",
+      "name": "Bill Chaney",
+      "character": "Newsboy"
+    },
+    {
+      "id": "nm0160685",
+      "name": "Dorothy Christy",
+      "character": "Woman"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 35824,
+  "year": 1944,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYWUyNDNhZGQtZjJkMS00OTM1LWEzNTktMjlkYjM3OGVmODhiXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.9,
+      "votes": 56438,
+      "distribution": {
+        "1": 828,
+        "2": 202,
+        "3": 279,
+        "4": 536,
+        "5": 1370,
+        "6": 3877,
+        "7": 11022,
+        "8": 18255,
+        "9": 10513,
+        "10": 9556
+      },
+      "normalized": 7.1582
+    },
+    "filmweb": {
+      "rating": 7.52,
+      "votes": 4063,
+      "distribution": {
+        "1": 18,
+        "2": 7,
+        "3": 11,
+        "4": 30,
+        "5": 107,
+        "6": 479,
+        "7": 1349,
+        "8": 1327,
+        "9": 455,
+        "10": 280
+      },
+      "normalized": 6.6
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "20.05.2017",
+      "normalized": 7.2292
+    },
+    "score": 6.9958
+  },
+  "polish_title": "Laura",
+  "silent": false,
+  "description_pl": "Wielkomiejski detektyw (<a href=\"/osoba/?id=nm0000763\">Dana Andrews</a>) prowadzi śledztwo w sprawie zabójstwa zamożnej kobiety (<a href=\"/osoba/?id=nm0000074\">Gene Tierney</a>). Poszlaki i zeznania nie zgadzają się jednak ze sobą. Czy detektyw zdoła rozwikłać zagadkę?",
+  "composers": [
+    {
+      "id": "nm0000710",
+      "name": "David Raksin"
+    }
+  ],
+  "fetched_at": "2026-08-15"
+}

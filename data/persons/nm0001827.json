@@ -1,0 +1,40 @@
+{
+  "id": "nm0001827",
+  "name": "Ray Walston",
+  "filmography": [
+    {
+      "imdb_id": "tt0053604",
+      "title": "The Apartment",
+      "year": 1960,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Joe Dobisch"
+    },
+    {
+      "imdb_id": "tt0070735",
+      "title": "The Sting",
+      "year": 1973,
+      "roles": [
+        "cast"
+      ],
+      "character": "J.J. Singleton"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOGIxMTVkZTctMDcwNS00MWEzLWIxYmItNDE3ZWE4MjIxZGU5XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "02.11.1914",
+  "death_date": "01.01.2001",
+  "birth_location": "Laurel, Mississippi, USA",
+  "height": "1.73 m",
+  "imdb_scraped": true,
+  "filmweb_id": 3802,
+  "name_pl": "Ray Walston",
+  "birth_location_pl": "Nowy Orlean, Luizjana",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 3802
+}

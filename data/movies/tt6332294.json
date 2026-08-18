@@ -1,0 +1,57 @@
+{
+  "imdb_id": "tt6332294",
+  "title": "Knights Bridge, London, Looking East Towards Hyde Park Corner",
+  "description": "",
+  "runtime_minutes": null,
+  "release_date": "12.09.2012",
+  "genres": [
+    "Short"
+  ],
+  "directors": [
+    {
+      "id": "nm8643876",
+      "name": "Edward Raymond Turner"
+    }
+  ],
+  "top_cast": [],
+  "countries": [],
+  "languages": [],
+  "color": "Color",
+  "year": 2012,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNWVmNzBhMTItYzRhZi00NTNiLWFlOTItNjVmZWM2NDM1NmRmXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": null,
+  "ratings": {
+    "imdb": {
+      "rating": 5.4,
+      "votes": 8,
+      "distribution": {
+        "1": 0,
+        "2": 0,
+        "3": 1,
+        "4": 1,
+        "5": 1,
+        "6": 2,
+        "7": 2,
+        "8": 0,
+        "9": 0,
+        "10": 1
+      },
+      "normalized": 5.277
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "16.12.2016",
+      "normalized": 6.4102
+    },
+    "score": 5.7291,
+    "filmweb": {
+      "normalized": 5.5
+    }
+  },
+  "silent": false,
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-16"
+}

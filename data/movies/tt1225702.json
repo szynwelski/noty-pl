@@ -1,0 +1,201 @@
+{
+  "imdb_id": "tt1225702",
+  "title": "Niezawodny system",
+  "description": "A cheerful story about an old lady trying to correct a mistake from the past and recover a priceless necklace.",
+  "runtime_minutes": 78,
+  "release_date": "16.05.2008",
+  "genres": [
+    "Comedy"
+  ],
+  "stars": [
+    {
+      "id": "nm0417923",
+      "name": "Alina Janowska"
+    },
+    {
+      "id": "nm0797174",
+      "name": "Wojciech Siemion"
+    },
+    {
+      "id": "nm0090461",
+      "name": "Szymon Bobrowski"
+    },
+    {
+      "id": "nm1728347",
+      "name": "Katarzyna Cynke"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm2995459",
+      "name": "Izabela Szylko"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm2995459",
+      "name": "Izabela Szylko"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0417923",
+      "name": "Alina Janowska",
+      "character": "Maria"
+    },
+    {
+      "id": "nm0797174",
+      "name": "Wojciech Siemion",
+      "character": "Leon"
+    },
+    {
+      "id": "nm0090461",
+      "name": "Szymon Bobrowski",
+      "character": "Julian"
+    },
+    {
+      "id": "nm1728347",
+      "name": "Katarzyna Cynke",
+      "character": "Young Maria"
+    },
+    {
+      "id": "nm0296389",
+      "name": "Piotr Fronczewski",
+      "character": "Maria's Father"
+    },
+    {
+      "id": "nm0468651",
+      "name": "Wladyslaw Kowalski",
+      "character": ""
+    },
+    {
+      "id": "nm0651459",
+      "name": "Slawomir Orzechowski",
+      "character": "Albin Gasiorek"
+    },
+    {
+      "id": "nm2995320",
+      "name": "Ewa Kwiatkowska",
+      "character": "Lusia's mother"
+    },
+    {
+      "id": "nm2994635",
+      "name": "Ludwika Najbauer",
+      "character": "Lusia"
+    },
+    {
+      "id": "nm0538042",
+      "name": "Anna Majcher",
+      "character": "Gasiorkowa"
+    },
+    {
+      "id": "nm2097096",
+      "name": "Michal Piela",
+      "character": "Frequenter of the auction"
+    },
+    {
+      "id": "nm1632160",
+      "name": "Piotr Pilitowski",
+      "character": ""
+    },
+    {
+      "id": "nm0296811",
+      "name": "Olga Frycz",
+      "character": "Hania - Maria's servant"
+    },
+    {
+      "id": "nm1466093",
+      "name": "Lukasz Simlat",
+      "character": "Bailif"
+    },
+    {
+      "id": "nm1338684",
+      "name": "Izabela Dabrowska",
+      "character": "Shop assistant"
+    },
+    {
+      "id": "nm0958546",
+      "name": "Bartosz Zukowski",
+      "character": ""
+    },
+    {
+      "id": "nm2337388",
+      "name": "Ksawery Szlenkier",
+      "character": "Witold"
+    },
+    {
+      "id": "nm3104739",
+      "name": "Tadeusz Woszczynski",
+      "character": ""
+    }
+  ],
+  "countries": [
+    "Poland"
+  ],
+  "languages": [
+    "Polish"
+  ],
+  "color": "Color",
+  "filmweb_id": 469949,
+  "year": 2008,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjdlZGM3OWMtYjI3My00MjM0LWFjOGItZmY3Zjk3MWNmZTBjXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6,
+      "votes": 81,
+      "distribution": {
+        "1": 4,
+        "2": 2,
+        "3": 3,
+        "4": 6,
+        "5": 17,
+        "6": 19,
+        "7": 18,
+        "8": 6,
+        "9": 2,
+        "10": 4
+      },
+      "normalized": 5.072
+    },
+    "filmweb": {
+      "rating": 6.65,
+      "votes": 2640,
+      "distribution": {
+        "1": 85,
+        "2": 24,
+        "3": 63,
+        "4": 117,
+        "5": 292,
+        "6": 500,
+        "7": 568,
+        "8": 711,
+        "9": 170,
+        "10": 110
+      },
+      "normalized": 4.7446
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "12.12.2010",
+      "normalized": 6.3474
+    },
+    "score": 5.388
+  },
+  "polish_title": "Niezawodny system",
+  "silent": false,
+  "description_pl": "Pogodna opowieść o starszej pani (<a href=\"/osoba/?id=nm0417923\">Alina Janowska</a>) próbującej naprawić błąd z przeszłości i odzyskać bezcenny naszyjnik. Bohaterka opracowuje niezawodny system, który ma jej zapewnić wygraną w kasynie. Poczynania wiekowej damy przyciągają zainteresowanie młodego hazardzisty (<a href=\"/osoba/?id=nm0090461\">Szymon Bobrowski</a>). Postanawia zdobyć jej zaufanie i rozpracować system.",
+  "composers": [
+    {
+      "id": "nm1655437",
+      "name": "Grzegorz Turnau"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0823430",
+      "name": "Wojciech Staron"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

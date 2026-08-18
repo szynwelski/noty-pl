@@ -1,0 +1,45 @@
+{
+  "id": "nm0918326",
+  "name": "Hans Weingartner",
+  "filmography": [
+    {
+      "imdb_id": "tt0112471",
+      "title": "Before Sunrise",
+      "year": 1995,
+      "roles": [
+        "cast"
+      ],
+      "character": "Cafe Patron"
+    },
+    {
+      "imdb_id": "tt0408777",
+      "title": "The Edukators",
+      "year": 2004,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt2664258",
+      "title": "Ummah - Unter Freunden",
+      "year": 2013,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNmM5MDY0ZTItYTM1NS00ZTM4LWJjYzItY2Y3MmQyZDkyYzU3XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "02.11.1977",
+  "birth_location": "Feldkirch, Vorarlberg, Austria",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Austria"
+  ],
+  "filmweb_id": 150853,
+  "name_pl": "Hans Weingartner",
+  "birth_location_pl": "Feldkirch",
+  "gender": "M"
+}

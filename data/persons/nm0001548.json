@@ -1,0 +1,48 @@
+{
+  "id": "nm0001548",
+  "name": "Rick Moranis",
+  "filmography": [
+    {
+      "imdb_id": "tt0087332",
+      "title": "Ghostbusters",
+      "year": 1984,
+      "roles": [
+        "cast"
+      ],
+      "character": "Louis Tully"
+    },
+    {
+      "imdb_id": "tt0094012",
+      "title": "Spaceballs",
+      "year": 1987,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Dark Helmet"
+    },
+    {
+      "imdb_id": "tt0097428",
+      "title": "Ghostbusters II",
+      "year": 1989,
+      "roles": [
+        "cast"
+      ],
+      "character": "Louis Tully"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTY5MTM4NTY0OF5BMl5BanBnXkFtZTcwMjA0NTgwMw@@._V1_.jpg",
+  "birth_date": "18.04.1953",
+  "birth_location": "Toronto, Ontario, Canada",
+  "height": "1.68 m",
+  "filmweb_id": 41312,
+  "name_pl": "Rick Moranis",
+  "birth_location_pl": "Toronto",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Kanada"
+  ],
+  "wikidata_fw_id": 41312
+}

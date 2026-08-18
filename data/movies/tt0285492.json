@@ -1,0 +1,208 @@
+{
+  "imdb_id": "tt0285492",
+  "title": "Cube²: Hypercube",
+  "description": "Eight strangers awaken with no memory, in a puzzling cube-shaped room where the laws of physics do not always apply.",
+  "runtime_minutes": 94,
+  "release_date": "15.04.2003",
+  "genres": [
+    "Horror",
+    "Mystery",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm0558182",
+      "name": "Kari Matchett"
+    },
+    {
+      "id": "nm0943870",
+      "name": "Geraint Wyn Davies"
+    },
+    {
+      "id": "nm0475129",
+      "name": "Grace Lynn Kung"
+    },
+    {
+      "id": "nm0272536",
+      "name": "Matthew Ferguson"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0782900",
+      "name": "Andrzej Sekula"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0393517",
+      "name": "Sean Hood"
+    },
+    {
+      "id": "nm0053228",
+      "name": "Ernie Barbarash"
+    },
+    {
+      "id": "nm0572369",
+      "name": "Lauren McLaughlin"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0558182",
+      "name": "Kari Matchett",
+      "character": "Kate Filmore"
+    },
+    {
+      "id": "nm0943870",
+      "name": "Geraint Wyn Davies",
+      "character": "Simon Grady"
+    },
+    {
+      "id": "nm0475129",
+      "name": "Grace Lynn Kung",
+      "character": "Sasha"
+    },
+    {
+      "id": "nm0272536",
+      "name": "Matthew Ferguson",
+      "character": "Max Reisler"
+    },
+    {
+      "id": "nm0188709",
+      "name": "Neil Crone",
+      "character": "Jerry Whitehall"
+    },
+    {
+      "id": "nm0329876",
+      "name": "Barbara Gordon",
+      "character": "Mrs. Paley"
+    },
+    {
+      "id": "nm0175008",
+      "name": "Lindsey Connell",
+      "character": "Julia"
+    },
+    {
+      "id": "nm1035602",
+      "name": "Greer Kent",
+      "character": "Becky Young"
+    },
+    {
+      "id": "nm0336489",
+      "name": "Bruce Gray",
+      "character": "Colonel Thomas H. Maguire"
+    },
+    {
+      "id": "nm0015370",
+      "name": "Philip Akin",
+      "character": "The General"
+    },
+    {
+      "id": "nm0730433",
+      "name": "Paul Robbins",
+      "character": "Tracton"
+    },
+    {
+      "id": "nm0778718",
+      "name": "Andrew Scorer",
+      "character": "Dr. Phil Rosenzweig"
+    }
+  ],
+  "countries": [
+    "Canada"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 32385,
+  "year": 2002,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDg1Yzk1MzYtZWQ5OC00YWYyLWI2NjgtMzM1NzI3MjQyZDRkXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Cube 2: Hypercube",
+  "ratings": {
+    "imdb": {
+      "rating": 5.5,
+      "votes": 72131,
+      "distribution": {
+        "1": 2409,
+        "2": 2663,
+        "3": 4297,
+        "4": 7718,
+        "5": 14575,
+        "6": 18600,
+        "7": 11857,
+        "8": 5427,
+        "9": 1923,
+        "10": 2662
+      },
+      "normalized": 2.7914
+    },
+    "filmweb": {
+      "rating": 5.84,
+      "votes": 39583,
+      "distribution": {
+        "1": 611,
+        "2": 960,
+        "3": 2641,
+        "4": 3778,
+        "5": 7228,
+        "6": 9991,
+        "7": 8367,
+        "8": 3866,
+        "9": 1207,
+        "10": 934
+      },
+      "normalized": 3.1329
+    },
+    "jarek": {
+      "rating": 2,
+      "date_rated": "19.12.2010",
+      "normalized": 3.5003
+    },
+    "score": 3.1415
+  },
+  "polish_title": "Cube 2",
+  "silent": false,
+  "description_pl": "Osiem obcych sobie osób pewnego dnia budzi się w nieznanym im miejscu. Żadna z nich nie wie, jak i dlaczego trafiła do tajemniczego pokoju. Wkrótce bohaterowie odkrywają, że przestrzeń, w której przebywają, nie podlega żadnym znanym im prawom fizyki. Tu panują zupełnie inne prawa. Ich odkrycie to jedyna szansa na przetrwanie.",
+  "producers": [
+    {
+      "id": "nm0053228",
+      "name": "Ernie Barbarash"
+    },
+    {
+      "id": "nm0088756",
+      "name": "Peter Block"
+    },
+    {
+      "id": "nm0003681",
+      "name": "Suzanne Colvin"
+    },
+    {
+      "id": "nm0576372",
+      "name": "Mehra Meh"
+    },
+    {
+      "id": "nm0650527",
+      "name": "Betty Orr"
+    },
+    {
+      "id": "nm0664513",
+      "name": "Michael Paseornek"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0002640",
+      "name": "Norman Orenstein"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0782900",
+      "name": "Andrzej Sekula"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "nm0005299",
+  "name": "Sarah Paulson",
+  "filmography": [
+    {
+      "imdb_id": "tt0207201",
+      "title": "What Women Want",
+      "year": 2000,
+      "roles": [
+        "cast"
+      ],
+      "character": "Annie"
+    },
+    {
+      "imdb_id": "tt0379786",
+      "title": "Serenity",
+      "year": 2005,
+      "roles": [
+        "cast"
+      ],
+      "character": "Dr. Caron"
+    },
+    {
+      "imdb_id": "tt1441326",
+      "title": "Martha Marcy May Marlene",
+      "year": 2011,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Lucy"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTUzMTA3NjM4MV5BMl5BanBnXkFtZTcwNjk1NTAyMg@@._V1_.jpg",
+  "birth_date": "17.12.1974",
+  "birth_location": "Tampa, Florida, USA",
+  "height": "1.68 m",
+  "filmweb_id": 45975,
+  "name_pl": "Sarah Paulson",
+  "birth_location_pl": "Tampa, Floryda",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 45975
+}

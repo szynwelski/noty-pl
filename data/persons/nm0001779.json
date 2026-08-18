@@ -1,0 +1,45 @@
+{
+  "id": "nm0001779",
+  "name": "Tom Stoppard",
+  "filmography": [
+    {
+      "imdb_id": "tt0088846",
+      "title": "Brazil",
+      "year": 1985,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0092965",
+      "title": "Empire of the Sun",
+      "year": 1987,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0138097",
+      "title": "Shakespeare in Love",
+      "year": 1998,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTYwMjk1MjA4MV5BMl5BanBnXkFtZTYwMTAyMjE0._V1_.jpg",
+  "birth_date": "03.07.1937",
+  "death_date": "29.11.2025",
+  "birth_location": "Zlín, Czechoslovakia [now in Czech Republic]",
+  "height": "1.86 m",
+  "filmweb_id": 11003,
+  "name_pl": "Tom Stoppard",
+  "birth_location_pl": "Zlín",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania",
+    "Czechosłowacja"
+  ]
+}

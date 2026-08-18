@@ -1,0 +1,79 @@
+{
+  "id": "nm0704270",
+  "name": "Zachary Quinto",
+  "filmography": [
+    {
+      "imdb_id": "tt0813715",
+      "title": "Heroes",
+      "year": 2006,
+      "roles": [
+        "cast"
+      ],
+      "character": "Sylar"
+    },
+    {
+      "imdb_id": "tt0796366",
+      "title": "Star Trek",
+      "year": 2009,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Spock"
+    },
+    {
+      "imdb_id": "tt1615147",
+      "title": "Margin Call",
+      "year": 2011,
+      "roles": [
+        "star",
+        "cast",
+        "producer"
+      ],
+      "character": "Peter Sullivan"
+    },
+    {
+      "imdb_id": "tt0770703",
+      "title": "What's Your Number?",
+      "year": 2011,
+      "roles": [
+        "cast"
+      ],
+      "character": "Boyfriend Rick"
+    },
+    {
+      "imdb_id": "tt1408101",
+      "title": "Star Trek Into Darkness",
+      "year": 2013,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Spock"
+    },
+    {
+      "imdb_id": "tt3774114",
+      "title": "Snowden",
+      "year": 2016,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Glenn Greenwald"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNjdmNmRiOWUtMzM4Mi00MjQ1LWFkODYtMjRjYjJlZTcxMTFmXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "02.06.1977",
+  "birth_location": "Pittsburgh, Pennsylvania, USA",
+  "height": "1.85 m",
+  "filmweb_id": 220917,
+  "name_pl": "Zachary Quinto",
+  "birth_location_pl": "Pittsburgh, Pensylwania",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 220917
+}

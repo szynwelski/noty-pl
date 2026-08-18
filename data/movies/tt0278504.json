@@ -1,0 +1,266 @@
+{
+  "imdb_id": "tt0278504",
+  "title": "Insomnia",
+  "description": "A Los Angeles detective chases a murder suspect in a remote Alaskan town.",
+  "runtime_minutes": 118,
+  "release_date": "24.05.2002",
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000199",
+      "name": "Al Pacino"
+    },
+    {
+      "id": "nm0000245",
+      "name": "Robin Williams"
+    },
+    {
+      "id": "nm0005476",
+      "name": "Hilary Swank"
+    },
+    {
+      "id": "nm0233027",
+      "name": "Martin Donovan"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0634240",
+      "name": "Christopher Nolan"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0782711",
+      "name": "Hillary Seitz"
+    },
+    {
+      "id": "nm0296154",
+      "name": "Nikolaj Frobenius"
+    },
+    {
+      "id": "nm0804408",
+      "name": "Erik Skjoldbjærg"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000199",
+      "name": "Al Pacino",
+      "character": "Will Dormer"
+    },
+    {
+      "id": "nm0000245",
+      "name": "Robin Williams",
+      "character": "Walter Finch"
+    },
+    {
+      "id": "nm0005476",
+      "name": "Hilary Swank",
+      "character": "Ellie Burr"
+    },
+    {
+      "id": "nm0233027",
+      "name": "Martin Donovan",
+      "character": "Hap Eckhart"
+    },
+    {
+      "id": "nm1182861",
+      "name": "Oliver 'Ole' Zemen",
+      "character": "Pilot"
+    },
+    {
+      "id": "nm0233209",
+      "name": "Paul Dooley",
+      "character": "Chief Nyback"
+    },
+    {
+      "id": "nm0441588",
+      "name": "Nicky Katt",
+      "character": "Fred Duggar"
+    },
+    {
+      "id": "nm0390227",
+      "name": "Larry Holden",
+      "character": "Farrell"
+    },
+    {
+      "id": "nm0106319",
+      "name": "Jay Brazeau",
+      "character": "Francis"
+    },
+    {
+      "id": "nm0136482",
+      "name": "Lorne Cardinal",
+      "character": "Rich"
+    },
+    {
+      "id": "nm0404537",
+      "name": "James Hutson",
+      "character": "Officer #1"
+    },
+    {
+      "id": "nm1405316",
+      "name": "Andrew Campbell",
+      "character": "Officer #2"
+    },
+    {
+      "id": "nm0789912",
+      "name": "Paula Shaw",
+      "character": "Coroner"
+    },
+    {
+      "id": "nm0522909",
+      "name": "Yan-Kay Crystal Lowe",
+      "character": "Kay Connell"
+    },
+    {
+      "id": "nm0800014",
+      "name": "Tasha Simms",
+      "character": "Mrs. Connell"
+    },
+    {
+      "id": "nm0005491",
+      "name": "Maura Tierney",
+      "character": "Rachel Clement"
+    },
+    {
+      "id": "nm0005044",
+      "name": "Jonathan Jackson",
+      "character": "Randy Stetz"
+    },
+    {
+      "id": "nm1158466",
+      "name": "Malcolm Boddington",
+      "character": "Principal"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 32616,
+  "year": 2002,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOTE2NzQ0MzQtMDRmZi00ZWRiLWE4MDEtY2M1Mjc3OGY5N2JkXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.2,
+      "votes": 349750,
+      "distribution": {
+        "1": 1542,
+        "2": 968,
+        "3": 1881,
+        "4": 4396,
+        "5": 14124,
+        "6": 49398,
+        "7": 132035,
+        "8": 98961,
+        "9": 28633,
+        "10": 17812
+      },
+      "normalized": 5.9595
+    },
+    "filmweb": {
+      "rating": 7.22,
+      "votes": 93266,
+      "distribution": {
+        "1": 95,
+        "2": 94,
+        "3": 409,
+        "4": 990,
+        "5": 3789,
+        "6": 13229,
+        "7": 37505,
+        "8": 29073,
+        "9": 6198,
+        "10": 1884
+      },
+      "normalized": 6.0609
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "11.08.2010",
+      "normalized": 5.6855
+    },
+    "michal": {
+      "rating": 3,
+      "date_rated": "20.05.2006",
+      "normalized": 3.8753
+    },
+    "score": 5.3953
+  },
+  "polish_title": "Bezsenność",
+  "silent": false,
+  "description_pl": "Cierpiący na bezsenność agent Will Dormer (<a href=\"/osoba/?id=nm0000199\">Al Pacino</a>) przybywa wraz ze swoim partnerem do małego miasteczka na Alasce, aby rozwikłać zagadkę śmierci młodej dziewczyny. Wszystkie poszlaki prowadzą do pisarza Waltera Fincha (<a href=\"/osoba/?id=nm0000245\">Robin Williams</a>). Podczas pościgu za Finchem, w gęstej mgle dochodzi do tragedii - Dormer zabija swojego partnera, świadkiem tego zdarzenia jest Finch, który wciąga agenta w zawikłaną sieć intryg.",
+  "producers": [
+    {
+      "id": "nm0000123",
+      "name": "George Clooney"
+    },
+    {
+      "id": "nm0963211",
+      "name": "Ben Cosgrove"
+    },
+    {
+      "id": "nm0424663",
+      "name": "Broderick Johnson"
+    },
+    {
+      "id": "nm0432625",
+      "name": "Paul Junger Witt"
+    },
+    {
+      "id": "nm0467255",
+      "name": "Andrew A. Kosove"
+    },
+    {
+      "id": "nm0568093",
+      "name": "Edward L. McDonnell"
+    },
+    {
+      "id": "nm0744907",
+      "name": "Kim Roth"
+    },
+    {
+      "id": "nm0772387",
+      "name": "Charles J.D. Schlissel"
+    },
+    {
+      "id": "nm0001752",
+      "name": "Steven Soderbergh"
+    },
+    {
+      "id": "nm0858799",
+      "name": "Emma Thomas"
+    },
+    {
+      "id": "nm0859597",
+      "name": "Tony Thomas"
+    },
+    {
+      "id": "nm1176853",
+      "name": "Steven P. Wegner"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0432382",
+      "name": "David Julyan"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0002892",
+      "name": "Wally Pfister"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

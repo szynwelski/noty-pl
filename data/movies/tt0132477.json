@@ -1,0 +1,225 @@
+{
+  "imdb_id": "tt0132477",
+  "title": "October Sky",
+  "description": "The true story of Homer Hickam, a coal miner's son who was inspired by the first Sputnik launch to take up rocketry against his father's wishes.",
+  "runtime_minutes": 108,
+  "release_date": "19.02.1999",
+  "genres": [
+    "Biography",
+    "Drama",
+    "Family"
+  ],
+  "stars": [
+    {
+      "id": "nm0350453",
+      "name": "Jake Gyllenhaal"
+    },
+    {
+      "id": "nm0177933",
+      "name": "Chris Cooper"
+    },
+    {
+      "id": "nm0000368",
+      "name": "Laura Dern"
+    },
+    {
+      "id": "nm0654104",
+      "name": "Chris Owen"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0002653",
+      "name": "Joe Johnston"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0382573",
+      "name": "Homer H. Hickam Jr."
+    },
+    {
+      "id": "nm0171474",
+      "name": "Lewis Colick"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0350453",
+      "name": "Jake Gyllenhaal",
+      "character": "Homer Hickam"
+    },
+    {
+      "id": "nm0177933",
+      "name": "Chris Cooper",
+      "character": "John Hickam"
+    },
+    {
+      "id": "nm0000368",
+      "name": "Laura Dern",
+      "character": "Miss Riley"
+    },
+    {
+      "id": "nm0654104",
+      "name": "Chris Owen",
+      "character": "Quentin"
+    },
+    {
+      "id": "nm0005406",
+      "name": "William Lee Scott",
+      "character": "Roy Lee"
+    },
+    {
+      "id": "nm0511349",
+      "name": "Chad Lindberg",
+      "character": "O'Dell"
+    },
+    {
+      "id": "nm0133882",
+      "name": "Natalie Canerday",
+      "character": "Elsie Hickam"
+    },
+    {
+      "id": "nm0587238",
+      "name": "Scott Miles",
+      "character": "Jim Hickam"
+    },
+    {
+      "id": "nm0834616",
+      "name": "Randy Stripling",
+      "character": "Leon Bolden"
+    },
+    {
+      "id": "nm0254760",
+      "name": "Chris Ellis",
+      "character": "Principal Turner"
+    },
+    {
+      "id": "nm0059946",
+      "name": "Elya Baskin",
+      "character": "Ike Bykovsky"
+    },
+    {
+      "id": "nm0271747",
+      "name": "Courtney Cole-Fendley",
+      "character": "Dorothy Platt"
+    },
+    {
+      "id": "nm0245486",
+      "name": "David Dwyer",
+      "character": "Jake Mosby"
+    },
+    {
+      "id": "nm0521761",
+      "name": "Terry Loughlin",
+      "character": "Mr. Dantzler"
+    },
+    {
+      "id": "nm0391231",
+      "name": "Kaili Hollister",
+      "character": "Valentine Carmina"
+    },
+    {
+      "id": "nm0178594",
+      "name": "David Copeland",
+      "character": "Coach Gainer"
+    },
+    {
+      "id": "nm0048352",
+      "name": "Don Henderson Baker",
+      "character": "Jensen"
+    },
+    {
+      "id": "nm0434650",
+      "name": "Tom Kagy",
+      "character": "Lenny"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 8267,
+  "year": 1999,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDU0M2I3ODUtZDAyYy00NThhLWIwNjQtZGNmNTNjZDIxODM4XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.8,
+      "votes": 112795,
+      "distribution": {
+        "1": 755,
+        "2": 314,
+        "3": 514,
+        "4": 894,
+        "5": 2620,
+        "6": 8118,
+        "7": 25326,
+        "8": 38423,
+        "9": 19077,
+        "10": 16754
+      },
+      "normalized": 6.985
+    },
+    "filmweb": {
+      "rating": 7.48,
+      "votes": 19738,
+      "distribution": {
+        "1": 18,
+        "2": 15,
+        "3": 45,
+        "4": 115,
+        "5": 445,
+        "6": 2055,
+        "7": 7072,
+        "8": 7431,
+        "9": 1977,
+        "10": 565
+      },
+      "normalized": 6.6557
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "11.08.2010",
+      "normalized": 5.6855
+    },
+    "score": 6.4421
+  },
+  "polish_title": "Dosięgnąć kosmosu",
+  "silent": false,
+  "description_pl": "Coalwood, Wirginia Zachodnia 1957 rok. W tym małym miateczku wszyscy pracują w kopalni i nikt nie wyobraża sobie tu innego życia. Jest jednak jeden młody człowiek, który inaczej patrzy na świat. Zainspirowany osiągnięciami radzieckich astronautów, którzy właśnie wysłali w kosmos Sputnika, postanawia spełnić swe marzenia i zbudować własną rakietę. Z pomocą nauczycielki (Laura Dern) i trójki przyjaciół Homer pokonuje wszelkie trudności - brak wykształcenia, nietolerancję ojca (Chris Cooper) i serię porażek związanych z budową rakiety - aby osiągąć swój cel.",
+  "producers": [
+    {
+      "id": "nm0186189",
+      "name": "Peter Cramer"
+    },
+    {
+      "id": "nm0290581",
+      "name": "Larry Franco"
+    },
+    {
+      "id": "nm0330077",
+      "name": "Charles Gordon"
+    },
+    {
+      "id": "nm0827913",
+      "name": "Marc Sternberg"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006142",
+      "name": "Mark Isham"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0002320",
+      "name": "Fred Murphy"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "nm1634700",
+  "name": "John Radel",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODYzMTllMWQtYWU2My00YTM0LWI5Y2MtODI4YzQ1Njk2NzhmXkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt2717822",
+      "title": "Blackhat",
+      "year": 2015,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt6116856",
+      "title": "The Night Comes for Us",
+      "year": 2018,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "birth_location": "Toowoomba, Queensland, Australia",
+  "imdb_scraped": true,
+  "filmweb_id": 691460,
+  "name_pl": "John Radel",
+  "birth_location_pl": "Toowoomba",
+  "gender": "M",
+  "wikidata_processed": true
+}

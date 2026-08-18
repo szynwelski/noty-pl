@@ -1,0 +1,42 @@
+{
+  "id": "nm0006047",
+  "name": "John Du Prez",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTdlM2Q5ZjktOTIxNC00OWZjLThmYTctYjE0OGE0ZThmZTY2XkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0085959",
+      "title": "Monty Python's the Meaning of Life",
+      "year": 1983,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt0095159",
+      "title": "A Fish Called Wanda",
+      "year": 1988,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt0098546",
+      "title": "UHF",
+      "year": 1989,
+      "roles": [
+        "composer"
+      ]
+    }
+  ],
+  "birth_date": "14.12.1946",
+  "birth_location": "Sheffield, Yorkshire, England, UK",
+  "filmweb_id": 12657,
+  "name_pl": "John Du Prez",
+  "birth_location_pl": "Sheffield, Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ]
+}

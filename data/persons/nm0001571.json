@@ -1,0 +1,30 @@
+{
+  "id": "nm0001571",
+  "name": "Kim Novak",
+  "filmography": [
+    {
+      "imdb_id": "tt0052357",
+      "title": "Vertigo",
+      "year": 1958,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Madeleine Elster"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNWIxY2Y1NzYtZDFhZi00OGUyLThkMWItMTQ1ZjlkODA3ODQ2XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "13.02.1933",
+  "birth_location": "Chicago, Illinois, USA",
+  "height": "1.68 m",
+  "imdb_scraped": true,
+  "filmweb_id": 9524,
+  "name_pl": "Kim Novak",
+  "birth_location_pl": "Chicago, Illinois",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 9524
+}

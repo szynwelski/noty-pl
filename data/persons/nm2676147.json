@@ -1,0 +1,49 @@
+{
+  "id": "nm2676147",
+  "name": "Jonathan Groff",
+  "filmography": [
+    {
+      "imdb_id": "tt2294629",
+      "title": "Frozen",
+      "year": 2013,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Kristoff"
+    },
+    {
+      "imdb_id": "tt8503618",
+      "title": "Hamilton",
+      "year": 2020,
+      "roles": [
+        "cast"
+      ],
+      "character": "King George"
+    },
+    {
+      "imdb_id": "tt10838180",
+      "title": "The Matrix Resurrections",
+      "year": 2021,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Smith"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTUzMDM1NzkxN15BMl5BanBnXkFtZTgwOTg0MzMwNDI@._V1_.jpg",
+  "birth_date": "26.03.1985",
+  "birth_location": "Lancaster, Pennsylvania, USA",
+  "height": "1.80 m",
+  "imdb_scraped": true,
+  "filmweb_id": 828041,
+  "name_pl": "Jonathan Groff",
+  "birth_location_pl": "Lancaster, Pensylwania",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 828041
+}

@@ -1,0 +1,123 @@
+{
+  "imdb_id": "tt0376821",
+  "title": "The Perfect Human",
+  "description": "An elegant and humorous film-in the guise of a serious anthropological treatise-spotlights \"The Perfect Human,\" a model of the modern Dane created by our wishful thinking.",
+  "runtime_minutes": 13,
+  "release_date": "14.06.1968",
+  "genres": [
+    "Short",
+    "Comedy",
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0630919",
+      "name": "Majken Algren Nielsen"
+    },
+    {
+      "id": "nm0632890",
+      "name": "Claus Nissen"
+    },
+    {
+      "id": "nm0504654",
+      "name": "Jørgen Leth"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0504654",
+      "name": "Jørgen Leth"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0424209",
+      "name": "Ole John"
+    },
+    {
+      "id": "nm0504654",
+      "name": "Jørgen Leth"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0630919",
+      "name": "Majken Algren Nielsen",
+      "character": "The Perfect Woman"
+    },
+    {
+      "id": "nm0632890",
+      "name": "Claus Nissen",
+      "character": "The Perfect Man"
+    },
+    {
+      "id": "nm0504654",
+      "name": "Jørgen Leth",
+      "character": "Speaker"
+    }
+  ],
+  "countries": [
+    "Denmark"
+  ],
+  "languages": [
+    "Danish"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 132453,
+  "year": 1968,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYjc4Y2VlNDYtN2Y2Yi00ZjE5LTg3MjEtZGQyZGJjMTVkY2JmXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Det perfekte menneske",
+  "ratings": {
+    "imdb": {
+      "rating": 7.2,
+      "votes": 2703,
+      "distribution": {
+        "1": 38,
+        "2": 29,
+        "3": 40,
+        "4": 60,
+        "5": 151,
+        "6": 371,
+        "7": 689,
+        "8": 670,
+        "9": 343,
+        "10": 312
+      },
+      "normalized": 5.806
+    },
+    "filmweb": {
+      "rating": 7.08,
+      "votes": 905,
+      "distribution": {
+        "1": 8,
+        "2": 9,
+        "3": 17,
+        "4": 21,
+        "5": 54,
+        "6": 144,
+        "7": 285,
+        "8": 231,
+        "9": 89,
+        "10": 47
+      },
+      "normalized": 5.5862
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "07.05.2006",
+      "normalized": 5.4199
+    },
+    "score": 5.604
+  },
+  "polish_title": "Człowiek idealny",
+  "silent": false,
+  "description_pl": "Wewnątrz pokoju znajdują się przystojny mężczyzna (<a href=\"/osoba/?id=nm0632890\">Claus Nissen</a>) i piękna kobieta (Majken Algren Nielsen). Narrator (<a href=\"/osoba/?id=nm0504654\">Jørgen Leth</a>) po kolei opisuje ich idealne części ciała. Para zaczyna wykonywać różne proste czynności, które również nie uchodzą uwadze spikera.",
+  "composers": [
+    {
+      "id": "nm0160179",
+      "name": "Henning Christiansen"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

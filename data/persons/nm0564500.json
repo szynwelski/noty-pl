@@ -1,0 +1,65 @@
+{
+  "id": "nm0564500",
+  "name": "Richard McCabe",
+  "filmography": [
+    {
+      "imdb_id": "tt0125439",
+      "title": "Notting Hill",
+      "year": 1999,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Tony"
+    },
+    {
+      "imdb_id": "tt0311113",
+      "title": "Master and Commander: The Far Side of the World",
+      "year": 2003,
+      "roles": [
+        "cast"
+      ],
+      "character": "Mr. Higgins, Surgeon's Mate"
+    },
+    {
+      "imdb_id": "tt6729080",
+      "title": "Collateral",
+      "year": 2018,
+      "roles": [
+        "cast"
+      ],
+      "character": "Peter Westbourne"
+    },
+    {
+      "imdb_id": "tt8579674",
+      "title": "1917",
+      "year": 2019,
+      "roles": [
+        "cast"
+      ],
+      "character": "Colonel Collins"
+    },
+    {
+      "imdb_id": "tt4479380",
+      "title": "SAS: Rise of the Black Swan",
+      "year": 2021,
+      "roles": [
+        "cast"
+      ],
+      "character": "Callum"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BY2YyMmRmNGYtOWVjMi00ZGZiLWFkNzQtZDFhM2FlY2Q1YzcxXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "18.08.1960",
+  "birth_location": "Glasgow, Scotland, UK",
+  "filmweb_id": 6033,
+  "name_pl": "Richard McCabe",
+  "birth_location_pl": "Glasgow, Szkocja",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 6033
+}

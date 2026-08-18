@@ -1,0 +1,72 @@
+{
+  "id": "nm0000020",
+  "name": "Henry Fonda",
+  "filmography": [
+    {
+      "imdb_id": "tt0032551",
+      "title": "The Grapes of Wrath",
+      "year": 1940,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Tom Joad"
+    },
+    {
+      "imdb_id": "tt0036244",
+      "title": "The Ox-Bow Incident",
+      "year": 1943,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Gil Carter"
+    },
+    {
+      "imdb_id": "tt0051207",
+      "title": "The Wrong Man",
+      "year": 1956,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Christopher Emanuel 'Manny' Balestrero"
+    },
+    {
+      "imdb_id": "tt0050083",
+      "title": "12 Angry Men",
+      "year": 1957,
+      "roles": [
+        "star",
+        "cast",
+        "producer"
+      ],
+      "character": "Juror 8"
+    },
+    {
+      "imdb_id": "tt0064116",
+      "title": "Once Upon a Time in the West",
+      "year": 1968,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Frank"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOTEwNjQ2ODQ4Nl5BMl5BanBnXkFtZTYwMzEwMTM2._V1_.jpg",
+  "birth_date": "16.05.1905",
+  "death_date": "12.08.1982",
+  "birth_location": "Grand Island, Nebraska, USA",
+  "height": "1.85 m",
+  "filmweb_id": 41915,
+  "imdb_scraped": true,
+  "name_pl": "Henry Fonda",
+  "birth_location_pl": "Grand Island, Nebraska",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 41915
+}

@@ -1,0 +1,212 @@
+{
+  "imdb_id": "tt0064041",
+  "title": "The Arrangement",
+  "description": "An adman attempts to rebuild his shattered life after suffering a nervous breakdown.",
+  "runtime_minutes": 125,
+  "release_date": "23.12.1969",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0000018",
+      "name": "Kirk Douglas"
+    },
+    {
+      "id": "nm0001159",
+      "name": "Faye Dunaway"
+    },
+    {
+      "id": "nm0000039",
+      "name": "Deborah Kerr"
+    },
+    {
+      "id": "nm0095524",
+      "name": "Richard Boone"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001415",
+      "name": "Elia Kazan"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0001415",
+      "name": "Elia Kazan"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000018",
+      "name": "Kirk Douglas",
+      "character": "Eddie Anderson"
+    },
+    {
+      "id": "nm0001159",
+      "name": "Faye Dunaway",
+      "character": "Gwen"
+    },
+    {
+      "id": "nm0000039",
+      "name": "Deborah Kerr",
+      "character": "Florence Anderson"
+    },
+    {
+      "id": "nm0095524",
+      "name": "Richard Boone",
+      "character": "Sam Arness"
+    },
+    {
+      "id": "nm0002025",
+      "name": "Hume Cronyn",
+      "character": "Arthur Houghton"
+    },
+    {
+      "id": "nm0383449",
+      "name": "Michael Higgins",
+      "character": "Michael Anderson"
+    },
+    {
+      "id": "nm0744029",
+      "name": "Carol Eve Rossen",
+      "character": "Gloria Anderson"
+    },
+    {
+      "id": "nm0361127",
+      "name": "William Hansen",
+      "character": "Dr. Weeks"
+    },
+    {
+      "id": "nm0332390",
+      "name": "Harold Gould",
+      "character": "Dr. Leibman"
+    },
+    {
+      "id": "nm0614526",
+      "name": "Michael Murphy",
+      "character": "Father Draddy"
+    },
+    {
+      "id": "nm0428438",
+      "name": "John Randolph Jones",
+      "character": "Charles"
+    },
+    {
+      "id": "nm0373783",
+      "name": "Anne Hegira",
+      "character": "Thomna"
+    },
+    {
+      "id": "nm0236866",
+      "name": "Charles Drake",
+      "character": "Finnegan"
+    },
+    {
+      "id": "nm0029191",
+      "name": "E.J. André",
+      "character": "Uncle Joe"
+    },
+    {
+      "id": "nm0100109",
+      "name": "Philip Bourneuf",
+      "character": "Judge Morris"
+    },
+    {
+      "id": "nm0401419",
+      "name": "Dianne Hull",
+      "character": "Ellen Anderson"
+    },
+    {
+      "id": "nm0025997",
+      "name": "Donna Anderson",
+      "character": "Girl in Motel"
+    },
+    {
+      "id": "nm0028584",
+      "name": "Brian Andrews",
+      "character": "Child"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 11318,
+  "year": 1969,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMGMxYzM1MGYtZTVjZS00ZmFiLThkMmUtNGZmNDFhZTllOGI1XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.3,
+      "votes": 3603,
+      "distribution": {
+        "1": 112,
+        "2": 74,
+        "3": 129,
+        "4": 227,
+        "5": 488,
+        "6": 819,
+        "7": 736,
+        "8": 466,
+        "9": 214,
+        "10": 338
+      },
+      "normalized": 4.3606
+    },
+    "filmweb": {
+      "rating": 7.16,
+      "votes": 1339,
+      "distribution": {
+        "1": 10,
+        "2": 9,
+        "3": 22,
+        "4": 39,
+        "5": 87,
+        "6": 199,
+        "7": 393,
+        "8": 354,
+        "9": 140,
+        "10": 86
+      },
+      "normalized": 5.751
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "27.11.2006",
+      "normalized": 6.3474
+    },
+    "score": 5.4863
+  },
+  "polish_title": "Układ",
+  "silent": false,
+  "description_pl": "Eddie jest bardzo bogatym człowiekiem, który ma wszystko to, czego tylko chce - pieniądze, rodzinę, powodzenie ... Ale wypadek samochodowy powoduje, że zaczyna on zastanawiać się nad swoim życiem. Wspomina swoją pierwszą wielką miłość, Gwen. Tymczasem jego żona chciałaby przejąć jego fortunę. W tym celu zaczyna przeciwko niemu spiskować ...",
+  "producers": [
+    {
+      "id": "nm0001415",
+      "name": "Elia Kazan"
+    },
+    {
+      "id": "nm0536557",
+      "name": "Charles H. Maguire"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0025371",
+      "name": "David Amram"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005892",
+      "name": "Robert Surtees"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

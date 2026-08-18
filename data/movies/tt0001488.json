@@ -1,0 +1,90 @@
+{
+  "imdb_id": "tt0001488",
+  "title": "The Hallucinations of Baron Munchausen",
+  "description": "After an evening of excessive wining and dining Baron Munchausen must be helped to bed by his servants. Once asleep, he has bizarre and frightening dreams.",
+  "runtime_minutes": 11,
+  "release_date": "1911",
+  "genres": [
+    "Short",
+    "Fantasy"
+  ],
+  "directors": [
+    {
+      "id": "nm0617588",
+      "name": "Georges Méliès"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0119279",
+      "name": "Gottfried August Bürger"
+    },
+    {
+      "id": "nm0310375",
+      "name": "Théophile Gautier"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "None",
+    "French"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 89254,
+  "year": 1911,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTdmYWU3ODEtN2IwOS00YmI3LThmOGMtOGVmM2RhNzdhYjA5XkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Les hallucinations du baron de Münchhausen",
+  "ratings": {
+    "imdb": {
+      "rating": 6.2,
+      "votes": 640,
+      "distribution": {
+        "1": 11,
+        "2": 6,
+        "3": 15,
+        "4": 43,
+        "5": 94,
+        "6": 188,
+        "7": 174,
+        "8": 59,
+        "9": 22,
+        "10": 28
+      },
+      "normalized": 4.7128
+    },
+    "filmweb": {
+      "rating": 6.59,
+      "votes": 218,
+      "distribution": {
+        "1": 1,
+        "2": 1,
+        "3": 6,
+        "4": 14,
+        "5": 23,
+        "6": 53,
+        "7": 62,
+        "8": 34,
+        "9": 19,
+        "10": 5
+      },
+      "normalized": 4.9287
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "18.11.2007",
+      "normalized": 5.4199
+    },
+    "score": 5.0205
+  },
+  "polish_title": "Przygody barona Munchausena",
+  "silent": true,
+  "description_pl": "Po obfitej i suto zakrapianej kolacji Baron Munchausen potrzebuje pomocy służących by dotrzeć do łóżka. We śnie nawiedzają go okrutne i przerażające koszmary.",
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-15"
+}

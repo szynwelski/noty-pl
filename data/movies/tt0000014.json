@@ -1,0 +1,109 @@
+{
+  "imdb_id": "tt0000014",
+  "title": "The Waterer Watered",
+  "description": "An impudent child plays a prank on a gardener innocently watering his plants.",
+  "runtime_minutes": 1,
+  "release_date": "1896",
+  "genres": [
+    "Short",
+    "Comedy"
+  ],
+  "stars": [
+    {
+      "id": "nm0166380",
+      "name": "François Clerc"
+    },
+    {
+      "id": "nm0244989",
+      "name": "Benoît Duval"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0525910",
+      "name": "Louis Lumière"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0166380",
+      "name": "François Clerc",
+      "character": "The Gardener"
+    },
+    {
+      "id": "nm0244989",
+      "name": "Benoît Duval",
+      "character": "The Boy"
+    }
+  ],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 96231,
+  "year": 1895,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzIxZjJjOTEtZDdiOS00MTIwLWJlMjgtMTU5ZDkzZTZlODI0XkEyXkFqcGc@._V1_.jpg",
+  "original_title": "L'arroseur arrosé",
+  "ratings": {
+    "imdb": {
+      "rating": 7.1,
+      "votes": 6509,
+      "distribution": {
+        "1": 91,
+        "2": 68,
+        "3": 78,
+        "4": 159,
+        "5": 487,
+        "6": 1098,
+        "7": 2123,
+        "8": 1251,
+        "9": 465,
+        "10": 689
+      },
+      "normalized": 5.6709
+    },
+    "filmweb": {
+      "rating": 6.99,
+      "votes": 2178,
+      "distribution": {
+        "1": 15,
+        "2": 19,
+        "3": 31,
+        "4": 60,
+        "5": 197,
+        "6": 380,
+        "7": 749,
+        "8": 412,
+        "9": 124,
+        "10": 191
+      },
+      "normalized": 5.5312
+    },
+    "jarek": {
+      "rating": 8,
+      "date_rated": "11.12.2016",
+      "normalized": 7.8989
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "21.10.2007",
+      "normalized": 6.3474
+    },
+    "score": 6.3621
+  },
+  "polish_title": "Polewacz polany",
+  "silent": true,
+  "description_pl": "Ogrodnik podlewa kwiaty, młody chłopiec staje na wężu a to z kolei blokuje wodę, która przestaje lecieć. Ogrodnik odwraca się, aby zobaczyć co się stało, a wtedy chłopiec podnosi nogę... Jedno-minutowy film, który prawdopodobnie przedstawia pierwszy gag w historii kina, a z pewnością jest jednym z najbardziej znanych.",
+  "cinematographers": [
+    {
+      "id": "nm0525910",
+      "name": "Louis Lumière"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-15"
+}

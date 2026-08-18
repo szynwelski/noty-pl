@@ -1,0 +1,214 @@
+{
+  "imdb_id": "tt0054698",
+  "title": "Breakfast at Tiffany's",
+  "description": "A young New York socialite becomes interested in a young man who has moved into her apartment building, but her past threatens to get in the way.",
+  "runtime_minutes": 115,
+  "release_date": "06.10.1961",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0000030",
+      "name": "Audrey Hepburn"
+    },
+    {
+      "id": "nm0000577",
+      "name": "George Peppard"
+    },
+    {
+      "id": "nm0623658",
+      "name": "Patricia Neal"
+    },
+    {
+      "id": "nm0001171",
+      "name": "Buddy Ebsen"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001175",
+      "name": "Blake Edwards"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0001986",
+      "name": "Truman Capote"
+    },
+    {
+      "id": "nm0043480",
+      "name": "George Axelrod"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000030",
+      "name": "Audrey Hepburn",
+      "character": "Holly Golightly"
+    },
+    {
+      "id": "nm0000577",
+      "name": "George Peppard",
+      "character": "Paul Varjak"
+    },
+    {
+      "id": "nm0623658",
+      "name": "Patricia Neal",
+      "character": "2E Failenson"
+    },
+    {
+      "id": "nm0001171",
+      "name": "Buddy Ebsen",
+      "character": "Doc Golightly"
+    },
+    {
+      "id": "nm0000842",
+      "name": "Martin Balsam",
+      "character": "O.J. Berman"
+    },
+    {
+      "id": "nm0897808",
+      "name": "José Luis de Vilallonga",
+      "character": "José da Silva Pereira"
+    },
+    {
+      "id": "nm0569410",
+      "name": "John McGiver",
+      "character": "Tiffany's Salesman"
+    },
+    {
+      "id": "nm0926286",
+      "name": "Dorothy Whitney",
+      "character": "Mag Wildwood"
+    },
+    {
+      "id": "nm0011366",
+      "name": "Stanley Adams",
+      "character": "Rusty Trawler"
+    },
+    {
+      "id": "nm0021519",
+      "name": "Elvia Allman",
+      "character": "Librarian"
+    },
+    {
+      "id": "nm0715284",
+      "name": "Alan Reed",
+      "character": "Sally Tomato"
+    },
+    {
+      "id": "nm0694500",
+      "name": "Beverly Powers",
+      "character": "Nightclub Stripper"
+    },
+    {
+      "id": "nm0835140",
+      "name": "Claude Stroud",
+      "character": "Sid Arbuck"
+    },
+    {
+      "id": "nm1248838",
+      "name": "Orangey",
+      "character": "Cat"
+    },
+    {
+      "id": "nm0001682",
+      "name": "Mickey Rooney",
+      "character": "Mr. Yunioshi"
+    },
+    {
+      "id": "nm0026629",
+      "name": "Don Anderson",
+      "character": "Bartender"
+    },
+    {
+      "id": "nm0042741",
+      "name": "Al Avalon",
+      "character": "Spieler at Stripjoint"
+    },
+    {
+      "id": "nm0052601",
+      "name": "Janet Banzet",
+      "character": "Woman"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Portuguese",
+    "French",
+    "Japanese"
+  ],
+  "color": null,
+  "filmweb_id": 1318,
+  "year": 1961,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZmU1MzlmOTMtZTNmMC00ZTA3LTkzMWMtOTc1MWNlMjFiYjFlXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.5,
+      "votes": 205855,
+      "distribution": {
+        "1": 1580,
+        "2": 1036,
+        "3": 1766,
+        "4": 3327,
+        "5": 7906,
+        "6": 20175,
+        "7": 48707,
+        "8": 60159,
+        "9": 30638,
+        "10": 30561
+      },
+      "normalized": 6.4357
+    },
+    "filmweb": {
+      "rating": 7.75,
+      "votes": 160522,
+      "distribution": {
+        "1": 579,
+        "2": 400,
+        "3": 1333,
+        "4": 2133,
+        "5": 5762,
+        "6": 14480,
+        "7": 37040,
+        "8": 52405,
+        "9": 28158,
+        "10": 18232
+      },
+      "normalized": 7.5279
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "27.10.2006",
+      "normalized": 6.3474
+    },
+    "score": 6.7703
+  },
+  "polish_title": "Śniadanie u Tiffany'ego",
+  "silent": false,
+  "description_pl": "Ekranizacja opowiadania Trumana Capote. Holly Golightly jest postrzeloną dziewczyną, której życie upływa na nieustannej zabawie na koszt bogatych adoratorów. Pewnego dnia piętro wyżej wprowadza się młody pisarz, który także jest utrzymankiem. Tę dwójkę zaczyna łączyć przyjaźń, która przerodzi się w głębsze uczucie. Oboje będą musieli zweryfikować swe dotychczasowe życie i zdecydować, czy są w stanie być razem.",
+  "producers": [
+    {
+      "id": "nm0433021",
+      "name": "Martin Jurow"
+    },
+    {
+      "id": "nm0791847",
+      "name": "Richard Shepherd"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0000049",
+      "name": "Henry Mancini"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

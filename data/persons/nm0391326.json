@@ -1,0 +1,39 @@
+{
+  "id": "nm0391326",
+  "name": "Josh Holloway",
+  "filmography": [
+    {
+      "imdb_id": "tt0411008",
+      "title": "Lost",
+      "year": 2004,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "James 'Sawyer' Ford"
+    },
+    {
+      "imdb_id": "tt1229238",
+      "title": "Mission: Impossible - Ghost Protocol",
+      "year": 2011,
+      "roles": [
+        "cast"
+      ],
+      "character": "Hanaway"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTk5NTQ2NjMzNl5BMl5BanBnXkFtZTYwOTExMzY1._V1_.jpg",
+  "birth_date": "20.07.1969",
+  "birth_location": "San Jose, California, USA",
+  "height": "1.86 m",
+  "imdb_scraped": true,
+  "filmweb_id": 101989,
+  "name_pl": "Josh Holloway",
+  "birth_location_pl": "San Jose, Kalifornia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 101989
+}

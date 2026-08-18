@@ -1,0 +1,216 @@
+{
+  "imdb_id": "tt0064665",
+  "title": "Midnight Cowboy",
+  "description": "A naive hustler travels from Texas to New York City to seek personal fortune, finding a new friend in the process.",
+  "runtime_minutes": 113,
+  "release_date": "25.05.1969",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0000163",
+      "name": "Dustin Hoffman"
+    },
+    {
+      "id": "nm0000685",
+      "name": "Jon Voight"
+    },
+    {
+      "id": "nm0587249",
+      "name": "Sylvia Miles"
+    },
+    {
+      "id": "nm0569410",
+      "name": "John McGiver"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0772259",
+      "name": "John Schlesinger"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0759029",
+      "name": "Waldo Salt"
+    },
+    {
+      "id": "nm0379052",
+      "name": "James Leo Herlihy"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000163",
+      "name": "Dustin Hoffman",
+      "character": "Ratso"
+    },
+    {
+      "id": "nm0000685",
+      "name": "Jon Voight",
+      "character": "Joe Buck"
+    },
+    {
+      "id": "nm0587249",
+      "name": "Sylvia Miles",
+      "character": "Cass"
+    },
+    {
+      "id": "nm0569410",
+      "name": "John McGiver",
+      "character": "Mr. O'Daniel"
+    },
+    {
+      "id": "nm0882853",
+      "name": "Brenda Vaccaro",
+      "character": "Shirley"
+    },
+    {
+      "id": "nm0400464",
+      "name": "Barnard Hughes",
+      "character": "Towny"
+    },
+    {
+      "id": "nm0925418",
+      "name": "Ruth White",
+      "character": "Sally Buck"
+    },
+    {
+      "id": "nm0759022",
+      "name": "Jennifer Salt",
+      "character": "Annie"
+    },
+    {
+      "id": "nm0710250",
+      "name": "Gilman Rankin",
+      "character": "Woodsy Niles"
+    },
+    {
+      "id": "nm4734214",
+      "name": "Gary Owens",
+      "character": "Little Joe"
+    },
+    {
+      "id": "nm0549248",
+      "name": "T. Tom Marlow",
+      "character": "Little Joe"
+    },
+    {
+      "id": "nm0258359",
+      "name": "George Eppersen",
+      "character": "Ralph"
+    },
+    {
+      "id": "nm0778791",
+      "name": "Al Scott",
+      "character": "Cafeteria Manager"
+    },
+    {
+      "id": "nm0205035",
+      "name": "Linda Davis",
+      "character": "Mother on the Bus"
+    },
+    {
+      "id": "nm0557684",
+      "name": "J.T. Masters",
+      "character": "Old Cow-Hand"
+    },
+    {
+      "id": "nm0715772",
+      "name": "Arlene Reeder",
+      "character": "The Old Lady"
+    },
+    {
+      "id": "nm0425133",
+      "name": "Georgann Johnson",
+      "character": "Rich Lady"
+    },
+    {
+      "id": "nm0469567",
+      "name": "Jonathan Kramer",
+      "character": "Jackie"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Italian"
+  ],
+  "color": "Color",
+  "filmweb_id": 8182,
+  "year": 1969,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BY2QyNDQ4ZGQtOTFlYy00NDVjLWI5NTEtNTBmYTA5OTI0ODYyXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.8,
+      "votes": 132345,
+      "distribution": {
+        "1": 1537,
+        "2": 740,
+        "3": 943,
+        "4": 1832,
+        "5": 4015,
+        "6": 10536,
+        "7": 27509,
+        "8": 42958,
+        "9": 23160,
+        "10": 19115
+      },
+      "normalized": 6.9938
+    },
+    "filmweb": {
+      "rating": 7.62,
+      "votes": 26088,
+      "distribution": {
+        "1": 176,
+        "2": 102,
+        "3": 233,
+        "4": 355,
+        "5": 914,
+        "6": 2285,
+        "7": 6447,
+        "8": 9264,
+        "9": 4366,
+        "10": 1946
+      },
+      "normalized": 7.0617
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "03.02.2007",
+      "normalized": 6.3474
+    },
+    "score": 6.801
+  },
+  "polish_title": "Nocny kowboj",
+  "silent": false,
+  "description_pl": "Joe Buck, młody chłopak z Teksasu, naczytał się o wymagających kobietach ze Wschodniego Wybrzeża. Myślenie nie jest jego mocną stroną, więc pakuje się i bez większych namysłów wyjeżdża do Nowego Jorku. Bierze oczywiście duży czarny kapelusz, do ręki radio tranzystorowe i chce podbić NY. Po pierwszej mało udanej próbie zarobkowania (musi sam zapłacić widząc płaczącą kobietę), chce znaleźć agenta, ten oszukuje go i okrada. W końcu jednak obaj się zaprzyjaźniają, a Joe zaczyna \"zarabiać\".",
+  "producers": [
+    {
+      "id": "nm0375477",
+      "name": "Jerome Hellman"
+    },
+    {
+      "id": "nm0882588",
+      "name": "Kenneth Utt"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0000290",
+      "name": "John Barry"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0390435",
+      "name": "Adam Holender"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

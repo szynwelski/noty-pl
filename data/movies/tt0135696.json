@@ -1,0 +1,91 @@
+{
+  "imdb_id": "tt0135696",
+  "title": "Four Heads Are Better Than One",
+  "description": "Much to our amazement, an elegant and masterful illusionist detaches his own head effortlessly from his shoulders for a once-in-a-lifetime performance.",
+  "runtime_minutes": 1,
+  "release_date": "30.11.1898",
+  "genres": [
+    "Short",
+    "Comedy"
+  ],
+  "stars": [
+    {
+      "id": "nm0617588",
+      "name": "Georges Méliès"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0617588",
+      "name": "Georges Méliès"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0617588",
+      "name": "Georges Méliès",
+      "character": "The Magician and His Three Heads"
+    }
+  ],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 211558,
+  "year": 1898,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOWViMGZlNmMtMjMwNi00NTE4LThhN2YtNWZiMDEzOTIyMjM5XkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Un Homme de têtes",
+  "ratings": {
+    "imdb": {
+      "rating": 7.5,
+      "votes": 4575,
+      "distribution": {
+        "1": 51,
+        "2": 35,
+        "3": 33,
+        "4": 68,
+        "5": 214,
+        "6": 508,
+        "7": 1350,
+        "8": 1358,
+        "9": 484,
+        "10": 474
+      },
+      "normalized": 6.2261
+    },
+    "filmweb": {
+      "rating": 7.14,
+      "votes": 938,
+      "distribution": {
+        "1": 8,
+        "2": 4,
+        "3": 9,
+        "4": 11,
+        "5": 58,
+        "6": 157,
+        "7": 319,
+        "8": 237,
+        "9": 96,
+        "10": 39
+      },
+      "normalized": 5.6705
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "11.12.2016",
+      "normalized": 7.1247
+    },
+    "score": 6.3404
+  },
+  "polish_title": "Un homme de têtes",
+  "silent": true,
+  "description_pl": "Krótki, niemy film ukazujący możliwości ówczesnej kinematografii. Magik (<a href=\"/osoba/?id=nm0617588\">Georges Méliès</a>) urywa sobie głowę by  po chwili \"wyrosła\" mu nowa. Czynność powtarza parokrotnie za każdym razem kładąc swe głowy na stojących obok stolikach, by w końcu w kwartecie (trzy głowy na stolikach i jedna na szyi magika) zaśpiewać.",
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-16"
+}

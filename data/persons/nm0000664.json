@@ -1,0 +1,50 @@
+{
+  "id": "nm0000664",
+  "name": "Patrick Swayze",
+  "filmography": [
+    {
+      "imdb_id": "tt0092890",
+      "title": "Dirty Dancing",
+      "year": 1987,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Johnny Castle"
+    },
+    {
+      "imdb_id": "tt0099653",
+      "title": "Ghost",
+      "year": 1990,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Sam Wheat"
+    },
+    {
+      "imdb_id": "tt0246578",
+      "title": "Donnie Darko",
+      "year": 2001,
+      "roles": [
+        "cast"
+      ],
+      "character": "Jim Cunningham"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDM2NjI0MjYyMV5BMl5BanBnXkFtZTYwMjY1ODMz._V1_.jpg",
+  "birth_date": "18.08.1952",
+  "death_date": "14.09.2009",
+  "birth_location": "Houston, Texas, USA",
+  "height": "1.78 m",
+  "filmweb_id": 285,
+  "name_pl": "Patrick Swayze",
+  "birth_location_pl": "Houston, Teksas",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 285
+}

@@ -1,0 +1,234 @@
+{
+  "imdb_id": "tt0086190",
+  "title": "Star Wars: Episode VI - Return of the Jedi",
+  "description": "After rescuing Han Solo from Jabba the Hutt, the Rebel Alliance attempts to destroy the second Death Star while Luke struggles to help Darth Vader back from the dark side.",
+  "runtime_minutes": 131,
+  "release_date": "25.05.1983",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm0000434",
+      "name": "Mark Hamill"
+    },
+    {
+      "id": "nm0000148",
+      "name": "Harrison Ford"
+    },
+    {
+      "id": "nm0000402",
+      "name": "Carrie Fisher"
+    },
+    {
+      "id": "nm0001850",
+      "name": "Billy Dee Williams"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0549658",
+      "name": "Richard Marquand"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0001410",
+      "name": "Lawrence Kasdan"
+    },
+    {
+      "id": "nm0000184",
+      "name": "George Lucas"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000434",
+      "name": "Mark Hamill",
+      "character": "Luke Skywalker"
+    },
+    {
+      "id": "nm0000148",
+      "name": "Harrison Ford",
+      "character": "Han Solo"
+    },
+    {
+      "id": "nm0000402",
+      "name": "Carrie Fisher",
+      "character": "Princess Leia"
+    },
+    {
+      "id": "nm0001850",
+      "name": "Billy Dee Williams",
+      "character": "Lando Calrissian"
+    },
+    {
+      "id": "nm0000355",
+      "name": "Anthony Daniels",
+      "character": "C-3PO"
+    },
+    {
+      "id": "nm0562679",
+      "name": "Peter Mayhew",
+      "character": "Chewbacca"
+    },
+    {
+      "id": "nm0789970",
+      "name": "Sebastian Shaw",
+      "character": "Anakin Skywalker"
+    },
+    {
+      "id": "nm0001519",
+      "name": "Ian McDiarmid",
+      "character": "The Emperor"
+    },
+    {
+      "id": "nm0000568",
+      "name": "Frank Oz",
+      "character": "Yoda"
+    },
+    {
+      "id": "nm0000469",
+      "name": "James Earl Jones",
+      "character": "Darth Vader"
+    },
+    {
+      "id": "nm0001190",
+      "name": "David Prowse",
+      "character": "Darth Vader"
+    },
+    {
+      "id": "nm0000027",
+      "name": "Alec Guinness",
+      "character": "Ben 'Obi-Wan' Kenobi"
+    },
+    {
+      "id": "nm0048652",
+      "name": "Kenny Baker",
+      "character": "R2-D2"
+    },
+    {
+      "id": "nm0672190",
+      "name": "Michael Pennington",
+      "character": "Moff Jerjerrod"
+    },
+    {
+      "id": "nm0171829",
+      "name": "Kenneth Colley",
+      "character": "Admiral Piett"
+    },
+    {
+      "id": "nm0141816",
+      "name": "Michael Carter",
+      "character": "Bib Fortuna"
+    },
+    {
+      "id": "nm0493200",
+      "name": "Denis Lawson",
+      "character": "Wedge"
+    },
+    {
+      "id": "nm0741714",
+      "name": "Tim Rose",
+      "character": "Admiral Ackbar"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Kikuyu",
+    "Tagalog",
+    "Kalmyk-Oirat",
+    "Quechua",
+    "Polish"
+  ],
+  "color": "Color",
+  "filmweb_id": 547,
+  "year": 1983,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNWEwOTI0MmUtMGNmNy00ODViLTlkZDQtZTg1YmQ3MDgyNTUzXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8.3,
+      "votes": 1220125,
+      "distribution": {
+        "1": 10680,
+        "2": 3369,
+        "3": 4773,
+        "4": 8464,
+        "5": 21155,
+        "6": 58155,
+        "7": 179938,
+        "8": 366041,
+        "9": 301814,
+        "10": 265736
+      },
+      "normalized": 8.4728
+    },
+    "filmweb": {
+      "rating": 8.08,
+      "votes": 307200,
+      "distribution": {
+        "1": 2474,
+        "2": 784,
+        "3": 1787,
+        "4": 2863,
+        "5": 6423,
+        "6": 17267,
+        "7": 53874,
+        "8": 101342,
+        "9": 67326,
+        "10": 53060
+      },
+      "normalized": 8.6155
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "02.12.2005",
+      "normalized": 6.4102
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "28.11.2015",
+      "normalized": 6.3474
+    },
+    "score": 7.4615
+  },
+  "polish_title": "Gwiezdne wojny: Część VI - Powrót Jedi",
+  "silent": false,
+  "description_pl": "Kolejna część wielkiej Gwiezdnej Sagi. Imperium ponownie rośnie w siłę. Budowa Drugiej Gwiazdy Śmierci zbliża się ku końcowi. Rebelianci również nie próżnują. Luke Skywalker (<a href=\"/osoba/?id=nm0000434\">Mark Hamill</a>), Leia (<a href=\"/osoba/?id=nm0000402\">Carrie Fisher</a>), Lando Calrissian (<a href=\"/osoba/?id=nm0001850\">Billy Dee Williams</a>) i Chewie (<a href=\"/osoba/?id=nm0562679\">Peter Mayhew</a>) udają się na pustynną Tatooine, aby uwolnić Hana Solo (<a href=\"/osoba/?id=nm0000148\">Harrison Ford</a>) z rąk Jabby Hutta. Rebelianci, chcąc jak najszybciej zakończyć rządy Imperatora (<a href=\"/osoba/?id=nm0001519\">Ian McDiarmid</a>), zamierzają nie dopuścić do ukończenia budowy Gwiazdy Śmierci. Dzielą się na dwa oddziały - jeden przeprowadza akcję dywersyjną na księżycu Endor, a drugi atakuje bezpośrednio bazę Imperium. Luke udaje się z Rebeliantami lecącymi na Endor. Przeczuwa, że jego przeznaczeniem jest ponowne zmierzenie się z Vaderem (<a href=\"/osoba/?id=nm0001190\">David Prowse</a>). W międzyczasie dowiaduje się, że ma siostrę...",
+  "producers": [
+    {
+      "id": "nm0089179",
+      "name": "Jim Bloom"
+    },
+    {
+      "id": "nm0443599",
+      "name": "Howard G. Kazanjian"
+    },
+    {
+      "id": "nm0000184",
+      "name": "George Lucas"
+    },
+    {
+      "id": "nm0564768",
+      "name": "Rick McCallum"
+    },
+    {
+      "id": "nm0915226",
+      "name": "Robert Watts"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0002354",
+      "name": "John Williams"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

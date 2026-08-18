@@ -1,0 +1,90 @@
+{
+  "imdb_id": "tt0000451",
+  "title": "Mary Jane's Mishap",
+  "description": "Smith casts his wife as a sluttish housewife who is mutilated by lighting her oven with paraffin.",
+  "runtime_minutes": 4,
+  "release_date": "1903",
+  "genres": [
+    "Short",
+    "Comedy"
+  ],
+  "stars": [
+    {
+      "id": "nm0809419",
+      "name": "Laura Bayley"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0808310",
+      "name": "George Albert Smith"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0809419",
+      "name": "Laura Bayley",
+      "character": "Mary Jane"
+    }
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 96470,
+  "year": 1903,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDk4ZDIxOGUtNTUxYy00YTAzLWI4M2EtOWVjYWM0OGQ5ZGMxXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.4,
+      "votes": 1195,
+      "distribution": {
+        "1": 20,
+        "2": 24,
+        "3": 23,
+        "4": 72,
+        "5": 160,
+        "6": 286,
+        "7": 344,
+        "8": 153,
+        "9": 50,
+        "10": 63
+      },
+      "normalized": 4.7349
+    },
+    "filmweb": {
+      "rating": 6.38,
+      "votes": 269,
+      "distribution": {
+        "1": 5,
+        "2": 2,
+        "3": 6,
+        "4": 18,
+        "5": 28,
+        "6": 75,
+        "7": 75,
+        "8": 43,
+        "9": 12,
+        "10": 5
+      },
+      "normalized": 4.6778
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "15.12.2016",
+      "normalized": 5.6855
+    },
+    "score": 5.0327
+  },
+  "polish_title": "Nieszczęśliwy wypadek Mary Jane",
+  "silent": true,
+  "description_pl": "Mary Jane próbuję zapalić piekarnik. Kiedy jej się nie udaje, krząta się w około, nakłada czarny połysk na twarz, stroi miny przed lustrem... A potem wraca do pracy. Kiedy piec nadal nie chce zapalić, wlewa do niego parafiny i zapala zapałkę... Następuje wybuch!",
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-15"
+}

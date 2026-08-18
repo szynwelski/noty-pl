@@ -1,0 +1,232 @@
+{
+  "imdb_id": "tt0117060",
+  "title": "Mission: Impossible",
+  "description": "An American agent, under false suspicion of disloyalty, must discover and expose the real spy without the help of his organization.",
+  "runtime_minutes": 110,
+  "release_date": "22.05.1996",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000129",
+      "name": "Tom Cruise"
+    },
+    {
+      "id": "nm0000685",
+      "name": "Jon Voight"
+    },
+    {
+      "id": "nm0000322",
+      "name": "Emmanuelle Béart"
+    },
+    {
+      "id": "nm0001089",
+      "name": "Henry Czerny"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000361",
+      "name": "Brian De Palma"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0312367",
+      "name": "Bruce Geller"
+    },
+    {
+      "id": "nm0462895",
+      "name": "David Koepp"
+    },
+    {
+      "id": "nm0001873",
+      "name": "Steven Zaillian"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000129",
+      "name": "Tom Cruise",
+      "character": "Ethan Hunt"
+    },
+    {
+      "id": "nm0000685",
+      "name": "Jon Voight",
+      "character": "Jim Phelps"
+    },
+    {
+      "id": "nm0000322",
+      "name": "Emmanuelle Béart",
+      "character": "Claire"
+    },
+    {
+      "id": "nm0001089",
+      "name": "Henry Czerny",
+      "character": "Kittridge"
+    },
+    {
+      "id": "nm0000606",
+      "name": "Jean Reno",
+      "character": "Krieger"
+    },
+    {
+      "id": "nm0000609",
+      "name": "Ving Rhames",
+      "character": "Luther"
+    },
+    {
+      "id": "nm0000218",
+      "name": "Kristin Scott Thomas",
+      "character": "Sarah Davies"
+    },
+    {
+      "id": "nm0000603",
+      "name": "Vanessa Redgrave",
+      "character": "Max"
+    },
+    {
+      "id": "nm0200848",
+      "name": "Ingeborga Dapkunaite",
+      "character": "Hannah"
+    },
+    {
+      "id": "nm0945118",
+      "name": "Valentina Yakunina",
+      "character": "Drunken Female IMF Agent"
+    },
+    {
+      "id": "nm0890874",
+      "name": "Marek Vašut",
+      "character": "Drunken Male IMF Agent"
+    },
+    {
+      "id": "nm0651879",
+      "name": "Nathan Osgood",
+      "character": "Kittridge Technician"
+    },
+    {
+      "id": "nm0572349",
+      "name": "John McLaughlin",
+      "character": "TV Interviewer"
+    },
+    {
+      "id": "nm0768350",
+      "name": "Rolf Saxon",
+      "character": "CIA Analyst William Donloe"
+    },
+    {
+      "id": "nm0229859",
+      "name": "Karel Dobrý",
+      "character": "Matthias"
+    },
+    {
+      "id": "nm0936591",
+      "name": "Andreas Wisniewski",
+      "character": "Max's Companion"
+    },
+    {
+      "id": "nm0787231",
+      "name": "David Shaeffer",
+      "character": "Diplomat Rand Housman"
+    },
+    {
+      "id": "nm0669552",
+      "name": "Rudolf Pechan",
+      "character": "Mayor Brandl"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Czech"
+  ],
+  "color": "Color",
+  "filmweb_id": 1001,
+  "year": 1996,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOGZjNDlkMTYtMTJkZi00OTkzLWI4NDEtYTA2ODQyMjcwYTdlXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.2,
+      "votes": 521730,
+      "distribution": {
+        "1": 3893,
+        "2": 2204,
+        "3": 3898,
+        "4": 7884,
+        "5": 23512,
+        "6": 76906,
+        "7": 201454,
+        "8": 133083,
+        "9": 39234,
+        "10": 29662
+      },
+      "normalized": 5.9696
+    },
+    "filmweb": {
+      "rating": 7.1,
+      "votes": 127306,
+      "distribution": {
+        "1": 223,
+        "2": 237,
+        "3": 897,
+        "4": 2221,
+        "5": 6610,
+        "6": 21409,
+        "7": 50770,
+        "8": 33482,
+        "9": 7470,
+        "10": 3987
+      },
+      "normalized": 5.8289
+    },
+    "jarek": {
+      "rating": 3,
+      "date_rated": "23.02.2011",
+      "normalized": 4.2591
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "28.09.2014",
+      "normalized": 4.5781
+    },
+    "score": 5.1589
+  },
+  "polish_title": "Mission: Impossible",
+  "silent": false,
+  "description_pl": "CIA dociera do informacji o podwójnym agencie, który zamierza sprzedać listę z nazwiskami wszystkich szpiegów amerykańskiego wywiadu. Władze agencji zrobią wszystko, żeby go powstrzymać. Do Pragi wysłana zostaje grupa operacyjna dowodzona przez Jima Phelpsa, której zadaniem jest zdemaskowanie zdrajcy. Niestety akcja kończy się ogromnym niepowodzeniem. O zdradę zostaje oskarżony tajny agent Ethan Hunt. Niewinny mężczyzna musi teraz zrobić wszystko, żeby oczyścić się z zarzutów i powstrzymać wroga zanim będzie za późno.",
+  "producers": [
+    {
+      "id": "nm0000129",
+      "name": "Tom Cruise"
+    },
+    {
+      "id": "nm0386878",
+      "name": "Paul Hitchcock"
+    },
+    {
+      "id": "nm0906048",
+      "name": "Paula Wagner"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0000384",
+      "name": "Danny Elfman"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005664",
+      "name": "Stephen H. Burum"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

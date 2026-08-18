@@ -1,0 +1,219 @@
+{
+  "imdb_id": "tt0069293",
+  "title": "Solaris",
+  "description": "A psychologist is sent to a station orbiting a distant planet in order to discover what has caused the crew to go insane.",
+  "runtime_minutes": 167,
+  "release_date": "26.09.1972",
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Mystery",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm0094081",
+      "name": "Natalya Bondarchuk"
+    },
+    {
+      "id": "nm0052023",
+      "name": "Donatas Banionis"
+    },
+    {
+      "id": "nm0433525",
+      "name": "Jüri Järvet"
+    },
+    {
+      "id": "nm0245367",
+      "name": "Vladislav Dvorzhetskiy"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001789",
+      "name": "Andrei Tarkovsky"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0501015",
+      "name": "Stanislaw Lem"
+    },
+    {
+      "id": "nm0330830",
+      "name": "Fridrikh Gorenshteyn"
+    },
+    {
+      "id": "nm0001789",
+      "name": "Andrei Tarkovsky"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0094081",
+      "name": "Natalya Bondarchuk",
+      "character": "Khari"
+    },
+    {
+      "id": "nm0052023",
+      "name": "Donatas Banionis",
+      "character": "Kris Kelvin, psikholog"
+    },
+    {
+      "id": "nm0433525",
+      "name": "Jüri Järvet",
+      "character": "Doktor Snaut, kibernetik"
+    },
+    {
+      "id": "nm0245367",
+      "name": "Vladislav Dvorzhetskiy",
+      "character": "Anri Berton, pilot"
+    },
+    {
+      "id": "nm0342458",
+      "name": "Nikolay Grinko",
+      "character": "Nik Kelvin, otets Krisa Kelvina"
+    },
+    {
+      "id": "nm0813463",
+      "name": "Anatoliy Solonitsyn",
+      "character": "Doktor Sartorius, astrobiolog"
+    },
+    {
+      "id": "nm0055835",
+      "name": "Olga Barnet",
+      "character": "Mat Krisa Kelvina"
+    },
+    {
+      "id": "nm0449256",
+      "name": "Vitalik Kerdimun",
+      "character": "Syn Anri Bertona"
+    },
+    {
+      "id": "nm0457972",
+      "name": "Olga Kizilova",
+      "character": "Gostya doktora Gribaryana"
+    },
+    {
+      "id": "nm0540918",
+      "name": "Tatyana Malykh",
+      "character": "Plemyannitsa Krisa Kelvina"
+    },
+    {
+      "id": "nm0592735",
+      "name": "Aleksandr Misharin",
+      "character": "Shanakhan, predsedatel komissii Anri Bertona"
+    },
+    {
+      "id": "nm0644484",
+      "name": "Bagrat Oganesyan",
+      "character": "Professor Tarkhe"
+    },
+    {
+      "id": "nm0644791",
+      "name": "Tamara Ogorodnikova",
+      "character": "Anna, tetka Krisa Kelvina"
+    },
+    {
+      "id": "nm0765316",
+      "name": "Sos Sargsyan",
+      "character": "Doktor Gribaryan, fiziolog"
+    },
+    {
+      "id": "nm0042972",
+      "name": "Yulian Semyonov",
+      "character": "Predsedatel nauchnoy konferentsii"
+    },
+    {
+      "id": "nm0823834",
+      "name": "Vitaliy Statsinskiy",
+      "character": "Chlen uchenogo soveta"
+    },
+    {
+      "id": "nm0838542",
+      "name": "Vera Sumenova",
+      "character": ""
+    },
+    {
+      "id": "nm0854233",
+      "name": "Georgiy Teykh",
+      "character": "Professor Messendzher"
+    }
+  ],
+  "countries": [
+    "Soviet Union"
+  ],
+  "languages": [
+    "Russian",
+    "German"
+  ],
+  "color": "Color",
+  "filmweb_id": 32140,
+  "year": 1972,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYTYyMjU4MjItYzZkNy00NmIyLTg1ZGEtYTY5ZTEyM2U2NDM2XkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Solyaris",
+  "ratings": {
+    "imdb": {
+      "rating": 7.9,
+      "votes": 104883,
+      "distribution": {
+        "1": 2084,
+        "2": 930,
+        "3": 1237,
+        "4": 1882,
+        "5": 3487,
+        "6": 7179,
+        "7": 15765,
+        "8": 26900,
+        "9": 22589,
+        "10": 22830
+      },
+      "normalized": 7.2025
+    },
+    "filmweb": {
+      "rating": 7.25,
+      "votes": 11329,
+      "distribution": {
+        "1": 126,
+        "2": 61,
+        "3": 224,
+        "4": 297,
+        "5": 762,
+        "6": 1349,
+        "7": 2940,
+        "8": 3308,
+        "9": 1536,
+        "10": 726
+      },
+      "normalized": 6.1038
+    },
+    "jarek": {
+      "rating": 9,
+      "date_rated": "09.12.2016",
+      "normalized": 8.8973
+    },
+    "michal": {
+      "rating": 8,
+      "date_rated": "19.02.2018",
+      "normalized": 8.1116
+    },
+    "score": 7.5788
+  },
+  "polish_title": "Solaris",
+  "silent": false,
+  "description_pl": "Do kosmicznej stacji badawczej ponad planetą Solaris przybywa kosmonauta - Kris Kelvin. Dołącza tam do dwóch badaczy, którzy zachowują wobec niego dziwny dystans. Obiektem ich \"badań\" jest jedyna quasi-istota żyjąca na tej planecie - galaretowaty wszechocean...\n\nTematem filmu jest rodzaj ludzki stający w obliczu nieskończonego, niebezpiecznego i obcego Wszechświata. Ekranizację <a href=\"/osoba/?id=nm0001789\">Tarkowskiego</a> odczytywali niektórzy jako rosyjską odpowiedź na \"<a href=\"/film/?id=tt0062622\">2001: Odyseję kosmiczną</a>\" <a href=\"/osoba/?id=nm0000040\">Stanleya Kubricka</a>, jednak z innym przesłaniem: ostrzeżeniem przed technologicznym, odhumanizowanym światem...",
+  "composers": [
+    {
+      "id": "nm0005949",
+      "name": "Eduard Artemyev"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0951134",
+      "name": "Vadim Yusov"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

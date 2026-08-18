@@ -1,0 +1,198 @@
+{
+  "imdb_id": "tt1684562",
+  "ratings": {
+    "imdb": {
+      "rating": 6.8,
+      "votes": 271954,
+      "distribution": {
+        "1": 3449,
+        "2": 2498,
+        "3": 4296,
+        "4": 8106,
+        "5": 20300,
+        "6": 51346,
+        "7": 90062,
+        "8": 55100,
+        "9": 18687,
+        "10": 18110
+      },
+      "normalized": 5.1055
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "21.06.2026",
+      "normalized": 4.9718
+    },
+    "filmweb": {
+      "rating": 6.46,
+      "votes": 37825,
+      "distribution": {
+        "1": 156,
+        "2": 240,
+        "3": 992,
+        "4": 1550,
+        "5": 4509,
+        "6": 10538,
+        "7": 12384,
+        "8": 5524,
+        "9": 1293,
+        "10": 639
+      },
+      "normalized": 4.2431
+    },
+    "score": 4.7735
+  },
+  "title": "The Fall Guy",
+  "description": "A stuntman, fresh off an almost career-ending accident, has to track down a missing movie star, solve a conspiracy and try to win back the love of his life while still doing his day job.",
+  "year": 2024,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BM2U0MTJiYTItMjNiZS00MzU4LTkxYTAtYTU0ZGY1ODJhMjRhXkEyXkFqcGc@._V1_.jpg",
+  "runtime_minutes": 126,
+  "release_date": "03.05.2024",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0331516",
+      "name": "Ryan Gosling"
+    },
+    {
+      "id": "nm1289434",
+      "name": "Emily Blunt"
+    },
+    {
+      "id": "nm1093951",
+      "name": "Aaron Taylor-Johnson"
+    },
+    {
+      "id": "nm1821446",
+      "name": "Hannah Waddingham"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0500610",
+      "name": "David Leitch"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0488991",
+      "name": "Glen A. Larson"
+    },
+    {
+      "id": "nm1510800",
+      "name": "Drew Pearce"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0331516",
+      "name": "Ryan Gosling",
+      "character": "Colt Seavers"
+    },
+    {
+      "id": "nm1289434",
+      "name": "Emily Blunt",
+      "character": "Jody Moreno"
+    },
+    {
+      "id": "nm1093951",
+      "name": "Aaron Taylor-Johnson",
+      "character": "Tom Ryder"
+    },
+    {
+      "id": "nm1821446",
+      "name": "Hannah Waddingham",
+      "character": "Gail Meyer"
+    },
+    {
+      "id": "nm1954240",
+      "name": "Teresa Palmer",
+      "character": "Iggy Starr"
+    },
+    {
+      "id": "nm3513533",
+      "name": "Stephanie Hsu",
+      "character": "Alma Milan"
+    },
+    {
+      "id": "nm6328300",
+      "name": "Winston Duke",
+      "character": "Dan Tucker"
+    },
+    {
+      "id": "nm7399799",
+      "name": "Ben Knight",
+      "character": "Dressler"
+    },
+    {
+      "id": "nm2158275",
+      "name": "Matuse",
+      "character": "Doone"
+    },
+    {
+      "id": "nm4350784",
+      "name": "Adam Dunn",
+      "character": "Nigel"
+    },
+    {
+      "id": "nm4549541",
+      "name": "Zara Michales",
+      "character": "Venti Kushner"
+    },
+    {
+      "id": "nm12199992",
+      "name": "Ioane Saula",
+      "character": "Birdie the PA"
+    },
+    {
+      "id": "nm2774647",
+      "name": "Gregory J. Fryer",
+      "character": "Rush McCabe"
+    },
+    {
+      "id": "nm6361630",
+      "name": "Madeleine Wilson",
+      "character": "Metalstorm AD"
+    },
+    {
+      "id": "nm14127776",
+      "name": "Kalkidan China",
+      "character": "Metalstorm Writer (Darla)"
+    },
+    {
+      "id": "nm12094288",
+      "name": "Angela Nica Sullen",
+      "character": "Metalstorm Editor"
+    },
+    {
+      "id": "nm0807959",
+      "name": "Di Smith",
+      "character": "Metalstorm Script"
+    },
+    {
+      "id": "nm2811274",
+      "name": "Megan O'Connell",
+      "character": "Metalstorm Props"
+    }
+  ],
+  "countries": [
+    "Canada",
+    "Australia",
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "silent": false,
+  "filmweb_id": 10017592,
+  "polish_title": "Kaskader",
+  "description_pl": "Bohater filmu jest kaskaderem i jak każdy w tym zawodzie, zdarza się, że zostanie wysadzony w powietrze, że zostanie postrzelony i wyrzucony przez okno oraz zrzucony z wysokości, a wszystko to dla naszej rozrywki. Teraz, po prawie kończącym karierę wypadku, nasz bohater musi odnaleźć zaginioną gwiazdę filmową, rozwiązać spisek i spróbować odzyskać miłość swojego życia, wciąż wykonując swoją codzienną pracę. Co może się wydarzyć?",
+  "fetched_at": "2026-08-16"
+}

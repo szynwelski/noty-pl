@@ -1,0 +1,93 @@
+{
+  "imdb_id": "tt0203581",
+  "title": "Imperial Japanese Dance",
+  "description": "A charming representation of the Mikado dance by three beautiful Japanese ladies in full costume. Very effective when colored. (from the Edison Catalog)",
+  "runtime_minutes": 1,
+  "release_date": "05.11.1894",
+  "genres": [
+    "Short"
+  ],
+  "stars": [
+    {
+      "id": "nm3057845",
+      "name": "The Sarashe Sisters"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0005690",
+      "name": "William K.L. Dickson"
+    },
+    {
+      "id": "nm0374658",
+      "name": "William Heise"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm3057845",
+      "name": "The Sarashe Sisters",
+      "character": "Themselves"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": null,
+  "filmweb_id": 271155,
+  "year": 1894,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOWI1YWE3YmQtZTEwMi00NGJiLWJhZTctZTcxMmJiMDgyMGIwXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.1,
+      "votes": 743,
+      "distribution": {
+        "1": 42,
+        "2": 34,
+        "3": 44,
+        "4": 109,
+        "5": 237,
+        "6": 143,
+        "7": 60,
+        "8": 29,
+        "9": 12,
+        "10": 33
+      },
+      "normalized": 3.783
+    },
+    "filmweb": {
+      "rating": 3.98,
+      "votes": 89,
+      "distribution": {
+        "1": 7,
+        "2": 12,
+        "3": 20,
+        "4": 18,
+        "5": 15,
+        "6": 10,
+        "7": 3,
+        "8": 2,
+        "9": 1,
+        "10": 1
+      },
+      "normalized": 4.0211
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "11.12.2016",
+      "normalized": 5.6855
+    },
+    "score": 4.4965
+  },
+  "polish_title": "Imperial Japanese Dance",
+  "silent": true,
+  "description_pl": "Widzimy czarujące reprezentantki tańca Mikado. Tańczą go trzy japońskie panie w pełnych kostiumach.",
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-16"
+}

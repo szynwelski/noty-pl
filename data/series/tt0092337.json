@@ -1,0 +1,176 @@
+{
+  "imdb_id": "tt0092337",
+  "title": "Dekalog",
+  "description": "Ten television drama films, each one based on one of the Ten Commandments.",
+  "runtime_minutes": 60,
+  "release_date": "10.12.1989",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0054007",
+      "name": "Artur Barcis"
+    },
+    {
+      "id": "nm0525557",
+      "name": "Olgierd Łukaszewicz"
+    },
+    {
+      "id": "nm0523821",
+      "name": "Olaf Lubaszenko"
+    },
+    {
+      "id": "nm0054270",
+      "name": "Aleksander Bardini"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0054007",
+      "name": "Artur Barcis",
+      "character": "Young Man"
+    },
+    {
+      "id": "nm0525557",
+      "name": "Olgierd Łukaszewicz",
+      "character": "Andrzej Geller"
+    },
+    {
+      "id": "nm0417370",
+      "name": "Krystyna Janda",
+      "character": "Dorota Geller"
+    },
+    {
+      "id": "nm0053017",
+      "name": "Henryk Baranowski",
+      "character": "Krzysztof"
+    },
+    {
+      "id": "nm0523821",
+      "name": "Olaf Lubaszenko",
+      "character": "Tomek"
+    },
+    {
+      "id": "nm0054270",
+      "name": "Aleksander Bardini",
+      "character": "Consultant"
+    },
+    {
+      "id": "nm0532536",
+      "name": "Piotr Machalica",
+      "character": "Roman"
+    },
+    {
+      "id": "nm0856227",
+      "name": "Jan Tesarz",
+      "character": "Taxi Driver"
+    },
+    {
+      "id": "nm0310702",
+      "name": "Stanislaw Gawlik",
+      "character": "Postman"
+    },
+    {
+      "id": "nm0475009",
+      "name": "Krzysztof Kumor",
+      "character": "Gynecologist"
+    },
+    {
+      "id": "nm0686133",
+      "name": "Katarzyna Piwowarczyk",
+      "character": "Ania"
+    },
+    {
+      "id": "nm0843796",
+      "name": "Maciej Szary",
+      "character": "Apartment Caretaker"
+    },
+    {
+      "id": "nm0646037",
+      "name": "Daniel Olbrychski",
+      "character": "Janusz"
+    },
+    {
+      "id": "nm0843772",
+      "name": "Grazyna Szapolowska",
+      "character": "Magda"
+    },
+    {
+      "id": "nm0836136",
+      "name": "Jerzy Stuhr",
+      "character": "Jerzy"
+    },
+    {
+      "id": "nm0048121",
+      "name": "Miroslaw Baka",
+      "character": "Lazar Jacek"
+    },
+    {
+      "id": "nm0689810",
+      "name": "Anna Polony",
+      "character": "Ewa"
+    },
+    {
+      "id": "nm0081322",
+      "name": "Adrianna Biedrzynska",
+      "character": "Anka"
+    }
+  ],
+  "countries": [
+    "Poland",
+    "West Germany"
+  ],
+  "languages": [
+    "Polish"
+  ],
+  "color": "Color",
+  "year": 1989,
+  "type": "tvMiniSeries",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZmUzZjk0NjEtOTFjMC00NDI2LTkwZmEtZWIxYjVjNDEwNWZiXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": null,
+  "ratings": {
+    "imdb": {
+      "rating": 8.9,
+      "votes": 35130,
+      "distribution": {
+        "1": 1945,
+        "2": 238,
+        "3": 187,
+        "4": 214,
+        "5": 467,
+        "6": 780,
+        "7": 1774,
+        "8": 4426,
+        "9": 11369,
+        "10": 13730
+      }
+    },
+    "jarek": {
+      "rating": 10,
+      "date_rated": "02.01.2011"
+    },
+    "michal": {
+      "rating": 10,
+      "date_rated": "21.10.2004"
+    }
+  },
+  "silent": false,
+  "producers": [
+    {
+      "id": "nm0119557",
+      "name": "Andrzej Buhl"
+    },
+    {
+      "id": "nm0161541",
+      "name": "Ryszard Chutkowski"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006237",
+      "name": "Zbigniew Preisner"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

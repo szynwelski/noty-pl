@@ -1,0 +1,49 @@
+{
+  "id": "nm0001301",
+  "name": "Charles Grodin",
+  "filmography": [
+    {
+      "imdb_id": "tt0063522",
+      "title": "Rosemary's Baby",
+      "year": 1968,
+      "roles": [
+        "cast"
+      ],
+      "character": "Dr. Hill"
+    },
+    {
+      "imdb_id": "tt0065528",
+      "title": "Catch-22",
+      "year": 1970,
+      "roles": [
+        "cast"
+      ],
+      "character": "Aarfy Aardvark"
+    },
+    {
+      "imdb_id": "tt0458364",
+      "title": "The Ex",
+      "year": 2006,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Bob Kowalski"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjIwNDg2NzYxOF5BMl5BanBnXkFtZTcwMzQ4OTgwMw@@._V1_.jpg",
+  "birth_date": "21.04.1935",
+  "death_date": "18.05.2021",
+  "birth_location": "Pittsburgh, Pennsylvania, USA",
+  "height": "1.84 m",
+  "filmweb_id": 8504,
+  "name_pl": "Charles Grodin",
+  "birth_location_pl": "Pittsburgh, Pensylwania",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 8504
+}

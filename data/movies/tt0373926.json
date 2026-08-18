@@ -1,0 +1,265 @@
+{
+  "imdb_id": "tt0373926",
+  "title": "The Interpreter",
+  "description": "A United Nations translator overhears an assassination plot.",
+  "runtime_minutes": 128,
+  "release_date": "22.04.2005",
+  "genres": [
+    "Crime",
+    "Mystery",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000173",
+      "name": "Nicole Kidman"
+    },
+    {
+      "id": "nm0000576",
+      "name": "Sean Penn"
+    },
+    {
+      "id": "nm0001416",
+      "name": "Catherine Keener"
+    },
+    {
+      "id": "nm0159802",
+      "name": "Jesper Christensen"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001628",
+      "name": "Sydney Pollack"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0826369",
+      "name": "Martin Stellman"
+    },
+    {
+      "id": "nm0911422",
+      "name": "Brian Ward"
+    },
+    {
+      "id": "nm1017488",
+      "name": "Charles Randolph"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000173",
+      "name": "Nicole Kidman",
+      "character": "Silvia Broome"
+    },
+    {
+      "id": "nm0000576",
+      "name": "Sean Penn",
+      "character": "Tobin Keller"
+    },
+    {
+      "id": "nm0001416",
+      "name": "Catherine Keener",
+      "character": "Dot Woods"
+    },
+    {
+      "id": "nm0159802",
+      "name": "Jesper Christensen",
+      "character": "Nils Lud"
+    },
+    {
+      "id": "nm0040939",
+      "name": "Yvan Attal",
+      "character": "Philippe"
+    },
+    {
+      "id": "nm0131565",
+      "name": "Earl Cameron",
+      "character": "Zuwanie"
+    },
+    {
+      "id": "nm0364711",
+      "name": "George Harris",
+      "character": "Kuman-Kuman"
+    },
+    {
+      "id": "nm0942646",
+      "name": "Michael Wright",
+      "character": "Marcus"
+    },
+    {
+      "id": "nm0476226",
+      "name": "Clyde Kusatsu",
+      "character": "Police Chief Lee Wu"
+    },
+    {
+      "id": "nm0444776",
+      "name": "Eric Keenleyside",
+      "character": "Rory Robb"
+    },
+    {
+      "id": "nm0817563",
+      "name": "Hugo Speer",
+      "character": "Simon Broome"
+    },
+    {
+      "id": "nm0423414",
+      "name": "Maz Jobrani",
+      "character": "Mo"
+    },
+    {
+      "id": "nm0309650",
+      "name": "Yusuf Gatewood",
+      "character": "Doug"
+    },
+    {
+      "id": "nm1478007",
+      "name": "Curtiss Cook",
+      "character": "Ajene Xola"
+    },
+    {
+      "id": "nm0882541",
+      "name": "Byron Utley",
+      "character": "Jean Gamba"
+    },
+    {
+      "id": "nm0167024",
+      "name": "Robert Clohessy",
+      "character": "FBI Agent King"
+    },
+    {
+      "id": "nm0785352",
+      "name": "Terry Serpico",
+      "character": "FBI Agent Lewis"
+    },
+    {
+      "id": "nm0285046",
+      "name": "David Fonteno",
+      "character": "Phillip Ostroff"
+    }
+  ],
+  "countries": [
+    "United Kingdom",
+    "France",
+    "Germany",
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Aboriginal",
+    "French",
+    "Portuguese",
+    "Spanish",
+    "Hebrew"
+  ],
+  "color": "Color",
+  "filmweb_id": 104546,
+  "year": 2005,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODhjNGUzMDQtOGZlNC00YzU1LTg1MjAtOTE3ZmFhM2Y5NWEyXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.4,
+      "votes": 116122,
+      "distribution": {
+        "1": 1109,
+        "2": 875,
+        "3": 1794,
+        "4": 4402,
+        "5": 12820,
+        "6": 34940,
+        "7": 37480,
+        "8": 14883,
+        "9": 4157,
+        "10": 3662
+      },
+      "normalized": 4.3023
+    },
+    "filmweb": {
+      "rating": 6.66,
+      "votes": 36735,
+      "distribution": {
+        "1": 76,
+        "2": 106,
+        "3": 395,
+        "4": 924,
+        "5": 3596,
+        "6": 9771,
+        "7": 14266,
+        "8": 5837,
+        "9": 1146,
+        "10": 618
+      },
+      "normalized": 4.7139
+    },
+    "michal": {
+      "rating": 3,
+      "date_rated": "19.10.2005",
+      "normalized": 3.8753
+    },
+    "score": 4.2972
+  },
+  "polish_title": "Tłumaczka",
+  "silent": false,
+  "description_pl": "Silvia Broome pracuje w ONZ jako tłumaczka. Pewnego dnia staje się świadkiem rozmowy dotyczącej zamachu na jednego z afrykańskich przywódców. Całą sprawą zajmują się agenci Tajnych Służb. Wkrótce jednak okazuje się, że nie wszystko jest tak oczywiste, jak było na samym początku, a tłumaczka skrywa pewną tajemnicę.",
+  "producers": [
+    {
+      "id": "nm0079677",
+      "name": "Tim Bevan"
+    },
+    {
+      "id": "nm0113583",
+      "name": "G. Mac Brown"
+    },
+    {
+      "id": "nm0153877",
+      "name": "Liza Chasin"
+    },
+    {
+      "id": "nm0271479",
+      "name": "Eric Fellner"
+    },
+    {
+      "id": "nm0371735",
+      "name": "Debra Hayward"
+    },
+    {
+      "id": "nm0005237",
+      "name": "Anthony Minghella"
+    },
+    {
+      "id": "nm0592746",
+      "name": "Kevin Misher"
+    },
+    {
+      "id": "nm0674923",
+      "name": "Nicci Perrow"
+    },
+    {
+      "id": "nm0001628",
+      "name": "Sydney Pollack"
+    },
+    {
+      "id": "nm0824627",
+      "name": "Michael E. Steele"
+    },
+    {
+      "id": "nm0859013",
+      "name": "Jennifer J. Thomas"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006133",
+      "name": "James Newton Howard"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0451787",
+      "name": "Darius Khondji"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

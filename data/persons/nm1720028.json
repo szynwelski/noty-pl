@@ -1,0 +1,48 @@
+{
+  "id": "nm1720028",
+  "name": "Amber Heard",
+  "filmography": [
+    {
+      "imdb_id": "tt0390022",
+      "title": "Friday Night Lights",
+      "year": 2004,
+      "roles": [
+        "cast"
+      ],
+      "character": "Maria"
+    },
+    {
+      "imdb_id": "tt1477834",
+      "title": "Aquaman",
+      "year": 2018,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Mera"
+    },
+    {
+      "imdb_id": "tt12361974",
+      "title": "Zack Snyder's Justice League",
+      "year": 2021,
+      "roles": [
+        "cast"
+      ],
+      "character": "Mera"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjA4NDkyODA3M15BMl5BanBnXkFtZTgwMzUzMjYzNzM@._V1_.jpg",
+  "birth_date": "22.04.1986",
+  "birth_location": "Austin, Texas, USA",
+  "height": "1.70 m",
+  "filmweb_id": 309515,
+  "name_pl": "Amber Heard",
+  "birth_location_pl": "Austin, Teksas",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 309515
+}

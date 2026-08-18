@@ -1,0 +1,36 @@
+{
+  "id": "nm0501493",
+  "name": "Ben Lemon",
+  "filmography": [
+    {
+      "imdb_id": "tt0107144",
+      "title": "Hot Shots! Part Deux",
+      "year": 1993,
+      "roles": [
+        "cast"
+      ],
+      "character": "Team 2 Leader"
+    },
+    {
+      "imdb_id": "tt0119528",
+      "title": "Liar Liar",
+      "year": 1997,
+      "roles": [
+        "cast"
+      ],
+      "character": "Randy"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYWM5ZmQyMWYtZWMxZi00Nzc2LTllZmUtZjExNzA1NjAyMGE4XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "21.05.1955",
+  "birth_location": "Tarrytown, New York, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 95884,
+  "name_pl": "Ben Lemon",
+  "birth_location_pl": "Tarrytown, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

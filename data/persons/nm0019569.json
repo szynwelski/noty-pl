@@ -1,0 +1,29 @@
+{
+  "id": "nm0019569",
+  "name": "Mary Alice",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTYwMTI4MTM2Nl5BMl5BanBnXkFtZTcwMDU1MDk5Nw@@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0242653",
+      "title": "The Matrix Revolutions",
+      "year": 2003,
+      "roles": [
+        "cast"
+      ],
+      "character": "The Oracle"
+    }
+  ],
+  "birth_date": "03.12.1936",
+  "death_date": "27.07.2022",
+  "birth_location": "Indianola, Mississippi, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 47241,
+  "name_pl": "Mary Alice",
+  "birth_location_pl": "Indianola, Missisipi",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 47241
+}

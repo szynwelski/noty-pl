@@ -1,0 +1,49 @@
+{
+  "id": "nm0001421",
+  "name": "George Kennedy",
+  "filmography": [
+    {
+      "imdb_id": "tt0056923",
+      "title": "Charade",
+      "year": 1963,
+      "roles": [
+        "cast"
+      ],
+      "character": "Herman Scobie"
+    },
+    {
+      "imdb_id": "tt0061512",
+      "title": "Cool Hand Luke",
+      "year": 1967,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Dragline"
+    },
+    {
+      "imdb_id": "tt0095705",
+      "title": "The Naked Gun: From the Files of Police Squad!",
+      "year": 1988,
+      "roles": [
+        "cast"
+      ],
+      "character": "Capt. Ed Hocken"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTIxMTk0MDg5N15BMl5BanBnXkFtZTYwOTAzNTc1._V1_.jpg",
+  "birth_date": "18.02.1925",
+  "death_date": "28.02.2016",
+  "birth_location": "New York City, New York, USA",
+  "height": "1.93 m",
+  "filmweb_id": 40871,
+  "name_pl": "George Kennedy",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 40871
+}

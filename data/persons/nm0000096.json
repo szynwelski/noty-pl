@@ -1,0 +1,60 @@
+{
+  "id": "nm0000096",
+  "name": "Gillian Anderson",
+  "filmography": [
+    {
+      "imdb_id": "tt0170817",
+      "title": "Pilot",
+      "year": 1993,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Dana Scully"
+    },
+    {
+      "imdb_id": "tt0120902",
+      "title": "The X Files",
+      "year": 1998,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Agent Dana Scully"
+    },
+    {
+      "imdb_id": "tt0455590",
+      "title": "The Last King of Scotland",
+      "year": 2006,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Sarah Merrit"
+    },
+    {
+      "imdb_id": "tt0455538",
+      "title": "How to Lose Friends & Alienate People",
+      "year": 2008,
+      "roles": [
+        "cast"
+      ],
+      "character": "Eleanor Johnson"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjE1NTVlZTUtNTE3Yi00ZTMzLWFkYjYtYjk1OGFiOWZlOWI3XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "09.08.1968",
+  "birth_location": "Chicago, Illinois, USA",
+  "height": "1.60 m",
+  "filmweb_id": 227,
+  "name_pl": "Gillian Anderson",
+  "birth_location_pl": "Chicago, Illinois",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone",
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 227
+}

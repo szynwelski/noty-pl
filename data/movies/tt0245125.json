@@ -1,0 +1,81 @@
+{
+  "imdb_id": "tt0245125",
+  "title": "Fun in a Bakery Shop",
+  "description": "A baker's assistant throws a handful of dough at a rat. The dough sticks to the side of a barrel and the assistant proceeds to sculpt the dough into various faces and shapes. There is some experimental use of stop motion.",
+  "runtime_minutes": 1,
+  "release_date": "1902",
+  "genres": [
+    "Short",
+    "Comedy"
+  ],
+  "directors": [
+    {
+      "id": "nm0692105",
+      "name": "Edwin S. Porter"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 149121,
+  "year": 1902,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjAzNTI3MzI0Nl5BMl5BanBnXkFtZTcwMzQ1MTYzMw@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.8,
+      "votes": 489,
+      "distribution": {
+        "1": 12,
+        "2": 12,
+        "3": 23,
+        "4": 48,
+        "5": 94,
+        "6": 150,
+        "7": 87,
+        "8": 33,
+        "9": 13,
+        "10": 17
+      },
+      "normalized": 4.5446
+    },
+    "filmweb": {
+      "rating": 5.55,
+      "votes": 71,
+      "distribution": {
+        "2": 1,
+        "3": 6,
+        "4": 16,
+        "5": 16,
+        "6": 9,
+        "7": 12,
+        "8": 9,
+        "9": 0,
+        "10": 2
+      },
+      "normalized": 4.6514
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "13.12.2016",
+      "normalized": 5.6855
+    },
+    "score": 4.9605
+  },
+  "polish_title": "Fun in a Bakery Shop",
+  "silent": true,
+  "description_pl": "Jeden z pracowników piekarni zauważa biegnącego szczura. Nie mając narzędzi pod ręką, którymi mógłby zabić gryzonia, rzuca w niego ciastem, które przed chwilą obrabiał. Z masy ciasta, które przylgnęło do ściany wraz ze szczurem, piekarz zaczyna formować bogatą mimikę twarzy człowieka. Film zaliczany do prekursorskich wśród animacji.",
+  "cinematographers": [
+    {
+      "id": "nm0692105",
+      "name": "Edwin S. Porter"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

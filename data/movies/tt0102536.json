@@ -1,0 +1,236 @@
+{
+  "imdb_id": "tt0102536",
+  "title": "Night on Earth",
+  "description": "An anthology of 5 different cab drivers in 5 American and European cities and their remarkable fares on the same eventful night.",
+  "runtime_minutes": 129,
+  "release_date": "12.12.1991",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0000213",
+      "name": "Winona Ryder"
+    },
+    {
+      "id": "nm0001687",
+      "name": "Gena Rowlands"
+    },
+    {
+      "id": "nm0266170",
+      "name": "Lisanne Falk"
+    },
+    {
+      "id": "nm0778804",
+      "name": "Alan Randolph Scott"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000464",
+      "name": "Jim Jarmusch"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000464",
+      "name": "Jim Jarmusch"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000213",
+      "name": "Winona Ryder",
+      "character": "Corky"
+    },
+    {
+      "id": "nm0001687",
+      "name": "Gena Rowlands",
+      "character": "Victoria Snelling"
+    },
+    {
+      "id": "nm0266170",
+      "name": "Lisanne Falk",
+      "character": "Rock Manager"
+    },
+    {
+      "id": "nm0778804",
+      "name": "Alan Randolph Scott",
+      "character": "Rock Musician #1"
+    },
+    {
+      "id": "nm0692390",
+      "name": "Anthony Portillo",
+      "character": "Rock Musician #2"
+    },
+    {
+      "id": "nm0000090",
+      "name": "Armin Mueller-Stahl",
+      "character": "Helmut"
+    },
+    {
+      "id": "nm0002064",
+      "name": "Giancarlo Esposito",
+      "character": "YoYo"
+    },
+    {
+      "id": "nm0001609",
+      "name": "Rosie Perez",
+      "character": "Angela"
+    },
+    {
+      "id": "nm0091369",
+      "name": "Richard Boes",
+      "character": "Cab Driver #1"
+    },
+    {
+      "id": "nm0207218",
+      "name": "Isaach De Bankolé",
+      "character": "Driver"
+    },
+    {
+      "id": "nm0001095",
+      "name": "Béatrice Dalle",
+      "character": "Blind Woman"
+    },
+    {
+      "id": "nm0618502",
+      "name": "Pascal N'Zonzi",
+      "character": "Passenger #1"
+    },
+    {
+      "id": "nm0008865",
+      "name": "Emile Abossolo M'bo",
+      "character": "Passenger #2"
+    },
+    {
+      "id": "nm0099035",
+      "name": "Stéphane Boucher",
+      "character": "Man in Accident"
+    },
+    {
+      "id": "nm0442340",
+      "name": "Noel Kaufmann",
+      "character": "Man on Motorcycle"
+    },
+    {
+      "id": "nm0000905",
+      "name": "Roberto Benigni",
+      "character": "Driver"
+    },
+    {
+      "id": "nm0093678",
+      "name": "Paolo Bonacelli",
+      "character": "Priest"
+    },
+    {
+      "id": "nm0771163",
+      "name": "Gianni Schettino",
+      "character": "Transvestite #1"
+    }
+  ],
+  "countries": [
+    "United Kingdom",
+    "France",
+    "Germany",
+    "Japan",
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Italian",
+    "Finnish",
+    "German"
+  ],
+  "color": "Color",
+  "filmweb_id": 8171,
+  "year": 1991,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYmEyYjE0NjgtNTFmMy00ZmY1LTg2MWUtYTU4MjdmYWJmYzMyXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.6,
+      "votes": 71572,
+      "distribution": {
+        "1": 640,
+        "2": 360,
+        "3": 457,
+        "4": 898,
+        "5": 2283,
+        "6": 5955,
+        "7": 15840,
+        "8": 23793,
+        "9": 12440,
+        "10": 8906
+      },
+      "normalized": 6.5842
+    },
+    "filmweb": {
+      "rating": 7.9,
+      "votes": 46121,
+      "distribution": {
+        "1": 145,
+        "2": 100,
+        "3": 277,
+        "4": 413,
+        "5": 1150,
+        "6": 3010,
+        "7": 9246,
+        "8": 17353,
+        "9": 10291,
+        "10": 4136
+      },
+      "normalized": 8.0761
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "10.09.2019",
+      "normalized": 6.3474
+    },
+    "score": 7.0026
+  },
+  "polish_title": "Noc na Ziemi",
+  "silent": false,
+  "description_pl": "5 epizodów rozgrywających się równocześnie w różnych strefach czasowych, na różnych kontynentach i w różnych krajach. Każdy z nich wypełnia nocna jazda taksówką. W czasie jej trwania między taksówkarzem a pasażerem rodzi się swoista więź.",
+  "producers": [
+    {
+      "id": "nm0408411",
+      "name": "Masahiro Inbe"
+    },
+    {
+      "id": "nm0000464",
+      "name": "Jim Jarmusch"
+    },
+    {
+      "id": "nm0531384",
+      "name": "Demetra J. MacBride"
+    },
+    {
+      "id": "nm0799886",
+      "name": "Rudd Simmons"
+    },
+    {
+      "id": "nm0823196",
+      "name": "Jim Stark"
+    },
+    {
+      "id": "nm0847441",
+      "name": "Noboru Takayama"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0001823",
+      "name": "Tom Waits"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005695",
+      "name": "Frederick Elmes"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

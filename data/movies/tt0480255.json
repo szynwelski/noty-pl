@@ -1,0 +1,276 @@
+{
+  "imdb_id": "tt0480255",
+  "title": "The Losers",
+  "description": "A CIA special forces team is betrayed and left for dead by their superiors, galvanizing them to mount an offensive on the CIA.",
+  "runtime_minutes": 97,
+  "release_date": "23.04.2010",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Crime",
+    "Mystery",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0252961",
+      "name": "Idris Elba"
+    },
+    {
+      "id": "nm0757855",
+      "name": "Zoe Saldaña"
+    },
+    {
+      "id": "nm0604742",
+      "name": "Jeffrey Dean Morgan"
+    },
+    {
+      "id": "nm0262635",
+      "name": "Chris Evans"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm1234893",
+      "name": "Sylvain White"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000916",
+      "name": "Peter Berg"
+    },
+    {
+      "id": "nm0888743",
+      "name": "James Vanderbilt"
+    },
+    {
+      "id": "nm2038618",
+      "name": "Andy Diggle"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0252961",
+      "name": "Idris Elba",
+      "character": "Roque"
+    },
+    {
+      "id": "nm0757855",
+      "name": "Zoe Saldaña",
+      "character": "Aisha"
+    },
+    {
+      "id": "nm0604742",
+      "name": "Jeffrey Dean Morgan",
+      "character": "Clay"
+    },
+    {
+      "id": "nm0262635",
+      "name": "Chris Evans",
+      "character": "Jensen"
+    },
+    {
+      "id": "nm1551922",
+      "name": "Columbus Short",
+      "character": "Pooch"
+    },
+    {
+      "id": "nm1049982",
+      "name": "Óscar Jaenada",
+      "character": "Cougar"
+    },
+    {
+      "id": "nm0000574",
+      "name": "Jason Patric",
+      "character": "Max"
+    },
+    {
+      "id": "nm0564697",
+      "name": "Holt McCallany",
+      "character": "Wade"
+    },
+    {
+      "id": "nm0531589",
+      "name": "Peter Macdissi",
+      "character": "Vikram"
+    },
+    {
+      "id": "nm0416838",
+      "name": "Peter Francis James",
+      "character": "Fadhil"
+    },
+    {
+      "id": "nm1484752",
+      "name": "Tanee McCall",
+      "character": "Jolene"
+    },
+    {
+      "id": "nm0320169",
+      "name": "Mark Ginther",
+      "character": "Goliath Guard"
+    },
+    {
+      "id": "nm3869411",
+      "name": "Daniel Kalal",
+      "character": "Goliath Guard"
+    },
+    {
+      "id": "nm1744237",
+      "name": "Colin Follenweider",
+      "character": "Goliath Guard"
+    },
+    {
+      "id": "nm0912836",
+      "name": "Garrett Warren",
+      "character": "Goliath Guard"
+    },
+    {
+      "id": "nm1411388",
+      "name": "Rey Hernandez",
+      "character": "Armored Car Guard"
+    },
+    {
+      "id": "nm1816205",
+      "name": "Ernesto Morales",
+      "character": "Nabil"
+    },
+    {
+      "id": "nm0592030",
+      "name": "Evan Mirand",
+      "character": "Lead Chryon Guard"
+    }
+  ],
+  "countries": [
+    "France",
+    "Germany",
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Sanskrit"
+  ],
+  "color": null,
+  "filmweb_id": 295207,
+  "year": 2010,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjU3MTU0NDI4Nl5BMl5BanBnXkFtZTcwMTE0NDMyMw@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.2,
+      "votes": 112428,
+      "distribution": {
+        "1": 1929,
+        "2": 1582,
+        "3": 2919,
+        "4": 6236,
+        "5": 14414,
+        "6": 29349,
+        "7": 30181,
+        "8": 14339,
+        "9": 4969,
+        "10": 6510
+      },
+      "normalized": 3.943
+    },
+    "filmweb": {
+      "rating": 6.26,
+      "votes": 23531,
+      "distribution": {
+        "1": 136,
+        "2": 242,
+        "3": 927,
+        "4": 1566,
+        "5": 3514,
+        "6": 6376,
+        "7": 6519,
+        "8": 2794,
+        "9": 830,
+        "10": 627
+      },
+      "normalized": 3.8466
+    },
+    "jarek": {
+      "rating": 2,
+      "date_rated": "10.08.2022",
+      "normalized": 3.5003
+    },
+    "score": 3.7633
+  },
+  "polish_title": "The Losers: Drużyna potępionych",
+  "silent": false,
+  "description_pl": "Wysoce wykwalifikowana drużyna CIA zostaje napadnięta przez własną agencję i zostawiona na pewną śmierć. Członkowie zespołu postanawiają dowiedzieć się, czemu zostali zdradzeni oraz zemścić się za wyrządzone krzywdy.",
+  "producers": [
+    {
+      "id": "nm2583828",
+      "name": "Sarah Aubrey"
+    },
+    {
+      "id": "nm2035138",
+      "name": "Aaron Auch"
+    },
+    {
+      "id": "nm0078804",
+      "name": "Stuart M. Besser"
+    },
+    {
+      "id": "nm2862529",
+      "name": "Christoph Fisser"
+    },
+    {
+      "id": "nm1860728",
+      "name": "Kerry Foster"
+    },
+    {
+      "id": "nm0326040",
+      "name": "Akiva Goldsman"
+    },
+    {
+      "id": "nm1572781",
+      "name": "Adam Kuhn"
+    },
+    {
+      "id": "nm1060895",
+      "name": "Sarah Meyer"
+    },
+    {
+      "id": "nm0592385",
+      "name": "Richard Mirisch"
+    },
+    {
+      "id": "nm0596572",
+      "name": "Henning Molfenter"
+    },
+    {
+      "id": "nm0724345",
+      "name": "Steve Richards"
+    },
+    {
+      "id": "nm0739868",
+      "name": "Andrew Rona"
+    },
+    {
+      "id": "nm0005428",
+      "name": "Joel Silver"
+    },
+    {
+      "id": "nm1803681",
+      "name": "Charlie Woebcken"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0653211",
+      "name": "John Ottman"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0450670",
+      "name": "Scott Kevan"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

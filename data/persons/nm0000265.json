@@ -1,0 +1,55 @@
+{
+  "id": "nm0000265",
+  "name": "Robert Altman",
+  "filmography": [
+    {
+      "imdb_id": "tt0066026",
+      "title": "M*A*S*H",
+      "year": 1970,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0105151",
+      "title": "The Player",
+      "year": 1992,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0108122",
+      "title": "Short Cuts",
+      "year": 1993,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0280707",
+      "title": "Gosford Park",
+      "year": 2001,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODYxMzE1NDUxNl5BMl5BanBnXkFtZTYwMjAyMjc1._V1_.jpg",
+  "birth_date": "20.02.1925",
+  "death_date": "20.11.2006",
+  "birth_location": "Kansas City, Missouri, USA",
+  "height": "1.83 m",
+  "filmweb_id": 308,
+  "name_pl": "Robert Altman",
+  "birth_location_pl": "Kansas City, Missouri",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

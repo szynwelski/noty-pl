@@ -1,0 +1,27 @@
+{
+  "id": "nm0002009",
+  "name": "Arthur C. Clarke",
+  "filmography": [
+    {
+      "imdb_id": "tt0062622",
+      "title": "2001: A Space Odyssey",
+      "year": 1968,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYmYzMzViMmMtNWE5YS00OTVkLWI4OGUtMzViNmRmMjliYTYxXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "16.12.1917",
+  "death_date": "19.03.2008",
+  "birth_location": "Minehead, Somerset, England, UK",
+  "imdb_scraped": true,
+  "filmweb_id": 242887,
+  "name_pl": "Arthur C. Clarke",
+  "birth_location_pl": "Minehead, Anglia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ]
+}

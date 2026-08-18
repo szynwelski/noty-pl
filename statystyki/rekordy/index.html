@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🎬</text></svg>">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Rekordy — Noty</title>
+  <link rel="stylesheet" href="../../static/style.css">
+  <style>
+    section { margin-bottom: 2.4rem; }
+    section > h2 {
+      font-size: 1.05rem; font-weight: 700; margin: 0 0 1rem; padding-bottom: .4rem;
+      border-bottom: 2px solid var(--accent); display: inline-block;
+    }
+    .subhead { margin: 1.4rem 0 .7rem; color: var(--muted); font-size: .8rem; text-transform: uppercase; letter-spacing: .05em; }
+    .subhead-hint { color: var(--muted); font-weight: 400; text-transform: none; letter-spacing: 0; font-size: .78rem; }
+    .cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: .9rem; }
+    .card { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: .9rem 1.1rem; }
+    .card h3 { font-size: .82rem; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); margin: 0 0 .6rem; }
+    ol.rec { list-style: none; margin: 0; padding: 0; }
+    ol.rec li { display: flex; align-items: baseline; gap: .5rem; padding: .28rem 0; border-top: 1px solid var(--border); font-size: .9rem; }
+    ol.rec li:first-child { border-top: none; }
+    .rk { color: var(--muted); font-size: .78rem; min-width: 1.1em; font-variant-numeric: tabular-nums; }
+    ol.rec a { color: var(--text); text-decoration: none; flex: 1; min-width: 0; }
+    ol.rec a:hover { color: var(--accent); text-decoration: underline; }
+    .yr { color: var(--muted); font-size: .8rem; font-variant-numeric: tabular-nums; }
+    .val { color: var(--muted); font-variant-numeric: tabular-nums; white-space: nowrap; text-align: right; }
+    .val .score, .val .muted { font-weight: 600; }
+    .cnote { margin: .55rem 0 0; font-size: .74rem; color: var(--muted); line-height: 1.5; }
+    .members { flex: 1; min-width: 0; }
+    .members a { color: var(--text); text-decoration: none; }
+    .members a:hover { color: var(--accent); text-decoration: underline; }
+    table.rec-tab { width: 100%; border-collapse: collapse; font-size: .9rem; }
+    table.rec-tab th, table.rec-tab td { padding: .4rem .6rem; border-bottom: 1px solid var(--border); text-align: left; }
+    table.rec-tab th { font-weight: 600; color: var(--muted); font-size: .76rem; text-transform: uppercase; letter-spacing: .03em;
+      position: static; top: auto; background: transparent; cursor: default; z-index: auto; }
+    table.rec-tab a { color: var(--text); text-decoration: none; }
+    table.rec-tab a:hover { color: var(--accent); text-decoration: underline; }
+    table.rec-tab td.num, table.rec-tab th.num { text-align: right; font-variant-numeric: tabular-nums; }
+    /* People tables: at most 2 columns so 4-column tables get enough width */
+    .ptab { display: grid; grid-template-columns: 1fr 1fr; gap: .9rem; }
+    .ptab .full { grid-column: 1 / -1; }
+    @media (max-width: 760px) { .ptab { grid-template-columns: 1fr; } }
+    .tab-wrap { overflow-x: auto; }
+    #error { color: var(--muted); margin-top: 2rem; }
+  </style>
+</head>
+<body>
+  <nav>
+    <a class="logo" href="/">no<span>ty</span></a>
+    <a class="nav-link" href="/">Filmy</a>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Osoby <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/osoba/rezyser/">Reżyserzy</a>
+        <a href="/osoba/scenarzysta/">Scenarzyści</a>
+        <a href="/osoba/gwiazda/">Gwiazdy</a>
+        <a href="/osoba/aktor/">Aktorzy</a>
+        <a href="/osoba/kompozytor/">Kompozytorzy</a>
+        <a href="/osoba/operator/">Operatorzy</a>
+        <a href="/osoba/producent/">Producenci</a>
+        <a href="/osoba/wszechstronna/">Wszechstronni</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Krytycy <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/krytyk/jarek/">Jarek</a>
+        <a href="/krytyk/michal/">Michał</a>
+        <a href="/krytyk/imdb/">IMDb</a>
+        <a href="/krytyk/filmweb/">Filmweb</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Kategorie <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/kategoria/gatunek/">Gatunki</a>
+        <a href="/kategoria/kraj/">Kraje</a>
+        <a href="/kategoria/jezyk/">Języki</a>
+        <a href="/kategoria/dekada/">Dekady</a>
+        <a href="/kategoria/rok/">Lata</a>
+        <a href="/kategoria/czas/">Czas trwania</a>
+        <a href="/kategoria/popularnosc/">Popularność</a>
+        <hr>
+        <a href="/kategoria/plec/">Płeć</a>
+        <a href="/kategoria/obywatelstwo/">Obywatelstwo</a>
+        <a href="/kategoria/urodzenie/">Urodzenie</a>
+        <a href="/kategoria/wiek/">Wiek</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Statystyki <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/statystyki/podsumowanie/">Podsumowanie</a>
+        <a href="/statystyki/rekordy/">Rekordy</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Metodologia <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/metodologia/filmy/">Filmy</a>
+        <a href="/metodologia/osoby/">Osoby</a>
+        <a href="/metodologia/kategorie-filmow/">Kategorie filmów</a>
+        <a href="/metodologia/kategorie-osob/">Kategorie osób</a>
+      </div>
+    </div>
+    <button id="search-global-btn" class="nav-search-btn" title="Szukaj (⌘K)">
+      <svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+    </button>
+  </nav>
+  <div id="search-modal" class="search-modal">
+    <div id="search-modal-backdrop" class="search-modal-backdrop"></div>
+    <div class="search-modal-box">
+      <div class="search-modal-header">
+        <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink:0;color:var(--muted)"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        <input id="search-modal-input" class="search-modal-input" type="text" placeholder="Szukaj filmów i osób…" autocomplete="off" spellcheck="false">
+        <kbd class="search-modal-esc">Esc</kbd>
+      </div>
+      <div id="search-modal-results" class="search-modal-results"></div>
+    </div>
+  </div>
+  <script src="/static/search.js"></script>
+
+  <div id="tooltip"></div>
+  <div class="container">
+    <h1>Rekordy</h1>
+    <div id="loading" class="muted">Ładowanie…</div>
+    <div id="content" style="display:none"></div>
+    <div id="error" style="display:none"></div>
+  </div>
+
+  <script src="../../static/tooltip.js"></script>
+  <script>
+    const esc = s => String(s == null ? '' : s).replace(/&/g, '&amp;').replace(/</g, '&lt;');
+    const f2 = n => (n == null ? '—' : Number(n).toFixed(2));
+    const rnum = n => (n == null ? '—' : (Number.isInteger(n) ? String(n) : Number(n).toFixed(1)));
+    const scoreSpan = s => `<span class="${scoreClass(s)}">${f2(s)}</span>`;
+    const popPct = x => Math.round(x.pop * 100) + '%';
+    const popTip = x => `<span class="tip-votes" data-iv="${x.imdb_votes ?? ''}" data-fv="${x.fw_votes ?? ''}">${popPct(x)}</span>`;
+    const ROLE_LABELS = { director:'Reżyser', writer:'Scenarzysta', star:'Gwiazda', cast:'Aktor',
+                          composer:'Kompozytor', cinematographer:'Operator', producer:'Producent' };
+    const ROLE_ORDER = ['director','writer','star','cast','composer','cinematographer','producer'];
+
+    let movieMap = {};        // id → movies_index entry (for film tooltips)
+    let GROUPS = [], PP = {};  // per-render group payloads / person payloads
+
+    const filmId = f => f.imdb_id || f.id;
+    function filmRows(list) {
+      return (list || []).map(f =>
+        `<tr><td class="muted" style="padding-right:.6em;white-space:nowrap">${f.year ?? '—'}</td>` +
+        `<td style="white-space:normal"><a href="/film/?id=${filmId(f)}" style="color:inherit">${esc(f.title)}</a></td>` +
+        `<td class="num" style="padding-left:.6em"><span class="${scoreClass(f.score)}">${f2(f.score)}</span></td></tr>`).join('');
+    }
+    function personFilmsTip(pl) {
+      if (!pl) return '';
+      const poster = pl.image_url
+        ? `<img src="${pl.image_url}" alt="" style="width:60px;height:78px;object-fit:cover;border-radius:4px;flex-shrink:0">`
+        : `<div style="width:60px;height:78px;border-radius:4px;background:var(--border);flex-shrink:0"></div>`;
+      return `<div style="display:flex;gap:.9rem;align-items:flex-start">${poster}` +
+        `<div><div class="tip-title" style="margin-bottom:.4rem">Najlepsze filmy</div>` +
+        `<table style="border-collapse:collapse;font-size:.85rem">${filmRows(pl.top_films)}</table></div></div>`;
+    }
+    function groupFilmsTip(films) {
+      return `<div class="tip-title" style="margin-bottom:.4rem">Najlepsze wspólne filmy</div>` +
+        `<table style="border-collapse:collapse;font-size:.85rem">${filmRows(films)}</table>`;
+    }
+
+    // Film mini-list card
+    function fcard(title, items, val, note) {
+      const rows = (items || []).map((x, i) =>
+        `<li><span class="rk">${i + 1}</span>` +
+        `<a href="/film/?id=${x.id}">${esc(x.title)}</a>` +
+        `<span class="yr">${x.year ?? ''}</span>` +
+        `<span class="val">${val(x)}</span></li>`).join('');
+      return `<div class="card"><h3>${esc(title)}</h3><ol class="rec">${rows}</ol>${note ? `<p class="cnote">${esc(note)}</p>` : ''}</div>`;
+    }
+    // Group mini-list card. Each member link carries data-grp so hover shows the group's films.
+    function gcard(title, items, val, note) {
+      const rows = (items || []).map((g, i) => {
+        const gi = GROUPS.push(g) - 1;
+        const members = g.members.map(m => `<a href="/osoba/?id=${m.id}" data-grp="${gi}">${esc(m.name)}</a>`).join(' + ');
+        return `<li><span class="rk">${i + 1}</span><span class="members">${members}</span><span class="val">${val(g)}</span></li>`;
+      }).join('');
+      return `<div class="card"><h3>${esc(title)}</h3><ol class="rec">${rows}</ol>${note ? `<p class="cnote">${esc(note)}</p>` : ''}</div>`;
+    }
+
+    // Director↔collaborator duo card (plain person links, no group tooltip).
+    function dcard(title, items, note) {
+      const rows = (items || []).map((d, i) =>
+        `<li><span class="rk">${i + 1}</span><span class="members">` +
+        `<a href="/osoba/?id=${d.director.id}">${esc(d.director.name)}</a> + ` +
+        `<a href="/osoba/?id=${d.collab.id}">${esc(d.collab.name)}</a></span>` +
+        `<span class="val">${d.count} filmów · ${scoreSpan(d.avg)}</span></li>`).join('');
+      return `<div class="card"><h3>${esc(title)}</h3><ol class="rec">${rows}</ol>${note ? `<p class="cnote">${esc(note)}</p>` : ''}</div>`;
+    }
+
+    function render(r) {
+      const f = r.films, p = r.people;
+      GROUPS = []; PP = {};
+      const spreadTip = x => `<span class="tip-spread" data-hi-l="${esc(x.hi_l)}" data-hi-v="${f2(x.hi_v)}" data-lo-l="${esc(x.lo_l)}" data-lo-v="${f2(x.lo_v)}">Δ ${f2(x.spread)}</span>`;
+      const regP = x => { if (x && x.id) PP[x.id] = { image_url: x.image_url, top_films: x.top_films || [] }; };
+
+      const filmCards = [
+        fcard('Najlepsze filmy', f.best, x => scoreSpan(x.score)),
+        fcard('Najgorsze filmy', f.worst, x => scoreSpan(x.score)),
+        fcard('Najdłuższe', f.longest, x => x.runtime + ' min'),
+        fcard('Najkrótsze', f.shortest, x => x.runtime + ' min'),
+        fcard('Najstarsze', f.oldest, x => scoreSpan(x.score)),
+        fcard('Najnowsze', f.newest, x => scoreSpan(x.score)),
+        fcard('Najlepsza obsada', f.best_cast, x => scoreSpan(x.val), 'Średnia ocen gwiazd filmu'),
+        fcard('Najgorsza obsada', f.worst_cast, x => scoreSpan(x.val), 'Średnia ocen gwiazd filmu'),
+        fcard('Najlepsi twórcy', f.best_crew, x => scoreSpan(x.val), 'Średnia z ocen reżysera, scenarzysty, kompozytora i operatora.'),
+        fcard('Najgorsi twórcy', f.worst_crew, x => scoreSpan(x.val), 'Średnia z ocen reżysera, scenarzysty, kompozytora i operatora.'),
+        fcard('Najpopularniejsze', f.most_popular, popTip, 'Popularność = średni percentyl głosów IMDb i Filmweb.'),
+        fcard('Najmniej popularne', f.least_popular, popTip, 'Popularność = średni percentyl głosów IMDb i Filmweb.'),
+        fcard('Ukryte perły', f.gems, x => `${scoreSpan(x.score)} · ${popTip(x)}`, 'Wysoka ocena, niska popularność (ocena · popularność).'),
+        fcard('Przereklamowane', f.overrated, x => `${scoreSpan(x.score)} · ${popTip(x)}`, 'Wysoka popularność, niska ocena (ocena · popularność).'),
+        fcard('Najbardziej kontrowersyjne', f.controversial_sources, spreadTip, 'Największy rozrzut znormalizowanych ocen między źródłami. Najedź, by zobaczyć skrajne oceny.'),
+        fcard('Jarek vs Michał', f.controversial_critics, x => `M ${rnum(x.michal)} · J ${rnum(x.jarek)}`, 'Największa różnica surowych ocen Michała i Jarka.'),
+        fcard('Świat lubi bardziej niż Polska', f.world_over_pl, x => `IMDb ${rnum(x.imdb)} · FW ${f2(x.fw)}`, 'Ranking wg znormalizowanych ocen; pokazane surowe oceny IMDb i Filmweb.'),
+        fcard('Polska lubi bardziej niż świat', f.pl_over_world, x => `IMDb ${rnum(x.imdb)} · FW ${f2(x.fw)}`, 'Ranking wg znormalizowanych ocen; pokazane surowe oceny IMDb i Filmweb.'),
+        fcard('Najwięcej krajów produkcji', f.most_countries, x => x.n),
+        fcard('Najwięcej gatunków', f.most_genres, x => x.n),
+      ].join('');
+
+      // People: best/worst per role, most films per role, career span per role
+      const bwr = p.best_by_role, mfr = p.most_films_by_role, csr = p.career_span_by_role;
+      Object.values(bwr).forEach(v => { regP(v.best); regP(v.worst); });
+      Object.values(mfr).forEach(regP);
+      Object.values(csr).forEach(regP);
+
+      const roleBest = ROLE_ORDER.filter(k => bwr[k]).map(k => {
+        const b = bwr[k].best, w = bwr[k].worst;
+        return `<tr><td>${ROLE_LABELS[k]}</td>
+          <td><a href="/osoba/?id=${b.id}">${esc(b.name)}</a> ${scoreSpan(b.score)}</td>
+          <td><a href="/osoba/?id=${w.id}">${esc(w.name)}</a> ${scoreSpan(w.score)}</td></tr>`;
+      }).join('');
+      const roleMost = ROLE_ORDER.filter(k => mfr[k]).map(k => {
+        const m = mfr[k];
+        return `<tr><td>${ROLE_LABELS[k]}</td><td><a href="/osoba/?id=${m.id}">${esc(m.name)}</a></td><td class="num">${m.n}</td></tr>`;
+      }).join('');
+      const roleSpan = ROLE_ORDER.filter(k => csr[k]).map(k => {
+        const s = csr[k];
+        return `<tr><td>${ROLE_LABELS[k]}</td><td><a href="/osoba/?id=${s.id}">${esc(s.name)}</a></td>` +
+          `<td class="num">${s.span} lat</td><td class="num">${s.first}–${s.last}</td></tr>`;
+      }).join('');
+
+      const GROUP_LBL = { pairs: 'Pary', triples: 'Trójki', quads: 'Czwórki' };
+      const coocCards = ['pairs','triples','quads'].map(k =>
+        gcard(GROUP_LBL[k], p.cooccurrence[k], g => `${g.count} filmów`)).join('');
+      const bestGroupCards = ['pairs','triples','quads'].map(k =>
+        gcard(GROUP_LBL[k], p.best_groups[k], g => `${scoreSpan(g.avg)} · ${g.count} filmów`)).join('');
+      const DUO_LBL = { writer: 'Reżyser + scenarzysta', star: 'Reżyser + gwiazda', composer: 'Reżyser + kompozytor', cinematographer: 'Reżyser + operator' };
+      const duoCards = ['writer','star','composer','cinematographer'].map(k =>
+        dcard(DUO_LBL[k], (p.duos || {})[k])).join('');
+
+      document.getElementById('content').innerHTML = `
+        <section>
+          <h2>Filmy</h2>
+          <div class="cards">${filmCards}</div>
+        </section>
+
+        <section>
+          <h2>Osoby</h2>
+          <div class="ptab">
+            <div class="card full">
+              <h3>Najlepsza i najgorsza osoba w roli</h3>
+              <div class="tab-wrap"><table class="rec-tab"><thead><tr><th>Rola</th><th>Najlepsza</th><th>Najgorsza</th></tr></thead><tbody>${roleBest}</tbody></table></div>
+            </div>
+            <div class="card">
+              <h3>Najwięcej filmów w roli</h3>
+              <div class="tab-wrap"><table class="rec-tab"><thead><tr><th>Rola</th><th>Osoba</th><th class="num">Filmów</th></tr></thead><tbody>${roleMost}</tbody></table></div>
+            </div>
+            <div class="card">
+              <h3>Największa rozpiętość kariery w roli</h3>
+              <div class="tab-wrap"><table class="rec-tab"><thead><tr><th>Rola</th><th>Osoba</th><th class="num">Rozpiętość</th><th class="num">Lata</th></tr></thead><tbody>${roleSpan}</tbody></table></div>
+              <p class="cnote">Odstęp między najstarszym a najnowszym filmem w danej roli; pomijamy lata poza życiem osoby (restauracje/archiwalia).</p>
+            </div>
+          </div>
+          <p class="subhead">Najczęściej razem <span class="subhead-hint">— wśród gwiazd (czołowa obsada filmu)</span></p>
+          <div class="cards">${coocCards}</div>
+          <p class="subhead">Najlepsi razem <span class="subhead-hint">— wśród gwiazd (min. 3 wspólne filmy)</span></p>
+          <div class="cards">${bestGroupCards}</div>
+          <p class="subhead">Stałe duety twórcze <span class="subhead-hint">— reżyser z regularnym współpracownikiem</span></p>
+          <div class="cards">${duoCards}</div>
+        </section>`;
+
+      // ── Wire tooltips ──
+      document.querySelectorAll('#content a[href^="/film/?id="]').forEach(a => {
+        const m = movieMap[a.getAttribute('href').split('id=')[1]];
+        if (m) attachTip(a, () => tipFilm(m));
+      });
+      document.querySelectorAll('#content a[data-grp]').forEach(a => {
+        const g = GROUPS[+a.dataset.grp];
+        if (g) attachTip(a, () => groupFilmsTip(g.top_films));
+      });
+      document.querySelectorAll('#content a[href^="/osoba/?id="]').forEach(a => {
+        if (a.hasAttribute('data-grp')) return;
+        const pl = PP[a.getAttribute('href').split('id=')[1]];
+        if (pl && ((pl.top_films && pl.top_films.length) || pl.image_url)) attachTip(a, () => personFilmsTip(pl));
+      });
+      document.querySelectorAll('#content .tip-votes').forEach(el => {
+        const iv = el.dataset.iv, fv = el.dataset.fv;
+        attachTip(el, () => `<div class="tip-title">Liczba głosów</div>` + _tipRows([
+          ['IMDb', iv ? Number(iv).toLocaleString('pl-PL') : '—'],
+          ['Filmweb', fv ? Number(fv).toLocaleString('pl-PL') : '—']]));
+      });
+      document.querySelectorAll('#content .tip-spread').forEach(el => {
+        const d = el.dataset;
+        attachTip(el, () => `<div class="tip-title">Skrajne oceny (znorm.)</div>` + _tipRows([
+          [d.hiL + ' — najwyżej', d.hiV], [d.loL + ' — najniżej', d.loV]]));
+      });
+
+      document.getElementById('loading').style.display = 'none';
+      document.getElementById('content').style.display = '';
+    }
+
+    Promise.all([
+      fetch('../../data/records.json').then(r => r.json()),
+      fetch('../../data/movies_index.json').then(r => r.json()).catch(() => []),
+    ]).then(([records, movies]) => {
+      movies.forEach(m => { movieMap[m.id] = m; });
+      render(records);
+    }).catch(e => {
+      document.getElementById('loading').style.display = 'none';
+      const el = document.getElementById('error');
+      el.textContent = 'Błąd wczytywania danych: ' + e;
+      el.style.display = '';
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,177 @@
+{
+  "imdb_id": "tt9788498",
+  "title": "Good Hunting",
+  "description": "The son of a spirit hunter forges a bond with a shape-shifting huli jing.",
+  "runtime_minutes": 17,
+  "release_date": "15.03.2019",
+  "genres": [
+    "Animation",
+    "Short",
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Drama",
+    "Fantasy",
+    "Horror",
+    "Mystery",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm1285544",
+      "name": "Elaine Tan"
+    },
+    {
+      "id": "nm0455058",
+      "name": "Matthew Yang King"
+    },
+    {
+      "id": "nm1290102",
+      "name": "Gwendoline Yeo"
+    },
+    {
+      "id": "nm6503111",
+      "name": "Maddox Henry"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm3070915",
+      "name": "Ki-Yong Bae"
+    },
+    {
+      "id": "nm3736110",
+      "name": "Dae Woo Lee"
+    },
+    {
+      "id": "nm1166916",
+      "name": "Gabriele Pennacchioli"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm7408787",
+      "name": "Ken Liu"
+    },
+    {
+      "id": "nm3664884",
+      "name": "Philip Gelatt"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1285544",
+      "name": "Elaine Tan",
+      "character": "Adult Yan"
+    },
+    {
+      "id": "nm0455058",
+      "name": "Matthew Yang King",
+      "character": "Adult Liang"
+    },
+    {
+      "id": "nm1290102",
+      "name": "Gwendoline Yeo",
+      "character": "Tsiao Jung"
+    },
+    {
+      "id": "nm6503111",
+      "name": "Maddox Henry",
+      "character": "Young Liang"
+    },
+    {
+      "id": "nm0599019",
+      "name": "Sumalee Montano",
+      "character": "Young Yan"
+    },
+    {
+      "id": "nm1072611",
+      "name": "JB Blanc",
+      "character": "Supervisor"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 10001631,
+  "year": 2019,
+  "type": "tvEpisode",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZDY1ZTlhNjItZTJkZS00NjBiLTk3OTUtODNmNTZiM2UxZWVlXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8,
+      "votes": 21881,
+      "distribution": {
+        "1": 227,
+        "2": 120,
+        "3": 140,
+        "4": 258,
+        "5": 562,
+        "6": 1450,
+        "7": 3720,
+        "8": 6488,
+        "9": 4842,
+        "10": 4074
+      }
+    },
+    "filmweb": {
+      "rating": 7.0,
+      "votes": 1,
+      "distribution": {
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 1,
+        "8": 0,
+        "9": 0,
+        "10": 0
+      }
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "28.10.2022"
+    }
+  },
+  "polish_title": "Waidmannsheil",
+  "silent": false,
+  "producers": [
+    {
+      "id": "nm0232433",
+      "name": "Joshua Donen"
+    },
+    {
+      "id": "nm0000399",
+      "name": "David Fincher"
+    },
+    {
+      "id": "nm2126361",
+      "name": "Victoria L. Howard"
+    },
+    {
+      "id": "nm13807648",
+      "name": "Kyung-Hee Lee"
+    },
+    {
+      "id": "nm10380524",
+      "name": "Jennifer Miller"
+    },
+    {
+      "id": "nm1783265",
+      "name": "Tim Miller"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm1052252",
+      "name": "Rob Cairns"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

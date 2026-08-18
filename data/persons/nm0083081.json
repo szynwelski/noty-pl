@@ -1,0 +1,48 @@
+{
+  "id": "nm0083081",
+  "name": "Edward Binns",
+  "filmography": [
+    {
+      "imdb_id": "tt0050083",
+      "title": "12 Angry Men",
+      "year": 1957,
+      "roles": [
+        "cast"
+      ],
+      "character": "Juror 6"
+    },
+    {
+      "imdb_id": "tt0053125",
+      "title": "North by Northwest",
+      "year": 1959,
+      "roles": [
+        "cast"
+      ],
+      "character": "Captain Junket"
+    },
+    {
+      "imdb_id": "tt0055031",
+      "title": "Judgment at Nuremberg",
+      "year": 1961,
+      "roles": [
+        "cast"
+      ],
+      "character": "Sen. Burkette"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzAwODU2Njk2Ml5BMl5BanBnXkFtZTcwMjkxODUxOA@@._V1_.jpg",
+  "birth_date": "12.09.1916",
+  "death_date": "04.12.1990",
+  "birth_location": "Philadelphia, Pennsylvania, USA",
+  "height": "1.83 m",
+  "filmweb_id": 9385,
+  "name_pl": "Edward Binns",
+  "birth_location_pl": "Filadelfia, Pensylwania",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 9385
+}

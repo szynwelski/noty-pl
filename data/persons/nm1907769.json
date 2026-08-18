@@ -1,0 +1,30 @@
+{
+  "id": "nm1907769",
+  "name": "Elon Musk",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjIyNTgwOTc0Ml5BMl5BanBnXkFtZTgwMzEwMTk5MzE@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0427944",
+      "title": "Thank You for Smoking",
+      "year": 2005,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "birth_date": "28.06.1971",
+  "birth_location": "Pretoria, South Africa",
+  "height": "1.88 m",
+  "imdb_scraped": true,
+  "filmweb_id": 620313,
+  "name_pl": "Elon Musk",
+  "birth_location_pl": "Pretoria",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Kanada",
+    "Stany Zjednoczone",
+    "Południowa Afryka"
+  ],
+  "wikidata_fw_id": 620313
+}

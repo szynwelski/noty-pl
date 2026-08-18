@@ -1,0 +1,236 @@
+{
+  "imdb_id": "tt11369540",
+  "title": "The Champion",
+  "description": "The story of the pre-war boxing champion Tadeusz \"Teddy\" Pietrzykowski, who in 1940 arrives with the first transport of prisoners to the newly created Auschwitz concentration camp.",
+  "runtime_minutes": 91,
+  "release_date": "08.09.2022",
+  "genres": [
+    "Biography",
+    "Drama",
+    "History",
+    "Sport"
+  ],
+  "stars": [
+    {
+      "id": "nm1644158",
+      "name": "Piotr Glowacki"
+    },
+    {
+      "id": "nm8017211",
+      "name": "Jan Szydlowski"
+    },
+    {
+      "id": "nm1259124",
+      "name": "Grzegorz Malecki"
+    },
+    {
+      "id": "nm1591309",
+      "name": "Marcin Bosak"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm8849637",
+      "name": "Maciej Barczewski"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm8849637",
+      "name": "Maciej Barczewski"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1644158",
+      "name": "Piotr Glowacki",
+      "character": "Tadeusz Pietrzykowski 'Teddy'"
+    },
+    {
+      "id": "nm8017211",
+      "name": "Jan Szydlowski",
+      "character": "Janek"
+    },
+    {
+      "id": "nm1259124",
+      "name": "Grzegorz Malecki",
+      "character": "Rapportführer"
+    },
+    {
+      "id": "nm1591309",
+      "name": "Marcin Bosak",
+      "character": "Lagerführer"
+    },
+    {
+      "id": "nm1345937",
+      "name": "Marcin Czarnik",
+      "character": "Bruno"
+    },
+    {
+      "id": "nm0440760",
+      "name": "Marek Kasprzyk",
+      "character": "Ernst"
+    },
+    {
+      "id": "nm4934471",
+      "name": "Piotr Witkowski",
+      "character": "Walter"
+    },
+    {
+      "id": "nm0246189",
+      "name": "Marian Dziedziel",
+      "character": "Captain"
+    },
+    {
+      "id": "nm4027445",
+      "name": "Rafal Zawierucha",
+      "character": "Klimko"
+    },
+    {
+      "id": "nm6223116",
+      "name": "Kamil Szeptycki",
+      "character": "Kropp"
+    },
+    {
+      "id": "nm12026941",
+      "name": "Marianna Pawlisz",
+      "character": "Helcia"
+    },
+    {
+      "id": "nm1992756",
+      "name": "Zbigniew Paterak",
+      "character": "Doctor"
+    },
+    {
+      "id": "nm9121871",
+      "name": "Agata Mieniuk",
+      "character": "Ana"
+    },
+    {
+      "id": "nm7539848",
+      "name": "Milosz Kwiecien",
+      "character": "Rudi"
+    },
+    {
+      "id": "nm4504936",
+      "name": "Martin Hugh Henley",
+      "character": "Officer from Neuengamme"
+    },
+    {
+      "id": "nm10884641",
+      "name": "Michal Pluskota",
+      "character": "Hhammerschlag"
+    },
+    {
+      "id": "nm7988018",
+      "name": "Lukasz Szoblik",
+      "character": "Czeslaw Jaszczynski 'Bumbo'"
+    },
+    {
+      "id": "nm8849638",
+      "name": "Mateusz Broda",
+      "character": "Brown eyed boy"
+    }
+  ],
+  "countries": [
+    "Poland"
+  ],
+  "languages": [
+    "Polish",
+    "German"
+  ],
+  "color": "Color",
+  "year": 2020,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYzg5OWU4MTctYTVmYi00MDc0LWJkNjktMGY2Nzk3N2U1ZTI4XkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 843930,
+  "original_title": "Mistrz",
+  "ratings": {
+    "imdb": {
+      "rating": 6.8,
+      "votes": 2536,
+      "distribution": {
+        "1": 55,
+        "2": 19,
+        "3": 31,
+        "4": 77,
+        "5": 202,
+        "6": 553,
+        "7": 766,
+        "8": 456,
+        "9": 166,
+        "10": 211
+      },
+      "normalized": 5.1896
+    },
+    "filmweb": {
+      "rating": 6.68,
+      "votes": 23091,
+      "distribution": {
+        "1": 93,
+        "2": 56,
+        "3": 293,
+        "4": 705,
+        "5": 2488,
+        "6": 6019,
+        "7": 7959,
+        "8": 3788,
+        "9": 1054,
+        "10": 636
+      },
+      "normalized": 4.7799
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "14.04.2023",
+      "normalized": 5.6855
+    },
+    "score": 5.2183
+  },
+  "polish_title": "Mistrz",
+  "silent": false,
+  "description_pl": "Historia legendarnego pięściarza Tadeusza \"Teddy'ego\" Pietrzykowskiego, który dzięki walkom na ringu ocalił swoje życie w niemieckim nazistowskim obozie koncentracyjnym i zagłady Auschwitz-Birkenau. Oparty na prawdziwych wydarzeniach dramat przedstawia nieznaną historię polskiego sportowca, który w miejscu zagłady stał się symbolem nadziei na zwycięstwo.",
+  "producers": [
+    {
+      "id": "nm1410690",
+      "name": "Tomasz Dukszta"
+    },
+    {
+      "id": "nm8167743",
+      "name": "Michal Dziuda"
+    },
+    {
+      "id": "nm11104100",
+      "name": "Darryl C. Marks"
+    },
+    {
+      "id": "nm13687983",
+      "name": "Sylwester Piasny"
+    },
+    {
+      "id": "nm1723436",
+      "name": "Leszek Starzynski"
+    },
+    {
+      "id": "nm0844260",
+      "name": "Krzysztof Szpetmanski"
+    },
+    {
+      "id": "nm1451684",
+      "name": "Wojciech Widelski"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm3107648",
+      "name": "Bartosz Chajdecki"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm1294312",
+      "name": "Witold Plóciennik"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

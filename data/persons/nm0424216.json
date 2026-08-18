@@ -1,0 +1,38 @@
+{
+  "id": "nm0424216",
+  "name": "Johnny Knoxville",
+  "filmography": [
+    {
+      "imdb_id": "tt0246464",
+      "title": "Big Trouble",
+      "year": 2002,
+      "roles": [
+        "cast"
+      ],
+      "character": "Eddie Leadbetter"
+    },
+    {
+      "imdb_id": "tt0120912",
+      "title": "Men in Black II",
+      "year": 2002,
+      "roles": [
+        "cast"
+      ],
+      "character": "Scrad"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTE5Mjk5OTMxMV5BMl5BanBnXkFtZTYwODMyNDE0._V1_.jpg",
+  "birth_date": "11.03.1971",
+  "birth_location": "Knoxville, Tennessee, USA",
+  "height": "1.85 m",
+  "imdb_scraped": true,
+  "filmweb_id": 56487,
+  "name_pl": "Johnny Knoxville",
+  "birth_location_pl": "Knoxville, Tennessee",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 56487
+}

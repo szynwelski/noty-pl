@@ -1,0 +1,221 @@
+{
+  "imdb_id": "tt0061395",
+  "title": "Belle de Jour",
+  "description": "A frigid young housewife decides to spend her midweek afternoons as a prostitute.",
+  "runtime_minutes": 100,
+  "release_date": "10.04.1968",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0000366",
+      "name": "Catherine Deneuve"
+    },
+    {
+      "id": "nm0814799",
+      "name": "Jean Sorel"
+    },
+    {
+      "id": "nm0681566",
+      "name": "Michel Piccoli"
+    },
+    {
+      "id": "nm0656180",
+      "name": "Geneviève Page"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000320",
+      "name": "Luis Buñuel"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0450262",
+      "name": "Joseph Kessel"
+    },
+    {
+      "id": "nm0000320",
+      "name": "Luis Buñuel"
+    },
+    {
+      "id": "nm0140643",
+      "name": "Jean-Claude Carrière"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000366",
+      "name": "Catherine Deneuve",
+      "character": "Séverine Serizy"
+    },
+    {
+      "id": "nm0814799",
+      "name": "Jean Sorel",
+      "character": "Pierre Sérizy"
+    },
+    {
+      "id": "nm0681566",
+      "name": "Michel Piccoli",
+      "character": "Henri Husson"
+    },
+    {
+      "id": "nm0656180",
+      "name": "Geneviève Page",
+      "character": "Madame Anais"
+    },
+    {
+      "id": "nm0167509",
+      "name": "Pierre Clémenti",
+      "character": "Marcel"
+    },
+    {
+      "id": "nm0264554",
+      "name": "Françoise Fabian",
+      "character": "Charlotte"
+    },
+    {
+      "id": "nm0617736",
+      "name": "Macha Méril",
+      "character": "Renee"
+    },
+    {
+      "id": "nm0612840",
+      "name": "Muni",
+      "character": "Pallas"
+    },
+    {
+      "id": "nm0490334",
+      "name": "Maria Latour",
+      "character": "Mathilde"
+    },
+    {
+      "id": "nm0148858",
+      "name": "Claude Cerval",
+      "character": "Le chauffeur"
+    },
+    {
+      "id": "nm0153474",
+      "name": "Michel Charrel",
+      "character": "Footman"
+    },
+    {
+      "id": "nm0451237",
+      "name": "Iska Khan",
+      "character": "Asian Client"
+    },
+    {
+      "id": "nm0615913",
+      "name": "Bernard Musson",
+      "character": "Majordomo"
+    },
+    {
+      "id": "nm0153651",
+      "name": "Marcel Charvey",
+      "character": "Prof. Henri"
+    },
+    {
+      "id": "nm0537922",
+      "name": "François Maistre",
+      "character": "L'enseignant"
+    },
+    {
+      "id": "nm0704719",
+      "name": "Francisco Rabal",
+      "character": "Hyppolite"
+    },
+    {
+      "id": "nm0545352",
+      "name": "Georges Marchal",
+      "character": "Duke"
+    },
+    {
+      "id": "nm0087126",
+      "name": "Francis Blanche",
+      "character": "Monsieur Adolphe"
+    }
+  ],
+  "countries": [
+    "France",
+    "Italy"
+  ],
+  "languages": [
+    "French",
+    "Kalmyk-Oirat",
+    "Spanish",
+    "Latin",
+    "English"
+  ],
+  "color": null,
+  "filmweb_id": 4105,
+  "year": 1967,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDhiYmZmNjEtZjE1NC00YmIxLTgyMDEtODVkYTkyNzZkNzk0XkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Belle de jour",
+  "ratings": {
+    "imdb": {
+      "rating": 7.6,
+      "votes": 53854,
+      "distribution": {
+        "1": 607,
+        "2": 291,
+        "3": 426,
+        "4": 864,
+        "5": 2085,
+        "6": 5256,
+        "7": 12525,
+        "8": 16704,
+        "9": 8347,
+        "10": 6749
+      },
+      "normalized": 6.5716
+    },
+    "filmweb": {
+      "rating": 7.56,
+      "votes": 14326,
+      "distribution": {
+        "1": 48,
+        "2": 28,
+        "3": 107,
+        "4": 180,
+        "5": 538,
+        "6": 1376,
+        "7": 3941,
+        "8": 5202,
+        "9": 2097,
+        "10": 809
+      },
+      "normalized": 6.8512
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "12.11.2006",
+      "normalized": 6.3474
+    },
+    "score": 6.5901
+  },
+  "polish_title": "Piękność dnia",
+  "silent": false,
+  "description_pl": "Severine jest piękną kobietą i żoną lekarza. Jednak mimo całej miłości jaką żywi do męża nie może przemóc się by uprawiać z nim seks. Zamiast tego kobieta oddaje się wyrafinowanym marzeniom erotycznym, a później zaczyna pracować jako prostytutka.",
+  "producers": [
+    {
+      "id": "nm0354623",
+      "name": "Raymond Hakim"
+    },
+    {
+      "id": "nm0354624",
+      "name": "Robert Hakim"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005916",
+      "name": "Sacha Vierny"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

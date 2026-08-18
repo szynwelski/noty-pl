@@ -1,0 +1,83 @@
+{
+  "imdb_id": "tt1166819",
+  "title": "The Launch of H.M.S. Albion",
+  "description": "The Royan Navy's disastrous launch of the pre-Dreadnaught battleship HMS Albion was captured on film. Intended to show the pomp, circumstance and power of the Navy, it instead filmed a wave which swamped bleachers and killed spectators.",
+  "runtime_minutes": 1,
+  "release_date": "22.06.1898",
+  "genres": [
+    "Documentary",
+    "Short",
+    "News"
+  ],
+  "directors": [
+    {
+      "id": "nm0666972",
+      "name": "Robert W. Paul"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "None",
+    "English"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 753728,
+  "year": 1898,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZjA1NzY3ZTUtNDBjMS00MzYwLWJhNGEtY2ZkNjVhYjZmNTI1XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.5,
+      "votes": 267,
+      "distribution": {
+        "1": 12,
+        "2": 6,
+        "3": 17,
+        "4": 30,
+        "5": 61,
+        "6": 69,
+        "7": 39,
+        "8": 19,
+        "9": 4,
+        "10": 10
+      },
+      "normalized": 4.6045
+    },
+    "filmweb": {
+      "rating": 5.56,
+      "votes": 16,
+      "distribution": {
+        "1": 1,
+        "2": 0,
+        "3": 2,
+        "4": 1,
+        "5": 2,
+        "6": 4,
+        "7": 4,
+        "8": 2,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 5.0237
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "13.12.2016",
+      "normalized": 7.1247
+    },
+    "score": 5.5843
+  },
+  "polish_title": "The Launch of H.M.S. Albion",
+  "silent": true,
+  "cinematographers": [
+    {
+      "id": "nm0666972",
+      "name": "Robert W. Paul"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

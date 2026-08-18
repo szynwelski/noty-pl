@@ -1,0 +1,60 @@
+{
+  "id": "nm0051628",
+  "name": "George Bancroft",
+  "filmography": [
+    {
+      "imdb_id": "tt0018526",
+      "title": "Underworld",
+      "year": 1927,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "'Bull' Weed"
+    },
+    {
+      "imdb_id": "tt0018839",
+      "title": "The Docks of New York",
+      "year": 1928,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Bill Roberts"
+    },
+    {
+      "imdb_id": "tt0027996",
+      "title": "Mr. Deeds Goes to Town",
+      "year": 1936,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "MacWade"
+    },
+    {
+      "imdb_id": "tt0031971",
+      "title": "Stagecoach",
+      "year": 1939,
+      "roles": [
+        "cast"
+      ],
+      "character": "Marshal Curley Wilcox"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYjk4YmU0ODEtYzU0YS00ZWUxLWFmZDQtYTEzZmQ4NTEyMDJkXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "30.09.1882",
+  "death_date": "02.10.1956",
+  "birth_location": "Philadelphia, Pennsylvania, USA",
+  "height": "1.88 m",
+  "filmweb_id": 52046,
+  "name_pl": "George Bancroft",
+  "birth_location_pl": "Filadelfia, Pensylwania",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 52046
+}

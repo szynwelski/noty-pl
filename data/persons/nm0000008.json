@@ -1,0 +1,130 @@
+{
+  "id": "nm0000008",
+  "name": "Marlon Brando",
+  "filmography": [
+    {
+      "imdb_id": "tt0044081",
+      "title": "A Streetcar Named Desire",
+      "year": 1951,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Stanley"
+    },
+    {
+      "imdb_id": "tt0047677",
+      "title": "The Wild One",
+      "year": 1953,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Johnny Strabler"
+    },
+    {
+      "imdb_id": "tt0047296",
+      "title": "On the Waterfront",
+      "year": 1954,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Terry Malloy"
+    },
+    {
+      "imdb_id": "tt0056264",
+      "title": "Mutiny on the Bounty",
+      "year": 1962,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "1st Lt. Fletcher Christian"
+    },
+    {
+      "imdb_id": "tt0061523",
+      "title": "A Countess from Hong Kong",
+      "year": 1967,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Ogden"
+    },
+    {
+      "imdb_id": "tt0070849",
+      "title": "Last Tango in Paris",
+      "year": 1972,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Paul"
+    },
+    {
+      "imdb_id": "tt0068646",
+      "title": "The Godfather",
+      "year": 1972,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Don Vito Corleone"
+    },
+    {
+      "imdb_id": "tt0078346",
+      "title": "Superman",
+      "year": 1978,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Jor-El"
+    },
+    {
+      "imdb_id": "tt0078788",
+      "title": "Apocalypse Now",
+      "year": 1979,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Colonel Kurtz"
+    },
+    {
+      "imdb_id": "tt0227445",
+      "title": "The Score",
+      "year": 2001,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Max"
+    },
+    {
+      "imdb_id": "tt0348150",
+      "title": "Superman Returns",
+      "year": 2006,
+      "roles": [
+        "cast"
+      ],
+      "character": "Jor-El"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTg3MDYyMDE5OF5BMl5BanBnXkFtZTcwNjgyNTEzNA@@._V1_.jpg",
+  "birth_date": "03.04.1924",
+  "death_date": "01.07.2004",
+  "birth_location": "Omaha, Nebraska, USA",
+  "height": "1.78 m",
+  "filmweb_id": 140,
+  "imdb_scraped": true,
+  "name_pl": "Marlon Brando",
+  "birth_location_pl": "Omaha, Nebraska",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 140
+}

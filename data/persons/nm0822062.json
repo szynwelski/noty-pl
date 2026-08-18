@@ -1,0 +1,46 @@
+{
+  "id": "nm0822062",
+  "name": "John Standing",
+  "filmography": [
+    {
+      "imdb_id": "tt0080678",
+      "title": "The Elephant Man",
+      "year": 1980,
+      "roles": [
+        "cast"
+      ],
+      "character": "Fox"
+    },
+    {
+      "imdb_id": "tt0120483",
+      "title": "The Man Who Knew Too Little",
+      "year": 1997,
+      "roles": [
+        "cast"
+      ],
+      "character": "Gilbert Embleton"
+    },
+    {
+      "imdb_id": "tt0434409",
+      "title": "V for Vendetta",
+      "year": 2005,
+      "roles": [
+        "cast"
+      ],
+      "character": "Lilliman"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjAwODgyMjI3Nl5BMl5BanBnXkFtZTcwNzQ2NzkxOA@@._V1_.jpg",
+  "birth_date": "16.08.1934",
+  "birth_location": "London, England, UK",
+  "height": "1.74 m",
+  "filmweb_id": 7691,
+  "name_pl": "John Standing",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ]
+}

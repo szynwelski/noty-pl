@@ -1,0 +1,46 @@
+{
+  "id": "nm0561809",
+  "name": "Roberta Maxwell",
+  "filmography": [
+    {
+      "imdb_id": "tt0107818",
+      "title": "Philadelphia",
+      "year": 1993,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Judge Tate"
+    },
+    {
+      "imdb_id": "tt0112818",
+      "title": "Dead Man Walking",
+      "year": 1995,
+      "roles": [
+        "cast"
+      ],
+      "character": "Lucille Poncelet"
+    },
+    {
+      "imdb_id": "tt0119925",
+      "title": "The Postman",
+      "year": 1997,
+      "roles": [
+        "cast"
+      ],
+      "character": "Irene March"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTA3MTU3MDUzODVeQTJeQWpwZ15BbWU3MDg5NjAzMTg@._V1_.jpg",
+  "birth_date": "17.06.1941",
+  "birth_location": "Toronto, Ontario, Canada",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Kanada"
+  ],
+  "filmweb_id": 4567,
+  "name_pl": "Roberta Maxwell",
+  "gender": "F",
+  "birth_location_pl": "Toronto"
+}

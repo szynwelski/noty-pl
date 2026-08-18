@@ -1,0 +1,51 @@
+{
+  "id": "nm0524924",
+  "name": "Robert Ludlum",
+  "filmography": [
+    {
+      "imdb_id": "tt0258463",
+      "title": "The Bourne Identity",
+      "year": 2002,
+      "roles": [
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0372183",
+      "title": "The Bourne Supremacy",
+      "year": 2004,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt1194173",
+      "title": "The Bourne Legacy",
+      "year": 2012,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt4196776",
+      "title": "Jason Bourne",
+      "year": 2016,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "birth_date": "25.05.1927",
+  "death_date": "12.03.2001",
+  "birth_location": "New York City, New York, USA",
+  "filmweb_id": 4502,
+  "name_pl": "Robert Ludlum",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

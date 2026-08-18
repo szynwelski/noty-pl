@@ -1,0 +1,45 @@
+{
+  "id": "nm0151452",
+  "name": "Raymond Chandler",
+  "filmography": [
+    {
+      "imdb_id": "tt0036775",
+      "title": "Double Indemnity",
+      "year": 1944,
+      "roles": [
+        "writer",
+        "cast"
+      ],
+      "character": "Man Reading Magazine Outside Keyes' Office"
+    },
+    {
+      "imdb_id": "tt0037101",
+      "title": "Murder, My Sweet",
+      "year": 1944,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0044079",
+      "title": "Strangers on a Train",
+      "year": 1951,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODBiNzQ1NWMtYmRkOS00NjJhLTg0MmEtMjFjZmRhMDc1ZWExXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "23.07.1888",
+  "death_date": "26.03.1959",
+  "birth_location": "Chicago, Illinois, USA",
+  "filmweb_id": 13101,
+  "name_pl": "Raymond Chandler",
+  "birth_location_pl": "Chicago, Illinois",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

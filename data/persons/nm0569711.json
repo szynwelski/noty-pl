@@ -1,0 +1,47 @@
+{
+  "id": "nm0569711",
+  "name": "Tom McGowan",
+  "filmography": [
+    {
+      "imdb_id": "tt0115685",
+      "title": "The Birdcage",
+      "year": 1996,
+      "roles": [
+        "cast"
+      ],
+      "character": "Harry Radman"
+    },
+    {
+      "imdb_id": "tt0162346",
+      "title": "Ghost World",
+      "year": 2001,
+      "roles": [
+        "cast"
+      ],
+      "character": "Joe"
+    },
+    {
+      "imdb_id": "tt0307987",
+      "title": "Bad Santa",
+      "year": 2003,
+      "roles": [
+        "cast"
+      ],
+      "character": "Harrison"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzY1OTk1MjM4Nl5BMl5BanBnXkFtZTgwNjI5NDY2MDI@._V1_.jpg",
+  "birth_date": "26.07.1959",
+  "birth_location": "Belmar, New Jersey, USA",
+  "height": "1.78 m",
+  "filmweb_id": 106150,
+  "name_pl": "Tom McGowan",
+  "birth_location_pl": "Belmar, New Jersey",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 106150
+}

@@ -1,0 +1,42 @@
+{
+  "id": "nm0006075",
+  "name": "Brad Fiedel",
+  "filmography": [
+    {
+      "imdb_id": "tt0088247",
+      "title": "The Terminator",
+      "year": 1984,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt0103064",
+      "title": "Terminator 2: Judgment Day",
+      "year": 1991,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt0113481",
+      "title": "Johnny Mnemonic",
+      "year": 1995,
+      "roles": [
+        "composer"
+      ]
+    }
+  ],
+  "birth_date": "10.03.1951",
+  "birth_location": "New York City, New York, USA",
+  "filmweb_id": 12405,
+  "name_pl": "Brad Fiedel",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 12405
+}

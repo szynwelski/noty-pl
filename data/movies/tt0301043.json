@@ -1,0 +1,165 @@
+{
+  "imdb_id": "tt0301043",
+  "title": "Blokersi",
+  "description": "The rise of hip hop culture in Poland",
+  "runtime_minutes": 77,
+  "release_date": "08.10.2001",
+  "genres": [
+    "Documentary",
+    "Music"
+  ],
+  "stars": [
+    {
+      "id": "nm1089015",
+      "name": "Ascetoholix"
+    },
+    {
+      "id": "nm1089612",
+      "name": "Eldo"
+    },
+    {
+      "id": "nm1089681",
+      "name": "Fenomen"
+    },
+    {
+      "id": "nm1089862",
+      "name": "Grammatik"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm1081695",
+      "name": "Sylwester Latkowski"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1081695",
+      "name": "Sylwester Latkowski"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1089015",
+      "name": "Ascetoholix",
+      "character": "Self - Ascetoholix"
+    },
+    {
+      "id": "nm1089612",
+      "name": "Eldo",
+      "character": "Self - Eldo"
+    },
+    {
+      "id": "nm1089681",
+      "name": "Fenomen",
+      "character": "Self - Fenomen"
+    },
+    {
+      "id": "nm1089862",
+      "name": "Grammatik",
+      "character": "Self - Gramatik"
+    },
+    {
+      "id": "nm1090868",
+      "name": "Paktofonika",
+      "character": "Self - Paktofonika"
+    },
+    {
+      "id": "nm1090903",
+      "name": "Peja",
+      "character": "Self - Peja"
+    },
+    {
+      "id": "nm1090988",
+      "name": "Prezes",
+      "character": "Self - Prezes"
+    },
+    {
+      "id": "nm1091651",
+      "name": "DJ Volt",
+      "character": "Self - DJ Volt"
+    },
+    {
+      "id": "nm1089703",
+      "name": "Bartosz Waglewski",
+      "character": "Self - Fisz"
+    },
+    {
+      "id": "nm2078167",
+      "name": "Hirek Wrona",
+      "character": "Self"
+    }
+  ],
+  "countries": [
+    "Poland"
+  ],
+  "languages": [
+    "Polish"
+  ],
+  "color": "Color",
+  "filmweb_id": 31400,
+  "year": 2001,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTM1MGIxODktN2IyNi00M2RjLTlhZjItZjBjOWQxMjkzMmRmXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6,
+      "votes": 312,
+      "distribution": {
+        "1": 14,
+        "2": 8,
+        "3": 9,
+        "4": 21,
+        "5": 45,
+        "6": 83,
+        "7": 73,
+        "8": 32,
+        "9": 11,
+        "10": 16
+      },
+      "normalized": 4.792
+    },
+    "filmweb": {
+      "rating": 6.53,
+      "votes": 12161,
+      "distribution": {
+        "1": 219,
+        "2": 104,
+        "3": 292,
+        "4": 526,
+        "5": 1381,
+        "6": 2881,
+        "7": 3832,
+        "8": 1889,
+        "9": 503,
+        "10": 534
+      },
+      "normalized": 4.3858
+    },
+    "michal": {
+      "rating": 2,
+      "date_rated": "19.10.2005",
+      "normalized": 3.1556
+    },
+    "score": 4.1111
+  },
+  "polish_title": "Blokersi",
+  "silent": false,
+  "description_pl": "\"Blokersi\" to film o polskiej kulturze hip hopowej. Opowiada o młodych ludziach z wielkomiejskich blokowisk, o tym jak żyją, jaka jest dzisiaj ulica w Polsce. Poza raperami są tu grafficiarze, break dance'owcy i ludzie związani z kulturą hip hopu.",
+  "producers": [
+    {
+      "id": "nm1081695",
+      "name": "Sylwester Latkowski"
+    },
+    {
+      "id": "nm1412904",
+      "name": "Tomasz Pijanowski"
+    },
+    {
+      "id": "nm1082478",
+      "name": "Jacek Szumlas"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

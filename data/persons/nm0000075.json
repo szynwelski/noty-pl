@@ -1,0 +1,70 @@
+{
+  "id": "nm0000075",
+  "name": "Spencer Tracy",
+  "filmography": [
+    {
+      "imdb_id": "tt0027652",
+      "title": "Fury",
+      "year": 1936,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Joe Wilson"
+    },
+    {
+      "imdb_id": "tt0041090",
+      "title": "Adam's Rib",
+      "year": 1949,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Adam Bonner"
+    },
+    {
+      "imdb_id": "tt0053946",
+      "title": "Inherit the Wind",
+      "year": 1960,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Henry Drummond"
+    },
+    {
+      "imdb_id": "tt0055031",
+      "title": "Judgment at Nuremberg",
+      "year": 1961,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Chief Judge Dan Haywood"
+    },
+    {
+      "imdb_id": "tt0061735",
+      "title": "Guess Who's Coming to Dinner",
+      "year": 1967,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Matt Drayton"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMWUxMTBmZmYtZGRjNS00ZTNjLWIzM2QtM2QxNjZhNDQ0MjA1XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "05.04.1900",
+  "death_date": "10.06.1967",
+  "birth_location": "Milwaukee, Wisconsin, USA",
+  "height": "1.77 m",
+  "filmweb_id": 43454,
+  "name_pl": "Spencer Tracy",
+  "birth_location_pl": "Milwaukee, Wisconsin",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

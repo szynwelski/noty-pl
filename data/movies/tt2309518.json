@@ -1,0 +1,126 @@
+{
+  "imdb_id": "tt2309518",
+  "title": "Child 31",
+  "description": "Follow one of CNN's Heroes, Magnus MacFarlane-Barrow as we get a glimpse into his simple, yet groundbreaking, idea that is working to lift the developing world out of poverty. Hailed by Gerard Butler and Anderson Cooper, Mary's Meals' life-changing work helps to give a face to hunger's deadly numbers.",
+  "runtime_minutes": 32,
+  "release_date": "24.10.2012",
+  "genres": [
+    "Documentary",
+    "Short",
+    "Drama"
+  ],
+  "directors": [
+    {
+      "id": "nm3057695",
+      "name": "Charles Kinnane"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm5189040",
+      "name": "Cyndi Amaya"
+    },
+    {
+      "id": "nm3058071",
+      "name": "Jeffrey Azize"
+    },
+    {
+      "id": "nm3055250",
+      "name": "Michael Campo"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "United Kingdom",
+    "United States",
+    "Malawi",
+    "Kenya",
+    "India"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 665563,
+  "year": 2012,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYjkxZjkxODktM2EwMC00NzUyLTg2ODAtZjM4ZTI5YmUzZmQxXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8.1,
+      "votes": 36,
+      "distribution": {
+        "1": 4,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 1,
+        "6": 3,
+        "7": 1,
+        "8": 6,
+        "9": 1,
+        "10": 17
+      },
+      "normalized": 5.4532
+    },
+    "filmweb": {
+      "rating": 6.65,
+      "votes": 40,
+      "distribution": {
+        "1": 3,
+        "2": 1,
+        "3": 2,
+        "4": 1,
+        "5": 3,
+        "6": 3,
+        "7": 6,
+        "8": 14,
+        "9": 6,
+        "10": 1
+      },
+      "normalized": 5.1656
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "15.02.2013",
+      "normalized": 4.9718
+    },
+    "score": 5.1969
+  },
+  "polish_title": "Trzydzieste pierwsze",
+  "silent": false,
+  "description_pl": "W epoce bezprecedensowego rozwoju technologicznego oraz dobrobytu, blisko miliard ludzi nadal zasypia z uczuciem głodu. Pewna organizacja stara się to zmienić. Misją fundacji Mary's Meals jest pomoc milionom dzieci - między innymi w Malawi, Kenii i Indiach - w realizacji ich marzeń.",
+  "producers": [
+    {
+      "id": "nm3057081",
+      "name": "Clifford Azize"
+    },
+    {
+      "id": "nm3104317",
+      "name": "Joseph Campo"
+    },
+    {
+      "id": "nm3055250",
+      "name": "Michael Campo"
+    },
+    {
+      "id": "nm5277820",
+      "name": "Bethany Heinrich"
+    },
+    {
+      "id": "nm3057695",
+      "name": "Charles Kinnane"
+    },
+    {
+      "id": "nm4730138",
+      "name": "Tiffany Pham"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm1322381",
+      "name": "Thomas Bergersen"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

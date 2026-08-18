@@ -1,0 +1,34 @@
+{
+  "id": "nm1034122",
+  "name": "Michael Lewis",
+  "filmography": [
+    {
+      "imdb_id": "tt0878804",
+      "title": "The Blind Side",
+      "year": 2009,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt1596363",
+      "title": "The Big Short",
+      "year": 2015,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjA0MDA4Mjk5Nl5BMl5BanBnXkFtZTgwMDA4NzYyNzE@._V1_.jpg",
+  "birth_date": "15.10.1960",
+  "birth_location": "New Orleans, Louisiana, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 1124300,
+  "name_pl": "Michael Lewis",
+  "birth_location_pl": "Nowy Orlean, Luizjana",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "imdb_id": "tt0047437",
+  "title": "Sabrina",
+  "description": "After her return from school in Paris, a playboy finally takes notice of his family's chauffeur's daughter, who's long had a crush on him, but he questions his more serious brother's motives when he warns against getting involved with her.",
+  "runtime_minutes": 113,
+  "release_date": "15.10.1954",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0000007",
+      "name": "Humphrey Bogart"
+    },
+    {
+      "id": "nm0000030",
+      "name": "Audrey Hepburn"
+    },
+    {
+      "id": "nm0000034",
+      "name": "William Holden"
+    },
+    {
+      "id": "nm0358899",
+      "name": "Walter Hampden"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000697",
+      "name": "Billy Wilder"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000697",
+      "name": "Billy Wilder"
+    },
+    {
+      "id": "nm0853138",
+      "name": "Samuel A. Taylor"
+    },
+    {
+      "id": "nm0499626",
+      "name": "Ernest Lehman"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000007",
+      "name": "Humphrey Bogart",
+      "character": "Linus Larrabee"
+    },
+    {
+      "id": "nm0000030",
+      "name": "Audrey Hepburn",
+      "character": "Sabrina Fairchild"
+    },
+    {
+      "id": "nm0000034",
+      "name": "William Holden",
+      "character": "David Larrabee"
+    },
+    {
+      "id": "nm0358899",
+      "name": "Walter Hampden",
+      "character": "Oliver Larrabee"
+    },
+    {
+      "id": "nm0002369",
+      "name": "John Williams",
+      "character": "Thomas Fairchild"
+    },
+    {
+      "id": "nm0405054",
+      "name": "Martha Hyer",
+      "character": "Elizabeth Tyson"
+    },
+    {
+      "id": "nm0901143",
+      "name": "Joan Vohs",
+      "character": "Gretchen Van Horn"
+    },
+    {
+      "id": "nm0197950",
+      "name": "Marcel Dalio",
+      "character": "Baron St. Fontanel"
+    },
+    {
+      "id": "nm0384787",
+      "name": "Marcel Hillaire",
+      "character": "The Professor"
+    },
+    {
+      "id": "nm0908063",
+      "name": "Nella Walker",
+      "character": "Maude Larrabee"
+    },
+    {
+      "id": "nm0124279",
+      "name": "Francis X. Bushman",
+      "character": "Mr. Tyson"
+    },
+    {
+      "id": "nm0179289",
+      "name": "Ellen Corby",
+      "character": "Miss McCardle"
+    },
+    {
+      "id": "nm0013866",
+      "name": "David Ahdar",
+      "character": "Ship's Steward"
+    },
+    {
+      "id": "nm0047450",
+      "name": "Raymond Bailey",
+      "character": "Member of the Board"
+    },
+    {
+      "id": "nm0070757",
+      "name": "Brooks Benedict",
+      "character": "Party Guest"
+    },
+    {
+      "id": "nm0071913",
+      "name": "Marjorie Bennett",
+      "character": "Margaret - Cook"
+    },
+    {
+      "id": "nm0103326",
+      "name": "Lovyss Bradley",
+      "character": "Office Worker"
+    },
+    {
+      "id": "nm0112201",
+      "name": "Ralph Brooks",
+      "character": "Party Guest"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 9316,
+  "year": 1954,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNjQ5MWI5YWYtYzYxNi00ODM4LWI4NzEtNzUzYmVkNzRiYzNlXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.6,
+      "votes": 76482,
+      "distribution": {
+        "1": 417,
+        "2": 220,
+        "3": 369,
+        "4": 825,
+        "5": 2340,
+        "6": 6938,
+        "7": 19790,
+        "8": 25320,
+        "9": 10751,
+        "10": 9512
+      },
+      "normalized": 6.587
+    },
+    "filmweb": {
+      "rating": 7.55,
+      "votes": 24091,
+      "distribution": {
+        "1": 34,
+        "2": 20,
+        "3": 83,
+        "4": 194,
+        "5": 709,
+        "6": 2512,
+        "7": 7676,
+        "8": 8710,
+        "9": 2797,
+        "10": 1356
+      },
+      "normalized": 6.8528
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "17.01.2011",
+      "normalized": 6.4102
+    },
+    "score": 6.6167
+  },
+  "polish_title": "Sabrina",
+  "silent": false,
+  "description_pl": "Sabrina jest córką szofera państwa Larrabee. Nieszczęśliwie kocha się w Davidzie - hulace i kobieciarzu. Jako nastolatka udaje się do Paryża. Po dwóch latach wraca jako dojrzała kobieta i zawraca w głowie nie tylko Davidowi, który ma się żenić, ale także myślącemu tylko o pieniądzach Linusowi...",
+  "cinematographers": [
+    {
+      "id": "nm0485702",
+      "name": "Charles Lang"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-15"
+}

@@ -1,0 +1,131 @@
+{
+  "imdb_id": "tt0000447",
+  "title": "Life of an American Fireman",
+  "description": "A fireman rushes into a carriage to rescue a woman from a house fire. He breaks the windowpanes and carries the woman to safety; after dangerous and uncertain moments he also saves the woman's son.",
+  "runtime_minutes": 6,
+  "release_date": "1903",
+  "genres": [
+    "Short",
+    "Action"
+  ],
+  "stars": [
+    {
+      "id": "nm0692105",
+      "name": "Edwin S. Porter"
+    },
+    {
+      "id": "nm0891119",
+      "name": "Vivian Vaughan"
+    },
+    {
+      "id": "nm0924475",
+      "name": "Arthur White"
+    },
+    {
+      "id": "nm0924920",
+      "name": "James H. White"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm2092030",
+      "name": "George S. Fleming"
+    },
+    {
+      "id": "nm0692105",
+      "name": "Edwin S. Porter"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0692105",
+      "name": "Edwin S. Porter"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0692105",
+      "name": "Edwin S. Porter",
+      "character": "Policeman"
+    },
+    {
+      "id": "nm0891119",
+      "name": "Vivian Vaughan",
+      "character": "The Girl"
+    },
+    {
+      "id": "nm0924475",
+      "name": "Arthur White",
+      "character": "The Fireman"
+    },
+    {
+      "id": "nm0924920",
+      "name": "James H. White",
+      "character": "Fire Chief"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "None",
+    "English"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 149131,
+  "year": 1903,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYzJkYTE3NjItZWE5Ni00YzAwLTg5YWMtNDhhMTM0Njk1ZDc0XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.4,
+      "votes": 3007,
+      "distribution": {
+        "1": 42,
+        "2": 34,
+        "3": 56,
+        "4": 148,
+        "5": 405,
+        "6": 894,
+        "7": 876,
+        "8": 339,
+        "9": 84,
+        "10": 129
+      },
+      "normalized": 4.5486
+    },
+    "filmweb": {
+      "rating": 6.04,
+      "votes": 378,
+      "distribution": {
+        "2": 2,
+        "3": 13,
+        "4": 29,
+        "5": 64,
+        "6": 142,
+        "7": 84,
+        "8": 34,
+        "9": 7,
+        "10": 3
+      },
+      "normalized": 4.2522
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "15.12.2016",
+      "normalized": 6.4102
+    },
+    "score": 5.0703
+  },
+  "polish_title": "Życie amerykańskiego strażaka",
+  "silent": true,
+  "description_pl": "Strażacy przybywają na miejsce wypadku i próbują ratować kobietę. Dowiadują się od niej, że  jej dziecko zostało w palącej sie sypialni i trzeba je uratować.",
+  "cinematographers": [
+    {
+      "id": "nm0692105",
+      "name": "Edwin S. Porter"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-15"
+}

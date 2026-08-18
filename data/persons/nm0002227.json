@@ -1,0 +1,42 @@
+{
+  "id": "nm0002227",
+  "name": "John Frizzell",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTM0ZWRhMTgtOTMyMi00NDYzLThjYWQtMTM4ZGE4NTA0MTE0XkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0118583",
+      "title": "Alien: Resurrection",
+      "year": 1997,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt0151804",
+      "title": "Office Space",
+      "year": 1999,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt0236348",
+      "title": "Josie and the Pussycats",
+      "year": 2001,
+      "roles": [
+        "composer"
+      ]
+    }
+  ],
+  "birth_location": "New York City, New York, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 10569,
+  "name_pl": "John Frizzell",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "birth_date": "00.00.1966",
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

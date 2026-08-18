@@ -1,0 +1,36 @@
+{
+  "id": "nm0006090",
+  "name": "Giovanni Fusco",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZTg0ZWI5MGUtMGIzYi00N2Y2LTk4ZDgtYTMwNDMwYWM1MTIwXkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0053619",
+      "title": "L'Avventura",
+      "year": 1960,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt0056736",
+      "title": "L'Eclisse",
+      "year": 1962,
+      "roles": [
+        "composer"
+      ]
+    }
+  ],
+  "birth_date": "10.10.1906",
+  "death_date": "31.05.1968",
+  "birth_location": "Sant'Agata de' Goti, Campania, Italy",
+  "imdb_scraped": true,
+  "filmweb_id": 51550,
+  "name_pl": "Giovanni Fusco",
+  "birth_location_pl": "Sant'Agata dei Goti",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Włochy",
+    "Zjednoczone Królestwo Włoch"
+  ]
+}

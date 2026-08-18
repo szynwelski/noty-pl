@@ -1,0 +1,121 @@
+{
+  "imdb_id": "tt12780298",
+  "title": "A Simple Robbery",
+  "description": "Becky and Stacey are two friends who enjoy taking money from rich men. But tragedy strikes when a robbery doesn't go as planned.",
+  "runtime_minutes": 14,
+  "release_date": "27.07.2020",
+  "genres": [
+    "Short",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm7636001",
+      "name": "Kim Spearman"
+    },
+    {
+      "id": "nm4110613",
+      "name": "Sarah Alexandra Marks"
+    },
+    {
+      "id": "nm4261224",
+      "name": "Louis James"
+    },
+    {
+      "id": "nm8484697",
+      "name": "Blake Ridder"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm8484697",
+      "name": "Blake Ridder"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm8484697",
+      "name": "Blake Ridder"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm7636001",
+      "name": "Kim Spearman",
+      "character": "Becky"
+    },
+    {
+      "id": "nm4110613",
+      "name": "Sarah Alexandra Marks",
+      "character": "Stacey"
+    },
+    {
+      "id": "nm4261224",
+      "name": "Louis James",
+      "character": "Jon"
+    },
+    {
+      "id": "nm8484697",
+      "name": "Blake Ridder",
+      "character": "David"
+    },
+    {
+      "id": "nm0053443",
+      "name": "Nigel Barber",
+      "character": "Narrator"
+    }
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": null,
+  "year": 2020,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMWFiNDBhZjItN2JjMS00Yjg1LWE4ZWUtNjcxZTdmNDRjNGEwXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": null,
+  "ratings": {
+    "imdb": {
+      "rating": 5.2,
+      "votes": 110,
+      "distribution": {
+        "1": 5,
+        "2": 6,
+        "3": 10,
+        "4": 15,
+        "5": 17,
+        "6": 29,
+        "7": 16,
+        "8": 4,
+        "9": 4,
+        "10": 4
+      },
+      "normalized": 4.8433
+    },
+    "michal": {
+      "rating": 3,
+      "date_rated": "05.11.2022",
+      "normalized": 3.8753
+    },
+    "score": 4.7395,
+    "filmweb": {
+      "normalized": 5.5
+    }
+  },
+  "silent": false,
+  "composers": [
+    {
+      "id": "nm8143422",
+      "name": "Kerem Isik"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm10909670",
+      "name": "Bradley Shemmell"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

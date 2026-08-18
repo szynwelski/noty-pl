@@ -1,0 +1,30 @@
+{
+  "id": "nm0643007",
+  "name": "Annie Oakley",
+  "filmography": [
+    {
+      "imdb_id": "tt0229220",
+      "title": "Annie Oakley",
+      "year": 1894,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Self"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODVkNTdiMTEtYWExOS00ZTZmLThkMzMtZWM1ZGJhMWNiMGNiXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "13.08.1860",
+  "death_date": "03.11.1926",
+  "birth_location": "Darke County, Ohio, USA",
+  "height": "1.51 m",
+  "imdb_scraped": true,
+  "filmweb_id": 464347,
+  "name_pl": "Annie Oakley",
+  "birth_location_pl": "Darke County, Ohio",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

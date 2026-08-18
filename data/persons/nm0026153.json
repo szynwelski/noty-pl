@@ -1,0 +1,36 @@
+{
+  "id": "nm0026153",
+  "name": "Hans Christian Andersen",
+  "filmography": [
+    {
+      "imdb_id": "tt0097757",
+      "title": "The Little Mermaid",
+      "year": 1989,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt2294629",
+      "title": "Frozen",
+      "year": 2013,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOGViY2M3NTgtMTVlNy00MGMzLThiMmUtMmU5NTQ4ZGMyOTk1XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "02.04.1805",
+  "death_date": "04.08.1875",
+  "birth_location": "Odense, Denmark",
+  "height": "1.85 m",
+  "imdb_scraped": true,
+  "filmweb_id": 627094,
+  "name_pl": "Hans Christian Andersen",
+  "birth_location_pl": "Odense",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Królestwo Danii"
+  ]
+}

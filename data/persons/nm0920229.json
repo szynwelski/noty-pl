@@ -1,0 +1,45 @@
+{
+  "id": "nm0920229",
+  "name": "H.G. Wells",
+  "filmography": [
+    {
+      "imdb_id": "tt0000417",
+      "title": "A Trip to the Moon",
+      "year": 1902,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0268695",
+      "title": "The Time Machine",
+      "year": 2002,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0407304",
+      "title": "War of the Worlds",
+      "year": 2005,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQwOTg3NTEyM15BMl5BanBnXkFtZTcwNzM0NTg2OA@@._V1_.jpg",
+  "birth_date": "21.09.1866",
+  "death_date": "13.08.1946",
+  "birth_location": "Bromley, Kent, England, UK",
+  "height": "1.65 m",
+  "filmweb_id": 107541,
+  "name_pl": "H.G. Wells",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii",
+    "Wielka Brytania"
+  ]
+}

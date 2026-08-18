@@ -1,0 +1,70 @@
+{
+  "id": "nm0001837",
+  "name": "Peter Weir",
+  "filmography": [
+    {
+      "imdb_id": "tt0073540",
+      "title": "Picnic at Hanging Rock",
+      "year": 1975,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0090329",
+      "title": "Witness",
+      "year": 1985,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0097165",
+      "title": "Dead Poets Society",
+      "year": 1989,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0120382",
+      "title": "The Truman Show",
+      "year": 1998,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0311113",
+      "title": "Master and Commander: The Far Side of the World",
+      "year": 2003,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt1023114",
+      "title": "The Way Back",
+      "year": 2010,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTIzNDg2NTIyN15BMl5BanBnXkFtZTYwNzQyNDY1._V1_.jpg",
+  "birth_date": "21.08.1944",
+  "birth_location": "Sydney, New South Wales, Australia",
+  "filmweb_id": 10954,
+  "name_pl": "Peter Weir",
+  "birth_location_pl": "Sydney",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Australia"
+  ]
+}

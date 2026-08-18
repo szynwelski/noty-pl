@@ -1,0 +1,38 @@
+{
+  "id": "nm0314777",
+  "name": "Kurt Gerron",
+  "filmography": [
+    {
+      "imdb_id": "tt0020475",
+      "title": "Diary of a Lost Girl",
+      "year": 1929,
+      "roles": [
+        "cast"
+      ],
+      "character": "Dr. Vitalis"
+    },
+    {
+      "imdb_id": "tt0020697",
+      "title": "The Blue Angel",
+      "year": 1930,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Kiepert, Zauberkünstler"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODUzM2M5YzQtNzMyZi00ZWEzLTk1YTItMjVjOTVlMGJhZWQwXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "11.05.1897",
+  "death_date": "28.10.1944",
+  "birth_location": "Berlin, Germany",
+  "imdb_scraped": true,
+  "filmweb_id": 79686,
+  "name_pl": "Kurt Gerron",
+  "birth_location_pl": "Berlin",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Rzesza Niemiecka"
+  ]
+}

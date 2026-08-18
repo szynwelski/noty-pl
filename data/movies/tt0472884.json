@@ -1,0 +1,221 @@
+{
+  "imdb_id": "tt0472884",
+  "title": "Persona non grata",
+  "description": "Wiktor, Polish ambassador to Uruguay, comes back home to attend his wife's funeral and face his old Russian friend, suspected of having an affair with Wiktor's deceased spouse.",
+  "runtime_minutes": 110,
+  "release_date": "09.09.2005",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0953168",
+      "name": "Zbigniew Zapasiewicz"
+    },
+    {
+      "id": "nm0586482",
+      "name": "Nikita Mikhalkov"
+    },
+    {
+      "id": "nm0836136",
+      "name": "Jerzy Stuhr"
+    },
+    {
+      "id": "nm0320969",
+      "name": "Remo Girone"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0953130",
+      "name": "Krzysztof Zanussi"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0953130",
+      "name": "Krzysztof Zanussi"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0953168",
+      "name": "Zbigniew Zapasiewicz",
+      "character": "Wiktor"
+    },
+    {
+      "id": "nm0586482",
+      "name": "Nikita Mikhalkov",
+      "character": "Oleg"
+    },
+    {
+      "id": "nm0836136",
+      "name": "Jerzy Stuhr",
+      "character": "Polish attaché Radca"
+    },
+    {
+      "id": "nm0320969",
+      "name": "Remo Girone",
+      "character": "Italian Consul"
+    },
+    {
+      "id": "nm0646037",
+      "name": "Daniel Olbrychski",
+      "character": "Polish Deputy Minister of Foreign Affairs"
+    },
+    {
+      "id": "nm0161607",
+      "name": "Andrzej Chyra",
+      "character": "New Consul"
+    },
+    {
+      "id": "nm0059506",
+      "name": "Ryszard Barycz",
+      "character": ""
+    },
+    {
+      "id": "nm1990071",
+      "name": "Mariya Bekker",
+      "character": "Oksana"
+    },
+    {
+      "id": "nm0096066",
+      "name": "Jacek Borcuch",
+      "character": ""
+    },
+    {
+      "id": "nm0102940",
+      "name": "Tadeusz Bradecki",
+      "character": ""
+    },
+    {
+      "id": "nm0324886",
+      "name": "Halina Golanko",
+      "character": "Helena Leszczynska"
+    },
+    {
+      "id": "nm1411878",
+      "name": "Marcin Kwasny",
+      "character": ""
+    },
+    {
+      "id": "nm0521485",
+      "name": "Lech Lotocki",
+      "character": "Inspector"
+    },
+    {
+      "id": "nm0698178",
+      "name": "Eugeniusz Priwieziencew",
+      "character": "Minister's assistant"
+    },
+    {
+      "id": "nm4004973",
+      "name": "Henryk Rogala",
+      "character": "Priest"
+    },
+    {
+      "id": "nm0807033",
+      "name": "Andrey Smirnov",
+      "character": "Psychiatrist"
+    },
+    {
+      "id": "nm0843955",
+      "name": "Andrzej Szenajch",
+      "character": ""
+    },
+    {
+      "id": "nm0410655",
+      "name": "Ewa Telega",
+      "character": "Helena's sister"
+    }
+  ],
+  "countries": [
+    "Poland",
+    "Italy",
+    "Russia",
+    "France"
+  ],
+  "languages": [
+    "Polish",
+    "Russian",
+    "English",
+    "Spanish"
+  ],
+  "color": "Color",
+  "filmweb_id": 151644,
+  "year": 2005,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODBmMjIxYmYtODk5MC00Y2FjLWI5NTktM2UwMzc2ZGJjODdhXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.6,
+      "votes": 655,
+      "distribution": {
+        "1": 40,
+        "2": 8,
+        "3": 17,
+        "4": 23,
+        "5": 61,
+        "6": 129,
+        "7": 178,
+        "8": 128,
+        "9": 20,
+        "10": 51
+      },
+      "normalized": 5.0247
+    },
+    "filmweb": {
+      "rating": 6.86,
+      "votes": 7919,
+      "distribution": {
+        "1": 79,
+        "2": 40,
+        "3": 154,
+        "4": 235,
+        "5": 714,
+        "6": 1503,
+        "7": 2520,
+        "8": 1774,
+        "9": 652,
+        "10": 248
+      },
+      "normalized": 5.3555
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "19.10.2005",
+      "normalized": 5.4199
+    },
+    "score": 5.2667
+  },
+  "polish_title": "Persona non grata",
+  "silent": false,
+  "description_pl": "Bohaterem filmu jest Wiktor, obecnie ambasador Polski w Urugwaju. Jego przeszłość związana jest z działalnością podziemną. Wiktor wraca do kraju na pogrzeb swojej żony. W ojczyźnie spotyka dawnego przyjaciela, którego podejrzewa o romans z żoną.",
+  "producers": [
+    {
+      "id": "nm0258459",
+      "name": "Fernando Epstein"
+    },
+    {
+      "id": "nm0348581",
+      "name": "Sergei Gurevich"
+    },
+    {
+      "id": "nm0957302",
+      "name": "Iwona Ziulkowska-Okapiec"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0004384",
+      "name": "Wojciech Kilar"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0460058",
+      "name": "Edward Kłosiński"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

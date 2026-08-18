@@ -1,0 +1,75 @@
+{
+  "id": "nm0000299",
+  "name": "Michael Biehn",
+  "filmography": [
+    {
+      "imdb_id": "tt0088247",
+      "title": "The Terminator",
+      "year": 1984,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Kyle Reese"
+    },
+    {
+      "imdb_id": "tt0090605",
+      "title": "Aliens",
+      "year": 1986,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Corporal Hicks"
+    },
+    {
+      "imdb_id": "tt0108358",
+      "title": "Tombstone",
+      "year": 1993,
+      "roles": [
+        "cast"
+      ],
+      "character": "Johnny Ringo"
+    },
+    {
+      "imdb_id": "tt0117500",
+      "title": "The Rock",
+      "year": 1996,
+      "roles": [
+        "cast"
+      ],
+      "character": "Commander Anderson"
+    },
+    {
+      "imdb_id": "tt0160009",
+      "title": "The Art of War",
+      "year": 2000,
+      "roles": [
+        "cast"
+      ],
+      "character": "Bly"
+    },
+    {
+      "imdb_id": "tt1077258",
+      "title": "Planet Terror",
+      "year": 2007,
+      "roles": [
+        "cast"
+      ],
+      "character": "Sheriff Hague"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODBkMzQwZmUtN2QxNS00YmExLThhNTYtMzIzNTA4NDBjYzliXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "31.07.1956",
+  "birth_location": "Anniston, Alabama, USA",
+  "height": "1.83 m",
+  "filmweb_id": 11,
+  "name_pl": "Michael Biehn",
+  "birth_location_pl": "Anniston, Alabama",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "nm0681566",
+  "name": "Michel Piccoli",
+  "filmography": [
+    {
+      "imdb_id": "tt0061395",
+      "title": "Belle de Jour",
+      "year": 1967,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Henri Husson"
+    },
+    {
+      "imdb_id": "tt0068361",
+      "title": "The Discreet Charm of the Bourgeoisie",
+      "year": 1972,
+      "roles": [
+        "cast"
+      ],
+      "character": "Interior Minister"
+    },
+    {
+      "imdb_id": "tt1456472",
+      "title": "We Have a Pope",
+      "year": 2011,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Il papa"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzQ4MjE3NjQ2OV5BMl5BanBnXkFtZTcwMjIyMDMxNw@@._V1_.jpg",
+  "birth_date": "27.12.1925",
+  "death_date": "12.05.2020",
+  "birth_location": "Paris, France",
+  "height": "1.82 m",
+  "filmweb_id": 40673,
+  "name_pl": "Michel Piccoli",
+  "birth_location_pl": "Paryż",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja"
+  ],
+  "wikidata_fw_id": 40673
+}

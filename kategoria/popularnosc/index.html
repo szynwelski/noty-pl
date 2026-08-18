@@ -1,0 +1,580 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🎬</text></svg>">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Popularność — Noty</title>
+  <link rel="stylesheet" href="../../static/style.css">
+  <script src="../../static/translations.js"></script>
+  <script src="../../static/tooltip.js"></script>
+</head>
+<body>
+  <nav>
+    <a class="logo" href="/">no<span>ty</span></a>
+    <a class="nav-link" href="/">Filmy</a>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Osoby <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/osoba/rezyser/">Reżyserzy</a>
+        <a href="/osoba/scenarzysta/">Scenarzyści</a>
+        <a href="/osoba/gwiazda/">Gwiazdy</a>
+        <a href="/osoba/aktor/">Aktorzy</a>
+        <a href="/osoba/kompozytor/">Kompozytorzy</a>
+        <a href="/osoba/operator/">Operatorzy</a>
+        <a href="/osoba/producent/">Producenci</a>
+        <a href="/osoba/wszechstronna/">Wszechstronni</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Krytycy <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/krytyk/jarek/">Jarek</a>
+        <a href="/krytyk/michal/">Michał</a>
+        <a href="/krytyk/imdb/">IMDb</a>
+        <a href="/krytyk/filmweb/">Filmweb</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Kategorie <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/kategoria/gatunek/">Gatunki</a>
+        <a href="/kategoria/kraj/">Kraje</a>
+        <a href="/kategoria/jezyk/">Języki</a>
+        <a href="/kategoria/dekada/">Dekady</a>
+        <a href="/kategoria/rok/">Lata</a>
+        <a href="/kategoria/czas/">Czas trwania</a>
+        <a href="/kategoria/popularnosc/">Popularność</a>
+        <hr>
+        <a href="/kategoria/plec/">Płeć</a>
+        <a href="/kategoria/obywatelstwo/">Obywatelstwo</a>
+        <a href="/kategoria/urodzenie/">Urodzenie</a>
+        <a href="/kategoria/wiek/">Wiek</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Statystyki <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/statystyki/podsumowanie/">Podsumowanie</a>
+        <a href="/statystyki/rekordy/">Rekordy</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Metodologia <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/metodologia/filmy/">Filmy</a>
+        <a href="/metodologia/osoby/">Osoby</a>
+        <a href="/metodologia/kategorie-filmow/">Kategorie filmów</a>
+        <a href="/metodologia/kategorie-osob/">Kategorie osób</a>
+      </div>
+    </div>
+    <button id="search-global-btn" class="nav-search-btn" title="Szukaj (⌘K)">
+      <svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+    </button>
+  </nav>
+  <div id="search-modal" class="search-modal">
+    <div id="search-modal-backdrop" class="search-modal-backdrop"></div>
+    <div class="search-modal-box">
+      <div class="search-modal-header">
+        <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink:0;color:var(--muted)"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        <input id="search-modal-input" class="search-modal-input" type="text" placeholder="Szukaj filmów i osób…" autocomplete="off" spellcheck="false">
+        <kbd class="search-modal-esc">Esc</kbd>
+      </div>
+      <div id="search-modal-results" class="search-modal-results"></div>
+    </div>
+  </div>
+  <script src="/static/search.js"></script>
+
+  <div id="tooltip"></div>
+  <div class="container">
+    <h1>Popularność <a href="/metodologia/kategorie-filmow/" title="Jak obliczana jest ocena?" style="font-size:.7rem;font-weight:400;color:var(--muted);border:1px solid var(--border);border-radius:50%;padding:.1em .5em;vertical-align:middle;text-decoration:none;margin-left:.4rem">?</a></h1>
+
+    <div id="loading">Ładowanie…</div>
+    <div id="content" style="display:none">
+      <div class="search-bar" style="margin-bottom:1rem">
+        <select id="filter-genre"   class="filter-select"><option value="">Gatunek</option></select>
+        <select id="filter-country" class="filter-select"><option value="">Kraj</option></select>
+        <select id="filter-lang"    class="filter-select"><option value="">Język</option></select>
+        <span class="count" id="count"></span>
+      </div>
+
+      <h2>Popularność na świecie</h2>
+      <p class="muted" style="margin-top:-.5rem;margin-bottom:.75rem">Na podstawie liczby ocen na IMDb.</p>
+
+      <table>
+        <thead>
+          <tr>
+            <th data-col="bucket" data-sec="imdb" class="sorted" data-dir="1">Liczba głosów</th>
+            <th class="num" data-col="filmy" data-sec="imdb">Filmów</th>
+            <th class="num" data-col="ocena" data-sec="imdb">Ocena</th>
+            <th class="num" data-col="jarek" data-sec="imdb">Jarek</th>
+            <th class="num" data-col="michal" data-sec="imdb">Michał</th>
+            <th class="num muted" data-col="imdb" data-sec="imdb">IMDb</th>
+            <th class="num muted" data-col="filmweb" data-sec="imdb">Filmweb</th>
+          </tr>
+        </thead>
+        <tbody id="tbody-imdb"></tbody>
+      </table>
+
+      <h2 style="margin-top:2.5rem">Trend ocen według popularności (IMDb)</h2>
+      <p class="muted">Kliknij pozycję legendy, żeby zobaczyć tylko jedną linię; kliknij ponownie, żeby przywrócić wszystkie.</p>
+      <div id="legend-imdb" style="display:flex;gap:1.25rem;flex-wrap:wrap;margin:.75rem 0 .25rem"></div>
+      <svg id="chart-svg-imdb" viewBox="0 0 800 220" style="width:100%;max-width:800px;overflow:visible;display:block"></svg>
+
+      <h2 style="margin-top:2rem">Liczba filmów według popularności (IMDb)</h2>
+      <svg id="bar-svg-imdb" viewBox="0 0 800 110" style="width:100%;max-width:800px;overflow:visible;display:block"></svg>
+
+      <h2 style="margin-top:3.5rem">Popularność w Polsce</h2>
+      <p class="muted" style="margin-top:-.5rem;margin-bottom:.75rem">Na podstawie liczby ocen na Filmweb.</p>
+
+      <table>
+        <thead>
+          <tr>
+            <th data-col="bucket" data-sec="fw" class="sorted" data-dir="1">Liczba głosów</th>
+            <th class="num" data-col="filmy" data-sec="fw">Filmów</th>
+            <th class="num" data-col="ocena" data-sec="fw">Ocena</th>
+            <th class="num" data-col="jarek" data-sec="fw">Jarek</th>
+            <th class="num" data-col="michal" data-sec="fw">Michał</th>
+            <th class="num muted" data-col="imdb" data-sec="fw">IMDb</th>
+            <th class="num muted" data-col="filmweb" data-sec="fw">Filmweb</th>
+          </tr>
+        </thead>
+        <tbody id="tbody-fw"></tbody>
+      </table>
+
+      <h2 style="margin-top:2.5rem">Trend ocen według popularności (Filmweb)</h2>
+      <p class="muted">Kliknij pozycję legendy, żeby zobaczyć tylko jedną linię; kliknij ponownie, żeby przywrócić wszystkie.</p>
+      <div id="legend-fw" style="display:flex;gap:1.25rem;flex-wrap:wrap;margin:.75rem 0 .25rem"></div>
+      <svg id="chart-svg-fw" viewBox="0 0 800 220" style="width:100%;max-width:800px;overflow:visible;display:block"></svg>
+
+      <h2 style="margin-top:2rem">Liczba filmów według popularności (Filmweb)</h2>
+      <svg id="bar-svg-fw" viewBox="0 0 800 110" style="width:100%;max-width:800px;overflow:visible;display:block"></svg>
+    </div>
+  </div>
+  <script>
+    const SRCS       = ['jarek', 'michal', 'imdb', 'filmweb'];
+    const COL_LABELS = { ocena: 'Ocena', jarek: 'Jarek', michal: 'Michał', imdb: 'IMDb', filmweb: 'Filmweb' };
+    const COL_DEC    = { ocena: 2, jarek: 1, michal: 1, imdb: 2, filmweb: 2 };
+    const BAYES_AVG_M = 10;
+    const LINE_COLS  = { ocena: '#1a1d2e', jarek: '#3d6fe8', michal: '#16a34a', imdb: '#ca8a04', filmweb: '#dc2626' };
+    const LINES      = ['ocena', 'jarek', 'michal', 'imdb', 'filmweb'];
+
+    const BUCKETS    = [1, 1001, 10001, 100001, 1000001];
+    const MAX_BUCKET = 1000001;
+
+    function bucketKey(votes) {
+      for (let i = BUCKETS.length - 1; i >= 0; i--) {
+        if (votes >= BUCKETS[i]) return BUCKETS[i];
+      }
+      return 1;
+    }
+
+    function bucketLabel(b) {
+      const i = BUCKETS.indexOf(b);
+      if (b >= MAX_BUCKET) return '1 000 001+';
+      const hi = BUCKETS[i + 1] - 1;
+      return `${b.toLocaleString('pl-PL')}–${hi.toLocaleString('pl-PL')}`;
+    }
+
+
+    function cell(val, src) {
+      return val != null
+        ? `<span class="${scoreClass(val)}">${Number(val).toFixed(COL_DEC[src])}</span>`
+        : '<span class="muted">—</span>';
+    }
+
+    function avg(arr) {
+      return arr.length ? arr.reduce((s, v) => s + v, 0) / arr.length : null;
+    }
+
+    function bayesianAvg(scores, globalMean) {
+      const n = scores.length;
+      if (!n) return null;
+      return (scores.reduce((s, v) => s + v, 0) + BAYES_AVG_M * globalMean) / (n + BAYES_AVG_M);
+    }
+
+    function filmListUrl(base, votesParam) {
+      const p = new URLSearchParams(base);
+      const fg = document.getElementById('filter-genre')?.value;
+      const fc = document.getElementById('filter-country')?.value;
+      const fl = document.getElementById('filter-lang')?.value;
+      if (fg) p.set('gatunek', GENRES[fg]    || fg);
+      if (fc) p.set('kraj',    COUNTRIES[fc] || fc);
+      if (fl) p.set('jezyk',   LANGUAGES[fl] || fl);
+      if (votesParam) Object.entries(votesParam).forEach(([k, v]) => v != null && p.set(k, v));
+      return '/?' + p.toString();
+    }
+
+    let allMovies = [];
+    const sections = {
+      imdb: { rows: [], sortCol: 'bucket', sortDir: 1, activeLine: null, getVotes: m => m.ratings?.imdb?.votes },
+      fw:   { rows: [], sortCol: 'bucket', sortDir: 1, activeLine: null, getVotes: m => m.ratings?.filmweb?.votes },
+    };
+
+    // ── Obliczenia ────────────────────────────────────────────────────────────
+
+    function computeStats(movies, getVotes) {
+      const globalSrc = {};
+      for (const src of SRCS) {
+        const all = movies.flatMap(m => { const v = m.ratings?.[src]?.rating; return v != null ? [v] : []; });
+        globalSrc[src] = avg(all) || 0;
+      }
+      const allScores = movies.flatMap(m => m.score != null ? [m.score] : []);
+      const globalAvg = avg(allScores) || 0;
+
+      const byBucket = {};
+      for (const m of movies) {
+        const votes = getVotes(m);
+        if (!votes) continue;
+        const b = bucketKey(votes);
+        if (!byBucket[b]) byBucket[b] = { count: 0, scores: [], films: [], src: {} };
+        byBucket[b].count++;
+        if (m.score != null) {
+          byBucket[b].scores.push(m.score);
+          byBucket[b].films.push({ id: m.id, title: m.polish_title || m.title, year: m.year, score: m.score });
+        }
+        for (const src of SRCS) {
+          const v = m.ratings?.[src]?.rating;
+          if (v != null) {
+            if (!byBucket[b].src[src]) byBucket[b].src[src] = [];
+            byBucket[b].src[src].push(v);
+          }
+        }
+      }
+
+      const rows = Object.entries(byBucket).map(([b, data], i) => {
+        const bucket = +b;
+        const srcStats = {};
+        for (const src of SRCS) {
+          const vals = data.src[src] || [];
+          if (!vals.length) continue;
+          srcStats[src] = { avg: bayesianAvg(vals, globalSrc[src]), count: vals.length };
+        }
+        return {
+          _idx:    i,
+          _bucket: bucket,
+          filmy:   data.count,
+          ocena:   bayesianAvg(data.scores, globalAvg),
+          jarek:   srcStats.jarek?.avg   ?? null,
+          michal:  srcStats.michal?.avg  ?? null,
+          imdb:    srcStats.imdb?.avg    ?? null,
+          filmweb: srcStats.filmweb?.avg ?? null,
+          top5:    [...data.films].sort((a, b) => b.score - a.score).slice(0, 5),
+          _src:    { ocena: { count: data.scores.length }, ...srcStats },
+        };
+      });
+
+      for (const col of ['ocena', ...SRCS]) {
+        const ranked = [...rows].filter(r => r[col] != null).sort((a, b) => b[col] - a[col]);
+        ranked.forEach((r, i) => {
+          r._src[col] = r._src[col] || {};
+          r._src[col].rank  = i + 1;
+          r._src[col].total = ranked.length;
+        });
+      }
+
+      return rows;
+    }
+
+    // ── Tabela ────────────────────────────────────────────────────────────────
+
+    function render(sec, secId) {
+      const sorted = [...sec.rows].sort((a, b) => {
+        if (sec.sortCol === 'bucket') return (a._bucket - b._bucket) * sec.sortDir;
+        const av = a[sec.sortCol], bv = b[sec.sortCol];
+        if (av == null && bv == null) return 0;
+        if (av == null) return 1;
+        if (bv == null) return -1;
+        return (av - bv) * sec.sortDir;
+      });
+
+      const tbody = document.getElementById(`tbody-${secId}`);
+      tbody.innerHTML = sorted.map(r => `
+        <tr data-key="${r._bucket}">
+          <td class="bucket-cell" data-idx="${r._idx}" data-sec="${secId}">
+            <a href="${secId === 'imdb'
+              ? filmListUrl({}, {'glosy-swiat-od': r._bucket, 'glosy-swiat-do': r._bucket >= MAX_BUCKET ? null : BUCKETS[BUCKETS.indexOf(r._bucket)+1]-1})
+              : filmListUrl({}, {'glosy-polska-od': r._bucket, 'glosy-polska-do': r._bucket >= MAX_BUCKET ? null : BUCKETS[BUCKETS.indexOf(r._bucket)+1]-1})
+            }" class="meta-link">${bucketLabel(r._bucket)}</a>
+          </td>
+          <td class="num">${r.filmy}</td>
+          <td class="num avg-cell" data-idx="${r._idx}" data-sec="${secId}" data-src="ocena">${cell(r.ocena, 'ocena')}</td>
+          <td class="num avg-cell" data-idx="${r._idx}" data-sec="${secId}" data-src="jarek">${cell(r.jarek, 'jarek')}</td>
+          <td class="num avg-cell" data-idx="${r._idx}" data-sec="${secId}" data-src="michal">${cell(r.michal, 'michal')}</td>
+          <td class="num muted avg-cell" data-idx="${r._idx}" data-sec="${secId}" data-src="imdb">${cell(r.imdb, 'imdb')}</td>
+          <td class="num muted avg-cell" data-idx="${r._idx}" data-sec="${secId}" data-src="filmweb">${cell(r.filmweb, 'filmweb')}</td>
+        </tr>`
+      ).join('');
+
+      tbody.querySelectorAll('.bucket-cell').forEach(td => {
+        const r = sec.rows[+td.dataset.idx];
+        if (!r.top5?.length) return;
+        attachTip(td, () => {
+          const filmRows = r.top5.map(f =>
+            `<tr>
+              <td style="padding-right:.6em"><a href="/film/?id=${f.id}" style="color:inherit">${f.title}</a>
+                ${f.year ? `<span class="muted" style="font-size:.78rem"> (${f.year})</span>` : ''}</td>
+              <td><span class="${scoreClass(f.score)}">${fmt(f.score)}</span></td>
+            </tr>`
+          ).join('');
+          return `<div class="tip-title">Top 5: ${bucketLabel(r._bucket)}</div><table>${filmRows}</table>`;
+        });
+      });
+
+      tbody.querySelectorAll('.avg-cell').forEach(td => {
+        const r = sec.rows[+td.dataset.idx];
+        const src = td.dataset.src;
+        const val = r[src];
+        if (val == null) return;
+        const rk = r._src[src];
+        attachTip(td, () =>
+          `<div class="tip-title">${COL_LABELS[src]}</div>` +
+          `<div class="tip-main-val">${Number(val).toFixed(COL_DEC[src])}${rk?.rank != null ? ` <span class="tip-rank">#${rk.rank} <span style="opacity:.65">z ${rk.total}</span></span>` : ''}</div>` +
+          _tipRows([['Filmów', String(rk?.count ?? r.filmy)]])
+        );
+      });
+    }
+
+    // ── Wykres ────────────────────────────────────────────────────────────────
+
+    function applyChartVisibility(secId) {
+      const sec = sections[secId];
+      document.querySelectorAll(`.chart-line[data-sec="${secId}"]`).forEach(el => {
+        el.style.opacity = (!sec.activeLine || sec.activeLine === el.dataset.src) ? '' : '0.06';
+      });
+      document.querySelectorAll(`.chart-dot[data-sec="${secId}"]`).forEach(el => {
+        el.style.opacity = (!sec.activeLine || sec.activeLine === el.dataset.src) ? '' : '0.06';
+      });
+      document.querySelectorAll(`.legend-item[data-sec="${secId}"]`).forEach(el => {
+        el.style.opacity = (!sec.activeLine || sec.activeLine === el.dataset.src) ? '1' : '0.35';
+        el.style.fontWeight = sec.activeLine === el.dataset.src ? '600' : '';
+      });
+    }
+
+    function renderChart(sec, secId) {
+      sec.activeLine = null;
+      const data = [...sec.rows].sort((a, b) => a._bucket - b._bucket);
+      if (data.length < 2) return;
+
+      const W = 800, H = 220, PL = 42, PR = 16, PT = 16, PB = 32;
+      const cw = W - PL - PR, ch = H - PT - PB;
+      const xPos = i => PL + (data.length > 1 ? (i / (data.length - 1)) * cw : cw / 2);
+
+      const allVals = data.flatMap(r => LINES.map(s => r[s]).filter(v => v != null));
+      if (!allVals.length) return;
+      const rawMin = Math.min(...allVals), rawMax = Math.max(...allVals);
+      const yMin = Math.floor((rawMin - 0.3) * 2) / 2;
+      const yMax = Math.ceil((rawMax + 0.3) * 2) / 2;
+      const yPos = v => PT + ch * (1 - (v - yMin) / (yMax - yMin));
+
+      let s = '';
+      for (let y = Math.ceil(yMin * 2) / 2; y <= yMax + 0.001; y = Math.round((y + 0.5) * 100) / 100) {
+        const yp = yPos(y).toFixed(1);
+        const isInt = Number.isInteger(y);
+        s += `<line x1="${PL}" x2="${W - PR}" y1="${yp}" y2="${yp}" stroke="var(--border)" stroke-width="${isInt ? 1 : 0.5}"${isInt ? '' : ' stroke-dasharray="2,3"'}/>`;
+        if (isInt) s += `<text x="${PL - 5}" y="${(+yp + 4).toFixed(1)}" text-anchor="end" font-size="11" fill="var(--muted)">${y}</text>`;
+      }
+      s += `<line x1="${PL}" x2="${PL}" y1="${PT}" y2="${PT + ch}" stroke="var(--border)"/>`;
+      s += `<line x1="${PL}" x2="${W - PR}" y1="${PT + ch}" y2="${PT + ch}" stroke="var(--border)"/>`;
+
+      data.forEach((r, i) => {
+        s += `<text x="${xPos(i).toFixed(1)}" y="${(PT + ch + 16).toFixed(1)}" text-anchor="middle" font-size="10" fill="var(--muted)">${fmtVotes(r._bucket)}</text>`;
+      });
+
+      for (const src of LINES) {
+        const pts = data.map((r, i) => r[src] != null ? `${xPos(i).toFixed(1)},${yPos(r[src]).toFixed(1)}` : null).filter(Boolean);
+        if (pts.length < 2) continue;
+        const isService = src === 'imdb' || src === 'filmweb';
+        const sw = src === 'ocena' ? 2.5 : 1.75;
+        s += `<polyline points="${pts.join(' ')}" fill="none" stroke="${LINE_COLS[src]}" stroke-width="${sw}"${isService ? ' stroke-dasharray="5,3" opacity=".75"' : ''} stroke-linejoin="round" stroke-linecap="round" pointer-events="none" class="chart-line" data-src="${src}" data-sec="${secId}"/>`;
+      }
+
+      for (const src of LINES) {
+        data.forEach((r, i) => {
+          if (r[src] == null) return;
+          const isService = src === 'imdb' || src === 'filmweb';
+          s += `<circle cx="${xPos(i).toFixed(1)}" cy="${yPos(r[src]).toFixed(1)}" r="4" fill="${LINE_COLS[src]}"${isService ? ' opacity=".75"' : ''} class="chart-dot" data-src="${src}" data-idx="${r._idx}" data-sec="${secId}"/>`;
+        });
+      }
+
+      document.getElementById(`chart-svg-${secId}`).innerHTML = s;
+
+      const legendEl = document.getElementById(`legend-${secId}`);
+      legendEl.innerHTML = LINES.map(src => {
+        const isService = src === 'imdb' || src === 'filmweb';
+        const sw = src === 'ocena' ? 2.5 : 1.75;
+        return `<span class="legend-item" data-src="${src}" data-sec="${secId}" style="display:inline-flex;align-items:center;gap:.3rem;font-size:.85rem;color:var(--muted);cursor:pointer;user-select:none${isService ? ';opacity:.8' : ''}">` +
+          `<svg width="18" height="8" style="flex-shrink:0"><line x1="0" y1="4" x2="18" y2="4" stroke="${LINE_COLS[src]}" stroke-width="${sw}"${isService ? ' stroke-dasharray="5,3"' : ''}/></svg>` +
+          `${COL_LABELS[src]}</span>`;
+      }).join('');
+
+      legendEl.querySelectorAll('.legend-item').forEach(item => {
+        item.addEventListener('click', () => {
+          const sid = item.dataset.sec;
+          sections[sid].activeLine = sections[sid].activeLine === item.dataset.src ? null : item.dataset.src;
+          applyChartVisibility(sid);
+        });
+      });
+
+      document.querySelectorAll(`.chart-dot[data-sec="${secId}"]`).forEach(dot => {
+        const r = sec.rows[+dot.dataset.idx];
+        const src = dot.dataset.src;
+        const val = r[src];
+        if (val == null) return;
+        const count = r._src[src]?.count ?? r.filmy;
+        attachTip(dot, () =>
+          `<div class="tip-title">${bucketLabel(r._bucket)} — ${COL_LABELS[src]}</div>` +
+          `<div class="tip-main-val">${Number(val).toFixed(COL_DEC[src])}</div>` +
+          _tipRows([['Filmów', String(count)]])
+        );
+      });
+    }
+
+    // ── Wykres słupkowy ───────────────────────────────────────────────────────
+
+    function renderBarChart(sec, secId) {
+      const data = [...sec.rows].sort((a, b) => a._bucket - b._bucket);
+      if (!data.length) return;
+
+      const W = 800, H = 110, PL = 42, PR = 16, PT = 8, PB = 32;
+      const cw = W - PL - PR, ch = H - PT - PB;
+      const spacing = data.length > 1 ? cw / (data.length - 1) : cw;
+      const barW = Math.min(80, Math.max(4, spacing * 0.6));
+      const xPos = i => PL + (data.length > 1 ? (i / (data.length - 1)) * cw : cw / 2);
+      const maxFilmy = Math.max(...data.map(r => r.filmy));
+
+      let s = '';
+      s += `<line x1="${PL}" x2="${PL}" y1="${PT}" y2="${PT + ch}" stroke="var(--border)"/>`;
+      s += `<line x1="${PL}" x2="${W - PR}" y1="${PT + ch}" y2="${PT + ch}" stroke="var(--border)"/>`;
+      s += `<text x="${PL - 5}" y="${(PT + 4).toFixed(1)}" text-anchor="end" font-size="11" fill="var(--muted)">${maxFilmy}</text>`;
+
+      data.forEach((r, i) => {
+        s += `<text x="${xPos(i).toFixed(1)}" y="${(PT + ch + 16).toFixed(1)}" text-anchor="middle" font-size="10" fill="var(--muted)">${fmtVotes(r._bucket)}</text>`;
+      });
+
+      data.forEach((r, i) => {
+        const bh = Math.max(1, ch * (r.filmy / maxFilmy));
+        const x = (xPos(i) - barW / 2).toFixed(1);
+        const y = (PT + ch - bh).toFixed(1);
+        s += `<rect class="bar-rect" data-idx="${r._idx}" data-sec="${secId}" x="${x}" y="${y}" width="${barW.toFixed(1)}" height="${bh.toFixed(1)}" fill="var(--accent)" opacity=".45" rx="2" style="cursor:default"/>`;
+      });
+
+      document.getElementById(`bar-svg-${secId}`).innerHTML = s;
+
+      document.querySelectorAll(`.bar-rect[data-sec="${secId}"]`).forEach(rect => {
+        const r = sec.rows[+rect.dataset.idx];
+        attachTip(rect, () =>
+          `<div class="tip-title">${bucketLabel(r._bucket)}</div>` +
+          `<div class="tip-main-val">${r.filmy} filmów</div>`
+        );
+      });
+    }
+
+    // ── Filtry ────────────────────────────────────────────────────────────────
+
+    function buildFilters() {
+      const freq = { genres: {}, countries: {}, languages: {} };
+      allMovies.forEach(m => {
+        (m.genres    || []).forEach(v => { freq.genres[v]    = (freq.genres[v]    || 0) + 1; });
+        (m.countries || []).forEach(v => { freq.countries[v] = (freq.countries[v] || 0) + 1; });
+        (m.languages || []).forEach(v => { freq.languages[v] = (freq.languages[v] || 0) + 1; });
+      });
+      [
+        { id: 'filter-genre',   freq: freq.genres,    dict: GENRES,    label: 'Gatunek' },
+        { id: 'filter-country', freq: freq.countries, dict: COUNTRIES, label: 'Kraj' },
+        { id: 'filter-lang',    freq: freq.languages, dict: LANGUAGES, label: 'Język' },
+      ].forEach(({ id, freq, dict, label }) => {
+        const sel = document.getElementById(id);
+        sel.innerHTML = `<option value="">${label}</option>`;
+        Object.entries(freq).sort((a, b) => b[1] - a[1]).forEach(([val]) => {
+          const opt = document.createElement('option');
+          opt.value = val;
+          opt.textContent = dict[val] || val;
+          sel.appendChild(opt);
+        });
+        sel.onchange = refresh;
+      });
+    }
+
+    function filteredMovies() {
+      const fg = document.getElementById('filter-genre')?.value;
+      const fc = document.getElementById('filter-country')?.value;
+      const fl = document.getElementById('filter-lang')?.value;
+      return allMovies.filter(m => {
+        if (fg && !(m.genres    || []).includes(fg)) return false;
+        if (fc && !(m.countries || []).includes(fc)) return false;
+        if (fl && !(m.languages || []).includes(fl)) return false;
+        return true;
+      });
+    }
+
+    function syncUrl() {
+      const fg = document.getElementById('filter-genre')?.value;
+      const fc = document.getElementById('filter-country')?.value;
+      const fl = document.getElementById('filter-lang')?.value;
+      const p = new URLSearchParams();
+      if (fg) p.set('gatunek', GENRES[fg]    || fg);
+      if (fc) p.set('kraj',    COUNTRIES[fc] || fc);
+      if (fl) p.set('jezyk',   LANGUAGES[fl] || fl);
+      history.replaceState(null, '', p.toString() ? '?' + p.toString() : location.pathname);
+    }
+
+    function refresh() {
+      syncUrl();
+      const movies = filteredMovies();
+      sections.imdb.rows = computeStats(movies, sections.imdb.getVotes);
+      sections.fw.rows   = computeStats(movies, sections.fw.getVotes);
+
+      const cntImdb = movies.filter(m => m.ratings?.imdb?.votes).length;
+      const cntFw   = movies.filter(m => m.ratings?.filmweb?.votes).length;
+      document.getElementById('count').textContent = `${movies.length} filmów · IMDb: ${cntImdb} · Filmweb: ${cntFw}`;
+
+      render(sections.imdb, 'imdb');
+      render(sections.fw,   'fw');
+      renderChart(sections.imdb, 'imdb');
+      renderChart(sections.fw,   'fw');
+      renderBarChart(sections.imdb, 'imdb');
+      renderBarChart(sections.fw,   'fw');
+    }
+
+    // ── Ładowanie ─────────────────────────────────────────────────────────────
+
+    fetch('../../data/movies_index.json')
+      .then(r => r.json())
+      .then(movies => {
+        allMovies = movies;
+        buildFilters();
+
+        const urlP = new URLSearchParams(location.search);
+        const pg = urlP.get('gatunek'), pc = urlP.get('kraj'), pl = urlP.get('jezyk');
+        const revG = Object.fromEntries(Object.entries(GENRES).map(([k,v])=>[v,k]));
+        const revC = Object.fromEntries(Object.entries(COUNTRIES).map(([k,v])=>[v,k]));
+        const revL = Object.fromEntries(Object.entries(LANGUAGES).map(([k,v])=>[v,k]));
+        if (pg) document.getElementById('filter-genre').value   = revG[pg]   || pg;
+        if (pc) document.getElementById('filter-country').value = revC[pc]   || pc;
+        if (pl) document.getElementById('filter-lang').value    = revL[pl]   || pl;
+
+        document.getElementById('loading').style.display = 'none';
+        document.getElementById('content').style.display = '';
+        refresh();
+      })
+      .catch(err => {
+        document.getElementById('loading').textContent = 'Błąd: ' + err.message;
+      });
+
+    document.querySelectorAll('th[data-col][data-sec]').forEach(th => {
+      th.addEventListener('click', () => {
+        const secId = th.dataset.sec;
+        const sec = sections[secId];
+        const col = th.dataset.col;
+        sec.sortDir = sec.sortCol === col ? sec.sortDir * -1 : (col === 'bucket' ? 1 : -1);
+        sec.sortCol = col;
+        document.querySelectorAll(`th[data-sec="${secId}"]`).forEach(t => { t.classList.remove('sorted'); delete t.dataset.dir; });
+        th.classList.add('sorted');
+        th.dataset.dir = String(sec.sortDir);
+        render(sec, secId);
+      });
+    });
+  </script>
+</body>
+</html>

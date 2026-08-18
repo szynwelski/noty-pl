@@ -1,0 +1,37 @@
+{
+  "id": "nm0006104",
+  "name": "Ernest Gold",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTZmN2JlZjAtNTAyMC00MDNmLTgyNTAtOTExMjQ2OWY4YTE2XkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0053946",
+      "title": "Inherit the Wind",
+      "year": 1960,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt0055031",
+      "title": "Judgment at Nuremberg",
+      "year": 1961,
+      "roles": [
+        "composer"
+      ]
+    }
+  ],
+  "birth_date": "13.07.1921",
+  "death_date": "17.03.1999",
+  "birth_location": "Vienna, Austria",
+  "imdb_scraped": true,
+  "filmweb_id": 42893,
+  "name_pl": "Ernest Gold",
+  "birth_location_pl": "Wiedeń",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Austria",
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 42893
+}

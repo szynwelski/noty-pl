@@ -1,0 +1,37 @@
+{
+  "id": "nm0949707",
+  "name": "John Young",
+  "filmography": [
+    {
+      "imdb_id": "tt0071853",
+      "title": "Monty Python and the Holy Grail",
+      "year": 1975,
+      "roles": [
+        "cast"
+      ],
+      "character": "Dead Body"
+    },
+    {
+      "imdb_id": "tt0079470",
+      "title": "Monty Python's Life of Brian",
+      "year": 1979,
+      "roles": [
+        "cast"
+      ],
+      "character": "Matthias, Son of Deuteronomy of Gath"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjJiNDZkZjItZGE0YS00M2JlLTgxMjgtNjVhMWU0NjJmYTAwXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "16.06.1916",
+  "death_date": "30.10.1996",
+  "birth_location": "Edinburgh, Scotland, UK",
+  "imdb_scraped": true,
+  "filmweb_id": 8478,
+  "name_pl": "John Young",
+  "birth_location_pl": "Edynburg, Szkocja",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ]
+}

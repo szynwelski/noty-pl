@@ -1,0 +1,57 @@
+{
+  "id": "nm0000117",
+  "name": "Neve Campbell",
+  "filmography": [
+    {
+      "imdb_id": "tt0117571",
+      "title": "Scream",
+      "year": 1996,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Sidney"
+    },
+    {
+      "imdb_id": "tt0120890",
+      "title": "Wild Things",
+      "year": 1998,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Suzie Toller"
+    },
+    {
+      "imdb_id": "tt1856010",
+      "title": "House of Cards",
+      "year": 2013,
+      "roles": [
+        "cast"
+      ],
+      "character": "Leann Harvey"
+    },
+    {
+      "imdb_id": "tt13833978",
+      "title": "The Lincoln Lawyer",
+      "year": 2022,
+      "roles": [
+        "cast"
+      ],
+      "character": "Maggie McPherson"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYmY2MmM4YmEtNGFlNC00YWM0LThmYWItMTdlZTgzZjNhNGE0XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "03.10.1973",
+  "birth_location": "Guelph, Ontario, Canada",
+  "height": "1.70 m",
+  "filmweb_id": 17,
+  "name_pl": "Neve Campbell",
+  "birth_location_pl": "Guelph",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Kanada"
+  ]
+}

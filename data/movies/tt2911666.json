@@ -1,0 +1,287 @@
+{
+  "imdb_id": "tt2911666",
+  "title": "John Wick",
+  "description": "John Wick is a former hitman grieving the loss of his true love. When his home is broken into, robbed, and his dog killed, he is forced to return to action to exact revenge.",
+  "runtime_minutes": 101,
+  "release_date": "24.10.2014",
+  "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000206",
+      "name": "Keanu Reeves"
+    },
+    {
+      "id": "nm0638824",
+      "name": "Michael Nyqvist"
+    },
+    {
+      "id": "nm0654295",
+      "name": "Alfie Allen"
+    },
+    {
+      "id": "nm0000353",
+      "name": "Willem Dafoe"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0821432",
+      "name": "Chad Stahelski"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm4401003",
+      "name": "Derek Kolstad"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000206",
+      "name": "Keanu Reeves",
+      "character": "John Wick"
+    },
+    {
+      "id": "nm0638824",
+      "name": "Michael Nyqvist",
+      "character": "Viggo Tarasov"
+    },
+    {
+      "id": "nm0654295",
+      "name": "Alfie Allen",
+      "character": "Iosef Tarasov"
+    },
+    {
+      "id": "nm0000353",
+      "name": "Willem Dafoe",
+      "character": "Marcus"
+    },
+    {
+      "id": "nm0935921",
+      "name": "Dean Winters",
+      "character": "Avi"
+    },
+    {
+      "id": "nm1597316",
+      "name": "Adrianne Palicki",
+      "character": "Ms. Perkins"
+    },
+    {
+      "id": "nm0055455",
+      "name": "Omer Barnea",
+      "character": "Gregori"
+    },
+    {
+      "id": "nm2584861",
+      "name": "Toby Leonard Moore",
+      "character": "Victor"
+    },
+    {
+      "id": "nm0076780",
+      "name": "Daniel Bernhardt",
+      "character": "Kirill"
+    },
+    {
+      "id": "nm0005256",
+      "name": "Bridget Moynahan",
+      "character": "Helen"
+    },
+    {
+      "id": "nm0000491",
+      "name": "John Leguizamo",
+      "character": "Aurelio"
+    },
+    {
+      "id": "nm0574534",
+      "name": "Ian McShane",
+      "character": "Winston"
+    },
+    {
+      "id": "nm2125623",
+      "name": "Bridget Regan",
+      "character": "Addy"
+    },
+    {
+      "id": "nm0714698",
+      "name": "Lance Reddick",
+      "character": "Hotel Manager"
+    },
+    {
+      "id": "nm2077124",
+      "name": "Keith Jardine",
+      "character": "Kuzma"
+    },
+    {
+      "id": "nm1324884",
+      "name": "Tait Fletcher",
+      "character": "Nicholai"
+    },
+    {
+      "id": "nm3522652",
+      "name": "Kazy Tauginas",
+      "character": "Ivan"
+    },
+    {
+      "id": "nm6223216",
+      "name": "Alexander Frekey",
+      "character": "Alexander"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Russian",
+    "Hungarian"
+  ],
+  "color": "Color",
+  "filmweb_id": 698144,
+  "year": 2014,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.5,
+      "votes": 837222,
+      "distribution": {
+        "1": 5931,
+        "2": 3917,
+        "3": 6218,
+        "4": 11582,
+        "5": 29755,
+        "6": 81378,
+        "7": 216447,
+        "8": 253131,
+        "9": 118631,
+        "10": 110232
+      },
+      "normalized": 6.51
+    },
+    "filmweb": {
+      "rating": 7.04,
+      "votes": 202474,
+      "distribution": {
+        "1": 888,
+        "2": 940,
+        "3": 3434,
+        "4": 5613,
+        "5": 14765,
+        "6": 36164,
+        "7": 66471,
+        "8": 46314,
+        "9": 15757,
+        "10": 12128
+      },
+      "normalized": 5.7107
+    },
+    "jarek": {
+      "rating": 3,
+      "date_rated": "14.02.2017",
+      "normalized": 4.2591
+    },
+    "michal": {
+      "rating": 2,
+      "date_rated": "20.02.2017",
+      "normalized": 3.1556
+    },
+    "score": 4.9089
+  },
+  "polish_title": "John Wick",
+  "silent": false,
+  "description_pl": "John Wick był najlepszym płatnym zabójcą w USA, ale dla ukochanej żony wycofał się z biznesu. Po jej śmierci nie dane mu będzie w spokoju przeżyć żałoby. Gdy syn rosyjskiego mafiosa odbierze mu ostatnią pamiątkę po ukochanej, zemsta będzie tylko kwestią czasu. Przestępczy świat na wieść o tym, że John Wick wrócił do gry, zamiera w przerażeniu, a rosyjski mafioso wydaje na niego wyrok śmierci. Już wkrótce miasto stanie w płomieniach...",
+  "producers": [
+    {
+      "id": "nm6505082",
+      "name": "Darren Blumenthal"
+    },
+    {
+      "id": "nm7348060",
+      "name": "Sam X. Eyde"
+    },
+    {
+      "id": "nm0603127",
+      "name": "Tara Finegan"
+    },
+    {
+      "id": "nm0289694",
+      "name": "Kevin Scott Frakes"
+    },
+    {
+      "id": "nm0343725",
+      "name": "Todd Grossman"
+    },
+    {
+      "id": "nm0412588",
+      "name": "Basil Iwanyk"
+    },
+    {
+      "id": "nm0459046",
+      "name": "Seth Kleinberg"
+    },
+    {
+      "id": "nm4498662",
+      "name": "Peter Lawson"
+    },
+    {
+      "id": "nm2443562",
+      "name": "Erica Lee"
+    },
+    {
+      "id": "nm0500610",
+      "name": "David Leitch"
+    },
+    {
+      "id": "nm2807073",
+      "name": "Noel Lohr"
+    },
+    {
+      "id": "nm0519456",
+      "name": "Eva Longoria"
+    },
+    {
+      "id": "nm7464574",
+      "name": "Doug Monticciolo"
+    },
+    {
+      "id": "nm4978295",
+      "name": "Andrew C. Robinson"
+    },
+    {
+      "id": "nm4504741",
+      "name": "Raj Brinder Singh"
+    },
+    {
+      "id": "nm0881008",
+      "name": "Jared Underwood"
+    },
+    {
+      "id": "nm0881517",
+      "name": "Mike Upton"
+    },
+    {
+      "id": "nm7348059",
+      "name": "Giuseppe Vincenti"
+    },
+    {
+      "id": "nm7464575",
+      "name": "Jamie Wing"
+    },
+    {
+      "id": "nm5156455",
+      "name": "Mike Witherill"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0782930",
+      "name": "Jonathan Sela"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

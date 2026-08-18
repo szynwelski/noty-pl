@@ -1,0 +1,48 @@
+{
+  "id": "nm1009277",
+  "name": "Dax Shepard",
+  "filmography": [
+    {
+      "imdb_id": "tt0424993",
+      "title": "Employee of the Month",
+      "year": 2006,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Vince"
+    },
+    {
+      "imdb_id": "tt1872194",
+      "title": "The Judge",
+      "year": 2014,
+      "roles": [
+        "cast"
+      ],
+      "character": "C.P. Kennedy"
+    },
+    {
+      "imdb_id": "tt11832046",
+      "title": "PAW Patrol: The Movie",
+      "year": 2021,
+      "roles": [
+        "cast"
+      ],
+      "character": "Ruben"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTg2MzczMzgzNl5BMl5BanBnXkFtZTgwODg0MjMxNDM@._V1_.jpg",
+  "birth_date": "02.01.1975",
+  "birth_location": "Milford, Michigan, USA",
+  "height": "1.90 m",
+  "filmweb_id": 135263,
+  "name_pl": "Dax Shepard",
+  "birth_location_pl": "Milford, Michigan",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 135263
+}

@@ -1,0 +1,233 @@
+{
+  "imdb_id": "tt0107048",
+  "title": "Groundhog Day",
+  "description": "A curmudgeonly weatherman finds himself stuck in a time loop and is forced to relive the same day over and over again.",
+  "runtime_minutes": 101,
+  "release_date": "12.02.1993",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Fantasy",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0000195",
+      "name": "Bill Murray"
+    },
+    {
+      "id": "nm0000510",
+      "name": "Andie MacDowell"
+    },
+    {
+      "id": "nm0254402",
+      "name": "Chris Elliott"
+    },
+    {
+      "id": "nm0864997",
+      "name": "Stephen Tobolowsky"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000601",
+      "name": "Harold Ramis"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0748035",
+      "name": "Danny Rubin"
+    },
+    {
+      "id": "nm0000601",
+      "name": "Harold Ramis"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000195",
+      "name": "Bill Murray",
+      "character": "Phil"
+    },
+    {
+      "id": "nm0000510",
+      "name": "Andie MacDowell",
+      "character": "Rita"
+    },
+    {
+      "id": "nm0254402",
+      "name": "Chris Elliott",
+      "character": "Larry"
+    },
+    {
+      "id": "nm0864997",
+      "name": "Stephen Tobolowsky",
+      "character": "Ned"
+    },
+    {
+      "id": "nm0236519",
+      "name": "Brian Doyle-Murray",
+      "character": "Buster"
+    },
+    {
+      "id": "nm0313882",
+      "name": "Marita Geraghty",
+      "character": "Nancy"
+    },
+    {
+      "id": "nm0665708",
+      "name": "Angela Paton",
+      "character": "Mrs. Lancaster"
+    },
+    {
+      "id": "nm0239958",
+      "name": "Rick Ducommun",
+      "character": "Gus"
+    },
+    {
+      "id": "nm0653959",
+      "name": "Rick Overton",
+      "character": "Ralph"
+    },
+    {
+      "id": "nm0241208",
+      "name": "Robin Duke",
+      "character": "Doris the Waitress"
+    },
+    {
+      "id": "nm0084627",
+      "name": "Carol Bivins",
+      "character": "Anchorwoman"
+    },
+    {
+      "id": "nm0308606",
+      "name": "Willie Garson",
+      "character": "Phil's Assistant Kenny"
+    },
+    {
+      "id": "nm0132637",
+      "name": "Ken Hudson Campbell",
+      "character": "Man in Hallway"
+    },
+    {
+      "id": "nm0687971",
+      "name": "Les Podewell",
+      "character": "Old Man"
+    },
+    {
+      "id": "nm0783263",
+      "name": "Rod Sell",
+      "character": "Groundhog Official"
+    },
+    {
+      "id": "nm0586882",
+      "name": "Tom Milanovich",
+      "character": "State Trooper"
+    },
+    {
+      "id": "nm0914485",
+      "name": "John M. Watson Sr.",
+      "character": "Bartender"
+    },
+    {
+      "id": "nm0388395",
+      "name": "Peggy Roeder",
+      "character": "Piano Teacher"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Italian"
+  ],
+  "color": "Color",
+  "filmweb_id": 5293,
+  "year": 1993,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOWE3MjQ3ZDAtNDQ2MC00YjBjLTk0ZWYtNjQ0YzQ4YWE3YTEyXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8,
+      "votes": 739565,
+      "distribution": {
+        "1": 4343,
+        "2": 2175,
+        "3": 3422,
+        "4": 6374,
+        "5": 16168,
+        "6": 48663,
+        "7": 151015,
+        "8": 245484,
+        "9": 146220,
+        "10": 115701
+      },
+      "normalized": 7.5448
+    },
+    "filmweb": {
+      "rating": 7.21,
+      "votes": 154837,
+      "distribution": {
+        "1": 802,
+        "2": 601,
+        "3": 1619,
+        "4": 3204,
+        "5": 8349,
+        "6": 23214,
+        "7": 50820,
+        "8": 43073,
+        "9": 15886,
+        "10": 7269
+      },
+      "normalized": 6.0436
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "02.12.2005",
+      "normalized": 4.9718
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "19.10.2005",
+      "normalized": 5.4199
+    },
+    "score": 5.995
+  },
+  "polish_title": "Dzień świstaka",
+  "silent": false,
+  "description_pl": "Zgorzkniały prezenter telewizyjnej prognozy pogody, Phil (<a href=\"/osoba/?id=nm0000195\">Bill Murray</a>), wyjeżdża do miasteczka Punxsutawney, żeby relacjonować coroczne Święto Świstaka - przepowiadające (lub nie) nadejście wiosny. Wieczorem dochodzi do wniosku, że to najgorszy dzień w jego życiu. Kiedy budzi się następnego ranka, z przerażeniem stwierdza, że znów jest 2 lutego. Dla Phila czas stanął w miejscu i musi przeżywać wciąż to samo.",
+  "producers": [
+    {
+      "id": "nm0016603",
+      "name": "Trevor Albert"
+    },
+    {
+      "id": "nm0259021",
+      "name": "C.O. Erickson"
+    },
+    {
+      "id": "nm0000601",
+      "name": "Harold Ramis"
+    },
+    {
+      "id": "nm0925582",
+      "name": "Whitney White"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006070",
+      "name": "George Fenton"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0007037",
+      "name": "John Bailey"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

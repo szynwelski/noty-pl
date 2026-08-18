@@ -1,0 +1,28 @@
+{
+  "id": "nm0000004",
+  "name": "John Belushi",
+  "filmography": [
+    {
+      "imdb_id": "tt0080455",
+      "title": "The Blues Brothers",
+      "year": 1980,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Joliet Jake"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODcyMmQwMGItYjA1NC00N2NjLWJmMmMtMmIyMTgzOWQ3NWY1XkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 9045,
+  "name_pl": "John Belushi",
+  "birth_location_pl": "Chicago, Illinois",
+  "birth_date": "24.01.1949",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 9045
+}

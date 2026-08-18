@@ -1,0 +1,225 @@
+{
+  "imdb_id": "tt0183790",
+  "title": "A Knight's Tale",
+  "description": "After his master dies, a peasant squire, fueled by his desire for food and glory, creates a new identity for himself as a knight.",
+  "runtime_minutes": 132,
+  "release_date": "11.05.2001",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0005132",
+      "name": "Heath Ledger"
+    },
+    {
+      "id": "nm0004692",
+      "name": "Mark Addy"
+    },
+    {
+      "id": "nm0001722",
+      "name": "Rufus Sewell"
+    },
+    {
+      "id": "nm0815370",
+      "name": "Shannyn Sossamon"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001338",
+      "name": "Brian Helgeland"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0001338",
+      "name": "Brian Helgeland"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0005132",
+      "name": "Heath Ledger",
+      "character": "William Thatcher"
+    },
+    {
+      "id": "nm0004692",
+      "name": "Mark Addy",
+      "character": "Roland"
+    },
+    {
+      "id": "nm0001722",
+      "name": "Rufus Sewell",
+      "character": "Count Adhemar"
+    },
+    {
+      "id": "nm0815370",
+      "name": "Shannyn Sossamon",
+      "character": "Jocelyn"
+    },
+    {
+      "id": "nm0079273",
+      "name": "Paul Bettany",
+      "character": "Geoffrey Chaucer"
+    },
+    {
+      "id": "nm0292182",
+      "name": "Laura Fraser",
+      "character": "Kate"
+    },
+    {
+      "id": "nm0876138",
+      "name": "Alan Tudyk",
+      "character": "Wat"
+    },
+    {
+      "id": "nm0067367",
+      "name": "Bérénice Bejo",
+      "character": "Christiana"
+    },
+    {
+      "id": "nm0359710",
+      "name": "Scott Handy",
+      "character": "Germaine"
+    },
+    {
+      "id": "nm0700856",
+      "name": "James Purefoy",
+      "character": "Colville"
+    },
+    {
+      "id": "nm0176808",
+      "name": "Leagh Conwell",
+      "character": "Young William Thatcher"
+    },
+    {
+      "id": "nm0147392",
+      "name": "Christopher Cazenove",
+      "character": "John Thatcher"
+    },
+    {
+      "id": "nm0640838",
+      "name": "Steven O'Donnell",
+      "character": "Simon the Summoner"
+    },
+    {
+      "id": "nm0805872",
+      "name": "Jonathan Slinger",
+      "character": "Peter the Pardoner"
+    },
+    {
+      "id": "nm0003818",
+      "name": "Nick Brimble",
+      "character": "Sir Ector"
+    },
+    {
+      "id": "nm0229859",
+      "name": "Karel Dobrý",
+      "character": "Flanders King of Arms"
+    },
+    {
+      "id": "nm0501951",
+      "name": "Philip Lenkowsky",
+      "character": "Rouen King of Arms"
+    },
+    {
+      "id": "nm0004355",
+      "name": "Roger Ashton-Griffiths",
+      "character": "Old Bishop"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Latin"
+  ],
+  "color": "Color",
+  "filmweb_id": 31041,
+  "year": 2001,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTE5OTE4OTE2Nl5BMl5BanBnXkFtZTYwMDkzMTQ3._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7,
+      "votes": 222029,
+      "distribution": {
+        "1": 1981,
+        "2": 1485,
+        "3": 2729,
+        "4": 5556,
+        "5": 14000,
+        "6": 36570,
+        "7": 68228,
+        "8": 47470,
+        "9": 20180,
+        "10": 23830
+      },
+      "normalized": 5.5867
+    },
+    "filmweb": {
+      "rating": 6.92,
+      "votes": 65363,
+      "distribution": {
+        "1": 176,
+        "2": 221,
+        "3": 786,
+        "4": 1791,
+        "5": 5192,
+        "6": 13618,
+        "7": 23037,
+        "8": 14063,
+        "9": 3922,
+        "10": 2557
+      },
+      "normalized": 5.472
+    },
+    "jarek": {
+      "rating": 2,
+      "date_rated": "25.08.2010",
+      "normalized": 3.5003
+    },
+    "michal": {
+      "rating": 3,
+      "date_rated": "19.10.2005",
+      "normalized": 3.8753
+    },
+    "score": 4.6086
+  },
+  "polish_title": "Obłędny rycerz",
+  "silent": false,
+  "description_pl": "Młody, ambitny giermek William (<a href=\"/osoba/?id=nm0005132\">Heath Ledger</a>) postanawia \"odmienić swoje przeznaczenie\". Dzięki pomocy wiernych towarzyszy, odrobinie szczęścia i sfałszowanym dokumentom rodowym udaje mu się pod postacią Sir Urlicha von Lichtensteina wziąć udział w turnieju rycerskim. Tam ulega urokowi tajemniczej piękności Jocelyn (<a href=\"/osoba/?id=nm0815370\">Shannyn Sossamon</a>). Wkrótce na drodze do zwycięstwa w turnieju i do serca ukochanej staje jednak groźny rywal...",
+  "producers": [
+    {
+      "id": "nm0085542",
+      "name": "Todd Black"
+    },
+    {
+      "id": "nm0001338",
+      "name": "Brian Helgeland"
+    },
+    {
+      "id": "nm0887800",
+      "name": "Tim Van Rellim"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0001980",
+      "name": "Carter Burwell"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0337313",
+      "name": "Richard Greatrex"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

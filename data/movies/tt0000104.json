@@ -1,0 +1,71 @@
+{
+  "imdb_id": "tt0000104",
+  "title": "Pompiers à Lyon",
+  "description": "In the foreground, smoke billows. Four horse-drawn fire wagons approach and pass in front of a stationary camera. Two horses draw each wagon, and each wagon carries from two to eight firefighters. After the wagons pass, carts and pedestrians resume traffic on the street.",
+  "runtime_minutes": 1,
+  "release_date": "1896",
+  "genres": [
+    "Documentary",
+    "Short"
+  ],
+  "top_cast": [],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 241006,
+  "year": 1896,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMWFkOTczNDItZmRjYy00ZGMyLTk5ZmQtMWUxZDhiNjBiNWY5XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.5,
+      "votes": 531,
+      "distribution": {
+        "1": 30,
+        "2": 14,
+        "3": 27,
+        "4": 56,
+        "5": 140,
+        "6": 147,
+        "7": 69,
+        "8": 27,
+        "9": 5,
+        "10": 16
+      },
+      "normalized": 4.2467
+    },
+    "filmweb": {
+      "rating": 5.52,
+      "votes": 73,
+      "distribution": {
+        "1": 2,
+        "2": 2,
+        "3": 6,
+        "4": 2,
+        "5": 29,
+        "6": 14,
+        "7": 8,
+        "8": 5,
+        "9": 4,
+        "10": 1
+      },
+      "normalized": 4.6311
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "13.12.2016",
+      "normalized": 6.4102
+    },
+    "score": 5.096
+  },
+  "polish_title": "Pompiers à Lyon",
+  "silent": true,
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-15"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "nm0000934",
+  "name": "Bernardo Bertolucci",
+  "filmography": [
+    {
+      "imdb_id": "tt0070849",
+      "title": "Last Tango in Paris",
+      "year": 1972,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0309987",
+      "title": "The Dreamers",
+      "year": 2003,
+      "roles": [
+        "director"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTc2OTY0NjAyN15BMl5BanBnXkFtZTgwMjY5MDY2MDE@._V1_.jpg",
+  "birth_date": "16.03.1941",
+  "death_date": "26.11.2018",
+  "birth_location": "Parma, Emilia-Romagna, Italy",
+  "height": "1.78 m",
+  "imdb_scraped": true,
+  "filmweb_id": 12448,
+  "name_pl": "Bernardo Bertolucci",
+  "birth_location_pl": "Parma",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Włochy",
+    "Zjednoczone Królestwo Włoch"
+  ],
+  "wikidata_fw_id": 12448
+}

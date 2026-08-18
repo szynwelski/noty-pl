@@ -1,0 +1,78 @@
+{
+  "id": "nm0000563",
+  "name": "Chris O'Donnell",
+  "filmography": [
+    {
+      "imdb_id": "tt0101921",
+      "title": "Fried Green Tomatoes",
+      "year": 1991,
+      "roles": [
+        "cast"
+      ],
+      "character": "Buddy Threadgoode"
+    },
+    {
+      "imdb_id": "tt0105323",
+      "title": "Scent of a Woman",
+      "year": 1992,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Charlie Simms"
+    },
+    {
+      "imdb_id": "tt0112462",
+      "title": "Batman Forever",
+      "year": 1995,
+      "roles": [
+        "cast"
+      ],
+      "character": "Robin"
+    },
+    {
+      "imdb_id": "tt0115862",
+      "title": "The Chamber",
+      "year": 1996,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Adam Hall"
+    },
+    {
+      "imdb_id": "tt0118688",
+      "title": "Batman & Robin",
+      "year": 1997,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Robin"
+    },
+    {
+      "imdb_id": "tt0190865",
+      "title": "Vertical Limit",
+      "year": 2000,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Peter Garrett"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTY1OTIzMDIzMV5BMl5BanBnXkFtZTcwMDYyNjY0MQ@@._V1_.jpg",
+  "birth_date": "26.06.1970",
+  "birth_location": "Winnetka, Illinois, USA",
+  "height": "1.75 m",
+  "filmweb_id": 3725,
+  "name_pl": "Chris O'Donnell",
+  "birth_location_pl": "Winnetka, Illinois",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 3725
+}

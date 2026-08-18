@@ -1,0 +1,198 @@
+{
+  "imdb_id": "tt1986951",
+  "title": "Lilet Never Happened",
+  "description": "A look at child prostitution in Manila.",
+  "runtime_minutes": 105,
+  "release_date": "10.01.2013",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm2064198",
+      "name": "Sandy Talag"
+    },
+    {
+      "id": "nm0824373",
+      "name": "Johanna ter Steege"
+    },
+    {
+      "id": "nm0033843",
+      "name": "John Arcilla"
+    },
+    {
+      "id": "nm2366613",
+      "name": "Angeli Bayani"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0342872",
+      "name": "Jacco Groen"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0342872",
+      "name": "Jacco Groen"
+    },
+    {
+      "id": "nm0407150",
+      "name": "Roy Iglesias"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm2064198",
+      "name": "Sandy Talag",
+      "character": "Lilet"
+    },
+    {
+      "id": "nm0824373",
+      "name": "Johanna ter Steege",
+      "character": "Claire"
+    },
+    {
+      "id": "nm0033843",
+      "name": "John Arcilla",
+      "character": "James"
+    },
+    {
+      "id": "nm2366613",
+      "name": "Angeli Bayani",
+      "character": "Rosing"
+    },
+    {
+      "id": "nm4919785",
+      "name": "Thea Marabut",
+      "character": "Tessie"
+    },
+    {
+      "id": "nm4919797",
+      "name": "Jermaine Patrick Ulgasan",
+      "character": "Dino"
+    },
+    {
+      "id": "nm3076184",
+      "name": "Timothy Castillo",
+      "character": "Nonoy"
+    },
+    {
+      "id": "nm5572203",
+      "name": "Grace Constantino",
+      "character": "Madame Curing"
+    },
+    {
+      "id": "nm5449852",
+      "name": "Grundy Constantino",
+      "character": "Madam Curing"
+    },
+    {
+      "id": "nm1449903",
+      "name": "Antonette Garcia",
+      "character": "Millie"
+    },
+    {
+      "id": "nm4682739",
+      "name": "Jun Nayra",
+      "character": "Bad Cop"
+    },
+    {
+      "id": "nm1323778",
+      "name": "Marife Necesito",
+      "character": "Alice"
+    }
+  ],
+  "countries": [
+    "Netherlands",
+    "United Kingdom",
+    "Philippines"
+  ],
+  "languages": [
+    "Filipino",
+    "Tagalog",
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 666901,
+  "year": 2012,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMmY4ZmQxNjAtMDc2Yy00MmMyLTllNTQtMDA1ODFkMzkyOTJkXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.6,
+      "votes": 307,
+      "distribution": {
+        "1": 12,
+        "2": 5,
+        "3": 9,
+        "4": 12,
+        "5": 33,
+        "6": 60,
+        "7": 66,
+        "8": 54,
+        "9": 19,
+        "10": 37
+      },
+      "normalized": 5.1477
+    },
+    "filmweb": {
+      "rating": 6.37,
+      "votes": 127,
+      "distribution": {
+        "1": 2,
+        "2": 1,
+        "3": 2,
+        "4": 6,
+        "5": 22,
+        "6": 31,
+        "7": 32,
+        "8": 25,
+        "9": 5,
+        "10": 1
+      },
+      "normalized": 4.8468
+    },
+    "jarek": {
+      "rating": 8,
+      "date_rated": "15.02.2013",
+      "normalized": 7.8989
+    },
+    "score": 5.9645
+  },
+  "polish_title": "Lilet, której nie było",
+  "silent": false,
+  "description_pl": "\"Lilet, której nie było\" to historia, będąca rysem charakterologicznym dziewczynki, która stała się najbardziej znaną w stolicy Filipin, dziecięcą prostytutką. Główna bohaterka, walcząc o przetrwanie na ulicach Manili, nieuchronnie stacza się ku prostytucji. Działaczka społeczna imieniem Clarie (<a href=\"/osoba/?id=nm0824373\">Johanna ter Steege</a>) próbuje ocalić Lilet (Sandy Talag), która po traumatycznych przejściach wierzy, że jedynym wyjściem z beznadziei, jest wzięcie spraw we własne ręce. Dostaje wiele szans, by skończyć z prowadzonym przez siebie życiem, lecz uparcie wybiera bardziej wyboistą drogę.",
+  "producers": [
+    {
+      "id": "nm5450114",
+      "name": "Eunice De Asis"
+    },
+    {
+      "id": "nm0236026",
+      "name": "Mike Downey"
+    },
+    {
+      "id": "nm0342872",
+      "name": "Jacco Groen"
+    },
+    {
+      "id": "nm0774635",
+      "name": "Anton Scholten"
+    },
+    {
+      "id": "nm5450006",
+      "name": "Natasja Swart"
+    },
+    {
+      "id": "nm4919734",
+      "name": "Jamillah van der Hulst"
+    },
+    {
+      "id": "nm4919712",
+      "name": "Martien Witsenburg"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

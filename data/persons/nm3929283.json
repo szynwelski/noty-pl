@@ -1,0 +1,33 @@
+{
+  "id": "nm3929283",
+  "name": "Kris Bowers",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNWQ2ZWYyOGUtZWNiNi00MTU3LWI3YWMtZDZiZTExYjY4MTM5XkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt6966692",
+      "title": "Green Book",
+      "year": 2018,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt29623480",
+      "title": "The Wild Robot",
+      "year": 2024,
+      "roles": [
+        "composer"
+      ]
+    }
+  ],
+  "imdb_scraped": true,
+  "filmweb_id": 1998364,
+  "name_pl": "Kris Bowers",
+  "birth_location_pl": "Los Angeles, Kalifornia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "birth_date": "05.04.1989",
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

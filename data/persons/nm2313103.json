@@ -1,0 +1,50 @@
+{
+  "id": "nm2313103",
+  "name": "Rebel Wilson",
+  "filmography": [
+    {
+      "imdb_id": "tt3381008",
+      "title": "The Brothers Grimsby",
+      "year": 2016,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Dawn Grobham"
+    },
+    {
+      "imdb_id": "tt2584384",
+      "title": "Jojo Rabbit",
+      "year": 2019,
+      "roles": [
+        "cast"
+      ],
+      "character": "Fraulein Rahm"
+    },
+    {
+      "imdb_id": "tt1298644",
+      "title": "The Hustle",
+      "year": 2019,
+      "roles": [
+        "star",
+        "cast",
+        "producer"
+      ],
+      "character": "Penny Rust"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzEwMzczNmItNGQ0ZS00YjUwLWJkOWEtMjZjN2IyMzgyYzRlXkEyXkFqcGc@._V1_.jpg",
+  "birth_location": "Sydney, New South Wales, Australia",
+  "height": "1.63 m",
+  "imdb_scraped": true,
+  "filmweb_id": 787939,
+  "name_pl": "Rebel Wilson",
+  "birth_location_pl": "Sydney",
+  "gender": "F",
+  "wikidata_processed": true,
+  "birth_date": "02.03.1980",
+  "nationality": [
+    "Australia"
+  ],
+  "wikidata_fw_id": 787939
+}

@@ -1,0 +1,230 @@
+{
+  "imdb_id": "tt0260522",
+  "title": "W pustyni i w puszczy",
+  "description": "Two young children, 14-year-old Stas and 8-year-old Nel, are kidnapped for ransom by Muslim leader called Mahdi.",
+  "runtime_minutes": 111,
+  "release_date": "23.03.2001",
+  "genres": [
+    "Adventure",
+    "Family"
+  ],
+  "stars": [
+    {
+      "id": "nm0275788",
+      "name": "Adam Fidusiewicz"
+    },
+    {
+      "id": "nm0768119",
+      "name": "Karolina Sawka"
+    },
+    {
+      "id": "nm0468586",
+      "name": "Krzysztof Kowalewski"
+    },
+    {
+      "id": "nm0957468",
+      "name": "Artur Zmijewski"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0004303",
+      "name": "Gavin Hood"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0004303",
+      "name": "Gavin Hood"
+    },
+    {
+      "id": "nm0797197",
+      "name": "Henryk Sienkiewicz"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0275788",
+      "name": "Adam Fidusiewicz",
+      "character": "Stas Tarkowski"
+    },
+    {
+      "id": "nm0768119",
+      "name": "Karolina Sawka",
+      "character": "Nel Rawlison"
+    },
+    {
+      "id": "nm0468586",
+      "name": "Krzysztof Kowalewski",
+      "character": "Greek Kalioupoli"
+    },
+    {
+      "id": "nm0957468",
+      "name": "Artur Zmijewski",
+      "character": "Mr. Wladyslaw Tarkowski"
+    },
+    {
+      "id": "nm0835463",
+      "name": "Andrzej Strzelecki",
+      "character": "Mr. Georg Rawlison"
+    },
+    {
+      "id": "nm0628965",
+      "name": "Mzwandile Ngubeni",
+      "character": "Kali"
+    },
+    {
+      "id": "nm0794830",
+      "name": "Lingile Shongwe",
+      "character": "Mea"
+    },
+    {
+      "id": "nm0408197",
+      "name": "Konrad Imiela",
+      "character": "Chamis"
+    },
+    {
+      "id": "nm0683323",
+      "name": "Agnieszka Pilaszewska",
+      "character": "Madame Olivier"
+    },
+    {
+      "id": "nm0463942",
+      "name": "Krzysztof Kolberger",
+      "character": "Linde"
+    },
+    {
+      "id": "nm0755645",
+      "name": "Przemyslaw Sadowski",
+      "character": "Major"
+    },
+    {
+      "id": "nm1424754",
+      "name": "Lotfi Dziri",
+      "character": "Gebhr"
+    },
+    {
+      "id": "nm1049922",
+      "name": "Ahmed Hafiene",
+      "character": "Idrys"
+    },
+    {
+      "id": "nm0744599",
+      "name": "Hichem Rostom",
+      "character": "Mahdi"
+    },
+    {
+      "id": "nm0066132",
+      "name": "Wlodzimierz Bednarski",
+      "character": "Gwary"
+    },
+    {
+      "id": "nm0119789",
+      "name": "Janusz Bukowski",
+      "character": ""
+    },
+    {
+      "id": "nm1669844",
+      "name": "Andrzej Chudy",
+      "character": "Gwary"
+    },
+    {
+      "id": "nm0194532",
+      "name": "Jacek Czyz",
+      "character": "Gwary"
+    }
+  ],
+  "countries": [
+    "Poland"
+  ],
+  "languages": [
+    "Polish"
+  ],
+  "color": "Color",
+  "filmweb_id": 1452,
+  "year": 2001,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BY2Y3MDU5YWItYmFjMi00MjM5LThiZDItMDJlMTc5NTY4OTY4XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.3,
+      "votes": 1083,
+      "distribution": {
+        "1": 34,
+        "2": 36,
+        "3": 80,
+        "4": 154,
+        "5": 262,
+        "6": 260,
+        "7": 135,
+        "8": 63,
+        "9": 22,
+        "10": 37
+      },
+      "normalized": 3.6126
+    },
+    "filmweb": {
+      "rating": 5.66,
+      "votes": 67336,
+      "distribution": {
+        "1": 841,
+        "2": 1268,
+        "3": 4225,
+        "4": 7730,
+        "5": 15311,
+        "6": 18260,
+        "7": 12597,
+        "8": 4901,
+        "9": 1138,
+        "10": 1065
+      },
+      "normalized": 2.8756
+    },
+    "michal": {
+      "rating": 2,
+      "date_rated": "19.10.2005",
+      "normalized": 3.1556
+    },
+    "score": 3.2146
+  },
+  "polish_title": "W pustyni i w puszczy",
+  "silent": false,
+  "description_pl": "Historia dwojga przyjaciół: 14-letniego Stasia Tarkowskiego i 8-letniej Nelly Rawlison. Zostali oni porwani dla okupu przez służebników Fatmy uwięzionej wraz z dziećmi przez rząd Egipski. Pełna dramatyzmu historia przedstawiająca czasy powstania Mahdiego (Muhammada Ahmeda) i nieznane zakątki Afryki. Tułaczka przez pół kontynentu i niesamowite przygody oddają dokładnie historię opisaną przez Heryka Sienkiewicza.",
+  "producers": [
+    {
+      "id": "nm4219657",
+      "name": "Khaled Walid Barsaoui"
+    },
+    {
+      "id": "nm1917708",
+      "name": "Aurelia Driver"
+    },
+    {
+      "id": "nm0246211",
+      "name": "Waldemar Dziki"
+    },
+    {
+      "id": "nm1205666",
+      "name": "Kim Hawke"
+    },
+    {
+      "id": "nm0548419",
+      "name": "Desireé Markgraaff"
+    },
+    {
+      "id": "nm0594868",
+      "name": "Abdelaziz Ben Mlouka"
+    },
+    {
+      "id": "nm0701286",
+      "name": "Samantha Putter"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0213579",
+      "name": "Krzesimir Debski"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,179 @@
+{
+  "imdb_id": "tt0095607",
+  "title": "Medea",
+  "description": "Medea is in Corinth with Jason and their two young sons. King Kreon wants to reward Jason for his exploits: he gives the hand of his daughter, Glauce, to Jason as well as the promise of the throne. In exchange, Medea and the boys are to be banished. Jason explains that his actions ensure a rich future for Medea and her sons. She asks that she be allowed to stay; Kreon refuses. She asks for one more day, and begs Jason to seek the king's permission to allow their sons to stay in Corinth. Jason agrees and Medea prepares a gift for her sons to give to Glauce. Will Medea leave peacefully?",
+  "runtime_minutes": 76,
+  "release_date": "01.04.1988",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0001424",
+      "name": "Udo Kier"
+    },
+    {
+      "id": "nm0646307",
+      "name": "Kirsten Olesen"
+    },
+    {
+      "id": "nm0421473",
+      "name": "Henning Jensen"
+    },
+    {
+      "id": "nm0406056",
+      "name": "Solbjørg Højfeldt"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001885",
+      "name": "Lars von Trier"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0262381",
+      "name": "Euripides"
+    },
+    {
+      "id": "nm0003433",
+      "name": "Carl Theodor Dreyer"
+    },
+    {
+      "id": "nm0001885",
+      "name": "Lars von Trier"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0001424",
+      "name": "Udo Kier",
+      "character": "Jason"
+    },
+    {
+      "id": "nm0646307",
+      "name": "Kirsten Olesen",
+      "character": "Medea"
+    },
+    {
+      "id": "nm0421473",
+      "name": "Henning Jensen",
+      "character": "Kreon"
+    },
+    {
+      "id": "nm0406056",
+      "name": "Solbjørg Højfeldt",
+      "character": "Ammen"
+    },
+    {
+      "id": "nm0503499",
+      "name": "Preben Lerdorff Rye",
+      "character": "Paedragon"
+    },
+    {
+      "id": "nm0654070",
+      "name": "Baard Owe",
+      "character": "Aiceus"
+    },
+    {
+      "id": "nm0322890",
+      "name": "Ludmilla Glinska",
+      "character": "Glauce"
+    },
+    {
+      "id": "nm0311409",
+      "name": "Vera Gebuhr",
+      "character": "Aeldre Terne"
+    },
+    {
+      "id": "nm0452981",
+      "name": "Jonny Kilde",
+      "character": "Store Dreng"
+    },
+    {
+      "id": "nm0452983",
+      "name": "Richard Kilde",
+      "character": "Lille Dreng"
+    },
+    {
+      "id": "nm0443502",
+      "name": "Dick Kaysø",
+      "character": "Jasons Stemme"
+    },
+    {
+      "id": "nm0687558",
+      "name": "Mette Munk Plum",
+      "character": "Glauces Stemme"
+    }
+  ],
+  "countries": [
+    "Denmark"
+  ],
+  "languages": [
+    "Danish"
+  ],
+  "color": "Color",
+  "filmweb_id": 7641,
+  "year": 1988,
+  "type": "tvMovie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZWYwN2FmNzEtNGEwYi00YzI0LWE3ZTgtMWRjYzI2NTNhNDVhXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.1,
+      "votes": 3937,
+      "distribution": {
+        "1": 136,
+        "2": 59,
+        "3": 66,
+        "4": 131,
+        "5": 238,
+        "6": 564,
+        "7": 1022,
+        "8": 880,
+        "9": 416,
+        "10": 425
+      },
+      "normalized": 5.6557
+    },
+    "filmweb": {
+      "rating": 7.27,
+      "votes": 2291,
+      "distribution": {
+        "1": 12,
+        "2": 10,
+        "3": 49,
+        "4": 63,
+        "5": 131,
+        "6": 296,
+        "7": 645,
+        "8": 652,
+        "9": 266,
+        "10": 167
+      },
+      "normalized": 5.9819
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "19.10.2005",
+      "normalized": 6.3474
+    },
+    "score": 5.995
+  },
+  "polish_title": "Medea",
+  "silent": false,
+  "description_pl": "Nakręcona w scenerii spowitych mgłą mokradeł północnej Danii Medea jest opowieścią o destrukcyjnej sile zazdrości i zemsty. Ten oparty na tragedii Eurypidesa film telewizyjny stanowi adaptację ostatniego, niezrealizowanego scenariusza klasyka światowego kina Carla Theodora Dreyera. \r\nTo nie jest próba zrekonstruowania filmu \"dreyerowskiego\", ale interpretacja scenariusza, w poczuciu respektu i czci, i jako taka ma stanowić hołd złożony mistrzowi.",
+  "composers": [
+    {
+      "id": "nm0389996",
+      "name": "Joachim Holbek"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0110718",
+      "name": "Sejr Brockmann"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

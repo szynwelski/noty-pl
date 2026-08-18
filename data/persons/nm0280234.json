@@ -1,0 +1,44 @@
+{
+  "id": "nm0280234",
+  "name": "F. Scott Fitzgerald",
+  "filmography": [
+    {
+      "imdb_id": "tt0210719",
+      "title": "The Great Gatsby",
+      "year": 2000,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0421715",
+      "title": "The Curious Case of Benjamin Button",
+      "year": 2008,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt1343092",
+      "title": "The Great Gatsby",
+      "year": 2013,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzhkYTNkNTktN2M5OS00MjU5LWFkMWQtZGEwOWIzZjcyY2NiXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "24.09.1896",
+  "death_date": "21.12.1940",
+  "birth_location": "St. Paul, Minnesota, USA",
+  "height": "1.74 m",
+  "filmweb_id": 115586,
+  "name_pl": "F. Scott Fitzgerald",
+  "birth_location_pl": "St. Paul, Minnesota",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

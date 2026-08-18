@@ -1,0 +1,30 @@
+{
+  "id": "nm0004891",
+  "name": "John Dye",
+  "filmography": [
+    {
+      "imdb_id": "tt0096913",
+      "title": "Best of the Best",
+      "year": 1989,
+      "roles": [
+        "cast"
+      ],
+      "character": "Virgil Keller"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTk2MTYyODYwM15BMl5BanBnXkFtZTYwMjQ3NDg3._V1_.jpg",
+  "birth_date": "31.01.1963",
+  "death_date": "10.01.2011",
+  "birth_location": "Amory, Mississippi, USA",
+  "height": "1.87 m",
+  "imdb_scraped": true,
+  "filmweb_id": 43019,
+  "name_pl": "John Dye",
+  "birth_location_pl": "Amory, Missisipi",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 43019
+}

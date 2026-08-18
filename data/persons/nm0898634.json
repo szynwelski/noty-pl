@@ -1,0 +1,58 @@
+{
+  "id": "nm0898634",
+  "name": "Frank Vincent",
+  "filmography": [
+    {
+      "imdb_id": "tt0081398",
+      "title": "Raging Bull",
+      "year": 1980,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Salvy"
+    },
+    {
+      "imdb_id": "tt0099685",
+      "title": "GoodFellas",
+      "year": 1990,
+      "roles": [
+        "cast"
+      ],
+      "character": "Billy Batts"
+    },
+    {
+      "imdb_id": "tt0112641",
+      "title": "Casino",
+      "year": 1995,
+      "roles": [
+        "cast"
+      ],
+      "character": "Frank Marino"
+    },
+    {
+      "imdb_id": "tt0118887",
+      "title": "Cop Land",
+      "year": 1997,
+      "roles": [
+        "cast"
+      ],
+      "character": "PDA President Lassaro"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQ4ODM3ODA3N15BMl5BanBnXkFtZTYwNzg1ODQ1._V1_.jpg",
+  "birth_date": "15.04.1937",
+  "death_date": "13.09.2017",
+  "birth_location": "North Adams, Massachusetts, USA",
+  "height": "1.75 m",
+  "filmweb_id": 2827,
+  "name_pl": "Frank Vincent",
+  "birth_location_pl": "North Adams, Massachusetts",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 2827
+}

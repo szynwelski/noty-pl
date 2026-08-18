@@ -1,0 +1,254 @@
+{
+  "imdb_id": "tt0185183",
+  "title": "Battlefield Earth",
+  "description": "It's the year 3000 A.D., and the Earth is lost to the alien race of Psychlos. Humanity is enslaved by these gold-thirsty tyrants, who are unaware that their 'man-animals' are about to ignite the rebellion of a lifetime.",
+  "runtime_minutes": 117,
+  "release_date": "12.05.2000",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm0000237",
+      "name": "John Travolta"
+    },
+    {
+      "id": "nm0001845",
+      "name": "Forest Whitaker"
+    },
+    {
+      "id": "nm0001608",
+      "name": "Barry Pepper"
+    },
+    {
+      "id": "nm0167649",
+      "name": "Kim Coates"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0002337",
+      "name": "Roger Christian"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0541720",
+      "name": "Corey Mandell"
+    },
+    {
+      "id": "nm0788526",
+      "name": "J.D. Shapiro"
+    },
+    {
+      "id": "nm0399196",
+      "name": "L. Ron Hubbard"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000237",
+      "name": "John Travolta",
+      "character": "Terl"
+    },
+    {
+      "id": "nm0001845",
+      "name": "Forest Whitaker",
+      "character": "Ker"
+    },
+    {
+      "id": "nm0001608",
+      "name": "Barry Pepper",
+      "character": "Jonnie Goodboy Tyler"
+    },
+    {
+      "id": "nm0167649",
+      "name": "Kim Coates",
+      "character": "Carlo"
+    },
+    {
+      "id": "nm0005075",
+      "name": "Sabine Karsenti",
+      "character": "Chrissy"
+    },
+    {
+      "id": "nm0126250",
+      "name": "Michael Byrne",
+      "character": "Parson Staffer"
+    },
+    {
+      "id": "nm0856351",
+      "name": "Christian Tessier",
+      "character": "Mickey"
+    },
+    {
+      "id": "nm0485111",
+      "name": "Sylvain Landry",
+      "character": "Sammy"
+    },
+    {
+      "id": "nm0879186",
+      "name": "Richard Tyson",
+      "character": "Robert the Fox"
+    },
+    {
+      "id": "nm1021017",
+      "name": "Christopher Freeman",
+      "character": "Processing Clerk"
+    },
+    {
+      "id": "nm0867652",
+      "name": "John Topor",
+      "character": "Processing Clerk"
+    },
+    {
+      "id": "nm0042558",
+      "name": "Shaun Austin-Olsen",
+      "character": "Planetship"
+    },
+    {
+      "id": "nm0692874",
+      "name": "Tim Post",
+      "character": "Assistant Planetship"
+    },
+    {
+      "id": "nm0664387",
+      "name": "Earl Pastko",
+      "character": "Bartender"
+    },
+    {
+      "id": "nm0674837",
+      "name": "Michel Perron",
+      "character": "Rock"
+    },
+    {
+      "id": "nm0534298",
+      "name": "Michael MacRae",
+      "character": "District Manager Zete"
+    },
+    {
+      "id": "nm0568256",
+      "name": "Todd McDougall",
+      "character": "Psychlo Wrangler"
+    },
+    {
+      "id": "nm0716107",
+      "name": "Derrick Damon Reeve",
+      "character": "Psychlo Hoser"
+    }
+  ],
+  "countries": [
+    "United States",
+    "Canada"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 1345,
+  "year": 2000,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODJiODc1NjQtZmRhZS00ZTlmLTlmNTItMmZiZjcxMmU4ZDI2XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 2.5,
+      "votes": 85080,
+      "distribution": {
+        "1": 39134,
+        "2": 13120,
+        "3": 9060,
+        "4": 6259,
+        "5": 5383,
+        "6": 3895,
+        "7": 2585,
+        "8": 1567,
+        "9": 722,
+        "10": 3355
+      },
+      "normalized": 1.0
+    },
+    "filmweb": {
+      "rating": 4.17,
+      "votes": 12082,
+      "distribution": {
+        "1": 1474,
+        "2": 1444,
+        "3": 2081,
+        "4": 1824,
+        "5": 2034,
+        "6": 1546,
+        "7": 922,
+        "8": 442,
+        "9": 126,
+        "10": 189
+      },
+      "normalized": 1.3042
+    },
+    "jarek": {
+      "rating": 2,
+      "date_rated": "02.12.2005",
+      "normalized": 3.5003
+    },
+    "score": 1.9348
+  },
+  "polish_title": "Bitwa o Ziemię",
+  "silent": false,
+  "description_pl": "Jest rok 3000. Ludzie nie są już rasą panującą na Ziemi, wiele lat wcześniej naszą planetę podbili bowiem bezwzględni przedstawiciele obcej cywilizacji -Psyklopi. Ci, którym udało się przetrwać, dzielą się na dwie grupy - niewolników zdanych na łaskę najeźdźców oraz zbiegów, którzy żyją w prymitywnych plemionach. Dochodzi do decydującej bitwy przedstawicieli wrogich cywilizacji.",
+  "producers": [
+    {
+      "id": "nm0002170",
+      "name": "Ashok Amritraj"
+    },
+    {
+      "id": "nm0138502",
+      "name": "Don Carmody"
+    },
+    {
+      "id": "nm0235930",
+      "name": "Anson Downes"
+    },
+    {
+      "id": "nm0269414",
+      "name": "Linda Favila"
+    },
+    {
+      "id": "nm0392444",
+      "name": "James Holt"
+    },
+    {
+      "id": "nm0006790",
+      "name": "Jonathan D. Krane"
+    },
+    {
+      "id": "nm0759627",
+      "name": "Elie Samaha"
+    },
+    {
+      "id": "nm0822609",
+      "name": "Tracee Stanley"
+    },
+    {
+      "id": "nm0002989",
+      "name": "Andrew Stevens"
+    },
+    {
+      "id": "nm0000237",
+      "name": "John Travolta"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006012",
+      "name": "Elia Cmiral"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0638365",
+      "name": "Giles Nuttgens"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

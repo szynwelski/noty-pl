@@ -1,0 +1,356 @@
+{
+  "imdb_id": "tt1706620",
+  "title": "Snowpiercer",
+  "description": "In a future where a failed climate change experiment has killed all life except for the survivors who boarded the Snowpiercer (a train that travels around the globe), a new class system emerges.",
+  "runtime_minutes": 126,
+  "release_date": "11.07.2014",
+  "genres": [
+    "Action",
+    "Drama",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0262635",
+      "name": "Chris Evans"
+    },
+    {
+      "id": "nm0068260",
+      "name": "Jamie Bell"
+    },
+    {
+      "id": "nm0842770",
+      "name": "Tilda Swinton"
+    },
+    {
+      "id": "nm0000438",
+      "name": "Ed Harris"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0094435",
+      "name": "Bong Joon Ho"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm2441468",
+      "name": "Jacques Lob"
+    },
+    {
+      "id": "nm0499429",
+      "name": "Benjamin Legrand"
+    },
+    {
+      "id": "nm2440893",
+      "name": "Jean-Marc Rochette"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0262635",
+      "name": "Chris Evans",
+      "character": "Curtis"
+    },
+    {
+      "id": "nm0068260",
+      "name": "Jamie Bell",
+      "character": "Edgar"
+    },
+    {
+      "id": "nm0842770",
+      "name": "Tilda Swinton",
+      "character": "Mason"
+    },
+    {
+      "id": "nm0814280",
+      "name": "Song Kang-ho",
+      "character": "Namgoong Minsoo"
+    },
+    {
+      "id": "nm0000438",
+      "name": "Ed Harris",
+      "character": "Wilford"
+    },
+    {
+      "id": "nm0000457",
+      "name": "John Hurt",
+      "character": "Gilliam"
+    },
+    {
+      "id": "nm0818055",
+      "name": "Octavia Spencer",
+      "character": "Tanya"
+    },
+    {
+      "id": "nm0001971",
+      "name": "Ewen Bremner",
+      "character": "Andrew"
+    },
+    {
+      "id": "nm2163344",
+      "name": "Ko Asung",
+      "character": "Yo-na"
+    },
+    {
+      "id": "nm0683467",
+      "name": "Alison Pill",
+      "character": "Teacher"
+    },
+    {
+      "id": "nm3297698",
+      "name": "Luca Pasqualino",
+      "character": "Grey"
+    },
+    {
+      "id": "nm0412096",
+      "name": "Vlad Ivanov",
+      "character": "Franco the Elder"
+    },
+    {
+      "id": "nm3116983",
+      "name": "Adnan Haskovic",
+      "character": "Franco the Younger"
+    },
+    {
+      "id": "nm3883136",
+      "name": "Emma Levie",
+      "character": "Claude"
+    },
+    {
+      "id": "nm0661950",
+      "name": "Steve Park",
+      "character": "Fuyu"
+    },
+    {
+      "id": "nm0585485",
+      "name": "Clark Middleton",
+      "character": "Painter"
+    },
+    {
+      "id": "nm4830233",
+      "name": "Marcanthonee Reis",
+      "character": "Tim"
+    },
+    {
+      "id": "nm0493684",
+      "name": "Paul Lazar",
+      "character": "Paul"
+    }
+  ],
+  "countries": [
+    "South Korea",
+    "Czech Republic"
+  ],
+  "languages": [
+    "English",
+    "Korean",
+    "French",
+    "Japanese",
+    "Czech",
+    "German"
+  ],
+  "color": "Color",
+  "filmweb_id": 649608,
+  "year": 2013,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQ3NzA1MTY3MV5BMl5BanBnXkFtZTgwNzE2Mzg5MTE@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.1,
+      "votes": 424131,
+      "distribution": {
+        "1": 6327,
+        "2": 4463,
+        "3": 7005,
+        "4": 11971,
+        "5": 26519,
+        "6": 63143,
+        "7": 127370,
+        "8": 107977,
+        "9": 43080,
+        "10": 26276
+      },
+      "normalized": 5.7874
+    },
+    "filmweb": {
+      "rating": 6.21,
+      "votes": 89190,
+      "distribution": {
+        "1": 844,
+        "2": 1221,
+        "3": 3906,
+        "4": 5604,
+        "5": 13305,
+        "6": 22631,
+        "7": 25155,
+        "8": 12160,
+        "9": 3164,
+        "10": 1200
+      },
+      "normalized": 3.7092
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "23.07.2014",
+      "normalized": 5.6855
+    },
+    "score": 5.0607
+  },
+  "polish_title": "Snowpiercer: Arka przyszłości",
+  "silent": false,
+  "description_pl": "Rok 2031. Świat przegrał walkę z globalnym ociepleniem. Na Ziemi zapanowała wieczna zima, a życie uległo zagładzie. Jedynymi, którzy przetrwali, są pasażerowie Snowpiercera – pędzącego przez śnieżną zamieć pociągu-miasta poruszającego się dookoła globu dzięki rewolucyjnemu silnikowi potrafiącemu generować napędzającą go energię. Wewnątrz pociągu panuje system klasowy. Bogaci pasażerowie luksusowych wagonów żyją na koszt biednej większości. Wystarczy iskra, by doszło do rewolucji.",
+  "producers": [
+    {
+      "id": "nm11082000",
+      "name": "Seung-yun Ahn"
+    },
+    {
+      "id": "nm6436541",
+      "name": "Jisun Back"
+    },
+    {
+      "id": "nm0076006",
+      "name": "Robert Bernacchi"
+    },
+    {
+      "id": "nm0661791",
+      "name": "Park Chan-wook"
+    },
+    {
+      "id": "nm2127512",
+      "name": "Dooho Choi"
+    },
+    {
+      "id": "nm11082001",
+      "name": "Kyu-nam Choi"
+    },
+    {
+      "id": "nm3474808",
+      "name": "Pyung-ho Choi"
+    },
+    {
+      "id": "nm4336335",
+      "name": "Francis Chung"
+    },
+    {
+      "id": "nm7008151",
+      "name": "Kris Ghil"
+    },
+    {
+      "id": "nm7008154",
+      "name": "Samuel Yeunju Ha"
+    },
+    {
+      "id": "nm11081996",
+      "name": "Kim Hong-il"
+    },
+    {
+      "id": "nm11081997",
+      "name": "Kyttack Hong"
+    },
+    {
+      "id": "nm2944800",
+      "name": "Wonjo Jeong"
+    },
+    {
+      "id": "nm3026058",
+      "name": "Byung-ki Kim"
+    },
+    {
+      "id": "nm2477746",
+      "name": "Eun Hee Kim"
+    },
+    {
+      "id": "nm3724827",
+      "name": "Hak-beom Kim"
+    },
+    {
+      "id": "nm3888703",
+      "name": "Hyun-woo Kim"
+    },
+    {
+      "id": "nm6221676",
+      "name": "Young-don Kim"
+    },
+    {
+      "id": "nm11081999",
+      "name": "Young-kee Kim"
+    },
+    {
+      "id": "nm2009249",
+      "name": "Miky Lee"
+    },
+    {
+      "id": "nm11082002",
+      "name": "Youn-hee Lee"
+    },
+    {
+      "id": "nm0591459",
+      "name": "David Minkowski"
+    },
+    {
+      "id": "nm3725129",
+      "name": "Ki-moon Nam"
+    },
+    {
+      "id": "nm1329490",
+      "name": "Steven Nam"
+    },
+    {
+      "id": "nm3601683",
+      "name": "Tae-joon Park"
+    },
+    {
+      "id": "nm5913291",
+      "name": "Cathy Seok"
+    },
+    {
+      "id": "nm8367154",
+      "name": "Kang Yeong Shin"
+    },
+    {
+      "id": "nm11081998",
+      "name": "Jin-kyu Song"
+    },
+    {
+      "id": "nm7008152",
+      "name": "Lee Sorim"
+    },
+    {
+      "id": "nm0830299",
+      "name": "Matthew Stillman"
+    },
+    {
+      "id": "nm2011816",
+      "name": "Lee Tae-Heon"
+    },
+    {
+      "id": "nm1090121",
+      "name": "Jeong Tae-sung"
+    },
+    {
+      "id": "nm6082166",
+      "name": "Chae Yoon"
+    },
+    {
+      "id": "nm7008153",
+      "name": "Huh Soo Young"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0001937",
+      "name": "Marco Beltrami"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0393240",
+      "name": "Hong Kyung-pyo"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

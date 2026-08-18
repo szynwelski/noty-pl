@@ -1,0 +1,38 @@
+{
+  "id": "nm0001685",
+  "name": "Rick Rossovich",
+  "filmography": [
+    {
+      "imdb_id": "tt0088247",
+      "title": "The Terminator",
+      "year": 1984,
+      "roles": [
+        "cast"
+      ],
+      "character": "Matt"
+    },
+    {
+      "imdb_id": "tt0092099",
+      "title": "Top Gun",
+      "year": 1986,
+      "roles": [
+        "cast"
+      ],
+      "character": "Slider"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODQ2NDMwMzg1N15BMl5BanBnXkFtZTcwODY4Nzg5Nw@@._V1_.jpg",
+  "birth_date": "28.08.1957",
+  "birth_location": "Palo Alto, California, USA",
+  "height": "1.89 m",
+  "imdb_scraped": true,
+  "filmweb_id": 8038,
+  "name_pl": "Rick Rossovich",
+  "birth_location_pl": "Palo Alto, Kalifornia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 8038
+}

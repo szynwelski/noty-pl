@@ -1,0 +1,81 @@
+{
+  "imdb_id": "tt1321392",
+  "title": "Head of Procession Including Bluejackets",
+  "description": "",
+  "runtime_minutes": 1,
+  "release_date": "1897",
+  "genres": [
+    "Documentary",
+    "Short"
+  ],
+  "directors": [
+    {
+      "id": "nm0666972",
+      "name": "Robert W. Paul"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 757629,
+  "year": 1897,
+  "type": "short",
+  "image_url": null,
+  "ratings": {
+    "imdb": {
+      "rating": 4,
+      "votes": 111,
+      "distribution": {
+        "1": 20,
+        "2": 9,
+        "3": 13,
+        "4": 18,
+        "5": 30,
+        "6": 12,
+        "7": 3,
+        "8": 3,
+        "9": 1,
+        "10": 2
+      },
+      "normalized": 4.6071
+    },
+    "filmweb": {
+      "rating": 3.71,
+      "votes": 7,
+      "distribution": {
+        "1": 1,
+        "2": 0,
+        "3": 2,
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 4.9988
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "11.12.2016",
+      "normalized": 4.9718
+    },
+    "score": 4.8592
+  },
+  "polish_title": "Head of Procession Including Bluejackets",
+  "silent": true,
+  "cinematographers": [
+    {
+      "id": "nm0666972",
+      "name": "Robert W. Paul"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,242 @@
+{
+  "imdb_id": "tt0825232",
+  "title": "The Bucket List",
+  "description": "Two terminally ill men escape from a cancer ward and head off on a road trip with a wish list of to-dos before they die.",
+  "runtime_minutes": 97,
+  "release_date": "11.01.2008",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0000197",
+      "name": "Jack Nicholson"
+    },
+    {
+      "id": "nm0000151",
+      "name": "Morgan Freeman"
+    },
+    {
+      "id": "nm0005003",
+      "name": "Sean Hayes"
+    },
+    {
+      "id": "nm0865119",
+      "name": "Beverly Todd"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001661",
+      "name": "Rob Reiner"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0951698",
+      "name": "Justin Zackham"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000197",
+      "name": "Jack Nicholson",
+      "character": "Edward"
+    },
+    {
+      "id": "nm0000151",
+      "name": "Morgan Freeman",
+      "character": "Carter"
+    },
+    {
+      "id": "nm0005003",
+      "name": "Sean Hayes",
+      "character": "Thomas"
+    },
+    {
+      "id": "nm0865119",
+      "name": "Beverly Todd",
+      "character": "Virginia"
+    },
+    {
+      "id": "nm0001555",
+      "name": "Rob Morrow",
+      "character": "Dr. Hollins"
+    },
+    {
+      "id": "nm0293285",
+      "name": "Alfonso Freeman",
+      "character": "Roger"
+    },
+    {
+      "id": "nm0455242",
+      "name": "Rowena King",
+      "character": "Angelica"
+    },
+    {
+      "id": "nm2867259",
+      "name": "Annton Berry Jr.",
+      "character": "Kai"
+    },
+    {
+      "id": "nm0108802",
+      "name": "Verda Bridges",
+      "character": "Chandra"
+    },
+    {
+      "id": "nm2866178",
+      "name": "Destiny Brownridge",
+      "character": "Maya"
+    },
+    {
+      "id": "nm1016301",
+      "name": "Brian Copeland",
+      "character": "Lee"
+    },
+    {
+      "id": "nm1406333",
+      "name": "Ian Anthony Dale",
+      "character": "Instructor"
+    },
+    {
+      "id": "nm2422701",
+      "name": "Jennifer Defrancisco",
+      "character": "Emily"
+    },
+    {
+      "id": "nm1938332",
+      "name": "Angela Gardner",
+      "character": "Female Administrator"
+    },
+    {
+      "id": "nm0346595",
+      "name": "Noel Gugliemi",
+      "character": "Mechanic"
+    },
+    {
+      "id": "nm0379609",
+      "name": "Jonathan Hernandez",
+      "character": "Manny"
+    },
+    {
+      "id": "nm0392703",
+      "name": "Hugh B. Holub",
+      "character": "County Health Director"
+    },
+    {
+      "id": "nm0424500",
+      "name": "Andrea Johnson",
+      "character": "Elizabeth"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 372601,
+  "year": 2007,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTY2NTUyMjIyNF5BMl5BanBnXkFtZTYwNzYwMDM4._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.3,
+      "votes": 274311,
+      "distribution": {
+        "1": 1331,
+        "2": 952,
+        "3": 1753,
+        "4": 4176,
+        "5": 11360,
+        "6": 32954,
+        "7": 79276,
+        "8": 80374,
+        "9": 34022,
+        "10": 28113
+      },
+      "normalized": 6.1214
+    },
+    "filmweb": {
+      "rating": 7.6,
+      "votes": 258912,
+      "distribution": {
+        "1": 557,
+        "2": 632,
+        "3": 1786,
+        "4": 3620,
+        "5": 9634,
+        "6": 26881,
+        "7": 68428,
+        "8": 88252,
+        "9": 40122,
+        "10": 19000
+      },
+      "normalized": 7.0433
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "09.12.2017",
+      "normalized": 4.9718
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "19.04.2008",
+      "normalized": 4.5781
+    },
+    "score": 5.6787
+  },
+  "polish_title": "Choć goni nas czas",
+  "silent": false,
+  "description_pl": "Miliarder Edward Cole i mechanik z klasy średniej Carter Chambers żyją w dwóch różnych światach. Pewnego dnia spotykają się w jednej sali szpitalnej i dochodzą do wniosku, że są dwie rzeczy, które ich łączą: chcą robić rzeczy, o których zawsze marzyli, a nie zdążyli ich zrealizować oraz odkryć kim tak naprawdę są. Wyruszają wspólnie w podróż ich życia, odkrywają przyjaźń i uczą się jak najpełniej przeżyć życie.",
+  "producers": [
+    {
+      "id": "nm0135580",
+      "name": "Frank Capra III"
+    },
+    {
+      "id": "nm0340112",
+      "name": "Alan Greisman"
+    },
+    {
+      "id": "nm0461682",
+      "name": "Travis Knox"
+    },
+    {
+      "id": "nm0581117",
+      "name": "Neil Meron"
+    },
+    {
+      "id": "nm0001661",
+      "name": "Rob Reiner"
+    },
+    {
+      "id": "nm0832790",
+      "name": "Jeffrey Stott"
+    },
+    {
+      "id": "nm0951698",
+      "name": "Justin Zackham"
+    },
+    {
+      "id": "nm0951722",
+      "name": "Craig Zadan"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0003299",
+      "name": "Marc Shaiman"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0006701",
+      "name": "John Schwartzman"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

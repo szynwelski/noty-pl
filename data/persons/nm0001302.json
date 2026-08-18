@@ -1,0 +1,58 @@
+{
+  "id": "nm0001302",
+  "name": "Christopher Guest",
+  "filmography": [
+    {
+      "imdb_id": "tt0088258",
+      "title": "This Is Spinal Tap",
+      "year": 1984,
+      "roles": [
+        "writer",
+        "star",
+        "cast"
+      ],
+      "character": "Nigel Tufnel"
+    },
+    {
+      "imdb_id": "tt0093779",
+      "title": "The Princess Bride",
+      "year": 1987,
+      "roles": [
+        "cast"
+      ],
+      "character": "Count Rugen"
+    },
+    {
+      "imdb_id": "tt0104257",
+      "title": "A Few Good Men",
+      "year": 1992,
+      "roles": [
+        "cast"
+      ],
+      "character": "Dr. Stone"
+    },
+    {
+      "imdb_id": "tt1058017",
+      "title": "The Invention of Lying",
+      "year": 2009,
+      "roles": [
+        "cast"
+      ],
+      "character": "Nathan Goldfrappe"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjE0NzU2MjMzMV5BMl5BanBnXkFtZTYwMzQwMDMz._V1_.jpg",
+  "birth_date": "05.02.1948",
+  "birth_location": "New York City, New York, USA",
+  "height": "1.80 m",
+  "filmweb_id": 8071,
+  "name_pl": "Christopher Guest",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone",
+    "Wielka Brytania"
+  ]
+}

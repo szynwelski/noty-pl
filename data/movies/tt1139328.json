@@ -1,0 +1,255 @@
+{
+  "imdb_id": "tt1139328",
+  "title": "The Ghost Writer",
+  "description": "A ghostwriter uncovers a dark secret while working on the memoirs of England's former Prime Minister.",
+  "runtime_minutes": 128,
+  "release_date": "19.03.2010",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000191",
+      "name": "Ewan McGregor"
+    },
+    {
+      "id": "nm0000112",
+      "name": "Pierce Brosnan"
+    },
+    {
+      "id": "nm0931404",
+      "name": "Olivia Williams"
+    },
+    {
+      "id": "nm1256532",
+      "name": "Jon Bernthal"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000591",
+      "name": "Roman Polanski"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0365249",
+      "name": "Robert Harris"
+    },
+    {
+      "id": "nm0000591",
+      "name": "Roman Polanski"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000191",
+      "name": "Ewan McGregor",
+      "character": "The Ghost"
+    },
+    {
+      "id": "nm0000112",
+      "name": "Pierce Brosnan",
+      "character": "Adam Lang"
+    },
+    {
+      "id": "nm0931404",
+      "name": "Olivia Williams",
+      "character": "Ruth Lang"
+    },
+    {
+      "id": "nm1256532",
+      "name": "Jon Bernthal",
+      "character": "Rick Ricardelli"
+    },
+    {
+      "id": "nm0695784",
+      "name": "Tim Preece",
+      "character": "Roy"
+    },
+    {
+      "id": "nm0000902",
+      "name": "Jim Belushi",
+      "character": "John Maddox"
+    },
+    {
+      "id": "nm0000459",
+      "name": "Timothy Hutton",
+      "character": "Sidney Kroll"
+    },
+    {
+      "id": "nm1338491",
+      "name": "Anna Botting",
+      "character": "SKY TV Newsreader"
+    },
+    {
+      "id": "nm3796908",
+      "name": "Yvonne Tomlinson",
+      "character": "Stewardess"
+    },
+    {
+      "id": "nm0920574",
+      "name": "Milton Welsh",
+      "character": "Taxi Driver"
+    },
+    {
+      "id": "nm0563689",
+      "name": "Alister Mazzotti",
+      "character": "Protection Officer #1"
+    },
+    {
+      "id": "nm0267003",
+      "name": "Tim Faraday",
+      "character": "Barry"
+    },
+    {
+      "id": "nm0000326",
+      "name": "Kim Cattrall",
+      "character": "Amelia Bly"
+    },
+    {
+      "id": "nm1357559",
+      "name": "Kate Copeland",
+      "character": "Alice"
+    },
+    {
+      "id": "nm1165499",
+      "name": "Soogi Kang",
+      "character": "Dep"
+    },
+    {
+      "id": "nm3048253",
+      "name": "Lee Hong Thay",
+      "character": "Duc"
+    },
+    {
+      "id": "nm1013098",
+      "name": "John Keogh",
+      "character": "Protection Officer #2"
+    },
+    {
+      "id": "nm3797227",
+      "name": "Hans-Peter Sussner",
+      "character": "Protection Officer #3"
+    }
+  ],
+  "countries": [
+    "France",
+    "Germany",
+    "United Kingdom",
+    "Belgium",
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 463952,
+  "year": 2010,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTI3NzMwMzkyNV5BMl5BanBnXkFtZTcwODk4NjQxMw@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.2,
+      "votes": 177401,
+      "distribution": {
+        "1": 1563,
+        "2": 862,
+        "3": 1455,
+        "4": 3272,
+        "5": 8873,
+        "6": 26738,
+        "7": 59325,
+        "8": 49747,
+        "9": 16427,
+        "10": 9139
+      },
+      "normalized": 5.9347
+    },
+    "filmweb": {
+      "rating": 7.21,
+      "votes": 122568,
+      "distribution": {
+        "1": 288,
+        "2": 213,
+        "3": 1083,
+        "4": 1859,
+        "5": 6369,
+        "6": 17378,
+        "7": 43283,
+        "8": 38838,
+        "9": 10346,
+        "10": 2911
+      },
+      "normalized": 6.0401
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "02.12.2010",
+      "normalized": 6.4102
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "16.09.2010",
+      "normalized": 6.3474
+    },
+    "score": 6.1831
+  },
+  "polish_title": "Autor widmo",
+  "silent": false,
+  "description_pl": "Bohaterem filmu jest \"Ghostwriter\" - pisarz, który za pieniądze tworzy dla innych, oddając prawa do swego dzieła. Zostaje zaangażowany do napisania w imieniu byłego premiera Wielkiej Brytanii pamiętników. W trakcie prac nad książką, odkrywa sekrety, przez które znajduje się w śmiertelnym zagrożeniu.",
+  "producers": [
+    {
+      "id": "nm0071452",
+      "name": "Robert Benmussa"
+    },
+    {
+      "id": "nm0123135",
+      "name": "Timothy Burrill"
+    },
+    {
+      "id": "nm2862529",
+      "name": "Christoph Fisser"
+    },
+    {
+      "id": "nm0530709",
+      "name": "Oliver Lüer"
+    },
+    {
+      "id": "nm0596572",
+      "name": "Henning Molfenter"
+    },
+    {
+      "id": "nm0000591",
+      "name": "Roman Polanski"
+    },
+    {
+      "id": "nm0764963",
+      "name": "Alain Sarde"
+    },
+    {
+      "id": "nm0903119",
+      "name": "Christian von Tippelskirch"
+    },
+    {
+      "id": "nm1803681",
+      "name": "Charlie Woebcken"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006035",
+      "name": "Alexandre Desplat"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0248997",
+      "name": "Pawel Edelman"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

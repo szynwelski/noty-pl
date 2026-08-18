@@ -1,0 +1,39 @@
+{
+  "id": "nm0000240",
+  "name": "Skeet Ulrich",
+  "filmography": [
+    {
+      "imdb_id": "tt0117571",
+      "title": "Scream",
+      "year": 1996,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Billy"
+    },
+    {
+      "imdb_id": "tt0119822",
+      "title": "As Good as It Gets",
+      "year": 1997,
+      "roles": [
+        "cast"
+      ],
+      "character": "Vincent"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTIzMjk5OTAyMF5BMl5BanBnXkFtZTYwMzUxNzA1._V1_.jpg",
+  "birth_date": "20.01.1970",
+  "birth_location": "Lynchburg, Virginia, USA",
+  "height": "1.83 m",
+  "imdb_scraped": true,
+  "filmweb_id": 3466,
+  "name_pl": "Skeet Ulrich",
+  "birth_location_pl": "Lynchburg, Wirginia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 3466
+}

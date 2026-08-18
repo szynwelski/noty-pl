@@ -1,0 +1,38 @@
+{
+  "id": "nm0313447",
+  "name": "Heinrich George",
+  "filmography": [
+    {
+      "imdb_id": "tt0017136",
+      "title": "Metropolis",
+      "year": 1927,
+      "roles": [
+        "cast"
+      ],
+      "character": "Grot -Wärter der Herzmaschine"
+    },
+    {
+      "imdb_id": "tt0032653",
+      "title": "Jud Süß",
+      "year": 1940,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Karl Alexander, Herzog von Württemberg"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQ1MDUzMzI0OF5BMl5BanBnXkFtZTgwOTkyMjYzMzE@._V1_.jpg",
+  "birth_date": "09.10.1893",
+  "death_date": "25.09.1946",
+  "birth_location": "Stettin, Pomerania, Germany [now Szczecin, Zachodniopomorskie, Poland]",
+  "imdb_scraped": true,
+  "filmweb_id": 47760,
+  "name_pl": "Heinrich George",
+  "birth_location_pl": "Szczecin",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Niemcy"
+  ]
+}

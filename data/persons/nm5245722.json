@@ -1,0 +1,46 @@
+{
+  "id": "nm5245722",
+  "name": "Adria Arjona",
+  "filmography": [
+    {
+      "imdb_id": "tt2557478",
+      "title": "Pacific Rim: Uprising",
+      "year": 2018,
+      "roles": [
+        "cast"
+      ],
+      "character": "Jules Reyes"
+    },
+    {
+      "imdb_id": "tt8106534",
+      "title": "6 Underground",
+      "year": 2019,
+      "roles": [
+        "cast"
+      ],
+      "character": "Five"
+    },
+    {
+      "imdb_id": "tt1488606",
+      "title": "Triple Frontier",
+      "year": 2019,
+      "roles": [
+        "cast"
+      ],
+      "character": "Yovanna"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOGU1ZGViNjUtMGM1NS00MWM5LWExNWQtM2JjY2YzYzZhY2U0XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "25.04.1992",
+  "birth_location": "Puerto Rico",
+  "height": "1.65 m",
+  "imdb_scraped": true,
+  "filmweb_id": 2152770,
+  "name_pl": "Adria Arjona",
+  "birth_location_pl": "San Juan",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

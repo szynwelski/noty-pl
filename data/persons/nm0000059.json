@@ -1,0 +1,73 @@
+{
+  "id": "nm0000059",
+  "name": "Laurence Olivier",
+  "filmography": [
+    {
+      "imdb_id": "tt0032976",
+      "title": "Rebecca",
+      "year": 1940,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "'Maxim' de Winter"
+    },
+    {
+      "imdb_id": "tt0036910",
+      "title": "Henry V",
+      "year": 1944,
+      "roles": [
+        "director",
+        "star",
+        "cast",
+        "producer"
+      ],
+      "character": "King Henry V of England"
+    },
+    {
+      "imdb_id": "tt0054331",
+      "title": "Spartacus",
+      "year": 1960,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Crassus"
+    },
+    {
+      "imdb_id": "tt0069281",
+      "title": "Sleuth",
+      "year": 1972,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Andrew Wyke"
+    },
+    {
+      "imdb_id": "tt0075520",
+      "title": "Jesus of Nazareth",
+      "year": 1977,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Nicodemus"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZGMxMzBhYjktOTZiMi00MjliLTkxOTYtNDg0NmM5ZDEyNDk4XkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 41169,
+  "birth_date": "22.05.1907",
+  "death_date": "11.07.1989",
+  "birth_location": "Dorking, Surrey, England, UK",
+  "height": "1.78 m",
+  "imdb_scraped": true,
+  "name_pl": "Laurence Olivier",
+  "birth_location_pl": "Dorking, Anglia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 41169
+}

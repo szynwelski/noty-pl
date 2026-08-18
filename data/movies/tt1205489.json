@@ -1,0 +1,237 @@
+{
+  "imdb_id": "tt1205489",
+  "title": "Gran Torino",
+  "description": "After a Hmong teenager tries to steal his prized 1972 Gran Torino, a disgruntled, prejudiced Korean War veteran seeks to redeem both the boy and himself.",
+  "runtime_minutes": 116,
+  "release_date": "09.01.2009",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0000142",
+      "name": "Clint Eastwood"
+    },
+    {
+      "id": "nm3057402",
+      "name": "Bee Vang"
+    },
+    {
+      "id": "nm1542291",
+      "name": "Christopher Carley"
+    },
+    {
+      "id": "nm3115704",
+      "name": "Ahney Her"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000142",
+      "name": "Clint Eastwood"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1010405",
+      "name": "Nick Schenk"
+    },
+    {
+      "id": "nm3164738",
+      "name": "Dave Johannson"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000142",
+      "name": "Clint Eastwood",
+      "character": "Walt Kowalski"
+    },
+    {
+      "id": "nm3057402",
+      "name": "Bee Vang",
+      "character": "Thao"
+    },
+    {
+      "id": "nm1542291",
+      "name": "Christopher Carley",
+      "character": "Father Janovich"
+    },
+    {
+      "id": "nm3115704",
+      "name": "Ahney Her",
+      "character": "Sue"
+    },
+    {
+      "id": "nm0355083",
+      "name": "Brian Haley",
+      "character": "Mitch Kowalski"
+    },
+    {
+      "id": "nm0400625",
+      "name": "Geraldine Hughes",
+      "character": "Karen Kowalski"
+    },
+    {
+      "id": "nm2439111",
+      "name": "Dreama Walker",
+      "character": "Ashley Kowalski"
+    },
+    {
+      "id": "nm0397788",
+      "name": "Brian Howe",
+      "character": "Steve Kowalski"
+    },
+    {
+      "id": "nm0002253",
+      "name": "John Carroll Lynch",
+      "character": "Barber Martin"
+    },
+    {
+      "id": "nm0384771",
+      "name": "William Hill",
+      "character": "Tim Kennedy"
+    },
+    {
+      "id": "nm3146066",
+      "name": "Brooke Chia Thao",
+      "character": "Vu"
+    },
+    {
+      "id": "nm3146363",
+      "name": "Chee Thao",
+      "character": "Grandma"
+    },
+    {
+      "id": "nm3175843",
+      "name": "Choua Kue",
+      "character": "Youa"
+    },
+    {
+      "id": "nm2207222",
+      "name": "Scott Eastwood",
+      "character": "Trey"
+    },
+    {
+      "id": "nm3214286",
+      "name": "Xia Soua Chang",
+      "character": "Kor Khue"
+    },
+    {
+      "id": "nm3116410",
+      "name": "Sonny Vue",
+      "character": "Smokie"
+    },
+    {
+      "id": "nm1732080",
+      "name": "Doua Moua",
+      "character": "Spider"
+    },
+    {
+      "id": "nm1041781",
+      "name": "Greg Trzaskoma",
+      "character": "Bartender"
+    }
+  ],
+  "countries": [
+    "United States",
+    "Germany"
+  ],
+  "languages": [
+    "English",
+    "Hmong"
+  ],
+  "color": "Color",
+  "filmweb_id": 476580,
+  "year": 2008,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTc5NTk2OTU1Nl5BMl5BanBnXkFtZTcwMDc3NjAwMg@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8.1,
+      "votes": 867988,
+      "distribution": {
+        "1": 5171,
+        "2": 2689,
+        "3": 3643,
+        "4": 6288,
+        "5": 15095,
+        "6": 45858,
+        "7": 150976,
+        "8": 292444,
+        "9": 217938,
+        "10": 127886
+      },
+      "normalized": 7.8753
+    },
+    "filmweb": {
+      "rating": 8.21,
+      "votes": 449468,
+      "distribution": {
+        "1": 1243,
+        "2": 749,
+        "3": 1936,
+        "4": 3434,
+        "5": 8102,
+        "6": 20543,
+        "7": 66289,
+        "8": 150276,
+        "9": 130091,
+        "10": 66805
+      },
+      "normalized": 9.132
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "05.02.2010",
+      "normalized": 7.1247
+    },
+    "michal": {
+      "rating": 8,
+      "date_rated": "23.03.2009",
+      "normalized": 8.1116
+    },
+    "score": 8.0609
+  },
+  "polish_title": "Gran Torino",
+  "silent": false,
+  "description_pl": "Walt Kowalski, weteran wojny w Korei i zapiekły rasista z krwi i kości o stalowej woli, żyjący w świecie, który nieustannie ulega zmianom, zostaje zmuszony przez sąsiadów-imigrantów, którzy wraz ze swoją rodziną wprowadzili się po sąsiedzku, do trudnej konfrontacji z własnymi zadawnionymi uprzedzeniami. A wszystko zacznie się od klasycznego samochodu Kowalskiego - Gran Torino z 1972 roku.",
+  "producers": [
+    {
+      "id": "nm0075732",
+      "name": "Bruce Berman"
+    },
+    {
+      "id": "nm0000142",
+      "name": "Clint Eastwood"
+    },
+    {
+      "id": "nm0314088",
+      "name": "Bill Gerber"
+    },
+    {
+      "id": "nm1986495",
+      "name": "Jenette Kahn"
+    },
+    {
+      "id": "nm0520749",
+      "name": "Robert Lorenz"
+    },
+    {
+      "id": "nm0601954",
+      "name": "Tim Moore"
+    },
+    {
+      "id": "nm0725013",
+      "name": "Adam Richman"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0827869",
+      "name": "Tom Stern"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

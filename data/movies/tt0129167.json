@@ -1,0 +1,241 @@
+{
+  "imdb_id": "tt0129167",
+  "title": "The Iron Giant",
+  "description": "A young boy befriends a giant robot from outer space that a paranoid government agent wants to destroy.",
+  "runtime_minutes": 86,
+  "release_date": "06.08.1999",
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure",
+    "Family",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm0547349",
+      "name": "Eli Marienthal"
+    },
+    {
+      "id": "nm0001065",
+      "name": "Harry Connick Jr."
+    },
+    {
+      "id": "nm0000098",
+      "name": "Jennifer Aniston"
+    },
+    {
+      "id": "nm0004874",
+      "name": "Vin Diesel"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0083348",
+      "name": "Brad Bird"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0564827",
+      "name": "Tim McCanlies"
+    },
+    {
+      "id": "nm0083348",
+      "name": "Brad Bird"
+    },
+    {
+      "id": "nm0400954",
+      "name": "Ted Hughes"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0547349",
+      "name": "Eli Marienthal",
+      "character": "Hogarth Hughes"
+    },
+    {
+      "id": "nm0001065",
+      "name": "Harry Connick Jr.",
+      "character": "Dean McCoppin"
+    },
+    {
+      "id": "nm0000098",
+      "name": "Jennifer Aniston",
+      "character": "Annie Hughes"
+    },
+    {
+      "id": "nm0004874",
+      "name": "Vin Diesel",
+      "character": "The Iron Giant"
+    },
+    {
+      "id": "nm0304000",
+      "name": "James Gammon",
+      "character": "Foreman Marv Loach"
+    },
+    {
+      "id": "nm0001458",
+      "name": "Cloris Leachman",
+      "character": "Mrs. Tensedge"
+    },
+    {
+      "id": "nm0001520",
+      "name": "Christopher McDonald",
+      "character": "Kent Mansley"
+    },
+    {
+      "id": "nm0001498",
+      "name": "John Mahoney",
+      "character": "General Rogard"
+    },
+    {
+      "id": "nm0001826",
+      "name": "M. Emmet Walsh",
+      "character": "Earl Stutz"
+    },
+    {
+      "id": "nm0029460",
+      "name": "Jack Angel",
+      "character": "Additional Voices"
+    },
+    {
+      "id": "nm0074036",
+      "name": "Bob Bergen",
+      "character": "Additional Voices"
+    },
+    {
+      "id": "nm0074834",
+      "name": "Mary Kay Bergman",
+      "character": "Additional Voices"
+    },
+    {
+      "id": "nm1520974",
+      "name": "Michael Bird",
+      "character": "Additional Voices"
+    },
+    {
+      "id": "nm0096828",
+      "name": "Devon Cole Borisoff",
+      "character": "Additional Voices"
+    },
+    {
+      "id": "nm0120309",
+      "name": "Rodger Bumpass",
+      "character": "Additional Voices"
+    },
+    {
+      "id": "nm0167139",
+      "name": "Robert Clotworthy",
+      "character": "Additional Voices"
+    },
+    {
+      "id": "nm0201373",
+      "name": "Jennifer Darling",
+      "character": "Additional Voices"
+    },
+    {
+      "id": "nm0251038",
+      "name": "Zack Eginton",
+      "character": "Additional Voices"
+    }
+  ],
+  "countries": [
+    "United States",
+    "Czech Republic",
+    "United Kingdom"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 915,
+  "year": 1999,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODM4ZjZjMGEtYmFiMy00MThjLWIzZjUtMDU0ODg1NTI2MzIwXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8.1,
+      "votes": 264175,
+      "distribution": {
+        "1": 2058,
+        "2": 762,
+        "3": 1064,
+        "4": 2032,
+        "5": 5395,
+        "6": 15124,
+        "7": 45946,
+        "8": 86083,
+        "9": 53813,
+        "10": 51898
+      },
+      "normalized": 7.7616
+    },
+    "filmweb": {
+      "rating": 7.68,
+      "votes": 31561,
+      "distribution": {
+        "1": 73,
+        "2": 37,
+        "3": 112,
+        "4": 258,
+        "5": 835,
+        "6": 2904,
+        "7": 8484,
+        "8": 11896,
+        "9": 4789,
+        "10": 2173
+      },
+      "normalized": 7.2583
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "10.05.2024",
+      "normalized": 4.5781
+    },
+    "score": 6.5327
+  },
+  "polish_title": "Stalowy gigant",
+  "silent": false,
+  "description_pl": "Jest 1957 rok. Trwa zimna wojna. W małym miasteczku rybak (<a href=\"/osoba/?id=nm0001826\">M. Emmet Walsh</a>) opowiada o potężnym człowieku (<a href=\"/osoba/?id=nm0004874\">Vin Diesel</a>), całym ze stali, który mieszka w morzu. Nikt poza pewnym chłopcem (Eli Marienthal) nie wierzy w bajania staruszka. I to jemu właśnie udaje się odnaleźć szesnastometrowego robota. Stalowy gigant żywi się żelazem, jest łagodny i naiwny jak dziecko.",
+  "producers": [
+    {
+      "id": "nm0007831",
+      "name": "Allison Abbate"
+    },
+    {
+      "id": "nm2401223",
+      "name": "Charlene Logan Kelly"
+    },
+    {
+      "id": "nm0005197",
+      "name": "Des McAnuff"
+    },
+    {
+      "id": "nm0870175",
+      "name": "Pete Townshend"
+    },
+    {
+      "id": "nm0907869",
+      "name": "John Walker"
+    },
+    {
+      "id": "nm0929528",
+      "name": "Bethany Wilksen"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0004383",
+      "name": "Michael Kamen"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0934412",
+      "name": "Steven Wilzbach"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

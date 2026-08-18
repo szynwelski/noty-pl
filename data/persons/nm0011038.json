@@ -1,0 +1,47 @@
+{
+  "id": "nm0011038",
+  "name": "Jane Adams",
+  "filmography": [
+    {
+      "imdb_id": "tt0147612",
+      "title": "Happiness",
+      "year": 1998,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Joy Jordan"
+    },
+    {
+      "imdb_id": "tt0338013",
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "year": 2004,
+      "roles": [
+        "cast"
+      ],
+      "character": "Carrie"
+    },
+    {
+      "imdb_id": "tt0404203",
+      "title": "Little Children",
+      "year": 2006,
+      "roles": [
+        "cast"
+      ],
+      "character": "Sheila"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTM1NDg5NzQ3MF5BMl5BanBnXkFtZTcwNTUyMzcyOA@@._V1_.jpg",
+  "birth_date": "01.04.1965",
+  "birth_location": "Washington, District of Columbia, USA",
+  "height": "1.65 m",
+  "filmweb_id": 6820,
+  "name_pl": "Jane Adams",
+  "birth_location_pl": "Waszyngton, Dystrykt Kolumbii",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

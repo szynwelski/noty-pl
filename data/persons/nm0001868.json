@@ -1,0 +1,48 @@
+{
+  "id": "nm0001868",
+  "name": "Michael York",
+  "filmography": [
+    {
+      "imdb_id": "tt0068327",
+      "title": "Cabaret",
+      "year": 1972,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Brian Roberts"
+    },
+    {
+      "imdb_id": "tt0071877",
+      "title": "Murder on the Orient Express",
+      "year": 1974,
+      "roles": [
+        "cast"
+      ],
+      "character": "Count Andrenyi"
+    },
+    {
+      "imdb_id": "tt0120901",
+      "title": "Wrongfully Accused",
+      "year": 1998,
+      "roles": [
+        "cast"
+      ],
+      "character": "Hibbing Goodhue"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQ1NzgzNTg0OF5BMl5BanBnXkFtZTYwOTk3ODM1._V1_.jpg",
+  "birth_date": "27.03.1942",
+  "birth_location": "Fulmer, Buckinghamshire, England, UK",
+  "height": "1.79 m",
+  "filmweb_id": 5037,
+  "name_pl": "Michael York",
+  "birth_location_pl": "Fulmer, Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 5037
+}

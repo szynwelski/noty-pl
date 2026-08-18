@@ -1,0 +1,172 @@
+{
+  "imdb_id": "tt2599786",
+  "title": "Summer Vacation",
+  "description": "Sea, sun, island, a family on vacation. And all Yuval wants is to get the heck out of there.",
+  "runtime_minutes": 22,
+  "release_date": "18.01.2013",
+  "genres": [
+    "Short",
+    "Drama",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm1441832",
+      "name": "Yiftach Klein"
+    },
+    {
+      "id": "nm2269674",
+      "name": "Oded Leopold"
+    },
+    {
+      "id": "nm1364748",
+      "name": "Hilla Vidor"
+    },
+    {
+      "id": "nm2987477",
+      "name": "Ido Bartal"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm2318954",
+      "name": "Tal Granit"
+    },
+    {
+      "id": "nm2321422",
+      "name": "Sharon Maymon"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm2318954",
+      "name": "Tal Granit"
+    },
+    {
+      "id": "nm2321422",
+      "name": "Sharon Maymon"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1441832",
+      "name": "Yiftach Klein",
+      "character": "Yuval"
+    },
+    {
+      "id": "nm2269674",
+      "name": "Oded Leopold",
+      "character": "Yiftach"
+    },
+    {
+      "id": "nm1364748",
+      "name": "Hilla Vidor",
+      "character": "Michaela"
+    },
+    {
+      "id": "nm2987477",
+      "name": "Ido Bartal",
+      "character": "Noam"
+    },
+    {
+      "id": "nm5040243",
+      "name": "Ruslan Levchuk",
+      "character": "Einav"
+    },
+    {
+      "id": "nm4705209",
+      "name": "Bar Miniely",
+      "character": "Gaya"
+    }
+  ],
+  "countries": [
+    "Israel"
+  ],
+  "languages": [
+    "Hebrew"
+  ],
+  "color": "Color",
+  "filmweb_id": 686541,
+  "year": 2012,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjE4NDQ0Njk2NV5BMl5BanBnXkFtZTgwNTg2MDg1MzE@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.8,
+      "votes": 870,
+      "distribution": {
+        "1": 162,
+        "2": 15,
+        "3": 15,
+        "4": 18,
+        "5": 58,
+        "6": 115,
+        "7": 227,
+        "8": 135,
+        "9": 57,
+        "10": 68
+      },
+      "normalized": 5.2378
+    },
+    "filmweb": {
+      "rating": 6.67,
+      "votes": 45,
+      "distribution": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 2,
+        "6": 15,
+        "7": 16,
+        "8": 8,
+        "9": 1,
+        "10": 1
+      },
+      "normalized": 5.1678
+    },
+    "jarek": {
+      "rating": 1,
+      "date_rated": "01.10.2017",
+      "normalized": 2.5327
+    },
+    "score": 4.3128
+  },
+  "polish_title": "Summer Vacation",
+  "silent": false,
+  "description_pl": "Yuval spędza wakacje z żoną i dziećmi w nadmorskim kurorcie. Niewinna zabawa na plaży - zakopywanie się w piasku - staje się nagle śmiertelnie groźna za sprawą nadciągającego w mgnieniu oka przypływu. Z pomocą rodzinie przybywają dwaj przystojni nieznajomi. Okazuje się jednak, że jeden z nich nie jest im całkiem obcy, bynajmniej.",
+  "producers": [
+    {
+      "id": "nm2087501",
+      "name": "Saar Datner"
+    },
+    {
+      "id": "nm2318954",
+      "name": "Tal Granit"
+    },
+    {
+      "id": "nm3558859",
+      "name": "Gal Greenspan"
+    },
+    {
+      "id": "nm4507181",
+      "name": "Roi Kurland"
+    },
+    {
+      "id": "nm2321422",
+      "name": "Sharon Maymon"
+    },
+    {
+      "id": "nm3755416",
+      "name": "Noa Osheroff"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm1086307",
+      "name": "Shai Peleg"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

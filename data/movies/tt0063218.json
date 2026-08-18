@@ -1,0 +1,182 @@
+{
+  "imdb_id": "tt0063218",
+  "title": "Signs of Life",
+  "description": "Three wounded soldiers are removed from battle and given the task of looking after a fortress in a small coastal town. However, the pressures of isolation begin to take their toll on the men.",
+  "runtime_minutes": 91,
+  "release_date": "09.12.1981",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0111188",
+      "name": "Peter Brogle"
+    },
+    {
+      "id": "nm0717130",
+      "name": "Wolfgang Reichmann"
+    },
+    {
+      "id": "nm0951613",
+      "name": "Athina Zacharopoulou"
+    },
+    {
+      "id": "nm0903154",
+      "name": "Wolfgang von Ungern-Sternberg"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001348",
+      "name": "Werner Herzog"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0001348",
+      "name": "Werner Herzog"
+    },
+    {
+      "id": "nm0901894",
+      "name": "Achim von Arnim"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0111188",
+      "name": "Peter Brogle",
+      "character": "Stroszek"
+    },
+    {
+      "id": "nm0717130",
+      "name": "Wolfgang Reichmann",
+      "character": "Meinhard"
+    },
+    {
+      "id": "nm0951613",
+      "name": "Athina Zacharopoulou",
+      "character": "Nora"
+    },
+    {
+      "id": "nm0903154",
+      "name": "Wolfgang von Ungern-Sternberg",
+      "character": "Becker"
+    },
+    {
+      "id": "nm0836226",
+      "name": "Wolfgang Stumpf",
+      "character": "Captain"
+    },
+    {
+      "id": "nm0887463",
+      "name": "Henry van Lyck",
+      "character": "Lieutenant"
+    },
+    {
+      "id": "nm0684231",
+      "name": "Julio Pinheiro",
+      "character": "Gypsy"
+    },
+    {
+      "id": "nm0294813",
+      "name": "Florian Fricke",
+      "character": "Pianist"
+    },
+    {
+      "id": "nm0882282",
+      "name": "Heinz Usener",
+      "character": "Doctor"
+    },
+    {
+      "id": "nm0353138",
+      "name": "Achmed Hafiz",
+      "character": "Greek resident"
+    },
+    {
+      "id": "nm0292030",
+      "name": "Jannakis Frasakis",
+      "character": ""
+    },
+    {
+      "id": "nm0441226",
+      "name": "Eleni Katerinaki",
+      "character": ""
+    },
+    {
+      "id": "nm0001348",
+      "name": "Werner Herzog",
+      "character": "Soldat"
+    }
+  ],
+  "countries": [
+    "West Germany"
+  ],
+  "languages": [
+    "German",
+    "Greek"
+  ],
+  "color": "Black and White",
+  "year": 1968,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTIwMDc4NzE5N15BMl5BanBnXkFtZTcwNDEyOTkyMQ@@._V1_.jpg",
+  "filmweb_id": 36938,
+  "original_title": "Lebenszeichen",
+  "ratings": {
+    "imdb": {
+      "rating": 7,
+      "votes": 2831,
+      "distribution": {
+        "1": 42,
+        "2": 27,
+        "3": 37,
+        "4": 87,
+        "5": 177,
+        "6": 487,
+        "7": 846,
+        "8": 618,
+        "9": 272,
+        "10": 238
+      },
+      "normalized": 5.4909
+    },
+    "filmweb": {
+      "rating": 6.78,
+      "votes": 277,
+      "distribution": {
+        "1": 1,
+        "2": 2,
+        "3": 7,
+        "4": 9,
+        "5": 13,
+        "6": 80,
+        "7": 82,
+        "8": 58,
+        "9": 16,
+        "10": 9
+      },
+      "normalized": 5.1888
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "19.10.2005",
+      "normalized": 6.3474
+    },
+    "score": 5.6757
+  },
+  "polish_title": "Znaki życia",
+  "silent": false,
+  "description_pl": "Niemiecki żołnierz w czasie drugiej wojny światowej zostaje umieszczony na greckiej wyspie daleko od frontu. Ma tam wyleczyć się z ran. Bezczynność jednak prowadzi go do szaleństwa, z którego nie może go wyzwolić nawet spotkanie z kobietą. Po bezskutecznym usiłowaniu zburzenia za pomocą zbudowanej przez siebie rakiety położonego w pobliżu miasta zostaje w końcu obezwładniony.",
+  "composers": [
+    {
+      "id": "nm0944366",
+      "name": "Stavros Xarhakos"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0560761",
+      "name": "Thomas Mauch"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

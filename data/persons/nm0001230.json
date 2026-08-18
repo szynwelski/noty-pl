@@ -1,0 +1,30 @@
+{
+  "id": "nm0001230",
+  "name": "Harrison Ford",
+  "filmography": [
+    {
+      "imdb_id": "tt0013140",
+      "title": "Foolish Wives",
+      "year": 1922,
+      "roles": [
+        "cast"
+      ],
+      "character": "Rude Soldier"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYjAxOGRhNTMtNDg5OC00NTk4LWEwMDUtMDZmYzRmNjg5MTc3XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "16.03.1884",
+  "death_date": "02.12.1957",
+  "birth_location": "Kansas City, Missouri, USA",
+  "height": "1.80 m",
+  "imdb_scraped": true,
+  "filmweb_id": 100989,
+  "name_pl": "Harrison Ford",
+  "birth_location_pl": "Kansas City, Missouri",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 100989
+}

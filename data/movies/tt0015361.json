@@ -1,0 +1,191 @@
+{
+  "imdb_id": "tt0015361",
+  "title": "Strike",
+  "description": "A group of oppressed factory workers go on strike in pre-revolutionary Russia.",
+  "runtime_minutes": 82,
+  "release_date": "1961",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0017893",
+      "name": "Grigoriy Aleksandrov"
+    },
+    {
+      "id": "nm0795500",
+      "name": "Maksim Shtraukh"
+    },
+    {
+      "id": "nm0327150",
+      "name": "Mikhail Gomorov"
+    },
+    {
+      "id": "nm0412045",
+      "name": "I. Ivanov"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001178",
+      "name": "Sergei Eisenstein"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0017893",
+      "name": "Grigoriy Aleksandrov"
+    },
+    {
+      "id": "nm0001178",
+      "name": "Sergei Eisenstein"
+    },
+    {
+      "id": "nm0470402",
+      "name": "Ilya Kravchunovsky"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0017893",
+      "name": "Grigoriy Aleksandrov",
+      "character": "Factory Foreman"
+    },
+    {
+      "id": "nm0795500",
+      "name": "Maksim Shtraukh",
+      "character": "Police Spy"
+    },
+    {
+      "id": "nm0327150",
+      "name": "Mikhail Gomorov",
+      "character": "Yakov Strongin - Worker"
+    },
+    {
+      "id": "nm0412045",
+      "name": "I. Ivanov",
+      "character": "Chief of Police"
+    },
+    {
+      "id": "nm0460314",
+      "name": "Ivan Klyukvin",
+      "character": "Revolutionary"
+    },
+    {
+      "id": "nm0031446",
+      "name": "Aleksandr Antonov",
+      "character": "Member of Strike Committee"
+    },
+    {
+      "id": "nm0322925",
+      "name": "Yudif Glizer",
+      "character": "Queen of Thieves"
+    },
+    {
+      "id": "nm0476827",
+      "name": "Anatoliy Kuznetsov",
+      "character": ""
+    },
+    {
+      "id": "nm0946278",
+      "name": "Vera Yanukova",
+      "character": "Worker's Wife"
+    },
+    {
+      "id": "nm0881555",
+      "name": "Vladimir Uralskiy",
+      "character": ""
+    },
+    {
+      "id": "nm0951089",
+      "name": "Boris Yurtsev",
+      "character": "King of Thieves"
+    },
+    {
+      "id": "nm0017936",
+      "name": "Leonid Alekseev",
+      "character": "Factory Sleuth"
+    },
+    {
+      "id": "nm1131834",
+      "name": "Daniil Antonovich",
+      "character": "Worker"
+    },
+    {
+      "id": "nm1655075",
+      "name": "Pyotr Malek",
+      "character": "Police Spy"
+    },
+    {
+      "id": "nm14052172",
+      "name": "Misha Mamin",
+      "character": "Baby Boy"
+    },
+    {
+      "id": "nm0689878",
+      "name": "Pavel Poltoratskiy",
+      "character": "Stockholder"
+    }
+  ],
+  "countries": [
+    "Soviet Union"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "year": 1925,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDA0MmE2M2UtNmIyZS00NjEyLTg4NDItZWMyMDU1MjA2MmJkXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 35056,
+  "original_title": "Stachka",
+  "ratings": {
+    "imdb": {
+      "rating": 7.6,
+      "votes": 9587,
+      "distribution": {
+        "1": 314,
+        "2": 83,
+        "3": 108,
+        "4": 148,
+        "5": 392,
+        "6": 938,
+        "7": 2222,
+        "8": 2829,
+        "9": 1396,
+        "10": 1157
+      },
+      "normalized": 6.5263
+    },
+    "filmweb": {
+      "rating": 7.13,
+      "votes": 1193,
+      "distribution": {
+        "1": 11,
+        "2": 8,
+        "3": 15,
+        "4": 38,
+        "5": 58,
+        "6": 166,
+        "7": 393,
+        "8": 340,
+        "9": 112,
+        "10": 52
+      },
+      "normalized": 5.6922
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "20.07.2007",
+      "normalized": 7.2292
+    },
+    "score": 6.4826
+  },
+  "polish_title": "Strajk",
+  "silent": true,
+  "description_pl": "Film opowiada o konflikcie w wielkiej fabryce w okresie carskim, gdzie kapitaliści sięgają po różne środki - prowokację, szpiegostwo, terror i rozbicie - aby złamać wolę robotników oraz przygotowują krwawą rzeź.",
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-15"
+}

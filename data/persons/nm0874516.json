@@ -1,0 +1,35 @@
+{
+  "id": "nm0874516",
+  "name": "Andrzej Trzaskowski",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDc4NTAxNWQtOTgyNy00OWZmLWE2N2UtYWYzNzk2OTA2MTVmXkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0053176",
+      "title": "Night Train",
+      "year": 1959,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt0082294",
+      "title": "Shivers",
+      "year": 1981,
+      "roles": [
+        "composer"
+      ]
+    }
+  ],
+  "birth_date": "23.03.1933",
+  "death_date": "16.09.1998",
+  "birth_location": "Kraków, Malopolskie, Poland",
+  "imdb_scraped": true,
+  "filmweb_id": 45864,
+  "name_pl": "Andrzej Trzaskowski",
+  "birth_location_pl": "Kraków",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Polska"
+  ]
+}

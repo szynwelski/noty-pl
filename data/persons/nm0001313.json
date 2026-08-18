@@ -1,0 +1,38 @@
+{
+  "id": "nm0001313",
+  "name": "George Hamilton",
+  "filmography": [
+    {
+      "imdb_id": "tt0099674",
+      "title": "The Godfather Part III",
+      "year": 1990,
+      "roles": [
+        "cast"
+      ],
+      "character": "B.J. Harrison"
+    },
+    {
+      "imdb_id": "tt0278823",
+      "title": "Hollywood Ending",
+      "year": 2002,
+      "roles": [
+        "cast"
+      ],
+      "character": "Ed"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYjA2MGVmOGYtZWJkMy00MjFiLTg2ZDEtZWNkYzIxZjk3ZWM0XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "12.08.1939",
+  "birth_location": "Memphis, Tennessee, USA",
+  "height": "1.85 m",
+  "imdb_scraped": true,
+  "filmweb_id": 8454,
+  "name_pl": "George Hamilton",
+  "birth_location_pl": "Memphis, Tennessee",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 8454
+}

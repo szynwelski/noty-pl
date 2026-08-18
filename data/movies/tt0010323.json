@@ -1,0 +1,184 @@
+{
+  "imdb_id": "tt0010323",
+  "title": "The Cabinet of Dr. Caligari",
+  "description": "Hypnotist Dr. Caligari uses a somnambulist, Cesare, to commit murders.",
+  "runtime_minutes": 67,
+  "release_date": "27.02.1920",
+  "genres": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0470328",
+      "name": "Werner Krauss"
+    },
+    {
+      "id": "nm0891998",
+      "name": "Conrad Veidt"
+    },
+    {
+      "id": "nm0270415",
+      "name": "Friedrich Feher"
+    },
+    {
+      "id": "nm0196820",
+      "name": "Lil Dagover"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0927468",
+      "name": "Robert Wiene"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0562346",
+      "name": "Carl Mayer"
+    },
+    {
+      "id": "nm0417917",
+      "name": "Hans Janowitz"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0470328",
+      "name": "Werner Krauss",
+      "character": "Dr. Caligari"
+    },
+    {
+      "id": "nm0891998",
+      "name": "Conrad Veidt",
+      "character": "Cesare"
+    },
+    {
+      "id": "nm0270415",
+      "name": "Friedrich Feher",
+      "character": "Franzis"
+    },
+    {
+      "id": "nm0196820",
+      "name": "Lil Dagover",
+      "character": "Jane Olsen"
+    },
+    {
+      "id": "nm0903145",
+      "name": "Hans Heinrich von Twardowski",
+      "character": "Alan"
+    },
+    {
+      "id": "nm0504811",
+      "name": "Rudolf Lettinger",
+      "character": "Dr. Olsen"
+    },
+    {
+      "id": "nm0459030",
+      "name": "Rudolf Klein-Rogge",
+      "character": "Ein Verbrecher"
+    },
+    {
+      "id": "nm0487085",
+      "name": "Hans Lanser-Ludolff",
+      "character": "Ein Alter Mann"
+    },
+    {
+      "id": "nm0676742",
+      "name": "Henri Peters-Arnolds",
+      "character": "Ein Junger Arzt"
+    },
+    {
+      "id": "nm0720991",
+      "name": "Ludwig Rex",
+      "character": "Ein Mörder"
+    },
+    {
+      "id": "nm0905876",
+      "name": "Elsa Wagner",
+      "character": "Die Wirtin"
+    }
+  ],
+  "countries": [
+    "Germany"
+  ],
+  "languages": [
+    "None",
+    "German"
+  ],
+  "color": null,
+  "filmweb_id": 30689,
+  "year": 1920,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTY1NzIxOTcxM15BMl5BanBnXkFtZTgwMjY0ODgwNzE@._V1_.jpg",
+  "original_title": "Das Cabinet des Dr. Caligari",
+  "ratings": {
+    "imdb": {
+      "rating": 8,
+      "votes": 76719,
+      "distribution": {
+        "1": 1691,
+        "2": 477,
+        "3": 675,
+        "4": 1050,
+        "5": 2244,
+        "6": 5149,
+        "7": 12666,
+        "8": 22974,
+        "9": 14840,
+        "10": 14953
+      },
+      "normalized": 7.4041
+    },
+    "filmweb": {
+      "rating": 7.81,
+      "votes": 22816,
+      "distribution": {
+        "1": 355,
+        "2": 74,
+        "3": 157,
+        "4": 237,
+        "5": 560,
+        "6": 1573,
+        "7": 4662,
+        "8": 8122,
+        "9": 4333,
+        "10": 2743
+      },
+      "normalized": 7.6992
+    },
+    "jarek": {
+      "rating": 9,
+      "date_rated": "10.12.2016",
+      "normalized": 8.8973
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "25.11.2007",
+      "normalized": 7.2292
+    },
+    "score": 7.8075
+  },
+  "polish_title": "Gabinet doktora Caligari",
+  "silent": true,
+  "description_pl": "Do prowincjonalnego miasteczka przybywa wędrowny hipnotyzer (<a href=\"/osoba/?id=nm0470328\">Werner Krauss</a>). Jego medium, somnambulik Cezar (<a href=\"/osoba/?id=nm0891998\">Conrad Veidt</a>), jest główną atrakcją jarmarcznego show. Wkrótce w miasteczku zaczynają ginąć ludzie. Przyjaciel jednego z zamordowanych, Francis (Friedrich Feher), odkrywa ponury sekret - hipnotyzer jest reinkarnacją morderczego doktora Caligari, który zabijał, posługując się medium. Sytuacja nie jest prosta, gdyż Francis trafia za Caligarim do zakładu psychiatrycznego.",
+  "producers": [
+    {
+      "id": "nm0576901",
+      "name": "Rudolf Meinert"
+    },
+    {
+      "id": "nm0690143",
+      "name": "Erich Pommer"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005736",
+      "name": "Willy Hameister"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-15"
+}

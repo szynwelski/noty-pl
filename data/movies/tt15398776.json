@@ -1,0 +1,254 @@
+{
+  "imdb_id": "tt15398776",
+  "title": "Oppenheimer",
+  "description": "A dramatization of the life story of J. Robert Oppenheimer, the physicist who had a large hand in the development of the atomic bombs that brought an end to World War II.",
+  "runtime_minutes": 180,
+  "release_date": "21.07.2023",
+  "genres": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "stars": [
+    {
+      "id": "nm0614165",
+      "name": "Cillian Murphy"
+    },
+    {
+      "id": "nm1289434",
+      "name": "Emily Blunt"
+    },
+    {
+      "id": "nm0000354",
+      "name": "Matt Damon"
+    },
+    {
+      "id": "nm0000375",
+      "name": "Robert Downey Jr."
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0634240",
+      "name": "Christopher Nolan"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0634240",
+      "name": "Christopher Nolan"
+    },
+    {
+      "id": "nm3284831",
+      "name": "Kai Bird"
+    },
+    {
+      "id": "nm2452558",
+      "name": "Martin Sherwin"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0614165",
+      "name": "Cillian Murphy",
+      "character": "J. Robert Oppenheimer"
+    },
+    {
+      "id": "nm1289434",
+      "name": "Emily Blunt",
+      "character": "Kitty Oppenheimer"
+    },
+    {
+      "id": "nm0000354",
+      "name": "Matt Damon",
+      "character": "Leslie Groves"
+    },
+    {
+      "id": "nm0000375",
+      "name": "Robert Downey Jr.",
+      "character": "Lewis Strauss"
+    },
+    {
+      "id": "nm2403277",
+      "name": "Alden Ehrenreich",
+      "character": "Senate Aide"
+    },
+    {
+      "id": "nm0342241",
+      "name": "Scott Grimes",
+      "character": "Counsel"
+    },
+    {
+      "id": "nm0164809",
+      "name": "Jason Clarke",
+      "character": "Roger Robb"
+    },
+    {
+      "id": "nm0463282",
+      "name": "Kurt Koehler",
+      "character": "Thomas Morgan"
+    },
+    {
+      "id": "nm0001282",
+      "name": "Tony Goldwyn",
+      "character": "Gordon Gray"
+    },
+    {
+      "id": "nm0332944",
+      "name": "John Gowans",
+      "character": "Ward Evans"
+    },
+    {
+      "id": "nm0086301",
+      "name": "Macon Blair",
+      "character": "Lloyd Garrison"
+    },
+    {
+      "id": "nm0195439",
+      "name": "James D'Arcy",
+      "character": "Patrick Blackett"
+    },
+    {
+      "id": "nm0000110",
+      "name": "Kenneth Branagh",
+      "character": "Niels Bohr"
+    },
+    {
+      "id": "nm0342881",
+      "name": "Harry Groener",
+      "character": "Senator McGee"
+    },
+    {
+      "id": "nm0419813",
+      "name": "Gregory Jbara",
+      "character": "Chairman Magnuson"
+    },
+    {
+      "id": "nm0455316",
+      "name": "Ted King",
+      "character": "Senator Bartlett"
+    },
+    {
+      "id": "nm0215229",
+      "name": "Tim DeKay",
+      "character": "Senator Pastore"
+    },
+    {
+      "id": "nm0396765",
+      "name": "Steven Houska",
+      "character": "Senator Scott"
+    }
+  ],
+  "countries": [
+    "United States",
+    "United Kingdom"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Italian",
+    "Dutch"
+  ],
+  "color": "Color",
+  "filmweb_id": 10002817,
+  "year": 2023,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BN2JkMDc5MGQtZjg3YS00NmFiLWIyZmQtZTJmNTM5MjVmYTQ4XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8.2,
+      "votes": 1085263,
+      "distribution": {
+        "1": 11459,
+        "2": 3991,
+        "3": 5602,
+        "4": 8781,
+        "5": 19790,
+        "6": 51159,
+        "7": 138905,
+        "8": 308717,
+        "9": 277858,
+        "10": 259001
+      },
+      "normalized": 8.1869
+    },
+    "filmweb": {
+      "rating": 7.85,
+      "votes": 204000,
+      "distribution": {
+        "1": 1406,
+        "2": 566,
+        "3": 1550,
+        "4": 2218,
+        "5": 6485,
+        "6": 14542,
+        "7": 40688,
+        "8": 69727,
+        "9": 44451,
+        "10": 22367
+      },
+      "normalized": 7.9092
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "21.11.2023",
+      "normalized": 7.1247
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "10.09.2023",
+      "normalized": 7.2292
+    },
+    "score": 7.6125
+  },
+  "polish_title": "Oppenheimer",
+  "silent": false,
+  "description_pl": "Oppenheimer w czasie II wojny światowej był dyrektorem programu rozwoju broni jądrowej \"Manhattan\".  Poza działalnością związaną z bronią atomową Oppenheimer miał ogromne osiągnięcia w innych dziedzinach fizyki, między innymi w badaniach czarnych dziur oraz promieniowania kosmicznego. Resztę życia po opracowaniu bomby atomowej poświęcił na działalność na rzecz ograniczania rozprzestrzeniania się broni jądrowej. Był oskarżany przez amerykański rząd i służby o powiązania z ruchem komunistycznym oraz działalność szpiegowską. W latach 50. został pozbawiony dostępu do tajnych dokumentów. Dopiero prezydent Kennedy dokonał jego politycznej rehabilitacji. Oppenheimer jest dziś uznawany za jeden z symboli pacyfizmu i sprzeciwu wobec rozprzestrzeniania broni atomowej.",
+  "producers": [
+    {
+      "id": "nm0371669",
+      "name": "Thomas Hayslip"
+    },
+    {
+      "id": "nm0749781",
+      "name": "Helen Medrano"
+    },
+    {
+      "id": "nm0634240",
+      "name": "Christopher Nolan"
+    },
+    {
+      "id": "nm0746273",
+      "name": "Charles Roven"
+    },
+    {
+      "id": "nm0858799",
+      "name": "Emma Thomas"
+    },
+    {
+      "id": "nm3379670",
+      "name": "Andy Thompson"
+    },
+    {
+      "id": "nm11356994",
+      "name": "J. David Wargo"
+    },
+    {
+      "id": "nm0000249",
+      "name": "James Woods"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm3234869",
+      "name": "Ludwig Göransson"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0887227",
+      "name": "Hoyte van Hoytema"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

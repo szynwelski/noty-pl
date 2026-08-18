@@ -1,0 +1,200 @@
+{
+  "imdb_id": "tt0207145",
+  "title": "As Long as You've Got Your Health",
+  "description": "A man's sleepless night leads to a revelation about his wife. Office workers struggle to find seats at a crowded cinema. Modern stress affects everyone, even psychiatrists. A hunter, couple, and farmer compete for space in the woods.",
+  "runtime_minutes": 77,
+  "release_date": "25.02.1966",
+  "genres": [
+    "Comedy"
+  ],
+  "stars": [
+    {
+      "id": "nm0959916",
+      "name": "Pierre Étaix"
+    },
+    {
+      "id": "nm0702446",
+      "name": "Denise Péronne"
+    },
+    {
+      "id": "nm0284507",
+      "name": "Simone Fonder"
+    },
+    {
+      "id": "nm0754744",
+      "name": "Sabine Sun"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0959916",
+      "name": "Pierre Étaix"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0959916",
+      "name": "Pierre Étaix"
+    },
+    {
+      "id": "nm0140643",
+      "name": "Jean-Claude Carrière"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0959916",
+      "name": "Pierre Étaix",
+      "character": "Pierre"
+    },
+    {
+      "id": "nm0702446",
+      "name": "Denise Péronne",
+      "character": ""
+    },
+    {
+      "id": "nm0284507",
+      "name": "Simone Fonder",
+      "character": ""
+    },
+    {
+      "id": "nm0754744",
+      "name": "Sabine Sun",
+      "character": ""
+    },
+    {
+      "id": "nm0885291",
+      "name": "Véra Valmont",
+      "character": ""
+    },
+    {
+      "id": "nm2860345",
+      "name": "Francoise Occipinti",
+      "character": ""
+    },
+    {
+      "id": "nm0557540",
+      "name": "Claude Massot",
+      "character": ""
+    },
+    {
+      "id": "nm0581793",
+      "name": "Dario Meschi",
+      "character": ""
+    },
+    {
+      "id": "nm0181702",
+      "name": "Emile Coryn",
+      "character": ""
+    },
+    {
+      "id": "nm0871105",
+      "name": "Roger Trapp",
+      "character": ""
+    },
+    {
+      "id": "nm0417512",
+      "name": "Alain Janey",
+      "character": ""
+    },
+    {
+      "id": "nm2860324",
+      "name": "Bernard Dimet",
+      "character": ""
+    },
+    {
+      "id": "nm0088940",
+      "name": "Robert Blome",
+      "character": ""
+    },
+    {
+      "id": "nm1217666",
+      "name": "Preston",
+      "character": ""
+    },
+    {
+      "id": "nm2860130",
+      "name": "Pongo",
+      "character": ""
+    },
+    {
+      "id": "nm2169358",
+      "name": "Georges Loriot",
+      "character": ""
+    },
+    {
+      "id": "nm0217127",
+      "name": "Luc Delhumeau",
+      "character": ""
+    },
+    {
+      "id": "nm0767475",
+      "name": "Annie Savarin",
+      "character": ""
+    }
+  ],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "French"
+  ],
+  "color": "Color",
+  "filmweb_id": 135649,
+  "year": 1966,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BY2M5MTNjZWQtM2ZkNy00Mjg5LWFiNjEtMDkzZjgxODUxMWU1XkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Tant qu'on a la santé",
+  "ratings": {
+    "imdb": {
+      "rating": 7.1,
+      "votes": 1068,
+      "distribution": {
+        "1": 18,
+        "2": 5,
+        "3": 10,
+        "4": 14,
+        "5": 58,
+        "6": 155,
+        "7": 486,
+        "8": 201,
+        "9": 72,
+        "10": 49
+      },
+      "normalized": 5.5091
+    },
+    "filmweb": {
+      "rating": 7.3,
+      "votes": 56,
+      "distribution": {
+        "1": 1,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 4,
+        "6": 7,
+        "7": 18,
+        "8": 14,
+        "9": 5,
+        "10": 6
+      },
+      "normalized": 5.3403
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "27.11.2005",
+      "normalized": 7.2292
+    },
+    "score": 6.0262
+  },
+  "polish_title": "Grunt to zdrowie",
+  "silent": false,
+  "cinematographers": [
+    {
+      "id": "nm0091461",
+      "name": "Jean Boffety"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

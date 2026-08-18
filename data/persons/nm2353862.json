@@ -1,0 +1,50 @@
+{
+  "id": "nm2353862",
+  "name": "Dev Patel",
+  "filmography": [
+    {
+      "imdb_id": "tt1010048",
+      "title": "Slumdog Millionaire",
+      "year": 2008,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Older Jamal"
+    },
+    {
+      "imdb_id": "tt0938283",
+      "title": "The Last Airbender",
+      "year": 2010,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Prince Zuko"
+    },
+    {
+      "imdb_id": "tt1823672",
+      "title": "Chappie",
+      "year": 2015,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Deon Wilson"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjgxMjQwNDc5Nl5BMl5BanBnXkFtZTgwODI5Njk2NDE@._V1_.jpg",
+  "birth_date": "23.04.1990",
+  "birth_location": "Harrow, London, England, UK",
+  "height": "1.88 m",
+  "imdb_scraped": true,
+  "filmweb_id": 640824,
+  "name_pl": "Dev Patel",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 640824
+}

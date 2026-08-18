@@ -1,0 +1,46 @@
+{
+  "id": "nm0000269",
+  "name": "Jean-Jacques Annaud",
+  "filmography": [
+    {
+      "imdb_id": "tt0091605",
+      "title": "The Name of the Rose",
+      "year": 1986,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0120102",
+      "title": "Seven Years in Tibet",
+      "year": 1997,
+      "roles": [
+        "director",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0215750",
+      "title": "Enemy at the Gates",
+      "year": 2001,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTA2OTE0NDk3ODJeQTJeQWpwZ15BbWU3MDUxNzkzMDk@._V1_.jpg",
+  "birth_date": "01.10.1943",
+  "birth_location": "Juvisy-sur-Orge, Essonne, France",
+  "filmweb_id": 127,
+  "name_pl": "Jean-Jacques Annaud",
+  "birth_location_pl": "Draveil",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja"
+  ],
+  "wikidata_fw_id": 127
+}

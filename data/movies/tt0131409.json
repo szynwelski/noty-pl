@@ -1,0 +1,115 @@
+{
+  "imdb_id": "tt0131409",
+  "title": "Geri's Game",
+  "description": "Geri sets up a chess game to play his greatest opponent - himself.",
+  "runtime_minutes": 5,
+  "release_date": "25.11.1997",
+  "genres": [
+    "Animation",
+    "Short",
+    "Comedy",
+    "Family"
+  ],
+  "stars": [
+    {
+      "id": "nm0677037",
+      "name": "Bob Peterson"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0684342",
+      "name": "Jan Pinkava"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0684342",
+      "name": "Jan Pinkava"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0677037",
+      "name": "Bob Peterson",
+      "character": "Geri"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Color",
+  "filmweb_id": 140134,
+  "year": 1997,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODdhM2E1M2MtZDBiZi00YzUyLTk3MWItMzI1NzE4N2IxZTQzXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.8,
+      "votes": 28673,
+      "distribution": {
+        "1": 177,
+        "2": 101,
+        "3": 175,
+        "4": 373,
+        "5": 999,
+        "6": 2412,
+        "7": 5966,
+        "8": 9690,
+        "9": 4512,
+        "10": 4268
+      },
+      "normalized": 6.9264
+    },
+    "filmweb": {
+      "rating": 7.06,
+      "votes": 12961,
+      "distribution": {
+        "1": 32,
+        "2": 39,
+        "3": 176,
+        "4": 367,
+        "5": 958,
+        "6": 2330,
+        "7": 3978,
+        "8": 3406,
+        "9": 1170,
+        "10": 505
+      },
+      "normalized": 5.7335
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "19.07.2017",
+      "normalized": 5.4199
+    },
+    "score": 6.0266
+  },
+  "polish_title": "Gra Geriego",
+  "silent": false,
+  "description_pl": "Film autorstwa  Pixar Animation Studios, zrobiony jest jak przystało na to studio w technice animacji komputerowej. W roku 1997 został uhonorowany Oscarem jako najlepszy film krótkometrażowy. Opowiada on historię starszego człowieka zasiadającego w parku do szachownicy...",
+  "producers": [
+    {
+      "id": "nm0146216",
+      "name": "Ed Catmull"
+    },
+    {
+      "id": "nm0240640",
+      "name": "Karen Dufilho"
+    },
+    {
+      "id": "nm0005124",
+      "name": "John Lasseter"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0899620",
+      "name": "Gus Viseur"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

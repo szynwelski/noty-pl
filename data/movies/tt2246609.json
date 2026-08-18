@@ -1,0 +1,183 @@
+{
+  "imdb_id": "tt2246609",
+  "title": "Bulgarski Poscikk",
+  "description": "Laszlo and Asparuch, two top Bulgarian spies, are assigned to recover microfilms containing information compromising their homeland and to liquidate other Bulgarian spies who decided to collaborate with western intelligence agencies.",
+  "runtime_minutes": 50,
+  "release_date": "15.07.2001",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Mystery"
+  ],
+  "stars": [
+    {
+      "id": "nm4684467",
+      "name": "Bartosz Walaszek"
+    },
+    {
+      "id": "nm4906743",
+      "name": "Grzegorz Paraska"
+    },
+    {
+      "id": "nm4685495",
+      "name": "Lukasz Walaszek"
+    },
+    {
+      "id": "nm4906943",
+      "name": "Krzysztof Radzimski"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm4906332",
+      "name": "Z.F. Skurcz"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm4906743",
+      "name": "Grzegorz Paraska"
+    },
+    {
+      "id": "nm4684467",
+      "name": "Bartosz Walaszek"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm4684467",
+      "name": "Bartosz Walaszek",
+      "character": "Asparuch"
+    },
+    {
+      "id": "nm4906743",
+      "name": "Grzegorz Paraska",
+      "character": "Laszlo"
+    },
+    {
+      "id": "nm4685495",
+      "name": "Lukasz Walaszek",
+      "character": "Interrogated Man"
+    },
+    {
+      "id": "nm4906943",
+      "name": "Krzysztof Radzimski",
+      "character": "Shop Worker"
+    },
+    {
+      "id": "nm9803682",
+      "name": "Marcin Rudowski",
+      "character": "Zdrawko"
+    },
+    {
+      "id": "nm12861353",
+      "name": "Pawel Staszewski",
+      "character": "Villager with a tray"
+    },
+    {
+      "id": "nm4684702",
+      "name": "Piotr Paraska",
+      "character": "Three Twin Brothers"
+    },
+    {
+      "id": "nm12861356",
+      "name": "Rafal Krzyzanowski",
+      "character": "Jumpsuit Man"
+    },
+    {
+      "id": "nm12861355",
+      "name": "Piotr Kalinski",
+      "character": "Guard"
+    },
+    {
+      "id": "nm12861354",
+      "name": "Joanna Kalinska",
+      "character": "Jumpsuit Girl"
+    },
+    {
+      "id": "nm12861352",
+      "name": "Pawel Szamburski",
+      "character": "Mafioso"
+    },
+    {
+      "id": "nm4685250",
+      "name": "Krzysztof Zelazko",
+      "character": "Ziwkow"
+    },
+    {
+      "id": "nm6180184",
+      "name": "Patryk Michon",
+      "character": "Trader"
+    },
+    {
+      "id": "nm15385249",
+      "name": "Marcin Bienkowski",
+      "character": "Jem jak Swinia"
+    },
+    {
+      "id": "nm15385250",
+      "name": "Mariusz Kowalski",
+      "character": "Sportsman"
+    }
+  ],
+  "countries": [
+    "Poland"
+  ],
+  "languages": [
+    "Polish"
+  ],
+  "color": "Color",
+  "year": 2001,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDkzMmUyMzEtNjZlNS00YTc0LTkwZDktMzdkZWY0YzY0OGQ5XkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 107557,
+  "ratings": {
+    "imdb": {
+      "rating": 6.1,
+      "votes": 158,
+      "distribution": {
+        "1": 5,
+        "2": 9,
+        "3": 5,
+        "4": 15,
+        "5": 18,
+        "6": 19,
+        "7": 30,
+        "8": 20,
+        "9": 13,
+        "10": 24
+      },
+      "normalized": 5.0259
+    },
+    "filmweb": {
+      "rating": 7.18,
+      "votes": 10774,
+      "distribution": {
+        "1": 411,
+        "2": 153,
+        "3": 258,
+        "4": 308,
+        "5": 577,
+        "6": 1273,
+        "7": 2428,
+        "8": 2563,
+        "9": 1382,
+        "10": 1421
+      },
+      "normalized": 5.9447
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "07.10.2024",
+      "normalized": 6.3474
+    },
+    "score": 5.7727
+  },
+  "polish_title": "Bułgarski pościkk",
+  "silent": false,
+  "description_pl": "Dwóch agentów bułgarskiego wywiadu przybywa do Warszawy z tajną misją. Mają za zadanie odzyskać mikrofilm zawierający materiały kompromitujące bułgarski wywiad. Muszą stawić czoła bliźniakowi syjamskiemu ambasadora, który jest zdrajcą. Niebezpieczeństwo czai się na każdym kroku.",
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-16"
+}

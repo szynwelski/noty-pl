@@ -1,0 +1,91 @@
+{
+  "imdb_id": "tt5459794",
+  "title": "Buffalo Running",
+  "description": "Individual photographs of the running of a buffalo shot in rapid succession.",
+  "runtime_minutes": 1,
+  "release_date": "19.11.1883",
+  "genres": [
+    "Documentary",
+    "Short"
+  ],
+  "directors": [
+    {
+      "id": "nm1155956",
+      "name": "Eadweard Muybridge"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "year": 1883,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZGFlYTIwMDYtYzE2Yy00MTVlLWJlMGEtNGIxNmRmZmVhYWUxXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 767384,
+  "ratings": {
+    "imdb": {
+      "rating": 6.2,
+      "votes": 1391,
+      "distribution": {
+        "1": 53,
+        "2": 45,
+        "3": 29,
+        "4": 78,
+        "5": 215,
+        "6": 418,
+        "7": 256,
+        "8": 133,
+        "9": 31,
+        "10": 133
+      },
+      "normalized": 4.4088
+    },
+    "filmweb": {
+      "rating": 5.07,
+      "votes": 122,
+      "distribution": {
+        "1": 18,
+        "2": 4,
+        "3": 8,
+        "4": 9,
+        "5": 26,
+        "6": 23,
+        "7": 15,
+        "8": 14,
+        "9": 2,
+        "10": 3
+      },
+      "normalized": 4.2293
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "11.12.2016",
+      "normalized": 7.1247
+    },
+    "score": 5.2543
+  },
+  "polish_title": "Buffalo Running",
+  "silent": true,
+  "producers": [
+    {
+      "id": "nm1155956",
+      "name": "Eadweard Muybridge"
+    },
+    {
+      "id": "nm18484839",
+      "name": "William Pepper"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm1155956",
+      "name": "Eadweard Muybridge"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

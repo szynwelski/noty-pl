@@ -1,0 +1,41 @@
+{
+  "id": "nm0001120",
+  "name": "Vittorio De Sica",
+  "filmography": [
+    {
+      "imdb_id": "tt0040522",
+      "title": "Bicycle Thieves",
+      "year": 1948,
+      "roles": [
+        "director",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0045274",
+      "title": "Umberto D.",
+      "year": 1952,
+      "roles": [
+        "director",
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzcxOTgxMTY3NV5BMl5BanBnXkFtZTgwODE5OTk3MTE@._V1_.jpg",
+  "birth_date": "07.07.1901",
+  "death_date": "13.11.1974",
+  "birth_location": "Sora, Lazio, Italy",
+  "height": "1.76 m",
+  "imdb_scraped": true,
+  "filmweb_id": 44592,
+  "name_pl": "Vittorio De Sica",
+  "birth_location_pl": "Sora",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Włochy",
+    "Francja",
+    "Zjednoczone Królestwo Włoch"
+  ],
+  "wikidata_fw_id": 44592
+}

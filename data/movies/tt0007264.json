@@ -1,0 +1,178 @@
+{
+  "imdb_id": "tt0007264",
+  "title": "The Rink",
+  "description": "After causing restaurant chaos at work, a bumbling waiter tears up the local roller rink with his skating.",
+  "runtime_minutes": 30,
+  "release_date": "04.12.1916",
+  "genres": [
+    "Comedy",
+    "Short"
+  ],
+  "stars": [
+    {
+      "id": "nm0000122",
+      "name": "Charles Chaplin"
+    },
+    {
+      "id": "nm0701012",
+      "name": "Edna Purviance"
+    },
+    {
+      "id": "nm0445920",
+      "name": "James T. Kelley"
+    },
+    {
+      "id": "nm0132444",
+      "name": "Eric Campbell"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000122",
+      "name": "Charles Chaplin"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0117018",
+      "name": "Vincent Bryan"
+    },
+    {
+      "id": "nm0000122",
+      "name": "Charles Chaplin"
+    },
+    {
+      "id": "nm1176713",
+      "name": "Maverick Terrell"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000122",
+      "name": "Charles Chaplin",
+      "character": "A Waiter - Posing as Sir Cecil Seltzer"
+    },
+    {
+      "id": "nm0701012",
+      "name": "Edna Purviance",
+      "character": "The Girl"
+    },
+    {
+      "id": "nm0445920",
+      "name": "James T. Kelley",
+      "character": "Her Father"
+    },
+    {
+      "id": "nm0132444",
+      "name": "Eric Campbell",
+      "character": "Mr. Stout"
+    },
+    {
+      "id": "nm0074788",
+      "name": "Henry Bergman",
+      "character": "Mrs. Stout"
+    },
+    {
+      "id": "nm0042317",
+      "name": "Albert Austin",
+      "character": "Cook"
+    },
+    {
+      "id": "nm0591103",
+      "name": "Charlotte Mineau",
+      "character": "Edna's Friend"
+    },
+    {
+      "id": "nm0045800",
+      "name": "Lloyd Bacon",
+      "character": "Guest"
+    },
+    {
+      "id": "nm0116974",
+      "name": "Leota Bryan",
+      "character": "Barmaid"
+    },
+    {
+      "id": "nm0171035",
+      "name": "Frank J. Coleman",
+      "character": "Restaurant Manager"
+    },
+    {
+      "id": "nm0709466",
+      "name": "John Rand",
+      "character": "Waiter"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 120656,
+  "year": 1916,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZGNhZGU1ZmItYmNmMi00NTA4LWExZDQtOWQ5NjEyMWI4NDUxXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7,
+      "votes": 4696,
+      "distribution": {
+        "1": 53,
+        "2": 21,
+        "3": 48,
+        "4": 90,
+        "5": 330,
+        "6": 816,
+        "7": 1686,
+        "8": 982,
+        "9": 305,
+        "10": 365
+      },
+      "normalized": 5.4984
+    },
+    "filmweb": {
+      "rating": 6.57,
+      "votes": 374,
+      "distribution": {
+        "2": 1,
+        "3": 7,
+        "4": 17,
+        "5": 50,
+        "6": 104,
+        "7": 111,
+        "8": 55,
+        "9": 15,
+        "10": 14
+      },
+      "normalized": 4.8195
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "30.06.2007",
+      "normalized": 5.4199
+    },
+    "score": 5.2459
+  },
+  "polish_title": "Charlie na ślizgawce",
+  "silent": true,
+  "description_pl": "Sir Cecil Seltzer (Charlie Chaplin) - kelner w restauracji wpada w kłopoty. Wrabia w nie swego kolegę z pracy i to jego kolega zostaje zwolniony. Więc kelner idzie do klubu wrotkarzy. Tam spotyka piękną dziewczynę (Edna Purviance) która jest podrywana przez pana Stouta (Eric Campbell). Sir Cecil podrywa dziewczynę i ucieka z klubu. Ta zaś w podziękowaniu zaprasza go na wrotkową imprezę.",
+  "producers": [
+    {
+      "id": "nm1291522",
+      "name": "Henry P. Caulfield"
+    },
+    {
+      "id": "nm0000122",
+      "name": "Charles Chaplin"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm1394418",
+      "name": "Michael Mortilla"
+    }
+  ],
+  "fetched_at": "2026-08-15"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "nm0132257",
+  "name": "Bruce Campbell",
+  "filmography": [
+    {
+      "imdb_id": "tt0145487",
+      "title": "Spider-Man",
+      "year": 2002,
+      "roles": [
+        "cast"
+      ],
+      "character": "Ring Announcer"
+    },
+    {
+      "imdb_id": "tt0316654",
+      "title": "Spider-Man 2",
+      "year": 2004,
+      "roles": [
+        "cast"
+      ],
+      "character": "Snooty Usher"
+    },
+    {
+      "imdb_id": "tt0413300",
+      "title": "Spider-Man 3",
+      "year": 2007,
+      "roles": [
+        "cast"
+      ],
+      "character": "Maître d'"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOTY2MTg0OTEzOV5BMl5BanBnXkFtZTgwNzQ3NTcwMjE@._V1_.jpg",
+  "birth_date": "22.06.1958",
+  "birth_location": "Birmingham, Michigan, USA",
+  "height": "1.84 m",
+  "filmweb_id": 42210,
+  "name_pl": "Bruce Campbell",
+  "birth_location_pl": "Birmingham, Michigan",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 42210
+}

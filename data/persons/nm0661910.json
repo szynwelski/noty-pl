@@ -1,0 +1,46 @@
+{
+  "id": "nm0661910",
+  "name": "Nick Park",
+  "filmography": [
+    {
+      "imdb_id": "tt0108598",
+      "title": "Wallace & Gromit: The Wrong Trousers",
+      "year": 1993,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0120630",
+      "title": "Chicken Run",
+      "year": 2000,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt6193408",
+      "title": "A Shaun the Sheep Movie: Farmageddon",
+      "year": 2019,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTMxMjg0NTg0NV5BMl5BanBnXkFtZTcwNzM2MTMyMw@@._V1_.jpg",
+  "birth_date": "06.12.1958",
+  "birth_location": "Preston, Lancashire, England, UK",
+  "height": "1.68 m",
+  "filmweb_id": 11479,
+  "name_pl": "Nick Park",
+  "birth_location_pl": "Preston, Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ]
+}

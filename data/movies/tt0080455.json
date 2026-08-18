@@ -1,0 +1,232 @@
+{
+  "imdb_id": "tt0080455",
+  "title": "The Blues Brothers",
+  "description": "Jake Blues rejoins his brother Elwood after being released from prison, but the duo has just days to reunite their old R&B band and save the Catholic home where the two were raised, outrunning the police as they tear through Chicago.",
+  "runtime_minutes": 133,
+  "release_date": "20.06.1980",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Crime",
+    "Music",
+    "Musical"
+  ],
+  "stars": [
+    {
+      "id": "nm0000004",
+      "name": "John Belushi"
+    },
+    {
+      "id": "nm0000101",
+      "name": "Dan Aykroyd"
+    },
+    {
+      "id": "nm0130572",
+      "name": "Cab Calloway"
+    },
+    {
+      "id": "nm0001006",
+      "name": "John Candy"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000484",
+      "name": "John Landis"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000101",
+      "name": "Dan Aykroyd"
+    },
+    {
+      "id": "nm0000484",
+      "name": "John Landis"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000004",
+      "name": "John Belushi",
+      "character": "Joliet Jake"
+    },
+    {
+      "id": "nm0000101",
+      "name": "Dan Aykroyd",
+      "character": "Elwood"
+    },
+    {
+      "id": "nm0130572",
+      "name": "Cab Calloway",
+      "character": "Curtis"
+    },
+    {
+      "id": "nm0258931",
+      "name": "Tom Erhart",
+      "character": "Prison Guard"
+    },
+    {
+      "id": "nm0909212",
+      "name": "Gerald Walling",
+      "character": "Prison Guard"
+    },
+    {
+      "id": "nm0505979",
+      "name": "Walter Levine",
+      "character": "Prison Guard"
+    },
+    {
+      "id": "nm0000568",
+      "name": "Frank Oz",
+      "character": "Corrections Officer"
+    },
+    {
+      "id": "nm0293466",
+      "name": "Kathleen Freeman",
+      "character": "Sister Mary Stigmata"
+    },
+    {
+      "id": "nm0040551",
+      "name": "Alonzo Atkins",
+      "character": "Choirmaster"
+    },
+    {
+      "id": "nm0113768",
+      "name": "James Brown",
+      "character": "Reverend Cleophus James"
+    },
+    {
+      "id": "nm0451193",
+      "name": "Chaka Khan",
+      "character": "Choir Soloist"
+    },
+    {
+      "id": "nm10645338",
+      "name": "Southern California Community Choir",
+      "character": "Choir"
+    },
+    {
+      "id": "nm0148431",
+      "name": "Armand Cerami",
+      "character": "Trooper Daniel"
+    },
+    {
+      "id": "nm0931736",
+      "name": "Steven Williams",
+      "character": "Trooper Mount"
+    },
+    {
+      "id": "nm0084196",
+      "name": "Stephen Bishop",
+      "character": "Charming Trooper"
+    },
+    {
+      "id": "nm0000484",
+      "name": "John Landis",
+      "character": "Trooper La Fong"
+    },
+    {
+      "id": "nm0646334",
+      "name": "Kristi Oleson",
+      "character": "Sales Girl"
+    },
+    {
+      "id": "nm0572255",
+      "name": "Gary McLarty",
+      "character": "Man in Toy Store"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": null,
+  "filmweb_id": 1225,
+  "year": 1980,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzI2ZDAyNjYtNzgwOS00MTRlLWE3MjUtMTI3M2VmYzQ1ZWJmXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.9,
+      "votes": 231114,
+      "distribution": {
+        "1": 1843,
+        "2": 1063,
+        "3": 1774,
+        "4": 3263,
+        "5": 7441,
+        "6": 17860,
+        "7": 41547,
+        "8": 67581,
+        "9": 41505,
+        "10": 47237
+      },
+      "normalized": 7.2548
+    },
+    "filmweb": {
+      "rating": 7.6,
+      "votes": 106968,
+      "distribution": {
+        "1": 579,
+        "2": 401,
+        "3": 1093,
+        "4": 1814,
+        "5": 4489,
+        "6": 11155,
+        "7": 26378,
+        "8": 33403,
+        "9": 16928,
+        "10": 10728
+      },
+      "normalized": 7.0287
+    },
+    "jarek": {
+      "rating": 3,
+      "date_rated": "02.12.2005",
+      "normalized": 4.2591
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "15.09.2009",
+      "normalized": 7.2292
+    },
+    "score": 6.4429
+  },
+  "polish_title": "Blues Brothers",
+  "silent": false,
+  "description_pl": "Jake Blues (<a href=\"/osoba/?id=nm0000004\">John Belushi</a>) wychodzi z więzienia i wraz z bratem Elwoodem (<a href=\"/osoba/?id=nm0000101\">Dan Aykroyd</a>) otrzymują misję od Boga - mają uratować sierociniec, w którym się wychowali. Żeby zarobić pieniądze, decydują się reaktywować swój stary zespół i dać koncert. Niestety coś, co łatwo brzmi, jest niełatwe do wykonania, zwłaszcza gdy ma się na karku byłą narzeczoną, nazistów z Illinois, policję czy muzyków country.",
+  "producers": [
+    {
+      "id": "nm0109401",
+      "name": "Bernie Brillstein"
+    },
+    {
+      "id": "nm0284390",
+      "name": "George Folsey Jr."
+    },
+    {
+      "id": "nm0815340",
+      "name": "David Sosna"
+    },
+    {
+      "id": "nm0919154",
+      "name": "Robert K. Weiss"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006068",
+      "name": "Louis Febre"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0441863",
+      "name": "Stephen M. Katz"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

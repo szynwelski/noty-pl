@@ -1,0 +1,44 @@
+{
+  "id": "nm0606658",
+  "name": "John Morris",
+  "filmography": [
+    {
+      "imdb_id": "tt0114709",
+      "title": "Toy Story",
+      "year": 1995,
+      "roles": [
+        "cast"
+      ],
+      "character": "Andy"
+    },
+    {
+      "imdb_id": "tt0120363",
+      "title": "Toy Story 2",
+      "year": 1999,
+      "roles": [
+        "cast"
+      ],
+      "character": "Andy"
+    },
+    {
+      "imdb_id": "tt0435761",
+      "title": "Toy Story 3",
+      "year": 2010,
+      "roles": [
+        "cast"
+      ],
+      "character": "Andy"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BY2IxOTI2ODItNWZhMS00MzZhLWFhMzEtNmM2OGQxZWRlYzBmXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "02.10.1984",
+  "height": "1.60 m",
+  "filmweb_id": 288012,
+  "name_pl": "John Morris",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

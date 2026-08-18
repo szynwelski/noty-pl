@@ -1,0 +1,40 @@
+{
+  "id": "nm0313438",
+  "name": "Gladys George",
+  "filmography": [
+    {
+      "imdb_id": "tt0033870",
+      "title": "The Maltese Falcon",
+      "year": 1941,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Iva Archer"
+    },
+    {
+      "imdb_id": "tt0036868",
+      "title": "The Best Years of Our Lives",
+      "year": 1946,
+      "roles": [
+        "cast"
+      ],
+      "character": "Hortense Derry"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjE0MjkwNDk0OV5BMl5BanBnXkFtZTgwODU4NDE2MDE@._V1_.jpg",
+  "birth_date": "13.09.1900",
+  "death_date": "08.12.1954",
+  "birth_location": "Patten, Maine, USA",
+  "height": "1.60 m",
+  "imdb_scraped": true,
+  "filmweb_id": 40980,
+  "name_pl": "Gladys George",
+  "birth_location_pl": "Patten, Maine",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 40980
+}

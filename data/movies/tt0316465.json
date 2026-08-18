@@ -1,0 +1,233 @@
+{
+  "imdb_id": "tt0316465",
+  "title": "Radio",
+  "description": "The story of a high school coach and the developmentally challenged man who he took under his wing.",
+  "runtime_minutes": 109,
+  "release_date": "24.10.2003",
+  "genres": [
+    "Biography",
+    "Drama",
+    "Sport"
+  ],
+  "stars": [
+    {
+      "id": "nm0000421",
+      "name": "Cuba Gooding Jr."
+    },
+    {
+      "id": "nm0000438",
+      "name": "Ed Harris"
+    },
+    {
+      "id": "nm0000700",
+      "name": "Debra Winger"
+    },
+    {
+      "id": "nm0580924",
+      "name": "S. Epatha Merkerson"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0866132",
+      "name": "Michael Tollin"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0723692",
+      "name": "Mike Rich"
+    },
+    {
+      "id": "nm8460644",
+      "name": "Gary Smith"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000421",
+      "name": "Cuba Gooding Jr.",
+      "character": "Radio"
+    },
+    {
+      "id": "nm0000438",
+      "name": "Ed Harris",
+      "character": "Coach Jones"
+    },
+    {
+      "id": "nm0000700",
+      "name": "Debra Winger",
+      "character": "Linda"
+    },
+    {
+      "id": "nm0005569",
+      "name": "Alfre Woodard",
+      "character": "Principal Daniels"
+    },
+    {
+      "id": "nm0580924",
+      "name": "S. Epatha Merkerson",
+      "character": "Maggie"
+    },
+    {
+      "id": "nm0786641",
+      "name": "Brent Sexton",
+      "character": "Honeycutt"
+    },
+    {
+      "id": "nm0611889",
+      "name": "Chris Mulkey",
+      "character": "Frank"
+    },
+    {
+      "id": "nm0237711",
+      "name": "Sarah Drew",
+      "character": "Mary Helen"
+    },
+    {
+      "id": "nm0809720",
+      "name": "Riley Smith",
+      "character": "Johnny"
+    },
+    {
+      "id": "nm0106755",
+      "name": "Patrick Breen",
+      "character": "Tucker"
+    },
+    {
+      "id": "nm0730570",
+      "name": "Bill Roberson",
+      "character": "Del"
+    },
+    {
+      "id": "nm1472079",
+      "name": "Kenneth H. Callender",
+      "character": "Don"
+    },
+    {
+      "id": "nm0362268",
+      "name": "Michael Harding",
+      "character": "Irv the Cop"
+    },
+    {
+      "id": "nm1476496",
+      "name": "Charles Garren",
+      "character": "Clive"
+    },
+    {
+      "id": "nm0465572",
+      "name": "Rebecca Koon",
+      "character": "Waitress"
+    },
+    {
+      "id": "nm1474947",
+      "name": "Hi Bedford Roberson",
+      "character": "School Receptionist"
+    },
+    {
+      "id": "nm1476643",
+      "name": "Michael Kroeker",
+      "character": "Young Cop"
+    },
+    {
+      "id": "nm1029259",
+      "name": "Mark Robert Ellis",
+      "character": "Football Referee"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 38573,
+  "year": 2003,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzEyOTBiNWQtODQ0OS00MmZiLWJmNTEtMGIyMTNlZTcxOThkXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.9,
+      "votes": 49349,
+      "distribution": {
+        "1": 644,
+        "2": 418,
+        "3": 718,
+        "4": 1443,
+        "5": 3338,
+        "6": 8048,
+        "7": 15136,
+        "8": 9881,
+        "9": 4118,
+        "10": 5605
+      },
+      "normalized": 5.3972
+    },
+    "filmweb": {
+      "rating": 7.74,
+      "votes": 35089,
+      "distribution": {
+        "1": 97,
+        "2": 73,
+        "3": 186,
+        "4": 372,
+        "5": 1006,
+        "6": 2855,
+        "7": 8506,
+        "8": 13099,
+        "9": 6151,
+        "10": 2744
+      },
+      "normalized": 7.4451
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "07.11.2019",
+      "normalized": 4.5781
+    },
+    "score": 5.8068
+  },
+  "polish_title": "Radio",
+  "silent": false,
+  "description_pl": "Czarnoskóry James Robert Keneddy jest powolniejszy od innych, nieśmiały i zagubiony.\r\nPewnego dnia na upośledzonego chłopca uwagę zwraca trener szkolnej drużyny. Zaprasza go na treningi obiecując znaleźć jakieś zajęcie. Pozyskuje też jego zaufanie i stopniowo wciąga w życie drużyny.",
+  "producers": [
+    {
+      "id": "nm0301382",
+      "name": "Herbert W. Gains"
+    },
+    {
+      "id": "nm0307776",
+      "name": "Todd Garner"
+    },
+    {
+      "id": "nm0005367",
+      "name": "Brian Robbins"
+    },
+    {
+      "id": "nm0768956",
+      "name": "Caitlin Scanlon"
+    },
+    {
+      "id": "nm0866132",
+      "name": "Michael Tollin"
+    },
+    {
+      "id": "nm0877905",
+      "name": "Tierre Turner"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0000035",
+      "name": "James Horner"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0121281",
+      "name": "Don Burgess"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "nm0252345",
+  "name": "Bengt Ekerot",
+  "filmography": [
+    {
+      "imdb_id": "tt0050976",
+      "title": "The Seventh Seal",
+      "year": 1957,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Death"
+    },
+    {
+      "imdb_id": "tt0051365",
+      "title": "The Magician",
+      "year": 1958,
+      "roles": [
+        "cast"
+      ],
+      "character": "Johan Spegel"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTczOTY5MTU3MF5BMl5BanBnXkFtZTYwNzE0OTM2._V1_.jpg",
+  "birth_date": "08.02.1920",
+  "death_date": "26.11.1971",
+  "birth_location": "Stockholm, Stockholms län, Sweden",
+  "imdb_scraped": true,
+  "filmweb_id": 31475,
+  "name_pl": "Bengt Ekerot",
+  "birth_location_pl": "Sztokholm",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Szwecja"
+  ],
+  "wikidata_fw_id": 31475
+}

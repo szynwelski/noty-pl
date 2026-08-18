@@ -1,0 +1,248 @@
+{
+  "imdb_id": "tt0038890",
+  "title": "Rome, Open City",
+  "description": "During the Nazi occupation of Rome in 1944, the Resistance leader, Giorgio Manfredi, is chased by the Nazis as he seeks refuge and a way to escape.",
+  "runtime_minutes": 103,
+  "release_date": "08.10.1945",
+  "genres": [
+    "Drama",
+    "Thriller",
+    "War"
+  ],
+  "stars": [
+    {
+      "id": "nm0536167",
+      "name": "Anna Magnani"
+    },
+    {
+      "id": "nm0264762",
+      "name": "Aldo Fabrizi"
+    },
+    {
+      "id": "nm0656496",
+      "name": "Marcello Pagliero"
+    },
+    {
+      "id": "nm0030383",
+      "name": "Vito Annichiarico"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0744023",
+      "name": "Roberto Rossellini"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0024847",
+      "name": "Sergio Amidei"
+    },
+    {
+      "id": "nm0000019",
+      "name": "Federico Fellini"
+    },
+    {
+      "id": "nm0744023",
+      "name": "Roberto Rossellini"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0536167",
+      "name": "Anna Magnani",
+      "character": "Pina"
+    },
+    {
+      "id": "nm0264762",
+      "name": "Aldo Fabrizi",
+      "character": "Don Pietro Pellegrini"
+    },
+    {
+      "id": "nm0656496",
+      "name": "Marcello Pagliero",
+      "character": "Luigi Ferraris alias Ing. Giorgio Manfredi"
+    },
+    {
+      "id": "nm0030383",
+      "name": "Vito Annichiarico",
+      "character": "Il piccolo Marcello"
+    },
+    {
+      "id": "nm0116515",
+      "name": "Nando Bruno",
+      "character": "Agostino - il sagrestano"
+    },
+    {
+      "id": "nm0270767",
+      "name": "Harry Feist",
+      "character": "Il maggiore Fritz Bergmann"
+    },
+    {
+      "id": "nm0585170",
+      "name": "Maria Michi",
+      "character": "Marina Mari"
+    },
+    {
+      "id": "nm0334892",
+      "name": "Francesco Grandjacquet",
+      "character": "Francesco"
+    },
+    {
+      "id": "nm0664821",
+      "name": "Eduardo Passarelli",
+      "character": "Il brigadiere metropolitano"
+    },
+    {
+      "id": "nm0302815",
+      "name": "Giovanna Galletti",
+      "character": "Ingrid"
+    },
+    {
+      "id": "nm0746285",
+      "name": "Carla Rovere",
+      "character": "Lauretta - sorella di Pina"
+    },
+    {
+      "id": "nm0801801",
+      "name": "Carlo Sindici",
+      "character": "Il questore"
+    },
+    {
+      "id": "nm0401555",
+      "name": "Joop van Hulzen",
+      "character": "Il capitano Hartmann"
+    },
+    {
+      "id": "nm0866183",
+      "name": "Ákos Tolnay",
+      "character": "Il disertore austriaco"
+    },
+    {
+      "id": "nm5353619",
+      "name": "Caterina Di Furia",
+      "character": "Un donna nella strada"
+    },
+    {
+      "id": "nm1380118",
+      "name": "Laura Clara Giudice",
+      "character": "Un ragazza"
+    },
+    {
+      "id": "nm0659284",
+      "name": "Turi Pandolfini",
+      "character": "Il nonno"
+    },
+    {
+      "id": "nm0670971",
+      "name": "Amalia Pellegrini",
+      "character": "Nannina - la padrona di casa"
+    }
+  ],
+  "countries": [
+    "Italy"
+  ],
+  "languages": [
+    "Italian",
+    "German",
+    "Latin"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 32547,
+  "year": 1945,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZWU1NzJlYjAtZWJlMi00NzdkLWJmMjktYTY2M2E0NGQyNjEwXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Roma città aperta",
+  "ratings": {
+    "imdb": {
+      "rating": 8,
+      "votes": 34332,
+      "distribution": {
+        "1": 318,
+        "2": 163,
+        "3": 168,
+        "4": 294,
+        "5": 811,
+        "6": 2194,
+        "7": 5692,
+        "8": 10737,
+        "9": 6606,
+        "10": 7349
+      },
+      "normalized": 7.3592
+    },
+    "filmweb": {
+      "rating": 7.45,
+      "votes": 4387,
+      "distribution": {
+        "1": 7,
+        "2": 4,
+        "3": 26,
+        "4": 64,
+        "5": 174,
+        "6": 491,
+        "7": 1378,
+        "8": 1518,
+        "9": 513,
+        "10": 212
+      },
+      "normalized": 6.4557
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "23.10.2005",
+      "normalized": 6.3474
+    },
+    "score": 6.7208
+  },
+  "polish_title": "Rzym, miasto otwarte",
+  "silent": false,
+  "description_pl": "Pierwsze klasyczne dzieło neorealizmu włoskiego jest zarazem pierwszą częścią trylogii o wojnie Rosseliniego. Dzieło to z początku przygotowywane jako dwa oddzielne filmy dokumentalne powstało na zgliszczach Rzymu. Przedstawia on historie inżyniera Manfreddiego, działacza komunistycznego, wzorowanego na autentycznej postaci Celeste Negarvilla.",
+  "producers": [
+    {
+      "id": "nm0024155",
+      "name": "Giuseppe Amato"
+    },
+    {
+      "id": "nm0210142",
+      "name": "Ferruccio De Martino"
+    },
+    {
+      "id": "nm0311931",
+      "name": "Rod E. Geiger"
+    },
+    {
+      "id": "nm1639585",
+      "name": "Angelo Mosco"
+    },
+    {
+      "id": "nm1233635",
+      "name": "Nicola Naracci"
+    },
+    {
+      "id": "nm14084371",
+      "name": "Chiara Politi"
+    },
+    {
+      "id": "nm0744023",
+      "name": "Roberto Rossellini"
+    },
+    {
+      "id": "nm14084372",
+      "name": "Aldo Venturini"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0744021",
+      "name": "Renzo Rossellini"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0033169",
+      "name": "Ubaldo Arata"
+    }
+  ],
+  "fetched_at": "2026-08-15"
+}

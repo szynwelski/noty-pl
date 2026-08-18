@@ -1,0 +1,226 @@
+{
+  "imdb_id": "tt0046250",
+  "title": "Roman Holiday",
+  "description": "A bored and sheltered princess escapes her guardians and falls in love with an American newsman in Rome.",
+  "runtime_minutes": 118,
+  "release_date": "02.09.1953",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0000060",
+      "name": "Gregory Peck"
+    },
+    {
+      "id": "nm0000030",
+      "name": "Audrey Hepburn"
+    },
+    {
+      "id": "nm0000734",
+      "name": "Eddie Albert"
+    },
+    {
+      "id": "nm0694403",
+      "name": "Hartley Power"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0943758",
+      "name": "William Wyler"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0874308",
+      "name": "Dalton Trumbo"
+    },
+    {
+      "id": "nm0402848",
+      "name": "Ian McLellan Hunter"
+    },
+    {
+      "id": "nm0226538",
+      "name": "John Dighton"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000060",
+      "name": "Gregory Peck",
+      "character": "Joe Bradley"
+    },
+    {
+      "id": "nm0000030",
+      "name": "Audrey Hepburn",
+      "character": "Princess Ann"
+    },
+    {
+      "id": "nm0000734",
+      "name": "Eddie Albert",
+      "character": "Irving Radovich"
+    },
+    {
+      "id": "nm0694403",
+      "name": "Hartley Power",
+      "character": "Mr. Hennessy"
+    },
+    {
+      "id": "nm0930732",
+      "name": "Harcourt Williams",
+      "character": "Ambassador"
+    },
+    {
+      "id": "nm0712615",
+      "name": "Margaret Rawlings",
+      "character": "Countess Vereberg"
+    },
+    {
+      "id": "nm0138479",
+      "name": "Tullio Carminati",
+      "character": "General Provno"
+    },
+    {
+      "id": "nm0137567",
+      "name": "Paolo Carlini",
+      "character": "Mario Delani"
+    },
+    {
+      "id": "nm0259599",
+      "name": "Claudio Ermelli",
+      "character": "Giovanni"
+    },
+    {
+      "id": "nm0095979",
+      "name": "Paola Borboni",
+      "character": "Charwoman"
+    },
+    {
+      "id": "nm0729866",
+      "name": "Alfredo Rizzo",
+      "character": "Taxicab Driver"
+    },
+    {
+      "id": "nm0812726",
+      "name": "Laura Solari",
+      "character": "Hennessy's Secretary"
+    },
+    {
+      "id": "nm0330926",
+      "name": "Gorella Gori",
+      "character": "Shoe Seller"
+    },
+    {
+      "id": "nm0024363",
+      "name": "Armando Ambrogi",
+      "character": "Man on Phone"
+    },
+    {
+      "id": "nm0030433",
+      "name": "Armando Annuale",
+      "character": "Admiral Dancing with Princess"
+    },
+    {
+      "id": "nm0034257",
+      "name": "Maurizio Arena",
+      "character": "Young Boy with Car"
+    },
+    {
+      "id": "nm0046785",
+      "name": "Silvio Bagolini",
+      "character": "Undetermined Role"
+    },
+    {
+      "id": "nm0049331",
+      "name": "Nadia Balabine",
+      "character": "Woman of Importance Watching the Military Parade"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Italian",
+    "German"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 9308,
+  "year": 1953,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMGE5MTA2NDUtYTQ3Yi00YzM4LWJlODItNDE1ZTRjYjY0M2E5XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8,
+      "votes": 158429,
+      "distribution": {
+        "1": 2047,
+        "2": 470,
+        "3": 658,
+        "4": 1163,
+        "5": 3167,
+        "6": 9003,
+        "7": 28325,
+        "8": 51710,
+        "9": 32672,
+        "10": 29214
+      },
+      "normalized": 7.4508
+    },
+    "filmweb": {
+      "rating": 7.84,
+      "votes": 66146,
+      "distribution": {
+        "1": 178,
+        "2": 94,
+        "3": 243,
+        "4": 425,
+        "5": 1349,
+        "6": 4588,
+        "7": 15818,
+        "8": 25985,
+        "9": 11734,
+        "10": 5732
+      },
+      "normalized": 7.8634
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "13.02.2013",
+      "normalized": 7.1247
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "28.12.2006",
+      "normalized": 6.3474
+    },
+    "score": 7.1966
+  },
+  "polish_title": "Rzymskie wakacje",
+  "silent": false,
+  "description_pl": "Księżniczka Anna (<a href=\"/osoba/?id=nm0000030\">Audrey Hepburn</a>) podróżuje po Europie. Od zawsze towarzyszy jej sztab doradców, guwernantek i lokajów. W Rzymie znużona życiem według sztywnych reguł, Anna ucieka służbie, by zasmakować normalności. Spotyka dziennikarza, Joe Bradleya (<a href=\"/osoba/?id=nm0000060\">Gregory Peck</a>), który oferuje jej gościnę w swym skromnym mieszkaniu.",
+  "producers": [
+    {
+      "id": "nm0943753",
+      "name": "Robert Wyler"
+    },
+    {
+      "id": "nm0943758",
+      "name": "William Wyler"
+    },
+    {
+      "id": "nm0462840",
+      "name": "Lester Koenig"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0005952",
+      "name": "Georges Auric"
+    }
+  ],
+  "fetched_at": "2026-08-15"
+}

@@ -1,0 +1,231 @@
+{
+  "imdb_id": "tt0107943",
+  "title": "The Remains of the Day",
+  "description": "A butler sacrifices love for duty in 1930s England.",
+  "runtime_minutes": 134,
+  "release_date": "19.11.1993",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0000164",
+      "name": "Anthony Hopkins"
+    },
+    {
+      "id": "nm0000668",
+      "name": "Emma Thompson"
+    },
+    {
+      "id": "nm0370700",
+      "name": "John Haycraft"
+    },
+    {
+      "id": "nm0001659",
+      "name": "Christopher Reeve"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0412465",
+      "name": "James Ivory"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0410958",
+      "name": "Kazuo Ishiguro"
+    },
+    {
+      "id": "nm0695609",
+      "name": "Ruth Prawer Jhabvala"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000164",
+      "name": "Anthony Hopkins",
+      "character": "Stevens"
+    },
+    {
+      "id": "nm0000668",
+      "name": "Emma Thompson",
+      "character": "Miss Kenton"
+    },
+    {
+      "id": "nm0370700",
+      "name": "John Haycraft",
+      "character": "Auctioneer"
+    },
+    {
+      "id": "nm0001659",
+      "name": "Christopher Reeve",
+      "character": "Lewis"
+    },
+    {
+      "id": "nm0402374",
+      "name": "Caroline Hunt",
+      "character": "Landlady"
+    },
+    {
+      "id": "nm0289038",
+      "name": "James Fox",
+      "character": "Lord Darlington"
+    },
+    {
+      "id": "nm0891092",
+      "name": "Peter Vaughan",
+      "character": "Father"
+    },
+    {
+      "id": "nm0414580",
+      "name": "Paula Jacobs",
+      "character": "Mrs. Mortimer, the Cook"
+    },
+    {
+      "id": "nm0001035",
+      "name": "Ben Chaplin",
+      "character": "Charlie, Head Footman"
+    },
+    {
+      "id": "nm0225089",
+      "name": "Steve Dibben",
+      "character": "George, Second Footman"
+    },
+    {
+      "id": "nm0394095",
+      "name": "Abigail Hopkins",
+      "character": "Housemaid"
+    },
+    {
+      "id": "nm0324009",
+      "name": "Patrick Godfrey",
+      "character": "Spencer"
+    },
+    {
+      "id": "nm0148149",
+      "name": "Peter Cellier",
+      "character": "Sir Leonard Bax"
+    },
+    {
+      "id": "nm0356579",
+      "name": "Peter Halliday",
+      "character": "Canon Tufnell"
+    },
+    {
+      "id": "nm0000424",
+      "name": "Hugh Grant",
+      "character": "Cardinal"
+    },
+    {
+      "id": "nm0063027",
+      "name": "Terence Bayler",
+      "character": "Trimmer"
+    },
+    {
+      "id": "nm0926905",
+      "name": "Jeffry Wickham",
+      "character": "Viscount Bigge"
+    },
+    {
+      "id": "nm0842349",
+      "name": "Hugh Sweetman",
+      "character": "Scullery Boy"
+    }
+  ],
+  "countries": [
+    "United States",
+    "United Kingdom"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German"
+  ],
+  "color": "Color",
+  "filmweb_id": 1234,
+  "year": 1993,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOWY5MTFkMmEtNDE2Zi00NzU4LWE2OWMtZGE4ZWY1NmIzN2I0XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.8,
+      "votes": 93834,
+      "distribution": {
+        "1": 762,
+        "2": 364,
+        "3": 584,
+        "4": 1061,
+        "5": 2791,
+        "6": 7401,
+        "7": 20367,
+        "8": 31459,
+        "9": 16413,
+        "10": 12632
+      },
+      "normalized": 6.9762
+    },
+    "filmweb": {
+      "rating": 7.73,
+      "votes": 38997,
+      "distribution": {
+        "1": 83,
+        "2": 71,
+        "3": 204,
+        "4": 376,
+        "5": 1091,
+        "6": 3052,
+        "7": 9952,
+        "8": 14846,
+        "9": 6442,
+        "10": 2880
+      },
+      "normalized": 7.4131
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "29.09.2014",
+      "normalized": 7.2292
+    },
+    "score": 7.2062
+  },
+  "polish_title": "Okruchy dnia",
+  "silent": false,
+  "description_pl": "Anglia na przełomie lat czterdziestych i pięćdziesiątych. Młody amerykański dyplomata (<a href=\"/osoba/?id=nm0001659\">Christopher Reeve</a>) kupuje okazałą posiadłość, którą opiekuje się starszy lokaj (<a href=\"/osoba/?id=nm0000164\">Anthony Hopkins</a>). Służący dopiero teraz, gdy świat jego wartości legł w gruzach, znajduje nieco odwagi, by odnaleźć kobietę (<a href=\"/osoba/?id=nm0000668\">Emma Thompson</a>), która kiedyś pracowała z nim w rezydencji. Po latach przyznaje, że była największą miłością jego życia. We wspomnieniach powraca do wydarzeń sprzed drugiej wojny światowej.",
+  "producers": [
+    {
+      "id": "nm0103364",
+      "name": "Paul Bradley"
+    },
+    {
+      "id": "nm0130492",
+      "name": "John Calley"
+    },
+    {
+      "id": "nm0580337",
+      "name": "Ismail Merchant"
+    },
+    {
+      "id": "nm0001566",
+      "name": "Mike Nichols"
+    },
+    {
+      "id": "nm0742535",
+      "name": "Donald Rosenfeld"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006442",
+      "name": "Richard Robbins"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0682503",
+      "name": "Tony Pierce-Roberts"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

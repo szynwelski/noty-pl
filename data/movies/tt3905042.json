@@ -1,0 +1,116 @@
+{
+  "imdb_id": "tt3905042",
+  "title": "I, Kamikaze",
+  "description": "Hayashi Fujio, a 90-year-old veteran, narrates his memories from World War II, when he volunteered for the very first kamikaze operation planned by the Japanese Imperial Army.",
+  "runtime_minutes": 75,
+  "release_date": "03.06.2015",
+  "genres": [
+    "Documentary",
+    "Biography",
+    "History",
+    "War"
+  ],
+  "stars": [
+    {
+      "id": "nm1631137",
+      "name": "Fujio Hayashi"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm1980385",
+      "name": "Masa Sawada"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1980385",
+      "name": "Masa Sawada"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1631137",
+      "name": "Fujio Hayashi",
+      "character": "Self"
+    }
+  ],
+  "countries": [
+    "France",
+    "Japan"
+  ],
+  "languages": [
+    "Japanese"
+  ],
+  "color": "Color",
+  "year": 2014,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZTlmYzk1MGYtMDJjNC00MGE5LThiYTAtYzExZDI3MzA2MGU3XkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 725080,
+  "ratings": {
+    "imdb": {
+      "rating": 5.6,
+      "votes": 15,
+      "distribution": {
+        "1": 3,
+        "2": 0,
+        "3": 1,
+        "4": 1,
+        "5": 4,
+        "6": 2,
+        "7": 3,
+        "8": 0,
+        "9": 0,
+        "10": 1
+      },
+      "normalized": 5.2574
+    },
+    "filmweb": {
+      "rating": 3.41,
+      "votes": 17,
+      "distribution": {
+        "1": 3,
+        "2": 3,
+        "3": 5,
+        "4": 3,
+        "5": 0,
+        "6": 1,
+        "7": 1,
+        "8": 0,
+        "9": 1,
+        "10": 0
+      },
+      "normalized": 4.7774
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "22.12.2018",
+      "normalized": 5.6855
+    },
+    "score": 5.2401
+  },
+  "polish_title": "Ja, kamikadze",
+  "silent": false,
+  "producers": [
+    {
+      "id": "nm2141437",
+      "name": "Anne Pernod-Sawada"
+    },
+    {
+      "id": "nm1980385",
+      "name": "Masa Sawada"
+    },
+    {
+      "id": "nm0973955",
+      "name": "Elise Voitey"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0221169",
+      "name": "Josée Deshaies"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "nm0001958",
+  "name": "Dirk Bogarde",
+  "filmography": [
+    {
+      "imdb_id": "tt0064118",
+      "title": "The Damned",
+      "year": 1969,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Friedrich Bruckmann"
+    },
+    {
+      "imdb_id": "tt0067445",
+      "title": "Death in Venice",
+      "year": 1971,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Gustav von Aschenbach"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTJjMDA5YjEtZjJkMy00OTM5LTgwZTgtYWU2MDFhNTRjYjdlXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "28.03.1921",
+  "death_date": "08.05.1999",
+  "birth_location": "Hampstead, London, England, UK",
+  "height": "1.74 m",
+  "imdb_scraped": true,
+  "filmweb_id": 31487,
+  "name_pl": "Dirk Bogarde",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 31487
+}

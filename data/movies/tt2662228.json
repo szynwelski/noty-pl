@@ -1,0 +1,140 @@
+{
+  "imdb_id": "tt2662228",
+  "title": "10%: What Makes a Hero?",
+  "description": "Award-winning director Yoav Shamir (Defamation, Checkpoint) sets out on an entertaining and insightful international quest, exploring the notion of heroism through a multi-faceted lens. From ordinary heroes to freedom fighters, primates to humans, behavioral scientists to geneticists, even Ayn Rand to Raelians, Shamir leaves no stone unturned, and along the way unveils the fundamental truths of human nature.",
+  "runtime_minutes": 88,
+  "release_date": "2013",
+  "genres": [
+    "Documentary",
+    "Adventure",
+    "Biography",
+    "News"
+  ],
+  "stars": [
+    {
+      "id": "nm1516376",
+      "name": "Yoav Shamir"
+    },
+    {
+      "id": "nm1674354",
+      "name": "Philip Zimbardo"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm1516376",
+      "name": "Yoav Shamir"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1516376",
+      "name": "Yoav Shamir"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1516376",
+      "name": "Yoav Shamir",
+      "character": "Self"
+    },
+    {
+      "id": "nm1674354",
+      "name": "Philip Zimbardo",
+      "character": "Self"
+    }
+  ],
+  "countries": [
+    "Israel",
+    "United States",
+    "South Africa",
+    "Germany",
+    "Congo"
+  ],
+  "languages": [
+    "English",
+    "Hebrew",
+    "Arabic",
+    "German"
+  ],
+  "color": "Color",
+  "filmweb_id": 693397,
+  "year": 2013,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjI2ODY3NjMxNV5BMl5BanBnXkFtZTgwOTc0OTg5MDE@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.4,
+      "votes": 553,
+      "distribution": {
+        "1": 99,
+        "2": 7,
+        "3": 5,
+        "4": 11,
+        "5": 29,
+        "6": 26,
+        "7": 40,
+        "8": 46,
+        "9": 196,
+        "10": 94
+      },
+      "normalized": 4.2051
+    },
+    "filmweb": {
+      "rating": 7.34,
+      "votes": 126,
+      "distribution": {
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 2,
+        "5": 7,
+        "6": 16,
+        "7": 29,
+        "8": 52,
+        "9": 15,
+        "10": 3
+      },
+      "normalized": 5.4483
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "01.12.2016",
+      "normalized": 4.9718
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "15.10.2013",
+      "normalized": 4.5781
+    },
+    "score": 4.8008
+  },
+  "polish_title": "10%, które czyni bohatera",
+  "silent": false,
+  "description_pl": "Punktem wyjścia są dwa słynne eksperymenty: Milgrama (1961) badający posłuszeństwo wobec autorytetów oraz stanfordzki eksperyment więzienny przeprowadzony przez Zimbardo (1971). Oba pokazały, że bardzo łatwo jest wzbudzić w \"normalnym\" człowieku zachowania psychopatyczne i odsetek podatnych na te zachowania ludzi jest znacznie wyższy niż przypuszczano. Reżyser, zainspirowany wynikami tych doświadczeń stawia inne pytanie: jaki procent społeczeństwa NIE ulegnie \"złu\"? Przez trzy lata odwiedził wiele krajów badając naturę ludzką pod kątem heroizmu i altruizmu. Zbierał relacje biologów, genetyków, psychologów, psychiatrów i innych badaczy natury ludzkiej. Spotykał się z ludźmi, których społeczeństwo uznało za bohaterów, zbierał relacje świadków heroicznych zdarzeń, porównywał obiegowe opinie na temat bohaterów. Dokument, który w inspirujący sposób stawia wyzwanie naszemu rozumieniu bohaterstwa i pokazuje fundamentalne prawdy o ludzkiej naturze",
+  "producers": [
+    {
+      "id": "nm5495947",
+      "name": "Tanya Aizikovich"
+    },
+    {
+      "id": "nm0601619",
+      "name": "Michael Moore"
+    },
+    {
+      "id": "nm5495841",
+      "name": "Karina Rotenstein"
+    },
+    {
+      "id": "nm1516376",
+      "name": "Yoav Shamir"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm1283588",
+      "name": "Ophir Leibovitch"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

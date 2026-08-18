@@ -1,0 +1,41 @@
+{
+  "id": "nm0002070",
+  "name": "Richard Farnsworth",
+  "filmography": [
+    {
+      "imdb_id": "tt0100157",
+      "title": "Misery",
+      "year": 1990,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Buster"
+    },
+    {
+      "imdb_id": "tt0166896",
+      "title": "The Straight Story",
+      "year": 1999,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Alvin"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzYxYjY1NzItMjExYi00NjdlLWFhMTMtNWM3MjMxYWZmYTA5XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "01.09.1920",
+  "death_date": "06.10.2000",
+  "birth_location": "Los Angeles, California, USA",
+  "height": "1.83 m",
+  "imdb_scraped": true,
+  "filmweb_id": 7426,
+  "name_pl": "Richard Farnsworth",
+  "birth_location_pl": "Los Angeles, Kalifornia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 7426
+}

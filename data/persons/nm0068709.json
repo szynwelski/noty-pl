@@ -1,0 +1,47 @@
+{
+  "id": "nm0068709",
+  "name": "Ned Bellamy",
+  "filmography": [
+    {
+      "imdb_id": "tt0109707",
+      "title": "Ed Wood",
+      "year": 1994,
+      "roles": [
+        "cast"
+      ],
+      "character": "Dr. Tom Mason"
+    },
+    {
+      "imdb_id": "tt0120601",
+      "title": "Being John Malkovich",
+      "year": 1999,
+      "roles": [
+        "cast"
+      ],
+      "character": "Derek Mantini"
+    },
+    {
+      "imdb_id": "tt0387564",
+      "title": "Saw",
+      "year": 2004,
+      "roles": [
+        "cast"
+      ],
+      "character": "Jeff"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjAwNzc1NjM0OF5BMl5BanBnXkFtZTcwMTU2NzYzMQ@@._V1_.jpg",
+  "birth_date": "07.05.1957",
+  "birth_location": "Dayton, Ohio, USA",
+  "height": "1.83 m",
+  "filmweb_id": 7171,
+  "name_pl": "Ned Bellamy",
+  "birth_location_pl": "Dayton, Ohio",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 7171
+}

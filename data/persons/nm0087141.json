@@ -1,0 +1,37 @@
+{
+  "id": "nm0087141",
+  "name": "Roland Blanche",
+  "filmography": [
+    {
+      "imdb_id": "tt0083789",
+      "title": "Danton",
+      "year": 1983,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Lacroix"
+    },
+    {
+      "imdb_id": "tt0100263",
+      "title": "La Femme Nikita",
+      "year": 1990,
+      "roles": [
+        "cast"
+      ],
+      "character": "Flic interrogatoire"
+    }
+  ],
+  "birth_date": "31.12.1943",
+  "death_date": "13.09.1999",
+  "birth_location": "Choisy-le-Roi, Val-de-Marne, France",
+  "imdb_scraped": true,
+  "filmweb_id": 8616,
+  "name_pl": "Roland Blanche",
+  "birth_location_pl": "Choisy-le-Roy, Île-de-France",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja"
+  ]
+}

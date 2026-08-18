@@ -1,0 +1,30 @@
+{
+  "id": "nm0000013",
+  "name": "Doris Day",
+  "filmography": [
+    {
+      "imdb_id": "tt0049470",
+      "title": "The Man Who Knew Too Much",
+      "year": 1956,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Josephine Conway McKenna"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTI4NTQ1MTQwMF5BMl5BanBnXkFtZTYwMzc3ODM2._V1_.jpg",
+  "filmweb_id": 45074,
+  "birth_date": "03.04.1922",
+  "death_date": "13.05.2019",
+  "birth_location": "Cincinnati, Ohio, USA",
+  "height": "1.69 m",
+  "imdb_scraped": true,
+  "name_pl": "Doris Day",
+  "birth_location_pl": "Cincinnati, Ohio",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

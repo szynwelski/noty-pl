@@ -1,0 +1,43 @@
+{
+  "id": "nm3046500",
+  "name": "Jimmy Star",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNjJmOGM3ZGQtOWQ0MS00NTU0LTg5NGMtY2EzZDJlNWE5NDU2XkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0232500",
+      "title": "The Fast and the Furious",
+      "year": 2001,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0479884",
+      "title": "Crank",
+      "year": 2006,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt4986098",
+      "title": "The Titan",
+      "year": 2018,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "birth_date": "15.10.1964",
+  "birth_location": "Miami, Florida, USA",
+  "height": "1.83 m",
+  "imdb_scraped": true,
+  "filmweb_id": 919480,
+  "name_pl": "Jimmy Star",
+  "birth_location_pl": "Miami, Floryda",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

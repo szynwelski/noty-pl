@@ -1,0 +1,49 @@
+{
+  "id": "nm1234849",
+  "name": "Zhongjun Wang",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BM2E5MTk5MmYtMDQzYy00OWU5LTg4YTctNTEyYWI5M2E4NTkwXkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0881200",
+      "title": "Assembly",
+      "year": 2007,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0865556",
+      "title": "The Forbidden Kingdom",
+      "year": 2008,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt1878870",
+      "title": "The Edge of Seventeen",
+      "year": 2016,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt8936646",
+      "title": "Extraction",
+      "year": 2020,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "birth_date": "30.11.1960",
+  "birth_location": "Beijing, China",
+  "filmweb_id": 343828,
+  "name_pl": "Zhongjun Wang",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Chińska Republika Ludowa"
+  ]
+}

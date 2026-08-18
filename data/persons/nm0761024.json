@@ -1,0 +1,35 @@
+{
+  "id": "nm0761024",
+  "name": "Otto Sanchez",
+  "filmography": [
+    {
+      "imdb_id": "tt0172156",
+      "title": "Bad Boys II",
+      "year": 2003,
+      "roles": [
+        "cast"
+      ],
+      "character": "Carlos"
+    },
+    {
+      "imdb_id": "tt1340138",
+      "title": "Terminator Genisys",
+      "year": 2015,
+      "roles": [
+        "cast"
+      ],
+      "character": "Detective Timmons"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTc0MDk4NzQ2MV5BMl5BanBnXkFtZTYwMDQyNzIz._V1_.jpg",
+  "birth_location": "Jackson Heights, Queens, New York City, New York, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 183419,
+  "name_pl": "Otto Sanchez",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

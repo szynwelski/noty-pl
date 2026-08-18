@@ -1,0 +1,43 @@
+{
+  "id": "nm0800209",
+  "name": "Joe Simon",
+  "filmography": [
+    {
+      "imdb_id": "tt0458339",
+      "title": "Captain America: The First Avenger",
+      "year": 2011,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt1843866",
+      "title": "Captain America: The Winter Soldier",
+      "year": 2014,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt3498820",
+      "title": "Captain America: Civil War",
+      "year": 2016,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "birth_date": "11.10.1913",
+  "death_date": "14.12.2011",
+  "birth_location": "Rochester, New York, USA",
+  "height": "1.69 m",
+  "filmweb_id": 117433,
+  "name_pl": "Joe Simon",
+  "birth_location_pl": "Rochester, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

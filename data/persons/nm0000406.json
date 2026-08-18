@@ -1,0 +1,63 @@
+{
+  "id": "nm0000406",
+  "name": "John Ford",
+  "filmography": [
+    {
+      "imdb_id": "tt0015016",
+      "title": "The Iron Horse",
+      "year": 1924,
+      "roles": [
+        "director",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0031971",
+      "title": "Stagecoach",
+      "year": 1939,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0032551",
+      "title": "The Grapes of Wrath",
+      "year": 1940,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0049730",
+      "title": "The Searchers",
+      "year": 1956,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0056217",
+      "title": "The Man Who Shot Liberty Valance",
+      "year": 1962,
+      "roles": [
+        "director",
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTI5NDczOTUzMV5BMl5BanBnXkFtZTcwNDE3NDkwNA@@._V1_.jpg",
+  "birth_date": "01.02.1894",
+  "death_date": "31.08.1973",
+  "birth_location": "Cape Elizabeth, Maine, USA",
+  "height": "1.83 m",
+  "filmweb_id": 51335,
+  "name_pl": "John Ford",
+  "birth_location_pl": "Cape Elizabeth, Maine",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 51335
+}

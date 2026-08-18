@@ -1,0 +1,148 @@
+{
+  "imdb_id": "tt1913003",
+  "title": "Breakfast Lunch Dinner",
+  "description": "Helmed by three female directors, this omnibus features three films set in China, Thailand and Singapore. Each story occurs at a specific meal-time, and seeks to interpret the frailties and complexities of love through different East Asian perspectives. All three stories are tethered with the question, \"Will you marry me?\" Mirroring the repasts themselves, Breakfast and Dinner are heavier in tone, while Lunch is light with a sprinkle of humor.",
+  "year": 2010,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTM4NzQwNTkxOF5BMl5BanBnXkFtZTcwOTE3MTExOA@@._V1_.jpg",
+  "runtime_minutes": 87,
+  "release_date": "13.10.2011",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm2953695",
+      "name": "Beatrice Chien"
+    },
+    {
+      "id": "nm4457898",
+      "name": "Wang Pin"
+    },
+    {
+      "id": "nm4437188",
+      "name": "Kamolluk Piyavittayanon"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm4457934",
+      "name": "Kaz Cai"
+    },
+    {
+      "id": "nm2300866",
+      "name": "Anocha Suwichakornpong"
+    },
+    {
+      "id": "nm7388698",
+      "name": "Jing Wang"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm4457934",
+      "name": "Kaz Cai"
+    },
+    {
+      "id": "nm2300866",
+      "name": "Anocha Suwichakornpong"
+    },
+    {
+      "id": "nm7388698",
+      "name": "Jing Wang"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm2953695",
+      "name": "Beatrice Chien",
+      "character": "Mei"
+    },
+    {
+      "id": "nm4457898",
+      "name": "Wang Pin",
+      "character": "Mei"
+    },
+    {
+      "id": "nm4437188",
+      "name": "Kamolluk Piyavittayanon",
+      "character": "Mei"
+    }
+  ],
+  "countries": [
+    "Singapore"
+  ],
+  "languages": [
+    "Cantonese",
+    "Mandarin",
+    "Thai"
+  ],
+  "color": "Color",
+  "filmweb_id": 634976,
+  "ratings": {
+    "imdb": {
+      "rating": 6.6,
+      "votes": 32,
+      "distribution": {
+        "1": 0,
+        "2": 0,
+        "3": 2,
+        "4": 4,
+        "5": 4,
+        "6": 8,
+        "7": 5,
+        "8": 4,
+        "9": 1,
+        "10": 4
+      },
+      "normalized": 5.2868
+    },
+    "filmweb": {
+      "rating": 4.9,
+      "votes": 42,
+      "distribution": {
+        "1": 1,
+        "2": 2,
+        "3": 4,
+        "4": 11,
+        "5": 9,
+        "6": 7,
+        "7": 6,
+        "8": 2,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 4.6741
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "19.02.2013",
+      "normalized": 6.4102
+    },
+    "score": 5.457
+  },
+  "polish_title": "Śniadanie, obiad, kolacja",
+  "silent": false,
+  "description_pl": "Trzy reżyserki przedstawiają trzy filmy, umiejscowione kolejno w Chinach, Tajlandii i Singapurze. Każda historia zdarza się w określonej porze posiłku, a wszystkie są związane z odpowiedzią na pytanie \"Czy wyjdziesz za mnie?\". Bohaterki mają na imię Mei. Chińska Mei je śniadanie ze swoim chłopakiem. Włóczą się i rozmawiają o wspólnej przeszłości i przyszłości. Podczas lunchu tajska nastolatka Mei jest znudzona tak, jak tylko potrafią to robić nastolatki. Akcja kolacji ma miejsce w Singapurze. Starsza, samotna Mei zastanawia się nad swoją przeszłością. Powściągliwe, opanowane i delikatne opowieści są odbiciem złożoności i piękna miłości, z punktu widzenia różnych krajów azjatyckich.",
+  "producers": [
+    {
+      "id": "nm4437163",
+      "name": "Tay Bee Pin"
+    },
+    {
+      "id": "nm4623567",
+      "name": "Yuxin Dai"
+    },
+    {
+      "id": "nm2601511",
+      "name": "Soros Sukhum"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm3662738",
+      "name": "Leslie Low"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

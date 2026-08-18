@@ -1,0 +1,257 @@
+{
+  "imdb_id": "tt0980970",
+  "title": "The Chronicles of Narnia: The Voyage of the Dawn Treader",
+  "description": "Lucy and Edmund Pevensie return to Narnia with their cousin Eustace where they sail with King Caspian to help Narnian lords banished by an evil usurper of the throne.",
+  "runtime_minutes": 113,
+  "release_date": "10.12.2010",
+  "genres": [
+    "Adventure",
+    "Family",
+    "Fantasy"
+  ],
+  "stars": [
+    {
+      "id": "nm1602660",
+      "name": "Ben Barnes"
+    },
+    {
+      "id": "nm1342727",
+      "name": "Skandar Keynes"
+    },
+    {
+      "id": "nm1670137",
+      "name": "Georgie Henley"
+    },
+    {
+      "id": "nm2401020",
+      "name": "Will Poulter"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000776",
+      "name": "Michael Apted"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1321655",
+      "name": "Christopher Markus"
+    },
+    {
+      "id": "nm1321656",
+      "name": "Stephen McFeely"
+    },
+    {
+      "id": "nm0678104",
+      "name": "Michael Petroni"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1602660",
+      "name": "Ben Barnes",
+      "character": "Caspian"
+    },
+    {
+      "id": "nm1342727",
+      "name": "Skandar Keynes",
+      "character": "Edmund Pevensie"
+    },
+    {
+      "id": "nm1670137",
+      "name": "Georgie Henley",
+      "character": "Lucy Pevensie"
+    },
+    {
+      "id": "nm2401020",
+      "name": "Will Poulter",
+      "character": "Eustace Scrubb"
+    },
+    {
+      "id": "nm0842251",
+      "name": "Gary Sweet",
+      "character": "Drinian"
+    },
+    {
+      "id": "nm0635909",
+      "name": "Terry Norris",
+      "character": "Lord Bern"
+    },
+    {
+      "id": "nm0817748",
+      "name": "Bruce Spence",
+      "character": "Lord Rhoop"
+    },
+    {
+      "id": "nm0113125",
+      "name": "Bille Brown",
+      "character": "Coriakin"
+    },
+    {
+      "id": "nm3049546",
+      "name": "Laura Brent",
+      "character": "Liliandil"
+    },
+    {
+      "id": "nm0600461",
+      "name": "Colin Moody",
+      "character": "Auctioneer"
+    },
+    {
+      "id": "nm0842770",
+      "name": "Tilda Swinton",
+      "character": "The White Witch"
+    },
+    {
+      "id": "nm0691600",
+      "name": "Anna Popplewell",
+      "character": "Susan Pevensie"
+    },
+    {
+      "id": "nm0608440",
+      "name": "William Moseley",
+      "character": "Peter Pevensie"
+    },
+    {
+      "id": "nm1432313",
+      "name": "Shane Rangi",
+      "character": "Tavros"
+    },
+    {
+      "id": "nm0029434",
+      "name": "Arthur Angel",
+      "character": "Rhince"
+    },
+    {
+      "id": "nm3778779",
+      "name": "Arabella Morton",
+      "character": "Gael"
+    },
+    {
+      "id": "nm0086800",
+      "name": "Rachel Blakely",
+      "character": "Gael's Mum"
+    },
+    {
+      "id": "nm1192041",
+      "name": "Steven Rooke",
+      "character": "Faun"
+    }
+  ],
+  "countries": [
+    "United States",
+    "United Kingdom",
+    "Canada",
+    "Australia",
+    "Germany"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 427887,
+  "year": 2010,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYjQ2YTdmMmEtZGRiZS00MTlmLThiMGMtYmM4MmRkMjkwZDNhXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.3,
+      "votes": 178873,
+      "distribution": {
+        "1": 2620,
+        "2": 1984,
+        "3": 3977,
+        "4": 9341,
+        "5": 24008,
+        "6": 50162,
+        "7": 44822,
+        "8": 20764,
+        "9": 7894,
+        "10": 13301
+      },
+      "normalized": 4.0954
+    },
+    "filmweb": {
+      "rating": 6.73,
+      "votes": 86001,
+      "distribution": {
+        "1": 381,
+        "2": 435,
+        "3": 1719,
+        "4": 3366,
+        "5": 9398,
+        "6": 19949,
+        "7": 27036,
+        "8": 14673,
+        "9": 4691,
+        "10": 4353
+      },
+      "normalized": 4.9171
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "17.01.2011",
+      "normalized": 6.4102
+    },
+    "score": 5.1409
+  },
+  "polish_title": "Opowieści z Narnii: Podróż Wędrowca do Świtu",
+  "silent": false,
+  "description_pl": "Trzecia z cyklu ekranizacji słynnych książek C.S. Lewisa, zrealizowana w cyfrowej technice 3D.  Widowiskowa opowieść o wyprawie rodzeństwa Pevensie i księcia Kaspiana, którzy na pokładzie statku zwanego \"Wędrowcem do Świtu\" docierają do krainy, z której pochodzi lew Aslan.",
+  "producers": [
+    {
+      "id": "nm0011470",
+      "name": "Andrew Adamson"
+    },
+    {
+      "id": "nm4771033",
+      "name": "Micheal Flaherty"
+    },
+    {
+      "id": "nm0334665",
+      "name": "Cary Granat"
+    },
+    {
+      "id": "nm1007130",
+      "name": "Douglas Gresham"
+    },
+    {
+      "id": "nm0425741",
+      "name": "Mark Johnson"
+    },
+    {
+      "id": "nm0471558",
+      "name": "Cort Kristensen"
+    },
+    {
+      "id": "nm1461981",
+      "name": "Perry Moore"
+    },
+    {
+      "id": "nm2234956",
+      "name": "Haroon Saleem"
+    },
+    {
+      "id": "nm1130695",
+      "name": "Jessie Thiele Schroeder"
+    },
+    {
+      "id": "nm0828130",
+      "name": "Philip Steuer"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0003417",
+      "name": "David Arnold"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005883",
+      "name": "Dante Spinotti"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,125 @@
+{
+  "id": "nm0000458",
+  "name": "William Hurt",
+  "filmography": [
+    {
+      "imdb_id": "tt0114478",
+      "title": "Smoke",
+      "year": 1995,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Paul Benjamin"
+    },
+    {
+      "imdb_id": "tt0118929",
+      "title": "Dark City",
+      "year": 1998,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Inspector Frank Bumstead"
+    },
+    {
+      "imdb_id": "tt0120776",
+      "title": "One True Thing",
+      "year": 1998,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "George Gulden"
+    },
+    {
+      "imdb_id": "tt0212720",
+      "title": "A.I. Artificial Intelligence",
+      "year": 2001,
+      "roles": [
+        "cast"
+      ],
+      "character": "Prof. Hobby"
+    },
+    {
+      "imdb_id": "tt0283084",
+      "title": "Tuck Everlasting",
+      "year": 2002,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Angus Tuck"
+    },
+    {
+      "imdb_id": "tt0399146",
+      "title": "A History of Violence",
+      "year": 2005,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Richie Cusack"
+    },
+    {
+      "imdb_id": "tt0758758",
+      "title": "Into the Wild",
+      "year": 2007,
+      "roles": [
+        "cast"
+      ],
+      "character": "Walt McCandless"
+    },
+    {
+      "imdb_id": "tt0780571",
+      "title": "Mr. Brooks",
+      "year": 2007,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Marshall"
+    },
+    {
+      "imdb_id": "tt0443274",
+      "title": "Vantage Point",
+      "year": 2008,
+      "roles": [
+        "cast"
+      ],
+      "character": "President Ashton"
+    },
+    {
+      "imdb_id": "tt0955308",
+      "title": "Robin Hood",
+      "year": 2010,
+      "roles": [
+        "cast"
+      ],
+      "character": "William Marshal"
+    },
+    {
+      "imdb_id": "tt3498820",
+      "title": "Captain America: Civil War",
+      "year": 2016,
+      "roles": [
+        "cast"
+      ],
+      "character": "Secretary of State Thaddeus Ross"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjEyNzA5MTUxN15BMl5BanBnXkFtZTcwMTU3ODQ3MQ@@._V1_.jpg",
+  "birth_date": "20.03.1950",
+  "death_date": "13.03.2022",
+  "birth_location": "Washington, District of Columbia, USA",
+  "height": "1.88 m",
+  "filmweb_id": 50,
+  "name_pl": "William Hurt",
+  "birth_location_pl": "Waszyngton, Dystrykt Kolumbii",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "nm1303301",
+  "name": "Jasna Zalica",
+  "filmography": [
+    {
+      "imdb_id": "tt1905003",
+      "title": "These Are the Rules",
+      "year": 2014,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Maja"
+    },
+    {
+      "imdb_id": "tt15301362",
+      "title": "Praznik rada",
+      "year": 2022,
+      "roles": [
+        "cast"
+      ],
+      "character": "Muma"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTUxMDQxMTczOV5BMl5BanBnXkFtZTgwNzYxNzc0MjE@._V1_.jpg",
+  "birth_date": "16.09.1968",
+  "birth_location": "Sarajevo, Bosnia",
+  "imdb_scraped": true,
+  "filmweb_id": 134471,
+  "name_pl": "Jasna Žalica",
+  "birth_location_pl": "Sarajewo",
+  "gender": "F",
+  "wikidata_processed": true
+}

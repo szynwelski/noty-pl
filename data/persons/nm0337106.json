@@ -1,0 +1,46 @@
+{
+  "id": "nm0337106",
+  "name": "Jerry Grayson",
+  "filmography": [
+    {
+      "imdb_id": "tt0117765",
+      "title": "Striptease",
+      "year": 1996,
+      "roles": [
+        "cast"
+      ],
+      "character": "Orly"
+    },
+    {
+      "imdb_id": "tt0210719",
+      "title": "The Great Gatsby",
+      "year": 2000,
+      "roles": [
+        "cast"
+      ],
+      "character": "Wolfsheim"
+    },
+    {
+      "imdb_id": "tt0419749",
+      "title": "Find Me Guilty",
+      "year": 2006,
+      "roles": [
+        "cast"
+      ],
+      "character": "Jimmy Katz"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTI4NDM5NjM3NF5BMl5BanBnXkFtZTcwMDg5MjgyMQ@@._V1_.jpg",
+  "birth_date": "09.12.1935",
+  "death_date": "05.03.2013",
+  "birth_location": "USA",
+  "filmweb_id": 43716,
+  "name_pl": "Jerry Grayson",
+  "birth_location_pl": "Glen Cove, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

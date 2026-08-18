@@ -1,0 +1,46 @@
+{
+  "id": "nm0002007",
+  "name": "Tom Clancy",
+  "filmography": [
+    {
+      "imdb_id": "tt0099810",
+      "title": "The Hunt for Red October",
+      "year": 1990,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0164184",
+      "title": "The Sum of All Fears",
+      "year": 2002,
+      "roles": [
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt1205537",
+      "title": "Jack Ryan: Shadow Recruit",
+      "year": 2014,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTg1NjM0OTQ0OV5BMl5BanBnXkFtZTcwODQwMTgxOA@@._V1_.jpg",
+  "birth_date": "12.04.1947",
+  "death_date": "01.10.2013",
+  "birth_location": "Baltimore, Maryland, USA",
+  "height": "1.88 m",
+  "filmweb_id": 382973,
+  "name_pl": "Tom Clancy",
+  "birth_location_pl": "Baltimore, Maryland",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 382973
+}

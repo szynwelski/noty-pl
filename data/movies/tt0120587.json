@@ -1,0 +1,215 @@
+{
+  "imdb_id": "tt0120587",
+  "title": "Antz",
+  "description": "A rather neurotic ant tries to break from his totalitarian society while trying to win the affection of the princess he loves.",
+  "runtime_minutes": 83,
+  "release_date": "02.10.1998",
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy",
+    "Family"
+  ],
+  "stars": [
+    {
+      "id": "nm0000095",
+      "name": "Woody Allen"
+    },
+    {
+      "id": "nm0000232",
+      "name": "Sharon Stone"
+    },
+    {
+      "id": "nm0000432",
+      "name": "Gene Hackman"
+    },
+    {
+      "id": "nm0000230",
+      "name": "Sylvester Stallone"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0201509",
+      "name": "Eric Darnell"
+    },
+    {
+      "id": "nm0349183",
+      "name": "Lawrence Guterman"
+    },
+    {
+      "id": "nm0426333",
+      "name": "Tim Johnson"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0017305",
+      "name": "Todd Alcott"
+    },
+    {
+      "id": "nm0919363",
+      "name": "Chris Weitz"
+    },
+    {
+      "id": "nm0919369",
+      "name": "Paul Weitz"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000095",
+      "name": "Woody Allen",
+      "character": "Z"
+    },
+    {
+      "id": "nm0000232",
+      "name": "Sharon Stone",
+      "character": "Bala"
+    },
+    {
+      "id": "nm0000432",
+      "name": "Gene Hackman",
+      "character": "Mandible"
+    },
+    {
+      "id": "nm0000101",
+      "name": "Dan Aykroyd",
+      "character": "Chip"
+    },
+    {
+      "id": "nm0000843",
+      "name": "Anne Bancroft",
+      "character": "Queen"
+    },
+    {
+      "id": "nm0004852",
+      "name": "Jane Curtin",
+      "character": "Muffy"
+    },
+    {
+      "id": "nm0000418",
+      "name": "Danny Glover",
+      "character": "Barbatus"
+    },
+    {
+      "id": "nm0000182",
+      "name": "Jennifer Lopez",
+      "character": "Azteca"
+    },
+    {
+      "id": "nm0001498",
+      "name": "John Mahoney",
+      "character": "Drunk Scout"
+    },
+    {
+      "id": "nm0005196",
+      "name": "Paul Mazursky",
+      "character": "Psychologist"
+    },
+    {
+      "id": "nm0789470",
+      "name": "Grant Shaud",
+      "character": "Foreman"
+    },
+    {
+      "id": "nm0000230",
+      "name": "Sylvester Stallone",
+      "character": "Weaver"
+    },
+    {
+      "id": "nm0000686",
+      "name": "Christopher Walken",
+      "character": "Cutter"
+    },
+    {
+      "id": "nm0820293",
+      "name": "Jerry Sroka",
+      "character": "Additional Voices"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 677,
+  "year": 1998,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYzdlMzZhZjctY2JjYy00OGRiLThjMTEtODRmZTg2ZjI5MjEzXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.5,
+      "votes": 171975,
+      "distribution": {
+        "1": 1768,
+        "2": 1628,
+        "3": 3017,
+        "4": 7067,
+        "5": 18755,
+        "6": 45255,
+        "7": 54469,
+        "8": 25044,
+        "9": 7666,
+        "10": 7306
+      },
+      "normalized": 4.4805
+    },
+    "filmweb": {
+      "rating": 6.37,
+      "votes": 41651,
+      "distribution": {
+        "1": 163,
+        "2": 255,
+        "3": 857,
+        "4": 2083,
+        "5": 5804,
+        "6": 12262,
+        "7": 13222,
+        "8": 5183,
+        "9": 1095,
+        "10": 727
+      },
+      "normalized": 4.0351
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "23.03.2006",
+      "normalized": 4.9718
+    },
+    "score": 4.4958
+  },
+  "polish_title": "Mrówka Z",
+  "silent": false,
+  "description_pl": "Mrówka Z-4195 jest zwykłym robotnikiem, żyjącym w miliardowej, podzielonej na kasty społeczności. Pewnego dnia zakochuje się w pięknej księżniczce Bali. Mimo, że sytuacja wydaje się beznadziejna, postanawia za wszelką cenę zdobyć ukochaną. Korzysta przy tym z pomocy największego przyjaciela księżniczki, Weavera...",
+  "producers": [
+    {
+      "id": "nm0277896",
+      "name": "Penney Finkelman Cox"
+    },
+    {
+      "id": "nm0506977",
+      "name": "Bradford Lewis"
+    },
+    {
+      "id": "nm0704968",
+      "name": "Sandra Rabins"
+    },
+    {
+      "id": "nm0742507",
+      "name": "Carl Rosendahl"
+    },
+    {
+      "id": "nm0912403",
+      "name": "Aron Warner"
+    },
+    {
+      "id": "nm0941364",
+      "name": "Patty Wooton"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

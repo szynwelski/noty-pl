@@ -1,0 +1,215 @@
+{
+  "imdb_id": "tt0282917",
+  "title": "Rok dábla",
+  "description": "Documentary maker Jan Holman follows the ultrafamous singer/songwriter Jaromír Novahica during his tour with the band Cechomor. The combination is very succesful, but it draws a heavy toll on the band members and Jan Holman.",
+  "runtime_minutes": 88,
+  "release_date": "07.03.2002",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Fantasy",
+    "Music"
+  ],
+  "stars": [
+    {
+      "id": "nm0634115",
+      "name": "Jaromír Nohavica"
+    },
+    {
+      "id": "nm1090955",
+      "name": "Karel Plíhal"
+    },
+    {
+      "id": "nm1186023",
+      "name": "Jan Prent"
+    },
+    {
+      "id": "nm1186878",
+      "name": "Karel Holas"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0954500",
+      "name": "Petr Zelenka"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0954500",
+      "name": "Petr Zelenka"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0634115",
+      "name": "Jaromír Nohavica",
+      "character": "Self"
+    },
+    {
+      "id": "nm1090955",
+      "name": "Karel Plíhal",
+      "character": "Self"
+    },
+    {
+      "id": "nm1186023",
+      "name": "Jan Prent",
+      "character": "Self"
+    },
+    {
+      "id": "nm1186878",
+      "name": "Karel Holas",
+      "character": "Self"
+    },
+    {
+      "id": "nm0148714",
+      "name": "František Černý",
+      "character": "Self"
+    },
+    {
+      "id": "nm1185994",
+      "name": "Radek Pobořil",
+      "character": "Self"
+    },
+    {
+      "id": "nm1187016",
+      "name": "Michal Pavlík",
+      "character": "Self"
+    },
+    {
+      "id": "nm1186916",
+      "name": "Radovan Klučka",
+      "character": "Self"
+    },
+    {
+      "id": "nm1009004",
+      "name": "Jaz Coleman",
+      "character": "Self"
+    },
+    {
+      "id": "nm1203722",
+      "name": "Jitka Obzinová",
+      "character": "TV moderator"
+    },
+    {
+      "id": "nm1227960",
+      "name": "Eliška Klimešová",
+      "character": "Asylum director"
+    },
+    {
+      "id": "nm0459421",
+      "name": "Danuše Klichová",
+      "character": "Journalist #1"
+    },
+    {
+      "id": "nm1241848",
+      "name": "Saša Mika",
+      "character": "Transvestite #1"
+    },
+    {
+      "id": "nm1241358",
+      "name": "Václav Glazar",
+      "character": "Transvestite #2"
+    },
+    {
+      "id": "nm1311962",
+      "name": "David Fotter",
+      "character": "Doctor"
+    },
+    {
+      "id": "nm0284311",
+      "name": "Jan Foll",
+      "character": "Journalist #2"
+    },
+    {
+      "id": "nm1168329",
+      "name": "Vladimír Vlasák",
+      "character": "Journalist #3"
+    },
+    {
+      "id": "nm18630044",
+      "name": "Matěj Denk",
+      "character": "Boy"
+    }
+  ],
+  "countries": [
+    "Czech Republic"
+  ],
+  "languages": [
+    "Czech",
+    "English",
+    "Dutch"
+  ],
+  "color": "Color",
+  "year": 2002,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZTg5Mjg1MWQtYTA1Yy00ZjBmLTg0NGYtNjg4YmUyNjQ1ZmEwXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 96259,
+  "ratings": {
+    "imdb": {
+      "rating": 7.3,
+      "votes": 1187,
+      "distribution": {
+        "1": 28,
+        "2": 13,
+        "3": 23,
+        "4": 33,
+        "5": 53,
+        "6": 124,
+        "7": 231,
+        "8": 311,
+        "9": 160,
+        "10": 211
+      },
+      "normalized": 5.8016
+    },
+    "filmweb": {
+      "rating": 7.62,
+      "votes": 7622,
+      "distribution": {
+        "1": 52,
+        "2": 38,
+        "3": 80,
+        "4": 114,
+        "5": 339,
+        "6": 734,
+        "7": 1781,
+        "8": 2407,
+        "9": 1351,
+        "10": 726
+      },
+      "normalized": 6.958
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "13.04.2006",
+      "normalized": 6.3474
+    },
+    "score": 6.369
+  },
+  "polish_title": "Rok diabła",
+  "silent": false,
+  "description_pl": "Wyreżyserował go Petr Zelenka, autor scenariusza do popularnych również w Polsce \"Samotnych\". \"Rok diabła\" to fikcyjna biografia prawdziwych muzyków, którzy grają tu samych siebie. Jak podaje dystrybutor: \"Zelenka łączy w filmie fakty i elementy fikcyjne w wypełnioną muzyką, magiczną przygodę, w której duchy i aniołowie stróżowie pomagają ludziom odnaleźć ich własną drogę życiową.\"",
+  "producers": [
+    {
+      "id": "nm0465703",
+      "name": "Cestmír Kopecký"
+    },
+    {
+      "id": "nm0473709",
+      "name": "Milan Kuchynka"
+    },
+    {
+      "id": "nm0834672",
+      "name": "Pavel Strnad"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0350605",
+      "name": "Miro Gábor"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

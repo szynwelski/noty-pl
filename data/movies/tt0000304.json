@@ -1,0 +1,89 @@
+{
+  "imdb_id": "tt0000304",
+  "title": "Grandma's Reading Glass",
+  "description": "A boy looks through glasses at various objects, seen magnified.",
+  "runtime_minutes": 2,
+  "release_date": "1900",
+  "genres": [
+    "Short",
+    "Family"
+  ],
+  "stars": [
+    {
+      "id": "nm2940072",
+      "name": "Harold Smith"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0808310",
+      "name": "George Albert Smith"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm2940072",
+      "name": "Harold Smith",
+      "character": "Willy - the little grandson"
+    }
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 148685,
+  "year": 1900,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOWQwZjBkMDgtYmRiMS00MjBkLTgxZWYtZTE4OTZlY2VhOTY5XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6,
+      "votes": 1627,
+      "distribution": {
+        "1": 38,
+        "2": 38,
+        "3": 53,
+        "4": 120,
+        "5": 295,
+        "6": 515,
+        "7": 336,
+        "8": 144,
+        "9": 33,
+        "10": 55
+      },
+      "normalized": 4.191
+    },
+    "filmweb": {
+      "rating": 5.67,
+      "votes": 430,
+      "distribution": {
+        "1": 6,
+        "2": 10,
+        "3": 25,
+        "4": 44,
+        "5": 105,
+        "6": 115,
+        "7": 79,
+        "8": 30,
+        "9": 6,
+        "10": 10
+      },
+      "normalized": 3.8525
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "12.12.2016",
+      "normalized": 7.1247
+    },
+    "score": 5.0561
+  },
+  "polish_title": "Szkło powiększające babuni",
+  "silent": true,
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-15"
+}

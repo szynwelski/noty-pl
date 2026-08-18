@@ -1,0 +1,219 @@
+{
+  "imdb_id": "tt0062622",
+  "title": "2001: A Space Odyssey",
+  "description": "When a mysterious artifact is uncovered on the Moon, a spacecraft manned by two scientists and one supercomputer is dispatched to Jupiter to find its origins.",
+  "runtime_minutes": 149,
+  "release_date": "12.05.1968",
+  "genres": [
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm0001158",
+      "name": "Keir Dullea"
+    },
+    {
+      "id": "nm0516972",
+      "name": "Gary Lockwood"
+    },
+    {
+      "id": "nm0843213",
+      "name": "William Sylvester"
+    },
+    {
+      "id": "nm0725220",
+      "name": "Daniel Richter"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000040",
+      "name": "Stanley Kubrick"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000040",
+      "name": "Stanley Kubrick"
+    },
+    {
+      "id": "nm0002009",
+      "name": "Arthur C. Clarke"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0001158",
+      "name": "Keir Dullea",
+      "character": "Dr. Dave Bowman"
+    },
+    {
+      "id": "nm0516972",
+      "name": "Gary Lockwood",
+      "character": "Dr. Frank Poole"
+    },
+    {
+      "id": "nm0843213",
+      "name": "William Sylvester",
+      "character": "Dr. Heywood R. Floyd"
+    },
+    {
+      "id": "nm0725220",
+      "name": "Daniel Richter",
+      "character": "Moon-Watcher"
+    },
+    {
+      "id": "nm0744436",
+      "name": "Leonard Rossiter",
+      "character": "Dr. Andrei Smyslov"
+    },
+    {
+      "id": "nm0879239",
+      "name": "Margaret Tyzack",
+      "character": "Elena"
+    },
+    {
+      "id": "nm0064235",
+      "name": "Robert Beatty",
+      "character": "Dr. Ralph Halvorsen"
+    },
+    {
+      "id": "nm0838330",
+      "name": "Sean Sullivan",
+      "character": "Dr. Bill Michaels"
+    },
+    {
+      "id": "nm0706937",
+      "name": "Douglas Rain",
+      "character": "HAL 9000"
+    },
+    {
+      "id": "nm15447157",
+      "name": "Frank W. Miller",
+      "character": "Mission Controller"
+    },
+    {
+      "id": "nm0922916",
+      "name": "Bill Weston",
+      "character": "Astronaut"
+    },
+    {
+      "id": "nm0084042",
+      "name": "Ed Bishop",
+      "character": "Aries-1B Lunar Shuttle Captain"
+    },
+    {
+      "id": "nm0065140",
+      "name": "Glenn Beck",
+      "character": "Aries-1B Co-Pilot"
+    },
+    {
+      "id": "nm0317506",
+      "name": "Alan Gifford",
+      "character": "Poole's Father"
+    },
+    {
+      "id": "nm0319268",
+      "name": "Ann Gillis",
+      "character": "Poole's Mother"
+    },
+    {
+      "id": "nm0140809",
+      "name": "Edwina Carroll",
+      "character": "Aries-1B Stewardess"
+    },
+    {
+      "id": "nm0103988",
+      "name": "Penny Brahms",
+      "character": "Stewardess"
+    },
+    {
+      "id": "nm0236049",
+      "name": "Heather Downham",
+      "character": "Stewardess"
+    }
+  ],
+  "countries": [
+    "United Kingdom",
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Russian",
+    "French"
+  ],
+  "color": "Color",
+  "filmweb_id": 1458,
+  "year": 1968,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNjU0NDFkMTQtZWY5OS00MmZhLTg3Y2QtZmJhMzMzMWYyYjc2XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8.3,
+      "votes": 789962,
+      "distribution": {
+        "1": 15455,
+        "2": 7938,
+        "3": 10583,
+        "4": 14490,
+        "5": 25680,
+        "6": 47856,
+        "7": 97314,
+        "8": 166530,
+        "9": 169035,
+        "10": 235081
+      },
+      "normalized": 8.4138
+    },
+    "filmweb": {
+      "rating": 7.74,
+      "votes": 144841,
+      "distribution": {
+        "1": 1896,
+        "2": 1157,
+        "3": 2868,
+        "4": 3632,
+        "5": 7336,
+        "6": 12441,
+        "7": 24861,
+        "8": 35488,
+        "9": 27042,
+        "10": 28120
+      },
+      "normalized": 7.4754
+    },
+    "jarek": {
+      "rating": 9,
+      "date_rated": "02.12.2005",
+      "normalized": 8.8973
+    },
+    "michal": {
+      "rating": 8,
+      "date_rated": "19.10.2005",
+      "normalized": 8.1116
+    },
+    "score": 8.2245
+  },
+  "polish_title": "2001: Odyseja kosmiczna",
+  "silent": false,
+  "description_pl": "\"2001: Odyseja kosmiczna\" to wyprawa w krainę jutra, mapa ludzkiego przeznaczenia, droga do nieskończoności i fascynująca opowieść o starciu człowieka z maszyną - arcydzieło sztuki filmowej, które wyróżniono Oscarem za efekty specjalne. Inspiracją scenariusza była powieść <a href=\"/osoba/?id=nm0002009\">Arthura C. Clarke'a</a>. Na jej podstawie <a href=\"/osoba/?id=nm0000040\">Stanley Kubrick</a> zrealizował film, który od lat niezmiennie fascynuje nowe pokolenia widzów. Najpierw zabiera nas w zamierzchłą przeszłość, gdy na Ziemi żyli przodkowie człowieka. Następnie - dzięki jednemu z najgenialniejszych trików w historii kina - przeskakuje całe tysiąclecia i przenosi widza w skolonizowaną przestrzeń kosmiczną. W finale z kolei przerzuca jednego z bohaterów, astronautę Bowmana (<a href=\"/osoba/?id=nm0001158\">Keir Dullea</a>), w niezbadane rejony kosmosu, realizując tym razem nasze marzenia o nieśmiertelności. \"Otwórz właz, HAL\" i wyrusz w podróż niepodobną do innych, a dane Ci będzie poznać najgłębiej skrywane tajemnice wszechświata.",
+  "producers": [
+    {
+      "id": "nm0000040",
+      "name": "Stanley Kubrick"
+    },
+    {
+      "id": "nm0528540",
+      "name": "Victor Lyndon"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005910",
+      "name": "Geoffrey Unsworth"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

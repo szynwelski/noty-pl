@@ -1,0 +1,42 @@
+{
+  "id": "nm0001788",
+  "name": "Jessica Tandy",
+  "filmography": [
+    {
+      "imdb_id": "tt0056869",
+      "title": "The Birds",
+      "year": 1963,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Lydia Brenner"
+    },
+    {
+      "imdb_id": "tt0101921",
+      "title": "Fried Green Tomatoes",
+      "year": 1991,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Ninny Threadgoode"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTg0NjUyODQzNV5BMl5BanBnXkFtZTcwNzA5ODgwMw@@._V1_.jpg",
+  "birth_date": "07.06.1909",
+  "death_date": "11.09.1994",
+  "birth_location": "Stoke Newington, London, England, UK",
+  "height": "1.63 m",
+  "imdb_scraped": true,
+  "filmweb_id": 9175,
+  "name_pl": "Jessica Tandy",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone",
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 9175
+}

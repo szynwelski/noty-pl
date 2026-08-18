@@ -1,0 +1,246 @@
+{
+  "imdb_id": "tt0166924",
+  "title": "Mulholland Drive",
+  "description": "After a car wreck on Mulholland Drive renders a woman amnesiac, she and a Hollywood-hopeful search for clues and answers across Los Angeles in a twisting venture beyond dreams and reality.",
+  "runtime_minutes": 147,
+  "release_date": "19.10.2001",
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0915208",
+      "name": "Naomi Watts"
+    },
+    {
+      "id": "nm0005009",
+      "name": "Laura Harring"
+    },
+    {
+      "id": "nm0857620",
+      "name": "Justin Theroux"
+    },
+    {
+      "id": "nm0060931",
+      "name": "Jeanne Bates"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000186",
+      "name": "David Lynch"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000186",
+      "name": "David Lynch"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0915208",
+      "name": "Naomi Watts",
+      "character": "Betty Elms"
+    },
+    {
+      "id": "nm0005009",
+      "name": "Laura Harring",
+      "character": "Rita"
+    },
+    {
+      "id": "nm0857620",
+      "name": "Justin Theroux",
+      "character": "Adam"
+    },
+    {
+      "id": "nm0060931",
+      "name": "Jeanne Bates",
+      "character": "Irene"
+    },
+    {
+      "id": "nm1250340",
+      "name": "Dan Birnbaum",
+      "character": "Irene's Companion"
+    },
+    {
+      "id": "nm0943291",
+      "name": "Randall Wulff",
+      "character": "Limo Driver"
+    },
+    {
+      "id": "nm0001233",
+      "name": "Robert Forster",
+      "character": "Detective McKnight"
+    },
+    {
+      "id": "nm0109785",
+      "name": "Brent Briscoe",
+      "character": "Detective Domgaard"
+    },
+    {
+      "id": "nm1095410",
+      "name": "Maya Bond",
+      "character": "Aunt Ruth"
+    },
+    {
+      "id": "nm0279209",
+      "name": "Patrick Fischler",
+      "character": "Dan"
+    },
+    {
+      "id": "nm0177474",
+      "name": "Michael Cooke",
+      "character": "Herb"
+    },
+    {
+      "id": "nm0007491",
+      "name": "Bonnie Aarons",
+      "character": "Bum"
+    },
+    {
+      "id": "nm0027199",
+      "name": "Michael J. Anderson",
+      "character": "Mr. Roque"
+    },
+    {
+      "id": "nm0443948",
+      "name": "Joseph Kearney",
+      "character": "Roque's Manservant"
+    },
+    {
+      "id": "nm1058009",
+      "name": "Enrique Buelna",
+      "character": "Back of Head Man"
+    },
+    {
+      "id": "nm1060476",
+      "name": "Richard Mead",
+      "character": "Hairy-Armed Man"
+    },
+    {
+      "id": "nm0005587",
+      "name": "Sean Everett",
+      "character": "Cab Driver at LAX"
+    },
+    {
+      "id": "nm0587900",
+      "name": "Ann Miller",
+      "character": "Coco"
+    }
+  ],
+  "countries": [
+    "France",
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French"
+  ],
+  "color": "Color",
+  "filmweb_id": 30630,
+  "year": 2001,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNjliY2UwMjQtYjVlNi00NzExLTg1MDMtMjE2OTYwYjI0NTcxXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Mulholland Dr.",
+  "ratings": {
+    "imdb": {
+      "rating": 7.9,
+      "votes": 432381,
+      "distribution": {
+        "1": 10443,
+        "2": 4750,
+        "3": 5998,
+        "4": 8412,
+        "5": 15175,
+        "6": 30259,
+        "7": 64996,
+        "8": 110360,
+        "9": 85687,
+        "10": 96301
+      },
+      "normalized": 7.2806
+    },
+    "filmweb": {
+      "rating": 7.62,
+      "votes": 106029,
+      "distribution": {
+        "1": 1073,
+        "2": 764,
+        "3": 1786,
+        "4": 2201,
+        "5": 5149,
+        "6": 9273,
+        "7": 21607,
+        "8": 31843,
+        "9": 19880,
+        "10": 12453
+      },
+      "normalized": 7.0973
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "02.12.2005",
+      "normalized": 7.1247
+    },
+    "michal": {
+      "rating": 8,
+      "date_rated": "19.10.2005",
+      "normalized": 8.1116
+    },
+    "score": 7.4036
+  },
+  "polish_title": "Mulholland Drive",
+  "silent": false,
+  "description_pl": "\"Mulholland Drive\" łączy w sobie elementy thrillera, noir i surrealistycznego kina. Fabuła skupia się na historii młodej kobiety, która traci pamięć po wypadku samochodowym na Mulholland Drive w Los Angeles. Z pomocą nowo poznanej przyjaciółki, próbuje odkryć swoją tożsamość, co prowadzi do serii zagadek, tajemniczych postaci i nieoczekiwanych zwrotów akcji.",
+  "producers": [
+    {
+      "id": "nm0248999",
+      "name": "Pierre Edelman"
+    },
+    {
+      "id": "nm0249050",
+      "name": "Neal Edelstein"
+    },
+    {
+      "id": "nm0253544",
+      "name": "Joyce Eliason"
+    },
+    {
+      "id": "nm0469813",
+      "name": "Tony Krantz"
+    },
+    {
+      "id": "nm0688789",
+      "name": "Michael Polaire"
+    },
+    {
+      "id": "nm0764963",
+      "name": "Alain Sarde"
+    },
+    {
+      "id": "nm0842156",
+      "name": "Mary Sweeney"
+    },
+    {
+      "id": "nm0921128",
+      "name": "John Wentworth"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0000823",
+      "name": "Angelo Badalamenti"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005687",
+      "name": "Peter Deming"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

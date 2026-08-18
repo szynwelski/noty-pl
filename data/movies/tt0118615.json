@@ -1,0 +1,202 @@
+{
+  "imdb_id": "tt0118615",
+  "title": "Anaconda",
+  "description": "A \"National Geographic\" film crew is taken hostage by an insane hunter, who forces them along on his quest to capture the world's largest - and deadliest - snake.",
+  "runtime_minutes": 89,
+  "release_date": "11.04.1997",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Horror",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000685",
+      "name": "Jon Voight"
+    },
+    {
+      "id": "nm0000182",
+      "name": "Jennifer Lopez"
+    },
+    {
+      "id": "nm0000655",
+      "name": "Eric Stoltz"
+    },
+    {
+      "id": "nm0001084",
+      "name": "Ice Cube"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0515891",
+      "name": "Luis Llosa"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0061829",
+      "name": "Hans Bauer"
+    },
+    {
+      "id": "nm0143596",
+      "name": "Jim Cash"
+    },
+    {
+      "id": "nm0258390",
+      "name": "Jack Epps Jr."
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000685",
+      "name": "Jon Voight",
+      "character": "Paul Serone"
+    },
+    {
+      "id": "nm0000182",
+      "name": "Jennifer Lopez",
+      "character": "Terri Flores"
+    },
+    {
+      "id": "nm0000655",
+      "name": "Eric Stoltz",
+      "character": "Dr. Steven Cale"
+    },
+    {
+      "id": "nm0001084",
+      "name": "Ice Cube",
+      "character": "Danny Rich"
+    },
+    {
+      "id": "nm0404993",
+      "name": "Jonathan Hyde",
+      "character": "Warren Westridge"
+    },
+    {
+      "id": "nm0005562",
+      "name": "Owen Wilson",
+      "character": "Gary Dixon"
+    },
+    {
+      "id": "nm0001863",
+      "name": "Kari Wuhrer",
+      "character": "Denise Kalberg"
+    },
+    {
+      "id": "nm0144753",
+      "name": "Vincent Castellanos",
+      "character": "Mateo"
+    },
+    {
+      "id": "nm0001803",
+      "name": "Danny Trejo",
+      "character": "Poacher"
+    },
+    {
+      "id": "nm0919798",
+      "name": "Frank Welker",
+      "character": "Anaconda"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 568,
+  "year": 1997,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMmU2ZGYyZDAtZGM3My00NjQ4LTlmZmQtNzY4OGRlNDFjNTE4XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5,
+      "votes": 126718,
+      "distribution": {
+        "1": 6469,
+        "2": 7816,
+        "3": 12881,
+        "4": 20759,
+        "5": 28137,
+        "6": 24377,
+        "7": 14008,
+        "8": 5600,
+        "9": 1797,
+        "10": 4874
+      },
+      "normalized": 2.1805
+    },
+    "filmweb": {
+      "rating": 5.02,
+      "votes": 53320,
+      "distribution": {
+        "1": 1573,
+        "2": 2748,
+        "3": 6536,
+        "4": 8628,
+        "5": 12407,
+        "6": 11275,
+        "7": 6463,
+        "8": 2351,
+        "9": 576,
+        "10": 763
+      },
+      "normalized": 1.8475
+    },
+    "jarek": {
+      "rating": 1,
+      "date_rated": "23.02.2011",
+      "normalized": 2.5327
+    },
+    "score": 2.1869
+  },
+  "polish_title": "Anakonda",
+  "silent": false,
+  "description_pl": "Ekipa filmowa udaje się do brazylijskiej dżungli, z zadaniem nakręcenia produkcji dokumentalnej na temat legendarnego, znanym dotąd jedynie z opowiadań, plemienia Indian. Na swej drodze spotykają tajemniczego samotnika, który oferuje im pomoc. Szybko jednak okazuje się, że ma on zupełnie inne plany: jego zamiarem jest złapanie kryjącego się w dżungli dwunastometrowego węża z gatunku anakonda. Kiedy gad atakuje statek, wyprawa zmienia się w koszmar...",
+  "producers": [
+    {
+      "id": "nm0275698",
+      "name": "Andy Fickman"
+    },
+    {
+      "id": "nm0364045",
+      "name": "Verna Harrah"
+    },
+    {
+      "id": "nm0514528",
+      "name": "Carole Little"
+    },
+    {
+      "id": "nm0548775",
+      "name": "Beau Marks"
+    },
+    {
+      "id": "nm0704952",
+      "name": "Leonard Rabinowitz"
+    },
+    {
+      "id": "nm0178389",
+      "name": "Stelvio Rosi"
+    },
+    {
+      "id": "nm0750837",
+      "name": "Susan Ruskin"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006055",
+      "name": "Randy Edelman"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0124832",
+      "name": "Bill Butler"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

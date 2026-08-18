@@ -1,0 +1,211 @@
+{
+  "imdb_id": "tt0112445",
+  "title": "The White Balloon",
+  "description": "Several people try to help a little girl to find the money her mother gave her to buy a goldfish.",
+  "runtime_minutes": 85,
+  "release_date": "1995",
+  "genres": [
+    "Drama",
+    "Family"
+  ],
+  "stars": [
+    {
+      "id": "nm0595869",
+      "name": "Aida Mohammadkhani"
+    },
+    {
+      "id": "nm0435760",
+      "name": "Mohsen Kafili"
+    },
+    {
+      "id": "nm0649746",
+      "name": "Fereshteh Sadre Orafaiy"
+    },
+    {
+      "id": "nm0096941",
+      "name": "Anna Borkowska"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0070159",
+      "name": "Jafar Panahi"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0452102",
+      "name": "Abbas Kiarostami"
+    },
+    {
+      "id": "nm0070159",
+      "name": "Jafar Panahi"
+    },
+    {
+      "id": "nm0787526",
+      "name": "Parviz Shahbazi"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0595869",
+      "name": "Aida Mohammadkhani",
+      "character": "Razieh"
+    },
+    {
+      "id": "nm0435760",
+      "name": "Mohsen Kafili",
+      "character": "Ali"
+    },
+    {
+      "id": "nm0649746",
+      "name": "Fereshteh Sadre Orafaiy",
+      "character": "Mother (Madar)"
+    },
+    {
+      "id": "nm0096941",
+      "name": "Anna Borkowska",
+      "character": "Old Lady (Pir_e Zan)"
+    },
+    {
+      "id": "nm0049084",
+      "name": "Mohammed Bakhtiar",
+      "character": "Tailor (Khayat)"
+    },
+    {
+      "id": "nm0787512",
+      "name": "Mohammad Shahani",
+      "character": "Soldier (Sarbaz)"
+    },
+    {
+      "id": "nm0046869",
+      "name": "Bosnali Bahary",
+      "character": "Snake Charmer"
+    },
+    {
+      "id": "nm0059504",
+      "name": "Mohammadreza Baryar",
+      "character": "Client in Tailor's Shop"
+    },
+    {
+      "id": "nm0059533",
+      "name": "Asghar Barzegar",
+      "character": "Pet Shop Manager"
+    },
+    {
+      "id": "nm0267060",
+      "name": "Mohammad Farakani",
+      "character": "Shop Keeper"
+    },
+    {
+      "id": "nm0370857",
+      "name": "Shaker Hayely",
+      "character": "Tailor's Assistant"
+    },
+    {
+      "id": "nm0443650",
+      "name": "Hosain Kazemy",
+      "character": "Shop Owner"
+    },
+    {
+      "id": "nm0623759",
+      "name": "Hasan Neamatolahi",
+      "character": "Snake Charmer"
+    },
+    {
+      "id": "nm0737957",
+      "name": "Homayoon Rokani",
+      "character": "Street Singer"
+    },
+    {
+      "id": "nm0806373",
+      "name": "Aliasghar Smadi",
+      "character": "Balloon Seller"
+    },
+    {
+      "id": "nm0846676",
+      "name": "Hamidreza Tahery",
+      "character": "Reza"
+    },
+    {
+      "id": "nm0957667",
+      "name": "Mohammad Zolfaghary",
+      "character": "Pet Shop Assistant"
+    }
+  ],
+  "countries": [
+    "Iran"
+  ],
+  "languages": [
+    "Persian"
+  ],
+  "color": "Color",
+  "filmweb_id": 138950,
+  "year": 1995,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BM2E0OGRkOGQtMzhiOC00NDUxLThjMzYtNTM4ZTNhYWU1NmQ1XkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Badkonake sefid",
+  "ratings": {
+    "imdb": {
+      "rating": 7.6,
+      "votes": 9519,
+      "distribution": {
+        "1": 123,
+        "2": 100,
+        "3": 94,
+        "4": 145,
+        "5": 307,
+        "6": 838,
+        "7": 2212,
+        "8": 2954,
+        "9": 1355,
+        "10": 1391
+      },
+      "normalized": 6.5249
+    },
+    "filmweb": {
+      "rating": 7.22,
+      "votes": 886,
+      "distribution": {
+        "1": 8,
+        "2": 3,
+        "3": 7,
+        "4": 18,
+        "5": 51,
+        "6": 113,
+        "7": 289,
+        "8": 280,
+        "9": 75,
+        "10": 42
+      },
+      "normalized": 5.7575
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "09.04.2009",
+      "normalized": 5.4199
+    },
+    "score": 5.9008
+  },
+  "polish_title": "Biały balonik",
+  "silent": false,
+  "description_pl": "Zbliża się Nowy Rok. Cały Teheran przygotowuje się do świętowania. Według irańskiej tradycji, w domu powinna pojawić się na tę okazję złota rybka. Mała dziewczynka prosi mamę o pieniądze na rybkę, która tak bardzo jej się spodobała w sklepie. Gubi jednak pieniądze w drodze do sklepu po rybkę. Z pomocą przychodzi jej po kolei kilka osób...",
+  "producers": [
+    {
+      "id": "nm0563317",
+      "name": "Kurosh Mazkouri"
+    },
+    {
+      "id": "nm1524431",
+      "name": "Foad Nour"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0415272",
+      "name": "Farzad Jadat"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

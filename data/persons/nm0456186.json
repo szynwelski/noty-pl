@@ -1,0 +1,49 @@
+{
+  "id": "nm0456186",
+  "name": "Luke Kirby",
+  "filmography": [
+    {
+      "imdb_id": "tt0371405",
+      "title": "Window Theory",
+      "year": 2005,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Brad"
+    },
+    {
+      "imdb_id": "tt1231287",
+      "title": "Labor Pains",
+      "year": 2009,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Nick Steinwald"
+    },
+    {
+      "imdb_id": "tt1753383",
+      "title": "A Dog's Purpose",
+      "year": 2017,
+      "roles": [
+        "cast"
+      ],
+      "character": "Ethan's Dad"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTUzOTAxNDg2NF5BMl5BanBnXkFtZTgwODc1NTUzNjM@._V1_.jpg",
+  "birth_date": "29.06.1978",
+  "birth_location": "Hamilton, Ontario, Canada",
+  "height": "1.85 m",
+  "filmweb_id": 62997,
+  "name_pl": "Luke Kirby",
+  "birth_location_pl": "Hamilton",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Kanada"
+  ],
+  "wikidata_fw_id": 62997
+}

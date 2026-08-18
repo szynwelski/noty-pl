@@ -1,0 +1,45 @@
+{
+  "id": "nm0036544",
+  "name": "Madison Arnold",
+  "filmography": [
+    {
+      "imdb_id": "tt0079116",
+      "title": "Escape from Alcatraz",
+      "year": 1979,
+      "roles": [
+        "cast"
+      ],
+      "character": "Zimmerman"
+    },
+    {
+      "imdb_id": "tt0100404",
+      "title": "Presumed Innocent",
+      "year": 1990,
+      "roles": [
+        "cast"
+      ],
+      "character": "Sergeant Lionel Kenneally"
+    },
+    {
+      "imdb_id": "tt1172049",
+      "title": "Demolition",
+      "year": 2015,
+      "roles": [
+        "cast"
+      ],
+      "character": "Ray"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDE1ZGUzMTYtNjhiZC00MmNmLThmZWItMTEyZTgxOTQ5OTkwXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "07.02.1936",
+  "birth_location": "Allentown, Pennsylvania, USA",
+  "filmweb_id": 5421,
+  "name_pl": "Madison Arnold",
+  "birth_location_pl": "Allentown, Pensylwania",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

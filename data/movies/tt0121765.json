@@ -1,0 +1,228 @@
+{
+  "imdb_id": "tt0121765",
+  "title": "Star Wars: Episode II - Attack of the Clones",
+  "description": "Ten years after initially meeting, Anakin Skywalker shares a forbidden romance with Padmé Amidala, while Obi-Wan Kenobi discovers a secret clone army crafted for the Jedi.",
+  "runtime_minutes": 142,
+  "release_date": "16.05.2002",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm0159789",
+      "name": "Hayden Christensen"
+    },
+    {
+      "id": "nm0000204",
+      "name": "Natalie Portman"
+    },
+    {
+      "id": "nm0000191",
+      "name": "Ewan McGregor"
+    },
+    {
+      "id": "nm0000489",
+      "name": "Christopher Lee"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000184",
+      "name": "George Lucas"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000184",
+      "name": "George Lucas"
+    },
+    {
+      "id": "nm0355054",
+      "name": "Jonathan Hales"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0159789",
+      "name": "Hayden Christensen",
+      "character": "Anakin Skywalker"
+    },
+    {
+      "id": "nm0000204",
+      "name": "Natalie Portman",
+      "character": "Padmé"
+    },
+    {
+      "id": "nm0000191",
+      "name": "Ewan McGregor",
+      "character": "Obi-Wan Kenobi"
+    },
+    {
+      "id": "nm0000489",
+      "name": "Christopher Lee",
+      "character": "Count Dooku"
+    },
+    {
+      "id": "nm0000168",
+      "name": "Samuel L. Jackson",
+      "character": "Mace Windu"
+    },
+    {
+      "id": "nm0000568",
+      "name": "Frank Oz",
+      "character": "Yoda"
+    },
+    {
+      "id": "nm0001519",
+      "name": "Ian McDiarmid",
+      "character": "Supreme Chancellor Palpatine"
+    },
+    {
+      "id": "nm0000278",
+      "name": "Pernilla August",
+      "character": "Shmi Skywalker"
+    },
+    {
+      "id": "nm0607325",
+      "name": "Temuera Morrison",
+      "character": "Jango Fett"
+    },
+    {
+      "id": "nm0001751",
+      "name": "Jimmy Smits",
+      "character": "Senator Bail Organa"
+    },
+    {
+      "id": "nm0860233",
+      "name": "Jack Thompson",
+      "character": "Cliegg Lars"
+    },
+    {
+      "id": "nm0909944",
+      "name": "Leeanna Walsman",
+      "character": "Zam Wesell"
+    },
+    {
+      "id": "nm0078886",
+      "name": "Ahmed Best",
+      "character": "Jar Jar Binks"
+    },
+    {
+      "id": "nm0126284",
+      "name": "Rose Byrne",
+      "character": "Dormé"
+    },
+    {
+      "id": "nm0203882",
+      "name": "Oliver Ford Davies",
+      "character": "Sio Bibble"
+    },
+    {
+      "id": "nm0266193",
+      "name": "Ronald Falk",
+      "character": "Dexter Jettster"
+    },
+    {
+      "id": "nm0481092",
+      "name": "Jay Laga'aia",
+      "character": "Captain Typho"
+    },
+    {
+      "id": "nm0781181",
+      "name": "Andy Secombe",
+      "character": "Watto"
+    }
+  ],
+  "countries": [
+    "United States",
+    "United Kingdom"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 1465,
+  "year": 2002,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTgxMjY2YzUtZmVmNC00YjAwLWJlODMtNDBhNzllNzIzMjgxXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.6,
+      "votes": 828864,
+      "distribution": {
+        "1": 18536,
+        "2": 15760,
+        "3": 22796,
+        "4": 39190,
+        "5": 78649,
+        "6": 163915,
+        "7": 228636,
+        "8": 136110,
+        "9": 55023,
+        "10": 70249
+      },
+      "normalized": 4.6313
+    },
+    "filmweb": {
+      "rating": 7.17,
+      "votes": 234012,
+      "distribution": {
+        "1": 1719,
+        "2": 1556,
+        "3": 4022,
+        "4": 7096,
+        "5": 16466,
+        "6": 34732,
+        "7": 66754,
+        "8": 59471,
+        "9": 22706,
+        "10": 19490
+      },
+      "normalized": 5.9582
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "11.08.2010",
+      "normalized": 4.9718
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "28.11.2015",
+      "normalized": 4.5781
+    },
+    "score": 5.0349
+  },
+  "polish_title": "Gwiezdne wojny: Część II -  Atak klonów",
+  "silent": false,
+  "description_pl": "Od bitwy o Naboo minęło dziesięć lat. Jedność galaktycznej Republiki jest znowu zagrożona. Podstępny książę Dooku (<a href=\"/osoba/?id=nm0000489\">Christopher Lee</a>) staje bowiem na czele zbuntowanych planet, które sprzeciwiają się demokratycznym rządom. Padme Amidala (<a href=\"/osoba/?id=nm0000204\">Natalie Portman</a>) nie jest już królową Naboo. Jako wpływowa pani senator walczy z separatystycznymi dążeniami. Sprzeciwia się jednak rozbudowie armii. Jej poglądy przysparzają Amidali licznych wrogów. Dwaj Rycerze Jedi, Obi-Wan Kenobi (<a href=\"/osoba/?id=nm0000191\">Ewan McGregor</a>) i Anakin Skywalker (<a href=\"/osoba/?id=nm0159789\">Hayden Christensen</a>) zostają przydzieleni do jej ochrony. Wkrótce między Amidalą i Anakinem rodzi się uczucie. Młodzi muszą się jednak z tym kryć, bo zasady Jedi zabraniają Rycerzom angażować się uczuciowo. Tymczasem Obi-Wan wpada na trop tajnej bazy, gdzie powstaje armia, która może zagrozić bezpieczeństwu Republiki.",
+  "producers": [
+    {
+      "id": "nm0000184",
+      "name": "George Lucas"
+    },
+    {
+      "id": "nm0564768",
+      "name": "Rick McCallum"
+    },
+    {
+      "id": "nm0650038",
+      "name": "Lorne Orleans"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0002354",
+      "name": "John Williams"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005897",
+      "name": "David Tattersall"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

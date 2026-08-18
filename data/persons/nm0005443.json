@@ -1,0 +1,57 @@
+{
+  "id": "nm0005443",
+  "name": "Jean Smart",
+  "filmography": [
+    {
+      "imdb_id": "tt0256415",
+      "title": "Sweet Home Alabama",
+      "year": 2002,
+      "roles": [
+        "cast"
+      ],
+      "character": "Stella Kay"
+    },
+    {
+      "imdb_id": "tt0333766",
+      "title": "Garden State",
+      "year": 2004,
+      "roles": [
+        "cast"
+      ],
+      "character": "Carol"
+    },
+    {
+      "imdb_id": "tt2140479",
+      "title": "The Accountant",
+      "year": 2016,
+      "roles": [
+        "cast"
+      ],
+      "character": "Rita Blackburn"
+    },
+    {
+      "imdb_id": "tt10640346",
+      "title": "Babylon",
+      "year": 2022,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Elinor St. John"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjAwNjg0MjUxMF5BMl5BanBnXkFtZTcwMTcyNjY0MQ@@._V1_.jpg",
+  "birth_date": "13.09.1951",
+  "birth_location": "Seattle, Washington, USA",
+  "height": "1.76 m",
+  "filmweb_id": 9563,
+  "name_pl": "Jean Smart",
+  "birth_location_pl": "Seattle, Waszyngton",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 9563
+}

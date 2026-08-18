@@ -1,0 +1,35 @@
+{
+  "id": "nm0012938",
+  "name": "James Agee",
+  "filmography": [
+    {
+      "imdb_id": "tt0043265",
+      "title": "The African Queen",
+      "year": 1951,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0048424",
+      "title": "The Night of the Hunter",
+      "year": 1955,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZjFlYTQxNmMtMGU2Yi00OTE1LWEzZjMtMDBiYzljMTk0ZDk3XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "27.11.1909",
+  "death_date": "16.05.1955",
+  "birth_location": "Knoxville, Tennessee, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 56695,
+  "name_pl": "James Agee",
+  "birth_location_pl": "Knoxville, Tennessee",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

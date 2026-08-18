@@ -1,0 +1,51 @@
+{
+  "id": "nm0000779",
+  "name": "Roscoe 'Fatty' Arbuckle",
+  "filmography": [
+    {
+      "imdb_id": "tt0229831",
+      "title": "A Voice from the Deep",
+      "year": 1912,
+      "roles": [
+        "cast"
+      ],
+      "character": "Minor Role"
+    },
+    {
+      "imdb_id": "tt0009466",
+      "title": "Out West",
+      "year": 1918,
+      "roles": [
+        "director",
+        "writer",
+        "star",
+        "cast"
+      ],
+      "character": "Train Rider, Bartender"
+    },
+    {
+      "imdb_id": "tt0015863",
+      "title": "Go West",
+      "year": 1925,
+      "roles": [
+        "cast"
+      ],
+      "character": "Woman in Department Store"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BY2ViOTgwM2UtODRjYS00Y2M3LWE3MDctYWM5ZDlmZmRlZmVkXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "24.03.1887",
+  "death_date": "29.06.1933",
+  "birth_location": "Smith Center, Kansas, USA",
+  "height": "1.75 m",
+  "filmweb_id": 82062,
+  "name_pl": "Roscoe 'Fatty' Arbuckle",
+  "birth_location_pl": "Smith Center, Kansas",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 82062
+}

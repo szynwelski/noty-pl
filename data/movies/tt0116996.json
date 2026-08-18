@@ -1,0 +1,243 @@
+{
+  "imdb_id": "tt0116996",
+  "title": "Mars Attacks!",
+  "description": "Earth is invaded by Martians with unbeatable weapons and a cruel sense of humor.",
+  "runtime_minutes": 106,
+  "release_date": "13.12.1996",
+  "genres": [
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm0000197",
+      "name": "Jack Nicholson"
+    },
+    {
+      "id": "nm0000112",
+      "name": "Pierce Brosnan"
+    },
+    {
+      "id": "nm0000572",
+      "name": "Sarah Jessica Parker"
+    },
+    {
+      "id": "nm0000906",
+      "name": "Annette Bening"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000318",
+      "name": "Tim Burton"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0114083",
+      "name": "Len Brown"
+    },
+    {
+      "id": "nm0312481",
+      "name": "Woody Gelman"
+    },
+    {
+      "id": "nm0940071",
+      "name": "Wally Wood"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000197",
+      "name": "Jack Nicholson",
+      "character": "President Dale"
+    },
+    {
+      "id": "nm0000112",
+      "name": "Pierce Brosnan",
+      "character": "Donald Kessler"
+    },
+    {
+      "id": "nm0000572",
+      "name": "Sarah Jessica Parker",
+      "character": "Nathalie Lake"
+    },
+    {
+      "id": "nm0000335",
+      "name": "Glenn Close",
+      "character": "Marsha Dale"
+    },
+    {
+      "id": "nm0000906",
+      "name": "Annette Bening",
+      "character": "Barbara Land"
+    },
+    {
+      "id": "nm0000362",
+      "name": "Danny DeVito",
+      "character": "Rude Gambler"
+    },
+    {
+      "id": "nm0001737",
+      "name": "Martin Short",
+      "character": "Jerry Ross"
+    },
+    {
+      "id": "nm0000150",
+      "name": "Michael J. Fox",
+      "character": "Jason Stone"
+    },
+    {
+      "id": "nm0001768",
+      "name": "Rod Steiger",
+      "character": "General Decker"
+    },
+    {
+      "id": "nm0429367",
+      "name": "Tom Jones",
+      "character": "Tom Jones"
+    },
+    {
+      "id": "nm0001305",
+      "name": "Lukas Haas",
+      "character": "Richie Norris"
+    },
+    {
+      "id": "nm0000204",
+      "name": "Natalie Portman",
+      "character": "Taffy Dale"
+    },
+    {
+      "id": "nm0000987",
+      "name": "Jim Brown",
+      "character": "Byron Williams"
+    },
+    {
+      "id": "nm0547273",
+      "name": "Lisa Marie",
+      "character": "Martian Girl"
+    },
+    {
+      "id": "nm0796662",
+      "name": "Sylvia Sidney",
+      "character": "Grandma Norris"
+    },
+    {
+      "id": "nm0934902",
+      "name": "Paul Winfield",
+      "character": "General Casey"
+    },
+    {
+      "id": "nm0000427",
+      "name": "Pam Grier",
+      "character": "Louise Williams"
+    },
+    {
+      "id": "nm0085312",
+      "name": "Jack Black",
+      "character": "Billy Glenn Norris"
+    }
+  ],
+  "countries": [
+    "United States",
+    "United Kingdom"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "color": "Color",
+  "filmweb_id": 534,
+  "year": 1996,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZjJhNTIxZmQtZjQ3ZC00MTZkLWI2YTItY2Y0ZTdiMmNiNGIyXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.4,
+      "votes": 260339,
+      "distribution": {
+        "1": 5840,
+        "2": 4664,
+        "3": 7743,
+        "4": 14682,
+        "5": 31857,
+        "6": 59998,
+        "7": 67854,
+        "8": 38849,
+        "9": 13923,
+        "10": 14929
+      },
+      "normalized": 4.268
+    },
+    "filmweb": {
+      "rating": 5.47,
+      "votes": 127044,
+      "distribution": {
+        "1": 5232,
+        "2": 4814,
+        "3": 10776,
+        "4": 14969,
+        "5": 24644,
+        "6": 28214,
+        "7": 21591,
+        "8": 9991,
+        "9": 3278,
+        "10": 3535
+      },
+      "normalized": 2.5201
+    },
+    "jarek": {
+      "rating": 1,
+      "date_rated": "21.02.2011",
+      "normalized": 2.5327
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "19.10.2005",
+      "normalized": 5.4199
+    },
+    "score": 3.6852
+  },
+  "polish_title": "Marsjanie atakują!",
+  "silent": false,
+  "description_pl": "Na niebie pojawiają się pojazdy najeźdźców z kosmosu. Ziemian ogarnia panika. Prezydent Stanów Zjednoczonych nie wie, jaki garnitur założyć na spotkanie z Marsjanami. Natomiast Marsha, pierwsza dama, kategorycznie sprzeciwia się, aby \"to coś\" kręciło się po jej domu. Gdzieś na bezdrożach Ameryki młody narkoman Richie Norris i jego nie całkiem normalna babcia organizują grupę patrolową, która ma powstrzymać marsjańską inwazję.",
+  "producers": [
+    {
+      "id": "nm0000318",
+      "name": "Tim Burton"
+    },
+    {
+      "id": "nm0213226",
+      "name": "Paul Deason"
+    },
+    {
+      "id": "nm0290581",
+      "name": "Larry Franco"
+    },
+    {
+      "id": "nm0588914",
+      "name": "Mark S. Miller"
+    },
+    {
+      "id": "nm0547815",
+      "name": "Mary Ann Marino"
+    },
+    {
+      "id": "nm0662435",
+      "name": "Laurie Parker"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0000384",
+      "name": "Danny Elfman"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005893",
+      "name": "Peter Suschitzky"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

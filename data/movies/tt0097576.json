@@ -1,0 +1,240 @@
+{
+  "imdb_id": "tt0097576",
+  "title": "Indiana Jones and the Last Crusade",
+  "description": "In 1938, after his father goes missing while pursuing the Holy Grail, Indiana Jones finds himself up against the Nazis again to stop them from obtaining its powers.",
+  "runtime_minutes": 127,
+  "release_date": "24.05.1989",
+  "genres": [
+    "Adventure"
+  ],
+  "stars": [
+    {
+      "id": "nm0000148",
+      "name": "Harrison Ford"
+    },
+    {
+      "id": "nm0000125",
+      "name": "Sean Connery"
+    },
+    {
+      "id": "nm0233145",
+      "name": "Alison Doody"
+    },
+    {
+      "id": "nm0001186",
+      "name": "Denholm Elliott"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000229",
+      "name": "Steven Spielberg"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0090151",
+      "name": "Jeffrey Boam"
+    },
+    {
+      "id": "nm0000184",
+      "name": "George Lucas"
+    },
+    {
+      "id": "nm0583675",
+      "name": "Menno Meyjes"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000148",
+      "name": "Harrison Ford",
+      "character": "Indiana Jones"
+    },
+    {
+      "id": "nm0000125",
+      "name": "Sean Connery",
+      "character": "Professor Henry Jones"
+    },
+    {
+      "id": "nm0233145",
+      "name": "Alison Doody",
+      "character": "Elsa"
+    },
+    {
+      "id": "nm0001186",
+      "name": "Denholm Elliott",
+      "character": "Marcus Brody"
+    },
+    {
+      "id": "nm0722636",
+      "name": "John Rhys-Davies",
+      "character": "Sallah"
+    },
+    {
+      "id": "nm0002103",
+      "name": "Julian Glover",
+      "character": "Walter Donovan"
+    },
+    {
+      "id": "nm0000203",
+      "name": "River Phoenix",
+      "character": "Young Indy"
+    },
+    {
+      "id": "nm0126250",
+      "name": "Michael Byrne",
+      "character": "Vogel"
+    },
+    {
+      "id": "nm0539616",
+      "name": "Kevork Malikyan",
+      "character": "Kazim"
+    },
+    {
+      "id": "nm0248848",
+      "name": "Robert Eddison",
+      "character": "Grail Knight"
+    },
+    {
+      "id": "nm0949985",
+      "name": "Richard Young",
+      "character": "Fedora"
+    },
+    {
+      "id": "nm0768488",
+      "name": "Alexei Sayle",
+      "character": "Sultan"
+    },
+    {
+      "id": "nm0405033",
+      "name": "Alex Hyde-White",
+      "character": "Young Henry"
+    },
+    {
+      "id": "nm0561792",
+      "name": "Paul Maxwell",
+      "character": "Panama Hat"
+    },
+    {
+      "id": "nm0086262",
+      "name": "Isla Blair",
+      "character": "Mrs. Donovan"
+    },
+    {
+      "id": "nm0229943",
+      "name": "Vernon Dobtcheff",
+      "character": "Butler"
+    },
+    {
+      "id": "nm0362657",
+      "name": "J.J. Hardy",
+      "character": "Herman"
+    },
+    {
+      "id": "nm0339562",
+      "name": "Bradley Gregg",
+      "character": "Roscoe"
+    }
+  ],
+  "countries": [
+    "United States",
+    "United Kingdom",
+    "Spain",
+    "Italy",
+    "Jordan"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Greek",
+    "Latin",
+    "Italian"
+  ],
+  "color": "Color",
+  "filmweb_id": 1213,
+  "year": 1989,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNGIxNzQ0YzYtMjNmYi00YjBlLWFjNzEtNGE3ZGFmYTczM2MwXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8.2,
+      "votes": 869137,
+      "distribution": {
+        "1": 4783,
+        "2": 2223,
+        "3": 3106,
+        "4": 5888,
+        "5": 14835,
+        "6": 42918,
+        "7": 142317,
+        "8": 283627,
+        "9": 209453,
+        "10": 159987
+      },
+      "normalized": 8.1452
+    },
+    "filmweb": {
+      "rating": 7.72,
+      "votes": 256563,
+      "distribution": {
+        "1": 1340,
+        "2": 883,
+        "3": 2016,
+        "4": 3846,
+        "5": 8953,
+        "6": 23606,
+        "7": 61312,
+        "8": 83474,
+        "9": 39506,
+        "10": 31627
+      },
+      "normalized": 7.4155
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "02.12.2005",
+      "normalized": 5.6855
+    },
+    "michal": {
+      "rating": 3,
+      "date_rated": "19.10.2005",
+      "normalized": 3.8753
+    },
+    "score": 6.2804
+  },
+  "polish_title": "Indiana Jones i ostatnia krucjata",
+  "silent": false,
+  "description_pl": "Henry Jones Jr. (<a href=\"/osoba/?id=nm0000148\">Harrison Ford</a>), znany bardziej jako Indiana Jones, archeolog i łowca przygód, musi tym razem uratować swojego ojca, Henry'ego Jonesa (<a href=\"/osoba/?id=nm0000125\">Sean Connery</a>). Staruszek został porwany przez nazistów, gdyż w swojej pracy jako archeolog sporządził dziennik, dzięki któremu można dotrzeć do pewnych wartościowych przedmiotów, w tym świętego Graala. Indy musi odnaleźć i ojca, i dziennik, a pomaga mu jego przyjaciel, dr Marcus Brody (<a href=\"/osoba/?id=nm0001186\">Denholm Elliott</a>), oraz piękna dr Schneider (Alison Doody).",
+  "producers": [
+    {
+      "id": "nm0000184",
+      "name": "George Lucas"
+    },
+    {
+      "id": "nm0550881",
+      "name": "Frank Marshall"
+    },
+    {
+      "id": "nm0720085",
+      "name": "Arthur F. Repola"
+    },
+    {
+      "id": "nm0915226",
+      "name": "Robert Watts"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0002354",
+      "name": "John Williams"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005878",
+      "name": "Douglas Slocombe"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

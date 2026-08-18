@@ -1,0 +1,223 @@
+{
+  "imdb_id": "tt0076752",
+  "title": "The Spy Who Loved Me",
+  "description": "James Bond investigates the hijacking of British and Russian submarines carrying nuclear warheads, with the help of a K.G.B. agent whose lover he killed.",
+  "runtime_minutes": 125,
+  "release_date": "03.08.1977",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000549",
+      "name": "Roger Moore"
+    },
+    {
+      "id": "nm0000819",
+      "name": "Barbara Bach"
+    },
+    {
+      "id": "nm0432007",
+      "name": "Curd Jürgens"
+    },
+    {
+      "id": "nm0001423",
+      "name": "Richard Kiel"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0318150",
+      "name": "Lewis Gilbert"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0228970",
+      "name": "Christopher Wood"
+    },
+    {
+      "id": "nm0537363",
+      "name": "Richard Maibaum"
+    },
+    {
+      "id": "nm0001220",
+      "name": "Ian Fleming"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000549",
+      "name": "Roger Moore",
+      "character": "James Bond"
+    },
+    {
+      "id": "nm0000819",
+      "name": "Barbara Bach",
+      "character": "Major Anya Amasova"
+    },
+    {
+      "id": "nm0432007",
+      "name": "Curd Jürgens",
+      "character": "Stromberg"
+    },
+    {
+      "id": "nm0001423",
+      "name": "Richard Kiel",
+      "character": "Jaws"
+    },
+    {
+      "id": "nm0613098",
+      "name": "Caroline Munro",
+      "character": "Naomi"
+    },
+    {
+      "id": "nm0331770",
+      "name": "Walter Gotell",
+      "character": "General Gogol"
+    },
+    {
+      "id": "nm0444584",
+      "name": "Geoffrey Keen",
+      "character": "Minister of Defence"
+    },
+    {
+      "id": "nm0496866",
+      "name": "Bernard Lee",
+      "character": "M"
+    },
+    {
+      "id": "nm0048468",
+      "name": "George Baker",
+      "character": "Captain Benson"
+    },
+    {
+      "id": "nm0082545",
+      "name": "Michael Billington",
+      "character": "Sergei"
+    },
+    {
+      "id": "nm0083944",
+      "name": "Olga Bisera",
+      "character": "Felicca"
+    },
+    {
+      "id": "nm0005155",
+      "name": "Desmond Llewelyn",
+      "character": "Q"
+    },
+    {
+      "id": "nm0211767",
+      "name": "Edward de Souza",
+      "character": "Sheikh Hosein"
+    },
+    {
+      "id": "nm0229943",
+      "name": "Vernon Dobtcheff",
+      "character": "Max Kalba"
+    },
+    {
+      "id": "nm0502538",
+      "name": "Valerie Leon",
+      "character": "Hotel Receptionist"
+    },
+    {
+      "id": "nm0561755",
+      "name": "Lois Maxwell",
+      "character": "Miss Moneypenny"
+    },
+    {
+      "id": "nm0846407",
+      "name": "Sydney Tafler",
+      "character": "Liparus Captain"
+    },
+    {
+      "id": "nm0768022",
+      "name": "Nadim Sawalha",
+      "character": "Fekkesh"
+    }
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "English",
+    "Italian",
+    "Arabic"
+  ],
+  "color": "Color",
+  "filmweb_id": 807,
+  "year": 1977,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOGQzNTIyYjAtNjAyNy00OTZhLTg4YmMtNzAyNjdiOTlhZDVlXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7,
+      "votes": 126247,
+      "distribution": {
+        "1": 776,
+        "2": 463,
+        "3": 945,
+        "4": 2305,
+        "5": 6970,
+        "6": 21633,
+        "7": 47896,
+        "8": 27052,
+        "9": 9092,
+        "10": 9115
+      },
+      "normalized": 5.563
+    },
+    "filmweb": {
+      "rating": 7.18,
+      "votes": 36623,
+      "distribution": {
+        "1": 107,
+        "2": 70,
+        "3": 280,
+        "4": 603,
+        "5": 2057,
+        "6": 5985,
+        "7": 13537,
+        "8": 9469,
+        "9": 2530,
+        "10": 1985
+      },
+      "normalized": 5.9627
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "17.05.2008",
+      "normalized": 4.5781
+    },
+    "score": 5.3679
+  },
+  "polish_title": "Szpieg, który mnie kochał",
+  "silent": false,
+  "description_pl": "Nikt nie zrobi tego lepiej niż Bond. Po raz kolejny <a href=\"/osoba/?id=nm0000549\">Roger Moore</a> wciela się w postać super agenta w eksplodującej akcją przygodzie, poczynając od egipskich piramid, poprzez dno oceanu aż po nieprawdopodobne popisy narciarskie. Razem z piękną rosyjską agentką Anyą Amasovą (Barbara Bach) stara się unieszkodliwić bezwzględnego Stromberga (<a href=\"/osoba/?id=nm0432007\">Curd Jürgens</a>) i zapobiec jego szaleńczemu pomysłowi unicestwienia świata.",
+  "producers": [
+    {
+      "id": "nm0110482",
+      "name": "Albert R. Broccoli"
+    },
+    {
+      "id": "nm0142081",
+      "name": "William P. Cartlidge"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006121",
+      "name": "Marvin Hamlisch"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005841",
+      "name": "Claude Renoir"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

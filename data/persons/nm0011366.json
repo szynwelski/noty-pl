@@ -1,0 +1,37 @@
+{
+  "id": "nm0011366",
+  "name": "Stanley Adams",
+  "filmography": [
+    {
+      "imdb_id": "tt0053125",
+      "title": "North by Northwest",
+      "year": 1959,
+      "roles": [
+        "cast"
+      ],
+      "character": "Lieutenant Harding"
+    },
+    {
+      "imdb_id": "tt0054698",
+      "title": "Breakfast at Tiffany's",
+      "year": 1961,
+      "roles": [
+        "cast"
+      ],
+      "character": "Rusty Trawler"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjE1ODQ1MzY2MF5BMl5BanBnXkFtZTcwNzMyNTUxOA@@._V1_.jpg",
+  "birth_date": "07.04.1915",
+  "death_date": "27.04.1977",
+  "birth_location": "New York City, New York, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 9492,
+  "name_pl": "Stanley Adams",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

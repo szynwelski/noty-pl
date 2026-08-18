@@ -1,0 +1,58 @@
+{
+  "id": "nm0001510",
+  "name": "Strother Martin",
+  "filmography": [
+    {
+      "imdb_id": "tt0056217",
+      "title": "The Man Who Shot Liberty Valance",
+      "year": 1962,
+      "roles": [
+        "cast"
+      ],
+      "character": "Floyd"
+    },
+    {
+      "imdb_id": "tt0061512",
+      "title": "Cool Hand Luke",
+      "year": 1967,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Captain"
+    },
+    {
+      "imdb_id": "tt0064115",
+      "title": "Butch Cassidy and the Sundance Kid",
+      "year": 1969,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Percy Garris"
+    },
+    {
+      "imdb_id": "tt0065214",
+      "title": "The Wild Bunch",
+      "year": 1969,
+      "roles": [
+        "cast"
+      ],
+      "character": "Coffer"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTU2NDU1MjMyMF5BMl5BanBnXkFtZTcwMDg0MjYwOA@@._V1_.jpg",
+  "birth_date": "26.03.1919",
+  "death_date": "01.08.1980",
+  "birth_location": "Kokomo, Indiana, USA",
+  "height": "1.65 m",
+  "filmweb_id": 31495,
+  "name_pl": "Strother Martin",
+  "birth_location_pl": "Kokomo, Indiana",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

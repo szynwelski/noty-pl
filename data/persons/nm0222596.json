@@ -1,0 +1,48 @@
+{
+  "id": "nm0222596",
+  "name": "Andy Devine",
+  "filmography": [
+    {
+      "imdb_id": "tt0019109",
+      "title": "Lonesome",
+      "year": 1928,
+      "roles": [
+        "cast"
+      ],
+      "character": "Jim's Friend"
+    },
+    {
+      "imdb_id": "tt0031971",
+      "title": "Stagecoach",
+      "year": 1939,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Buck"
+    },
+    {
+      "imdb_id": "tt0056217",
+      "title": "The Man Who Shot Liberty Valance",
+      "year": 1962,
+      "roles": [
+        "cast"
+      ],
+      "character": "Link Appleyard"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjVjM2NmZmMtNTI4NC00YTMwLWE1OWUtMzU2MDRmMThjNTRjXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "07.10.1905",
+  "death_date": "18.02.1977",
+  "birth_location": "Flagstaff, Arizona, USA",
+  "height": "1.83 m",
+  "filmweb_id": 52044,
+  "name_pl": "Andy Devine",
+  "birth_location_pl": "Flagstaff, Arizona",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

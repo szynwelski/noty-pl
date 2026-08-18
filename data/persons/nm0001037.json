@@ -1,0 +1,64 @@
+{
+  "id": "nm0001037",
+  "name": "Graham Chapman",
+  "filmography": [
+    {
+      "imdb_id": "tt0066765",
+      "title": "Monty Python's and Now for Something Completely Different",
+      "year": 1971,
+      "roles": [
+        "writer",
+        "star",
+        "cast"
+      ],
+      "character": "Brother"
+    },
+    {
+      "imdb_id": "tt0071853",
+      "title": "Monty Python and the Holy Grail",
+      "year": 1975,
+      "roles": [
+        "writer",
+        "star",
+        "cast"
+      ],
+      "character": "King Arthur"
+    },
+    {
+      "imdb_id": "tt0079470",
+      "title": "Monty Python's Life of Brian",
+      "year": 1979,
+      "roles": [
+        "writer",
+        "star",
+        "cast"
+      ],
+      "character": "Wise Man #2"
+    },
+    {
+      "imdb_id": "tt0085959",
+      "title": "Monty Python's the Meaning of Life",
+      "year": 1983,
+      "roles": [
+        "writer",
+        "cast"
+      ],
+      "character": "Chairman"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjAzODAyODc4NF5BMl5BanBnXkFtZTcwODY5MzAxMw@@._V1_.jpg",
+  "birth_date": "08.01.1941",
+  "death_date": "04.10.1989",
+  "birth_location": "Leicester, Leicestershire, England, UK",
+  "height": "1.91 m",
+  "filmweb_id": 8470,
+  "name_pl": "Graham Chapman",
+  "birth_location_pl": "Leicester, Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 8470
+}

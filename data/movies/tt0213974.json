@@ -1,0 +1,83 @@
+{
+  "imdb_id": "tt0213974",
+  "title": "A Panoramic View in the Grand Canal",
+  "description": "The first moving shot, created by a stationary camera on a gondola in Panorama du Grand Canal vu d'un Bateau, was filmed by Alexandre Promio for Louis Lumiere. Filming Locations: Venice, Veneto, Italy. Release Date: 1896 (France).",
+  "runtime_minutes": 1,
+  "release_date": "25.10.1896",
+  "genres": [
+    "Documentary",
+    "Short"
+  ],
+  "directors": [
+    {
+      "id": "nm0698645",
+      "name": "Alexandre Promio"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "United Kingdom",
+    "France"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "year": 1896,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTdmNmQ2YjktOTUzMi00MjlkLTg2MWMtODM3MzFmMTFhYzBmXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 290444,
+  "ratings": {
+    "imdb": {
+      "rating": 6.3,
+      "votes": 746,
+      "distribution": {
+        "1": 25,
+        "2": 18,
+        "3": 9,
+        "4": 37,
+        "5": 117,
+        "6": 220,
+        "7": 181,
+        "8": 74,
+        "9": 26,
+        "10": 39
+      },
+      "normalized": 4.7532
+    },
+    "filmweb": {
+      "rating": 6.29,
+      "votes": 76,
+      "distribution": {
+        "1": 2,
+        "2": 0,
+        "3": 2,
+        "4": 3,
+        "5": 13,
+        "6": 22,
+        "7": 19,
+        "8": 11,
+        "9": 0,
+        "10": 4
+      },
+      "normalized": 4.8985
+    },
+    "jarek": {
+      "rating": 8,
+      "date_rated": "11.12.2016",
+      "normalized": 7.8989
+    },
+    "score": 5.8502
+  },
+  "polish_title": "Panorama du Grand Canal vu d'un bateau",
+  "silent": true,
+  "cinematographers": [
+    {
+      "id": "nm0698645",
+      "name": "Alexandre Promio"
+    }
+  ],
+  "composers": [],
+  "original_title": "Panorama du grand Canal pris d'un bateau",
+  "fetched_at": "2026-08-16"
+}

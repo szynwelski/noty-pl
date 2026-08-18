@@ -1,0 +1,124 @@
+{
+  "imdb_id": "tt5145334",
+  "title": "Walnut Tree",
+  "description": "A young couple from southern Kazakhstan plan to get married. But according to the local tradition, the groom ought to steal the future bride.",
+  "runtime_minutes": 81,
+  "release_date": "14.10.2015",
+  "genres": [
+    "Comedy"
+  ],
+  "stars": [
+    {
+      "id": "nm7682229",
+      "name": "Balnur Asyl"
+    },
+    {
+      "id": "nm7682231",
+      "name": "Asylbek Musabekov"
+    },
+    {
+      "id": "nm5175582",
+      "name": "Rustem Zhanyamanov"
+    },
+    {
+      "id": "nm7682230",
+      "name": "Nurzhan Zhumanov"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm4298195",
+      "name": "Yerlan Nurmukhambetov"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm7682229",
+      "name": "Balnur Asyl",
+      "character": ""
+    },
+    {
+      "id": "nm7682231",
+      "name": "Asylbek Musabekov",
+      "character": ""
+    },
+    {
+      "id": "nm5175582",
+      "name": "Rustem Zhanyamanov",
+      "character": ""
+    },
+    {
+      "id": "nm7682230",
+      "name": "Nurzhan Zhumanov",
+      "character": ""
+    }
+  ],
+  "countries": [
+    "Kazakhstan"
+  ],
+  "languages": [
+    "Kazakh"
+  ],
+  "color": "Color",
+  "filmweb_id": 750331,
+  "year": 2015,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTk2NTBhYzMtNTJjMi00NTkzLTkyOTctMmFkYmIwODdkZDI5XkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Zhangak tal",
+  "ratings": {
+    "imdb": {
+      "rating": 6.2,
+      "votes": 56,
+      "distribution": {
+        "1": 2,
+        "2": 0,
+        "3": 2,
+        "4": 5,
+        "5": 7,
+        "6": 20,
+        "7": 15,
+        "8": 3,
+        "9": 1,
+        "10": 1
+      },
+      "normalized": 5.2159
+    },
+    "filmweb": {
+      "rating": 6.2,
+      "votes": 60,
+      "distribution": {
+        "2": 1,
+        "3": 1,
+        "4": 7,
+        "5": 6,
+        "6": 16,
+        "7": 20,
+        "8": 8,
+        "9": 1,
+        "10": 0
+      },
+      "normalized": 4.9113
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "12.10.2020",
+      "normalized": 6.4102
+    },
+    "score": 5.5125
+  },
+  "polish_title": "Orzech",
+  "silent": false,
+  "description_pl": "Hymn ku czci zwykłych ludzi, w którym komediowe i dramatyczne wątki przeplatają się do ostatnich scen. Historia młodego małżeństwa z przepięknych i niezwykle malowniczych terenów południowego Kazachstanu. W tle codziennej krzątaniny mieszkańców pewnej wioski, rodzi się wielka miłość. Zakochani, szanując historię i kulturę swoich rodzin oraz przodków, postanawiają pobrać się w duchu miejscowej, wielowiekowej tradycji. A do tego niezbędne jest porwanie przyszłej panny młodej… Pełne poczucia humoru kino ze Wschodu.",
+  "producers": [
+    {
+      "id": "nm7682232",
+      "name": "Yerzhan Akhmetov"
+    },
+    {
+      "id": "nm5644505",
+      "name": "Yuliya Kim"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

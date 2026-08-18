@@ -1,0 +1,35 @@
+{
+  "id": "nm1259728",
+  "name": "Michael Cunningham",
+  "filmography": [
+    {
+      "imdb_id": "tt0274558",
+      "title": "The Hours",
+      "year": 2002,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0765447",
+      "title": "Evening",
+      "year": 2007,
+      "roles": [
+        "writer",
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTk1NTQyOTI4Nl5BMl5BanBnXkFtZTYwMzU0ODI4._V1_.jpg",
+  "birth_date": "06.11.1952",
+  "birth_location": "Cincinnati, Ohio, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 71230,
+  "name_pl": "Michael Cunningham",
+  "birth_location_pl": "Cincinnati, Ohio",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

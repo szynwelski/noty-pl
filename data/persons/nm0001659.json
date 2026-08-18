@@ -1,0 +1,41 @@
+{
+  "id": "nm0001659",
+  "name": "Christopher Reeve",
+  "filmography": [
+    {
+      "imdb_id": "tt0078346",
+      "title": "Superman",
+      "year": 1978,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Superman"
+    },
+    {
+      "imdb_id": "tt0107943",
+      "title": "The Remains of the Day",
+      "year": 1993,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Lewis"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZDM3MTg2NjMtMjQ1Ni00OTcxLWJlN2MtOWIzYTZlODgzNDJmXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "25.09.1952",
+  "death_date": "10.10.2004",
+  "birth_location": "New York City, New York, USA",
+  "height": "1.93 m",
+  "imdb_scraped": true,
+  "filmweb_id": 9094,
+  "name_pl": "Christopher Reeve",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 9094
+}

@@ -1,0 +1,202 @@
+{
+  "imdb_id": "tt0230992",
+  "title": "Zakochani",
+  "description": "",
+  "runtime_minutes": 104,
+  "release_date": "28.01.2000",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0162123",
+      "name": "Magdalena Cielecka"
+    },
+    {
+      "id": "nm0649044",
+      "name": "Bartosz Opania"
+    },
+    {
+      "id": "nm0668640",
+      "name": "Cezary Pazura"
+    },
+    {
+      "id": "nm0523821",
+      "name": "Olaf Lubaszenko"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0921264",
+      "name": "Piotr Weresniak"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0921264",
+      "name": "Piotr Weresniak"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0162123",
+      "name": "Magdalena Cielecka",
+      "character": "Zosia Karska"
+    },
+    {
+      "id": "nm0649044",
+      "name": "Bartosz Opania",
+      "character": "Mateusz"
+    },
+    {
+      "id": "nm0668640",
+      "name": "Cezary Pazura",
+      "character": "Szczepan Zadymek"
+    },
+    {
+      "id": "nm0523821",
+      "name": "Olaf Lubaszenko",
+      "character": "Prawnik"
+    },
+    {
+      "id": "nm0276758",
+      "name": "Katarzyna Figura",
+      "character": "Edyta Bobicka"
+    },
+    {
+      "id": "nm0296809",
+      "name": "Jan Frycz",
+      "character": "Bobicki"
+    },
+    {
+      "id": "nm0879203",
+      "name": "Beata Tyszkiewicz",
+      "character": "Ciocia Neli"
+    },
+    {
+      "id": "nm0915352",
+      "name": "Pawel Wawrzecki",
+      "character": "Willy"
+    },
+    {
+      "id": "nm0331426",
+      "name": "Ewa Gorzelak",
+      "character": "Niunka"
+    },
+    {
+      "id": "nm0648190",
+      "name": "Edyta Olszówka",
+      "character": "Mother of Zosia"
+    },
+    {
+      "id": "nm0467082",
+      "name": "Cezary Kosiński",
+      "character": "Architekt"
+    },
+    {
+      "id": "nm0070399",
+      "name": "Joanna Benda",
+      "character": "Katia"
+    },
+    {
+      "id": "nm0631102",
+      "name": "Leon Niemczyk",
+      "character": "Ksiadz"
+    },
+    {
+      "id": "nm0760599",
+      "name": "Anna Samusionek",
+      "character": "Sekretarka Bobinskiego"
+    },
+    {
+      "id": "nm0460147",
+      "name": "Marta Klubowicz",
+      "character": "Poznanska"
+    },
+    {
+      "id": "nm1568374",
+      "name": "Barry Abdullaje",
+      "character": "Plane Passenger"
+    },
+    {
+      "id": "nm3126852",
+      "name": "Boguslaw Bagsik",
+      "character": ""
+    },
+    {
+      "id": "nm1548694",
+      "name": "Gabriela Czyzewska",
+      "character": ""
+    }
+  ],
+  "countries": [
+    "Poland"
+  ],
+  "languages": [
+    "Polish"
+  ],
+  "color": "Color",
+  "filmweb_id": 833,
+  "year": 2000,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYThhNTdhZDAtNDJkOS00MWI2LWI1ZmItNmE0N2M0YzY3NTE3XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5,
+      "votes": 405,
+      "distribution": {
+        "1": 12,
+        "2": 20,
+        "3": 43,
+        "4": 61,
+        "5": 90,
+        "6": 82,
+        "7": 53,
+        "8": 26,
+        "9": 8,
+        "10": 10
+      },
+      "normalized": 4.1862
+    },
+    "filmweb": {
+      "rating": 6.12,
+      "votes": 34737,
+      "distribution": {
+        "1": 373,
+        "2": 528,
+        "3": 1522,
+        "4": 2631,
+        "5": 5810,
+        "6": 9188,
+        "7": 8596,
+        "8": 4014,
+        "9": 1075,
+        "10": 1000
+      },
+      "normalized": 3.5649
+    },
+    "michal": {
+      "rating": 3,
+      "date_rated": "07.01.2013",
+      "normalized": 3.8753
+    },
+    "score": 3.8755
+  },
+  "polish_title": "Zakochani",
+  "silent": false,
+  "description_pl": "Zosia jest młodą, piękną i inteligentną dziewczyną. Żaden mężczyzna nie może oprzeć się jej urokowi, wszyscy gotowi są porzucić dla niej cały porządek dotychczasowego życia, obsypywać prezentami, byle tylko zdobyć serce cudownej dziewczyny. Ona zręcznie wykorzystuje swój uwodzicielski dar, tym bardziej, że sama nie zaznała jeszcze uczucia, jakim obdarzają ją nieszczęśni adoratorzy. Ale wszystko do czasu. Kiedy poznaje Mateusza, odkrywa, co znaczy kochać.",
+  "composers": [
+    {
+      "id": "nm0520608",
+      "name": "Michal Lorenc"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0708419",
+      "name": "Andrzej Ramlau"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

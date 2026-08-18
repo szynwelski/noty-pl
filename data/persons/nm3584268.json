@@ -1,0 +1,39 @@
+{
+  "id": "nm3584268",
+  "name": "James Norton",
+  "filmography": [
+    {
+      "imdb_id": "tt5497778",
+      "title": "Nosedive",
+      "year": 2016,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Ryan Pound"
+    },
+    {
+      "imdb_id": "tt3281548",
+      "title": "Little Women",
+      "year": 2019,
+      "roles": [
+        "cast"
+      ],
+      "character": "John Brooke"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTI5YTgxNGYtODMwMC00ZWZmLWJlYmMtMTVkM2NjMjcxOWVkXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "18.07.1985",
+  "birth_location": "London, England, UK",
+  "height": "1.85 m",
+  "imdb_scraped": true,
+  "filmweb_id": 1252202,
+  "name_pl": "James Norton",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 1252202
+}

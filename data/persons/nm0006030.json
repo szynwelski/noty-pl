@@ -1,0 +1,35 @@
+{
+  "id": "nm0006030",
+  "name": "Frank De Vol",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjM1OTg0NjU4OF5BMl5BanBnXkFtZTgwNTE2Mjg3MjE@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0056687",
+      "title": "What Ever Happened to Baby Jane?",
+      "year": 1962,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt0061735",
+      "title": "Guess Who's Coming to Dinner",
+      "year": 1967,
+      "roles": [
+        "composer"
+      ]
+    }
+  ],
+  "birth_date": "20.09.1911",
+  "death_date": "27.10.1999",
+  "birth_location": "Moundsville, West Virginia, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 42041,
+  "name_pl": "Frank De Vol",
+  "birth_location_pl": "Moundsville, Wirginia Zachodnia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

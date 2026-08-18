@@ -1,0 +1,179 @@
+{
+  "imdb_id": "tt4080926",
+  "title": "The Privileges of a Child",
+  "description": "A child has privileges: it can say something selfish, cry, indulge in daydreams, be exempted from working... However, when the time comes, these privileges won't be accepted.",
+  "runtime_minutes": 15,
+  "release_date": "2014",
+  "genres": [
+    "Short",
+    "Drama",
+    "Family"
+  ],
+  "stars": [
+    {
+      "id": "nm6812548",
+      "name": "Nanaka Ishii"
+    },
+    {
+      "id": "nm9555457",
+      "name": "Tôte Takahashi"
+    },
+    {
+      "id": "nm6812550",
+      "name": "Io Haiki"
+    },
+    {
+      "id": "nm6812551",
+      "name": "Ririka Iijima"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm6812547",
+      "name": "Yui Sekine"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm6433176",
+      "name": "Sato Masiko"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm6812548",
+      "name": "Nanaka Ishii",
+      "character": ""
+    },
+    {
+      "id": "nm9555457",
+      "name": "Tôte Takahashi",
+      "character": ""
+    },
+    {
+      "id": "nm6812550",
+      "name": "Io Haiki",
+      "character": ""
+    },
+    {
+      "id": "nm6812551",
+      "name": "Ririka Iijima",
+      "character": ""
+    },
+    {
+      "id": "nm5157758",
+      "name": "Shôta Watanabe",
+      "character": ""
+    },
+    {
+      "id": "nm6812553",
+      "name": "Ritsuto Haiki",
+      "character": ""
+    },
+    {
+      "id": "nm1026350",
+      "name": "Ayako Ishii",
+      "character": ""
+    },
+    {
+      "id": "nm6812554",
+      "name": "Miyuki Takahashi",
+      "character": ""
+    },
+    {
+      "id": "nm6812555",
+      "name": "Aono Haiki",
+      "character": ""
+    },
+    {
+      "id": "nm6812556",
+      "name": "Syotaro Arakaki",
+      "character": ""
+    },
+    {
+      "id": "nm4072043",
+      "name": "Noriko Arai",
+      "character": ""
+    },
+    {
+      "id": "nm6472410",
+      "name": "Hiroko Hayashi",
+      "character": ""
+    },
+    {
+      "id": "nm3858006",
+      "name": "Yasuyuki Hayashi",
+      "character": ""
+    },
+    {
+      "id": "nm6812557",
+      "name": "Emika Makita",
+      "character": ""
+    },
+    {
+      "id": "nm11928175",
+      "name": "Masahiko Sato",
+      "character": ""
+    },
+    {
+      "id": "nm6812559",
+      "name": "Tae Nakayama",
+      "character": ""
+    },
+    {
+      "id": "nm6812560",
+      "name": "Masahiro Ogido",
+      "character": ""
+    }
+  ],
+  "countries": [
+    "Japan"
+  ],
+  "languages": [
+    "Japanese"
+  ],
+  "color": "Color",
+  "filmweb_id": 725371,
+  "year": 2014,
+  "type": "short",
+  "image_url": null,
+  "original_title": "Kodomo no tokken",
+  "ratings": {
+    "imdb": {
+      "votes": 0,
+      "normalized": 5.5
+    },
+    "filmweb": {
+      "rating": 6.2,
+      "votes": 5,
+      "distribution": {
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 2,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 5.1833
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "22.12.2018",
+      "normalized": 6.4102
+    },
+    "score": 5.6978
+  },
+  "polish_title": "Przywileje dziecka",
+  "silent": false,
+  "cinematographers": [
+    {
+      "id": "nm7598916",
+      "name": "Tony"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

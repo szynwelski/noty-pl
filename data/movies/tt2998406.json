@@ -1,0 +1,231 @@
+{
+  "imdb_id": "tt2998406",
+  "title": "No Stranger Than Love",
+  "description": "What is stranger than the big hole that opens up in Lucy Sherrington's living room floor? As it turns out, love.",
+  "runtime_minutes": 89,
+  "release_date": "17.06.2016",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm1555340",
+      "name": "Alison Brie"
+    },
+    {
+      "id": "nm0154226",
+      "name": "Justin Chatwin"
+    },
+    {
+      "id": "nm0004988",
+      "name": "Colin Hanks"
+    },
+    {
+      "id": "nm1265771",
+      "name": "Mark Forward"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm3226283",
+      "name": "Nick Wernham"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0011376",
+      "name": "Steve Adams"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1555340",
+      "name": "Alison Brie",
+      "character": "Lucy Sherrington"
+    },
+    {
+      "id": "nm0154226",
+      "name": "Justin Chatwin",
+      "character": "Rydell Whyte"
+    },
+    {
+      "id": "nm0004988",
+      "name": "Colin Hanks",
+      "character": "Clint Coburn"
+    },
+    {
+      "id": "nm1265771",
+      "name": "Mark Forward",
+      "character": "Vernon Paulson"
+    },
+    {
+      "id": "nm0179453",
+      "name": "Christopher Cordell",
+      "character": "Randy Whyte"
+    },
+    {
+      "id": "nm2484864",
+      "name": "Lisa Berry",
+      "character": "Fay"
+    },
+    {
+      "id": "nm4402732",
+      "name": "Justin Bigelli",
+      "character": "Football Captain"
+    },
+    {
+      "id": "nm0117659",
+      "name": "Robin Brûlé",
+      "character": "Verna Coburn"
+    },
+    {
+      "id": "nm5626862",
+      "name": "Mason Cardwell",
+      "character": "Guy in Bar"
+    },
+    {
+      "id": "nm0142529",
+      "name": "Marium Carvell",
+      "character": "Woman #1"
+    },
+    {
+      "id": "nm3705425",
+      "name": "Julian De Zotti",
+      "character": "Craig Whyte"
+    },
+    {
+      "id": "nm0247720",
+      "name": "Jayne Eastwood",
+      "character": "Brenda"
+    },
+    {
+      "id": "nm2257755",
+      "name": "Dylan Everett",
+      "character": "Alex"
+    },
+    {
+      "id": "nm5979026",
+      "name": "Samuel Faraci",
+      "character": "Ghost Boy"
+    },
+    {
+      "id": "nm1145263",
+      "name": "Paul Fauteux",
+      "character": "Willie Perry"
+    },
+    {
+      "id": "nm0281284",
+      "name": "Barry Flatman",
+      "character": "Elliot Sherrington"
+    },
+    {
+      "id": "nm1720015",
+      "name": "Jennifer Goodhue",
+      "character": "Percy"
+    },
+    {
+      "id": "nm0337266",
+      "name": "Sabrina Grdevich",
+      "character": "Nancy"
+    }
+  ],
+  "countries": [
+    "Canada"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 693288,
+  "year": 2015,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjAwNzg4NjAyNV5BMl5BanBnXkFtZTgwMzgxNTM4ODE@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 4.8,
+      "votes": 2568,
+      "distribution": {
+        "1": 209,
+        "2": 116,
+        "3": 216,
+        "4": 369,
+        "5": 572,
+        "6": 441,
+        "7": 295,
+        "8": 92,
+        "9": 39,
+        "10": 219
+      },
+      "normalized": 2.5646
+    },
+    "filmweb": {
+      "rating": 4.67,
+      "votes": 969,
+      "distribution": {
+        "1": 27,
+        "2": 55,
+        "3": 161,
+        "4": 202,
+        "5": 229,
+        "6": 172,
+        "7": 81,
+        "8": 31,
+        "9": 6,
+        "10": 5
+      },
+      "normalized": 2.3937
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "29.12.2016",
+      "normalized": 4.9718
+    },
+    "score": 3.31
+  },
+  "polish_title": "Nic osobliwszego nad miłość",
+  "silent": false,
+  "producers": [
+    {
+      "id": "nm0192263",
+      "name": "Chris Cunningham"
+    },
+    {
+      "id": "nm2018896",
+      "name": "Paul Fler"
+    },
+    {
+      "id": "nm0490205",
+      "name": "Jeffrey Latimer"
+    },
+    {
+      "id": "nm1238326",
+      "name": "Mike Masters"
+    },
+    {
+      "id": "nm0740407",
+      "name": "Fred Roos"
+    },
+    {
+      "id": "nm3304531",
+      "name": "Richard Wernham"
+    },
+    {
+      "id": "nm2413131",
+      "name": "Simon Wernham"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0952944",
+      "name": "Geoff Zanelli"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0494093",
+      "name": "Michael LeBlanc"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

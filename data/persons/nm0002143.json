@@ -1,0 +1,50 @@
+{
+  "id": "nm0002143",
+  "name": "Edward Everett Horton",
+  "filmography": [
+    {
+      "imdb_id": "tt0027125",
+      "title": "Top Hat",
+      "year": 1935,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Horace Hardwick"
+    },
+    {
+      "imdb_id": "tt0029162",
+      "title": "Lost Horizon",
+      "year": 1937,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Lovett"
+    },
+    {
+      "imdb_id": "tt0036613",
+      "title": "Arsenic and Old Lace",
+      "year": 1944,
+      "roles": [
+        "cast"
+      ],
+      "character": "Mr. Witherspoon"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjA0MzI5ODUzOF5BMl5BanBnXkFtZTYwMDMxNjAz._V1_.jpg",
+  "birth_date": "18.03.1886",
+  "death_date": "29.09.1970",
+  "birth_location": "Brooklyn, New York City, New York, USA",
+  "height": "1.83 m",
+  "filmweb_id": 50728,
+  "name_pl": "Edward Everett Horton",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 50728
+}

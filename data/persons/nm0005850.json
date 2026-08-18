@@ -1,0 +1,36 @@
+{
+  "id": "nm0005850",
+  "name": "Giuseppe Rotunno",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjgwZmFlZjAtN2E5Mi00MTc4LWExNWYtOThjMDc5MzU3ZTJjXkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0054248",
+      "title": "Rocco and His Brothers",
+      "year": 1960,
+      "roles": [
+        "cinematographer"
+      ]
+    },
+    {
+      "imdb_id": "tt0078754",
+      "title": "All That Jazz",
+      "year": 1979,
+      "roles": [
+        "cinematographer"
+      ]
+    }
+  ],
+  "birth_date": "19.03.1923",
+  "death_date": "07.02.2021",
+  "birth_location": "Rome, Lazio, Italy",
+  "imdb_scraped": true,
+  "filmweb_id": 12481,
+  "name_pl": "Giuseppe Rotunno",
+  "birth_location_pl": "Rzym",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Włochy"
+  ],
+  "wikidata_fw_id": 12481
+}

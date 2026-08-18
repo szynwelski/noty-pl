@@ -1,0 +1,39 @@
+{
+  "id": "nm0865949",
+  "name": "Goya Toledo",
+  "filmography": [
+    {
+      "imdb_id": "tt0245712",
+      "title": "Amores Perros",
+      "year": 2000,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Valeria"
+    },
+    {
+      "imdb_id": "tt0867336",
+      "title": "El último justo",
+      "year": 2007,
+      "roles": [
+        "cast"
+      ],
+      "character": "Victoria"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDMyNTkwYTEtODIxYy00N2E0LWJjMTYtNGJkM2E4ODAzMGJhXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "24.09.1969",
+  "birth_location": "Lanzarote, Canary Islands, Spain",
+  "height": "1.73 m",
+  "imdb_scraped": true,
+  "filmweb_id": 45423,
+  "name_pl": "Goya Toledo",
+  "birth_location_pl": "Arrecife",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Hiszpania"
+  ],
+  "wikidata_fw_id": 45423
+}

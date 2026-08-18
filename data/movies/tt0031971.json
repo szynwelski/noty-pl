@@ -1,0 +1,213 @@
+{
+  "imdb_id": "tt0031971",
+  "title": "Stagecoach",
+  "description": "A group of people traveling on a stagecoach find their journey complicated by the threat of Geronimo and learn something about each other in the process.",
+  "runtime_minutes": 96,
+  "release_date": "03.03.1939",
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Western"
+  ],
+  "stars": [
+    {
+      "id": "nm0000078",
+      "name": "John Wayne"
+    },
+    {
+      "id": "nm0872456",
+      "name": "Claire Trevor"
+    },
+    {
+      "id": "nm0222596",
+      "name": "Andy Devine"
+    },
+    {
+      "id": "nm0001017",
+      "name": "John Carradine"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000406",
+      "name": "John Ford"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0370697",
+      "name": "Ernest Haycox"
+    },
+    {
+      "id": "nm0629580",
+      "name": "Dudley Nichols"
+    },
+    {
+      "id": "nm0372942",
+      "name": "Ben Hecht"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000078",
+      "name": "John Wayne",
+      "character": "Ringo Kid"
+    },
+    {
+      "id": "nm0872456",
+      "name": "Claire Trevor",
+      "character": "Dallas"
+    },
+    {
+      "id": "nm0222596",
+      "name": "Andy Devine",
+      "character": "Buck"
+    },
+    {
+      "id": "nm0001017",
+      "name": "John Carradine",
+      "character": "Hatfield"
+    },
+    {
+      "id": "nm0593775",
+      "name": "Thomas Mitchell",
+      "character": "Doc Josiah Boone"
+    },
+    {
+      "id": "nm0686883",
+      "name": "Louise Platt",
+      "character": "Mrs. Lucy Mallory"
+    },
+    {
+      "id": "nm0051628",
+      "name": "George Bancroft",
+      "character": "Marshal Curley Wilcox"
+    },
+    {
+      "id": "nm0576083",
+      "name": "Donald Meek",
+      "character": "Samuel Peacock"
+    },
+    {
+      "id": "nm0161414",
+      "name": "Berton Churchill",
+      "character": "Ellsworth Henry Gatewood"
+    },
+    {
+      "id": "nm0392529",
+      "name": "Tim Holt",
+      "character": "Lt. Blanchard"
+    },
+    {
+      "id": "nm0878927",
+      "name": "Tom Tyler",
+      "character": "Luke Plummer"
+    },
+    {
+      "id": "nm0032356",
+      "name": "Dorothy Appleby",
+      "character": "Girl in Saloon"
+    },
+    {
+      "id": "nm0048448",
+      "name": "Frank Baker",
+      "character": ""
+    },
+    {
+      "id": "nm0081697",
+      "name": "Chief John Big Tree",
+      "character": "Indian Scout"
+    },
+    {
+      "id": "nm0082501",
+      "name": "Ted Billings",
+      "character": "Townsman"
+    },
+    {
+      "id": "nm0089446",
+      "name": "Wiggie Blowne",
+      "character": "Bit Part"
+    },
+    {
+      "id": "nm0097647",
+      "name": "Danny Borzage",
+      "character": ""
+    },
+    {
+      "id": "nm0103619",
+      "name": "Ed Brady",
+      "character": "Lordsburg Saloon Owner"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 31695,
+  "year": 1939,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZmQ5ZGIyMjYtMjczYy00N2EzLWE3ZjMtNmI4ZDc3MDVmOWEwXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.8,
+      "votes": 59432,
+      "distribution": {
+        "1": 1277,
+        "2": 262,
+        "3": 417,
+        "4": 736,
+        "5": 1896,
+        "6": 4834,
+        "7": 12356,
+        "8": 18514,
+        "9": 10007,
+        "10": 9133
+      },
+      "normalized": 6.9554
+    },
+    "filmweb": {
+      "rating": 7.46,
+      "votes": 6093,
+      "distribution": {
+        "1": 26,
+        "2": 6,
+        "3": 33,
+        "4": 81,
+        "5": 250,
+        "6": 730,
+        "7": 1906,
+        "8": 1979,
+        "9": 659,
+        "10": 423
+      },
+      "normalized": 6.5307
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "19.10.2005",
+      "normalized": 6.3474
+    },
+    "score": 6.6112
+  },
+  "polish_title": "Dyliżans",
+  "silent": false,
+  "description_pl": "Akcja westernu rozgrywa się w 1885 roku. W dyliżansie zdążającym do Nowego Meksyku jedzie kilku podróżnych. Dołącza do nich ścigany przez prawo Ringo Kid, szukający na bandytach odwetu za śmierć rodziny. Droga staje się coraz bardziej niebezpieczna. Pewnego dnia atakują ich Indianie. W obliczu niebezpieczeństwa każdy z pasażerów odkrywa swą prawdziwą twarz.",
+  "composers": [
+    {
+      "id": "nm0005993",
+      "name": "Gerard Carbonara"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0322688",
+      "name": "Bert Glennon"
+    }
+  ],
+  "fetched_at": "2026-08-15"
+}

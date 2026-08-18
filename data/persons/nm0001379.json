@@ -1,0 +1,112 @@
+{
+  "id": "nm0001379",
+  "name": "John Huston",
+  "filmography": [
+    {
+      "imdb_id": "tt0033870",
+      "title": "The Maltese Falcon",
+      "year": 1941,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0038991",
+      "title": "The Stranger",
+      "year": 1946,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0040506",
+      "title": "Key Largo",
+      "year": 1948,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0040897",
+      "title": "The Treasure of the Sierra Madre",
+      "year": 1948,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0042208",
+      "title": "The Asphalt Jungle",
+      "year": 1950,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0043265",
+      "title": "The African Queen",
+      "year": 1951,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0049513",
+      "title": "Moby Dick",
+      "year": 1956,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0071315",
+      "title": "Chinatown",
+      "year": 1974,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Noah Cross"
+    },
+    {
+      "imdb_id": "tt0073341",
+      "title": "The Man Who Would Be King",
+      "year": 1975,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0083284",
+      "title": "Victory",
+      "year": 1981,
+      "roles": [
+        "director"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMmMzZDgxZDgtMmNlNS00OWY2LWEwNDEtZGM4ODg4NTQ4NjRhXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "05.08.1906",
+  "death_date": "28.08.1987",
+  "birth_location": "Nevada, Missouri, USA",
+  "height": "1.87 m",
+  "filmweb_id": 8184,
+  "name_pl": "John Huston",
+  "birth_location_pl": "Nevada, Missouri",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 8184
+}

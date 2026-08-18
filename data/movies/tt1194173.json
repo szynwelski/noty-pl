@@ -1,0 +1,266 @@
+{
+  "imdb_id": "tt1194173",
+  "title": "The Bourne Legacy",
+  "description": "An expansion of the universe from Robert Ludlum's novels, centered on a new hero whose stakes have been triggered by the events of the previous three films.",
+  "runtime_minutes": 135,
+  "release_date": "10.08.2012",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0719637",
+      "name": "Jeremy Renner"
+    },
+    {
+      "id": "nm0001838",
+      "name": "Rachel Weisz"
+    },
+    {
+      "id": "nm0001570",
+      "name": "Edward Norton"
+    },
+    {
+      "id": "nm0001277",
+      "name": "Scott Glenn"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0006904",
+      "name": "Tony Gilroy"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0006904",
+      "name": "Tony Gilroy"
+    },
+    {
+      "id": "nm0319659",
+      "name": "Dan Gilroy"
+    },
+    {
+      "id": "nm0524924",
+      "name": "Robert Ludlum"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0719637",
+      "name": "Jeremy Renner",
+      "character": "Aaron Cross"
+    },
+    {
+      "id": "nm0001838",
+      "name": "Rachel Weisz",
+      "character": "Dr. Marta Shearing"
+    },
+    {
+      "id": "nm0001570",
+      "name": "Edward Norton",
+      "character": "Col Eric Byer, USAF, Ret."
+    },
+    {
+      "id": "nm0001277",
+      "name": "Scott Glenn",
+      "character": "Ezra Kramer"
+    },
+    {
+      "id": "nm0005078",
+      "name": "Stacy Keach",
+      "character": "Adm Mark Turso USN Ret."
+    },
+    {
+      "id": "nm0614220",
+      "name": "Donna Murphy",
+      "character": "Dita Mandy"
+    },
+    {
+      "id": "nm1985974",
+      "name": "Michael Chernus",
+      "character": "Arthur Ingram"
+    },
+    {
+      "id": "nm1015684",
+      "name": "Corey Stoll",
+      "character": "Zev Vendel"
+    },
+    {
+      "id": "nm5184387",
+      "name": "Alice Gainer",
+      "character": "Lean Forward MSNBC Anchor"
+    },
+    {
+      "id": "nm1565034",
+      "name": "Prue Lewarne",
+      "character": "CNN Reporter"
+    },
+    {
+      "id": "nm1197334",
+      "name": "Howard Leader",
+      "character": "MSNBC Man Analyst"
+    },
+    {
+      "id": "nm1515714",
+      "name": "James Joseph O'Neil",
+      "character": "Sterisyn-Morlanta Gateman"
+    },
+    {
+      "id": "nm0346702",
+      "name": "Tony Guida",
+      "character": "Dr. Benezara"
+    },
+    {
+      "id": "nm2259988",
+      "name": "Sonnie Brown",
+      "character": "Dr. Lieberburg"
+    },
+    {
+      "id": "nm0192406",
+      "name": "Neil Brooks Cunningham",
+      "character": "Dr. Dan Hillcott"
+    },
+    {
+      "id": "nm0411964",
+      "name": "Zeljko Ivanek",
+      "character": "Dr. Donald Foite"
+    },
+    {
+      "id": "nm1838568",
+      "name": "Robert Christopher Riley",
+      "character": "Outcome #6"
+    },
+    {
+      "id": "nm1161157",
+      "name": "Noel Wilson",
+      "character": "Neuro Luncheon MC"
+    }
+  ],
+  "countries": [
+    "United States",
+    "Japan",
+    "South Korea",
+    "Canada",
+    "United Arab Emirates",
+    "Philippines"
+  ],
+  "languages": [
+    "English",
+    "Tagalog",
+    "Korean",
+    "Russian"
+  ],
+  "color": "Color",
+  "filmweb_id": 482581,
+  "year": 2012,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTc4Njk3MDM1Nl5BMl5BanBnXkFtZTcwODgyOTMxOA@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.6,
+      "votes": 329717,
+      "distribution": {
+        "1": 3573,
+        "2": 2216,
+        "3": 4404,
+        "4": 10829,
+        "5": 29879,
+        "6": 81136,
+        "7": 110100,
+        "8": 53292,
+        "9": 16639,
+        "10": 17649
+      },
+      "normalized": 4.6428
+    },
+    "filmweb": {
+      "rating": 6.53,
+      "votes": 71094,
+      "distribution": {
+        "1": 196,
+        "2": 225,
+        "3": 1352,
+        "4": 2519,
+        "5": 8738,
+        "6": 19685,
+        "7": 24273,
+        "8": 10461,
+        "9": 2378,
+        "10": 1267
+      },
+      "normalized": 4.3773
+    },
+    "jarek": {
+      "rating": 2,
+      "date_rated": "13.02.2013",
+      "normalized": 3.5003
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "06.07.2015",
+      "normalized": 4.5781
+    },
+    "score": 4.2746
+  },
+  "polish_title": "Dziedzictwo Bourne'a",
+  "silent": false,
+  "description_pl": "Dwanaście lat temu, poznaliśmy Bourne'a, kiedy znaleziono go nieprzytomnego nad Morzem Śródziemnym. W trakcie kolejnych trzech filmów, widzowie śledzili jego walkę o przetrwanie i próby poznania własnej tożsamości. Poznali specjalny program CIA Treadstone i wyjątkowe zdolności Bourne'a. Pod koniec trzeciego filmu z serii fani mieli nawet poczucie, że historia została zakończona. \"Dziedzictwo Bourne'a\" po raz kolejny podnosi kurtynę, aby odsłonić jeszcze mroczniejsze warstwy intrygi i przedstawić widzom nowego bohatera. \"Dziedzictwo Bourne'a\" jest bezpośrednim spadkiem po tym, co wydarzyło się we wcześniejszych filmach. Publiczne ujawnienie się Bourne'a pod koniec \"<a href=\"/film/?id=tt0440963\">Ultimatum Bourne'a</a>\" okazało się być iskrą, która mogła zagrozić latom prac rozwojowych, służącym szkoleniu lepszych agentów i wojowników. Teraz widzowie odkryją, że istnieje mnóstwo programów wywiadowczych, a stworzony przez CIA Treadstone był jednym z wcześniejszych.",
+  "producers": [
+    {
+      "id": "nm0189777",
+      "name": "Patrick Crowley"
+    },
+    {
+      "id": "nm0289048",
+      "name": "Jennifer Fox"
+    },
+    {
+      "id": "nm0431779",
+      "name": "Lope V. Juban Jr."
+    },
+    {
+      "id": "nm0550881",
+      "name": "Frank Marshall"
+    },
+    {
+      "id": "nm1421145",
+      "name": "Henry Morrison"
+    },
+    {
+      "id": "nm1643824",
+      "name": "Ben Smith"
+    },
+    {
+      "id": "nm0830282",
+      "name": "Daniel M. Stillman"
+    },
+    {
+      "id": "nm0990025",
+      "name": "Andrew R. Tennenbaum"
+    },
+    {
+      "id": "nm1788648",
+      "name": "Jeffrey M. Weiner"
+    },
+    {
+      "id": "nm6023867",
+      "name": "Jongho Yi"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006133",
+      "name": "James Newton Howard"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005696",
+      "name": "Robert Elswit"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

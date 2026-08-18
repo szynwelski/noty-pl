@@ -1,0 +1,40 @@
+{
+  "id": "nm0025309",
+  "name": "John Amos",
+  "filmography": [
+    {
+      "imdb_id": "tt0097770",
+      "title": "Lock Up",
+      "year": 1989,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Meissner"
+    },
+    {
+      "imdb_id": "tt0099423",
+      "title": "Die Hard 2",
+      "year": 1990,
+      "roles": [
+        "cast"
+      ],
+      "character": "Grant"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzA4OTcxNzk0MF5BMl5BanBnXkFtZTcwMzc5NDQwOA@@._V1_.jpg",
+  "birth_date": "27.12.1939",
+  "death_date": "21.08.2024",
+  "birth_location": "Newark, New Jersey, USA",
+  "height": "1.83 m",
+  "imdb_scraped": true,
+  "filmweb_id": 9244,
+  "name_pl": "John Amos",
+  "birth_location_pl": "Newark, New Jersey",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 9244
+}

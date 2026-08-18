@@ -1,0 +1,206 @@
+{
+  "imdb_id": "tt0015864",
+  "title": "The Gold Rush",
+  "description": "A prospector goes to the Klondike during the 1890s gold rush in hopes of making his fortune, and is smitten with a girl he sees in a dance hall.",
+  "runtime_minutes": 95,
+  "release_date": "16.08.1925",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Drama",
+    "Romance",
+    "Western"
+  ],
+  "stars": [
+    {
+      "id": "nm0000122",
+      "name": "Charles Chaplin"
+    },
+    {
+      "id": "nm0841501",
+      "name": "Mack Swain"
+    },
+    {
+      "id": "nm0615306",
+      "name": "Tom Murray"
+    },
+    {
+      "id": "nm0074788",
+      "name": "Henry Bergman"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000122",
+      "name": "Charles Chaplin"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000122",
+      "name": "Charles Chaplin"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000122",
+      "name": "Charles Chaplin",
+      "character": "The Lone Prospector"
+    },
+    {
+      "id": "nm0841501",
+      "name": "Mack Swain",
+      "character": "Big Jim McKay"
+    },
+    {
+      "id": "nm0615306",
+      "name": "Tom Murray",
+      "character": "Black Larsen"
+    },
+    {
+      "id": "nm0074788",
+      "name": "Henry Bergman",
+      "character": "Hank Curtis"
+    },
+    {
+      "id": "nm0906618",
+      "name": "Malcolm Waite",
+      "character": "Jack Cameron"
+    },
+    {
+      "id": "nm0354913",
+      "name": "Georgia Hale",
+      "character": "Georgia"
+    },
+    {
+      "id": "nm1033900",
+      "name": "Jack Adams",
+      "character": "Man in Dance Hall"
+    },
+    {
+      "id": "nm1027682",
+      "name": "Frank Aderias",
+      "character": "Eskimo Child"
+    },
+    {
+      "id": "nm1027683",
+      "name": "Leona Aderias",
+      "character": "Eskimo Child"
+    },
+    {
+      "id": "nm0012447",
+      "name": "Lillian Adrian",
+      "character": "Woman in Dance Hall"
+    },
+    {
+      "id": "nm0021025",
+      "name": "Sam Allen",
+      "character": "Man in Dance Hall"
+    },
+    {
+      "id": "nm1035034",
+      "name": "Claude Anderson",
+      "character": "Man in Dance Hall"
+    },
+    {
+      "id": "nm0037161",
+      "name": "Harry Arras",
+      "character": "Georgia's Friend"
+    },
+    {
+      "id": "nm3608674",
+      "name": "Billy Atkins",
+      "character": "Extra on Boat"
+    },
+    {
+      "id": "nm0042317",
+      "name": "Albert Austin",
+      "character": "Prospector"
+    },
+    {
+      "id": "nm0064675",
+      "name": "F.J. Beauregard",
+      "character": "Man in Dance Hall"
+    },
+    {
+      "id": "nm1028059",
+      "name": "Marta Belfort",
+      "character": "Woman in Dance Hall"
+    },
+    {
+      "id": "nm1033941",
+      "name": "William Bell",
+      "character": "Man in Dance Hall"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "None",
+    "English"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 31336,
+  "year": 1925,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNGU1NjYzYTAtZmY0YS00NWIzLTkzNzUtYzc2ZTIyOTIxZjVhXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8.1,
+      "votes": 128857,
+      "distribution": {
+        "1": 2289,
+        "2": 761,
+        "3": 839,
+        "4": 1224,
+        "5": 3130,
+        "6": 7077,
+        "7": 20605,
+        "8": 40532,
+        "9": 26704,
+        "10": 25696
+      },
+      "normalized": 7.7062
+    },
+    "filmweb": {
+      "rating": 7.8,
+      "votes": 12805,
+      "distribution": {
+        "1": 154,
+        "2": 42,
+        "3": 74,
+        "4": 125,
+        "5": 319,
+        "6": 906,
+        "7": 2870,
+        "8": 4584,
+        "9": 2227,
+        "10": 1504
+      },
+      "normalized": 7.5943
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "11.08.2010",
+      "normalized": 7.1247
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "19.10.2005",
+      "normalized": 7.2292
+    },
+    "score": 7.4136
+  },
+  "polish_title": "Gorączka złota",
+  "silent": true,
+  "description_pl": "Rok 1898, ludzi ogarnęła gorączka złota, każdy, kto może, ściąga do Klondike. Na Alaskę przybywa również Charlie. W czasie burzy śnieżnej chroni się w napotkanej chacie i przy tej okazji poznaje dwóch ludzi znanych w całej okolicy: dobrego \"Wielkiego\" Jima i złego \"Czarnego\" Larsena. Odcięci przez nawałnicę i śniegi, przeżywają tam ciężkie chwile, gdy zaczyna im brakować żywności. Zdesperowany Larsen wyrusza w końcu na poszukiwanie jedzenia, a oszalały z głodu Jim omal nie zostaje kanibalem.",
+  "cinematographers": [
+    {
+      "id": "nm0005906",
+      "name": "Roland Totheroh"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-15"
+}

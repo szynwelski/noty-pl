@@ -1,0 +1,133 @@
+{
+  "imdb_id": "tt0127948",
+  "title": "The Devilish Tenant",
+  "description": "A man rents an apartment and furnishes it in remarkable fashion.",
+  "runtime_minutes": 6,
+  "release_date": "01.01.1909",
+  "genres": [
+    "Short",
+    "Comedy"
+  ],
+  "stars": [
+    {
+      "id": "nm0165223",
+      "name": "Charles Claudel"
+    },
+    {
+      "id": "nm9342429",
+      "name": "Octavie Huvier"
+    },
+    {
+      "id": "nm2083046",
+      "name": "François Lallement"
+    },
+    {
+      "id": "nm0617587",
+      "name": "André Méliès"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0617588",
+      "name": "Georges Méliès"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0165223",
+      "name": "Charles Claudel",
+      "character": "The Male Janitor"
+    },
+    {
+      "id": "nm9342429",
+      "name": "Octavie Huvier",
+      "character": "The Female Janitor"
+    },
+    {
+      "id": "nm2083046",
+      "name": "François Lallement",
+      "character": "The Soldier"
+    },
+    {
+      "id": "nm0617587",
+      "name": "André Méliès",
+      "character": "The Son of the Devilish Tenant"
+    },
+    {
+      "id": "nm0617588",
+      "name": "Georges Méliès",
+      "character": "Le Locataire diabolique"
+    }
+  ],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "None",
+    "French"
+  ],
+  "color": null,
+  "filmweb_id": 89256,
+  "year": 1909,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYTFmYTY4MjMtNmIzNy00ZWExLWFkYWMtZDJhMmFjMjgyNzcyXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Le locataire diabolique",
+  "ratings": {
+    "imdb": {
+      "rating": 7.2,
+      "votes": 2159,
+      "distribution": {
+        "1": 28,
+        "2": 13,
+        "3": 25,
+        "4": 47,
+        "5": 137,
+        "6": 318,
+        "7": 750,
+        "8": 531,
+        "9": 156,
+        "10": 154
+      },
+      "normalized": 5.7121
+    },
+    "filmweb": {
+      "rating": 7.0,
+      "votes": 372,
+      "distribution": {
+        "1": 1,
+        "2": 1,
+        "3": 4,
+        "4": 4,
+        "5": 35,
+        "6": 81,
+        "7": 113,
+        "8": 86,
+        "9": 37,
+        "10": 10
+      },
+      "normalized": 5.4138
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "18.11.2007",
+      "normalized": 6.3474
+    },
+    "score": 5.8244
+  },
+  "polish_title": "Le Locataire diabolique",
+  "silent": true,
+  "description_pl": "Krótkometrażowy, iluzjonistyczny film w reżyserii Georgesa Méliès'go, reżysera uznawanego za geniusza iluzjonizmu. Pewien człowiek wynajmuje mieszkanie i stara się je modnie urządzić. Całość zrealizowana w magicznej formie.",
+  "composers": [
+    {
+      "id": "nm0004592",
+      "name": "Robert Israel"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0617588",
+      "name": "Georges Méliès"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

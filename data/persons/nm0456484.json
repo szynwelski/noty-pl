@@ -1,0 +1,38 @@
+{
+  "id": "nm0456484",
+  "name": "James Kirk",
+  "filmography": [
+    {
+      "imdb_id": "tt0417217",
+      "title": "Two for the Money",
+      "year": 2005,
+      "roles": [
+        "cast"
+      ],
+      "character": "Denny"
+    },
+    {
+      "imdb_id": "tt0454945",
+      "title": "She's the Man",
+      "year": 2006,
+      "roles": [
+        "cast"
+      ],
+      "character": "Sebastian"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDhmZDMwZmYtMGQ3Ny00YjZhLWEyNzQtOTc0MDNiODg2OWUzXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "02.05.1986",
+  "birth_location": "Vancouver, British Columbia, Canada",
+  "height": "1.80 m",
+  "imdb_scraped": true,
+  "filmweb_id": 137443,
+  "name_pl": "James Kirk",
+  "birth_location_pl": "Vancouver",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Kanada"
+  ],
+  "wikidata_fw_id": 137443
+}

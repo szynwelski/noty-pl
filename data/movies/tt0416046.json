@@ -1,0 +1,92 @@
+{
+  "imdb_id": "tt0416046",
+  "title": "Monkeyshines, No. 2",
+  "description": "In an experiment that follows up on the results of 'Monkeyshines, No. 1', an Edison company worker again moves around in front of the motion picture camera.",
+  "runtime_minutes": 1,
+  "release_date": "01.11.1897",
+  "genres": [
+    "Short"
+  ],
+  "stars": [
+    {
+      "id": "nm1362928",
+      "name": "Giuseppe Sacco Albanese"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0005690",
+      "name": "William K.L. Dickson"
+    },
+    {
+      "id": "nm0374658",
+      "name": "William Heise"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1362928",
+      "name": "Giuseppe Sacco Albanese",
+      "character": ""
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "year": 1890,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOGU3ZWI0OGItMjMwZi00NjlmLTlhMDYtM2JhNzFhZmZjOGUxXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 124802,
+  "ratings": {
+    "imdb": {
+      "rating": 4.8,
+      "votes": 1358,
+      "distribution": {
+        "1": 126,
+        "2": 87,
+        "3": 103,
+        "4": 201,
+        "5": 400,
+        "6": 217,
+        "7": 82,
+        "8": 39,
+        "9": 15,
+        "10": 88
+      },
+      "normalized": 3.0502
+    },
+    "filmweb": {
+      "rating": 3.98,
+      "votes": 198,
+      "distribution": {
+        "1": 24,
+        "2": 32,
+        "3": 36,
+        "4": 32,
+        "5": 33,
+        "6": 18,
+        "7": 6,
+        "8": 9,
+        "9": 2,
+        "10": 6
+      },
+      "normalized": 3.3008
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "11.12.2016",
+      "normalized": 4.9718
+    },
+    "score": 3.7743
+  },
+  "polish_title": "Monkeyshines, No. 2",
+  "silent": true,
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,92 @@
+{
+  "imdb_id": "tt0256782",
+  "title": "Glenroy Brothers (Comic Boxing)",
+  "description": "The Glenroy Brothers perform a portion of their vaudeville act, \"The Comic View of Boxing: The Tramp & the Athlete\", which depicts a boxer with a classic style trying to contend with an opponent who uses a very unorthodox approach.",
+  "runtime_minutes": 1,
+  "release_date": "05.10.1894",
+  "genres": [
+    "Documentary",
+    "Short",
+    "Comedy",
+    "Sport"
+  ],
+  "stars": [
+    {
+      "id": "nm9389426",
+      "name": "The Glenroy Brothers"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0005690",
+      "name": "William K.L. Dickson"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm9389426",
+      "name": "The Glenroy Brothers",
+      "character": "Self - The Tramp & the Athlete"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 241263,
+  "year": 1894,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BN2Y5OTU5MTMtYmYxOC00ZTc5LTlkNDMtZjA2N2UwZmY4NTVkXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.3,
+      "votes": 908,
+      "distribution": {
+        "1": 48,
+        "2": 34,
+        "3": 68,
+        "4": 118,
+        "5": 264,
+        "6": 211,
+        "7": 87,
+        "8": 39,
+        "9": 10,
+        "10": 29
+      },
+      "normalized": 3.8036
+    },
+    "filmweb": {
+      "rating": 4.63,
+      "votes": 87,
+      "distribution": {
+        "1": 6,
+        "2": 7,
+        "3": 6,
+        "4": 19,
+        "5": 24,
+        "6": 13,
+        "7": 9,
+        "8": 1,
+        "9": 0,
+        "10": 2
+      },
+      "normalized": 4.2553
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "11.12.2016",
+      "normalized": 5.6855
+    },
+    "score": 4.5815
+  },
+  "polish_title": "Glenroy Brothers (Comic Boxing)",
+  "silent": true,
+  "description_pl": "Sędzia i pięciu fanów (łącznie z kelnerem ubranym w fartuch) oglądają dwóch walczących ze sobą bokserów. Po walce fani siadają na środku ringu, bez emocji. Wszyscy mężczyźni ubrani są w stroje z końcówki XIX wieku.",
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-16"
+}

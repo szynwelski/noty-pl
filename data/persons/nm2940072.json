@@ -1,0 +1,45 @@
+{
+  "id": "nm2940072",
+  "name": "Harold Smith",
+  "filmography": [
+    {
+      "imdb_id": "tt0242849",
+      "title": "Santa Claus",
+      "year": 1898,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Boy"
+    },
+    {
+      "imdb_id": "tt0000304",
+      "title": "Grandma's Reading Glass",
+      "year": 1900,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Willy - the little grandson"
+    },
+    {
+      "imdb_id": "tt0000308",
+      "title": "The House That Jack Built",
+      "year": 1900,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Little brother"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYjRkZTdjYTItYmVlMy00NmQ5LWFjMmQtNWEwZWYzMTZiNjMxXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "05.04.1889",
+  "death_date": "26.11.1975",
+  "birth_location": "Brighton, East Sussex, England, UK",
+  "imdb_scraped": true,
+  "filmweb_id": 976625,
+  "name_pl": "Harold Smith",
+  "gender": "M",
+  "wikidata_processed": true
+}

@@ -1,0 +1,261 @@
+{
+  "imdb_id": "tt0386342",
+  "title": "Brothers",
+  "description": "Two brothers must negotiate changing roles and shifting family dynamics when one is sent to war in Afghanistan.",
+  "runtime_minutes": 117,
+  "release_date": "27.08.2004",
+  "genres": [
+    "Drama",
+    "War"
+  ],
+  "stars": [
+    {
+      "id": "nm0860947",
+      "name": "Ulrich Thomsen"
+    },
+    {
+      "id": "nm0509263",
+      "name": "Nikolaj Lie Kaas"
+    },
+    {
+      "id": "nm0001567",
+      "name": "Connie Nielsen"
+    },
+    {
+      "id": "nm1030344",
+      "name": "Sarah Juel Werner"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0081540",
+      "name": "Susanne Bier"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0081540",
+      "name": "Susanne Bier"
+    },
+    {
+      "id": "nm0421314",
+      "name": "Anders Thomas Jensen"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0860947",
+      "name": "Ulrich Thomsen",
+      "character": "Michael"
+    },
+    {
+      "id": "nm0509263",
+      "name": "Nikolaj Lie Kaas",
+      "character": "Jannik"
+    },
+    {
+      "id": "nm0001567",
+      "name": "Connie Nielsen",
+      "character": "Sarah"
+    },
+    {
+      "id": "nm1030344",
+      "name": "Sarah Juel Werner",
+      "character": "Natalia"
+    },
+    {
+      "id": "nm1499807",
+      "name": "Rebecca Løgstrup",
+      "character": "Camilla"
+    },
+    {
+      "id": "nm0577167",
+      "name": "Bent Mejding",
+      "character": "Henning"
+    },
+    {
+      "id": "nm0406056",
+      "name": "Solbjørg Højfeldt",
+      "character": "Else"
+    },
+    {
+      "id": "nm0647757",
+      "name": "Niels Olsen",
+      "character": "Allentoft"
+    },
+    {
+      "id": "nm0377603",
+      "name": "Paw Henriksen",
+      "character": "Niels Peter"
+    },
+    {
+      "id": "nm0387133",
+      "name": "Lars Hjortshøj",
+      "character": "Preben 2"
+    },
+    {
+      "id": "nm1046521",
+      "name": "Lars Ranthe",
+      "character": "Preben 1"
+    },
+    {
+      "id": "nm1039332",
+      "name": "André Babikian",
+      "character": "Nadeem"
+    },
+    {
+      "id": "nm1052286",
+      "name": "Lene Maria Christensen",
+      "character": "J. Solvej"
+    },
+    {
+      "id": "nm0110331",
+      "name": "Laura Bro",
+      "character": "Ditte"
+    },
+    {
+      "id": "nm0462724",
+      "name": "Henrik Koefoed",
+      "character": "Bartender"
+    },
+    {
+      "id": "nm0543429",
+      "name": "Tom Mannion",
+      "character": "Miles"
+    },
+    {
+      "id": "nm1600076",
+      "name": "Kae Bahar",
+      "character": "Makmuhd"
+    },
+    {
+      "id": "nm1625385",
+      "name": "Waleed Elgadi",
+      "character": "Samial-Tariq, Afghanistan"
+    }
+  ],
+  "countries": [
+    "Denmark",
+    "United Kingdom",
+    "Sweden",
+    "Norway"
+  ],
+  "languages": [
+    "Danish"
+  ],
+  "color": "Color",
+  "filmweb_id": 150498,
+  "year": 2004,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTMwODMyMTU5OV5BMl5BanBnXkFtZTcwMDY5MTkyMQ@@._V1_.jpg",
+  "original_title": "Brødre",
+  "ratings": {
+    "imdb": {
+      "rating": 7.5,
+      "votes": 12453,
+      "distribution": {
+        "1": 141,
+        "2": 70,
+        "3": 86,
+        "4": 173,
+        "5": 448,
+        "6": 1264,
+        "7": 3335,
+        "8": 4138,
+        "9": 1740,
+        "10": 1058
+      },
+      "normalized": 6.337
+    },
+    "filmweb": {
+      "rating": 7.41,
+      "votes": 5958,
+      "distribution": {
+        "1": 30,
+        "2": 12,
+        "3": 42,
+        "4": 88,
+        "5": 260,
+        "6": 682,
+        "7": 1785,
+        "8": 2082,
+        "9": 679,
+        "10": 298
+      },
+      "normalized": 6.4061
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "30.09.2010",
+      "normalized": 6.4102
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "15.07.2006",
+      "normalized": 7.2292
+    },
+    "score": 6.5956
+  },
+  "polish_title": "Bracia",
+  "silent": false,
+  "description_pl": "Michael, duński żołnierz, zaginął podczas misji pokojowej. Uznano go za zmarłego. To traumatyczne przeżycie odbija się na całej jego rodzinie. Młodszy brat Michaela, Janik (czarna owca rodziny), proponuje jego żonie Sarah i ich córkom opiekę. Nowa rola powoduje, że zbuntowany do tej pory Jannik szybko dojrzewa. I właśnie wtedy umęczony Michael zostaje wypuszczony z obozu wroga. Wraca do domu.",
+  "producers": [
+    {
+      "id": "nm0030823",
+      "name": "Anna Anthony"
+    },
+    {
+      "id": "nm0073020",
+      "name": "Karen Bentzon"
+    },
+    {
+      "id": "nm0077365",
+      "name": "Gillian Berrie"
+    },
+    {
+      "id": "nm0286843",
+      "name": "Malte Forssell"
+    },
+    {
+      "id": "nm1037838",
+      "name": "Peter Garde"
+    },
+    {
+      "id": "nm0421639",
+      "name": "Peter Aalbæk Jensen"
+    },
+    {
+      "id": "nm1011849",
+      "name": "Sisse Graum Jørgensen"
+    },
+    {
+      "id": "nm0630955",
+      "name": "Per Nielsen"
+    },
+    {
+      "id": "nm1351794",
+      "name": "Sofie Saxild"
+    },
+    {
+      "id": "nm1413503",
+      "name": "Aagot Skjeldal"
+    },
+    {
+      "id": "nm0897354",
+      "name": "Jaume Vilalta"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0845542",
+      "name": "Johan Söderqvist"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0845612",
+      "name": "Morten Søborg"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

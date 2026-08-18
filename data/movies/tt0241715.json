@@ -1,0 +1,93 @@
+{
+  "imdb_id": "tt0241715",
+  "title": "Men Boxing",
+  "description": "Two men wearing boxing gloves prepare to spar in the Edison Company studio.",
+  "runtime_minutes": 1,
+  "release_date": "1891",
+  "genres": [
+    "Documentary",
+    "Short",
+    "Action",
+    "Sport"
+  ],
+  "directors": [
+    {
+      "id": "nm0005690",
+      "name": "William K.L. Dickson"
+    },
+    {
+      "id": "nm0374658",
+      "name": "William Heise"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "None",
+    "English"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 93574,
+  "year": 1891,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDEwZjIzOTQtMTRkMy00MDIzLTgzNWUtNDJhYmYwZmZiMmM4XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 4.7,
+      "votes": 1254,
+      "distribution": {
+        "1": 89,
+        "2": 75,
+        "3": 132,
+        "4": 212,
+        "5": 381,
+        "6": 169,
+        "7": 85,
+        "8": 31,
+        "9": 23,
+        "10": 57
+      },
+      "normalized": 3.0379
+    },
+    "filmweb": {
+      "rating": 4.28,
+      "votes": 246,
+      "distribution": {
+        "1": 28,
+        "2": 20,
+        "3": 48,
+        "4": 39,
+        "5": 58,
+        "6": 20,
+        "7": 8,
+        "8": 14,
+        "9": 2,
+        "10": 9
+      },
+      "normalized": 3.272
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "11.12.2016",
+      "normalized": 4.9718
+    },
+    "score": 3.7606
+  },
+  "polish_title": "Men Boxing",
+  "silent": true,
+  "description_pl": "Dwóch mężczyzn ubranych w rękawice bokserskie stoi na sztucznym ringu bokserskim stworzonym w Studiu Edisona. Mężczyzna po lewej przyjmuje bokserską postawę i przygotowuje się do zadanie ciosu. Jednak ten po prawej skutecznie się broni.",
+  "producers": [
+    {
+      "id": "nm0005690",
+      "name": "William K.L. Dickson"
+    },
+    {
+      "id": "nm0374658",
+      "name": "William Heise"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

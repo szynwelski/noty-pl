@@ -1,0 +1,97 @@
+{
+  "imdb_id": "tt9144530",
+  "title": "Satash",
+  "description": "",
+  "runtime_minutes": 91,
+  "release_date": "01.11.2018",
+  "genres": [
+    "Drama",
+    "Western"
+  ],
+  "directors": [
+    {
+      "id": "nm10023783",
+      "name": "Tolegen Baitukenov"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm10023783",
+      "name": "Tolegen Baitukenov"
+    },
+    {
+      "id": "nm10023784",
+      "name": "Inna Baitukenova"
+    },
+    {
+      "id": "nm10198073",
+      "name": "Andrey Ten"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "Kazakhstan"
+  ],
+  "languages": [
+    "Kazakh",
+    "Russian"
+  ],
+  "color": "Color",
+  "filmweb_id": 813191,
+  "year": 2018,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYjJjODY3MDAtMmIxYy00ZGEzLWIyYjUtNmJiMDhlMThlY2I0XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.4,
+      "votes": 11,
+      "distribution": {
+        "1": 0,
+        "2": 0,
+        "3": 2,
+        "4": 1,
+        "5": 4,
+        "6": 1,
+        "7": 2,
+        "8": 0,
+        "9": 0,
+        "10": 1
+      },
+      "normalized": 5.264
+    },
+    "filmweb": {
+      "rating": 4.49,
+      "votes": 43,
+      "distribution": {
+        "1": 1,
+        "2": 4,
+        "3": 10,
+        "4": 2,
+        "5": 14,
+        "6": 8,
+        "7": 4,
+        "8": 0,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 4.5732
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "20.10.2018",
+      "normalized": 5.6855
+    },
+    "score": 5.1742
+  },
+  "polish_title": "Satash",
+  "silent": false,
+  "description_pl": "Na kazachskim stepie, w małej wsi, mieszka policjant Satash Baukebayev. Jest uczciwy i nieprzekupny, w przeciwieństwie do swojego ojca, skorumpowanego policjanta, który zginął z rąk gangsterów. Wraz z ojcem Satasha zginęli tego dnia też inni, niewinni ludzie z wioski. Policjant czuje się z tego powodu winny i stara się zadośćuczynić mieszkańcom, którzy mu nie ufają. Gdy pewnego dnia do wioski przybywają gangsterzy z ciężarówką wypełnioną niebezpiecznym ładunkiem, Satash musi zdecydować, czy podjąć nierówną walkę...",
+  "cinematographers": [
+    {
+      "id": "nm0747791",
+      "name": "Aleksander Rubanov"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

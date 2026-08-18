@@ -1,0 +1,208 @@
+{
+  "imdb_id": "tt0053176",
+  "title": "Night Train",
+  "description": "Jerzy enters a train set for the Baltic coast. He seems to be on the run from something, as does the strange woman with whom he must share a sleeping compartment.",
+  "runtime_minutes": 99,
+  "release_date": "06.09.1959",
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0935399",
+      "name": "Lucyna Winnicka"
+    },
+    {
+      "id": "nm0631102",
+      "name": "Leon Niemczyk"
+    },
+    {
+      "id": "nm0844182",
+      "name": "Teresa Szmigielówna"
+    },
+    {
+      "id": "nm0194193",
+      "name": "Zbigniew Cybulski"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0442819",
+      "name": "Jerzy Kawalerowicz"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0442819",
+      "name": "Jerzy Kawalerowicz"
+    },
+    {
+      "id": "nm0527480",
+      "name": "Jerzy Lutowski"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0935399",
+      "name": "Lucyna Winnicka",
+      "character": "Marta"
+    },
+    {
+      "id": "nm0631102",
+      "name": "Leon Niemczyk",
+      "character": "Jerzy"
+    },
+    {
+      "id": "nm0844182",
+      "name": "Teresa Szmigielówna",
+      "character": "Lawyer's Wife"
+    },
+    {
+      "id": "nm0194193",
+      "name": "Zbigniew Cybulski",
+      "character": "Staszek"
+    },
+    {
+      "id": "nm0246258",
+      "name": "Helena Dabrowska",
+      "character": "Train Controller"
+    },
+    {
+      "id": "nm0532672",
+      "name": "Ignacy Machowski",
+      "character": "Passenger"
+    },
+    {
+      "id": "nm0323197",
+      "name": "Roland Glowacki",
+      "character": "Murderer"
+    },
+    {
+      "id": "nm0786613",
+      "name": "Aleksander Sewruk",
+      "character": "Lawyer"
+    },
+    {
+      "id": "nm0957088",
+      "name": "Zygmunt Zintel",
+      "character": "Passenger Suffering from Insomnia"
+    },
+    {
+      "id": "nm0350328",
+      "name": "Tadeusz Gwiazdowski",
+      "character": "Train Controller"
+    },
+    {
+      "id": "nm0803898",
+      "name": "Witold Skaruch",
+      "character": "Priest"
+    },
+    {
+      "id": "nm0311069",
+      "name": "Michal Gazda",
+      "character": "Passenger Flirting with Lawyer's Wife"
+    },
+    {
+      "id": "nm0539026",
+      "name": "Zygmunt Malawski",
+      "character": "Policeman"
+    },
+    {
+      "id": "nm0517172",
+      "name": "Józef Lodynski",
+      "character": "Plain-Clothes Policeman"
+    },
+    {
+      "id": "nm0928057",
+      "name": "Kazimierz Wilamowski",
+      "character": "Passenger Sleeping in the Train Controller's Car"
+    },
+    {
+      "id": "nm0953241",
+      "name": "Jerzy Zapiór",
+      "character": "Boy Fooling Around"
+    },
+    {
+      "id": "nm0378812",
+      "name": "Andrzej Herder",
+      "character": "Sailor"
+    },
+    {
+      "id": "nm0394559",
+      "name": "Barbara Horawianka",
+      "character": "Jerzy's Wife"
+    }
+  ],
+  "countries": [
+    "Poland"
+  ],
+  "languages": [
+    "Polish"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 8718,
+  "year": 1959,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNjY4YWFmZDgtZTZjYi00MzM5LWE4MmQtZjM2N2UzM2Y3NjJlXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Pociag",
+  "ratings": {
+    "imdb": {
+      "rating": 7.7,
+      "votes": 4093,
+      "distribution": {
+        "1": 47,
+        "2": 23,
+        "3": 19,
+        "4": 52,
+        "5": 131,
+        "6": 359,
+        "7": 923,
+        "8": 1320,
+        "9": 717,
+        "10": 502
+      },
+      "normalized": 6.529
+    },
+    "filmweb": {
+      "rating": 8.11,
+      "votes": 34179,
+      "distribution": {
+        "1": 149,
+        "2": 51,
+        "3": 121,
+        "4": 241,
+        "5": 624,
+        "6": 1702,
+        "7": 5738,
+        "8": 12293,
+        "9": 8998,
+        "10": 4262
+      },
+      "normalized": 8.6537
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "17.01.2007",
+      "normalized": 7.2292
+    },
+    "score": 7.4706
+  },
+  "polish_title": "Pociąg",
+  "silent": false,
+  "description_pl": "Jerzy i Marta przypadkowo spotykają się w pociągu. Z powodu braku wolnych miejsc zostają zmuszeni do odbycia podróży w jednym przedziale, choć każde wolałoby tą podróż spędzić w samotności. Pomiędzy parą stopniowo nawiązuje się przyjazny kontakt. Szorstkie i niekonwencjonalne zachowanie Marty fascynuje Jerzego, który obserwując ją zapomina o swoich kłopotach...",
+  "composers": [
+    {
+      "id": "nm0874516",
+      "name": "Andrzej Trzaskowski"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0489669",
+      "name": "Jan Laskowski"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

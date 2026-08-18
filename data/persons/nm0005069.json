@@ -1,0 +1,58 @@
+{
+  "id": "nm0005069",
+  "name": "Spike Jonze",
+  "filmography": [
+    {
+      "imdb_id": "tt0120601",
+      "title": "Being John Malkovich",
+      "year": 1999,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0120188",
+      "title": "Three Kings",
+      "year": 1999,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "PFC Conrad Vig"
+    },
+    {
+      "imdb_id": "tt0268126",
+      "title": "Adaptation.",
+      "year": 2002,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt1798709",
+      "title": "Her",
+      "year": 2013,
+      "roles": [
+        "director",
+        "writer",
+        "cast",
+        "producer"
+      ],
+      "character": "Alien Child"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjE3MDkyNTMzNl5BMl5BanBnXkFtZTcwOTAxOTAyMw@@._V1_.jpg",
+  "birth_date": "22.10.1969",
+  "birth_location": "Rockville, Maryland, USA",
+  "height": "1.70 m",
+  "filmweb_id": 6665,
+  "name_pl": "Spike Jonze",
+  "birth_location_pl": "Rockville, Maryland",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 6665
+}

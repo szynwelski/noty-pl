@@ -1,0 +1,135 @@
+{
+  "imdb_id": "tt0000230",
+  "title": "Cinderella",
+  "description": "A fairy godmother magically turns Cinderella's rags to a beautiful dress, and a pumpkin into a coach. Cinderella goes to the ball, where she meets the Prince - but will she remember to leave before the magic runs out?",
+  "runtime_minutes": 6,
+  "release_date": "25.12.1899",
+  "genres": [
+    "Short",
+    "Drama",
+    "Family",
+    "Fantasy",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm1333156",
+      "name": "Mlle Barral"
+    },
+    {
+      "id": "nm0076933",
+      "name": "Bleuette Bernon"
+    },
+    {
+      "id": "nm1778224",
+      "name": "Carmelli"
+    },
+    {
+      "id": "nm0194945",
+      "name": "Jehanne d'Alcy"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0617588",
+      "name": "Georges Méliès"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0674518",
+      "name": "Charles Perrault"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1333156",
+      "name": "Mlle Barral",
+      "character": "Cinderella"
+    },
+    {
+      "id": "nm0076933",
+      "name": "Bleuette Bernon",
+      "character": "The Fairy Godmother"
+    },
+    {
+      "id": "nm1778224",
+      "name": "Carmelli",
+      "character": "Prince Charming"
+    },
+    {
+      "id": "nm0194945",
+      "name": "Jehanne d'Alcy",
+      "character": "Fairy Godmother"
+    },
+    {
+      "id": "nm1778292",
+      "name": "Dupeyron",
+      "character": "Party Guest"
+    },
+    {
+      "id": "nm0617588",
+      "name": "Georges Méliès",
+      "character": "Le gnome de la pendule"
+    }
+  ],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "year": 1899,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYWUyMTViODYtMDA4Zi00N2RlLWIzMDQtN2RkOTdhZjc5N2JkXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 157244,
+  "original_title": "Cendrillon",
+  "ratings": {
+    "imdb": {
+      "rating": 6.5,
+      "votes": 2114,
+      "distribution": {
+        "1": 30,
+        "2": 29,
+        "3": 54,
+        "4": 96,
+        "5": 251,
+        "6": 559,
+        "7": 598,
+        "8": 281,
+        "9": 103,
+        "10": 113
+      },
+      "normalized": 4.7423
+    },
+    "filmweb": {
+      "rating": 6.27,
+      "votes": 294,
+      "distribution": {
+        "2": 3,
+        "3": 11,
+        "4": 20,
+        "5": 37,
+        "6": 98,
+        "7": 73,
+        "8": 36,
+        "9": 8,
+        "10": 8
+      },
+      "normalized": 4.5391
+    },
+    "jarek": {
+      "rating": 8,
+      "date_rated": "13.12.2016",
+      "normalized": 7.8989
+    },
+    "score": 5.7268
+  },
+  "polish_title": "Cendrillon",
+  "silent": true,
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-15"
+}

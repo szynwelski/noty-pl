@@ -1,0 +1,225 @@
+{
+  "imdb_id": "tt0040497",
+  "title": "Jour de fête",
+  "description": "A village postman with no sense of humour delivers his mail via bicycle on the day the travelling fair comes to town. He is disrupted by a short film about US speed and efficiency and the playful teasing of the village folk.",
+  "runtime_minutes": 70,
+  "release_date": "11.05.1949",
+  "genres": [
+    "Comedy"
+  ],
+  "stars": [
+    {
+      "id": "nm0004244",
+      "name": "Jacques Tati"
+    },
+    {
+      "id": "nm0213948",
+      "name": "Guy Decomble"
+    },
+    {
+      "id": "nm0291289",
+      "name": "Paul Frankeur"
+    },
+    {
+      "id": "nm0718820",
+      "name": "Santa Relli"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0004244",
+      "name": "Jacques Tati"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0004244",
+      "name": "Jacques Tati"
+    },
+    {
+      "id": "nm0549804",
+      "name": "Henri Marquet"
+    },
+    {
+      "id": "nm0923941",
+      "name": "René Wheeler"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0004244",
+      "name": "Jacques Tati",
+      "character": "François le facteur"
+    },
+    {
+      "id": "nm0213948",
+      "name": "Guy Decomble",
+      "character": "Roger"
+    },
+    {
+      "id": "nm0291289",
+      "name": "Paul Frankeur",
+      "character": "Marcel"
+    },
+    {
+      "id": "nm0718820",
+      "name": "Santa Relli",
+      "character": "Germaine"
+    },
+    {
+      "id": "nm0885251",
+      "name": "Maine Vallée",
+      "character": "Jeannette"
+    },
+    {
+      "id": "nm0216656",
+      "name": "Delcassan",
+      "character": "La commère"
+    },
+    {
+      "id": "nm0706157",
+      "name": "Roger Rafal",
+      "character": "Le coiffeur"
+    },
+    {
+      "id": "nm0064720",
+      "name": "Jacques Beauvais",
+      "character": "Le cafetier"
+    },
+    {
+      "id": "nm0936232",
+      "name": "Alexandre Wirtz",
+      "character": ""
+    },
+    {
+      "id": "nm0051085",
+      "name": "Robert Balpo",
+      "character": "Le châtelain"
+    },
+    {
+      "id": "nm4264190",
+      "name": "César",
+      "character": "Un figurant"
+    },
+    {
+      "id": "nm0183015",
+      "name": "Jacques Cottin",
+      "character": "Brass Band Member in 'Bondu' Café"
+    },
+    {
+      "id": "nm8126947",
+      "name": "Gisèle Lamy",
+      "character": "Young girl on the way to fairground"
+    },
+    {
+      "id": "nm8126945",
+      "name": "Jean-Claude Laruelle",
+      "character": "Child in front of the merry-go-round"
+    },
+    {
+      "id": "nm8126946",
+      "name": "Thérèse Lassaunière",
+      "character": "Young Woman on cart"
+    },
+    {
+      "id": "nm0549804",
+      "name": "Henri Marquet",
+      "character": "Le boucher"
+    },
+    {
+      "id": "nm0616886",
+      "name": "Vali Myers",
+      "character": "Edith"
+    },
+    {
+      "id": "nm1949649",
+      "name": "Jacques Pasquet",
+      "character": "Bit part"
+    }
+  ],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "French"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 114803,
+  "year": 1949,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMWM5YjliMmItMTFjMi00MzRiLWEzMmUtNzA3N2IxNzU5NDljXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.2,
+      "votes": 9774,
+      "distribution": {
+        "1": 103,
+        "2": 54,
+        "3": 87,
+        "4": 206,
+        "5": 533,
+        "6": 1377,
+        "7": 2858,
+        "8": 2530,
+        "9": 1062,
+        "10": 964
+      },
+      "normalized": 5.8468
+    },
+    "filmweb": {
+      "rating": 6.5,
+      "votes": 411,
+      "distribution": {
+        "1": 3,
+        "2": 3,
+        "3": 15,
+        "4": 20,
+        "5": 60,
+        "6": 90,
+        "7": 111,
+        "8": 72,
+        "9": 27,
+        "10": 10
+      },
+      "normalized": 4.7089
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "24.03.2008",
+      "normalized": 5.4199
+    },
+    "score": 5.3252
+  },
+  "polish_title": "Dzień świąteczny",
+  "silent": false,
+  "description_pl": "Bohaterem filmu jest François - gamoniowaty listonosz, na którego usługi mieszkańcy miasteczka narzekają od dłuższego czasu. Tymczasem w Sainte-Severe odbywa się jarmark. Znajomi François upijają go i prowadzą do namiotu, w którym wyświetlany jest film dokumentalny o pracy amerykańskich listonoszy - błyskawicznie działających i wyposażonych w zaawansowany technologicznie sprzęt. Małomiasteczkowy listonosz bierze film śmiertelnie poważnie. Nie posiada wprawdzie nowoczesnego sprzętu, ale mimo wszystko stara się naśladować amerykańskich kolegów...",
+  "producers": [
+    {
+      "id": "nm2625222",
+      "name": "Michel Chauvin"
+    },
+    {
+      "id": "nm0649296",
+      "name": "Fred Orain"
+    },
+    {
+      "id": "nm0667400",
+      "name": "André Paulvé"
+    },
+    {
+      "id": "nm0851240",
+      "name": "Pierre Tati"
+    },
+    {
+      "id": "nm0906042",
+      "name": "Paul Wagner"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006342",
+      "name": "Jean Yatove"
+    }
+  ],
+  "fetched_at": "2026-08-15"
+}

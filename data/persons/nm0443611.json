@@ -1,0 +1,35 @@
+{
+  "id": "nm0443611",
+  "name": "Nikos Kazantzakis",
+  "filmography": [
+    {
+      "imdb_id": "tt0057831",
+      "title": "Zorba the Greek",
+      "year": 1964,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0095497",
+      "title": "The Last Temptation of Christ",
+      "year": 1988,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYzY0ZjM1OTctOGQ0My00ODgwLTlmNTEtYTMyZmRhMTZiOWNmXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "18.02.1883",
+  "death_date": "26.10.1957",
+  "birth_location": "Iraklio, Crete, Greece",
+  "imdb_scraped": true,
+  "filmweb_id": 865926,
+  "name_pl": "Nikos Kazantzakis",
+  "birth_location_pl": "Iraklion",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Grecja"
+  ]
+}

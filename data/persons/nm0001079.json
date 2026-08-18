@@ -1,0 +1,39 @@
+{
+  "id": "nm0001079",
+  "name": "Scatman Crothers",
+  "filmography": [
+    {
+      "imdb_id": "tt0073486",
+      "title": "One Flew Over the Cuckoo's Nest",
+      "year": 1975,
+      "roles": [
+        "cast"
+      ],
+      "character": "Turkle"
+    },
+    {
+      "imdb_id": "tt0081505",
+      "title": "The Shining",
+      "year": 1980,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Hallorann"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjEzNDY4OTU5N15BMl5BanBnXkFtZTcwNDU0MjYwOA@@._V1_.jpg",
+  "birth_date": "23.05.1910",
+  "death_date": "22.11.1986",
+  "birth_location": "Terre Haute, Indiana, USA",
+  "height": "1.78 m",
+  "imdb_scraped": true,
+  "filmweb_id": 8155,
+  "name_pl": "Scatman Crothers",
+  "birth_location_pl": "Terre Haute, Indiana",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

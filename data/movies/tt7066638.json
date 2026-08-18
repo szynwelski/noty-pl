@@ -1,0 +1,195 @@
+{
+  "imdb_id": "tt7066638",
+  "title": "The Bomb",
+  "description": "A deafening silent existence is dying to explode in order to live.",
+  "runtime_minutes": 94,
+  "release_date": "17.10.2017",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0229037",
+      "name": "Allen Dizon"
+    },
+    {
+      "id": "nm3611866",
+      "name": "Angellie Sanoy"
+    },
+    {
+      "id": "nm0667074",
+      "name": "Alan Paule"
+    },
+    {
+      "id": "nm2963158",
+      "name": "Sue Prado"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm2206915",
+      "name": "Ralston Jover"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm2206915",
+      "name": "Ralston Jover"
+    },
+    {
+      "id": "nm1202581",
+      "name": "Dennis C. Evangelista"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0229037",
+      "name": "Allen Dizon",
+      "character": ""
+    },
+    {
+      "id": "nm3611866",
+      "name": "Angellie Sanoy",
+      "character": ""
+    },
+    {
+      "id": "nm0667074",
+      "name": "Alan Paule",
+      "character": ""
+    },
+    {
+      "id": "nm2963158",
+      "name": "Sue Prado",
+      "character": ""
+    },
+    {
+      "id": "nm7711432",
+      "name": "Kate Brios",
+      "character": ""
+    },
+    {
+      "id": "nm0764755",
+      "name": "Joel Saracho",
+      "character": ""
+    },
+    {
+      "id": "nm6730571",
+      "name": "Felixia Crysten Dizon",
+      "character": ""
+    },
+    {
+      "id": "nm8170162",
+      "name": "Tabs Sumulong",
+      "character": ""
+    },
+    {
+      "id": "nm5940117",
+      "name": "Romeo Lindain",
+      "character": ""
+    },
+    {
+      "id": "nm9339300",
+      "name": "Lucas Allric Dizon",
+      "character": ""
+    },
+    {
+      "id": "nm3161144",
+      "name": "Apol Salonga",
+      "character": ""
+    },
+    {
+      "id": "nm7338938",
+      "name": "Bon Andrew Lentejas",
+      "character": ""
+    }
+  ],
+  "countries": [
+    "Philippines"
+  ],
+  "languages": [
+    "Tagalog"
+  ],
+  "color": "Color",
+  "filmweb_id": 793962,
+  "year": 2017,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYzVmOWE1OTctMWVlNS00M2ExLWE2NzMtZWVhMjkzMGU2NGY2XkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Bomba",
+  "ratings": {
+    "imdb": {
+      "rating": 5.3,
+      "votes": 14,
+      "distribution": {
+        "1": 1,
+        "2": 2,
+        "3": 1,
+        "4": 3,
+        "5": 2,
+        "6": 0,
+        "7": 3,
+        "8": 0,
+        "9": 1,
+        "10": 1
+      },
+      "normalized": 5.2552
+    },
+    "filmweb": {
+      "rating": 5.23,
+      "votes": 31,
+      "distribution": {
+        "1": 1,
+        "2": 1,
+        "3": 3,
+        "4": 6,
+        "5": 8,
+        "6": 5,
+        "7": 3,
+        "8": 2,
+        "9": 1,
+        "10": 1
+      },
+      "normalized": 4.8373
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "21.10.2017",
+      "normalized": 4.9718
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "27.10.2017",
+      "normalized": 5.4199
+    },
+    "score": 5.1211
+  },
+  "polish_title": "Bomba",
+  "silent": false,
+  "description_pl": "Pipo ma czterdzieści lat. By związać koniec z końcem, podejmuje się najgorszych i najcięższych prac. Życie w miejskiej dżungli utrudnia mu fakt, że jest niesłyszący. Musi utrzymać siebie i Cyril, nastoletnią kochankę. Dziewczyna i praca to jedyne, co mu w życiu zostało. Codziennie walczy z nieprzyjaznym szefem, a od niedawna także z Benem, kumplem z dzieciństwa, który chce odzyskać Cyril, swoją córkę. Pipo żył w stresie odkąd pamięta. Był jak tykająca bomba. Ostatnie wydarzenia sprawiają, że do wybuchu zostały dosłownie sekundy.",
+  "producers": [
+    {
+      "id": "nm1384025",
+      "name": "Harlene Bautista"
+    },
+    {
+      "id": "nm1202581",
+      "name": "Dennis C. Evangelista"
+    },
+    {
+      "id": "nm2371611",
+      "name": "Ferdinand Lapuz"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm2847585",
+      "name": "Emerzon Texon"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm5677187",
+      "name": "Pipo Domagas"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

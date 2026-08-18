@@ -1,0 +1,44 @@
+{
+  "id": "nm1031350",
+  "name": "Aleksander Mikolajczak",
+  "filmography": [
+    {
+      "imdb_id": "tt0338086",
+      "title": "Haker",
+      "year": 2002,
+      "roles": [
+        "cast"
+      ]
+    },
+    {
+      "imdb_id": "tt0381637",
+      "title": "Symetria",
+      "year": 2003,
+      "roles": [
+        "cast"
+      ],
+      "character": "Lukasz's Lawyer"
+    },
+    {
+      "imdb_id": "tt0488027",
+      "title": "Plac Zbawiciela",
+      "year": 2006,
+      "roles": [
+        "cast"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZDg2N2Y1YTktYTIwZC00MjgzLWFmYTktOWUzODQ2NzhhY2U2XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "24.01.1953",
+  "birth_location": "Poznan, Wielkopolskie, Poland",
+  "filmweb_id": 68834,
+  "name_pl": "Aleksander Mikołajczak",
+  "birth_location_pl": "Poznań",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Polska"
+  ],
+  "wikidata_fw_id": 68834
+}

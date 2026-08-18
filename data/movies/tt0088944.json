@@ -1,0 +1,239 @@
+{
+  "imdb_id": "tt0088944",
+  "title": "Commando",
+  "description": "A retired Special Forces colonel tries to save his daughter, who was abducted by his former subordinate.",
+  "runtime_minutes": 90,
+  "release_date": "04.10.1985",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000216",
+      "name": "Arnold Schwarzenegger"
+    },
+    {
+      "id": "nm0001044",
+      "name": "Rae Dawn Chong"
+    },
+    {
+      "id": "nm0000445",
+      "name": "Dan Hedaya"
+    },
+    {
+      "id": "nm0920460",
+      "name": "Vernon Wells"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0504495",
+      "name": "Mark L. Lester"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0517188",
+      "name": "Jeph Loeb"
+    },
+    {
+      "id": "nm0918861",
+      "name": "Matthew Weisman"
+    },
+    {
+      "id": "nm0211823",
+      "name": "Steven E. de Souza"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000216",
+      "name": "Arnold Schwarzenegger",
+      "character": "Matrix"
+    },
+    {
+      "id": "nm0001044",
+      "name": "Rae Dawn Chong",
+      "character": "Cindy"
+    },
+    {
+      "id": "nm0000445",
+      "name": "Dan Hedaya",
+      "character": "Arius"
+    },
+    {
+      "id": "nm0920460",
+      "name": "Vernon Wells",
+      "character": "Bennett"
+    },
+    {
+      "id": "nm0647921",
+      "name": "James Olson",
+      "character": "Major General Franklin Kirby"
+    },
+    {
+      "id": "nm0446314",
+      "name": "David Patrick Kelly",
+      "character": "Sully"
+    },
+    {
+      "id": "nm0000192",
+      "name": "Alyssa Milano",
+      "character": "Jenny"
+    },
+    {
+      "id": "nm0004886",
+      "name": "Bill Duke",
+      "character": "Cooke"
+    },
+    {
+      "id": "nm0811446",
+      "name": "Drew Snyder",
+      "character": "Lawson"
+    },
+    {
+      "id": "nm0943583",
+      "name": "Sharon Wyatt",
+      "character": "Leslie"
+    },
+    {
+      "id": "nm0216399",
+      "name": "Michael DeLano",
+      "character": "Forrestal"
+    },
+    {
+      "id": "nm0591567",
+      "name": "Bob Minor",
+      "character": "Jackson"
+    },
+    {
+      "id": "nm0011212",
+      "name": "Michael Adams",
+      "character": "Harris"
+    },
+    {
+      "id": "nm0148869",
+      "name": "Gary Carlos Cervantes",
+      "character": "Diaz"
+    },
+    {
+      "id": "nm0432240",
+      "name": "Lenny Juliano",
+      "character": "Soldier"
+    },
+    {
+      "id": "nm0581836",
+      "name": "Charles Meshack",
+      "character": "Henriques"
+    },
+    {
+      "id": "nm0001210",
+      "name": "Chelsea Field",
+      "character": "Vicky the Western Flight Attendant"
+    },
+    {
+      "id": "nm0370854",
+      "name": "Julie Hayek",
+      "character": "Susan the Western Flight Attendant"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "color": "Color",
+  "filmweb_id": 4648,
+  "year": 1985,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZjAyNTRiMTEtNzNlZS00YTZhLThmNzQtZjBkOWQ4N2Y4YjQzXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.7,
+      "votes": 189132,
+      "distribution": {
+        "1": 1633,
+        "2": 1646,
+        "3": 3105,
+        "4": 6813,
+        "5": 17663,
+        "6": 41476,
+        "7": 54903,
+        "8": 31027,
+        "9": 11514,
+        "10": 19352
+      },
+      "normalized": 4.8973
+    },
+    "filmweb": {
+      "rating": 6.74,
+      "votes": 39425,
+      "distribution": {
+        "1": 206,
+        "2": 330,
+        "3": 855,
+        "4": 1677,
+        "5": 4044,
+        "6": 8985,
+        "7": 12188,
+        "8": 6567,
+        "9": 2218,
+        "10": 2355
+      },
+      "normalized": 4.961
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "21.02.2011",
+      "normalized": 4.9718
+    },
+    "michal": {
+      "rating": 1,
+      "date_rated": "02.01.2006",
+      "normalized": 2.2657
+    },
+    "score": 4.274
+  },
+  "polish_title": "Commando",
+  "silent": false,
+  "description_pl": "Pułkownik Matrix (<a href=\"/osoba/?id=nm0000216\">Arnold Schwarzenegger</a>), emerytowany członek oddziałów specjalnych, wraca do walki po tym, jak jego córka (<a href=\"/osoba/?id=nm0000192\">Alyssa Milano</a>) zostaje porwana. Aby ją odzyskać Matrix musi zgładzić prezydenta jednego z państw w Ameryce Południowej. Pułkownik ucieka jednak swym prześladowcom i uzbrojony w cały arsenał różnorodnej broni wyrusza na ratunek swojej córce.",
+  "producers": [
+    {
+      "id": "nm0111072",
+      "name": "Stephanie Brody"
+    },
+    {
+      "id": "nm0466946",
+      "name": "Robert Kosberg"
+    },
+    {
+      "id": "nm0517188",
+      "name": "Jeph Loeb"
+    },
+    {
+      "id": "nm0005428",
+      "name": "Joel Silver"
+    },
+    {
+      "id": "nm0918861",
+      "name": "Matthew Weisman"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0000035",
+      "name": "James Horner"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005772",
+      "name": "Matthew F. Leonetti"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

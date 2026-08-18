@@ -1,0 +1,50 @@
+{
+  "id": "nm0000097",
+  "name": "Pamela Anderson",
+  "filmography": [
+    {
+      "imdb_id": "tt0306047",
+      "title": "Scary Movie 3",
+      "year": 2003,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Becca"
+    },
+    {
+      "imdb_id": "tt0443453",
+      "title": "Borat",
+      "year": 2006,
+      "roles": [
+        "cast"
+      ],
+      "character": "Self - Autograph Signing"
+    },
+    {
+      "imdb_id": "tt3402138",
+      "title": "The Naked Gun",
+      "year": 2025,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Beth Davenport"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BN2RiNzUwYzUtY2JhNi00YWNmLTlmYmEtYTlhYjlkYzM1MTYxXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "01.07.1967",
+  "birth_location": "Ladysmith, British Columbia, Canada",
+  "height": "1.65 m",
+  "filmweb_id": 40904,
+  "name_pl": "Pamela Anderson",
+  "birth_location_pl": "Ladysmith",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Kanada",
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 40904
+}

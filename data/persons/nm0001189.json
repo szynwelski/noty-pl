@@ -1,0 +1,52 @@
+{
+  "id": "nm0001189",
+  "name": "Gabriel Yared",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZWMyZTU0NTYtYmUxOS00YjQyLTk4N2QtYzRiNTM3Nzk3MTZiXkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0116209",
+      "title": "The English Patient",
+      "year": 1996,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt0120632",
+      "title": "City of Angels",
+      "year": 1998,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt0139462",
+      "title": "Message in a Bottle",
+      "year": 1999,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt5504810",
+      "title": "If You Saw His Heart",
+      "year": 2017,
+      "roles": [
+        "composer"
+      ]
+    }
+  ],
+  "birth_date": "07.10.1949",
+  "birth_location": "Beirut, Lebanon",
+  "filmweb_id": 10203,
+  "name_pl": "Gabriel Yared",
+  "birth_location_pl": "Bejrut",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja",
+    "Liban"
+  ],
+  "wikidata_fw_id": 10203
+}

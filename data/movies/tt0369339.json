@@ -1,0 +1,248 @@
+{
+  "imdb_id": "tt0369339",
+  "title": "Collateral",
+  "description": "A cab driver finds himself the hostage of an engaging contract killer as he makes his rounds from hit to hit during one night in Los Angeles.",
+  "runtime_minutes": 120,
+  "release_date": "06.08.2004",
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000129",
+      "name": "Tom Cruise"
+    },
+    {
+      "id": "nm0004937",
+      "name": "Jamie Foxx"
+    },
+    {
+      "id": "nm0000586",
+      "name": "Jada Pinkett Smith"
+    },
+    {
+      "id": "nm0749263",
+      "name": "Mark Ruffalo"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000520",
+      "name": "Michael Mann"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0064181",
+      "name": "Stuart Beattie"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000129",
+      "name": "Tom Cruise",
+      "character": "Vincent"
+    },
+    {
+      "id": "nm0004937",
+      "name": "Jamie Foxx",
+      "character": "Max"
+    },
+    {
+      "id": "nm0000586",
+      "name": "Jada Pinkett Smith",
+      "character": "Annie"
+    },
+    {
+      "id": "nm0749263",
+      "name": "Mark Ruffalo",
+      "character": "Fanning"
+    },
+    {
+      "id": "nm0000916",
+      "name": "Peter Berg",
+      "character": "Richard Weidner"
+    },
+    {
+      "id": "nm0569226",
+      "name": "Bruce McGill",
+      "character": "Pedrosa"
+    },
+    {
+      "id": "nm0355659",
+      "name": "Irma P. Hall",
+      "character": "Ida"
+    },
+    {
+      "id": "nm0377106",
+      "name": "Barry Shabaka Henley",
+      "character": "Daniel"
+    },
+    {
+      "id": "nm0429114",
+      "name": "Richard T. Jones",
+      "character": "Traffic Cop #1"
+    },
+    {
+      "id": "nm0779455",
+      "name": "Klea Scott",
+      "character": "Fed #1"
+    },
+    {
+      "id": "nm0001183",
+      "name": "Bodhi Elfman",
+      "character": "Young Professional Man"
+    },
+    {
+      "id": "nm0000529",
+      "name": "Debi Mazar",
+      "character": "Young Professional Woman"
+    },
+    {
+      "id": "nm0000849",
+      "name": "Javier Bardem",
+      "character": "Felix"
+    },
+    {
+      "id": "nm0729256",
+      "name": "Emilio Rivera",
+      "character": "Paco"
+    },
+    {
+      "id": "nm1408628",
+      "name": "Jamie McBride",
+      "character": "Traffic Cop #2"
+    },
+    {
+      "id": "nm0893501",
+      "name": "Ken Waters",
+      "character": "FBI Agent"
+    },
+    {
+      "id": "nm0772782",
+      "name": "Charlie E. Schmidt",
+      "character": "FBI Agent"
+    },
+    {
+      "id": "nm0072715",
+      "name": "Michael Bentt",
+      "character": "Fever Bouncer"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "Korean"
+  ],
+  "color": "Color",
+  "filmweb_id": 106414,
+  "year": 2004,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjE3NjM5OTMxMV5BMl5BanBnXkFtZTcwOTIzMTQyMw@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.5,
+      "votes": 472216,
+      "distribution": {
+        "1": 2507,
+        "2": 1223,
+        "3": 2240,
+        "4": 4995,
+        "5": 14496,
+        "6": 48331,
+        "7": 139392,
+        "8": 160127,
+        "9": 61235,
+        "10": 37670
+      },
+      "normalized": 6.4872
+    },
+    "filmweb": {
+      "rating": 7.23,
+      "votes": 77775,
+      "distribution": {
+        "1": 124,
+        "2": 106,
+        "3": 469,
+        "4": 1093,
+        "5": 3712,
+        "6": 11400,
+        "7": 28734,
+        "8": 23929,
+        "9": 5733,
+        "10": 2475
+      },
+      "normalized": 6.0898
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "11.08.2010",
+      "normalized": 4.9718
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "26.10.2007",
+      "normalized": 4.5781
+    },
+    "score": 5.5317
+  },
+  "polish_title": "Zakładnik",
+  "silent": false,
+  "description_pl": "Akcja filmu <a href=\"/osoba/?id=nm0000520\">M. Manna</a> rozgrywa się w Los Angeles. Główny bohater Max (<a href=\"/osoba/?id=nm0004937\">J. Foxx</a>), zarabiający na życie jako nocny taksówkarz, zabiera pasażera, którym okazuje się płatny zabójca (<a href=\"/osoba/?id=nm0000129\">T. Cruise</a>). Zmusza on kierowcę, by ten, wożąc go od jednego miejsca do drugiego, pomógł mu w wykonaniu pięciu zleceń. Przed Maxem stanie zadanie uratowania własnego życia i ostatniej ofiary mordercy.",
+  "producers": [
+    {
+      "id": "nm0140754",
+      "name": "Bryan H. Carroll"
+    },
+    {
+      "id": "nm0149052",
+      "name": "Gusmano Cesaretti"
+    },
+    {
+      "id": "nm0001104",
+      "name": "Frank Darabont"
+    },
+    {
+      "id": "nm0294975",
+      "name": "Robert N. Fried"
+    },
+    {
+      "id": "nm0321334",
+      "name": "Peter Giuliano"
+    },
+    {
+      "id": "nm0380639",
+      "name": "Julie Herrin"
+    },
+    {
+      "id": "nm0000520",
+      "name": "Michael Mann"
+    },
+    {
+      "id": "nm0724641",
+      "name": "Julie Richardson"
+    },
+    {
+      "id": "nm0751080",
+      "name": "Chuck Russell"
+    },
+    {
+      "id": "nm0915400",
+      "name": "Michael Waxman"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006133",
+      "name": "James Newton Howard"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

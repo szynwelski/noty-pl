@@ -1,0 +1,45 @@
+{
+  "id": "nm0002030",
+  "name": "George Cukor",
+  "filmography": [
+    {
+      "imdb_id": "tt0032138",
+      "title": "The Wizard of Oz",
+      "year": 1939,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0032904",
+      "title": "The Philadelphia Story",
+      "year": 1940,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0041090",
+      "title": "Adam's Rib",
+      "year": 1949,
+      "roles": [
+        "director"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTI2YjQ5ZTAtZjMzNi00ZTIyLTlkODctYjg3NmViOWExODFjXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "07.07.1899",
+  "death_date": "24.01.1983",
+  "birth_location": "Lower East Side, Manhattan, New York City, New York, USA",
+  "height": "1.73 m",
+  "filmweb_id": 13055,
+  "name_pl": "George Cukor",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 13055
+}

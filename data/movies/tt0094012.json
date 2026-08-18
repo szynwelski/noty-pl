@@ -1,0 +1,222 @@
+{
+  "imdb_id": "tt0094012",
+  "title": "Spaceballs",
+  "description": "A star-pilot for hire and his trusty half-dog sidekick must come to the rescue of a spoiled princess and save Planet Druidia from the clutches of the evil Spaceballs.",
+  "runtime_minutes": 96,
+  "release_date": "24.06.1987",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm0000316",
+      "name": "Mel Brooks"
+    },
+    {
+      "id": "nm0001006",
+      "name": "John Candy"
+    },
+    {
+      "id": "nm0001548",
+      "name": "Rick Moranis"
+    },
+    {
+      "id": "nm0000597",
+      "name": "Bill Pullman"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000316",
+      "name": "Mel Brooks"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000316",
+      "name": "Mel Brooks"
+    },
+    {
+      "id": "nm0576070",
+      "name": "Thomas Meehan"
+    },
+    {
+      "id": "nm0334283",
+      "name": "Ronny Graham"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000316",
+      "name": "Mel Brooks",
+      "character": "President Skroob"
+    },
+    {
+      "id": "nm0001006",
+      "name": "John Candy",
+      "character": "Barf"
+    },
+    {
+      "id": "nm0001548",
+      "name": "Rick Moranis",
+      "character": "Dark Helmet"
+    },
+    {
+      "id": "nm0000597",
+      "name": "Bill Pullman",
+      "character": "Lone Starr"
+    },
+    {
+      "id": "nm0001879",
+      "name": "Daphne Zuniga",
+      "character": "Princess Vespa"
+    },
+    {
+      "id": "nm0887694",
+      "name": "Dick Van Patten",
+      "character": "King Roland"
+    },
+    {
+      "id": "nm0943927",
+      "name": "George Wyner",
+      "character": "Colonel Sandurz"
+    },
+    {
+      "id": "nm0935498",
+      "name": "Michael Winslow",
+      "character": "Radar Technician"
+    },
+    {
+      "id": "nm0001672",
+      "name": "Joan Rivers",
+      "character": "Dot Matrix"
+    },
+    {
+      "id": "nm0946489",
+      "name": "Lorene Yarnell Jansson",
+      "character": "Dot Matrix"
+    },
+    {
+      "id": "nm0000457",
+      "name": "John Hurt",
+      "character": "John Hurt"
+    },
+    {
+      "id": "nm0899601",
+      "name": "Sal Viscuso",
+      "character": "Radio Operator Sergeant Ricco"
+    },
+    {
+      "id": "nm0334283",
+      "name": "Ronny Graham",
+      "character": "Minister"
+    },
+    {
+      "id": "nm0120160",
+      "name": "Jim J. Bullock",
+      "character": "Prince Valium"
+    },
+    {
+      "id": "nm0079800",
+      "name": "Leslie Bevis",
+      "character": "Commanderette Zircon"
+    },
+    {
+      "id": "nm0413169",
+      "name": "Jim Jackman",
+      "character": "Major Asshole"
+    },
+    {
+      "id": "nm0687772",
+      "name": "Mike Pniewski",
+      "character": "Laser Gunner"
+    },
+    {
+      "id": "nm0374864",
+      "name": "Sandy Helberg",
+      "character": "Dr. Schlotkin"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "color": "Color",
+  "filmweb_id": 6853,
+  "year": 1987,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZWNhNWM3NWQtNTMwNy00NThiLWFkZDYtYzBlZTQyZGU2YzE1XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.1,
+      "votes": 228227,
+      "distribution": {
+        "1": 2707,
+        "2": 2147,
+        "3": 3586,
+        "4": 6634,
+        "5": 14718,
+        "6": 33038,
+        "7": 63190,
+        "8": 51298,
+        "9": 23526,
+        "10": 27383
+      },
+      "normalized": 5.76
+    },
+    "filmweb": {
+      "rating": 6.51,
+      "votes": 59587,
+      "distribution": {
+        "1": 1043,
+        "2": 914,
+        "3": 2027,
+        "4": 3227,
+        "5": 6321,
+        "6": 13036,
+        "7": 16596,
+        "8": 10285,
+        "9": 3691,
+        "10": 2447
+      },
+      "normalized": 4.35
+    },
+    "jarek": {
+      "rating": 3,
+      "date_rated": "05.04.2011",
+      "normalized": 4.2591
+    },
+    "score": 4.7897
+  },
+  "polish_title": "Kosmiczne jaja",
+  "silent": false,
+  "description_pl": "Lord Dark Helmet (<a href=\"/osoba/?id=nm0001548\">Rick Moranis</a>) chce porwać księżniczkę i wziąć ją jako zakładniczkę. Wypuści ją dopiero wtedy, kiedy cały zapas świeżego powietrza zostanie przesłany do prezydenta Skrooba (<a href=\"/osoba/?id=nm0000316\">Mel Brooks</a>). Księżniczce pomaga bohaterski Lone Starr (<a href=\"/osoba/?id=nm0000597\">Bill Pullman</a>) i jego towarzysz, Barf (<a href=\"/osoba/?id=nm0001006\">John Candy</a>).",
+  "producers": [
+    {
+      "id": "nm0000316",
+      "name": "Mel Brooks"
+    },
+    {
+      "id": "nm0842470",
+      "name": "Ezra Swerdlow"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0606657",
+      "name": "John Morris"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0572622",
+      "name": "Nick McLean"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

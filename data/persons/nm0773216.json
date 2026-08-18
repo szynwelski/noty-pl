@@ -1,0 +1,38 @@
+{
+  "id": "nm0773216",
+  "name": "Tadeusz Schmidt",
+  "filmography": [
+    {
+      "imdb_id": "tt0064785",
+      "title": "Colonel Wolodyjowski",
+      "year": 1969,
+      "roles": [
+        "cast"
+      ],
+      "character": "Snitko"
+    },
+    {
+      "imdb_id": "tt0070628",
+      "title": "The Hourglass Sanatorium",
+      "year": 1973,
+      "roles": [
+        "cast"
+      ],
+      "character": "Officer"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNmZkMWExNGUtMmMwNy00ZThjLThmNzUtZjVlYzE4NTRlYmY3XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "14.11.1920",
+  "death_date": "10.05.1976",
+  "birth_location": "Kraków, Malopolskie, Poland",
+  "imdb_scraped": true,
+  "filmweb_id": 47561,
+  "name_pl": "Tadeusz Schmidt",
+  "birth_location_pl": "Kraków",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Polska"
+  ],
+  "wikidata_fw_id": 47561
+}

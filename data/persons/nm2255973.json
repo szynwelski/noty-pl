@@ -1,0 +1,38 @@
+{
+  "id": "nm2255973",
+  "name": "Donald Glover",
+  "filmography": [
+    {
+      "imdb_id": "tt3659388",
+      "title": "The Martian",
+      "year": 2015,
+      "roles": [
+        "cast"
+      ],
+      "character": "Rich Purnell"
+    },
+    {
+      "imdb_id": "tt2250912",
+      "title": "Spider-Man: Homecoming",
+      "year": 2017,
+      "roles": [
+        "cast"
+      ],
+      "character": "Aaron Davis"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzUxNTU5ODkxNl5BMl5BanBnXkFtZTgwOTIyNjc5MDI@._V1_.jpg",
+  "birth_date": "25.09.1983",
+  "birth_location": "Edwards Air Force Base, California, USA",
+  "height": "1.74 m",
+  "imdb_scraped": true,
+  "filmweb_id": 935656,
+  "name_pl": "Donald Glover",
+  "birth_location_pl": "Edwards, Kalifornia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 935656
+}

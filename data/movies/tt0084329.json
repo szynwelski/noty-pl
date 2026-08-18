@@ -1,0 +1,205 @@
+{
+  "imdb_id": "tt0084329",
+  "title": "A Midsummer Night's Sex Comedy",
+  "description": "A wacky inventor and his wife invite two other couples to their romantic summer house in the countryside for a weekend party.",
+  "runtime_minutes": 88,
+  "release_date": "16.07.1982",
+  "genres": [
+    "Comedy"
+  ],
+  "stars": [
+    {
+      "id": "nm0000095",
+      "name": "Woody Allen"
+    },
+    {
+      "id": "nm0001201",
+      "name": "Mia Farrow"
+    },
+    {
+      "id": "nm0001207",
+      "name": "José Ferrer"
+    },
+    {
+      "id": "nm0353546",
+      "name": "Julie Hagerty"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000095",
+      "name": "Woody Allen"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000095",
+      "name": "Woody Allen"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000095",
+      "name": "Woody Allen",
+      "character": "Andrew"
+    },
+    {
+      "id": "nm0001201",
+      "name": "Mia Farrow",
+      "character": "Ariel"
+    },
+    {
+      "id": "nm0001207",
+      "name": "José Ferrer",
+      "character": "Leopold"
+    },
+    {
+      "id": "nm0353546",
+      "name": "Julie Hagerty",
+      "character": "Dulcy"
+    },
+    {
+      "id": "nm0731634",
+      "name": "Tony Roberts",
+      "character": "Maxwell"
+    },
+    {
+      "id": "nm0005460",
+      "name": "Mary Steenburgen",
+      "character": "Adrian"
+    },
+    {
+      "id": "nm0714834",
+      "name": "Adam Redfield",
+      "character": "Student Foxx"
+    },
+    {
+      "id": "nm0742558",
+      "name": "Moishe Rosenfeld",
+      "character": "Mr. Hayes"
+    },
+    {
+      "id": "nm0420990",
+      "name": "Timothy Jenkins",
+      "character": "Mr. Thomson"
+    },
+    {
+      "id": "nm0383449",
+      "name": "Michael Higgins",
+      "character": "Reynolds"
+    },
+    {
+      "id": "nm0295037",
+      "name": "Sol Frieder",
+      "character": "Carstairs"
+    },
+    {
+      "id": "nm0958052",
+      "name": "Boris Zoubok",
+      "character": "Purvis"
+    },
+    {
+      "id": "nm0053856",
+      "name": "Thomas Barbour",
+      "character": "Blint"
+    },
+    {
+      "id": "nm0570033",
+      "name": "Kate McGregor-Stewart",
+      "character": "Mrs. Baker"
+    },
+    {
+      "id": "nm6216139",
+      "name": "Sandy Biano",
+      "character": "Nurse"
+    },
+    {
+      "id": "nm0641378",
+      "name": "Caitlin O'Heaney",
+      "character": "Dolores Farrar"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "color": null,
+  "filmweb_id": 9428,
+  "year": 1982,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOTMxMTM0MTk3Nl5BMl5BanBnXkFtZTcwOTEyODI1NA@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.6,
+      "votes": 22061,
+      "distribution": {
+        "1": 412,
+        "2": 223,
+        "3": 350,
+        "4": 766,
+        "5": 2029,
+        "6": 5551,
+        "7": 6999,
+        "8": 3265,
+        "9": 968,
+        "10": 1498
+      },
+      "normalized": 4.7361
+    },
+    "filmweb": {
+      "rating": 6.95,
+      "votes": 8151,
+      "distribution": {
+        "1": 62,
+        "2": 27,
+        "3": 100,
+        "4": 182,
+        "5": 593,
+        "6": 1544,
+        "7": 2884,
+        "8": 1974,
+        "9": 526,
+        "10": 259
+      },
+      "normalized": 5.5118
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "17.03.2006",
+      "normalized": 6.3474
+    },
+    "score": 5.5318
+  },
+  "polish_title": "Seks nocy letniej",
+  "silent": false,
+  "description_pl": "Luźna adaptacja filmu <a href=\"/osoba/?id=nm0000005\">Ingmara Bergmana</a> \"<a href=\"/film/?id=tt0048641\">Smiles of a Summer Night</a>\". Akcja rozgrywa się podczas przyjęcia zorganizowanego przez wynalazcę Andrew Hobbsa i jego żonę Adrian.",
+  "producers": [
+    {
+      "id": "nm0339086",
+      "name": "Robert Greenhut"
+    },
+    {
+      "id": "nm0423618",
+      "name": "Charles H. Joffe"
+    },
+    {
+      "id": "nm0679017",
+      "name": "Michael Peyser"
+    },
+    {
+      "id": "nm0738435",
+      "name": "Jack Rollins"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0932336",
+      "name": "Gordon Willis"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

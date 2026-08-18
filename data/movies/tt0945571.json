@@ -1,0 +1,133 @@
+{
+  "imdb_id": "tt0945571",
+  "title": "Lifted",
+  "description": "A teenage alien is trying to abduct a sleeping human, but doesn't know which switch to use.",
+  "runtime_minutes": 5,
+  "release_date": "29.06.2007",
+  "genres": [
+    "Animation",
+    "Short",
+    "Comedy",
+    "Family",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm0003977",
+      "name": "Gary Rydstrom"
+    },
+    {
+      "id": "nm0941125",
+      "name": "Sheb Wooley"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0003977",
+      "name": "Gary Rydstrom"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0003977",
+      "name": "Gary Rydstrom"
+    },
+    {
+      "id": "nm0682066",
+      "name": "Jeff Pidgeon"
+    },
+    {
+      "id": "nm0102691",
+      "name": "Maxwell Brace IV"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0003977",
+      "name": "Gary Rydstrom",
+      "character": "Mr. B"
+    },
+    {
+      "id": "nm0941125",
+      "name": "Sheb Wooley",
+      "character": "Ernie"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Color",
+  "year": 2006,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYTY1MmYyZTAtMGJmYS00ZjIyLTgzNjAtMDQ0MmIxZDUyZjFlXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 400691,
+  "ratings": {
+    "imdb": {
+      "rating": 7.7,
+      "votes": 22052,
+      "distribution": {
+        "1": 132,
+        "2": 68,
+        "3": 140,
+        "4": 224,
+        "5": 723,
+        "6": 2068,
+        "7": 5047,
+        "8": 7590,
+        "9": 3289,
+        "10": 2771
+      },
+      "normalized": 6.7411
+    },
+    "filmweb": {
+      "rating": 6.92,
+      "votes": 9527,
+      "distribution": {
+        "1": 19,
+        "2": 19,
+        "3": 128,
+        "4": 260,
+        "5": 747,
+        "6": 1962,
+        "7": 3339,
+        "8": 2124,
+        "9": 681,
+        "10": 248
+      },
+      "normalized": 5.4634
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "31.10.2020",
+      "normalized": 4.5781
+    },
+    "score": 5.5942
+  },
+  "polish_title": "Nie przeszkadzać",
+  "silent": false,
+  "description_pl": "Ciekawie opowiedziana historia kursu porywania Ziemian przez kosmitów. Pewny siebie młody kosmita siada za sterami statku kosmicznego. Obserwowany przez instruktora ma za zadanie porwać śpiącego farmera. Porwanie człowieka wymaga precyzji i pewnej ręki, których to rzeczy młodemu kosmicie brakuje...",
+  "producers": [
+    {
+      "id": "nm0005124",
+      "name": "John Lasseter"
+    },
+    {
+      "id": "nm0764780",
+      "name": "Katherine Sarafian"
+    },
+    {
+      "id": "nm1575873",
+      "name": "Osnat Shurer"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0315974",
+      "name": "Michael Giacchino"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

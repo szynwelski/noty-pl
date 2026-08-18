@@ -1,0 +1,39 @@
+{
+  "id": "nm0438463",
+  "name": "Anil Kapoor",
+  "filmography": [
+    {
+      "imdb_id": "tt1010048",
+      "title": "Slumdog Millionaire",
+      "year": 2008,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Prem"
+    },
+    {
+      "imdb_id": "tt1229238",
+      "title": "Mission: Impossible - Ghost Protocol",
+      "year": 2011,
+      "roles": [
+        "cast"
+      ],
+      "character": "Brij Nath"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYWI0MDBiN2ItNGY2NC00OTlmLTliYmItZjIzMDNiMWFjZTAwXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "24.12.1956",
+  "birth_location": "Chembur, State of Bombay, India",
+  "height": "1.73 m",
+  "imdb_scraped": true,
+  "filmweb_id": 150634,
+  "name_pl": "Anil Kapoor",
+  "birth_location_pl": "Chembur",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Indie"
+  ],
+  "wikidata_fw_id": 150634
+}

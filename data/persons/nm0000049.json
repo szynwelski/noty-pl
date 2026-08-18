@@ -1,0 +1,44 @@
+{
+  "id": "nm0000049",
+  "name": "Henry Mancini",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTM2Njc4MDAxOF5BMl5BanBnXkFtZTcwODMyNzMzOA@@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0052311",
+      "title": "Touch of Evil",
+      "year": 1958,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt0054698",
+      "title": "Breakfast at Tiffany's",
+      "year": 1961,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt0056923",
+      "title": "Charade",
+      "year": 1963,
+      "roles": [
+        "composer"
+      ]
+    }
+  ],
+  "filmweb_id": 301,
+  "birth_date": "16.04.1924",
+  "death_date": "14.06.1994",
+  "birth_location": "Cleveland, Ohio, USA",
+  "height": "1.83 m",
+  "imdb_scraped": true,
+  "name_pl": "Henry Mancini",
+  "birth_location_pl": "Cleveland, Ohio",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

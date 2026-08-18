@@ -1,0 +1,48 @@
+{
+  "id": "nm0532290",
+  "name": "Jack MacGowran",
+  "filmography": [
+    {
+      "imdb_id": "tt0059113",
+      "title": "Doctor Zhivago",
+      "year": 1965,
+      "roles": [
+        "cast"
+      ],
+      "character": "Petya"
+    },
+    {
+      "imdb_id": "tt0061655",
+      "title": "The Fearless Vampire Killers",
+      "year": 1967,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Professor Abronsius"
+    },
+    {
+      "imdb_id": "tt0070047",
+      "title": "The Exorcist",
+      "year": 1973,
+      "roles": [
+        "cast"
+      ],
+      "character": "Burke Dennings"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTYyNWI1MmMtYjQ1ZS00ZWRmLWE3NTctZjM1OGVjNDIzOTgxXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "13.10.1918",
+  "death_date": "30.01.1973",
+  "birth_location": "Dublin, Ireland",
+  "height": "1.70 m",
+  "filmweb_id": 8537,
+  "name_pl": "Jack MacGowran",
+  "birth_location_pl": "Dublin",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Irlandia"
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "imdb_id": "tt0000029",
+  "title": "Baby's Meal",
+  "description": "As part of a maiden public film screening at the Salon Indien, on December 28, in Paris, Auguste Lumière pivots the centre of attention around his baby daughter, as he tries to feed her from a spoon.",
+  "runtime_minutes": 1,
+  "release_date": "10.07.1896",
+  "genres": [
+    "Documentary",
+    "Short"
+  ],
+  "stars": [
+    {
+      "id": "nm0525908",
+      "name": "Auguste Lumière"
+    },
+    {
+      "id": "nm0525900",
+      "name": "Mrs. Auguste Lumiere"
+    },
+    {
+      "id": "nm2350838",
+      "name": "Andrée Lumière"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0525910",
+      "name": "Louis Lumière"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0525908",
+      "name": "Auguste Lumière",
+      "character": "Self"
+    },
+    {
+      "id": "nm0525900",
+      "name": "Mrs. Auguste Lumiere",
+      "character": "Self"
+    },
+    {
+      "id": "nm2350838",
+      "name": "Andrée Lumière",
+      "character": "Self"
+    }
+  ],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 96232,
+  "year": 1895,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTVlNWNjZDEtMjExNC00MmQ1LTk3MWItNjYxYzdmYWM4MGIyXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Repas de bébé",
+  "ratings": {
+    "imdb": {
+      "rating": 5.9,
+      "votes": 3857,
+      "distribution": {
+        "1": 100,
+        "2": 88,
+        "3": 129,
+        "4": 291,
+        "5": 768,
+        "6": 1176,
+        "7": 667,
+        "8": 298,
+        "9": 112,
+        "10": 228
+      },
+      "normalized": 3.6705
+    },
+    "filmweb": {
+      "rating": 5.97,
+      "votes": 1040,
+      "distribution": {
+        "1": 25,
+        "2": 28,
+        "3": 48,
+        "4": 92,
+        "5": 216,
+        "6": 245,
+        "7": 206,
+        "8": 78,
+        "9": 25,
+        "10": 77
+      },
+      "normalized": 3.7524
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "11.12.2016",
+      "normalized": 5.6855
+    },
+    "score": 4.3695
+  },
+  "polish_title": "Karmienie dziecka",
+  "silent": true,
+  "description_pl": "Ten krótki dokument składa się ze sceny, w której Auguste Lumier i jego żona karmią dziecko podczas śniadania. Jest to jeden z wcześniejszych filmów braci Lumiere, w którym zostali utrwaleni na taśmie ludzie, żyjący przed ponad 100 laty.",
+  "cinematographers": [
+    {
+      "id": "nm0525910",
+      "name": "Louis Lumière"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-15"
+}

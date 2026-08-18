@@ -1,0 +1,186 @@
+{
+  "imdb_id": "tt0084411",
+  "title": "An Uneventful Story",
+  "description": "Another monotonous day in the dull life of a medical professor, disillusioned by his university work, students, wife and family.",
+  "runtime_minutes": 106,
+  "release_date": "12.09.1983",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0392250",
+      "name": "Gustaw Holoubek"
+    },
+    {
+      "id": "nm0586691",
+      "name": "Hanna Mikuc"
+    },
+    {
+      "id": "nm0587314",
+      "name": "Anna Milewska"
+    },
+    {
+      "id": "nm0738785",
+      "name": "Elwira Romanczuk"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0367860",
+      "name": "Wojciech Has"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0155009",
+      "name": "Anton Chekhov"
+    },
+    {
+      "id": "nm0367860",
+      "name": "Wojciech Has"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0392250",
+      "name": "Gustaw Holoubek",
+      "character": "Professor"
+    },
+    {
+      "id": "nm0586691",
+      "name": "Hanna Mikuc",
+      "character": "Katarzyna"
+    },
+    {
+      "id": "nm0587314",
+      "name": "Anna Milewska",
+      "character": "Weronika"
+    },
+    {
+      "id": "nm0738785",
+      "name": "Elwira Romanczuk",
+      "character": "Liza"
+    },
+    {
+      "id": "nm0054572",
+      "name": "Marek Bargielowski",
+      "character": "Michal"
+    },
+    {
+      "id": "nm0301515",
+      "name": "Janusz Gajos",
+      "character": "Aleksander Gnekker"
+    },
+    {
+      "id": "nm0584653",
+      "name": "Janusz Michalowski",
+      "character": "Piotr"
+    },
+    {
+      "id": "nm0223262",
+      "name": "Wladyslaw Dewoyno",
+      "character": "Mikolaj"
+    },
+    {
+      "id": "nm0289494",
+      "name": "Ewa Frackiewicz",
+      "character": "Katarzyna's Servant"
+    },
+    {
+      "id": "nm0465098",
+      "name": "Jan Konieczny",
+      "character": "PhD Student"
+    },
+    {
+      "id": "nm0615706",
+      "name": "Wlodzimierz Musial",
+      "character": "Professor's Servant"
+    },
+    {
+      "id": "nm0637359",
+      "name": "Jerzy Zygmunt Nowak",
+      "character": "Waiter at the Inn"
+    },
+    {
+      "id": "nm2134327",
+      "name": "Leszek Zentara",
+      "character": "Student"
+    },
+    {
+      "id": "nm2736849",
+      "name": "Jacek Glowacki",
+      "character": "Schoolboy"
+    }
+  ],
+  "countries": [
+    "Poland"
+  ],
+  "languages": [
+    "Polish"
+  ],
+  "color": "Color",
+  "filmweb_id": 8096,
+  "year": 1983,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzNhZGRlMWYtN2Y0OC00MzhlLTg3OTAtYWUwMjYwMjE1NThiXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Nieciekawa historia",
+  "ratings": {
+    "imdb": {
+      "rating": 6.9,
+      "votes": 217,
+      "distribution": {
+        "1": 11,
+        "2": 4,
+        "3": 4,
+        "4": 6,
+        "5": 18,
+        "6": 35,
+        "7": 62,
+        "8": 49,
+        "9": 10,
+        "10": 18
+      },
+      "normalized": 5.3161
+    },
+    "filmweb": {
+      "rating": 7.19,
+      "votes": 1580,
+      "distribution": {
+        "1": 13,
+        "2": 7,
+        "3": 28,
+        "4": 36,
+        "5": 102,
+        "6": 224,
+        "7": 433,
+        "8": 491,
+        "9": 168,
+        "10": 78
+      },
+      "normalized": 5.8223
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "02.03.2007",
+      "normalized": 5.4199
+    },
+    "score": 5.5194
+  },
+  "polish_title": "Nieciekawa historia",
+  "silent": false,
+  "description_pl": "Rozpoczyna się kolejny monotonny dzień w życiu profesora - droga na uniwersytet, kolejny wykład z anatomii. Jego prowadzenie powierza asystentowi, sam zaczyna rozmyślać nad brakiem predyspozycji swoich studentów do pracy lekarza. Jednemu z nich nawet radzi, by zrezygnował z tego zawodu. Po powrocie do domu czeka go spotkanie z nie lubianym narzeczonym córki Lizy, ciągłe narzekania żony. Jedynym jasnym punktem w życiu profesora są spotkania z jego wychowanicą Katarzyną. Dziewczyna darzy go szczerym uczuciem i proponuje, żeby przeniósł się do niej na stałe. On jednak wie, ze taki związek jest niemożliwy do zaakceptowania w środowisku, w którym żyją.",
+  "composers": [
+    {
+      "id": "nm0538803",
+      "name": "Jerzy Maksymiuk"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0444325",
+      "name": "Grzegorz Kedzierski"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

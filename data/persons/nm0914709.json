@@ -1,0 +1,31 @@
+{
+  "id": "nm0914709",
+  "name": "John Watson",
+  "filmography": [
+    {
+      "imdb_id": "tt0101393",
+      "title": "Backdraft",
+      "year": 1991,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0102798",
+      "title": "Robin Hood: Prince of Thieves",
+      "year": 1991,
+      "roles": [
+        "writer",
+        "producer"
+      ]
+    }
+  ],
+  "imdb_scraped": true,
+  "filmweb_id": 41706,
+  "name_pl": "John Watson",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ]
+}

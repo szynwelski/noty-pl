@@ -1,0 +1,27 @@
+{
+  "id": "nm1429908",
+  "name": "LeBron James",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzE2NzEwMTUxM15BMl5BanBnXkFtZTYwMzQ4NTQz._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt8009428",
+      "title": "Hustle",
+      "year": 2022,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "birth_date": "30.12.1984",
+  "birth_location": "Akron, Ohio, USA",
+  "height": "2.01 m",
+  "imdb_scraped": true,
+  "filmweb_id": 254894,
+  "name_pl": "LeBron James",
+  "birth_location_pl": "Akron, Ohio",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "nm0000552",
+  "name": "Eddie Murphy",
+  "filmography": [
+    {
+      "imdb_id": "tt0086960",
+      "title": "Beverly Hills Cop",
+      "year": 1984,
+      "roles": [
+        "star",
+        "cast",
+        "producer"
+      ],
+      "character": "Axel Foley"
+    },
+    {
+      "imdb_id": "tt0092644",
+      "title": "Beverly Hills Cop II",
+      "year": 1987,
+      "roles": [
+        "writer",
+        "star",
+        "cast",
+        "producer"
+      ],
+      "character": "Axel Foley"
+    },
+    {
+      "imdb_id": "tt0120762",
+      "title": "Mulan",
+      "year": 1998,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Mushu"
+    },
+    {
+      "imdb_id": "tt0126029",
+      "title": "Shrek",
+      "year": 2001,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Donkey"
+    },
+    {
+      "imdb_id": "tt0284490",
+      "title": "Showtime",
+      "year": 2002,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Trey Sellars"
+    },
+    {
+      "imdb_id": "tt0298148",
+      "title": "Shrek 2",
+      "year": 2004,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Donkey"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTc0NDQzODAwNF5BMl5BanBnXkFtZTYwMzUzNTk3._V1_.jpg",
+  "birth_date": "03.04.1961",
+  "birth_location": "Brooklyn, New York City, New York, USA",
+  "height": "1.76 m",
+  "filmweb_id": 72,
+  "name_pl": "Eddie Murphy",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 72
+}

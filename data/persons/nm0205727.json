@@ -1,0 +1,50 @@
+{
+  "id": "nm0205727",
+  "name": "Jon Davison",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTIwZGQ3OTgtODI2Yy00MjkxLWI3ZWEtZGIyZWNkZDRhNmUyXkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0080339",
+      "title": "Airplane!",
+      "year": 1980,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0093870",
+      "title": "RoboCop",
+      "year": 1987,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0120201",
+      "title": "Starship Troopers",
+      "year": 1997,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0367093",
+      "title": "Starship Troopers 2: Hero of the Federation",
+      "year": 2004,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "birth_date": "21.07.1949",
+  "birth_location": "Haddonfield, New Jersey, USA",
+  "filmweb_id": 136947,
+  "name_pl": "Jon Davison",
+  "birth_location_pl": "Haddonfield, New Jersey",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

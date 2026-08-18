@@ -1,0 +1,44 @@
+{
+  "id": "nm0005549",
+  "name": "Haskell Wexler",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjExNTYzODY3NV5BMl5BanBnXkFtZTcwODMyMDY5Mg@@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0061184",
+      "title": "Who's Afraid of Virginia Woolf?",
+      "year": 1966,
+      "roles": [
+        "cinematographer"
+      ]
+    },
+    {
+      "imdb_id": "tt0061811",
+      "title": "In the Heat of the Night",
+      "year": 1967,
+      "roles": [
+        "cinematographer"
+      ]
+    },
+    {
+      "imdb_id": "tt0073486",
+      "title": "One Flew Over the Cuckoo's Nest",
+      "year": 1975,
+      "roles": [
+        "cinematographer"
+      ]
+    }
+  ],
+  "birth_date": "06.02.1922",
+  "death_date": "27.12.2015",
+  "birth_location": "Chicago, Illinois, USA",
+  "filmweb_id": 11650,
+  "name_pl": "Haskell Wexler",
+  "birth_location_pl": "Chicago, Illinois",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 11650
+}

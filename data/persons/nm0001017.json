@@ -1,0 +1,60 @@
+{
+  "id": "nm0001017",
+  "name": "John Carradine",
+  "filmography": [
+    {
+      "imdb_id": "tt0031971",
+      "title": "Stagecoach",
+      "year": 1939,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Hatfield"
+    },
+    {
+      "imdb_id": "tt0032551",
+      "title": "The Grapes of Wrath",
+      "year": 1940,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Casy"
+    },
+    {
+      "imdb_id": "tt0056217",
+      "title": "The Man Who Shot Liberty Valance",
+      "year": 1962,
+      "roles": [
+        "cast"
+      ],
+      "character": "Maj. Cassius Starbuckle"
+    },
+    {
+      "imdb_id": "tt0068555",
+      "title": "Everything You Always Wanted to Know About Sex * But Were Afraid to Ask",
+      "year": 1972,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Doctor Bernardo"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BY2U1OGZlYjAtZjYxZS00MjUyLWFhNTAtOWE5MTBiOGE3Y2RhXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "05.02.1906",
+  "death_date": "27.11.1988",
+  "birth_location": "New York City, New York, USA",
+  "height": "1.83 m",
+  "filmweb_id": 42927,
+  "name_pl": "John Carradine",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 42927
+}

@@ -1,0 +1,40 @@
+{
+  "id": "nm0092900",
+  "name": "John Boles",
+  "filmography": [
+    {
+      "imdb_id": "tt0020080",
+      "title": "The Last Warning",
+      "year": 1928,
+      "roles": [
+        "cast"
+      ],
+      "character": "Richard Quayle"
+    },
+    {
+      "imdb_id": "tt0021884",
+      "title": "Frankenstein",
+      "year": 1931,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Victor Moritz"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODlkMWM3OTUtNTFhMS00Y2JhLWFlNmEtNGRlYzBmZmY1NGE3XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "28.10.1895",
+  "death_date": "27.02.1969",
+  "birth_location": "Greenville, Texas, USA",
+  "height": "1.83 m",
+  "imdb_scraped": true,
+  "filmweb_id": 41967,
+  "name_pl": "John Boles",
+  "birth_location_pl": "Greenville, Teksas",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 41967
+}

@@ -1,0 +1,30 @@
+{
+  "id": "nm0000696",
+  "name": "Wil Wheaton",
+  "filmography": [
+    {
+      "imdb_id": "tt0092005",
+      "title": "Stand by Me",
+      "year": 1986,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Gordie Lachance"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTg1Mjc5OTc3MF5BMl5BanBnXkFtZTcwODM1MTA4Mg@@._V1_.jpg",
+  "birth_date": "29.07.1972",
+  "birth_location": "Burbank, California, USA",
+  "height": "1.77 m",
+  "imdb_scraped": true,
+  "filmweb_id": 3031,
+  "name_pl": "Wil Wheaton",
+  "birth_location_pl": "Burbank, Kalifornia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 3031
+}

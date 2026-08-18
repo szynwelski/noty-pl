@@ -1,0 +1,51 @@
+{
+  "id": "nm0001801",
+  "name": "Robert Towne",
+  "filmography": [
+    {
+      "imdb_id": "tt0061418",
+      "title": "Bonnie and Clyde",
+      "year": 1967,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0071315",
+      "title": "Chinatown",
+      "year": 1974,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0099371",
+      "title": "Days of Thunder",
+      "year": 1990,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0106918",
+      "title": "The Firm",
+      "year": 1993,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTY4NjA2ODA0Nl5BMl5BanBnXkFtZTYwNzM5Mjg1._V1_.jpg",
+  "birth_date": "23.11.1934",
+  "death_date": "01.07.2024",
+  "birth_location": "Los Angeles, California, USA",
+  "filmweb_id": 12265,
+  "name_pl": "Robert Towne",
+  "birth_location_pl": "Los Angeles, Kalifornia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

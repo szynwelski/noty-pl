@@ -1,0 +1,81 @@
+{
+  "imdb_id": "tt1321469",
+  "title": "Royal Princes in St. Paul's Churchyard",
+  "description": "A mounted procession commands the attention of spectators, and the size and importance of St. Paul's in being able to accommodate it.",
+  "runtime_minutes": 1,
+  "release_date": "1897",
+  "genres": [
+    "Documentary",
+    "Short"
+  ],
+  "directors": [
+    {
+      "id": "nm0666972",
+      "name": "Robert W. Paul"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 757767,
+  "year": 1897,
+  "type": "short",
+  "image_url": null,
+  "ratings": {
+    "imdb": {
+      "rating": 4,
+      "votes": 94,
+      "distribution": {
+        "1": 19,
+        "2": 7,
+        "3": 12,
+        "4": 17,
+        "5": 20,
+        "6": 9,
+        "7": 4,
+        "8": 3,
+        "9": 0,
+        "10": 3
+      },
+      "normalized": 4.7435
+    },
+    "filmweb": {
+      "rating": 3.83,
+      "votes": 6,
+      "distribution": {
+        "1": 1,
+        "2": 0,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 5.0334
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "11.12.2016",
+      "normalized": 4.9718
+    },
+    "score": 4.9162
+  },
+  "polish_title": "Royal Princes in St. Paul's Churchyard",
+  "silent": true,
+  "cinematographers": [
+    {
+      "id": "nm0666972",
+      "name": "Robert W. Paul"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

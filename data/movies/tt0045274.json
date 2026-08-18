@@ -1,0 +1,200 @@
+{
+  "imdb_id": "tt0045274",
+  "title": "Umberto D.",
+  "description": "An elderly man and his dog struggle to survive on his government pension in Rome.",
+  "runtime_minutes": 89,
+  "release_date": "07.11.1955",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0061472",
+      "name": "Carlo Battisti"
+    },
+    {
+      "id": "nm0143686",
+      "name": "Maria Pia Casilio"
+    },
+    {
+      "id": "nm0312902",
+      "name": "Lina Gennari"
+    },
+    {
+      "id": "nm0800837",
+      "name": "Ileana Simova"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001120",
+      "name": "Vittorio De Sica"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0953790",
+      "name": "Cesare Zavattini"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0061472",
+      "name": "Carlo Battisti",
+      "character": "Umberto Domenico Ferrari"
+    },
+    {
+      "id": "nm0143686",
+      "name": "Maria Pia Casilio",
+      "character": "Maria"
+    },
+    {
+      "id": "nm0312902",
+      "name": "Lina Gennari",
+      "character": "Antonia Belloni"
+    },
+    {
+      "id": "nm0800837",
+      "name": "Ileana Simova",
+      "character": "Woman in Umberto's Room"
+    },
+    {
+      "id": "nm0713740",
+      "name": "Elena Rea",
+      "character": "Nun"
+    },
+    {
+      "id": "nm0139214",
+      "name": "Memmo Carotenuto",
+      "character": "Patient"
+    },
+    {
+      "id": "nm2338685",
+      "name": "De Silva",
+      "character": "Battistini"
+    },
+    {
+      "id": "nm0016285",
+      "name": "Alberto Albani Barbieri",
+      "character": "Paolo"
+    },
+    {
+      "id": "nm0023389",
+      "name": "Umberto Alivernini",
+      "character": "Young Doctor"
+    },
+    {
+      "id": "nm0132059",
+      "name": "Pasquale Campagnola",
+      "character": ""
+    },
+    {
+      "id": "nm0274783",
+      "name": "Riccardo Ferri",
+      "character": ""
+    },
+    {
+      "id": "nm0536009",
+      "name": "Lamberto Maggiorani",
+      "character": ""
+    },
+    {
+      "id": "nm0579634",
+      "name": "Mario Meniconi",
+      "character": "Tram Ticket-seller"
+    },
+    {
+      "id": "nm0664488",
+      "name": "Mario Pascucci",
+      "character": "Young Doctor"
+    }
+  ],
+  "countries": [
+    "Italy"
+  ],
+  "languages": [
+    "Italian"
+  ],
+  "color": "Black and White",
+  "year": 1952,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZWRkY2VmOTEtMTk5My00OWZmLWFmYWMtODE3ZmYyZTBhNTE0XkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 32192,
+  "ratings": {
+    "imdb": {
+      "rating": 8.1,
+      "votes": 30845,
+      "distribution": {
+        "1": 896,
+        "2": 220,
+        "3": 237,
+        "4": 353,
+        "5": 795,
+        "6": 1810,
+        "7": 4430,
+        "8": 8904,
+        "9": 6715,
+        "10": 6485
+      },
+      "normalized": 7.6093
+    },
+    "filmweb": {
+      "rating": 7.7,
+      "votes": 5282,
+      "distribution": {
+        "1": 54,
+        "2": 14,
+        "3": 35,
+        "4": 33,
+        "5": 136,
+        "6": 409,
+        "7": 1316,
+        "8": 1980,
+        "9": 906,
+        "10": 399
+      },
+      "normalized": 7.1241
+    },
+    "jarek": {
+      "rating": 9,
+      "date_rated": "11.08.2010",
+      "normalized": 8.8973
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "07.11.2005",
+      "normalized": 7.2292
+    },
+    "score": 7.715
+  },
+  "polish_title": "Umberto D.",
+  "silent": false,
+  "description_pl": "Umberto Domenico Ferrari (<a href=\"/osoba/?id=nm0061472\">Carlo Battisti</a>) jest emerytowanym urzędnikiem państwowym. Z powodu dewaluującej się państwowej emerytury ma duży problem z zapłaceniem czynszu za wynajem pokoju. Właścicielka mieszkania (Lina Gennari) próbuje to wykorzystać i pozbyć się go. Umberto stara się na różne sposoby zdobyć pieniądze potrzebne na spłatę długów. Jedynymi przyjaciółmi staruszka są ciężarna służąca <a href=\"/osoba/?id=nm0143686\">(Maria-Pia Casilio</a>) i piesek Flick.",
+  "producers": [
+    {
+      "id": "nm0024155",
+      "name": "Giuseppe Amato"
+    },
+    {
+      "id": "nm0001120",
+      "name": "Vittorio De Sica"
+    },
+    {
+      "id": "nm0729939",
+      "name": "Angelo Rizzoli"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006007",
+      "name": "Alessandro Cicognini"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0017622",
+      "name": "G.R. Aldo"
+    }
+  ],
+  "fetched_at": "2026-08-15"
+}

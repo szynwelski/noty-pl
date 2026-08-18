@@ -1,0 +1,205 @@
+{
+  "imdb_id": "tt0062228",
+  "title": "Our Folks",
+  "description": "Two peasant families, forced from their lands by war, find themselves settled by chance on neighboring farms, reigniting old feuds.",
+  "runtime_minutes": 81,
+  "release_date": "15.09.1967",
+  "genres": [
+    "Comedy"
+  ],
+  "stars": [
+    {
+      "id": "nm0468648",
+      "name": "Waclaw Kowalski"
+    },
+    {
+      "id": "nm0359449",
+      "name": "Wladyslaw Hancza"
+    },
+    {
+      "id": "nm0439065",
+      "name": "Zdzislaw Karczewski"
+    },
+    {
+      "id": "nm0476750",
+      "name": "Eliasz Kuziemski"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0154827",
+      "name": "Sylwester Checinski"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0611650",
+      "name": "Andrzej Mularczyk"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0468648",
+      "name": "Waclaw Kowalski",
+      "character": "Kazimierz Pawlak"
+    },
+    {
+      "id": "nm0359449",
+      "name": "Wladyslaw Hancza",
+      "character": "Wladyslaw Kargul"
+    },
+    {
+      "id": "nm0439065",
+      "name": "Zdzislaw Karczewski",
+      "character": "Jasko 'John' Pawlak"
+    },
+    {
+      "id": "nm0476750",
+      "name": "Eliasz Kuziemski",
+      "character": "Kokeszko"
+    },
+    {
+      "id": "nm0476350",
+      "name": "Ilona Kusmierska",
+      "character": "Jadzka Kargul"
+    },
+    {
+      "id": "nm0417439",
+      "name": "Jerzy Janeczek",
+      "character": "Witia Pawlak"
+    },
+    {
+      "id": "nm0953987",
+      "name": "Maria Zbyszewska",
+      "character": "Mania Pawlak"
+    },
+    {
+      "id": "nm0283932",
+      "name": "Aleksander Fogiel",
+      "character": "Mayor"
+    },
+    {
+      "id": "nm1284553",
+      "name": "Kazimierz Talarczyk",
+      "character": "Antoni Wieczorek"
+    },
+    {
+      "id": "nm0701568",
+      "name": "Witold Pyrkosz",
+      "character": "Varsovian"
+    },
+    {
+      "id": "nm0125556",
+      "name": "Halina Buyno-Loza",
+      "character": "Aniela Kargul"
+    },
+    {
+      "id": "nm0844390",
+      "name": "Natalia Szymanska",
+      "character": "Leonia Pawlak"
+    },
+    {
+      "id": "nm0067859",
+      "name": "Zygmunt Bielawski",
+      "character": "Pawel Pawlak"
+    },
+    {
+      "id": "nm3102885",
+      "name": "Borys Borkowski",
+      "character": "Militiaman"
+    },
+    {
+      "id": "nm0246200",
+      "name": "Adam Dzieszynski",
+      "character": "Militiaman Bajdor"
+    },
+    {
+      "id": "nm0476888",
+      "name": "Zdzislaw Kuzniar",
+      "character": "Soldier"
+    },
+    {
+      "id": "nm0520285",
+      "name": "Jan Lopuszniak",
+      "character": "German Priest"
+    },
+    {
+      "id": "nm0560657",
+      "name": "Ferdynand Matysik",
+      "character": "Tank Commander"
+    }
+  ],
+  "countries": [
+    "Poland"
+  ],
+  "languages": [
+    "Polish",
+    "Russian",
+    "Latin",
+    "German"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 1113,
+  "year": 1967,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNjQ1OGVkMjctZmM0NS00NjQ0LWExYTktMWFlOTMzOGRlZGM0XkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Sami swoi",
+  "ratings": {
+    "imdb": {
+      "rating": 7.9,
+      "votes": 4362,
+      "distribution": {
+        "1": 40,
+        "2": 20,
+        "3": 47,
+        "4": 60,
+        "5": 147,
+        "6": 336,
+        "7": 871,
+        "8": 1327,
+        "9": 712,
+        "10": 802
+      },
+      "normalized": 6.9046
+    },
+    "filmweb": {
+      "rating": 7.84,
+      "votes": 270461,
+      "distribution": {
+        "1": 1784,
+        "2": 952,
+        "3": 2248,
+        "4": 4060,
+        "5": 8584,
+        "6": 22077,
+        "7": 55344,
+        "8": 86481,
+        "9": 49119,
+        "10": 39812
+      },
+      "normalized": 7.8822
+    },
+    "michal": {
+      "rating": 8,
+      "date_rated": "19.10.2005",
+      "normalized": 8.1116
+    },
+    "score": 7.6328
+  },
+  "polish_title": "Sami swoi",
+  "silent": false,
+  "description_pl": "Jest to opowieść o zwaśnionych rodach Pawlaków i Kargulów. Przed wojną Kargul zaorał Pawlaków pole na trzy palce, co spowodowało, że spłonęły dwie stodoły, polała się krew i Jaśko Pawlak, uciekając przed karą za pocięcie kosą Kargula, musiał wyemigrować do Ameryki. Jednak spór dwóch rodzin dalej trwa.",
+  "composers": [
+    {
+      "id": "nm0004384",
+      "name": "Wojciech Kilar"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0560652",
+      "name": "Stefan Matyjaszkiewicz"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

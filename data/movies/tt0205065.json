@@ -1,0 +1,86 @@
+{
+  "imdb_id": "tt0205065",
+  "title": "Fire Rescue Scene",
+  "description": "\"Firemen in working uniform, rubber coats, helmets, and boots. Thrilling rescue from burning building. Smoke effects are fine.\" - from the Edison Catalog",
+  "runtime_minutes": 1,
+  "release_date": "01.12.1894",
+  "genres": [
+    "Drama",
+    "Short"
+  ],
+  "directors": [
+    {
+      "id": "nm0005690",
+      "name": "William K.L. Dickson"
+    },
+    {
+      "id": "nm0374658",
+      "name": "William Heise"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 271130,
+  "year": 1894,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNmIwNGViM2EtM2U1Ni00NTNmLWIyY2UtNTI5ZDE4YTA1YzY1XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.5,
+      "votes": 707,
+      "distribution": {
+        "1": 35,
+        "2": 24,
+        "3": 29,
+        "4": 66,
+        "5": 201,
+        "6": 193,
+        "7": 75,
+        "8": 35,
+        "9": 8,
+        "10": 41
+      },
+      "normalized": 4.0446
+    },
+    "filmweb": {
+      "rating": 4.54,
+      "votes": 65,
+      "distribution": {
+        "1": 5,
+        "2": 4,
+        "3": 9,
+        "4": 16,
+        "5": 13,
+        "6": 10,
+        "7": 3,
+        "8": 2,
+        "9": 1,
+        "10": 2
+      },
+      "normalized": 4.3816
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "11.12.2016",
+      "normalized": 6.4102
+    },
+    "score": 4.9455
+  },
+  "polish_title": "Fire Rescue Scene",
+  "silent": true,
+  "description_pl": "Widzimy strażaka w uniformie, hełmie i butach. Ratuje ludzi z płonącego budynku...",
+  "cinematographers": [
+    {
+      "id": "nm0374658",
+      "name": "William Heise"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

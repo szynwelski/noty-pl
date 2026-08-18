@@ -1,0 +1,44 @@
+{
+  "id": "nm0005888",
+  "name": "Harry Stradling Jr.",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDc0MjMyMmUtNjM1MC00MGM2LTkyYTYtYTE0ZGMwMGRiYTA3XkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0065988",
+      "title": "Little Big Man",
+      "year": 1970,
+      "roles": [
+        "cinematographer"
+      ]
+    },
+    {
+      "imdb_id": "tt0070903",
+      "title": "The Way We Were",
+      "year": 1973,
+      "roles": [
+        "cinematographer"
+      ]
+    },
+    {
+      "imdb_id": "tt0077369",
+      "title": "Convoy",
+      "year": 1978,
+      "roles": [
+        "cinematographer"
+      ]
+    }
+  ],
+  "birth_date": "07.01.1925",
+  "death_date": "17.10.2017",
+  "birth_location": "New York City, New York, USA",
+  "filmweb_id": 43771,
+  "name_pl": "Harry Stradling Jr.",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 43771
+}

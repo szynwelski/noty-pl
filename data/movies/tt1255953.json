@@ -1,0 +1,261 @@
+{
+  "imdb_id": "tt1255953",
+  "title": "Incendies",
+  "description": "Twins journey to the Middle East to discover their family history and fulfill their mother's last wishes.",
+  "runtime_minutes": 131,
+  "release_date": "22.04.2011",
+  "genres": [
+    "Drama",
+    "Mystery",
+    "War"
+  ],
+  "stars": [
+    {
+      "id": "nm0044073",
+      "name": "Lubna Azabal"
+    },
+    {
+      "id": "nm0246386",
+      "name": "Mélissa Désormeaux-Poulin"
+    },
+    {
+      "id": "nm0309945",
+      "name": "Maxim Gaudette"
+    },
+    {
+      "id": "nm1323233",
+      "name": "Mustafa Kamel"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0898288",
+      "name": "Denis Villeneuve"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1416431",
+      "name": "Wajdi Mouawad"
+    },
+    {
+      "id": "nm0898288",
+      "name": "Denis Villeneuve"
+    },
+    {
+      "id": "nm4034068",
+      "name": "Valérie Beaugrand-Champagne"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0044073",
+      "name": "Lubna Azabal",
+      "character": "Nawal Marwan"
+    },
+    {
+      "id": "nm0246386",
+      "name": "Mélissa Désormeaux-Poulin",
+      "character": "Jeanne Marwan"
+    },
+    {
+      "id": "nm0309945",
+      "name": "Maxim Gaudette",
+      "character": "Simon Marwan"
+    },
+    {
+      "id": "nm1323233",
+      "name": "Mustafa Kamel",
+      "character": "Barbier de la Milice"
+    },
+    {
+      "id": "nm4841645",
+      "name": "Hussein Sami",
+      "character": "Nihad (5 Ans)"
+    },
+    {
+      "id": "nm0320721",
+      "name": "Rémy Girard",
+      "character": "Notaire Jean Lebel"
+    },
+    {
+      "id": "nm0108436",
+      "name": "Dominique Briand",
+      "character": "Professeur Niv Cohen"
+    },
+    {
+      "id": "nm1840093",
+      "name": "Frédéric Paquet",
+      "character": "Médecin a L'urgence"
+    },
+    {
+      "id": "nm4841157",
+      "name": "Hamad Najm",
+      "character": "Wahab"
+    },
+    {
+      "id": "nm4655454",
+      "name": "Ahmad Massad",
+      "character": "Bassem Marwan"
+    },
+    {
+      "id": "nm2808008",
+      "name": "Bader Alami",
+      "character": "Nicolas Marwan"
+    },
+    {
+      "id": "nm4841574",
+      "name": "Majida Hussein",
+      "character": "Grand-mére de Nawal"
+    },
+    {
+      "id": "nm4841883",
+      "name": "Asriah Nijres",
+      "character": "Sage-Femme"
+    },
+    {
+      "id": "nm0242803",
+      "name": "John Dunn-Hill",
+      "character": "Professeur Saïd Haidar"
+    },
+    {
+      "id": "nm4706289",
+      "name": "Nadia Essadiqi",
+      "character": "Secrétaire Université"
+    },
+    {
+      "id": "nm4841009",
+      "name": "Chaouki Charbel",
+      "character": "Professeur Université"
+    },
+    {
+      "id": "nm2896042",
+      "name": "Axel Garbi",
+      "character": "Universitaire #1"
+    },
+    {
+      "id": "nm4841898",
+      "name": "Amine Benzenine",
+      "character": "Universitaire #2"
+    }
+  ],
+  "countries": [
+    "Canada",
+    "France"
+  ],
+  "languages": [
+    "French",
+    "Arabic",
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 512263,
+  "year": 2010,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYWFmMjdmNjctNzhhOC00ZmMzLTkwOGItMmVmZDU4MjE2MTYwXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8.3,
+      "votes": 257057,
+      "distribution": {
+        "1": 3175,
+        "2": 1152,
+        "3": 1339,
+        "4": 2018,
+        "5": 4126,
+        "6": 9825,
+        "7": 32408,
+        "8": 78221,
+        "9": 72698,
+        "10": 52095
+      },
+      "normalized": 8.3394
+    },
+    "filmweb": {
+      "rating": 8.07,
+      "votes": 56536,
+      "distribution": {
+        "1": 156,
+        "2": 99,
+        "3": 313,
+        "4": 432,
+        "5": 1215,
+        "6": 2667,
+        "7": 9091,
+        "8": 21032,
+        "9": 15807,
+        "10": 5724
+      },
+      "normalized": 8.5446
+    },
+    "jarek": {
+      "rating": 8,
+      "date_rated": "25.10.2010",
+      "normalized": 7.8989
+    },
+    "michal": {
+      "rating": 8,
+      "date_rated": "14.10.2010",
+      "normalized": 8.1116
+    },
+    "score": 8.2236
+  },
+  "polish_title": "Pogorzelisko",
+  "silent": false,
+  "description_pl": "Podczas odczytywania testamentu matki, bliźnięta Simon i Jeanne dowiadują się po raz pierwszy o istnieniu brata oraz że ojciec, wbrew dotychczasowym informacjom, wciąż żyje. Jedną z licznych, niepokojących próśb w testamencie matki jest to, by bliźniaki odnalazły brata i ojca, by dostarczyć im zapieczętowane listy.",
+  "producers": [
+    {
+      "id": "nm0246404",
+      "name": "Luc Déry"
+    },
+    {
+      "id": "nm1773719",
+      "name": "Anthony Doncque"
+    },
+    {
+      "id": "nm3061598",
+      "name": "Phoebe Greenberg"
+    },
+    {
+      "id": "nm3062487",
+      "name": "Penny Mancuso"
+    },
+    {
+      "id": "nm0566919",
+      "name": "Kim McCraw"
+    },
+    {
+      "id": "nm0694709",
+      "name": "Miléna Poylo"
+    },
+    {
+      "id": "nm0755387",
+      "name": "Gilles Sacuto"
+    },
+    {
+      "id": "nm1186467",
+      "name": "Ziad Touma"
+    },
+    {
+      "id": "nm1297510",
+      "name": "Stephen Traynor"
+    },
+    {
+      "id": "nm0874068",
+      "name": "Sylvie Trudelle"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm1055564",
+      "name": "Grégoire Hetzel"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0878031",
+      "name": "André Turpin"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

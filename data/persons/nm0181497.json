@@ -1,0 +1,30 @@
+{
+  "id": "nm0181497",
+  "name": "Julio Cortázar",
+  "filmography": [
+    {
+      "imdb_id": "tt0060176",
+      "title": "Blow-Up",
+      "year": 1966,
+      "roles": [
+        "writer",
+        "cast"
+      ],
+      "character": "Homeless Man"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjFlYzZhNmEtMTJjOC00N2UzLTljZmYtZjM2M2ZhMDY2MmVkXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "26.08.1914",
+  "death_date": "12.02.1984",
+  "birth_location": "Brussels, Belgium",
+  "imdb_scraped": true,
+  "filmweb_id": 122014,
+  "name_pl": "Julio Cortázar",
+  "birth_location_pl": "Bruksela",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja",
+    "Argentyna"
+  ]
+}

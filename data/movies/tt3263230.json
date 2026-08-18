@@ -1,0 +1,190 @@
+{
+  "imdb_id": "tt3263230",
+  "title": "Bad Days",
+  "description": "Emilia and her mother, Lucia, are forced into isolation after her stepfather, The Turk, steals a highly coveted cargo of emeralds. The unexpected arrival of two hired assassins to the cabin where mother and daughter are hiding unleashes an imminent danger. Tensions grow...",
+  "runtime_minutes": 90,
+  "release_date": "21.04.2016",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm6018296",
+      "name": "Juan Aguirre"
+    },
+    {
+      "id": "nm3041113",
+      "name": "Joe Broderick"
+    },
+    {
+      "id": "nm3692010",
+      "name": "Nelson Camayo"
+    },
+    {
+      "id": "nm0134357",
+      "name": "Roberto Cano"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm4387002",
+      "name": "Andres Beltran"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm4387002",
+      "name": "Andres Beltran"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm6018296",
+      "name": "Juan Aguirre",
+      "character": "Barrios"
+    },
+    {
+      "id": "nm3041113",
+      "name": "Joe Broderick",
+      "character": "El Gringo"
+    },
+    {
+      "id": "nm3692010",
+      "name": "Nelson Camayo",
+      "character": "El Indio"
+    },
+    {
+      "id": "nm0134357",
+      "name": "Roberto Cano",
+      "character": "Ramírez"
+    },
+    {
+      "id": "nm5618743",
+      "name": "Alejandra Chamorro",
+      "character": "Emilia"
+    },
+    {
+      "id": "nm4849639",
+      "name": "Luis Felipe Cortés",
+      "character": "El Negro"
+    },
+    {
+      "id": "nm0259786",
+      "name": "Cristóbal Errazúriz",
+      "character": "El Turco"
+    },
+    {
+      "id": "nm5105398",
+      "name": "Carlos Fonseca",
+      "character": "Fernando"
+    },
+    {
+      "id": "nm6018297",
+      "name": "Juan Guillermo Gil",
+      "character": "Hombre Gordo"
+    },
+    {
+      "id": "nm2106752",
+      "name": "Gloria Montoya",
+      "character": "Lucía"
+    },
+    {
+      "id": "nm2690668",
+      "name": "David Valencia",
+      "character": "Billy D."
+    }
+  ],
+  "countries": [
+    "Colombia"
+  ],
+  "languages": [
+    "Spanish"
+  ],
+  "color": "Color",
+  "year": 2015,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYTQ0YTJjOTQtZTJjNC00ZWM2LWE1YzgtMWQ1MDZmYTQ4ZTg5XkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 707482,
+  "original_title": "Malos Días",
+  "ratings": {
+    "imdb": {
+      "rating": 5.8,
+      "votes": 82,
+      "distribution": {
+        "1": 14,
+        "2": 6,
+        "3": 4,
+        "4": 8,
+        "5": 8,
+        "6": 11,
+        "7": 10,
+        "8": 4,
+        "9": 3,
+        "10": 14
+      },
+      "normalized": 5.0518
+    },
+    "filmweb": {
+      "rating": 5.6,
+      "votes": 40,
+      "distribution": {
+        "2": 2,
+        "3": 2,
+        "4": 5,
+        "5": 9,
+        "6": 10,
+        "7": 9,
+        "8": 1,
+        "9": 2,
+        "10": 0
+      },
+      "normalized": 4.8433
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "12.10.2020",
+      "normalized": 6.4102
+    },
+    "score": 5.4351
+  },
+  "polish_title": "Złe dni",
+  "silent": false,
+  "description_pl": "Emilia i jej matka Lucia muszą się ukrywać po tym, jak \"Turek\", ojczym Emilii ukradł ogromny ładunek ze szmaragdami. Do domku na odludziu, w którym przebywają, przypadkowo trafiają dwaj najemni zabójcy. Jeden z nich jest ranny i potrzebuje odpoczynku. Mężczyźni szybko orientują się kim są kobiety i dlaczego się ukrywają. Wkrótce do domku ma przyjechać \"Turek\". Napięcie rośnie.",
+  "producers": [
+    {
+      "id": "nm4102845",
+      "name": "Marie Adler"
+    },
+    {
+      "id": "nm4387002",
+      "name": "Andres Beltran"
+    },
+    {
+      "id": "nm15364907",
+      "name": "Laura Fernandez"
+    },
+    {
+      "id": "nm6289381",
+      "name": "Felipe Linares"
+    },
+    {
+      "id": "nm5104434",
+      "name": "Luisa Velosa"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm6289381",
+      "name": "Felipe Linares"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm6018298",
+      "name": "Camilo Paredes"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

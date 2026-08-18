@@ -1,0 +1,126 @@
+{
+  "id": "nm0000080",
+  "name": "Orson Welles",
+  "filmography": [
+    {
+      "imdb_id": "tt0033467",
+      "title": "Citizen Kane",
+      "year": 1941,
+      "roles": [
+        "director",
+        "writer",
+        "star",
+        "cast",
+        "producer"
+      ],
+      "character": "Kane"
+    },
+    {
+      "imdb_id": "tt0035015",
+      "title": "The Magnificent Ambersons",
+      "year": 1942,
+      "roles": [
+        "director",
+        "writer",
+        "cast",
+        "producer"
+      ],
+      "character": "Narrator"
+    },
+    {
+      "imdb_id": "tt0038991",
+      "title": "The Stranger",
+      "year": 1946,
+      "roles": [
+        "director",
+        "star",
+        "cast"
+      ],
+      "character": "Prof. Charles Rankin"
+    },
+    {
+      "imdb_id": "tt0039631",
+      "title": "Monsieur Verdoux",
+      "year": 1947,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0041959",
+      "title": "The Third Man",
+      "year": 1949,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Harry Lime"
+    },
+    {
+      "imdb_id": "tt0049513",
+      "title": "Moby Dick",
+      "year": 1956,
+      "roles": [
+        "cast"
+      ],
+      "character": "Father Mapple"
+    },
+    {
+      "imdb_id": "tt0052311",
+      "title": "Touch of Evil",
+      "year": 1958,
+      "roles": [
+        "director",
+        "writer",
+        "star",
+        "cast"
+      ],
+      "character": "Police Captain Hank Quinlan"
+    },
+    {
+      "imdb_id": "tt0059012",
+      "title": "Chimes at Midnight",
+      "year": 1965,
+      "roles": [
+        "director",
+        "writer",
+        "star",
+        "cast"
+      ],
+      "character": "Sir John Falstaff"
+    },
+    {
+      "imdb_id": "tt0065528",
+      "title": "Catch-22",
+      "year": 1970,
+      "roles": [
+        "cast"
+      ],
+      "character": "General Dreedle"
+    },
+    {
+      "imdb_id": "tt0082517",
+      "title": "History of the World: Part I",
+      "year": 1981,
+      "roles": [
+        "cast"
+      ],
+      "character": "Narrator"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTZmNzM4YTItMzMzMC00NjgwLTkyYTgtNTNiOTFiNWEyMzIyXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "06.05.1915",
+  "death_date": "10.10.1985",
+  "birth_location": "Kenosha, Wisconsin, USA",
+  "height": "1.83 m",
+  "filmweb_id": 44591,
+  "name_pl": "Orson Welles",
+  "birth_location_pl": "Kenosha, Wisconsin",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 44591
+}

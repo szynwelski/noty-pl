@@ -1,0 +1,39 @@
+{
+  "id": "nm0516876",
+  "name": "Gene Lockhart",
+  "filmography": [
+    {
+      "imdb_id": "tt0026246",
+      "title": "Crime and Punishment",
+      "year": 1935,
+      "roles": [
+        "cast"
+      ],
+      "character": "Lushin"
+    },
+    {
+      "imdb_id": "tt0032599",
+      "title": "His Girl Friday",
+      "year": 1940,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Sheriff Hartwell"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BY2ViMGNlNTUtMmI3My00YTE0LTkwMTQtOWEwOGY5OTI3ZDcwXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "18.07.1891",
+  "death_date": "31.03.1957",
+  "birth_location": "London, Ontario, Canada",
+  "imdb_scraped": true,
+  "filmweb_id": 45901,
+  "name_pl": "Gene Lockhart",
+  "birth_location_pl": "London",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Kanada"
+  ],
+  "wikidata_fw_id": 45901
+}

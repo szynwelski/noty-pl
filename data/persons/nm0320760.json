@@ -1,0 +1,51 @@
+{
+  "id": "nm0320760",
+  "name": "Annie Girardot",
+  "filmography": [
+    {
+      "imdb_id": "tt0054248",
+      "title": "Rocco and His Brothers",
+      "year": 1960,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Nadia"
+    },
+    {
+      "imdb_id": "tt0254686",
+      "title": "The Piano Teacher",
+      "year": 2001,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "The Mother"
+    },
+    {
+      "imdb_id": "tt0387898",
+      "title": "Caché",
+      "year": 2005,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Georges's Mom"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjE3Mjg4Mjg3NF5BMl5BanBnXkFtZTcwNjUzOTkxOA@@._V1_.jpg",
+  "birth_date": "25.10.1931",
+  "death_date": "28.02.2011",
+  "birth_location": "Paris, France",
+  "height": "1.63 m",
+  "filmweb_id": 51075,
+  "name_pl": "Annie Girardot",
+  "birth_location_pl": "Paryż",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja"
+  ],
+  "wikidata_fw_id": 51075
+}

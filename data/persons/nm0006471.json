@@ -1,0 +1,41 @@
+{
+  "id": "nm0006471",
+  "name": "Elsa Lanchester",
+  "filmography": [
+    {
+      "imdb_id": "tt0026138",
+      "title": "Bride of Frankenstein",
+      "year": 1935,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Mary Wollstonecraft Shelley"
+    },
+    {
+      "imdb_id": "tt0051201",
+      "title": "Witness for the Prosecution",
+      "year": 1957,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Miss Plimsoll"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNmM1YmJhZjItOTI0ZS00NTk1LWJkNTItODgwZjJkZGRjMzI5XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "28.10.1902",
+  "death_date": "26.12.1986",
+  "birth_location": "Lewisham, London, England, UK",
+  "height": "1.62 m",
+  "imdb_scraped": true,
+  "filmweb_id": 43468,
+  "name_pl": "Elsa Lanchester",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 43468
+}

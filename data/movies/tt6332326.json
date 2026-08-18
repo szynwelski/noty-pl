@@ -1,0 +1,59 @@
+{
+  "imdb_id": "tt6332326",
+  "title": "Boy with Red Ensign and Girl on a Swing",
+  "description": "",
+  "runtime_minutes": null,
+  "release_date": "12.09.2012",
+  "genres": [
+    "Short"
+  ],
+  "directors": [
+    {
+      "id": "nm8643876",
+      "name": "Edward Raymond Turner"
+    }
+  ],
+  "top_cast": [],
+  "countries": [],
+  "languages": [
+    "None"
+  ],
+  "color": "Color",
+  "year": 2012,
+  "type": "short",
+  "image_url": null,
+  "filmweb_id": null,
+  "ratings": {
+    "imdb": {
+      "rating": 5.2,
+      "votes": 11,
+      "distribution": {
+        "1": 1,
+        "2": 2,
+        "3": 1,
+        "4": 0,
+        "5": 2,
+        "6": 1,
+        "7": 3,
+        "8": 0,
+        "9": 0,
+        "10": 1
+      },
+      "normalized": 5.2596
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "16.12.2016",
+      "normalized": 7.1247
+    },
+    "score": 5.9614,
+    "filmweb": {
+      "normalized": 5.5
+    }
+  },
+  "silent": false,
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-16"
+}

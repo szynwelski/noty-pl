@@ -1,0 +1,224 @@
+{
+  "imdb_id": "tt0067144",
+  "title": "The Go-Between",
+  "description": "A tale of torrid and forbidden love between a couple in the English countryside.",
+  "runtime_minutes": 116,
+  "release_date": "29.07.1971",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0001046",
+      "name": "Julie Christie"
+    },
+    {
+      "id": "nm0000869",
+      "name": "Alan Bates"
+    },
+    {
+      "id": "nm0345297",
+      "name": "Dominic Guard"
+    },
+    {
+      "id": "nm0500364",
+      "name": "Margaret Leighton"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0521334",
+      "name": "Joseph Losey"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0056217",
+      "name": "Harold Pinter"
+    },
+    {
+      "id": "nm0366860",
+      "name": "L.P. Hartley"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0001046",
+      "name": "Julie Christie",
+      "character": "Marian Maudsley - Lady Trimingham"
+    },
+    {
+      "id": "nm0000869",
+      "name": "Alan Bates",
+      "character": "Ted Burgess"
+    },
+    {
+      "id": "nm0345297",
+      "name": "Dominic Guard",
+      "character": "Leo Colston"
+    },
+    {
+      "id": "nm0500364",
+      "name": "Margaret Leighton",
+      "character": "Mrs. Maudsley"
+    },
+    {
+      "id": "nm0714878",
+      "name": "Michael Redgrave",
+      "character": "Older Leo Colston"
+    },
+    {
+      "id": "nm0001284",
+      "name": "Michael Gough",
+      "character": "Mr Maudsley"
+    },
+    {
+      "id": "nm0002081",
+      "name": "Edward Fox",
+      "character": "Hugh Trimingham"
+    },
+    {
+      "id": "nm0317159",
+      "name": "Richard Gibson",
+      "character": "Marcus Maudsley"
+    },
+    {
+      "id": "nm0401775",
+      "name": "Simon Hume-Kendall",
+      "character": "Denys"
+    },
+    {
+      "id": "nm0516181",
+      "name": "Roger Lloyd Pack",
+      "character": "Charles"
+    },
+    {
+      "id": "nm0307793",
+      "name": "Amaryllis Garnett",
+      "character": "Kate"
+    },
+    {
+      "id": "nm0118645",
+      "name": "Keith Buckley",
+      "character": "Stubbs"
+    },
+    {
+      "id": "nm0715919",
+      "name": "John Rees",
+      "character": "Blunt"
+    },
+    {
+      "id": "nm0724566",
+      "name": "Gordon Richardson",
+      "character": "Rector"
+    },
+    {
+      "id": "nm0000980",
+      "name": "Jim Broadbent",
+      "character": "Spectator at Cricket Match"
+    },
+    {
+      "id": "nm12977982",
+      "name": "Carl Dane",
+      "character": "Coachman"
+    },
+    {
+      "id": "nm0521335",
+      "name": "Joshua Losey",
+      "character": "Boy in Village"
+    },
+    {
+      "id": "nm0776039",
+      "name": "Arnold Schulkes",
+      "character": "Servant"
+    }
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": null,
+  "filmweb_id": 31762,
+  "year": 1971,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYTg5YjQ5MzQtODEzNi00M2JkLWE1MDQtNmM3NGU1NDE5Yzc0XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.1,
+      "votes": 7194,
+      "distribution": {
+        "1": 113,
+        "2": 66,
+        "3": 100,
+        "4": 182,
+        "5": 413,
+        "6": 961,
+        "7": 1956,
+        "8": 1956,
+        "9": 726,
+        "10": 721
+      },
+      "normalized": 5.673
+    },
+    "filmweb": {
+      "rating": 6.97,
+      "votes": 2156,
+      "distribution": {
+        "1": 68,
+        "2": 19,
+        "3": 53,
+        "4": 53,
+        "5": 157,
+        "6": 331,
+        "7": 597,
+        "8": 490,
+        "9": 205,
+        "10": 183
+      },
+      "normalized": 5.4957
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "17.12.2006",
+      "normalized": 6.3474
+    },
+    "score": 5.8387
+  },
+  "polish_title": "Posłaniec",
+  "silent": false,
+  "description_pl": "Anglia u schyłku XIX wieku. Na zaproszenie swego szkolnego kolegi, Marcusa Maudsleya, 12-letni Leo Colston przyjeżdża na wakacje do Bradham Hall, rodzinnej posiadłości rodziców kolegi. Chłopca, syna ubogiej wdowy, onieśmiela przepych otoczenia i luksusowe życie rodziny. Jeszcze bardziej peszy go obecność i uroda Marian, siostry Marcusa.",
+  "producers": [
+    {
+      "id": "nm0382274",
+      "name": "John Heyman"
+    },
+    {
+      "id": "nm0295711",
+      "name": "Norman Priggen"
+    },
+    {
+      "id": "nm0892224",
+      "name": "Robert Velaise"
+    },
+    {
+      "id": "nm0424940",
+      "name": "Denis Johnson"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006166",
+      "name": "Michel Legrand"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0279518",
+      "name": "Gerry Fisher"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

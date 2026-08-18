@@ -1,0 +1,264 @@
+{
+  "imdb_id": "tt1745960",
+  "title": "Top Gun: Maverick",
+  "description": "The story involves Maverick confronting his past while training a group of younger Top Gun graduates, including the son of his deceased best friend, for a dangerous mission.",
+  "runtime_minutes": 130,
+  "release_date": "27.05.2022",
+  "genres": [
+    "Action",
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0000129",
+      "name": "Tom Cruise"
+    },
+    {
+      "id": "nm0000124",
+      "name": "Jennifer Connelly"
+    },
+    {
+      "id": "nm1886602",
+      "name": "Miles Teller"
+    },
+    {
+      "id": "nm0000174",
+      "name": "Val Kilmer"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm2676052",
+      "name": "Joseph Kosinski"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0472567",
+      "name": "Ehren Kruger"
+    },
+    {
+      "id": "nm2545235",
+      "name": "Eric Warren Singer"
+    },
+    {
+      "id": "nm0003160",
+      "name": "Christopher McQuarrie"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000129",
+      "name": "Tom Cruise",
+      "character": "Capt. Pete 'Maverick' Mitchell"
+    },
+    {
+      "id": "nm0000124",
+      "name": "Jennifer Connelly",
+      "character": "Penny Benjamin"
+    },
+    {
+      "id": "nm1886602",
+      "name": "Miles Teller",
+      "character": "Lt. Bradley 'Rooster' Bradshaw"
+    },
+    {
+      "id": "nm0000174",
+      "name": "Val Kilmer",
+      "character": "Adm. Tom 'Iceman' Kazansky"
+    },
+    {
+      "id": "nm1506981",
+      "name": "Bashir Salahuddin",
+      "character": "CWO4 Bernie 'Hondo' Coleman"
+    },
+    {
+      "id": "nm0358316",
+      "name": "Jon Hamm",
+      "character": "Adm. Beau 'Cyclone' Simpson"
+    },
+    {
+      "id": "nm0663174",
+      "name": "Charles Parnell",
+      "character": "Adm. Solomon 'Warlock' Bates"
+    },
+    {
+      "id": "nm4834815",
+      "name": "Monica Barbaro",
+      "character": "Lt. Natasha 'Phoenix' Trace"
+    },
+    {
+      "id": "nm5730649",
+      "name": "Lewis Pullman",
+      "character": "Lt. Robert 'Bob' Floyd"
+    },
+    {
+      "id": "nm1337350",
+      "name": "Jay Ellis",
+      "character": "Lt. Reuben 'Payback' Fitch"
+    },
+    {
+      "id": "nm6639989",
+      "name": "Danny Ramirez",
+      "character": "Lt. Mickey 'Fanboy' Garcia"
+    },
+    {
+      "id": "nm1412974",
+      "name": "Glen Powell",
+      "character": "Lt. Jake 'Hangman' Seresin"
+    },
+    {
+      "id": "nm7453477",
+      "name": "Jack Schumacher",
+      "character": "Lt. Neil 'Omaha' Vikander"
+    },
+    {
+      "id": "nm3254274",
+      "name": "Manny Jacinto",
+      "character": "Lt. Billy 'Fritz' Avalone"
+    },
+    {
+      "id": "nm2745297",
+      "name": "Kara Wang",
+      "character": "Lt. Callie 'Halo' Bassett"
+    },
+    {
+      "id": "nm8241861",
+      "name": "Greg Tarzan Davis",
+      "character": "Lt. Javy 'Coyote' Machado"
+    },
+    {
+      "id": "nm4917623",
+      "name": "Jake Picking",
+      "character": "Lt. Brigham 'Harvard' Lennox"
+    },
+    {
+      "id": "nm3100463",
+      "name": "Raymond Lee",
+      "character": "Lt. Logan 'Yale' Lee"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 602101,
+  "year": 2022,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDBkZDNjMWEtOTdmMi00NmExLTg5MmMtNTFlYTJlNWY5YTdmXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8.2,
+      "votes": 899379,
+      "distribution": {
+        "1": 6800,
+        "2": 2649,
+        "3": 3751,
+        "4": 6113,
+        "5": 14717,
+        "6": 41983,
+        "7": 123879,
+        "8": 270954,
+        "9": 217719,
+        "10": 210814
+      },
+      "normalized": 8.1503
+    },
+    "filmweb": {
+      "rating": 7.85,
+      "votes": 145450,
+      "distribution": {
+        "1": 655,
+        "2": 410,
+        "3": 963,
+        "4": 1623,
+        "5": 4217,
+        "6": 11420,
+        "7": 31699,
+        "8": 47961,
+        "9": 28812,
+        "10": 17690
+      },
+      "normalized": 7.9053
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "07.06.2022",
+      "normalized": 5.6855
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "06.06.2022",
+      "normalized": 5.4199
+    },
+    "score": 6.7902
+  },
+  "polish_title": "Top Gun: Maverick",
+  "silent": false,
+  "description_pl": "Po ponad 30 latach w służbie amerykańskiej marynarki wojennej Pete \"Maverick\" Mitchell (<a href=\"/osoba/?id=nm0000129\">Tom Cruise</a>) jest tam, gdzie powinien być - na szczycie. Jest mistrzowskim pilotem, testującym najnowocześniejsze maszyny.\nKiedy staje na czele pilockiej spec-grupy szkolącej jej uczestników do udziału w misji, jakiej dotąd nie było, przychodzi mu spotkać się z porucznikiem Bradleyem Bradshawem (<a href=\"/osoba/?id=nm1886602\">Miles Teller</a>) o kryptonimie \"Rooster\", synem jego przyjaciela oficera Nicka Bradshawa, kryptonim \"Goose\", który przed laty zginął podczas jednej z misji. Maverick musi stawić czoła niepewnej przyszłości oraz duchom przeszłości. Mierzy się ze swymi lękami i demonami, czego kulminacją będzie ostateczne poświęcenie tych, którzy zostaną wybrani do misji.",
+  "producers": [
+    {
+      "id": "nm0000988",
+      "name": "Jerry Bruckheimer"
+    },
+    {
+      "id": "nm1192578",
+      "name": "John K. Campbell"
+    },
+    {
+      "id": "nm2531673",
+      "name": "Emily Cheung"
+    },
+    {
+      "id": "nm0000129",
+      "name": "Tom Cruise"
+    },
+    {
+      "id": "nm1911103",
+      "name": "David Ellison"
+    },
+    {
+      "id": "nm1314271",
+      "name": "Don Ferrarone"
+    },
+    {
+      "id": "nm1602154",
+      "name": "Dana Goldberg"
+    },
+    {
+      "id": "nm1447370",
+      "name": "Don Granger"
+    },
+    {
+      "id": "nm0363986",
+      "name": "Tommy Harper"
+    },
+    {
+      "id": "nm0003160",
+      "name": "Christopher McQuarrie"
+    },
+    {
+      "id": "nm0648288",
+      "name": "Chad Oman"
+    },
+    {
+      "id": "nm1801182",
+      "name": "Melissa Reid"
+    },
+    {
+      "id": "nm0826679",
+      "name": "Mike Stenson"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0592073",
+      "name": "Claudio Miranda"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

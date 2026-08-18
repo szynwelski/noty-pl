@@ -1,0 +1,208 @@
+{
+  "imdb_id": "tt14536106",
+  "title": "Ice",
+  "description": "In a future where many humans are enhanced with extraordinary strength and endurance, the \"unmodded\" feel left behind. This class-conflict drives a rift between two brothers that puts their lives at risk during a dangerous race.",
+  "runtime_minutes": 13,
+  "release_date": "14.05.2021",
+  "genres": [
+    "Animation",
+    "Short",
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Drama",
+    "Fantasy",
+    "Horror",
+    "Mystery",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm5994098",
+      "name": "Archie Madekwe"
+    },
+    {
+      "id": "nm7509185",
+      "name": "Sebastian Croft"
+    },
+    {
+      "id": "nm6487001",
+      "name": "Beatriz Godinho"
+    },
+    {
+      "id": "nm11123293",
+      "name": "Alexander Lobo Moreno"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm3230254",
+      "name": "Robert Valley"
+    },
+    {
+      "id": "nm0950775",
+      "name": "Jennifer Yuh Nelson"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm4500131",
+      "name": "Rich Larson"
+    },
+    {
+      "id": "nm3664884",
+      "name": "Philip Gelatt"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm5994098",
+      "name": "Archie Madekwe",
+      "character": "Sedgewick"
+    },
+    {
+      "id": "nm7509185",
+      "name": "Sebastian Croft",
+      "character": "Fletcher"
+    },
+    {
+      "id": "nm6487001",
+      "name": "Beatriz Godinho",
+      "character": "Logan"
+    },
+    {
+      "id": "nm11123293",
+      "name": "Alexander Lobo Moreno",
+      "character": "Brume"
+    },
+    {
+      "id": "nm6564165",
+      "name": "Miguel Amorim",
+      "character": "Oxo"
+    },
+    {
+      "id": "nm6482176",
+      "name": "Mike Bodie",
+      "character": "Father"
+    },
+    {
+      "id": "nm2681647",
+      "name": "Maria Teresa Creasey",
+      "character": "Mother"
+    },
+    {
+      "id": "nm0485670",
+      "name": "Lex Lang",
+      "character": "Additional Voices"
+    },
+    {
+      "id": "nm0571443",
+      "name": "Caitlin McKenna",
+      "character": "Additional Voices"
+    },
+    {
+      "id": "nm1408690",
+      "name": "Ben Pronsky",
+      "character": "Additional Voices"
+    },
+    {
+      "id": "nm0937869",
+      "name": "Matthew Wolf",
+      "character": "Additional Voices"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "year": 2021,
+  "type": "tvEpisode",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTg0ZmIwYzMtZGQzMC00MjM1LTg1YzctN2YzYjVjYzZmMjZiXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 824633,
+  "ratings": {
+    "imdb": {
+      "rating": 6.1,
+      "votes": 13992,
+      "distribution": {
+        "1": 360,
+        "2": 299,
+        "3": 444,
+        "4": 893,
+        "5": 2249,
+        "6": 3842,
+        "7": 3169,
+        "8": 1488,
+        "9": 577,
+        "10": 671
+      }
+    },
+    "filmweb": {
+      "rating": 7.94,
+      "votes": 54233,
+      "distribution": {
+        "1": 98,
+        "2": 90,
+        "3": 250,
+        "4": 388,
+        "5": 1135,
+        "6": 3408,
+        "7": 10946,
+        "8": 20253,
+        "9": 13148,
+        "10": 4517
+      }
+    },
+    "jarek": {
+      "rating": 3,
+      "date_rated": "31.10.2022"
+    }
+  },
+  "polish_title": "Miłość, śmierć i roboty",
+  "silent": false,
+  "description_pl": "\"Miłość, śmierć i roboty\" to seria krótkich animowanych opowieści należących do różnych gatunków - science fiction, fantasy, horroru i komedii. Opowiedziane w śmiały sposób historie ogląda się przyjemnie, a losy ich bohaterów przez długi czas pozostają w pamięci. Historie tworzą pierwszą antologię animowanych opowieści, która dostarczy widzom niezapomnianych i poruszających do głębi wrażeń.",
+  "producers": [
+    {
+      "id": "nm2643592",
+      "name": "Ellen Collins"
+    },
+    {
+      "id": "nm0232433",
+      "name": "Joshua Donen"
+    },
+    {
+      "id": "nm0000399",
+      "name": "David Fincher"
+    },
+    {
+      "id": "nm2126361",
+      "name": "Victoria L. Howard"
+    },
+    {
+      "id": "nm10380524",
+      "name": "Jennifer Miller"
+    },
+    {
+      "id": "nm1783265",
+      "name": "Tim Miller"
+    },
+    {
+      "id": "nm0749509",
+      "name": "Andrew Ruhemann"
+    },
+    {
+      "id": "nm1230132",
+      "name": "Cara Speller"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm1052252",
+      "name": "Rob Cairns"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,154 @@
+{
+  "imdb_id": "tt1950304",
+  "title": "Pitch Black Heist",
+  "description": "Liam (Liam Cunningham) and Michael (Michael Fassbender) are professional safe crackers who meet on a simple job to relieve an office safe from its contents. The catch is a light activated alarm system impelling the men to embark on a pitch black heist",
+  "runtime_minutes": 13,
+  "release_date": "2012",
+  "genres": [
+    "Short",
+    "Crime",
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm1055413",
+      "name": "Michael Fassbender"
+    },
+    {
+      "id": "nm0192377",
+      "name": "Liam Cunningham"
+    },
+    {
+      "id": "nm1276507",
+      "name": "Alex Macqueen"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm3304468",
+      "name": "John Maclean"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm3304468",
+      "name": "John Maclean"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1055413",
+      "name": "Michael Fassbender",
+      "character": "Michael"
+    },
+    {
+      "id": "nm0192377",
+      "name": "Liam Cunningham",
+      "character": "Liam"
+    },
+    {
+      "id": "nm1276507",
+      "name": "Alex Macqueen",
+      "character": "Isaac"
+    }
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 631381,
+  "year": 2011,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYjY1MWJjOTEtY2QyNy00ZDE4LWI1YjUtYjhhODZlNDBlNjgwXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.2,
+      "votes": 1505,
+      "distribution": {
+        "1": 40,
+        "2": 6,
+        "3": 14,
+        "4": 18,
+        "5": 66,
+        "6": 177,
+        "7": 476,
+        "8": 418,
+        "9": 154,
+        "10": 136
+      },
+      "normalized": 5.6676
+    },
+    "filmweb": {
+      "rating": 6.82,
+      "votes": 855,
+      "distribution": {
+        "1": 4,
+        "2": 10,
+        "3": 29,
+        "4": 30,
+        "5": 37,
+        "6": 153,
+        "7": 323,
+        "8": 207,
+        "9": 40,
+        "10": 22
+      },
+      "normalized": 5.2708
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "07.01.2017",
+      "normalized": 5.6855
+    },
+    "score": 5.5413
+  },
+  "polish_title": "Czarna robota",
+  "silent": false,
+  "description_pl": "Liam (<a href=\"/osoba/?id=nm0192377\">Liam Cunningham</a>) i Michael (<a href=\"/osoba/?id=nm1055413\">Michael Fassbender</a>) są profesjonalistami w łamaniu zabezpieczeń. Do ich spotkania dochodzi w czasie wykonywania prostego zadania polegającego na opróżnieniu biurowego sejfu. Włamanie się do wnętrza skrytki nie będzie jednak łatwe, gdyż nawet najmniejszy dostęp światła aktywuje system alarmowy.",
+  "producers": [
+    {
+      "id": "nm0172215",
+      "name": "Chris Collins"
+    },
+    {
+      "id": "nm0192377",
+      "name": "Liam Cunningham"
+    },
+    {
+      "id": "nm1055413",
+      "name": "Michael Fassbender"
+    },
+    {
+      "id": "nm1355808",
+      "name": "Rebecca Mark-Lawson"
+    },
+    {
+      "id": "nm2221815",
+      "name": "Conor McCaughan"
+    },
+    {
+      "id": "nm2600972",
+      "name": "Jo McClellan"
+    },
+    {
+      "id": "nm2037553",
+      "name": "Gerardine O'Flynn"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm4916177",
+      "name": "Bryan Michael Mills"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0752811",
+      "name": "Robbie Ryan"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

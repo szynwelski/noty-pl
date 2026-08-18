@@ -1,0 +1,595 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🎬</text></svg>">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Osoba — Noty</title>
+  <link rel="stylesheet" href="../static/style.css">
+  <script src="../static/translations.js"></script>
+</head>
+<body>
+  <nav>
+    <a class="logo" href="/">no<span>ty</span></a>
+    <a class="nav-link" href="/">Filmy</a>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Osoby <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/osoba/rezyser/">Reżyserzy</a>
+        <a href="/osoba/scenarzysta/">Scenarzyści</a>
+        <a href="/osoba/gwiazda/">Gwiazdy</a>
+        <a href="/osoba/aktor/">Aktorzy</a>
+        <a href="/osoba/kompozytor/">Kompozytorzy</a>
+        <a href="/osoba/operator/">Operatorzy</a>
+        <a href="/osoba/producent/">Producenci</a>
+        <a href="/osoba/wszechstronna/">Wszechstronni</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Krytycy <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/krytyk/jarek/">Jarek</a>
+        <a href="/krytyk/michal/">Michał</a>
+        <a href="/krytyk/imdb/">IMDb</a>
+        <a href="/krytyk/filmweb/">Filmweb</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Kategorie <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/kategoria/gatunek/">Gatunki</a>
+        <a href="/kategoria/kraj/">Kraje</a>
+        <a href="/kategoria/jezyk/">Języki</a>
+        <a href="/kategoria/dekada/">Dekady</a>
+        <a href="/kategoria/rok/">Lata</a>
+        <a href="/kategoria/czas/">Czas trwania</a>
+        <a href="/kategoria/popularnosc/">Popularność</a>
+        <hr>
+        <a href="/kategoria/plec/">Płeć</a>
+        <a href="/kategoria/obywatelstwo/">Obywatelstwo</a>
+        <a href="/kategoria/urodzenie/">Urodzenie</a>
+        <a href="/kategoria/wiek/">Wiek</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Statystyki <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/statystyki/podsumowanie/">Podsumowanie</a>
+        <a href="/statystyki/rekordy/">Rekordy</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Metodologia <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/metodologia/filmy/">Filmy</a>
+        <a href="/metodologia/osoby/">Osoby</a>
+        <a href="/metodologia/kategorie-filmow/">Kategorie filmów</a>
+        <a href="/metodologia/kategorie-osob/">Kategorie osób</a>
+      </div>
+    </div>
+    <button id="search-global-btn" class="nav-search-btn" title="Szukaj (⌘K)">
+      <svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+    </button>
+  </nav>
+  <div id="search-modal" class="search-modal">
+    <div id="search-modal-backdrop" class="search-modal-backdrop"></div>
+    <div class="search-modal-box">
+      <div class="search-modal-header">
+        <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink:0;color:var(--muted)"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        <input id="search-modal-input" class="search-modal-input" type="text" placeholder="Szukaj filmów i osób…" autocomplete="off" spellcheck="false">
+        <kbd class="search-modal-esc">Esc</kbd>
+      </div>
+      <div id="search-modal-results" class="search-modal-results"></div>
+    </div>
+  </div>
+  <script src="/static/search.js"></script>
+
+  <div id="tooltip"></div>
+  <div class="container">
+    <div id="loading">Ładowanie…</div>
+    <div id="error" style="display:none"></div>
+    <div id="content" style="display:none">
+      <div class="person-header">
+        <div class="person-photo" id="person-photo"></div>
+        <div>
+          <h1 id="name"></h1>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script src="../static/tooltip.js"></script>
+  <script>
+    const ROLE_LABELS_M = { director: 'Reżyser',   writer: 'Scenarzysta',   star: 'Gwiazda', cast: 'Aktor',   composer: 'Kompozytor',   cinematographer: 'Operator',   producer: 'Producent'   };
+    const ROLE_LABELS_F = { director: 'Reżyserka', writer: 'Scenarzystka', star: 'Gwiazda', cast: 'Aktorka', composer: 'Kompozytorka', cinematographer: 'Operatorka', producer: 'Producentka' };
+    function roleLabels(gender) { return gender === 'F' ? ROLE_LABELS_F : ROLE_LABELS_M; }
+
+
+    const params = new URLSearchParams(location.search);
+    const id = params.get('id');
+    if (!id) {
+      document.getElementById('loading').style.display = 'none';
+      document.getElementById('error').textContent = 'Brak parametru ?id=';
+      document.getElementById('error').style.display = '';
+    } else {
+      const safeJson = url => fetch(url).then(r => r.ok ? r.json() : []).catch(() => []);
+      Promise.all([
+        fetch(`../../data/persons/${id}.json`).then(r => r.ok ? r.json() : Promise.reject()),
+        fetch(`../data/movies_index.json`).then(r => r.json()),
+        safeJson('../data/directors_index.json'),
+        safeJson('../data/writers_index.json'),
+        safeJson('../data/stars_index.json'),
+        safeJson('../data/actors_index.json'),
+        safeJson('../data/composers_index.json'),
+        safeJson('../data/cinematographers_index.json'),
+        safeJson('../data/producers_index.json'),
+      ])
+      .then(([person, index, directors, writers, stars, actors, composers, cinematographers, producers]) => {
+        const roleStats = buildRoleStats(id, { director: directors, writer: writers, star: stars, cast: actors, composer: composers, cinematographer: cinematographers, producer: producers });
+        render(person, index, roleStats);
+      })
+      .catch(() => {
+        document.getElementById('loading').style.display = 'none';
+        document.getElementById('error').textContent = 'Nie znaleziono osoby: ' + id;
+        document.getElementById('error').style.display = '';
+      });
+    }
+
+    function buildRoleStats(pid, indexes) {
+      const result = {};
+      for (const [role, list] of Object.entries(indexes)) {
+        const idx = list.findIndex(p => p.id === pid);
+        if (idx === -1) continue;
+        const p = list[idx];
+        result[role] = { score: p.score, score_avg: p.score_avg, rank: idx + 1, total: list.length, film_count: p.film_count, ratings: p.ratings };
+      }
+      return result;
+    }
+
+    function renderRoleBoxes(person, roleStats) {
+      const ROLE_LABELS = roleLabels(person.gender);
+      const ROLE_URLS   = { director: '/osoba/rezyser/', writer: '/osoba/scenarzysta/', star: '/osoba/gwiazda/', cast: '/osoba/aktor/', composer: '/osoba/kompozytor/', cinematographer: '/osoba/operator/', producer: '/osoba/producent/' };
+      const SRCS        = ['jarek', 'michal', 'imdb', 'filmweb'];
+      const SRC_LABELS  = { jarek: 'Jarek', michal: 'Michał', imdb: 'IMDb', filmweb: 'Filmweb' };
+
+      const roles = ['director', 'writer', 'star', 'cast', 'composer', 'cinematographer', 'producer'];
+
+      const active = roles.filter(r => roleStats[r]);
+      if (!active.length) return null;
+
+      const grid = document.createElement('div');
+      grid.className = 'ratings-grid';
+      grid.style.marginTop = '1.5rem';
+
+      active.forEach(role => {
+        const stats = roleStats[role];
+        const fillPct = stats.rank && stats.total > 1
+          ? Math.round((stats.total - stats.rank) / (stats.total - 1) * 100)
+          : 0;
+        const rankUrl = `${ROLE_URLS[role]}?zaznacz=${person.id}`;
+
+        const card = document.createElement('div');
+        card.className = 'rating-card';
+        card.innerHTML = `
+          <a class="src-label" href="${rankUrl}">${ROLE_LABELS[role]}</a>
+          <div class="rating-val"><span class="${scoreClass(stats.score)}" style="font-size:inherit">${fmt(stats.score)}</span></div>
+          <div class="card-rank">
+            <div class="rank-bar"><div class="rank-fill" style="width:${fillPct}%"></div></div>
+            <a href="${rankUrl}" class="rank-link">#${stats.rank} <span class="rank-total">z ${stats.total}</span></a>
+          </div>`;
+
+        attachTip(card, () => {
+          const rows = SRCS
+            .filter(s => stats.ratings?.[s]?.bayesian != null)
+            .map(s => [SRC_LABELS[s], fmt(stats.ratings[s].bayesian)]);
+          rows.push(['Filmów', String(stats.film_count)]);
+          rows.push(['Średnia', fmt(stats.score_avg)]);
+          return `<div class="tip-title">${ROLE_LABELS[role]}</div>` +
+            `<div class="tip-main-val">${fmt(stats.score)}</div>` +
+            _tipRows(rows);
+        });
+
+        grid.appendChild(card);
+      });
+
+      return grid;
+    }
+
+    function buildSection(label, films, scoreRankMap, stats, showCharacter = false, markStarFilms = false) {
+      const section = document.createElement('div');
+      section.style.marginTop = '2rem';
+
+      let statsHtml = '';
+      if (stats) {
+        const lbl  = s => `<span style="font-size:.7rem;font-weight:400;opacity:.55;text-transform:uppercase;letter-spacing:.04em;margin-right:.25em">${s}</span>`;
+        const dot  = `<span style="opacity:.25;margin:0 .5em">·</span>`;
+        const rk   = stats.rankUrl
+          ? `<a href="${stats.rankUrl}" class="rank-link">#${stats.rank} <span class="rank-total">z ${stats.total}</span></a>`
+          : `<span style="font-weight:400;opacity:.55">#${stats.rank} z ${stats.total}</span>`;
+        statsHtml  = `<span style="margin-left:1.25rem;font-size:.9rem;font-weight:600;text-transform:none;letter-spacing:0;vertical-align:middle">` +
+          `${lbl('Ocena')}<span class="${scoreClass(stats.score)}">${fmt(stats.score)}</span>` +
+          `${dot}${lbl('Średnia')}<span style="color:var(--text)">${fmt(stats.score_avg)}</span>` +
+          `${dot}${rk}` +
+          `</span>`;
+      }
+
+      let collapsed = false;
+
+      section.innerHTML = `
+        <h2 style="font-size:1rem;font-weight:600;letter-spacing:.05em;text-transform:uppercase;color:var(--muted);margin-bottom:.75rem;display:flex;justify-content:space-between;align-items:baseline;cursor:pointer;user-select:none">
+          <span><span class="section-toggle" style="display:inline-block;width:1em;transition:transform .15s">▾</span> ${label} (${films.length})</span>
+          ${statsHtml}
+        </h2>
+        <table style="table-layout:fixed;width:100%">
+          <colgroup><col style="width:4.5rem"><col><col style="width:5.5rem"></colgroup>
+          <thead><tr>
+            <th class="num sorted" data-col="year" data-dir="-1">Rok</th>
+            <th data-col="title">Tytuł</th>
+            <th class="num" data-col="score">Ocena</th>
+          </tr></thead>
+          <tbody></tbody>
+        </table>`;
+
+      const h2 = section.querySelector('h2');
+      const table = section.querySelector('table');
+      const toggleArrow = section.querySelector('.section-toggle');
+      h2.addEventListener('click', () => {
+        collapsed = !collapsed;
+        table.style.display = collapsed ? 'none' : '';
+        toggleArrow.style.transform = collapsed ? 'rotate(-90deg)' : '';
+      });
+
+      let sortCol = 'year', sortDir = -1;
+
+      function sortedList() {
+        return [...films].sort((a, b) => {
+          let av, bv;
+          if (sortCol === 'year')  { av = a.year;  bv = b.year; }
+          else if (sortCol === 'score') { av = a.score; bv = b.score; }
+          else {
+            const key = s => s.replace(/^[^\p{L}\p{N}]+/u, '');
+            return key(a.polish_title || a.title || '').localeCompare(
+              key(b.polish_title || b.title || ''), 'pl', { numeric: true, sensitivity: 'base' }
+            ) * sortDir;
+          }
+          if (av == null && bv == null) return 0;
+          if (av == null) return 1;
+          if (bv == null) return -1;
+          return (av - bv) * sortDir;
+        });
+      }
+
+      function renderRows() {
+        const tbody = section.querySelector('tbody');
+        tbody.innerHTML = '';
+        sortedList().forEach(f => {
+          const display = f.polish_title || f.title;
+          const sub = f.polish_title && f.polish_title !== f.title ? f.title
+            : (f.original_title && f.original_title !== f.title ? f.original_title : null);
+          const score = f.score != null ? f.score.toFixed(2) : '—';
+          const starMark = markStarFilms && f.roles?.includes('star')
+            ? ` <span title="Gwiazda" style="color:var(--accent);font-size:.8em">★</span>`
+            : '';
+          const tr = document.createElement('tr');
+          tr.innerHTML = `
+            <td class="num muted">${f.year || '—'}</td>
+            <td data-tip="title">
+              <a href="/film/?id=${f.imdb_id}">${display}</a>${starMark}
+              ${showCharacter && f.character ? `<span class="muted"> — ${translateCharacter(f.character)}</span>` : ''}
+              ${sub ? `<div class="muted" style="font-size:.8rem">${sub}</div>` : ''}
+            </td>
+            <td class="num" data-tip="score"><span class="${scoreClass(f.score)}">${score}</span></td>`;
+          tbody.appendChild(tr);
+          attachTip(tr.querySelector('[data-tip="title"]'), () => tipFilm(f));
+          const scoreTd = tr.querySelector('[data-tip="score"]');
+          if (scoreTd && f.score != null && f.ratings)
+            attachTip(scoreTd, () => tipScore(f.ratings, f.score, (scoreRankMap || {})[f.imdb_id] || null));
+        });
+      }
+
+      section.querySelectorAll('th[data-col]').forEach(th => {
+        th.style.cursor = 'pointer';
+        th.addEventListener('click', () => {
+          const col = th.dataset.col;
+          if (sortCol === col) { sortDir *= -1; }
+          else { sortCol = col; sortDir = col === 'title' ? 1 : -1; }
+          section.querySelectorAll('th').forEach(t => { t.classList.remove('sorted'); t.removeAttribute('data-dir'); });
+          th.classList.add('sorted');
+          th.dataset.dir = sortDir === 1 ? '1' : '-1';
+          renderRows();
+        });
+      });
+
+      renderRows();
+      return section;
+    }
+
+    // ── Bio helpers ───────────────────────────────────────────────────────────
+
+    const _MONTHS_PL = ['','stycznia','lutego','marca','kwietnia','maja','czerwca',
+                        'lipca','sierpnia','września','października','listopada','grudnia'];
+
+    function _parseDMY(str) {
+      if (!str) return null;
+      const m = str.match(/^(\d{1,2})\.(\d{1,2})\.(-?\d+)$/);
+      if (m) return { day: +m[1], month: +m[2], year: +m[3] };
+      const y = str.match(/^(-?\d+)$/);
+      return y ? { year: +y[1] } : null;
+    }
+
+    function _fmtYearPl(year) {
+      return year < 0 ? `${Math.abs(year)} p.n.e.` : String(year);  // BC = negative
+    }
+
+    function _fmtDatePl(str) {
+      const d = _parseDMY(str);
+      if (!d) return str;
+      return d.day && d.month
+        ? `${d.day} ${_MONTHS_PL[d.month]} ${_fmtYearPl(d.year)}`
+        : _fmtYearPl(d.year);
+    }
+
+    function _calcAge(birthStr, refStr) {
+      const b = _parseDMY(birthStr);
+      if (!b?.year) return null;
+      const now = new Date();
+      const ry = refStr ? (_parseDMY(refStr)?.year ?? now.getFullYear()) : now.getFullYear();
+      const rm = refStr ? (_parseDMY(refStr)?.month ?? now.getMonth() + 1) : now.getMonth() + 1;
+      const rd = refStr ? (_parseDMY(refStr)?.day ?? now.getDate()) : now.getDate();
+      let age = ry - b.year;
+      if (b.month && b.day && (rm < b.month || (rm === b.month && rd < b.day))) age--;
+      return age >= 0 ? age : null;
+    }
+
+    function _fmtAge(n) {
+      if (n === 1) return '1 rok';
+      if (n % 100 >= 12 && n % 100 <= 14) return `${n} lat`;
+      const m = n % 10;
+      if (m >= 2 && m <= 4) return `${n} lata`;
+      return `${n} lat`;
+    }
+
+    const HISTORICAL_COUNTRIES = new Set([
+      'Austria-Hungary', 'Russian Empire', 'Soviet Union', 'USSR', 'RSFSR',
+      'Prussia', 'East Prussia', 'West Prussia', 'Galicia', 'Bohemia',
+      'Czechoslovakia', 'Yugoslavia', 'Federal Republic of Yugoslavia',
+      'Serbia and Montenegro', 'West Germany',
+    ]);
+
+    function _countryLink(raw) {
+      const tr = COUNTRIES[raw] || raw;
+      if (HISTORICAL_COUNTRIES.has(raw)) return tr;
+      return `<a href="/?kraj=${encodeURIComponent(tr)}" class="meta-link">${tr}</a>`;
+    }
+
+    function _translateParts(str) {
+      return str.split(',').map(p => { const t = p.trim(); return COUNTRIES[t] || t; }).join(', ');
+    }
+
+    function _locationHtml(location) {
+      if (!location) return null;
+
+      const m = location.match(/^(.*?)\[now ([^\]]+)\](.*)$/);
+      if (!m) {
+        // No [now ...] bracket — strip any other annotation (e.g. "[then part
+        // of Greece]", "[ex-...]") and translate the last part as the country.
+        const parts = location.replace(/\s*\[[^\]]*\]/g, '').split(',');
+        const raw = parts.pop().trim().replace(/\]+$/, '');
+        const prefix = _translateParts(parts.join(','));
+        return prefix ? `${prefix}, ${_countryLink(raw)}` : _countryLink(raw);
+      }
+
+      const before  = m[1].trim().replace(/,\s*$/, '');
+      const bracket = m[2].trim();
+      const after   = m[3].trim().replace(/^,\s*/, '');
+
+      const bracketLast = bracket.split(',').pop().trim();
+      const bracketInCountries = !!COUNTRIES[bracketLast];
+
+      // Build before parts, translating known historical country names
+      const beforeParts = before ? before.split(',').map(p => { const t = p.trim(); return COUNTRIES[t] || t; }) : [];
+
+      if (after) {
+        // Country is the last comma-part of after
+        const afterParts = after.split(',');
+        const rawCountry = afterParts.pop().trim();
+        const afterPrefix = afterParts.map(p => p.trim()).filter(Boolean);
+
+        const bracketDisplay = bracketInCountries
+          ? `[teraz ${COUNTRIES[bracketLast]}]`
+          : `[teraz ${bracket}]`;
+
+        const lastBefore = beforeParts.pop() ?? '';
+        const all = [...beforeParts, lastBefore + ' ' + bracketDisplay, ...afterPrefix];
+        const prefix = all.filter(Boolean).join(', ');
+        return prefix ? `${prefix}, ${_countryLink(rawCountry)}` : _countryLink(rawCountry);
+
+      } else {
+        // Country is inside bracket — embed link there
+        const bracketCountryHtml = _countryLink(bracketLast);
+        const bracketDisplay = bracketInCountries
+          ? `[teraz ${bracketCountryHtml}]`
+          : `[teraz ${bracket}]`;
+
+        const lastBefore = beforeParts.pop() ?? '';
+        const all = [...beforeParts, lastBefore + ' ' + bracketDisplay];
+        return all.filter(Boolean).join(', ');
+      }
+    }
+
+    function _currentCountry(loc) {
+      if (!loc) return null;
+      const m = loc.match(/\[now ([^\]]+)\](.*?)$/);
+      if (m) {
+        const after = m[2].trim().replace(/^,\s*/, '');
+        if (after) return after.split(',').pop().trim();
+        return m[1].split(',').pop().trim();
+      }
+      // Strip any other bracketed annotation (e.g. "[then part of Greece]")
+      // before taking the country, so it doesn't leak into the displayed value.
+      const clean = loc.replace(/\s*\[[^\]]*\]/g, '');
+      return clean.split(',').pop().trim() || null;
+    }
+
+    function buildBioRows(person) {
+      const rows = [];
+
+      // Birth date + location directly below in the same cell
+      let birthLoc;
+      if (person.birth_location_pl) {
+        // Polish city/region + current country extracted from IMDb string
+        const rawCountry = _currentCountry(person.birth_location);
+        birthLoc = rawCountry
+          ? person.birth_location_pl + ', ' + rawCountry
+          : person.birth_location_pl;
+      } else {
+        birthLoc = person.birth_location || null;
+      }
+      if (person.birth_date || birthLoc) {
+        let val = person.birth_date ? _fmtDatePl(person.birth_date) : '';
+        const locHtml = _locationHtml(birthLoc);
+        if (locHtml) val += (val ? '<br>' : '') + locHtml;
+        if (val) rows.push({ label: 'Urodzenie', value: val });
+      }
+
+      // Living → age; deceased → death date
+      if (person.death_date) {
+        rows.push({ label: 'Śmierć', value: _fmtDatePl(person.death_date) });
+      } else if (person.birth_date) {
+        const age = _calcAge(person.birth_date);
+        if (age != null) rows.push({ label: 'Wiek', value: _fmtAge(age) });
+      }
+
+      if (person.nationality?.length) {
+        rows.push({ label: 'Obywatelstwo', value: filterNationality(person.nationality).join(', ') });
+      }
+
+      return rows;
+    }
+
+    // ── Render ────────────────────────────────────────────────────────────────
+
+    function render(person, index, roleStats = {}) {
+      document.title = person.name + ' — Noty';
+      document.getElementById('loading').style.display = 'none';
+      document.getElementById('content').style.display = '';
+      const photoEl = document.getElementById('person-photo');
+      if (person.image_url) {
+        photoEl.innerHTML = `<img src="${person.image_url}" alt="${person.name}">`;
+      } else {
+        const initials = person.name.split(' ').map(w => w[0]).join('').slice(0, 2).toUpperCase();
+        photoEl.innerHTML = `<div class="person-avatar">${initials}</div>`;
+      }
+
+      const nameEl = document.getElementById('name');
+      nameEl.textContent = person.name_pl || person.name;
+      const imdbLink = document.createElement('a');
+      imdbLink.href = `https://www.imdb.com/name/${person.id}/`;
+      imdbLink.target = '_blank';
+      imdbLink.rel = 'noopener';
+      imdbLink.innerHTML = '<img src="https://www.google.com/s2/favicons?sz=16&domain=imdb.com" alt="" style="width:12px;height:12px;vertical-align:middle;margin-right:.3em;border-radius:2px">IMDb ↗';
+      imdbLink.style.cssText = 'font-size:.75rem;font-weight:400;color:var(--muted);margin-left:.75rem;vertical-align:middle;text-decoration:none';
+      nameEl.appendChild(imdbLink);
+
+      if (person.filmweb_id) {
+        const fwSlug = (person.name_pl || person.name).replace(/ /g, '+');
+        const fwLink = document.createElement('a');
+        fwLink.href = `https://www.filmweb.pl/person/${fwSlug}-${person.filmweb_id}`;
+        fwLink.target = '_blank';
+        fwLink.rel = 'noopener';
+        fwLink.innerHTML = '<img src="https://www.google.com/s2/favicons?sz=16&domain=filmweb.pl" alt="" style="width:12px;height:12px;vertical-align:middle;margin-right:.3em;border-radius:2px">Filmweb ↗';
+        fwLink.style.cssText = 'font-size:.75rem;font-weight:400;color:var(--muted);margin-left:.75rem;vertical-align:middle;text-decoration:none';
+        nameEl.appendChild(fwLink);
+      }
+
+      const scoreMap = {};
+      index.forEach(m => { scoreMap[m.id] = m; });
+
+      const scoreRankMap = {};
+      const byScore = index.filter(m => m.score != null).sort((a, b) => b.score - a.score);
+      byScore.forEach((m, i) => { scoreRankMap[m.id] = { rank: i + 1, total: byScore.length }; });
+
+      const films = (person.filmography || []).filter(f => scoreMap[f.imdb_id]).map(f => ({
+        ...f,
+        year:           scoreMap[f.imdb_id]?.year          ?? f.year,
+        score:          scoreMap[f.imdb_id]?.score         ?? null,
+        ratings:        scoreMap[f.imdb_id]?.ratings       ?? null,
+        polish_title:   scoreMap[f.imdb_id]?.polish_title  ?? null,
+        original_title: scoreMap[f.imdb_id]?.original_title ?? null,
+        image_url:      scoreMap[f.imdb_id]?.image_url     ?? null,
+        directors:      scoreMap[f.imdb_id]?.directors     ?? null,
+        stars:          scoreMap[f.imdb_id]?.stars         ?? null,
+      }));
+
+      const byCategory = {};
+      films.forEach(f => {
+        (f.roles || []).forEach(role => {
+          const cat = role === 'star' ? 'star' : role === 'cast' ? 'cast' : role;
+          if (!byCategory[cat]) byCategory[cat] = new Map();
+          if (!byCategory[cat].has(f.imdb_id)) byCategory[cat].set(f.imdb_id, f);
+        });
+      });
+
+      const _rl = roleLabels(person.gender);
+      const OCCUPATION_LABELS = Object.fromEntries(Object.entries(_rl).filter(([k]) => k !== 'star').map(([k, v]) => [k, v.toLowerCase()]));
+      const occupations = [...new Set(
+        Object.keys(OCCUPATION_LABELS)
+          .filter(k => byCategory[k]?.size > 0)
+          .sort((a, b) => (byCategory[b]?.size || 0) - (byCategory[a]?.size || 0))
+          .map(k => OCCUPATION_LABELS[k])
+      )];
+
+      let insertAfter = nameEl;
+      if (occupations.length) {
+        const occEl = document.createElement('div');
+        occEl.className = 'muted';
+        occEl.style.cssText = 'font-size:.85rem;margin-top:.2rem';
+        occEl.textContent = occupations.join(', ');
+        insertAfter.after(occEl);
+        insertAfter = occEl;
+      }
+
+      const bioRows = buildBioRows(person);
+      if (bioRows.length) {
+        const bioEl = document.createElement('div');
+        bioEl.style.cssText = 'display:grid;grid-template-columns:auto 1fr;gap:.2rem .75rem;margin-top:.6rem';
+        bioEl.innerHTML = bioRows.map(r =>
+          `<span class="meta-label">${r.label}</span><span class="meta-value">${r.value}</span>`
+        ).join('');
+        insertAfter.after(bioEl);
+      }
+
+      const ROLE_URLS = { director: '/osoba/rezyser/', writer: '/osoba/scenarzysta/', star: '/osoba/gwiazda/', cast: '/osoba/aktor/', composer: '/osoba/kompozytor/', cinematographer: '/osoba/operator/', producer: '/osoba/producent/' };
+      const SECTIONS = [
+        { key: 'director',       label: 'Reżyseria' },
+        { key: 'writer',         label: 'Scenariusz' },
+        { key: 'star',           label: 'Role główne' },
+        { key: 'cast',           label: 'Aktorstwo' },
+        { key: 'composer',       label: 'Muzyka' },
+        { key: 'cinematographer',label: 'Zdjęcia' },
+        { key: 'producer',       label: 'Produkcja' },
+      ];
+
+      const container = document.getElementById('content');
+      const roleBoxes = renderRoleBoxes(person, roleStats);
+      if (roleBoxes) container.appendChild(roleBoxes);
+
+      let hasAny = false;
+      SECTIONS.forEach(({ key, label }) => {
+        const map = byCategory[key];
+        if (!map || map.size === 0) return;
+        hasAny = true;
+        const stats = roleStats[key] ? { ...roleStats[key], rankUrl: `${ROLE_URLS[key]}?zaznacz=${person.id}` } : null;
+        const showChar = key === 'star' || key === 'cast';
+        container.appendChild(buildSection(label, [...map.values()], scoreRankMap, stats, showChar, key === 'cast'));
+      });
+
+      if (!hasAny) {
+        const p = document.createElement('p');
+        p.className = 'muted';
+        p.textContent = 'Brak filmów w bazie.';
+        container.appendChild(p);
+      }
+    }
+  </script>
+</body>
+</html>

@@ -1,0 +1,40 @@
+{
+  "id": "nm1415323",
+  "name": "Miley Cyrus",
+  "filmography": [
+    {
+      "imdb_id": "tt1766094",
+      "title": "So Undercover",
+      "year": 2012,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Molly"
+    },
+    {
+      "imdb_id": "tt9053874",
+      "title": "Rachel, Jack and Ashley Too",
+      "year": 2019,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Ashley O"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTc3MzE1MzcxNl5BMl5BanBnXkFtZTcwNTM1MTA2OA@@._V1_.jpg",
+  "birth_date": "23.11.1992",
+  "birth_location": "Franklin, Tennessee, USA",
+  "height": "1.65 m",
+  "imdb_scraped": true,
+  "filmweb_id": 388178,
+  "name_pl": "Miley Cyrus",
+  "birth_location_pl": "Franklin, Tennessee",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 388178
+}

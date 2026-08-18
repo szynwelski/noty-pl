@@ -1,0 +1,49 @@
+{
+  "id": "nm0005009",
+  "name": "Laura Harring",
+  "filmography": [
+    {
+      "imdb_id": "tt0166924",
+      "title": "Mulholland Drive",
+      "year": 2001,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Rita"
+    },
+    {
+      "imdb_id": "tt0251160",
+      "title": "John Q",
+      "year": 2002,
+      "roles": [
+        "cast"
+      ],
+      "character": "Gina Palumbo"
+    },
+    {
+      "imdb_id": "tt0330793",
+      "title": "The Punisher",
+      "year": 2004,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Livia Saint"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQ5OTcwOTUwM15BMl5BanBnXkFtZTYwMTk5Njcy._V1_.jpg",
+  "birth_date": "03.03.1964",
+  "birth_location": "Los Mochis, Sinaloa, Mexico",
+  "height": "1.68 m",
+  "filmweb_id": 40569,
+  "name_pl": "Laura Harring",
+  "birth_location_pl": "Los Mochis",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Meksyk"
+  ],
+  "wikidata_fw_id": 40569
+}

@@ -1,0 +1,265 @@
+{
+  "imdb_id": "tt1517451",
+  "title": "A Star Is Born",
+  "description": "A hard-drinking country music star falls in love with a singer whose career quickly takes off.",
+  "runtime_minutes": 136,
+  "release_date": "05.10.2018",
+  "genres": [
+    "Drama",
+    "Music",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm3078932",
+      "name": "Lady Gaga"
+    },
+    {
+      "id": "nm0177896",
+      "name": "Bradley Cooper"
+    },
+    {
+      "id": "nm0000385",
+      "name": "Sam Elliott"
+    },
+    {
+      "id": "nm0342399",
+      "name": "Greg Grunberg"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0177896",
+      "name": "Bradley Cooper"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0744839",
+      "name": "Eric Roth"
+    },
+    {
+      "id": "nm0177896",
+      "name": "Bradley Cooper"
+    },
+    {
+      "id": "nm3391497",
+      "name": "Will Fetters"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm3078932",
+      "name": "Lady Gaga",
+      "character": "Ally"
+    },
+    {
+      "id": "nm0177896",
+      "name": "Bradley Cooper",
+      "character": "Jack"
+    },
+    {
+      "id": "nm0000385",
+      "name": "Sam Elliott",
+      "character": "Bobby"
+    },
+    {
+      "id": "nm0001048",
+      "name": "Andrew Dice Clay",
+      "character": "Lorenzo"
+    },
+    {
+      "id": "nm1969169",
+      "name": "Rafi Gavron",
+      "character": "Rez Gavron"
+    },
+    {
+      "id": "nm6588867",
+      "name": "Anthony Ramos",
+      "character": "Ramon"
+    },
+    {
+      "id": "nm0152638",
+      "name": "Dave Chappelle",
+      "character": "George 'Noodles' Stone"
+    },
+    {
+      "id": "nm0000285",
+      "name": "Alec Baldwin",
+      "character": "Alec Baldwin"
+    },
+    {
+      "id": "nm7573227",
+      "name": "Marlon Williams",
+      "character": "Marlon Williams"
+    },
+    {
+      "id": "nm1848488",
+      "name": "Brandi Carlile",
+      "character": "Brandi Carlile"
+    },
+    {
+      "id": "nm0726492",
+      "name": "Ron Rifkin",
+      "character": "Carl"
+    },
+    {
+      "id": "nm0377106",
+      "name": "Barry Shabaka Henley",
+      "character": "Little Feet"
+    },
+    {
+      "id": "nm0731426",
+      "name": "Michael D. Roberts",
+      "character": "Matty"
+    },
+    {
+      "id": "nm0363669",
+      "name": "Michael Harney",
+      "character": "Wolfie"
+    },
+    {
+      "id": "nm2093400",
+      "name": "Rebecca Field",
+      "character": "Gail"
+    },
+    {
+      "id": "nm1431753",
+      "name": "Derek Kevin Jones",
+      "character": "Etta James"
+    },
+    {
+      "id": "nm1316418",
+      "name": "Willam Belli",
+      "character": "Emerald"
+    },
+    {
+      "id": "nm3893803",
+      "name": "Dennis Tong",
+      "character": "Donte"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "color": "Color",
+  "filmweb_id": 542576,
+  "year": 2018,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNGUxZTc0NTAtNzQwMy00MmM2LTgzMGYtZWIyY2E1MGFjYmM5XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.6,
+      "votes": 451789,
+      "distribution": {
+        "1": 6086,
+        "2": 2729,
+        "3": 3917,
+        "4": 6797,
+        "5": 16564,
+        "6": 43116,
+        "7": 100489,
+        "8": 129017,
+        "9": 74157,
+        "10": 68917
+      },
+      "normalized": 6.6815
+    },
+    "filmweb": {
+      "rating": 7.39,
+      "votes": 221788,
+      "distribution": {
+        "1": 1105,
+        "2": 831,
+        "3": 2812,
+        "4": 4711,
+        "5": 13007,
+        "6": 28529,
+        "7": 58143,
+        "8": 64808,
+        "9": 30473,
+        "10": 17369
+      },
+      "normalized": 6.4742
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "01.03.2019",
+      "normalized": 5.4199
+    },
+    "score": 6.1919
+  },
+  "polish_title": "Narodziny gwiazdy",
+  "silent": false,
+  "description_pl": "<a href=\"/osoba/?id=nm0177896\">Cooper</a> wciela się w rolę Jacksona Maine’a, gwiazdora muzyki country, którego kariera chyli się ku upadkowi, kiedy odkrywa utalentowaną, nieznaną nikomu piosenkarkę Ally (w tej roli Lady Gaga). Kiedy między tą dwójką wybucha płomienny romans, Jack nakłania Ally do wyjścia z cienia i pomaga jej osiągnąć sławę. Jednak gdy kariera Ally w szybkim tempie przyćmiewa dokonania Jacka, jest mu coraz trudniej poradzić sobie z własną gasnącą gwiazdą.",
+  "producers": [
+    {
+      "id": "nm0177896",
+      "name": "Bradley Cooper"
+    },
+    {
+      "id": "nm1063654",
+      "name": "Robert J. Dohrmann"
+    },
+    {
+      "id": "nm0314088",
+      "name": "Bill Gerber"
+    },
+    {
+      "id": "nm1987578",
+      "name": "Lynette Howell Taylor"
+    },
+    {
+      "id": "nm0412588",
+      "name": "Basil Iwanyk"
+    },
+    {
+      "id": "nm2502949",
+      "name": "Sue Kroll"
+    },
+    {
+      "id": "nm1850245",
+      "name": "Niija Kuykendall"
+    },
+    {
+      "id": "nm0576571",
+      "name": "Ravi D. Mehta"
+    },
+    {
+      "id": "nm3417754",
+      "name": "Weston Middleton"
+    },
+    {
+      "id": "nm1009782",
+      "name": "Heather Parry"
+    },
+    {
+      "id": "nm0005307",
+      "name": "Jon Peters"
+    },
+    {
+      "id": "nm0680846",
+      "name": "Todd Phillips"
+    },
+    {
+      "id": "nm2820433",
+      "name": "Michael Rapino"
+    },
+    {
+      "id": "nm1853038",
+      "name": "Robert S. Wilhelm Jr."
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0508732",
+      "name": "Matthew Libatique"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

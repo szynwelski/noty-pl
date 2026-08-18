@@ -1,0 +1,161 @@
+{
+  "imdb_id": "tt9788486",
+  "title": "The Witness",
+  "description": "After seeing a brutal murder, a woman flees from the killer through the streets of a surreal city.",
+  "runtime_minutes": 12,
+  "release_date": "15.03.2019",
+  "genres": [
+    "Animation",
+    "Short",
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Drama",
+    "Fantasy",
+    "Horror",
+    "Mystery",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm1386659",
+      "name": "Emily O'Brien"
+    },
+    {
+      "id": "nm6467592",
+      "name": "Ben Sullivan"
+    },
+    {
+      "id": "nm0455058",
+      "name": "Matthew Yang King"
+    },
+    {
+      "id": "nm0636046",
+      "name": "Nolan North"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm2856960",
+      "name": "Alberto Mielgo"
+    },
+    {
+      "id": "nm1166916",
+      "name": "Gabriele Pennacchioli"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm2856960",
+      "name": "Alberto Mielgo"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1386659",
+      "name": "Emily O'Brien",
+      "character": "The Woman"
+    },
+    {
+      "id": "nm6467592",
+      "name": "Ben Sullivan",
+      "character": "The Man"
+    },
+    {
+      "id": "nm0455058",
+      "name": "Matthew Yang King",
+      "character": "Host"
+    },
+    {
+      "id": "nm0636046",
+      "name": "Nolan North",
+      "character": "Vladimir"
+    },
+    {
+      "id": "nm2008732",
+      "name": "Anastasia Foster",
+      "character": "Police Officer"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 827669,
+  "year": 2019,
+  "type": "tvEpisode",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDYyZDI3ODEtMWUyMS00MzU4LWE0ZWEtZWYwZGYyNmU3MzgxXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.8,
+      "votes": 25536,
+      "distribution": {
+        "1": 268,
+        "2": 146,
+        "3": 247,
+        "4": 376,
+        "5": 856,
+        "6": 2163,
+        "7": 4893,
+        "8": 7361,
+        "9": 4845,
+        "10": 4381
+      }
+    },
+    "filmweb": {
+      "rating": 4.83,
+      "votes": 12,
+      "distribution": {
+        "1": 2,
+        "2": 0,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 4,
+        "7": 1,
+        "8": 0,
+        "9": 1,
+        "10": 0
+      }
+    },
+    "jarek": {
+      "rating": 2,
+      "date_rated": "28.10.2022"
+    }
+  },
+  "polish_title": "Świadek",
+  "silent": false,
+  "description_pl": "Ambitny prawnik Vince Harrington pracuje w archiwach Międzynarodowego Trybunału w Hadze. Z braku dowodów w sprawie domniemanego zbrodniarza wojennego, Miro Pantica, Vince podejmuje podróż do nieistniejącego kraju, byłej Jugosławii aby uzyskać zeznanie przedprocesowe od Nikoli Radina, „Generała”. Niełatwo go znaleźć. Podobno mieszka w nadmorskiej wiosce swoich przodków. Czy przypadkowe spotkanie z jedyną córką Radina, Ines, jest szansą Vinca? Harrington rozumie, że jego poszukiwania, pomimo początkowych motywów - dążenia do sprawiedliwości i pragnienia awansu - ostatecznie staną się podróżą w głąb samego siebie.",
+  "producers": [
+    {
+      "id": "nm0232433",
+      "name": "Joshua Donen"
+    },
+    {
+      "id": "nm0000399",
+      "name": "David Fincher"
+    },
+    {
+      "id": "nm2126361",
+      "name": "Victoria L. Howard"
+    },
+    {
+      "id": "nm10380524",
+      "name": "Jennifer Miller"
+    },
+    {
+      "id": "nm1783265",
+      "name": "Tim Miller"
+    },
+    {
+      "id": "nm2937345",
+      "name": "Gennie Rim"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

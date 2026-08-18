@@ -1,0 +1,62 @@
+{
+  "id": "nm0001072",
+  "name": "Joseph Cotten",
+  "filmography": [
+    {
+      "imdb_id": "tt0033467",
+      "title": "Citizen Kane",
+      "year": 1941,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Jedediah Leland"
+    },
+    {
+      "imdb_id": "tt0035015",
+      "title": "The Magnificent Ambersons",
+      "year": 1942,
+      "roles": [
+        "writer",
+        "star",
+        "cast"
+      ],
+      "character": "Eugene Morgan"
+    },
+    {
+      "imdb_id": "tt0036342",
+      "title": "Shadow of a Doubt",
+      "year": 1943,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Charlie Oakley"
+    },
+    {
+      "imdb_id": "tt0041959",
+      "title": "The Third Man",
+      "year": 1949,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Holly Martins"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjA2MGMyZTQtNGQ3OC00YmJmLWE3NjQtNmM5M2NmN2I1YTIyXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "15.05.1905",
+  "death_date": "06.02.1994",
+  "birth_location": "Petersburg, Virginia, USA",
+  "height": "1.87 m",
+  "filmweb_id": 45151,
+  "name_pl": "Joseph Cotten",
+  "birth_location_pl": "Petersburg, Wirginia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 45151
+}

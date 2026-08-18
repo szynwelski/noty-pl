@@ -1,0 +1,273 @@
+{
+  "imdb_id": "tt0292963",
+  "title": "Before the Devil Knows You're Dead",
+  "description": "When two brothers organize the robbery of their parents' jewelry store, the job goes horribly wrong triggering a series of events that send them, their father and the wife of one brother barreling toward a shattering climax.",
+  "runtime_minutes": 117,
+  "release_date": "26.10.2007",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000450",
+      "name": "Philip Seymour Hoffman"
+    },
+    {
+      "id": "nm0000160",
+      "name": "Ethan Hawke"
+    },
+    {
+      "id": "nm0001215",
+      "name": "Albert Finney"
+    },
+    {
+      "id": "nm0000673",
+      "name": "Marisa Tomei"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001486",
+      "name": "Sidney Lumet"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1031176",
+      "name": "Kelly Masterson"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000450",
+      "name": "Philip Seymour Hoffman",
+      "character": "Andy"
+    },
+    {
+      "id": "nm0000160",
+      "name": "Ethan Hawke",
+      "character": "Hank"
+    },
+    {
+      "id": "nm0001215",
+      "name": "Albert Finney",
+      "character": "Charles"
+    },
+    {
+      "id": "nm0000673",
+      "name": "Marisa Tomei",
+      "character": "Gina"
+    },
+    {
+      "id": "nm0657760",
+      "name": "Aleksa Palladino",
+      "character": "Chris"
+    },
+    {
+      "id": "nm0788335",
+      "name": "Michael Shannon",
+      "character": "Dex"
+    },
+    {
+      "id": "nm0752407",
+      "name": "Amy Ryan",
+      "character": "Martha"
+    },
+    {
+      "id": "nm2303094",
+      "name": "Sarah Livingston",
+      "character": "Danielle"
+    },
+    {
+      "id": "nm0639928",
+      "name": "Brían F. O'Byrne",
+      "character": "Bobby"
+    },
+    {
+      "id": "nm0365281",
+      "name": "Rosemary Harris",
+      "character": "Nanette"
+    },
+    {
+      "id": "nm2303163",
+      "name": "Blaine Horton",
+      "character": "Justin"
+    },
+    {
+      "id": "nm0054397",
+      "name": "Arija Bareikis",
+      "character": "Katherine"
+    },
+    {
+      "id": "nm0162361",
+      "name": "Leonardo Cimino",
+      "character": "William"
+    },
+    {
+      "id": "nm0929502",
+      "name": "Lee Wilkof",
+      "character": "Jake"
+    },
+    {
+      "id": "nm0348515",
+      "name": "Damon Gupton",
+      "character": "Doctor"
+    },
+    {
+      "id": "nm0553440",
+      "name": "Adrian Martinez",
+      "character": "Security Guard"
+    },
+    {
+      "id": "nm2803712",
+      "name": "Patrick G. Burns",
+      "character": "Priest"
+    },
+    {
+      "id": "nm0819204",
+      "name": "Alice Spivak",
+      "character": "Receptionist"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 132450,
+  "year": 2007,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZTI5NDMyMWMtOTllMS00NGRhLTkzYmQtZTU2NjZiYmUyMzE1XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.3,
+      "votes": 123499,
+      "distribution": {
+        "1": 1021,
+        "2": 681,
+        "3": 1122,
+        "4": 2405,
+        "5": 6063,
+        "6": 16832,
+        "7": 39607,
+        "8": 35922,
+        "9": 13014,
+        "10": 6832
+      },
+      "normalized": 6.0771
+    },
+    "filmweb": {
+      "rating": 6.88,
+      "votes": 15902,
+      "distribution": {
+        "1": 109,
+        "2": 50,
+        "3": 229,
+        "4": 417,
+        "5": 1198,
+        "6": 2981,
+        "7": 5918,
+        "8": 3771,
+        "9": 910,
+        "10": 319
+      },
+      "normalized": 5.4041
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "25.05.2009",
+      "normalized": 4.5781
+    },
+    "score": 5.3531
+  },
+  "polish_title": "Nim diabeł dowie się, że nie żyjesz",
+  "silent": false,
+  "description_pl": "Kiedy dwóch braci organizuje napad na należący do ich rodziców sklep z biżuterią, wszystko idzie strasznie źle. Rabunek pociąga za sobą serię wydarzeń, które doprowadzają braci, ich ojca oraz żonę jednego z braci do szokującego punktu kulminacyjnego całej historii.",
+  "producers": [
+    {
+      "id": "nm0043007",
+      "name": "Belle Avery"
+    },
+    {
+      "id": "nm0054053",
+      "name": "Jane Barclay"
+    },
+    {
+      "id": "nm1520491",
+      "name": "David Bergstein"
+    },
+    {
+      "id": "nm0148535",
+      "name": "Michael Cerenzie"
+    },
+    {
+      "id": "nm0157222",
+      "name": "Austin Chick"
+    },
+    {
+      "id": "nm1298802",
+      "name": "Joel Corenman"
+    },
+    {
+      "id": "nm0191027",
+      "name": "Carol Cuddy"
+    },
+    {
+      "id": "nm0319501",
+      "name": "William S. Gilmore"
+    },
+    {
+      "id": "nm2262386",
+      "name": "J.J. Hoffman"
+    },
+    {
+      "id": "nm1721535",
+      "name": "Eli Klein"
+    },
+    {
+      "id": "nm0494911",
+      "name": "Hannah Leader"
+    },
+    {
+      "id": "nm1280156",
+      "name": "Brian Linse"
+    },
+    {
+      "id": "nm2241861",
+      "name": "Jeffry Melnick"
+    },
+    {
+      "id": "nm2272995",
+      "name": "Paul Parmar"
+    },
+    {
+      "id": "nm2237278",
+      "name": "Guy Pham"
+    },
+    {
+      "id": "nm0915392",
+      "name": "Jeff G. Waxman"
+    },
+    {
+      "id": "nm2420031",
+      "name": "Sam Zaharis"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0001980",
+      "name": "Carter Burwell"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0287409",
+      "name": "Ron Fortunato"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

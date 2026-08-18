@@ -1,0 +1,48 @@
+{
+  "id": "nm1153895",
+  "name": "Jon Berg",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNjNjNTYwNjMtMjA2Yy00OTgwLWE4OWYtNDI3MmQ1ZTkwNmI0XkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0313443",
+      "title": "Out of Time",
+      "year": 2003,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt1631867",
+      "title": "Edge of Tomorrow",
+      "year": 2014,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0451279",
+      "title": "Wonder Woman",
+      "year": 2017,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt1477834",
+      "title": "Aquaman",
+      "year": 2018,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "imdb_scraped": true,
+  "filmweb_id": 119329,
+  "name_pl": "Jon Berg",
+  "gender": "M",
+  "wikidata_processed": true,
+  "birth_date": "26.09.1980",
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

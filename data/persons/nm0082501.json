@@ -1,0 +1,45 @@
+{
+  "id": "nm0082501",
+  "name": "Ted Billings",
+  "filmography": [
+    {
+      "imdb_id": "tt0021884",
+      "title": "Frankenstein",
+      "year": 1931,
+      "roles": [
+        "cast"
+      ],
+      "character": "Villager"
+    },
+    {
+      "imdb_id": "tt0026138",
+      "title": "Bride of Frankenstein",
+      "year": 1935,
+      "roles": [
+        "cast"
+      ],
+      "character": "Ludwig"
+    },
+    {
+      "imdb_id": "tt0031971",
+      "title": "Stagecoach",
+      "year": 1939,
+      "roles": [
+        "cast"
+      ],
+      "character": "Townsman"
+    }
+  ],
+  "birth_date": "07.04.1880",
+  "death_date": "05.07.1947",
+  "birth_location": "London, England, UK",
+  "filmweb_id": 314745,
+  "name_pl": "Ted Billings",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

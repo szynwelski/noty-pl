@@ -1,0 +1,43 @@
+{
+  "id": "nm0476030",
+  "name": "Gary Kurtz",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzI1YmUxZGQtYTJmYS00MjkxLTk4OTktMzY5OTFlZTQ1MTMzXkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0069704",
+      "title": "American Graffiti",
+      "year": 1973,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0076759",
+      "title": "Star Wars: Episode IV - A New Hope",
+      "year": 1977,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0080684",
+      "title": "Star Wars: Episode V - The Empire Strikes Back",
+      "year": 1980,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "birth_date": "27.07.1940",
+  "death_date": "23.09.2018",
+  "birth_location": "Los Angeles, California, USA",
+  "filmweb_id": 131973,
+  "name_pl": "Gary Kurtz",
+  "birth_location_pl": "Los Angeles, Kalifornia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

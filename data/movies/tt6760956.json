@@ -1,0 +1,186 @@
+{
+  "imdb_id": "tt6760956",
+  "title": "Pecking Order",
+  "description": "Fierce rivalries, club infighting, problematic birds and irregular judging are just some of the challenges faced by a group of zealous Kiwi chicken breeders hell bent on victory at the 2015 National Poultry Show.",
+  "runtime_minutes": 88,
+  "release_date": "01.10.2017",
+  "genres": [
+    "Documentary"
+  ],
+  "stars": [
+    {
+      "id": "nm8998577",
+      "name": "Doug Bain"
+    },
+    {
+      "id": "nm8998579",
+      "name": "Sarah Bunton"
+    },
+    {
+      "id": "nm8998583",
+      "name": "Bob Dawber"
+    },
+    {
+      "id": "nm8998581",
+      "name": "Brian Glassey"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm5409199",
+      "name": "Slavko Martinov"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm5409199",
+      "name": "Slavko Martinov"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm8998577",
+      "name": "Doug Bain",
+      "character": "Self"
+    },
+    {
+      "id": "nm8998579",
+      "name": "Sarah Bunton",
+      "character": "Self"
+    },
+    {
+      "id": "nm8998583",
+      "name": "Bob Dawber",
+      "character": "Self"
+    },
+    {
+      "id": "nm8998581",
+      "name": "Brian Glassey",
+      "character": "Self"
+    },
+    {
+      "id": "nm8998582",
+      "name": "Brett Hawker",
+      "character": "Self"
+    },
+    {
+      "id": "nm15963540",
+      "name": "Mark Lilley",
+      "character": "Self"
+    },
+    {
+      "id": "nm8998578",
+      "name": "Rhys Lilley",
+      "character": "Self"
+    },
+    {
+      "id": "nm5073020",
+      "name": "Clint O'Brien",
+      "character": "Self"
+    },
+    {
+      "id": "nm9192299",
+      "name": "Ian Selby",
+      "character": "Self"
+    },
+    {
+      "id": "nm8998580",
+      "name": "Marina Steinke",
+      "character": "Self"
+    }
+  ],
+  "countries": [
+    "New Zealand"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 794697,
+  "year": 2017,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOWI1ZTEwYzQtOTgxZi00ZGRjLWI2YTMtMGZjNTJjNDM0YzlhXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7,
+      "votes": 229,
+      "distribution": {
+        "1": 9,
+        "2": 7,
+        "3": 2,
+        "4": 1,
+        "5": 6,
+        "6": 27,
+        "7": 57,
+        "8": 39,
+        "9": 25,
+        "10": 56
+      },
+      "normalized": 5.3545
+    },
+    "filmweb": {
+      "rating": 6.88,
+      "votes": 50,
+      "distribution": {
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 4,
+        "6": 11,
+        "7": 21,
+        "8": 11,
+        "9": 1,
+        "10": 1
+      },
+      "normalized": 5.2468
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "22.10.2017",
+      "normalized": 7.1247
+    },
+    "score": 5.9087
+  },
+  "polish_title": "Porządek dziobania",
+  "silent": false,
+  "description_pl": "Hodowanie kur ozdobnych to nie tylko hobby, ale także sposób na życie. Dla członków nowozelandzkiego Klubu Hodowców Drobiu, Bantamków i Gołębi w Christchurch to jednak coś więcej - prawdziwa obsesja. Istniejący 148 lat klub ma swoje zasady i od dawna już tego samego prezesa. Jednak w 2015 roku przed zbliżającą się wystawą National Poultry Show coś zaczyna zgrzytać. Nie wszyscy są zadowoleni z wiekowego prezesa i chcą na tym stanowisku kogoś młodszego, ze świeżym spojrzeniem. Wybucha otwarty konflikt, że aż pióra lecą.",
+  "producers": [
+    {
+      "id": "nm1188748",
+      "name": "David Brechin-Smith"
+    },
+    {
+      "id": "nm6855749",
+      "name": "Phil Bremner"
+    },
+    {
+      "id": "nm8931814",
+      "name": "Steve Gilmore"
+    },
+    {
+      "id": "nm1867714",
+      "name": "Mike Kelland"
+    },
+    {
+      "id": "nm6697146",
+      "name": "Jill Macnab"
+    },
+    {
+      "id": "nm5409199",
+      "name": "Slavko Martinov"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm1550689",
+      "name": "Tom McLeod"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm1867714",
+      "name": "Mike Kelland"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

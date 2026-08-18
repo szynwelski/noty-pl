@@ -1,0 +1,30 @@
+{
+  "id": "nm0338381",
+  "name": "Tom Green",
+  "filmography": [
+    {
+      "imdb_id": "tt0215129",
+      "title": "Road Trip",
+      "year": 2000,
+      "roles": [
+        "cast"
+      ],
+      "character": "Barry"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTc2NzI5NDQ0NF5BMl5BanBnXkFtZTcwMTQ2MDIzNA@@._V1_.jpg",
+  "birth_date": "30.07.1971",
+  "birth_location": "Pembroke, Ontario, Canada",
+  "height": "1.91 m",
+  "imdb_scraped": true,
+  "filmweb_id": 7936,
+  "name_pl": "Tom Green",
+  "birth_location_pl": "Pembroke",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Kanada",
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 7936
+}

@@ -1,0 +1,37 @@
+{
+  "id": "nm0902494",
+  "name": "Egon von Jordan",
+  "filmography": [
+    {
+      "imdb_id": "tt0048624",
+      "title": "Sissi",
+      "year": 1955,
+      "roles": [
+        "cast"
+      ],
+      "character": "Graf Arco, Prime Minister"
+    },
+    {
+      "imdb_id": "tt0049762",
+      "title": "Sissi - Die junge Kaiserin",
+      "year": 1956,
+      "roles": [
+        "cast"
+      ],
+      "character": "Prime Minister"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNGEwODgzNDktNGI3ZS00OWVhLWI4YzUtYzFkMThiNDRkZDFkXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "19.03.1902",
+  "death_date": "27.12.1978",
+  "birth_location": "Dux, Bohemia, Austria-Hungary [now Duchcov, Czech Republic]",
+  "imdb_scraped": true,
+  "filmweb_id": 120315,
+  "name_pl": "Egon von Jordan",
+  "birth_location_pl": "Duchcov",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Austria"
+  ]
+}

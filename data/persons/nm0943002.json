@@ -1,0 +1,74 @@
+{
+  "id": "nm0943002",
+  "name": "Bronislaw Wroclawski",
+  "filmography": [
+    {
+      "imdb_id": "tt0090246",
+      "title": "Vabank II, czyli riposta",
+      "year": 1985,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Edek Sztyc"
+    },
+    {
+      "imdb_id": "tt0095452",
+      "title": "King Size",
+      "year": 1988,
+      "roles": [
+        "cast"
+      ],
+      "character": "Pycio"
+    },
+    {
+      "imdb_id": "tt0114626",
+      "title": "Tato",
+      "year": 1995,
+      "roles": [
+        "cast"
+      ],
+      "character": "Ewa's Lawyer"
+    },
+    {
+      "imdb_id": "tt0377651",
+      "title": "Cialo",
+      "year": 2003,
+      "roles": [
+        "cast"
+      ],
+      "character": "Marian Tuleja"
+    },
+    {
+      "imdb_id": "tt0778695",
+      "title": "The French Trick",
+      "year": 2006,
+      "roles": [
+        "cast"
+      ],
+      "character": "Kurowski"
+    },
+    {
+      "imdb_id": "tt1514837",
+      "title": "The Reverse",
+      "year": 2009,
+      "roles": [
+        "cast"
+      ],
+      "character": "Barski - publishing house manager"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzZjZDBjNWQtOWU1OC00MDY3LThlNjQtMDM5OTUwYjc0MTYxXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "31.08.1951",
+  "birth_location": "Lódz, Lódzkie, Poland",
+  "filmweb_id": 7595,
+  "name_pl": "Bronisław Wrocławski",
+  "birth_location_pl": "Łódź",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Polska"
+  ],
+  "wikidata_fw_id": 7595
+}

@@ -1,0 +1,35 @@
+{
+  "id": "nm0238898",
+  "name": "Daphne Du Maurier",
+  "filmography": [
+    {
+      "imdb_id": "tt0032976",
+      "title": "Rebecca",
+      "year": 1940,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0056869",
+      "title": "The Birds",
+      "year": 1963,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOThjYTIyZjEtOGZkZC00MDhiLWE1OGYtMjdlMDI1OTBiNzg4XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "13.05.1907",
+  "death_date": "19.04.1989",
+  "birth_location": "Regent's Park, London, England, UK",
+  "imdb_scraped": true,
+  "filmweb_id": 13083,
+  "name_pl": "Daphne Du Maurier",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ]
+}

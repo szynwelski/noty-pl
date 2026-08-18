@@ -1,0 +1,36 @@
+{
+  "id": "nm0002162",
+  "name": "Henri Alekan",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTRlZTEwOTAtOGI5NS00ZTBiLTlkN2UtMWYyNjA4NTJlNWM1XkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0038334",
+      "title": "The Battle of the Rails",
+      "year": 1946,
+      "roles": [
+        "cinematographer"
+      ]
+    },
+    {
+      "imdb_id": "tt0093191",
+      "title": "Wings of Desire",
+      "year": 1987,
+      "roles": [
+        "cinematographer"
+      ]
+    }
+  ],
+  "birth_date": "10.02.1909",
+  "death_date": "15.06.2001",
+  "birth_location": "Paris, France",
+  "imdb_scraped": true,
+  "filmweb_id": 43902,
+  "name_pl": "Henri Alekan",
+  "birth_location_pl": "Paryż",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja"
+  ],
+  "wikidata_fw_id": 43902
+}

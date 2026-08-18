@@ -1,0 +1,51 @@
+{
+  "id": "nm0817023",
+  "name": "Nicholas Sparks",
+  "filmography": [
+    {
+      "imdb_id": "tt0139462",
+      "title": "Message in a Bottle",
+      "year": 1999,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0281358",
+      "title": "A Walk to Remember",
+      "year": 2002,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0332280",
+      "title": "The Notebook",
+      "year": 2004,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0989757",
+      "title": "Dear John",
+      "year": 2010,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTA3NjQxOTc2ODReQTJeQWpwZ15BbWU3MDMxODY4Njc@._V1_.jpg",
+  "birth_date": "31.12.1965",
+  "birth_location": "Omaha, Nebraska, USA",
+  "filmweb_id": 11262,
+  "name_pl": "Nicholas Sparks",
+  "birth_location_pl": "Omaha, Nebraska",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 11262
+}

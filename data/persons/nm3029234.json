@@ -1,0 +1,38 @@
+{
+  "id": "nm3029234",
+  "name": "Georgette Méliès",
+  "filmography": [
+    {
+      "imdb_id": "tt0000132",
+      "title": "Card Party",
+      "year": 1896,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "La petite fille"
+    },
+    {
+      "imdb_id": "tt0223223",
+      "title": "Entre Calais et Douvres",
+      "year": 1897,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "The Girl with the Doll"
+    }
+  ],
+  "birth_date": "22.03.1888",
+  "death_date": "29.08.1930",
+  "birth_location": "Paris, France",
+  "imdb_scraped": true,
+  "filmweb_id": 971550,
+  "name_pl": "Georgette Méliès",
+  "birth_location_pl": "Paryż",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja"
+  ]
+}

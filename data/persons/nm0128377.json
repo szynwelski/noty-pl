@@ -1,0 +1,39 @@
+{
+  "id": "nm0128377",
+  "name": "Sid Caesar",
+  "filmography": [
+    {
+      "imdb_id": "tt0077631",
+      "title": "Grease",
+      "year": 1978,
+      "roles": [
+        "cast"
+      ],
+      "character": "Coach Calhoun"
+    },
+    {
+      "imdb_id": "tt0082517",
+      "title": "History of the World: Part I",
+      "year": 1981,
+      "roles": [
+        "cast"
+      ],
+      "character": "Chief Caveman"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTI2MzI2MTM5NF5BMl5BanBnXkFtZTcwNTgyMDQyMg@@._V1_.jpg",
+  "birth_date": "08.09.1922",
+  "death_date": "12.02.2014",
+  "birth_location": "Yonkers, New York, USA",
+  "height": "1.83 m",
+  "imdb_scraped": true,
+  "filmweb_id": 44869,
+  "name_pl": "Sid Caesar",
+  "birth_location_pl": "Yonkers, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 44869
+}

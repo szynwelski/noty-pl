@@ -1,0 +1,51 @@
+{
+  "id": "nm0773721",
+  "name": "Bert Schneider",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDg5ODg0NDEtZDUyYy00ZmEwLThkMzAtOTM4NGQyYmEwNDkxXkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0064276",
+      "title": "Easy Rider",
+      "year": 1969,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0065724",
+      "title": "Five Easy Pieces",
+      "year": 1970,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0067328",
+      "title": "The Last Picture Show",
+      "year": 1971,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0077405",
+      "title": "Days of Heaven",
+      "year": 1978,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "birth_date": "05.05.1933",
+  "death_date": "12.12.2011",
+  "birth_location": "New York City, New York, USA",
+  "filmweb_id": 772851,
+  "name_pl": "Bert Schneider",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

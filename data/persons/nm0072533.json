@@ -1,0 +1,48 @@
+{
+  "id": "nm0072533",
+  "name": "Jodi Benson",
+  "filmography": [
+    {
+      "imdb_id": "tt0097757",
+      "title": "The Little Mermaid",
+      "year": 1989,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Ariel"
+    },
+    {
+      "imdb_id": "tt0120363",
+      "title": "Toy Story 2",
+      "year": 1999,
+      "roles": [
+        "cast"
+      ],
+      "character": "Barbie"
+    },
+    {
+      "imdb_id": "tt0435761",
+      "title": "Toy Story 3",
+      "year": 2010,
+      "roles": [
+        "cast"
+      ],
+      "character": "Barbie"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNjM4MDU4MTkxMF5BMl5BanBnXkFtZTgwNjQxMzE5MjI@._V1_.jpg",
+  "birth_date": "10.10.1961",
+  "birth_location": "Rockford, Illinois, USA",
+  "height": "1.70 m",
+  "filmweb_id": 3033,
+  "name_pl": "Jodi Benson",
+  "birth_location_pl": "Rockford, Illinois",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 3033
+}

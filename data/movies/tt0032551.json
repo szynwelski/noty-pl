@@ -1,0 +1,220 @@
+{
+  "imdb_id": "tt0032551",
+  "title": "The Grapes of Wrath",
+  "description": "An Oklahoma family, driven off their farm by the poverty and hopelessness of the Dust Bowl, joins the westward migration to California, suffering the misfortunes of the homeless in the Great Depression.",
+  "runtime_minutes": 129,
+  "release_date": "15.03.1940",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0000020",
+      "name": "Henry Fonda"
+    },
+    {
+      "id": "nm0002034",
+      "name": "Jane Darwell"
+    },
+    {
+      "id": "nm0001017",
+      "name": "John Carradine"
+    },
+    {
+      "id": "nm0335788",
+      "name": "Charley Grapewin"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000406",
+      "name": "John Ford"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0425913",
+      "name": "Nunnally Johnson"
+    },
+    {
+      "id": "nm0825705",
+      "name": "John Steinbeck"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000020",
+      "name": "Henry Fonda",
+      "character": "Tom Joad"
+    },
+    {
+      "id": "nm0002034",
+      "name": "Jane Darwell",
+      "character": "Ma Joad"
+    },
+    {
+      "id": "nm0001017",
+      "name": "John Carradine",
+      "character": "Casy"
+    },
+    {
+      "id": "nm0335788",
+      "name": "Charley Grapewin",
+      "character": "Grandpa"
+    },
+    {
+      "id": "nm0100758",
+      "name": "Dorris Bowdon",
+      "character": "Rosasharn"
+    },
+    {
+      "id": "nm0801193",
+      "name": "Russell Simpson",
+      "character": "Pa Joad"
+    },
+    {
+      "id": "nm0925713",
+      "name": "O.Z. Whitehead",
+      "character": "Al"
+    },
+    {
+      "id": "nm0702798",
+      "name": "John Qualen",
+      "character": "Muley"
+    },
+    {
+      "id": "nm0703600",
+      "name": "Eddie Quillan",
+      "character": "Connie"
+    },
+    {
+      "id": "nm0863193",
+      "name": "Zeffie Tilbury",
+      "character": "Grandma"
+    },
+    {
+      "id": "nm0838412",
+      "name": "Frank Sully",
+      "character": "Noah"
+    },
+    {
+      "id": "nm0201227",
+      "name": "Frank Darien",
+      "character": "Uncle John"
+    },
+    {
+      "id": "nm0382718",
+      "name": "Darryl Hickman",
+      "character": "Winfield"
+    },
+    {
+      "id": "nm0590189",
+      "name": "Shirley Mills",
+      "character": "Ruth Joad"
+    },
+    {
+      "id": "nm0408184",
+      "name": "Roger Imhof",
+      "character": "Thomas"
+    },
+    {
+      "id": "nm0593372",
+      "name": "Grant Mitchell",
+      "character": "Caretaker"
+    },
+    {
+      "id": "nm0113184",
+      "name": "Charles D. Brown",
+      "character": "Wilkie"
+    },
+    {
+      "id": "nm0035138",
+      "name": "John Arledge",
+      "character": "Davis"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 31681,
+  "year": 1940,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZjIxZWJjZDktOGVhOC00Y2YyLThlMjMtOWMxYmI5MmFiN2QzXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8.1,
+      "votes": 107443,
+      "distribution": {
+        "1": 2134,
+        "2": 688,
+        "3": 955,
+        "4": 1496,
+        "5": 3304,
+        "6": 6801,
+        "7": 17779,
+        "8": 32523,
+        "9": 21085,
+        "10": 20678
+      },
+      "normalized": 7.6936
+    },
+    "filmweb": {
+      "rating": 7.51,
+      "votes": 4095,
+      "distribution": {
+        "1": 32,
+        "2": 12,
+        "3": 31,
+        "4": 56,
+        "5": 155,
+        "6": 438,
+        "7": 1141,
+        "8": 1393,
+        "9": 534,
+        "10": 303
+      },
+      "normalized": 6.579
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "06.02.2014",
+      "normalized": 7.1247
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "02.07.2007",
+      "normalized": 7.2292
+    },
+    "score": 7.1566
+  },
+  "polish_title": "Grona gniewu",
+  "silent": false,
+  "description_pl": "Ekranizacja głośniej powieści Johna Steinbecka. Ameryka w latach kryzysu. Farmer Joad traci ojcowiznę z powodu suszy i długów. Wyrusza z rodziną na Zachód, by szukać swojego miejsca pod słońcem...",
+  "producers": [
+    {
+      "id": "nm0425913",
+      "name": "Nunnally Johnson"
+    },
+    {
+      "id": "nm0953123",
+      "name": "Darryl F. Zanuck"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0000055",
+      "name": "Alfred Newman"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005904",
+      "name": "Gregg Toland"
+    }
+  ],
+  "fetched_at": "2026-08-15"
+}

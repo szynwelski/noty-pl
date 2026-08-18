@@ -1,0 +1,47 @@
+{
+  "id": "nm0154665",
+  "name": "Paddy Chayefsky",
+  "filmography": [
+    {
+      "imdb_id": "tt0048356",
+      "title": "Marty",
+      "year": 1955,
+      "roles": [
+        "writer",
+        "cast",
+        "producer"
+      ],
+      "character": "Leo"
+    },
+    {
+      "imdb_id": "tt0070903",
+      "title": "The Way We Were",
+      "year": 1973,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0074958",
+      "title": "Network",
+      "year": 1976,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQxNDg0ODQxN15BMl5BanBnXkFtZTcwNjM5NzIzOA@@._V1_.jpg",
+  "birth_date": "29.01.1923",
+  "death_date": "01.08.1981",
+  "birth_location": "The Bronx, New York City, New York, USA",
+  "filmweb_id": 41722,
+  "name_pl": "Paddy Chayefsky",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 41722
+}

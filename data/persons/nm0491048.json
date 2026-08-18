@@ -1,0 +1,40 @@
+{
+  "id": "nm0491048",
+  "name": "Stan Laurel",
+  "filmography": [
+    {
+      "imdb_id": "tt0056799",
+      "title": "30 Years of Fun",
+      "year": 1963,
+      "roles": [
+        "star",
+        "cast"
+      ]
+    },
+    {
+      "imdb_id": "tt0196372",
+      "title": "The Best of Laurel and Hardy",
+      "year": 1968,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Stan"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDg5MDAyNDUtNDQxMi00OGNkLWI3ZTItYTAwYmE1MWM1YjhlXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "16.06.1890",
+  "death_date": "23.02.1965",
+  "birth_location": "Ulverston, Lancashire, England, UK",
+  "height": "1.73 m",
+  "imdb_scraped": true,
+  "filmweb_id": 59186,
+  "name_pl": "Stan Laurel",
+  "birth_location_pl": "Ulverston, Anglia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 59186
+}

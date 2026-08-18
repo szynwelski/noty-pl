@@ -1,0 +1,36 @@
+{
+  "id": "nm0671957",
+  "name": "Arthur Penn",
+  "filmography": [
+    {
+      "imdb_id": "tt0061418",
+      "title": "Bonnie and Clyde",
+      "year": 1967,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0065988",
+      "title": "Little Big Man",
+      "year": 1970,
+      "roles": [
+        "director"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTkwMTE0MzkyNl5BMl5BanBnXkFtZTcwNDMyODQ5Mw@@._V1_.jpg",
+  "birth_date": "27.09.1922",
+  "death_date": "28.09.2010",
+  "birth_location": "Philadelphia, Pennsylvania, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 11543,
+  "name_pl": "Arthur Penn",
+  "birth_location_pl": "Filadelfia, Pensylwania",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 11543
+}

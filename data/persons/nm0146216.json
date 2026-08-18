@@ -1,0 +1,34 @@
+{
+  "id": "nm0146216",
+  "name": "Ed Catmull",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTI2MDYzODU0NF5BMl5BanBnXkFtZTcwNDc5NDAwMw@@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0114709",
+      "title": "Toy Story",
+      "year": 1995,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0131409",
+      "title": "Geri's Game",
+      "year": 1997,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "birth_date": "31.03.1945",
+  "birth_location": "Parkersburg, West Virginia, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 461787,
+  "name_pl": "Ed Catmull",
+  "birth_location_pl": "Parkersburg, Wirginia Zachodnia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

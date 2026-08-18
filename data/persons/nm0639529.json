@@ -1,0 +1,40 @@
+{
+  "id": "nm0639529",
+  "name": "Edmond O'Brien",
+  "filmography": [
+    {
+      "imdb_id": "tt0056217",
+      "title": "The Man Who Shot Liberty Valance",
+      "year": 1962,
+      "roles": [
+        "cast"
+      ],
+      "character": "Dutton Peabody"
+    },
+    {
+      "imdb_id": "tt0065214",
+      "title": "The Wild Bunch",
+      "year": 1969,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Sykes"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODI3MjQ0OTMwMl5BMl5BanBnXkFtZTYwNDE4NDky._V1_.jpg",
+  "birth_date": "10.09.1915",
+  "death_date": "09.05.1985",
+  "birth_location": "New York City, New York, USA",
+  "height": "1.75 m",
+  "imdb_scraped": true,
+  "filmweb_id": 53440,
+  "name_pl": "Edmond O'Brien",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 53440
+}

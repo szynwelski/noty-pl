@@ -1,0 +1,38 @@
+{
+  "id": "nm0956102",
+  "name": "Hans Ziegler",
+  "filmography": [
+    {
+      "imdb_id": "tt0049762",
+      "title": "Sissi - Die junge Kaiserin",
+      "year": 1956,
+      "roles": [
+        "cast"
+      ],
+      "character": "Dr. Seeburger"
+    },
+    {
+      "imdb_id": "tt0050974",
+      "title": "Sissi: The Fateful Years of an Empress",
+      "year": 1957,
+      "roles": [
+        "cast"
+      ],
+      "character": "Hofrat Dr. Seeburger"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZDEwNTRlNjctZDY0OS00MGNjLTlkODAtMTBhYWViZTYyMGU2XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "09.05.1879",
+  "death_date": "24.12.1961",
+  "birth_location": "Karlsruhe, Germany",
+  "imdb_scraped": true,
+  "filmweb_id": 98085,
+  "name_pl": "Hans Ziegler",
+  "birth_location_pl": "Karlsruhe",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Austria",
+    "Niemcy"
+  ]
+}

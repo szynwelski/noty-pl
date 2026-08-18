@@ -1,0 +1,36 @@
+{
+  "id": "nm0006296",
+  "name": "Mark Snow",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTIzODAwOTM2MF5BMl5BanBnXkFtZTYwMzM1OTk1._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0170817",
+      "title": "Pilot",
+      "year": 1993,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt0120902",
+      "title": "The X Files",
+      "year": 1998,
+      "roles": [
+        "composer"
+      ]
+    }
+  ],
+  "birth_date": "26.08.1946",
+  "death_date": "03.07.2025",
+  "birth_location": "Brooklyn, New York City, New York, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 10993,
+  "name_pl": "Mark Snow",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 10993
+}

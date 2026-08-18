@@ -1,0 +1,62 @@
+{
+  "id": "nm0002233",
+  "name": "Erich von Stroheim",
+  "filmography": [
+    {
+      "imdb_id": "tt0013140",
+      "title": "Foolish Wives",
+      "year": 1922,
+      "roles": [
+        "director",
+        "writer",
+        "cast"
+      ],
+      "character": "Count Sergius Karamzin - Capt. 3rd Hussars Imper. Russian Army"
+    },
+    {
+      "imdb_id": "tt0015881",
+      "title": "Greed",
+      "year": 1924,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0028950",
+      "title": "Grand Illusion",
+      "year": 1937,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Le captaine von Rauffenstein"
+    },
+    {
+      "imdb_id": "tt0043014",
+      "title": "Sunset Boulevard",
+      "year": 1950,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Max Von Mayerling"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYWM4ZjQ2ZWMtNzM1Ni00NDkyLThjOWQtYzJlMzUxZTc2M2RjXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "22.09.1885",
+  "death_date": "12.05.1957",
+  "birth_location": "Vienna, Austria-Hungary [now Austria]",
+  "height": "1.68 m",
+  "filmweb_id": 46570,
+  "name_pl": "Erich von Stroheim",
+  "birth_location_pl": "Wiedeń",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone",
+    "Austro-Węgry"
+  ],
+  "wikidata_fw_id": 46570
+}

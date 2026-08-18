@@ -1,0 +1,38 @@
+{
+  "id": "nm0544539",
+  "name": "Gina Manès",
+  "filmography": [
+    {
+      "imdb_id": "tt0013933",
+      "title": "The Faithful Heart",
+      "year": 1923,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Marie"
+    },
+    {
+      "imdb_id": "tt0018192",
+      "title": "Napoleon",
+      "year": 1927,
+      "roles": [
+        "cast"
+      ],
+      "character": "Joséphine de Beauharnais"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZTU3Yjg5OTUtOTI1Ny00Y2IxLTg2MmQtZDdhZDk1YjViY2MyXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "07.04.1893",
+  "death_date": "06.09.1989",
+  "birth_location": "Paris, France",
+  "imdb_scraped": true,
+  "filmweb_id": 134664,
+  "name_pl": "Gina Manès",
+  "birth_location_pl": "Paryż",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja"
+  ]
+}

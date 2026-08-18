@@ -1,0 +1,113 @@
+{
+  "imdb_id": "tt0309402",
+  "title": "Buffalo Dance",
+  "description": "Three Sioux Indians perform a 'buffalo dance', while two others use drums to supply a rhythm. The three dancers move around in a circle as they perform the various actions that are part of the dance.",
+  "runtime_minutes": 1,
+  "release_date": "24.09.1894",
+  "genres": [
+    "Documentary",
+    "Short",
+    "Western"
+  ],
+  "stars": [
+    {
+      "id": "nm1135679",
+      "name": "Hair Coat"
+    },
+    {
+      "id": "nm1136468",
+      "name": "Parts His Hair"
+    },
+    {
+      "id": "nm1136495",
+      "name": "Last Horse"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0005690",
+      "name": "William K.L. Dickson"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1135679",
+      "name": "Hair Coat",
+      "character": "Self"
+    },
+    {
+      "id": "nm1136468",
+      "name": "Parts His Hair",
+      "character": "Self"
+    },
+    {
+      "id": "nm1136495",
+      "name": "Last Horse",
+      "character": "Self"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 270274,
+  "year": 1894,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDY0ODAyMzAtMTBkOS00NGNmLWIwY2MtZDI4MDA1YWY0NWYwXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.4,
+      "votes": 1142,
+      "distribution": {
+        "1": 55,
+        "2": 34,
+        "3": 78,
+        "4": 124,
+        "5": 332,
+        "6": 252,
+        "7": 138,
+        "8": 43,
+        "9": 25,
+        "10": 61
+      },
+      "normalized": 3.6592
+    },
+    "filmweb": {
+      "rating": 4.9,
+      "votes": 210,
+      "distribution": {
+        "1": 12,
+        "2": 15,
+        "3": 23,
+        "4": 32,
+        "5": 47,
+        "6": 44,
+        "7": 20,
+        "8": 8,
+        "9": 3,
+        "10": 6
+      },
+      "normalized": 3.7396
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "11.12.2016",
+      "normalized": 7.1247
+    },
+    "score": 4.8412
+  },
+  "polish_title": "Buffalo Dance",
+  "silent": true,
+  "description_pl": "Możemy tutaj zobaczyć taniec trzech Indian. To przedstawiciele rdzennych amerykańskich Indian z \"Buffalo Bill's Wild West Show\".",
+  "cinematographers": [
+    {
+      "id": "nm0374658",
+      "name": "William Heise"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

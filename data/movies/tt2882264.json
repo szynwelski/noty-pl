@@ -1,0 +1,143 @@
+{
+  "imdb_id": "tt2882264",
+  "title": "The Mother",
+  "description": "Malgorzata - an important politician - is going to her home at the lake. Her son - a drug addict - needs her help. Malgorzata is asking her daughter for her support. At home they find Malgorzata's semiconscious son and a massacred body of a young girl. In the face of the tragedy, their relationship gets complicated, disclosing their hidden grudges. The mother has to make the most difficult decision in her life.",
+  "runtime_minutes": 30,
+  "release_date": "09.03.2018",
+  "genres": [
+    "Short",
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0826611",
+      "name": "Danuta Stenka"
+    },
+    {
+      "id": "nm1699312",
+      "name": "Magdalena Czerwinska"
+    },
+    {
+      "id": "nm2362652",
+      "name": "Rafal Fudalej"
+    },
+    {
+      "id": "nm6856698",
+      "name": "Paulina Szostak"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm5652339",
+      "name": "Lukasz Ostalski"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm5652339",
+      "name": "Lukasz Ostalski"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0826611",
+      "name": "Danuta Stenka",
+      "character": "Malgorzata"
+    },
+    {
+      "id": "nm1699312",
+      "name": "Magdalena Czerwinska",
+      "character": "Ola"
+    },
+    {
+      "id": "nm2362652",
+      "name": "Rafal Fudalej",
+      "character": "Robert"
+    },
+    {
+      "id": "nm6856698",
+      "name": "Paulina Szostak",
+      "character": "Girl"
+    },
+    {
+      "id": "nm10434069",
+      "name": "Teresa Wierzbowska",
+      "character": "Grandmother"
+    }
+  ],
+  "countries": [
+    "Poland"
+  ],
+  "languages": [
+    "Polish"
+  ],
+  "color": "Color",
+  "year": 2013,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYzY0MmZkNzQtNzE2OS00NjkxLWI2N2QtN2UzODc3MGE2MmVhXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 688946,
+  "original_title": "Matka",
+  "ratings": {
+    "imdb": {
+      "rating": 6.7,
+      "votes": 38,
+      "distribution": {
+        "1": 2,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 2,
+        "6": 13,
+        "7": 12,
+        "8": 3,
+        "9": 1,
+        "10": 4
+      },
+      "normalized": 5.2933
+    },
+    "filmweb": {
+      "rating": 6.94,
+      "votes": 1218,
+      "distribution": {
+        "1": 7,
+        "2": 6,
+        "3": 15,
+        "4": 32,
+        "5": 86,
+        "6": 233,
+        "7": 432,
+        "8": 294,
+        "9": 74,
+        "10": 39
+      },
+      "normalized": 5.4332
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "01.12.2016",
+      "normalized": 6.4102
+    },
+    "score": 5.7122
+  },
+  "polish_title": "Matka",
+  "silent": false,
+  "description_pl": "Małgorzata - na co dzień ważny polityk - jedzie do domu nad jeziorem. Jej syn, narkoman, potrzebuje pomocy. Małgorzata prosi o wsparcie córkę. Na miejscu odkrywają półprzytomnego chłopaka i młodą dziewczynę. W obliczu tragedii ich wzajemne relacje komplikują się ujawniając skrywane urazy. Matka musi podjąć najtrudniejszą decyzję w życiu.",
+  "producers": [
+    {
+      "id": "nm5584674",
+      "name": "Leszek Kopec"
+    },
+    {
+      "id": "nm5919032",
+      "name": "Jerzy Rados"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm5583867",
+      "name": "Slawomir Witek"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "nm0424167",
+  "name": "Gottfried John",
+  "filmography": [
+    {
+      "imdb_id": "tt0113189",
+      "title": "GoldenEye",
+      "year": 1995,
+      "roles": [
+        "cast"
+      ],
+      "character": "Colonel Ourumov"
+    },
+    {
+      "imdb_id": "tt0133385",
+      "title": "Asterix and Obelix vs. Caesar",
+      "year": 1999,
+      "roles": [
+        "cast"
+      ],
+      "character": "Jules César"
+    },
+    {
+      "imdb_id": "tt0228750",
+      "title": "Proof of Life",
+      "year": 2000,
+      "roles": [
+        "cast"
+      ],
+      "character": "Eric Kessler"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOTA5NDM0NDIwNF5BMl5BanBnXkFtZTcwMzQ2MzExOA@@._V1_.jpg",
+  "birth_date": "29.08.1942",
+  "death_date": "01.09.2014",
+  "birth_location": "Berlin, Germany",
+  "height": "1.88 m",
+  "filmweb_id": 3266,
+  "name_pl": "Gottfried John",
+  "birth_location_pl": "Berlin",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Niemcy"
+  ],
+  "wikidata_fw_id": 3266
+}

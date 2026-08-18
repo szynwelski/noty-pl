@@ -1,0 +1,219 @@
+{
+  "imdb_id": "tt0151804",
+  "title": "Office Space",
+  "description": "Three company workers who hate their jobs decide to rebel against their greedy boss.",
+  "runtime_minutes": 89,
+  "release_date": "19.02.1999",
+  "genres": [
+    "Comedy"
+  ],
+  "stars": [
+    {
+      "id": "nm0515296",
+      "name": "Ron Livingston"
+    },
+    {
+      "id": "nm0000098",
+      "name": "Jennifer Aniston"
+    },
+    {
+      "id": "nm0379114",
+      "name": "David Herman"
+    },
+    {
+      "id": "nm0619651",
+      "name": "Ajay Naidu"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0431918",
+      "name": "Mike Judge"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0431918",
+      "name": "Mike Judge"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0515296",
+      "name": "Ron Livingston",
+      "character": "Peter"
+    },
+    {
+      "id": "nm0000098",
+      "name": "Jennifer Aniston",
+      "character": "Joanna"
+    },
+    {
+      "id": "nm0379114",
+      "name": "David Herman",
+      "character": "Michael Bolton"
+    },
+    {
+      "id": "nm0619651",
+      "name": "Ajay Naidu",
+      "character": "Samir"
+    },
+    {
+      "id": "nm0046033",
+      "name": "Diedrich Bader",
+      "character": "Lawrence"
+    },
+    {
+      "id": "nm0740535",
+      "name": "Stephen Root",
+      "character": "Milton"
+    },
+    {
+      "id": "nm0170550",
+      "name": "Gary Cole",
+      "character": "Bill Lumbergh"
+    },
+    {
+      "id": "nm0726223",
+      "name": "Richard Riehle",
+      "character": "Tom Smykowski"
+    },
+    {
+      "id": "nm0005547",
+      "name": "Alexandra Wentworth",
+      "character": "Anne"
+    },
+    {
+      "id": "nm0063218",
+      "name": "Joe Bays",
+      "character": "Dom Portwood"
+    },
+    {
+      "id": "nm0001525",
+      "name": "John C. McGinley",
+      "character": "Bob Slydell"
+    },
+    {
+      "id": "nm0932750",
+      "name": "Paul Willson",
+      "character": "Bob Porter"
+    },
+    {
+      "id": "nm0570604",
+      "name": "Kinna McInroe",
+      "character": "Nina"
+    },
+    {
+      "id": "nm0240445",
+      "name": "Todd Duffey",
+      "character": "Chotchkie's Waiter"
+    },
+    {
+      "id": "nm0686008",
+      "name": "Greg Pitts",
+      "character": "Drew"
+    },
+    {
+      "id": "nm0574540",
+      "name": "Michael McShane",
+      "character": "Dr. Swanson"
+    },
+    {
+      "id": "nm0906855",
+      "name": "Linda Wakeman",
+      "character": "Laura Smykowski"
+    },
+    {
+      "id": "nm0256218",
+      "name": "Jennifer Jane Emerson",
+      "character": "Female Temp"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 32775,
+  "year": 1999,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOTA5MzQ3MzI1NV5BMl5BanBnXkFtZTgwNTcxNTYxMTE@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.6,
+      "votes": 310937,
+      "distribution": {
+        "1": 1546,
+        "2": 1041,
+        "3": 1836,
+        "4": 3818,
+        "5": 10207,
+        "6": 29069,
+        "7": 69640,
+        "8": 93749,
+        "9": 52377,
+        "10": 47654
+      },
+      "normalized": 6.6509
+    },
+    "filmweb": {
+      "rating": 6.54,
+      "votes": 10463,
+      "distribution": {
+        "1": 49,
+        "2": 46,
+        "3": 234,
+        "4": 430,
+        "5": 1295,
+        "6": 2715,
+        "7": 3400,
+        "8": 1591,
+        "9": 470,
+        "10": 233
+      },
+      "normalized": 4.4112
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "19.10.2005",
+      "normalized": 5.4199
+    },
+    "score": 5.494
+  },
+  "polish_title": "Życie biurowe",
+  "silent": false,
+  "description_pl": "W życiu Petera Gibbonsa nic nie układa się dobrze. Jego dziewczyna Joanna go oszukuje, a praca wpędza w depresję. Postanawia oddać się w ręce terapeuty i poddać się hipnozie. Po wprowadzeniu Petera w trans, lekarz niespodziewanie umiera. Teraz Peter, nadal pod wpływem hipnozy, nie martwi się już o koleje życia. W firmie jednak szykują się zwolnienia. Pracę tracą m.in.: Samir i Michael, kumple Petera. Cała trójka postanawia się zemścić, wprowadzając do systemu komputerowego firmy wirus, który sprawi, że cały majątek spłynie na ich konta.",
+  "producers": [
+    {
+      "id": "nm0710883",
+      "name": "Daniel Rappaport"
+    },
+    {
+      "id": "nm0726099",
+      "name": "Guy Riedel"
+    },
+    {
+      "id": "nm0744754",
+      "name": "Michael Rotenberg"
+    },
+    {
+      "id": "nm0431918",
+      "name": "Mike Judge"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0002227",
+      "name": "John Frizzell"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005891",
+      "name": "Tim Suhrstedt"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

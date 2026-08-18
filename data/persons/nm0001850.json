@@ -1,0 +1,49 @@
+{
+  "id": "nm0001850",
+  "name": "Billy Dee Williams",
+  "filmography": [
+    {
+      "imdb_id": "tt0080684",
+      "title": "Star Wars: Episode V - The Empire Strikes Back",
+      "year": 1980,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Lando Calrissian"
+    },
+    {
+      "imdb_id": "tt0086190",
+      "title": "Star Wars: Episode VI - Return of the Jedi",
+      "year": 1983,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Lando Calrissian"
+    },
+    {
+      "imdb_id": "tt0096895",
+      "title": "Batman",
+      "year": 1989,
+      "roles": [
+        "cast"
+      ],
+      "character": "Harvey Dent"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDI4MDQ2NTUzNV5BMl5BanBnXkFtZTYwNjA4NzUz._V1_.jpg",
+  "birth_date": "06.04.1937",
+  "birth_location": "New York City, New York, USA",
+  "height": "1.83 m",
+  "filmweb_id": 4789,
+  "name_pl": "Billy Dee Williams",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 4789
+}

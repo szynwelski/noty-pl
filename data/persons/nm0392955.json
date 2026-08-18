@@ -1,0 +1,44 @@
+{
+  "id": "nm0392955",
+  "name": "Homer",
+  "filmography": [
+    {
+      "imdb_id": "tt0190590",
+      "title": "O Brother, Where Art Thou?",
+      "year": 2000,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0332452",
+      "title": "Troy",
+      "year": 2004,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt33764258",
+      "title": "The Odyssey",
+      "year": 2026,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTZlNDY2YjYtYTgzNi00Y2M2LTgzOWQtNDRmOTUzYWRhNjUzXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "-850",
+  "death_date": "-800",
+  "birth_location": "Ionia, Turkey [then part of Greece]",
+  "imdb_scraped": true,
+  "filmweb_id": 666844,
+  "name_pl": "Homer",
+  "birth_location_pl": "Izmir",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Ionian League"
+  ],
+  "wikidata_fw_id": 666844
+}

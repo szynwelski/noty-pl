@@ -1,0 +1,110 @@
+{
+  "imdb_id": "tt0242849",
+  "title": "Santa Claus",
+  "description": "Brother and sister are sent to bed on Christmas Eve, and while they are asleep, Santa Claus comes down the chimney and fills their waiting stockings with toys.",
+  "runtime_minutes": 1,
+  "release_date": "1898",
+  "genres": [
+    "Short",
+    "Family",
+    "Fantasy"
+  ],
+  "stars": [
+    {
+      "id": "nm0809419",
+      "name": "Laura Bayley"
+    },
+    {
+      "id": "nm2940350",
+      "name": "Dorothy Smith"
+    },
+    {
+      "id": "nm2940072",
+      "name": "Harold Smith"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0808310",
+      "name": "George Albert Smith"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0809419",
+      "name": "Laura Bayley",
+      "character": "Nurse"
+    },
+    {
+      "id": "nm2940350",
+      "name": "Dorothy Smith",
+      "character": "Girl"
+    },
+    {
+      "id": "nm2940072",
+      "name": "Harold Smith",
+      "character": "Boy"
+    }
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "None",
+    "English"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 96465,
+  "year": 1898,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYjcyZGQ1YjMtYmI5Mi00ZjUzLWFjMTctZWI3NDM4ZDc0YmM2XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.4,
+      "votes": 1268,
+      "distribution": {
+        "1": 26,
+        "2": 23,
+        "3": 26,
+        "4": 54,
+        "5": 162,
+        "6": 378,
+        "7": 336,
+        "8": 145,
+        "9": 39,
+        "10": 79
+      },
+      "normalized": 4.7103
+    },
+    "filmweb": {
+      "rating": 5.6,
+      "votes": 307,
+      "distribution": {
+        "1": 7,
+        "2": 5,
+        "3": 25,
+        "4": 25,
+        "5": 84,
+        "6": 82,
+        "7": 43,
+        "8": 21,
+        "9": 4,
+        "10": 11
+      },
+      "normalized": 3.9604
+    },
+    "jarek": {
+      "rating": 8,
+      "date_rated": "12.12.2016",
+      "normalized": 7.8989
+    },
+    "score": 5.5232
+  },
+  "polish_title": "Święty Mikołaj",
+  "silent": true,
+  "description_pl": "To jeden z pierwszych filmów, w których pojawia się postać Świętego Mikołaja. Widzimy jak Mikołaj wchodzi do pokoju przez komin. Przynosi ozdobione drzewko a następnie wiszące skarpety powieszone przez dzieci wypełnia prezentami.",
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-16"
+}

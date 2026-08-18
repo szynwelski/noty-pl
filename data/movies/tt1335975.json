@@ -1,0 +1,243 @@
+{
+  "imdb_id": "tt1335975",
+  "title": "47 Ronin",
+  "description": "A band of samurai sets out to avenge the death and dishonor of their master at the hands of a ruthless shogun.",
+  "runtime_minutes": 128,
+  "release_date": "25.12.2013",
+  "genres": [
+    "Action",
+    "Drama",
+    "Fantasy"
+  ],
+  "stars": [
+    {
+      "id": "nm0000206",
+      "name": "Keanu Reeves"
+    },
+    {
+      "id": "nm0760796",
+      "name": "Hiroyuki Sanada"
+    },
+    {
+      "id": "nm0793069",
+      "name": "Kô Shibasaki"
+    },
+    {
+      "id": "nm0038355",
+      "name": "Tadanobu Asano"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0727754",
+      "name": "Carl Rinsch"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0604555",
+      "name": "Chris Morgan"
+    },
+    {
+      "id": "nm0024925",
+      "name": "Hossein Amini"
+    },
+    {
+      "id": "nm1023578",
+      "name": "Walter Hamada"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000206",
+      "name": "Keanu Reeves",
+      "character": "Kai"
+    },
+    {
+      "id": "nm0760796",
+      "name": "Hiroyuki Sanada",
+      "character": "Oishi"
+    },
+    {
+      "id": "nm0793069",
+      "name": "Kô Shibasaki",
+      "character": "Mika"
+    },
+    {
+      "id": "nm0038355",
+      "name": "Tadanobu Asano",
+      "character": "Lord Kira"
+    },
+    {
+      "id": "nm0849032",
+      "name": "Min Tanaka",
+      "character": "Lord Asano"
+    },
+    {
+      "id": "nm2064011",
+      "name": "Jin Akanishi",
+      "character": "Chikara"
+    },
+    {
+      "id": "nm2612087",
+      "name": "Masayoshi Haneda",
+      "character": "Yasuno"
+    },
+    {
+      "id": "nm5507903",
+      "name": "Hiroshi Sogabe",
+      "character": "Hazama"
+    },
+    {
+      "id": "nm4187460",
+      "name": "Takato Yonemoto",
+      "character": "Basho"
+    },
+    {
+      "id": "nm5072162",
+      "name": "Hiroshi Yamada",
+      "character": "Hara"
+    },
+    {
+      "id": "nm0620059",
+      "name": "Shû Nakajima",
+      "character": "Horibe"
+    },
+    {
+      "id": "nm0846480",
+      "name": "Cary-Hiroyuki Tagawa",
+      "character": "Shogun Tsunayoshi"
+    },
+    {
+      "id": "nm2807170",
+      "name": "Neil Fingleton",
+      "character": "Lovecraftian Samurai"
+    },
+    {
+      "id": "nm0452860",
+      "name": "Rinko Kikuchi",
+      "character": "Witch"
+    },
+    {
+      "id": "nm4655330",
+      "name": "Natsuki Kunimoto",
+      "character": "Riku"
+    },
+    {
+      "id": "nm0407033",
+      "name": "Togo Igawa",
+      "character": "Tengu Lord"
+    },
+    {
+      "id": "nm4437969",
+      "name": "Tanroh Ishida",
+      "character": "Shogun's Adjutant"
+    },
+    {
+      "id": "nm6115101",
+      "name": "Eizo Tomita",
+      "character": "Advisor"
+    }
+  ],
+  "countries": [
+    "United States",
+    "Japan"
+  ],
+  "languages": [
+    "English",
+    "Japanese"
+  ],
+  "color": "Color",
+  "filmweb_id": 548326,
+  "year": 2013,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTc0MjE2NzE0OV5BMl5BanBnXkFtZTgwNTU5MjE1MDE@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.2,
+      "votes": 180700,
+      "distribution": {
+        "1": 3108,
+        "2": 2693,
+        "3": 5324,
+        "4": 10271,
+        "5": 22747,
+        "6": 45021,
+        "7": 48047,
+        "8": 23649,
+        "9": 8411,
+        "10": 11429
+      },
+      "normalized": 3.9208
+    },
+    "filmweb": {
+      "rating": 6.28,
+      "votes": 82036,
+      "distribution": {
+        "1": 410,
+        "2": 793,
+        "3": 3150,
+        "4": 4982,
+        "5": 12291,
+        "6": 21755,
+        "7": 23239,
+        "8": 11048,
+        "9": 2967,
+        "10": 1401
+      },
+      "normalized": 3.8778
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "24.01.2014",
+      "normalized": 4.9718
+    },
+    "score": 4.2568
+  },
+  "polish_title": "47 roninów",
+  "silent": false,
+  "description_pl": "Film oparty na legendarnej historii 47 roninów z początku XVIII wieku.  Grupa samurajów przez rok planowała zemstę za śmierć swojego pana na urzędniku sądowym. Winni morderstwa, zgodnie z kodeksem bushido, popełnili grupowe seppuku. Do dziś uważani są za bohaterów narodowych, symbol walki o sprawiedliwość nawet za cenę życia.",
+  "producers": [
+    {
+      "id": "nm0008330",
+      "name": "Pamela Abdy"
+    },
+    {
+      "id": "nm1308622",
+      "name": "Chris Fenton"
+    },
+    {
+      "id": "nm1023578",
+      "name": "Walter Hamada"
+    },
+    {
+      "id": "nm0572805",
+      "name": "Eric McLeod"
+    },
+    {
+      "id": "nm0831098",
+      "name": "Erwin Stoff"
+    },
+    {
+      "id": "nm0835959",
+      "name": "Scott Stuber"
+    },
+    {
+      "id": "nm8007818",
+      "name": "Michael Maker"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm1011065",
+      "name": "Ilan Eshkeri"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0558822",
+      "name": "John Mathieson"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

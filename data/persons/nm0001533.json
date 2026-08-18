@@ -1,0 +1,49 @@
+{
+  "id": "nm0001533",
+  "name": "Meat Loaf",
+  "filmography": [
+    {
+      "imdb_id": "tt0098327",
+      "title": "The Seventh Continent",
+      "year": 1989,
+      "roles": [
+        "cast"
+      ],
+      "character": "Self"
+    },
+    {
+      "imdb_id": "tt0137523",
+      "title": "Fight Club",
+      "year": 1999,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Robert Paulsen"
+    },
+    {
+      "imdb_id": "tt0383222",
+      "title": "BloodRayne",
+      "year": 2005,
+      "roles": [
+        "cast"
+      ],
+      "character": "Leonid"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTIzNTQ4MjYyOV5BMl5BanBnXkFtZTcwNzgwNTEzMg@@._V1_.jpg",
+  "birth_date": "27.09.1947",
+  "death_date": "20.01.2022",
+  "birth_location": "Dallas, Texas, USA",
+  "height": "1.83 m",
+  "filmweb_id": 2654,
+  "name_pl": "Meat Loaf",
+  "birth_location_pl": "Dallas, Teksas",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 2654
+}

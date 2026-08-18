@@ -1,0 +1,41 @@
+{
+  "id": "nm0921459",
+  "name": "Oskar Werner",
+  "filmography": [
+    {
+      "imdb_id": "tt0055032",
+      "title": "Jules and Jim",
+      "year": 1962,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Jules"
+    },
+    {
+      "imdb_id": "tt0060390",
+      "title": "Fahrenheit 451",
+      "year": 1966,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Guy Montag"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZDY1MGIzMzctNWNlZS00ZWFjLWFkN2QtZmVkMzg5NmRiZjUwXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "13.11.1922",
+  "death_date": "23.10.1984",
+  "birth_location": "Vienna, Austria",
+  "height": "1.75 m",
+  "imdb_scraped": true,
+  "filmweb_id": 31663,
+  "name_pl": "Oskar Werner",
+  "birth_location_pl": "Wiedeń",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Austria"
+  ],
+  "wikidata_fw_id": 31663
+}

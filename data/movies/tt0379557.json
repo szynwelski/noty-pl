@@ -1,0 +1,173 @@
+{
+  "imdb_id": "tt0379557",
+  "title": "Touching the Void",
+  "description": "The true story of two climbers and their perilous journey up the west face of Siula Grande in the Peruvian Andes in 1985.",
+  "runtime_minutes": 106,
+  "release_date": "12.03.2004",
+  "genres": [
+    "Documentary",
+    "Adventure",
+    "Drama",
+    "Sport"
+  ],
+  "stars": [
+    {
+      "id": "nm0946824",
+      "name": "Simon Yates"
+    },
+    {
+      "id": "nm1440698",
+      "name": "Joe Simpson"
+    },
+    {
+      "id": "nm1035692",
+      "name": "Brendan Mackey"
+    },
+    {
+      "id": "nm1056790",
+      "name": "Nicholas Aaron"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0531817",
+      "name": "Kevin Macdonald"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1440698",
+      "name": "Joe Simpson"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0946824",
+      "name": "Simon Yates",
+      "character": "Self"
+    },
+    {
+      "id": "nm1440698",
+      "name": "Joe Simpson",
+      "character": "Self"
+    },
+    {
+      "id": "nm1035692",
+      "name": "Brendan Mackey",
+      "character": "Joe Simpson"
+    },
+    {
+      "id": "nm1056790",
+      "name": "Nicholas Aaron",
+      "character": "Simon Yates"
+    },
+    {
+      "id": "nm1501209",
+      "name": "Richard Hawking",
+      "character": "Self"
+    },
+    {
+      "id": "nm1586933",
+      "name": "Ollie Ryall",
+      "character": "Richard Hawking"
+    }
+  ],
+  "countries": [
+    "United Kingdom",
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 108123,
+  "year": 2003,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjExMzQ1NzMxOV5BMl5BanBnXkFtZTcwOTcyMDUyMQ@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.9,
+      "votes": 39947,
+      "distribution": {
+        "1": 233,
+        "2": 100,
+        "3": 126,
+        "4": 229,
+        "5": 624,
+        "6": 2155,
+        "7": 7219,
+        "8": 14760,
+        "9": 8639,
+        "10": 5862
+      },
+      "normalized": 7.1405
+    },
+    "filmweb": {
+      "rating": 7.84,
+      "votes": 27602,
+      "distribution": {
+        "1": 107,
+        "2": 49,
+        "3": 110,
+        "4": 204,
+        "5": 574,
+        "6": 1863,
+        "7": 6254,
+        "8": 10885,
+        "9": 5499,
+        "10": 2057
+      },
+      "normalized": 7.8056
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "16.02.2011",
+      "normalized": 6.3474
+    },
+    "score": 7.0978
+  },
+  "polish_title": "Czekając na Joe",
+  "silent": false,
+  "description_pl": "Wydarzenia przedstawione w dokumencie zdobywcy Oskara za \"One Day in September\" <a href=\"/osoba/?id=nm0531817\">Kevina Macdonalda</a> rozegrały się w roku 1985, a jego bohaterowie byli wówczas młodymi, sprawnymi, świetnie wyszkolonymi alpinistami. Joe Simpson i Simon Yates wyruszają w góry, aby zdobyć szczyt Siula Grande w peruwiańskich Andach od ściany zachodniej. Do tej pory ta sztuka nie udała się nikomu. Pierwsze trzy dni wyprawy przebiegają zgodnie z planem, jednak w końcu zdarza się wypadek. Joe Simpson upada i łamie sobie kilka kości w nodze. Bez szans na jakąkolwiek pomoc, obaj śmiałkowie postanawiają kontynuować wspinaczkę z Joe Simpsonem zawieszonym na linie. Każdy fałszywy ruch może się okazać dla nich śmiertelny.",
+  "producers": [
+    {
+      "id": "nm1134526",
+      "name": "Charles Furneaux"
+    },
+    {
+      "id": "nm0349168",
+      "name": "Robin Gutch"
+    },
+    {
+      "id": "nm0550561",
+      "name": "Gina Marsh"
+    },
+    {
+      "id": "nm0810478",
+      "name": "John Smithson"
+    },
+    {
+      "id": "nm0816365",
+      "name": "Paul Sowerbutts"
+    },
+    {
+      "id": "nm1628571",
+      "name": "Sue Summers"
+    },
+    {
+      "id": "nm0872799",
+      "name": "Paul Trijbits"
+    },
+    {
+      "id": "nm0916986",
+      "name": "Paul Webster"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0373588",
+      "name": "Alex Heffes"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

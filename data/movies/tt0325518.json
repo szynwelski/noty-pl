@@ -1,0 +1,98 @@
+{
+  "imdb_id": "tt0325518",
+  "title": "Hadj Cheriff",
+  "description": "Hadj Cheriff, a performer known for a variety of unusual abilities, demonstrates part of his act in the Edison studio.",
+  "runtime_minutes": 1,
+  "release_date": "06.10.1894",
+  "genres": [
+    "Short",
+    "Comedy"
+  ],
+  "stars": [
+    {
+      "id": "nm0155823",
+      "name": "Hadj Cheriff"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0005690",
+      "name": "William K.L. Dickson"
+    },
+    {
+      "id": "nm0374658",
+      "name": "William Heise"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0155823",
+      "name": "Hadj Cheriff",
+      "character": "Self"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 271148,
+  "year": 1894,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYjM0YzBlMGEtZjM4NS00OGNmLWEyOGMtMzEzZjZjZmQ5ODMwXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5,
+      "votes": 616,
+      "distribution": {
+        "1": 39,
+        "2": 35,
+        "3": 41,
+        "4": 89,
+        "5": 199,
+        "6": 110,
+        "7": 50,
+        "8": 17,
+        "9": 10,
+        "10": 26
+      },
+      "normalized": 3.8358
+    },
+    "filmweb": {
+      "rating": 4.03,
+      "votes": 76,
+      "distribution": {
+        "1": 9,
+        "2": 11,
+        "3": 15,
+        "4": 9,
+        "5": 17,
+        "6": 5,
+        "7": 4,
+        "8": 4,
+        "9": 1,
+        "10": 1
+      },
+      "normalized": 4.1504
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "11.12.2016",
+      "normalized": 6.4102
+    },
+    "score": 4.7988
+  },
+  "polish_title": "Hadj Cheriff",
+  "silent": true,
+  "description_pl": "Hadj Cheriff &#8211; wykonawca znany z różnych niezwykłych umiejętności, demonstruje część swojego talentu w Studiu Edisona. Na początku trzyma w ręce ogromny nóż. W końcu ciska nim w dal i zaczyna z niespodziewanie tańczyć.",
+  "cinematographers": [
+    {
+      "id": "nm0374658",
+      "name": "William Heise"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

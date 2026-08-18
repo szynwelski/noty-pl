@@ -1,0 +1,60 @@
+{
+  "id": "nm1242688",
+  "name": "Josh Hutcherson",
+  "filmography": [
+    {
+      "imdb_id": "tt0412922",
+      "title": "Little Manhattan",
+      "year": 2005,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Gabe"
+    },
+    {
+      "imdb_id": "tt0450405",
+      "title": "Cirque du Freak: The Vampire's Assistant",
+      "year": 2009,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Steve"
+    },
+    {
+      "imdb_id": "tt1392170",
+      "title": "The Hunger Games",
+      "year": 2012,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Peeta Mellark"
+    },
+    {
+      "imdb_id": "tt1951264",
+      "title": "The Hunger Games: Catching Fire",
+      "year": 2013,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Peeta Mellark"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYzRjMjU3NjUtOTc3Zi00M2I5LThmZWEtZGUwZTA0Njc4Mzk2XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "12.10.1992",
+  "birth_location": "Union, Kentucky, USA",
+  "height": "1.65 m",
+  "filmweb_id": 110163,
+  "name_pl": "Josh Hutcherson",
+  "birth_location_pl": "Union, Kentucky",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 110163
+}

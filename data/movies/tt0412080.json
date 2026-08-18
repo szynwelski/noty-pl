@@ -1,0 +1,247 @@
+{
+  "imdb_id": "tt0412080",
+  "title": "The World's Fastest Indian",
+  "description": "The story of New Zealander Burt Munro, who spent years rebuilding a 1920 Indian motorcycle, which helped him set the land speed world record at Utah's Bonneville Salt Flats in 1967.",
+  "runtime_minutes": 127,
+  "release_date": "24.03.2006",
+  "genres": [
+    "Biography",
+    "Drama",
+    "Sport"
+  ],
+  "stars": [
+    {
+      "id": "nm0000164",
+      "name": "Anthony Hopkins"
+    },
+    {
+      "id": "nm0002663",
+      "name": "Diane Ladd"
+    },
+    {
+      "id": "nm0713747",
+      "name": "Iain Rea"
+    },
+    {
+      "id": "nm1705720",
+      "name": "Tessa Mitchell"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0002044",
+      "name": "Roger Donaldson"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0002044",
+      "name": "Roger Donaldson"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000164",
+      "name": "Anthony Hopkins",
+      "character": "Burt Munro"
+    },
+    {
+      "id": "nm0002663",
+      "name": "Diane Ladd",
+      "character": "Ada"
+    },
+    {
+      "id": "nm0713747",
+      "name": "Iain Rea",
+      "character": "George"
+    },
+    {
+      "id": "nm1705720",
+      "name": "Tessa Mitchell",
+      "character": "Sarah"
+    },
+    {
+      "id": "nm1002329",
+      "name": "Aaron Murphy",
+      "character": "Tom"
+    },
+    {
+      "id": "nm0787163",
+      "name": "Tim Shadbolt",
+      "character": "Frank"
+    },
+    {
+      "id": "nm0926558",
+      "name": "Annie Whittle",
+      "character": "Fran"
+    },
+    {
+      "id": "nm0425168",
+      "name": "Greg Johnson",
+      "character": "Duncan"
+    },
+    {
+      "id": "nm1102278",
+      "name": "Antony Starr",
+      "character": "Jeff"
+    },
+    {
+      "id": "nm1497860",
+      "name": "Kate Sullivan",
+      "character": "Doris"
+    },
+    {
+      "id": "nm0355440",
+      "name": "Craig Hall",
+      "character": "Antarctic Angel"
+    },
+    {
+      "id": "nm1943918",
+      "name": "Jim Bowman",
+      "character": "Cook"
+    },
+    {
+      "id": "nm0115410",
+      "name": "Alison Bruce",
+      "character": "Doctor"
+    },
+    {
+      "id": "nm0266020",
+      "name": "Phoebe Falconer",
+      "character": "Janice Springfield"
+    },
+    {
+      "id": "nm1143535",
+      "name": "Charles Pierard",
+      "character": "Bank Manager"
+    },
+    {
+      "id": "nm2368244",
+      "name": "Barry Ryan",
+      "character": "Burt's Neighbour"
+    },
+    {
+      "id": "nm1938290",
+      "name": "Bill Richardson",
+      "character": "Burt's Neighbour"
+    },
+    {
+      "id": "nm0741581",
+      "name": "Mick Rose",
+      "character": "Brian"
+    }
+  ],
+  "countries": [
+    "New Zealand",
+    "Japan",
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 124079,
+  "year": 2005,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BN2IwYTI1MzMtYWYzMC00Y2I5LWJlODUtMTQwMTYwNjY4MTg3XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.7,
+      "votes": 64447,
+      "distribution": {
+        "1": 377,
+        "2": 160,
+        "3": 226,
+        "4": 449,
+        "5": 1395,
+        "6": 4527,
+        "7": 14020,
+        "8": 22092,
+        "9": 11241,
+        "10": 9960
+      },
+      "normalized": 6.7701
+    },
+    "filmweb": {
+      "rating": 7.75,
+      "votes": 45591,
+      "distribution": {
+        "1": 262,
+        "2": 89,
+        "3": 181,
+        "4": 397,
+        "5": 1144,
+        "6": 3651,
+        "7": 11311,
+        "8": 16922,
+        "9": 7764,
+        "10": 3870
+      },
+      "normalized": 7.4935
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "30.12.2011",
+      "normalized": 5.4199
+    },
+    "score": 6.5612
+  },
+  "polish_title": "Prawdziwa historia",
+  "silent": false,
+  "description_pl": "Opowieść o życiu nowozelandzkiego konstruktora Burta Munro (Hopkins), budowniczego motocykla Indian na którym w latach 70-tych podczas wyścigów Bonneville Salt Flats, rozgrywanych w stanie Utah w USA udało się pobić ówczesny rekord prędkości.",
+  "producers": [
+    {
+      "id": "nm0002044",
+      "name": "Roger Donaldson"
+    },
+    {
+      "id": "nm0290264",
+      "name": "Murray Francis"
+    },
+    {
+      "id": "nm2016058",
+      "name": "Megumi Fukasawa"
+    },
+    {
+      "id": "nm0360274",
+      "name": "Charles Hannah"
+    },
+    {
+      "id": "nm0360322",
+      "name": "Gary Hannam"
+    },
+    {
+      "id": "nm2018920",
+      "name": "Masaharu Inaba"
+    },
+    {
+      "id": "nm0410785",
+      "name": "Satoru Iseki"
+    },
+    {
+      "id": "nm0006830",
+      "name": "John J. Kelly"
+    },
+    {
+      "id": "nm0651614",
+      "name": "Barrie M. Osborne"
+    },
+    {
+      "id": "nm0769913",
+      "name": "Don Schain"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006254",
+      "name": "J. Peter Robinson"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0340797",
+      "name": "David Gribble"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

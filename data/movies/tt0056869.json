@@ -1,0 +1,209 @@
+{
+  "imdb_id": "tt0056869",
+  "title": "The Birds",
+  "description": "A wealthy San Francisco socialite pursues a potential boyfriend to a small Northern California town that slowly takes a turn for the bizarre when birds of all kinds suddenly begin to attack people.",
+  "runtime_minutes": 119,
+  "release_date": "29.03.1963",
+  "genres": [
+    "Drama",
+    "Horror",
+    "Mystery",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0001792",
+      "name": "Rod Taylor"
+    },
+    {
+      "id": "nm0001335",
+      "name": "Tippi Hedren"
+    },
+    {
+      "id": "nm0001788",
+      "name": "Jessica Tandy"
+    },
+    {
+      "id": "nm0687189",
+      "name": "Suzanne Pleshette"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000033",
+      "name": "Alfred Hitchcock"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0238898",
+      "name": "Daphne Du Maurier"
+    },
+    {
+      "id": "nm0402805",
+      "name": "Evan Hunter"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0001792",
+      "name": "Rod Taylor",
+      "character": "Mitch Brenner"
+    },
+    {
+      "id": "nm0001335",
+      "name": "Tippi Hedren",
+      "character": "Melanie Daniels"
+    },
+    {
+      "id": "nm0001788",
+      "name": "Jessica Tandy",
+      "character": "Lydia Brenner"
+    },
+    {
+      "id": "nm0687189",
+      "name": "Suzanne Pleshette",
+      "character": "Annie Hayworth"
+    },
+    {
+      "id": "nm0001021",
+      "name": "Veronica Cartwright",
+      "character": "Cathy Brenner"
+    },
+    {
+      "id": "nm0341100",
+      "name": "Ethel Griffies",
+      "character": "Mrs. Bundy"
+    },
+    {
+      "id": "nm0569902",
+      "name": "Charles McGraw",
+      "character": "Sebastian Sholes"
+    },
+    {
+      "id": "nm0567599",
+      "name": "Ruth McDevitt",
+      "character": "Mrs. MacGruder"
+    },
+    {
+      "id": "nm0152452",
+      "name": "Lonny Chapman",
+      "character": "Deke Carter"
+    },
+    {
+      "id": "nm0544064",
+      "name": "Joe Mantell",
+      "character": "Traveling Salesman at Diner's Bar"
+    },
+    {
+      "id": "nm0915845",
+      "name": "Doodles Weaver",
+      "character": "Fisherman Helping with Rental Boat"
+    },
+    {
+      "id": "nm0041021",
+      "name": "Malcolm Atterbury",
+      "character": "Deputy Al Malone"
+    },
+    {
+      "id": "nm0569569",
+      "name": "John McGovern",
+      "character": "Postal Clerk"
+    },
+    {
+      "id": "nm0842425",
+      "name": "Karl Swenson",
+      "character": "Drunken Doomsayer in Diner"
+    },
+    {
+      "id": "nm0212586",
+      "name": "Richard Deacon",
+      "character": "Mitch's City Neighbor"
+    },
+    {
+      "id": "nm0933361",
+      "name": "Elizabeth Wilson",
+      "character": "Helen Carter"
+    },
+    {
+      "id": "nm0703767",
+      "name": "Bill Quinn",
+      "character": "Sam"
+    },
+    {
+      "id": "nm0485729",
+      "name": "Doreen Lang",
+      "character": "Hysterical Mother in Diner"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Latin"
+  ],
+  "color": "Color",
+  "filmweb_id": 1320,
+  "year": 1963,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTAxNDA1ODc5MDleQTJeQWpwZ15BbWU4MDg2MDA4OTEx._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.6,
+      "votes": 221591,
+      "distribution": {
+        "1": 1510,
+        "2": 1040,
+        "3": 1695,
+        "4": 3388,
+        "5": 8219,
+        "6": 22328,
+        "7": 54814,
+        "8": 70242,
+        "9": 32825,
+        "10": 25530
+      },
+      "normalized": 6.6322
+    },
+    "filmweb": {
+      "rating": 7.45,
+      "votes": 94908,
+      "distribution": {
+        "1": 508,
+        "2": 443,
+        "3": 1070,
+        "4": 1915,
+        "5": 4543,
+        "6": 10428,
+        "7": 25449,
+        "8": 30743,
+        "9": 12619,
+        "10": 7190
+      },
+      "normalized": 6.6071
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "02.12.2005",
+      "normalized": 6.4102
+    },
+    "michal": {
+      "rating": 8,
+      "date_rated": "19.10.2005",
+      "normalized": 8.1116
+    },
+    "score": 6.9403
+  },
+  "polish_title": "Ptaki",
+  "silent": false,
+  "description_pl": "Niewielkie nadmorskie miasteczko Bodega Bay zostaje zaatakowane przez niesłychanie agresywne ptaki. Początkowe sporadyczne przypadki zamieniają się szybko w prawdziwą inwazję. Przerażeni mieszkańcy desperacko walczą o życie, a ogólnej panice towarzyszą próby opanowania sytuacji... \"Ptaki\" to jeden z najlepszych i najważniejszych thrillerów w historii kina. Mimo upływu lat film nic nie stracił na swej atrakcyjności.",
+  "cinematographers": [
+    {
+      "id": "nm0122079",
+      "name": "Robert Burks"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

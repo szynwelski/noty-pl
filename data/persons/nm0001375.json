@@ -1,0 +1,41 @@
+{
+  "id": "nm0001375",
+  "name": "Kim Hunter",
+  "filmography": [
+    {
+      "imdb_id": "tt0044081",
+      "title": "A Streetcar Named Desire",
+      "year": 1951,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Stella"
+    },
+    {
+      "imdb_id": "tt0063442",
+      "title": "Planet of the Apes",
+      "year": 1968,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Zira"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjU3NzI3NjM0Ml5BMl5BanBnXkFtZTcwNjIxMjcxOA@@._V1_.jpg",
+  "birth_date": "12.11.1922",
+  "death_date": "11.09.2002",
+  "birth_location": "Detroit, Michigan, USA",
+  "height": "1.61 m",
+  "imdb_scraped": true,
+  "filmweb_id": 4040,
+  "name_pl": "Kim Hunter",
+  "birth_location_pl": "Detroit, Michigan",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 4040
+}

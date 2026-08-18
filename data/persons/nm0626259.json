@@ -1,0 +1,48 @@
+{
+  "id": "nm0626259",
+  "name": "Franco Nero",
+  "filmography": [
+    {
+      "imdb_id": "tt0066491",
+      "title": "Tristana",
+      "year": 1970,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Horacio"
+    },
+    {
+      "imdb_id": "tt0099423",
+      "title": "Die Hard 2",
+      "year": 1990,
+      "roles": [
+        "cast"
+      ],
+      "character": "Esperanza"
+    },
+    {
+      "imdb_id": "tt4425200",
+      "title": "John Wick: Chapter 2",
+      "year": 2017,
+      "roles": [
+        "cast"
+      ],
+      "character": "Julius"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYThiY2I5ZWQtYmM5Ni00OGRlLTk3NDYtYWZiOWIzOTUwMzVjXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "23.11.1941",
+  "birth_location": "San Prospero Parmense, Emilia-Romagna, Italy",
+  "height": "1.80 m",
+  "filmweb_id": 9243,
+  "name_pl": "Franco Nero",
+  "birth_location_pl": "San Prospero",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Włochy"
+  ],
+  "wikidata_fw_id": 9243
+}

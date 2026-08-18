@@ -1,0 +1,115 @@
+{
+  "imdb_id": "tt0000091",
+  "title": "The House of the Devil",
+  "description": "With the help of a magic cauldron, Mephistopheles conjures up a variety of supernatural characters.",
+  "runtime_minutes": 3,
+  "release_date": "25.12.1896",
+  "genres": [
+    "Short",
+    "Horror"
+  ],
+  "stars": [
+    {
+      "id": "nm0194945",
+      "name": "Jehanne d'Alcy"
+    },
+    {
+      "id": "nm6170115",
+      "name": "Jules-Eugène Legris"
+    },
+    {
+      "id": "nm0617588",
+      "name": "Georges Méliès"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0617588",
+      "name": "Georges Méliès"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0617588",
+      "name": "Georges Méliès"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0194945",
+      "name": "Jehanne d'Alcy",
+      "character": "Young woman"
+    },
+    {
+      "id": "nm6170115",
+      "name": "Jules-Eugène Legris",
+      "character": "Mephistopheles"
+    },
+    {
+      "id": "nm0617588",
+      "name": "Georges Méliès",
+      "character": "Mephistopheles"
+    }
+  ],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 96472,
+  "year": 1896,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMmQ0ZGQ4MzEtMzRiMi00NDExLWE4MjQtNmFmZTEwZTA5Yjk0XkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Le manoir du diable",
+  "ratings": {
+    "imdb": {
+      "rating": 6.7,
+      "votes": 4671,
+      "distribution": {
+        "1": 53,
+        "2": 46,
+        "3": 85,
+        "4": 158,
+        "5": 513,
+        "6": 1121,
+        "7": 1421,
+        "8": 675,
+        "9": 229,
+        "10": 370
+      },
+      "normalized": 4.9872
+    },
+    "filmweb": {
+      "rating": 6.4,
+      "votes": 2023,
+      "distribution": {
+        "1": 23,
+        "2": 19,
+        "3": 47,
+        "4": 100,
+        "5": 267,
+        "6": 564,
+        "7": 620,
+        "8": 241,
+        "9": 71,
+        "10": 71
+      },
+      "normalized": 4.2629
+    },
+    "jarek": {
+      "rating": 9,
+      "date_rated": "11.12.2016",
+      "normalized": 8.8973
+    },
+    "score": 6.0491
+  },
+  "polish_title": "Rezydencja diabła",
+  "silent": true,
+  "description_pl": "Krótkometrażowy horror autorstwa <a href=\"/osoba/?id=nm0617588\">Georgesa Méliésa</a>.\n Nietoperz wlatuje do starożytnego zamku i tam przekształca się w Mefistofelesa. Z kotła wyczarowuje młodą kobietę i różne nadprzyrodzone stworzenia.",
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-15"
+}

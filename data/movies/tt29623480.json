@@ -1,0 +1,228 @@
+{
+  "imdb_id": "tt29623480",
+  "title": "The Wild Robot",
+  "description": "A sentient robot stranded on an uninhabited island raises an orphaned gosling while trying to fit in with the local wildlife.",
+  "runtime_minutes": 102,
+  "release_date": "27.09.2024",
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Family",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm2143282",
+      "name": "Lupita Nyong'o"
+    },
+    {
+      "id": "nm0050959",
+      "name": "Pedro Pascal"
+    },
+    {
+      "id": "nm5598573",
+      "name": "Kit Connor"
+    },
+    {
+      "id": "nm0631490",
+      "name": "Bill Nighy"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0761498",
+      "name": "Chris Sanders"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0761498",
+      "name": "Chris Sanders"
+    },
+    {
+      "id": "nm2464094",
+      "name": "Peter Brown"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm2143282",
+      "name": "Lupita Nyong'o",
+      "character": "Roz"
+    },
+    {
+      "id": "nm0050959",
+      "name": "Pedro Pascal",
+      "character": "Fink"
+    },
+    {
+      "id": "nm5598573",
+      "name": "Kit Connor",
+      "character": "Brightbill"
+    },
+    {
+      "id": "nm0631490",
+      "name": "Bill Nighy",
+      "character": "Longneck"
+    },
+    {
+      "id": "nm3513533",
+      "name": "Stephanie Hsu",
+      "character": "Vontra"
+    },
+    {
+      "id": "nm1546196",
+      "name": "Matt Berry",
+      "character": "Paddler"
+    },
+    {
+      "id": "nm0000609",
+      "name": "Ving Rhames",
+      "character": "Thunderbolt"
+    },
+    {
+      "id": "nm0000434",
+      "name": "Mark Hamill",
+      "character": "Thorn"
+    },
+    {
+      "id": "nm0001573",
+      "name": "Catherine O'Hara",
+      "character": "Pinktail"
+    },
+    {
+      "id": "nm16372344",
+      "name": "Boone Storm",
+      "character": "Baby Brightbill"
+    },
+    {
+      "id": "nm5647301",
+      "name": "Alexandra Novelle",
+      "character": "Snowdown"
+    },
+    {
+      "id": "nm6004682",
+      "name": "Raphael Alejandro",
+      "character": "Peck"
+    },
+    {
+      "id": "nm7462382",
+      "name": "Paul-Mikél Williams",
+      "character": "Feather"
+    },
+    {
+      "id": "nm8561809",
+      "name": "Eddie Park",
+      "character": "Honkington"
+    },
+    {
+      "id": "nm0048389",
+      "name": "Dee Bradley Baker",
+      "character": "Raccoons"
+    },
+    {
+      "id": "nm0858378",
+      "name": "Randy Thom",
+      "character": "RECOs"
+    },
+    {
+      "id": "nm1698708",
+      "name": "Avrielle Corti",
+      "character": "Automated Alarms"
+    },
+    {
+      "id": "nm1929609",
+      "name": "Keston John",
+      "character": "Weasel 1"
+    }
+  ],
+  "countries": [
+    "United States",
+    "Japan"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Spanish",
+    "Swahili",
+    "Japanese"
+  ],
+  "color": null,
+  "filmweb_id": 10049429,
+  "year": 2024,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZWNiZjVlZTUtNGUwYi00MjJmLTg2MDctNWEzYTJiMzY1ODc4XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8.1,
+      "votes": 234343,
+      "distribution": {
+        "1": 1247,
+        "2": 484,
+        "3": 731,
+        "4": 1378,
+        "5": 3648,
+        "6": 11291,
+        "7": 35031,
+        "8": 67869,
+        "9": 56130,
+        "10": 56534
+      },
+      "normalized": 7.7516
+    },
+    "filmweb": {
+      "rating": 8.06,
+      "votes": 34103,
+      "distribution": {
+        "1": 48,
+        "2": 24,
+        "3": 89,
+        "4": 187,
+        "5": 569,
+        "6": 1980,
+        "7": 6673,
+        "8": 12374,
+        "9": 8179,
+        "10": 3980
+      },
+      "normalized": 8.4877
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "11.11.2024",
+      "normalized": 6.3474
+    },
+    "score": 7.5289
+  },
+  "polish_title": "Dziki robot",
+  "silent": false,
+  "description_pl": "Historia robota Rozzum, w skrócie \"Roz\" - który rozbija się na niezamieszkanej wyspie i musi się przystosować do surowego otoczenia. Stopniowo uczy się, jak przetrwać, buduje relacje ze zwierzętami, a nawet zostaje przybranym rodzicem osieroconego pisklęcia.",
+  "producers": [
+    {
+      "id": "nm0213450",
+      "name": "Dean DeBlois"
+    },
+    {
+      "id": "nm1915863",
+      "name": "Jeff Hermann"
+    },
+    {
+      "id": "nm1555885",
+      "name": "Heather Lanza"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm3929283",
+      "name": "Kris Bowers"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm1960598",
+      "name": "Chris Stover"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

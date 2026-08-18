@@ -1,0 +1,174 @@
+{
+  "imdb_id": "tt0015863",
+  "title": "Go West",
+  "description": "With little luck at keeping a job in the city a New Yorker tries work in the country and eventually finds his way leading a herd of cattle to the West Coast.",
+  "runtime_minutes": 83,
+  "release_date": "01.11.1925",
+  "genres": [
+    "Comedy",
+    "Western"
+  ],
+  "stars": [
+    {
+      "id": "nm0000036",
+      "name": "Buster Keaton"
+    },
+    {
+      "id": "nm0874124",
+      "name": "Howard Truesdale"
+    },
+    {
+      "id": "nm0616762",
+      "name": "Kathleen Myers"
+    },
+    {
+      "id": "nm0860617",
+      "name": "Ray Thompson"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000036",
+      "name": "Buster Keaton"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000036",
+      "name": "Buster Keaton"
+    },
+    {
+      "id": "nm0623640",
+      "name": "Lex Neal"
+    },
+    {
+      "id": "nm0134252",
+      "name": "Raymond Cannon"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000036",
+      "name": "Buster Keaton",
+      "character": "Friendless"
+    },
+    {
+      "id": "nm0874124",
+      "name": "Howard Truesdale",
+      "character": "Owner of the Diamond Bar Ranch"
+    },
+    {
+      "id": "nm0616762",
+      "name": "Kathleen Myers",
+      "character": "His Daughter"
+    },
+    {
+      "id": "nm0860617",
+      "name": "Ray Thompson",
+      "character": "The Foreman"
+    },
+    {
+      "id": "nm0264146",
+      "name": "Brown Eyes",
+      "character": "Brown Eyes the Cow"
+    },
+    {
+      "id": "nm0000779",
+      "name": "Roscoe 'Fatty' Arbuckle",
+      "character": "Woman in Department Store"
+    },
+    {
+      "id": "nm0444172",
+      "name": "Joe Keaton",
+      "character": "Man in Barber Shop"
+    },
+    {
+      "id": "nm0502631",
+      "name": "Gus Leonard",
+      "character": "General Store Owner"
+    },
+    {
+      "id": "nm0518673",
+      "name": "Babe London",
+      "character": "Woman in Department Store"
+    },
+    {
+      "id": "nm0777127",
+      "name": "Abraham Schwartz",
+      "character": "Street peddler"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "None",
+    "English"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 91337,
+  "year": 1925,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTc4Nzk4NTYtOTQ1MC00NDhhLWJjYWItMGFkMWM1OGM4MzI2XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.1,
+      "votes": 5680,
+      "distribution": {
+        "1": 44,
+        "2": 39,
+        "3": 64,
+        "4": 128,
+        "5": 308,
+        "6": 869,
+        "7": 1978,
+        "8": 1376,
+        "9": 456,
+        "10": 418
+      },
+      "normalized": 5.6666
+    },
+    "filmweb": {
+      "rating": 7.04,
+      "votes": 339,
+      "distribution": {
+        "2": 2,
+        "3": 4,
+        "4": 12,
+        "5": 21,
+        "6": 53,
+        "7": 131,
+        "8": 73,
+        "9": 33,
+        "10": 10
+      },
+      "normalized": 5.4289
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "04.11.2007",
+      "normalized": 5.4199
+    },
+    "score": 5.5051
+  },
+  "polish_title": "Na Zachód!",
+  "silent": true,
+  "description_pl": "Smutny (<a href=\"/osoba/?id=nm0000036\">Buster Keaton</a>) żyje w niewielkim miasteczku w Indianie, boryka się z trudnościami socjalnymi i pragnie poprawić swój trudny los. Zachęcony hasłem liberalnego polityka Horace'a Greeley'a: \"Na zachód, młody człowieku, na zachód\", decyduje się wyruszyć ku przygodzie na nieznane tereny zachodniej Ameryki. Dociera na wielkie ranczo bydła, gdzie zaprzyjaźnia się z... krową.",
+  "producers": [
+    {
+      "id": "nm0000036",
+      "name": "Buster Keaton"
+    },
+    {
+      "id": "nm0770852",
+      "name": "Joseph M. Schenck"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0253301",
+      "name": "Konrad Elfers"
+    }
+  ],
+  "fetched_at": "2026-08-15"
+}

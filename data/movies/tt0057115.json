@@ -1,0 +1,235 @@
+{
+  "imdb_id": "tt0057115",
+  "title": "The Great Escape",
+  "description": "Allied officers in a German POW camp during World War II make a daring plan for a mass escape.",
+  "runtime_minutes": 172,
+  "release_date": "04.07.1963",
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Thriller",
+    "War"
+  ],
+  "stars": [
+    {
+      "id": "nm0000537",
+      "name": "Steve McQueen"
+    },
+    {
+      "id": "nm0001258",
+      "name": "James Garner"
+    },
+    {
+      "id": "nm0000277",
+      "name": "Richard Attenborough"
+    },
+    {
+      "id": "nm0000314",
+      "name": "Charles Bronson"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0836328",
+      "name": "John Sturges"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0108595",
+      "name": "Paul Brickhill"
+    },
+    {
+      "id": "nm0165412",
+      "name": "James Clavell"
+    },
+    {
+      "id": "nm0122446",
+      "name": "W.R. Burnett"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000537",
+      "name": "Steve McQueen",
+      "character": "Hilts 'The Cooler King'"
+    },
+    {
+      "id": "nm0001258",
+      "name": "James Garner",
+      "character": "Hendley 'The Scrounger'"
+    },
+    {
+      "id": "nm0000277",
+      "name": "Richard Attenborough",
+      "character": "Bartlett 'Big X'"
+    },
+    {
+      "id": "nm0232019",
+      "name": "James Donald",
+      "character": "Ramsey 'The SBO'"
+    },
+    {
+      "id": "nm0000314",
+      "name": "Charles Bronson",
+      "character": "Danny 'Tunnel King'"
+    },
+    {
+      "id": "nm0000587",
+      "name": "Donald Pleasence",
+      "character": "Blythe 'The Forger'"
+    },
+    {
+      "id": "nm0000336",
+      "name": "James Coburn",
+      "character": "Sedgwick 'Manufacturer'"
+    },
+    {
+      "id": "nm0582019",
+      "name": "Hannes Messemer",
+      "character": "Von Luger 'The Kommandant'"
+    },
+    {
+      "id": "nm0564724",
+      "name": "David McCallum",
+      "character": "Ashley-Pitt 'Dispersal'"
+    },
+    {
+      "id": "nm0413561",
+      "name": "Gordon Jackson",
+      "character": "MacDonald 'Intelligence'"
+    },
+    {
+      "id": "nm0508105",
+      "name": "John Leyton",
+      "character": "Willie 'Tunnel King'"
+    },
+    {
+      "id": "nm0502007",
+      "name": "Angus Lennie",
+      "character": "Ives 'The Mole'"
+    },
+    {
+      "id": "nm0830740",
+      "name": "Nigel Stock",
+      "character": "Cavendish 'The Surveyor'"
+    },
+    {
+      "id": "nm0333746",
+      "name": "Robert Graf",
+      "character": "Werner 'The Ferret'"
+    },
+    {
+      "id": "nm0852676",
+      "name": "Jud Taylor",
+      "character": "Goff"
+    },
+    {
+      "id": "nm0718422",
+      "name": "Hans Reiser",
+      "character": "Herr Kuhn"
+    },
+    {
+      "id": "nm0726043",
+      "name": "Harry Riebauer",
+      "character": "Strachwitz"
+    },
+    {
+      "id": "nm0257920",
+      "name": "William Russell",
+      "character": "Sorren"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Russian",
+    "Spanish"
+  ],
+  "color": "Color",
+  "filmweb_id": 11669,
+  "year": 1963,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDRhNmJjMzEtMWU5MC00YmEyLTg3ZmYtNzYxZTI1ZGU4ZjI1XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8.2,
+      "votes": 279302,
+      "distribution": {
+        "1": 2831,
+        "2": 838,
+        "3": 1318,
+        "4": 1755,
+        "5": 4601,
+        "6": 13243,
+        "7": 44632,
+        "8": 92234,
+        "9": 67404,
+        "10": 50446
+      },
+      "normalized": 8.0398
+    },
+    "filmweb": {
+      "rating": 7.81,
+      "votes": 30479,
+      "distribution": {
+        "1": 132,
+        "2": 70,
+        "3": 137,
+        "4": 259,
+        "5": 720,
+        "6": 2119,
+        "7": 7313,
+        "8": 11638,
+        "9": 5164,
+        "10": 2927
+      },
+      "normalized": 7.7183
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "02.12.2005",
+      "normalized": 7.1247
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "14.09.2010",
+      "normalized": 6.3474
+    },
+    "score": 7.3075
+  },
+  "polish_title": "Wielka ucieczka",
+  "silent": false,
+  "description_pl": "II wojna światowa, Niemcy. Dowództwo Luftwaffe sprawujące pieczę nad zestrzelonymi pilotami sił alianckich postanawia zreorganizować swój system obozów jenieckich. Przenoszą wszystkich oficerów z rozsianych po kraju oflagów do jednego, nowoczesnego i najlepiej strzeżonego. Nie zdają sobie sprawy, że tym sposobem zbiorą prawie całą \"organizację X\" - stworzoną przez więzionych pilotów RAF-u, by przygotowywać ucieczki i chociażby w ten sposób nękać wroga. Brytyjczycy posiadając śmietankę swoich specjalistów od kopania tuneli, fałszowania, zaopatrzenia, a na krawiectwie kończąc postanawiają wyprowadzić ok. 200 ludzi.",
+  "producers": [
+    {
+      "id": "nm0836328",
+      "name": "John Sturges"
+    },
+    {
+      "id": "nm0165412",
+      "name": "James Clavell"
+    },
+    {
+      "id": "nm0592387",
+      "name": "Walter Mirisch"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0000930",
+      "name": "Elmer Bernstein"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005701",
+      "name": "Daniel L. Fapp"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

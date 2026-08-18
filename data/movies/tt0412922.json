@@ -1,0 +1,225 @@
+{
+  "imdb_id": "tt0412922",
+  "title": "Little Manhattan",
+  "description": "A 10-year-old boy and an 11-year-old girl find love in New York City.",
+  "runtime_minutes": 90,
+  "release_date": "05.01.2006",
+  "genres": [
+    "Comedy",
+    "Family",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm1242688",
+      "name": "Josh Hutcherson"
+    },
+    {
+      "id": "nm1659579",
+      "name": "Charlotte Ray Rosenberg"
+    },
+    {
+      "id": "nm0925966",
+      "name": "Bradley Whitford"
+    },
+    {
+      "id": "nm0633223",
+      "name": "Cynthia Nixon"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0505662",
+      "name": "Mark Levin"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0280814",
+      "name": "Jennifer Flackett"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1242688",
+      "name": "Josh Hutcherson",
+      "character": "Gabe"
+    },
+    {
+      "id": "nm1659579",
+      "name": "Charlotte Ray Rosenberg",
+      "character": "Rosemary"
+    },
+    {
+      "id": "nm0925966",
+      "name": "Bradley Whitford",
+      "character": "Adam"
+    },
+    {
+      "id": "nm0633223",
+      "name": "Cynthia Nixon",
+      "character": "Leslie"
+    },
+    {
+      "id": "nm0308606",
+      "name": "Willie Garson",
+      "character": "Ralph"
+    },
+    {
+      "id": "nm0665256",
+      "name": "Tonye Patano",
+      "character": "Birdie"
+    },
+    {
+      "id": "nm1573459",
+      "name": "J. Kyle Manzay",
+      "character": "Master Coles"
+    },
+    {
+      "id": "nm0656929",
+      "name": "Josh Pais",
+      "character": "Ronny"
+    },
+    {
+      "id": "nm0234440",
+      "name": "John Dossett",
+      "character": "Mickey Telesco"
+    },
+    {
+      "id": "nm0051104",
+      "name": "Talia Balsam",
+      "character": "Jackie Telesco"
+    },
+    {
+      "id": "nm0583664",
+      "name": "Jonah Meyerson",
+      "character": "Sam"
+    },
+    {
+      "id": "nm1999005",
+      "name": "Michael Bush",
+      "character": "Max"
+    },
+    {
+      "id": "nm2027363",
+      "name": "Brian W. Aguiar",
+      "character": "Jacob"
+    },
+    {
+      "id": "nm1194203",
+      "name": "Nick Cubbler",
+      "character": "Daryl Kitzens"
+    },
+    {
+      "id": "nm1778569",
+      "name": "Anthony Laflamme",
+      "character": "Tim Staples"
+    },
+    {
+      "id": "nm2025134",
+      "name": "Neil Jay Shastri",
+      "character": "David Betanahu"
+    },
+    {
+      "id": "nm2025318",
+      "name": "Leigha Nicoloro",
+      "character": "Mae-Li"
+    },
+    {
+      "id": "nm2029151",
+      "name": "Juliette Nicoloro",
+      "character": "Mae-Li"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 161903,
+  "year": 2005,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTg3NzEzNzE0N15BMl5BanBnXkFtZTcwNjMxMjEzMQ@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.4,
+      "votes": 26077,
+      "distribution": {
+        "1": 278,
+        "2": 123,
+        "3": 180,
+        "4": 335,
+        "5": 1024,
+        "6": 2735,
+        "7": 6341,
+        "8": 7143,
+        "9": 3422,
+        "10": 4496
+      },
+      "normalized": 6.2153
+    },
+    "filmweb": {
+      "rating": 6.92,
+      "votes": 7690,
+      "distribution": {
+        "1": 27,
+        "2": 16,
+        "3": 71,
+        "4": 229,
+        "5": 628,
+        "6": 1704,
+        "7": 2634,
+        "8": 1558,
+        "9": 446,
+        "10": 377
+      },
+      "normalized": 5.4623
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "28.12.2012",
+      "normalized": 4.5781
+    },
+    "score": 5.4186
+  },
+  "polish_title": "Mały Manhattan",
+  "silent": false,
+  "description_pl": "Nowy Jork, najromantyczniejsze miejsce na świecie - nawet jeśli masz 10 lat i zakochałeś się po raz pierwszy. To właśnie odkrywa młody Gabe śledząc obiekt swoich uczuć, koleżankę z klasy - Rosemary. Mały Manhattan to romantyczna komedia o życiu, miłości i Nowym Jorku z punktu widzenia piątoklasisty.",
+  "producers": [
+    {
+      "id": "nm0134279",
+      "name": "Vivian Cannon"
+    },
+    {
+      "id": "nm1643763",
+      "name": "Kara Francis"
+    },
+    {
+      "id": "nm0363200",
+      "name": "Jeffrey Harlacker"
+    },
+    {
+      "id": "nm0689780",
+      "name": "Gavin Polone"
+    },
+    {
+      "id": "nm0842470",
+      "name": "Ezra Swerdlow"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0279412",
+      "name": "Chad Fischer"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0650615",
+      "name": "Tim Orr"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

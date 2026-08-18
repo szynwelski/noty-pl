@@ -1,0 +1,152 @@
+{
+  "imdb_id": "tt0061184",
+  "title": "Who's Afraid of Virginia Woolf?",
+  "description": "A middle-aged New England associate professor and his wife, with the help of alcohol, use their young guests to fuel anguish and emotional pain towards each other over the course of a distressing night.",
+  "runtime_minutes": 131,
+  "release_date": "22.06.1966",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0000072",
+      "name": "Elizabeth Taylor"
+    },
+    {
+      "id": "nm0000009",
+      "name": "Richard Burton"
+    },
+    {
+      "id": "nm0001719",
+      "name": "George Segal"
+    },
+    {
+      "id": "nm0006800",
+      "name": "Sandy Dennis"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001566",
+      "name": "Mike Nichols"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0016361",
+      "name": "Edward Albee"
+    },
+    {
+      "id": "nm0499626",
+      "name": "Ernest Lehman"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000072",
+      "name": "Elizabeth Taylor",
+      "character": "Martha"
+    },
+    {
+      "id": "nm0000009",
+      "name": "Richard Burton",
+      "character": "George"
+    },
+    {
+      "id": "nm0001719",
+      "name": "George Segal",
+      "character": "Nick"
+    },
+    {
+      "id": "nm0006800",
+      "name": "Sandy Dennis",
+      "character": "Honey"
+    },
+    {
+      "id": "nm0281004",
+      "name": "Agnes Flanagan",
+      "character": "Roadhouse Waitress"
+    },
+    {
+      "id": "nm0281029",
+      "name": "Frank Flanagan",
+      "character": "Roadhouse Manager"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Latin",
+    "Spanish"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 12228,
+  "year": 1966,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOGY5YWJlMjUtNWI4Zi00NTExLWIwMDUtNGJkOTM0MzliNjE4XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8,
+      "votes": 83559,
+      "distribution": {
+        "1": 1902,
+        "2": 707,
+        "3": 898,
+        "4": 1439,
+        "5": 2820,
+        "6": 5645,
+        "7": 12958,
+        "8": 22518,
+        "9": 17108,
+        "10": 17564
+      },
+      "normalized": 7.4114
+    },
+    "filmweb": {
+      "rating": 7.88,
+      "votes": 19842,
+      "distribution": {
+        "1": 149,
+        "2": 78,
+        "3": 169,
+        "4": 269,
+        "5": 639,
+        "6": 1321,
+        "7": 3643,
+        "8": 6705,
+        "9": 4454,
+        "10": 2415
+      },
+      "normalized": 7.941
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "06.02.2021",
+      "normalized": 6.4102
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "25.04.2009",
+      "normalized": 7.2292
+    },
+    "score": 7.2479
+  },
+  "polish_title": "Kto się boi Virginii Woolf?",
+  "silent": false,
+  "description_pl": "George (<a href=\"/osoba/?id=nm0000009\">Richard Burton</a>), profesor historii i jego żona Martha (<a href=\"/osoba/?id=nm0000072\">Elizabeth Taylor</a>) po wielu latach małżeństwa mają do siebie pretensję niemal o wszystko. Ich związek to czysta farsa. Po kolejnym przyjęciu w ich domu zjawia się kolega z pracy George'a  - Nick (<a href=\"/osoba/?id=nm0001719\">George Segal</a>) ze swoją młodą żoną Honey (<a href=\"/osoba/?id=nm0006800\">Sandy Dennis</a>). To będzie bardzo długi wieczór...",
+  "composers": [
+    {
+      "id": "nm0006218",
+      "name": "Alex North"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005549",
+      "name": "Haskell Wexler"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "nm0001246",
+  "name": "Dan Futterman",
+  "filmography": [
+    {
+      "imdb_id": "tt0115685",
+      "title": "The Birdcage",
+      "year": 1996,
+      "roles": [
+        "cast"
+      ],
+      "character": "Val Goldman"
+    },
+    {
+      "imdb_id": "tt0379725",
+      "title": "Capote",
+      "year": 2005,
+      "roles": [
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0829459",
+      "title": "A Mighty Heart",
+      "year": 2007,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Danny"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTgwODA1NjY0MV5BMl5BanBnXkFtZTYwODExNDQ0._V1_.jpg",
+  "birth_date": "08.06.1967",
+  "birth_location": "Silver Spring, Maryland, USA",
+  "height": "1.75 m",
+  "filmweb_id": 4043,
+  "name_pl": "Dan Futterman",
+  "birth_location_pl": "Silver Spring, Maryland",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 4043
+}

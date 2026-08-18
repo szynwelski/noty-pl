@@ -1,0 +1,121 @@
+{
+  "imdb_id": "tt18411542",
+  "title": "Chokoladekrigen",
+  "description": "A film about a man's fight against the chocolate giants and a billion-dollar industry that ruthlessly exploits illegal child labor. Twenty years ago, the largest cocoa producers signed an agreement to abolish child slavery. But nothing has happened and the use of child labor has only increased - all to keep prices down.",
+  "runtime_minutes": 82,
+  "release_date": "01.12.2022",
+  "genres": [
+    "Documentary"
+  ],
+  "stars": [
+    {
+      "id": "nm5283819",
+      "name": "Terry Collingsworth"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm1586238",
+      "name": "Miki Mistrati"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm5283819",
+      "name": "Terry Collingsworth",
+      "character": "Self"
+    }
+  ],
+  "countries": [
+    "Denmark"
+  ],
+  "languages": [],
+  "color": "Color",
+  "filmweb_id": 10011093,
+  "year": 2022,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYzFjMjA3MjktMTZlNy00YzkyLTk3ODEtODQ3NWMzNmFhYjAyXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.8,
+      "votes": 48,
+      "distribution": {
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 5,
+        "5": 6,
+        "6": 9,
+        "7": 14,
+        "8": 3,
+        "9": 2,
+        "10": 7
+      },
+      "normalized": 5.3009
+    },
+    "filmweb": {
+      "rating": 6.07,
+      "votes": 41,
+      "distribution": {
+        "1": 1,
+        "2": 0,
+        "3": 2,
+        "4": 2,
+        "5": 10,
+        "6": 12,
+        "7": 6,
+        "8": 4,
+        "9": 2,
+        "10": 2
+      },
+      "normalized": 4.9461
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "23.10.2022",
+      "normalized": 6.4102
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "16.10.2022",
+      "normalized": 4.5781
+    },
+    "score": 5.3088
+  },
+  "polish_title": "Wojna czekoladowa",
+  "silent": false,
+  "description_pl": "Amerykański prawnik Terrence Collingsworth poświęcił życie na to, aby pociągnąć do odpowiedzialności korporacje, które swoje zarobki zawdzięczają niewolniczej pracy dzieci. Teraz walczy z firmą Nestlé, znaną wszystkim amatorom słodyczy na świecie. Oto zwieńczenie „czekoladowej trylogii” autorstwa dokumentalisty Mikiego Mistratiego.",
+  "producers": [
+    {
+      "id": "nm1318821",
+      "name": "Helle Faber"
+    },
+    {
+      "id": "nm4994274",
+      "name": "Christian Aune Falch"
+    },
+    {
+      "id": "nm9770988",
+      "name": "Ingrid Galadriel Aune Falch"
+    },
+    {
+      "id": "nm6593718",
+      "name": "Jonathan Borge Lie"
+    },
+    {
+      "id": "nm9903192",
+      "name": "Maria Robstad Nielsen"
+    },
+    {
+      "id": "nm7901760",
+      "name": "Torstein Parelius"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm1869127",
+      "name": "Marius Christiansen"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

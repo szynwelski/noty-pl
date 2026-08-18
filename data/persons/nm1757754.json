@@ -1,0 +1,50 @@
+{
+  "id": "nm1757754",
+  "name": "Fred Berger",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTZjMGI2ZWQtYjkzNS00OTRmLWFlZWMtNjMyODVlZTA1OTJiXkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt3783958",
+      "title": "La La Land",
+      "year": 2016,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt4986098",
+      "title": "The Titan",
+      "year": 2018,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt8110640",
+      "title": "In the Shadow of the Moon",
+      "year": 2019,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt10451914",
+      "title": "Outside the Wire",
+      "year": 2021,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "birth_location": "New York City, New York, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 1403216,
+  "name_pl": "Fred Berger",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "birth_date": "10.05.1981",
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

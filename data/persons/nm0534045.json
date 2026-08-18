@@ -1,0 +1,41 @@
+{
+  "id": "nm0534045",
+  "name": "Fred MacMurray",
+  "filmography": [
+    {
+      "imdb_id": "tt0036775",
+      "title": "Double Indemnity",
+      "year": 1944,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Walter Neff"
+    },
+    {
+      "imdb_id": "tt0053604",
+      "title": "The Apartment",
+      "year": 1960,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Jeff D. Sheldrake"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOTE3ODI1NzQtNzlmOS00YWYxLTliMzAtYjVkZDA1YWY3MGJjXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "30.08.1908",
+  "death_date": "05.11.1991",
+  "birth_location": "Kankakee, Illinois, USA",
+  "height": "1.90 m",
+  "imdb_scraped": true,
+  "filmweb_id": 41766,
+  "name_pl": "Fred MacMurray",
+  "birth_location_pl": "Kankakee, Illinois",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 41766
+}

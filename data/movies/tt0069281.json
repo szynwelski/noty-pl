@@ -1,0 +1,163 @@
+{
+  "imdb_id": "tt0069281",
+  "title": "Sleuth",
+  "description": "A man who loves games and theater invites his wife's lover to meet him, setting up a battle of wits with potentially deadly results.",
+  "runtime_minutes": 138,
+  "release_date": "11.12.1972",
+  "genres": [
+    "Mystery",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000059",
+      "name": "Laurence Olivier"
+    },
+    {
+      "id": "nm0000323",
+      "name": "Michael Caine"
+    },
+    {
+      "id": "nm0147250",
+      "name": "Alec Cawthorne"
+    },
+    {
+      "id": "nm0560064",
+      "name": "John Matthews"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000581",
+      "name": "Joseph L. Mankiewicz"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0787289",
+      "name": "Anthony Shaffer"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000059",
+      "name": "Laurence Olivier",
+      "character": "Andrew Wyke"
+    },
+    {
+      "id": "nm0000323",
+      "name": "Michael Caine",
+      "character": "Milo Tindle"
+    },
+    {
+      "id": "nm0147250",
+      "name": "Alec Cawthorne",
+      "character": "Inspector Doppler"
+    },
+    {
+      "id": "nm0560064",
+      "name": "John Matthews",
+      "character": "Detective Sergeant Tarrant"
+    },
+    {
+      "id": "nm0151920",
+      "name": "Eve Channing",
+      "character": "Marguerite Wyke"
+    },
+    {
+      "id": "nm0553117",
+      "name": "Teddy Martin",
+      "character": "Police Constable Higgs"
+    },
+    {
+      "id": "nm2213817",
+      "name": "Skeleton",
+      "character": "Skeleton"
+    }
+  ],
+  "countries": [
+    "United Kingdom",
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Italian"
+  ],
+  "color": "Color",
+  "filmweb_id": 9605,
+  "year": 1972,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDNjNzZiYWItOGY4OC00NjEwLWIxZjEtYzNiOTlmMWNkNWFkXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.9,
+      "votes": 53171,
+      "distribution": {
+        "1": 1114,
+        "2": 307,
+        "3": 396,
+        "4": 661,
+        "5": 1464,
+        "6": 3603,
+        "7": 9369,
+        "8": 16448,
+        "9": 10937,
+        "10": 8872
+      },
+      "normalized": 7.1542
+    },
+    "filmweb": {
+      "rating": 7.68,
+      "votes": 3534,
+      "distribution": {
+        "1": 36,
+        "2": 12,
+        "3": 21,
+        "4": 51,
+        "5": 118,
+        "6": 323,
+        "7": 859,
+        "8": 1151,
+        "9": 561,
+        "10": 402
+      },
+      "normalized": 6.9632
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "04.01.2010",
+      "normalized": 6.3474
+    },
+    "score": 6.8216
+  },
+  "polish_title": "Detektyw",
+  "silent": false,
+  "description_pl": "Arystokrata Andrew Wyke (<a href=\"/osoba/?id=nm0000059\">Laurence Olivier</a>), autor popularnych powieści kryminalnych,  zaprasza do swojego domu Milo Tindle'a (<a href=\"/osoba/?id=nm0000323\">Michael Caine</a>), playboya, który  jest właścicielem kilku dobrze prosperujących salonów piękności dla  kobiet. Wyke oświadcza zdumionemu Milo, że wie o jego romansie ze swoją  żoną Marguerite i nie zemścić  się za zdradę małżonki, pod jednym warunkiem. Milo ma ukraść i  sprzedać drogocenne klejnoty.",
+  "producers": [
+    {
+      "id": "nm0331810",
+      "name": "Morton Gottlieb"
+    },
+    {
+      "id": "nm0585459",
+      "name": "David Middlemas"
+    },
+    {
+      "id": "nm0771062",
+      "name": "Edgar J. Scherick"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0011709",
+      "name": "John Addison"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005807",
+      "name": "Oswald Morris"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

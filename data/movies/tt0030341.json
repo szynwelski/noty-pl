@@ -1,0 +1,210 @@
+{
+  "imdb_id": "tt0030341",
+  "title": "The Lady Vanishes",
+  "description": "While travelling in continental Europe, a rich young playgirl realizes that an elderly lady seems to have disappeared from the train.",
+  "runtime_minutes": 96,
+  "release_date": "01.11.1938",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0516994",
+      "name": "Margaret Lockwood"
+    },
+    {
+      "id": "nm0714878",
+      "name": "Michael Redgrave"
+    },
+    {
+      "id": "nm0510134",
+      "name": "Paul Lukas"
+    },
+    {
+      "id": "nm0926599",
+      "name": "May Whitty"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000033",
+      "name": "Alfred Hitchcock"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0924781",
+      "name": "Ethel Lina White"
+    },
+    {
+      "id": "nm0319148",
+      "name": "Sidney Gilliat"
+    },
+    {
+      "id": "nm0490950",
+      "name": "Frank Launder"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0516994",
+      "name": "Margaret Lockwood",
+      "character": "Iris Matilda Henderson"
+    },
+    {
+      "id": "nm0714878",
+      "name": "Michael Redgrave",
+      "character": "Gilbert Redman"
+    },
+    {
+      "id": "nm0510134",
+      "name": "Paul Lukas",
+      "character": "Dr. Egon Hartz"
+    },
+    {
+      "id": "nm0926599",
+      "name": "May Whitty",
+      "character": "Miss Froy"
+    },
+    {
+      "id": "nm0662116",
+      "name": "Cecil Parker",
+      "character": "Mr. Todhunter"
+    },
+    {
+      "id": "nm0871298",
+      "name": "Linden Travers",
+      "character": "'Mrs.' Todhunter"
+    },
+    {
+      "id": "nm0915614",
+      "name": "Naunton Wayne",
+      "character": "Caldicott"
+    },
+    {
+      "id": "nm0705509",
+      "name": "Basil Radford",
+      "character": "Charters"
+    },
+    {
+      "id": "nm0163515",
+      "name": "Mary Clare",
+      "character": "Baroness Athona"
+    },
+    {
+      "id": "nm0096376",
+      "name": "Emile Boreo",
+      "character": "Hotel Manager"
+    },
+    {
+      "id": "nm0936727",
+      "name": "Googie Withers",
+      "character": "Blanche"
+    },
+    {
+      "id": "nm0829804",
+      "name": "Sally Stewart",
+      "character": "Julie"
+    },
+    {
+      "id": "nm0495365",
+      "name": "Philip Leaver",
+      "character": "Signor Doppo"
+    },
+    {
+      "id": "nm0224917",
+      "name": "Selma Vaz Dias",
+      "character": "Signora Doppo"
+    },
+    {
+      "id": "nm0479910",
+      "name": "Catherine Lacey",
+      "character": "The Nun"
+    },
+    {
+      "id": "nm0933663",
+      "name": "Josephine Wilson",
+      "character": "Madame Kummer"
+    },
+    {
+      "id": "nm0646789",
+      "name": "Charles Oliver",
+      "character": "The Officer"
+    },
+    {
+      "id": "nm0871862",
+      "name": "Kathleen Tremaine",
+      "character": "Anna"
+    }
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Italian"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 9765,
+  "year": 1938,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzQxY2M5ODUtYjQ5ZS00M2NmLWI2OTMtYzY3ZWJmZjcyNDIwXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.7,
+      "votes": 61827,
+      "distribution": {
+        "1": 703,
+        "2": 215,
+        "3": 347,
+        "4": 698,
+        "5": 1708,
+        "6": 4888,
+        "7": 13990,
+        "8": 20851,
+        "9": 10306,
+        "10": 8121
+      },
+      "normalized": 6.7655
+    },
+    "filmweb": {
+      "rating": 7.38,
+      "votes": 10743,
+      "distribution": {
+        "1": 107,
+        "2": 10,
+        "3": 48,
+        "4": 101,
+        "5": 396,
+        "6": 1343,
+        "7": 3535,
+        "8": 3537,
+        "9": 1130,
+        "10": 536
+      },
+      "normalized": 6.3816
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "25.03.2007",
+      "normalized": 7.2292
+    },
+    "score": 6.7921
+  },
+  "polish_title": "Starsza pani znika",
+  "silent": false,
+  "description_pl": "Podczas podróży pociągiem znika starsza pani. Jedna z jej współpasażerek, młoda Angielka Iris Henderson (Margaret Lockwood), zaintrygowana tym, postanawia odnaleźć kobietę. Nie zdaje sobie sprawy, iż zdarzenie z pociągu to jedynie element pewnej skomplikowanej intrygi...",
+  "cinematographers": [
+    {
+      "id": "nm0185055",
+      "name": "Jack E. Cox"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-15"
+}

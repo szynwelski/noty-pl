@@ -1,0 +1,88 @@
+{
+  "imdb_id": "tt0241763",
+  "title": "Newark Athlete",
+  "description": "An athlete swings Indian clubs.",
+  "runtime_minutes": 1,
+  "release_date": "01.05.1891",
+  "genres": [
+    "Documentary",
+    "Short",
+    "Sport"
+  ],
+  "directors": [
+    {
+      "id": "nm0005690",
+      "name": "William K.L. Dickson"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "None",
+    "English"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 117026,
+  "year": 1891,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZTQ4NTBiNDMtM2YyZS00M2I0LThkMDUtMWEwZWY0ODc0NGFmXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 4.9,
+      "votes": 2012,
+      "distribution": {
+        "1": 134,
+        "2": 112,
+        "3": 162,
+        "4": 315,
+        "5": 642,
+        "6": 293,
+        "7": 147,
+        "8": 62,
+        "9": 26,
+        "10": 119
+      },
+      "normalized": 2.8394
+    },
+    "filmweb": {
+      "rating": 4.07,
+      "votes": 297,
+      "distribution": {
+        "1": 35,
+        "2": 28,
+        "3": 65,
+        "4": 51,
+        "5": 67,
+        "6": 13,
+        "7": 16,
+        "8": 11,
+        "9": 3,
+        "10": 8
+      },
+      "normalized": 3.0344
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "11.12.2016",
+      "normalized": 4.9718
+    },
+    "score": 3.6152
+  },
+  "polish_title": "Newark Athlete",
+  "silent": true,
+  "description_pl": "Film pokazuje scenę, w której atleta rzuca indiańskim toporkiem.",
+  "producers": [
+    {
+      "id": "nm0005690",
+      "name": "William K.L. Dickson"
+    },
+    {
+      "id": "nm0374658",
+      "name": "William Heise"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

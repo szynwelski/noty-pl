@@ -1,0 +1,39 @@
+{
+  "id": "nm0287432",
+  "name": "John Fortune",
+  "filmography": [
+    {
+      "imdb_id": "tt0337909",
+      "title": "Calendar Girls",
+      "year": 2003,
+      "roles": [
+        "cast"
+      ],
+      "character": "Frank"
+    },
+    {
+      "imdb_id": "tt0416320",
+      "title": "Match Point",
+      "year": 2005,
+      "roles": [
+        "cast"
+      ],
+      "character": "John the Chauffeur"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDAwNTA5MzM0MF5BMl5BanBnXkFtZTgwNTU2NTg4MDE@._V1_.jpg",
+  "birth_date": "30.06.1939",
+  "death_date": "31.12.2013",
+  "birth_location": "Bristol, England, UK",
+  "height": "1.83 m",
+  "imdb_scraped": true,
+  "filmweb_id": 156622,
+  "name_pl": "John Fortune",
+  "birth_location_pl": "Bristol, Anglia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 156622
+}

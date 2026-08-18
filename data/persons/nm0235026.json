@@ -1,0 +1,38 @@
+{
+  "id": "nm0235026",
+  "name": "Donald Douglas",
+  "filmography": [
+    {
+      "imdb_id": "tt0037101",
+      "title": "Murder, My Sweet",
+      "year": 1944,
+      "roles": [
+        "cast"
+      ],
+      "character": "Police Lt. Randall"
+    },
+    {
+      "imdb_id": "tt0038559",
+      "title": "Gilda",
+      "year": 1946,
+      "roles": [
+        "cast"
+      ],
+      "character": "Thomas Langford"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDBlMmUwZWEtNTE0MS00YmU1LTlhMjQtMmE3OWI2NDExYjUxXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "24.08.1905",
+  "death_date": "31.12.1945",
+  "birth_location": "Kinleyside, Scotland, UK",
+  "height": "1.85 m",
+  "imdb_scraped": true,
+  "filmweb_id": 45284,
+  "name_pl": "Donald Douglas",
+  "birth_location_pl": "Kinleyside, Szkocja",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ]
+}

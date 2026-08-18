@@ -1,0 +1,40 @@
+{
+  "id": "nm0000081",
+  "name": "Natalie Wood",
+  "filmography": [
+    {
+      "imdb_id": "tt0048545",
+      "title": "Rebel Without a Cause",
+      "year": 1955,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Judy"
+    },
+    {
+      "imdb_id": "tt0049730",
+      "title": "The Searchers",
+      "year": 1956,
+      "roles": [
+        "cast"
+      ],
+      "character": "Debbie Edwards - Age 15"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYmRhOGUzY2UtZWI1Zi00NTg1LWEwNjUtM2Y4OTc2MjhkMzFiXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "20.07.1938",
+  "death_date": "29.11.1981",
+  "birth_location": "San Francisco, California, USA",
+  "height": "1.57 m",
+  "imdb_scraped": true,
+  "filmweb_id": 43654,
+  "name_pl": "Natalie Wood",
+  "birth_location_pl": "San Francisco, Kalifornia",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 43654
+}

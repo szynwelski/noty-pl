@@ -1,0 +1,35 @@
+{
+  "id": "nm0428296",
+  "name": "James Jones",
+  "filmography": [
+    {
+      "imdb_id": "tt0045793",
+      "title": "From Here to Eternity",
+      "year": 1953,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0120863",
+      "title": "The Thin Red Line",
+      "year": 1998,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQwNDRmODItMTVkYy00NmMxLWE2ZWMtNDg5ZmIxNzBlY2RiXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "06.11.1921",
+  "death_date": "09.05.1977",
+  "birth_location": "Robinson, Illinois, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 46377,
+  "name_pl": "James Jones",
+  "birth_location_pl": "Robinson, Illinois",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

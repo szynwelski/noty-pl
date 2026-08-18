@@ -1,0 +1,37 @@
+{
+  "id": "nm0003433",
+  "name": "Carl Theodor Dreyer",
+  "filmography": [
+    {
+      "imdb_id": "tt0019254",
+      "title": "The Passion of Joan of Arc",
+      "year": 1928,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0095607",
+      "title": "Medea",
+      "year": 1988,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTU4OTQzODE3M15BMl5BanBnXkFtZTgwMTk5OTk1MjE@._V1_.jpg",
+  "birth_date": "03.02.1889",
+  "death_date": "20.03.1968",
+  "birth_location": "Copenhagen, Denmark",
+  "height": "1.70 m",
+  "imdb_scraped": true,
+  "filmweb_id": 50510,
+  "name_pl": "Carl Theodor Dreyer",
+  "birth_location_pl": "Kopenhaga",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Królestwo Danii"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "nm0000050",
+  "name": "Groucho Marx",
+  "filmography": [
+    {
+      "imdb_id": "tt0023969",
+      "title": "Duck Soup",
+      "year": 1933,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Rufus T. Firefly"
+    },
+    {
+      "imdb_id": "tt0026778",
+      "title": "A Night at the Opera",
+      "year": 1935,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Otis B. Driftwood"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzgyYWRjYjgtOGM1MS00YWUzLTk3ZDItM2JkMTA3MmY5MDIzXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 49881,
+  "birth_date": "02.10.1890",
+  "death_date": "19.08.1977",
+  "birth_location": "New York City, New York, USA",
+  "height": "1.71 m",
+  "imdb_scraped": true,
+  "name_pl": "Groucho Marx",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 49881
+}

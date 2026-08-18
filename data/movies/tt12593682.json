@@ -1,0 +1,250 @@
+{
+  "imdb_id": "tt12593682",
+  "title": "Bullet Train",
+  "description": "Five assassins aboard a swiftly-moving bullet train find out that their missions have something in common.",
+  "runtime_minutes": 127,
+  "release_date": "05.08.2022",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000093",
+      "name": "Brad Pitt"
+    },
+    {
+      "id": "nm1428821",
+      "name": "Joey King"
+    },
+    {
+      "id": "nm1093951",
+      "name": "Aaron Taylor-Johnson"
+    },
+    {
+      "id": "nm3109964",
+      "name": "Brian Tyree Henry"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0500610",
+      "name": "David Leitch"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm5599654",
+      "name": "Zak Olkewicz"
+    },
+    {
+      "id": "nm2157655",
+      "name": "Kôtarô Isaka"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000093",
+      "name": "Brad Pitt",
+      "character": "Ladybug"
+    },
+    {
+      "id": "nm1428821",
+      "name": "Joey King",
+      "character": "Prince"
+    },
+    {
+      "id": "nm1093951",
+      "name": "Aaron Taylor-Johnson",
+      "character": "Tangerine"
+    },
+    {
+      "id": "nm3109964",
+      "name": "Brian Tyree Henry",
+      "character": "Lemon"
+    },
+    {
+      "id": "nm4010671",
+      "name": "Andrew Koji",
+      "character": "Kimura"
+    },
+    {
+      "id": "nm0760796",
+      "name": "Hiroyuki Sanada",
+      "character": "The Elder"
+    },
+    {
+      "id": "nm0788335",
+      "name": "Michael Shannon",
+      "character": "White Death"
+    },
+    {
+      "id": "nm0000113",
+      "name": "Sandra Bullock",
+      "character": "Maria"
+    },
+    {
+      "id": "nm9559545",
+      "name": "Bad Bunny",
+      "character": "Wolf"
+    },
+    {
+      "id": "nm0503567",
+      "name": "Logan Lerman",
+      "character": "The Son"
+    },
+    {
+      "id": "nm5939164",
+      "name": "Zazie Beetz",
+      "character": "The Hornet"
+    },
+    {
+      "id": "nm1199811",
+      "name": "Masi Oka",
+      "character": "Conductor"
+    },
+    {
+      "id": "nm7232332",
+      "name": "Karen Fukuhara",
+      "character": "Kayda Izumi Concession Girl"
+    },
+    {
+      "id": "nm13901236",
+      "name": "Kevin Akiyoshi Ching",
+      "character": "Wataru"
+    },
+    {
+      "id": "nm1964540",
+      "name": "Minchi Murakami",
+      "character": "Tokyo Zookeeper"
+    },
+    {
+      "id": "nm2807610",
+      "name": "Kaori Taketani",
+      "character": "Asami Akiyama"
+    },
+    {
+      "id": "nm13901237",
+      "name": "Toshitaka Katsumi",
+      "character": "Policeman"
+    },
+    {
+      "id": "nm1896175",
+      "name": "Jim Garrity",
+      "character": "Senator"
+    }
+  ],
+  "countries": [
+    "United States",
+    "Japan"
+  ],
+  "languages": [
+    "English",
+    "Japanese",
+    "Spanish",
+    "Russian"
+  ],
+  "color": "Color",
+  "filmweb_id": 856701,
+  "year": 2022,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODUyZjkxZDMtZGI3ZC00ZmEwLTgwMTUtYTU4OTQ5YjU4ZjRlXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.3,
+      "votes": 544577,
+      "distribution": {
+        "1": 4821,
+        "2": 2939,
+        "3": 4897,
+        "4": 9111,
+        "5": 22840,
+        "6": 63324,
+        "7": 156306,
+        "8": 163384,
+        "9": 67278,
+        "10": 49677
+      },
+      "normalized": 6.1555
+    },
+    "filmweb": {
+      "rating": 6.82,
+      "votes": 83237,
+      "distribution": {
+        "1": 631,
+        "2": 567,
+        "3": 1538,
+        "4": 2458,
+        "5": 7011,
+        "6": 17855,
+        "7": 27941,
+        "8": 16978,
+        "9": 5058,
+        "10": 3200
+      },
+      "normalized": 5.2937
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "24.08.2022",
+      "normalized": 6.4102
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "24.08.2022",
+      "normalized": 7.2292
+    },
+    "score": 6.2721
+  },
+  "polish_title": "Bullet Train",
+  "silent": false,
+  "description_pl": "W filmie \"Bullet Train\" <a href=\"/osoba/?id=nm0000093\">Brad Pitt</a> wciela się w rolę rolę pechowego zabójcy o imieniu \"Ladybug\", który po zbyt wielu nieudanych próbach chciałby spokojnie wykonywać swoją pracę. Los jednak ma inne plany, ponieważ jego najnowsza misja jest na kursie kolizyjnym ze śmiertelnie niebezpiecznymi przeciwnikami z całego świata. Wszyscy mają powiązane, ale sprzeczne cele - w najszybszym pociągu świata... a Ladybug musi wymyślić, jak z niego wysiąść.",
+  "producers": [
+    {
+      "id": "nm0298807",
+      "name": "Antoine Fuqua"
+    },
+    {
+      "id": "nm0500610",
+      "name": "David Leitch"
+    },
+    {
+      "id": "nm0566555",
+      "name": "Kelly McCormick"
+    },
+    {
+      "id": "nm0640255",
+      "name": "Brent O'Connor"
+    },
+    {
+      "id": "nm0691121",
+      "name": "Georgina Pope"
+    },
+    {
+      "id": "nm11692001",
+      "name": "Ryosuke Saegusa"
+    },
+    {
+      "id": "nm1099869",
+      "name": "Kat Samick"
+    },
+    {
+      "id": "nm9127158",
+      "name": "Yuma Terada"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm3825122",
+      "name": "Dominic Lewis"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0782930",
+      "name": "Jonathan Sela"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "nm0701023",
+  "name": "Jack Purvis",
+  "filmography": [
+    {
+      "imdb_id": "tt0076759",
+      "title": "Star Wars: Episode IV - A New Hope",
+      "year": 1977,
+      "roles": [
+        "cast"
+      ],
+      "character": "Chief Jawa"
+    },
+    {
+      "imdb_id": "tt0080684",
+      "title": "Star Wars: Episode V - The Empire Strikes Back",
+      "year": 1980,
+      "roles": [
+        "cast"
+      ],
+      "character": "Chief Ugnaught"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTM3OTkwNjk0NF5BMl5BanBnXkFtZTcwNjQzNTk0OA@@._V1_.jpg",
+  "birth_date": "13.07.1937",
+  "death_date": "11.11.1997",
+  "birth_location": "London, England, UK",
+  "height": "1.24 m",
+  "imdb_scraped": true,
+  "filmweb_id": 4863,
+  "name_pl": "Jack Purvis",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ]
+}

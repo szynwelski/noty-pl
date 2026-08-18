@@ -1,0 +1,254 @@
+{
+  "imdb_id": "tt1790885",
+  "title": "Zero Dark Thirty",
+  "description": "A chronicle of the decade-long hunt for al-Qaeda terrorist leader Osama bin Laden after the September 2001 attacks, and his death at the hands of the Navy S.E.A.L.s Team 6 in May 2011.",
+  "runtime_minutes": 157,
+  "release_date": "11.01.2013",
+  "genres": [
+    "Drama",
+    "History",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm1567113",
+      "name": "Jessica Chastain"
+    },
+    {
+      "id": "nm0249291",
+      "name": "Joel Edgerton"
+    },
+    {
+      "id": "nm0695435",
+      "name": "Chris Pratt"
+    },
+    {
+      "id": "nm0835016",
+      "name": "Mark Strong"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000941",
+      "name": "Kathryn Bigelow"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1676793",
+      "name": "Mark Boal"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1567113",
+      "name": "Jessica Chastain",
+      "character": "Maya"
+    },
+    {
+      "id": "nm0249291",
+      "name": "Joel Edgerton",
+      "character": "Patrick - Squadron Team Leader"
+    },
+    {
+      "id": "nm0695435",
+      "name": "Chris Pratt",
+      "character": "Justin - DEVGRU"
+    },
+    {
+      "id": "nm0164809",
+      "name": "Jason Clarke",
+      "character": "Dan"
+    },
+    {
+      "id": "nm3024530",
+      "name": "Reda Kateb",
+      "character": "Ammar"
+    },
+    {
+      "id": "nm0151419",
+      "name": "Kyle Chandler",
+      "character": "Joseph Bradley"
+    },
+    {
+      "id": "nm0000383",
+      "name": "Jennifer Ehle",
+      "character": "Jessica"
+    },
+    {
+      "id": "nm0674782",
+      "name": "Harold Perrineau",
+      "character": "Jack"
+    },
+    {
+      "id": "nm0834989",
+      "name": "Jeremy Strong",
+      "character": "Thomas"
+    },
+    {
+      "id": "nm2849874",
+      "name": "J.J. Kandel",
+      "character": "J.J."
+    },
+    {
+      "id": "nm4594320",
+      "name": "Wahab Sheikh",
+      "character": "Detainee on Monitor"
+    },
+    {
+      "id": "nm0992562",
+      "name": "Alexander Karim",
+      "character": "Detainee on Monitor"
+    },
+    {
+      "id": "nm1029263",
+      "name": "Nabil Elouahabi",
+      "character": "Detainee on Monitor"
+    },
+    {
+      "id": "nm3043480",
+      "name": "Aymen Hamdouchi",
+      "character": "Detainee on Monitor"
+    },
+    {
+      "id": "nm0008787",
+      "name": "Simon Abkarian",
+      "character": "Detainee on Monitor"
+    },
+    {
+      "id": "nm3545569",
+      "name": "Ali Marhyar",
+      "character": "Interrogator on Monitor"
+    },
+    {
+      "id": "nm4554036",
+      "name": "Parker Sawyers",
+      "character": "Interrogator on Monitor"
+    },
+    {
+      "id": "nm2141398",
+      "name": "Akin Gazi",
+      "character": "Interrogator on Monitor"
+    }
+  ],
+  "countries": [
+    "United States",
+    "India"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Urdu",
+    "Pashtu",
+    "French"
+  ],
+  "color": "Color",
+  "filmweb_id": 632382,
+  "year": 2012,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQ4OTUyNzcwN15BMl5BanBnXkFtZTcwMTQ1NDE3OA@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.4,
+      "votes": 343490,
+      "distribution": {
+        "1": 7238,
+        "2": 2170,
+        "3": 3024,
+        "4": 5366,
+        "5": 13424,
+        "6": 35898,
+        "7": 96484,
+        "8": 106149,
+        "9": 46339,
+        "10": 27398
+      },
+      "normalized": 6.2885
+    },
+    "filmweb": {
+      "rating": 7.13,
+      "votes": 72341,
+      "distribution": {
+        "1": 170,
+        "2": 161,
+        "3": 694,
+        "4": 1135,
+        "5": 3986,
+        "6": 10767,
+        "7": 27377,
+        "8": 21398,
+        "9": 5244,
+        "10": 1409
+      },
+      "normalized": 5.8798
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "19.12.2017",
+      "normalized": 4.9718
+    },
+    "score": 5.7134
+  },
+  "polish_title": "Wróg numer jeden",
+  "silent": false,
+  "description_pl": "Polowanie na najsłynniejszego terrorystę w historii ukazane z punktu widzenia młodej agentki CIA (nominowana do Oscara <a href=\"/osoba/?id=nm1567113\">Jessica Chastain</a>, której rola porównywana jest przez krytyków do życiowej kreacji <a href=\"/osoba/?id=nm0000149\">Jodie Foster</a> w \"<a href=\"/film/?id=tt0102926\">Milczeniu owiec</a>\"). Pomimo braku wiary kolegów, biurokracji oraz wielu przeciwności losu, agentce udaje się w końcu przekonać Pentagon, by wkroczyć do akcji i zaatakować domniemaną kryjówkę Osamy bin Ladena.",
+  "producers": [
+    {
+      "id": "nm0000941",
+      "name": "Kathryn Bigelow"
+    },
+    {
+      "id": "nm1676793",
+      "name": "Mark Boal"
+    },
+    {
+      "id": "nm3040960",
+      "name": "Matthew Budman"
+    },
+    {
+      "id": "nm2691892",
+      "name": "Megan Ellison"
+    },
+    {
+      "id": "nm3010980",
+      "name": "Jonathan Leven"
+    },
+    {
+      "id": "nm0634782",
+      "name": "Tabrez Noorani"
+    },
+    {
+      "id": "nm0756383",
+      "name": "Pravesh Sahni"
+    },
+    {
+      "id": "nm0771925",
+      "name": "Ted Schipper"
+    },
+    {
+      "id": "nm0788513",
+      "name": "Greg Shapiro"
+    },
+    {
+      "id": "nm0862719",
+      "name": "David Ticotin"
+    },
+    {
+      "id": "nm0933213",
+      "name": "Colin Wilson"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006035",
+      "name": "Alexandre Desplat"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0292132",
+      "name": "Greig Fraser"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

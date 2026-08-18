@@ -1,0 +1,198 @@
+{
+  "imdb_id": "tt0199753",
+  "title": "Red Planet",
+  "description": "Astronauts, and their robotic dog AMEE (Autonomous Mapping Evaluation and Evasion), search for solutions to save a dying Earth by searching on Mars, only to have the mission go terribly awry.",
+  "runtime_minutes": 106,
+  "release_date": "10.11.2000",
+  "genres": [
+    "Action",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000174",
+      "name": "Val Kilmer"
+    },
+    {
+      "id": "nm0005251",
+      "name": "Carrie-Anne Moss"
+    },
+    {
+      "id": "nm0001744",
+      "name": "Tom Sizemore"
+    },
+    {
+      "id": "nm0000973",
+      "name": "Benjamin Bratt"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0388817",
+      "name": "Antony Hoffman"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0679326",
+      "name": "Chuck Pfarrer"
+    },
+    {
+      "id": "nm0501380",
+      "name": "Jonathan Lemkin"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000174",
+      "name": "Val Kilmer",
+      "character": "Gallagher"
+    },
+    {
+      "id": "nm0005251",
+      "name": "Carrie-Anne Moss",
+      "character": "Bowman"
+    },
+    {
+      "id": "nm0001744",
+      "name": "Tom Sizemore",
+      "character": "Burchenal"
+    },
+    {
+      "id": "nm0000973",
+      "name": "Benjamin Bratt",
+      "character": "Santen"
+    },
+    {
+      "id": "nm0048932",
+      "name": "Simon Baker",
+      "character": "Pettengil"
+    },
+    {
+      "id": "nm0000654",
+      "name": "Terence Stamp",
+      "character": "Chantilas"
+    },
+    {
+      "id": "nm3578142",
+      "name": "Jessica Morton",
+      "character": "Website Fan"
+    },
+    {
+      "id": "nm0098146",
+      "name": "Caroline Bossi",
+      "character": "Website Fan"
+    },
+    {
+      "id": "nm0624727",
+      "name": "Bob Neill",
+      "character": "Voice of Houston"
+    },
+    {
+      "id": "nm0743719",
+      "name": "Neil Ross",
+      "character": "Space Suit"
+    }
+  ],
+  "countries": [
+    "United States",
+    "Australia"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": null,
+  "filmweb_id": 1444,
+  "year": 2000,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTY2MzE0MjAwOF5BMl5BanBnXkFtZTYwNDM4Mzg2._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.7,
+      "votes": 62701,
+      "distribution": {
+        "1": 1478,
+        "2": 1505,
+        "3": 3119,
+        "4": 6333,
+        "5": 13294,
+        "6": 17711,
+        "7": 11557,
+        "8": 4367,
+        "9": 1396,
+        "10": 1941
+      },
+      "normalized": 3.1322
+    },
+    "filmweb": {
+      "rating": 6.13,
+      "votes": 22027,
+      "distribution": {
+        "1": 107,
+        "2": 229,
+        "3": 767,
+        "4": 1491,
+        "5": 3594,
+        "6": 6774,
+        "7": 6133,
+        "8": 2126,
+        "9": 436,
+        "10": 370
+      },
+      "normalized": 3.599
+    },
+    "jarek": {
+      "rating": 1,
+      "date_rated": "07.10.2010",
+      "normalized": 2.5327
+    },
+    "score": 3.088
+  },
+  "polish_title": "Czerwona planeta",
+  "silent": false,
+  "description_pl": "Ekipa amerykańskich astronautów jest w trakcie pierwszej ekspedycji na Marsa. Ziemia jest umierającą planetą i nowe kolonie na Marsie są dla ludzkości jedyną nadzieją. Wypadek sprawia, że sprzęt i ekwipunek astronautów zostaje zniszczony. Aby przeżyć, załoga musi polegać tylko i wyłącznie na sobie, a jej członkowie zostają zmuszeni do pokonania różnic własnych osobowości, pochodzenia i idei, w które wierzą.",
+  "producers": [
+    {
+      "id": "nm0075732",
+      "name": "Bruce Berman"
+    },
+    {
+      "id": "nm0004799",
+      "name": "Mark Canton"
+    },
+    {
+      "id": "nm0002331",
+      "name": "Stephen Jones"
+    },
+    {
+      "id": "nm0556580",
+      "name": "Andrew Mason"
+    },
+    {
+      "id": "nm0679326",
+      "name": "Chuck Pfarrer"
+    },
+    {
+      "id": "nm0764822",
+      "name": "Jorge Saralegui"
+    },
+    {
+      "id": "nm0772387",
+      "name": "Charles J.D. Schlissel"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006251",
+      "name": "Graeme Revell"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005893",
+      "name": "Peter Suschitzky"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

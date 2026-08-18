@@ -1,0 +1,33 @@
+{
+  "id": "nm1041475",
+  "name": "Thomas Schnauz",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTM3MzcyNjE2NF5BMl5BanBnXkFtZTcwMjkxMzA1OA@@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0903747",
+      "title": "Breaking Bad",
+      "year": 2008,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt3032476",
+      "title": "Better Call Saul",
+      "year": 2015,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "birth_date": "02.12.1966",
+  "birth_location": "Kearny, New Jersey, USA",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "filmweb_id": 176991,
+  "name_pl": "Thomas Schnauz",
+  "gender": "M"
+}

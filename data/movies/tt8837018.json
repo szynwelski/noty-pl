@@ -1,0 +1,138 @@
+{
+  "imdb_id": "tt8837018",
+  "title": "Manta Ray",
+  "description": "Near a coastal village of Thailand, by the sea where thousands of Rohingya refugees have drowned, a local fisherman finds an injured man lying unconscious in the forest. He rescues the stranger, who does not speak a word, offers him his friendship and names him Thongchai. But when the fisherman suddenly disappears at sea, Thongchai slowly begins to take over his friend's life - his house, his job and his ex-wife.",
+  "runtime_minutes": 105,
+  "release_date": "24.07.2019",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm10045381",
+      "name": "Aphisit Hama"
+    },
+    {
+      "id": "nm4378422",
+      "name": "Wanlop Rungkumjad"
+    },
+    {
+      "id": "nm10045383",
+      "name": "Rasmee Wayrana"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm2306874",
+      "name": "Phuttiphong Aroonpheng"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm2306874",
+      "name": "Phuttiphong Aroonpheng"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm10045381",
+      "name": "Aphisit Hama",
+      "character": "Thongchai"
+    },
+    {
+      "id": "nm4378422",
+      "name": "Wanlop Rungkumjad",
+      "character": "Fisherman"
+    },
+    {
+      "id": "nm10045383",
+      "name": "Rasmee Wayrana",
+      "character": "Saijai"
+    }
+  ],
+  "countries": [
+    "Thailand",
+    "France",
+    "China"
+  ],
+  "languages": [
+    "Thai"
+  ],
+  "color": "Color",
+  "filmweb_id": 811503,
+  "year": 2018,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOGJjNjM1ZTYtYmFlOS00NGQyLWJjOTgtMDI1NmYwNWMzMzQ2XkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Kraben rahu",
+  "ratings": {
+    "imdb": {
+      "rating": 6.8,
+      "votes": 1080,
+      "distribution": {
+        "1": 27,
+        "2": 22,
+        "3": 26,
+        "4": 52,
+        "5": 89,
+        "6": 206,
+        "7": 279,
+        "8": 219,
+        "9": 82,
+        "10": 78
+      },
+      "normalized": 5.2236
+    },
+    "filmweb": {
+      "rating": 6.51,
+      "votes": 347,
+      "distribution": {
+        "1": 1,
+        "2": 1,
+        "3": 19,
+        "4": 21,
+        "5": 47,
+        "6": 60,
+        "7": 97,
+        "8": 70,
+        "9": 29,
+        "10": 2
+      },
+      "normalized": 4.7519
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "17.10.2018",
+      "normalized": 6.4102
+    },
+    "score": 5.4619
+  },
+  "polish_title": "Diabeł morski",
+  "silent": false,
+  "description_pl": "Nadmorska wioska w Tajlandii. W jej pobliżu utonęło tysiące uchodźców z ludu Rohingya. Miejscowy rybak przypadkowo znajduje w lesie ich masowy grób. W jednym ciele tli się jeszcze życie. Rybak zabiera do domu nieprzytomnego, rannego mężczyznę. Leczy, oferuje swoją przyjaźń i daje imię Thongchai. Kiedy pewnego dnia rybak nie wraca z morza, Thongchai szuka go wszędzie. Mając nadzieje na jego powrót nadal mieszka w jego domu i łowi ryby. Powoli Thongchai zaczyna przypominać zaginionego przyjaciela…",
+  "producers": [
+    {
+      "id": "nm0043347",
+      "name": "Philippe Avril"
+    },
+    {
+      "id": "nm2931045",
+      "name": "Chatchai Chaiyon"
+    },
+    {
+      "id": "nm3511701",
+      "name": "Mai Meksawan"
+    },
+    {
+      "id": "nm3789048",
+      "name": "Jakrawal Nilthamrong"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm3368247",
+      "name": "Nawarophaat Rungphiboonsophit"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "nm0138210",
+  "name": "Mark Carlton",
+  "filmography": [
+    {
+      "imdb_id": "tt0093870",
+      "title": "RoboCop",
+      "year": 1987,
+      "roles": [
+        "cast"
+      ],
+      "character": "Miller"
+    },
+    {
+      "imdb_id": "tt0100802",
+      "title": "Total Recall",
+      "year": 1990,
+      "roles": [
+        "cast"
+      ],
+      "character": "Bartender"
+    }
+  ],
+  "birth_date": "15.01.1945",
+  "death_date": "30.03.2025",
+  "birth_location": "Tuscaloosa, Alabama, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 116121,
+  "name_pl": "Mark Carlton",
+  "birth_location_pl": "Tuscaloosa, Alabama",
+  "gender": "M",
+  "wikidata_processed": true
+}

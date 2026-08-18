@@ -1,0 +1,47 @@
+{
+  "id": "nm0305087",
+  "name": "Al Ernest Garcia",
+  "filmography": [
+    {
+      "imdb_id": "tt0018773",
+      "title": "The Circus",
+      "year": 1928,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "The Circus Proprietor and Ring Master"
+    },
+    {
+      "imdb_id": "tt0021749",
+      "title": "City Lights",
+      "year": 1931,
+      "roles": [
+        "cast"
+      ],
+      "character": "The Millionaire's Butler"
+    },
+    {
+      "imdb_id": "tt0027977",
+      "title": "Modern Times",
+      "year": 1936,
+      "roles": [
+        "cast"
+      ],
+      "character": "President of the Electro Steel Corp."
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzQ3NDAxMDMtNjJjOS00NTI2LTk5ZGMtYmMxODUzNjZlNDg3XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "11.03.1887",
+  "death_date": "04.09.1938",
+  "birth_location": "San Francisco, California, USA",
+  "filmweb_id": 52018,
+  "name_pl": "Al Ernest Garcia",
+  "birth_location_pl": "San Francisco, Kalifornia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

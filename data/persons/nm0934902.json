@@ -1,0 +1,49 @@
+{
+  "id": "nm0934902",
+  "name": "Paul Winfield",
+  "filmography": [
+    {
+      "imdb_id": "tt0088247",
+      "title": "The Terminator",
+      "year": 1984,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Traxler"
+    },
+    {
+      "imdb_id": "tt0100404",
+      "title": "Presumed Innocent",
+      "year": 1990,
+      "roles": [
+        "cast"
+      ],
+      "character": "Judge Larren Lyttle"
+    },
+    {
+      "imdb_id": "tt0116996",
+      "title": "Mars Attacks!",
+      "year": 1996,
+      "roles": [
+        "cast"
+      ],
+      "character": "General Casey"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYTlmYzAxOWQtZDBkOC00ZDQzLWFkOTItNzEwYmI4ZDRhZWQ3XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "22.05.1939",
+  "death_date": "07.03.2004",
+  "birth_location": "Dallas, Texas, USA",
+  "height": "1.87 m",
+  "filmweb_id": 8037,
+  "name_pl": "Paul Winfield",
+  "birth_location_pl": "Los Angeles, Kalifornia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 8037
+}

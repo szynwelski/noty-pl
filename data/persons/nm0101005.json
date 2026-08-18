@@ -1,0 +1,56 @@
+{
+  "id": "nm0101005",
+  "name": "Tom Bower",
+  "filmography": [
+    {
+      "imdb_id": "tt0099423",
+      "title": "Die Hard 2",
+      "year": 1990,
+      "roles": [
+        "cast"
+      ],
+      "character": "Marvin"
+    },
+    {
+      "imdb_id": "tt0257756",
+      "title": "High Crimes",
+      "year": 2002,
+      "roles": [
+        "cast"
+      ],
+      "character": "FBI Agent Mullins"
+    },
+    {
+      "imdb_id": "tt1095217",
+      "title": "Bad Lieutenant: Port of Call New Orleans",
+      "year": 2009,
+      "roles": [
+        "cast"
+      ],
+      "character": "Pat McDonagh"
+    },
+    {
+      "imdb_id": "tt9243946",
+      "title": "El Camino",
+      "year": 2019,
+      "roles": [
+        "cast"
+      ],
+      "character": "Lou"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNGE4ZDk1M2MtMzhhYy00OTJhLTgwMDYtN2JhM2FlMTRiZjYwXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "03.01.1938",
+  "death_date": "30.05.2024",
+  "birth_location": "Denver, Colorado, USA",
+  "height": "1.80 m",
+  "filmweb_id": 6661,
+  "name_pl": "Tom Bower",
+  "birth_location_pl": "Denver, Kolorado",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

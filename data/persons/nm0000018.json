@@ -1,0 +1,73 @@
+{
+  "id": "nm0000018",
+  "name": "Kirk Douglas",
+  "filmography": [
+    {
+      "imdb_id": "tt0039689",
+      "title": "Out of the Past",
+      "year": 1947,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Whit"
+    },
+    {
+      "imdb_id": "tt0050825",
+      "title": "Paths of Glory",
+      "year": 1957,
+      "roles": [
+        "star",
+        "cast",
+        "producer"
+      ],
+      "character": "Col. Dax"
+    },
+    {
+      "imdb_id": "tt0054331",
+      "title": "Spartacus",
+      "year": 1960,
+      "roles": [
+        "star",
+        "cast",
+        "producer"
+      ],
+      "character": "Spartacus"
+    },
+    {
+      "imdb_id": "tt0064041",
+      "title": "The Arrangement",
+      "year": 1969,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Eddie Anderson"
+    },
+    {
+      "imdb_id": "tt0077588",
+      "title": "The Fury",
+      "year": 1978,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Peter"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDgzZTFlMGEtZjYwMy00MjJiLWE4MGQtNmUyODAxZGE0NDE1XkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 41168,
+  "birth_date": "09.12.1916",
+  "death_date": "05.02.2020",
+  "birth_location": "Amsterdam, New York, USA",
+  "height": "1.75 m",
+  "imdb_scraped": true,
+  "name_pl": "Kirk Douglas",
+  "birth_location_pl": "Amsterdam, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 41168
+}

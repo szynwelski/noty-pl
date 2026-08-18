@@ -1,0 +1,147 @@
+{
+  "imdb_id": "tt0009466",
+  "title": "Out West",
+  "description": "After escaping from a marauding group of Indians, a wandering bartender teams up with a saloon owner, only to find themselves up against a ruthless outlaw who is after an unprotected Salvation Army girl. Can they beat him at his own game?",
+  "runtime_minutes": 25,
+  "release_date": "20.01.1918",
+  "genres": [
+    "Short",
+    "Western",
+    "Comedy"
+  ],
+  "stars": [
+    {
+      "id": "nm0000779",
+      "name": "Roscoe 'Fatty' Arbuckle"
+    },
+    {
+      "id": "nm0000036",
+      "name": "Buster Keaton"
+    },
+    {
+      "id": "nm0820607",
+      "name": "Al St. John"
+    },
+    {
+      "id": "nm0482115",
+      "name": "Alice Lake"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000779",
+      "name": "Roscoe 'Fatty' Arbuckle"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000779",
+      "name": "Roscoe 'Fatty' Arbuckle"
+    },
+    {
+      "id": "nm0848231",
+      "name": "Natalie Talmadge"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000779",
+      "name": "Roscoe 'Fatty' Arbuckle",
+      "character": "Train Rider, Bartender"
+    },
+    {
+      "id": "nm0000036",
+      "name": "Buster Keaton",
+      "character": "Sheriff"
+    },
+    {
+      "id": "nm0820607",
+      "name": "Al St. John",
+      "character": "Wild Bill Hiccup"
+    },
+    {
+      "id": "nm0482115",
+      "name": "Alice Lake",
+      "character": "Salvation Army Woman"
+    },
+    {
+      "id": "nm0444172",
+      "name": "Joe Keaton",
+      "character": "Man on Train"
+    },
+    {
+      "id": "nm0607054",
+      "name": "Ernie Morrison Sr.",
+      "character": ""
+    },
+    {
+      "id": "nm0369148",
+      "name": "William Hauber",
+      "character": "Bandito"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "None",
+    "English"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 96138,
+  "year": 1918,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzI3YjVmM2YtODFjNi00YWQ4LWIzOGYtNGNmODMwOTZmYzNhXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.4,
+      "votes": 1408,
+      "distribution": {
+        "1": 19,
+        "2": 21,
+        "3": 24,
+        "4": 67,
+        "5": 187,
+        "6": 426,
+        "7": 377,
+        "8": 173,
+        "9": 50,
+        "10": 64
+      },
+      "normalized": 4.6237
+    },
+    "filmweb": {
+      "rating": 6.08,
+      "votes": 183,
+      "distribution": {
+        "2": 3,
+        "3": 8,
+        "4": 14,
+        "5": 24,
+        "6": 57,
+        "7": 58,
+        "8": 14,
+        "9": 4,
+        "10": 1
+      },
+      "normalized": 4.5562
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "29.10.2007",
+      "normalized": 5.4199
+    },
+    "score": 4.8666
+  },
+  "polish_title": "Na Dzikim Zachodzie",
+  "silent": true,
+  "description_pl": "Akcja filmu rozgrywa się w małym miasteczku. Panuje w nim duży bałagan i słychać liczne strzelaniny. Miejscowa knajpa ma odpowiednie drzwi, żeby bez problemy wylatywali z niej niechciani goście. Roscoe i Buster poraz kolejny rywalizują o Alice, ale kiedy zjawia się groźniejszy rywal, jednoczą siły przeciw niemu. Tym rywalem jest Al.",
+  "cinematographers": [
+    {
+      "id": "nm0676438",
+      "name": "George Peters"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-15"
+}

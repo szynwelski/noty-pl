@@ -1,0 +1,45 @@
+{
+  "id": "nm0007698",
+  "name": "Boleslaw Abart",
+  "filmography": [
+    {
+      "imdb_id": "tt0081274",
+      "title": "Olimpiada 40",
+      "year": 1980,
+      "roles": [
+        "star",
+        "cast"
+      ]
+    },
+    {
+      "imdb_id": "tt0085916",
+      "title": "Matka Królów",
+      "year": 1987,
+      "roles": [
+        "cast"
+      ],
+      "character": "Hegeman"
+    },
+    {
+      "imdb_id": "tt0778695",
+      "title": "The French Trick",
+      "year": 2006,
+      "roles": [
+        "cast"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMWM0Y2UzYjEtODIxNi00YjU2LWFmODUtZWQ4NzFmOGViZjRmXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "13.08.1935",
+  "birth_location": "Chorzów, Slaskie, Poland",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Polska"
+  ],
+  "filmweb_id": 55285,
+  "wikidata_fw_id": 55285,
+  "gender": "M",
+  "name_pl": "Bolesław Abart",
+  "birth_location_pl": "Chorzów"
+}

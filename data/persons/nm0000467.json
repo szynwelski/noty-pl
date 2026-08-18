@@ -1,0 +1,48 @@
+{
+  "id": "nm0000467",
+  "name": "Don Johnson",
+  "filmography": [
+    {
+      "imdb_id": "tt1853728",
+      "title": "Django Unchained",
+      "year": 2012,
+      "roles": [
+        "cast"
+      ],
+      "character": "Big Daddy"
+    },
+    {
+      "imdb_id": "tt1179031",
+      "title": "Cold in July",
+      "year": 2014,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Jim Bob"
+    },
+    {
+      "imdb_id": "tt8946378",
+      "title": "Knives Out",
+      "year": 2019,
+      "roles": [
+        "cast"
+      ],
+      "character": "Richard Drysdale"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTg4ODYwOTU0N15BMl5BanBnXkFtZTgwNjc5NDM2MTE@._V1_.jpg",
+  "birth_date": "15.12.1949",
+  "birth_location": "Flat Creek, Missouri, USA",
+  "height": "1.75 m",
+  "filmweb_id": 41793,
+  "name_pl": "Don Johnson",
+  "birth_location_pl": "Flat Creek, Missouri",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 41793
+}

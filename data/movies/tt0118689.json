@@ -1,0 +1,238 @@
+{
+  "imdb_id": "tt0118689",
+  "title": "Bean",
+  "description": "The bumbling Mr. Bean travels to America when he is given the responsibility of bringing a highly valuable painting to a Los Angeles museum.",
+  "runtime_minutes": 89,
+  "release_date": "07.11.1997",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Family"
+  ],
+  "stars": [
+    {
+      "id": "nm0000100",
+      "name": "Rowan Atkinson"
+    },
+    {
+      "id": "nm0001493",
+      "name": "Peter MacNicol"
+    },
+    {
+      "id": "nm0590055",
+      "name": "John Mills"
+    },
+    {
+      "id": "nm0715622",
+      "name": "Pamela Reed"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0809321",
+      "name": "Mel Smith"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000100",
+      "name": "Rowan Atkinson"
+    },
+    {
+      "id": "nm0193485",
+      "name": "Richard Curtis"
+    },
+    {
+      "id": "nm0003741",
+      "name": "Robin Driscoll"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000100",
+      "name": "Rowan Atkinson",
+      "character": "Mr. Bean"
+    },
+    {
+      "id": "nm0001493",
+      "name": "Peter MacNicol",
+      "character": "David Langley"
+    },
+    {
+      "id": "nm0590055",
+      "name": "John Mills",
+      "character": "Chairman"
+    },
+    {
+      "id": "nm0715622",
+      "name": "Pamela Reed",
+      "character": "Alison Langley"
+    },
+    {
+      "id": "nm0950867",
+      "name": "Harris Yulin",
+      "character": "George Grierson"
+    },
+    {
+      "id": "nm0000608",
+      "name": "Burt Reynolds",
+      "character": "General Newton"
+    },
+    {
+      "id": "nm0236952",
+      "name": "Larry Drake",
+      "character": "Elmer"
+    },
+    {
+      "id": "nm0325975",
+      "name": "Danny Goldring",
+      "character": "Security Buck"
+    },
+    {
+      "id": "nm0301959",
+      "name": "Johnny Galecki",
+      "character": "Stingo Wheelie"
+    },
+    {
+      "id": "nm0254760",
+      "name": "Chris Ellis",
+      "character": "Det. Butler"
+    },
+    {
+      "id": "nm0492620",
+      "name": "Andrew Lawrence",
+      "character": "Kevin Langley"
+    },
+    {
+      "id": "nm0250718",
+      "name": "Peter Egan",
+      "character": "Lord Walton"
+    },
+    {
+      "id": "nm0134922",
+      "name": "Peter Capaldi",
+      "character": "Gareth"
+    },
+    {
+      "id": "nm0113942",
+      "name": "June Brown",
+      "character": "Delilah"
+    },
+    {
+      "id": "nm0416829",
+      "name": "Peter James",
+      "character": "Dr. Rosenblum"
+    },
+    {
+      "id": "nm0180313",
+      "name": "Clive Corner",
+      "character": "Dr. Cutler"
+    },
+    {
+      "id": "nm0115282",
+      "name": "Rob Brownstein",
+      "character": "Dick Journo"
+    },
+    {
+      "id": "nm0669131",
+      "name": "Julia Pearlstein",
+      "character": "Phyllis Quill"
+    }
+  ],
+  "countries": [
+    "United Kingdom",
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 527,
+  "year": 1997,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYjJiMmNlNGItOGQyOC00ZDczLWEzODYtYmM2MTE1YTczYzA0XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.5,
+      "votes": 117136,
+      "distribution": {
+        "1": 1859,
+        "2": 1648,
+        "3": 2658,
+        "4": 5505,
+        "5": 13102,
+        "6": 28091,
+        "7": 30980,
+        "8": 16570,
+        "9": 6223,
+        "10": 10500
+      },
+      "normalized": 4.4953
+    },
+    "filmweb": {
+      "rating": 7.02,
+      "votes": 75957,
+      "distribution": {
+        "1": 582,
+        "2": 417,
+        "3": 1048,
+        "4": 1911,
+        "5": 4723,
+        "6": 13316,
+        "7": 26867,
+        "8": 18147,
+        "9": 5327,
+        "10": 3619
+      },
+      "normalized": 5.664
+    },
+    "jarek": {
+      "rating": 2,
+      "date_rated": "22.03.2011",
+      "normalized": 3.5003
+    },
+    "score": 4.5532
+  },
+  "polish_title": "Jaś Fasola: Nadciąga totalny kataklizm",
+  "silent": false,
+  "description_pl": "Amerykański filantrop przeznacza wielką sumę dolarów na to, by do Kalifornii wrócił słynny obraz amerykańskiego malarza Jamesa Whistlera. Dzieło znajduje się we Francji, pieczę nad operacją przejmuje angielski rzeczoznawca. Ten jednak okazuje się urodzonym pechowcem.",
+  "producers": [
+    {
+      "id": "nm0000100",
+      "name": "Rowan Atkinson"
+    },
+    {
+      "id": "nm0071564",
+      "name": "Peter Bennett-Jones"
+    },
+    {
+      "id": "nm0079677",
+      "name": "Tim Bevan"
+    },
+    {
+      "id": "nm0193485",
+      "name": "Richard Curtis"
+    },
+    {
+      "id": "nm0271479",
+      "name": "Eric Fellner"
+    },
+    {
+      "id": "nm0639780",
+      "name": "Rebecca O'Brien"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0328759",
+      "name": "Howard Goodall"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0448568",
+      "name": "Francis Kenny"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

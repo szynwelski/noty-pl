@@ -1,0 +1,182 @@
+{
+  "imdb_id": "tt0118528",
+  "title": "12 Angry Men",
+  "description": "Twelve men must decide the fate of one when one juror objects to the jury's decision.",
+  "runtime_minutes": 117,
+  "release_date": "17.08.1997",
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0000493",
+      "name": "Jack Lemmon"
+    },
+    {
+      "id": "nm0001715",
+      "name": "George C. Scott"
+    },
+    {
+      "id": "nm0002025",
+      "name": "Hume Cronyn"
+    },
+    {
+      "id": "nm0001115",
+      "name": "Ossie Davis"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001243",
+      "name": "William Friedkin"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0741627",
+      "name": "Reginald Rose"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000493",
+      "name": "Jack Lemmon",
+      "character": "Juror #8"
+    },
+    {
+      "id": "nm0001715",
+      "name": "George C. Scott",
+      "character": "Juror #3"
+    },
+    {
+      "id": "nm0002025",
+      "name": "Hume Cronyn",
+      "character": "Juror #9"
+    },
+    {
+      "id": "nm0005524",
+      "name": "Courtney B. Vance",
+      "character": "Foreman"
+    },
+    {
+      "id": "nm0001115",
+      "name": "Ossie Davis",
+      "character": "Juror #2"
+    },
+    {
+      "id": "nm0000090",
+      "name": "Armin Mueller-Stahl",
+      "character": "Juror #4"
+    },
+    {
+      "id": "nm0002126",
+      "name": "Dorian Harewood",
+      "character": "Juror #5"
+    },
+    {
+      "id": "nm0001254",
+      "name": "James Gandolfini",
+      "character": "Juror #6"
+    },
+    {
+      "id": "nm0001103",
+      "name": "Tony Danza",
+      "character": "Juror #7"
+    },
+    {
+      "id": "nm0932112",
+      "name": "Mykelti Williamson",
+      "character": "Juror #10"
+    },
+    {
+      "id": "nm0001579",
+      "name": "Edward James Olmos",
+      "character": "Juror #11"
+    },
+    {
+      "id": "nm0676973",
+      "name": "William Petersen",
+      "character": "Juror #12"
+    },
+    {
+      "id": "nm0001521",
+      "name": "Mary McDonnell",
+      "character": "Judge"
+    },
+    {
+      "id": "nm0021132",
+      "name": "Tyrees Allen",
+      "character": "Guard"
+    },
+    {
+      "id": "nm0816669",
+      "name": "Douglas Spain",
+      "character": "The Accused"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 5267,
+  "year": 1997,
+  "type": "tvMovie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjc5MzIyYWUtMzdiZS00ZDVmLWEyYjMtZjljYWJkNmJmY2MyXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.8,
+      "votes": 21241,
+      "distribution": {
+        "1": 232,
+        "2": 80,
+        "3": 119,
+        "4": 199,
+        "5": 551,
+        "6": 1502,
+        "7": 4366,
+        "8": 7322,
+        "9": 3746,
+        "10": 3124
+      },
+      "normalized": 6.918
+    },
+    "filmweb": {
+      "rating": 8.12,
+      "votes": 51360,
+      "distribution": {
+        "1": 218,
+        "2": 69,
+        "3": 220,
+        "4": 366,
+        "5": 1021,
+        "6": 2668,
+        "7": 8220,
+        "8": 18133,
+        "9": 13645,
+        "10": 6800
+      },
+      "normalized": 8.7946
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "19.10.2005",
+      "normalized": 5.4199
+    },
+    "score": 7.0442
+  },
+  "polish_title": "Dwunastu gniewnych ludzi",
+  "silent": false,
+  "description_pl": "Film jest ostrzeżeniem przed zawodnością systemu sądu przysięgłych - chluby prawodawstwa Stanów Zjednoczonych. Młody Portorykańczyk zostaje oskarżony o zabójstwo ojca. Chłopak wychowywał się w ubogiej dzielnicy, w wieku 9 lat stracił matkę, przez jakiś czas przebywał w sierocińcu. Gdy wrócił pod opiekę ojca, ten nie szczędził mu razów. Pewnego dnia doszło do tragedii. Oskarżonemu grozi dożywotnie więzienie, a nawet kara śmierci. Dwunastu mężczyzn ma zadecydować o losie chłopaka. W pierwszym głosowaniu jedenastu ławników głosuje \"winny\".",
+  "cinematographers": [
+    {
+      "id": "nm0005865",
+      "name": "Fred Schuler"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

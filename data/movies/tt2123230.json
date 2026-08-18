@@ -1,0 +1,228 @@
+{
+  "imdb_id": "tt2123230",
+  "title": "Djeca",
+  "description": "Siblings Rahima and Nedim are the Bosnian war orphans. She works as a restaurant chef and earns just enough money to survive.",
+  "runtime_minutes": 90,
+  "release_date": "20.03.2013",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm3626876",
+      "name": "Marija Pikić"
+    },
+    {
+      "id": "nm4793182",
+      "name": "Ismir Gagula"
+    },
+    {
+      "id": "nm0623126",
+      "name": "Bojan Navojec"
+    },
+    {
+      "id": "nm2979794",
+      "name": "Sanela Pepeljak"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm1548101",
+      "name": "Aida Begic"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1548101",
+      "name": "Aida Begic"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm3626876",
+      "name": "Marija Pikić",
+      "character": "Rahima"
+    },
+    {
+      "id": "nm4793182",
+      "name": "Ismir Gagula",
+      "character": "Nedim"
+    },
+    {
+      "id": "nm0623126",
+      "name": "Bojan Navojec",
+      "character": "Davor"
+    },
+    {
+      "id": "nm2979794",
+      "name": "Sanela Pepeljak",
+      "character": "Vedrana"
+    },
+    {
+      "id": "nm3540819",
+      "name": "Vedran Djekic",
+      "character": "Ciza"
+    },
+    {
+      "id": "nm2838364",
+      "name": "Mario Knezovic",
+      "character": "Dino"
+    },
+    {
+      "id": "nm1076007",
+      "name": "Jasna Beri",
+      "character": "Saliha"
+    },
+    {
+      "id": "nm0229314",
+      "name": "Nikola Djuricko",
+      "character": "Tarik"
+    },
+    {
+      "id": "nm4830467",
+      "name": "Stasa Dukic",
+      "character": "Selma"
+    },
+    {
+      "id": "nm0782898",
+      "name": "Aleksandar Seksan",
+      "character": "Rizo"
+    },
+    {
+      "id": "nm0867677",
+      "name": "Velibor Topic",
+      "character": "Mirsad Melic"
+    },
+    {
+      "id": "nm1846896",
+      "name": "Ravijojla Jovancic",
+      "character": "Kira"
+    },
+    {
+      "id": "nm0483375",
+      "name": "Mirela Lambic",
+      "character": "Jasna"
+    },
+    {
+      "id": "nm1773479",
+      "name": "Sadzida Setic",
+      "character": "Branka"
+    },
+    {
+      "id": "nm1772731",
+      "name": "Semir Krivic",
+      "character": "Inspektor"
+    },
+    {
+      "id": "nm1603149",
+      "name": "Adnan Omerovic",
+      "character": "Coro"
+    },
+    {
+      "id": "nm1772883",
+      "name": "Mehmed Porca",
+      "character": "Inspektor"
+    },
+    {
+      "id": "nm1085005",
+      "name": "Vedrana Bozinovic",
+      "character": "Kirina kcerka"
+    }
+  ],
+  "countries": [
+    "Bosnia and Herzegovina",
+    "Germany",
+    "France",
+    "Turkey"
+  ],
+  "languages": [
+    "Bosnian"
+  ],
+  "color": "Color",
+  "filmweb_id": 655604,
+  "year": 2012,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZjMxZWI5MjUtYzIwOC00YzZkLTgxYjEtMzVmY2NkZGJiY2NmXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.4,
+      "votes": 709,
+      "distribution": {
+        "1": 29,
+        "2": 5,
+        "3": 16,
+        "4": 37,
+        "5": 84,
+        "6": 166,
+        "7": 187,
+        "8": 79,
+        "9": 26,
+        "10": 80
+      },
+      "normalized": 4.8147
+    },
+    "filmweb": {
+      "rating": 5.44,
+      "votes": 189,
+      "distribution": {
+        "1": 4,
+        "2": 1,
+        "3": 17,
+        "4": 29,
+        "5": 41,
+        "6": 52,
+        "7": 27,
+        "8": 13,
+        "9": 5,
+        "10": 0
+      },
+      "normalized": 4.1375
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "15.02.2013",
+      "normalized": 5.6855
+    },
+    "score": 4.8792
+  },
+  "polish_title": "Dzieci Sarajewa",
+  "silent": false,
+  "producers": [
+    {
+      "id": "nm1548101",
+      "name": "Aida Begic"
+    },
+    {
+      "id": "nm0037665",
+      "name": "François d'Artemare"
+    },
+    {
+      "id": "nm1584816",
+      "name": "Adis Djapo"
+    },
+    {
+      "id": "nm1901046",
+      "name": "Benny Drechsel"
+    },
+    {
+      "id": "nm0969427",
+      "name": "Semih Kaplanoğlu"
+    },
+    {
+      "id": "nm1162031",
+      "name": "Karsten Stöter"
+    },
+    {
+      "id": "nm7586330",
+      "name": "Rebecca Zivohlava"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm1637022",
+      "name": "Erol Zubcevic"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

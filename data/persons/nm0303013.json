@@ -1,0 +1,46 @@
+{
+  "id": "nm0303013",
+  "name": "Carla Gallo",
+  "filmography": [
+    {
+      "imdb_id": "tt0317919",
+      "title": "Mission: Impossible III",
+      "year": 2006,
+      "roles": [
+        "cast"
+      ],
+      "character": "Beth"
+    },
+    {
+      "imdb_id": "tt1389137",
+      "title": "We Bought a Zoo",
+      "year": 2011,
+      "roles": [
+        "cast"
+      ],
+      "character": "Rhonda Blair"
+    },
+    {
+      "imdb_id": "tt2004420",
+      "title": "Neighbors",
+      "year": 2014,
+      "roles": [
+        "cast"
+      ],
+      "character": "Paula"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTI5Njg5Njg4OV5BMl5BanBnXkFtZTcwMDEyNjAzMg@@._V1_.jpg",
+  "birth_date": "24.06.1975",
+  "birth_location": "Brooklyn, New York, USA",
+  "height": "1.63 m",
+  "filmweb_id": 139973,
+  "name_pl": "Carla Gallo",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

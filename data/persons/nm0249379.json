@@ -1,0 +1,44 @@
+{
+  "id": "nm0249379",
+  "name": "Thomas A. Edison",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQ5NzI2NjgwN15BMl5BanBnXkFtZTgwNDU3MjU0MjE@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0229220",
+      "title": "Annie Oakley",
+      "year": 1894,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0000007",
+      "title": "Corbett and Courtney Before the Kinetograph",
+      "year": 1894,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0326158",
+      "title": "Sioux Ghost Dance",
+      "year": 1894,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "birth_date": "11.02.1847",
+  "death_date": "18.10.1931",
+  "birth_location": "Milan, Ohio, USA",
+  "height": "1.78 m",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "filmweb_id": 322638,
+  "name_pl": "Thomas A. Edison",
+  "birth_location_pl": "Milan, Ohio",
+  "gender": "M"
+}

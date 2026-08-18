@@ -1,0 +1,217 @@
+{
+  "imdb_id": "tt4565380",
+  "title": "Fauda",
+  "description": "The human stories on both sides of the Israel-Palestine conflict.",
+  "runtime_minutes": 60,
+  "release_date": "15.02.2015",
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama",
+    "Thriller",
+    "War"
+  ],
+  "stars": [
+    {
+      "id": "nm1411039",
+      "name": "Netta Garti"
+    },
+    {
+      "id": "nm2443797",
+      "name": "Lior Raz"
+    },
+    {
+      "id": "nm0169453",
+      "name": "Itzik Cohen"
+    },
+    {
+      "id": "nm3841030",
+      "name": "Yaakov Zada-Daniel"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm2443797",
+      "name": "Lior Raz",
+      "character": "Doron Kavillio"
+    },
+    {
+      "id": "nm0169453",
+      "name": "Itzik Cohen",
+      "character": "Gabi 'Captain Eyov'"
+    },
+    {
+      "id": "nm3841030",
+      "name": "Yaakov Zada-Daniel",
+      "character": "Eli"
+    },
+    {
+      "id": "nm1411039",
+      "name": "Netta Garti",
+      "character": "Gali Kavillio"
+    },
+    {
+      "id": "nm4387591",
+      "name": "Doron Ben-David",
+      "character": "Hertzel 'Steve' Pinto"
+    },
+    {
+      "id": "nm2320515",
+      "name": "Rona-Lee Shimon",
+      "character": "Nurit"
+    },
+    {
+      "id": "nm3795081",
+      "name": "Boaz Konforty",
+      "character": "Avichay Ben Chaim"
+    },
+    {
+      "id": "nm8699552",
+      "name": "Idan Amedi",
+      "character": "Sagi Tzur"
+    },
+    {
+      "id": "nm3501545",
+      "name": "Matt Gottlieb",
+      "character": "Sagi"
+    },
+    {
+      "id": "nm6542672",
+      "name": "Meirav Shirom",
+      "character": "Dana"
+    },
+    {
+      "id": "nm5674436",
+      "name": "Tsahi Halevi",
+      "character": "Naor Barazani"
+    },
+    {
+      "id": "nm5674223",
+      "name": "Shadi Mar'i",
+      "character": "Walid El Abed"
+    },
+    {
+      "id": "nm3128226",
+      "name": "Laëtitia Eïdo",
+      "character": "Dr. Shirin El Abed"
+    },
+    {
+      "id": "nm4278130",
+      "name": "Moran Rosenblatt",
+      "character": "Anat Moreno"
+    },
+    {
+      "id": "nm5115591",
+      "name": "Dafi Shoshana-Alpern",
+      "character": "Hagit Ben Chaim"
+    },
+    {
+      "id": "nm2297989",
+      "name": "Jameel Khoury",
+      "character": "Abu Smara"
+    },
+    {
+      "id": "nm0781879",
+      "name": "Yuval Segal",
+      "character": "Michael 'Mickey' Moreno"
+    },
+    {
+      "id": "nm6150071",
+      "name": "Tomer Capone",
+      "character": "Boaz"
+    }
+  ],
+  "countries": [
+    "Israel"
+  ],
+  "languages": [
+    "Hebrew",
+    "Arabic"
+  ],
+  "color": null,
+  "year": 2015,
+  "type": "tvSeries",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZDNjNzhmM2ItYWM4Ni00ZThjLWE4N2YtODQ1MzRiYWQ0YzBlXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 747016,
+  "ratings": {
+    "imdb": {
+      "rating": 8.3,
+      "votes": 43711,
+      "distribution": {
+        "1": 3099,
+        "2": 267,
+        "3": 232,
+        "4": 258,
+        "5": 488,
+        "6": 1133,
+        "7": 3583,
+        "8": 9896,
+        "9": 11800,
+        "10": 12955
+      }
+    },
+    "filmweb": {
+      "rating": 7.99,
+      "votes": 12987,
+      "distribution": {
+        "1": 106,
+        "2": 17,
+        "3": 72,
+        "4": 85,
+        "5": 246,
+        "6": 669,
+        "7": 2248,
+        "8": 5173,
+        "9": 3034,
+        "10": 1337
+      }
+    },
+    "jarek": {
+      "rating": 10,
+      "date_rated": "06.02.2023"
+    }
+  },
+  "polish_title": "Fauda",
+  "silent": false,
+  "producers": [
+    {
+      "id": "nm2622401",
+      "name": "Liat Benasuly Amit"
+    },
+    {
+      "id": "nm2443797",
+      "name": "Lior Raz"
+    },
+    {
+      "id": "nm9530224",
+      "name": "Shimrit Yekutieli"
+    },
+    {
+      "id": "nm7216957",
+      "name": "Avi Issacharoff"
+    },
+    {
+      "id": "nm6898268",
+      "name": "David Betser"
+    },
+    {
+      "id": "nm1038269",
+      "name": "Maria Feldman"
+    },
+    {
+      "id": "nm4534393",
+      "name": "Zohar Hanuni"
+    },
+    {
+      "id": "nm1784776",
+      "name": "Ferenc Pusztai"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm1345621",
+      "name": "Gilad Benamram"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

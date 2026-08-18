@@ -1,0 +1,65 @@
+{
+  "id": "nm0079645",
+  "name": "Billy Bevan",
+  "filmography": [
+    {
+      "imdb_id": "tt0027996",
+      "title": "Mr. Deeds Goes to Town",
+      "year": 1936,
+      "roles": [
+        "cast"
+      ],
+      "character": "Cabby"
+    },
+    {
+      "imdb_id": "tt0029947",
+      "title": "Bringing Up Baby",
+      "year": 1938,
+      "roles": [
+        "cast"
+      ],
+      "character": "Joe - Bartender"
+    },
+    {
+      "imdb_id": "tt0032976",
+      "title": "Rebecca",
+      "year": 1940,
+      "roles": [
+        "cast"
+      ],
+      "character": "Policeman"
+    },
+    {
+      "imdb_id": "tt0034248",
+      "title": "Suspicion",
+      "year": 1941,
+      "roles": [
+        "cast"
+      ],
+      "character": "Ticket Taker"
+    },
+    {
+      "imdb_id": "tt0056799",
+      "title": "30 Years of Fun",
+      "year": 1963,
+      "roles": [
+        "cast"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjE2NzM4NzIyOV5BMl5BanBnXkFtZTcwOTcwMDYzOA@@._V1_.jpg",
+  "birth_date": "29.09.1887",
+  "death_date": "26.11.1957",
+  "birth_location": "Orange, New South Wales, Australia",
+  "height": "1.66 m",
+  "filmweb_id": 66476,
+  "name_pl": "Billy Bevan",
+  "birth_location_pl": "Orange",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Australia"
+  ],
+  "wikidata_fw_id": 66476
+}

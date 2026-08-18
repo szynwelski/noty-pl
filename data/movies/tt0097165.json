@@ -1,0 +1,227 @@
+{
+  "imdb_id": "tt0097165",
+  "title": "Dead Poets Society",
+  "description": "A maverick teacher at a prestigious New England boys' boarding school uses poetry to embolden his pupils to new heights of self-expression.",
+  "runtime_minutes": 128,
+  "release_date": "09.06.1989",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0000245",
+      "name": "Robin Williams"
+    },
+    {
+      "id": "nm0000494",
+      "name": "Robert Sean Leonard"
+    },
+    {
+      "id": "nm0000160",
+      "name": "Ethan Hawke"
+    },
+    {
+      "id": "nm0001038",
+      "name": "Josh Charles"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001837",
+      "name": "Peter Weir"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0776114",
+      "name": "Tom Schulman"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000245",
+      "name": "Robin Williams",
+      "character": "John Keating"
+    },
+    {
+      "id": "nm0000494",
+      "name": "Robert Sean Leonard",
+      "character": "Neil Perry"
+    },
+    {
+      "id": "nm0000160",
+      "name": "Ethan Hawke",
+      "character": "Todd Anderson"
+    },
+    {
+      "id": "nm0001038",
+      "name": "Josh Charles",
+      "character": "Knox Overstreet"
+    },
+    {
+      "id": "nm0360796",
+      "name": "Gale Hansen",
+      "character": "Charlie Dalton"
+    },
+    {
+      "id": "nm0476378",
+      "name": "Dylan Kussman",
+      "character": "Richard Cameron"
+    },
+    {
+      "id": "nm0749456",
+      "name": "Allelon Ruggiero",
+      "character": "Steven Meeks"
+    },
+    {
+      "id": "nm0914209",
+      "name": "James Waterston",
+      "character": "Gerard Pitts"
+    },
+    {
+      "id": "nm0516093",
+      "name": "Norman Lloyd",
+      "character": "Mr. Nolan"
+    },
+    {
+      "id": "nm0001748",
+      "name": "Kurtwood Smith",
+      "character": "Mr. Perry"
+    },
+    {
+      "id": "nm0069724",
+      "name": "Carla Belver",
+      "character": "Mrs. Perry"
+    },
+    {
+      "id": "nm0694676",
+      "name": "Leon Pownall",
+      "character": "McAllister"
+    },
+    {
+      "id": "nm0552327",
+      "name": "George Martin",
+      "character": "Dr. Hager"
+    },
+    {
+      "id": "nm0041767",
+      "name": "Joe Aufiery",
+      "character": "Chemistry Teacher"
+    },
+    {
+      "id": "nm0136999",
+      "name": "Matt Carey",
+      "character": "Hopkins"
+    },
+    {
+      "id": "nm0004668",
+      "name": "Kevin Cooney",
+      "character": "Joe Danburry"
+    },
+    {
+      "id": "nm0601328",
+      "name": "Jane Moore",
+      "character": "Mrs. Danburry"
+    },
+    {
+      "id": "nm0001223",
+      "name": "Lara Flynn Boyle",
+      "character": "Ginny Danburry"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Latin",
+    "French"
+  ],
+  "color": "Color",
+  "filmweb_id": 1262,
+  "year": 1989,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDYwNGVlY2ItMWYxMS00YjZiLWE5MTAtYWM5NWQ2ZWJjY2Q3XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8.1,
+      "votes": 664569,
+      "distribution": {
+        "1": 3239,
+        "2": 1840,
+        "3": 2845,
+        "4": 5279,
+        "5": 12216,
+        "6": 33776,
+        "7": 105441,
+        "8": 212708,
+        "9": 155283,
+        "10": 131942
+      },
+      "normalized": 7.8456
+    },
+    "filmweb": {
+      "rating": 7.83,
+      "votes": 331400,
+      "distribution": {
+        "1": 1378,
+        "2": 1018,
+        "3": 2717,
+        "4": 4843,
+        "5": 11186,
+        "6": 26378,
+        "7": 68226,
+        "8": 110431,
+        "9": 64896,
+        "10": 40327
+      },
+      "normalized": 7.8413
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "02.12.2005",
+      "normalized": 6.4102
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "19.10.2005",
+      "normalized": 5.4199
+    },
+    "score": 6.8792
+  },
+  "polish_title": "Stowarzyszenie Umarłych Poetów",
+  "silent": false,
+  "description_pl": "Ekscentryczny profesor John Keating (<a href=\"/osoba/?id=nm0000245\">Robin Williams</a>) wnosi w szacowne mury ekskluzywnej uczelni ducha poezji, miłości życia i samodzielnego myślenia. Zainspirowani przez niego chłopcy odnawiają sekretny związek - Stowarzyszenie Umarłych Poetów. Odkrywają w nim piękno zapomnianych utworów, a także prawo do marzeń, wolności i buntu.",
+  "producers": [
+    {
+      "id": "nm0353187",
+      "name": "Steven Haft"
+    },
+    {
+      "id": "nm0376416",
+      "name": "Duncan Henderson"
+    },
+    {
+      "id": "nm0432625",
+      "name": "Paul Junger Witt"
+    },
+    {
+      "id": "nm0859597",
+      "name": "Tony Thomas"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0003574",
+      "name": "Maurice Jarre"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005868",
+      "name": "John Seale"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

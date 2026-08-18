@@ -1,0 +1,41 @@
+{
+  "id": "nm0935664",
+  "name": "Alex Winter",
+  "filmography": [
+    {
+      "imdb_id": "tt0096928",
+      "title": "Bill & Ted's Excellent Adventure",
+      "year": 1989,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Bill S. Preston"
+    },
+    {
+      "imdb_id": "tt3312868",
+      "title": "Deep Web",
+      "year": 2015,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNmNhNWRmYTItMjk3MS00MjBkLWI5OTMtYTU3ZGQ4NGI0MGYyXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "17.07.1965",
+  "birth_location": "London, England, UK",
+  "height": "1.70 m",
+  "imdb_scraped": true,
+  "filmweb_id": 46395,
+  "name_pl": "Alex Winter",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania",
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 46395
+}

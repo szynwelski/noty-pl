@@ -1,0 +1,81 @@
+{
+  "id": "nm0002041",
+  "name": "Dean Devlin",
+  "filmography": [
+    {
+      "imdb_id": "tt0105698",
+      "title": "Universal Soldier",
+      "year": 1992,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0111282",
+      "title": "Stargate",
+      "year": 1994,
+      "roles": [
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0116629",
+      "title": "Independence Day",
+      "year": 1996,
+      "roles": [
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0120685",
+      "title": "Godzilla",
+      "year": 1998,
+      "roles": [
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0187393",
+      "title": "The Patriot",
+      "year": 2000,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt1628841",
+      "title": "Independence Day: Resurgence",
+      "year": 2016,
+      "roles": [
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt1981128",
+      "title": "Geostorm",
+      "year": 2017,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjIyODg1NjE1NV5BMl5BanBnXkFtZTgwODUzMzQ4MDE@._V1_.jpg",
+  "birth_date": "27.08.1962",
+  "birth_location": "New York City, New York, USA",
+  "height": "1.78 m",
+  "filmweb_id": 10442,
+  "name_pl": "Dean Devlin",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

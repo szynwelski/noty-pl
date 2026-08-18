@@ -1,0 +1,47 @@
+{
+  "id": "nm0429069",
+  "name": "Rashida Jones",
+  "filmography": [
+    {
+      "imdb_id": "tt1155056",
+      "title": "I Love You, Man",
+      "year": 2009,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Zooey Rice"
+    },
+    {
+      "imdb_id": "tt5497778",
+      "title": "Nosedive",
+      "year": 2016,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt4729430",
+      "title": "Klaus",
+      "year": 2019,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Alva"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjA0ODM2MzQ2NV5BMl5BanBnXkFtZTcwMTAxNTUxOQ@@._V1_.jpg",
+  "birth_date": "25.02.1976",
+  "birth_location": "Los Angeles, California, USA",
+  "height": "1.63 m",
+  "filmweb_id": 106906,
+  "name_pl": "Rashida Jones",
+  "birth_location_pl": "Los Angeles, Kalifornia",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

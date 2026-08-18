@@ -1,0 +1,317 @@
+{
+  "imdb_id": "tt1649418",
+  "title": "The Gray Man",
+  "description": "When the CIA's most skilled operative, whose true identity is known to none, accidentally uncovers dark agency secrets, a psychopathic former colleague puts a bounty on his head, setting off a global manhunt by international assassins.",
+  "runtime_minutes": 122,
+  "release_date": "22.07.2022",
+  "genres": [
+    "Action",
+    "Mystery",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0331516",
+      "name": "Ryan Gosling"
+    },
+    {
+      "id": "nm0262635",
+      "name": "Chris Evans"
+    },
+    {
+      "id": "nm1869101",
+      "name": "Ana de Armas"
+    },
+    {
+      "id": "nm0000671",
+      "name": "Billy Bob Thornton"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0751577",
+      "name": "Anthony Russo"
+    },
+    {
+      "id": "nm0751648",
+      "name": "Joe Russo"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0751648",
+      "name": "Joe Russo"
+    },
+    {
+      "id": "nm1321655",
+      "name": "Christopher Markus"
+    },
+    {
+      "id": "nm1321656",
+      "name": "Stephen McFeely"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0331516",
+      "name": "Ryan Gosling",
+      "character": "Six"
+    },
+    {
+      "id": "nm0262635",
+      "name": "Chris Evans",
+      "character": "Lloyd Hansen"
+    },
+    {
+      "id": "nm1869101",
+      "name": "Ana de Armas",
+      "character": "Dani Miranda"
+    },
+    {
+      "id": "nm0000671",
+      "name": "Billy Bob Thornton",
+      "character": "Fitzroy"
+    },
+    {
+      "id": "nm3725055",
+      "name": "Jessica Henwick",
+      "character": "Suzanne Brewer"
+    },
+    {
+      "id": "nm1333687",
+      "name": "Dhanush",
+      "character": "Avik San"
+    },
+    {
+      "id": "nm0005569",
+      "name": "Alfre Woodard",
+      "character": "Margaret Cahill"
+    },
+    {
+      "id": "nm2074546",
+      "name": "Regé-Jean Page",
+      "character": "Carmichael"
+    },
+    {
+      "id": "nm0609944",
+      "name": "Wagner Moura",
+      "character": "Laszlo Sosa"
+    },
+    {
+      "id": "nm6253548",
+      "name": "Julia Butters",
+      "character": "Claire"
+    },
+    {
+      "id": "nm0924154",
+      "name": "Shea Whigham",
+      "character": "Six's Father"
+    },
+    {
+      "id": "nm0649046",
+      "name": "Deobia Oparei",
+      "character": "Dulin"
+    },
+    {
+      "id": "nm2059117",
+      "name": "Robert Kazinsky",
+      "character": "Perini"
+    },
+    {
+      "id": "nm0186743",
+      "name": "Daz Crawford",
+      "character": "Markham"
+    },
+    {
+      "id": "nm0612534",
+      "name": "Callan Mulvey",
+      "character": "Dining Car"
+    },
+    {
+      "id": "nm6740571",
+      "name": "Charlit Dae",
+      "character": "The Buyer"
+    },
+    {
+      "id": "nm7805172",
+      "name": "Cameron Crovetti",
+      "character": "Young Six"
+    },
+    {
+      "id": "nm0005592",
+      "name": "Chris Castaldi",
+      "character": "Dawson"
+    }
+  ],
+  "countries": [
+    "United States",
+    "Czech Republic",
+    "United Kingdom",
+    "Canada",
+    "France",
+    "Denmark",
+    "Thailand",
+    "Vietnam",
+    "Cambodia"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 856965,
+  "year": 2022,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZmFhZTNlNzctZGQzZi00MTA3LThiNjMtYWQzNjUzMjNjZjA3XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.5,
+      "votes": 277275,
+      "distribution": {
+        "1": 3778,
+        "2": 3038,
+        "3": 5486,
+        "4": 11046,
+        "5": 27038,
+        "6": 62513,
+        "7": 83899,
+        "8": 45253,
+        "9": 15636,
+        "10": 19598
+      },
+      "normalized": 4.4587
+    },
+    "filmweb": {
+      "rating": 5.76,
+      "votes": 37796,
+      "distribution": {
+        "1": 242,
+        "2": 467,
+        "3": 1994,
+        "4": 3739,
+        "5": 8567,
+        "6": 11527,
+        "7": 7749,
+        "8": 2548,
+        "9": 544,
+        "10": 419
+      },
+      "normalized": 3.0176
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "06.08.2022",
+      "normalized": 5.6855
+    },
+    "score": 4.3873
+  },
+  "polish_title": "Gray Man",
+  "silent": false,
+  "description_pl": "Agent CIA Court Gentry (<a href=\"/osoba/?id=nm0331516\">Ryan Gosling</a>), znany również jako Gray Man, był niegdyś wysoko wykwalifikowanym \"kupcem śmierci\". Gentry zostaje przechwycony z federalnego więzienia i zwerbowany przez swojego opiekuna, Donalda Fitzroya (<a href=\"/osoba/?id=nm0000671\">Billy Bob Thornton</a>). Jednak tym razem sytuacja się odwraca. Gray Man zostaje celem Lloyda Hansena (<a href=\"/osoba/?id=nm0262635\">Chris Evans</a>), który nie cofnie się przed niczym, by go wyeliminować.",
+  "producers": [
+    {
+      "id": "nm1819732",
+      "name": "Jake Aust"
+    },
+    {
+      "id": "nm0005592",
+      "name": "Chris Castaldi"
+    },
+    {
+      "id": "nm0355092",
+      "name": "Geoffrey Haley"
+    },
+    {
+      "id": "nm1124475",
+      "name": "Silvie Janculová"
+    },
+    {
+      "id": "nm0419383",
+      "name": "Benoit Jaubert"
+    },
+    {
+      "id": "nm10185613",
+      "name": "Murtaza Kathawala"
+    },
+    {
+      "id": "nm0456929",
+      "name": "Jeff Kirschenbaum"
+    },
+    {
+      "id": "nm1692290",
+      "name": "Mike Larocca"
+    },
+    {
+      "id": "nm2251910",
+      "name": "Viet Luu"
+    },
+    {
+      "id": "nm1321655",
+      "name": "Christopher Markus"
+    },
+    {
+      "id": "nm1321656",
+      "name": "Stephen McFeely"
+    },
+    {
+      "id": "nm3600441",
+      "name": "Joseph Micucci"
+    },
+    {
+      "id": "nm0591459",
+      "name": "David Minkowski"
+    },
+    {
+      "id": "nm0627604",
+      "name": "Patrick Newall"
+    },
+    {
+      "id": "nm2026983",
+      "name": "Palak Patel"
+    },
+    {
+      "id": "nm0742357",
+      "name": "Page Rosenberg-Marvin"
+    },
+    {
+      "id": "nm0005387",
+      "name": "Joe Roth"
+    },
+    {
+      "id": "nm1016510",
+      "name": "Zack Roth"
+    },
+    {
+      "id": "nm0962600",
+      "name": "Angela Russo-Otstot"
+    },
+    {
+      "id": "nm0751577",
+      "name": "Anthony Russo"
+    },
+    {
+      "id": "nm0751648",
+      "name": "Joe Russo"
+    },
+    {
+      "id": "nm0830299",
+      "name": "Matthew Stillman"
+    },
+    {
+      "id": "nm0903452",
+      "name": "Anthony J. Vorhies"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm2273444",
+      "name": "Henry Jackman"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0934752",
+      "name": "Stephen F. Windon"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

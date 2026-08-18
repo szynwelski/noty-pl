@@ -1,0 +1,31 @@
+{
+  "id": "nm0604656",
+  "name": "Frank Morgan",
+  "filmography": [
+    {
+      "imdb_id": "tt0032138",
+      "title": "The Wizard of Oz",
+      "year": 1939,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Professor Marvel"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTkzMTc0MzQ2OV5BMl5BanBnXkFtZTcwMzI5NTkxNA@@._V1_.jpg",
+  "birth_date": "01.06.1890",
+  "death_date": "18.09.1949",
+  "birth_location": "New York City, New York, USA",
+  "height": "1.73 m",
+  "imdb_scraped": true,
+  "filmweb_id": 41188,
+  "name_pl": "Frank Morgan",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 41188
+}

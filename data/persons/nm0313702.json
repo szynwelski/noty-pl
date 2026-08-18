@@ -1,0 +1,37 @@
+{
+  "id": "nm0313702",
+  "name": "Tom Georgeson",
+  "filmography": [
+    {
+      "imdb_id": "tt0095159",
+      "title": "A Fish Called Wanda",
+      "year": 1988,
+      "roles": [
+        "cast"
+      ],
+      "character": "George"
+    },
+    {
+      "imdb_id": "tt0465551",
+      "title": "Notes on a Scandal",
+      "year": 2006,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Ted Mawson"
+    }
+  ],
+  "birth_date": "08.08.1936",
+  "death_date": "18.03.2026",
+  "birth_location": "Liverpool, England, UK",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "filmweb_id": 8490,
+  "name_pl": "Tom Georgeson",
+  "birth_location_pl": "Liverpool, Anglia",
+  "gender": "M"
+}

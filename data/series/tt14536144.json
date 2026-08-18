@@ -1,0 +1,167 @@
+{
+  "imdb_id": "tt14536144",
+  "title": "All Through the House",
+  "description": "On Christmas Eve, a young girl and her little brother lie awake. When a jingle of bells announces Saint Nick's arrival they sneak downstairs hoping to catch a glimpse of the mythical gift-giver - but find something unexpected.",
+  "runtime_minutes": 7,
+  "release_date": "14.05.2021",
+  "genres": [
+    "Animation",
+    "Short",
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Drama",
+    "Fantasy",
+    "Horror",
+    "Mystery",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm12571849",
+      "name": "Divi Mittal"
+    },
+    {
+      "id": "nm12302681",
+      "name": "Sami Amber"
+    },
+    {
+      "id": "nm0851317",
+      "name": "Fred Tatasciore"
+    },
+    {
+      "id": "nm12429172",
+      "name": "Brynley North"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm4093508",
+      "name": "Elliot Dear"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm12571850",
+      "name": "Joachim Heijndermans"
+    },
+    {
+      "id": "nm3664884",
+      "name": "Philip Gelatt"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm12571849",
+      "name": "Divi Mittal",
+      "character": "Leah"
+    },
+    {
+      "id": "nm12302681",
+      "name": "Sami Amber",
+      "character": "Billy"
+    },
+    {
+      "id": "nm0851317",
+      "name": "Fred Tatasciore",
+      "character": "Creature"
+    },
+    {
+      "id": "nm12429172",
+      "name": "Brynley North",
+      "character": "TV Kid"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "year": 2021,
+  "type": "tvEpisode",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZTdkN2I2YmQtYWYyZi00YWEzLWFiYmMtYTkyZThkZjU5MDNhXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 824633,
+  "ratings": {
+    "imdb": {
+      "rating": 7.2,
+      "votes": 13218,
+      "distribution": {
+        "1": 178,
+        "2": 75,
+        "3": 158,
+        "4": 278,
+        "5": 811,
+        "6": 1983,
+        "7": 3794,
+        "8": 3284,
+        "9": 1359,
+        "10": 1298
+      }
+    },
+    "filmweb": {
+      "rating": 7.94,
+      "votes": 54233,
+      "distribution": {
+        "1": 98,
+        "2": 90,
+        "3": 250,
+        "4": 388,
+        "5": 1135,
+        "6": 3408,
+        "7": 10946,
+        "8": 20253,
+        "9": 13148,
+        "10": 4517
+      }
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "31.10.2022"
+    }
+  },
+  "polish_title": "Miłość, śmierć i roboty",
+  "silent": false,
+  "description_pl": "\"Miłość, śmierć i roboty\" to seria krótkich animowanych opowieści należących do różnych gatunków - science fiction, fantasy, horroru i komedii. Opowiedziane w śmiały sposób historie ogląda się przyjemnie, a losy ich bohaterów przez długi czas pozostają w pamięci. Historie tworzą pierwszą antologię animowanych opowieści, która dostarczy widzom niezapomnianych i poruszających do głębi wrażeń.",
+  "producers": [
+    {
+      "id": "nm0232433",
+      "name": "Joshua Donen"
+    },
+    {
+      "id": "nm0000399",
+      "name": "David Fincher"
+    },
+    {
+      "id": "nm9053499",
+      "name": "Alex Halley"
+    },
+    {
+      "id": "nm2126361",
+      "name": "Victoria L. Howard"
+    },
+    {
+      "id": "nm10380524",
+      "name": "Jennifer Miller"
+    },
+    {
+      "id": "nm1783265",
+      "name": "Tim Miller"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm1052252",
+      "name": "Rob Cairns"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm1473299",
+      "name": "Toby Howell"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

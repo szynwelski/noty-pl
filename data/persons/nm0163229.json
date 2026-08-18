@@ -1,0 +1,47 @@
+{
+  "id": "nm0163229",
+  "name": "René Clair",
+  "filmography": [
+    {
+      "imdb_id": "tt0014872",
+      "title": "Entr'acte",
+      "year": 1924,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0018523",
+      "title": "The Italian Straw Hat",
+      "year": 1928,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0022150",
+      "title": "Le Million",
+      "year": 1931,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjE3NTQ5NTkyMl5BMl5BanBnXkFtZTgwODgzODEwMzE@._V1_.jpg",
+  "birth_date": "11.11.1898",
+  "death_date": "15.03.1981",
+  "birth_location": "Paris, France",
+  "filmweb_id": 66481,
+  "name_pl": "René Clair",
+  "birth_location_pl": "Paryż",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja"
+  ],
+  "wikidata_fw_id": 66481
+}

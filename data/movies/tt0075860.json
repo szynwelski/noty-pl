@@ -1,0 +1,224 @@
+{
+  "imdb_id": "tt0075860",
+  "title": "Close Encounters of the Third Kind",
+  "description": "An Indiana electric lineman finds his quiet and ordinary daily life turned upside down after a close encounter with a UFO, spurring him to an obsessed cross-country quest for answers as a momentous event approaches.",
+  "runtime_minutes": 138,
+  "release_date": "14.12.1977",
+  "genres": [
+    "Drama",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm0000377",
+      "name": "Richard Dreyfuss"
+    },
+    {
+      "id": "nm0000076",
+      "name": "François Truffaut"
+    },
+    {
+      "id": "nm0000414",
+      "name": "Teri Garr"
+    },
+    {
+      "id": "nm0227039",
+      "name": "Melinda Dillon"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000229",
+      "name": "Steven Spielberg"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000229",
+      "name": "Steven Spielberg"
+    },
+    {
+      "id": "nm0059493",
+      "name": "Hal Barwood"
+    },
+    {
+      "id": "nm0069547",
+      "name": "Jerry Belson"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000377",
+      "name": "Richard Dreyfuss",
+      "character": "Roy Neary"
+    },
+    {
+      "id": "nm0000076",
+      "name": "François Truffaut",
+      "character": "Claude Lacombe"
+    },
+    {
+      "id": "nm0000414",
+      "name": "Teri Garr",
+      "character": "Ronnie Neary"
+    },
+    {
+      "id": "nm0227039",
+      "name": "Melinda Dillon",
+      "character": "Jillian Guiler"
+    },
+    {
+      "id": "nm0000837",
+      "name": "Bob Balaban",
+      "character": "David Laughlin"
+    },
+    {
+      "id": "nm0573688",
+      "name": "J. Patrick McNamara",
+      "character": "Project Leader"
+    },
+    {
+      "id": "nm0447230",
+      "name": "Warren J. Kemmerling",
+      "character": "Wild Bill"
+    },
+    {
+      "id": "nm0089348",
+      "name": "Roberts Blossom",
+      "character": "Farmer"
+    },
+    {
+      "id": "nm0230164",
+      "name": "Philip Dodds",
+      "character": "Jean Claude"
+    },
+    {
+      "id": "nm0346533",
+      "name": "Cary Guffey",
+      "character": "Barry Guiler"
+    },
+    {
+      "id": "nm0084191",
+      "name": "Shawn Bishop",
+      "character": "Brad Neary"
+    },
+    {
+      "id": "nm0132176",
+      "name": "Adrienne Campbell",
+      "character": "Silvia Neary"
+    },
+    {
+      "id": "nm0237846",
+      "name": "Justin Dreyfuss",
+      "character": "Toby Neary"
+    },
+    {
+      "id": "nm0000448",
+      "name": "Lance Henriksen",
+      "character": "Robert"
+    },
+    {
+      "id": "nm0174919",
+      "name": "Merrill Connally",
+      "character": "Team Leader"
+    },
+    {
+      "id": "nm0225191",
+      "name": "George DiCenzo",
+      "character": "Major Benchley"
+    },
+    {
+      "id": "nm0235297",
+      "name": "Amy Douglass",
+      "character": "Implantee"
+    },
+    {
+      "id": "nm0516948",
+      "name": "Alexander Lockwood",
+      "character": "Implantee"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 1219,
+  "year": 1977,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjM1NjE5NjQxN15BMl5BanBnXkFtZTgwMjYzMzQxMDE@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.6,
+      "votes": 237895,
+      "distribution": {
+        "1": 2252,
+        "2": 1351,
+        "3": 2362,
+        "4": 4243,
+        "5": 9748,
+        "6": 24710,
+        "7": 56819,
+        "8": 69445,
+        "9": 36003,
+        "10": 30962
+      },
+      "normalized": 6.6365
+    },
+    "filmweb": {
+      "rating": 7.17,
+      "votes": 31922,
+      "distribution": {
+        "1": 119,
+        "2": 103,
+        "3": 465,
+        "4": 790,
+        "5": 2340,
+        "6": 4911,
+        "7": 9510,
+        "8": 8620,
+        "9": 3233,
+        "10": 1831
+      },
+      "normalized": 5.9492
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "19.10.2005",
+      "normalized": 5.4199
+    },
+    "score": 6.0019
+  },
+  "polish_title": "Bliskie spotkania trzeciego stopnia",
+  "silent": false,
+  "description_pl": "Roy Neary ma za zadanie zbadać przyczyny zakłóceń energetycznych na znacznym obszarze stanu Indiana. Gdy zjawia się na miejscu, jego furgonetka zostaje nagle oświetlona intensywnym światłem i wpada w turbulencję. Świadkiem dziwnego zjawiska jest także Jillian Guiler, matka zaginionego w niewyjaśnionych okolicznościach chłopca. Roya prześladuje myśl o niezidentyfikowanych obiektach latających, pragnie poznać prawdę.",
+  "producers": [
+    {
+      "id": "nm0668227",
+      "name": "Clark L. Paylow"
+    },
+    {
+      "id": "nm0680539",
+      "name": "Julia Phillips"
+    },
+    {
+      "id": "nm0680635",
+      "name": "Michael Phillips"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0002354",
+      "name": "John Williams"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005936",
+      "name": "Vilmos Zsigmond"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

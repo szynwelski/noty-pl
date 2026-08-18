@@ -1,0 +1,48 @@
+{
+  "id": "nm0252244",
+  "name": "Anders Ek",
+  "filmography": [
+    {
+      "imdb_id": "tt0045848",
+      "title": "Sawdust and Tinsel",
+      "year": 1953,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Frost"
+    },
+    {
+      "imdb_id": "tt0050976",
+      "title": "The Seventh Seal",
+      "year": 1957,
+      "roles": [
+        "cast"
+      ],
+      "character": "The Monk"
+    },
+    {
+      "imdb_id": "tt0069467",
+      "title": "Cries & Whispers",
+      "year": 1972,
+      "roles": [
+        "cast"
+      ],
+      "character": "Isak"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTM0NzYyNTcwMV5BMl5BanBnXkFtZTcwNjI0MjE5Ng@@._V1_.jpg",
+  "birth_date": "07.04.1916",
+  "death_date": "17.11.1979",
+  "birth_location": "Gothenburg, Västra Götalands län, Sweden",
+  "filmweb_id": 82049,
+  "name_pl": "Anders Ek",
+  "birth_location_pl": "Göteborg",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Szwecja"
+  ],
+  "wikidata_fw_id": 82049
+}

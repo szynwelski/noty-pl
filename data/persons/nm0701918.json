@@ -1,0 +1,43 @@
+{
+  "id": "nm0701918",
+  "name": "Benito Pérez Galdós",
+  "filmography": [
+    {
+      "imdb_id": "tt0051983",
+      "title": "Nazarin",
+      "year": 1959,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0055601",
+      "title": "Viridiana",
+      "year": 1961,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0066491",
+      "title": "Tristana",
+      "year": 1970,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZDk1ZTYxYjYtOTI4NS00ZDkwLWI3M2UtZGQ0YWU2NjljYWY1XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "10.05.1843",
+  "death_date": "04.01.1920",
+  "birth_location": "Las Palmas, Canary Islands, Spain",
+  "filmweb_id": 429886,
+  "name_pl": "Benito Pérez Galdós",
+  "birth_location_pl": "Las Palmas de Gran Canaria",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Hiszpania"
+  ]
+}

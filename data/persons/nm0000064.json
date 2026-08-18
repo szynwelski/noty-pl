@@ -1,0 +1,62 @@
+{
+  "id": "nm0000064",
+  "name": "Edward G. Robinson",
+  "filmography": [
+    {
+      "imdb_id": "tt0021079",
+      "title": "Little Caesar",
+      "year": 1931,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Caesar Enrico 'Rico' Bandello"
+    },
+    {
+      "imdb_id": "tt0036775",
+      "title": "Double Indemnity",
+      "year": 1944,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Barton Keyes"
+    },
+    {
+      "imdb_id": "tt0038991",
+      "title": "The Stranger",
+      "year": 1946,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Mr. Wilson"
+    },
+    {
+      "imdb_id": "tt0040506",
+      "title": "Key Largo",
+      "year": 1948,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Johnny Rocco"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYjM3OGYzNmUtMWFlMi00MDgxLTkyZTYtOTM4M2ExNDk5ZWRhXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "12.12.1893",
+  "death_date": "26.01.1973",
+  "birth_location": "Bucharest, Kingdom of Romania [now Romania]",
+  "height": "1.65 m",
+  "imdb_scraped": true,
+  "filmweb_id": 41768,
+  "name_pl": "Edward G. Robinson",
+  "birth_location_pl": "Bukareszt",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone",
+    "Królestwo Rumunii"
+  ],
+  "wikidata_fw_id": 41768
+}

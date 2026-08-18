@@ -1,0 +1,30 @@
+{
+  "id": "nm0003225",
+  "name": "Ed Begley",
+  "filmography": [
+    {
+      "imdb_id": "tt0050083",
+      "title": "12 Angry Men",
+      "year": 1957,
+      "roles": [
+        "cast"
+      ],
+      "character": "Juror 10"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQwMTM0Njg2N15BMl5BanBnXkFtZTcwNzgzNzg1MQ@@._V1_.jpg",
+  "birth_date": "25.03.1901",
+  "death_date": "28.04.1970",
+  "birth_location": "Hartford, Connecticut, USA",
+  "height": "1.70 m",
+  "imdb_scraped": true,
+  "filmweb_id": 41916,
+  "name_pl": "Ed Begley",
+  "birth_location_pl": "Hartford, Connecticut",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 41916
+}

@@ -1,0 +1,49 @@
+{
+  "id": "nm0308039",
+  "name": "Louis Garrel",
+  "filmography": [
+    {
+      "imdb_id": "tt0309987",
+      "title": "The Dreamers",
+      "year": 2003,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Theo"
+    },
+    {
+      "imdb_id": "tt0381392",
+      "title": "Ma mère",
+      "year": 2004,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Pierre"
+    },
+    {
+      "imdb_id": "tt3281548",
+      "title": "Little Women",
+      "year": 2019,
+      "roles": [
+        "cast"
+      ],
+      "character": "Friedrich Bhaer"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzY0MTcyMTIzMV5BMl5BanBnXkFtZTcwOTA5NTc1NA@@._V1_.jpg",
+  "birth_date": "14.06.1983",
+  "birth_location": "Paris, France",
+  "height": "1.82 m",
+  "filmweb_id": 69898,
+  "name_pl": "Louis Garrel",
+  "birth_location_pl": "Paryż",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja"
+  ],
+  "wikidata_fw_id": 69898
+}

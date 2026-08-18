@@ -1,0 +1,62 @@
+{
+  "imdb_id": "tt13266096",
+  "title": "Necesito saber",
+  "description": "",
+  "runtime_minutes": 18,
+  "release_date": "10.10.2015",
+  "genres": [
+    "Short"
+  ],
+  "directors": [
+    {
+      "id": "nm3679308",
+      "name": "Mariko Bobrik"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "Chile",
+    "France"
+  ],
+  "languages": [],
+  "color": "Color",
+  "filmweb_id": 756376,
+  "year": 2015,
+  "type": "short",
+  "image_url": null,
+  "ratings": {
+    "imdb": {
+      "votes": 0,
+      "normalized": 5.5
+    },
+    "filmweb": {
+      "rating": 5.0,
+      "votes": 2,
+      "distribution": {
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 2,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 5.1789
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "12.10.2020",
+      "normalized": 5.6855
+    },
+    "score": 5.4548
+  },
+  "polish_title": "Muszę wiedzieć",
+  "silent": false,
+  "description_pl": "Maria, lekarz z Santiago pracuje w wiejskim szpitalu w południowej części Chile. Gdy dwunastoletnia Paola pojawia się w szpitalu, Maria odkrywa przerażającą tajemnicę. Podejrzewając dramat rodzinny postanawia śledzić dziewczynę do jej domu.",
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-16"
+}

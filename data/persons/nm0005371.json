@@ -1,0 +1,37 @@
+{
+  "id": "nm0005371",
+  "name": "Robbie Robertson",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzM3NjUwODAzNV5BMl5BanBnXkFtZTYwODY1NjY0._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt1302006",
+      "title": "The Irishman",
+      "year": 2019,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt5537002",
+      "title": "Killers of the Flower Moon",
+      "year": 2023,
+      "roles": [
+        "composer"
+      ]
+    }
+  ],
+  "birth_date": "05.07.1943",
+  "death_date": "09.08.2023",
+  "birth_location": "Toronto, Ontario, Canada",
+  "height": "1.85 m",
+  "imdb_scraped": true,
+  "filmweb_id": 6055,
+  "name_pl": "Robbie Robertson",
+  "birth_location_pl": "Toronto",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Kanada"
+  ],
+  "wikidata_fw_id": 6055
+}

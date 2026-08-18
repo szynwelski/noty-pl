@@ -1,0 +1,76 @@
+{
+  "id": "nm0001003",
+  "name": "Simon Callow",
+  "filmography": [
+    {
+      "imdb_id": "tt0086879",
+      "title": "Amadeus",
+      "year": 1984,
+      "roles": [
+        "cast"
+      ],
+      "character": "Emanuel Schikaneder"
+    },
+    {
+      "imdb_id": "tt0091867",
+      "title": "A Room with a View",
+      "year": 1986,
+      "roles": [
+        "cast"
+      ],
+      "character": "The Reverend Mr Beebe"
+    },
+    {
+      "imdb_id": "tt0109831",
+      "title": "Four Weddings and a Funeral",
+      "year": 1994,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Gareth - Wedding One"
+    },
+    {
+      "imdb_id": "tt0112281",
+      "title": "Ace Ventura: When Nature Calls",
+      "year": 1995,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Vincent Cadby"
+    },
+    {
+      "imdb_id": "tt0138097",
+      "title": "Shakespeare in Love",
+      "year": 1998,
+      "roles": [
+        "cast"
+      ],
+      "character": "Tilney, Master of the Revels"
+    },
+    {
+      "imdb_id": "tt0283509",
+      "title": "No Man's Land",
+      "year": 2001,
+      "roles": [
+        "cast"
+      ],
+      "character": "Soft"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjI4OTc3MDkwNl5BMl5BanBnXkFtZTcwMTQ4MTg5Nw@@._V1_.jpg",
+  "birth_date": "13.06.1949",
+  "birth_location": "London, England, UK",
+  "height": "1.70 m",
+  "filmweb_id": 4603,
+  "name_pl": "Simon Callow",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 4603
+}

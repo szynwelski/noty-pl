@@ -1,0 +1,79 @@
+{
+  "id": "nm1210124",
+  "name": "Taylor Lautner",
+  "filmography": [
+    {
+      "imdb_id": "tt1099212",
+      "title": "Twilight",
+      "year": 2008,
+      "roles": [
+        "cast"
+      ],
+      "character": "Jacob Black"
+    },
+    {
+      "imdb_id": "tt1259571",
+      "title": "The Twilight Saga: New Moon",
+      "year": 2009,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Jacob Black"
+    },
+    {
+      "imdb_id": "tt1325004",
+      "title": "The Twilight Saga: Eclipse",
+      "year": 2010,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Jacob Black"
+    },
+    {
+      "imdb_id": "tt1600195",
+      "title": "Abduction",
+      "year": 2011,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Nathan"
+    },
+    {
+      "imdb_id": "tt1324999",
+      "title": "The Twilight Saga: Breaking Dawn - Part 1",
+      "year": 2011,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Jacob Black"
+    },
+    {
+      "imdb_id": "tt1673434",
+      "title": "The Twilight Saga: Breaking Dawn - Part 2",
+      "year": 2012,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Jacob Black"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTAzZGRkZjYtMGRmYS00NDUyLWI5ZjItMDIwZDkzM2Y2YzkxXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "11.02.1992",
+  "birth_location": "Grand Rapids, Michigan, USA",
+  "height": "1.75 m",
+  "filmweb_id": 284307,
+  "name_pl": "Taylor Lautner",
+  "birth_location_pl": "Grand Rapids, Michigan",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 284307
+}

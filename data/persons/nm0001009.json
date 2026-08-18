@@ -1,0 +1,30 @@
+{
+  "id": "nm0001009",
+  "name": "Kate Capshaw",
+  "filmography": [
+    {
+      "imdb_id": "tt0087469",
+      "title": "Indiana Jones and the Temple of Doom",
+      "year": 1984,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Willie Scott"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzk2NTc5OTk5MV5BMl5BanBnXkFtZTcwMjc1NjgwMw@@._V1_.jpg",
+  "birth_date": "03.11.1953",
+  "birth_location": "Fort Worth, Texas, USA",
+  "height": "1.70 m",
+  "imdb_scraped": true,
+  "filmweb_id": 7987,
+  "name_pl": "Kate Capshaw",
+  "birth_location_pl": "Fort Worth, Teksas",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 7987
+}

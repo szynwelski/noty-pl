@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🎬</text></svg>">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Podsumowanie — Noty</title>
+  <link rel="stylesheet" href="../../static/style.css">
+  <style>
+    /* Validated categorical palette (light surface); labels/legend provide the
+       relief for the sub-3:1 contrast slots. Site is light-mode only. */
+    :root {
+      --c1:#2a78d6; --c2:#eb6834; --c3:#1baf7a; --c4:#eda100;
+      --c5:#e87ba4; --c6:#008300; --c7:#4a3aa7; --c-neutral:#b6bcc9;
+    }
+    section { margin-bottom: 2.6rem; }
+    section > h2 {
+      font-size: 1.05rem; font-weight: 700;
+      margin: 0 0 1rem; padding-bottom: .4rem;
+      border-bottom: 2px solid var(--accent); display: inline-block;
+    }
+    h3 { font-size: .8rem; text-transform: uppercase; letter-spacing: .05em; color: var(--muted); margin: 1.6rem 0 .7rem; }
+
+    .tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: .8rem; }
+    .tile { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 1rem 1.1rem; }
+    .tile .big { font-size: 1.55rem; font-weight: 700; font-variant-numeric: tabular-nums; line-height: 1.15; }
+    .tile .lbl { color: var(--muted); font-size: .82rem; margin-top: .3rem; }
+
+    table.stat { width: 100%; max-width: 620px; border-collapse: collapse; font-size: .9rem; }
+    table.stat th, table.stat td { padding: .45rem .6rem; border-bottom: 1px solid var(--border); text-align: left; }
+    table.stat th { font-weight: 600; color: var(--muted); font-size: .78rem; text-transform: uppercase; letter-spacing: .03em;
+      position: static; top: auto; background: transparent; cursor: default; z-index: auto; }
+    table.stat td.num, table.stat th.num { text-align: right; font-variant-numeric: tabular-nums; }
+    table.stat a { color: inherit; text-decoration: none; }
+    table.stat a:hover { color: var(--accent); text-decoration: underline; }
+    .bar-cell { width: 34%; }
+    .bar-wrap { background: var(--border); border-radius: 4px; overflow: hidden; }
+    .bar { height: 8px; background: var(--accent); border-radius: 4px; min-width: 2px; }
+
+    .pies { display: flex; flex-wrap: wrap; gap: 1.5rem; margin-top: 1.6rem; }
+    figure.pie { margin: 0; background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 1rem 1.2rem; }
+    figure.pie figcaption { font-size: .8rem; text-transform: uppercase; letter-spacing: .05em; color: var(--muted); margin-bottom: .6rem; }
+    .pie-body { display: flex; align-items: center; gap: 1.1rem; flex-wrap: wrap; }
+    .legend { display: flex; flex-direction: column; gap: .3rem; font-size: .85rem; }
+    .lg-item { display: flex; align-items: center; gap: .5rem; white-space: nowrap; }
+    .lg-sw { width: 11px; height: 11px; border-radius: 3px; flex-shrink: 0; }
+    .lg-val { color: var(--muted); font-variant-numeric: tabular-nums; }
+    .pie-note { margin: .8rem 0 0; font-size: .78rem; color: var(--muted); max-width: 420px; line-height: 1.5; }
+    #error { color: var(--muted); margin-top: 2rem; }
+  </style>
+</head>
+<body>
+  <nav>
+    <a class="logo" href="/">no<span>ty</span></a>
+    <a class="nav-link" href="/">Filmy</a>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Osoby <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/osoba/rezyser/">Reżyserzy</a>
+        <a href="/osoba/scenarzysta/">Scenarzyści</a>
+        <a href="/osoba/gwiazda/">Gwiazdy</a>
+        <a href="/osoba/aktor/">Aktorzy</a>
+        <a href="/osoba/kompozytor/">Kompozytorzy</a>
+        <a href="/osoba/operator/">Operatorzy</a>
+        <a href="/osoba/producent/">Producenci</a>
+        <a href="/osoba/wszechstronna/">Wszechstronni</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Krytycy <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/krytyk/jarek/">Jarek</a>
+        <a href="/krytyk/michal/">Michał</a>
+        <a href="/krytyk/imdb/">IMDb</a>
+        <a href="/krytyk/filmweb/">Filmweb</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Kategorie <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/kategoria/gatunek/">Gatunki</a>
+        <a href="/kategoria/kraj/">Kraje</a>
+        <a href="/kategoria/jezyk/">Języki</a>
+        <a href="/kategoria/dekada/">Dekady</a>
+        <a href="/kategoria/rok/">Lata</a>
+        <a href="/kategoria/czas/">Czas trwania</a>
+        <a href="/kategoria/popularnosc/">Popularność</a>
+        <hr>
+        <a href="/kategoria/plec/">Płeć</a>
+        <a href="/kategoria/obywatelstwo/">Obywatelstwo</a>
+        <a href="/kategoria/urodzenie/">Urodzenie</a>
+        <a href="/kategoria/wiek/">Wiek</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Statystyki <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/statystyki/podsumowanie/">Podsumowanie</a>
+        <a href="/statystyki/rekordy/">Rekordy</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Metodologia <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/metodologia/filmy/">Filmy</a>
+        <a href="/metodologia/osoby/">Osoby</a>
+        <a href="/metodologia/kategorie-filmow/">Kategorie filmów</a>
+        <a href="/metodologia/kategorie-osob/">Kategorie osób</a>
+      </div>
+    </div>
+    <button id="search-global-btn" class="nav-search-btn" title="Szukaj (⌘K)">
+      <svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+    </button>
+  </nav>
+  <div id="search-modal" class="search-modal">
+    <div id="search-modal-backdrop" class="search-modal-backdrop"></div>
+    <div class="search-modal-box">
+      <div class="search-modal-header">
+        <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink:0;color:var(--muted)"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        <input id="search-modal-input" class="search-modal-input" type="text" placeholder="Szukaj filmów i osób…" autocomplete="off" spellcheck="false">
+        <kbd class="search-modal-esc">Esc</kbd>
+      </div>
+      <div id="search-modal-results" class="search-modal-results"></div>
+    </div>
+  </div>
+  <script src="/static/search.js"></script>
+
+  <div class="container">
+    <h1>Podsumowanie</h1>
+    <div id="loading" class="muted">Ładowanie…</div>
+    <div id="content" style="display:none"></div>
+    <div id="error" style="display:none"></div>
+  </div>
+
+  <script>
+    const nf  = n => (n == null ? '—' : Number(n).toLocaleString('pl-PL'));
+    const pct = (n, d) => d ? Math.round(n / d * 100) + '%' : '—';
+    const esc = s => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;');
+
+    const ROLE_LABELS = {
+      director: 'Reżyserzy', writer: 'Scenarzyści', star: 'Gwiazdy', cast: 'Aktorzy',
+      composer: 'Kompozytorzy', cinematographer: 'Operatorzy', producer: 'Producenci',
+    };
+    const ROLE_URLS = {
+      director: '/osoba/rezyser/', writer: '/osoba/scenarzysta/', star: '/osoba/gwiazda/',
+      cast: '/osoba/aktor/', composer: '/osoba/kompozytor/', cinematographer: '/osoba/operator/',
+      producer: '/osoba/producent/',
+    };
+    const ROLE_ORDER  = ['director','writer','star','cast','composer','cinematographer','producer'];
+    const ROLE_COLORS = { director:'var(--c1)', writer:'var(--c2)', star:'var(--c3)', cast:'var(--c4)',
+                          composer:'var(--c5)', cinematographer:'var(--c6)', producer:'var(--c7)' };
+    const CAT_META = {
+      genres:    ['Gatunki',  '/kategoria/gatunek/'],
+      countries: ['Kraje',    '/kategoria/kraj/'],
+      languages: ['Języki',   '/kategoria/jezyk/'],
+      decades:   ['Dekady',   '/kategoria/dekada/'],
+      years:     ['Lata',     '/kategoria/rok/'],
+    };
+    // Jarek above Michał; drop "którykolwiek" (always all films)
+    const RATED_ROWS = [
+      ['jarek', 'Jarek', '/krytyk/jarek/'],
+      ['michal', 'Michał', '/krytyk/michal/'],
+      ['both_critics', 'Jarek i Michał', null],
+      ['imdb', 'IMDb', '/krytyk/imdb/'],
+      ['filmweb', 'Filmweb', '/krytyk/filmweb/'],
+    ];
+
+    function dhm(min) {
+      const d = Math.floor(min / 1440);
+      const h = Math.floor((min - d * 1440) / 60);
+      const m = min - d * 1440 - h * 60;
+      return `${d} dni ${h} godz ${m} min`;
+    }
+    const days = min => Math.round(min / 1440) + ' dni';
+
+    // ── Donut chart (part-of-whole) ──
+    function arc(cx, cy, R, r, a0, a1) {
+      const P = (rad, a) => [cx + Math.cos(a) * rad, cy + Math.sin(a) * rad];
+      const big = (a1 - a0) > Math.PI ? 1 : 0;
+      const [x0, y0] = P(R, a0), [x1, y1] = P(R, a1), [x2, y2] = P(r, a1), [x3, y3] = P(r, a0);
+      const f = n => n.toFixed(2);
+      return `M${f(x0)},${f(y0)} A${R},${R} 0 ${big} 1 ${f(x1)},${f(y1)} L${f(x2)},${f(y2)} A${r},${r} 0 ${big} 0 ${f(x3)},${f(y3)} Z`;
+    }
+    function donut(title, items, note) {
+      const total = items.reduce((a, b) => a + b.value, 0) || 1;
+      const cx = 90, cy = 90, R = 60, r = 36;
+      let ang = -Math.PI / 2, paths = '', labels = '';
+      for (const it of items) {
+        if (it.value <= 0) continue;
+        const frac = it.value / total, a0 = ang, a1 = ang + frac * 2 * Math.PI; ang = a1;
+        paths += `<path d="${arc(cx, cy, R, r, a0, a1)}" fill="${it.color}" stroke="var(--surface)" stroke-width="2"/>`;
+        if (frac >= 0.1) {                       // selective direct labels, outside the ring
+          const mid = (a0 + a1) / 2, lr = R + 13;
+          const x = cx + Math.cos(mid) * lr, y = cy + Math.sin(mid) * lr;
+          labels += `<text x="${x.toFixed(1)}" y="${y.toFixed(1)}" text-anchor="${Math.cos(mid) < -0.2 ? 'end' : Math.cos(mid) > 0.2 ? 'start' : 'middle'}" dominant-baseline="central" font-size="10.5" font-weight="700" fill="var(--text)">${Math.round(frac * 100)}%</text>`;
+        }
+      }
+      const svg = `<svg viewBox="0 0 180 180" width="170" height="170" role="img" aria-label="${esc(title)}">${paths}${labels}</svg>`;
+      const legend = items.map(it =>
+        `<div class="lg-item"><span class="lg-sw" style="background:${it.color}"></span>${esc(it.label)} <span class="lg-val">${nf(it.value)} · ${pct(it.value, total)}</span></div>`
+      ).join('');
+      const noteHtml = note ? `<p class="pie-note">${esc(note)}</p>` : '';
+      return `<figure class="pie"><figcaption>${esc(title)}</figcaption><div class="pie-body">${svg}<div class="legend">${legend}</div></div>${noteHtml}</figure>`;
+    }
+
+    function render(s) {
+      const f = s.films, p = s.people, c = s.categories, y = s.years, u = s.updated;
+
+      // ── Aktualność danych ──
+      const updTiles = [
+        ['Oceny krytyków', u.ratings], ['Dane o filmach', u.movies], ['Dane o osobach', u.persons],
+      ].map(([lbl, v]) => `<div class="tile"><div class="big">${v ?? '—'}</div><div class="lbl">${lbl}</div></div>`).join('');
+
+      // ── Filmy ──
+      const filmTiles = `
+        <div class="tile"><div class="big">${nf(f.count)}</div><div class="lbl">filmów</div></div>
+        <div class="tile"><div class="big">${dhm(f.runtime_total_min)}</div><div class="lbl">łączny czas seansu</div></div>
+        <div class="tile"><div class="big">${nf(f.runtime_avg_min)}</div><div class="lbl">śr. czas filmu (min)</div></div>`;
+
+      const rmax = Math.max(...RATED_ROWS.map(([k]) => f.rated[k].count));
+      const ratedRows = RATED_ROWS.map(([k, label, url]) => {
+        const d = f.rated[k];
+        const name = url ? `<a href="${url}">${label}</a>` : label;
+        const w = Math.max(2, Math.round(d.count / rmax * 100));
+        return `<tr>
+          <td>${name}</td>
+          <td class="num">${nf(d.count)}</td>
+          <td class="num">${days(d.runtime_min)}</td>
+          <td class="num">${pct(d.count, f.count)}</td>
+          <td class="bar-cell"><div class="bar-wrap"><div class="bar" style="width:${w}%"></div></div></td>
+        </tr>`;
+      }).join('');
+
+      const unknownColor = f.count - f.color - f.bw;
+      const colorPie = donut('Kolor', [
+        { label: 'Kolor', value: f.color, color: 'var(--c1)' },
+        { label: 'Czarno-białe', value: f.bw, color: 'var(--c2)' },
+        { label: 'Nieznany', value: unknownColor, color: 'var(--c-neutral)' },
+      ]);
+      const silentPie = donut('Dźwięk', [
+        { label: 'Nieme', value: f.silent, color: 'var(--c2)' },
+        { label: 'Dźwiękowe', value: f.count - f.silent, color: 'var(--c1)' },
+      ]);
+
+      // ── Osoby ──
+      const roleRows = ROLE_ORDER.map(k =>
+        `<tr><td><a href="${ROLE_URLS[k]}">${ROLE_LABELS[k]}</a></td>
+             <td class="num">${nf(p.by_role[k])}</td>
+             <td class="num">${nf(p.avg_films_by_role[k])}</td></tr>`
+      ).join('');
+      const rolePie = donut('Udział ról wśród wszystkich wystąpień',
+        ROLE_ORDER.map(k => ({ label: ROLE_LABELS[k], value: p.credits_by_role[k], color: ROLE_COLORS[k] })),
+        'Osoba grająca kilka ról liczona jest w każdej z nich — role się nakładają.');
+
+      // ── Kategorie ──
+      const catRows = Object.keys(CAT_META).map(k => {
+        const [label, url] = CAT_META[k];
+        return `<tr><td><a href="${url}">${label}</a></td><td class="num">${nf(c[k].count)}</td><td class="num">${nf(c[k].avg_films)}</td></tr>`;
+      }).join('');
+
+      document.getElementById('content').innerHTML = `
+        <section>
+          <h2>Aktualność danych</h2>
+          <div class="tiles">${updTiles}</div>
+          <p class="pie-note" style="max-width:none">Oceny — data najnowszej dodanej oceny. Filmy i osoby — data najstarszego pobranego rekordu, czyli zbiór jest aktualny <em>przynajmniej</em> na tę datę.</p>
+        </section>
+
+        <section>
+          <h2>Filmy</h2>
+          <div class="tiles">${filmTiles}</div>
+          <h3>Ocenione przez</h3>
+          <table class="stat">
+            <thead><tr><th>Źródło</th><th class="num">Filmów</th><th class="num">Łączny czas</th><th class="num">Pokrycie</th><th></th></tr></thead>
+            <tbody>${ratedRows}</tbody>
+          </table>
+          <div class="pies">${colorPie}${silentPie}</div>
+        </section>
+
+        <section>
+          <h2>Osoby</h2>
+          <div class="tiles">
+            <div class="tile"><div class="big">${nf(p.total)}</div><div class="lbl">osób w bazie</div></div>
+            <div class="tile"><div class="big">${nf(p.avg_films)}</div><div class="lbl">śr. filmów na osobę</div></div>
+          </div>
+          <h3>Wg roli</h3>
+          <table class="stat">
+            <thead><tr><th>Rola</th><th class="num">Osób</th><th class="num">Śr. filmów</th></tr></thead>
+            <tbody>${roleRows}</tbody>
+          </table>
+          <div class="pies">${rolePie}</div>
+        </section>
+
+        <section>
+          <h2>Kategorie</h2>
+          <table class="stat">
+            <thead><tr><th>Typ</th><th class="num">Różnych</th><th class="num">Śr. filmów</th></tr></thead>
+            <tbody>${catRows}</tbody>
+          </table>
+        </section>
+
+        <section>
+          <h2>Lata</h2>
+          <div class="tiles">
+            <div class="tile"><div class="big">${y.min}–${y.max}</div><div class="lbl">rozpiętość lat produkcji</div></div>
+            <div class="tile"><div class="big">${y.median}</div><div class="lbl">mediana roku</div></div>
+          </div>
+        </section>`;
+
+      document.getElementById('loading').style.display = 'none';
+      document.getElementById('content').style.display = '';
+    }
+
+    fetch('../../data/summary.json')
+      .then(r => r.json())
+      .then(render)
+      .catch(e => {
+        document.getElementById('loading').style.display = 'none';
+        const el = document.getElementById('error');
+        el.textContent = 'Błąd wczytywania danych: ' + e;
+        el.style.display = '';
+      });
+  </script>
+</body>
+</html>

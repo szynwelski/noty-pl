@@ -1,0 +1,110 @@
+{
+  "id": "nm0000455",
+  "name": "John Hughes",
+  "filmography": [
+    {
+      "imdb_id": "tt0085970",
+      "title": "Mr. Mom",
+      "year": 1983,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0085995",
+      "title": "National Lampoon's Vacation",
+      "year": 1983,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0089670",
+      "title": "National Lampoon's European Vacation",
+      "year": 1985,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0088847",
+      "title": "The Breakfast Club",
+      "year": 1985,
+      "roles": [
+        "director",
+        "writer",
+        "cast",
+        "producer"
+      ],
+      "character": "Brian's Father"
+    },
+    {
+      "imdb_id": "tt0099785",
+      "title": "Home Alone",
+      "year": 1990,
+      "roles": [
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0101545",
+      "title": "Career Opportunities",
+      "year": 1991,
+      "roles": [
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0104431",
+      "title": "Home Alone 2: Lost in New York",
+      "year": 1992,
+      "roles": [
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0109190",
+      "title": "Baby's Day Out",
+      "year": 1994,
+      "roles": [
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0115433",
+      "title": "101 Dalmatians",
+      "year": 1996,
+      "roles": [
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0817538",
+      "title": "Drillbit Taylor",
+      "year": 2008,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYTVjMjVmYmQtNDA3Ni00MGMxLWIwZDctNTFjMDRiMTNkZDY0XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "18.02.1950",
+  "death_date": "06.08.2009",
+  "birth_location": "Lansing, Michigan, USA",
+  "height": "1.85 m",
+  "filmweb_id": 10408,
+  "name_pl": "John Hughes",
+  "birth_location_pl": "Lansing, Michigan",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 10408
+}

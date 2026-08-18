@@ -1,0 +1,59 @@
+{
+  "id": "nm0002369",
+  "name": "John Williams",
+  "filmography": [
+    {
+      "imdb_id": "tt0046912",
+      "title": "Dial M for Murder",
+      "year": 1954,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Chief Inspector Hubbard"
+    },
+    {
+      "imdb_id": "tt0047437",
+      "title": "Sabrina",
+      "year": 1954,
+      "roles": [
+        "cast"
+      ],
+      "character": "Thomas Fairchild"
+    },
+    {
+      "imdb_id": "tt0048728",
+      "title": "To Catch a Thief",
+      "year": 1955,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "H.H. Hughson"
+    },
+    {
+      "imdb_id": "tt0051201",
+      "title": "Witness for the Prosecution",
+      "year": 1957,
+      "roles": [
+        "cast"
+      ],
+      "character": "Brogan-Moore"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTUyNDg1MTU5MV5BMl5BanBnXkFtZTcwMTgwNTUxOA@@._V1_.jpg",
+  "birth_date": "15.04.1903",
+  "death_date": "05.05.1983",
+  "birth_location": "Chalfont St. Giles, Buckinghamshire, England, UK",
+  "height": "1.86 m",
+  "filmweb_id": 60488,
+  "name_pl": "John Williams",
+  "birth_location_pl": "Chalfont St. Giles, Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania",
+    "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii"
+  ]
+}

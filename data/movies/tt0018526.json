@@ -1,0 +1,207 @@
+{
+  "imdb_id": "tt0018526",
+  "title": "Underworld",
+  "description": "Boisterous gangster kingpin Bull Weed rehabilitates a former lawyer from his alcoholic haze, but complications arise when he falls for Weed's girlfriend.",
+  "runtime_minutes": 80,
+  "release_date": "29.10.1927",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Film-Noir",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0051628",
+      "name": "George Bancroft"
+    },
+    {
+      "id": "nm0111612",
+      "name": "Clive Brook"
+    },
+    {
+      "id": "nm0107574",
+      "name": "Evelyn Brent"
+    },
+    {
+      "id": "nm0463264",
+      "name": "Fred Kohler"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0903049",
+      "name": "Josef von Sternberg"
+    },
+    {
+      "id": "nm0744504",
+      "name": "Arthur Rosson"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0299153",
+      "name": "Charles Furthman"
+    },
+    {
+      "id": "nm0372942",
+      "name": "Ben Hecht"
+    },
+    {
+      "id": "nm0498133",
+      "name": "Robert N. Lee"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0051628",
+      "name": "George Bancroft",
+      "character": "'Bull' Weed"
+    },
+    {
+      "id": "nm0111612",
+      "name": "Clive Brook",
+      "character": "Rolls Royce Wensel"
+    },
+    {
+      "id": "nm0107574",
+      "name": "Evelyn Brent",
+      "character": "'Feathers' McCoy"
+    },
+    {
+      "id": "nm0463264",
+      "name": "Fred Kohler",
+      "character": "'Buck' Mulligan"
+    },
+    {
+      "id": "nm0528317",
+      "name": "Helen Lynch",
+      "character": "Meg, Mulligan's Girl"
+    },
+    {
+      "id": "nm0783865",
+      "name": "Larry Semon",
+      "character": "'Slippy' Lewis"
+    },
+    {
+      "id": "nm0541799",
+      "name": "Jerry Mandy",
+      "character": "Paloma"
+    },
+    {
+      "id": "nm0020251",
+      "name": "Alfred Allen",
+      "character": "Judge"
+    },
+    {
+      "id": "nm0396473",
+      "name": "Shep Houghton",
+      "character": "Street Kid"
+    },
+    {
+      "id": "nm0533842",
+      "name": "Andy MacLennan",
+      "character": "One of Laughing Faces at the Ball"
+    },
+    {
+      "id": "nm0561972",
+      "name": "Ida May",
+      "character": "Laughing Woman at the Ball"
+    },
+    {
+      "id": "nm0607631",
+      "name": "Karl Morse",
+      "character": "'High Collar' Sam"
+    },
+    {
+      "id": "nm0716162",
+      "name": "Bob Reeves",
+      "character": "Detective at Railroad Station"
+    },
+    {
+      "id": "nm0729480",
+      "name": "Julian Rivero",
+      "character": "One of Buck's Henchmen"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "None",
+    "English"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 89020,
+  "year": 1927,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYjU2MTcwMTMtYzE3Yy00YzcxLTg5MjctZjI3OWFmYjA4MTA3XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.5,
+      "votes": 3939,
+      "distribution": {
+        "1": 61,
+        "2": 33,
+        "3": 37,
+        "4": 60,
+        "5": 170,
+        "6": 415,
+        "7": 1084,
+        "8": 1269,
+        "9": 425,
+        "10": 385
+      },
+      "normalized": 6.208
+    },
+    "filmweb": {
+      "rating": 7.35,
+      "votes": 497,
+      "distribution": {
+        "1": 4,
+        "2": 1,
+        "3": 4,
+        "4": 7,
+        "5": 19,
+        "6": 68,
+        "7": 168,
+        "8": 143,
+        "9": 46,
+        "10": 37
+      },
+      "normalized": 5.7728
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "19.10.2005",
+      "normalized": 6.3474
+    },
+    "score": 6.1094
+  },
+  "polish_title": "Ludzie podziemia",
+  "silent": true,
+  "description_pl": "Gangster Bull Tweed zabija z zazdrości kolegę i idzie za swój czyn do więzienia. Jego narzeczona  i wspólnik planują jego ucieczkę. Jednak w czasie dopracowywania szczegółów rodzi się między nimi uczucie...",
+  "producers": [
+    {
+      "id": "nm0775976",
+      "name": "B.P. Schulberg"
+    },
+    {
+      "id": "nm0877318",
+      "name": "Hector Turnbull"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0004592",
+      "name": "Robert Israel"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0322688",
+      "name": "Bert Glennon"
+    }
+  ],
+  "fetched_at": "2026-08-15"
+}

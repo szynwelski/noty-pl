@@ -1,0 +1,71 @@
+{
+  "id": "nm0001552",
+  "name": "Pat Morita",
+  "filmography": [
+    {
+      "imdb_id": "tt0087538",
+      "title": "The Karate Kid",
+      "year": 1984,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Mr. Miyagi"
+    },
+    {
+      "imdb_id": "tt0091326",
+      "title": "The Karate Kid Part II",
+      "year": 1986,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Miyagi"
+    },
+    {
+      "imdb_id": "tt0104438",
+      "title": "Honeymoon in Vegas",
+      "year": 1992,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Mahi"
+    },
+    {
+      "imdb_id": "tt0110657",
+      "title": "The Next Karate Kid",
+      "year": 1994,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Miyagi"
+    },
+    {
+      "imdb_id": "tt0120762",
+      "title": "Mulan",
+      "year": 1998,
+      "roles": [
+        "cast"
+      ],
+      "character": "The Emperor"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODIyNzYwNjE4NV5BMl5BanBnXkFtZTcwNzA3MzQ3Mw@@._V1_.jpg",
+  "birth_date": "28.06.1932",
+  "death_date": "24.11.2005",
+  "birth_location": "Isleton, California, USA",
+  "height": "1.60 m",
+  "filmweb_id": 42232,
+  "name_pl": "Pat Morita",
+  "birth_location_pl": "Isleton, Kalifornia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Japonia",
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 42232
+}

@@ -1,0 +1,244 @@
+{
+  "imdb_id": "tt1735898",
+  "title": "Snow White and the Huntsman",
+  "description": "In a twist to the fairy tale, the Huntsman ordered to take Snow White into the woods to be killed winds up becoming her protector and mentor in a quest to vanquish the Evil Queen.",
+  "runtime_minutes": 127,
+  "release_date": "01.06.2012",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "Fantasy"
+  ],
+  "stars": [
+    {
+      "id": "nm0829576",
+      "name": "Kristen Stewart"
+    },
+    {
+      "id": "nm1165110",
+      "name": "Chris Hemsworth"
+    },
+    {
+      "id": "nm0000234",
+      "name": "Charlize Theron"
+    },
+    {
+      "id": "nm3510471",
+      "name": "Sam Claflin"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm2782185",
+      "name": "Rupert Sanders"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm2489193",
+      "name": "Evan Daugherty"
+    },
+    {
+      "id": "nm0359387",
+      "name": "John Lee Hancock"
+    },
+    {
+      "id": "nm0024925",
+      "name": "Hossein Amini"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0829576",
+      "name": "Kristen Stewart",
+      "character": "Snow White"
+    },
+    {
+      "id": "nm1165110",
+      "name": "Chris Hemsworth",
+      "character": "The Huntsman"
+    },
+    {
+      "id": "nm0000234",
+      "name": "Charlize Theron",
+      "character": "Ravenna"
+    },
+    {
+      "id": "nm3510471",
+      "name": "Sam Claflin",
+      "character": "William"
+    },
+    {
+      "id": "nm0819874",
+      "name": "Sam Spruell",
+      "character": "Finn"
+    },
+    {
+      "id": "nm0574534",
+      "name": "Ian McShane",
+      "character": "Beith"
+    },
+    {
+      "id": "nm0001364",
+      "name": "Bob Hoskins",
+      "character": "Muir"
+    },
+    {
+      "id": "nm0935653",
+      "name": "Ray Winstone",
+      "character": "Gort"
+    },
+    {
+      "id": "nm0296545",
+      "name": "Nick Frost",
+      "character": "Nion"
+    },
+    {
+      "id": "nm0550371",
+      "name": "Eddie Marsan",
+      "character": "Duir"
+    },
+    {
+      "id": "nm0429363",
+      "name": "Toby Jones",
+      "character": "Coll"
+    },
+    {
+      "id": "nm0364890",
+      "name": "Johnny Harris",
+      "character": "Quert"
+    },
+    {
+      "id": "nm2244852",
+      "name": "Brian Gleeson",
+      "character": "Gus"
+    },
+    {
+      "id": "nm0716490",
+      "name": "Vincent Regan",
+      "character": "Duke Hammond"
+    },
+    {
+      "id": "nm3121334",
+      "name": "Liberty Ross",
+      "character": "Snow White's Mother"
+    },
+    {
+      "id": "nm0403168",
+      "name": "Noah Huntley",
+      "character": "King Magnus"
+    },
+    {
+      "id": "nm1259158",
+      "name": "Chris Obi",
+      "character": "Mirror Man"
+    },
+    {
+      "id": "nm2178959",
+      "name": "Lily Cole",
+      "character": "Greta"
+    }
+  ],
+  "countries": [
+    "United Kingdom",
+    "Japan",
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 600541,
+  "year": 2012,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BY2JjYWUyZjUtMDg3OS00MGIyLTgyN2QtYjIyY2VlYzViYThlXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.1,
+      "votes": 316378,
+      "distribution": {
+        "1": 6854,
+        "2": 5453,
+        "3": 10063,
+        "4": 20990,
+        "5": 46881,
+        "6": 85064,
+        "7": 74707,
+        "8": 35371,
+        "9": 12545,
+        "10": 18450
+      },
+      "normalized": 3.6773
+    },
+    "filmweb": {
+      "rating": 6.24,
+      "votes": 158247,
+      "distribution": {
+        "1": 724,
+        "2": 1302,
+        "3": 5604,
+        "4": 10028,
+        "5": 26004,
+        "6": 43922,
+        "7": 43085,
+        "8": 19517,
+        "9": 4941,
+        "10": 3120
+      },
+      "normalized": 3.7629
+    },
+    "jarek": {
+      "rating": 3,
+      "date_rated": "02.09.2014",
+      "normalized": 4.2591
+    },
+    "score": 3.8998
+  },
+  "polish_title": "Królewna Śnieżka i Łowca",
+  "silent": false,
+  "description_pl": "Dawno, dawno temu, w odległej krainie żyła zła królowa, która poleciła swemu myśliwemu zgładzić jedyną niewiastę piękniejszą od niej samej. Nie spodziewała się jednak, że podwładny sprzeciwi się jej rozkazom i zamiast zabić Królewnę Śnieżkę… nauczy ją sztuki wojny. Niezwykłe nowe wcielenie legendarnej baśni autorstwa Joe Rotha. Jedna z najbardziej oczekiwanych premier roku.",
+  "producers": [
+    {
+      "id": "nm2629711",
+      "name": "Laurie Boccaccio"
+    },
+    {
+      "id": "nm0096187",
+      "name": "Gloria S. Borders"
+    },
+    {
+      "id": "nm0103530",
+      "name": "Sarah Bradshaw"
+    },
+    {
+      "id": "nm4487151",
+      "name": "Helen Hayden"
+    },
+    {
+      "id": "nm0580303",
+      "name": "Sam Mercer"
+    },
+    {
+      "id": "nm2026983",
+      "name": "Palak Patel"
+    },
+    {
+      "id": "nm0005387",
+      "name": "Joe Roth"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006133",
+      "name": "James Newton Howard"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0292132",
+      "name": "Greig Fraser"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

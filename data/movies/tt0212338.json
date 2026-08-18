@@ -1,0 +1,252 @@
+{
+  "imdb_id": "tt0212338",
+  "title": "Meet the Parents",
+  "description": "A chronic underachiever meets his girlfriend's parents before proposing, but unfortunately for him her father is an overprotective former CIA agent.",
+  "runtime_minutes": 108,
+  "release_date": "06.10.2000",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0001774",
+      "name": "Ben Stiller"
+    },
+    {
+      "id": "nm0000134",
+      "name": "Robert De Niro"
+    },
+    {
+      "id": "nm0001632",
+      "name": "Teri Polo"
+    },
+    {
+      "id": "nm0001100",
+      "name": "Blythe Danner"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0005366",
+      "name": "Jay Roach"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0322839",
+      "name": "Greg Glienna"
+    },
+    {
+      "id": "nm0164898",
+      "name": "Mary Ruth Clarke"
+    },
+    {
+      "id": "nm0381272",
+      "name": "Jim Herzfeld"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0001774",
+      "name": "Ben Stiller",
+      "character": "Greg Focker"
+    },
+    {
+      "id": "nm0000134",
+      "name": "Robert De Niro",
+      "character": "Jack Byrnes"
+    },
+    {
+      "id": "nm0001632",
+      "name": "Teri Polo",
+      "character": "Pam Byrnes"
+    },
+    {
+      "id": "nm0001100",
+      "name": "Blythe Danner",
+      "character": "Dina Byrnes"
+    },
+    {
+      "id": "nm0215015",
+      "name": "Nicole DeHuff",
+      "character": "Debbie Byrnes"
+    },
+    {
+      "id": "nm0009016",
+      "name": "Jon Abrahams",
+      "character": "Denny Byrnes"
+    },
+    {
+      "id": "nm0005562",
+      "name": "Owen Wilson",
+      "character": "Kevin Rawley"
+    },
+    {
+      "id": "nm0714310",
+      "name": "James Rebhorn",
+      "character": "Dr. Larry Banks"
+    },
+    {
+      "id": "nm0565336",
+      "name": "Tom McCarthy",
+      "character": "Bob Banks"
+    },
+    {
+      "id": "nm0313575",
+      "name": "Phyllis George",
+      "character": "Linda Banks"
+    },
+    {
+      "id": "nm0733812",
+      "name": "Kali Rocha",
+      "character": "Flight Attendant"
+    },
+    {
+      "id": "nm0792095",
+      "name": "Bernie Sheredy",
+      "character": "Norm the Interrogator"
+    },
+    {
+      "id": "nm0295103",
+      "name": "Judah Friedlander",
+      "character": "Pharmacy Clerk"
+    },
+    {
+      "id": "nm0058874",
+      "name": "Peter Bartlett",
+      "character": "Animal Shelter Worker"
+    },
+    {
+      "id": "nm0255623",
+      "name": "John Elsen",
+      "character": "Chicago Airport Security"
+    },
+    {
+      "id": "nm0358481",
+      "name": "Mark Hammer",
+      "character": "Hospital Patient"
+    },
+    {
+      "id": "nm0389855",
+      "name": "Amy Hohn",
+      "character": "Ticket Agent"
+    },
+    {
+      "id": "nm0786381",
+      "name": "William Severs",
+      "character": "Father O'Boyle"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Thai",
+    "Spanish",
+    "Hebrew",
+    "French"
+  ],
+  "color": "Color",
+  "filmweb_id": 1430,
+  "year": 2000,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZmE0MGI0OTctOGRlMy00MDdjLTg4M2EtNzFmZWNiNDhjYTgzXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7,
+      "votes": 381093,
+      "distribution": {
+        "1": 3042,
+        "2": 2529,
+        "3": 4076,
+        "4": 8543,
+        "5": 22268,
+        "6": 64235,
+        "7": 142343,
+        "8": 84682,
+        "9": 27255,
+        "10": 22120
+      },
+      "normalized": 5.6039
+    },
+    "filmweb": {
+      "rating": 6.93,
+      "votes": 128181,
+      "distribution": {
+        "1": 317,
+        "2": 438,
+        "3": 1483,
+        "4": 3167,
+        "5": 9083,
+        "6": 26118,
+        "7": 48065,
+        "8": 28623,
+        "9": 6995,
+        "10": 3892
+      },
+      "normalized": 5.4914
+    },
+    "michal": {
+      "rating": 3,
+      "date_rated": "17.03.2006",
+      "normalized": 3.8753
+    },
+    "score": 4.9902
+  },
+  "polish_title": "Poznaj mojego tatę",
+  "silent": false,
+  "description_pl": "Pielęgniarz Greg Focker postanawia poprosić o rękę swoją narzeczoną, Pam. Niestety, ta woli, aby Greg oświadczył się w tradycyjny sposób, czyli o jej rękę poprosił ojca. Nie mając wyboru, Greg wraz z narzeczoną wybiera się poznać przyszłych teściów. Na miejscu jednak okazuje się, że zdaniem ojca Pam nie nadaje się na męża dla jego ukochanej córki i na każdym kroku stara mu się to udowodnić. Pobyt u rodziców Pam staje się dla Grega piekłem na ziemi.",
+  "producers": [
+    {
+      "id": "nm0000134",
+      "name": "Robert De Niro"
+    },
+    {
+      "id": "nm0322839",
+      "name": "Greg Glienna"
+    },
+    {
+      "id": "nm0680073",
+      "name": "Emo Philips"
+    },
+    {
+      "id": "nm0005366",
+      "name": "Jay Roach"
+    },
+    {
+      "id": "nm0732024",
+      "name": "Shauna Robertson"
+    },
+    {
+      "id": "nm0742772",
+      "name": "Jane Rosenthal"
+    },
+    {
+      "id": "nm0768528",
+      "name": "Amy Sayres"
+    },
+    {
+      "id": "nm0854941",
+      "name": "Nancy Tenenbaum"
+    },
+    {
+      "id": "nm0898675",
+      "name": "Jim Vincent"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0005271",
+      "name": "Randy Newman"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0416824",
+      "name": "Peter James"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

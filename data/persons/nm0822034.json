@@ -1,0 +1,39 @@
+{
+  "id": "nm0822034",
+  "name": "Lionel Stander",
+  "filmography": [
+    {
+      "imdb_id": "tt0027996",
+      "title": "Mr. Deeds Goes to Town",
+      "year": 1936,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Cornelius Cobb"
+    },
+    {
+      "imdb_id": "tt0064116",
+      "title": "Once Upon a Time in the West",
+      "year": 1968,
+      "roles": [
+        "cast"
+      ],
+      "character": "Barman"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQ4NDQ3NDA4OV5BMl5BanBnXkFtZTcwMjQ2NzkxOA@@._V1_.jpg",
+  "birth_date": "11.01.1908",
+  "death_date": "30.11.1994",
+  "birth_location": "The Bronx, New York City, New York, USA",
+  "height": "1.84 m",
+  "imdb_scraped": true,
+  "filmweb_id": 8536,
+  "name_pl": "Lionel Stander",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

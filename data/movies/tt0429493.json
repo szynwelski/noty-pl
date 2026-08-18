@@ -1,0 +1,259 @@
+{
+  "imdb_id": "tt0429493",
+  "title": "The A-Team",
+  "description": "A group of Iraq War veterans look to clear their name with the U.S. Military, who suspect the four men of committing a crime for which they were framed.",
+  "runtime_minutes": 118,
+  "release_date": "11.06.2010",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Crime",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000553",
+      "name": "Liam Neeson"
+    },
+    {
+      "id": "nm0177896",
+      "name": "Bradley Cooper"
+    },
+    {
+      "id": "nm1663205",
+      "name": "Sharlto Copley"
+    },
+    {
+      "id": "nm0004754",
+      "name": "Jessica Biel"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0138620",
+      "name": "Joe Carnahan"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0138620",
+      "name": "Joe Carnahan"
+    },
+    {
+      "id": "nm0089141",
+      "name": "Brian Bloom"
+    },
+    {
+      "id": "nm0940790",
+      "name": "Skip Woods"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000553",
+      "name": "Liam Neeson",
+      "character": "Hannibal"
+    },
+    {
+      "id": "nm0177896",
+      "name": "Bradley Cooper",
+      "character": "Face"
+    },
+    {
+      "id": "nm1663205",
+      "name": "Sharlto Copley",
+      "character": "Murdock"
+    },
+    {
+      "id": "nm0004754",
+      "name": "Jessica Biel",
+      "character": "Charissa Sosa"
+    },
+    {
+      "id": "nm1961693",
+      "name": "Quinton 'Rampage' Jackson",
+      "character": "B.A. Baracus"
+    },
+    {
+      "id": "nm0933940",
+      "name": "Patrick Wilson",
+      "character": "Lynch"
+    },
+    {
+      "id": "nm0574468",
+      "name": "Gerald McRaney",
+      "character": "General Morrison"
+    },
+    {
+      "id": "nm0001089",
+      "name": "Henry Czerny",
+      "character": "Director McCready"
+    },
+    {
+      "id": "nm0891485",
+      "name": "Yul Vazquez",
+      "character": "General Javier Tuco"
+    },
+    {
+      "id": "nm0089141",
+      "name": "Brian Bloom",
+      "character": "Pike"
+    },
+    {
+      "id": "nm0827561",
+      "name": "Maury Sterling",
+      "character": "Gammons"
+    },
+    {
+      "id": "nm0155389",
+      "name": "Terry Chen",
+      "character": "Ravech"
+    },
+    {
+      "id": "nm1165044",
+      "name": "Omari Hardwick",
+      "character": "Chopshop Jay"
+    },
+    {
+      "id": "nm0400374",
+      "name": "David Hugghins",
+      "character": "Oskar Shunt"
+    },
+    {
+      "id": "nm2811073",
+      "name": "Jacob Blair",
+      "character": "Agent Blair"
+    },
+    {
+      "id": "nm0198502",
+      "name": "Rad Daly",
+      "character": "Agent Daly"
+    },
+    {
+      "id": "nm0726173",
+      "name": "Kyle Riefsnyder",
+      "character": "Agent Kyle"
+    },
+    {
+      "id": "nm1591479",
+      "name": "Andrew Coghlan",
+      "character": "Army Hospital Attendant"
+    }
+  ],
+  "countries": [
+    "United States",
+    "United Kingdom"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "Swahili",
+    "German"
+  ],
+  "color": "Color",
+  "filmweb_id": 190290,
+  "year": 2010,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTc4ODc4NTQ1N15BMl5BanBnXkFtZTcwNDUxODUyMw@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.7,
+      "votes": 278168,
+      "distribution": {
+        "1": 3467,
+        "2": 2778,
+        "3": 4730,
+        "4": 10248,
+        "5": 24843,
+        "6": 55620,
+        "7": 84566,
+        "8": 51355,
+        "9": 19743,
+        "10": 20818
+      },
+      "normalized": 4.8633
+    },
+    "filmweb": {
+      "rating": 6.86,
+      "votes": 97181,
+      "distribution": {
+        "1": 570,
+        "2": 594,
+        "3": 1999,
+        "4": 3395,
+        "5": 8521,
+        "6": 18842,
+        "7": 31235,
+        "8": 21030,
+        "9": 7094,
+        "10": 3901
+      },
+      "normalized": 5.3706
+    },
+    "jarek": {
+      "rating": 3,
+      "date_rated": "11.08.2010",
+      "normalized": 4.2591
+    },
+    "score": 4.831
+  },
+  "polish_title": "Drużyna A",
+  "silent": false,
+  "description_pl": "Grupa weteranów wojny w Iraku zostaje wrobiona w zabójstwo i postanawia za wszelka cenę odzyskać dobre imię. Kinowa wersja bijącego rekordy popularności komediowego serialu TV, wyreżyserowana przez <a href=\"/osoba/?id=nm0138620\">Joe Carnahana</a> (autora \"Asa w rękawie\" oraz \"W cieniu chwały\").",
+  "producers": [
+    {
+      "id": "nm0004798",
+      "name": "Stephen J. Cannell"
+    },
+    {
+      "id": "nm0198467",
+      "name": "Jules Daly"
+    },
+    {
+      "id": "nm0266771",
+      "name": "Ross Fanger"
+    },
+    {
+      "id": "nm0002631",
+      "name": "Patrick McIntire"
+    },
+    {
+      "id": "nm0000631",
+      "name": "Ridley Scott"
+    },
+    {
+      "id": "nm0001716",
+      "name": "Tony Scott"
+    },
+    {
+      "id": "nm1749292",
+      "name": "Spike Seldin"
+    },
+    {
+      "id": "nm0799155",
+      "name": "Marc Silvestri"
+    },
+    {
+      "id": "nm0808498",
+      "name": "Iain Smith"
+    },
+    {
+      "id": "nm1747215",
+      "name": "Alex Young"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006293",
+      "name": "Alan Silvestri"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0278475",
+      "name": "Mauro Fiore"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

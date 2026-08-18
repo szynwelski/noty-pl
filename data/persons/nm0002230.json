@@ -1,0 +1,39 @@
+{
+  "id": "nm0002230",
+  "name": "Carlos Gallardo",
+  "filmography": [
+    {
+      "imdb_id": "tt0112851",
+      "title": "Desperado",
+      "year": 1995,
+      "roles": [
+        "cast",
+        "producer"
+      ],
+      "character": "Campa"
+    },
+    {
+      "imdb_id": "tt1077258",
+      "title": "Planet Terror",
+      "year": 2007,
+      "roles": [
+        "cast"
+      ],
+      "character": "Deputy Carlos"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTUyMDEzMzE4M15BMl5BanBnXkFtZTYwOTg2NTI1._V1_.jpg",
+  "birth_location": "Acuña, Coahuila, Mexico",
+  "height": "1.75 m",
+  "imdb_scraped": true,
+  "filmweb_id": 48289,
+  "name_pl": "Carlos Gallardo",
+  "birth_location_pl": "Acuña",
+  "birth_date": "22.06.1966",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Meksyk"
+  ],
+  "wikidata_fw_id": 48289
+}

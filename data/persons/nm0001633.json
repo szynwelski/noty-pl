@@ -1,0 +1,65 @@
+{
+  "id": "nm0001633",
+  "name": "Annie Potts",
+  "filmography": [
+    {
+      "imdb_id": "tt0087332",
+      "title": "Ghostbusters",
+      "year": 1984,
+      "roles": [
+        "cast"
+      ],
+      "character": "Janine Melnitz"
+    },
+    {
+      "imdb_id": "tt0097428",
+      "title": "Ghostbusters II",
+      "year": 1989,
+      "roles": [
+        "cast"
+      ],
+      "character": "Janine Melnitz"
+    },
+    {
+      "imdb_id": "tt0114709",
+      "title": "Toy Story",
+      "year": 1995,
+      "roles": [
+        "cast"
+      ],
+      "character": "Bo Peep"
+    },
+    {
+      "imdb_id": "tt0120363",
+      "title": "Toy Story 2",
+      "year": 1999,
+      "roles": [
+        "cast"
+      ],
+      "character": "Bo Peep"
+    },
+    {
+      "imdb_id": "tt1979376",
+      "title": "Toy Story 4",
+      "year": 2019,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Bo Peep"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjA0NjkyMDIzMF5BMl5BanBnXkFtZTcwNjc2NTUyMQ@@._V1_.jpg",
+  "birth_date": "28.10.1952",
+  "birth_location": "Nashville, Tennessee, USA",
+  "height": "1.60 m",
+  "filmweb_id": 41313,
+  "name_pl": "Annie Potts",
+  "birth_location_pl": "Nashville, Tennessee",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

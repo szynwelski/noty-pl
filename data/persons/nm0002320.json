@@ -1,0 +1,42 @@
+{
+  "id": "nm0002320",
+  "name": "Fred Murphy",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZTk3MzM3ZDYtZGVmYy00ZWZhLWIyNWYtYmMyMGNkNDY2NTY2XkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0132477",
+      "title": "October Sky",
+      "year": 1999,
+      "roles": [
+        "cinematographer"
+      ]
+    },
+    {
+      "imdb_id": "tt0164181",
+      "title": "Stir of Echoes",
+      "year": 1999,
+      "roles": [
+        "cinematographer"
+      ]
+    },
+    {
+      "imdb_id": "tt0817538",
+      "title": "Drillbit Taylor",
+      "year": 2008,
+      "roles": [
+        "cinematographer"
+      ]
+    }
+  ],
+  "birth_date": "16.12.1942",
+  "birth_location": "New York, USA",
+  "filmweb_id": 10676,
+  "name_pl": "Fred Murphy",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

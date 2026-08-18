@@ -1,0 +1,66 @@
+{
+  "imdb_id": "tt0476337",
+  "title": "Pickpocket",
+  "description": "A pickpocket is caught in the act, and leads the police on a lengthy chase.",
+  "runtime_minutes": 4,
+  "release_date": "10.12.1903",
+  "genres": [
+    "Short",
+    "Crime",
+    "Drama"
+  ],
+  "directors": [
+    {
+      "id": "nm0172118",
+      "name": "Alf Collins"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "None",
+    "English"
+  ],
+  "color": "Black and White",
+  "year": 1903,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzRhNGRjOTEtYzRkYi00ZmM0LTk2MmQtNmM1MDFlNGNmNWI1XkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 455828,
+  "original_title": "The Pickpocket -- A Chase Through London",
+  "ratings": {
+    "imdb": {
+      "rating": 4.8,
+      "votes": 53,
+      "distribution": {
+        "1": 7,
+        "2": 1,
+        "3": 5,
+        "4": 6,
+        "5": 15,
+        "6": 11,
+        "7": 6,
+        "8": 0,
+        "9": 0,
+        "10": 2
+      },
+      "normalized": 5.027
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "15.12.2016",
+      "normalized": 4.9718
+    },
+    "score": 5.1663,
+    "filmweb": {
+      "normalized": 5.5
+    }
+  },
+  "polish_title": "The Pickpocket -- A Chase Through London",
+  "silent": true,
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-16"
+}

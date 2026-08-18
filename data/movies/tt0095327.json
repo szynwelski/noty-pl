@@ -1,0 +1,247 @@
+{
+  "imdb_id": "tt0095327",
+  "title": "Grave of the Fireflies",
+  "description": "A young boy and his little sister struggle to survive in Japan during World War II.",
+  "runtime_minutes": 88,
+  "release_date": "26.07.1989",
+  "genres": [
+    "Animation",
+    "Drama",
+    "War"
+  ],
+  "stars": [
+    {
+      "id": "nm0851302",
+      "name": "Tsutomu Tatsumi"
+    },
+    {
+      "id": "nm0794186",
+      "name": "Ayano Shiraishi"
+    },
+    {
+      "id": "nm0945312",
+      "name": "Akemi Yamaguchi"
+    },
+    {
+      "id": "nm0794002",
+      "name": "Yoshiko Shinohara"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0847223",
+      "name": "Isao Takahata"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0636435",
+      "name": "Akiyuki Nosaka"
+    },
+    {
+      "id": "nm0847223",
+      "name": "Isao Takahata"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0851302",
+      "name": "Tsutomu Tatsumi",
+      "character": "Seita"
+    },
+    {
+      "id": "nm0794186",
+      "name": "Ayano Shiraishi",
+      "character": "Setsuko"
+    },
+    {
+      "id": "nm0945312",
+      "name": "Akemi Yamaguchi",
+      "character": "Aunt"
+    },
+    {
+      "id": "nm0794002",
+      "name": "Yoshiko Shinohara",
+      "character": "Mother"
+    },
+    {
+      "id": "nm12329614",
+      "name": "Kôzô Hashida",
+      "character": "Obayashi Chairman"
+    },
+    {
+      "id": "nm10735745",
+      "name": "Masayo Sakai",
+      "character": "Woman who takes care of Setsuko"
+    },
+    {
+      "id": "nm12329615",
+      "name": "Kazumi Nozaki",
+      "character": "Cousin"
+    },
+    {
+      "id": "nm4410046",
+      "name": "Yoshio Matsuoka",
+      "character": "Gosaku"
+    },
+    {
+      "id": "nm12329616",
+      "name": "Masahiro Kanetake",
+      "character": "Aunt's house guest"
+    },
+    {
+      "id": "nm6979973",
+      "name": "Kiyoshi Yanagawa",
+      "character": "Patrolman"
+    },
+    {
+      "id": "nm12329617",
+      "name": "Hajime Maki",
+      "character": "Man who arrests Seita"
+    },
+    {
+      "id": "nm6087055",
+      "name": "Atsuo Omote",
+      "character": "Person in bank"
+    },
+    {
+      "id": "nm12329618",
+      "name": "Teruhisa Harita",
+      "character": "Station worker"
+    },
+    {
+      "id": "nm0848991",
+      "name": "Hiroshi Tanaka",
+      "character": "Person in bank"
+    },
+    {
+      "id": "nm7135999",
+      "name": "Michio Denpô",
+      "character": "Station worker"
+    },
+    {
+      "id": "nm5580208",
+      "name": "Shirô Tamaki",
+      "character": "Person in bank"
+    },
+    {
+      "id": "nm0620235",
+      "name": "Tadashi Nakamura",
+      "character": ""
+    },
+    {
+      "id": "nm12329619",
+      "name": "Mika Sekita",
+      "character": "Nurse"
+    }
+  ],
+  "countries": [
+    "Japan"
+  ],
+  "languages": [
+    "Japanese"
+  ],
+  "color": "Color",
+  "filmweb_id": 34655,
+  "year": 1988,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTY5MmE2OGMtN2IxNC00MDY4LTkwMGEtZDUzOTYyNWE0ZTNjXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Hotaru no haka",
+  "ratings": {
+    "imdb": {
+      "rating": 8.5,
+      "votes": 393308,
+      "distribution": {
+        "1": 5382,
+        "2": 1487,
+        "3": 1796,
+        "4": 3191,
+        "5": 6231,
+        "6": 14175,
+        "7": 40771,
+        "8": 89517,
+        "9": 108132,
+        "10": 122626
+      },
+      "normalized": 8.7951
+    },
+    "filmweb": {
+      "rating": 8.08,
+      "votes": 58161,
+      "distribution": {
+        "1": 600,
+        "2": 117,
+        "3": 291,
+        "4": 481,
+        "5": 1277,
+        "6": 3138,
+        "7": 9482,
+        "8": 19369,
+        "9": 14534,
+        "10": 8872
+      },
+      "normalized": 8.5881
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "28.06.2013",
+      "normalized": 6.4102
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "03.07.2013",
+      "normalized": 7.2292
+    },
+    "score": 7.7557
+  },
+  "polish_title": "Grobowiec świetlików",
+  "silent": false,
+  "description_pl": "Wstrząsający film, którego scenariusz powstał na podstawie biograficznej powieści Akiyuki Nosaka. Rozgrywająca się w czasach II Wojny Światowej w Japonii historia 14-letniego chłopca i jego młodszej siostry, których matka zginęła podczas nalotu na Kobe. Od tej pory rodzeństwo jest zdane tylko na siebie...",
+  "producers": [
+    {
+      "id": "nm1109300",
+      "name": "Joey Goubeaud"
+    },
+    {
+      "id": "nm0361701",
+      "name": "Tôru Hara"
+    },
+    {
+      "id": "nm0496556",
+      "name": "John Ledford"
+    },
+    {
+      "id": "nm1136879",
+      "name": "John O'Donnell"
+    },
+    {
+      "id": "nm0766256",
+      "name": "Ryôichi Satô"
+    },
+    {
+      "id": "nm0787784",
+      "name": "Stephanie Shalofsky"
+    },
+    {
+      "id": "nm1664401",
+      "name": "Eiichi Takahashi"
+    },
+    {
+      "id": "nm8042533",
+      "name": "Shin'ichirô Ueda"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm2197915",
+      "name": "Michio Mamiya"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0468710",
+      "name": "Nobuo Koyama"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

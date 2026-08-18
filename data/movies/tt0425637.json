@@ -1,0 +1,351 @@
+{
+  "imdb_id": "tt0425637",
+  "title": "Red Cliff",
+  "description": "The first chapter of a two-part story centered on a battle fought in China's Three Kingdoms period (220-280 A.D.).",
+  "runtime_minutes": 148,
+  "release_date": "04.12.2009",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "History",
+    "War"
+  ],
+  "stars": [
+    {
+      "id": "nm0504897",
+      "name": "Tony Leung Chiu-wai"
+    },
+    {
+      "id": "nm0437580",
+      "name": "Takeshi Kaneshiro"
+    },
+    {
+      "id": "nm0955342",
+      "name": "Fengyi Zhang"
+    },
+    {
+      "id": "nm0151654",
+      "name": "Chang Chen"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000247",
+      "name": "John Woo"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000247",
+      "name": "John Woo"
+    },
+    {
+      "id": "nm1502082",
+      "name": "Khan Chan"
+    },
+    {
+      "id": "nm1171056",
+      "name": "Cheng Kuo"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0504897",
+      "name": "Tony Leung Chiu-wai",
+      "character": "Zhou Yu"
+    },
+    {
+      "id": "nm0437580",
+      "name": "Takeshi Kaneshiro",
+      "character": "Zhuge Liang"
+    },
+    {
+      "id": "nm0955342",
+      "name": "Fengyi Zhang",
+      "character": "Cao Cao"
+    },
+    {
+      "id": "nm0151654",
+      "name": "Chang Chen",
+      "character": "Sun Quan"
+    },
+    {
+      "id": "nm0955505",
+      "name": "Wei Zhao",
+      "character": "Sun Shangxiang"
+    },
+    {
+      "id": "nm0432425",
+      "name": "Jun Hu",
+      "character": "Zhao Yun"
+    },
+    {
+      "id": "nm1217394",
+      "name": "Shidô Nakamura",
+      "character": "Gan Xing"
+    },
+    {
+      "id": "nm2258705",
+      "name": "Chi-Ling Lin",
+      "character": "Xiao Qiao"
+    },
+    {
+      "id": "nm1291827",
+      "name": "Dawei Tong",
+      "character": "Sun Shucai"
+    },
+    {
+      "id": "nm2812610",
+      "name": "Yong Hou",
+      "character": "Lu Su"
+    },
+    {
+      "id": "nm0949173",
+      "name": "Yong You",
+      "character": "Liu Bei"
+    },
+    {
+      "id": "nm2436529",
+      "name": "Baasanjav Mijid",
+      "character": "Guan Yu"
+    },
+    {
+      "id": "nm2237119",
+      "name": "Jinsheng Zang",
+      "character": "Zhang Fei"
+    },
+    {
+      "id": "nm1254879",
+      "name": "Shan Zhang",
+      "character": "Huang Gai"
+    },
+    {
+      "id": "nm0910923",
+      "name": "Hui Wang",
+      "character": "Cao Hong"
+    },
+    {
+      "id": "nm3085016",
+      "name": "Gang Xie",
+      "character": "Hua Tuo"
+    },
+    {
+      "id": "nm2346095",
+      "name": "Jia Song",
+      "character": "Li Ji"
+    },
+    {
+      "id": "nm4390966",
+      "name": "Xiaohong Shi",
+      "character": "Jiang Gan"
+    }
+  ],
+  "countries": [
+    "China",
+    "Hong Kong",
+    "Japan",
+    "Taiwan",
+    "South Korea",
+    "United States"
+  ],
+  "languages": [
+    "Mandarin"
+  ],
+  "color": "Color",
+  "filmweb_id": 176582,
+  "year": 2008,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTcyOTQ3NDA1OV5BMl5BanBnXkFtZTcwMDY3NzM4Mg@@._V1_.jpg",
+  "original_title": "Chi bi",
+  "ratings": {
+    "imdb": {
+      "rating": 7.3,
+      "votes": 50599,
+      "distribution": {
+        "1": 686,
+        "2": 294,
+        "3": 550,
+        "4": 1001,
+        "5": 2320,
+        "6": 5956,
+        "7": 14124,
+        "8": 14094,
+        "9": 6292,
+        "10": 5282
+      },
+      "normalized": 6.0506
+    },
+    "filmweb": {
+      "rating": 7.23,
+      "votes": 13720,
+      "distribution": {
+        "1": 121,
+        "2": 51,
+        "3": 186,
+        "4": 333,
+        "5": 785,
+        "6": 1937,
+        "7": 4144,
+        "8": 3823,
+        "9": 1413,
+        "10": 927
+      },
+      "normalized": 6.0528
+    },
+    "jarek": {
+      "rating": 3,
+      "date_rated": "12.08.2010",
+      "normalized": 4.2591
+    },
+    "score": 5.4542
+  },
+  "polish_title": "Trzy królestwa",
+  "silent": false,
+  "description_pl": "Rok 208 po narodzeniu Chrystusa, Chiny, czas panowania dynastii Han. Kraina Wu zostaje napadnięta przez armię liczącą 800 000 żołnierzy pod przywództwem wodza Cao Cao. Władca broniącego się państwa wzywa na pomoc Liu Bei, aby ten poprowadził atak od strony morza.",
+  "producers": [
+    {
+      "id": "nm0151835",
+      "name": "Terence Chang"
+    },
+    {
+      "id": "nm3126412",
+      "name": "Zilong Guo"
+    },
+    {
+      "id": "nm0359189",
+      "name": "Sanping Han"
+    },
+    {
+      "id": "nm3126837",
+      "name": "Xiaoei Han"
+    },
+    {
+      "id": "nm2701465",
+      "name": "Bing He"
+    },
+    {
+      "id": "nm0944496",
+      "name": "Xiaofeng Hu"
+    },
+    {
+      "id": "nm2328407",
+      "name": "Chin-Wen Huang"
+    },
+    {
+      "id": "nm2606490",
+      "name": "Tao Jiang"
+    },
+    {
+      "id": "nm2871630",
+      "name": "Sirena Liu"
+    },
+    {
+      "id": "nm3126351",
+      "name": "Hongshi Lu"
+    },
+    {
+      "id": "nm3003815",
+      "name": "Max Matsuura"
+    },
+    {
+      "id": "nm0002812",
+      "name": "Rick Nathanson"
+    },
+    {
+      "id": "nm3126318",
+      "name": "Mingyu Peng"
+    },
+    {
+      "id": "nm1284187",
+      "name": "Zhonglun Ren"
+    },
+    {
+      "id": "nm0793006",
+      "name": "Dongming Shi"
+    },
+    {
+      "id": "nm2330762",
+      "name": "Tsai-Yang Tang"
+    },
+    {
+      "id": "nm2866266",
+      "name": "Zhan Teng"
+    },
+    {
+      "id": "nm0863247",
+      "name": "Lori Tilkin"
+    },
+    {
+      "id": "nm3126617",
+      "name": "Jianqiu Wang"
+    },
+    {
+      "id": "nm0917671",
+      "name": "Wei Wang"
+    },
+    {
+      "id": "nm1219582",
+      "name": "Todd Weinger"
+    },
+    {
+      "id": "nm2289129",
+      "name": "Kim Woo-taek"
+    },
+    {
+      "id": "nm3126118",
+      "name": "Anne Woo"
+    },
+    {
+      "id": "nm0000247",
+      "name": "John Woo"
+    },
+    {
+      "id": "nm2822363",
+      "name": "Kebo Wu"
+    },
+    {
+      "id": "nm3126037",
+      "name": "Jianshai Xu"
+    },
+    {
+      "id": "nm0944645",
+      "name": "Pengle Xu"
+    },
+    {
+      "id": "nm1249415",
+      "name": "Xiaoming Yan"
+    },
+    {
+      "id": "nm3126835",
+      "name": "Shoucheng Yang"
+    },
+    {
+      "id": "nm2014973",
+      "name": "Ju-Feng Yeh"
+    },
+    {
+      "id": "nm1647673",
+      "name": "Cheri Yeung"
+    },
+    {
+      "id": "nm1236491",
+      "name": "Dong Yu"
+    },
+    {
+      "id": "nm0955339",
+      "name": "Daxing Zhang"
+    },
+    {
+      "id": "nm2703822",
+      "name": "Qiang Zhang"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0412611",
+      "name": "Tarô Iwashiro"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

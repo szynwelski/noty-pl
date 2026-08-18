@@ -1,0 +1,60 @@
+{
+  "id": "nm0000549",
+  "name": "Roger Moore",
+  "filmography": [
+    {
+      "imdb_id": "tt0071807",
+      "title": "The Man with the Golden Gun",
+      "year": 1974,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "James Bond"
+    },
+    {
+      "imdb_id": "tt0076752",
+      "title": "The Spy Who Loved Me",
+      "year": 1977,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "James Bond"
+    },
+    {
+      "imdb_id": "tt0079574",
+      "title": "Moonraker",
+      "year": 1979,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "James Bond"
+    },
+    {
+      "imdb_id": "tt0117420",
+      "title": "The Quest",
+      "year": 1996,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Lord Edgar Dobbs"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQ3Njg5MDkxNl5BMl5BanBnXkFtZTYwNjczMzU0._V1_.jpg",
+  "birth_date": "14.10.1927",
+  "death_date": "23.05.2017",
+  "birth_location": "Stockwell, London, England, UK",
+  "height": "1.86 m",
+  "filmweb_id": 7229,
+  "name_pl": "Roger Moore",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ]
+}

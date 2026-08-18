@@ -1,0 +1,80 @@
+{
+  "id": "nm0005222",
+  "name": "Sam Mendes",
+  "filmography": [
+    {
+      "imdb_id": "tt0169547",
+      "title": "American Beauty",
+      "year": 1999,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0257044",
+      "title": "Road to Perdition",
+      "year": 2002,
+      "roles": [
+        "director",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0418763",
+      "title": "Jarhead",
+      "year": 2005,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0959337",
+      "title": "Revolutionary Road",
+      "year": 2008,
+      "roles": [
+        "director",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt1074638",
+      "title": "Skyfall",
+      "year": 2012,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt2379713",
+      "title": "Spectre",
+      "year": 2015,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt8579674",
+      "title": "1917",
+      "year": 2019,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTgzODMyMDUwNF5BMl5BanBnXkFtZTcwNzEyMjAyMg@@._V1_.jpg",
+  "birth_date": "01.08.1965",
+  "birth_location": "Reading, Berkshire, England, UK",
+  "height": "1.75 m",
+  "filmweb_id": 330,
+  "name_pl": "Sam Mendes",
+  "birth_location_pl": "Reading, Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 330
+}

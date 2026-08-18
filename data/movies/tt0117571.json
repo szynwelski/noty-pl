@@ -1,0 +1,236 @@
+{
+  "imdb_id": "tt0117571",
+  "title": "Scream",
+  "description": "In the small town of Woodsboro, California, a masked killer known as Ghostface begins murdering high school students, and a group of friends must use their knowledge of horror movies to unmask the killer.",
+  "runtime_minutes": 111,
+  "release_date": "20.12.1996",
+  "genres": [
+    "Horror",
+    "Mystery"
+  ],
+  "stars": [
+    {
+      "id": "nm0000117",
+      "name": "Neve Campbell"
+    },
+    {
+      "id": "nm0001073",
+      "name": "Courteney Cox"
+    },
+    {
+      "id": "nm0000274",
+      "name": "David Arquette"
+    },
+    {
+      "id": "nm0000240",
+      "name": "Skeet Ulrich"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000127",
+      "name": "Wes Craven"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0932078",
+      "name": "Kevin Williamson"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000117",
+      "name": "Neve Campbell",
+      "character": "Sidney"
+    },
+    {
+      "id": "nm0001073",
+      "name": "Courteney Cox",
+      "character": "Gale Weathers"
+    },
+    {
+      "id": "nm0000274",
+      "name": "David Arquette",
+      "character": "Deputy Dewey"
+    },
+    {
+      "id": "nm0000106",
+      "name": "Drew Barrymore",
+      "character": "Casey"
+    },
+    {
+      "id": "nm0413996",
+      "name": "Roger L. Jackson",
+      "character": "Phone Voice"
+    },
+    {
+      "id": "nm0909384",
+      "name": "Kevin Patrick Walls",
+      "character": "Steve"
+    },
+    {
+      "id": "nm0095673",
+      "name": "David Booth",
+      "character": "Casey's Father"
+    },
+    {
+      "id": "nm0368938",
+      "name": "Carla Hatley",
+      "character": "Casey's Mother"
+    },
+    {
+      "id": "nm0000240",
+      "name": "Skeet Ulrich",
+      "character": "Billy"
+    },
+    {
+      "id": "nm0372967",
+      "name": "Lawrence Hecht",
+      "character": "Mr. Prescott"
+    },
+    {
+      "id": "nm0114868",
+      "name": "W. Earl Brown",
+      "character": "Kenny"
+    },
+    {
+      "id": "nm0000535",
+      "name": "Rose McGowan",
+      "character": "Tatum"
+    },
+    {
+      "id": "nm0766881",
+      "name": "Lois Saunders",
+      "character": "Mrs. Tate"
+    },
+    {
+      "id": "nm0924178",
+      "name": "Joseph Whipp",
+      "character": "Sheriff Burke"
+    },
+    {
+      "id": "nm0000498",
+      "name": "Matthew Lillard",
+      "character": "Stuart"
+    },
+    {
+      "id": "nm0005085",
+      "name": "Jamie Kennedy",
+      "character": "Randy"
+    },
+    {
+      "id": "nm0063482",
+      "name": "Lisa Beach",
+      "character": "TV Reporter #1"
+    },
+    {
+      "id": "nm0452919",
+      "name": "Tony Kilbert",
+      "character": "TV Reporter #2"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 91,
+  "year": 1996,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjA2NjU5MTg5OF5BMl5BanBnXkFtZTgwOTkyMzQxMDE@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.4,
+      "votes": 451422,
+      "distribution": {
+        "1": 5013,
+        "2": 3091,
+        "3": 4512,
+        "4": 8430,
+        "5": 20228,
+        "6": 54168,
+        "7": 123946,
+        "8": 113507,
+        "9": 53665,
+        "10": 64862
+      },
+      "normalized": 6.3008
+    },
+    "filmweb": {
+      "rating": 6.83,
+      "votes": 82915,
+      "distribution": {
+        "1": 432,
+        "2": 481,
+        "3": 1564,
+        "4": 2904,
+        "5": 7274,
+        "6": 17079,
+        "7": 27651,
+        "8": 16987,
+        "9": 4991,
+        "10": 3552
+      },
+      "normalized": 5.3187
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "21.02.2011",
+      "normalized": 4.9718
+    },
+    "score": 5.5304
+  },
+  "polish_title": "Krzyk",
+  "silent": false,
+  "description_pl": "Sidney tęskni za ciepłem domowego ogniska. Rok wcześniej w tragicznych okolicznościach straciła matkę. Ojciec, pochłonięty sprawami zawodowymi, bywa gościem w domu. Tymczasem w okolicy dochodzi do dramatycznych wydarzeń. Jej szkolna koleżanka, Casey, którą ktoś dręczył anonimowymi telefonami, w tragicznych okolicznościach traci chłopaka. Również sama Casey zostaje zamordowana. Okoliczności popełnionych morderstw wskazują, iż sprawcą jest ten sam człowiek, znawca i miłośnik kina grozy. Na liście podejrzanych jest chłopak Sidney.",
+  "producers": [
+    {
+      "id": "nm0078804",
+      "name": "Stuart M. Besser"
+    },
+    {
+      "id": "nm0135441",
+      "name": "Dixie J. Capp"
+    },
+    {
+      "id": "nm0465298",
+      "name": "Cathy Konrad"
+    },
+    {
+      "id": "nm0534543",
+      "name": "Marianne Maddalena"
+    },
+    {
+      "id": "nm0557608",
+      "name": "Nicholas Mastandrea"
+    },
+    {
+      "id": "nm0918424",
+      "name": "Bob Weinstein"
+    },
+    {
+      "id": "nm0005544",
+      "name": "Harvey Weinstein"
+    },
+    {
+      "id": "nm0940531",
+      "name": "Cary Woods"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0001937",
+      "name": "Marco Beltrami"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0410419",
+      "name": "Mark Irwin"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,266 @@
+{
+  "imdb_id": "tt1210166",
+  "title": "Moneyball",
+  "description": "Oakland A's general manager Billy Beane's successful attempt to assemble a baseball team on a lean budget by employing computer-generated analysis to acquire new players.",
+  "runtime_minutes": 133,
+  "release_date": "23.09.2011",
+  "genres": [
+    "Biography",
+    "Drama",
+    "Sport"
+  ],
+  "stars": [
+    {
+      "id": "nm0000093",
+      "name": "Brad Pitt"
+    },
+    {
+      "id": "nm0000705",
+      "name": "Robin Wright"
+    },
+    {
+      "id": "nm1706767",
+      "name": "Jonah Hill"
+    },
+    {
+      "id": "nm0000450",
+      "name": "Philip Seymour Hoffman"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0587955",
+      "name": "Bennett Miller"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0001873",
+      "name": "Steven Zaillian"
+    },
+    {
+      "id": "nm0815070",
+      "name": "Aaron Sorkin"
+    },
+    {
+      "id": "nm3133181",
+      "name": "Stan Chervin"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000093",
+      "name": "Brad Pitt",
+      "character": "Billy Beane"
+    },
+    {
+      "id": "nm0000705",
+      "name": "Robin Wright",
+      "character": "Sharon"
+    },
+    {
+      "id": "nm1706767",
+      "name": "Jonah Hill",
+      "character": "Peter Brand"
+    },
+    {
+      "id": "nm0000450",
+      "name": "Philip Seymour Hoffman",
+      "character": "Art Howe"
+    },
+    {
+      "id": "nm0695435",
+      "name": "Chris Pratt",
+      "character": "Scott Hatteberg"
+    },
+    {
+      "id": "nm1212071",
+      "name": "Stephen Bishop",
+      "character": "David Justice"
+    },
+    {
+      "id": "nm0224703",
+      "name": "Reed Diamond",
+      "character": "Mark Shapiro"
+    },
+    {
+      "id": "nm0421116",
+      "name": "Brent Jennings",
+      "character": "Ron Washington"
+    },
+    {
+      "id": "nm0575850",
+      "name": "Ken Medlock",
+      "character": "Grady Fuson"
+    },
+    {
+      "id": "nm0087109",
+      "name": "Tammy Blanchard",
+      "character": "Elizabeth Hatteberg"
+    },
+    {
+      "id": "nm0569079",
+      "name": "Jack McGee",
+      "character": "John Poloni"
+    },
+    {
+      "id": "nm0749490",
+      "name": "Vyto Ruginis",
+      "character": "Pittaro"
+    },
+    {
+      "id": "nm0780678",
+      "name": "Nick Searcy",
+      "character": "Matt Keough"
+    },
+    {
+      "id": "nm0607703",
+      "name": "Glenn Morshower",
+      "character": "Ron Hopkins"
+    },
+    {
+      "id": "nm4000166",
+      "name": "Casey Bond",
+      "character": "Chad Bradford"
+    },
+    {
+      "id": "nm4021123",
+      "name": "Nick Porrazzo",
+      "character": "Jeremy Giambi"
+    },
+    {
+      "id": "nm1748388",
+      "name": "Kerris Dorsey",
+      "character": "Casey Beane"
+    },
+    {
+      "id": "nm0397124",
+      "name": "Arliss Howard",
+      "character": "John Henry"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 490838,
+  "year": 2011,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjAxOTU3Mzc1M15BMl5BanBnXkFtZTcwMzk1ODUzNg@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.6,
+      "votes": 514930,
+      "distribution": {
+        "1": 2199,
+        "2": 1060,
+        "3": 1788,
+        "4": 3990,
+        "5": 11926,
+        "6": 43717,
+        "7": 146606,
+        "8": 190863,
+        "9": 75502,
+        "10": 37279
+      },
+      "normalized": 6.6859
+    },
+    "filmweb": {
+      "rating": 7.25,
+      "votes": 96261,
+      "distribution": {
+        "1": 71,
+        "2": 91,
+        "3": 405,
+        "4": 913,
+        "5": 3562,
+        "6": 12839,
+        "7": 38820,
+        "8": 31452,
+        "9": 6432,
+        "10": 1676
+      },
+      "normalized": 6.1378
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "16.12.2011",
+      "normalized": 4.9718
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "29.06.2023",
+      "normalized": 6.3474
+    },
+    "score": 6.0357
+  },
+  "polish_title": "Moneyball",
+  "silent": false,
+  "description_pl": "Historia managera klubu baseballowego Oakland Athletics Billy'ego Beane'a, który postanowił wykorzystać w swojej pracy analizy komputerowe. Dzięki temu, jego drużyna ma lepsze wyniki i może zmagać się z lepszymi zespołami, mimo złej sytuacji finansowej.",
+  "producers": [
+    {
+      "id": "nm0049249",
+      "name": "Mark Bakshi"
+    },
+    {
+      "id": "nm0006894",
+      "name": "Michael De Luca"
+    },
+    {
+      "id": "nm0395267",
+      "name": "Rachael Horovitz"
+    },
+    {
+      "id": "nm1572154",
+      "name": "Robin Jaffe"
+    },
+    {
+      "id": "nm0440140",
+      "name": "Andrew S. Karsch"
+    },
+    {
+      "id": "nm0454004",
+      "name": "Sidney Kimmel"
+    },
+    {
+      "id": "nm1112393",
+      "name": "Alissa Phillips"
+    },
+    {
+      "id": "nm0000093",
+      "name": "Brad Pitt"
+    },
+    {
+      "id": "nm0732020",
+      "name": "Scott Robertson"
+    },
+    {
+      "id": "nm0748784",
+      "name": "Scott Rudin"
+    },
+    {
+      "id": "nm5017404",
+      "name": "Elizabeth W. Scott"
+    },
+    {
+      "id": "nm4822243",
+      "name": "Nicholas Trotta"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0002217",
+      "name": "Mychael Danna"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0002892",
+      "name": "Wally Pfister"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

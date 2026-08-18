@@ -1,0 +1,256 @@
+{
+  "imdb_id": "tt5074352",
+  "title": "Dangal",
+  "description": "Mahavir Singh Phogat, a former wrestler, decides to fulfill his dream of winning a gold medal for his country by training his daughters for the Commonwealth Games despite the existing social stigmas.",
+  "runtime_minutes": 161,
+  "release_date": "21.12.2016",
+  "genres": [
+    "Action",
+    "Biography",
+    "Drama",
+    "Sport"
+  ],
+  "stars": [
+    {
+      "id": "nm0451148",
+      "name": "Aamir Khan"
+    },
+    {
+      "id": "nm2799219",
+      "name": "Sakshi Tanwar"
+    },
+    {
+      "id": "nm0760778",
+      "name": "Fatima Sana Shaikh"
+    },
+    {
+      "id": "nm7621667",
+      "name": "Sanya Malhotra"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm4318159",
+      "name": "Nitesh Tiwari"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm6328029",
+      "name": "Piyush Gupta"
+    },
+    {
+      "id": "nm6328031",
+      "name": "Shreyas Jain"
+    },
+    {
+      "id": "nm6328030",
+      "name": "Nikhil Mehrotra"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0451148",
+      "name": "Aamir Khan",
+      "character": "Mahavir Singh Phogat"
+    },
+    {
+      "id": "nm2799219",
+      "name": "Sakshi Tanwar",
+      "character": "Daya Kaur"
+    },
+    {
+      "id": "nm0760778",
+      "name": "Fatima Sana Shaikh",
+      "character": "Geeta Phogat"
+    },
+    {
+      "id": "nm7621667",
+      "name": "Sanya Malhotra",
+      "character": "Babita Kumari"
+    },
+    {
+      "id": "nm6269780",
+      "name": "Aparshakti Khurana",
+      "character": "Omkar"
+    },
+    {
+      "id": "nm7621668",
+      "name": "Zaira Wasim",
+      "character": "Young Geeta"
+    },
+    {
+      "id": "nm7621669",
+      "name": "Suhani Bhatnagar",
+      "character": "Young Babita"
+    },
+    {
+      "id": "nm5057209",
+      "name": "Ritvik Sahore",
+      "character": "Young Omkar"
+    },
+    {
+      "id": "nm2971390",
+      "name": "Girish Kulkarni",
+      "character": "Coach Pramod Kadam"
+    },
+    {
+      "id": "nm8624891",
+      "name": "Ravi Aneja",
+      "character": "Referee"
+    },
+    {
+      "id": "nm3189957",
+      "name": "Anurag Arora",
+      "character": "Mahavir's Brother"
+    },
+    {
+      "id": "nm5129212",
+      "name": "Mahesh Balraj",
+      "character": "Organiser"
+    },
+    {
+      "id": "nm1875257",
+      "name": "Vivan Bhatena",
+      "character": "Harkinder"
+    },
+    {
+      "id": "nm8664806",
+      "name": "Anmol Charan",
+      "character": "Little Omkar"
+    },
+    {
+      "id": "nm7998145",
+      "name": "Karamveer Choudhary",
+      "character": "Father of Mahaveer Singh Fogat"
+    },
+    {
+      "id": "nm7206816",
+      "name": "Ishika Gagneja",
+      "character": "Sunita"
+    },
+    {
+      "id": "nm3943087",
+      "name": "Badrul Islam",
+      "character": "Chicken Shop owner"
+    },
+    {
+      "id": "nm6492684",
+      "name": "Jagbir",
+      "character": "Government Officer"
+    }
+  ],
+  "countries": [
+    "India",
+    "United States"
+  ],
+  "languages": [
+    "Hindi",
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 747808,
+  "year": 2016,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8.3,
+      "votes": 246826,
+      "distribution": {
+        "1": 8052,
+        "2": 1266,
+        "3": 1178,
+        "4": 2012,
+        "5": 4004,
+        "6": 8665,
+        "7": 27836,
+        "8": 60585,
+        "9": 57964,
+        "10": 75264
+      },
+      "normalized": 8.3329
+    },
+    "filmweb": {
+      "rating": 7.86,
+      "votes": 1960,
+      "distribution": {
+        "1": 12,
+        "2": 6,
+        "3": 13,
+        "4": 24,
+        "5": 48,
+        "6": 146,
+        "7": 402,
+        "8": 723,
+        "9": 326,
+        "10": 260
+      },
+      "normalized": 7.1915
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "09.10.2020",
+      "normalized": 7.1247
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "26.04.2019",
+      "normalized": 6.3474
+    },
+    "score": 7.2491
+  },
+  "polish_title": "Dangal",
+  "silent": false,
+  "producers": [
+    {
+      "id": "nm4817680",
+      "name": "Vishesh Agrawal"
+    },
+    {
+      "id": "nm2425482",
+      "name": "Nishith Dadhich"
+    },
+    {
+      "id": "nm0451148",
+      "name": "Aamir Khan"
+    },
+    {
+      "id": "nm2100265",
+      "name": "Alan McAlex"
+    },
+    {
+      "id": "nm2727685",
+      "name": "Amrita Pandey"
+    },
+    {
+      "id": "nm1444479",
+      "name": "Kiran Rao"
+    },
+    {
+      "id": "nm1618843",
+      "name": "Srinivas Rao"
+    },
+    {
+      "id": "nm3032965",
+      "name": "Siddharth Roy Kapur"
+    },
+    {
+      "id": "nm3557875",
+      "name": "Navmeet Singh"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm1338587",
+      "name": "Pritam Chakraborty"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm1146016",
+      "name": "Satyajit Pande"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

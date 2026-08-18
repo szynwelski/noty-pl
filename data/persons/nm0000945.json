@@ -1,0 +1,31 @@
+{
+  "id": "nm0000945",
+  "name": "Jane Birkin",
+  "filmography": [
+    {
+      "imdb_id": "tt0060176",
+      "title": "Blow-Up",
+      "year": 1966,
+      "roles": [
+        "cast"
+      ],
+      "character": "The Blonde"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQ4MDM3NjczOV5BMl5BanBnXkFtZTcwNTQ0MDgwNA@@._V1_.jpg",
+  "birth_date": "14.12.1946",
+  "death_date": "16.07.2023",
+  "birth_location": "London, England, UK",
+  "height": "1.70 m",
+  "imdb_scraped": true,
+  "filmweb_id": 56500,
+  "name_pl": "Jane Birkin",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja",
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 56500
+}

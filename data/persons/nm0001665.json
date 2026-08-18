@@ -1,0 +1,40 @@
+{
+  "id": "nm0001665",
+  "name": "Lee Remick",
+  "filmography": [
+    {
+      "imdb_id": "tt0052561",
+      "title": "Anatomy of a Murder",
+      "year": 1959,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Laura Manion"
+    },
+    {
+      "imdb_id": "tt0075005",
+      "title": "The Omen",
+      "year": 1976,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Katherine Thorn"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzk1NDgzNTcwN15BMl5BanBnXkFtZTcwNjQ3MzAzOA@@._V1_.jpg",
+  "birth_date": "14.12.1935",
+  "death_date": "02.07.1991",
+  "birth_location": "Quincy, Massachusetts, USA",
+  "height": "1.70 m",
+  "imdb_scraped": true,
+  "filmweb_id": 42160,
+  "name_pl": "Lee Remick",
+  "birth_location_pl": "Quincy, Massachusetts",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

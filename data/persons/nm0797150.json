@@ -1,0 +1,47 @@
+{
+  "id": "nm0797150",
+  "name": "Casey Siemaszko",
+  "filmography": [
+    {
+      "imdb_id": "tt0088763",
+      "title": "Back to the Future",
+      "year": 1985,
+      "roles": [
+        "cast"
+      ],
+      "character": "3-D"
+    },
+    {
+      "imdb_id": "tt0092005",
+      "title": "Stand by Me",
+      "year": 1986,
+      "roles": [
+        "cast"
+      ],
+      "character": "Billy Tessio"
+    },
+    {
+      "imdb_id": "tt0096874",
+      "title": "Back to the Future Part II",
+      "year": 1989,
+      "roles": [
+        "cast"
+      ],
+      "character": "3-D"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjQ1MTAxNzIyOF5BMl5BanBnXkFtZTcwMDA2ODczMQ@@._V1_.jpg",
+  "birth_date": "17.03.1961",
+  "birth_location": "Chicago, Illinois, USA",
+  "height": "1.73 m",
+  "filmweb_id": 8280,
+  "name_pl": "Casey Siemaszko",
+  "birth_location_pl": "Chicago, Illinois",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 8280
+}

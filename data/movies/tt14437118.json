@@ -1,0 +1,188 @@
+{
+  "imdb_id": "tt14437118",
+  "title": "Masas",
+  "description": "Just when teenage sisters and orphanage residents Anastasia and Diana learn that an American family is ready to adopt them, their biological mother returns.",
+  "runtime_minutes": 104,
+  "release_date": "20.10.2022",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm12480060",
+      "name": "Emma Skirmante"
+    },
+    {
+      "id": "nm12480061",
+      "name": "Gerda Aljena"
+    },
+    {
+      "id": "nm12480062",
+      "name": "Katrina Kreslina"
+    },
+    {
+      "id": "nm2564172",
+      "name": "Iveta Pole"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm5396043",
+      "name": "Linda Olte"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm5396043",
+      "name": "Linda Olte"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm12480060",
+      "name": "Emma Skirmante",
+      "character": "Anastasija"
+    },
+    {
+      "id": "nm12480061",
+      "name": "Gerda Aljena",
+      "character": "Diana"
+    },
+    {
+      "id": "nm12480062",
+      "name": "Katrina Kreslina",
+      "character": "Julija"
+    },
+    {
+      "id": "nm2564172",
+      "name": "Iveta Pole",
+      "character": "Alla"
+    },
+    {
+      "id": "nm1213266",
+      "name": "Elita Klavina",
+      "character": "Headmistress"
+    },
+    {
+      "id": "nm1374998",
+      "name": "Victoria Mayers-Gray",
+      "character": "Grace"
+    },
+    {
+      "id": "nm13565836",
+      "name": "Derwayne Mcbayne",
+      "character": "Extra"
+    },
+    {
+      "id": "nm1035738",
+      "name": "Neil McGarry",
+      "character": "Kevin Johnson"
+    },
+    {
+      "id": "nm17333992",
+      "name": "Marlena Sniega",
+      "character": "Orphan child"
+    },
+    {
+      "id": "nm10733075",
+      "name": "Bella Star",
+      "character": "Joy"
+    }
+  ],
+  "countries": [
+    "Latvia",
+    "Italy"
+  ],
+  "languages": [
+    "English",
+    "Latvian"
+  ],
+  "color": "Color",
+  "year": 2022,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOGU2YzI4ZTQtMjI1NC00MzY3LTg1MzAtMDk4ZDI5MWU1NmI1XkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 10021251,
+  "ratings": {
+    "imdb": {
+      "rating": 7.3,
+      "votes": 336,
+      "distribution": {
+        "1": 13,
+        "2": 2,
+        "3": 2,
+        "4": 7,
+        "5": 14,
+        "6": 46,
+        "7": 75,
+        "8": 99,
+        "9": 43,
+        "10": 35
+      },
+      "normalized": 5.4962
+    },
+    "filmweb": {
+      "rating": 6.21,
+      "votes": 219,
+      "distribution": {
+        "2": 0,
+        "3": 6,
+        "4": 19,
+        "5": 30,
+        "6": 63,
+        "7": 74,
+        "8": 24,
+        "9": 2,
+        "10": 1
+      },
+      "normalized": 4.5991
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "23.10.2022",
+      "normalized": 7.1247
+    },
+    "score": 5.74
+  },
+  "polish_title": "Siostry",
+  "silent": false,
+  "description_pl": "Anastasia ma trzynaście lat, a jej siostra Diana jedenaście. Siostry mieszkają w łotewskim sierocińcu. Kiedy dowiadują się, że amerykańska rodzina jest gotowa do ich adopcji, Diana nie może się doczekać przeprowadzki do Stanów, ale Anastasia jest mniej podekscytowana pomysłem opuszczenia domu. Kiedy ich biologiczna matka Alla wychodzi z więzienia, Anastasia robi wszystko, aby nawiązać z nią związek, ale Alla i jej nowy chłopak mają inne plany. Anastasia musi podjąć kluczową decyzję – opuścić swoją biologiczną matkę i przenieść się do Ameryki lub pozostać w domu w nadziei na życie z prawdziwą matką. Decyzja Anastazji staje się jeszcze trudniejsza, gdy dowiaduje się, że los jej siostry również będzie zależeć od jej wyboru, ponieważ prawo stanowi, że rodzeństwo nie może zostać rozdzielone.",
+  "producers": [
+    {
+      "id": "nm0148173",
+      "name": "Una Celma"
+    },
+    {
+      "id": "nm5489768",
+      "name": "Wilfried Gufler"
+    },
+    {
+      "id": "nm5186633",
+      "name": "Matiss Kaza"
+    },
+    {
+      "id": "nm10047246",
+      "name": "Zanda Linde"
+    },
+    {
+      "id": "nm10844970",
+      "name": "Debora Nischler"
+    },
+    {
+      "id": "nm3906693",
+      "name": "Dace Siatkovska"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm4944057",
+      "name": "Federico Campana"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm2405177",
+      "name": "Aleksandrs Grebnevs"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

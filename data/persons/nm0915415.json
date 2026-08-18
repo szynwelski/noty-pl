@@ -1,0 +1,63 @@
+{
+  "id": "nm0915415",
+  "name": "Anthony Waye",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZmFkZGQ3ODMtNjZhNy00OTAzLWE0MTgtOTdmMjYzZTRiN2QyXkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0113189",
+      "title": "GoldenEye",
+      "year": 1995,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0120347",
+      "title": "Tomorrow Never Dies",
+      "year": 1997,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0143145",
+      "title": "The World Is Not Enough",
+      "year": 1999,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0246460",
+      "title": "Die Another Day",
+      "year": 2002,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0381061",
+      "title": "Casino Royale",
+      "year": 2006,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0830515",
+      "title": "Quantum of Solace",
+      "year": 2008,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "birth_date": "12.03.1938",
+  "birth_location": "London, England, UK",
+  "filmweb_id": 480953,
+  "name_pl": "Anthony Waye",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true
+}

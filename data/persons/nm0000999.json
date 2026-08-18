@@ -1,0 +1,39 @@
+{
+  "id": "nm0000999",
+  "name": "Red Buttons",
+  "filmography": [
+    {
+      "imdb_id": "tt0065088",
+      "title": "They Shoot Horses, Don't They?",
+      "year": 1969,
+      "roles": [
+        "cast"
+      ],
+      "character": "Sailor"
+    },
+    {
+      "imdb_id": "tt0160916",
+      "title": "The Story of Us",
+      "year": 1999,
+      "roles": [
+        "cast"
+      ],
+      "character": "Arnie Jordan"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTM2MDI4ODY1NF5BMl5BanBnXkFtZTYwMjczNTc1._V1_.jpg",
+  "birth_date": "05.02.1919",
+  "death_date": "13.07.2006",
+  "birth_location": "New York City, New York, USA",
+  "height": "1.68 m",
+  "imdb_scraped": true,
+  "filmweb_id": 8285,
+  "name_pl": "Red Buttons",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 8285
+}

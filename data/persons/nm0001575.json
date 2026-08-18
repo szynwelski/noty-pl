@@ -1,0 +1,30 @@
+{
+  "id": "nm0001575",
+  "name": "Tatum O'Neal",
+  "filmography": [
+    {
+      "imdb_id": "tt0070510",
+      "title": "Paper Moon",
+      "year": 1973,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Addie Loggins"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTg4MjU3MzczN15BMl5BanBnXkFtZTgwNzMxMTk5NDM@._V1_.jpg",
+  "birth_date": "05.11.1963",
+  "birth_location": "Los Angeles, California, USA",
+  "height": "1.70 m",
+  "imdb_scraped": true,
+  "filmweb_id": 5086,
+  "name_pl": "Tatum O'Neal",
+  "birth_location_pl": "Los Angeles, Kalifornia",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 5086
+}

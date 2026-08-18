@@ -1,0 +1,38 @@
+{
+  "id": "nm0236279",
+  "name": "Arthur Conan Doyle",
+  "filmography": [
+    {
+      "imdb_id": "tt0291476",
+      "title": "Sherlock Holmes Baffled",
+      "year": 1900,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt1515091",
+      "title": "Sherlock Holmes: A Game of Shadows",
+      "year": 2011,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzI0NjQ1ODg1NF5BMl5BanBnXkFtZTgwOTc2OTI1MDE@._V1_.jpg",
+  "birth_date": "22.05.1859",
+  "death_date": "07.07.1930",
+  "birth_location": "Edinburgh, Scotland, UK",
+  "height": "1.86 m",
+  "imdb_scraped": true,
+  "filmweb_id": 85935,
+  "name_pl": "Arthur Conan Doyle",
+  "birth_location_pl": "Edynburg, Szkocja",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania",
+    "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii"
+  ],
+  "wikidata_fw_id": 85935
+}

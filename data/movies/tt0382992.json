@@ -1,0 +1,242 @@
+{
+  "imdb_id": "tt0382992",
+  "title": "Stealth",
+  "description": "Deeply ensconced in a top-secret military program, three pilots struggle to bring an artificial intelligence program under control before it initiates the next world war.",
+  "runtime_minutes": 121,
+  "release_date": "29.07.2005",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0524197",
+      "name": "Josh Lucas"
+    },
+    {
+      "id": "nm0004754",
+      "name": "Jessica Biel"
+    },
+    {
+      "id": "nm0004937",
+      "name": "Jamie Foxx"
+    },
+    {
+      "id": "nm0001731",
+      "name": "Sam Shepard"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0003418",
+      "name": "Rob Cohen"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0725379",
+      "name": "W.D. Richter"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0524197",
+      "name": "Josh Lucas",
+      "character": "Lt. Ben Gannon"
+    },
+    {
+      "id": "nm0004754",
+      "name": "Jessica Biel",
+      "character": "Lt. Kara Wade"
+    },
+    {
+      "id": "nm0004937",
+      "name": "Jamie Foxx",
+      "character": "Lt. Henry Purcell"
+    },
+    {
+      "id": "nm0001731",
+      "name": "Sam Shepard",
+      "character": "Capt. George Cummings"
+    },
+    {
+      "id": "nm0746896",
+      "name": "Richard Roxburgh",
+      "character": "Dr. Keith Orbit"
+    },
+    {
+      "id": "nm0608012",
+      "name": "Joe Morton",
+      "character": "Capt. Dick Marshfield"
+    },
+    {
+      "id": "nm0088513",
+      "name": "Ian Bliss",
+      "character": "Lt. Aaron Shaftsbury"
+    },
+    {
+      "id": "nm0609114",
+      "name": "Ebon Moss-Bachrach",
+      "character": "Tim"
+    },
+    {
+      "id": "nm0219285",
+      "name": "Michael Denkha",
+      "character": "Naval Controller"
+    },
+    {
+      "id": "nm1974345",
+      "name": "Rocky Helton",
+      "character": "Master at Arms"
+    },
+    {
+      "id": "nm1774995",
+      "name": "Clayton Adams",
+      "character": "USS Abraham Lincoln Sailor"
+    },
+    {
+      "id": "nm0604892",
+      "name": "Maurice Morgan",
+      "character": "USS Abraham Lincoln Sailor"
+    },
+    {
+      "id": "nm1712549",
+      "name": "Woody Naismith",
+      "character": "USS Abraham Lincoln Sailor"
+    },
+    {
+      "id": "nm1972377",
+      "name": "Charles Ndibe",
+      "character": "USS Abraham Lincoln Sailor"
+    },
+    {
+      "id": "nm0358749",
+      "name": "Nicholas Hammond",
+      "character": "Executive Officer"
+    },
+    {
+      "id": "nm2076145",
+      "name": "Michael McCabe",
+      "character": "Commander 3rd Fleet"
+    },
+    {
+      "id": "nm0864835",
+      "name": "Joel Tobeck",
+      "character": "Black Ops Leader"
+    },
+    {
+      "id": "nm0914113",
+      "name": "John Waters",
+      "character": "Black Ops Doctor"
+    }
+  ],
+  "countries": [
+    "United States",
+    "Thailand"
+  ],
+  "languages": [
+    "English",
+    "Korean",
+    "Russian",
+    "Spanish"
+  ],
+  "color": "Color",
+  "filmweb_id": 108160,
+  "year": 2005,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTZhMWI0M2YtZjllMy00OGQ2LWE4YzYtY2VhOTMwOGQ4ZjI5XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.1,
+      "votes": 58747,
+      "distribution": {
+        "1": 3618,
+        "2": 2962,
+        "3": 4945,
+        "4": 8071,
+        "5": 12835,
+        "6": 11930,
+        "7": 7196,
+        "8": 3402,
+        "9": 1251,
+        "10": 2537
+      },
+      "normalized": 2.3157
+    },
+    "filmweb": {
+      "rating": 5.89,
+      "votes": 11970,
+      "distribution": {
+        "1": 171,
+        "2": 223,
+        "3": 705,
+        "4": 1091,
+        "5": 2345,
+        "6": 3264,
+        "7": 2433,
+        "8": 967,
+        "9": 325,
+        "10": 446
+      },
+      "normalized": 3.2014
+    },
+    "jarek": {
+      "rating": 2,
+      "date_rated": "16.08.2010",
+      "normalized": 3.5003
+    },
+    "score": 3.0058
+  },
+  "polish_title": "Niewidzialny",
+  "silent": false,
+  "description_pl": "Trzyosobowa eskadra złożona z najlepszych pilotów zostaje wyznaczona do tajnego programu wojskowego. Ich zadaniem jest szkolenie nowego członka załogi... supernowoczesnego samolotu obdarzonego sztuczną inteligencją. Wszyscy są pod wielkim wrażeniem możliwości samolotu przyszłości, jednak gdy w supersamolot trafia piorun, maszyna wymyka się spod kontroli i wybiera własne cele do likwidacji. Zaczyna się wyścig. Ogólnoświatowa wojna wydaje się nie do uniknięcia.",
+  "producers": [
+    {
+      "id": "nm0005219",
+      "name": "Mike Medavoy"
+    },
+    {
+      "id": "nm1103781",
+      "name": "Arnold Messer"
+    },
+    {
+      "id": "nm0605775",
+      "name": "Neal H. Moritz"
+    },
+    {
+      "id": "nm0662426",
+      "name": "Kwame Parker"
+    },
+    {
+      "id": "nm0321977",
+      "name": "Michelle Purple"
+    },
+    {
+      "id": "nm2180649",
+      "name": "Sasisupa Sungvaribud"
+    },
+    {
+      "id": "nm0003342",
+      "name": "E. Bennett Walsh"
+    },
+    {
+      "id": "nm0957205",
+      "name": "Laura Ziskin"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0117741",
+      "name": "BT"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005871",
+      "name": "Dean Semler"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

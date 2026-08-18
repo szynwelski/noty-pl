@@ -1,0 +1,47 @@
+{
+  "id": "nm1456970",
+  "name": "Isabel Lucas",
+  "filmography": [
+    {
+      "imdb_id": "tt1055369",
+      "title": "Transformers: Revenge of the Fallen",
+      "year": 2009,
+      "roles": [
+        "cast"
+      ],
+      "character": "Alice"
+    },
+    {
+      "imdb_id": "tt1253864",
+      "title": "Immortals",
+      "year": 2011,
+      "roles": [
+        "cast"
+      ],
+      "character": "Athena"
+    },
+    {
+      "imdb_id": "tt3892434",
+      "title": "That Sugar Film",
+      "year": 2014,
+      "roles": [
+        "cast"
+      ],
+      "character": "Self"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTU1MTM0NmYtNDc3Mi00MzQ3LWJmNDktOTE2NmU0YjgzMDRiXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "29.01.1985",
+  "birth_location": "Melbourne, Victoria, Australia",
+  "height": "1.68 m",
+  "filmweb_id": 185183,
+  "name_pl": "Isabel Lucas",
+  "birth_location_pl": "Melbourne",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Australia"
+  ],
+  "wikidata_fw_id": 185183
+}

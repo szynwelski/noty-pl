@@ -1,0 +1,208 @@
+{
+  "imdb_id": "tt0418832",
+  "title": "Lie with Me",
+  "description": "An outgoing, sexually aggressive young woman meets and begins a torrid affair with an equally aggressive young man in which their affair begins to bring a strain on their personal lives.",
+  "runtime_minutes": 93,
+  "release_date": "18.01.2006",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0809049",
+      "name": "Lauren Lee Smith"
+    },
+    {
+      "id": "nm0050156",
+      "name": "Eric Balfour"
+    },
+    {
+      "id": "nm0788351",
+      "name": "Polly Shannon"
+    },
+    {
+      "id": "nm1534287",
+      "name": "Mayko Nguyen"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0899364",
+      "name": "Clement Virgo"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1083676",
+      "name": "Tamara Berger"
+    },
+    {
+      "id": "nm0899364",
+      "name": "Clement Virgo"
+    },
+    {
+      "id": "nm2316149",
+      "name": "Carrie Paupst Shaughnessy"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0809049",
+      "name": "Lauren Lee Smith",
+      "character": "Leila"
+    },
+    {
+      "id": "nm0050156",
+      "name": "Eric Balfour",
+      "character": "David"
+    },
+    {
+      "id": "nm0788351",
+      "name": "Polly Shannon",
+      "character": "Victoria"
+    },
+    {
+      "id": "nm1534287",
+      "name": "Mayko Nguyen",
+      "character": "Victoria's Friend"
+    },
+    {
+      "id": "nm0264830",
+      "name": "Michael Facciolo",
+      "character": "Shy Guy"
+    },
+    {
+      "id": "nm0528367",
+      "name": "Kate Lynch",
+      "character": "Marla"
+    },
+    {
+      "id": "nm0925406",
+      "name": "Ron White",
+      "character": "Ben"
+    },
+    {
+      "id": "nm0005138",
+      "name": "Kristin Lehman",
+      "character": "Rachel"
+    },
+    {
+      "id": "nm0290475",
+      "name": "Don Francks",
+      "character": "Joshua"
+    },
+    {
+      "id": "nm0156739",
+      "name": "Richard Chevolleau",
+      "character": "Vigorous"
+    },
+    {
+      "id": "nm0157342",
+      "name": "Frank Chiesurin",
+      "character": "Joel - Groom"
+    },
+    {
+      "id": "nm0513522",
+      "name": "Nicola Lipman",
+      "character": "Rabbi"
+    },
+    {
+      "id": "nm0869797",
+      "name": "Theresa Tova",
+      "character": "Wedding Singer"
+    }
+  ],
+  "countries": [
+    "Canada"
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "color": "Color",
+  "filmweb_id": 143537,
+  "year": 2005,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjEwODI3OTI5MV5BMl5BanBnXkFtZTcwMjcwNzA0MQ@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.2,
+      "votes": 18608,
+      "distribution": {
+        "1": 1044,
+        "2": 787,
+        "3": 1261,
+        "4": 2016,
+        "5": 3551,
+        "6": 3455,
+        "7": 2438,
+        "8": 1409,
+        "9": 705,
+        "10": 1942
+      },
+      "normalized": 2.4464
+    },
+    "filmweb": {
+      "rating": 5.5,
+      "votes": 8928,
+      "distribution": {
+        "1": 195,
+        "2": 275,
+        "3": 832,
+        "4": 1168,
+        "5": 1930,
+        "6": 1993,
+        "7": 1413,
+        "8": 637,
+        "9": 228,
+        "10": 257
+      },
+      "normalized": 2.699
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "07.04.2008",
+      "normalized": 4.5781
+    },
+    "score": 3.2412
+  },
+  "polish_title": "Seks to nie wszystko",
+  "silent": false,
+  "description_pl": "Przepełniona erotyzmem opowieść o namiętności jaka łączy dwoje niepospolitych ludzi. Ona to kobieta wyzwolona, manifestująca bez wstydu swe pragnienia i preferencje, traktująca mężczyzn jak obiekty seksualne. On to mężczyzna równie wyzwolony, ale szukający partnerki na stałe, kobiety, która nie będzie jedynie nocną partnerką. Związek dwojga tak szczególnych ludzi to ciągła huśtawka między dziką namiętnością, uwielbieniem i nienawiścią.",
+  "producers": [
+    {
+      "id": "nm0195821",
+      "name": "Damon D'Oliveira"
+    },
+    {
+      "id": "nm0330834",
+      "name": "Hartley Gorenstein"
+    },
+    {
+      "id": "nm2507725",
+      "name": "Paul Moyer"
+    },
+    {
+      "id": "nm0742250",
+      "name": "Julia Rosenberg"
+    },
+    {
+      "id": "nm0899364",
+      "name": "Clement Virgo"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm1933640",
+      "name": "Byron Wong"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0002420",
+      "name": "Barry Stone"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

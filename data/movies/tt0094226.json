@@ -1,0 +1,226 @@
+{
+  "imdb_id": "tt0094226",
+  "title": "The Untouchables",
+  "description": "During Prohibition, Treasury agent Eliot Ness sets out to stop ruthless Chicago gangster Al Capone, and assembles a small, incorruptible team to help him.",
+  "runtime_minutes": 119,
+  "release_date": "03.06.1987",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000126",
+      "name": "Kevin Costner"
+    },
+    {
+      "id": "nm0000125",
+      "name": "Sean Connery"
+    },
+    {
+      "id": "nm0000134",
+      "name": "Robert De Niro"
+    },
+    {
+      "id": "nm0001747",
+      "name": "Charles Martin Smith"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000361",
+      "name": "Brian De Palma"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000519",
+      "name": "David Mamet"
+    },
+    {
+      "id": "nm0289708",
+      "name": "Oscar Fraley"
+    },
+    {
+      "id": "nm0626479",
+      "name": "Eliot Ness"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000126",
+      "name": "Kevin Costner",
+      "character": "Eliot Ness"
+    },
+    {
+      "id": "nm0000125",
+      "name": "Sean Connery",
+      "character": "Jim Malone"
+    },
+    {
+      "id": "nm0000134",
+      "name": "Robert De Niro",
+      "character": "Al Capone"
+    },
+    {
+      "id": "nm0001747",
+      "name": "Charles Martin Smith",
+      "character": "Oscar Wallace"
+    },
+    {
+      "id": "nm0000412",
+      "name": "Andy Garcia",
+      "character": "George Stone"
+    },
+    {
+      "id": "nm0103071",
+      "name": "Richard Bradford",
+      "character": "Mike"
+    },
+    {
+      "id": "nm0444955",
+      "name": "Jack Kehoe",
+      "character": "Payne"
+    },
+    {
+      "id": "nm0837976",
+      "name": "Brad Sullivan",
+      "character": "George"
+    },
+    {
+      "id": "nm0236711",
+      "name": "Billy Drago",
+      "character": "Nitti"
+    },
+    {
+      "id": "nm0165101",
+      "name": "Patricia Clarkson",
+      "character": "Ness' Wife"
+    },
+    {
+      "id": "nm0195101",
+      "name": "Vito D'Ambrosio",
+      "character": "Bowtie Driver"
+    },
+    {
+      "id": "nm0326333",
+      "name": "Steven Goldstein",
+      "character": "Scoop"
+    },
+    {
+      "id": "nm0043892",
+      "name": "Peter Aylward",
+      "character": "Lt. Anderson"
+    },
+    {
+      "id": "nm0367496",
+      "name": "Don Harvey",
+      "character": "Preseuski"
+    },
+    {
+      "id": "nm0841568",
+      "name": "Robert Swan",
+      "character": "Mountie Captain"
+    },
+    {
+      "id": "nm0909710",
+      "name": "John J. Walsh",
+      "character": "Bartender"
+    },
+    {
+      "id": "nm0167081",
+      "name": "Del Close",
+      "character": "Alderman"
+    },
+    {
+      "id": "nm0045983",
+      "name": "Colleen Bade",
+      "character": "Mrs. Blackmer"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 1036,
+  "year": 1987,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYjVlNTk3NGYtOWE0OC00MDI4LThlZWItZGMwMTdmYzcwM2Y5XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.8,
+      "votes": 355869,
+      "distribution": {
+        "1": 2022,
+        "2": 942,
+        "3": 1538,
+        "4": 3161,
+        "5": 8496,
+        "6": 24558,
+        "7": 76165,
+        "8": 133687,
+        "9": 65450,
+        "10": 39850
+      },
+      "normalized": 7.0386
+    },
+    "filmweb": {
+      "rating": 7.75,
+      "votes": 103170,
+      "distribution": {
+        "1": 350,
+        "2": 220,
+        "3": 653,
+        "4": 1173,
+        "5": 3187,
+        "6": 8382,
+        "7": 23993,
+        "8": 38435,
+        "9": 17607,
+        "10": 9170
+      },
+      "normalized": 7.5225
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "28.02.2014",
+      "normalized": 5.6855
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "03.03.2014",
+      "normalized": 6.3474
+    },
+    "score": 6.6485
+  },
+  "polish_title": "Nietykalni",
+  "silent": false,
+  "description_pl": "Stany Zjednoczone po wprowadzeniu prohibicji przeżywają problemy z narastającą przemocą oraz tworzeniem się zorganizowanych grup czerpiących zyski z nielegalnej sprzedaży alkoholu. Prym w tym procederze wiedzie chicagowski gangster - Al Capone (<a href=\"/osoba/?id=nm0000134\">Robert De Niro</a>). Wszelkie próby walki, aresztowania kończą się zawsze zwolnieniem Capone i jego ludzi. FBI postanawia stworzyć specjalny oddział do walki z mafią, na czele którego staje Eliot Ness (<a href=\"/osoba/?id=nm0000126\">Kevin Costner</a>).",
+  "producers": [
+    {
+      "id": "nm0367297",
+      "name": "Raymond Hartwick"
+    },
+    {
+      "id": "nm0513165",
+      "name": "Art Linson"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0001553",
+      "name": "Ennio Morricone"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005664",
+      "name": "Stephen H. Burum"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

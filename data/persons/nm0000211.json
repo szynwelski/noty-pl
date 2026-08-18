@@ -1,0 +1,46 @@
+{
+  "id": "nm0000211",
+  "name": "Mimi Rogers",
+  "filmography": [
+    {
+      "imdb_id": "tt0348593",
+      "title": "The Door in the Floor",
+      "year": 2004,
+      "roles": [
+        "cast"
+      ],
+      "character": "Evelyn Vaughn"
+    },
+    {
+      "imdb_id": "tt0477080",
+      "title": "Unstoppable",
+      "year": 2010,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0884732",
+      "title": "The Wedding Ringer",
+      "year": 2015,
+      "roles": [
+        "cast"
+      ],
+      "character": "Lois Palmer"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTc5NDUyNDQ3N15BMl5BanBnXkFtZTcwOTk0MTMwNA@@._V1_.jpg",
+  "birth_date": "27.01.1956",
+  "birth_location": "Coral Gables, Florida, USA",
+  "height": "1.73 m",
+  "filmweb_id": 5038,
+  "name_pl": "Mimi Rogers",
+  "birth_location_pl": "Coral Gables, Floryda",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 5038
+}

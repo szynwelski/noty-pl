@@ -1,0 +1,220 @@
+{
+  "imdb_id": "tt0098635",
+  "title": "When Harry Met Sally...",
+  "description": "Harry and Sally have known each other for years, and are very good friends, but they fear sex would ruin the friendship.",
+  "runtime_minutes": 95,
+  "release_date": "21.07.1989",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0000345",
+      "name": "Billy Crystal"
+    },
+    {
+      "id": "nm0000212",
+      "name": "Meg Ryan"
+    },
+    {
+      "id": "nm0000402",
+      "name": "Carrie Fisher"
+    },
+    {
+      "id": "nm0456124",
+      "name": "Bruno Kirby"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001661",
+      "name": "Rob Reiner"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0001188",
+      "name": "Nora Ephron"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000345",
+      "name": "Billy Crystal",
+      "character": "Harry Burns"
+    },
+    {
+      "id": "nm0000212",
+      "name": "Meg Ryan",
+      "character": "Sally Albright"
+    },
+    {
+      "id": "nm0000402",
+      "name": "Carrie Fisher",
+      "character": "Marie"
+    },
+    {
+      "id": "nm0456124",
+      "name": "Bruno Kirby",
+      "character": "Jess"
+    },
+    {
+      "id": "nm0285885",
+      "name": "Steven Ford",
+      "character": "Joe"
+    },
+    {
+      "id": "nm0675484",
+      "name": "Lisa Jane Persky",
+      "character": "Alice"
+    },
+    {
+      "id": "nm0629264",
+      "name": "Michelle Nicastro",
+      "character": "Amanda"
+    },
+    {
+      "id": "nm0658252",
+      "name": "Gretchen Palmer",
+      "character": "Stewardess"
+    },
+    {
+      "id": "nm0079612",
+      "name": "Robert Alan Beuth",
+      "character": "Man on Aisle"
+    },
+    {
+      "id": "nm0120968",
+      "name": "David Burdick",
+      "character": "9 Year Old Boy"
+    },
+    {
+      "id": "nm0900341",
+      "name": "Joe Viviani",
+      "character": "Judge"
+    },
+    {
+      "id": "nm0468772",
+      "name": "Harley Jane Kozak",
+      "character": "Helen"
+    },
+    {
+      "id": "nm0402512",
+      "name": "Joseph Hunt",
+      "character": "Waiter at Wedding"
+    },
+    {
+      "id": "nm0740332",
+      "name": "Kevin Rooney",
+      "character": "Ira"
+    },
+    {
+      "id": "nm0133433",
+      "name": "Franc Luz",
+      "character": "Julian"
+    },
+    {
+      "id": "nm0718021",
+      "name": "Tracy Reiner",
+      "character": "Emily"
+    },
+    {
+      "id": "nm0373600",
+      "name": "Kyle T. Heffner",
+      "character": "Gary"
+    },
+    {
+      "id": "nm0482839",
+      "name": "Kimberley LaMarque",
+      "character": "Waitress"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 1266,
+  "year": 1989,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjE0ODEwNjM2NF5BMl5BanBnXkFtZTcwMjU2Mzg3NA@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.7,
+      "votes": 274137,
+      "distribution": {
+        "1": 1694,
+        "2": 977,
+        "3": 1591,
+        "4": 3353,
+        "5": 8797,
+        "6": 25973,
+        "7": 68101,
+        "8": 85069,
+        "9": 42193,
+        "10": 36389
+      },
+      "normalized": 6.828
+    },
+    "filmweb": {
+      "rating": 7.27,
+      "votes": 54169,
+      "distribution": {
+        "1": 81,
+        "2": 91,
+        "3": 319,
+        "4": 780,
+        "5": 2456,
+        "6": 7954,
+        "7": 19092,
+        "8": 16822,
+        "9": 4743,
+        "10": 1831
+      },
+      "normalized": 6.1674
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "21.12.2006",
+      "normalized": 5.4199
+    },
+    "score": 6.1384
+  },
+  "polish_title": "Kiedy Harry poznał Sally",
+  "silent": false,
+  "description_pl": "Historia dwunastoletniego związku dwojga młodych ludzi, których drogi po skończeniu studiów rozchodzą się. Po pięciu latach przypadkowo spotykają się w samolocie. Początkowa niechęć z wolna przeobraża się w przyjaźń. Po wielu wspólnie spędzonych chwilach ciężko jest im stwierdzić czy dalej są tylko przyjaciółmi, czy łączy ich coś więcej.",
+  "producers": [
+    {
+      "id": "nm0001188",
+      "name": "Nora Ephron"
+    },
+    {
+      "id": "nm0630222",
+      "name": "Steve Nicolaides"
+    },
+    {
+      "id": "nm0001661",
+      "name": "Rob Reiner"
+    },
+    {
+      "id": "nm0770650",
+      "name": "Andrew Scheinman"
+    },
+    {
+      "id": "nm0832790",
+      "name": "Jeffrey Stott"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0001756",
+      "name": "Barry Sonnenfeld"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

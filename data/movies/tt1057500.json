@@ -1,0 +1,247 @@
+{
+  "imdb_id": "tt1057500",
+  "title": "Invictus",
+  "description": "Nelson Mandela, in his first term as President of South Africa, initiates a unique venture to unite the Apartheid-torn land: enlist the national rugby team on a mission to win the 1995 Rugby World Cup.",
+  "runtime_minutes": 134,
+  "release_date": "11.12.2009",
+  "genres": [
+    "Biography",
+    "Drama",
+    "History",
+    "Sport"
+  ],
+  "stars": [
+    {
+      "id": "nm0000151",
+      "name": "Morgan Freeman"
+    },
+    {
+      "id": "nm0000354",
+      "name": "Matt Damon"
+    },
+    {
+      "id": "nm0450961",
+      "name": "Tony Kgoroge"
+    },
+    {
+      "id": "nm0595680",
+      "name": "Patrick Mofokeng"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000142",
+      "name": "Clint Eastwood"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0669756",
+      "name": "Anthony Peckham"
+    },
+    {
+      "id": "nm1985343",
+      "name": "John Carlin"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000151",
+      "name": "Morgan Freeman",
+      "character": "Nelson Mandela"
+    },
+    {
+      "id": "nm0000354",
+      "name": "Matt Damon",
+      "character": "Francois Pienaar"
+    },
+    {
+      "id": "nm0450961",
+      "name": "Tony Kgoroge",
+      "character": "Jason Tshabalala"
+    },
+    {
+      "id": "nm0595680",
+      "name": "Patrick Mofokeng",
+      "character": "Linga Moonsamy"
+    },
+    {
+      "id": "nm1340604",
+      "name": "Matt Stern",
+      "character": "Hendrick Booyens"
+    },
+    {
+      "id": "nm0428484",
+      "name": "Julian Lewis Jones",
+      "character": "Etienne Feyder"
+    },
+    {
+      "id": "nm0027957",
+      "name": "Adjoa Andoh",
+      "character": "Brenda Mazibuko"
+    },
+    {
+      "id": "nm3325268",
+      "name": "Marguerite Wheatley",
+      "character": "Nerine"
+    },
+    {
+      "id": "nm0452009",
+      "name": "Leleti Khumalo",
+      "character": "Mary"
+    },
+    {
+      "id": "nm0529300",
+      "name": "Patrick Lyster",
+      "character": "Mr. Pienaar"
+    },
+    {
+      "id": "nm0236069",
+      "name": "Penny Downie",
+      "character": "Mrs. Pienaar"
+    },
+    {
+      "id": "nm3705791",
+      "name": "Sibongile Nojila",
+      "character": "Eunice"
+    },
+    {
+      "id": "nm1973790",
+      "name": "Bonnie Mbuli",
+      "character": "Zindzi"
+    },
+    {
+      "id": "nm3206284",
+      "name": "Shakes Myeko",
+      "character": "Minister of Sport"
+    },
+    {
+      "id": "nm3227023",
+      "name": "Louis Minnaar",
+      "character": "Springbok Coach"
+    },
+    {
+      "id": "nm0449044",
+      "name": "Danny Keogh",
+      "character": "Rugby President"
+    },
+    {
+      "id": "nm0730251",
+      "name": "Dan Robbertse",
+      "character": "Boer"
+    },
+    {
+      "id": "nm0809770",
+      "name": "Robin Smith",
+      "character": "Johan De Villiers"
+    }
+  ],
+  "countries": [
+    "United States",
+    "South Africa"
+  ],
+  "languages": [
+    "English",
+    "Afrikaans",
+    "Maori",
+    "Zulu",
+    "Xhosa",
+    "Sotho"
+  ],
+  "color": "Color",
+  "filmweb_id": 443101,
+  "year": 2009,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjAyMzExMDM1N15BMl5BanBnXkFtZTcwNTcyMTQ5Mg@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.3,
+      "votes": 175219,
+      "distribution": {
+        "1": 1269,
+        "2": 590,
+        "3": 997,
+        "4": 2287,
+        "5": 6614,
+        "6": 21979,
+        "7": 57782,
+        "8": 52198,
+        "9": 19092,
+        "10": 12411
+      },
+      "normalized": 6.0992
+    },
+    "filmweb": {
+      "rating": 7.29,
+      "votes": 32364,
+      "distribution": {
+        "1": 72,
+        "2": 45,
+        "3": 206,
+        "4": 415,
+        "5": 1507,
+        "6": 4503,
+        "7": 11123,
+        "8": 10437,
+        "9": 3068,
+        "10": 988
+      },
+      "normalized": 6.2214
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "02.12.2010",
+      "normalized": 6.4102
+    },
+    "score": 6.2436
+  },
+  "polish_title": "Invictus - Niepokonany",
+  "silent": false,
+  "description_pl": "Inspirująca historia o tym, jak Nelson Mandela (<a href=\"/osoba/?id=nm0000151\">Morgan Freeman</a>) postanowił połączyć siły z kapitanem drużyny rugby RPA, Francois Pienaarem (<a href=\"/osoba/?id=nm0000354\">Matt Damon</a>), by zjednoczyć ich kraj. Nowo wybrany prezydent mobilizuje słabo rokującą drużynę rugby RPA podczas niezwykłego meczu na Mistrzostwach Świata w 1995 roku. Wierzy w ogólnoludzki wymiar sportu – ponad podziałami rasowymi i ekonomicznymi.",
+  "producers": [
+    {
+      "id": "nm0053388",
+      "name": "Gary Barber"
+    },
+    {
+      "id": "nm0083696",
+      "name": "Roger Birnbaum"
+    },
+    {
+      "id": "nm0000142",
+      "name": "Clint Eastwood"
+    },
+    {
+      "id": "nm0000151",
+      "name": "Morgan Freeman"
+    },
+    {
+      "id": "nm0389414",
+      "name": "Genevieve Hofmeyr"
+    },
+    {
+      "id": "nm0520749",
+      "name": "Robert Lorenz"
+    },
+    {
+      "id": "nm0566975",
+      "name": "Lori McCreary"
+    },
+    {
+      "id": "nm0601954",
+      "name": "Tim Moore"
+    },
+    {
+      "id": "nm0626883",
+      "name": "Mace Neufeld"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0827869",
+      "name": "Tom Stern"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

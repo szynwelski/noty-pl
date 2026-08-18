@@ -1,0 +1,102 @@
+{
+  "imdb_id": "tt0000005",
+  "title": "Blacksmith Scene",
+  "description": "Three men hammer on an anvil and pass a bottle of beer around.",
+  "runtime_minutes": 1,
+  "release_date": "09.05.1893",
+  "genres": [
+    "Short"
+  ],
+  "stars": [
+    {
+      "id": "nm0443482",
+      "name": "Charles Kayser"
+    },
+    {
+      "id": "nm0653042",
+      "name": "John Ott"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0443482",
+      "name": "Charles Kayser",
+      "character": "Blacksmith"
+    },
+    {
+      "id": "nm0653042",
+      "name": "John Ott",
+      "character": "Assistant"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "directors": [
+    {
+      "id": "nm0005690",
+      "name": "William K.L. Dickson"
+    }
+  ],
+  "filmweb_id": 178963,
+  "year": 1893,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzdkNmIzOTAtM2RjMC00NDA0LTg3M2EtNGIyN2YyMDUwODU1XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.2,
+      "votes": 3085,
+      "distribution": {
+        "1": 73,
+        "2": 59,
+        "3": 113,
+        "4": 167,
+        "5": 542,
+        "6": 873,
+        "7": 604,
+        "8": 282,
+        "9": 110,
+        "10": 262
+      },
+      "normalized": 4.2222
+    },
+    "filmweb": {
+      "rating": 5.47,
+      "votes": 265,
+      "distribution": {
+        "1": 11,
+        "2": 8,
+        "3": 13,
+        "4": 29,
+        "5": 70,
+        "6": 73,
+        "7": 30,
+        "8": 17,
+        "9": 6,
+        "10": 8
+      },
+      "normalized": 3.9549
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "11.12.2016",
+      "normalized": 6.4102
+    },
+    "score": 4.8624
+  },
+  "polish_title": "Blacksmith Scene",
+  "silent": true,
+  "description_pl": "Mimo krótkiego czasu trwania (niespełna minuta) film pokazuje trud pracy kowali. Możemy zobaczyć chwile z ich całego dnia pracy. Widzimy wielkie kowadło a za nim trzech kowali. Wyjmują z ognia żelazo i uderzają w nie. Potem znów wraca w płomienie. Nadchodzi chwila przerwy...",
+  "cinematographers": [
+    {
+      "id": "nm0374658",
+      "name": "William Heise"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-15"
+}

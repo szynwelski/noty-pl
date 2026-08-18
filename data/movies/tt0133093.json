@@ -1,0 +1,257 @@
+{
+  "imdb_id": "tt0133093",
+  "title": "The Matrix",
+  "description": "A computer hacker discovers that his life is nothing more than an elaborate simulation run by an evil AI.",
+  "runtime_minutes": 136,
+  "release_date": "31.03.1999",
+  "genres": [
+    "Action",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm0000206",
+      "name": "Keanu Reeves"
+    },
+    {
+      "id": "nm0000401",
+      "name": "Laurence Fishburne"
+    },
+    {
+      "id": "nm0005251",
+      "name": "Carrie-Anne Moss"
+    },
+    {
+      "id": "nm0915989",
+      "name": "Hugo Weaving"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0905154",
+      "name": "Lana Wachowski"
+    },
+    {
+      "id": "nm0905152",
+      "name": "Lilly Wachowski"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0905152",
+      "name": "Lilly Wachowski"
+    },
+    {
+      "id": "nm0905154",
+      "name": "Lana Wachowski"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000206",
+      "name": "Keanu Reeves",
+      "character": "Neo"
+    },
+    {
+      "id": "nm0000401",
+      "name": "Laurence Fishburne",
+      "character": "Morpheus"
+    },
+    {
+      "id": "nm0005251",
+      "name": "Carrie-Anne Moss",
+      "character": "Trinity"
+    },
+    {
+      "id": "nm0915989",
+      "name": "Hugo Weaving",
+      "character": "Agent Smith"
+    },
+    {
+      "id": "nm0287825",
+      "name": "Gloria Foster",
+      "character": "Oracle"
+    },
+    {
+      "id": "nm0001592",
+      "name": "Joe Pantoliano",
+      "character": "Cypher"
+    },
+    {
+      "id": "nm0159059",
+      "name": "Marcus Chong",
+      "character": "Tank"
+    },
+    {
+      "id": "nm0032810",
+      "name": "Julian Arahanga",
+      "character": "Apoc"
+    },
+    {
+      "id": "nm0233391",
+      "name": "Matt Doran",
+      "character": "Mouse"
+    },
+    {
+      "id": "nm0565883",
+      "name": "Belinda McClory",
+      "character": "Switch"
+    },
+    {
+      "id": "nm0662562",
+      "name": "Anthony Ray Parker",
+      "character": "Dozer"
+    },
+    {
+      "id": "nm0323822",
+      "name": "Paul Goddard",
+      "character": "Agent Brown"
+    },
+    {
+      "id": "nm0853079",
+      "name": "Robert Taylor",
+      "character": "Agent Jones"
+    },
+    {
+      "id": "nm0040058",
+      "name": "David Aston",
+      "character": "Rhineheart"
+    },
+    {
+      "id": "nm0336802",
+      "name": "Marc Aden Gray",
+      "character": "Choi"
+    },
+    {
+      "id": "nm0630124",
+      "name": "Ada Nicodemou",
+      "character": "Dujour"
+    },
+    {
+      "id": "nm0330139",
+      "name": "Deni Gordon",
+      "character": "Priestess"
+    },
+    {
+      "id": "nm0936894",
+      "name": "Rowan Witt",
+      "character": "Spoon Boy"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 628,
+  "year": 1999,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BN2NmN2VhMTQtMDNiOS00NDlhLTliMjgtODE2ZTY0ODQyNDRhXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8.7,
+      "votes": 2269273,
+      "distribution": {
+        "1": 18852,
+        "2": 7775,
+        "3": 10389,
+        "4": 15682,
+        "5": 32521,
+        "6": 76178,
+        "7": 227978,
+        "8": 517028,
+        "9": 678858,
+        "10": 684012
+      },
+      "normalized": 9.4423
+    },
+    "filmweb": {
+      "rating": 7.6,
+      "votes": 868189,
+      "distribution": {
+        "1": 15547,
+        "2": 7785,
+        "3": 17187,
+        "4": 25063,
+        "5": 45806,
+        "6": 77100,
+        "7": 157303,
+        "8": 225285,
+        "9": 150513,
+        "10": 146600
+      },
+      "normalized": 7.0506
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "02.12.2005",
+      "normalized": 7.1247
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "19.10.2005",
+      "normalized": 6.3474
+    },
+    "score": 7.4912
+  },
+  "polish_title": "Matrix",
+  "silent": false,
+  "description_pl": "Neo (<a href=\"/osoba/?id=nm0000206\">Keanu Reeves</a>) jest genialnym hakerem. Pewnego dnia nawiązuje z nim kontakt tajemniczy Morfeusz (<a href=\"/osoba/?id=nm0000401\">Laurence Fishburne</a>) - człowiek, który obiecuje przekazać mu wiedzę o rzeczywistości, w jakiej żyje. Prawdę o dwóch światach: prawdziwym i wygenerowanym,  który ma tylko udawać rzeczywistość. Neo przystaje do grupy Morfeusza i zaczyna dostrzegać, że świat, w którym egzystował to fikcja, a jego życiem cały czas ktoś kierował. Kolejne stopnie wtajemniczenia stawiają przed Neo nowe pytania. Czym jest Matrix i komu służy? I jaką rolę w planie Morfeusza ma do spełnienia on sam?",
+  "producers": [
+    {
+      "id": "nm0075732",
+      "name": "Bruce Berman"
+    },
+    {
+      "id": "nm0185621",
+      "name": "Dan Cracchiolo"
+    },
+    {
+      "id": "nm0400492",
+      "name": "Carol Hughes"
+    },
+    {
+      "id": "nm0556580",
+      "name": "Andrew Mason"
+    },
+    {
+      "id": "nm0592385",
+      "name": "Richard Mirisch"
+    },
+    {
+      "id": "nm0651614",
+      "name": "Barrie M. Osborne"
+    },
+    {
+      "id": "nm0005428",
+      "name": "Joel Silver"
+    },
+    {
+      "id": "nm0831098",
+      "name": "Erwin Stoff"
+    },
+    {
+      "id": "nm0905154",
+      "name": "Lana Wachowski"
+    },
+    {
+      "id": "nm0905152",
+      "name": "Lilly Wachowski"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0204485",
+      "name": "Don Davis"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0691084",
+      "name": "Bill Pope"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

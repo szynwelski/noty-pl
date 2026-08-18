@@ -1,0 +1,39 @@
+{
+  "id": "nm0001447",
+  "name": "Nathan Lane",
+  "filmography": [
+    {
+      "imdb_id": "tt0110357",
+      "title": "The Lion King",
+      "year": 1994,
+      "roles": [
+        "cast"
+      ],
+      "character": "Timon"
+    },
+    {
+      "imdb_id": "tt0115685",
+      "title": "The Birdcage",
+      "year": 1996,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Albert"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTEwMTc1MjQ3NzFeQTJeQWpwZ15BbWU3MDEzNjEwODE@._V1_.jpg",
+  "birth_date": "03.02.1956",
+  "birth_location": "Jersey City, New Jersey, USA",
+  "height": "1.65 m",
+  "imdb_scraped": true,
+  "filmweb_id": 2913,
+  "name_pl": "Nathan Lane",
+  "birth_location_pl": "Jersey City, New Jersey",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 2913
+}

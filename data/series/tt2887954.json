@@ -1,0 +1,319 @@
+{
+  "imdb_id": "tt2887954",
+  "title": "Tokyo Vice",
+  "description": "A Western journalist working for a publication in Tokyo takes on one of the city's most powerful crime bosses.",
+  "runtime_minutes": 60,
+  "release_date": "07.04.2022",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm5052065",
+      "name": "Ansel Elgort"
+    },
+    {
+      "id": "nm0913822",
+      "name": "Ken Watanabe"
+    },
+    {
+      "id": "nm5043859",
+      "name": "Rachel Keller"
+    },
+    {
+      "id": "nm6720172",
+      "name": "Shô Kasamatsu"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm5052065",
+      "name": "Ansel Elgort",
+      "character": "Jake Adelstein"
+    },
+    {
+      "id": "nm0913822",
+      "name": "Ken Watanabe",
+      "character": "Hiroto Katagiri"
+    },
+    {
+      "id": "nm5043859",
+      "name": "Rachel Keller",
+      "character": "Samantha"
+    },
+    {
+      "id": "nm6720172",
+      "name": "Shô Kasamatsu",
+      "character": "Sato"
+    },
+    {
+      "id": "nm0452860",
+      "name": "Rinko Kikuchi",
+      "character": "Eimi"
+    },
+    {
+      "id": "nm12662218",
+      "name": "Kosuke Tanaka",
+      "character": "Tin Tin"
+    },
+    {
+      "id": "nm2450329",
+      "name": "Takaki Uda",
+      "character": "Trendy"
+    },
+    {
+      "id": "nm2435148",
+      "name": "Nobushige Suematsu",
+      "character": "Gen"
+    },
+    {
+      "id": "nm0411683",
+      "name": "Ayumi Ito",
+      "character": "Misaki"
+    },
+    {
+      "id": "nm8192905",
+      "name": "Kazuya Tanabe",
+      "character": "Yabuki"
+    },
+    {
+      "id": "nm0837452",
+      "name": "Shun Sugata",
+      "character": "Ishida"
+    },
+    {
+      "id": "nm4971071",
+      "name": "Ayumi Tanida",
+      "character": "Tozawa"
+    },
+    {
+      "id": "nm10951308",
+      "name": "Koshi Uehara",
+      "character": "Taro"
+    },
+    {
+      "id": "nm6720268",
+      "name": "Ryûhei Watabe",
+      "character": "Matsuda"
+    },
+    {
+      "id": "nm0870316",
+      "name": "Kôsuke Toyohara",
+      "character": "Baku"
+    },
+    {
+      "id": "nm5148361",
+      "name": "Yohei Matsukado",
+      "character": "Hagino"
+    },
+    {
+      "id": "nm5625805",
+      "name": "Momoka Ayukawa",
+      "character": "Yumi"
+    },
+    {
+      "id": "nm0634581",
+      "name": "Eugene Nomura",
+      "character": "Kobayashi"
+    }
+  ],
+  "countries": [
+    "Japan",
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Japanese"
+  ],
+  "color": "Color",
+  "year": 2022,
+  "type": "tvSeries",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYjkxMjU2ODUtNzdlZi00NDg0LWEyZDgtZGE3NTVkNDYyZjIzXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 849589,
+  "ratings": {
+    "imdb": {
+      "rating": 8.1,
+      "votes": 56521,
+      "distribution": {
+        "1": 493,
+        "2": 200,
+        "3": 201,
+        "4": 361,
+        "5": 872,
+        "6": 2208,
+        "7": 7562,
+        "8": 19786,
+        "9": 14587,
+        "10": 10251
+      }
+    },
+    "filmweb": {
+      "rating": 7.56,
+      "votes": 12471,
+      "distribution": {
+        "1": 17,
+        "2": 11,
+        "3": 55,
+        "4": 90,
+        "5": 311,
+        "6": 1031,
+        "7": 3869,
+        "8": 5260,
+        "9": 1479,
+        "10": 348
+      }
+    },
+    "jarek": {
+      "rating": 8,
+      "date_rated": "25.07.2024"
+    }
+  },
+  "polish_title": "Tokyo Vice",
+  "silent": false,
+  "producers": [
+    {
+      "id": "nm3690709",
+      "name": "Jake Adelstein"
+    },
+    {
+      "id": "nm5052065",
+      "name": "Ansel Elgort"
+    },
+    {
+      "id": "nm0971956",
+      "name": "John Lesher"
+    },
+    {
+      "id": "nm0000520",
+      "name": "Michael Mann"
+    },
+    {
+      "id": "nm0693561",
+      "name": "Alan Poul"
+    },
+    {
+      "id": "nm2774585",
+      "name": "J.T. Rogers"
+    },
+    {
+      "id": "nm0756593",
+      "name": "Emily Gerson Saines"
+    },
+    {
+      "id": "nm4358668",
+      "name": "Kayo Washio"
+    },
+    {
+      "id": "nm0913822",
+      "name": "Ken Watanabe"
+    },
+    {
+      "id": "nm1048635",
+      "name": "Alex Boden"
+    },
+    {
+      "id": "nm12492797",
+      "name": "Cambra Overend"
+    },
+    {
+      "id": "nm3125935",
+      "name": "Satch Watanabe"
+    },
+    {
+      "id": "nm0139283",
+      "name": "Brad Carpenter"
+    },
+    {
+      "id": "nm2308774",
+      "name": "Destin Daniel Cretton"
+    },
+    {
+      "id": "nm0437267",
+      "name": "Brad Kane"
+    },
+    {
+      "id": "nm3081932",
+      "name": "Ken Tajima"
+    },
+    {
+      "id": "nm2391773",
+      "name": "Karl Taro Greenfeld"
+    },
+    {
+      "id": "nm3373946",
+      "name": "Arthur Phillips"
+    },
+    {
+      "id": "nm2804127",
+      "name": "Adam Stein"
+    },
+    {
+      "id": "nm2129610",
+      "name": "Josef Kubota Wladyka"
+    },
+    {
+      "id": "nm5912208",
+      "name": "Lydia R. Diamond"
+    },
+    {
+      "id": "nm10980881",
+      "name": "Ikumi Kuronaga"
+    },
+    {
+      "id": "nm6260398",
+      "name": "Jen Silverman"
+    },
+    {
+      "id": "nm10489518",
+      "name": "Francine Volpe"
+    },
+    {
+      "id": "nm4590767",
+      "name": "Mari Yamamoto"
+    },
+    {
+      "id": "nm6543582",
+      "name": "Mitsutoshi Hamazaki"
+    },
+    {
+      "id": "nm10576562",
+      "name": "Yusuke Kamata"
+    },
+    {
+      "id": "nm9600369",
+      "name": "Dylan Weathered"
+    },
+    {
+      "id": "nm5803724",
+      "name": "Kazuo Fukui"
+    },
+    {
+      "id": "nm2187301",
+      "name": "Jessica Brickman"
+    },
+    {
+      "id": "nm4621191",
+      "name": "Todd Brown"
+    },
+    {
+      "id": "nm5499293",
+      "name": "Noémie Nakai"
+    },
+    {
+      "id": "nm2845194",
+      "name": "Ben Rosenblatt"
+    },
+    {
+      "id": "nm0770856",
+      "name": "Sabine Schenk"
+    },
+    {
+      "id": "nm0003515",
+      "name": "Ralph Winter"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

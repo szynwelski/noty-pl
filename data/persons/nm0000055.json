@@ -1,0 +1,44 @@
+{
+  "id": "nm0000055",
+  "name": "Alfred Newman",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BM2Y4YjdlZTYtODBmNy00NjA5LWI4M2EtMjcwZWE5ZjAzMGNlXkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0032551",
+      "title": "The Grapes of Wrath",
+      "year": 1940,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt0042192",
+      "title": "All About Eve",
+      "year": 1950,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt0048605",
+      "title": "The Seven Year Itch",
+      "year": 1955,
+      "roles": [
+        "composer"
+      ]
+    }
+  ],
+  "birth_date": "17.03.1900",
+  "death_date": "17.02.1970",
+  "birth_location": "New Haven, Connecticut, USA",
+  "height": "1.68 m",
+  "imdb_scraped": true,
+  "filmweb_id": 46561,
+  "name_pl": "Alfred Newman",
+  "birth_location_pl": "New Haven, Connecticut",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

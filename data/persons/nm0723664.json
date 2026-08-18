@@ -1,0 +1,35 @@
+{
+  "id": "nm0723664",
+  "name": "John Rich",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZDY1NzNkOGItMmEzYy00MjFjLTk0MjItYjkwMWQzYzg2NGE4XkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0088559",
+      "title": "MacGyver",
+      "year": 1985,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0165375",
+      "title": "Pilot",
+      "year": 1985,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "birth_date": "06.07.1925",
+  "death_date": "29.01.2012",
+  "birth_location": "Rockaway Beach, Queens, New York City, New York, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 59635,
+  "name_pl": "John Rich",
+  "birth_location_pl": "Rockaway Beach, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

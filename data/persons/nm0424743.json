@@ -1,0 +1,41 @@
+{
+  "id": "nm0424743",
+  "name": "Celia Johnson",
+  "filmography": [
+    {
+      "imdb_id": "tt0034891",
+      "title": "In Which We Serve",
+      "year": 1942,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Mrs. Alix Kinross"
+    },
+    {
+      "imdb_id": "tt0037558",
+      "title": "Brief Encounter",
+      "year": 1945,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Laura Jesson"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZjdmNzUxZGQtZmMxYS00OWRkLWExZjQtYmJiYTcyM2RjN2ZlXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "18.12.1908",
+  "death_date": "26.04.1982",
+  "birth_location": "Ellerker Gate, Richmond, Surrey, England, UK",
+  "imdb_scraped": true,
+  "filmweb_id": 71567,
+  "name_pl": "Celia Johnson",
+  "birth_location_pl": "Richmond, Anglia",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania",
+    "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii"
+  ],
+  "wikidata_fw_id": 71567
+}

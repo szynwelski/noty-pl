@@ -1,0 +1,117 @@
+{
+  "imdb_id": "tt0309396",
+  "title": "Bucking Broncho",
+  "description": "A fine exhibition of horsemanship by Lee Martin, a genuine cowboy. This particular broncho is an unusually wicked one. (from Edison Films)",
+  "runtime_minutes": 1,
+  "release_date": "16.10.1894",
+  "genres": [
+    "Documentary",
+    "Short",
+    "Western"
+  ],
+  "stars": [
+    {
+      "id": "nm1136388",
+      "name": "Frank Hammitt"
+    },
+    {
+      "id": "nm1134590",
+      "name": "Lee Martin"
+    },
+    {
+      "id": "nm9586537",
+      "name": "Sunfish"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0005690",
+      "name": "William K.L. Dickson"
+    },
+    {
+      "id": "nm0374658",
+      "name": "William Heise"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1136388",
+      "name": "Frank Hammitt",
+      "character": "Self"
+    },
+    {
+      "id": "nm1134590",
+      "name": "Lee Martin",
+      "character": "Self"
+    },
+    {
+      "id": "nm9586537",
+      "name": "Sunfish",
+      "character": "Self - the 'bucking broncho'"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 270272,
+  "year": 1894,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzI5MjFlMTgtZjJkMS00Yzc0LTgwMzgtNjAwZGU1OThhZjU4XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.1,
+      "votes": 838,
+      "distribution": {
+        "1": 46,
+        "2": 39,
+        "3": 63,
+        "4": 108,
+        "5": 269,
+        "6": 157,
+        "7": 88,
+        "8": 29,
+        "9": 5,
+        "10": 34
+      },
+      "normalized": 3.6221
+    },
+    "filmweb": {
+      "rating": 4.65,
+      "votes": 111,
+      "distribution": {
+        "1": 7,
+        "2": 9,
+        "3": 14,
+        "4": 14,
+        "5": 37,
+        "6": 12,
+        "7": 11,
+        "8": 5,
+        "9": 1,
+        "10": 1
+      },
+      "normalized": 4.1096
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "11.12.2016",
+      "normalized": 6.4102
+    },
+    "score": 4.714
+  },
+  "polish_title": "Bucking Broncho",
+  "silent": true,
+  "description_pl": "Widzimy tutaj zawody w ujeżdżaniu konia. Jeden z uczestników jest bardzo wytrwały. Niestrudzenie trzyma się na grzbiecie konia. Podczas tej walki jedna z osób stojących wyżej strzela by przestraszyć zwierzę.",
+  "cinematographers": [
+    {
+      "id": "nm0374658",
+      "name": "William Heise"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

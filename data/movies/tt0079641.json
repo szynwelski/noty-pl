@@ -1,0 +1,232 @@
+{
+  "imdb_id": "tt0079641",
+  "title": "Nosferatu the Vampyre",
+  "description": "Count Dracula moves from Transylvania to Wismar, spreading the Black Plague across the land. Only a woman pure of heart can bring an end to his reign of horror.",
+  "runtime_minutes": 96,
+  "release_date": "17.01.1979",
+  "genres": [
+    "Drama",
+    "Horror"
+  ],
+  "stars": [
+    {
+      "id": "nm0001428",
+      "name": "Klaus Kinski"
+    },
+    {
+      "id": "nm0000254",
+      "name": "Isabelle Adjani"
+    },
+    {
+      "id": "nm0004486",
+      "name": "Bruno Ganz"
+    },
+    {
+      "id": "nm0867718",
+      "name": "Roland Topor"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001348",
+      "name": "Werner Herzog"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0001348",
+      "name": "Werner Herzog"
+    },
+    {
+      "id": "nm3042044",
+      "name": "Tom Shachtman"
+    },
+    {
+      "id": "nm0342978",
+      "name": "Martje Grohmann"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0001428",
+      "name": "Klaus Kinski",
+      "character": "Graf Dracula (Nosferatu)"
+    },
+    {
+      "id": "nm0000254",
+      "name": "Isabelle Adjani",
+      "character": "Lucy Harker"
+    },
+    {
+      "id": "nm0004486",
+      "name": "Bruno Ganz",
+      "character": "Jonathan Harker"
+    },
+    {
+      "id": "nm0867718",
+      "name": "Roland Topor",
+      "character": "Renfield"
+    },
+    {
+      "id": "nm0480512",
+      "name": "Walter Ladengast",
+      "character": "Dr. Abraham van Helsing"
+    },
+    {
+      "id": "nm0004571",
+      "name": "Dan van Husen",
+      "character": "Warden"
+    },
+    {
+      "id": "nm0343845",
+      "name": "Jan Groth",
+      "character": "Harbormaster"
+    },
+    {
+      "id": "nm0090973",
+      "name": "Carsten Bodinus",
+      "character": "Schrader"
+    },
+    {
+      "id": "nm0342978",
+      "name": "Martje Grohmann",
+      "character": "Mina"
+    },
+    {
+      "id": "nm0329693",
+      "name": "Rijk de Gooyer",
+      "character": "Town official"
+    },
+    {
+      "id": "nm0770670",
+      "name": "Clemens Scheitz",
+      "character": "Gerichtssekretär"
+    },
+    {
+      "id": "nm0378056",
+      "name": "Lo van Hensbergen",
+      "character": "Harbormaster's Assistent"
+    },
+    {
+      "id": "nm0496420",
+      "name": "John Leddy",
+      "character": "Coachman"
+    },
+    {
+      "id": "nm0366763",
+      "name": "Margiet van Hartingsveld",
+      "character": "Vrouw"
+    },
+    {
+      "id": "nm0066407",
+      "name": "Tim Beekman",
+      "character": "Coffinbearer"
+    },
+    {
+      "id": "nm0240638",
+      "name": "Jacques Dufilho",
+      "character": "Captain"
+    },
+    {
+      "id": "nm0037074",
+      "name": "Attila Árpa",
+      "character": "Violinist Boy"
+    },
+    {
+      "id": "nm0249637",
+      "name": "Michael Edols",
+      "character": "Lord of the Manor"
+    }
+  ],
+  "countries": [
+    "West Germany",
+    "France"
+  ],
+  "languages": [
+    "German",
+    "English",
+    "Romany",
+    "Polish"
+  ],
+  "color": "Color",
+  "filmweb_id": 8199,
+  "year": 1979,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYjgzODFlMTgtNDhiMS00ZGZmLTliOTUtMjU5NjBkYmU4NGNkXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Nosferatu: Phantom der Nacht",
+  "ratings": {
+    "imdb": {
+      "rating": 7.3,
+      "votes": 49733,
+      "distribution": {
+        "1": 584,
+        "2": 405,
+        "3": 629,
+        "4": 1049,
+        "5": 2607,
+        "6": 5777,
+        "7": 12532,
+        "8": 13985,
+        "9": 6516,
+        "10": 5649
+      },
+      "normalized": 6.0471
+    },
+    "filmweb": {
+      "rating": 7.58,
+      "votes": 19799,
+      "distribution": {
+        "1": 106,
+        "2": 81,
+        "3": 233,
+        "4": 342,
+        "5": 898,
+        "6": 2043,
+        "7": 4754,
+        "8": 6272,
+        "9": 3126,
+        "10": 1944
+      },
+      "normalized": 6.934
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "11.03.2013",
+      "normalized": 6.4102
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "19.10.2005",
+      "normalized": 7.2292
+    },
+    "score": 6.6551
+  },
+  "polish_title": "Nosferatu wampir",
+  "silent": false,
+  "producers": [
+    {
+      "id": "nm0001348",
+      "name": "Werner Herzog"
+    },
+    {
+      "id": "nm0768302",
+      "name": "Walter Saxer"
+    },
+    {
+      "id": "nm0344710",
+      "name": "Michael Gruskoff"
+    },
+    {
+      "id": "nm0869099",
+      "name": "Daniel Toscan du Plantier"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005860",
+      "name": "Jörg Schmidt-Reitwein"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

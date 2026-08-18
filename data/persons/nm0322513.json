@@ -1,0 +1,48 @@
+{
+  "id": "nm0322513",
+  "name": "Iain Glen",
+  "filmography": [
+    {
+      "imdb_id": "tt0146316",
+      "title": "Lara Croft: Tomb Raider",
+      "year": 2001,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Manfred Powell"
+    },
+    {
+      "imdb_id": "tt0944947",
+      "title": "Game of Thrones",
+      "year": 2011,
+      "roles": [
+        "cast"
+      ],
+      "character": "Jorah Mormont"
+    },
+    {
+      "imdb_id": "tt1007029",
+      "title": "The Iron Lady",
+      "year": 2011,
+      "roles": [
+        "cast"
+      ],
+      "character": "Alfred Roberts"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDgzNTZhMWUtMjFhZS00NzQ2LTk4M2EtYWJhMzllYTg0ZWM5XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "24.06.1961",
+  "birth_location": "Edinburgh, Scotland, UK",
+  "height": "1.85 m",
+  "filmweb_id": 9235,
+  "name_pl": "Iain Glen",
+  "birth_location_pl": "Edynburg, Szkocja",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 9235
+}

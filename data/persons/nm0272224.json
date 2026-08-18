@@ -1,0 +1,47 @@
+{
+  "id": "nm0272224",
+  "name": "Heino Ferch",
+  "filmography": [
+    {
+      "imdb_id": "tt0120522",
+      "title": "Winter Sleepers",
+      "year": 1997,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Marco"
+    },
+    {
+      "imdb_id": "tt0130827",
+      "title": "Run Lola Run",
+      "year": 1998,
+      "roles": [
+        "cast"
+      ],
+      "character": "Ronnie"
+    },
+    {
+      "imdb_id": "tt0363163",
+      "title": "Downfall",
+      "year": 2004,
+      "roles": [
+        "cast"
+      ],
+      "character": "Albert Speer"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjAzMjUwNzI5M15BMl5BanBnXkFtZTcwMzk4NDUyNA@@._V1_.jpg",
+  "birth_date": "18.08.1963",
+  "birth_location": "Bremerhaven, Bremen, Germany",
+  "height": "1.80 m",
+  "filmweb_id": 4855,
+  "name_pl": "Heino Ferch",
+  "birth_location_pl": "Bremerhaven",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Niemcy"
+  ]
+}

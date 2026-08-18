@@ -1,0 +1,43 @@
+{
+  "id": "nm0830164",
+  "name": "Robert Stigwood",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BN2VhMjliNWYtMGJjNS00ODE3LWJjYjAtNDhmNTc3ZDAwYWQyXkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0070239",
+      "title": "Jesus Christ Superstar",
+      "year": 1973,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0076666",
+      "title": "Saturday Night Fever",
+      "year": 1977,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0077631",
+      "title": "Grease",
+      "year": 1978,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "birth_date": "16.04.1934",
+  "death_date": "04.01.2016",
+  "birth_location": "Port Pirie, South Australia, Australia",
+  "filmweb_id": 109908,
+  "name_pl": "Robert Stigwood",
+  "birth_location_pl": "Adelaide",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Australia"
+  ]
+}

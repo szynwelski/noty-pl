@@ -1,0 +1,40 @@
+{
+  "id": "nm0000254",
+  "name": "Isabelle Adjani",
+  "filmography": [
+    {
+      "imdb_id": "tt0074811",
+      "title": "The Tenant",
+      "year": 1976,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Stella"
+    },
+    {
+      "imdb_id": "tt0079641",
+      "title": "Nosferatu the Vampyre",
+      "year": 1979,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Lucy Harker"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjExMTEyNDUxOV5BMl5BanBnXkFtZTcwMjU3MDQyOA@@._V1_.jpg",
+  "birth_date": "27.06.1955",
+  "birth_location": "Paris, France",
+  "height": "1.65 m",
+  "imdb_scraped": true,
+  "filmweb_id": 225,
+  "name_pl": "Isabelle Adjani",
+  "birth_location_pl": "Paryż",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja"
+  ],
+  "wikidata_fw_id": 225
+}

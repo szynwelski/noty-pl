@@ -1,0 +1,177 @@
+{
+  "imdb_id": "tt7566518",
+  "title": "Vision",
+  "description": "Frenchwoman Joan is a world traveller and chronicler. She travels, sees, experience and writes. She lands in the forest and hills near Nara, Japan and meets Satoshi. Despite the mysterious aura and eccentric personality the woodsman finds a place in the visitor's heart.",
+  "runtime_minutes": 109,
+  "release_date": "08.06.2018",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0000300",
+      "name": "Juliette Binoche"
+    },
+    {
+      "id": "nm0619185",
+      "name": "Masatoshi Nagase"
+    },
+    {
+      "id": "nm5404830",
+      "name": "Takanori Iwata"
+    },
+    {
+      "id": "nm1178890",
+      "name": "Minami"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0442905",
+      "name": "Naomi Kawase"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0442905",
+      "name": "Naomi Kawase"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000300",
+      "name": "Juliette Binoche",
+      "character": "Jeanne"
+    },
+    {
+      "id": "nm0619185",
+      "name": "Masatoshi Nagase",
+      "character": "Satoshi"
+    },
+    {
+      "id": "nm5404830",
+      "name": "Takanori Iwata",
+      "character": "Rin"
+    },
+    {
+      "id": "nm1178890",
+      "name": "Minami",
+      "character": "Hana"
+    },
+    {
+      "id": "nm1719673",
+      "name": "Mirai Moriyama",
+      "character": "Gaku"
+    },
+    {
+      "id": "nm0849032",
+      "name": "Min Tanaka",
+      "character": "Minamoto"
+    },
+    {
+      "id": "nm0622412",
+      "name": "Mari Natsuki",
+      "character": "Aki"
+    },
+    {
+      "id": "nm8386882",
+      "name": "Jiji Boo",
+      "character": ""
+    },
+    {
+      "id": "nm0794199",
+      "name": "Kazuko Shirakawa",
+      "character": ""
+    }
+  ],
+  "countries": [
+    "Japan",
+    "France"
+  ],
+  "languages": [
+    "English",
+    "Japanese",
+    "French"
+  ],
+  "color": "Color",
+  "filmweb_id": 808533,
+  "year": 2018,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNmM1NWM0OTEtMjEwMC00ZmQ4LWI1MmMtZjNjZTNhMTFlNjdjXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.2,
+      "votes": 902,
+      "distribution": {
+        "1": 47,
+        "2": 50,
+        "3": 81,
+        "4": 108,
+        "5": 187,
+        "6": 172,
+        "7": 91,
+        "8": 67,
+        "9": 33,
+        "10": 66
+      },
+      "normalized": 3.65
+    },
+    "filmweb": {
+      "rating": 5.15,
+      "votes": 449,
+      "distribution": {
+        "1": 15,
+        "2": 16,
+        "3": 57,
+        "4": 62,
+        "5": 124,
+        "6": 69,
+        "7": 62,
+        "8": 29,
+        "9": 5,
+        "10": 10
+      },
+      "normalized": 3.3226
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "23.10.2018",
+      "normalized": 5.4199
+    },
+    "score": 4.1308
+  },
+  "polish_title": "Wizja",
+  "silent": false,
+  "description_pl": "Jeanne (<a href=\"/osoba/?id=nm0000300\">Juliette Binoche</a>), francuska dziennikarka, przybywa do Japonii w poszukiwaniu niezwykle rzadkiego zioła, o którym mówi się, że usuwa wszelkie duchowe udręki i słabości ludzi. Na miejscu dowiaduje się, że roślina, po którą przybyła pokazuje się raz na 997 lat i to tylko wtedy, kiedy spełnione zostaną określone warunki. Ta chwila nadchodzi, wraz z nią otwierają się wrota do prawdziwego potencjału ludzkiej egzystencji.",
+  "producers": [
+    {
+      "id": "nm0442905",
+      "name": "Naomi Kawase"
+    },
+    {
+      "id": "nm0495668",
+      "name": "Carine Leblanc"
+    },
+    {
+      "id": "nm9472494",
+      "name": "Ruth Yoshie Linton"
+    },
+    {
+      "id": "nm0806197",
+      "name": "Marianne Slot"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm4609508",
+      "name": "Makoto Ozone"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm10302056",
+      "name": "Arata Dodo"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

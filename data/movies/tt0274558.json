@@ -1,0 +1,232 @@
+{
+  "imdb_id": "tt0274558",
+  "title": "The Hours",
+  "description": "The story of how the novel \"Mrs. Dalloway\" affects three generations of women, all of whom, in one way or another, have had to deal with suicide in their lives.",
+  "runtime_minutes": 114,
+  "release_date": "14.02.2003",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0000658",
+      "name": "Meryl Streep"
+    },
+    {
+      "id": "nm0000173",
+      "name": "Nicole Kidman"
+    },
+    {
+      "id": "nm0000194",
+      "name": "Julianne Moore"
+    },
+    {
+      "id": "nm0226820",
+      "name": "Stephen Dillane"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0197636",
+      "name": "Stephen Daldry"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1259728",
+      "name": "Michael Cunningham"
+    },
+    {
+      "id": "nm0002376",
+      "name": "David Hare"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000658",
+      "name": "Meryl Streep",
+      "character": "Clarissa Vaughan"
+    },
+    {
+      "id": "nm0000173",
+      "name": "Nicole Kidman",
+      "character": "Virginia Woolf"
+    },
+    {
+      "id": "nm0000194",
+      "name": "Julianne Moore",
+      "character": "Laura Brown"
+    },
+    {
+      "id": "nm0226820",
+      "name": "Stephen Dillane",
+      "character": "Leonard Woolf"
+    },
+    {
+      "id": "nm0001669",
+      "name": "Miranda Richardson",
+      "character": "Vanessa Bell"
+    },
+    {
+      "id": "nm1296206",
+      "name": "George Loftus",
+      "character": "Quentin Bell"
+    },
+    {
+      "id": "nm1005623",
+      "name": "Charley Ramm",
+      "character": "Julian Bell"
+    },
+    {
+      "id": "nm1295573",
+      "name": "Sophie Wyburd",
+      "character": "Angelica Bell"
+    },
+    {
+      "id": "nm1203457",
+      "name": "Lyndsey Marshal",
+      "character": "Lottie Hope"
+    },
+    {
+      "id": "nm0060221",
+      "name": "Linda Bassett",
+      "character": "Nelly Boxall"
+    },
+    {
+      "id": "nm0183469",
+      "name": "Christian Coulson",
+      "character": "Ralph Partridge"
+    },
+    {
+      "id": "nm0191410",
+      "name": "Michael Culkin",
+      "character": "Doctor"
+    },
+    {
+      "id": "nm0000604",
+      "name": "John C. Reilly",
+      "character": "Dan Brown"
+    },
+    {
+      "id": "nm1046615",
+      "name": "Jack Rovello",
+      "character": "Richie"
+    },
+    {
+      "id": "nm0001057",
+      "name": "Toni Collette",
+      "character": "Kitty"
+    },
+    {
+      "id": "nm0553269",
+      "name": "Margo Martindale",
+      "character": "Mrs. Latch"
+    },
+    {
+      "id": "nm0830479",
+      "name": "Colin Stinton",
+      "character": "Hotel Clerk"
+    },
+    {
+      "id": "nm0000438",
+      "name": "Ed Harris",
+      "character": "Richard Brown"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 32380,
+  "year": 2002,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODA0ZWVkZTktZDk3Ny00MTcwLWJhZTYtMTA3N2U2OTBiYzQ3XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.5,
+      "votes": 147785,
+      "distribution": {
+        "1": 2254,
+        "2": 1252,
+        "3": 1783,
+        "4": 3073,
+        "5": 6725,
+        "6": 15121,
+        "7": 33014,
+        "8": 39257,
+        "9": 22342,
+        "10": 22964
+      },
+      "normalized": 6.4292
+    },
+    "filmweb": {
+      "rating": 7.32,
+      "votes": 111135,
+      "distribution": {
+        "1": 1145,
+        "2": 937,
+        "3": 2363,
+        "4": 3456,
+        "5": 7326,
+        "6": 13423,
+        "7": 25972,
+        "8": 29690,
+        "9": 14978,
+        "10": 11845
+      },
+      "normalized": 6.3035
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "19.10.2005",
+      "normalized": 5.4199
+    },
+    "score": 6.0509
+  },
+  "polish_title": "Godziny",
+  "silent": false,
+  "description_pl": "Historia życia trzech kobiet, z których jedna to żyjąca w czasach współczesnych w Nowym Jorku  wydawczyni książek; druga, typowa żona i matka, żyjąca pod koniec lat 40.; trzecia to postać autentyczna - Virginia Woolf, znana pisarka ogarnięta obsesją samobójczą. Trzy różne kobiety, trzy różne epoki. Jest  jednak coś, co je połączy, coś, co zmieni ich życie na zawsze.",
+  "producers": [
+    {
+      "id": "nm0017490",
+      "name": "Michael Alden"
+    },
+    {
+      "id": "nm0289221",
+      "name": "Robert Fox"
+    },
+    {
+      "id": "nm0400240",
+      "name": "Mark Huffam"
+    },
+    {
+      "id": "nm1286463",
+      "name": "Ian MacNeil"
+    },
+    {
+      "id": "nm0748784",
+      "name": "Scott Rudin"
+    },
+    {
+      "id": "nm0975130",
+      "name": "Marieke Spencer"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0001275",
+      "name": "Philip Glass"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0568974",
+      "name": "Seamus McGarvey"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,75 @@
+{
+  "imdb_id": "tt0178812",
+  "title": "Panorama View, Street Car Motor Room",
+  "description": "A camera moving forward on an overhead crane gives a traveling view of men working on machinery. Carts carrying parts and pieces of machinery pass by on rails; cranes lift machinery; and men perform their various duties, including hammering objects.",
+  "runtime_minutes": 3,
+  "release_date": "1904",
+  "genres": [
+    "Documentary",
+    "Short"
+  ],
+  "top_cast": [],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "None",
+    "English"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 266739,
+  "year": 1904,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOGM2ODg4YTUtNWRkYS00NGY5LThmYTktYjI3ZWRhY2RhMmI4XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.7,
+      "votes": 356,
+      "distribution": {
+        "1": 16,
+        "2": 11,
+        "3": 28,
+        "4": 26,
+        "5": 80,
+        "6": 86,
+        "7": 62,
+        "8": 25,
+        "9": 5,
+        "10": 17
+      },
+      "normalized": 4.5929
+    },
+    "filmweb": {
+      "rating": 5.53,
+      "votes": 17,
+      "distribution": {
+        "2": 0,
+        "3": 4,
+        "4": 2,
+        "5": 3,
+        "6": 2,
+        "7": 2,
+        "8": 3,
+        "9": 1,
+        "10": 0
+      },
+      "normalized": 5.0124
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "16.12.2016",
+      "normalized": 7.1247
+    },
+    "score": 5.5767
+  },
+  "polish_title": "Panorama View Street Car Motor Room",
+  "silent": true,
+  "cinematographers": [
+    {
+      "id": "nm0005658",
+      "name": "G.W. Bitzer"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

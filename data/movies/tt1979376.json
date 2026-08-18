@@ -1,0 +1,245 @@
+{
+  "imdb_id": "tt1979376",
+  "title": "Toy Story 4",
+  "description": "When Woody, Buzz, and the gang join Bonnie on a road trip with her new craft project turned toy, Forky, the innocent little spork's antics launch Woody on a wild quest.",
+  "runtime_minutes": 100,
+  "release_date": "21.06.2019",
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy",
+    "Family",
+    "Fantasy"
+  ],
+  "stars": [
+    {
+      "id": "nm0000158",
+      "name": "Tom Hanks"
+    },
+    {
+      "id": "nm0000741",
+      "name": "Tim Allen"
+    },
+    {
+      "id": "nm0001633",
+      "name": "Annie Potts"
+    },
+    {
+      "id": "nm0355024",
+      "name": "Tony Hale"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm2155757",
+      "name": "Josh Cooley"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0005124",
+      "name": "John Lasseter"
+    },
+    {
+      "id": "nm0004056",
+      "name": "Andrew Stanton"
+    },
+    {
+      "id": "nm2155757",
+      "name": "Josh Cooley"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000158",
+      "name": "Tom Hanks",
+      "character": "Woody"
+    },
+    {
+      "id": "nm0000741",
+      "name": "Tim Allen",
+      "character": "Buzz Lightyear"
+    },
+    {
+      "id": "nm0001633",
+      "name": "Annie Potts",
+      "character": "Bo Peep"
+    },
+    {
+      "id": "nm0355024",
+      "name": "Tony Hale",
+      "character": "Forky"
+    },
+    {
+      "id": "nm1221047",
+      "name": "Keegan-Michael Key",
+      "character": "Ducky"
+    },
+    {
+      "id": "nm6421259",
+      "name": "Madeleine McGraw",
+      "character": "Bonnie"
+    },
+    {
+      "id": "nm0376716",
+      "name": "Christina Hendricks",
+      "character": "Gabby Gabby"
+    },
+    {
+      "id": "nm1443502",
+      "name": "Jordan Peele",
+      "character": "Bunny"
+    },
+    {
+      "id": "nm0000206",
+      "name": "Keanu Reeves",
+      "character": "Duke Caboom"
+    },
+    {
+      "id": "nm1280361",
+      "name": "Ally Maki",
+      "character": "Giggle McDimples"
+    },
+    {
+      "id": "nm0379596",
+      "name": "Jay Hernandez",
+      "character": "Bonnie's Dad"
+    },
+    {
+      "id": "nm0015935",
+      "name": "Lori Alan",
+      "character": "Bonnie's Mom"
+    },
+    {
+      "id": "nm0000349",
+      "name": "Joan Cusack",
+      "character": "Jessie"
+    },
+    {
+      "id": "nm0001372",
+      "name": "Bonnie Hunt",
+      "character": "Dolly"
+    },
+    {
+      "id": "nm1102891",
+      "name": "Kristen Schaal",
+      "character": "Trixie"
+    },
+    {
+      "id": "nm4038224",
+      "name": "Emily Davis",
+      "character": "Billy"
+    },
+    {
+      "id": "nm0001728",
+      "name": "Wallace Shawn",
+      "character": "Rex"
+    },
+    {
+      "id": "nm0001652",
+      "name": "John Ratzenberger",
+      "character": "Hamm"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 632733,
+  "year": 2019,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTYzMDM4NzkxOV5BMl5BanBnXkFtZTgwNzM1Mzg2NzM@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.6,
+      "votes": 327086,
+      "distribution": {
+        "1": 3439,
+        "2": 1575,
+        "3": 2500,
+        "4": 5559,
+        "5": 12922,
+        "6": 35954,
+        "7": 86313,
+        "8": 98155,
+        "9": 45384,
+        "10": 35285
+      },
+      "normalized": 6.6567
+    },
+    "filmweb": {
+      "rating": 7.32,
+      "votes": 54764,
+      "distribution": {
+        "1": 101,
+        "2": 71,
+        "3": 308,
+        "4": 652,
+        "5": 2296,
+        "6": 7475,
+        "7": 18995,
+        "8": 17688,
+        "9": 5222,
+        "10": 1956
+      },
+      "normalized": 6.2923
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "18.08.2019",
+      "normalized": 5.4199
+    },
+    "score": 6.123
+  },
+  "polish_title": "Toy Story 4",
+  "silent": false,
+  "description_pl": "Chudy zawsze znał swoje miejsce na świecie. Jego życie, jak na prawdziwego szeryfa przystało, kręciło się wokół opieki nad Andym, a później Bonni. Gdy pewnego dnia w pokoju Bonni pojawia się nowa zabawka, Sztuciek, nikt nawet nie przypuszcza, że to początek zaskakującej podróży. Nieoczekiwana wyprawa pozwoli Chudemu przekonać się, jak wielki może być świat dla zwykłej zabawki…",
+  "producers": [
+    {
+      "id": "nm0230032",
+      "name": "Pete Docter"
+    },
+    {
+      "id": "nm0630923",
+      "name": "Mark Nielsen"
+    },
+    {
+      "id": "nm0714066",
+      "name": "Denise Ream"
+    },
+    {
+      "id": "nm0729304",
+      "name": "Jonas Rivera"
+    },
+    {
+      "id": "nm0764780",
+      "name": "Katherine Sarafian"
+    },
+    {
+      "id": "nm0004056",
+      "name": "Andrew Stanton"
+    },
+    {
+      "id": "nm3300040",
+      "name": "Rosana Sullivan"
+    },
+    {
+      "id": "nm0839877",
+      "name": "Galyn Susman"
+    },
+    {
+      "id": "nm0881279",
+      "name": "Lee Unkrich"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0005271",
+      "name": "Randy Newman"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "nm0614677",
+  "name": "Rosemary Murphy",
+  "filmography": [
+    {
+      "imdb_id": "tt0056592",
+      "title": "To Kill a Mockingbird",
+      "year": 1962,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Maudie Atkinson"
+    },
+    {
+      "imdb_id": "tt0093940",
+      "title": "September",
+      "year": 1987,
+      "roles": [
+        "cast"
+      ],
+      "character": "Mrs. Mason"
+    },
+    {
+      "imdb_id": "tt0139462",
+      "title": "Message in a Bottle",
+      "year": 1999,
+      "roles": [
+        "cast"
+      ],
+      "character": "Helen At The B&B"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODczNzkxNDI1MF5BMl5BanBnXkFtZTcwNjU1NTMxOA@@._V1_.jpg",
+  "birth_date": "13.01.1925",
+  "death_date": "05.07.2014",
+  "birth_location": "Munich, Bavaria, Germany",
+  "height": "1.75 m",
+  "filmweb_id": 5222,
+  "name_pl": "Rosemary Murphy",
+  "birth_location_pl": "Monachium",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 5222
+}

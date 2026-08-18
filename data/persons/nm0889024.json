@@ -1,0 +1,49 @@
+{
+  "id": "nm0889024",
+  "name": "Charles Vanel",
+  "filmography": [
+    {
+      "imdb_id": "tt0046268",
+      "title": "The Wages of Fear",
+      "year": 1953,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "M. Jo"
+    },
+    {
+      "imdb_id": "tt0046911",
+      "title": "Diabolique",
+      "year": 1955,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Alfred Fichet - le commissaire"
+    },
+    {
+      "imdb_id": "tt0048728",
+      "title": "To Catch a Thief",
+      "year": 1955,
+      "roles": [
+        "cast"
+      ],
+      "character": "Bertani"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTg0NDg4MzY0OV5BMl5BanBnXkFtZTgwMTk4ODUxMzE@._V1_.jpg",
+  "birth_date": "21.08.1892",
+  "death_date": "15.04.1989",
+  "birth_location": "Rennes, Ille-et-Vilaine, France",
+  "filmweb_id": 51950,
+  "name_pl": "Charles Vanel",
+  "birth_location_pl": "Rennes",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja"
+  ],
+  "wikidata_fw_id": 51950
+}

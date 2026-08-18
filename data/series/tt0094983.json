@@ -1,0 +1,182 @@
+{
+  "imdb_id": "tt0094983",
+  "title": "Dekalog, dziesiec",
+  "description": "After their father's death, two brothers inherit a valuable stamp collection.",
+  "runtime_minutes": 59,
+  "release_date": "24.06.1989",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0836136",
+      "name": "Jerzy Stuhr"
+    },
+    {
+      "id": "nm0952498",
+      "name": "Zbigniew Zamachowski"
+    },
+    {
+      "id": "nm0084402",
+      "name": "Henryk Bista"
+    },
+    {
+      "id": "nm0523821",
+      "name": "Olaf Lubaszenko"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001425",
+      "name": "Krzysztof Kieślowski"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0682830",
+      "name": "Krzysztof Piesiewicz"
+    },
+    {
+      "id": "nm0001425",
+      "name": "Krzysztof Kieślowski"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0836136",
+      "name": "Jerzy Stuhr",
+      "character": "Jerzy"
+    },
+    {
+      "id": "nm0952498",
+      "name": "Zbigniew Zamachowski",
+      "character": "Artur"
+    },
+    {
+      "id": "nm0084402",
+      "name": "Henryk Bista",
+      "character": "Shopkeeper"
+    },
+    {
+      "id": "nm0523821",
+      "name": "Olaf Lubaszenko",
+      "character": "Tomek"
+    },
+    {
+      "id": "nm0836137",
+      "name": "Maciej Stuhr",
+      "character": "Piotrek"
+    },
+    {
+      "id": "nm0877010",
+      "name": "Jerzy Turek",
+      "character": "Stamp Collector at the Stamp Exchange"
+    },
+    {
+      "id": "nm0343122",
+      "name": "Anna Gornostaj",
+      "character": "Nurse"
+    },
+    {
+      "id": "nm0468793",
+      "name": "Daniel Kozakiewicz",
+      "character": "Merchant near the philatelic shop"
+    },
+    {
+      "id": "nm0538045",
+      "name": "Henryk Majcherek",
+      "character": "President of Philatelists"
+    },
+    {
+      "id": "nm0911329",
+      "name": "Grzegorz Warchol",
+      "character": "Bromski"
+    },
+    {
+      "id": "nm0659111",
+      "name": "Elzbieta Panas",
+      "character": "Jerzy's Wife"
+    },
+    {
+      "id": "nm0361851",
+      "name": "Cezary Harasimowicz",
+      "character": "Militia Officer"
+    }
+  ],
+  "countries": [
+    "Poland",
+    "West Germany"
+  ],
+  "languages": [
+    "Polish"
+  ],
+  "color": "Color",
+  "year": 1989,
+  "type": "tvEpisode",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNmI5MTU4MzgtZjAwZC00ZTVlLWFlMGQtZGQ3MzRmMjQ4MWFkXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 4979,
+  "ratings": {
+    "imdb": {
+      "rating": 8.3,
+      "votes": 4084,
+      "distribution": {
+        "1": 25,
+        "2": 15,
+        "3": 11,
+        "4": 19,
+        "5": 61,
+        "6": 197,
+        "7": 569,
+        "8": 1198,
+        "9": 1165,
+        "10": 824
+      }
+    },
+    "filmweb": {
+      "rating": 8.07,
+      "votes": 26563,
+      "distribution": {
+        "1": 116,
+        "2": 29,
+        "3": 91,
+        "4": 123,
+        "5": 408,
+        "6": 1176,
+        "7": 4709,
+        "8": 10551,
+        "9": 6707,
+        "10": 2653
+      }
+    },
+    "michal": {
+      "rating": 9,
+      "date_rated": "19.10.2005"
+    }
+  },
+  "polish_title": "Dekalog X",
+  "silent": false,
+  "description_pl": "Jerzy (<a href=\"/osoba/?id=nm0836136\">Jerzy Stuhr</a>) i jego młodszy brat Artur (<a href=\"/osoba/?id=nm0952498\">Zbigniew Zamachowski</a>) dowiadują się o śmierci ojca. Wkrótce okazuje się, że odziedziczyli po nim kolekcję znaczków pocztowych, które zbierał przez całe życie. Prezes filatelistów (Henryk Majcherek) oznajmia im, że są warte fortunę. Mężczyźni, początkowo skłonni pozbyć się kolekcji pierwszemu lepszemu kupcowi, postanawiają jej nie sprzedawać. Tymczasem kontaktuje się z nimi właściciel sklepu filatelistycznego (<a href=\"/osoba/?id=nm0084402\">Henryk Bista</a>). W zamian za nerkę jednego z nich pomoże im załatwić bardzo rzadki znaczek, który uzupełniłby kolekcję ojca.",
+  "producers": [
+    {
+      "id": "nm0119557",
+      "name": "Andrzej Buhl"
+    },
+    {
+      "id": "nm0161541",
+      "name": "Ryszard Chutkowski"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006237",
+      "name": "Zbigniew Preisner"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0087933",
+      "name": "Jacek Blawut"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

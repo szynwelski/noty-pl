@@ -1,0 +1,231 @@
+{
+  "imdb_id": "tt0087469",
+  "title": "Indiana Jones and the Temple of Doom",
+  "description": "In 1935, Indiana Jones is tasked by Indian villagers with reclaiming a sacred stone stolen from them by a secret cult.",
+  "runtime_minutes": 118,
+  "release_date": "23.05.1984",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "stars": [
+    {
+      "id": "nm0000148",
+      "name": "Harrison Ford"
+    },
+    {
+      "id": "nm0001009",
+      "name": "Kate Capshaw"
+    },
+    {
+      "id": "nm0702841",
+      "name": "Ke Huy Quan"
+    },
+    {
+      "id": "nm0700869",
+      "name": "Amrish Puri"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000229",
+      "name": "Steven Spielberg"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0404754",
+      "name": "Willard Huyck"
+    },
+    {
+      "id": "nm0441718",
+      "name": "Gloria Katz"
+    },
+    {
+      "id": "nm0000184",
+      "name": "George Lucas"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000148",
+      "name": "Harrison Ford",
+      "character": "Indiana Jones"
+    },
+    {
+      "id": "nm0001009",
+      "name": "Kate Capshaw",
+      "character": "Willie Scott"
+    },
+    {
+      "id": "nm0702841",
+      "name": "Ke Huy Quan",
+      "character": "Short Round"
+    },
+    {
+      "id": "nm0700869",
+      "name": "Amrish Puri",
+      "character": "Mola Ram"
+    },
+    {
+      "id": "nm0786022",
+      "name": "Roshan Seth",
+      "character": "Chattar Lal"
+    },
+    {
+      "id": "nm0832104",
+      "name": "Philip Stone",
+      "character": "Captain Blumburtt"
+    },
+    {
+      "id": "nm0152054",
+      "name": "Roy Chiao",
+      "character": "Lao Che"
+    },
+    {
+      "id": "nm0948118",
+      "name": "David Yip",
+      "character": "Wu Han"
+    },
+    {
+      "id": "nm0949521",
+      "name": "Ric Young",
+      "character": "Kao Kan"
+    },
+    {
+      "id": "nm0160913",
+      "name": "Chua Kah Joo",
+      "character": "Chen"
+    },
+    {
+      "id": "nm0628970",
+      "name": "Rex Ngui",
+      "character": "Maitre d'"
+    },
+    {
+      "id": "nm0848883",
+      "name": "Philip Tan",
+      "character": "Chief Henchman"
+    },
+    {
+      "id": "nm0000101",
+      "name": "Dan Aykroyd",
+      "character": "Weber"
+    },
+    {
+      "id": "nm0593052",
+      "name": "Akio Mitamura",
+      "character": "Chinese Pilot"
+    },
+    {
+      "id": "nm0945194",
+      "name": "Michael Yama",
+      "character": "Chinese Co-Pilot"
+    },
+    {
+      "id": "nm0620730",
+      "name": "D.R. Nanayakkara",
+      "character": "Shaman"
+    },
+    {
+      "id": "nm0476095",
+      "name": "Dharmadasa Kuruppu",
+      "character": "Chieftain"
+    },
+    {
+      "id": "nm0211605",
+      "name": "Stany De Silva",
+      "character": "Sajnu"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Sinhala",
+    "Shanghainese"
+  ],
+  "color": "Color",
+  "filmweb_id": 1214,
+  "year": 1984,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOGUwZjZiNWQtYzAzZi00NGI5LWE4YmUtN2Y4YWMwY2RlZDkyXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.5,
+      "votes": 572280,
+      "distribution": {
+        "1": 3470,
+        "2": 2390,
+        "3": 4244,
+        "4": 8666,
+        "5": 22345,
+        "6": 63771,
+        "7": 160034,
+        "8": 179285,
+        "9": 69662,
+        "10": 58413
+      },
+      "normalized": 6.4979
+    },
+    "filmweb": {
+      "rating": 7.52,
+      "votes": 167962,
+      "distribution": {
+        "1": 441,
+        "2": 375,
+        "3": 1042,
+        "4": 2326,
+        "5": 6610,
+        "6": 19343,
+        "7": 49511,
+        "8": 54758,
+        "9": 19560,
+        "10": 13996
+      },
+      "normalized": 6.7925
+    },
+    "michal": {
+      "rating": 3,
+      "date_rated": "19.10.2005",
+      "normalized": 3.8753
+    },
+    "score": 5.7219
+  },
+  "polish_title": "Indiana Jones i Świątynia Zagłady",
+  "silent": false,
+  "description_pl": "Rok 1935. Indiana Jones finalizuje transakcję z szefem chińskiego gangu. Zamiast otrzymania obiecanej zapłaty za wyświadczone usługi zostaje otruty. Udaje mu się jednak uratować dzięki Willie Scott. Uciekając przed ścigającą ich chińską mafią, przypadkowo trafiają do Indii, gdzie zostają zatrzymani w jednej z wiosek zagubionych w dżungli. Sędziwy szaman prowadzi ich do naczelnika. Ten obiecuje im transport do Delhi pod warunkiem, że wcześniej archeolog odnajdzie święty kamień skradziony przez wyznawców krwiożerczej bogini Kali.",
+  "producers": [
+    {
+      "id": "nm0005086",
+      "name": "Kathleen Kennedy"
+    },
+    {
+      "id": "nm0000184",
+      "name": "George Lucas"
+    },
+    {
+      "id": "nm0550881",
+      "name": "Frank Marshall"
+    },
+    {
+      "id": "nm0915226",
+      "name": "Robert Watts"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0002354",
+      "name": "John Williams"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005878",
+      "name": "Douglas Slocombe"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

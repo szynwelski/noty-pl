@@ -1,0 +1,35 @@
+{
+  "id": "nm0480673",
+  "name": "Carl Laemmle Jr.",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMmM2YmM4ZWQtMjQ2Mi00YmIxLTg1NTktOWEzODdkMjVkYmYwXkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0019109",
+      "title": "Lonesome",
+      "year": 1928,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0021884",
+      "title": "Frankenstein",
+      "year": 1931,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "birth_date": "28.04.1908",
+  "death_date": "24.09.1979",
+  "birth_location": "Chicago, Illinois, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 76862,
+  "name_pl": "Carl Laemmle Jr.",
+  "birth_location_pl": "Chicago, Illinois",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

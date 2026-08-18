@@ -1,0 +1,47 @@
+{
+  "id": "nm0562807",
+  "name": "Ferdy Mayne",
+  "filmography": [
+    {
+      "imdb_id": "tt0061655",
+      "title": "The Fearless Vampire Killers",
+      "year": 1967,
+      "roles": [
+        "cast"
+      ],
+      "character": "Count von Krolock"
+    },
+    {
+      "imdb_id": "tt0091757",
+      "title": "Pirates",
+      "year": 1986,
+      "roles": [
+        "cast"
+      ],
+      "character": "Captain Linares"
+    },
+    {
+      "imdb_id": "tt0104627",
+      "title": "Knight Moves",
+      "year": 1992,
+      "roles": [
+        "cast"
+      ],
+      "character": "Jeremy Edmonds"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTg2ODE1MDI0NF5BMl5BanBnXkFtZTcwNzkyNzMyNw@@._V1_.jpg",
+  "birth_date": "11.03.1916",
+  "death_date": "30.01.1998",
+  "birth_location": "Mainz, Germany",
+  "height": "1.80 m",
+  "filmweb_id": 8518,
+  "name_pl": "Ferdy Mayne",
+  "birth_location_pl": "Moguncja",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Niemcy"
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "imdb_id": "tt0019959",
+  "title": "Hallelujah",
+  "description": "A sharecropper decides to become a preacher after falling for a vamp from the city.",
+  "runtime_minutes": 109,
+  "release_date": "20.08.1929",
+  "genres": [
+    "Drama",
+    "Musical"
+  ],
+  "stars": [
+    {
+      "id": "nm0371438",
+      "name": "Daniel L. Haynes"
+    },
+    {
+      "id": "nm0571904",
+      "name": "Nina Mae McKinney"
+    },
+    {
+      "id": "nm0288371",
+      "name": "William Fountaine"
+    },
+    {
+      "id": "nm0336677",
+      "name": "Harry Gray"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0896542",
+      "name": "King Vidor"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0875746",
+      "name": "Wanda Tuchock"
+    },
+    {
+      "id": "nm0770337",
+      "name": "Richard Schayer"
+    },
+    {
+      "id": "nm0725823",
+      "name": "Ransom Rideout"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0371438",
+      "name": "Daniel L. Haynes",
+      "character": "Zeke"
+    },
+    {
+      "id": "nm0571904",
+      "name": "Nina Mae McKinney",
+      "character": "Chick"
+    },
+    {
+      "id": "nm0288371",
+      "name": "William Fountaine",
+      "character": "Hot Shot"
+    },
+    {
+      "id": "nm0336677",
+      "name": "Harry Gray",
+      "character": "Parson"
+    },
+    {
+      "id": "nm0215297",
+      "name": "Fanny Belle DeKnight",
+      "character": "Mammy"
+    },
+    {
+      "id": "nm0568935",
+      "name": "Everett McGarrity",
+      "character": "Spunk"
+    },
+    {
+      "id": "nm0819237",
+      "name": "Victoria Spivey",
+      "character": "Missy Rose"
+    },
+    {
+      "id": "nm0225436",
+      "name": "Milton Dickerson",
+      "character": "Johnson Kid"
+    },
+    {
+      "id": "nm0183251",
+      "name": "Robert Couch",
+      "character": "Johnson Kid"
+    },
+    {
+      "id": "nm0846926",
+      "name": "Walter Tait",
+      "character": "Johnson Kid"
+    },
+    {
+      "id": "nm1391673",
+      "name": "Dixie Jubilee Singers",
+      "character": "Vocal Ensemble"
+    },
+    {
+      "id": "nm0063915",
+      "name": "Matthew 'Stymie' Beard",
+      "character": "Child"
+    },
+    {
+      "id": "nm0123822",
+      "name": "Evelyn Pope Burwell",
+      "character": "Singer"
+    },
+    {
+      "id": "nm0175204",
+      "name": "Eddie Conners",
+      "character": "Singer"
+    },
+    {
+      "id": "nm0308476",
+      "name": "William Allen Garrison",
+      "character": "Heavy"
+    },
+    {
+      "id": "nm0422280",
+      "name": "Eva Jessye",
+      "character": "Singer"
+    },
+    {
+      "id": "nm0567434",
+      "name": "Sam McDaniel",
+      "character": "Adam"
+    },
+    {
+      "id": "nm0615617",
+      "name": "Clarence Muse",
+      "character": "Church Member"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Black and White",
+  "year": 1929,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOTlkNjU5NzgtNzRjNy00MTMzLWJiOTktMTk3ZWI2Y2Q5MjhkXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 119680,
+  "ratings": {
+    "imdb": {
+      "rating": 6.7,
+      "votes": 2245,
+      "distribution": {
+        "1": 52,
+        "2": 41,
+        "3": 65,
+        "4": 94,
+        "5": 212,
+        "6": 435,
+        "7": 596,
+        "8": 379,
+        "9": 165,
+        "10": 206
+      },
+      "normalized": 5.0157
+    },
+    "filmweb": {
+      "rating": 6.11,
+      "votes": 163,
+      "distribution": {
+        "1": 1,
+        "2": 3,
+        "3": 10,
+        "4": 9,
+        "5": 33,
+        "6": 34,
+        "7": 45,
+        "8": 19,
+        "9": 3,
+        "10": 6
+      },
+      "normalized": 4.6171
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "19.10.2005",
+      "normalized": 4.5781
+    },
+    "score": 4.737
+  },
+  "polish_title": "Dusze czarnych",
+  "silent": false,
+  "producers": [
+    {
+      "id": "nm0896542",
+      "name": "King Vidor"
+    },
+    {
+      "id": "nm0856921",
+      "name": "Irving Thalberg"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0043138",
+      "name": "Gordon Avil"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-15"
+}

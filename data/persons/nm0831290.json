@@ -1,0 +1,45 @@
+{
+  "id": "nm0831290",
+  "name": "Bram Stoker",
+  "filmography": [
+    {
+      "imdb_id": "tt0013442",
+      "title": "Nosferatu",
+      "year": 1922,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0103874",
+      "title": "Dracula",
+      "year": 1992,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0829150",
+      "title": "Dracula Untold",
+      "year": 2014,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYjViNGI3NjAtM2Q1ZC00N2VjLWI4OGMtMWM0YTZlY2NiMmZjXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "08.11.1847",
+  "death_date": "20.04.1912",
+  "birth_location": "Dublin, Ireland, UK [now Republic of Ireland]",
+  "height": "1.88 m",
+  "filmweb_id": 12456,
+  "name_pl": "Bram Stoker",
+  "birth_location_pl": "Dublin",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Irlandia",
+    "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii"
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "imdb_id": "tt2388725",
+  "title": "Paperman",
+  "description": "An office worker meets the girl of his dreams and uses a fleet of paper airplanes to get her attention.",
+  "runtime_minutes": 7,
+  "release_date": "02.11.2012",
+  "genres": [
+    "Animation",
+    "Short",
+    "Comedy",
+    "Family",
+    "Fantasy",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0434969",
+      "name": "John Kahrs"
+    },
+    {
+      "id": "nm1312566",
+      "name": "Kari Wahlgren"
+    },
+    {
+      "id": "nm5254152",
+      "name": "Jack Goldenberg"
+    },
+    {
+      "id": "nm3727412",
+      "name": "Jeff Turley"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0434969",
+      "name": "John Kahrs"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm3028768",
+      "name": "Clio Chiang"
+    },
+    {
+      "id": "nm4611078",
+      "name": "Kendelle Hoyer"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0434969",
+      "name": "John Kahrs",
+      "character": "George"
+    },
+    {
+      "id": "nm1312566",
+      "name": "Kari Wahlgren",
+      "character": "Meg"
+    },
+    {
+      "id": "nm5254152",
+      "name": "Jack Goldenberg",
+      "character": "Finster"
+    },
+    {
+      "id": "nm3727412",
+      "name": "Jeff Turley",
+      "character": "Boss"
+    }
+  ],
+  "countries": [
+    "United States",
+    "Japan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 656831,
+  "year": 2012,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTM4ODg0MzM0MV5BMl5BanBnXkFtZTcwNDY2MTc3Nw@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8.2,
+      "votes": 37141,
+      "distribution": {
+        "1": 178,
+        "2": 88,
+        "3": 137,
+        "4": 247,
+        "5": 689,
+        "6": 2024,
+        "7": 5557,
+        "8": 11461,
+        "9": 8846,
+        "10": 7914
+      },
+      "normalized": 7.958
+    },
+    "filmweb": {
+      "rating": 7.73,
+      "votes": 70437,
+      "distribution": {
+        "1": 99,
+        "2": 81,
+        "3": 323,
+        "4": 713,
+        "5": 1970,
+        "6": 5941,
+        "7": 17187,
+        "8": 27225,
+        "9": 12159,
+        "10": 4739
+      },
+      "normalized": 7.4327
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "11.03.2017",
+      "normalized": 4.5781
+    },
+    "score": 6.6563
+  },
+  "polish_title": "Paperman",
+  "silent": false,
+  "description_pl": "George w drodze do pracy spotyka kobietę swoich marzeń. Przez nieuwagę traci ją z oczu. Podłamany udaje się do swojego biura. Tam, spoglądając przez okno, zauważa, iż dziewczyna, którą widział rano, pracuje w budynku na przeciwko. Postanawia nie zmarnować kolejnej okazji danej przez los.",
+  "producers": [
+    {
+      "id": "nm0005124",
+      "name": "John Lasseter"
+    },
+    {
+      "id": "nm0715534",
+      "name": "Kristina Reed"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0065100",
+      "name": "Christophe Beck"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

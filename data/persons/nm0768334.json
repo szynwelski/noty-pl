@@ -1,0 +1,40 @@
+{
+  "id": "nm0768334",
+  "name": "John Saxon",
+  "filmography": [
+    {
+      "imdb_id": "tt0070034",
+      "title": "Enter the Dragon",
+      "year": 1973,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Roper"
+    },
+    {
+      "imdb_id": "tt0116367",
+      "title": "From Dusk Till Dawn",
+      "year": 1996,
+      "roles": [
+        "cast"
+      ],
+      "character": "FBI Agent Stanley Chase"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTk2NjE1NTk3Ml5BMl5BanBnXkFtZTcwOTAzMjg0NA@@._V1_.jpg",
+  "birth_date": "05.08.1936",
+  "death_date": "25.07.2020",
+  "birth_location": "Brooklyn, New York City, New York, USA",
+  "height": "1.77 m",
+  "imdb_scraped": true,
+  "filmweb_id": 40745,
+  "name_pl": "John Saxon",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 40745
+}

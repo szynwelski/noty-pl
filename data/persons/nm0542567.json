@@ -1,0 +1,48 @@
+{
+  "id": "nm0542567",
+  "name": "Charles Manley",
+  "filmography": [
+    {
+      "imdb_id": "tt0000340",
+      "title": "Uncle Josh in a Spooky Hotel",
+      "year": 1900,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Uncle Josh"
+    },
+    {
+      "imdb_id": "tt0000341",
+      "title": "Uncle Josh's Nightmare",
+      "year": 1900,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Uncle Josh"
+    },
+    {
+      "imdb_id": "tt0000414",
+      "title": "Uncle Josh at the Moving Picture Show",
+      "year": 1902,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Uncle Josh"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZmUwM2UzN2MtNzRjOC00MDhlLWE2ZDktNTQzZThlM2QwMTM4XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "25.09.1830",
+  "death_date": "26.02.1916",
+  "birth_location": "Ireland",
+  "filmweb_id": 543482,
+  "name_pl": "Charles Manley",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Irlandia"
+  ]
+}

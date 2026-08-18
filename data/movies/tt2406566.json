@@ -1,0 +1,298 @@
+{
+  "imdb_id": "tt2406566",
+  "title": "Atomic Blonde",
+  "description": "An undercover MI6 agent is sent to Berlin during the Cold War to investigate the murder of a fellow agent and recover a missing list of double agents.",
+  "runtime_minutes": 115,
+  "release_date": "28.07.2017",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000234",
+      "name": "Charlize Theron"
+    },
+    {
+      "id": "nm0564215",
+      "name": "James McAvoy"
+    },
+    {
+      "id": "nm0000422",
+      "name": "John Goodman"
+    },
+    {
+      "id": "nm0550371",
+      "name": "Eddie Marsan"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0500610",
+      "name": "David Leitch"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0426500",
+      "name": "Kurt Johnstad"
+    },
+    {
+      "id": "nm2985952",
+      "name": "Antony Johnston"
+    },
+    {
+      "id": "nm8697009",
+      "name": "Sam Hart"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000234",
+      "name": "Charlize Theron",
+      "character": "Lorraine Broughton"
+    },
+    {
+      "id": "nm0564215",
+      "name": "James McAvoy",
+      "character": "David Percival"
+    },
+    {
+      "id": "nm0000422",
+      "name": "John Goodman",
+      "character": "Emmett Kurzfeld"
+    },
+    {
+      "id": "nm0550371",
+      "name": "Eddie Marsan",
+      "character": "Spyglass"
+    },
+    {
+      "id": "nm0429363",
+      "name": "Toby Jones",
+      "character": "Eric Gray"
+    },
+    {
+      "id": "nm0269077",
+      "name": "James Faulkner",
+      "character": "Chief 'C'"
+    },
+    {
+      "id": "nm3435612",
+      "name": "Roland Møller",
+      "character": "Aleksander Bremovych"
+    },
+    {
+      "id": "nm1154749",
+      "name": "Sofia Boutella",
+      "character": "Delphine Lasalle"
+    },
+    {
+      "id": "nm0803889",
+      "name": "Bill Skarsgård",
+      "character": "Merkel"
+    },
+    {
+      "id": "nm1092087",
+      "name": "Sam Hargrave",
+      "character": "James Gascoine"
+    },
+    {
+      "id": "nm1778512",
+      "name": "Jóhannes Haukur Jóhannesson",
+      "character": "Yuri Bakhtin"
+    },
+    {
+      "id": "nm0001709",
+      "name": "Til Schweiger",
+      "character": "Watchmaker"
+    },
+    {
+      "id": "nm0837784",
+      "name": "Barbara Sukowa",
+      "character": "Coroner"
+    },
+    {
+      "id": "nm0037074",
+      "name": "Attila Árpa",
+      "character": "East German Guard #1"
+    },
+    {
+      "id": "nm2567625",
+      "name": "Martin Angerbauer",
+      "character": "East German Guard #2"
+    },
+    {
+      "id": "nm1505397",
+      "name": "Lili Gesler",
+      "character": "Helena"
+    },
+    {
+      "id": "nm9147680",
+      "name": "Sara Natasa Szonda",
+      "character": "Audrey"
+    },
+    {
+      "id": "nm0360426",
+      "name": "Declan Hannigan",
+      "character": "Driver"
+    }
+  ],
+  "countries": [
+    "Sweden",
+    "Hungary",
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Russian",
+    "Swedish"
+  ],
+  "color": "Color",
+  "filmweb_id": 755384,
+  "year": 2017,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjM5NDYzMzg5N15BMl5BanBnXkFtZTgwOTM2NDU1MjI@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.7,
+      "votes": 221487,
+      "distribution": {
+        "1": 3318,
+        "2": 1890,
+        "3": 3564,
+        "4": 7234,
+        "5": 19130,
+        "6": 48766,
+        "7": 71900,
+        "8": 40255,
+        "9": 13501,
+        "10": 11929
+      },
+      "normalized": 4.8833
+    },
+    "filmweb": {
+      "rating": 6.5,
+      "votes": 70624,
+      "distribution": {
+        "1": 248,
+        "2": 301,
+        "3": 1571,
+        "4": 2762,
+        "5": 8872,
+        "6": 19271,
+        "7": 23136,
+        "8": 10860,
+        "9": 2531,
+        "10": 1072
+      },
+      "normalized": 4.3239
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "08.07.2018",
+      "normalized": 5.4199
+    },
+    "score": 4.8757
+  },
+  "polish_title": "Atomic Blonde",
+  "silent": false,
+  "description_pl": "Berlin, czasy Zimnej Wojny. Brytyjska agentka zostaje przerzucona do komunistycznego Berlina w celu odnalezienia zabójców swojego partnera i odzyskania listy podwójnych agentów.",
+  "producers": [
+    {
+      "id": "nm0228690",
+      "name": "A.J. Dix"
+    },
+    {
+      "id": "nm0321218",
+      "name": "Eric Gitter"
+    },
+    {
+      "id": "nm0347128",
+      "name": "David Guillod"
+    },
+    {
+      "id": "nm0426500",
+      "name": "Kurt Johnstad"
+    },
+    {
+      "id": "nm2985952",
+      "name": "Antony Johnston"
+    },
+    {
+      "id": "nm0447189",
+      "name": "Ildikó Kemény"
+    },
+    {
+      "id": "nm1461537",
+      "name": "Beth Kono"
+    },
+    {
+      "id": "nm0566555",
+      "name": "Kelly McCormick"
+    },
+    {
+      "id": "nm0583293",
+      "name": "Nick Meyer"
+    },
+    {
+      "id": "nm0591459",
+      "name": "David Minkowski"
+    },
+    {
+      "id": "nm2249759",
+      "name": "Jeff Morrone"
+    },
+    {
+      "id": "nm8999500",
+      "name": "Anthony Muir"
+    },
+    {
+      "id": "nm1060496",
+      "name": "Joe Nozemack"
+    },
+    {
+      "id": "nm2324489",
+      "name": "Steven V. Scavelli"
+    },
+    {
+      "id": "nm0972107",
+      "name": "Marc Schaberg"
+    },
+    {
+      "id": "nm0777910",
+      "name": "Peter Schwerin"
+    },
+    {
+      "id": "nm0808178",
+      "name": "Ethan Smith"
+    },
+    {
+      "id": "nm0000234",
+      "name": "Charlize Theron"
+    },
+    {
+      "id": "nm0867833",
+      "name": "Jasmina Torbati"
+    },
+    {
+      "id": "nm0952868",
+      "name": "Fredrik Zander"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0061045",
+      "name": "Tyler Bates"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0782930",
+      "name": "Jonathan Sela"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

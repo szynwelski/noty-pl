@@ -1,0 +1,48 @@
+{
+  "id": "nm0003032",
+  "name": "Bob Ducsay",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNGM1ODFlZGItMWY5YS00ZDllLTg2MmMtM2NmNjk4NzBiMzJkXkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0209163",
+      "title": "The Mummy Returns",
+      "year": 2001,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0338526",
+      "title": "Van Helsing",
+      "year": 2004,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0859163",
+      "title": "The Mummy: Tomb of the Dragon Emperor",
+      "year": 2008,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0831387",
+      "title": "Godzilla",
+      "year": 2014,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "imdb_scraped": true,
+  "filmweb_id": 127550,
+  "name_pl": "Bob Ducsay",
+  "gender": "M",
+  "wikidata_processed": true,
+  "birth_date": "08.07.1962",
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

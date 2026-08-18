@@ -1,0 +1,73 @@
+{
+  "id": "nm0000537",
+  "name": "Steve McQueen",
+  "filmography": [
+    {
+      "imdb_id": "tt0054047",
+      "title": "The Magnificent Seven",
+      "year": 1960,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Vin Tanner"
+    },
+    {
+      "imdb_id": "tt0057115",
+      "title": "The Great Escape",
+      "year": 1963,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Hilts 'The Cooler King'"
+    },
+    {
+      "imdb_id": "tt0062765",
+      "title": "Bullitt",
+      "year": 1968,
+      "roles": [
+        "star",
+        "cast",
+        "producer"
+      ],
+      "character": "Det. Lt. Frank Bullitt"
+    },
+    {
+      "imdb_id": "tt0068638",
+      "title": "The Getaway",
+      "year": 1972,
+      "roles": [
+        "star",
+        "cast",
+        "producer"
+      ],
+      "character": "Doc McCoy"
+    },
+    {
+      "imdb_id": "tt0070511",
+      "title": "Papillon",
+      "year": 1973,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Henri 'Papillon' Charriere"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTM2MTcyOGYtZjI5Mi00Y2U3LWJiMDctNDUzOTkyMGE0NTFiXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "24.03.1930",
+  "death_date": "07.11.1980",
+  "birth_location": "Beech Grove, Indiana, USA",
+  "height": "1.77 m",
+  "filmweb_id": 42154,
+  "name_pl": "Steve McQueen",
+  "birth_location_pl": "Beech Grove, Indiana",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 42154
+}

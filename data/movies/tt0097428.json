@@ -1,0 +1,234 @@
+{
+  "imdb_id": "tt0097428",
+  "title": "Ghostbusters II",
+  "description": "The discovery of a massive river of ectoplasm and a resurgence of spectral activity allows the staff of Ghostbusters to revive the business.",
+  "runtime_minutes": 108,
+  "release_date": "16.06.1989",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm0000195",
+      "name": "Bill Murray"
+    },
+    {
+      "id": "nm0000101",
+      "name": "Dan Aykroyd"
+    },
+    {
+      "id": "nm0000244",
+      "name": "Sigourney Weaver"
+    },
+    {
+      "id": "nm0000601",
+      "name": "Harold Ramis"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0718645",
+      "name": "Ivan Reitman"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000101",
+      "name": "Dan Aykroyd"
+    },
+    {
+      "id": "nm0000601",
+      "name": "Harold Ramis"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000195",
+      "name": "Bill Murray",
+      "character": "Dr. Peter Venkman"
+    },
+    {
+      "id": "nm0000101",
+      "name": "Dan Aykroyd",
+      "character": "Dr. Raymond Stantz"
+    },
+    {
+      "id": "nm0000244",
+      "name": "Sigourney Weaver",
+      "character": "Dana Barrett"
+    },
+    {
+      "id": "nm0000601",
+      "name": "Harold Ramis",
+      "character": "Dr. Egon Spengler"
+    },
+    {
+      "id": "nm0001548",
+      "name": "Rick Moranis",
+      "character": "Louis Tully"
+    },
+    {
+      "id": "nm0001368",
+      "name": "Ernie Hudson",
+      "character": "Winston Zeddemore"
+    },
+    {
+      "id": "nm0001633",
+      "name": "Annie Potts",
+      "character": "Janine Melnitz"
+    },
+    {
+      "id": "nm0001493",
+      "name": "Peter MacNicol",
+      "character": "Dr. Janosz Poha"
+    },
+    {
+      "id": "nm0950867",
+      "name": "Harris Yulin",
+      "character": "The Judge"
+    },
+    {
+      "id": "nm0546868",
+      "name": "David Margulies",
+      "character": "The Mayor of NY"
+    },
+    {
+      "id": "nm0298281",
+      "name": "Kurt Fuller",
+      "character": "Hardemeyer"
+    },
+    {
+      "id": "nm0546755",
+      "name": "Janet Margolin",
+      "character": "The Prosecutor"
+    },
+    {
+      "id": "nm0902455",
+      "name": "Wilhelm von Homburg",
+      "character": "Vigo"
+    },
+    {
+      "id": "nm0222111",
+      "name": "William T. Deutschendorf",
+      "character": "Baby Oscar"
+    },
+    {
+      "id": "nm0222110",
+      "name": "Henry J. Deutschendorf II",
+      "character": "Baby Oscar"
+    },
+    {
+      "id": "nm0602930",
+      "name": "Michael P. Moran",
+      "character": "Frank the Doorman"
+    },
+    {
+      "id": "nm0911765",
+      "name": "Olivia Ward",
+      "character": "Meter Maid"
+    },
+    {
+      "id": "nm0492584",
+      "name": "Mordecai Lawner",
+      "character": "Man with a Ticket"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 12069,
+  "year": 1989,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZThjODU5NTMtMWJiNC00NjNkLWJmM2YtM2EzNDg3NjMxYjU5XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.6,
+      "votes": 241026,
+      "distribution": {
+        "1": 1798,
+        "2": 1847,
+        "3": 3762,
+        "4": 9276,
+        "5": 25173,
+        "6": 61526,
+        "7": 73771,
+        "8": 35139,
+        "9": 12079,
+        "10": 16655
+      },
+      "normalized": 4.6617
+    },
+    "filmweb": {
+      "rating": 6.72,
+      "votes": 53351,
+      "distribution": {
+        "1": 157,
+        "2": 216,
+        "3": 700,
+        "4": 1676,
+        "5": 5021,
+        "6": 13325,
+        "7": 19461,
+        "8": 8918,
+        "9": 2254,
+        "10": 1623
+      },
+      "normalized": 4.8821
+    },
+    "jarek": {
+      "rating": 2,
+      "date_rated": "02.12.2005",
+      "normalized": 3.5003
+    },
+    "score": 4.348
+  },
+  "polish_title": "Pogromcy duchów II",
+  "silent": false,
+  "description_pl": "Pogromcy duchów znów muszą stawić czoła złym mocom z zaświatów. Tym razem zły mag sprzed kilkuset lat chce powrócić na Ziemię w ludzkiej postaci i potrzebuje do tego ciała małego dziecka. Na swoją ofiarę wybiera synka Dany Barrett. Ale łowcy duchów postarają się utrudnić mu realizację planu.",
+  "producers": [
+    {
+      "id": "nm0109401",
+      "name": "Bernie Brillstein"
+    },
+    {
+      "id": "nm0343453",
+      "name": "Michael C. Gross"
+    },
+    {
+      "id": "nm0434922",
+      "name": "Sheldon Kahn"
+    },
+    {
+      "id": "nm0575817",
+      "name": "Joe Medjuck"
+    },
+    {
+      "id": "nm0718645",
+      "name": "Ivan Reitman"
+    },
+    {
+      "id": "nm0916118",
+      "name": "Gordon A. Webb"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006055",
+      "name": "Randy Edelman"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0152469",
+      "name": "Michael Chapman"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

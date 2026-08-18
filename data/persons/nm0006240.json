@@ -1,0 +1,42 @@
+{
+  "id": "nm0006240",
+  "name": "Anton Profes",
+  "filmography": [
+    {
+      "imdb_id": "tt0048624",
+      "title": "Sissi",
+      "year": 1955,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt0049762",
+      "title": "Sissi - Die junge Kaiserin",
+      "year": 1956,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt0050974",
+      "title": "Sissi: The Fateful Years of an Empress",
+      "year": 1957,
+      "roles": [
+        "composer"
+      ]
+    }
+  ],
+  "birth_date": "26.03.1896",
+  "death_date": "22.08.1976",
+  "birth_location": "Leitmeritz, Bohemia, Austria-Hungary [now Litomerice, Czech Republic]",
+  "filmweb_id": 98086,
+  "name_pl": "Anton Profes",
+  "birth_location_pl": "Leitmeritz",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Austria"
+  ]
+}

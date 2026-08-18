@@ -1,0 +1,39 @@
+{
+  "id": "nm0809938",
+  "name": "Shawnee Smith",
+  "filmography": [
+    {
+      "imdb_id": "tt0387564",
+      "title": "Saw",
+      "year": 2004,
+      "roles": [
+        "cast"
+      ],
+      "character": "Amanda"
+    },
+    {
+      "imdb_id": "tt0489270",
+      "title": "Saw III",
+      "year": 2006,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Amanda"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTY1MzQ5Mzg2M15BMl5BanBnXkFtZTYwOTE3Nzg0._V1_.jpg",
+  "birth_date": "03.07.1969",
+  "birth_location": "Orangeburg, South Carolina, USA",
+  "height": "1.60 m",
+  "imdb_scraped": true,
+  "filmweb_id": 60896,
+  "name_pl": "Shawnee Smith",
+  "birth_location_pl": "Orangeburg, Karolina Południowa",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 60896
+}

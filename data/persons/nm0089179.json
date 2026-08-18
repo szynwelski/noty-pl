@@ -1,0 +1,28 @@
+{
+  "id": "nm0089179",
+  "name": "Jim Bloom",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDBjMzAxOWYtNzE1OC00YmRhLTlmZDYtZDA5OTVjZTUwM2ViXkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0080684",
+      "title": "Star Wars: Episode V - The Empire Strikes Back",
+      "year": 1980,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0086190",
+      "title": "Star Wars: Episode VI - Return of the Jedi",
+      "year": 1983,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "imdb_scraped": true,
+  "filmweb_id": 370487,
+  "name_pl": "Jim Bloom",
+  "gender": "M",
+  "wikidata_processed": true
+}

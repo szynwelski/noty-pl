@@ -1,0 +1,48 @@
+{
+  "id": "nm0000442",
+  "name": "Rutger Hauer",
+  "filmography": [
+    {
+      "imdb_id": "tt0083658",
+      "title": "Blade Runner",
+      "year": 1982,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Batty"
+    },
+    {
+      "imdb_id": "tt0372784",
+      "title": "Batman Begins",
+      "year": 2005,
+      "roles": [
+        "cast"
+      ],
+      "character": "Earle"
+    },
+    {
+      "imdb_id": "tt0473360",
+      "title": "Goal II: Living the Dream",
+      "year": 2007,
+      "roles": [
+        "cast"
+      ],
+      "character": "Rudi van der Merwe"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTI5MjE4MTg3MV5BMl5BanBnXkFtZTYwMjk0Mzgy._V1_.jpg",
+  "birth_date": "23.01.1944",
+  "death_date": "19.07.2019",
+  "birth_location": "Breukelen, Utrecht, Netherlands",
+  "height": "1.86 m",
+  "filmweb_id": 321,
+  "name_pl": "Rutger Hauer",
+  "birth_location_pl": "Breukelen",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Holandia"
+  ]
+}

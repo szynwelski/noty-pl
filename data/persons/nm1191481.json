@@ -1,0 +1,51 @@
+{
+  "id": "nm1191481",
+  "name": "Leigh Whannell",
+  "filmography": [
+    {
+      "imdb_id": "tt0387564",
+      "title": "Saw",
+      "year": 2004,
+      "roles": [
+        "writer",
+        "star",
+        "cast"
+      ],
+      "character": "Adam"
+    },
+    {
+      "imdb_id": "tt0489270",
+      "title": "Saw III",
+      "year": 2006,
+      "roles": [
+        "writer",
+        "cast",
+        "producer"
+      ],
+      "character": "Adam"
+    },
+    {
+      "imdb_id": "tt1477834",
+      "title": "Aquaman",
+      "year": 2018,
+      "roles": [
+        "cast"
+      ],
+      "character": "Cargo Pilot"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTkyMzA3OTI0Ml5BMl5BanBnXkFtZTcwNDUzMTEzMQ@@._V1_.jpg",
+  "birth_date": "17.01.1977",
+  "birth_location": "Melbourne, Victoria, Australia",
+  "height": "1.69 m",
+  "filmweb_id": 139001,
+  "name_pl": "Leigh Whannell",
+  "birth_location_pl": "Melbourne",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Australia"
+  ],
+  "wikidata_fw_id": 139001
+}

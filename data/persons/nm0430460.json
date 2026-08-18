@@ -1,0 +1,40 @@
+{
+  "id": "nm0430460",
+  "name": "Victor Jory",
+  "filmography": [
+    {
+      "imdb_id": "tt0031381",
+      "title": "Gone with the Wind",
+      "year": 1939,
+      "roles": [
+        "cast"
+      ],
+      "character": "Jonas Wilkerson, the overseer"
+    },
+    {
+      "imdb_id": "tt0070511",
+      "title": "Papillon",
+      "year": 1973,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Indian Chief"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTU2ODM5NzM4NV5BMl5BanBnXkFtZTcwODc3MjYxOA@@._V1_.jpg",
+  "birth_date": "23.11.1902",
+  "death_date": "12.02.1982",
+  "birth_location": "Dawson City, Yukon Territory, Canada",
+  "height": "1.87 m",
+  "imdb_scraped": true,
+  "filmweb_id": 47615,
+  "name_pl": "Victor Jory",
+  "birth_location_pl": "Dawson City",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Kanada"
+  ],
+  "wikidata_fw_id": 47615
+}

@@ -1,0 +1,29 @@
+{
+  "id": "nm0864403",
+  "name": "Alice Tissot",
+  "filmography": [
+    {
+      "imdb_id": "tt0018523",
+      "title": "The Italian Straw Hat",
+      "year": 1928,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Une cousine"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNmU0OWYxMTEtZTk0MC00MjgzLTkxMWQtMjI2MDcxYTVjNDM2XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "01.01.1890",
+  "death_date": "05.05.1971",
+  "birth_location": "Paris, France",
+  "imdb_scraped": true,
+  "filmweb_id": 109260,
+  "name_pl": "Alice Tissot",
+  "birth_location_pl": "Paryż",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja"
+  ]
+}

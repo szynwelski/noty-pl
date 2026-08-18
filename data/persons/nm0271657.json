@@ -1,0 +1,56 @@
+{
+  "id": "nm0271657",
+  "name": "Tom Felton",
+  "filmography": [
+    {
+      "imdb_id": "tt0295297",
+      "title": "Harry Potter and the Chamber of Secrets",
+      "year": 2002,
+      "roles": [
+        "cast"
+      ],
+      "character": "Draco Malfoy"
+    },
+    {
+      "imdb_id": "tt0330373",
+      "title": "Harry Potter and the Goblet of Fire",
+      "year": 2005,
+      "roles": [
+        "cast"
+      ],
+      "character": "Draco Malfoy"
+    },
+    {
+      "imdb_id": "tt0926084",
+      "title": "Harry Potter and the Deathly Hallows: Part 1",
+      "year": 2010,
+      "roles": [
+        "cast"
+      ],
+      "character": "Draco Malfoy"
+    },
+    {
+      "imdb_id": "tt1318514",
+      "title": "Rise of the Planet of the Apes",
+      "year": 2011,
+      "roles": [
+        "cast"
+      ],
+      "character": "Dodge Landon"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTA2OTgzNTAxOTleQTJeQWpwZ15BbWU4MDY1NDcyNTkx._V1_.jpg",
+  "birth_date": "22.09.1987",
+  "birth_location": "Epsom, Surrey, England, UK",
+  "height": "1.75 m",
+  "filmweb_id": 3882,
+  "name_pl": "Tom Felton",
+  "birth_location_pl": "Epsom, Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 3882
+}

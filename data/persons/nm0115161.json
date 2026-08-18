@@ -1,0 +1,50 @@
+{
+  "id": "nm0115161",
+  "name": "Emily Browning",
+  "filmography": [
+    {
+      "imdb_id": "tt0978764",
+      "title": "Sucker Punch",
+      "year": 2011,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Babydoll"
+    },
+    {
+      "imdb_id": "tt1921064",
+      "title": "Pompeii",
+      "year": 2014,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Cassia"
+    },
+    {
+      "imdb_id": "tt3569230",
+      "title": "Legend",
+      "year": 2015,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Frances Shea"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDA4ZGZhYjAtNGEzMS00NmRlLTk2M2QtNzAzNDg4ZDFkODJmXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "07.12.1988",
+  "birth_location": "Melbourne, Victoria, Australia",
+  "height": "1.57 m",
+  "filmweb_id": 67481,
+  "name_pl": "Emily Browning",
+  "birth_location_pl": "Melbourne",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Australia"
+  ],
+  "wikidata_fw_id": 67481
+}

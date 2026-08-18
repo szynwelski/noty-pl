@@ -1,0 +1,30 @@
+{
+  "id": "nm0000188",
+  "name": "Steve Martin",
+  "filmography": [
+    {
+      "imdb_id": "tt0117608",
+      "title": "Sgt. Bilko",
+      "year": 1996,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Master Sergeant Ernest G. Bilko"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDY0ODYwNDM3OV5BMl5BanBnXkFtZTcwMTc3NjQzMg@@._V1_.jpg",
+  "birth_date": "14.08.1945",
+  "birth_location": "Waco, Texas, USA",
+  "height": "1.82 m",
+  "imdb_scraped": true,
+  "filmweb_id": 265,
+  "name_pl": "Steve Martin",
+  "birth_location_pl": "Waco, Teksas",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 265
+}

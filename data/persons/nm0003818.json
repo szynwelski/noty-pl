@@ -1,0 +1,37 @@
+{
+  "id": "nm0003818",
+  "name": "Nick Brimble",
+  "filmography": [
+    {
+      "imdb_id": "tt0102798",
+      "title": "Robin Hood: Prince of Thieves",
+      "year": 1991,
+      "roles": [
+        "cast"
+      ],
+      "character": "Little John"
+    },
+    {
+      "imdb_id": "tt0183790",
+      "title": "A Knight's Tale",
+      "year": 2001,
+      "roles": [
+        "cast"
+      ],
+      "character": "Sir Ector"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQxNDgwMDI2Nl5BMl5BanBnXkFtZTcwNzYxNTMzMQ@@._V1_.jpg",
+  "birth_date": "22.07.1944",
+  "birth_location": "Bristol, England, UK",
+  "height": "1.93 m",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "filmweb_id": 31607,
+  "name_pl": "Nick Brimble",
+  "birth_location_pl": "Bristol, Anglia",
+  "gender": "M"
+}

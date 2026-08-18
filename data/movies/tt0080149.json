@@ -1,0 +1,190 @@
+{
+  "imdb_id": "tt0080149",
+  "title": "Woyzeck",
+  "description": "Franz Woyzeck is a hapless, hopeless soldier; alone and powerless in society, assaulted from all sides by forces he cannot control.",
+  "runtime_minutes": 82,
+  "release_date": "24.08.1979",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0001428",
+      "name": "Klaus Kinski"
+    },
+    {
+      "id": "nm0559837",
+      "name": "Eva Mattes"
+    },
+    {
+      "id": "nm0717130",
+      "name": "Wolfgang Reichmann"
+    },
+    {
+      "id": "nm0783848",
+      "name": "Willy Semmelrogge"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001348",
+      "name": "Werner Herzog"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0127253",
+      "name": "Georg Büchner"
+    },
+    {
+      "id": "nm0001348",
+      "name": "Werner Herzog"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0001428",
+      "name": "Klaus Kinski",
+      "character": "Friedrich Johann Franz Woyzeck"
+    },
+    {
+      "id": "nm0559837",
+      "name": "Eva Mattes",
+      "character": "Marie"
+    },
+    {
+      "id": "nm0717130",
+      "name": "Wolfgang Reichmann",
+      "character": "Captain"
+    },
+    {
+      "id": "nm0783848",
+      "name": "Willy Semmelrogge",
+      "character": "Doctor"
+    },
+    {
+      "id": "nm0081547",
+      "name": "Josef Bierbichler",
+      "character": "Drum Major"
+    },
+    {
+      "id": "nm0121508",
+      "name": "Paul Burian",
+      "character": "Andres"
+    },
+    {
+      "id": "nm0695711",
+      "name": "Volker Prechtel",
+      "character": "Handwerksbursche"
+    },
+    {
+      "id": "nm0041904",
+      "name": "Dieter Augustin",
+      "character": "Marktschreier"
+    },
+    {
+      "id": "nm0379258",
+      "name": "Irm Hermann",
+      "character": "Margret"
+    },
+    {
+      "id": "nm0126614",
+      "name": "Wolfgang Bächler",
+      "character": "Jew"
+    },
+    {
+      "id": "nm0374397",
+      "name": "Rosemarie Heinikel",
+      "character": "Käthe"
+    },
+    {
+      "id": "nm0299439",
+      "name": "Herbert Fux",
+      "character": "Unteroffizier"
+    },
+    {
+      "id": "nm2498154",
+      "name": "Thomas Mettke",
+      "character": ""
+    },
+    {
+      "id": "nm2497947",
+      "name": "Maria Mettke",
+      "character": ""
+    }
+  ],
+  "countries": [
+    "West Germany"
+  ],
+  "languages": [
+    "German"
+  ],
+  "color": null,
+  "filmweb_id": 31918,
+  "year": 1979,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNjI4ZjAwY2ItMzliOC00NmExLWFhNWMtMGMxZmU4OWU1ODg3XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.9,
+      "votes": 11558,
+      "distribution": {
+        "1": 143,
+        "2": 109,
+        "3": 167,
+        "4": 337,
+        "5": 799,
+        "6": 1858,
+        "7": 3651,
+        "8": 2726,
+        "9": 986,
+        "10": 782
+      },
+      "normalized": 5.3832
+    },
+    "filmweb": {
+      "rating": 7.14,
+      "votes": 2902,
+      "distribution": {
+        "1": 29,
+        "2": 9,
+        "3": 48,
+        "4": 81,
+        "5": 188,
+        "6": 409,
+        "7": 890,
+        "8": 808,
+        "9": 290,
+        "10": 150
+      },
+      "normalized": 5.8035
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "19.10.2005",
+      "normalized": 6.3474
+    },
+    "score": 5.8447
+  },
+  "polish_title": "Woyzeck",
+  "silent": false,
+  "description_pl": "Woyzeck jest prostym żołnierzem usiłującym przetrwać w przerażających realiach koszarowego życia; jest bez przerwy poniżany przez przełożonego oficera i poddawany eksperymentom przez sadystycznego lekarza. Krok po kroku Woyzeck spychany jest w szaleństwo. W końcu omamiony przez własne, chore myśli posuwa się do makabrycznego morderstwa.",
+  "producers": [
+    {
+      "id": "nm0001348",
+      "name": "Werner Herzog"
+    },
+    {
+      "id": "nm0782053",
+      "name": "Willi Segler"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005860",
+      "name": "Jörg Schmidt-Reitwein"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

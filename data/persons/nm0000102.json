@@ -1,0 +1,140 @@
+{
+  "id": "nm0000102",
+  "name": "Kevin Bacon",
+  "filmography": [
+    {
+      "imdb_id": "tt0104257",
+      "title": "A Few Good Men",
+      "year": 1992,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Capt. Jack Ross"
+    },
+    {
+      "imdb_id": "tt0110997",
+      "title": "The River Wild",
+      "year": 1994,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Wade"
+    },
+    {
+      "imdb_id": "tt0112384",
+      "title": "Apollo 13",
+      "year": 1995,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Jack Swigert"
+    },
+    {
+      "imdb_id": "tt0117665",
+      "title": "Sleepers",
+      "year": 1996,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Nokes"
+    },
+    {
+      "imdb_id": "tt0120890",
+      "title": "Wild Things",
+      "year": 1998,
+      "roles": [
+        "star",
+        "cast",
+        "producer"
+      ],
+      "character": "Ray Duquette"
+    },
+    {
+      "imdb_id": "tt0164181",
+      "title": "Stir of Echoes",
+      "year": 1999,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Tom"
+    },
+    {
+      "imdb_id": "tt0164052",
+      "title": "Hollow Man",
+      "year": 2000,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Sebastian Caine"
+    },
+    {
+      "imdb_id": "tt0280380",
+      "title": "Trapped",
+      "year": 2002,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Hickey"
+    },
+    {
+      "imdb_id": "tt0327056",
+      "title": "Mystic River",
+      "year": 2003,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Sean Devine"
+    },
+    {
+      "imdb_id": "tt1570728",
+      "title": "Crazy, Stupid, Love.",
+      "year": 2011,
+      "roles": [
+        "cast"
+      ],
+      "character": "David Lindhagen"
+    },
+    {
+      "imdb_id": "tt1270798",
+      "title": "X-Men: First Class",
+      "year": 2011,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Sebastian Shaw"
+    },
+    {
+      "imdb_id": "tt0790736",
+      "title": "R.I.P.D.",
+      "year": 2013,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Hayes"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOTQxMTEyMjI0NV5BMl5BanBnXkFtZTgwODE4ODAzMjE@._V1_.jpg",
+  "birth_date": "08.07.1958",
+  "birth_location": "Philadelphia, Pennsylvania, USA",
+  "height": "1.78 m",
+  "filmweb_id": 4,
+  "name_pl": "Kevin Bacon",
+  "birth_location_pl": "Filadelfia, Pensylwania",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 4
+}

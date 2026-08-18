@@ -1,0 +1,165 @@
+{
+  "imdb_id": "tt7503738",
+  "title": "Fantasia by Escribà",
+  "description": "Christian Escribà, one of the most creative pastry chefs of the world, has an idea. Create a magic world, Fantasia, where the cakes and the dreams are the leading roles. He wants to make it real in Singapore, a long way from home.",
+  "runtime_minutes": 70,
+  "release_date": "13.10.2017",
+  "genres": [
+    "Documentary"
+  ],
+  "stars": [
+    {
+      "id": "nm1772455",
+      "name": "Ferran Adrià"
+    },
+    {
+      "id": "nm3219314",
+      "name": "Christian Escribà"
+    },
+    {
+      "id": "nm9367799",
+      "name": "Pol Escribà"
+    },
+    {
+      "id": "nm1715484",
+      "name": "Joan Font"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm1453909",
+      "name": "Xavier Atance"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm8887884",
+      "name": "Ferran Padilla"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1772455",
+      "name": "Ferran Adrià",
+      "character": "Self"
+    },
+    {
+      "id": "nm3219314",
+      "name": "Christian Escribà",
+      "character": "Self"
+    },
+    {
+      "id": "nm9367799",
+      "name": "Pol Escribà",
+      "character": "Self"
+    },
+    {
+      "id": "nm1715484",
+      "name": "Joan Font",
+      "character": "Self"
+    },
+    {
+      "id": "nm9367798",
+      "name": "Julio Luzán",
+      "character": "Self"
+    },
+    {
+      "id": "nm8737953",
+      "name": "Xavi Marco",
+      "character": "Self"
+    },
+    {
+      "id": "nm3976999",
+      "name": "Joan Roca",
+      "character": "Self"
+    },
+    {
+      "id": "nm4082427",
+      "name": "Enric Ruiz-Geli",
+      "character": "Self"
+    },
+    {
+      "id": "nm1913664",
+      "name": "Carme Ruscalleda",
+      "character": "Self"
+    },
+    {
+      "id": "nm8737951",
+      "name": "Patricia Schmidt",
+      "character": "Self"
+    },
+    {
+      "id": "nm5446538",
+      "name": "Mariel Soria",
+      "character": "Self"
+    }
+  ],
+  "countries": [
+    "Spain"
+  ],
+  "languages": [
+    "Catalan"
+  ],
+  "color": "Color",
+  "filmweb_id": 792843,
+  "year": 2017,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNGYwZGU0NWItMjIyYy00MTYyLTllMjItODE5OWY4OGYzMDI4XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "votes": 0,
+      "normalized": 5.5
+    },
+    "filmweb": {
+      "rating": 4.17,
+      "votes": 6,
+      "distribution": {
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 2,
+        "6": 1,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 5.0587
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "14.10.2017",
+      "normalized": 4.9718
+    },
+    "score": 5.1768
+  },
+  "polish_title": "Fantazja według Ecriba",
+  "silent": false,
+  "description_pl": "Christian Escribà, jeden z najbardziej szanowanych i kreatywnych mistrzów cukiernictwa na świecie, wpadł na pewien pomysł. A gdyby tak kierując się jedynie niepohamowaną wyobraźnią, stworzyć magiczny świat wyłącznie ze słodkości? Dokument opowiada historię powstania Fantazji - żywego dowodu na to, że nie tylko Willy Wonka zamieniał czekoladowe marzenia w rzeczywistość.",
+  "producers": [
+    {
+      "id": "nm1453909",
+      "name": "Xavier Atance"
+    },
+    {
+      "id": "nm7944520",
+      "name": "Amancia de Aguilera"
+    },
+    {
+      "id": "nm4537723",
+      "name": "Adaia Puig"
+    },
+    {
+      "id": "nm9370315",
+      "name": "Júlia Simó"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm1301180",
+      "name": "Anna Molins"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

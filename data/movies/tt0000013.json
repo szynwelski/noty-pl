@@ -1,0 +1,109 @@
+{
+  "imdb_id": "tt0000013",
+  "title": "The Photographical Congress Arrives in Lyon",
+  "description": "The photographers who need to participate in the congress of Lyon get off a boat in Neuville-sur-Saône, dividing to the right and left.",
+  "runtime_minutes": 1,
+  "release_date": "12.06.1895",
+  "genres": [
+    "Documentary",
+    "Short"
+  ],
+  "stars": [
+    {
+      "id": "nm0525908",
+      "name": "Auguste Lumière"
+    },
+    {
+      "id": "nm1715062",
+      "name": "P.J.C. Janssen"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0525910",
+      "name": "Louis Lumière"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0525908",
+      "name": "Auguste Lumière",
+      "character": "Self"
+    },
+    {
+      "id": "nm1715062",
+      "name": "P.J.C. Janssen",
+      "character": "Self"
+    }
+  ],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 96233,
+  "year": 1895,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTlhNmY1NjktYjMwOC00OTZlLTlhMDAtMTdmMjY0NWI5ZjRmXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Le Débarquement du congrès de photographie à Lyon",
+  "ratings": {
+    "imdb": {
+      "rating": 5.7,
+      "votes": 2162,
+      "distribution": {
+        "1": 69,
+        "2": 60,
+        "3": 75,
+        "4": 183,
+        "5": 525,
+        "6": 625,
+        "7": 319,
+        "8": 132,
+        "9": 54,
+        "10": 120
+      },
+      "normalized": 3.6431
+    },
+    "filmweb": {
+      "rating": 5.12,
+      "votes": 268,
+      "distribution": {
+        "1": 8,
+        "2": 11,
+        "3": 25,
+        "4": 36,
+        "5": 91,
+        "6": 42,
+        "7": 37,
+        "8": 11,
+        "9": 1,
+        "10": 6
+      },
+      "normalized": 3.7004
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "11.12.2016",
+      "normalized": 6.4102
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "21.10.2007",
+      "normalized": 5.4199
+    },
+    "score": 4.7934
+  },
+  "polish_title": "Neuville-sur-Saône: Débarquement du congrès des photographes à Lyon",
+  "silent": true,
+  "description_pl": "Fotografowie schodzą z łodzi, przechodząc przez kładkę. Znajdujemy się w Neuville. W dali widzimy most, rozciągający się nad rzeką. Film ten to kolejne ważne wydarzenie w historii kina. Był on nakręcony i pokazany tego samego dnia.",
+  "cinematographers": [
+    {
+      "id": "nm0525910",
+      "name": "Louis Lumière"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-15"
+}

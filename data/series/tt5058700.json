@@ -1,0 +1,239 @@
+{
+  "imdb_id": "tt5058700",
+  "title": "Black Museum",
+  "description": "A woman enters the Black Museum, where the proprietor tells his stories relating to the artifacts.",
+  "runtime_minutes": 69,
+  "release_date": "29.12.2017",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0388061",
+      "name": "Douglas Hodge"
+    },
+    {
+      "id": "nm4004793",
+      "name": "Letitia Wright"
+    },
+    {
+      "id": "nm0487406",
+      "name": "Daniel Lapaine"
+    },
+    {
+      "id": "nm0388038",
+      "name": "Aldis Hodge"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm1142073",
+      "name": "Colm McCarthy"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0111765",
+      "name": "Charlie Brooker"
+    },
+    {
+      "id": "nm0422710",
+      "name": "Penn Jillette"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0388061",
+      "name": "Douglas Hodge",
+      "character": "Rolo Haynes"
+    },
+    {
+      "id": "nm4004793",
+      "name": "Letitia Wright",
+      "character": "Nish"
+    },
+    {
+      "id": "nm0487406",
+      "name": "Daniel Lapaine",
+      "character": "Dawson"
+    },
+    {
+      "id": "nm0388038",
+      "name": "Aldis Hodge",
+      "character": "Jack"
+    },
+    {
+      "id": "nm3789989",
+      "name": "Alexandra Roach",
+      "character": "Carrie"
+    },
+    {
+      "id": "nm2129802",
+      "name": "Babs Olusanmokun",
+      "character": "Clayton"
+    },
+    {
+      "id": "nm5033806",
+      "name": "Emily Vere Nicoll",
+      "character": "Madge"
+    },
+    {
+      "id": "nm2896901",
+      "name": "Yasha Jackson",
+      "character": "Emily"
+    },
+    {
+      "id": "nm2581729",
+      "name": "Amanda Warren",
+      "character": "Angelica"
+    },
+    {
+      "id": "nm9516064",
+      "name": "Kyros McGee",
+      "character": "Parker"
+    },
+    {
+      "id": "nm8489125",
+      "name": "Raj Paul",
+      "character": "Paramedic"
+    },
+    {
+      "id": "nm4417815",
+      "name": "Jan van der Black",
+      "character": "Homeless Guy"
+    },
+    {
+      "id": "nm7303783",
+      "name": "Daniel Eghan",
+      "character": "Scientist with Tablet"
+    },
+    {
+      "id": "nm6462346",
+      "name": "Stephan Genovese",
+      "character": "Museum Curator"
+    },
+    {
+      "id": "nm1689856",
+      "name": "Sally Guinness",
+      "character": "Black Museum Electrocutioner"
+    },
+    {
+      "id": "nm6445884",
+      "name": "Mark Kempson",
+      "character": "Senator Whitley"
+    },
+    {
+      "id": "nm1897995",
+      "name": "Hilary Kennedy",
+      "character": "Denise Stockley"
+    },
+    {
+      "id": "nm11576565",
+      "name": "Karen Smyth",
+      "character": "Bystander"
+    }
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "year": 2017,
+  "type": "tvEpisode",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDIxNjE0OTcwNF5BMl5BanBnXkFtZTgwMzkyNzgyNDM@._V1_.jpg",
+  "filmweb_id": 640699,
+  "ratings": {
+    "imdb": {
+      "rating": 8.6,
+      "votes": 59346,
+      "distribution": {
+        "1": 508,
+        "2": 180,
+        "3": 220,
+        "4": 327,
+        "5": 763,
+        "6": 1910,
+        "7": 5421,
+        "8": 12578,
+        "9": 19303,
+        "10": 18136
+      }
+    },
+    "filmweb": {
+      "rating": 8.28,
+      "votes": 185948,
+      "distribution": {
+        "1": 673,
+        "2": 314,
+        "3": 805,
+        "4": 893,
+        "5": 2511,
+        "6": 6460,
+        "7": 23908,
+        "8": 64568,
+        "9": 61360,
+        "10": 24456
+      }
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "23.04.2021"
+    }
+  },
+  "polish_title": "Czarne lustro",
+  "silent": false,
+  "description_pl": "\"Czarne lustro\" to antologia nawiązująca do zbiorowego niepokoju, jaki odczuwamy względem współczesnego świata. Każdy odcinek opowiada inną, wyrazistą i trzymającą w napięciu historię, poruszającą temat współczesnej technoparanoi. Mimochodem technologia zmieniła wszystkie aspekty naszego życia. W każdym domu, na każdym biurku i w każdej dłoni można zobaczyć ekran plazmowy, monitor lub smartfon - czarne lustro odbijające codzienność XXI wieku.",
+  "producers": [
+    {
+      "id": "nm0111765",
+      "name": "Charlie Brooker"
+    },
+    {
+      "id": "nm2577809",
+      "name": "Joanne Crowther"
+    },
+    {
+      "id": "nm0003346",
+      "name": "Benjamin Greenacre"
+    },
+    {
+      "id": "nm0991059",
+      "name": "Ian Hogan"
+    },
+    {
+      "id": "nm3117428",
+      "name": "Annabel Jones"
+    },
+    {
+      "id": "nm1938406",
+      "name": "Denis Pedregosa"
+    },
+    {
+      "id": "nm1664396",
+      "name": "Miguel Ruz"
+    },
+    {
+      "id": "nm1552431",
+      "name": "Salvador Yagüe"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm4423632",
+      "name": "Cristobal Tapia de Veer"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm1668320",
+      "name": "Peter Robertson"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

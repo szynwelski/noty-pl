@@ -1,0 +1,54 @@
+{
+  "id": "nm0001129",
+  "name": "Jonathan Demme",
+  "filmography": [
+    {
+      "imdb_id": "tt0102926",
+      "title": "The Silence of the Lambs",
+      "year": 1991,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0107818",
+      "title": "Philadelphia",
+      "year": 1993,
+      "roles": [
+        "director",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0268126",
+      "title": "Adaptation.",
+      "year": 2002,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt2139919",
+      "title": "Gimme the Loot",
+      "year": 2012,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTY1NzY0OTQ0OF5BMl5BanBnXkFtZTcwNDY1Njk5Mg@@._V1_.jpg",
+  "birth_date": "22.02.1944",
+  "death_date": "26.04.2017",
+  "birth_location": "Baldwin, Long Island, New York, USA",
+  "height": "1.78 m",
+  "filmweb_id": 12535,
+  "name_pl": "Jonathan Demme",
+  "birth_location_pl": "Baldwin, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 12535
+}

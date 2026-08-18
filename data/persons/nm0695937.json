@@ -1,0 +1,48 @@
+{
+  "id": "nm0695937",
+  "name": "Otto Preminger",
+  "filmography": [
+    {
+      "imdb_id": "tt0037008",
+      "title": "Laura",
+      "year": 1944,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0046359",
+      "title": "Stalag 17",
+      "year": 1953,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Oberst von Scherbach"
+    },
+    {
+      "imdb_id": "tt0052561",
+      "title": "Anatomy of a Murder",
+      "year": 1959,
+      "roles": [
+        "director"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjBiYjhhMTAtMmFkZS00NDA5LWIzMGEtOTE3M2ViYWNkYWNmXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "05.12.1905",
+  "death_date": "23.04.1986",
+  "birth_location": "Wiznitz, Bukovina, Austria-Hungary [now Vyzhnytsia, Chernivetska oblast, Ukraine]",
+  "height": "1.82 m",
+  "filmweb_id": 42891,
+  "name_pl": "Otto Preminger",
+  "birth_location_pl": "Wyżnica",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone",
+    "Austria"
+  ],
+  "wikidata_fw_id": 42891
+}

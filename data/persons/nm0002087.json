@@ -1,0 +1,38 @@
+{
+  "id": "nm0002087",
+  "name": "Samuel Fuller",
+  "filmography": [
+    {
+      "imdb_id": "tt0075675",
+      "title": "The American Friend",
+      "year": 1977,
+      "roles": [
+        "cast"
+      ],
+      "character": "Der Amerikaner"
+    },
+    {
+      "imdb_id": "tt0085640",
+      "title": "Hammett",
+      "year": 1982,
+      "roles": [
+        "cast"
+      ],
+      "character": "Old Man in Pool Hall"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BM2IyZWQyNWItOTExZi00ZWFmLTk1MWYtMWI4MjI4NjY3ZDBkXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "12.08.1912",
+  "death_date": "30.10.1997",
+  "birth_location": "Worcester, Massachusetts, USA",
+  "height": "1.68 m",
+  "imdb_scraped": true,
+  "filmweb_id": 59216,
+  "name_pl": "Samuel Fuller",
+  "birth_location_pl": "Worcester, Massachusetts",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

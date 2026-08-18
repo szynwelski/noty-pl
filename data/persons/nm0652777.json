@@ -1,0 +1,39 @@
+{
+  "id": "nm0652777",
+  "name": "Grande Otelo",
+  "filmography": [
+    {
+      "imdb_id": "tt0064616",
+      "title": "Macunaima",
+      "year": 1969,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Black Macunaíma"
+    },
+    {
+      "imdb_id": "tt0083946",
+      "title": "Fitzcarraldo",
+      "year": 1982,
+      "roles": [
+        "cast"
+      ],
+      "character": "Station master"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNmYxYTE2NzktYTQ0My00ODNmLTk4NWEtZDIzY2IxYmJhMWVmXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "18.10.1915",
+  "death_date": "26.11.1993",
+  "birth_location": "Uberlândia, Minas Gerais, Brazil",
+  "imdb_scraped": true,
+  "filmweb_id": 50932,
+  "name_pl": "Grande Otelo",
+  "birth_location_pl": "Uberlândia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Brazylia"
+  ],
+  "wikidata_fw_id": 50932
+}

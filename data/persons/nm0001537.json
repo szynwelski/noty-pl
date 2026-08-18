@@ -1,0 +1,52 @@
+{
+  "id": "nm0001537",
+  "name": "Ray Milland",
+  "filmography": [
+    {
+      "imdb_id": "tt0037884",
+      "title": "The Lost Weekend",
+      "year": 1945,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Don Birnam"
+    },
+    {
+      "imdb_id": "tt0046912",
+      "title": "Dial M for Murder",
+      "year": 1954,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Tony Wendice"
+    },
+    {
+      "imdb_id": "tt0066011",
+      "title": "Love Story",
+      "year": 1970,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Oliver Barrett III"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZDk0YmE2N2ItMGJmMC00MTc3LTk5MWQtODE3MDk3YWRiM2Q2XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "03.01.1907",
+  "death_date": "10.03.1986",
+  "birth_location": "Neath, Glamorgan, Wales, UK",
+  "height": "1.86 m",
+  "filmweb_id": 9377,
+  "name_pl": "Ray Milland",
+  "birth_location_pl": "Neath, Walia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone",
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 9377
+}

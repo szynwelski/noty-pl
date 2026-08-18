@@ -1,0 +1,207 @@
+{
+  "imdb_id": "tt0074220",
+  "title": "The Scar",
+  "description": "When a political decision is made as to the location of a new large chemical factory, Stefan Bednarz is put in charge of it. This honest communist party man has to confront the local community opposing the construction.",
+  "runtime_minutes": 106,
+  "release_date": "06.12.1976",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0669813",
+      "name": "Franciszek Pieczka"
+    },
+    {
+      "id": "nm0229415",
+      "name": "Mariusz Dmochowski"
+    },
+    {
+      "id": "nm0836136",
+      "name": "Jerzy Stuhr"
+    },
+    {
+      "id": "nm0804741",
+      "name": "Jan Skotnicki"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001425",
+      "name": "Krzysztof Kieślowski"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0001425",
+      "name": "Krzysztof Kieślowski"
+    },
+    {
+      "id": "nm0438952",
+      "name": "Romuald Karas"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0669813",
+      "name": "Franciszek Pieczka",
+      "character": "Stefan Bednarz"
+    },
+    {
+      "id": "nm0229415",
+      "name": "Mariusz Dmochowski",
+      "character": "Boleslaw"
+    },
+    {
+      "id": "nm0836136",
+      "name": "Jerzy Stuhr",
+      "character": "Jurek"
+    },
+    {
+      "id": "nm0804741",
+      "name": "Jan Skotnicki",
+      "character": "Stanislaw Lech"
+    },
+    {
+      "id": "nm0407010",
+      "name": "Stanislaw Igar",
+      "character": "Minister"
+    },
+    {
+      "id": "nm0584680",
+      "name": "Stanislaw Michalski",
+      "character": "Ministry Employee"
+    },
+    {
+      "id": "nm0850494",
+      "name": "Michal Tarkowski",
+      "character": "Michal Galecki"
+    },
+    {
+      "id": "nm0804955",
+      "name": "Andrzej Skupien",
+      "character": "City Council Member"
+    },
+    {
+      "id": "nm0935089",
+      "name": "Halina Winiarska",
+      "character": "Stefan's Wife"
+    },
+    {
+      "id": "nm0651453",
+      "name": "Joanna Orzeszkowska",
+      "character": "Eva Bednarz"
+    },
+    {
+      "id": "nm0117419",
+      "name": "Jadwiga Bryniarska",
+      "character": ""
+    },
+    {
+      "id": "nm0002140",
+      "name": "Agnieszka Holland",
+      "character": "Hania"
+    },
+    {
+      "id": "nm0504229",
+      "name": "Malgorzata Lesniewska",
+      "character": "Malgosia"
+    },
+    {
+      "id": "nm0483994",
+      "name": "Asja Lamtiugina",
+      "character": "Olecko Resident"
+    },
+    {
+      "id": "nm0045580",
+      "name": "Ryszard Bacciarelli",
+      "character": "Architect"
+    },
+    {
+      "id": "nm1318344",
+      "name": "Franciszek Barfuss",
+      "character": ""
+    },
+    {
+      "id": "nm0252236",
+      "name": "Bohdan Ejmont",
+      "character": "Participant at the Chairman's Meeting"
+    },
+    {
+      "id": "nm0402262",
+      "name": "Henryk Hunko",
+      "character": "Olecko Resident"
+    }
+  ],
+  "countries": [
+    "Poland"
+  ],
+  "languages": [
+    "Polish",
+    "German"
+  ],
+  "color": "Color",
+  "filmweb_id": 4243,
+  "year": 1976,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMWI3M2Q4MWYtZWQ0OC00MzQ1LWE3ZGYtMmM5MTkyOWFlOTg4XkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Blizna",
+  "ratings": {
+    "imdb": {
+      "rating": 6.6,
+      "votes": 2405,
+      "distribution": {
+        "1": 32,
+        "2": 22,
+        "3": 36,
+        "4": 58,
+        "5": 234,
+        "6": 639,
+        "7": 831,
+        "8": 357,
+        "9": 78,
+        "10": 118
+      },
+      "normalized": 4.8207
+    },
+    "filmweb": {
+      "rating": 7.06,
+      "votes": 4238,
+      "distribution": {
+        "1": 38,
+        "2": 7,
+        "3": 37,
+        "4": 75,
+        "5": 271,
+        "6": 765,
+        "7": 1504,
+        "8": 987,
+        "9": 463,
+        "10": 91
+      },
+      "normalized": 5.6933
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "02.03.2007",
+      "normalized": 7.2292
+    },
+    "score": 5.9144
+  },
+  "polish_title": "Blizna",
+  "silent": false,
+  "description_pl": "Po nieuczciwych negocjacjach podjęto decyzję zbudowania wielkiego zakładu przemysłowego w małym miasteczku pośród lasów pomimo tego, że niedaleko znajdują się nieużytki - niestety w innym województwie. Między mieszkańcami miejscowości a robotnikami dochodzi do konfliktów. Budową kieruje dyrektor Bednarz.",
+  "composers": [
+    {
+      "id": "nm0705919",
+      "name": "Stanislaw Radwan"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005744",
+      "name": "Slawomir Idziak"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

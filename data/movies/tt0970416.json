@@ -1,0 +1,228 @@
+{
+  "imdb_id": "tt0970416",
+  "title": "The Day the Earth Stood Still",
+  "description": "A remake of the 1951 classic science fiction film about an alien visitor and his giant robot counterpart who visit Earth.",
+  "runtime_minutes": 104,
+  "release_date": "12.12.2008",
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000206",
+      "name": "Keanu Reeves"
+    },
+    {
+      "id": "nm0000124",
+      "name": "Jennifer Connelly"
+    },
+    {
+      "id": "nm0000870",
+      "name": "Kathy Bates"
+    },
+    {
+      "id": "nm1535523",
+      "name": "Jaden Smith"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0220600",
+      "name": "Scott Derrickson"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0769227",
+      "name": "David Scarpa"
+    },
+    {
+      "id": "nm0636002",
+      "name": "Edmund H. North"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000206",
+      "name": "Keanu Reeves",
+      "character": "Klaatu"
+    },
+    {
+      "id": "nm0000124",
+      "name": "Jennifer Connelly",
+      "character": "Helen Benson"
+    },
+    {
+      "id": "nm0000870",
+      "name": "Kathy Bates",
+      "character": "Regina Jackson"
+    },
+    {
+      "id": "nm1535523",
+      "name": "Jaden Smith",
+      "character": "Jacob Benson"
+    },
+    {
+      "id": "nm0000092",
+      "name": "John Cleese",
+      "character": "Professor Barnhardt"
+    },
+    {
+      "id": "nm0358316",
+      "name": "Jon Hamm",
+      "character": "Michael Granier"
+    },
+    {
+      "id": "nm0151419",
+      "name": "Kyle Chandler",
+      "character": "John Driscoll"
+    },
+    {
+      "id": "nm0460694",
+      "name": "Robert Knepper",
+      "character": "Colonel"
+    },
+    {
+      "id": "nm0393222",
+      "name": "James Hong",
+      "character": "Mr. Wu"
+    },
+    {
+      "id": "nm0745232",
+      "name": "John Rothman",
+      "character": "Dr. Myron"
+    },
+    {
+      "id": "nm1821342",
+      "name": "Sunita Prasad",
+      "character": "Rouhani"
+    },
+    {
+      "id": "nm2017931",
+      "name": "Juan Riedinger",
+      "character": "William Kwan"
+    },
+    {
+      "id": "nm1758973",
+      "name": "Sam Gilroy",
+      "character": "Tom"
+    },
+    {
+      "id": "nm1434853",
+      "name": "Tanya Champoux",
+      "character": "Isabel"
+    },
+    {
+      "id": "nm1113471",
+      "name": "Rukiya Bernard",
+      "character": "Student"
+    },
+    {
+      "id": "nm0235888",
+      "name": "Alisen Richmond-Peck",
+      "character": "Laptop Woman"
+    },
+    {
+      "id": "nm0416404",
+      "name": "David James Lewis",
+      "character": "Plainclothes Agent"
+    },
+    {
+      "id": "nm0011154",
+      "name": "Lloyd Adams",
+      "character": "Agent Driver"
+    }
+  ],
+  "countries": [
+    "United States",
+    "Canada"
+  ],
+  "languages": [
+    "English",
+    "Mandarin"
+  ],
+  "color": null,
+  "filmweb_id": 442004,
+  "year": 2008,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTI5NTg1MzU5Nl5BMl5BanBnXkFtZTcwMDU1ODMwMg@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.5,
+      "votes": 188329,
+      "distribution": {
+        "1": 6445,
+        "2": 6070,
+        "3": 10947,
+        "4": 20991,
+        "5": 41588,
+        "6": 49275,
+        "7": 30196,
+        "8": 12159,
+        "9": 4109,
+        "10": 6549
+      },
+      "normalized": 2.7227
+    },
+    "filmweb": {
+      "rating": 5.73,
+      "votes": 169697,
+      "distribution": {
+        "1": 4189,
+        "2": 4905,
+        "3": 13088,
+        "4": 18007,
+        "5": 32036,
+        "6": 38506,
+        "7": 31772,
+        "8": 16620,
+        "9": 5684,
+        "10": 4890
+      },
+      "normalized": 2.9472
+    },
+    "michal": {
+      "rating": 3,
+      "date_rated": "20.01.2010",
+      "normalized": 3.8753
+    },
+    "score": 3.1817
+  },
+  "polish_title": "Dzień, w którym zatrzymała się Ziemia",
+  "silent": false,
+  "description_pl": "Gdy na Ziemi ląduje statek kosmiczny, ludzkość staje w obliczu pierwszego w historii kontaktu z wysłannikami pozaziemskiej cywilizacji. Czy przybywają oni na naszą planetę z misją pokojową? \r\nNowa wersja jednego z najsłynniejszych filmów fantastyczno naukowych w historii kina, wyreżyserowana przez <a href=\"/osoba/?id=nm0220600\">Scotta Derricksona</a>, twórcy \"Egzorcyzmów Emily Rose\".",
+  "producers": [
+    {
+      "id": "nm0090199",
+      "name": "Paul Harris Boardman"
+    },
+    {
+      "id": "nm0329084",
+      "name": "Gregory Goodman"
+    },
+    {
+      "id": "nm0831098",
+      "name": "Erwin Stoff"
+    },
+    {
+      "id": "nm0870040",
+      "name": "Marvin Towns Jr."
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0061045",
+      "name": "Tyler Bates"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005897",
+      "name": "David Tattersall"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "nm1140292",
+  "name": "Andrzej Sapkowski",
+  "filmography": [
+    {
+      "imdb_id": "tt0300657",
+      "title": "The Hexer",
+      "year": 2001,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt11657662",
+      "title": "The Witcher: Nightmare of the Wolf",
+      "year": 2021,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYzJhNGM1MmYtZTFiYS00ZTk1LWI5ODAtMGVlNjVmZTMxNmRiXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "21.06.1948",
+  "birth_location": "Lódz, Lódzkie, Poland",
+  "imdb_scraped": true,
+  "filmweb_id": 662294,
+  "name_pl": "Andrzej Sapkowski",
+  "birth_location_pl": "Łódź",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Polska"
+  ],
+  "wikidata_fw_id": 662294
+}

@@ -1,0 +1,178 @@
+{
+  "imdb_id": "tt0014108",
+  "title": "The Blizzard",
+  "description": "Gunnar Hede, a young Swedish man, wants to become a professional musician, but when his father suddenly dies he is pressured by his family to take over the family business, raising and selling reindeer. He doesn't like the business and isn't suited for it, but he gives in and takes over. However, when he is badly injured one day in an accident while driving the herd over the frozen Arctic and sustains some serious head trauma, his family fears that he may be permanently mentally damaged and they may lose both Gunnar and the family business.",
+  "runtime_minutes": 101,
+  "release_date": "03.02.1924",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0036967",
+      "name": "Gustav Aronson"
+    },
+    {
+      "id": "nm0073906",
+      "name": "Stina Berg"
+    },
+    {
+      "id": "nm0085021",
+      "name": "Hugo Björne"
+    },
+    {
+      "id": "nm0116309",
+      "name": "Pauline Brunius"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0830249",
+      "name": "Mauritz Stiller"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0481248",
+      "name": "Selma Lagerlöf"
+    },
+    {
+      "id": "nm0830249",
+      "name": "Mauritz Stiller"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0036967",
+      "name": "Gustav Aronson",
+      "character": "Inspektorn"
+    },
+    {
+      "id": "nm0073906",
+      "name": "Stina Berg",
+      "character": "Fru Blomgren"
+    },
+    {
+      "id": "nm0085021",
+      "name": "Hugo Björne",
+      "character": "Brukspatron Hede"
+    },
+    {
+      "id": "nm0116309",
+      "name": "Pauline Brunius",
+      "character": "Fru Hede"
+    },
+    {
+      "id": "nm0160135",
+      "name": "Albert Christiansen",
+      "character": "Gunnar Hede som barn"
+    },
+    {
+      "id": "nm0361249",
+      "name": "Einar Hanson",
+      "character": "Gunnar Hede"
+    },
+    {
+      "id": "nm0384814",
+      "name": "Gösta Hillberg",
+      "character": "Advokat"
+    },
+    {
+      "id": "nm0425770",
+      "name": "Mary Johnson",
+      "character": "Ingrid - Föräldralös flicka"
+    },
+    {
+      "id": "nm0646047",
+      "name": "Adolf Olschansky",
+      "character": "Blomgren - Landsvägsgycklare"
+    },
+    {
+      "id": "nm0833317",
+      "name": "Ingeborg Strandin",
+      "character": "Tjänstekvinna på munkhyttan"
+    },
+    {
+      "id": "nm0959744",
+      "name": "Thecla Åhlander",
+      "character": "Stava"
+    },
+    {
+      "id": "nm0147756",
+      "name": "Julia Cederblad",
+      "character": "Auktionsspekulant (1)"
+    },
+    {
+      "id": "nm0648101",
+      "name": "Lotten Olsson",
+      "character": "Auktionsspekulant (2)"
+    },
+    {
+      "id": "nm0782943",
+      "name": "Concordia Selander",
+      "character": "Auktionsspekulant (3)"
+    }
+  ],
+  "countries": [
+    "Sweden"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 154500,
+  "year": 1923,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzFmMzM0MmUtOWI1MC00ZmMxLWFkZTEtMWM4ZWY3NjIwM2NhXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Gunnar Hedes saga",
+  "ratings": {
+    "imdb": {
+      "rating": 7,
+      "votes": 229,
+      "distribution": {
+        "1": 2,
+        "2": 3,
+        "3": 5,
+        "4": 5,
+        "5": 20,
+        "6": 39,
+        "7": 77,
+        "8": 37,
+        "9": 22,
+        "10": 19
+      },
+      "normalized": 5.3545
+    },
+    "filmweb": {
+      "rating": 6.36,
+      "votes": 50,
+      "distribution": {
+        "2": 0,
+        "3": 1,
+        "4": 2,
+        "5": 9,
+        "6": 12,
+        "7": 21,
+        "8": 3,
+        "9": 1,
+        "10": 1
+      },
+      "normalized": 5.0215
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "16.12.2007",
+      "normalized": 5.4199
+    },
+    "score": 5.2653
+  },
+  "polish_title": "Stary zamek",
+  "silent": true,
+  "composers": [
+    {
+      "id": "nm7377132",
+      "name": "Heimer Alexandersson"
+    }
+  ],
+  "fetched_at": "2026-08-15"
+}

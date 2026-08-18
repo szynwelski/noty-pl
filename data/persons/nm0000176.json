@@ -1,0 +1,50 @@
+{
+  "id": "nm0000176",
+  "name": "Nastassja Kinski",
+  "filmography": [
+    {
+      "imdb_id": "tt0080009",
+      "title": "Tess",
+      "year": 1979,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Tess"
+    },
+    {
+      "imdb_id": "tt0087884",
+      "title": "Paris, Texas",
+      "year": 1984,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Jane Henderson"
+    },
+    {
+      "imdb_id": "tt0111400",
+      "title": "Terminal Velocity",
+      "year": 1994,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Chris Morrow"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTY4MDgzNDU1MV5BMl5BanBnXkFtZTYwMDUzOTg1._V1_.jpg",
+  "birth_date": "24.01.1961",
+  "birth_location": "Berlin, Germany [ex-West Germany]",
+  "height": "1.69 m",
+  "filmweb_id": 5127,
+  "name_pl": "Nastassja Kinski",
+  "birth_location_pl": "Berlin",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Niemcy"
+  ],
+  "wikidata_fw_id": 5127
+}

@@ -1,0 +1,70 @@
+{
+  "id": "nm0001647",
+  "name": "Claude Rains",
+  "filmography": [
+    {
+      "imdb_id": "tt0029843",
+      "title": "The Adventures of Robin Hood",
+      "year": 1938,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Prince John"
+    },
+    {
+      "imdb_id": "tt0031679",
+      "title": "Mr. Smith Goes to Washington",
+      "year": 1939,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Senator Joseph Harrison Paine"
+    },
+    {
+      "imdb_id": "tt0034583",
+      "title": "Casablanca",
+      "year": 1942,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Captain Louis Renault"
+    },
+    {
+      "imdb_id": "tt0038787",
+      "title": "Notorious",
+      "year": 1946,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Alexander Sebastian"
+    },
+    {
+      "imdb_id": "tt0056172",
+      "title": "Lawrence of Arabia",
+      "year": 1962,
+      "roles": [
+        "cast"
+      ],
+      "character": "Mr. Dryden"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQwNDc3NjQ1OF5BMl5BanBnXkFtZTcwMjQ0NjI5Nw@@._V1_.jpg",
+  "birth_date": "10.11.1889",
+  "death_date": "30.05.1967",
+  "birth_location": "Clapham, London, England, UK",
+  "height": "1.68 m",
+  "filmweb_id": 6780,
+  "name_pl": "Claude Rains",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone",
+    "Wielka Brytania"
+  ]
+}

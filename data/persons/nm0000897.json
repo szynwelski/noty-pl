@@ -1,0 +1,49 @@
+{
+  "id": "nm0000897",
+  "name": "Ralph Bellamy",
+  "filmography": [
+    {
+      "imdb_id": "tt0032599",
+      "title": "His Girl Friday",
+      "year": 1940,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Bruce Baldwin"
+    },
+    {
+      "imdb_id": "tt0063522",
+      "title": "Rosemary's Baby",
+      "year": 1968,
+      "roles": [
+        "cast"
+      ],
+      "character": "Dr. Sapirstein"
+    },
+    {
+      "imdb_id": "tt0100405",
+      "title": "Pretty Woman",
+      "year": 1990,
+      "roles": [
+        "cast"
+      ],
+      "character": "James Morse"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTA3NzE3NzI1MjJeQTJeQWpwZ15BbWU3MDYwMTE4OTc@._V1_.jpg",
+  "birth_date": "17.06.1904",
+  "death_date": "29.11.1991",
+  "birth_location": "Chicago, Illinois, USA",
+  "height": "1.85 m",
+  "filmweb_id": 8503,
+  "name_pl": "Ralph Bellamy",
+  "birth_location_pl": "Chicago, Illinois",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 8503
+}

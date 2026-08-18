@@ -1,0 +1,49 @@
+{
+  "id": "nm0642522",
+  "name": "Ed O'Ross",
+  "filmography": [
+    {
+      "imdb_id": "tt0093058",
+      "title": "Full Metal Jacket",
+      "year": 1987,
+      "roles": [
+        "cast"
+      ],
+      "character": "Lt. Touchdown"
+    },
+    {
+      "imdb_id": "tt0095963",
+      "title": "Red Heat",
+      "year": 1988,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Viktor Rostavili"
+    },
+    {
+      "imdb_id": "tt0105698",
+      "title": "Universal Soldier",
+      "year": 1992,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Colonel Perry"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTkxOTkwNDEyNF5BMl5BanBnXkFtZTcwMDc5OTgwMw@@._V1_.jpg",
+  "birth_date": "04.07.1949",
+  "birth_location": "Pittsburgh, Pennsylvania, USA",
+  "height": "1.78 m",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "filmweb_id": 9199,
+  "wikidata_fw_id": 9199,
+  "gender": "M",
+  "name_pl": "Ed O'Ross",
+  "birth_location_pl": "Pittsburgh, Pensylwania"
+}

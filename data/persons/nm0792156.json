@@ -1,0 +1,47 @@
+{
+  "id": "nm0792156",
+  "name": "Dave Sheridan",
+  "filmography": [
+    {
+      "imdb_id": "tt0175142",
+      "title": "Scary Movie",
+      "year": 2000,
+      "roles": [
+        "cast"
+      ],
+      "character": "Doofy"
+    },
+    {
+      "imdb_id": "tt0162346",
+      "title": "Ghost World",
+      "year": 2001,
+      "roles": [
+        "cast"
+      ],
+      "character": "Doug"
+    },
+    {
+      "imdb_id": "tt1034090",
+      "title": "All's Faire in Love",
+      "year": 2009,
+      "roles": [
+        "cast"
+      ],
+      "character": "Jester Roy"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTU5MjQ3Mjc5NV5BMl5BanBnXkFtZTYwNDEwODM3._V1_.jpg",
+  "birth_date": "10.03.1969",
+  "birth_location": "Newark, Delaware, USA",
+  "height": "1.83 m",
+  "filmweb_id": 48102,
+  "name_pl": "Dave Sheridan",
+  "birth_location_pl": "Newark, Delaware",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 48102
+}

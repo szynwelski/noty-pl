@@ -1,0 +1,76 @@
+{
+  "id": "nm0000276",
+  "name": "Sean Astin",
+  "filmography": [
+    {
+      "imdb_id": "tt0120737",
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001,
+      "roles": [
+        "cast"
+      ],
+      "character": "Sam"
+    },
+    {
+      "imdb_id": "tt0167261",
+      "title": "The Lord of the Rings: The Two Towers",
+      "year": 2002,
+      "roles": [
+        "cast"
+      ],
+      "character": "Sam"
+    },
+    {
+      "imdb_id": "tt0167260",
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": 2003,
+      "roles": [
+        "cast"
+      ],
+      "character": "Sam"
+    },
+    {
+      "imdb_id": "tt0343660",
+      "title": "50 First Dates",
+      "year": 2004,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Doug Whitmore"
+    },
+    {
+      "imdb_id": "tt0389860",
+      "title": "Click",
+      "year": 2006,
+      "roles": [
+        "cast"
+      ],
+      "character": "Bill"
+    },
+    {
+      "imdb_id": "tt0840322",
+      "title": "Forever Strong",
+      "year": 2008,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Marcus Tate"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjEzMjczOTQ1NF5BMl5BanBnXkFtZTcwMzI2NzYyMQ@@._V1_.jpg",
+  "birth_date": "25.02.1971",
+  "birth_location": "Santa Monica, California, USA",
+  "height": "1.65 m",
+  "filmweb_id": 6221,
+  "name_pl": "Sean Astin",
+  "birth_location_pl": "Santa Monica, Kalifornia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 6221
+}

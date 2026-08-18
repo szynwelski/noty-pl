@@ -1,0 +1,220 @@
+{
+  "imdb_id": "tt0085334",
+  "title": "A Christmas Story",
+  "description": "In the 1940s, a young boy named Ralphie Parker attempts to convince his parents, teacher, and Santa Claus that a Red Ryder Range 200 Shot BB gun really is the perfect Christmas gift.",
+  "runtime_minutes": 93,
+  "release_date": "18.11.1983",
+  "genres": [
+    "Comedy",
+    "Family"
+  ],
+  "stars": [
+    {
+      "id": "nm0082526",
+      "name": "Peter Billingsley"
+    },
+    {
+      "id": "nm0227039",
+      "name": "Melinda Dillon"
+    },
+    {
+      "id": "nm0569000",
+      "name": "Darren McGavin"
+    },
+    {
+      "id": "nm0777432",
+      "name": "Scott Schwartz"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0163706",
+      "name": "Bob Clark"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0791789",
+      "name": "Jean Shepherd"
+    },
+    {
+      "id": "nm0114080",
+      "name": "Leigh Brown"
+    },
+    {
+      "id": "nm0163706",
+      "name": "Bob Clark"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0082526",
+      "name": "Peter Billingsley",
+      "character": "Ralphie Parker"
+    },
+    {
+      "id": "nm0227039",
+      "name": "Melinda Dillon",
+      "character": "Mother Parker"
+    },
+    {
+      "id": "nm0569000",
+      "name": "Darren McGavin",
+      "character": "The Old Man Parker"
+    },
+    {
+      "id": "nm0777432",
+      "name": "Scott Schwartz",
+      "character": "Flick"
+    },
+    {
+      "id": "nm0791789",
+      "name": "Jean Shepherd",
+      "character": "Ralphie as an Adult"
+    },
+    {
+      "id": "nm0677826",
+      "name": "Ian Petrella",
+      "character": "Randy Parker"
+    },
+    {
+      "id": "nm0601925",
+      "name": "Tedde Moore",
+      "character": "Miss Shields"
+    },
+    {
+      "id": "nm0730222",
+      "name": "RD Robb",
+      "character": "Schwartz"
+    },
+    {
+      "id": "nm0911933",
+      "name": "Zack Ward",
+      "character": "Scut Farkus"
+    },
+    {
+      "id": "nm0025764",
+      "name": "Yano Anaya",
+      "character": "Grover Dill"
+    },
+    {
+      "id": "nm0318832",
+      "name": "Jeff Gillen",
+      "character": "Santa Claus"
+    },
+    {
+      "id": "nm0288929",
+      "name": "Colin Fox",
+      "character": "Ming the Merciless"
+    },
+    {
+      "id": "nm0399214",
+      "name": "Paul Hubbard",
+      "character": "Flash Gordon"
+    },
+    {
+      "id": "nm0137967",
+      "name": "Leslie Carlson",
+      "character": "Christmas Tree Man"
+    },
+    {
+      "id": "nm0402875",
+      "name": "Jim Hunter",
+      "character": "Freight Man"
+    },
+    {
+      "id": "nm0425961",
+      "name": "Patty Johnson",
+      "character": "Head Elf"
+    },
+    {
+      "id": "nm0387765",
+      "name": "Drew Hocevar",
+      "character": "Male Elf"
+    },
+    {
+      "id": "nm0841330",
+      "name": "David Svoboda",
+      "character": "Kid with Goggles"
+    }
+  ],
+  "countries": [
+    "United States",
+    "Canada"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 99680,
+  "year": 1983,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZWZhYzI1YjktYzJjYy00NjIwLWE0MGItNWM4YWM2ZjFkNGM0XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.9,
+      "votes": 179999,
+      "distribution": {
+        "1": 4346,
+        "2": 1573,
+        "3": 2028,
+        "4": 3070,
+        "5": 6349,
+        "6": 13141,
+        "7": 27345,
+        "8": 42801,
+        "9": 30727,
+        "10": 48619
+      },
+      "normalized": 7.2484
+    },
+    "filmweb": {
+      "rating": 6.67,
+      "votes": 1247,
+      "distribution": {
+        "1": 18,
+        "2": 9,
+        "3": 34,
+        "4": 53,
+        "5": 129,
+        "6": 272,
+        "7": 372,
+        "8": 229,
+        "9": 55,
+        "10": 76
+      },
+      "normalized": 4.8444
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "29.12.2015",
+      "normalized": 5.4199
+    },
+    "score": 5.8376
+  },
+  "polish_title": "Prezent pod choinkę",
+  "silent": false,
+  "description_pl": "Ralphie Parker to młody chłopiec, dorastający w latach czterdziestych, którego wielkim marzeniem jest otrzymanie na gwiazdkę karabinka marki Red Rider. Dokłada wszelkich starań, aby zaskarbić sobie sympatię starszych i zasłużyć na prezent. Jednak wciąż spotyka się ze zdecydowanym sprzeciwem ze strony rodziców, nauczyciela, a nawet samego dobrodusznego Świętego Mikołaja.",
+  "producers": [
+    {
+      "id": "nm0163706",
+      "name": "Bob Clark"
+    },
+    {
+      "id": "nm0243340",
+      "name": "René Dupont"
+    },
+    {
+      "id": "nm0323661",
+      "name": "Gary Goch"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005808",
+      "name": "Reginald H. Morris"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

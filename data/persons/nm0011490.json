@@ -1,0 +1,42 @@
+{
+  "id": "nm0011490",
+  "name": "James Adamson",
+  "filmography": [
+    {
+      "imdb_id": "tt0024216",
+      "title": "King Kong",
+      "year": 1933,
+      "roles": [
+        "cast"
+      ],
+      "character": "Native Child"
+    },
+    {
+      "imdb_id": "tt0036775",
+      "title": "Double Indemnity",
+      "year": 1944,
+      "roles": [
+        "cast"
+      ],
+      "character": "Pullman Porter"
+    },
+    {
+      "imdb_id": "tt0044081",
+      "title": "A Streetcar Named Desire",
+      "year": 1951,
+      "roles": [
+        "cast"
+      ],
+      "character": "Extra"
+    }
+  ],
+  "birth_date": "12.06.1896",
+  "death_date": "29.01.1956",
+  "birth_location": "Toledo, Ohio, USA",
+  "filmweb_id": 212213,
+  "name_pl": "James Adamson",
+  "birth_location_pl": "Toledo, Ohio",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true
+}

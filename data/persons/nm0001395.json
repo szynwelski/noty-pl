@@ -1,0 +1,40 @@
+{
+  "id": "nm0001395",
+  "name": "Richard Jaeckel",
+  "filmography": [
+    {
+      "imdb_id": "tt0050086",
+      "title": "3:10 to Yuma",
+      "year": 1957,
+      "roles": [
+        "cast"
+      ],
+      "character": "Charlie Prince"
+    },
+    {
+      "imdb_id": "tt0070518",
+      "title": "Pat Garrett & Billy the Kid",
+      "year": 1973,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Sheriff Kip McKinney"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjEwNDk3OTkxOV5BMl5BanBnXkFtZTcwNjY0MjYwOA@@._V1_.jpg",
+  "birth_date": "10.10.1926",
+  "death_date": "14.06.1997",
+  "birth_location": "Long Beach, Long Island, New York, USA",
+  "height": "1.70 m",
+  "imdb_scraped": true,
+  "filmweb_id": 42033,
+  "name_pl": "Richard Jaeckel",
+  "birth_location_pl": "Long Beach, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 42033
+}

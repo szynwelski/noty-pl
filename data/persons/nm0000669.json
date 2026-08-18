@@ -1,0 +1,65 @@
+{
+  "id": "nm0000669",
+  "name": "Fred Thompson",
+  "filmography": [
+    {
+      "imdb_id": "tt0099371",
+      "title": "Days of Thunder",
+      "year": 1990,
+      "roles": [
+        "cast"
+      ],
+      "character": "Big John"
+    },
+    {
+      "imdb_id": "tt0099423",
+      "title": "Die Hard 2",
+      "year": 1990,
+      "roles": [
+        "cast"
+      ],
+      "character": "Trudeau"
+    },
+    {
+      "imdb_id": "tt0099810",
+      "title": "The Hunt for Red October",
+      "year": 1990,
+      "roles": [
+        "cast"
+      ],
+      "character": "Admiral Painter"
+    },
+    {
+      "imdb_id": "tt0107206",
+      "title": "In the Line of Fire",
+      "year": 1993,
+      "roles": [
+        "cast"
+      ],
+      "character": "Harry Sargent"
+    },
+    {
+      "imdb_id": "tt0109190",
+      "title": "Baby's Day Out",
+      "year": 1994,
+      "roles": [
+        "cast"
+      ],
+      "character": "FBI Agent Dale Grissom"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTgyODM4MDQ2M15BMl5BanBnXkFtZTcwODEyNjQ0Mw@@._V1_.jpg",
+  "birth_date": "19.08.1942",
+  "death_date": "01.11.2015",
+  "birth_location": "Sheffield, Alabama, USA",
+  "height": "1.96 m",
+  "filmweb_id": 8086,
+  "name_pl": "Fred Thompson",
+  "birth_location_pl": "Sheffield, Alabama",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

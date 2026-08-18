@@ -1,0 +1,39 @@
+{
+  "id": "nm0528331",
+  "name": "Jane Lynch",
+  "filmography": [
+    {
+      "imdb_id": "tt0405422",
+      "title": "The 40-Year-Old Virgin",
+      "year": 2005,
+      "roles": [
+        "cast"
+      ],
+      "character": "Paula"
+    },
+    {
+      "imdb_id": "tt1327801",
+      "title": "Glee",
+      "year": 2009,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Sue Sylvester"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTk4MDcwOTA1M15BMl5BanBnXkFtZTcwNTQ2Njg0Mw@@._V1_.jpg",
+  "birth_date": "14.07.1960",
+  "birth_location": "Dolton, Illinois, USA",
+  "height": "1.83 m",
+  "imdb_scraped": true,
+  "filmweb_id": 42857,
+  "name_pl": "Jane Lynch",
+  "birth_location_pl": "Dolton, Illinois",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 42857
+}

@@ -1,0 +1,39 @@
+{
+  "id": "nm0000782",
+  "name": "Asia Argento",
+  "filmography": [
+    {
+      "imdb_id": "tt0295701",
+      "title": "xXx",
+      "year": 2002,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Yelena"
+    },
+    {
+      "imdb_id": "tt0422720",
+      "title": "Marie Antoinette",
+      "year": 2006,
+      "roles": [
+        "cast"
+      ],
+      "character": "Comtesse du Barry"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTk0MzkyNzY2NF5BMl5BanBnXkFtZTcwMjkwMDg2Ng@@._V1_.jpg",
+  "birth_date": "20.09.1975",
+  "birth_location": "Rome, Lazio, Italy",
+  "height": "1.68 m",
+  "imdb_scraped": true,
+  "filmweb_id": 57154,
+  "name_pl": "Asia Argento",
+  "birth_location_pl": "Rzym",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Włochy"
+  ],
+  "wikidata_fw_id": 57154
+}

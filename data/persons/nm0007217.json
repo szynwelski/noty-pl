@@ -1,0 +1,41 @@
+{
+  "id": "nm0007217",
+  "name": "Jack Carson",
+  "filmography": [
+    {
+      "imdb_id": "tt0036613",
+      "title": "Arsenic and Old Lace",
+      "year": 1944,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "O'Hara"
+    },
+    {
+      "imdb_id": "tt0051459",
+      "title": "Cat on a Hot Tin Roof",
+      "year": 1958,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Gooper Pollitt"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOGI5ZDBmMGUtMmZhNi00NzhhLWIyMDAtMWYwMDcwNDE5YWUwXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "27.10.1910",
+  "death_date": "02.01.1963",
+  "birth_location": "Carman, Manitoba, Canada",
+  "height": "1.91 m",
+  "imdb_scraped": true,
+  "filmweb_id": 42504,
+  "name_pl": "Jack Carson",
+  "birth_location_pl": "Carman",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Kanada"
+  ],
+  "wikidata_fw_id": 42504
+}

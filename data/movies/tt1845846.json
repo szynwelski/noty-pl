@@ -1,0 +1,237 @@
+{
+  "imdb_id": "tt1845846",
+  "title": "Operación E",
+  "description": "A thriller centered on a family taken hostage by the Revolutionary Armed Forces of Colombia.",
+  "runtime_minutes": 109,
+  "release_date": "28.11.2012",
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0869088",
+      "name": "Luis Tosar"
+    },
+    {
+      "id": "nm0996197",
+      "name": "Antonio Ferreira"
+    },
+    {
+      "id": "nm5112823",
+      "name": "Eileen Moreno"
+    },
+    {
+      "id": "nm3198055",
+      "name": "Francisco Pérez"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0183984",
+      "name": "Miguel Courtois"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1509740",
+      "name": "Antonio Onetti"
+    },
+    {
+      "id": "nm0183984",
+      "name": "Miguel Courtois"
+    },
+    {
+      "id": "nm0954437",
+      "name": "Ariel Zeitoun"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0869088",
+      "name": "Luis Tosar",
+      "character": "Crisanto"
+    },
+    {
+      "id": "nm0996197",
+      "name": "Antonio Ferreira",
+      "character": "Wilson"
+    },
+    {
+      "id": "nm5112823",
+      "name": "Eileen Moreno",
+      "character": "Solangie"
+    },
+    {
+      "id": "nm3198055",
+      "name": "Francisco Pérez",
+      "character": "Jerónimo"
+    },
+    {
+      "id": "nm6253155",
+      "name": "Albeiro Peñaloza",
+      "character": "Asdrúbal"
+    },
+    {
+      "id": "nm0306357",
+      "name": "Martina Garcia",
+      "character": "Liliana"
+    },
+    {
+      "id": "nm1246529",
+      "name": "Gilberto Ramirez",
+      "character": "Don Ramoncito"
+    },
+    {
+      "id": "nm4907635",
+      "name": "Luis Zumárraga",
+      "character": "Cadáver Flotante"
+    },
+    {
+      "id": "nm6253156",
+      "name": "Yusmadis Redondo",
+      "character": "Guerrillera Lina"
+    },
+    {
+      "id": "nm6253157",
+      "name": "Angelique Nocentini",
+      "character": "Guerrillera Frente 1º"
+    },
+    {
+      "id": "nm6253158",
+      "name": "Julia Courtois",
+      "character": "Guerrillera Guitarrista"
+    },
+    {
+      "id": "nm6253159",
+      "name": "Lou Cortois",
+      "character": "Guerrillera Niña"
+    },
+    {
+      "id": "nm5086628",
+      "name": "Rodolfo Silva",
+      "character": "Comandante Álvaro"
+    },
+    {
+      "id": "nm6253160",
+      "name": "Robinson Ortiz",
+      "character": "Guerrillero Lancha"
+    },
+    {
+      "id": "nm0180774",
+      "name": "Jaime Correa",
+      "character": "Guerrillero Maestro"
+    },
+    {
+      "id": "nm5991802",
+      "name": "Francisco Godoy",
+      "character": "Guerrillero 1"
+    },
+    {
+      "id": "nm6253161",
+      "name": "Francisco Moyano",
+      "character": "Guerrillero 2"
+    },
+    {
+      "id": "nm2973815",
+      "name": "Irma Correa",
+      "character": "Recepcionista Centro Salud"
+    }
+  ],
+  "countries": [
+    "France",
+    "Spain"
+  ],
+  "languages": [
+    "Spanish"
+  ],
+  "color": "Color",
+  "filmweb_id": 627600,
+  "year": 2012,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDQ4NTNkYzktZmEwZC00MTkwLWI5ZDUtNDgwZjA4YWM0N2FmXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.4,
+      "votes": 653,
+      "distribution": {
+        "1": 15,
+        "2": 6,
+        "3": 16,
+        "4": 25,
+        "5": 71,
+        "6": 181,
+        "7": 170,
+        "8": 90,
+        "9": 28,
+        "10": 51
+      },
+      "normalized": 4.8231
+    },
+    "filmweb": {
+      "rating": 6.33,
+      "votes": 636,
+      "distribution": {
+        "1": 4,
+        "2": 3,
+        "3": 11,
+        "4": 33,
+        "5": 88,
+        "6": 202,
+        "7": 196,
+        "8": 77,
+        "9": 12,
+        "10": 10
+      },
+      "normalized": 4.3844
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "15.02.2013",
+      "normalized": 7.1247
+    },
+    "score": 5.4441
+  },
+  "polish_title": "Operacja E",
+  "silent": false,
+  "description_pl": "Crisanto to biedny farmer uprawiający kokę, który mieszka z rodziną w kolumbijskiej dżungli w regionie Guaviare - terenie kontrolowanym przez Fuerzas Armadas Revolucionarias de Colombia (FARC). Grupa partyzantów przywozi do nich konającego chłopca rozkazując zaopiekować się nim i wyleczyć. By ratować życie chłopca i rodziny, Crisanto jest zmuszony uciekać wraz z bliskimi.",
+  "producers": [
+    {
+      "id": "nm4563543",
+      "name": "Marisa Castelo"
+    },
+    {
+      "id": "nm1766942",
+      "name": "Farruco Castromán"
+    },
+    {
+      "id": "nm4100102",
+      "name": "Juan Pablo Tamayo"
+    },
+    {
+      "id": "nm0869088",
+      "name": "Luis Tosar"
+    },
+    {
+      "id": "nm0954437",
+      "name": "Ariel Zeitoun"
+    },
+    {
+      "id": "nm0958660",
+      "name": "Cristina Zumárraga"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm4763826",
+      "name": "Thierry Westermeyer"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0408453",
+      "name": "Josu Inchaustegui"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

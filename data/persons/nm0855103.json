@@ -1,0 +1,47 @@
+{
+  "id": "nm0855103",
+  "name": "Jon Tenney",
+  "filmography": [
+    {
+      "imdb_id": "tt0108358",
+      "title": "Tombstone",
+      "year": 1993,
+      "roles": [
+        "cast"
+      ],
+      "character": "Behan"
+    },
+    {
+      "imdb_id": "tt1133985",
+      "title": "Green Lantern",
+      "year": 2011,
+      "roles": [
+        "cast"
+      ],
+      "character": "Martin Jordan"
+    },
+    {
+      "imdb_id": "tt1906329",
+      "title": "As Cool as I Am",
+      "year": 2013,
+      "roles": [
+        "cast"
+      ],
+      "character": "Bob"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjAxNzAwNzYwNF5BMl5BanBnXkFtZTcwNTU3NTIxNw@@._V1_.jpg",
+  "birth_date": "16.12.1961",
+  "birth_location": "Princeton, New Jersey, USA",
+  "height": "1.85 m",
+  "filmweb_id": 41621,
+  "name_pl": "Jon Tenney",
+  "birth_location_pl": "Princeton, New Jersey",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 41621
+}

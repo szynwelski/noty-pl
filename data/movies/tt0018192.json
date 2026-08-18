@@ -1,0 +1,209 @@
+{
+  "imdb_id": "tt0018192",
+  "title": "Napoleon",
+  "description": "A film about the French general's youth and early military career.",
+  "runtime_minutes": 330,
+  "release_date": "17.02.1929",
+  "genres": [
+    "Biography",
+    "Drama",
+    "History",
+    "War"
+  ],
+  "stars": [
+    {
+      "id": "nm0226387",
+      "name": "Albert Dieudonné"
+    },
+    {
+      "id": "nm0745565",
+      "name": "Nicolas Roudenko"
+    },
+    {
+      "id": "nm0885965",
+      "name": "Edmond Van Daële"
+    },
+    {
+      "id": "nm0467916",
+      "name": "Alexandre Koubitzky"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0304098",
+      "name": "Abel Gance"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0304098",
+      "name": "Abel Gance"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0226387",
+      "name": "Albert Dieudonné",
+      "character": "Napoléon Bonaparte"
+    },
+    {
+      "id": "nm0745565",
+      "name": "Nicolas Roudenko",
+      "character": "Napoléon Bonaparte enfant"
+    },
+    {
+      "id": "nm0885965",
+      "name": "Edmond Van Daële",
+      "character": "Maximilien Robespierre"
+    },
+    {
+      "id": "nm0467916",
+      "name": "Alexandre Koubitzky",
+      "character": "Georges-Jacques Danton"
+    },
+    {
+      "id": "nm0037625",
+      "name": "Antonin Artaud",
+      "character": "Jean-Paul Marat"
+    },
+    {
+      "id": "nm0304098",
+      "name": "Abel Gance",
+      "character": "Louis Saint-Just"
+    },
+    {
+      "id": "nm0544539",
+      "name": "Gina Manès",
+      "character": "Joséphine de Beauharnais"
+    },
+    {
+      "id": "nm0080572",
+      "name": "Suzanne Bianchetti",
+      "character": "La reine Marie-Antoinette"
+    },
+    {
+      "id": "nm0304101",
+      "name": "Marguerite Gance",
+      "character": "Charlotte Corday"
+    },
+    {
+      "id": "nm0226393",
+      "name": "Yvette Dieudonné",
+      "character": "Élisa Bonaparte"
+    },
+    {
+      "id": "nm0405742",
+      "name": "Philippe Hériat",
+      "character": "Antonio Salicetti"
+    },
+    {
+      "id": "nm0060715",
+      "name": "Pierre Batcheff",
+      "character": "Le général Lazare Hoche"
+    },
+    {
+      "id": "nm0119360",
+      "name": "Eugénie Buffet",
+      "character": "Laetizia Bonaparte"
+    },
+    {
+      "id": "nm0149788",
+      "name": "Acho Chakatouny",
+      "character": "Pozzo di Borgo"
+    },
+    {
+      "id": "nm0464100",
+      "name": "Nicolas Koline",
+      "character": "Tristan Fleuri"
+    },
+    {
+      "id": "nm0561637",
+      "name": "Max Maxudian",
+      "character": "Barras"
+    },
+    {
+      "id": "nm0030246",
+      "name": "Annabella",
+      "character": "Violine Fleuri et Désirée Clary"
+    },
+    {
+      "id": "nm0061682",
+      "name": "Henri Baudin",
+      "character": "Santo-Ricci - le berger corse"
+    }
+  ],
+  "countries": [
+    "France",
+    "Germany"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "year": 1927,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTM4YWFmOWMtZGRhMy00NWU4LTg5MzQtMzdlMjA0OTRiMTkyXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 106977,
+  "original_title": "Napoléon vu par Abel Gance",
+  "ratings": {
+    "imdb": {
+      "rating": 8.2,
+      "votes": 9842,
+      "distribution": {
+        "1": 894,
+        "2": 89,
+        "3": 84,
+        "4": 145,
+        "5": 302,
+        "6": 628,
+        "7": 1279,
+        "8": 2082,
+        "9": 1649,
+        "10": 2690
+      },
+      "normalized": 7.6387
+    },
+    "filmweb": {
+      "rating": 7.37,
+      "votes": 504,
+      "distribution": {
+        "1": 2,
+        "2": 3,
+        "3": 9,
+        "4": 19,
+        "5": 24,
+        "6": 88,
+        "7": 106,
+        "8": 129,
+        "9": 61,
+        "10": 63
+      },
+      "normalized": 5.7915
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "19.10.2005",
+      "normalized": 5.4199
+    },
+    "score": 6.2834
+  },
+  "polish_title": "Napoleon",
+  "silent": true,
+  "description_pl": "Monumentalny, blisko sześciogodzinny obraz śledzi karierę Napoleona Bonaparte od jego dzieciństwa, poprzez ucieczkę z Korsyki, okres Rewolucji Francuskiej aż po wkroczenie do Włoch w 1797 roku. Film miał być w pierwotnych założeniach serialem, ale reżyser <a href=\"/osoba/?id=nm0304098\">Abel Gance</a> nie był w stanie znaleźć środków na realizację kolejnych odcinków. Film stał się legendarny głównie dzięki szerokiej gamie przełomowych jak na tamte czasy technik filmowania użytych przez reżysera.",
+  "producers": [
+    {
+      "id": "nm8230167",
+      "name": "Henri de Cazotte"
+    },
+    {
+      "id": "nm8230165",
+      "name": "Hugo Stinnes"
+    },
+    {
+      "id": "nm1818503",
+      "name": "Wladimir Wengeroff"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-15"
+}

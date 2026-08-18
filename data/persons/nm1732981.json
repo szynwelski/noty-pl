@@ -1,0 +1,48 @@
+{
+  "id": "nm1732981",
+  "name": "Martin McDonagh",
+  "filmography": [
+    {
+      "imdb_id": "tt0425458",
+      "title": "Six Shooter",
+      "year": 2004,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0780536",
+      "title": "In Bruges",
+      "year": 2008,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt5027774",
+      "title": "Three Billboards Outside Ebbing, Missouri",
+      "year": 2017,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTgxMTQ2Njc5NF5BMl5BanBnXkFtZTcwMDU2Mzc1MQ@@._V1_.jpg",
+  "birth_date": "26.03.1970",
+  "birth_location": "Camberwell, London, England, UK",
+  "height": "1.85 m",
+  "filmweb_id": 279782,
+  "name_pl": "Martin McDonagh",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Irlandia",
+    "Wielka Brytania"
+  ]
+}

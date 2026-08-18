@@ -1,0 +1,177 @@
+{
+  "imdb_id": "tt0042876",
+  "title": "Rashomon",
+  "description": "Three parties and a witness have four versions of a rape/murder in ninth-century Japan.",
+  "runtime_minutes": 88,
+  "release_date": "26.12.1951",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "stars": [
+    {
+      "id": "nm0001536",
+      "name": "Toshirō Mifune"
+    },
+    {
+      "id": "nm0477553",
+      "name": "Machiko Kyô"
+    },
+    {
+      "id": "nm0605270",
+      "name": "Masayuki Mori"
+    },
+    {
+      "id": "nm0793766",
+      "name": "Takashi Shimura"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000041",
+      "name": "Akira Kurosawa"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0015611",
+      "name": "Ryûnosuke Akutagawa"
+    },
+    {
+      "id": "nm0000041",
+      "name": "Akira Kurosawa"
+    },
+    {
+      "id": "nm0368074",
+      "name": "Shinobu Hashimoto"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0001536",
+      "name": "Toshirō Mifune",
+      "character": "Tajômaru"
+    },
+    {
+      "id": "nm0477553",
+      "name": "Machiko Kyô",
+      "character": "Masako Kanazawa"
+    },
+    {
+      "id": "nm0605270",
+      "name": "Masayuki Mori",
+      "character": "Takehiro Kanazawa"
+    },
+    {
+      "id": "nm0793766",
+      "name": "Takashi Shimura",
+      "character": "Woodcutter"
+    },
+    {
+      "id": "nm0156928",
+      "name": "Minoru Chiaki",
+      "character": "Priest"
+    },
+    {
+      "id": "nm0879918",
+      "name": "Kichijirō Ueda",
+      "character": "Commoner"
+    },
+    {
+      "id": "nm0393352",
+      "name": "Noriko Honma",
+      "character": "Medium"
+    },
+    {
+      "id": "nm0441961",
+      "name": "Daisuke Katō",
+      "character": "Policeman"
+    }
+  ],
+  "countries": [
+    "Japan"
+  ],
+  "languages": [
+    "Japanese"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 31438,
+  "year": 1950,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZDlkYjViMDAtYjkxNy00ZDk1LWE5MmUtNDc4NDU3ZWJmOTYzXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Rashômon",
+  "ratings": {
+    "imdb": {
+      "rating": 8.1,
+      "votes": 198160,
+      "distribution": {
+        "1": 3930,
+        "2": 1278,
+        "3": 1522,
+        "4": 2726,
+        "5": 5605,
+        "6": 11412,
+        "7": 30250,
+        "8": 54124,
+        "9": 45033,
+        "10": 42280
+      },
+      "normalized": 7.7254
+    },
+    "filmweb": {
+      "rating": 7.9,
+      "votes": 26230,
+      "distribution": {
+        "1": 312,
+        "2": 78,
+        "3": 218,
+        "4": 289,
+        "5": 745,
+        "6": 1626,
+        "7": 5026,
+        "8": 8713,
+        "9": 5718,
+        "10": 3505
+      },
+      "normalized": 8.0437
+    },
+    "jarek": {
+      "rating": 8,
+      "date_rated": "02.12.2005",
+      "normalized": 7.8989
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "19.10.2005",
+      "normalized": 7.2292
+    },
+    "score": 7.7243
+  },
+  "polish_title": "Rashomon",
+  "silent": false,
+  "description_pl": "Akcja rozgrywa się w średniowiecznej Japonii i dotyczy jednego wydarzenia. Podróżujący wraz ze swoją żoną samuraj zostaje napadnięty w lesie przez bandytę (<a href=\"/osoba/?id=nm0001536\">Toshirô Mifune</a>). Nieszczęśnik zostaje zabity, natomiast jego żona zgwałcona. \nFilm ukazuje kolejno cztery wersje wydarzenia, widziane przez bezpośrednich uczestników i naocznego świadka - drwala. Każda z osób ma odmienne przeżycia, co odnosi się do myśli przewodniej, że prawda jest względna. Obraz usiłuje zgłębić motywy popychające ludzi do konkretnego działania.",
+  "producers": [
+    {
+      "id": "nm0423122",
+      "name": "Minoru Jingo"
+    },
+    {
+      "id": "nm0619211",
+      "name": "Masaichi Nagata"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0370593",
+      "name": "Fumio Hayasaka"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0594335",
+      "name": "Kazuo Miyagawa"
+    }
+  ],
+  "fetched_at": "2026-08-15"
+}

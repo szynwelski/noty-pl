@@ -1,0 +1,46 @@
+{
+  "id": "nm0823155",
+  "name": "Don Stark",
+  "filmography": [
+    {
+      "imdb_id": "tt0091738",
+      "title": "Peggy Sue Got Married",
+      "year": 1986,
+      "roles": [
+        "cast"
+      ],
+      "character": "Doug Snell"
+    },
+    {
+      "imdb_id": "tt0165598",
+      "title": "That '70s Show",
+      "year": 1998,
+      "roles": [
+        "cast"
+      ],
+      "character": "Bob Pinciotti"
+    },
+    {
+      "imdb_id": "tt6966692",
+      "title": "Green Book",
+      "year": 2018,
+      "roles": [
+        "cast"
+      ],
+      "character": "Jules Podell"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQwNTQxODA2M15BMl5BanBnXkFtZTYwMDk3OTI3._V1_.jpg",
+  "birth_date": "05.07.1954",
+  "birth_location": "New York City, New York, USA",
+  "filmweb_id": 49000,
+  "name_pl": "Don Stark",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 49000
+}

@@ -1,0 +1,199 @@
+{
+  "imdb_id": "tt1510906",
+  "title": "Third Star",
+  "description": "James and his three closest lifelong friends go on an ill-advised trip to the stunning coastal area of Barafundle Bay in West Wales. What follows is a touching and comical adventure dealing with friendship, heroism and love.",
+  "runtime_minutes": 92,
+  "release_date": "25.06.2011",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0121895",
+      "name": "Tom Burke"
+    },
+    {
+      "id": "nm1212722",
+      "name": "Benedict Cumberbatch"
+    },
+    {
+      "id": "nm0270625",
+      "name": "JJ Feild"
+    },
+    {
+      "id": "nm0731704",
+      "name": "Adam Robertson"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm1463009",
+      "name": "Hattie Dalton"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0803366",
+      "name": "Vaughan Sivell"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0121895",
+      "name": "Tom Burke",
+      "character": "Davy"
+    },
+    {
+      "id": "nm1212722",
+      "name": "Benedict Cumberbatch",
+      "character": "James"
+    },
+    {
+      "id": "nm0270625",
+      "name": "JJ Feild",
+      "character": "Miles"
+    },
+    {
+      "id": "nm0731704",
+      "name": "Adam Robertson",
+      "character": "Bill"
+    },
+    {
+      "id": "nm0095017",
+      "name": "Hugh Bonneville",
+      "character": "Beachcomber"
+    },
+    {
+      "id": "nm0292538",
+      "name": "Rupert Frazer",
+      "character": "Mr."
+    },
+    {
+      "id": "nm0341211",
+      "name": "Helen Griffin",
+      "character": "Mrs."
+    },
+    {
+      "id": "nm0425490",
+      "name": "Karl Johnson",
+      "character": "Ticket Seller"
+    },
+    {
+      "id": "nm0731457",
+      "name": "Nia Roberts",
+      "character": "Chloe"
+    },
+    {
+      "id": "nm2869309",
+      "name": "Eros V",
+      "character": "Angel Boy"
+    }
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 579022,
+  "year": 2010,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BY2Q5YjAyMGQtYTRkZi00M2Y3LWEwYTQtYjZmZjM4ZDNjZWUzXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.2,
+      "votes": 7807,
+      "distribution": {
+        "1": 136,
+        "2": 46,
+        "3": 71,
+        "4": 144,
+        "5": 348,
+        "6": 798,
+        "7": 1700,
+        "8": 1870,
+        "9": 1053,
+        "10": 1641
+      },
+      "normalized": 5.8424
+    },
+    "filmweb": {
+      "rating": 7.42,
+      "votes": 4430,
+      "distribution": {
+        "1": 35,
+        "2": 11,
+        "3": 61,
+        "4": 73,
+        "5": 230,
+        "6": 516,
+        "7": 1148,
+        "8": 1465,
+        "9": 583,
+        "10": 308
+      },
+      "normalized": 6.388
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "25.10.2010",
+      "normalized": 5.6855
+    },
+    "score": 5.972
+  },
+  "polish_title": "Trzecia gwiazda",
+  "silent": false,
+  "description_pl": "James zaprasza trójkę najbliższych przyjaciół, by wybrali się z nim w podróż. Chłopak jest śmiertelnie chory. On i przyjaciele wiedzą, że ta podróż jest ich ostatnią wspólną wyprawą. W głównych rolach czterech doskonałych młodych aktorów brytyjskich, a w ścieżce dźwiękowej śpiewa Pati Yang.",
+  "producers": [
+    {
+      "id": "nm1841113",
+      "name": "Kelly Broad"
+    },
+    {
+      "id": "nm0488342",
+      "name": "Pauline Burt"
+    },
+    {
+      "id": "nm1640328",
+      "name": "Kate Crowther"
+    },
+    {
+      "id": "nm0197383",
+      "name": "Kate Dain"
+    },
+    {
+      "id": "nm0558563",
+      "name": "Margaret Matheson"
+    },
+    {
+      "id": "nm0731704",
+      "name": "Adam Robertson"
+    },
+    {
+      "id": "nm0803366",
+      "name": "Vaughan Sivell"
+    },
+    {
+      "id": "nm0859302",
+      "name": "Nigel Thomas"
+    },
+    {
+      "id": "nm2088673",
+      "name": "Charlotte Walls"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0385311",
+      "name": "Stephen Hilton"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm1592733",
+      "name": "Carlos Catalán"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

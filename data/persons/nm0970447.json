@@ -1,0 +1,47 @@
+{
+  "id": "nm0970447",
+  "name": "Conrad Vernon",
+  "filmography": [
+    {
+      "imdb_id": "tt0126029",
+      "title": "Shrek",
+      "year": 2001,
+      "roles": [
+        "cast"
+      ],
+      "character": "Gingerbread Man"
+    },
+    {
+      "imdb_id": "tt0298148",
+      "title": "Shrek 2",
+      "year": 2004,
+      "roles": [
+        "director",
+        "cast"
+      ],
+      "character": "Gingerbread Man"
+    },
+    {
+      "imdb_id": "tt1911658",
+      "title": "Penguins of Madagascar",
+      "year": 2014,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Rico"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODAzYmJjNzAtNjllYi00ODkzLWFkMTEtZTAwZWJhZDAzODgwXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "11.07.1968",
+  "birth_location": "Lubbock, Texas, USA",
+  "filmweb_id": 136039,
+  "name_pl": "Conrad Vernon",
+  "birth_location_pl": "Lubbock, Teksas",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

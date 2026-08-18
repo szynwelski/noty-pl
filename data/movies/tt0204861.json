@@ -1,0 +1,100 @@
+{
+  "imdb_id": "tt0204861",
+  "title": "Childish Quarrel",
+  "description": "\"Two babies are shown seated in high chairs and apparently enjoying themselves. Suddenly one snatches a toy from the other, and they indulge in hair-pulling.\"",
+  "runtime_minutes": 1,
+  "release_date": "07.03.1896",
+  "genres": [
+    "Documentary",
+    "Short"
+  ],
+  "stars": [
+    {
+      "id": "nm2350838",
+      "name": "Andrée Lumière"
+    },
+    {
+      "id": "nm9653419",
+      "name": "Suzanne Lumière"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0525910",
+      "name": "Louis Lumière"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm2350838",
+      "name": "Andrée Lumière",
+      "character": "Self - The Baby Seated on the Right"
+    },
+    {
+      "id": "nm9653419",
+      "name": "Suzanne Lumière",
+      "character": "Self - The Baby Seated on the Left"
+    }
+  ],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 284707,
+  "year": 1896,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BM2RlZDcxNWItNDM5My00OWI2LTkxN2UtYTQ3YTc4MmU2ODFlXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Querelle enfantine",
+  "ratings": {
+    "imdb": {
+      "rating": 5.9,
+      "votes": 1041,
+      "distribution": {
+        "1": 38,
+        "2": 31,
+        "3": 49,
+        "4": 86,
+        "5": 188,
+        "6": 323,
+        "7": 173,
+        "8": 87,
+        "9": 31,
+        "10": 35
+      },
+      "normalized": 4.2299
+    },
+    "filmweb": {
+      "rating": 5.77,
+      "votes": 147,
+      "distribution": {
+        "1": 2,
+        "2": 2,
+        "3": 8,
+        "4": 15,
+        "5": 42,
+        "6": 38,
+        "7": 15,
+        "8": 15,
+        "9": 5,
+        "10": 5
+      },
+      "normalized": 4.4418
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "11.12.2016",
+      "normalized": 5.6855
+    },
+    "score": 4.7857
+  },
+  "polish_title": "Querelle enfantine",
+  "silent": true,
+  "description_pl": "Tuż obok siebie siedzi dwójka dzieci. Przed nimi stoi taca, na której są zabawki. Jedno z dzieci sięgnąwszy po zabawkę zaczyna uderzać drugie. Nie przestaje nawet, gdy pokrzywdzony zaczyna płakać.",
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-16"
+}

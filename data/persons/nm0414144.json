@@ -1,0 +1,35 @@
+{
+  "id": "nm0414144",
+  "name": "Wilfred Jackson",
+  "filmography": [
+    {
+      "imdb_id": "tt0029583",
+      "title": "Snow White and the Seven Dwarfs",
+      "year": 1937,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0032910",
+      "title": "Pinocchio",
+      "year": 1940,
+      "roles": [
+        "director"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNWFlMGI5MzEtNDZjNy00OGFmLWExNzAtOTRiZmFmMDA0N2Y5XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "24.01.1906",
+  "death_date": "07.08.1988",
+  "birth_location": "Chicago, Illinois, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 87489,
+  "name_pl": "Wilfred Jackson",
+  "birth_location_pl": "Chicago, Illinois",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

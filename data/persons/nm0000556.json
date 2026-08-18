@@ -1,0 +1,32 @@
+{
+  "id": "nm0000556",
+  "name": "Olivia Newton-John",
+  "filmography": [
+    {
+      "imdb_id": "tt0077631",
+      "title": "Grease",
+      "year": 1978,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Sandy"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTk3ODEyODM4OV5BMl5BanBnXkFtZTcwMzM1Mzc1MQ@@._V1_.jpg",
+  "birth_date": "26.09.1948",
+  "death_date": "08.08.2022",
+  "birth_location": "Cambridge, Cambridgeshire, England, UK",
+  "height": "1.68 m",
+  "imdb_scraped": true,
+  "filmweb_id": 42535,
+  "name_pl": "Olivia Newton-John",
+  "birth_location_pl": "Cambridge, Anglia",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Australia",
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 42535
+}

@@ -1,0 +1,304 @@
+{
+  "imdb_id": "tt4555364",
+  "title": "Knightfall",
+  "description": "A look at the final days of the Knights Templar during the 14th century.",
+  "runtime_minutes": 60,
+  "release_date": "06.12.2017",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "History"
+  ],
+  "stars": [
+    {
+      "id": "nm3665787",
+      "name": "Tom Cullen"
+    },
+    {
+      "id": "nm2073546",
+      "name": "Pádraic Delaney"
+    },
+    {
+      "id": "nm0581163",
+      "name": "Simon Merrells"
+    },
+    {
+      "id": "nm1099188",
+      "name": "Julian Ovenden"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm3665787",
+      "name": "Tom Cullen",
+      "character": "Landry"
+    },
+    {
+      "id": "nm2073546",
+      "name": "Pádraic Delaney",
+      "character": "Gawain"
+    },
+    {
+      "id": "nm0581163",
+      "name": "Simon Merrells",
+      "character": "Tancrede"
+    },
+    {
+      "id": "nm1099188",
+      "name": "Julian Ovenden",
+      "character": "William De Nogaret"
+    },
+    {
+      "id": "nm0832380",
+      "name": "Ed Stoppard",
+      "character": "King Philip"
+    },
+    {
+      "id": "nm0578596",
+      "name": "Nasser Memarzia",
+      "character": "Draper"
+    },
+    {
+      "id": "nm3426177",
+      "name": "Jim High",
+      "character": "Ulric"
+    },
+    {
+      "id": "nm0141697",
+      "name": "Jim Carter",
+      "character": "Pope Boniface VIII"
+    },
+    {
+      "id": "nm2684840",
+      "name": "Olivia Ross",
+      "character": "Queen Joan"
+    },
+    {
+      "id": "nm6301068",
+      "name": "Sabrina Bartlett",
+      "character": "Princess Isabella"
+    },
+    {
+      "id": "nm4435667",
+      "name": "Bobby Schofield",
+      "character": "Parsifal"
+    },
+    {
+      "id": "nm3621883",
+      "name": "Sarah-Sofie Boussnina",
+      "character": "Adelina"
+    },
+    {
+      "id": "nm8280235",
+      "name": "Edward Bourne",
+      "character": "Nicholas"
+    },
+    {
+      "id": "nm6664537",
+      "name": "Tom Forbes",
+      "character": "Prince Louis"
+    },
+    {
+      "id": "nm1601354",
+      "name": "Genevieve Gaunt",
+      "character": "Princess Isabella"
+    },
+    {
+      "id": "nm0641854",
+      "name": "Peter O'Meara",
+      "character": "Berenger"
+    },
+    {
+      "id": "nm6521386",
+      "name": "Joseph Ollman",
+      "character": "Vasant"
+    },
+    {
+      "id": "nm7635424",
+      "name": "Dean Ridge",
+      "character": "Rhone"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Hebrew",
+    "Latin"
+  ],
+  "color": "Color",
+  "filmweb_id": 10034938,
+  "year": 2017,
+  "type": "tvSeries",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODgyODU5MjcyNF5BMl5BanBnXkFtZTgwNTgwMjQ4NzM@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.8,
+      "votes": 23446,
+      "distribution": {
+        "1": 889,
+        "2": 407,
+        "3": 578,
+        "4": 754,
+        "5": 1480,
+        "6": 2898,
+        "7": 5302,
+        "8": 4750,
+        "9": 2214,
+        "10": 4174
+      }
+    },
+    "filmweb": {
+      "rating": 0.0,
+      "votes": 0,
+      "distribution": {
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0
+      }
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "15.10.2018"
+    }
+  },
+  "polish_title": "Knightfall",
+  "silent": false,
+  "producers": [
+    {
+      "id": "nm0032227",
+      "name": "Josh Appelbaum"
+    },
+    {
+      "id": "nm0359534",
+      "name": "Don Handfield"
+    },
+    {
+      "id": "nm0625858",
+      "name": "André Nemec"
+    },
+    {
+      "id": "nm0684374",
+      "name": "Jeff Pinkner"
+    },
+    {
+      "id": "nm0713478",
+      "name": "Richard Rayner"
+    },
+    {
+      "id": "nm0003298",
+      "name": "Scott Rosenberg"
+    },
+    {
+      "id": "nm0591459",
+      "name": "David Minkowski"
+    },
+    {
+      "id": "nm0830299",
+      "name": "Matthew Stillman"
+    },
+    {
+      "id": "nm0719637",
+      "name": "Jeremy Renner"
+    },
+    {
+      "id": "nm0430904",
+      "name": "Barry Jossen"
+    },
+    {
+      "id": "nm7951750",
+      "name": "Marketa Duchkova"
+    },
+    {
+      "id": "nm2041687",
+      "name": "Philip G. Flores"
+    },
+    {
+      "id": "nm0533559",
+      "name": "Douglas Mackinnon"
+    },
+    {
+      "id": "nm0591286",
+      "name": "Dominic Minghella"
+    },
+    {
+      "id": "nm1123335",
+      "name": "Alex Shevchenko"
+    },
+    {
+      "id": "nm0942060",
+      "name": "Michael Wray"
+    },
+    {
+      "id": "nm2634956",
+      "name": "Aaron Helbing"
+    },
+    {
+      "id": "nm0414910",
+      "name": "Rick Jacobson"
+    },
+    {
+      "id": "nm0717550",
+      "name": "Ethan Reiff"
+    },
+    {
+      "id": "nm1160205",
+      "name": "Russell Rothberg"
+    },
+    {
+      "id": "nm0903456",
+      "name": "Cyrus Voris"
+    },
+    {
+      "id": "nm1281577",
+      "name": "Cristina Verano"
+    },
+    {
+      "id": "nm0024948",
+      "name": "Gideon Amir"
+    },
+    {
+      "id": "nm0382342",
+      "name": "Nina Heyns"
+    },
+    {
+      "id": "nm0071812",
+      "name": "Jana Bennett"
+    },
+    {
+      "id": "nm0254213",
+      "name": "David Elliot"
+    },
+    {
+      "id": "nm0282921",
+      "name": "Phil Flores"
+    },
+    {
+      "id": "nm4960872",
+      "name": "Jason Grote"
+    },
+    {
+      "id": "nm1773678",
+      "name": "Sonny Postiglione"
+    },
+    {
+      "id": "nm2296654",
+      "name": "Diego Zanco"
+    },
+    {
+      "id": "nm0583397",
+      "name": "Turi Meyer"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

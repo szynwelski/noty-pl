@@ -1,0 +1,578 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🎬</text></svg>">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Wiek — Noty</title>
+  <link rel="stylesheet" href="../../static/style.css">
+  <script src="../../static/translations.js"></script>
+  <script src="../../static/tooltip.js"></script>
+  <style>
+    .peak-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(150px,1fr));
+                 gap:.6rem; margin:1.25rem 0 2rem; }
+    .peak-card { border:1px solid var(--border); border-radius:var(--radius); padding:.6rem .75rem;
+                 border-left:3px solid var(--role); }
+    .peak-role { font-size:.78rem; color:var(--muted); margin-bottom:.15rem; }
+    .peak-age  { font-size:1.35rem; font-weight:600; line-height:1.1; }
+    .peak-age small { font-size:.8rem; font-weight:400; color:var(--muted); }
+    .peak-score { font-size:.82rem; margin-top:.1rem; }
+    .chart-note { font-size:.8rem; color:var(--muted); margin:.5rem 0 0; }
+    h2 { font-size:1rem; font-weight:600; margin:2.5rem 0 .25rem; }
+  </style>
+</head>
+<body>
+  <nav>
+    <a class="logo" href="/">no<span>ty</span></a>
+    <a class="nav-link" href="/">Filmy</a>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Osoby <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/osoba/rezyser/">Reżyserzy</a>
+        <a href="/osoba/scenarzysta/">Scenarzyści</a>
+        <a href="/osoba/gwiazda/">Gwiazdy</a>
+        <a href="/osoba/aktor/">Aktorzy</a>
+        <a href="/osoba/kompozytor/">Kompozytorzy</a>
+        <a href="/osoba/operator/">Operatorzy</a>
+        <a href="/osoba/producent/">Producenci</a>
+        <a href="/osoba/wszechstronna/">Wszechstronni</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Krytycy <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/krytyk/jarek/">Jarek</a>
+        <a href="/krytyk/michal/">Michał</a>
+        <a href="/krytyk/imdb/">IMDb</a>
+        <a href="/krytyk/filmweb/">Filmweb</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Kategorie <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/kategoria/gatunek/">Gatunki</a>
+        <a href="/kategoria/kraj/">Kraje</a>
+        <a href="/kategoria/jezyk/">Języki</a>
+        <a href="/kategoria/dekada/">Dekady</a>
+        <a href="/kategoria/rok/">Lata</a>
+        <a href="/kategoria/czas/">Czas trwania</a>
+        <a href="/kategoria/popularnosc/">Popularność</a>
+        <hr>
+        <a href="/kategoria/plec/">Płeć</a>
+        <a href="/kategoria/obywatelstwo/">Obywatelstwo</a>
+        <a href="/kategoria/urodzenie/">Urodzenie</a>
+        <a href="/kategoria/wiek/">Wiek</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Statystyki <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/statystyki/podsumowanie/">Podsumowanie</a>
+        <a href="/statystyki/rekordy/">Rekordy</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Metodologia <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/metodologia/filmy/">Filmy</a>
+        <a href="/metodologia/osoby/">Osoby</a>
+        <a href="/metodologia/kategorie-filmow/">Kategorie filmów</a>
+        <a href="/metodologia/kategorie-osob/">Kategorie osób</a>
+      </div>
+    </div>
+    <button id="search-global-btn" class="nav-search-btn" title="Szukaj (⌘K)">
+      <svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+    </button>
+  </nav>
+  <div id="search-modal" class="search-modal">
+    <div id="search-modal-backdrop" class="search-modal-backdrop"></div>
+    <div class="search-modal-box">
+      <div class="search-modal-header">
+        <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink:0;color:var(--muted)"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        <input id="search-modal-input" class="search-modal-input" type="text" placeholder="Szukaj filmów i osób…" autocomplete="off" spellcheck="false">
+        <kbd class="search-modal-esc">Esc</kbd>
+      </div>
+      <div id="search-modal-results" class="search-modal-results"></div>
+    </div>
+  </div>
+  <script src="/static/search.js"></script>
+
+  <div id="tooltip"></div>
+  <div class="container">
+    <h1>Wiek <a href="/metodologia/kategorie-osob/#wiek" title="Jak obliczana jest ocena?" style="font-size:.7rem;font-weight:400;color:var(--muted);border:1px solid var(--border);border-radius:50%;padding:.1em .5em;vertical-align:middle;text-decoration:none;margin-left:.4rem">?</a></h1>
+    <p class="muted">W jakim wieku twórcy robią najlepiej oceniane filmy. Każdy punkt to jeden udział (osoba × film): wiek w momencie premiery kontra finalna ocena filmu.</p>
+
+    <div id="loading">Ładowanie…</div>
+    <div id="error" style="display:none;color:var(--danger)"></div>
+    <div id="content" style="display:none">
+
+      <div class="peak-grid" id="peak-grid"></div>
+
+      <h2>Ocena według wieku twórcy</h2>
+      <p class="chart-note">Linia to trend wygładzony 5-letnią średnią kroczącą (ważoną liczbą udziałów); ocena w każdym wieku wygładzona metodą Bayesa (M=30). Dokładne wartości rok po roku są w tabeli. Kliknij pozycję legendy, żeby wyróżnić jedną rolę.</p>
+      <div id="chart-legend" style="display:flex;gap:1.1rem;flex-wrap:wrap;margin:.75rem 0 .25rem"></div>
+      <svg id="line-svg" viewBox="0 0 800 260" style="width:100%;max-width:800px;overflow:visible;display:block"></svg>
+
+      <h2>Liczba udziałów według wieku</h2>
+      <svg id="bar-svg" viewBox="0 0 800 120" style="width:100%;max-width:800px;overflow:visible;display:block"></svg>
+
+      <h2>Tabela</h2>
+      <p class="chart-note">Uwzględniono wszystkie wartości wieku, także skrajne. <strong>Wiek ujemny</strong> biorą współcześni twórcy (najczęściej kompozytorzy nowych ścieżek i producenci rekonstrukcji) przypisani do filmu niemego pod jego oryginalnym rokiem — urodzili się długo po jego premierze. <strong>Wiek liczony w setkach lat</strong> to autorzy materiału źródłowego (np. adaptacje Szekspira).</p>
+      <table id="age-table" style="margin-top:.75rem">
+        <colgroup><col style="width:4.5rem"><col style="width:4.5rem"><col style="width:4.5rem"><col style="width:3.8rem"><col style="width:3.8rem"><col style="width:3.8rem"><col style="width:3.8rem"><col style="width:3.8rem"><col style="width:3.8rem"><col style="width:3.8rem"></colgroup>
+        <thead>
+          <tr>
+            <th class="sorted" data-col="age" data-dir="1">Wiek</th>
+            <th class="num" data-col="total">Udz.</th>
+            <th class="num" data-col="score">Ocena</th>
+            <th class="num" data-col="directors"        title="Reżyserzy">Reż.</th>
+            <th class="num" data-col="writers"          title="Scenarzyści">Scen.</th>
+            <th class="num" data-col="stars"            title="Gwiazdy">Gw.</th>
+            <th class="num" data-col="actors"           title="Aktorzy">Akt.</th>
+            <th class="num" data-col="composers"        title="Kompozytorzy">Komp.</th>
+            <th class="num" data-col="cinematographers" title="Operatorzy">Oper.</th>
+            <th class="num" data-col="producers"        title="Producenci">Prod.</th>
+          </tr>
+        </thead>
+        <tbody id="age-tbody"></tbody>
+      </table>
+
+    </div>
+  </div>
+
+  <script>
+  const ROLE_COLS = [
+    { key: 'directors',        label: 'Reżyserzy',    color: '#3d6fe8' },
+    { key: 'writers',          label: 'Scenarzyści',  color: '#16a34a' },
+    { key: 'stars',            label: 'Gwiazdy',      color: '#9333ea' },
+    { key: 'actors',           label: 'Aktorzy',      color: '#ca8a04' },
+    { key: 'composers',        label: 'Kompozytorzy', color: '#dc2626' },
+    { key: 'cinematographers', label: 'Operatorzy',   color: '#0891b2' },
+    { key: 'producers',        label: 'Producenci',   color: '#ea580c' },
+  ];
+  const SCORE_LINE = { key: 'score', label: 'Ocena (łącznie)', color: '#1a1d2e' };
+  const BAYES_M = 30;
+
+  // Chart display window (data itself is unfiltered; table shows every age)
+  const AGE_MIN = 5, AGE_MAX = 95;
+
+  // Half-width of the peak-detection window: peaks are reported as 5-year bands
+  // (center ± 2), weighted by credit count. Single-year argmax is biased toward
+  // low-n noise spikes, so we smooth over a band and require a minimum volume.
+  const PEAK_HALF = 2;
+  const PEAK_MIN_WINDOW_N = 80;
+
+  let GLOBAL_AVG = {};
+  let ageRows = [];          // [{age, total, score, entry}]
+  let ageMap  = new Map();   // age → row
+  let activeRole = null;
+  const sortState = { col: 'age', dir: 1 };
+
+  function bayesRole(d, roleKey) {
+    if (!d || d.count === 0 || d.avg == null) return null;
+    return (d.count * d.avg + BAYES_M * GLOBAL_AVG[roleKey]) / (d.count + BAYES_M);
+  }
+
+  function computeScore(entry) {
+    const scores = ROLE_COLS
+      .map(r => bayesRole(entry[r.key], r.key))
+      .filter(s => s != null);
+    return scores.length ? scores.reduce((a, b) => a + b, 0) / scores.length : null;
+  }
+
+
+  function buildRoleTip(roleDef, entry, age) {
+    const d = entry[roleDef.key];
+    if (!d || !d.top?.length)
+      return `<div class="tip-title">${roleDef.label}</div><div class="muted" style="font-size:.85rem">Brak danych</div>`;
+    const bayes = bayesRole(d, roleDef.key);
+    const rows = d.top.map(f =>
+      `<tr><td style="padding-right:.75em"><a href="/film/?id=${f.tt}" style="color:inherit">${f.title}</a> ` +
+      `<span class="muted">${f.year ?? ''}</span></td>` +
+      `<td class="num"><span class="${scoreClass(f.score)}">${fmt(f.score)}</span></td></tr>`
+    ).join('');
+    return `<div class="tip-title">${roleDef.label} · ${age} lat</div>` +
+      `<div class="tip-sub-label">Bayesa: ${fmt(bayes)} · śr.: ${fmt(d.avg)} · n=${d.count}</div>` +
+      `<table style="border-collapse:collapse;font-size:.85rem">${rows}</table>`;
+  }
+
+  // ── Peak cards ──────────────────────────────────────────────────────────────
+
+  // Age range covering the central [lowP, highP] of a role's credit mass.
+  // Restricting the peak search here excludes unrepresentative extremes
+  // (child actors, very elderly) that would otherwise win the argmax.
+  function coreRange(roleKey, lowP = 0.05, highP = 0.95) {
+    const pts = [];
+    let total = 0;
+    for (const r of ageRows) {
+      if (r.age < AGE_MIN || r.age > AGE_MAX) continue;
+      const c = r.entry[roleKey]?.count || 0;
+      if (c > 0) { pts.push([r.age, c]); total += c; }
+    }
+    if (!total) return null;
+    pts.sort((a, b) => a[0] - b[0]);
+    let cum = 0, lo = null, hi = null;
+    for (const [age, c] of pts) {
+      cum += c;
+      if (lo === null && cum >= total * lowP) lo = age;
+      if (cum >= total * highP) { hi = age; break; }
+    }
+    return { lo, hi };
+  }
+
+  // Count-weighted mean Bayesian score in a ±PEAK_HALF band around centerAge.
+  function rollingBand(roleKey, centerAge) {
+    let num = 0, den = 0;
+    for (let a = centerAge - PEAK_HALF; a <= centerAge + PEAK_HALF; a++) {
+      const row = ageMap.get(a);
+      if (!row) continue;
+      const d = row.entry[roleKey];
+      const b = bayesRole(d, roleKey);
+      if (b == null) continue;
+      num += b * d.count;
+      den += d.count;
+    }
+    return den > 0 ? { val: num / den, n: den } : null;
+  }
+
+  function renderPeaks() {
+    const grid = document.getElementById('peak-grid');
+    grid.innerHTML = '';
+    ROLE_COLS.forEach(rc => {
+      const core = coreRange(rc.key);
+      if (!core) return;
+      const from = Math.max(AGE_MIN + PEAK_HALF, core.lo);
+      const to   = Math.min(AGE_MAX - PEAK_HALF, core.hi);
+      let best = null;
+      for (let c = from; c <= to; c++) {
+        const band = rollingBand(rc.key, c);
+        if (!band || band.n < PEAK_MIN_WINDOW_N) continue;
+        if (!best || band.val > best.val) best = { center: c, ...band };
+      }
+      if (!best) return;
+      const card = document.createElement('div');
+      card.className = 'peak-card';
+      card.style.setProperty('--role', rc.color);
+      card.innerHTML =
+        `<div class="peak-role">${rc.label}</div>` +
+        `<div class="peak-age">${best.center - PEAK_HALF}–${best.center + PEAK_HALF} <small>lat</small></div>` +
+        `<div class="peak-score"><span class="${scoreClass(best.val)}">${fmt(best.val)}</span> ` +
+        `<span class="muted" style="font-size:.75rem">n=${best.n.toLocaleString('pl')}</span></div>`;
+      grid.appendChild(card);
+    });
+  }
+
+  // ── Table ─────────────────────────────────────────────────────────────────
+
+  function renderTable() {
+    const { col, dir } = sortState;
+    const data = [...ageRows].sort((a, b) => {
+      if (col === 'age')   return dir * (a.age - b.age);
+      if (col === 'total') return dir * (a.total - b.total);
+      if (col === 'score') {
+        if (a.score == null && b.score == null) return 0;
+        if (a.score == null) return 1;
+        if (b.score == null) return -1;
+        return dir * (a.score - b.score);
+      }
+      const ca = a.entry[col]?.count ?? 0;
+      const cb = b.entry[col]?.count ?? 0;
+      return dir * (ca - cb);
+    });
+
+    const tbody = document.getElementById('age-tbody');
+    tbody.innerHTML = '';
+    data.forEach(row => {
+      const tr = document.createElement('tr');
+      const sc = row.score;
+      let html = `<td>${row.age}</td>`;
+      html += `<td class="num">${row.total.toLocaleString('pl')}</td>`;
+      html += `<td class="num score-cell"><span class="${scoreClass(sc)}">${sc != null ? fmt(sc) : '—'}</span></td>`;
+      ROLE_COLS.forEach(rc => {
+        const cnt = row.entry[rc.key]?.count ?? 0;
+        html += cnt === 0
+          ? `<td class="num muted">—</td>`
+          : `<td class="num" data-role="${rc.key}">${cnt.toLocaleString('pl')}</td>`;
+      });
+      tr.innerHTML = html;
+      if (sc != null) {
+        attachTip(tr.querySelector('.score-cell'), () => {
+          const roleScores = ROLE_COLS
+            .map(r => ({ label: r.label, bayes: bayesRole(row.entry[r.key], r.key) }))
+            .filter(r => r.bayes != null);
+          const rr = roleScores.map(r =>
+            `<tr><td style="padding-right:.75em">${r.label}</td>` +
+            `<td class="num"><span class="${scoreClass(r.bayes)}">${fmt(r.bayes)}</span></td></tr>`
+          ).join('');
+          return `<div class="tip-title">Ocena · ${row.age} lat</div>` +
+            `<div class="tip-main-val">${fmt(row.score)}</div>` +
+            `<div class="tip-sub-label">średnia z ${roleScores.length} ról</div>` +
+            `<table style="border-collapse:collapse;font-size:.85rem">${rr}</table>`;
+        });
+      }
+      ROLE_COLS.forEach(rc => {
+        const td = tr.querySelector(`[data-role="${rc.key}"]`);
+        if (td) attachTip(td, () => buildRoleTip(rc, row.entry, row.age));
+      });
+      tbody.appendChild(tr);
+    });
+  }
+
+  // ── Line chart ──────────────────────────────────────────────────────────────
+
+  function windowRows() {
+    return ageRows
+      .filter(r => r.age >= AGE_MIN && r.age <= AGE_MAX && r.total > 0)
+      .sort((a, b) => a.age - b.age);
+  }
+
+  // Opacity for a line/dot given the current isolate state. Default view dims
+  // role lines so the bold combined line dominates; isolating one role fades
+  // the rest right down.
+  function lineOpacity(role) {
+    if (activeRole) return activeRole === role ? 1 : 0.06;
+    return role === 'score' ? 1 : 0.5;
+  }
+
+  function applyRoleVisibility() {
+    document.querySelectorAll('.role-legend-item').forEach(el => {
+      el.style.opacity    = (!activeRole || activeRole === el.dataset.role) ? '1' : '0.35';
+      el.style.fontWeight = activeRole === el.dataset.role ? '600' : '';
+    });
+    renderLineChart();
+    renderBarChart();
+  }
+
+  function renderLineChart() {
+    const data = windowRows();
+    if (data.length < 2) return;
+
+    const W = 800, H = 260, PL = 42, PR = 16, PT = 16, PB = 30;
+    const cw = W - PL - PR, ch = H - PT - PB;
+    const aMin = data[0].age, aMax = data[data.length - 1].age;
+
+    // Smoothed trend: 5-year count-weighted rolling mean (raw single-year values
+    // stay in the table + tooltips). Raw per-year lines are too noisy to read.
+    const smoothRole  = (age, key) => rollingBand(key, age)?.val ?? null;
+    const smoothScore = age => {
+      const vs = ROLE_COLS.map(rc => smoothRole(age, rc.key)).filter(v => v != null);
+      return vs.length ? vs.reduce((a, b) => a + b, 0) / vs.length : null;
+    };
+
+    const allVals = data.flatMap(r =>
+      [...ROLE_COLS.map(rc => smoothRole(r.age, rc.key)), smoothScore(r.age)].filter(v => v != null)
+    );
+    if (!allVals.length) return;
+    const yMin = Math.floor((Math.min(...allVals) - 0.2) * 2) / 2;
+    const yMax = Math.ceil((Math.max(...allVals) + 0.2) * 2) / 2;
+
+    const xPos = a => PL + ((a - aMin) / (aMax - aMin)) * cw;
+    const yPos = v => PT + ch * (1 - (v - yMin) / (yMax - yMin));
+
+    let s = '';
+    // Horizontal gridlines
+    for (let y = Math.ceil(yMin * 2) / 2; y <= yMax + 0.001; y = Math.round((y + 0.5) * 100) / 100) {
+      const yp = yPos(y).toFixed(1);
+      const isInt = Number.isInteger(y);
+      s += `<line x1="${PL}" x2="${W-PR}" y1="${yp}" y2="${yp}" stroke="var(--border)" stroke-width="${isInt?1:.5}"${isInt?'':' stroke-dasharray="2,3"'}/>`;
+      if (isInt) s += `<text x="${PL-5}" y="${(+yp+4).toFixed(1)}" text-anchor="end" font-size="11" fill="var(--muted)">${y}</text>`;
+    }
+    s += `<line x1="${PL}" x2="${PL}" y1="${PT}" y2="${PT+ch}" stroke="var(--border)"/>`;
+    s += `<line x1="${PL}" x2="${W-PR}" y1="${PT+ch}" y2="${PT+ch}" stroke="var(--border)"/>`;
+    // X-axis labels every 10 years
+    for (let a = Math.ceil(aMin / 10) * 10; a <= aMax; a += 10) {
+      s += `<text x="${xPos(a).toFixed(1)}" y="${(PT+ch+16).toFixed(1)}" text-anchor="middle" font-size="11" fill="var(--muted)">${a}</text>`;
+    }
+
+    // Role lines (smoothed)
+    for (const rc of ROLE_COLS) {
+      const pts = data.map(r => {
+        const v = smoothRole(r.age, rc.key);
+        return v != null ? `${xPos(r.age).toFixed(1)},${yPos(v).toFixed(1)}` : null;
+      }).filter(Boolean);
+      if (pts.length < 2) continue;
+      s += `<polyline class="role-line" data-role="${rc.key}" points="${pts.join(' ')}" fill="none" stroke="${rc.color}" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round" opacity="${lineOpacity(rc.key)}" pointer-events="none"/>`;
+    }
+    // Combined score line (thicker, on top)
+    {
+      const pts = data.map(r => {
+        const v = smoothScore(r.age);
+        return v != null ? `${xPos(r.age).toFixed(1)},${yPos(v).toFixed(1)}` : null;
+      }).filter(Boolean);
+      if (pts.length >= 2)
+        s += `<polyline class="role-line" data-role="score" points="${pts.join(' ')}" fill="none" stroke="${SCORE_LINE.color}" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" opacity="${lineOpacity('score')}" pointer-events="none"/>`;
+    }
+
+    // Dots: combined score always; isolated role gets its own dots (on smoothed line)
+    const dotRole = (activeRole && activeRole !== 'score')
+      ? ROLE_COLS.find(r => r.key === activeRole) : null;
+    if (dotRole) {
+      data.forEach(r => {
+        const v = smoothRole(r.age, dotRole.key);
+        if (v == null) return;
+        s += `<circle class="role-dot" data-role="${dotRole.key}" data-age="${r.age}" data-rkey="${dotRole.key}" cx="${xPos(r.age).toFixed(1)}" cy="${yPos(v).toFixed(1)}" r="3.2" fill="${dotRole.color}"/>`;
+      });
+    }
+    if (!activeRole || activeRole === 'score') {
+      data.forEach(r => {
+        const v = smoothScore(r.age);
+        if (v == null) return;
+        s += `<circle class="role-dot" data-role="score" data-age="${r.age}" data-rkey="score" cx="${xPos(r.age).toFixed(1)}" cy="${yPos(v).toFixed(1)}" r="3.2" fill="${SCORE_LINE.color}"/>`;
+      });
+    }
+
+    document.getElementById('line-svg').innerHTML = s;
+
+    // Dot tooltips
+    document.querySelectorAll('#line-svg .role-dot').forEach(dot => {
+      const row = ageRows.find(r => r.age === +dot.dataset.age);
+      if (!row) return;
+      const rkey = dot.dataset.rkey;
+      if (rkey === 'score') {
+        attachTip(dot, () =>
+          `<div class="tip-title">${row.age} lat — Ocena</div>` +
+          `<div class="tip-main-val">${fmt(smoothScore(row.age))}</div>` +
+          `<div class="tip-sub-label">trend 5-letni · w tym roku: ${row.score != null ? fmt(row.score) : '—'}</div>` +
+          _tipRows([['Udziałów', row.total.toLocaleString('pl')]])
+        );
+      } else {
+        const rc = ROLE_COLS.find(r => r.key === rkey);
+        if (rc) attachTip(dot, () => buildRoleTip(rc, row.entry, row.age));
+      }
+    });
+
+    // Legend (built once)
+    const legendEl = document.getElementById('chart-legend');
+    if (!legendEl.dataset.built) {
+      const allLines = [SCORE_LINE, ...ROLE_COLS];
+      legendEl.innerHTML = allLines.map(rc => {
+        const sw = rc.key === 'score' ? 2.5 : 1.6;
+        return `<span class="role-legend-item" data-role="${rc.key}" style="display:inline-flex;align-items:center;gap:.3rem;font-size:.85rem;color:var(--muted);cursor:pointer;user-select:none">` +
+          `<svg width="18" height="8" style="flex-shrink:0"><line x1="0" y1="4" x2="18" y2="4" stroke="${rc.color}" stroke-width="${sw}"/></svg>` +
+          `${rc.label}</span>`;
+      }).join('');
+      legendEl.querySelectorAll('.role-legend-item').forEach(item => {
+        item.addEventListener('click', () => {
+          activeRole = activeRole === item.dataset.role ? null : item.dataset.role;
+          applyRoleVisibility();
+          updateUrl();
+        });
+      });
+      legendEl.dataset.built = '1';
+    }
+  }
+
+  function renderBarChart() {
+    const data = windowRows();
+    if (!data.length) return;
+
+    const rc = (activeRole && activeRole !== 'score') ? ROLE_COLS.find(r => r.key === activeRole) : null;
+    const getCount = r => rc ? (r.entry[rc.key]?.count ?? 0) : r.total;
+    const barColor = rc ? rc.color : 'var(--accent)';
+    const label    = rc ? rc.label : 'udziałów';
+
+    const W = 800, H = 120, PL = 42, PR = 16, PT = 8, PB = 30;
+    const cw = W - PL - PR, ch = H - PT - PB;
+    const aMin = data[0].age, aMax = data[data.length - 1].age;
+    const maxVal = Math.max(...data.map(getCount), 1);
+    const barW   = Math.max(2, (cw / (aMax - aMin)) * 0.7);
+    const xPos   = a => PL + ((a - aMin) / (aMax - aMin)) * cw;
+
+    let s = '';
+    s += `<line x1="${PL}" x2="${PL}" y1="${PT}" y2="${PT+ch}" stroke="var(--border)"/>`;
+    s += `<line x1="${PL}" x2="${W-PR}" y1="${PT+ch}" y2="${PT+ch}" stroke="var(--border)"/>`;
+    s += `<text x="${PL-5}" y="${(PT+4).toFixed(1)}" text-anchor="end" font-size="11" fill="var(--muted)">${maxVal.toLocaleString('pl')}</text>`;
+    for (let a = Math.ceil(aMin / 10) * 10; a <= aMax; a += 10) {
+      s += `<text x="${xPos(a).toFixed(1)}" y="${(PT+ch+16).toFixed(1)}" text-anchor="middle" font-size="11" fill="var(--muted)">${a}</text>`;
+    }
+    data.forEach(r => {
+      const cnt = getCount(r);
+      const bh  = Math.max(cnt > 0 ? 1 : 0, ch * (cnt / maxVal));
+      s += `<rect class="bar-rect" data-age="${r.age}" x="${(xPos(r.age)-barW/2).toFixed(1)}" y="${(PT+ch-bh).toFixed(1)}" width="${barW.toFixed(1)}" height="${bh.toFixed(1)}" fill="${barColor}" opacity=".55" rx="1"/>`;
+    });
+
+    document.getElementById('bar-svg').innerHTML = s;
+    document.querySelectorAll('#bar-svg .bar-rect').forEach(rect => {
+      const row = ageRows.find(r => r.age === +rect.dataset.age);
+      if (!row) return;
+      const cnt = getCount(row);
+      attachTip(rect, () =>
+        `<div class="tip-title">${row.age} lat</div>` +
+        `<div class="tip-main-val">${cnt.toLocaleString('pl')} ${label}</div>`
+      );
+    });
+  }
+
+  // ── Sort headers ──────────────────────────────────────────────────────────
+
+  document.querySelectorAll('#age-table thead th[data-col]').forEach(th => {
+    th.addEventListener('click', () => {
+      const col = th.dataset.col;
+      sortState.dir = (sortState.col === col) ? sortState.dir * -1 : (col === 'age' ? 1 : -1);
+      sortState.col = col;
+      th.closest('thead').querySelectorAll('th').forEach(t => { t.classList.remove('sorted'); delete t.dataset.dir; });
+      th.classList.add('sorted');
+      th.dataset.dir = String(sortState.dir);
+      renderTable();
+      updateUrl();
+    });
+  });
+
+  // ── URL state ─────────────────────────────────────────────────────────────
+
+  function updateUrl() {
+    const p = new URLSearchParams();
+    if (activeRole) p.set('rola', activeRole);
+    if (sortState.col !== 'age' || sortState.dir !== 1) {
+      p.set('sortuj', sortState.col);
+      if (sortState.dir === 1) p.set('kier', 'rosnaco');
+    }
+    const qs = p.toString();
+    history.replaceState(null, '', qs ? '?' + qs : location.pathname);
+  }
+
+  // ── Load ────────────────────────────────────────────────────────────────────
+
+  fetch('../../data/age_stats.json').then(r => r.json()).then(data => {
+    GLOBAL_AVG = data._global || {};
+    ageRows = Object.entries(data)
+      .filter(([k]) => !k.startsWith('_'))
+      .map(([age, entry]) => ({
+        age:   +age,
+        total: entry._count,
+        score: computeScore(entry),
+        entry,
+      }));
+    ageMap = new Map(ageRows.map(r => [r.age, r]));
+
+    // Restore URL state
+    const urlP = new URLSearchParams(location.search);
+    const rola = urlP.get('rola');
+    if (rola && (rola === 'score' || ROLE_COLS.some(r => r.key === rola))) activeRole = rola;
+    const sortuj = urlP.get('sortuj');
+    if (sortuj) {
+      sortState.col = sortuj;
+      sortState.dir = urlP.get('kier') === 'rosnaco' ? 1 : -1;
+      const thead = document.querySelector('#age-table thead');
+      thead.querySelectorAll('th').forEach(t => { t.classList.remove('sorted'); delete t.dataset.dir; });
+      const th = thead.querySelector(`[data-col="${sortuj}"]`);
+      if (th) { th.classList.add('sorted'); th.dataset.dir = String(sortState.dir); }
+    }
+
+    document.getElementById('loading').style.display = 'none';
+    document.getElementById('content').style.display = '';
+
+    renderPeaks();
+    renderLineChart();
+    renderBarChart();
+    renderTable();
+    if (activeRole) applyRoleVisibility();
+  }).catch(err => {
+    document.getElementById('loading').style.display = 'none';
+    const el = document.getElementById('error');
+    el.style.display = '';
+    el.textContent = 'Błąd ładowania danych: ' + err.message;
+  });
+  </script>
+</body>
+</html>

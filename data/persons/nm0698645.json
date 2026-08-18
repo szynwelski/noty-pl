@@ -1,0 +1,61 @@
+{
+  "id": "nm0698645",
+  "name": "Alexandre Promio",
+  "filmography": [
+    {
+      "imdb_id": "tt0213974",
+      "title": "A Panoramic View in the Grand Canal",
+      "year": 1896,
+      "roles": [
+        "director",
+        "cinematographer"
+      ]
+    },
+    {
+      "imdb_id": "tt0256884",
+      "title": "Lion, London Zoological Garden",
+      "year": 1896,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0256962",
+      "title": "New York: Broadway at Union Square",
+      "year": 1896,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0000089",
+      "title": "Départ de Jérusalem en chemin de fer",
+      "year": 1897,
+      "roles": [
+        "director",
+        "cinematographer"
+      ]
+    },
+    {
+      "imdb_id": "tt0222481",
+      "title": "La vie et la passion de Jésus-Christ",
+      "year": 1898,
+      "roles": [
+        "cinematographer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDE4ZjI2MzYtNDNhNC00NDMwLTgyN2YtNzBiZThhNTg5OGQ5XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "09.07.1868",
+  "death_date": "24.12.1926",
+  "birth_location": "Lyon, France",
+  "filmweb_id": 538822,
+  "name_pl": "Alexandre Promio",
+  "birth_location_pl": "Lyon",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Anglicy"
+  ]
+}

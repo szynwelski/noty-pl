@@ -1,0 +1,50 @@
+{
+  "id": "nm0731247",
+  "name": "Joe Roberts",
+  "filmography": [
+    {
+      "imdb_id": "tt0011071",
+      "title": "Convict 13",
+      "year": 1920,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "The Crazed Prisoner"
+    },
+    {
+      "imdb_id": "tt0011541",
+      "title": "One Week",
+      "year": 1920,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Piano Mover"
+    },
+    {
+      "imdb_id": "tt0014341",
+      "title": "Our Hospitality",
+      "year": 1923,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Joseph Canfield"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNjUzOTMzOTgtN2RkZS00NWNlLWFhMGQtYmM5N2I1N2M2OTE4XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "02.02.1871",
+  "death_date": "28.10.1923",
+  "birth_location": "Albany, New York, USA",
+  "height": "1.91 m",
+  "filmweb_id": 109518,
+  "name_pl": "Joe Roberts",
+  "birth_location_pl": "Albany, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

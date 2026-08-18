@@ -1,0 +1,49 @@
+{
+  "id": "nm0392529",
+  "name": "Tim Holt",
+  "filmography": [
+    {
+      "imdb_id": "tt0031971",
+      "title": "Stagecoach",
+      "year": 1939,
+      "roles": [
+        "cast"
+      ],
+      "character": "Lt. Blanchard"
+    },
+    {
+      "imdb_id": "tt0035015",
+      "title": "The Magnificent Ambersons",
+      "year": 1942,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "George Minafer"
+    },
+    {
+      "imdb_id": "tt0040897",
+      "title": "The Treasure of the Sierra Madre",
+      "year": 1948,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Curtin"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTYwMjQ5NzU0MF5BMl5BanBnXkFtZTcwODkyNDYwOA@@._V1_.jpg",
+  "birth_date": "05.02.1919",
+  "death_date": "15.02.1973",
+  "birth_location": "Beverly Hills, Los Angeles, California, USA",
+  "height": "1.78 m",
+  "filmweb_id": 52048,
+  "name_pl": "Tim Holt",
+  "birth_location_pl": "Los Angeles, Kalifornia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

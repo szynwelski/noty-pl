@@ -1,0 +1,70 @@
+{
+  "id": "nm0001275",
+  "name": "Philip Glass",
+  "filmography": [
+    {
+      "imdb_id": "tt0274558",
+      "title": "The Hours",
+      "year": 2002,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt0465551",
+      "title": "Notes on a Scandal",
+      "year": 2006,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt0443543",
+      "title": "The Illusionist",
+      "year": 2006,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt0795493",
+      "title": "Cassandra's Dream",
+      "year": 2007,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt0481141",
+      "title": "No Reservations",
+      "year": 2007,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt1433099",
+      "title": "Dancing Across Borders",
+      "year": 2010,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Self - Musician"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjAzNDcwNzY5NV5BMl5BanBnXkFtZTYwNTc0ODc0._V1_.jpg",
+  "birth_date": "31.01.1937",
+  "birth_location": "Baltimore, Maryland, USA",
+  "height": "1.74 m",
+  "filmweb_id": 10933,
+  "name_pl": "Philip Glass",
+  "birth_location_pl": "Baltimore, Maryland",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 10933
+}

@@ -1,0 +1,56 @@
+{
+  "id": "nm0709466",
+  "name": "John Rand",
+  "filmography": [
+    {
+      "imdb_id": "tt0007264",
+      "title": "The Rink",
+      "year": 1916,
+      "roles": [
+        "cast"
+      ],
+      "character": "Waiter"
+    },
+    {
+      "imdb_id": "tt0007880",
+      "title": "Easy Street",
+      "year": 1917,
+      "roles": [
+        "cast"
+      ],
+      "character": "Mission Tramp"
+    },
+    {
+      "imdb_id": "tt0008133",
+      "title": "The Immigrant",
+      "year": 1917,
+      "roles": [
+        "cast"
+      ],
+      "character": "Tipsy diner"
+    },
+    {
+      "imdb_id": "tt0018773",
+      "title": "The Circus",
+      "year": 1928,
+      "roles": [
+        "cast"
+      ],
+      "character": "An Assistant Property Man"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNjgyY2Y0MGUtZDczNi00MDFhLThmYzctN2JjMDk0MGUzOTU1XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "19.11.1871",
+  "death_date": "25.01.1940",
+  "birth_location": "New Haven, Connecticut, USA",
+  "filmweb_id": 110500,
+  "name_pl": "John Rand",
+  "birth_location_pl": "New Haven, Connecticut",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 110500
+}

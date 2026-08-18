@@ -1,0 +1,246 @@
+{
+  "imdb_id": "tt0145487",
+  "title": "Spider-Man",
+  "description": "A shy teenager is bitten by a genetically modified spider and uses his new spider-like abilities to fight injustice as a masked superhero.",
+  "runtime_minutes": 121,
+  "release_date": "03.05.2002",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm0001497",
+      "name": "Tobey Maguire"
+    },
+    {
+      "id": "nm0000379",
+      "name": "Kirsten Dunst"
+    },
+    {
+      "id": "nm0000353",
+      "name": "Willem Dafoe"
+    },
+    {
+      "id": "nm0290556",
+      "name": "James Franco"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000600",
+      "name": "Sam Raimi"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0498278",
+      "name": "Stan Lee"
+    },
+    {
+      "id": "nm0228492",
+      "name": "Steve Ditko"
+    },
+    {
+      "id": "nm0462895",
+      "name": "David Koepp"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0001497",
+      "name": "Tobey Maguire",
+      "character": "Spider-Man"
+    },
+    {
+      "id": "nm0000379",
+      "name": "Kirsten Dunst",
+      "character": "Mary Jane Watson"
+    },
+    {
+      "id": "nm0000353",
+      "name": "Willem Dafoe",
+      "character": "Green Goblin"
+    },
+    {
+      "id": "nm0290556",
+      "name": "James Franco",
+      "character": "Harry Osborn"
+    },
+    {
+      "id": "nm0731772",
+      "name": "Cliff Robertson",
+      "character": "Ben Parker"
+    },
+    {
+      "id": "nm0365281",
+      "name": "Rosemary Harris",
+      "character": "May Parker"
+    },
+    {
+      "id": "nm0799777",
+      "name": "J.K. Simmons",
+      "character": "J. Jonah Jameson"
+    },
+    {
+      "id": "nm0542133",
+      "name": "Joe Manganiello",
+      "character": "Flash Thompson"
+    },
+    {
+      "id": "nm0065418",
+      "name": "Gerry Becker",
+      "character": "Maximilian Fargas"
+    },
+    {
+      "id": "nm0638056",
+      "name": "Bill Nunn",
+      "character": "Joseph 'Robbie' Robertson"
+    },
+    {
+      "id": "nm0079439",
+      "name": "Jack Betts",
+      "character": "Henry Balkan"
+    },
+    {
+      "id": "nm0027454",
+      "name": "Stanley Anderson",
+      "character": "General Slocum"
+    },
+    {
+      "id": "nm0674052",
+      "name": "Ron Perkins",
+      "character": "Dr. Mendel Stromm"
+    },
+    {
+      "id": "nm0660244",
+      "name": "Michael Papajohn",
+      "character": "Carjacker"
+    },
+    {
+      "id": "nm0230151",
+      "name": "K.K. Dodds",
+      "character": "Simkins"
+    },
+    {
+      "id": "nm0001646",
+      "name": "Ted Raimi",
+      "character": "Hoffman"
+    },
+    {
+      "id": "nm0132257",
+      "name": "Bruce Campbell",
+      "character": "Ring Announcer"
+    },
+    {
+      "id": "nm0006969",
+      "name": "Elizabeth Banks",
+      "character": "Miss Brant"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 9695,
+  "year": 2002,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZWM0OWVmNTEtNWVkOS00MzgyLTkyMzgtMmE2ZTZiNjY4MmFiXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.4,
+      "votes": 988577,
+      "distribution": {
+        "1": 7686,
+        "2": 3999,
+        "3": 6827,
+        "4": 13004,
+        "5": 35919,
+        "6": 108292,
+        "7": 302553,
+        "8": 294705,
+        "9": 113308,
+        "10": 102284
+      },
+      "normalized": 6.3233
+    },
+    "filmweb": {
+      "rating": 6.77,
+      "votes": 363907,
+      "distribution": {
+        "1": 3661,
+        "2": 3326,
+        "3": 8627,
+        "4": 15796,
+        "5": 34966,
+        "6": 74627,
+        "7": 110334,
+        "8": 67142,
+        "9": 21550,
+        "10": 23878
+      },
+      "normalized": 5.089
+    },
+    "jarek": {
+      "rating": 3,
+      "date_rated": "11.08.2010",
+      "normalized": 4.2591
+    },
+    "michal": {
+      "rating": 2,
+      "date_rated": "19.10.2005",
+      "normalized": 3.1556
+    },
+    "score": 4.7067
+  },
+  "polish_title": "Spider-Man",
+  "silent": false,
+  "description_pl": "Przeciętny nastolatek, Peter Parker (<a href=\"/osoba/?id=nm0001497\">Tobey Maguire</a>) przeistacza się w superbohatera pod wpływem ukąszenia przez radioaktywnego pająka. Kiedy jego ukochany wuj zostaje brutalnie zamordowany przez włamywaczy, Peter przysięga sobie, że użyje swoich niezwykłych sił, aby pomścić jego śmierć. Znany odtąd jako \"Spider-Man\", Peter rozpoczyna walkę ze zbrodnią, co prowadzi do nieuchronnego konfliktu ze złowrogim Zielonym Goblinem.",
+  "producers": [
+    {
+      "id": "nm0032696",
+      "name": "Avi Arad"
+    },
+    {
+      "id": "nm0117290",
+      "name": "Ian Bryce"
+    },
+    {
+      "id": "nm0193344",
+      "name": "Grant Curtis"
+    },
+    {
+      "id": "nm0297558",
+      "name": "Heidi Fugeman"
+    },
+    {
+      "id": "nm0498278",
+      "name": "Stan Lee"
+    },
+    {
+      "id": "nm0003251",
+      "name": "Steven P. Saeta"
+    },
+    {
+      "id": "nm0957205",
+      "name": "Laura Ziskin"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0000384",
+      "name": "Danny Elfman"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0121281",
+      "name": "Don Burgess"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

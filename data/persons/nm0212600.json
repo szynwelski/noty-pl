@@ -1,0 +1,38 @@
+{
+  "id": "nm0212600",
+  "name": "Derek Deadman",
+  "filmography": [
+    {
+      "imdb_id": "tt0089670",
+      "title": "National Lampoon's European Vacation",
+      "year": 1985,
+      "roles": [
+        "cast"
+      ],
+      "character": "Taxi Driver"
+    },
+    {
+      "imdb_id": "tt0241527",
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "year": 2001,
+      "roles": [
+        "cast"
+      ],
+      "character": "Bartender in Leaky Cauldron"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZDhhZmEyNmQtYmM4MC00NTEwLTljNzYtNjllZjBiODJkMzM4XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "11.03.1940",
+  "death_date": "22.11.2014",
+  "birth_location": "Fulham, London, England, UK",
+  "height": "1.68 m",
+  "imdb_scraped": true,
+  "filmweb_id": 84916,
+  "name_pl": "Derek Deadman",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ]
+}

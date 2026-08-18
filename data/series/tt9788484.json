@@ -1,0 +1,157 @@
+{
+  "imdb_id": "tt9788484",
+  "title": "Three Robots",
+  "description": "Long after the fall of humanity, three robots embark on a sightseeing tour of a post-apocalyptic city.",
+  "runtime_minutes": 12,
+  "release_date": "15.03.2019",
+  "genres": [
+    "Animation",
+    "Short",
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Drama",
+    "Fantasy",
+    "Horror",
+    "Mystery",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm3091777",
+      "name": "Josh Brener"
+    },
+    {
+      "id": "nm0930637",
+      "name": "Gary Anthony Williams"
+    },
+    {
+      "id": "nm0663177",
+      "name": "Chris Parnell"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm1159646",
+      "name": "Víctor Maldonado"
+    },
+    {
+      "id": "nm1166916",
+      "name": "Gabriele Pennacchioli"
+    },
+    {
+      "id": "nm1624842",
+      "name": "Alfredo Torres"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm3376496",
+      "name": "John Scalzi"
+    },
+    {
+      "id": "nm3664884",
+      "name": "Philip Gelatt"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm3091777",
+      "name": "Josh Brener",
+      "character": "K-VRC"
+    },
+    {
+      "id": "nm0930637",
+      "name": "Gary Anthony Williams",
+      "character": "XBOT 4000"
+    },
+    {
+      "id": "nm0663177",
+      "name": "Chris Parnell",
+      "character": "The Cat"
+    }
+  ],
+  "countries": [
+    "United States",
+    "Spain"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "year": 2019,
+  "type": "tvEpisode",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYmFmY2VhM2YtNjkxYS00YzQxLWE0ZDEtMGE0ZTM3NDRmYTk1XkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 824633,
+  "ratings": {
+    "imdb": {
+      "rating": 7.9,
+      "votes": 26168,
+      "distribution": {
+        "1": 200,
+        "2": 143,
+        "3": 198,
+        "4": 298,
+        "5": 785,
+        "6": 2128,
+        "7": 5199,
+        "8": 8060,
+        "9": 4972,
+        "10": 4185
+      }
+    },
+    "filmweb": {
+      "rating": 7.94,
+      "votes": 54233,
+      "distribution": {
+        "1": 98,
+        "2": 90,
+        "3": 250,
+        "4": 388,
+        "5": 1135,
+        "6": 3408,
+        "7": 10946,
+        "8": 20253,
+        "9": 13148,
+        "10": 4517
+      }
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "28.10.2022"
+    }
+  },
+  "polish_title": "Miłość, śmierć i roboty",
+  "silent": false,
+  "description_pl": "\"Miłość, śmierć i roboty\" to seria krótkich animowanych opowieści należących do różnych gatunków - science fiction, fantasy, horroru i komedii. Opowiedziane w śmiały sposób historie ogląda się przyjemnie, a losy ich bohaterów przez długi czas pozostają w pamięci. Historie tworzą pierwszą antologię animowanych opowieści, która dostarczy widzom niezapomnianych i poruszających do głębi wrażeń.",
+  "producers": [
+    {
+      "id": "nm0232433",
+      "name": "Joshua Donen"
+    },
+    {
+      "id": "nm0000399",
+      "name": "David Fincher"
+    },
+    {
+      "id": "nm2126361",
+      "name": "Victoria L. Howard"
+    },
+    {
+      "id": "nm10380524",
+      "name": "Jennifer Miller"
+    },
+    {
+      "id": "nm1783265",
+      "name": "Tim Miller"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm1052252",
+      "name": "Rob Cairns"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

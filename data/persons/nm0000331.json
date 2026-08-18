@@ -1,0 +1,48 @@
+{
+  "id": "nm0000331",
+  "name": "Chevy Chase",
+  "filmography": [
+    {
+      "imdb_id": "tt0085995",
+      "title": "National Lampoon's Vacation",
+      "year": 1983,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Clark Griswold"
+    },
+    {
+      "imdb_id": "tt0089670",
+      "title": "National Lampoon's European Vacation",
+      "year": 1985,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Clark Griswold"
+    },
+    {
+      "imdb_id": "tt1231587",
+      "title": "Hot Tub Time Machine",
+      "year": 2010,
+      "roles": [
+        "cast"
+      ],
+      "character": "Repairman"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTMwNTY2ODA4OV5BMl5BanBnXkFtZTcwOTE1NjAxMw@@._V1_.jpg",
+  "birth_date": "08.10.1943",
+  "birth_location": "New York City, New York, USA",
+  "height": "1.91 m",
+  "filmweb_id": 233,
+  "name_pl": "Chevy Chase",
+  "birth_location_pl": "Woodstock, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

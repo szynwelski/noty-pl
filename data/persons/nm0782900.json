@@ -1,0 +1,53 @@
+{
+  "id": "nm0782900",
+  "name": "Andrzej Sekula",
+  "filmography": [
+    {
+      "imdb_id": "tt0105236",
+      "title": "Reservoir Dogs",
+      "year": 1992,
+      "roles": [
+        "cinematographer"
+      ]
+    },
+    {
+      "imdb_id": "tt0110912",
+      "title": "Pulp Fiction",
+      "year": 1994,
+      "roles": [
+        "cinematographer"
+      ]
+    },
+    {
+      "imdb_id": "tt0144084",
+      "title": "American Psycho",
+      "year": 2000,
+      "roles": [
+        "cinematographer"
+      ]
+    },
+    {
+      "imdb_id": "tt0285492",
+      "title": "Cube²: Hypercube",
+      "year": 2002,
+      "roles": [
+        "director",
+        "cinematographer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODM5YWIzNmUtZWYyNC00ZDkyLWJjMmQtNWNiMzYwYmUyZTVmXkEyXkFqcGc@._V1_.jpg",
+  "image_url_small": "https://m.media-amazon.com/images/M/MV5BODM5YWIzNmUtZWYyNC00ZDkyLWJjMmQtNWNiMzYwYmUyZTVmXkEyXkFqcGc@._V1_PT13.0_CR320,118,293,440_.jpg",
+  "birth_location": "Wroclaw, Dolnoslaskie, Poland",
+  "imdb_scraped": true,
+  "filmweb_id": 10323,
+  "name_pl": "Andrzej Sekuła",
+  "birth_location_pl": "Wrocław",
+  "gender": "M",
+  "wikidata_processed": true,
+  "birth_date": "19.12.1954",
+  "nationality": [
+    "Polska"
+  ],
+  "wikidata_fw_id": 10323
+}

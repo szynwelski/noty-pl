@@ -1,0 +1,39 @@
+{
+  "id": "nm0042524",
+  "name": "Steve Austin",
+  "filmography": [
+    {
+      "imdb_id": "tt0443473",
+      "title": "The Condemned",
+      "year": 2007,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Conrad"
+    },
+    {
+      "imdb_id": "tt1320253",
+      "title": "The Expendables",
+      "year": 2010,
+      "roles": [
+        "cast"
+      ],
+      "character": "Paine"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTM3Njk0OTAzMF5BMl5BanBnXkFtZTYwNDM3MzYz._V1_.jpg",
+  "birth_date": "18.12.1964",
+  "birth_location": "Austin, Texas, USA",
+  "height": "1.88 m",
+  "imdb_scraped": true,
+  "filmweb_id": 207636,
+  "name_pl": "Steve Austin",
+  "birth_location_pl": "Austin, Teksas",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 207636
+}

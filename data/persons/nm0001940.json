@@ -1,0 +1,30 @@
+{
+  "id": "nm0001940",
+  "name": "Peter Benchley",
+  "filmography": [
+    {
+      "imdb_id": "tt0073195",
+      "title": "Jaws",
+      "year": 1975,
+      "roles": [
+        "writer",
+        "cast"
+      ],
+      "character": "Interviewer"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNjc2NjFhMDMtZDIwZS00ZDk1LThkZmItMjkwNDM5Yjk3Yjc4XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "08.05.1940",
+  "death_date": "11.02.2006",
+  "birth_location": "New York City, New York, USA",
+  "height": "1.93 m",
+  "imdb_scraped": true,
+  "filmweb_id": 12834,
+  "name_pl": "Peter Benchley",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "imdb_id": "tt0061523",
+  "title": "A Countess from Hong Kong",
+  "description": "In Hong Kong, an ambassador returning to America meets a Russian countess, a refugee without a passport, who decides to hide in his cabin.",
+  "runtime_minutes": 120,
+  "release_date": "15.03.1967",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0000008",
+      "name": "Marlon Brando"
+    },
+    {
+      "id": "nm0000047",
+      "name": "Sophia Loren"
+    },
+    {
+      "id": "nm0152261",
+      "name": "Sydney Chaplin"
+    },
+    {
+      "id": "nm0001335",
+      "name": "Tippi Hedren"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000122",
+      "name": "Charles Chaplin"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000122",
+      "name": "Charles Chaplin"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000008",
+      "name": "Marlon Brando",
+      "character": "Ogden"
+    },
+    {
+      "id": "nm0000047",
+      "name": "Sophia Loren",
+      "character": "Natascha"
+    },
+    {
+      "id": "nm0152261",
+      "name": "Sydney Chaplin",
+      "character": "Harvey"
+    },
+    {
+      "id": "nm0001335",
+      "name": "Tippi Hedren",
+      "character": "Martha"
+    },
+    {
+      "id": "nm0137092",
+      "name": "Patrick Cargill",
+      "character": "Hudson"
+    },
+    {
+      "id": "nm0575974",
+      "name": "Michael Medwin",
+      "character": "John Felix"
+    },
+    {
+      "id": "nm0426799",
+      "name": "Oliver Johnston",
+      "character": "Clark"
+    },
+    {
+      "id": "nm0666881",
+      "name": "John Paul",
+      "character": "The Captain"
+    },
+    {
+      "id": "nm0780029",
+      "name": "Angela Scoular",
+      "character": "The Society Girl"
+    },
+    {
+      "id": "nm0751983",
+      "name": "Margaret Rutherford",
+      "character": "Miss Gaulswallow"
+    },
+    {
+      "id": "nm0058875",
+      "name": "Peter Bartlett",
+      "character": "Steward"
+    },
+    {
+      "id": "nm0619440",
+      "name": "Bill Nagy",
+      "character": "Crawford"
+    },
+    {
+      "id": "nm0493513",
+      "name": "Dilys Laye",
+      "character": "Saleswoman"
+    },
+    {
+      "id": "nm0697801",
+      "name": "Angela Pringle",
+      "character": "Baroness"
+    },
+    {
+      "id": "nm1051232",
+      "name": "Jenny Bridges",
+      "character": "Countess"
+    },
+    {
+      "id": "nm0343324",
+      "name": "Arthur Gross",
+      "character": "Immigration Officer"
+    },
+    {
+      "id": "nm0049524",
+      "name": "Balbina",
+      "character": "French Maid"
+    },
+    {
+      "id": "nm0157716",
+      "name": "Anthony Chinn",
+      "character": "Hawaiian"
+    }
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "color": null,
+  "filmweb_id": 6247,
+  "year": 1967,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNjA5MTY2ZmYtYmRjNi00NzQ5LTgzZmItMjdkNjBmZTdmNGI0XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6,
+      "votes": 7847,
+      "distribution": {
+        "1": 206,
+        "2": 150,
+        "3": 228,
+        "4": 549,
+        "5": 1173,
+        "6": 2446,
+        "7": 1628,
+        "8": 702,
+        "9": 245,
+        "10": 520
+      },
+      "normalized": 3.666
+    },
+    "filmweb": {
+      "rating": 6.37,
+      "votes": 2474,
+      "distribution": {
+        "1": 22,
+        "2": 27,
+        "3": 78,
+        "4": 137,
+        "5": 336,
+        "6": 713,
+        "7": 684,
+        "8": 284,
+        "9": 59,
+        "10": 134
+      },
+      "normalized": 4.195
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "31.12.2006",
+      "normalized": 4.5781
+    },
+    "score": 4.1464
+  },
+  "polish_title": "Hrabina z Hongkongu",
+  "silent": false,
+  "description_pl": "Amerykański polityk Ogden Mears, podróżując ekskluzywnym liniowcem z Hong Kongu na Hawaje, znajduje w swojej kajucie rosyjską hrabinę, która pragnie uciec od swojego dotychczasowego życia. Ogden zakochuje się, ale na Hawajach czeka na niego żona. Ewentualny rozwód zaprzepaściłby jego szanse w wyborach.",
+  "producers": [
+    {
+      "id": "nm0258480",
+      "name": "Jerome Epstein"
+    },
+    {
+      "id": "nm0000122",
+      "name": "Charles Chaplin"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0000122",
+      "name": "Charles Chaplin"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0406471",
+      "name": "Arthur Ibbetson"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

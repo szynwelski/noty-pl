@@ -1,0 +1,214 @@
+{
+  "imdb_id": "tt1480295",
+  "title": "Killing Season",
+  "description": "Two veterans of the Bosnian War, one American, one Serbian, find their unlikely friendship tested when one of them reveals their true intentions.",
+  "runtime_minutes": 91,
+  "release_date": "25.07.2013",
+  "genres": [
+    "Action",
+    "Drama",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000134",
+      "name": "Robert De Niro"
+    },
+    {
+      "id": "nm0000237",
+      "name": "John Travolta"
+    },
+    {
+      "id": "nm0893257",
+      "name": "Milo Ventimiglia"
+    },
+    {
+      "id": "nm3482594",
+      "name": "Liz Olin"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0425756",
+      "name": "Mark Steven Johnson"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm2489193",
+      "name": "Evan Daugherty"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000134",
+      "name": "Robert De Niro",
+      "character": "Benjamin Ford"
+    },
+    {
+      "id": "nm0000237",
+      "name": "John Travolta",
+      "character": "Emil Kovac"
+    },
+    {
+      "id": "nm0893257",
+      "name": "Milo Ventimiglia",
+      "character": "Chris Ford"
+    },
+    {
+      "id": "nm3482594",
+      "name": "Liz Olin",
+      "character": "Sarah Ford"
+    },
+    {
+      "id": "nm1176003",
+      "name": "Diana Lyubenova",
+      "character": "Elena"
+    },
+    {
+      "id": "nm3672966",
+      "name": "Kalin Sarmenov",
+      "character": "Serbian"
+    },
+    {
+      "id": "nm1123954",
+      "name": "Stefan Shterev",
+      "character": "Bar Customer"
+    },
+    {
+      "id": "nm5857646",
+      "name": "Joseph Oliveira",
+      "character": "Serbian Soldier"
+    }
+  ],
+  "countries": [
+    "United States",
+    "Belgium",
+    "Bulgaria"
+  ],
+  "languages": [
+    "English",
+    "Serbian"
+  ],
+  "color": "Color",
+  "filmweb_id": 645470,
+  "year": 2013,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOTQ2MzA3MTk3MV5BMl5BanBnXkFtZTcwMDM5ODk2OQ@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.4,
+      "votes": 40282,
+      "distribution": {
+        "1": 2244,
+        "2": 1432,
+        "3": 2265,
+        "4": 4364,
+        "5": 8989,
+        "6": 10405,
+        "7": 6024,
+        "8": 2286,
+        "9": 754,
+        "10": 1519
+      },
+      "normalized": 2.6606
+    },
+    "filmweb": {
+      "rating": 5.84,
+      "votes": 19842,
+      "distribution": {
+        "1": 105,
+        "2": 240,
+        "3": 1023,
+        "4": 1766,
+        "5": 4361,
+        "6": 5851,
+        "7": 4381,
+        "8": 1569,
+        "9": 339,
+        "10": 207
+      },
+      "normalized": 3.144
+    },
+    "jarek": {
+      "rating": 2,
+      "date_rated": "03.09.2014",
+      "normalized": 3.5003
+    },
+    "score": 3.1016
+  },
+  "polish_title": "Sezon na zabijanie",
+  "silent": false,
+  "description_pl": "Benjamin Ford, amerykański weteran wojny na Bałkanach, mieszka samotnie na odludziu w Appalachach. Stroni od kontaktów z ludźmi, próbując uciec od bolesnych wojennych wspomnień. Pewnego dnia w górskiej głuszy pojawia się turysta z Europy, Emil Kovac. Benjamin udziela mu gościny; panowie spędzają miły biesiadny wieczór, a następnego poranka wybierają się do lasu na polowanie. Wtedy okazuje się, jakie są prawdziwe intencje przybysza. On również walczył na Bałkanach, i również ma za sobą traumatyczne doświadczenia. Teraz ma jeden cel – wyrównać rachunki. Między dwoma mężczyznami rozpoczyna się wojna z użyciem wszelkich dostępnych środków przemocy – fizycznej i psychicznej. Stare rany otwierają się na nowo, na jaw wychodzą straszne sekrety z przeszłości…",
+  "producers": [
+    {
+      "id": "nm0108069",
+      "name": "Paul Breuls"
+    },
+    {
+      "id": "nm0146120",
+      "name": "Ed Cathell III"
+    },
+    {
+      "id": "nm0203246",
+      "name": "Boaz Davidson"
+    },
+    {
+      "id": "nm0227234",
+      "name": "Danny Dimbort"
+    },
+    {
+      "id": "nm0235930",
+      "name": "Anson Downes"
+    },
+    {
+      "id": "nm0269414",
+      "name": "Linda Favila"
+    },
+    {
+      "id": "nm2471892",
+      "name": "Veronique Huyghebaert"
+    },
+    {
+      "id": "nm0503592",
+      "name": "Avi Lerner"
+    },
+    {
+      "id": "nm0503600",
+      "name": "Danny Lerner"
+    },
+    {
+      "id": "nm0722603",
+      "name": "Anthony Rhulen"
+    },
+    {
+      "id": "nm0849566",
+      "name": "Guy Tannahill"
+    },
+    {
+      "id": "nm0860315",
+      "name": "John Thompson"
+    },
+    {
+      "id": "nm2924131",
+      "name": "Emelie Vervecken"
+    },
+    {
+      "id": "nm2194046",
+      "name": "Jake Wagner"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0002366",
+      "name": "Christopher Young"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0579977",
+      "name": "Peter Menzies Jr."
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

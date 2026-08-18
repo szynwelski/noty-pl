@@ -1,0 +1,200 @@
+{
+  "imdb_id": "tt1978447",
+  "title": "Policeman",
+  "description": "A member of an Israeli anti-terrorist unit clashes with a group of young radicals.",
+  "runtime_minutes": 105,
+  "release_date": "2011",
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm1441832",
+      "name": "Yiftach Klein"
+    },
+    {
+      "id": "nm3529761",
+      "name": "Yaara Pelzig"
+    },
+    {
+      "id": "nm0615688",
+      "name": "Michael Moshonov"
+    },
+    {
+      "id": "nm0637505",
+      "name": "Menashe Noy"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm2028715",
+      "name": "Nadav Lapid"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm2028715",
+      "name": "Nadav Lapid"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1441832",
+      "name": "Yiftach Klein",
+      "character": "Yaron"
+    },
+    {
+      "id": "nm3529761",
+      "name": "Yaara Pelzig",
+      "character": "Shira"
+    },
+    {
+      "id": "nm0615688",
+      "name": "Michael Moshonov",
+      "character": "Oded"
+    },
+    {
+      "id": "nm0637505",
+      "name": "Menashe Noy",
+      "character": "Michael"
+    },
+    {
+      "id": "nm2072214",
+      "name": "Michael Aloni",
+      "character": "Nathanael"
+    },
+    {
+      "id": "nm0398347",
+      "name": "Gal Hoyberger",
+      "character": "Ariel"
+    },
+    {
+      "id": "nm0054167",
+      "name": "Meital Berdah",
+      "character": "Nili"
+    },
+    {
+      "id": "nm0594631",
+      "name": "Shaul Mizrahi",
+      "character": "Hila's Father"
+    },
+    {
+      "id": "nm2320515",
+      "name": "Rona-Lee Shimon",
+      "character": "Hila"
+    },
+    {
+      "id": "nm3672264",
+      "name": "Ben Adam",
+      "character": "Yotam"
+    },
+    {
+      "id": "nm2336751",
+      "name": "Tracy Abramovich",
+      "character": ""
+    },
+    {
+      "id": "nm1357065",
+      "name": "Roy Arad",
+      "character": ""
+    },
+    {
+      "id": "nm4556731",
+      "name": "Ariel Barone",
+      "character": ""
+    },
+    {
+      "id": "nm5129065",
+      "name": "Noam Boker",
+      "character": ""
+    },
+    {
+      "id": "nm1502238",
+      "name": "Moris Cohen",
+      "character": ""
+    },
+    {
+      "id": "nm5128995",
+      "name": "David Dector",
+      "character": ""
+    },
+    {
+      "id": "nm0264577",
+      "name": "Miri Fabian",
+      "character": ""
+    },
+    {
+      "id": "nm2028603",
+      "name": "Shlomi Hayun",
+      "character": ""
+    }
+  ],
+  "countries": [
+    "Israel",
+    "France"
+  ],
+  "languages": [
+    "Hebrew",
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 624540,
+  "year": 2011,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOTcwNTU3MjEzNF5BMl5BanBnXkFtZTcwNjc5MjQxOA@@._V1_.jpg",
+  "original_title": "Ha-shoter",
+  "ratings": {
+    "imdb": {
+      "rating": 6.3,
+      "votes": 1174,
+      "distribution": {
+        "1": 98,
+        "2": 38,
+        "3": 41,
+        "4": 62,
+        "5": 127,
+        "6": 227,
+        "7": 284,
+        "8": 176,
+        "9": 53,
+        "10": 68
+      },
+      "normalized": 4.5955
+    },
+    "filmweb": {
+      "rating": 5.21,
+      "votes": 229,
+      "distribution": {
+        "1": 8,
+        "2": 11,
+        "3": 30,
+        "4": 22,
+        "5": 48,
+        "6": 47,
+        "7": 42,
+        "8": 21,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 3.897
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "18.02.2013",
+      "normalized": 4.9718
+    },
+    "score": 4.4881
+  },
+  "polish_title": "Policjant",
+  "silent": false,
+  "description_pl": "Yaron jest członkiem elitarnej jednostki antyterrorystycznej policji izraelskiej. On i jego koledzy zapewniają ostateczną obronę przed \"wrogiem arabskim\". Yaron kocha swoją jednostkę i męskie braterstwo. Kocha także swoją żonę, która niedługo ma urodzić dziecko. Spotkanie z radykalnym, stosującym przemoc ugrupowaniem wywraca jego życie do góry nogami, wymuszając konfrontację nie tylko z izraelską wojną klasową, lecz także z jego własnymi wewnętrznymi konfliktami.",
+  "cinematographers": [
+    {
+      "id": "nm0325905",
+      "name": "Shai Goldman"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

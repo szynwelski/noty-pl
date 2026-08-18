@@ -1,0 +1,220 @@
+{
+  "imdb_id": "tt0053125",
+  "title": "North by Northwest",
+  "description": "A New York City advertising executive goes on the run after being mistaken for a government agent by a group of foreign spies, and falls for a woman whose loyalties he begins to doubt.",
+  "runtime_minutes": 136,
+  "release_date": "18.12.1959",
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000026",
+      "name": "Cary Grant"
+    },
+    {
+      "id": "nm0001693",
+      "name": "Eva Marie Saint"
+    },
+    {
+      "id": "nm0000051",
+      "name": "James Mason"
+    },
+    {
+      "id": "nm0484829",
+      "name": "Jessie Royce Landis"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000033",
+      "name": "Alfred Hitchcock"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0499626",
+      "name": "Ernest Lehman"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000026",
+      "name": "Cary Grant",
+      "character": "Roger Thornhill"
+    },
+    {
+      "id": "nm0001693",
+      "name": "Eva Marie Saint",
+      "character": "Eve Kendall"
+    },
+    {
+      "id": "nm0000051",
+      "name": "James Mason",
+      "character": "Phillip Vandamm"
+    },
+    {
+      "id": "nm0484829",
+      "name": "Jessie Royce Landis",
+      "character": "Clara Thornhill"
+    },
+    {
+      "id": "nm0001991",
+      "name": "Leo G. Carroll",
+      "character": "The Professor"
+    },
+    {
+      "id": "nm0404360",
+      "name": "Josephine Hutchinson",
+      "character": "Mrs. Townsend"
+    },
+    {
+      "id": "nm0643211",
+      "name": "Philip Ober",
+      "character": "Lester Townsend"
+    },
+    {
+      "id": "nm0001445",
+      "name": "Martin Landau",
+      "character": "Leonard"
+    },
+    {
+      "id": "nm0929965",
+      "name": "Adam Williams",
+      "character": "Valerian"
+    },
+    {
+      "id": "nm0686857",
+      "name": "Edward Platt",
+      "character": "Victor Larrabee"
+    },
+    {
+      "id": "nm0254006",
+      "name": "Robert Ellenstein",
+      "character": "Licht"
+    },
+    {
+      "id": "nm0871876",
+      "name": "Les Tremayne",
+      "character": "Auctioneer"
+    },
+    {
+      "id": "nm0177642",
+      "name": "Philip Coolidge",
+      "character": "Dr. Cross"
+    },
+    {
+      "id": "nm0574686",
+      "name": "Patrick McVey",
+      "character": "Sergeant Flamm"
+    },
+    {
+      "id": "nm0083081",
+      "name": "Edward Binns",
+      "character": "Captain Junket"
+    },
+    {
+      "id": "nm0528373",
+      "name": "Ken Lynch",
+      "character": "Charley"
+    },
+    {
+      "id": "nm0011366",
+      "name": "Stanley Adams",
+      "character": "Lieutenant Harding"
+    },
+    {
+      "id": "nm0013866",
+      "name": "David Ahdar",
+      "character": "Auction Guest"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "color": null,
+  "filmweb_id": 8770,
+  "year": 1959,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZWIzODI2OGItMzM0Ny00OGRmLTlkNmItMDQxMTFmMTk3YmQwXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8.3,
+      "votes": 370771,
+      "distribution": {
+        "1": 3580,
+        "2": 1312,
+        "3": 1743,
+        "4": 3203,
+        "5": 7238,
+        "6": 18321,
+        "7": 56802,
+        "8": 110677,
+        "9": 92155,
+        "10": 75740
+      },
+      "normalized": 8.3723
+    },
+    "filmweb": {
+      "rating": 7.72,
+      "votes": 25766,
+      "distribution": {
+        "1": 96,
+        "2": 22,
+        "3": 83,
+        "4": 187,
+        "5": 641,
+        "6": 2150,
+        "7": 6728,
+        "8": 9934,
+        "9": 4171,
+        "10": 1754
+      },
+      "normalized": 7.3725
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "18.02.2011",
+      "normalized": 6.4102
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "19.10.2005",
+      "normalized": 6.3474
+    },
+    "score": 7.1256
+  },
+  "polish_title": "Północ - północny zachód",
+  "silent": false,
+  "description_pl": "Roger Thornhill jest pracownikiem agencji reklamowej. Pewnego dnia mężczyzna wychodząc z pracy zostaje porwany przez szpiegów obcego wywiadu, którzy biorą go za agenta CIA. Po przesłuchaniu próbują zabić mężczyznę. Thornhillowi udaje się przeżyć, ale musi uciekać przed ścigającymi go agentami.",
+  "producers": [
+    {
+      "id": "nm0171050",
+      "name": "Herbert Coleman"
+    },
+    {
+      "id": "nm0000033",
+      "name": "Alfred Hitchcock"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0002136",
+      "name": "Bernard Herrmann"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0122079",
+      "name": "Robert Burks"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

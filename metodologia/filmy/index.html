@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🎬</text></svg>">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Metodologia oceniania filmów — Noty</title>
+  <link rel="stylesheet" href="../../static/style.css">
+  <style>
+    .prose { max-width: 720px; }
+    .prose h2 { margin-top: 2.5rem; margin-bottom: .75rem; }
+    .prose p  { margin-bottom: 1rem; color: var(--text); line-height: 1.75; }
+    .prose ul { margin: .5rem 0 1rem 1.5rem; }
+    .prose li { margin-bottom: .4rem; line-height: 1.7; }
+    .prose code {
+      background: var(--border);
+      border-radius: 4px;
+      padding: .1em .4em;
+      font-size: .88em;
+      font-family: ui-monospace, monospace;
+    }
+    .formula {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: .9rem 1.25rem;
+      margin: 1rem 0;
+      font-family: ui-monospace, monospace;
+      font-size: .9rem;
+      overflow-x: auto;
+    }
+    .step {
+      display: flex;
+      gap: 1rem;
+      margin-bottom: 1.5rem;
+      align-items: flex-start;
+    }
+    .step-num {
+      min-width: 2rem;
+      height: 2rem;
+      background: var(--accent);
+      color: #fff;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: 700;
+      font-size: .85rem;
+      margin-top: .15rem;
+    }
+    .step-body { flex: 1; }
+    .step-body strong { display: block; margin-bottom: .3rem; }
+    .dist { max-width: 1000px; }
+    .dist-block { margin-bottom: 2.2rem; }
+    .dist-block h3 { font-size: 1rem; margin: 1.5rem 0 .8rem; }
+    .dist-row { display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; }
+    .dist-half { max-width: 500px; }
+    .dist-cap { font-size: .72rem; text-transform: uppercase; letter-spacing: .05em; color: var(--muted); font-weight: 600; margin-bottom: .4rem; }
+    @media (max-width: 640px) { .dist-row { grid-template-columns: 1fr; } }
+    .note {
+      background: var(--surface);
+      border-left: 3px solid var(--accent);
+      padding: .75rem 1rem;
+      border-radius: 0 var(--radius) var(--radius) 0;
+      margin: 1rem 0;
+      font-size: .9rem;
+      color: var(--muted);
+    }
+  </style>
+</head>
+<body>
+  <nav>
+    <a class="logo" href="/">no<span>ty</span></a>
+    <a class="nav-link" href="/">Filmy</a>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Osoby <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/osoba/rezyser/">Reżyserzy</a>
+        <a href="/osoba/scenarzysta/">Scenarzyści</a>
+        <a href="/osoba/gwiazda/">Gwiazdy</a>
+        <a href="/osoba/aktor/">Aktorzy</a>
+        <a href="/osoba/kompozytor/">Kompozytorzy</a>
+        <a href="/osoba/operator/">Operatorzy</a>
+        <a href="/osoba/producent/">Producenci</a>
+        <a href="/osoba/wszechstronna/">Wszechstronni</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Krytycy <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/krytyk/jarek/">Jarek</a>
+        <a href="/krytyk/michal/">Michał</a>
+        <a href="/krytyk/imdb/">IMDb</a>
+        <a href="/krytyk/filmweb/">Filmweb</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Kategorie <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/kategoria/gatunek/">Gatunki</a>
+        <a href="/kategoria/kraj/">Kraje</a>
+        <a href="/kategoria/jezyk/">Języki</a>
+        <a href="/kategoria/dekada/">Dekady</a>
+        <a href="/kategoria/rok/">Lata</a>
+        <a href="/kategoria/czas/">Czas trwania</a>
+        <a href="/kategoria/popularnosc/">Popularność</a>
+        <hr>
+        <a href="/kategoria/plec/">Płeć</a>
+        <a href="/kategoria/obywatelstwo/">Obywatelstwo</a>
+        <a href="/kategoria/urodzenie/">Urodzenie</a>
+        <a href="/kategoria/wiek/">Wiek</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Statystyki <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/statystyki/podsumowanie/">Podsumowanie</a>
+        <a href="/statystyki/rekordy/">Rekordy</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Metodologia <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/metodologia/filmy/">Filmy</a>
+        <a href="/metodologia/osoby/">Osoby</a>
+        <a href="/metodologia/kategorie-filmow/">Kategorie filmów</a>
+        <a href="/metodologia/kategorie-osob/">Kategorie osób</a>
+      </div>
+    </div>
+    <button id="search-global-btn" class="nav-search-btn" title="Szukaj (⌘K)">
+      <svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+    </button>
+  </nav>
+  <div id="search-modal" class="search-modal">
+    <div id="search-modal-backdrop" class="search-modal-backdrop"></div>
+    <div class="search-modal-box">
+      <div class="search-modal-header">
+        <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink:0;color:var(--muted)"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        <input id="search-modal-input" class="search-modal-input" type="text" placeholder="Szukaj filmów i osób…" autocomplete="off" spellcheck="false">
+        <kbd class="search-modal-esc">Esc</kbd>
+      </div>
+      <div id="search-modal-results" class="search-modal-results"></div>
+    </div>
+  </div>
+  <script src="/static/search.js"></script>
+
+  <div class="container">
+    <div class="prose">
+      <h1>Jak obliczana jest ocena filmów?</h1>
+
+      <p>
+        Każdy film ma cztery źródła ocen: dwóch krytyków (<strong>Michał</strong> i <strong>Jarek</strong>)
+        oraz dwa serwisy (<strong><a href="https://www.filmweb.pl" target="_blank" rel="noopener">Filmweb</a></strong>
+        i <strong><a href="https://www.imdb.com" target="_blank" rel="noopener">IMDb</a></strong>).
+        Problem polega na tym, że te skale są ze sobą nieporównywalne —
+        Michał chętniej daje najwyższe noty, Jarek je oszczędza; IMDb nagradza popularne filmy
+        wyższymi średnimi niż Filmweb. Bezpośrednie uśrednienie dałoby wypaczony wynik.
+      </p>
+      <p>
+        Zamiast tego każda ocena jest najpierw <strong>normalizowana</strong> do wspólnej skali,
+        a dopiero potem uśredniana.
+      </p>
+
+      <h2>Krok po kroku</h2>
+
+      <div class="step">
+        <div class="step-num">1</div>
+        <div class="step-body">
+          <strong>Korekta bayesowska (tylko IMDb i Filmweb)</strong>
+          <p>
+            Średnia ocena na IMDb oparta na 50 głosach jest mało wiarygodna.
+            Zanim cokolwiek normalizujemy, przyciągamy ją w stronę średniej całego zbioru
+            proporcjonalnie do tego, jak mało mamy głosów:
+          </p>
+          <div class="formula">
+            ocena_kor = (liczba_głosów × ocena + K × średnia_globalna) / (liczba_głosów + K)
+          </div>
+          <p>
+            Parametr <code>K</code> oznacza „wirtualną" liczbę głosów prioru:
+            <code>K = 1000</code> dla <a href="https://www.imdb.com" target="_blank" rel="noopener">IMDb</a>,
+            <code>K = 500</code> dla <a href="https://www.filmweb.pl" target="_blank" rel="noopener">Filmwebu</a>
+            (Filmweb ma ~3× mniej głosów niż IMDb, więc jego próg jest odpowiednio niższy).
+            Film z milionem głosów praktycznie nie zmienia swojej oceny;
+            film z 80 głosami zostaje mocno przyciągnięty do średniej.
+          </p>
+          <div class="note">
+            Oceny Michała i Jarka są pewne przez sam fakt wystawienia — ten krok ich nie dotyczy.
+          </div>
+        </div>
+      </div>
+
+      <div class="step">
+        <div class="step-num">2</div>
+        <div class="step-body">
+          <strong>Obliczenie percentyla</strong>
+          <p>
+            Dla każdego źródła z osobna sprawdzamy, gdzie dana ocena wypada
+            na tle wszystkich filmów w bazie. Jeśli film dostał od Jarka wyższy wynik
+            niż 90% pozostałych jego ocen — jego percentyl wynosi 0,90.
+          </p>
+          <div class="formula">
+            percentyl = liczba_filmów_z_oceną_≤_x / liczba_wszystkich_ocenionych_filmów
+          </div>
+          <p>
+            Percentyl jest zawsze w przedziale [0, 1].
+            Dzięki temu każde źródło jest normalizowane względem <em>własnej</em> skali —
+            skąpy krytyk i hojny krytyk są traktowani sprawiedliwie.
+          </p>
+        </div>
+      </div>
+
+      <div class="step">
+        <div class="step-num">3</div>
+        <div class="step-body">
+          <strong>Mapowanie percentyla na skalę 1–10</strong>
+          <p>
+            Percentyl mapujemy na docelowy rozkład normalny N(5,5 ; 1,5)
+            za pomocą odwrotnej funkcji dystrybuanty (PPF — <em>Percent Point Function</em>).
+            Oznacza to, że film na 50. percentylu dostaje ~5,5;
+            film na 84. percentylu ~7,0; film na 16. percentylu ~4,0.
+          </p>
+          <div class="formula">
+            ocena_norm = PPF(percentyl, średnia=5,5, odch_std=1,5)
+          </div>
+          <p>
+            Wynik jest obcinany do przedziału [1, 10].
+            Percentyle ekstremalne (poniżej 0,1% i powyżej 99,9%) są przycinane,
+            żeby uniknąć wartości ±∞.
+          </p>
+          <div class="note">
+            Dlaczego rozkład normalny, a nie liniowy? Bo chcemy, żeby różnice
+            w środku skali (np. między 5,0 a 6,0) były tak samo znaczące jak
+            na końcach. Rozkład normalny jest symetryczny i naturalnie
+            skupia większość filmów wokół średniej.
+          </div>
+        </div>
+      </div>
+
+      <div class="step">
+        <div class="step-num">4</div>
+        <div class="step-body">
+          <strong>Uśrednienie składowych</strong>
+          <p>
+            Końcowa ocena to prosta średnia ze znormalizowanych wartości ze wszystkich czterech źródeł.
+            Krytycy i serwisy są jednak traktowani różnie w przypadku brakujących ocen:
+          </p>
+          <ul>
+            <li><strong>Krytycy (Michał, Jarek)</strong> — uwzględniani tylko gdy ocenili dany film.
+              Brak oceny oznacza, że film po prostu nie był widziany.</li>
+            <li><strong>Serwisy (IMDb, Filmweb)</strong> — zawsze uczestniczą w obliczeniu.
+              Gdy brakuje oceny, zamiast niej wstawiana jest wartość neutralna <code>5,5</code>
+              (środek wspólnej skali, równy globalnej średniej po normalizacji).</li>
+          </ul>
+          <div class="formula">
+            score = średnia(norm_Michał*, norm_Jarek*, norm_Filmweb**, norm_IMDb**)
+            <br><br>
+            *  — składowa pomijana gdy brak oceny
+            ** — składowa = 5,5 gdy brak oceny
+          </div>
+          <p>
+            Dzięki temu film oceniony tylko przez jednego krytyka nie trafi automatycznie na szczyt
+            rankingu — brak oceny z serwisów „przyciąga" wynik ku środkowi skali,
+            sygnalizując niepewność co do jego wartości.
+          </p>
+          <div class="note">
+            Przykład: film oceniony tylko przez Jarka na 8/10 (znorm. ≈ 7,9) bez ocen z IMDb i Filmwebu
+            dostaje score = średnia(7,9; 5,5; 5,5) ≈ 6,3 — a nie 7,9.
+          </div>
+        </div>
+      </div>
+
+      <h2>Dlaczego rzadka „10" jest warta więcej?</h2>
+      <p>
+        Przykład: Jarek dał „10" tylko czterem filmom, Michał — aż trzynastu.
+        Film z „10" od Jarka jest na 99,9. percentylu jego skali
+        → znormalizowana ocena ≈ 10,00.
+        Ten sam film z „10" od Michała jest tylko na ~99,7 percentyla —
+        dogania go 12 innych filmów z taką samą najwyższą notą —
+        → znormalizowana ocena ≈ 9,68.
+        To celowe: im rzadziej krytyk sięga po najwyższą ocenę, tym mocniej wyróżnia ona
+        film po normalizacji. Normalizacja premiuje wymagania i konsekwencję krytyka.
+      </p>
+
+      <h2>Rozkłady ocen przed i po normalizacji</h2>
+      <p>
+        Dla każdego źródła po lewej widać rozkład surowych ocen, a po prawej ten sam
+        zbiór po normalizacji — sprowadzony do wspólnej skali ze średnią ~5,5.
+        Widać, jak skąpi i hojni krytycy schodzą do jednej skali, a na końcu rozkład
+        oceny końcowej. Najedź na słupek, by zobaczyć liczbę filmów.
+      </p>
+    </div>
+
+    <div id="dist" class="dist"></div>
+  </div>
+
+  <div id="tooltip"></div>
+  <script src="../../static/tooltip.js"></script>
+  <script src="../../static/histogram.js"></script>
+  <script>
+    // [key, label, decimals for raw mean, useUniqueValues for raw histogram]
+    const SRC = [
+      ['michal', 'Michał', 0, true],
+      ['jarek', 'Jarek', 0, true],
+      ['imdb', 'IMDb', 2, false],
+      ['filmweb', 'Filmweb', 2, false],
+    ];
+    fetch('../../data/movies_index.json')
+      .then(r => r.json())
+      .then(movies => {
+        const raw = { michal: [], jarek: [], imdb: [], filmweb: [] };
+        const norm = { michal: [], jarek: [], imdb: [], filmweb: [] };
+        const scores = [];
+        movies.forEach(m => {
+          const r = m.ratings || {};
+          for (const k of ['michal', 'jarek', 'imdb', 'filmweb']) {
+            if (r[k]?.rating != null) raw[k].push(r[k].rating);
+            if (r[k]?.normalized != null) norm[k].push(r[k].normalized);
+          }
+          if (m.score != null) scores.push(m.score);
+        });
+
+        let html = '';
+        for (const [k, label] of SRC) {
+          html += `<div class="dist-block"><h3>${label}</h3><div class="dist-row">` +
+            `<div><div class="dist-cap">Surowe oceny</div><div class="stat-cards" id="s-raw-${k}"></div><div class="histogram" id="h-raw-${k}"></div></div>` +
+            `<div><div class="dist-cap">Po normalizacji</div><div class="stat-cards" id="s-norm-${k}"></div><div class="histogram" id="h-norm-${k}"></div></div>` +
+            `</div></div>`;
+        }
+        html += `<div class="dist-block"><h3>Ocena końcowa</h3><div class="dist-half"><div class="stat-cards" id="s-score"></div><div class="histogram" id="h-score"></div></div></div>`;
+        document.getElementById('dist').innerHTML = html;
+
+        for (const [k, , rawDec, isIntRaw] of SRC) {
+          renderStats(`s-raw-${k}`, raw[k], rawDec);
+          renderHistogram(`h-raw-${k}`, raw[k], isIntRaw);
+          renderStats(`s-norm-${k}`, norm[k], 2);
+          renderHistogram(`h-norm-${k}`, norm[k], isIntRaw);
+        }
+        renderStats('s-score', scores, 2);
+        renderHistogram('h-score', scores, false);
+      });
+  </script>
+</body>
+</html>

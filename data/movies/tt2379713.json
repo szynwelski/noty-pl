@@ -1,0 +1,281 @@
+{
+  "imdb_id": "tt2379713",
+  "title": "Spectre",
+  "description": "A cryptic message from James Bond's past sends him on a trail to uncover the existence of a sinister organisation named SPECTRE. With a new threat dawning, Bond learns the terrible truth about the author of all his pain in his most recent missions.",
+  "runtime_minutes": 148,
+  "release_date": "06.11.2015",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0185819",
+      "name": "Daniel Craig"
+    },
+    {
+      "id": "nm0910607",
+      "name": "Christoph Waltz"
+    },
+    {
+      "id": "nm2244205",
+      "name": "Léa Seydoux"
+    },
+    {
+      "id": "nm0000146",
+      "name": "Ralph Fiennes"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0005222",
+      "name": "Sam Mendes"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0517589",
+      "name": "John Logan"
+    },
+    {
+      "id": "nm0701031",
+      "name": "Neal Purvis"
+    },
+    {
+      "id": "nm0905498",
+      "name": "Robert Wade"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0185819",
+      "name": "Daniel Craig",
+      "character": "James Bond"
+    },
+    {
+      "id": "nm0910607",
+      "name": "Christoph Waltz",
+      "character": "Blofeld"
+    },
+    {
+      "id": "nm2244205",
+      "name": "Léa Seydoux",
+      "character": "Madeleine"
+    },
+    {
+      "id": "nm0000146",
+      "name": "Ralph Fiennes",
+      "character": "M"
+    },
+    {
+      "id": "nm0000899",
+      "name": "Monica Bellucci",
+      "character": "Lucia"
+    },
+    {
+      "id": "nm0924210",
+      "name": "Ben Whishaw",
+      "character": "Q"
+    },
+    {
+      "id": "nm0365140",
+      "name": "Naomie Harris",
+      "character": "Moneypenny"
+    },
+    {
+      "id": "nm1176985",
+      "name": "Dave Bautista",
+      "character": "Hinx"
+    },
+    {
+      "id": "nm0778831",
+      "name": "Andrew Scott",
+      "character": "C"
+    },
+    {
+      "id": "nm1239499",
+      "name": "Rory Kinnear",
+      "character": "Tanner"
+    },
+    {
+      "id": "nm0159802",
+      "name": "Jesper Christensen",
+      "character": "Mr. White"
+    },
+    {
+      "id": "nm0187361",
+      "name": "Alessandro Cremona",
+      "character": "Marco Sciarra"
+    },
+    {
+      "id": "nm2362713",
+      "name": "Stephanie Sigman",
+      "character": "Estrella"
+    },
+    {
+      "id": "nm2204178",
+      "name": "Tenoch Huerta",
+      "character": "Mexican Man in Lift"
+    },
+    {
+      "id": "nm2578315",
+      "name": "Adriana Paz",
+      "character": "Mexican Woman in Lift"
+    },
+    {
+      "id": "nm0287398",
+      "name": "Domenico Fortunato",
+      "character": "Gallo"
+    },
+    {
+      "id": "nm2940827",
+      "name": "Marco Zingaro",
+      "character": "Gallo's Accomplice"
+    },
+    {
+      "id": "nm7469129",
+      "name": "Stefano Elfi DiClaudia",
+      "character": "Gallo's Accomplice"
+    }
+  ],
+  "countries": [
+    "United Kingdom",
+    "United States",
+    "Morocco",
+    "Italy",
+    "Austria",
+    "Canada",
+    "Mexico"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Italian",
+    "Spanish",
+    "French",
+    "Ukrainian"
+  ],
+  "color": "Color",
+  "filmweb_id": 654406,
+  "year": 2015,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzA5MzFiNDAtYTI0NC00MDE5LTljYTctYTNkODk1OTZlODI5XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.8,
+      "votes": 500294,
+      "distribution": {
+        "1": 5075,
+        "2": 3305,
+        "3": 6185,
+        "4": 14063,
+        "5": 38379,
+        "6": 106475,
+        "7": 174156,
+        "8": 95232,
+        "9": 30153,
+        "10": 27271
+      },
+      "normalized": 5.0787
+    },
+    "filmweb": {
+      "rating": 6.74,
+      "votes": 197924,
+      "distribution": {
+        "1": 1045,
+        "2": 876,
+        "3": 3533,
+        "4": 6139,
+        "5": 21087,
+        "6": 45336,
+        "7": 65375,
+        "8": 36805,
+        "9": 10712,
+        "10": 7016
+      },
+      "normalized": 4.9541
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "03.01.2016",
+      "normalized": 5.6855
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "10.11.2015",
+      "normalized": 4.5781
+    },
+    "score": 5.0741
+  },
+  "polish_title": "Spectre",
+  "silent": false,
+  "description_pl": "Tajemnicza wiadomość na temat przeszłości Bonda skieruje go na trop złowrogiej organizacji WIDMO. Podczas gdy M toczy polityczną batalię o przyszłość MI6, agent 007 odkrywa przerażającą prawdę o najpotężniejszej instytucji przestępczej świata.",
+  "producers": [
+    {
+      "id": "nm0015997",
+      "name": "Zakaria Alaoui"
+    },
+    {
+      "id": "nm0110483",
+      "name": "Barbara Broccoli"
+    },
+    {
+      "id": "nm4721227",
+      "name": "Gary Bunn"
+    },
+    {
+      "id": "nm0185819",
+      "name": "Daniel Craig"
+    },
+    {
+      "id": "nm0539378",
+      "name": "Roberto Malerba"
+    },
+    {
+      "id": "nm0568223",
+      "name": "Callum McDougall"
+    },
+    {
+      "id": "nm0633437",
+      "name": "Andrew Noakes"
+    },
+    {
+      "id": "nm1142384",
+      "name": "Stacy Perskie"
+    },
+    {
+      "id": "nm0691102",
+      "name": "David Pope"
+    },
+    {
+      "id": "nm0708444",
+      "name": "Wolfgang Ramml"
+    },
+    {
+      "id": "nm0854991",
+      "name": "Jayne-Ann Tenggren"
+    },
+    {
+      "id": "nm1921196",
+      "name": "Gregg Wilson"
+    },
+    {
+      "id": "nm0933865",
+      "name": "Michael G. Wilson"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0002353",
+      "name": "Thomas Newman"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0887227",
+      "name": "Hoyte van Hoytema"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

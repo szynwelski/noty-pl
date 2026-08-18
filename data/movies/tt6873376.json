@@ -1,0 +1,117 @@
+{
+  "imdb_id": "tt6873376",
+  "title": "A Glimpse",
+  "description": "A blossoming relationship unfolds when two strangers have a chance encounter in a London cafe.",
+  "runtime_minutes": 10,
+  "release_date": "22.01.2020",
+  "genres": [
+    "Short",
+    "Drama",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm1546084",
+      "name": "Chris Overton"
+    },
+    {
+      "id": "nm2053650",
+      "name": "Rachel Shenton"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm5089737",
+      "name": "Tom Turner"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm5089160",
+      "name": "Samuel Berrill"
+    },
+    {
+      "id": "nm5089737",
+      "name": "Tom Turner"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1546084",
+      "name": "Chris Overton",
+      "character": "Alex"
+    },
+    {
+      "id": "nm2053650",
+      "name": "Rachel Shenton",
+      "character": "Jess"
+    }
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 848790,
+  "year": 2019,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYWNjZGIxZDgtODM4MS00MGVlLWE3NmItZjkyYmQ4M2I2ODA2XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7,
+      "votes": 296,
+      "distribution": {
+        "1": 5,
+        "2": 4,
+        "3": 7,
+        "4": 6,
+        "5": 15,
+        "6": 51,
+        "7": 96,
+        "8": 72,
+        "9": 21,
+        "10": 19
+      },
+      "normalized": 5.3767
+    },
+    "filmweb": {
+      "rating": 6.14,
+      "votes": 110,
+      "distribution": {
+        "2": 1,
+        "3": 3,
+        "4": 3,
+        "5": 27,
+        "6": 32,
+        "7": 29,
+        "8": 13,
+        "9": 2,
+        "10": 0
+      },
+      "normalized": 4.7483
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "06.12.2022",
+      "normalized": 4.5781
+    },
+    "score": 4.901
+  },
+  "polish_title": "A Glimpse",
+  "silent": false,
+  "composers": [
+    {
+      "id": "nm5555296",
+      "name": "James Wedlock"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm8538781",
+      "name": "Ali Farahani"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

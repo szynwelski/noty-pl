@@ -1,0 +1,89 @@
+{
+  "id": "nm0003620",
+  "name": "Kevin Smith",
+  "filmography": [
+    {
+      "imdb_id": "tt0109445",
+      "title": "Clerks",
+      "year": 1994,
+      "roles": [
+        "director",
+        "writer",
+        "cast",
+        "producer"
+      ],
+      "character": "Silent Bob"
+    },
+    {
+      "imdb_id": "tt0113749",
+      "title": "Mallrats",
+      "year": 1995,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0119217",
+      "title": "Good Will Hunting",
+      "year": 1997,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0120655",
+      "title": "Dogma",
+      "year": 1999,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0261392",
+      "title": "Jay and Silent Bob Strike Back",
+      "year": 2001,
+      "roles": [
+        "director",
+        "writer",
+        "star",
+        "cast"
+      ],
+      "character": "Silent Bob"
+    },
+    {
+      "imdb_id": "tt0395495",
+      "title": "Catch and Release",
+      "year": 2006,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Sam"
+    },
+    {
+      "imdb_id": "tt0337978",
+      "title": "Live Free or Die Hard",
+      "year": 2007,
+      "roles": [
+        "cast"
+      ],
+      "character": "Warlock"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTgwYjUwMGMtMDcwMC00NTg1LWIwOTAtOTFmOGUzYjM2OGRlXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "02.08.1970",
+  "birth_location": "Red Bank, New Jersey, USA",
+  "height": "1.73 m",
+  "filmweb_id": 4980,
+  "name_pl": "Kevin Smith",
+  "birth_location_pl": "Red Bank, New Jersey",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 4980
+}

@@ -1,0 +1,81 @@
+{
+  "imdb_id": "tt0229725",
+  "title": "Shooting Captured Insurgents",
+  "description": "\"A file of Spanish soldiers line up the Cubans against a blank wall and fire a volley. The flash of rifles and drifting smoke make a very striking picture.\" - from the Edison Catalog",
+  "runtime_minutes": 1,
+  "release_date": "03.08.1898",
+  "genres": [
+    "Short",
+    "War"
+  ],
+  "directors": [
+    {
+      "id": "nm2092030",
+      "name": "George S. Fleming"
+    },
+    {
+      "id": "nm0692105",
+      "name": "Edwin S. Porter"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 409665,
+  "year": 1898,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOTNlYjA5YTQtYzUwMS00ZmMzLWFlODAtZjdmYjUwODQ4YTdkXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 4.6,
+      "votes": 363,
+      "distribution": {
+        "1": 39,
+        "2": 18,
+        "3": 41,
+        "4": 54,
+        "5": 84,
+        "6": 68,
+        "7": 27,
+        "8": 14,
+        "9": 3,
+        "10": 15
+      },
+      "normalized": 4.0185
+    },
+    "filmweb": {
+      "rating": 4.69,
+      "votes": 16,
+      "distribution": {
+        "1": 1,
+        "2": 0,
+        "3": 2,
+        "4": 4,
+        "5": 4,
+        "6": 3,
+        "7": 2,
+        "8": 0,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 4.9067
+    },
+    "jarek": {
+      "rating": 8,
+      "date_rated": "11.12.2016",
+      "normalized": 7.8989
+    },
+    "score": 5.608
+  },
+  "polish_title": "Shooting Captured Insurgents",
+  "silent": true,
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-16"
+}

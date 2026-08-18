@@ -1,0 +1,47 @@
+{
+  "id": "nm1019674",
+  "name": "Sala Baker",
+  "filmography": [
+    {
+      "imdb_id": "tt0120737",
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001,
+      "roles": [
+        "cast"
+      ],
+      "character": "Sauron"
+    },
+    {
+      "imdb_id": "tt0167261",
+      "title": "The Lord of the Rings: The Two Towers",
+      "year": 2002,
+      "roles": [
+        "cast"
+      ],
+      "character": "Man Flesh Uruk"
+    },
+    {
+      "imdb_id": "tt1136617",
+      "title": "The Killer",
+      "year": 2023,
+      "roles": [
+        "cast"
+      ],
+      "character": "The Brute"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDdlZDNmNGEtYjM3MC00ZWQ3LTk0MWEtNzRiNWIxNDcwNzY1XkEyXkFqcGc@._V1_.jpg",
+  "image_url_small": "https://m.media-amazon.com/images/M/MV5BNDdlZDNmNGEtYjM3MC00ZWQ3LTk0MWEtNzRiNWIxNDcwNzY1XkEyXkFqcGc@._V1_CR146,1,2333,3499_.jpg",
+  "birth_date": "22.09.1976",
+  "birth_location": "Wellington, New Zealand",
+  "height": "1.88 m",
+  "filmweb_id": 140453,
+  "name_pl": "Sala Baker",
+  "birth_location_pl": "Wellington",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Nowa Zelandia"
+  ]
+}

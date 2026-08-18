@@ -1,0 +1,265 @@
+{
+  "imdb_id": "tt1411238",
+  "title": "No Strings Attached",
+  "description": "A guy and girl try to keep their relationship strictly physical, but it's not long before they learn that they want something more.",
+  "runtime_minutes": 108,
+  "release_date": "21.01.2011",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0000204",
+      "name": "Natalie Portman"
+    },
+    {
+      "id": "nm0005110",
+      "name": "Ashton Kutcher"
+    },
+    {
+      "id": "nm0000177",
+      "name": "Kevin Kline"
+    },
+    {
+      "id": "nm0000144",
+      "name": "Cary Elwes"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0718645",
+      "name": "Ivan Reitman"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm2057975",
+      "name": "Elizabeth Meriwether"
+    },
+    {
+      "id": "nm0759986",
+      "name": "Michael Samonek"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000204",
+      "name": "Natalie Portman",
+      "character": "Emma"
+    },
+    {
+      "id": "nm0005110",
+      "name": "Ashton Kutcher",
+      "character": "Adam"
+    },
+    {
+      "id": "nm0000177",
+      "name": "Kevin Kline",
+      "character": "Alvin"
+    },
+    {
+      "id": "nm0000144",
+      "name": "Cary Elwes",
+      "character": "Dr. Metzner"
+    },
+    {
+      "id": "nm1950086",
+      "name": "Greta Gerwig",
+      "character": "Patrice"
+    },
+    {
+      "id": "nm1128572",
+      "name": "Lake Bell",
+      "character": "Lucy"
+    },
+    {
+      "id": "nm1880888",
+      "name": "Olivia Thirlby",
+      "character": "Katie"
+    },
+    {
+      "id": "nm0524839",
+      "name": "Ludacris",
+      "character": "Wallace"
+    },
+    {
+      "id": "nm2159926",
+      "name": "Jake Johnson",
+      "character": "Eli"
+    },
+    {
+      "id": "nm1411676",
+      "name": "Mindy Kaling",
+      "character": "Shira"
+    },
+    {
+      "id": "nm0051104",
+      "name": "Talia Balsam",
+      "character": "Sandra Kurtzman"
+    },
+    {
+      "id": "nm1166041",
+      "name": "Ophelia Lovibond",
+      "character": "Vanessa"
+    },
+    {
+      "id": "nm1502218",
+      "name": "Guy Branum",
+      "character": "Guy"
+    },
+    {
+      "id": "nm0493159",
+      "name": "Ben Lawson",
+      "character": "Sam"
+    },
+    {
+      "id": "nm0410400",
+      "name": "Jennifer Irwin",
+      "character": "Megan"
+    },
+    {
+      "id": "nm2290876",
+      "name": "Adhir Kalyan",
+      "character": "Kevin"
+    },
+    {
+      "id": "nm1619626",
+      "name": "Brian H. Dierker",
+      "character": "Bones"
+    },
+    {
+      "id": "nm2212031",
+      "name": "Abby Elliott",
+      "character": "Joy"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Ukrainian"
+  ],
+  "color": "Color",
+  "filmweb_id": 565167,
+  "year": 2011,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTg2MDQ1NTEzNl5BMl5BanBnXkFtZTcwOTgxNTMyNA@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.2,
+      "votes": 256475,
+      "distribution": {
+        "1": 4041,
+        "2": 3347,
+        "3": 6179,
+        "4": 13810,
+        "5": 35368,
+        "6": 73542,
+        "7": 65638,
+        "8": 30021,
+        "9": 10588,
+        "10": 13941
+      },
+      "normalized": 3.9019
+    },
+    "filmweb": {
+      "rating": 6.38,
+      "votes": 126937,
+      "distribution": {
+        "1": 566,
+        "2": 977,
+        "3": 3718,
+        "4": 6881,
+        "5": 17478,
+        "6": 35056,
+        "7": 37895,
+        "8": 16874,
+        "9": 4712,
+        "10": 2780
+      },
+      "normalized": 4.0454
+    },
+    "jarek": {
+      "rating": 2,
+      "date_rated": "30.08.2011",
+      "normalized": 3.5003
+    },
+    "score": 3.8159
+  },
+  "polish_title": "Sex Story",
+  "silent": false,
+  "description_pl": "Emma (<a href=\"/osoba/?id=nm0000204\">Natalie Portman</a>) i Adam (<a href=\"/osoba/?id=nm0005110\">Ashton Kutcher</a>) przypadkowo spotykają się po latach. Ponieważ Emma cierpi na swego rodzaju \"alergię na związki\", a Adam zupełnie je odrzucił – zresztą dlatego, że jego ojciec (<a href=\"/osoba/?id=nm0000177\">Kevin Kline</a>) zaczął spotykać się z jego byłą dziewczyną - oboje decydują wyrzec się emocji, z jakimi ma się do czynienia będąc w romantycznym związku i zostać przyjaciółmi. Zero zaangażowania, kłamstw, zazdrości, wspólnych śniadań, tęsknoty... jednym słowem żadnych zobowiązań.",
+  "producers": [
+    {
+      "id": "nm0053388",
+      "name": "Gary Barber"
+    },
+    {
+      "id": "nm2093343",
+      "name": "Ali Bell"
+    },
+    {
+      "id": "nm0083696",
+      "name": "Roger Birnbaum"
+    },
+    {
+      "id": "nm0115537",
+      "name": "Lisa Bruce"
+    },
+    {
+      "id": "nm0166641",
+      "name": "Jeffrey Clifford"
+    },
+    {
+      "id": "nm0322802",
+      "name": "Jonathan Glickman"
+    },
+    {
+      "id": "nm0575817",
+      "name": "Joe Medjuck"
+    },
+    {
+      "id": "nm2057975",
+      "name": "Elizabeth Meriwether"
+    },
+    {
+      "id": "nm1949815",
+      "name": "Gerald D. Moon"
+    },
+    {
+      "id": "nm0689696",
+      "name": "Tom Pollock"
+    },
+    {
+      "id": "nm0000204",
+      "name": "Natalie Portman"
+    },
+    {
+      "id": "nm0718645",
+      "name": "Ivan Reitman"
+    },
+    {
+      "id": "nm1658022",
+      "name": "Annette Savitch"
+    },
+    {
+      "id": "nm0928651",
+      "name": "John Wildermuth"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0002201",
+      "name": "John Debney"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0831114",
+      "name": "Rogier Stoffers"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

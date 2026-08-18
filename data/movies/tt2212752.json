@@ -1,0 +1,174 @@
+{
+  "imdb_id": "tt2212752",
+  "title": "Bayonet",
+  "description": "When a quiet intruder enters a Manhattan loft, it becomes home to a geopolitical act that no one can notice.",
+  "runtime_minutes": 13,
+  "release_date": "24.08.2012",
+  "genres": [
+    "Short",
+    "Drama",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm3211535",
+      "name": "Tammy McNeill"
+    },
+    {
+      "id": "nm0997645",
+      "name": "Robert O'Gorman"
+    },
+    {
+      "id": "nm4675294",
+      "name": "Noa Livne"
+    },
+    {
+      "id": "nm3834034",
+      "name": "Lorianna Izrailova"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0395256",
+      "name": "Gregory Horoupian"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0395256",
+      "name": "Gregory Horoupian"
+    },
+    {
+      "id": "nm0956843",
+      "name": "Kody Zimmermann"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm3211535",
+      "name": "Tammy McNeill",
+      "character": "Delta"
+    },
+    {
+      "id": "nm0997645",
+      "name": "Robert O'Gorman",
+      "character": "Gabriel"
+    },
+    {
+      "id": "nm4675294",
+      "name": "Noa Livne",
+      "character": "Kennedy"
+    },
+    {
+      "id": "nm3834034",
+      "name": "Lorianna Izrailova",
+      "character": "Heidi"
+    },
+    {
+      "id": "nm0574561",
+      "name": "Gerard McSorley",
+      "character": "Sean O'Brennan"
+    },
+    {
+      "id": "nm3957545",
+      "name": "David Burfoot",
+      "character": "Alpha"
+    },
+    {
+      "id": "nm2686261",
+      "name": "Martin Ewens",
+      "character": "Echo"
+    },
+    {
+      "id": "nm1677715",
+      "name": "Elliot Latner",
+      "character": "Golf"
+    },
+    {
+      "id": "nm3550307",
+      "name": "Catriona Rubenis-Stevens",
+      "character": "Kilo"
+    },
+    {
+      "id": "nm4265581",
+      "name": "Nicco Franklin",
+      "character": "Bravo"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 665546,
+  "year": 2012,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTY4MjAxMzI2NF5BMl5BanBnXkFtZTcwNDUzMjMyOA@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.6,
+      "votes": 27,
+      "distribution": {
+        "1": 1,
+        "2": 3,
+        "3": 1,
+        "4": 1,
+        "5": 3,
+        "6": 3,
+        "7": 6,
+        "8": 4,
+        "9": 2,
+        "10": 3
+      },
+      "normalized": 5.2901
+    },
+    "filmweb": {
+      "rating": 3.4,
+      "votes": 5,
+      "distribution": {
+        "2": 0,
+        "3": 3,
+        "4": 2,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 5.043
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "15.02.2013",
+      "normalized": 6.4102
+    },
+    "score": 5.5811
+  },
+  "polish_title": "Bagnet",
+  "silent": false,
+  "producers": [
+    {
+      "id": "nm0395256",
+      "name": "Gregory Horoupian"
+    },
+    {
+      "id": "nm5117601",
+      "name": "Helen Macleod"
+    },
+    {
+      "id": "nm5168619",
+      "name": "Zachary Meyer"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm1503298",
+      "name": "Lyle Vincent"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

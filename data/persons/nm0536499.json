@@ -1,0 +1,37 @@
+{
+  "id": "nm0536499",
+  "name": "George Magrill",
+  "filmography": [
+    {
+      "imdb_id": "tt0029583",
+      "title": "Snow White and the Seven Dwarfs",
+      "year": 1937,
+      "roles": [
+        "cast"
+      ],
+      "character": "Doves"
+    },
+    {
+      "imdb_id": "tt0032910",
+      "title": "Pinocchio",
+      "year": 1940,
+      "roles": [
+        "cast"
+      ],
+      "character": "Donkeys"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOTQ5NjI4YWEtMTRjMS00MDRmLTllMDgtYjFjNzg5ZjI4MTA4XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "05.01.1900",
+  "death_date": "31.05.1952",
+  "birth_location": "Brooklyn, New York City, New York, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 158379,
+  "name_pl": "George Magrill",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

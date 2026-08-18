@@ -1,0 +1,41 @@
+{
+  "id": "nm0000012",
+  "name": "Bette Davis",
+  "filmography": [
+    {
+      "imdb_id": "tt0042192",
+      "title": "All About Eve",
+      "year": 1950,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Margo Channing"
+    },
+    {
+      "imdb_id": "tt0056687",
+      "title": "What Ever Happened to Baby Jane?",
+      "year": 1962,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Baby Jane Hudson"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYmI0OThkYzUtZTA5MS00ZTdkLWE4ZTMtNDNkNTdlN2U0MDYzXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 46562,
+  "birth_date": "05.04.1908",
+  "death_date": "06.10.1989",
+  "birth_location": "Lowell, Massachusetts, USA",
+  "height": "1.60 m",
+  "imdb_scraped": true,
+  "name_pl": "Bette Davis",
+  "birth_location_pl": "Lowell, Massachusetts",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 46562
+}

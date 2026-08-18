@@ -1,0 +1,124 @@
+{
+  "imdb_id": "tt0183710",
+  "title": "Nothing But Time",
+  "description": "The life of a great city (Paris) from dawn until dusk, including the beautiful and the ragged, the rich and the poor, with little or no comment (intertitles) from the director, Cavalcanti (whose first film this was).",
+  "runtime_minutes": 45,
+  "release_date": "1926",
+  "genres": [
+    "Documentary"
+  ],
+  "stars": [
+    {
+      "id": "nm0076923",
+      "name": "Blanche Bernis"
+    },
+    {
+      "id": "nm0159407",
+      "name": "Nina Chousvalowa"
+    },
+    {
+      "id": "nm0405742",
+      "name": "Philippe Hériat"
+    },
+    {
+      "id": "nm0572135",
+      "name": "Clifford McLaglen"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0146709",
+      "name": "Alberto Cavalcanti"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0076923",
+      "name": "Blanche Bernis",
+      "character": "Self"
+    },
+    {
+      "id": "nm0159407",
+      "name": "Nina Chousvalowa",
+      "character": "Self"
+    },
+    {
+      "id": "nm0405742",
+      "name": "Philippe Hériat",
+      "character": "Self"
+    },
+    {
+      "id": "nm0572135",
+      "name": "Clifford McLaglen",
+      "character": "Self"
+    }
+  ],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 179817,
+  "year": 1926,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDUwYmJjMmYtYjc1NS00OTRmLTg4MTEtOTFlNDE2MzBjZDEzXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Rien que les heures",
+  "ratings": {
+    "imdb": {
+      "rating": 7.1,
+      "votes": 649,
+      "distribution": {
+        "1": 10,
+        "2": 8,
+        "3": 9,
+        "4": 17,
+        "5": 39,
+        "6": 133,
+        "7": 194,
+        "8": 129,
+        "9": 55,
+        "10": 55
+      },
+      "normalized": 5.4876
+    },
+    "filmweb": {
+      "rating": 6.22,
+      "votes": 167,
+      "distribution": {
+        "2": 2,
+        "3": 7,
+        "4": 14,
+        "5": 25,
+        "6": 42,
+        "7": 47,
+        "8": 21,
+        "9": 7,
+        "10": 2
+      },
+      "normalized": 4.6803
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "13.01.2008",
+      "normalized": 5.4199
+    },
+    "score": 5.1959
+  },
+  "polish_title": "Mijają godziny",
+  "silent": true,
+  "composers": [
+    {
+      "id": "nm1804155",
+      "name": "Larry Marotta"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0736925",
+      "name": "James E. Rogers"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

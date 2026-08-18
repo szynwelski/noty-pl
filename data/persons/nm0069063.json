@@ -1,0 +1,33 @@
+{
+  "id": "nm0069063",
+  "name": "Bob Bellion",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMGZmNDE5OTctZjcxMC00OWZiLWJlMjUtNDA4ODY4MjQ5YzFkXkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0335119",
+      "title": "Girl with a Pearl Earring",
+      "year": 2003,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0379889",
+      "title": "The Merchant of Venice",
+      "year": 2004,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "birth_date": "18.05.1961",
+  "birth_location": "Luxembourg",
+  "imdb_scraped": true,
+  "filmweb_id": 513481,
+  "name_pl": "Bob Bellion",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Luksemburg"
+  ]
+}

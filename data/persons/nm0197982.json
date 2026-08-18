@@ -1,0 +1,40 @@
+{
+  "id": "nm0197982",
+  "name": "John Dall",
+  "filmography": [
+    {
+      "imdb_id": "tt0040746",
+      "title": "Rope",
+      "year": 1948,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Brandon"
+    },
+    {
+      "imdb_id": "tt0054331",
+      "title": "Spartacus",
+      "year": 1960,
+      "roles": [
+        "cast"
+      ],
+      "character": "Marcus Publius Glabrus"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjI3MjgzNTg2OV5BMl5BanBnXkFtZTcwMTU1NTcwOA@@._V1_.jpg",
+  "birth_date": "26.05.1920",
+  "death_date": "15.01.1971",
+  "birth_location": "New York City, New York, USA",
+  "height": "1.85 m",
+  "imdb_scraped": true,
+  "filmweb_id": 52232,
+  "name_pl": "John Dall",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 52232
+}

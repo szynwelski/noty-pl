@@ -1,0 +1,40 @@
+{
+  "id": "nm3199307",
+  "name": "Ruby Rose",
+  "filmography": [
+    {
+      "imdb_id": "tt4425200",
+      "title": "John Wick: Chapter 2",
+      "year": 2017,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Ares"
+    },
+    {
+      "imdb_id": "tt4479380",
+      "title": "SAS: Rise of the Black Swan",
+      "year": 2021,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Grace Lewis"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTcwOTg3NzgyNF5BMl5BanBnXkFtZTgwNzAyNDkyOTE@._V1_.jpg",
+  "birth_date": "20.03.1986",
+  "birth_location": "Melbourne, Victoria, Australia",
+  "height": "1.69 m",
+  "imdb_scraped": true,
+  "filmweb_id": 1721354,
+  "name_pl": "Ruby Rose",
+  "birth_location_pl": "Melbourne",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Australia"
+  ],
+  "wikidata_fw_id": 1721354
+}

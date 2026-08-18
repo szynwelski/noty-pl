@@ -1,0 +1,40 @@
+{
+  "id": "nm0833448",
+  "name": "Lee Strasberg",
+  "filmography": [
+    {
+      "imdb_id": "tt0071562",
+      "title": "The Godfather Part II",
+      "year": 1974,
+      "roles": [
+        "cast"
+      ],
+      "character": "Hyman Roth"
+    },
+    {
+      "imdb_id": "tt0078718",
+      "title": "And Justice for All",
+      "year": 1979,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Grandpa Sam"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTkzNDM2OTA4N15BMl5BanBnXkFtZTcwMDg2MzY2OQ@@._V1_.jpg",
+  "birth_date": "17.11.1901",
+  "death_date": "17.02.1982",
+  "birth_location": "Budzanów, Galicia, Austria-Hungary [now Budaniv, Ukraine]",
+  "height": "1.65 m",
+  "imdb_scraped": true,
+  "filmweb_id": 8450,
+  "name_pl": "Lee Strasberg",
+  "birth_location_pl": "Budzanów",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 8450
+}

@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🎬</text></svg>">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Film — Noty</title>
+  <link rel="stylesheet" href="../static/style.css">
+  <script src="../static/translations.js"></script>
+  <script src="../static/tooltip.js"></script>
+</head>
+<body>
+  <div id="tooltip"></div>
+  <nav>
+    <a class="logo" href="/">no<span>ty</span></a>
+    <a class="nav-link" href="/">Filmy</a>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Osoby <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/osoba/rezyser/">Reżyserzy</a>
+        <a href="/osoba/scenarzysta/">Scenarzyści</a>
+        <a href="/osoba/gwiazda/">Gwiazdy</a>
+        <a href="/osoba/aktor/">Aktorzy</a>
+        <a href="/osoba/kompozytor/">Kompozytorzy</a>
+        <a href="/osoba/operator/">Operatorzy</a>
+        <a href="/osoba/producent/">Producenci</a>
+        <a href="/osoba/wszechstronna/">Wszechstronni</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Krytycy <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/krytyk/jarek/">Jarek</a>
+        <a href="/krytyk/michal/">Michał</a>
+        <a href="/krytyk/imdb/">IMDb</a>
+        <a href="/krytyk/filmweb/">Filmweb</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Kategorie <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/kategoria/gatunek/">Gatunki</a>
+        <a href="/kategoria/kraj/">Kraje</a>
+        <a href="/kategoria/jezyk/">Języki</a>
+        <a href="/kategoria/dekada/">Dekady</a>
+        <a href="/kategoria/rok/">Lata</a>
+        <a href="/kategoria/czas/">Czas trwania</a>
+        <a href="/kategoria/popularnosc/">Popularność</a>
+        <hr>
+        <a href="/kategoria/plec/">Płeć</a>
+        <a href="/kategoria/obywatelstwo/">Obywatelstwo</a>
+        <a href="/kategoria/urodzenie/">Urodzenie</a>
+        <a href="/kategoria/wiek/">Wiek</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Statystyki <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/statystyki/podsumowanie/">Podsumowanie</a>
+        <a href="/statystyki/rekordy/">Rekordy</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Metodologia <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/metodologia/filmy/">Filmy</a>
+        <a href="/metodologia/osoby/">Osoby</a>
+        <a href="/metodologia/kategorie-filmow/">Kategorie filmów</a>
+        <a href="/metodologia/kategorie-osob/">Kategorie osób</a>
+      </div>
+    </div>
+    <button id="search-global-btn" class="nav-search-btn" title="Szukaj (⌘K)">
+      <svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+    </button>
+  </nav>
+  <div id="search-modal" class="search-modal">
+    <div id="search-modal-backdrop" class="search-modal-backdrop"></div>
+    <div class="search-modal-box">
+      <div class="search-modal-header">
+        <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink:0;color:var(--muted)"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        <input id="search-modal-input" class="search-modal-input" type="text" placeholder="Szukaj filmów i osób…" autocomplete="off" spellcheck="false">
+        <kbd class="search-modal-esc">Esc</kbd>
+      </div>
+      <div id="search-modal-results" class="search-modal-results"></div>
+    </div>
+  </div>
+  <script src="/static/search.js"></script>
+
+  <div class="container">
+    <div id="loading">Ładowanie…</div>
+    <div id="error" style="display:none"></div>
+    <div id="content" style="display:none">
+
+      <div class="movie-header">
+        <div class="movie-poster" id="poster"></div>
+        <div class="movie-meta">
+          <h1 id="title"></h1>
+          <div class="year" id="year-type"></div>
+          <div class="genres" id="genres"></div>
+        </div>
+      </div>
+      <div class="description" id="description"></div>
+
+      <h2>Oceny</h2>
+      <div class="ratings-grid" id="ratings-grid"></div>
+
+      <h2>Reżyseria</h2>
+      <div id="directors"></div>
+
+      <h2 id="writers-heading">Scenariusz</h2>
+      <div id="writers"></div>
+
+      <h2 id="cast-heading">Obsada</h2>
+      <div id="cast"></div>
+
+      <h2 id="composers-heading">Muzyka</h2>
+      <div id="composers"></div>
+
+      <h2 id="cinematographers-heading">Zdjęcia</h2>
+      <div id="cinematographers"></div>
+
+      <h2 id="producers-heading">Produkcja</h2>
+      <div id="producers"></div>
+
+    </div>
+  </div>
+  <script>
+    const SOURCES = [
+      { key: 'score',   label: 'Ocena',   isScore: true },
+      { key: 'jarek',   label: 'Jarek' },
+      { key: 'michal',  label: 'Michał' },
+      { key: 'imdb',    label: 'IMDb' },
+      { key: 'filmweb', label: 'Filmweb' },
+    ];
+
+    // COUNTRIES, LANGUAGES, GENRES loaded from ../static/translations.js
+
+    function fmt(v, d = 2) { return v != null ? Number(v).toFixed(d) : null; }
+    function fmtVotes(n) {
+      if (n == null) return null;
+      return n.toLocaleString('pl-PL');
+    }
+
+    function buildDistTip(dist) {
+      const entries = [10,9,8,7,6,5,4,3,2,1].map(k => [k, dist[String(k)] || 0]);
+      const max = Math.max(...entries.map(([,v]) => v));
+      const rows = entries.map(([star, count]) => {
+        const pct = max > 0 ? (count / max * 100).toFixed(1) : 0;
+        return `<tr>
+          <td style="text-align:right;color:var(--muted);padding-right:.4em">${star}★</td>
+          <td style="width:80px;vertical-align:middle;padding-right:.4em">
+            <div style="height:8px;background:var(--border);border-radius:2px;overflow:hidden">
+              <div style="height:100%;width:${pct}%;background:var(--accent);border-radius:2px"></div>
+            </div>
+          </td>
+          <td style="color:var(--text);font-variant-numeric:tabular-nums">${count.toLocaleString('pl-PL')}</td>
+        </tr>`;
+      }).join('');
+      return `<table style="border-collapse:collapse;font-size:.78rem">${rows}</table>`;
+    }
+
+    const params = new URLSearchParams(location.search);
+    const id = params.get('id');
+    if (!id) {
+      document.getElementById('loading').style.display = 'none';
+      document.getElementById('error').style.display = '';
+      document.getElementById('error').textContent = 'Brak parametru ?id=';
+    } else {
+      // Try movies first, fall back to series
+      function loadFilm(subdir) {
+        return fetch(`../../data/${subdir}/${id}.json`).then(r => {
+          if (!r.ok) throw new Error(r.status);
+          return r.json();
+        });
+      }
+
+      Promise.all([
+        loadFilm('movies').catch(() => loadFilm('series')),
+        fetch('../data/movies_index.json').then(r => r.json()).catch(() => []),
+      ])
+        .then(([m, index]) => render(m, index))
+        .catch(() => {
+          document.getElementById('loading').style.display = 'none';
+          document.getElementById('error').style.display = '';
+          document.getElementById('error').textContent = 'Nie znaleziono filmu: ' + id;
+        });
+    }
+
+    function computeRanks(imdbId, index) {
+      const ranks = {};
+      const RANK_SOURCES = ['score', 'michal', 'jarek', 'filmweb', 'imdb'];
+      for (const src of RANK_SOURCES) {
+        const val = m => src === 'score' ? m.score : m.ratings?.[src]?.rating;
+        const sorted = index.filter(m => val(m) != null).sort((a, b) => val(b) - val(a));
+        const idx = sorted.findIndex(m => m.id === imdbId);
+        if (idx >= 0) ranks[src] = { rank: idx + 1, total: sorted.length };
+      }
+      return ranks;
+    }
+
+    function render(m, index) {
+      document.title = (m.polish_title || m.title) + ' — Noty';
+      document.getElementById('loading').style.display = 'none';
+      document.getElementById('content').style.display = '';
+
+      const display = m.polish_title || m.title;
+      // Fold case + diacritics so a subtitle that differs only by Polish
+      // characters (e.g. "Milosc" vs "Miłość") isn't shown as if it were distinct.
+      const fold = s => (s || '').toLowerCase()
+        .replace(/ł/g, 'l').replace(/ø/g, 'o').replace(/đ/g, 'd').replace(/ß/g, 'ss')
+        .normalize('NFKD').replace(/[̀-ͯ]/g, '');
+      const sub = (() => {
+        if (m.original_title && fold(m.original_title) !== fold(display)) return m.original_title;
+        // Show English title only if there's no original_title (i.e. it IS the original)
+        if (!m.original_title && m.title && fold(m.title) !== fold(display)) return m.title;
+        return null;
+      })();
+      const titleEl = document.getElementById('title');
+      titleEl.textContent = display;
+      if (m.year) {
+        const yr = document.createElement('span');
+        yr.className = 'muted';
+        yr.style.cssText = 'font-size:1.2rem;font-weight:400;margin-left:.7rem';
+        yr.textContent = m.year;
+        titleEl.appendChild(yr);
+      }
+      if (sub) {
+        const s = document.createElement('div');
+        s.className = 'muted';
+        s.style.cssText = 'font-size:.9rem;margin-top:.1rem;margin-bottom:.75rem';
+        s.textContent = sub;
+        titleEl.after(s);
+      }
+
+      const metaParts = [];
+      if (m.runtime_minutes) {
+        const h = Math.floor(m.runtime_minutes / 60), min = m.runtime_minutes % 60;
+        const rtLabel = h > 0 ? `${h} godz. ${min} min` : `${min} min`;
+        const rtBucket = Math.min(Math.floor((m.runtime_minutes - 1) / 10) * 10 + 1, 211);
+        const rtUrl = rtBucket >= 211 ? '/?czas-od=211' : `/?czas-od=${rtBucket}&czas-do=${rtBucket + 9}`;
+        metaParts.push({ label: 'Czas', value: `<a href="${rtUrl}" class="meta-link">${rtLabel}</a>` });
+      }
+      if ((m.countries || []).length)
+        metaParts.push({ label: 'Kraj', value: m.countries.map(c =>
+          `<a href="/?kraj=${encodeURIComponent(COUNTRIES[c] || c)}" class="meta-link">${COUNTRIES[c] || c}</a>`
+        ).join(', ') });
+      if ((m.languages || []).length)
+        metaParts.push({ label: 'Język', value: m.languages.map(l =>
+          `<a href="/?jezyk=${encodeURIComponent(LANGUAGES[l] || l)}" class="meta-link">${LANGUAGES[l] || l}</a>`
+        ).join(', ') });
+
+      if (m.color === 'Black and White') {
+        const bw = document.createElement('span');
+        bw.className = 'bw-icon';
+        bw.dataset.tip = 'Czarno-biały';
+        bw.textContent = '◑';
+        titleEl.appendChild(bw);
+      }
+      if (m.silent) {
+        const si = document.createElement('span');
+        si.className = 'bw-icon';
+        si.dataset.tip = 'Niemy';
+        si.innerHTML = `<svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/><line x1="23" y1="9" x2="17" y2="15"/><line x1="17" y1="9" x2="23" y2="15"/></svg>`;
+        titleEl.appendChild(si);
+      }
+
+      const yearTypeEl = document.getElementById('year-type');
+      if (metaParts.length) {
+        yearTypeEl.innerHTML = metaParts.map(p =>
+          `<div class="meta-row"><span class="meta-label">${p.label}</span><span class="meta-value">${p.value}</span></div>`
+        ).join('');
+      } else {
+        yearTypeEl.style.display = 'none';
+      }
+
+      const genresEl = document.getElementById('genres');
+      (m.genres || []).forEach(g => {
+        const a = document.createElement('a');
+        a.className = 'genre-tag';
+        a.href = `/?gatunek=${encodeURIComponent(GENRES[g] || g)}`;
+        a.textContent = GENRES[g] || g;
+        genresEl.appendChild(a);
+      });
+
+      const desc = m.description_pl || m.description;
+      if (desc) {
+        const descEl = document.getElementById('description');
+        descEl.innerHTML = desc;
+        descEl.classList.add('clamped');
+        requestAnimationFrame(() => {
+          if (descEl.scrollHeight > descEl.clientHeight) {
+            descEl.insertAdjacentHTML('afterend',
+              '<button class="desc-expand" id="desc-expand">Pokaż więcej</button>');
+            document.getElementById('desc-expand').addEventListener('click', function() {
+              descEl.classList.remove('clamped');
+              this.remove();
+            });
+          }
+        });
+      }
+
+      const poster = document.getElementById('poster');
+      if (m.image_url) {
+        poster.innerHTML = `<img src="${m.image_url}" alt="${display}" loading="lazy">`;
+      } else {
+        poster.innerHTML = '<div class="no-img">brak plakatu</div>';
+      }
+
+      const imdbUrl = `https://www.imdb.com/title/${m.imdb_id}/`;
+      const filmwebUrl = m.filmweb_id
+        ? `https://www.filmweb.pl/film/${encodeURIComponent((m.polish_title || m.title || '').replace(/\//g, ' ')).replace(/%20/g, '+')}-${m.year}-${m.filmweb_id}`
+        : null;
+
+      const r = m.ratings || {};
+      const ranks = computeRanks(m.imdb_id, index);
+      const grid = document.getElementById('ratings-grid');
+      const RANK_URLS = {
+        score:   `/?zaznacz=${m.imdb_id}`,
+        michal:  `/krytyk/?nazwa=michal&zaznacz=${m.imdb_id}`,
+        jarek:   `/krytyk/?nazwa=jarek&zaznacz=${m.imdb_id}`,
+        filmweb: `/krytyk/?nazwa=filmweb&zaznacz=${m.imdb_id}`,
+        imdb:    `/krytyk/?nazwa=imdb&zaznacz=${m.imdb_id}`,
+      };
+      const ICO_PERSON = `<svg class="votes-icon" viewBox="0 0 24 24" width="11" height="11" fill="currentColor" aria-hidden="true"><path d="M12 12c2.66 0 4.8-2.14 4.8-4.8S14.66 2.4 12 2.4 7.2 4.54 7.2 7.2 9.34 12 12 12zm0 2.4c-3.2 0-9.6 1.61-9.6 4.8v2.4h19.2v-2.4c0-3.19-6.4-4.8-9.6-4.8z"/></svg>`;
+      const ICO_CAL   = `<svg class="votes-icon" viewBox="0 0 24 24" width="11" height="11" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>`;
+      SOURCES.forEach(({ key, label, isScore }) => {
+        const data = key === 'score' ? { score: r.score } : (r[key] || {});
+        const val = key === 'score' ? r.score : data.rating;
+        if (key === 'filmweb') { if (!filmwebUrl) return; }
+        else if (key !== 'imdb') { if (val == null) return; }
+        const card = document.createElement('div');
+        card.className = isScore ? 'rating-card score-card' : 'rating-card';
+        const extUrl = key === 'imdb' ? imdbUrl : key === 'filmweb' ? filmwebUrl : null;
+        const FAVICON = {
+          imdb:     'https://www.google.com/s2/favicons?sz=16&domain=imdb.com',
+          filmweb:  'https://www.google.com/s2/favicons?sz=16&domain=filmweb.pl',
+        };
+        const labelHtml = extUrl
+          ? `<a class="src-label" href="${extUrl}" target="_blank" rel="noopener">${FAVICON[key] ? `<img src="${FAVICON[key]}" alt="" style="width:12px;height:12px;vertical-align:middle;margin-right:.3em;border-radius:2px">` : ''}${label} ↗</a>`
+          : `<div class="src-label">${label}</div>`;
+        let html = labelHtml;
+        const scoreColor = isScore ? (val >= 7 ? 'var(--score)' : val >= 5 ? 'var(--accent2)' : 'var(--danger)') : null;
+        html += `<div class="rating-val"${scoreColor ? ` style="color:${scoreColor}"` : ''}>${val != null ? fmt(val, key === 'michal' || key === 'jarek' ? 0 : 2) : '—'}</div>`;
+        if (!isScore && data.normalized != null)
+          html += `<div class="norm-val">znorm. ${fmt(data.normalized)}</div>`;
+        if (data.votes != null)
+          html += `<div class="votes votes-tip">${ICO_PERSON}${fmtVotes(data.votes)} głosów</div>`;
+        if (data.date_rated)
+          html += `<div class="votes">${ICO_CAL}${data.date_rated}</div>`;
+        const rk = ranks[key];
+        if (rk) {
+          const fillPct = Math.round((rk.total - rk.rank) / Math.max(rk.total - 1, 1) * 100);
+          html += `<div class="card-rank">
+            <div class="rank-bar"><div class="rank-fill" style="width:${fillPct}%"></div></div>
+            <a href="${RANK_URLS[key]}" class="rank-link">#${rk.rank} <span class="rank-total">z ${rk.total}</span></a>
+          </div>`;
+        }
+        card.innerHTML = html;
+
+        if (data.distribution) {
+          const tip = document.createElement('div');
+          tip.className = 'dist-tip';
+          tip.innerHTML = buildDistTip(data.distribution);
+          document.body.appendChild(tip);
+          let hideTimer;
+          const show = () => {
+            clearTimeout(hideTimer);
+            tip.style.display = 'block';
+            const r = card.getBoundingClientRect();
+            const tw = tip.offsetWidth, th = tip.offsetHeight;
+            const above = r.top > th + 10;
+            tip.style.top  = above ? (r.top - th - 6) + 'px' : (r.bottom + 6) + 'px';
+            tip.style.left = Math.max(8, Math.min(r.left, window.innerWidth - tw - 8)) + 'px';
+          };
+          const hide = () => { hideTimer = setTimeout(() => { tip.style.display = 'none'; }, 80); };
+          ['.rating-val', '.norm-val', '.votes-tip'].forEach(sel => {
+            const el = card.querySelector(sel);
+            if (el) { el.style.cursor = 'default'; el.addEventListener('mouseenter', show); el.addEventListener('mouseleave', hide); }
+          });
+          tip.addEventListener('mouseenter', show);
+          tip.addEventListener('mouseleave', hide);
+        }
+
+        grid.appendChild(card);
+      });
+
+      function renderPersonList(elId, headingId, persons, roleKey) {
+        if (!persons?.length) {
+          document.getElementById(headingId).style.display = 'none';
+          document.getElementById(elId).style.display = 'none';
+          return;
+        }
+        document.getElementById(elId).innerHTML = persons.map(p =>
+          `<div style="margin-bottom:.4rem">
+            <span class="cast-thumb-wrap" data-person-id="${p.id}"></span>
+            <a href="/osoba/?id=${p.id}" data-role="${roleKey}">${p.name}</a>
+          </div>`
+        ).join('');
+      }
+
+      const dirs = (m.directors || []);
+      if (dirs.length) {
+        document.getElementById('directors').innerHTML = dirs.map(p =>
+          `<div style="margin-bottom:.4rem">
+            <span class="cast-thumb-wrap" data-person-id="${p.id}"></span>
+            <a href="/osoba/?id=${p.id}" data-role="director">${p.name}</a>
+          </div>`
+        ).join('');
+      } else {
+        document.getElementById('directors').innerHTML = '<span class="muted">—</span>';
+      }
+
+      renderPersonList('writers',        'writers-heading',        m.writers,         'writer');
+      renderPersonList('composers',      'composers-heading',      m.composers,       'composer');
+      renderPersonList('cinematographers','cinematographers-heading', m.cinematographers, 'cinematographer');
+      renderPersonList('producers',      'producers-heading',      m.producers,       'producer');
+
+      const cast = m.top_cast || [];
+      if (cast.length) {
+        const starIds = new Set((m.stars || []).map(s => s.id));
+        document.getElementById('cast-heading').textContent = `Obsada (${cast.length})`;
+        document.getElementById('cast').innerHTML = cast.map(p =>
+          `<div style="margin-bottom:.4rem">
+            <span class="cast-thumb-wrap" data-person-id="${p.id}"></span>
+            ${starIds.has(p.id) ? '<span class="star-icon">★</span>' : ''}
+            <a href="/osoba/?id=${p.id}" data-role="${starIds.has(p.id) ? 'star' : 'actor'}" ${starIds.has(p.id) ? 'class="cast-star"' : ''}>${p.name}</a>
+            ${p.character ? `<span class="muted"> — ${translateCharacter(p.character)}</span>` : ''}
+          </div>`
+        ).join('');
+      } else {
+        document.getElementById('cast-heading').style.display = 'none';
+        document.getElementById('cast').style.display = 'none';
+      }
+
+      // Per-person role tooltips: score + top-5 films IN the role the person
+      // holds on this film. Reconstructed client-side from the person's
+      // filmography (fetched below anyway) joined with movies_index — this
+      // matches build_persons_role_index exactly: top-5 Bayesian shrinkage
+      // toward the catalog-wide mean score (the same global_avg the build uses).
+      const idxMap = {};
+      let _scSum = 0, _scN = 0;
+      index.forEach(mm => { idxMap[mm.id] = mm; if (mm.score != null) { _scSum += mm.score; _scN++; } });
+      const GLOBAL_MEAN = _scN ? _scSum / _scN : 5.5;
+      const TOP_N = 5;
+      const topNBayesian = vals => {
+        const top = [...vals].sort((a, b) => b - a).slice(0, TOP_N);
+        const sum = top.reduce((a, b) => a + b, 0);
+        return top.length >= TOP_N ? sum / top.length : (sum + (TOP_N - top.length) * GLOBAL_MEAN) / TOP_N;
+      };
+      const ROLE_INFO = {
+        director:        { fmark: 'director',        label: 'Reżyser' },
+        writer:          { fmark: 'writer',          label: 'Scenarzysta' },
+        star:            { fmark: 'star',            label: 'Gwiazda' },
+        actor:           { fmark: 'cast',            label: 'Aktor' },
+        composer:        { fmark: 'composer',        label: 'Kompozytor' },
+        cinematographer: { fmark: 'cinematographer', label: 'Operator' },
+        producer:        { fmark: 'producer',        label: 'Producent' },
+      };
+      function personRoleTip(person, roleKey) {
+        const info = ROLE_INFO[roleKey];
+        if (!info || !Array.isArray(person.filmography)) return null;
+        const scored = person.filmography
+          .filter(f => (f.roles || []).includes(info.fmark))
+          .map(f => {
+            const mi = idxMap[f.imdb_id];
+            return (mi && mi.score != null)
+              ? { imdb_id: f.imdb_id, title: mi.polish_title || mi.title || f.title, year: mi.year ?? f.year, score: mi.score }
+              : null;
+          })
+          .filter(Boolean)
+          .sort((a, b) => b.score - a.score);
+        if (!scored.length) return null;
+        const roleScore = topNBayesian(scored.map(f => f.score));
+        const rows = scored.slice(0, TOP_N).map(f =>
+          `<tr><td class="muted" style="padding-right:.75em">${f.year ?? '—'}</td>` +
+          `<td style="max-width:200px;white-space:normal"><a href="/film/?id=${f.imdb_id}" style="color:inherit">${f.title}</a></td>` +
+          `<td class="num" style="padding-left:.75em"><span class="${scoreClass(f.score)}">${fmt(f.score)}</span></td></tr>`
+        ).join('');
+        const photo = person.image_url
+          ? `<img src="${person.image_url}" alt="" style="width:64px;height:80px;object-fit:cover;border-radius:4px;flex-shrink:0">`
+          : `<div style="width:64px;height:80px;border-radius:4px;background:var(--border);flex-shrink:0"></div>`;
+        return `<div style="display:flex;gap:.9rem;align-items:flex-start">${photo}` +
+          `<div><div class="tip-title">${info.label}</div>` +
+          `<div class="tip-main-val" style="margin-bottom:.5rem"><span class="${scoreClass(roleScore)}">${fmt(roleScore)}</span></div>` +
+          `<div class="tip-title" style="margin-bottom:.4rem">Najlepsze filmy</div>` +
+          `<table style="border-collapse:collapse;font-size:.85rem">${rows}</table></div></div>`;
+      }
+
+      // Async: load person data (photo, localised name, role tooltips) without blocking render
+      const allPersonIds = [...new Set([
+        ...dirs.map(p => p.id),
+        ...(m.writers || []).map(p => p.id),
+        ...(m.composers || []).map(p => p.id),
+        ...(m.cinematographers || []).map(p => p.id),
+        ...(m.producers || []).map(p => p.id),
+        ...cast.map(p => p.id),
+      ])];
+      allPersonIds.forEach(pid => {
+        fetch(`../../data/persons/${pid}.json`)
+          .then(r => r.ok ? r.json() : null)
+          .catch(() => null)
+          .then(person => {
+            if (!person) return;
+            if (person.image_url) {
+              document.querySelectorAll(`.cast-thumb-wrap[data-person-id="${pid}"]`).forEach(wrap => {
+                wrap.innerHTML = `<img src="${person.image_url}" class="cast-thumb" alt="">`;
+              });
+            }
+            document.querySelectorAll(`a[href="/osoba/?id=${pid}"]`).forEach(a => {
+              if (person.name_pl) a.textContent = person.name_pl;
+              const roleKey = a.dataset.role;
+              if (roleKey && !a._roleTip) {
+                const html = personRoleTip(person, roleKey);
+                if (html) { a._roleTip = true; attachTip(a, () => html); }
+              }
+            });
+          });
+      });
+    }
+  </script>
+</body>
+</html>

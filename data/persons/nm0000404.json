@@ -1,0 +1,50 @@
+{
+  "id": "nm0000404",
+  "name": "Jane Fonda",
+  "filmography": [
+    {
+      "imdb_id": "tt0065088",
+      "title": "They Shoot Horses, Don't They?",
+      "year": 1969,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Gloria"
+    },
+    {
+      "imdb_id": "tt0067309",
+      "title": "Klute",
+      "year": 1971,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Bree Daniel"
+    },
+    {
+      "imdb_id": "tt7214954",
+      "title": "Luck",
+      "year": 2022,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Dragon"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzQ5NTE2MDAzOV5BMl5BanBnXkFtZTgwOTQ3MTQ3MjE@._V1_.jpg",
+  "birth_date": "21.12.1937",
+  "birth_location": "Yorkville, Manhattan, New York City, New York, USA",
+  "height": "1.73 m",
+  "filmweb_id": 9363,
+  "name_pl": "Jane Fonda",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 9363
+}

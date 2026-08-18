@@ -1,0 +1,58 @@
+{
+  "id": "nm0817983",
+  "name": "John Spencer",
+  "filmography": [
+    {
+      "imdb_id": "tt0100404",
+      "title": "Presumed Innocent",
+      "year": 1990,
+      "roles": [
+        "cast"
+      ],
+      "character": "Detective Dan Lipranzer"
+    },
+    {
+      "imdb_id": "tt0117500",
+      "title": "The Rock",
+      "year": 1996,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "F.B.I. Director Womack"
+    },
+    {
+      "imdb_id": "tt0118887",
+      "title": "Cop Land",
+      "year": 1997,
+      "roles": [
+        "cast"
+      ],
+      "character": "Leo Crasky"
+    },
+    {
+      "imdb_id": "tt0120768",
+      "title": "The Negotiator",
+      "year": 1998,
+      "roles": [
+        "cast"
+      ],
+      "character": "Chief Al Travis"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTY5MzYxNTQ2Ml5BMl5BanBnXkFtZTYwNjA5MDgz._V1_.jpg",
+  "birth_date": "20.12.1946",
+  "death_date": "16.12.2005",
+  "birth_location": "Paterson, New Jersey, USA",
+  "height": "1.70 m",
+  "filmweb_id": 2826,
+  "name_pl": "John Spencer",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 2826
+}

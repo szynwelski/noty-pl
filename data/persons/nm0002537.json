@@ -1,0 +1,28 @@
+{
+  "id": "nm0002537",
+  "name": "Miles Davis",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZWMwZTI5NjktMjRkMC00OWU3LWI5M2EtMzc2MmM5YTgwY2I2XkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0051378",
+      "title": "Elevator to the Gallows",
+      "year": 1958,
+      "roles": [
+        "composer"
+      ]
+    }
+  ],
+  "birth_date": "26.05.1926",
+  "death_date": "28.09.1991",
+  "birth_location": "Alton, Illinois, USA",
+  "height": "1.69 m",
+  "imdb_scraped": true,
+  "filmweb_id": 56219,
+  "name_pl": "Miles Davis",
+  "birth_location_pl": "Alton, Illinois",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

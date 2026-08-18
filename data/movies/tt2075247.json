@@ -1,0 +1,82 @@
+{
+  "imdb_id": "tt2075247",
+  "title": "Man Walking Around the Corner",
+  "description": "A frame sequence featuring a man walking around a corner.",
+  "runtime_minutes": 1,
+  "release_date": "13.12.1890",
+  "genres": [
+    "Documentary",
+    "Short"
+  ],
+  "directors": [
+    {
+      "id": "nm1284117",
+      "name": "Louis Aimé Augustin Le Prince"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "year": 1887,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNmM3ODk0MDUtM2NiZi00MjI0LWExMDctMTE1ZTg3NTllOGEwXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 632668,
+  "ratings": {
+    "imdb": {
+      "rating": 5.2,
+      "votes": 1849,
+      "distribution": {
+        "1": 125,
+        "2": 120,
+        "3": 115,
+        "4": 179,
+        "5": 523,
+        "6": 319,
+        "7": 161,
+        "8": 84,
+        "9": 31,
+        "10": 192
+      },
+      "normalized": 3.1973
+    },
+    "filmweb": {
+      "rating": 4.27,
+      "votes": 262,
+      "distribution": {
+        "1": 41,
+        "2": 27,
+        "3": 35,
+        "4": 38,
+        "5": 63,
+        "6": 18,
+        "7": 9,
+        "8": 12,
+        "9": 4,
+        "10": 15
+      },
+      "normalized": 3.1979
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "11.12.2016",
+      "normalized": 5.6855
+    },
+    "score": 4.0269
+  },
+  "polish_title": "Man Walking Around a Corner",
+  "silent": true,
+  "description_pl": "Kilkusekundowa produkcja składająca się z 16 klatek. Pierwszy film <a href=\"/osoba/?id=nm1284117\">Louisa Le Prince</a>, który zachował się do naszych czasów. Ukazuje idącego mężczyznę, który skręca za róg. Jest to jedyny film wykonany 16. soczewkową kamerą LPCC Type-16.",
+  "cinematographers": [
+    {
+      "id": "nm1284117",
+      "name": "Louis Aimé Augustin Le Prince"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

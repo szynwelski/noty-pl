@@ -1,0 +1,33 @@
+{
+  "id": "nm0971239",
+  "name": "Simon J. Smith",
+  "filmography": [
+    {
+      "imdb_id": "tt0126029",
+      "title": "Shrek",
+      "year": 2001,
+      "roles": [
+        "cast"
+      ],
+      "character": "Blind Mouse"
+    },
+    {
+      "imdb_id": "tt1911658",
+      "title": "Penguins of Madagascar",
+      "year": 2014,
+      "roles": [
+        "director"
+      ]
+    }
+  ],
+  "imdb_scraped": true,
+  "filmweb_id": 133700,
+  "name_pl": "Simon J. Smith",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "birth_date": "16.09.1968",
+  "nationality": [
+    "Wielka Brytania"
+  ]
+}

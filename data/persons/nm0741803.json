@@ -1,0 +1,37 @@
+{
+  "id": "nm0741803",
+  "name": "John Roselius",
+  "filmography": [
+    {
+      "imdb_id": "tt0116922",
+      "title": "Lost Highway",
+      "year": 1997,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Al"
+    },
+    {
+      "imdb_id": "tt0120646",
+      "title": "The Deep End of the Ocean",
+      "year": 1999,
+      "roles": [
+        "cast"
+      ],
+      "character": "Bastokovich"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYzUzYzk5OWItNTQwMy00OTM2LTgyN2MtNmM5NTVkZjRiODg4XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "19.08.1944",
+  "death_date": "29.10.2018",
+  "birth_location": "USA",
+  "imdb_scraped": true,
+  "filmweb_id": 5561,
+  "name_pl": "John Roselius",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

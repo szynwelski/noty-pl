@@ -1,0 +1,50 @@
+{
+  "id": "nm0000015",
+  "name": "James Dean",
+  "filmography": [
+    {
+      "imdb_id": "tt0048028",
+      "title": "East of Eden",
+      "year": 1955,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Cal Trask"
+    },
+    {
+      "imdb_id": "tt0048545",
+      "title": "Rebel Without a Cause",
+      "year": 1955,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Jim Stark"
+    },
+    {
+      "imdb_id": "tt0049261",
+      "title": "Giant",
+      "year": 1956,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Jett Rink"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjZlMGI2ZTYtM2E3OS00MDEwLTliMGYtZDgyM2VmZTJjMTU1XkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 41390,
+  "birth_date": "08.02.1931",
+  "death_date": "30.09.1955",
+  "birth_location": "Marion, Indiana, USA",
+  "height": "1.71 m",
+  "imdb_scraped": true,
+  "name_pl": "James Dean",
+  "birth_location_pl": "Marion, Indiana",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

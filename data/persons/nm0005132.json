@@ -1,0 +1,80 @@
+{
+  "id": "nm0005132",
+  "name": "Heath Ledger",
+  "filmography": [
+    {
+      "imdb_id": "tt0147800",
+      "title": "10 Things I Hate About You",
+      "year": 1999,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Patrick Verona"
+    },
+    {
+      "imdb_id": "tt0187393",
+      "title": "The Patriot",
+      "year": 2000,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Gabriel Martin"
+    },
+    {
+      "imdb_id": "tt0183790",
+      "title": "A Knight's Tale",
+      "year": 2001,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "William Thatcher"
+    },
+    {
+      "imdb_id": "tt0285742",
+      "title": "Monster's Ball",
+      "year": 2001,
+      "roles": [
+        "cast"
+      ],
+      "character": "Sonny Grotowski"
+    },
+    {
+      "imdb_id": "tt0355295",
+      "title": "The Brothers Grimm",
+      "year": 2005,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Jacob Grimm"
+    },
+    {
+      "imdb_id": "tt0468569",
+      "title": "The Dark Knight",
+      "year": 2008,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Joker"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTI2NTY0NzA4MF5BMl5BanBnXkFtZTYwMjE1MDE0._V1_.jpg",
+  "birth_date": "04.04.1979",
+  "death_date": "22.01.2008",
+  "birth_location": "Perth, Western Australia, Australia",
+  "height": "1.85 m",
+  "filmweb_id": 6322,
+  "name_pl": "Heath Ledger",
+  "birth_location_pl": "Perth",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Australia"
+  ],
+  "wikidata_fw_id": 6322
+}

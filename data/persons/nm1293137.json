@@ -1,0 +1,45 @@
+{
+  "id": "nm1293137",
+  "name": "Andrzej Konopka",
+  "filmography": [
+    {
+      "imdb_id": "tt2043979",
+      "title": "Rose",
+      "year": 2011,
+      "roles": [
+        "cast"
+      ],
+      "character": "Dr. Leliwa"
+    },
+    {
+      "imdb_id": "tt10651230",
+      "title": "The Peasants",
+      "year": 2023,
+      "roles": [
+        "cast"
+      ],
+      "character": "Mayor Piotr"
+    },
+    {
+      "imdb_id": "tt32246406",
+      "title": "Good Home",
+      "year": 2025,
+      "roles": [
+        "cast"
+      ],
+      "character": "Zibi"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzk2ZjU5N2QtNjU3OS00Zjk2LWJmMmUtYmZmYTk2YzU4NTc0XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "1969",
+  "birth_location": "Poland",
+  "filmweb_id": 240128,
+  "name_pl": "Andrzej Konopka",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Polska"
+  ],
+  "wikidata_fw_id": 240128
+}

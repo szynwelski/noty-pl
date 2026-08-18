@@ -1,0 +1,82 @@
+{
+  "imdb_id": "tt0240423",
+  "title": "The Cock Fight",
+  "description": "Two gamecocks fight in the Edison Company film studio. This feature was remade later in the same year, with additional detail added.",
+  "runtime_minutes": 1,
+  "release_date": "1894",
+  "genres": [
+    "Documentary",
+    "Short"
+  ],
+  "directors": [
+    {
+      "id": "nm0005690",
+      "name": "William K.L. Dickson"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 271264,
+  "year": 1894,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjk5ZDE3Y2ItMzhjYS00MmQ1LThiODgtMjc2MjBiYjk1NTYyXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 4.3,
+      "votes": 705,
+      "distribution": {
+        "1": 85,
+        "2": 61,
+        "3": 82,
+        "4": 120,
+        "5": 186,
+        "6": 85,
+        "7": 42,
+        "8": 19,
+        "9": 4,
+        "10": 21
+      },
+      "normalized": 3.218
+    },
+    "filmweb": {
+      "rating": 3.99,
+      "votes": 71,
+      "distribution": {
+        "1": 6,
+        "2": 9,
+        "3": 19,
+        "4": 8,
+        "5": 16,
+        "6": 7,
+        "7": 2,
+        "8": 2,
+        "9": 2,
+        "10": 0
+      },
+      "normalized": 4.206
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "11.12.2016",
+      "normalized": 5.6855
+    },
+    "score": 4.3698
+  },
+  "polish_title": "The Cock Fight",
+  "silent": true,
+  "description_pl": "Film przedstawia walkę dwóch kogutów, która odbywa się Studiu Edisona. W tym samym roku zrobioną kolejną część, która pokazywała więcej szczegółów.",
+  "cinematographers": [
+    {
+      "id": "nm0374658",
+      "name": "William Heise"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

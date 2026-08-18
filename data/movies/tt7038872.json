@@ -1,0 +1,139 @@
+{
+  "imdb_id": "tt7038872",
+  "title": "Blue",
+  "description": "BLUE is a provocative journey into the ocean realm, witnessing this critical moment in time when the marine world is on a precipice.",
+  "runtime_minutes": 76,
+  "release_date": "02.11.2017",
+  "genres": [
+    "Documentary"
+  ],
+  "stars": [
+    {
+      "id": "nm11647046",
+      "name": "Lucas Handley"
+    },
+    {
+      "id": "nm5047687",
+      "name": "Tim Silverwood"
+    },
+    {
+      "id": "nm6572343",
+      "name": "Madison Stewart"
+    },
+    {
+      "id": "nm12299025",
+      "name": "Valerie Taylor"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm3077270",
+      "name": "Karina Holden"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm3077270",
+      "name": "Karina Holden"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm11647046",
+      "name": "Lucas Handley",
+      "character": "Self"
+    },
+    {
+      "id": "nm5047687",
+      "name": "Tim Silverwood",
+      "character": "Self"
+    },
+    {
+      "id": "nm6572343",
+      "name": "Madison Stewart",
+      "character": "Self"
+    },
+    {
+      "id": "nm12299025",
+      "name": "Valerie Taylor",
+      "character": "Self"
+    }
+  ],
+  "countries": [
+    "Australia"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 792841,
+  "year": 2017,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjk3MjkwZjktNTM5ZC00YTY1LWFhYWQtNDVkZjUzNWI5ZjAxXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.8,
+      "votes": 159,
+      "distribution": {
+        "1": 8,
+        "2": 2,
+        "3": 1,
+        "4": 3,
+        "5": 6,
+        "6": 13,
+        "7": 30,
+        "8": 35,
+        "9": 31,
+        "10": 30
+      },
+      "normalized": 5.521
+    },
+    "filmweb": {
+      "rating": 7.55,
+      "votes": 53,
+      "distribution": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 2,
+        "6": 7,
+        "7": 12,
+        "8": 16,
+        "9": 9,
+        "10": 5
+      },
+      "normalized": 5.3771
+    },
+    "jarek": {
+      "rating": 8,
+      "date_rated": "13.10.2017",
+      "normalized": 7.8989
+    },
+    "score": 6.2657
+  },
+  "polish_title": "Błękit",
+  "silent": false,
+  "description_pl": "W ciągu ostatnich 40 lat połowa istot żyjących w morzach przestała istnieć. W 2050 roku w wodach świata będzie więcej plastiku niż ryb. Nie możemy już dłużej uważać mórz i oceanów za źródła nieograniczonych zasobów, ani wysypiska śmieci, które zniosą wszystko i pozostaną niezmienne niezależnie od tego, jak będziemy je traktować. Film zabiera nas w podróż w głąb wodnego królestwa, abyśmy na własne oczy przekonali się, że jest ono na skraju przepaści. Przedstawia pełnych pasji ludzi, którzy poświęcają swoje życie ochronie oceanów i ich mieszkańców. Musimy działać dzisiaj, jutro będzie za późno.",
+  "producers": [
+    {
+      "id": "nm9077690",
+      "name": "Sarah Beard"
+    },
+    {
+      "id": "nm1919307",
+      "name": "Sue Clothier"
+    },
+    {
+      "id": "nm3077270",
+      "name": "Karina Holden"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm1988841",
+      "name": "Ash Gibson Greig"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

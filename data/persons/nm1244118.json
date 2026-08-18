@@ -1,0 +1,36 @@
+{
+  "id": "nm1244118",
+  "name": "Andrzej Bielski",
+  "filmography": [
+    {
+      "imdb_id": "tt0084923",
+      "title": "Wyjscie awaryjne",
+      "year": 1982,
+      "roles": [
+        "cast"
+      ],
+      "character": "Clerk"
+    },
+    {
+      "imdb_id": "tt0084901",
+      "title": "Big Shar",
+      "year": 1983,
+      "roles": [
+        "cast"
+      ]
+    }
+  ],
+  "birth_date": "29.11.1934",
+  "death_date": "03.10.1996",
+  "birth_location": "Warsaw, Mazowieckie, Poland",
+  "imdb_scraped": true,
+  "filmweb_id": 63656,
+  "name_pl": "Andrzej Bielski",
+  "birth_location_pl": "Warszawa",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Polska"
+  ],
+  "wikidata_fw_id": 63656
+}

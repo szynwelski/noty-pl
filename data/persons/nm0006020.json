@@ -1,0 +1,35 @@
+{
+  "id": "nm0006020",
+  "name": "Bruno Coulais",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjA1MTg3NDM4NV5BMl5BanBnXkFtZTcwMjc1MjcxMw@@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0117040",
+      "title": "Microcosmos",
+      "year": 1996,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt0372824",
+      "title": "The Chorus",
+      "year": 2004,
+      "roles": [
+        "composer"
+      ]
+    }
+  ],
+  "birth_date": "13.01.1954",
+  "birth_location": "Paris, France",
+  "imdb_scraped": true,
+  "filmweb_id": 11078,
+  "name_pl": "Bruno Coulais",
+  "birth_location_pl": "Paryż",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja"
+  ],
+  "wikidata_fw_id": 11078
+}

@@ -1,0 +1,23 @@
+{
+  "id": "nm1471425",
+  "name": "Joe Simpson",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjEzNjk4MjgzNl5BMl5BanBnXkFtZTYwMjE5NTI0._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0424993",
+      "title": "Employee of the Month",
+      "year": 2006,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "birth_date": "18.02.1958",
+  "birth_location": "San Antonio, Texas, USA",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "filmweb_id": 278087,
+  "name_pl": "Joe Simpson",
+  "birth_location_pl": "San Antonio, Teksas",
+  "gender": "M"
+}

@@ -1,0 +1,270 @@
+{
+  "imdb_id": "tt6193408",
+  "title": "A Shaun the Sheep Movie: Farmageddon",
+  "description": "When an alien with amazing powers crash-lands near Mossy Bottom Farm, Shaun the Sheep goes on a mission to shepherd the intergalactic visitor home before a sinister organization can capture her.",
+  "runtime_minutes": 86,
+  "release_date": "14.02.2020",
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy",
+    "Family",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm1017994",
+      "name": "Justin Fletcher"
+    },
+    {
+      "id": "nm0816950",
+      "name": "John Sparkes"
+    },
+    {
+      "id": "nm5105026",
+      "name": "Amalia Vitale"
+    },
+    {
+      "id": "nm0361957",
+      "name": "Kate Harbour"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm2192511",
+      "name": "Will Becher"
+    },
+    {
+      "id": "nm4503368",
+      "name": "Richard Phelan"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0123666",
+      "name": "Mark Burton"
+    },
+    {
+      "id": "nm2163353",
+      "name": "Jon Brown"
+    },
+    {
+      "id": "nm0326450",
+      "name": "Richard Starzak"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1017994",
+      "name": "Justin Fletcher",
+      "character": "Shaun"
+    },
+    {
+      "id": "nm0816950",
+      "name": "John Sparkes",
+      "character": "The Farmer"
+    },
+    {
+      "id": "nm5105026",
+      "name": "Amalia Vitale",
+      "character": "Lu-La"
+    },
+    {
+      "id": "nm0361957",
+      "name": "Kate Harbour",
+      "character": "Agent Red"
+    },
+    {
+      "id": "nm1034076",
+      "name": "David Holt",
+      "character": "Mugg-1NS"
+    },
+    {
+      "id": "nm0638762",
+      "name": "Andy Nyman",
+      "character": "Nuts"
+    },
+    {
+      "id": "nm0916432",
+      "name": "Richard Webber",
+      "character": "Shirley"
+    },
+    {
+      "id": "nm1469295",
+      "name": "Emma Tate",
+      "character": "Hazel"
+    },
+    {
+      "id": "nm0338425",
+      "name": "Simon Greenall",
+      "character": "Twins"
+    },
+    {
+      "id": "nm2410130",
+      "name": "Chris Morrell",
+      "character": "Farmer John"
+    },
+    {
+      "id": "nm6701825",
+      "name": "Joe Sugg",
+      "character": "Pizza Boy"
+    },
+    {
+      "id": "nm1692732",
+      "name": "Joseph Balderrama",
+      "character": "Additional Voices"
+    },
+    {
+      "id": "nm2521455",
+      "name": "Antony Bayman",
+      "character": "Additional Voices"
+    },
+    {
+      "id": "nm2192511",
+      "name": "Will Becher",
+      "character": "Additional Voices"
+    },
+    {
+      "id": "nm11614721",
+      "name": "Tom Collingwood",
+      "character": "Additional Voices"
+    },
+    {
+      "id": "nm0359486",
+      "name": "Tim Hands",
+      "character": "Additional Voices"
+    },
+    {
+      "id": "nm1696370",
+      "name": "Naomi McDonald",
+      "character": "Additional Voices"
+    },
+    {
+      "id": "nm4503368",
+      "name": "Richard Phelan",
+      "character": "Additional Voices"
+    }
+  ],
+  "countries": [
+    "United Kingdom",
+    "France",
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "year": 2019,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTgzMzA0NDk0Ml5BMl5BanBnXkFtZTgwODg1MzM5NjM@._V1_.jpg",
+  "filmweb_id": 816650,
+  "ratings": {
+    "imdb": {
+      "rating": 6.8,
+      "votes": 17585,
+      "distribution": {
+        "1": 204,
+        "2": 104,
+        "3": 201,
+        "4": 458,
+        "5": 1395,
+        "6": 3896,
+        "7": 6022,
+        "8": 3179,
+        "9": 960,
+        "10": 1166
+      },
+      "normalized": 5.1587
+    },
+    "filmweb": {
+      "rating": 6.68,
+      "votes": 3893,
+      "distribution": {
+        "1": 17,
+        "2": 9,
+        "3": 58,
+        "4": 110,
+        "5": 350,
+        "6": 1046,
+        "7": 1454,
+        "8": 585,
+        "9": 149,
+        "10": 115
+      },
+      "normalized": 4.8051
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "03.07.2025",
+      "normalized": 4.5781
+    },
+    "score": 4.8473
+  },
+  "polish_title": "Baranek Shaun Film. Farmageddon",
+  "silent": false,
+  "description_pl": "Przed barankiem Shaunem i jego stadkiem otwierają się gwiezdne wrota wiodące wprost do międzyplanetarnej przygody, gdy na ich farmie ląduje obdarzona  niesłychanymi mocami i nieodpartym urokiem przybyszka z odległej galaktyki. Shaun będzie musiał pomóc jej odnaleźć odległy dom i umknąć stąpającej jej po piętach tajnej organizacji. Czy uda mu się zapobiec Farmageddonowi i w towarzystwie kosmatych kosmonautów powrócić na ukochaną farmę?",
+  "producers": [
+    {
+      "id": "nm1485380",
+      "name": "Richard Beek"
+    },
+    {
+      "id": "nm0123666",
+      "name": "Mark Burton"
+    },
+    {
+      "id": "nm5566761",
+      "name": "Sean Clarke"
+    },
+    {
+      "id": "nm1286457",
+      "name": "Ron Halpern"
+    },
+    {
+      "id": "nm1385754",
+      "name": "Paul Kewley"
+    },
+    {
+      "id": "nm2124717",
+      "name": "Kerry Lock"
+    },
+    {
+      "id": "nm0520485",
+      "name": "Peter Lord"
+    },
+    {
+      "id": "nm2776286",
+      "name": "Didier Lupfer"
+    },
+    {
+      "id": "nm0661910",
+      "name": "Nick Park"
+    },
+    {
+      "id": "nm0791185",
+      "name": "Carla Shelley"
+    },
+    {
+      "id": "nm0819862",
+      "name": "David Sproxton"
+    },
+    {
+      "id": "nm0326450",
+      "name": "Richard Starzak"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm1995968",
+      "name": "Tom Howe"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm1317320",
+      "name": "Charles Copping"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

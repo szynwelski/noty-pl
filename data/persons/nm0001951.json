@@ -1,0 +1,30 @@
+{
+  "id": "nm0001951",
+  "name": "Björk",
+  "filmography": [
+    {
+      "imdb_id": "tt0168629",
+      "title": "Dancer in the Dark",
+      "year": 2000,
+      "roles": [
+        "star",
+        "cast",
+        "composer"
+      ],
+      "character": "Selma Jezkova"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjEwNTc2OTM2N15BMl5BanBnXkFtZTYwMDI4NjY1._V1_.jpg",
+  "birth_date": "21.11.1965",
+  "birth_location": "Reykjavik, Iceland",
+  "height": "1.63 m",
+  "imdb_scraped": true,
+  "filmweb_id": 10065,
+  "name_pl": "Björk",
+  "birth_location_pl": "Reykjavik",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Islandia"
+  ]
+}

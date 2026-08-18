@@ -1,0 +1,54 @@
+{
+  "id": "nm0001243",
+  "name": "William Friedkin",
+  "filmography": [
+    {
+      "imdb_id": "tt0067116",
+      "title": "The French Connection",
+      "year": 1971,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0070510",
+      "title": "Paper Moon",
+      "year": 1973,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0070047",
+      "title": "The Exorcist",
+      "year": 1973,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0118528",
+      "title": "12 Angry Men",
+      "year": 1997,
+      "roles": [
+        "director"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTUwNjUzNzA0M15BMl5BanBnXkFtZTcwNzU5MDkwMw@@._V1_.jpg",
+  "birth_date": "29.08.1935",
+  "death_date": "07.08.2023",
+  "birth_location": "Chicago, Illinois, USA",
+  "height": "1.83 m",
+  "filmweb_id": 12609,
+  "name_pl": "William Friedkin",
+  "birth_location_pl": "Chicago, Illinois",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 12609
+}

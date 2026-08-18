@@ -1,0 +1,40 @@
+{
+  "id": "nm0028674",
+  "name": "Harry Andrews",
+  "filmography": [
+    {
+      "imdb_id": "tt0049513",
+      "title": "Moby Dick",
+      "year": 1956,
+      "roles": [
+        "cast"
+      ],
+      "character": "Stubb"
+    },
+    {
+      "imdb_id": "tt0078346",
+      "title": "Superman",
+      "year": 1978,
+      "roles": [
+        "cast"
+      ],
+      "character": "2nd Elder"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTM4MjQyMDg1Ml5BMl5BanBnXkFtZTcwNzgxOTM2NA@@._V1_.jpg",
+  "birth_date": "10.11.1911",
+  "death_date": "06.03.1989",
+  "birth_location": "Tonbridge, Kent, England, UK",
+  "height": "1.88 m",
+  "imdb_scraped": true,
+  "filmweb_id": 54823,
+  "name_pl": "Harry Andrews",
+  "birth_location_pl": "Tonbridge, Anglia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania",
+    "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii"
+  ],
+  "wikidata_fw_id": 54823
+}

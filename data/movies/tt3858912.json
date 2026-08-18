@@ -1,0 +1,186 @@
+{
+  "imdb_id": "tt3858912",
+  "title": "Goat",
+  "description": "A former Olympic boxer on a quest for his last defeat.",
+  "runtime_minutes": 75,
+  "release_date": "10.09.2015",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm6626884",
+      "name": "Peter Baláz"
+    },
+    {
+      "id": "nm7443849",
+      "name": "Nikola Bongilajová"
+    },
+    {
+      "id": "nm7443848",
+      "name": "Stanislava Bongilajová"
+    },
+    {
+      "id": "nm7443846",
+      "name": "Ján Franek"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm4234962",
+      "name": "Ivan Ostrochovský"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0503931",
+      "name": "Marek Lescák"
+    },
+    {
+      "id": "nm4234962",
+      "name": "Ivan Ostrochovský"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm6626884",
+      "name": "Peter Baláz",
+      "character": ""
+    },
+    {
+      "id": "nm7443849",
+      "name": "Nikola Bongilajová",
+      "character": "Nikolka"
+    },
+    {
+      "id": "nm7443848",
+      "name": "Stanislava Bongilajová",
+      "character": "Misa"
+    },
+    {
+      "id": "nm7443846",
+      "name": "Ján Franek",
+      "character": "Franek"
+    },
+    {
+      "id": "nm8687895",
+      "name": "Zvonko Lakčevič",
+      "character": "Zvonko"
+    },
+    {
+      "id": "nm7443850",
+      "name": "Alexandra Palatinusová",
+      "character": "Mia"
+    },
+    {
+      "id": "nm7443845",
+      "name": "Tatiana Piussi",
+      "character": "HItchhiker"
+    },
+    {
+      "id": "nm7443843",
+      "name": "Manfred Schmid",
+      "character": "The German"
+    },
+    {
+      "id": "nm7737549",
+      "name": "Zayne Richard Simpson",
+      "character": "Frat Kid"
+    }
+  ],
+  "countries": [
+    "Slovakia",
+    "Czech Republic"
+  ],
+  "languages": [
+    "Slovak",
+    "Czech",
+    "German",
+    "English"
+  ],
+  "color": "Color",
+  "year": 2015,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjY2OTU5MTY2NV5BMl5BanBnXkFtZTgwMzEzMDIyNDE@._V1_.jpg",
+  "filmweb_id": 738456,
+  "original_title": "Koza",
+  "ratings": {
+    "imdb": {
+      "rating": 6.5,
+      "votes": 228,
+      "distribution": {
+        "1": 9,
+        "2": 3,
+        "3": 6,
+        "4": 15,
+        "5": 23,
+        "6": 51,
+        "7": 69,
+        "8": 32,
+        "9": 11,
+        "10": 9
+      },
+      "normalized": 5.0686
+    },
+    "filmweb": {
+      "rating": 6.39,
+      "votes": 61,
+      "distribution": {
+        "2": 1,
+        "3": 2,
+        "4": 2,
+        "5": 8,
+        "6": 13,
+        "7": 26,
+        "8": 7,
+        "9": 2,
+        "10": 0
+      },
+      "normalized": 4.9851
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "12.10.2020",
+      "normalized": 4.9718
+    },
+    "score": 5.0085
+  },
+  "polish_title": "Koza",
+  "silent": false,
+  "description_pl": "Nazywają go Koza. Najlepsze dni jako bokser ma już za sobą. Czasem ogląda na wideo swój występ na olimpiadzie w Atlancie w 1996. Mieszka z partnerką Mišą w cygańskim getcie i z trudnością wiąże koniec z końcem. Okazuje się, że Miša jest w ciąży i nie stać ich na dziecko. Prosi Kozę, żeby zdobył pieniądze na zabieg. Koza decyduje, że wróci na ring. Zdobędzie pieniądze i może uda mu się przekonać dziewczynę do zmiany decyzji. Szef, dla którego zbiera złom, zostaje jego impresario i ruszają w trasę. Melancholijny i zabawny zarazem film drogi. W roli tytułowej słowacki bokser wagi papierowej Peter \"Koza\" Baláž, którego historia w dużej mierze pokrywa się z historią w filmie. Jako jego trener występuje Ján Franek, medalista olimpijski z Moskwy z 1980.",
+  "producers": [
+    {
+      "id": "nm1585750",
+      "name": "Jiri Konecny"
+    },
+    {
+      "id": "nm4234962",
+      "name": "Ivan Ostrochovský"
+    },
+    {
+      "id": "nm1302428",
+      "name": "Maros Slapeta"
+    },
+    {
+      "id": "nm2125894",
+      "name": "Marek Urban"
+    },
+    {
+      "id": "nm3717507",
+      "name": "Kamila Zlatusková"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm6432836",
+      "name": "Miroslav Toth"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0464252",
+      "name": "Martin Kollár"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

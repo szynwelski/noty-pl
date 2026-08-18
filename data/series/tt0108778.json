@@ -1,0 +1,337 @@
+{
+  "imdb_id": "tt0108778",
+  "title": "Friends",
+  "description": "The personal and professional lives of six friends living in the Manhattan borough of New York City.",
+  "runtime_minutes": 22,
+  "release_date": "22.09.1994",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0000098",
+      "name": "Jennifer Aniston"
+    },
+    {
+      "id": "nm0001073",
+      "name": "Courteney Cox"
+    },
+    {
+      "id": "nm0001435",
+      "name": "Lisa Kudrow"
+    },
+    {
+      "id": "nm0001455",
+      "name": "Matt LeBlanc"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000098",
+      "name": "Jennifer Aniston",
+      "character": "Rachel Green"
+    },
+    {
+      "id": "nm0001073",
+      "name": "Courteney Cox",
+      "character": "Monica Geller"
+    },
+    {
+      "id": "nm0001435",
+      "name": "Lisa Kudrow",
+      "character": "Phoebe Buffay"
+    },
+    {
+      "id": "nm0001455",
+      "name": "Matt LeBlanc",
+      "character": "Joey Tribbiani"
+    },
+    {
+      "id": "nm0001612",
+      "name": "Matthew Perry",
+      "character": "Chandler Bing"
+    },
+    {
+      "id": "nm0001710",
+      "name": "David Schwimmer",
+      "character": "Dr. Ross Geller"
+    },
+    {
+      "id": "nm0878837",
+      "name": "James Michael Tyler",
+      "character": "Gunther"
+    },
+    {
+      "id": "nm0001285",
+      "name": "Elliott Gould",
+      "character": "Jack Geller"
+    },
+    {
+      "id": "nm0923909",
+      "name": "Maggie Wheeler",
+      "character": "Janice Litman-Goralnik"
+    },
+    {
+      "id": "nm0681943",
+      "name": "Christina Pickles",
+      "character": "Judy Geller"
+    },
+    {
+      "id": "nm0748620",
+      "name": "Paul Rudd",
+      "character": "Mike Hannigan"
+    },
+    {
+      "id": "nm0796235",
+      "name": "Jane Sibbett",
+      "character": "Carol"
+    },
+    {
+      "id": "nm0062636",
+      "name": "Helen Baxendale",
+      "character": "Emily Waltham"
+    },
+    {
+      "id": "nm0372961",
+      "name": "Jessica Hecht",
+      "character": "Susan Bunch"
+    },
+    {
+      "id": "nm0300096",
+      "name": "June Gable",
+      "character": "Estelle Leonard"
+    },
+    {
+      "id": "nm0000633",
+      "name": "Tom Selleck",
+      "character": "Dr. Richard Burke"
+    },
+    {
+      "id": "nm0000610",
+      "name": "Giovanni Ribisi",
+      "character": "Frank Buffay Jr."
+    },
+    {
+      "id": "nm0878768",
+      "name": "Aisha Tyler",
+      "character": "Charlie Wheeler"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Italian",
+    "French",
+    "Dutch",
+    "Hebrew"
+  ],
+  "color": "Color",
+  "filmweb_id": 144981,
+  "year": 1994,
+  "type": "tvSeries",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOTU2YmM5ZjctOGVlMC00YTczLTljM2MtYjhlNGI5YWMyZjFkXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8.8,
+      "votes": 1203088,
+      "distribution": {
+        "1": 28544,
+        "2": 7748,
+        "3": 8664,
+        "4": 11322,
+        "5": 21055,
+        "6": 38409,
+        "7": 84180,
+        "8": 154541,
+        "9": 250797,
+        "10": 597828
+      }
+    },
+    "filmweb": {
+      "rating": 4.0,
+      "votes": 2,
+      "distribution": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 1,
+        "8": 0,
+        "9": 0,
+        "10": 0
+      }
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "05.08.2024"
+    }
+  },
+  "polish_title": "Friends",
+  "silent": false,
+  "producers": [
+    {
+      "id": "nm0109159",
+      "name": "Kevin Bright"
+    },
+    {
+      "id": "nm0186331",
+      "name": "David Crane"
+    },
+    {
+      "id": "nm0442035",
+      "name": "Marta Kauffman"
+    },
+    {
+      "id": "nm0828815",
+      "name": "Todd Stevens"
+    },
+    {
+      "id": "nm0461325",
+      "name": "Wendy Knoller"
+    },
+    {
+      "id": "nm0325337",
+      "name": "Shana Goldberg-Meehan"
+    },
+    {
+      "id": "nm0798859",
+      "name": "Scott Silveri"
+    },
+    {
+      "id": "nm0169811",
+      "name": "Ted Cohen"
+    },
+    {
+      "id": "nm0716925",
+      "name": "Andrew Reich"
+    },
+    {
+      "id": "nm0539719",
+      "name": "Greg Malins"
+    },
+    {
+      "id": "nm0020949",
+      "name": "Richard Allen"
+    },
+    {
+      "id": "nm0082665",
+      "name": "Sherry Bilsing"
+    },
+    {
+      "id": "nm0687623",
+      "name": "Ellen Kreamer"
+    },
+    {
+      "id": "nm0153676",
+      "name": "Adam Chase"
+    },
+    {
+      "id": "nm0572942",
+      "name": "Mary Rodriquez"
+    },
+    {
+      "id": "nm0118748",
+      "name": "Brian Buckner"
+    },
+    {
+      "id": "nm0429224",
+      "name": "Sebastian Jones"
+    },
+    {
+      "id": "nm0475799",
+      "name": "Seth Kurland"
+    },
+    {
+      "id": "nm0096940",
+      "name": "Michael Borkow"
+    },
+    {
+      "id": "nm0193454",
+      "name": "Michael Curtis"
+    },
+    {
+      "id": "nm0129949",
+      "name": "Wil Calhoun"
+    },
+    {
+      "id": "nm0109168",
+      "name": "Noel Bright"
+    },
+    {
+      "id": "nm0096938",
+      "name": "Dana Klein"
+    },
+    {
+      "id": "nm0475117",
+      "name": "Mark Kunerth"
+    },
+    {
+      "id": "nm0432612",
+      "name": "Alexa Junge"
+    },
+    {
+      "id": "nm0640368",
+      "name": "Jamie O'Connor"
+    },
+    {
+      "id": "nm1061622",
+      "name": "Robert Carlock"
+    },
+    {
+      "id": "nm0158865",
+      "name": "Richard Choi"
+    },
+    {
+      "id": "nm0881206",
+      "name": "Ira Ungerleider"
+    },
+    {
+      "id": "nm0375028",
+      "name": "David Helfand"
+    },
+    {
+      "id": "nm0566998",
+      "name": "Gigi McCreery"
+    },
+    {
+      "id": "nm0717885",
+      "name": "Perry M. Rein"
+    },
+    {
+      "id": "nm0952452",
+      "name": "Andy Zall"
+    },
+    {
+      "id": "nm0097124",
+      "name": "Betsy Borns"
+    },
+    {
+      "id": "nm0174396",
+      "name": "Jill Condon"
+    },
+    {
+      "id": "nm0867542",
+      "name": "Amy Toomin Straus"
+    },
+    {
+      "id": "nm0339211",
+      "name": "Jeff Greenstein"
+    },
+    {
+      "id": "nm0833821",
+      "name": "Jeff Strauss"
+    },
+    {
+      "id": "nm0963235",
+      "name": "Mary Rodriguez"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,185 @@
+{
+  "imdb_id": "tt2732932",
+  "title": "The Kill Team",
+  "description": "This provocative, bold, and deeply moving documentary profiles Adam Winfield, a soldier-turned-whistleblower who returns from the battlefield to expose shocking war crimes that the U.S. Army will do anything to cover up.",
+  "runtime_minutes": 79,
+  "release_date": "19.04.2020",
+  "genres": [
+    "Documentary"
+  ],
+  "stars": [
+    {
+      "id": "nm7203264",
+      "name": "Adam Winfield"
+    },
+    {
+      "id": "nm7203265",
+      "name": "Christopher Winfield"
+    },
+    {
+      "id": "nm7203266",
+      "name": "Emma Winfield"
+    },
+    {
+      "id": "nm7203267",
+      "name": "Alaina Winfield"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm1830532",
+      "name": "Dan Krauss"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm7203264",
+      "name": "Adam Winfield",
+      "character": "Self"
+    },
+    {
+      "id": "nm7203265",
+      "name": "Christopher Winfield",
+      "character": "Self"
+    },
+    {
+      "id": "nm7203266",
+      "name": "Emma Winfield",
+      "character": "Self"
+    },
+    {
+      "id": "nm7203267",
+      "name": "Alaina Winfield",
+      "character": "Self"
+    },
+    {
+      "id": "nm5505219",
+      "name": "Alex Winfield",
+      "character": "Self"
+    },
+    {
+      "id": "nm7203268",
+      "name": "Andrew Holmes",
+      "character": "Self"
+    },
+    {
+      "id": "nm7203269",
+      "name": "Jeremy Morlock",
+      "character": "Self"
+    },
+    {
+      "id": "nm5499712",
+      "name": "Justin Stoner",
+      "character": "Self"
+    },
+    {
+      "id": "nm7203270",
+      "name": "Eric Montalvo",
+      "character": "Self"
+    },
+    {
+      "id": "nm4855442",
+      "name": "Stephen Xenakis",
+      "character": "Self"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 688218,
+  "year": 2013,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOTUyMDM2MjkyMF5BMl5BanBnXkFtZTgwNTg0NTc3MTE@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7,
+      "votes": 1474,
+      "distribution": {
+        "1": 50,
+        "2": 9,
+        "3": 8,
+        "4": 30,
+        "5": 82,
+        "6": 247,
+        "7": 520,
+        "8": 324,
+        "9": 99,
+        "10": 105
+      },
+      "normalized": 5.4747
+    },
+    "filmweb": {
+      "rating": 6.36,
+      "votes": 376,
+      "distribution": {
+        "1": 3,
+        "2": 4,
+        "3": 2,
+        "4": 11,
+        "5": 57,
+        "6": 122,
+        "7": 116,
+        "8": 49,
+        "9": 9,
+        "10": 3
+      },
+      "normalized": 4.564
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "01.10.2017",
+      "normalized": 4.9718
+    },
+    "score": 5.0035
+  },
+  "polish_title": "Oddział zabójców",
+  "silent": false,
+  "description_pl": "W 2010 roku w południowym Afganistanie grupa amerykańskich żołnierzy zabijała bezbronnych cywilów i podkładała im broń, pozorując eliminowanie uzbrojonych i wyjątkowo niebezpiecznych terrorystów. Nazywali siebie \"Kill Team\". Młody żołnierz, Adam Winfield, za pośrednictwem swego ojca informował dowództwo o tych praktykach. Jego starania nie przyniosły rezultatów, a jego samego próbowano uciszyć. W maju 2010 roku \"Kill Team\" postanowił zaaranżować kolejne morderstwo, tym razem w obecności Adama, żeby go sprawdzić. Musiał wybrać, czy jedzie jako potencjalny zdrajca i denuncjator, czy jako towarzysz broni bierze w nim udział. Wybrał to drugie, zyskując szacunek kolegów i czas dla siebie. Jednak kilka tygodni później został przewieziony do Fort Lewis i oskarżony o udział w morderstwie z premedytacją.",
+  "producers": [
+    {
+      "id": "nm0166207",
+      "name": "Christopher Clements"
+    },
+    {
+      "id": "nm3231189",
+      "name": "Linda Davis"
+    },
+    {
+      "id": "nm0325821",
+      "name": "Julie Goldman"
+    },
+    {
+      "id": "nm1684394",
+      "name": "Carolyn Hepburn"
+    },
+    {
+      "id": "nm0389161",
+      "name": "Deborah Hoffmann"
+    },
+    {
+      "id": "nm1830532",
+      "name": "Dan Krauss"
+    },
+    {
+      "id": "nm6374792",
+      "name": "Sean Lyness"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm1436564",
+      "name": "Justin Melland"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm1830532",
+      "name": "Dan Krauss"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

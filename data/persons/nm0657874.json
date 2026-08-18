@@ -1,0 +1,39 @@
+{
+  "id": "nm0657874",
+  "name": "Eugene Pallette",
+  "filmography": [
+    {
+      "imdb_id": "tt0029843",
+      "title": "The Adventures of Robin Hood",
+      "year": 1938,
+      "roles": [
+        "cast"
+      ],
+      "character": "Friar Tuck"
+    },
+    {
+      "imdb_id": "tt0031679",
+      "title": "Mr. Smith Goes to Washington",
+      "year": 1939,
+      "roles": [
+        "cast"
+      ],
+      "character": "Chick McGann"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTM5Nzk5NzA2NF5BMl5BanBnXkFtZTcwNTI1MDQxOA@@._V1_.jpg",
+  "birth_date": "08.07.1889",
+  "death_date": "03.09.1954",
+  "birth_location": "Winfield, Kansas, USA",
+  "height": "1.70 m",
+  "imdb_scraped": true,
+  "filmweb_id": 48932,
+  "name_pl": "Eugene Pallette",
+  "birth_location_pl": "Winfield, Kansas",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 48932
+}

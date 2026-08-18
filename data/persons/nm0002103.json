@@ -1,0 +1,48 @@
+{
+  "id": "nm0002103",
+  "name": "Julian Glover",
+  "filmography": [
+    {
+      "imdb_id": "tt0080684",
+      "title": "Star Wars: Episode V - The Empire Strikes Back",
+      "year": 1980,
+      "roles": [
+        "cast"
+      ],
+      "character": "General Veers"
+    },
+    {
+      "imdb_id": "tt0097576",
+      "title": "Indiana Jones and the Last Crusade",
+      "year": 1989,
+      "roles": [
+        "cast"
+      ],
+      "character": "Walter Donovan"
+    },
+    {
+      "imdb_id": "tt0332452",
+      "title": "Troy",
+      "year": 2004,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Triopas"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjA4MDg3MjA2NV5BMl5BanBnXkFtZTcwNjAxNzczNA@@._V1_.jpg",
+  "birth_date": "27.03.1935",
+  "birth_location": "Hampstead, London, England, UK",
+  "height": "1.88 m",
+  "filmweb_id": 7280,
+  "name_pl": "Julian Glover",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 7280
+}

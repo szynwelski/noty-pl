@@ -1,0 +1,199 @@
+{
+  "imdb_id": "tt0071691",
+  "title": "The Enigma of Kaspar Hauser",
+  "description": "A young man named Kaspar Hauser suddenly appears in Nuremberg in 1828, barely able to talk or walk, and bearing a strange note.",
+  "runtime_minutes": 110,
+  "release_date": "01.11.1974",
+  "genres": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "stars": [
+    {
+      "id": "nm0754165",
+      "name": "Bruno S."
+    },
+    {
+      "id": "nm0480512",
+      "name": "Walter Ladengast"
+    },
+    {
+      "id": "nm0591930",
+      "name": "Brigitte Mira"
+    },
+    {
+      "id": "nm0783848",
+      "name": "Willy Semmelrogge"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001348",
+      "name": "Werner Herzog"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0001348",
+      "name": "Werner Herzog"
+    },
+    {
+      "id": "nm0913708",
+      "name": "Jakob Wassermann"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0754165",
+      "name": "Bruno S.",
+      "character": "Kaspar Hauser"
+    },
+    {
+      "id": "nm0480512",
+      "name": "Walter Ladengast",
+      "character": "Professor Daumer"
+    },
+    {
+      "id": "nm0591930",
+      "name": "Brigitte Mira",
+      "character": "Haushälterin Käthe"
+    },
+    {
+      "id": "nm0783848",
+      "name": "Willy Semmelrogge",
+      "character": "Circus director"
+    },
+    {
+      "id": "nm0471851",
+      "name": "Michael Kroecher",
+      "character": "Lord Stanhope"
+    },
+    {
+      "id": "nm0615529",
+      "name": "Hans Musäus",
+      "character": "Unknown Man"
+    },
+    {
+      "id": "nm0887463",
+      "name": "Henry van Lyck",
+      "character": "Cavalry Captain"
+    },
+    {
+      "id": "nm0230382",
+      "name": "Gloria Doer",
+      "character": "Frau Hiltel"
+    },
+    {
+      "id": "nm0695711",
+      "name": "Volker Prechtel",
+      "character": "Hiltel the prison guard"
+    },
+    {
+      "id": "nm0002157",
+      "name": "Herbert Achternbusch",
+      "character": "Bavarian Chicken Hypnotizer"
+    },
+    {
+      "id": "nm0061953",
+      "name": "Wolfgang Bauer",
+      "character": ""
+    },
+    {
+      "id": "nm1242598",
+      "name": "Wilhelm Bayer",
+      "character": "Taunting Farmboy"
+    },
+    {
+      "id": "nm1240986",
+      "name": "Franz Brumbach",
+      "character": ""
+    },
+    {
+      "id": "nm0125581",
+      "name": "Johannes Buzalski",
+      "character": ""
+    },
+    {
+      "id": "nm0246888",
+      "name": "Helmut Döring",
+      "character": "Little King"
+    },
+    {
+      "id": "nm0248937",
+      "name": "Alfred Edel",
+      "character": "Professor"
+    },
+    {
+      "id": "nm0294813",
+      "name": "Florian Fricke",
+      "character": "Florian"
+    },
+    {
+      "id": "nm1242663",
+      "name": "Heribert Fritsch",
+      "character": ""
+    }
+  ],
+  "countries": [
+    "West Germany"
+  ],
+  "languages": [
+    "German"
+  ],
+  "color": null,
+  "filmweb_id": 31921,
+  "year": 1974,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYzBiNWVjNjEtOGJhMS00MTA0LTgzZTgtMDY2OGY5OGQzMTIyXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Jeder für sich und Gott gegen alle",
+  "ratings": {
+    "imdb": {
+      "rating": 7.6,
+      "votes": 20473,
+      "distribution": {
+        "1": 234,
+        "2": 146,
+        "3": 170,
+        "4": 310,
+        "5": 768,
+        "6": 1925,
+        "7": 4266,
+        "8": 6177,
+        "9": 3429,
+        "10": 3048
+      },
+      "normalized": 6.5413
+    },
+    "filmweb": {
+      "rating": 7.58,
+      "votes": 7754,
+      "distribution": {
+        "1": 53,
+        "2": 22,
+        "3": 71,
+        "4": 119,
+        "5": 298,
+        "6": 723,
+        "7": 2026,
+        "8": 2570,
+        "9": 1265,
+        "10": 607
+      },
+      "normalized": 6.8431
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "19.10.2005",
+      "normalized": 7.2292
+    },
+    "score": 6.8712
+  },
+  "polish_title": "Zagadka Kaspara Hausera",
+  "silent": false,
+  "description_pl": "W 1828 roku w Norymberdze pojawia się włóczęga, który nie potrafi nawiązać żadnego kontaktu z otoczeniem. Nie potrafi sprostać najprostszym nawet czynnościom życiowym. Otoczony opieką przez parę naukowców, staje się ogólnoświatową sensacją. Są nawet tacy, którzy podejrzewają włóczęgę o bardzo bliskie koligacje z największymi dworami Europy.",
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-16"
+}

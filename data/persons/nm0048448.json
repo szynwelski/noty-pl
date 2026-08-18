@@ -1,0 +1,45 @@
+{
+  "id": "nm0048448",
+  "name": "Frank Baker",
+  "filmography": [
+    {
+      "imdb_id": "tt0031971",
+      "title": "Stagecoach",
+      "year": 1939,
+      "roles": [
+        "cast"
+      ]
+    },
+    {
+      "imdb_id": "tt0048028",
+      "title": "East of Eden",
+      "year": 1955,
+      "roles": [
+        "cast"
+      ],
+      "character": "Townsman"
+    },
+    {
+      "imdb_id": "tt0061722",
+      "title": "The Graduate",
+      "year": 1967,
+      "roles": [
+        "cast"
+      ],
+      "character": "Hotel Guest"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZDIyMjk1M2ItMWY0MC00ZmMzLWE0OGItNWNmZTllZjkzMDM0XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "11.10.1892",
+  "death_date": "30.12.1980",
+  "birth_location": "Melbourne, Victoria, Australia",
+  "filmweb_id": 167331,
+  "name_pl": "Frank Baker",
+  "birth_location_pl": "Melbourne",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Australia"
+  ]
+}

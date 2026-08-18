@@ -1,0 +1,39 @@
+{
+  "id": "nm0761420",
+  "name": "Otto Sander",
+  "filmography": [
+    {
+      "imdb_id": "tt0078875",
+      "title": "The Tin Drum",
+      "year": 1979,
+      "roles": [
+        "cast"
+      ],
+      "character": "Musiker Meyn"
+    },
+    {
+      "imdb_id": "tt0093191",
+      "title": "Wings of Desire",
+      "year": 1987,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Cassiel"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjIxNjUxNTQ3M15BMl5BanBnXkFtZTgwODM0MjMyMDE@._V1_.jpg",
+  "birth_date": "30.06.1941",
+  "death_date": "12.09.2013",
+  "birth_location": "Hanover, Germany",
+  "imdb_scraped": true,
+  "filmweb_id": 4738,
+  "name_pl": "Otto Sander",
+  "birth_location_pl": "Hanower",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Niemcy"
+  ],
+  "wikidata_fw_id": 4738
+}

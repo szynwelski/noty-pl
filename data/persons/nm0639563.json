@@ -1,0 +1,40 @@
+{
+  "id": "nm0639563",
+  "name": "George O'Brien",
+  "filmography": [
+    {
+      "imdb_id": "tt0015016",
+      "title": "The Iron Horse",
+      "year": 1924,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Dave Brandon"
+    },
+    {
+      "imdb_id": "tt0018455",
+      "title": "Sunrise",
+      "year": 1927,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "The Man"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOGExYmY5MzMtODk1Ny00NjNjLTlkNGQtODQwYzJhMGIxZjM2XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "19.04.1899",
+  "death_date": "04.09.1985",
+  "birth_location": "San Francisco, California, USA",
+  "height": "1.80 m",
+  "imdb_scraped": true,
+  "filmweb_id": 51342,
+  "name_pl": "George O'Brien",
+  "birth_location_pl": "San Francisco, Kalifornia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "imdb_id": "tt0071877",
+  "title": "Murder on the Orient Express",
+  "description": "Returning home from Istanbul on the Orient Express, renowned Belgian detective Hercule Poirot is called upon to solve the murder of an American businessman aboard the train. The suspects are numerous and the clues confusing.",
+  "runtime_minutes": 128,
+  "release_date": "24.11.1974",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0001215",
+      "name": "Albert Finney"
+    },
+    {
+      "id": "nm0000002",
+      "name": "Lauren Bacall"
+    },
+    {
+      "id": "nm0000006",
+      "name": "Ingrid Bergman"
+    },
+    {
+      "id": "nm0000125",
+      "name": "Sean Connery"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001486",
+      "name": "Sidney Lumet"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0002005",
+      "name": "Agatha Christie"
+    },
+    {
+      "id": "nm0214989",
+      "name": "Paul Dehn"
+    },
+    {
+      "id": "nm0787289",
+      "name": "Anthony Shaffer"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0001215",
+      "name": "Albert Finney",
+      "character": "Hercule Poirot"
+    },
+    {
+      "id": "nm0000002",
+      "name": "Lauren Bacall",
+      "character": "Mrs. Harriet Hubbard"
+    },
+    {
+      "id": "nm0000006",
+      "name": "Ingrid Bergman",
+      "character": "Greta Ohlsson"
+    },
+    {
+      "id": "nm0000842",
+      "name": "Martin Balsam",
+      "character": "Bianchi"
+    },
+    {
+      "id": "nm0000302",
+      "name": "Jacqueline Bisset",
+      "character": "Countess Elena Andrenyi"
+    },
+    {
+      "id": "nm0144045",
+      "name": "Jean-Pierre Cassel",
+      "character": "Pierre Paul Michel"
+    },
+    {
+      "id": "nm0000125",
+      "name": "Sean Connery",
+      "character": "Col. Arbuthnot"
+    },
+    {
+      "id": "nm0000024",
+      "name": "John Gielgud",
+      "character": "Beddoes"
+    },
+    {
+      "id": "nm0384908",
+      "name": "Wendy Hiller",
+      "character": "Princess Natalia Dragomiroff"
+    },
+    {
+      "id": "nm0000578",
+      "name": "Anthony Perkins",
+      "character": "Hector McQueen"
+    },
+    {
+      "id": "nm0000603",
+      "name": "Vanessa Redgrave",
+      "character": "Mary Debenham"
+    },
+    {
+      "id": "nm0731499",
+      "name": "Rachel Roberts",
+      "character": "Hildegarde Schmidt"
+    },
+    {
+      "id": "nm0001847",
+      "name": "Richard Widmark",
+      "character": "Ratchett"
+    },
+    {
+      "id": "nm0001868",
+      "name": "Michael York",
+      "character": "Count Andrenyi"
+    },
+    {
+      "id": "nm0086780",
+      "name": "Colin Blakely",
+      "character": "Hardman"
+    },
+    {
+      "id": "nm0183459",
+      "name": "George Coulouris",
+      "character": "Doctor Constantine"
+    },
+    {
+      "id": "nm0703615",
+      "name": "Denis Quilley",
+      "character": "Antonio Foscarelli"
+    },
+    {
+      "id": "nm0229943",
+      "name": "Vernon Dobtcheff",
+      "character": "Concierge"
+    }
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Turkish",
+    "Italian",
+    "Swedish",
+    "Hungarian"
+  ],
+  "color": null,
+  "filmweb_id": 7846,
+  "year": 1974,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzZmZWMwOWUtM2NkZS00MWM0LTk1YzMtYzI4OGYyMTNlNTMwXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.2,
+      "votes": 75237,
+      "distribution": {
+        "1": 418,
+        "2": 276,
+        "3": 474,
+        "4": 1225,
+        "5": 3564,
+        "6": 10255,
+        "7": 25341,
+        "8": 20155,
+        "9": 7228,
+        "10": 6301
+      },
+      "normalized": 5.9056
+    },
+    "filmweb": {
+      "rating": 7.29,
+      "votes": 16113,
+      "distribution": {
+        "1": 28,
+        "2": 14,
+        "3": 77,
+        "4": 232,
+        "5": 748,
+        "6": 2322,
+        "7": 5708,
+        "8": 4962,
+        "9": 1252,
+        "10": 770
+      },
+      "normalized": 6.1961
+    },
+    "michal": {
+      "rating": 3,
+      "date_rated": "19.10.2005",
+      "normalized": 3.8753
+    },
+    "score": 5.3257
+  },
+  "polish_title": "Morderstwo w Orient Expressie",
+  "silent": false,
+  "description_pl": "Adaptacja jednej z najbardziej znanych powieści Agathy Christie.\nDetektyw Hercules Poirot (<a href=\"/osoba/?id=nm0001215\">Albert Finney</a>) jedzie słynnym \"Orient Expressem\" ze Stambułu do Calais. W czasie podróży przez ośnieżone Alpy pociąg zatrzymuje się z powodu lawiny. Wtedy ginie, pchnięty nożem, jeden z pasażerów, milioner Ratchett (<a href=\"/osoba/?id=nm0001847\">Richard Widmark</a>). W gronie podejrzanych znajdują się służący zamordowanego (<a href=\"/osoba/?id=nm0000024\">John Gielgud</a>), pewna misjonarka (<a href=\"/osoba/?id=nm0000006\">Ingrid Bergman</a>) oraz węgierski hrabia wraz z żoną. Wówczas do akcji wkracza belgijski detektyw...",
+  "producers": [
+    {
+      "id": "nm0102646",
+      "name": "John Brabourne"
+    },
+    {
+      "id": "nm0329545",
+      "name": "Richard Goodwin"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0005961",
+      "name": "Richard Rodney Bennett"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005910",
+      "name": "Geoffrey Unsworth"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

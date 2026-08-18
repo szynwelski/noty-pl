@@ -1,0 +1,232 @@
+{
+  "imdb_id": "tt0257360",
+  "title": "About Schmidt",
+  "description": "Newly retired from the insurance industry, Omaha native Warren Schmidt embarks on an RV journey to his estranged daughter Jeannie's wedding in Denver Colorado, only to discover more about himself and life than he ever expected.",
+  "runtime_minutes": 125,
+  "release_date": "03.01.2003",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0000197",
+      "name": "Jack Nicholson"
+    },
+    {
+      "id": "nm0204706",
+      "name": "Hope Davis"
+    },
+    {
+      "id": "nm0000551",
+      "name": "Dermot Mulroney"
+    },
+    {
+      "id": "nm0000870",
+      "name": "Kathy Bates"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0668247",
+      "name": "Alexander Payne"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1095201",
+      "name": "Louis Begley"
+    },
+    {
+      "id": "nm0668247",
+      "name": "Alexander Payne"
+    },
+    {
+      "id": "nm0852591",
+      "name": "Jim Taylor"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000197",
+      "name": "Jack Nicholson",
+      "character": "Warren Schmidt"
+    },
+    {
+      "id": "nm0204706",
+      "name": "Hope Davis",
+      "character": "Jeannie Schmidt"
+    },
+    {
+      "id": "nm0000551",
+      "name": "Dermot Mulroney",
+      "character": "Randall Hertzel"
+    },
+    {
+      "id": "nm0000870",
+      "name": "Kathy Bates",
+      "character": "Roberta Hertzel"
+    },
+    {
+      "id": "nm0820053",
+      "name": "June Squibb",
+      "character": "Helen Schmidt"
+    },
+    {
+      "id": "nm0381606",
+      "name": "Howard Hesseman",
+      "character": "Larry Hertzel"
+    },
+    {
+      "id": "nm0342881",
+      "name": "Harry Groener",
+      "character": "John Rusk"
+    },
+    {
+      "id": "nm0712790",
+      "name": "Connie Ray",
+      "character": "Vicki Rusk"
+    },
+    {
+      "id": "nm0137230",
+      "name": "Len Cariou",
+      "character": "Ray Nichols"
+    },
+    {
+      "id": "nm1078183",
+      "name": "Mark Venhuizen",
+      "character": "Duncan Hertzel"
+    },
+    {
+      "id": "nm0357253",
+      "name": "Cheryl Hamada",
+      "character": "Saundra"
+    },
+    {
+      "id": "nm0716277",
+      "name": "Phil Reeves",
+      "character": "Minister in Denver"
+    },
+    {
+      "id": "nm0935616",
+      "name": "Matt Winston",
+      "character": "Gary Nordin - Warren's Replacement"
+    },
+    {
+      "id": "nm0175415",
+      "name": "James M. Connor",
+      "character": "Randall's Best Man"
+    },
+    {
+      "id": "nm0026899",
+      "name": "Jill Anderson",
+      "character": "Bridesmaid Reading St. Paul"
+    },
+    {
+      "id": "nm1295479",
+      "name": "Vaughan Wenzel",
+      "character": "Man Mourning Helen"
+    },
+    {
+      "id": "nm1310158",
+      "name": "Judith Kathryn Hart",
+      "character": "Woman Mourning Helen"
+    },
+    {
+      "id": "nm0864124",
+      "name": "Marilyn Tipp",
+      "character": "Neighbor Lady"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 33969,
+  "year": 2002,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTg3ODY2ODM3OF5BMl5BanBnXkFtZTYwOTQ5NTM3._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.2,
+      "votes": 137343,
+      "distribution": {
+        "1": 1960,
+        "2": 1321,
+        "3": 2023,
+        "4": 3457,
+        "5": 8392,
+        "6": 20028,
+        "7": 42440,
+        "8": 35328,
+        "9": 13797,
+        "10": 8597
+      },
+      "normalized": 5.9269
+    },
+    "filmweb": {
+      "rating": 7.09,
+      "votes": 17959,
+      "distribution": {
+        "1": 32,
+        "2": 43,
+        "3": 172,
+        "4": 336,
+        "5": 1053,
+        "6": 2995,
+        "7": 6687,
+        "8": 4994,
+        "9": 1197,
+        "10": 450
+      },
+      "normalized": 5.7904
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "02.12.2005",
+      "normalized": 5.6855
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "19.10.2005",
+      "normalized": 4.5781
+    },
+    "score": 5.4952
+  },
+  "polish_title": "Schmidt",
+  "silent": false,
+  "description_pl": "Warren Schmidt ma już ponad 60 lat i przeszedł niedawno na emeryturę. Jednak wcale nie oznacza to, że teraz w spokoju wypoczywa po wielu latach ciężkiej pracy na stanowisku urzędnika. Umiera mu żona, a córka decyduje się poślubić mężczyznę, którego Schmidt nie toleruje.",
+  "producers": [
+    {
+      "id": "nm0045927",
+      "name": "Bill Badalato"
+    },
+    {
+      "id": "nm0078698",
+      "name": "Michael Besman"
+    },
+    {
+      "id": "nm0321228",
+      "name": "Harry Gittes"
+    },
+    {
+      "id": "nm0395267",
+      "name": "Rachael Horovitz"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0448843",
+      "name": "Rolfe Kent"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0322694",
+      "name": "James Glennon"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

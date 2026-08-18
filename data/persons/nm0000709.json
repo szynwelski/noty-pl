@@ -1,0 +1,106 @@
+{
+  "id": "nm0000709",
+  "name": "Robert Zemeckis",
+  "filmography": [
+    {
+      "imdb_id": "tt0088763",
+      "title": "Back to the Future",
+      "year": 1985,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0096874",
+      "title": "Back to the Future Part II",
+      "year": 1989,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0099088",
+      "title": "Back to the Future Part III",
+      "year": 1990,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0109830",
+      "title": "Forrest Gump",
+      "year": 1994,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0162222",
+      "title": "Cast Away",
+      "year": 2000,
+      "roles": [
+        "director",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0348836",
+      "title": "Gothika",
+      "year": 2003,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0325805",
+      "title": "Matchstick Men",
+      "year": 2003,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0433035",
+      "title": "Real Steel",
+      "year": 2011,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt1907668",
+      "title": "Flight",
+      "year": 2012,
+      "roles": [
+        "director",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt3640424",
+      "title": "Allied",
+      "year": 2016,
+      "roles": [
+        "director",
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTgyMTMzMDUyNl5BMl5BanBnXkFtZTcwODA0ODMyMw@@._V1_.jpg",
+  "birth_date": "14.05.1952",
+  "birth_location": "Chicago, Illinois, USA",
+  "height": "1.83 m",
+  "filmweb_id": 121,
+  "name_pl": "Robert Zemeckis",
+  "birth_location_pl": "Chicago, Illinois",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 121
+}

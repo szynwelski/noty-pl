@@ -1,0 +1,40 @@
+{
+  "id": "nm1053530",
+  "name": "Tom Ford",
+  "filmography": [
+    {
+      "imdb_id": "tt1315981",
+      "title": "A Single Man",
+      "year": 2009,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt4550098",
+      "title": "Nocturnal Animals",
+      "year": 2016,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjA4NjQ1OTcxNF5BMl5BanBnXkFtZTcwNzU1Njk5Mg@@._V1_.jpg",
+  "birth_date": "27.08.1961",
+  "birth_location": "Austin, Texas, USA",
+  "height": "1.82 m",
+  "imdb_scraped": true,
+  "filmweb_id": 301032,
+  "name_pl": "Tom Ford",
+  "birth_location_pl": "Austin, Teksas",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 301032
+}

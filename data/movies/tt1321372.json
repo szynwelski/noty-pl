@@ -1,0 +1,81 @@
+{
+  "imdb_id": "tt1321372",
+  "title": "Dragoons Passing St Paul's",
+  "description": "",
+  "runtime_minutes": 1,
+  "release_date": "1897",
+  "genres": [
+    "Documentary",
+    "Short"
+  ],
+  "directors": [
+    {
+      "id": "nm0666972",
+      "name": "Robert W. Paul"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 645474,
+  "year": 1897,
+  "type": "short",
+  "image_url": null,
+  "ratings": {
+    "imdb": {
+      "rating": 3.9,
+      "votes": 92,
+      "distribution": {
+        "1": 19,
+        "2": 8,
+        "3": 13,
+        "4": 16,
+        "5": 16,
+        "6": 9,
+        "7": 5,
+        "8": 3,
+        "9": 0,
+        "10": 3
+      },
+      "normalized": 4.738
+    },
+    "filmweb": {
+      "rating": 3.44,
+      "votes": 9,
+      "distribution": {
+        "1": 1,
+        "2": 1,
+        "3": 3,
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 4.9368
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "11.12.2016",
+      "normalized": 6.4102
+    },
+    "score": 5.3617
+  },
+  "polish_title": "Dragoons Passing St Paul's",
+  "silent": true,
+  "cinematographers": [
+    {
+      "id": "nm0666972",
+      "name": "Robert W. Paul"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

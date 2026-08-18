@@ -1,0 +1,38 @@
+{
+  "id": "nm2649720",
+  "name": "John D'Leo",
+  "filmography": [
+    {
+      "imdb_id": "tt1125849",
+      "title": "The Wrestler",
+      "year": 2008,
+      "roles": [
+        "cast"
+      ],
+      "character": "Adam"
+    },
+    {
+      "imdb_id": "tt2404311",
+      "title": "The Family",
+      "year": 2013,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Warren Blake"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTM2MDc5MTUwN15BMl5BanBnXkFtZTcwMjA2Njg5MQ@@._V1_.jpg",
+  "birth_date": "08.07.1995",
+  "birth_location": "Monmouth County, New Jersey, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 849623,
+  "name_pl": "John D'Leo",
+  "birth_location_pl": "New Jersey",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 849623
+}

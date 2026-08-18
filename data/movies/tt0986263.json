@@ -1,0 +1,238 @@
+{
+  "imdb_id": "tt0986263",
+  "title": "Surrogates",
+  "description": "Set in a futuristic world where humans live in isolation and interact through surrogate robots, a cop is forced to leave his home for the first time in years in order to investigate the murders of others' surrogates.",
+  "runtime_minutes": 89,
+  "release_date": "25.09.2009",
+  "genres": [
+    "Action",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000246",
+      "name": "Bruce Willis"
+    },
+    {
+      "id": "nm0593664",
+      "name": "Radha Mitchell"
+    },
+    {
+      "id": "nm0000609",
+      "name": "Ving Rhames"
+    },
+    {
+      "id": "nm0683253",
+      "name": "Rosamund Pike"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0609236",
+      "name": "Jonathan Mostow"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0274905",
+      "name": "Michael Ferris"
+    },
+    {
+      "id": "nm0104335",
+      "name": "John Brancato"
+    },
+    {
+      "id": "nm2590523",
+      "name": "Robert Venditti"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000246",
+      "name": "Bruce Willis",
+      "character": "Greer"
+    },
+    {
+      "id": "nm0593664",
+      "name": "Radha Mitchell",
+      "character": "Peters"
+    },
+    {
+      "id": "nm0000609",
+      "name": "Ving Rhames",
+      "character": "The Prophet"
+    },
+    {
+      "id": "nm0683253",
+      "name": "Rosamund Pike",
+      "character": "Maggie"
+    },
+    {
+      "id": "nm0462673",
+      "name": "Boris Kodjoe",
+      "character": "Stone"
+    },
+    {
+      "id": "nm0320179",
+      "name": "James Francis Ginty",
+      "character": "Canter"
+    },
+    {
+      "id": "nm0000342",
+      "name": "James Cromwell",
+      "character": "Older Canter"
+    },
+    {
+      "id": "nm0005276",
+      "name": "Jack Noseworthy",
+      "character": "Strickland"
+    },
+    {
+      "id": "nm0711864",
+      "name": "Devin Ratray",
+      "character": "Bobby"
+    },
+    {
+      "id": "nm0191044",
+      "name": "Michael Cudlitz",
+      "character": "Colonel Brendon"
+    },
+    {
+      "id": "nm1490232",
+      "name": "Jeffrey De Serrano",
+      "character": "Armando"
+    },
+    {
+      "id": "nm1998498",
+      "name": "Helena Mattsson",
+      "character": "JJ the Blonde"
+    },
+    {
+      "id": "nm0679950",
+      "name": "Michael Philip",
+      "character": "Uniformed Cop"
+    },
+    {
+      "id": "nm3487301",
+      "name": "Danny F Smith",
+      "character": "Victim"
+    },
+    {
+      "id": "nm3040012",
+      "name": "Brian Parrish",
+      "character": "Hard Hat"
+    },
+    {
+      "id": "nm1124005",
+      "name": "Jennifer Alden",
+      "character": "Landlady"
+    },
+    {
+      "id": "nm3039461",
+      "name": "Shane Dzicek",
+      "character": "Jared Canter"
+    },
+    {
+      "id": "nm2984105",
+      "name": "Andrew Haserlat",
+      "character": "Undergrad #1"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "color": "Color",
+  "filmweb_id": 430428,
+  "year": 2009,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjEzMTU5OTY0Ml5BMl5BanBnXkFtZTcwMDA0NjA3Mg@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.3,
+      "votes": 185502,
+      "distribution": {
+        "1": 1806,
+        "2": 1837,
+        "3": 3965,
+        "4": 9611,
+        "5": 25853,
+        "6": 56613,
+        "7": 53198,
+        "8": 21403,
+        "9": 5662,
+        "10": 5554
+      },
+      "normalized": 4.0904
+    },
+    "filmweb": {
+      "rating": 6.41,
+      "votes": 87630,
+      "distribution": {
+        "1": 320,
+        "2": 446,
+        "3": 2095,
+        "4": 4354,
+        "5": 11798,
+        "6": 23944,
+        "7": 28328,
+        "8": 12243,
+        "9": 2759,
+        "10": 1343
+      },
+      "normalized": 4.1228
+    },
+    "jarek": {
+      "rating": 3,
+      "date_rated": "11.08.2010",
+      "normalized": 4.2591
+    },
+    "score": 4.1574
+  },
+  "polish_title": "Surogaci",
+  "silent": false,
+  "description_pl": "Świat przyszłości. Ludzie żyją w całkowitej izolacji, a jedyny kontakt między nimi następuje za pomocą robotów, które są lepszymi wersjami ich samych. Agent FBI (<a href=\"/osoba/?id=nm0000246\">Bruce Willis</a>), a właściwie jego elektroniczny zastępca, pracuje w wydziale zabójstw. Pewnego dnia zostaje zmuszony jednak do dość ryzykownego wyjścia z domu. Nie ma jednak innej możliwości, bo tylko on sam jest w stanie zapobiec niebezpiecznemu spiskowi i serii tajemniczych morderstw.",
+  "producers": [
+    {
+      "id": "nm0036761",
+      "name": "Todd Arnow"
+    },
+    {
+      "id": "nm0006969",
+      "name": "Elizabeth Banks"
+    },
+    {
+      "id": "nm2583641",
+      "name": "Max Handelman"
+    },
+    {
+      "id": "nm0387674",
+      "name": "David Hoberman"
+    },
+    {
+      "id": "nm0509414",
+      "name": "Todd Lieberman"
+    },
+    {
+      "id": "nm0630090",
+      "name": "David Nicksay"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0555552",
+      "name": "Richard Marvin"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005929",
+      "name": "Oliver Wood"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

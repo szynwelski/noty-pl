@@ -1,0 +1,271 @@
+{
+  "imdb_id": "tt3766354",
+  "title": "The Equalizer 2",
+  "description": "Robert McCall serves an unflinching justice for the exploited and oppressed, but how far will he go when that is someone he loves?",
+  "runtime_minutes": 121,
+  "release_date": "20.07.2018",
+  "genres": [
+    "Action",
+    "Crime",
+    "Mystery",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000243",
+      "name": "Denzel Washington"
+    },
+    {
+      "id": "nm0050959",
+      "name": "Pedro Pascal"
+    },
+    {
+      "id": "nm5480894",
+      "name": "Ashton Sanders"
+    },
+    {
+      "id": "nm0004730",
+      "name": "Orson Bean"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0298807",
+      "name": "Antoine Fuqua"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0921013",
+      "name": "Richard Wenk"
+    },
+    {
+      "id": "nm0805994",
+      "name": "Michael Sloan"
+    },
+    {
+      "id": "nm2030456",
+      "name": "Richard Lindheim"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000243",
+      "name": "Denzel Washington",
+      "character": "Robert McCall"
+    },
+    {
+      "id": "nm0050959",
+      "name": "Pedro Pascal",
+      "character": "Dave York"
+    },
+    {
+      "id": "nm5480894",
+      "name": "Ashton Sanders",
+      "character": "Miles Whittaker"
+    },
+    {
+      "id": "nm0004730",
+      "name": "Orson Bean",
+      "character": "Sam Rubinstein"
+    },
+    {
+      "id": "nm0000597",
+      "name": "Bill Pullman",
+      "character": "Brian Plummer"
+    },
+    {
+      "id": "nm0502425",
+      "name": "Melissa Leo",
+      "character": "Susan Plummer"
+    },
+    {
+      "id": "nm0769157",
+      "name": "Jonathan Scarfe",
+      "character": "Resnik"
+    },
+    {
+      "id": "nm0415529",
+      "name": "Sakina Jaffrey",
+      "character": "Fatima"
+    },
+    {
+      "id": "nm3522652",
+      "name": "Kazy Tauginas",
+      "character": "Ari"
+    },
+    {
+      "id": "nm9354673",
+      "name": "Garrett Golden",
+      "character": "Kovac"
+    },
+    {
+      "id": "nm2676231",
+      "name": "Adam Karst",
+      "character": "Turkish Father"
+    },
+    {
+      "id": "nm7631423",
+      "name": "Alican Barlas",
+      "character": "Dining Car Porter"
+    },
+    {
+      "id": "nm9444532",
+      "name": "Rhys Olivia Cote",
+      "character": "Nine Year Old Braelick Girl"
+    },
+    {
+      "id": "nm0382671",
+      "name": "Tamara Hickey",
+      "character": "Grace Braelick"
+    },
+    {
+      "id": "nm0051230",
+      "name": "Ken Baltin",
+      "character": "Grace Braelick's Lawyer"
+    },
+    {
+      "id": "nm3473588",
+      "name": "Colin Allen",
+      "character": "Bookstore Nerd"
+    },
+    {
+      "id": "nm7397661",
+      "name": "Antoine de Lartigue",
+      "character": "Mr. Calbert (Belgian Husband)"
+    },
+    {
+      "id": "nm1731499",
+      "name": "Abigail Marlowe",
+      "character": "Jana Calbert (Belgian Wife)"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Turkish",
+    "Hebrew",
+    "Arabic",
+    "Spanish"
+  ],
+  "color": "Color",
+  "filmweb_id": 734586,
+  "year": 2018,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTU2OTYzODQyMF5BMl5BanBnXkFtZTgwNjU3Njk5NTM@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.7,
+      "votes": 232311,
+      "distribution": {
+        "1": 1515,
+        "2": 1001,
+        "3": 1998,
+        "4": 5226,
+        "5": 17301,
+        "6": 54203,
+        "7": 83605,
+        "8": 39494,
+        "9": 12559,
+        "10": 15409
+      },
+      "normalized": 4.8798
+    },
+    "filmweb": {
+      "rating": 6.62,
+      "votes": 51734,
+      "distribution": {
+        "1": 82,
+        "2": 146,
+        "3": 664,
+        "4": 1595,
+        "5": 5678,
+        "6": 14371,
+        "7": 18392,
+        "8": 8045,
+        "9": 1762,
+        "10": 999
+      },
+      "normalized": 4.6068
+    },
+    "michal": {
+      "rating": 3,
+      "date_rated": "02.11.2018",
+      "normalized": 3.8753
+    },
+    "score": 4.454
+  },
+  "polish_title": "Bez litości 2",
+  "silent": false,
+  "description_pl": "Emerytowany tajny agent Robert McCall (<a href=\"/osoba/?id=nm0000243\">Denzel Washington</a>) powraca,  by w wyszukany, charakterystyczny dla siebie sposób, walczyć o  sprawiedliwość. Jest nieustraszony, inteligentny, a jego  sprawność fizyczna sprawia, że dostaje to, czego chce. A chce  sprawiedliwości.",
+  "producers": [
+    {
+      "id": "nm0003091",
+      "name": "Molly Allen"
+    },
+    {
+      "id": "nm0085542",
+      "name": "Todd Black"
+    },
+    {
+      "id": "nm1837022",
+      "name": "David J. Bloomfield"
+    },
+    {
+      "id": "nm0089820",
+      "name": "Jason Blumenthal"
+    },
+    {
+      "id": "nm0253189",
+      "name": "Tony Eldridge"
+    },
+    {
+      "id": "nm0298807",
+      "name": "Antoine Fuqua"
+    },
+    {
+      "id": "nm0626883",
+      "name": "Mace Neufeld"
+    },
+    {
+      "id": "nm1099869",
+      "name": "Kat Samick"
+    },
+    {
+      "id": "nm0803022",
+      "name": "Alex Siskin"
+    },
+    {
+      "id": "nm0805994",
+      "name": "Michael Sloan"
+    },
+    {
+      "id": "nm0005494",
+      "name": "Steve Tisch"
+    },
+    {
+      "id": "nm0000243",
+      "name": "Denzel Washington"
+    },
+    {
+      "id": "nm0921013",
+      "name": "Richard Wenk"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0004581",
+      "name": "Harry Gregson-Williams"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005929",
+      "name": "Oliver Wood"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

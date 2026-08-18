@@ -1,0 +1,29 @@
+{
+  "id": "nm0001558",
+  "name": "Mr. T",
+  "filmography": [
+    {
+      "imdb_id": "tt0084602",
+      "title": "Rocky III",
+      "year": 1982,
+      "roles": [
+        "cast"
+      ],
+      "character": "Clubber Lang"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYWZkOGE1ZjEtMTZiMy00ODQ5LWExNTYtM2JkMzZmYWU1MmJjXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "21.05.1952",
+  "birth_location": "Chicago, Illinois, USA",
+  "height": "1.79 m",
+  "imdb_scraped": true,
+  "filmweb_id": 55555,
+  "name_pl": "Mr. T",
+  "birth_location_pl": "Chicago, Illinois",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 55555
+}

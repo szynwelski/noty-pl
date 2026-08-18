@@ -1,0 +1,134 @@
+{
+  "imdb_id": "tt0116804",
+  "title": "Krzysztof Kieslowski: I'm So-So...",
+  "description": "Director/Writer Krzysztof Kieslowski shares his views on life, people, politics and comments a little about some of his films in a very casual conversation.",
+  "runtime_minutes": 56,
+  "release_date": "08.12.1995",
+  "genres": [
+    "Documentary",
+    "Biography"
+  ],
+  "stars": [
+    {
+      "id": "nm0001425",
+      "name": "Krzysztof Kieślowski"
+    },
+    {
+      "id": "nm0678456",
+      "name": "Jacek Petrycki"
+    },
+    {
+      "id": "nm0927571",
+      "name": "Krzysztof Wierzbicki"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0927571",
+      "name": "Krzysztof Wierzbicki"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0927571",
+      "name": "Krzysztof Wierzbicki"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0001425",
+      "name": "Krzysztof Kieślowski",
+      "character": "Self"
+    },
+    {
+      "id": "nm0678456",
+      "name": "Jacek Petrycki",
+      "character": "Self - Cameraman"
+    },
+    {
+      "id": "nm0927571",
+      "name": "Krzysztof Wierzbicki",
+      "character": "Self - Interviewer"
+    }
+  ],
+  "countries": [
+    "Poland",
+    "Denmark"
+  ],
+  "languages": [
+    "Polish"
+  ],
+  "color": "Color",
+  "filmweb_id": 119020,
+  "year": 1995,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjExMjEyMzA5MV5BMl5BanBnXkFtZTcwNTAxNzUyMQ@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.4,
+      "votes": 566,
+      "distribution": {
+        "1": 7,
+        "2": 2,
+        "3": 4,
+        "4": 8,
+        "5": 26,
+        "6": 71,
+        "7": 166,
+        "8": 142,
+        "9": 61,
+        "10": 79
+      },
+      "normalized": 5.6601
+    },
+    "filmweb": {
+      "rating": 7.78,
+      "votes": 2378,
+      "distribution": {
+        "1": 11,
+        "2": 3,
+        "3": 9,
+        "4": 12,
+        "5": 50,
+        "6": 139,
+        "7": 574,
+        "8": 1037,
+        "9": 414,
+        "10": 129
+      },
+      "normalized": 7.0766
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "19.10.2005",
+      "normalized": 6.3474
+    },
+    "score": 6.3614
+  },
+  "polish_title": "Krzysztof Kieślowski: I'm So-So...",
+  "silent": false,
+  "description_pl": "\"I'm so-so...\" to  zapis rozmów Krzysztofa Wierzbickiego z jednym z najwybitniejszych polskich reżyserów. <a href=\"/osoba/?id=nm0001425\">Krzysztof Kieślowski</a> mówi tu o własnym życiu,  zrealizowanych obrazach oraz współczesnym świecie. Dokument wzbogacony jest o fragmenty filmów Mistrza: \"<a href=\"/film/?id=tt0084549\">Przypadek</a>\", \"<a href=\"/film/?id=tt0078763\">Amatora</a>\", \"<a href=\"/film/?id=tt0075256\">Spokój</a>\", \"Dekalog\" i \"<a href=\"/film/?id=tt0080770\">Gadające głowy</a>\".",
+  "producers": [
+    {
+      "id": "nm0386632",
+      "name": "Marian Hirschorn"
+    },
+    {
+      "id": "nm0387110",
+      "name": "Karen Hjort"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006237",
+      "name": "Zbigniew Preisner"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0678456",
+      "name": "Jacek Petrycki"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

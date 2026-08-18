@@ -1,0 +1,96 @@
+{
+  "imdb_id": "tt0216419",
+  "title": "The Wonderful Living Fan",
+  "description": "The king of France receives a marvelous fan. The fan opens to reveal plain lace. This lace becomes pictures of women which then come to life an move in unison as their clothing changes.",
+  "runtime_minutes": 2,
+  "release_date": "07.05.1904",
+  "genres": [
+    "Short",
+    "Fantasy"
+  ],
+  "stars": [
+    {
+      "id": "nm0617588",
+      "name": "Georges Méliès"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0617588",
+      "name": "Georges Méliès"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0617588",
+      "name": "Georges Méliès",
+      "character": ""
+    }
+  ],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "None",
+    "French",
+    "English"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 377161,
+  "year": 1904,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMGQ2NTQzMDYtMDY4ZC00MDdkLTg5NTktN2Y0ZjRiZjEyNWVlXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Le merveilleux éventail vivant",
+  "ratings": {
+    "imdb": {
+      "rating": 5.5,
+      "votes": 733,
+      "distribution": {
+        "1": 17,
+        "2": 21,
+        "3": 24,
+        "4": 94,
+        "5": 191,
+        "6": 210,
+        "7": 94,
+        "8": 44,
+        "9": 6,
+        "10": 32
+      },
+      "normalized": 4.0377
+    },
+    "filmweb": {
+      "rating": 5.78,
+      "votes": 223,
+      "distribution": {
+        "2": 5,
+        "3": 11,
+        "4": 18,
+        "5": 61,
+        "6": 58,
+        "7": 49,
+        "8": 16,
+        "9": 1,
+        "10": 4
+      },
+      "normalized": 4.2659
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "16.12.2016",
+      "normalized": 6.4102
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "21.10.2007",
+      "normalized": 4.5781
+    },
+    "score": 4.823
+  },
+  "polish_title": "Fantastyczny wachlarz",
+  "silent": true,
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-16"
+}

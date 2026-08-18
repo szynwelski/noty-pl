@@ -1,0 +1,301 @@
+{
+  "imdb_id": "tt1229238",
+  "title": "Mission: Impossible - Ghost Protocol",
+  "description": "The IMF is shut down when it's implicated in the bombing of the Kremlin, causing Ethan Hunt and his new team to go rogue to clear their organization's name.",
+  "runtime_minutes": 132,
+  "release_date": "21.12.2011",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000129",
+      "name": "Tom Cruise"
+    },
+    {
+      "id": "nm0719637",
+      "name": "Jeremy Renner"
+    },
+    {
+      "id": "nm0670408",
+      "name": "Simon Pegg"
+    },
+    {
+      "id": "nm1745736",
+      "name": "Paula Patton"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0083348",
+      "name": "Brad Bird"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0032227",
+      "name": "Josh Appelbaum"
+    },
+    {
+      "id": "nm0625858",
+      "name": "André Nemec"
+    },
+    {
+      "id": "nm0312367",
+      "name": "Bruce Geller"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000129",
+      "name": "Tom Cruise",
+      "character": "Ethan Hunt"
+    },
+    {
+      "id": "nm0719637",
+      "name": "Jeremy Renner",
+      "character": "Brandt"
+    },
+    {
+      "id": "nm0670408",
+      "name": "Simon Pegg",
+      "character": "Benji"
+    },
+    {
+      "id": "nm1745736",
+      "name": "Paula Patton",
+      "character": "Jane"
+    },
+    {
+      "id": "nm0638824",
+      "name": "Michael Nyqvist",
+      "character": "Hendricks"
+    },
+    {
+      "id": "nm0556343",
+      "name": "Vladimir Mashkov",
+      "character": "Sidorov"
+    },
+    {
+      "id": "nm0249020",
+      "name": "Samuli Edelmann",
+      "character": "Wistrom"
+    },
+    {
+      "id": "nm0796071",
+      "name": "Ivan Shvedoff",
+      "character": "Leonid Lisenker"
+    },
+    {
+      "id": "nm0438463",
+      "name": "Anil Kapoor",
+      "character": "Brij Nath"
+    },
+    {
+      "id": "nm2244205",
+      "name": "Léa Seydoux",
+      "character": "Sabine Moreau"
+    },
+    {
+      "id": "nm0391326",
+      "name": "Josh Holloway",
+      "character": "Hanaway"
+    },
+    {
+      "id": "nm0473162",
+      "name": "Pavel Kríz",
+      "character": "Marek Stefanski"
+    },
+    {
+      "id": "nm1096977",
+      "name": "Miraj Grbic",
+      "character": "Bogdan"
+    },
+    {
+      "id": "nm0901679",
+      "name": "Ilia Volok",
+      "character": "The Fog"
+    },
+    {
+      "id": "nm0623127",
+      "name": "Goran Navojec",
+      "character": "Burly Russian Prisoner"
+    },
+    {
+      "id": "nm0974339",
+      "name": "Pavel Bezdek",
+      "character": "Prison Guard"
+    },
+    {
+      "id": "nm0073231",
+      "name": "Ladislav Beran",
+      "character": "Control Room Guard"
+    },
+    {
+      "id": "nm0277041",
+      "name": "Jan Filipenský",
+      "character": "Control Room Guard"
+    }
+  ],
+  "countries": [
+    "United States",
+    "United Arab Emirates",
+    "Canada",
+    "India",
+    "Russia"
+  ],
+  "languages": [
+    "English",
+    "Russian",
+    "French",
+    "Arabic",
+    "Swedish"
+  ],
+  "color": "Color",
+  "filmweb_id": 483087,
+  "year": 2011,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTY4MTUxMjQ5OV5BMl5BanBnXkFtZTcwNTUyMzg5Ng@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.4,
+      "votes": 568358,
+      "distribution": {
+        "1": 4062,
+        "2": 1773,
+        "3": 3065,
+        "4": 6644,
+        "5": 18961,
+        "6": 62374,
+        "7": 179154,
+        "8": 178048,
+        "9": 64391,
+        "10": 49886
+      },
+      "normalized": 6.3108
+    },
+    "filmweb": {
+      "rating": 6.93,
+      "votes": 95056,
+      "distribution": {
+        "1": 232,
+        "2": 267,
+        "3": 1070,
+        "4": 2258,
+        "5": 6829,
+        "6": 19438,
+        "7": 36441,
+        "8": 19866,
+        "9": 5244,
+        "10": 3411
+      },
+      "normalized": 5.4882
+    },
+    "jarek": {
+      "rating": 3,
+      "date_rated": "23.05.2012",
+      "normalized": 4.2591
+    },
+    "score": 5.3527
+  },
+  "polish_title": "Mission: Impossible - Ghost Protocol",
+  "silent": false,
+  "description_pl": "Oskarżony o terrorystyczny zamach bombowy na Kreml, agent IMF Ethan Hunt wraz z resztą zespołu zostaje zwolniony z obowiązków w chwili, kiedy prezydent wdraża \"Ghost Protocol\". Pozostawiony bez środków i wsparcia, Ethan musi znaleźć sposób na oczyszczenie dobrego imienia agencji oraz uniemożliwienie kolejnego ataku. Sprawę komplikuje fakt, iż Ethan zostaje zmuszony do podjęcia się misji wraz z zespołem byłych agentów IMF, których osobistych motywów do końca nie poznał.",
+  "producers": [
+    {
+      "id": "nm0009190",
+      "name": "J.J. Abrams"
+    },
+    {
+      "id": "nm0032227",
+      "name": "Josh Appelbaum"
+    },
+    {
+      "id": "nm1333357",
+      "name": "Bryan Burk"
+    },
+    {
+      "id": "nm0155942",
+      "name": "Jeffrey Chernov"
+    },
+    {
+      "id": "nm0000129",
+      "name": "Tom Cruise"
+    },
+    {
+      "id": "nm1911103",
+      "name": "David Ellison"
+    },
+    {
+      "id": "nm1602154",
+      "name": "Dana Goldberg"
+    },
+    {
+      "id": "nm0363986",
+      "name": "Tommy Harper"
+    },
+    {
+      "id": "nm0591459",
+      "name": "David Minkowski"
+    },
+    {
+      "id": "nm0625858",
+      "name": "André Nemec"
+    },
+    {
+      "id": "nm0634782",
+      "name": "Tabrez Noorani"
+    },
+    {
+      "id": "nm2537812",
+      "name": "Luca Paracels"
+    },
+    {
+      "id": "nm0670621",
+      "name": "Tom C. Peitzman"
+    },
+    {
+      "id": "nm2845194",
+      "name": "Ben Rosenblatt"
+    },
+    {
+      "id": "nm0756383",
+      "name": "Pravesh Sahni"
+    },
+    {
+      "id": "nm1941683",
+      "name": "Yuriy Sapronov"
+    },
+    {
+      "id": "nm6837701",
+      "name": "Evgeny Savostiyanov"
+    },
+    {
+      "id": "nm1868509",
+      "name": "Paul Schwake"
+    },
+    {
+      "id": "nm2889655",
+      "name": "Tim Smythe"
+    },
+    {
+      "id": "nm0830299",
+      "name": "Matthew Stillman"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0315974",
+      "name": "Michael Giacchino"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005696",
+      "name": "Robert Elswit"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,187 @@
+{
+  "imdb_id": "tt0082370",
+  "title": "The Woman Next Door",
+  "description": "Two ex-lovers wind up living next door to each other with their respective spouses. Forbidden passions ensue.",
+  "runtime_minutes": 106,
+  "release_date": "30.09.1981",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0000367",
+      "name": "Gérard Depardieu"
+    },
+    {
+      "id": "nm0000272",
+      "name": "Fanny Ardant"
+    },
+    {
+      "id": "nm0305488",
+      "name": "Henri Garcin"
+    },
+    {
+      "id": "nm0062369",
+      "name": "Michèle Baumgartner"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000076",
+      "name": "François Truffaut"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000076",
+      "name": "François Truffaut"
+    },
+    {
+      "id": "nm0771535",
+      "name": "Suzanne Schiffman"
+    },
+    {
+      "id": "nm0042159",
+      "name": "Jean Aurel"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000367",
+      "name": "Gérard Depardieu",
+      "character": "Bernard Coudray"
+    },
+    {
+      "id": "nm0000272",
+      "name": "Fanny Ardant",
+      "character": "Mathilde Bauchard"
+    },
+    {
+      "id": "nm0305488",
+      "name": "Henri Garcin",
+      "character": "Philippe Bauchard"
+    },
+    {
+      "id": "nm0062369",
+      "name": "Michèle Baumgartner",
+      "character": "Arlette Coudray"
+    },
+    {
+      "id": "nm0887161",
+      "name": "Roger Van Hool",
+      "character": "Roland Duguet"
+    },
+    {
+      "id": "nm0798812",
+      "name": "Véronique Silver",
+      "character": "Odile Jouve"
+    },
+    {
+      "id": "nm0605429",
+      "name": "Philippe Morier-Genoud",
+      "character": "Doctor"
+    },
+    {
+      "id": "nm0891309",
+      "name": "Nicole Vauthier",
+      "character": "Hotel Clerk"
+    },
+    {
+      "id": "nm0173578",
+      "name": "Muriel Combe",
+      "character": ""
+    },
+    {
+      "id": "nm0065904",
+      "name": "Olivier Becquaert",
+      "character": "Thomas Coudray"
+    },
+    {
+      "id": "nm0186556",
+      "name": "Catherine Crassac",
+      "character": "Woman in the Hotel's Staircase"
+    },
+    {
+      "id": "nm0695836",
+      "name": "Jacques Preisach",
+      "character": "Man in the Hotel's Staircase"
+    },
+    {
+      "id": "nm0862374",
+      "name": "Roland Thénot",
+      "character": "Estate Agent"
+    }
+  ],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "French",
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 7047,
+  "year": 1981,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNjAxMGVjM2YtNDExMS00NWU1LTg4ZTItOGQ2ZGFmMGU2MGU5XkEyXkFqcGc@._V1_.jpg",
+  "original_title": "La Femme d'à côté",
+  "ratings": {
+    "imdb": {
+      "rating": 7.2,
+      "votes": 9641,
+      "distribution": {
+        "1": 118,
+        "2": 67,
+        "3": 89,
+        "4": 202,
+        "5": 482,
+        "6": 1403,
+        "7": 2996,
+        "8": 2627,
+        "9": 924,
+        "10": 733
+      },
+      "normalized": 5.8457
+    },
+    "filmweb": {
+      "rating": 6.76,
+      "votes": 571,
+      "distribution": {
+        "1": 1,
+        "2": 2,
+        "3": 10,
+        "4": 19,
+        "5": 60,
+        "6": 121,
+        "7": 212,
+        "8": 97,
+        "9": 27,
+        "10": 22
+      },
+      "normalized": 5.1224
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "31.07.2006",
+      "normalized": 4.5781
+    },
+    "score": 5.1821
+  },
+  "polish_title": "Kobieta z sąsiedztwa",
+  "silent": false,
+  "description_pl": "Bernard żyje z żoną i synkiem w uroczym domu na prowincji w okolicach Grenoble. Pewnego dnia w sąsiedztwie zamieszkuje małżeństwo Bauchardów. Bernard i pani Bauchard kilka lat wcześniej stanowili parę namiętnych kochanków, i są zaskoczeni niespodziewanym spotkaniem. Oboje zachowują milczenie, a nawet zaczynają się unikać. Dopiero przypadkowe spotkanie wyzwoli dawne uczucia i doprowadzi do rozpoczęcia ognistego romansu, którego żadne z nich nie będzie w stanie kontrolować.",
+  "composers": [
+    {
+      "id": "nm0000016",
+      "name": "Georges Delerue"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005779",
+      "name": "William Lubtchansky"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

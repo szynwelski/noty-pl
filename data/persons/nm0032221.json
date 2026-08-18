@@ -1,0 +1,47 @@
+{
+  "id": "nm0032221",
+  "name": "Sam Appel",
+  "filmography": [
+    {
+      "imdb_id": "tt0019585",
+      "title": "The Wind",
+      "year": 1928,
+      "roles": [
+        "cast"
+      ],
+      "character": "Vaquero"
+    },
+    {
+      "imdb_id": "tt0026778",
+      "title": "A Night at the Opera",
+      "year": 1935,
+      "roles": [
+        "cast"
+      ],
+      "character": "Dungeon Guard"
+    },
+    {
+      "imdb_id": "tt0038559",
+      "title": "Gilda",
+      "year": 1946,
+      "roles": [
+        "cast"
+      ],
+      "character": "Blackjack Dealer"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNGM2ZDUwNjItY2M4Mi00Y2UyLTlmYjAtMGM5M2MyZTA3NTE0XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "08.08.1871",
+  "death_date": "18.06.1947",
+  "birth_location": "Magdalena, Jalisco, Mexico",
+  "filmweb_id": 85853,
+  "name_pl": "Sam Appel",
+  "birth_location_pl": "Magdalena",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Meksyk",
+    "Stany Zjednoczone"
+  ]
+}

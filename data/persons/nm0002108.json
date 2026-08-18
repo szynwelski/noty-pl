@@ -1,0 +1,40 @@
+{
+  "id": "nm0002108",
+  "name": "Gloria Grahame",
+  "filmography": [
+    {
+      "imdb_id": "tt0038650",
+      "title": "It's a Wonderful Life",
+      "year": 1946,
+      "roles": [
+        "cast"
+      ],
+      "character": "Violet"
+    },
+    {
+      "imdb_id": "tt0045555",
+      "title": "The Big Heat",
+      "year": 1953,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Debby Marsh"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYjFhNmU5ZWQtNDllMi00OGMxLWI0Y2EtMGE5ZjNjNTc5ZmY2XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "28.11.1923",
+  "death_date": "05.10.1981",
+  "birth_location": "Los Angeles, California, USA",
+  "height": "1.68 m",
+  "imdb_scraped": true,
+  "filmweb_id": 53058,
+  "name_pl": "Gloria Grahame",
+  "birth_location_pl": "Los Angeles, Kalifornia",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 53058
+}

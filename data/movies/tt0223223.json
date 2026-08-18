@@ -1,0 +1,113 @@
+{
+  "imdb_id": "tt0223223",
+  "title": "Entre Calais et Douvres",
+  "description": "Using the same rocking effect previously employed in \"Combat naval en Grèce (1897)\", the director Georges Méliès recreates the illusion of a small ship in a tempest.",
+  "runtime_minutes": 1,
+  "release_date": "1897",
+  "genres": [
+    "Short",
+    "Comedy"
+  ],
+  "stars": [
+    {
+      "id": "nm9636954",
+      "name": "Joseph Grapinet"
+    },
+    {
+      "id": "nm0617588",
+      "name": "Georges Méliès"
+    },
+    {
+      "id": "nm3029234",
+      "name": "Georgette Méliès"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0617588",
+      "name": "Georges Méliès"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0617588",
+      "name": "Georges Méliès"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm9636954",
+      "name": "Joseph Grapinet",
+      "character": "The Man with Binoculars"
+    },
+    {
+      "id": "nm0617588",
+      "name": "Georges Méliès",
+      "character": "The Man in the Checked Suit"
+    },
+    {
+      "id": "nm3029234",
+      "name": "Georgette Méliès",
+      "character": "The Girl with the Doll"
+    }
+  ],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 306562,
+  "year": 1897,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZDBiYmU3MDUtMTFlMi00NWI4LTkxMzMtYTA5OWJiNjcwZmIwXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.4,
+      "votes": 696,
+      "distribution": {
+        "1": 20,
+        "2": 24,
+        "3": 30,
+        "4": 79,
+        "5": 217,
+        "6": 185,
+        "7": 83,
+        "8": 25,
+        "9": 7,
+        "10": 26
+      },
+      "normalized": 4.0238
+    },
+    "filmweb": {
+      "rating": 5.28,
+      "votes": 97,
+      "distribution": {
+        "1": 1,
+        "2": 3,
+        "3": 9,
+        "4": 15,
+        "5": 30,
+        "6": 21,
+        "7": 8,
+        "8": 7,
+        "9": 0,
+        "10": 3
+      },
+      "normalized": 4.4014
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "11.12.2016",
+      "normalized": 5.6855
+    },
+    "score": 4.7036
+  },
+  "polish_title": "Entre Calais et Douvres",
+  "silent": true,
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-16"
+}

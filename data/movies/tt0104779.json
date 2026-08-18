@@ -1,0 +1,231 @@
+{
+  "imdb_id": "tt0104779",
+  "title": "Bitter Moon",
+  "description": "After hearing stories of her, a passenger on a cruise ship develops an irresistible infatuation with an eccentric paraplegic's wife.",
+  "runtime_minutes": 139,
+  "release_date": "18.03.1994",
+  "genres": [
+    "Drama",
+    "Romance",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000424",
+      "name": "Hugh Grant"
+    },
+    {
+      "id": "nm0000218",
+      "name": "Kristin Scott Thomas"
+    },
+    {
+      "id": "nm0782561",
+      "name": "Emmanuelle Seigner"
+    },
+    {
+      "id": "nm0001075",
+      "name": "Peter Coyote"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000591",
+      "name": "Roman Polanski"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0115685",
+      "name": "Pascal Bruckner"
+    },
+    {
+      "id": "nm0000591",
+      "name": "Roman Polanski"
+    },
+    {
+      "id": "nm0102722",
+      "name": "Gérard Brach"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000424",
+      "name": "Hugh Grant",
+      "character": "Nigel"
+    },
+    {
+      "id": "nm0000218",
+      "name": "Kristin Scott Thomas",
+      "character": "Fiona"
+    },
+    {
+      "id": "nm0782561",
+      "name": "Emmanuelle Seigner",
+      "character": "Mimi"
+    },
+    {
+      "id": "nm0001075",
+      "name": "Peter Coyote",
+      "character": "Oscar"
+    },
+    {
+      "id": "nm0051856",
+      "name": "Victor Banerjee",
+      "character": "Mr. Singh"
+    },
+    {
+      "id": "nm0665401",
+      "name": "Sophie Patel",
+      "character": "Amrita Singh"
+    },
+    {
+      "id": "nm0016375",
+      "name": "Patrick Albenque",
+      "character": "Steward"
+    },
+    {
+      "id": "nm0586149",
+      "name": "Smilja Mihailovitch",
+      "character": "Bridge Player"
+    },
+    {
+      "id": "nm0248722",
+      "name": "Leo Eckmann",
+      "character": "Bridge Player"
+    },
+    {
+      "id": "nm0892600",
+      "name": "Luca Vellani",
+      "character": "Dado"
+    },
+    {
+      "id": "nm0226400",
+      "name": "Richard Dieux",
+      "character": "Partygoer"
+    },
+    {
+      "id": "nm0305506",
+      "name": "Danny Wuyts",
+      "character": "Bandleader"
+    },
+    {
+      "id": "nm0223603",
+      "name": "Daniel Dhubert",
+      "character": "Bus Inspector"
+    },
+    {
+      "id": "nm0303578",
+      "name": "Nathalie Galán",
+      "character": "Girl in Boutique"
+    },
+    {
+      "id": "nm0327477",
+      "name": "Eric Gonzales",
+      "character": "Cook"
+    },
+    {
+      "id": "nm0011965",
+      "name": "Jim Adhi Limas",
+      "character": "Thai Maître D'"
+    },
+    {
+      "id": "nm0074747",
+      "name": "Boris Bergman",
+      "character": "Oscar's Friend"
+    },
+    {
+      "id": "nm0116035",
+      "name": "Olivia Brunaux",
+      "character": "Cindy"
+    }
+  ],
+  "countries": [
+    "United Kingdom",
+    "France"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "color": "Color",
+  "year": 1992,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDEwOWE1ZGItYTg4Ny00MTlmLTgwZDEtMTRlY2QyODkzNTk4XkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 1108,
+  "ratings": {
+    "imdb": {
+      "rating": 7.2,
+      "votes": 46673,
+      "distribution": {
+        "1": 796,
+        "2": 469,
+        "3": 627,
+        "4": 1237,
+        "5": 2559,
+        "6": 6042,
+        "7": 12542,
+        "8": 11517,
+        "9": 5828,
+        "10": 5056
+      },
+      "normalized": 5.8923
+    },
+    "filmweb": {
+      "rating": 7.56,
+      "votes": 41484,
+      "distribution": {
+        "1": 137,
+        "2": 124,
+        "3": 417,
+        "4": 649,
+        "5": 1789,
+        "6": 3959,
+        "7": 10622,
+        "8": 14413,
+        "9": 6749,
+        "10": 2625
+      },
+      "normalized": 6.9054
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "19.10.2005",
+      "normalized": 5.4199
+    },
+    "score": 6.0725
+  },
+  "polish_title": "Gorzkie gody",
+  "silent": false,
+  "description_pl": "W czasie morskiej podróży sparaliżowany amerykański pisarz Oscar (<a href=\"/osoba/?id=nm0001075\">Peter Coyote</a>) i jego francuska żona Mimi (<a href=\"/osoba/?id=nm0782561\">Emmanuelle Seigner</a>) poznają znudzone małżeństwo z Wysp Brytyjskich - Fionę (<a href=\"/osoba/?id=nm0000218\">Kristin Scott Thomas</a>) i Nigela (<a href=\"/osoba/?id=nm0000424\">Hugh Grant</a>). Przez kilka kolejnych wieczorów Nigel jest zasypywany pikantnymi opowieściami Oscara o swej żonie. Początkowe zgorszenie Nigela zmienia się wkrótce w żywe zainteresowanie.",
+  "producers": [
+    {
+      "id": "nm0071452",
+      "name": "Robert Benmussa"
+    },
+    {
+      "id": "nm0000591",
+      "name": "Roman Polanski"
+    },
+    {
+      "id": "nm0764963",
+      "name": "Alain Sarde"
+    },
+    {
+      "id": "nm0123135",
+      "name": "Timothy Burrill"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006331",
+      "name": "Vangelis"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005686",
+      "name": "Tonino Delli Colli"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

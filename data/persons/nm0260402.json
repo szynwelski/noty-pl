@@ -1,0 +1,47 @@
+{
+  "id": "nm0260402",
+  "name": "José Luis Escolar",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMWJjNDhiOWQtOWIxZS00ZWQ3LTk3NWEtOGIzNDliNjk5ODM4XkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0320661",
+      "title": "Kingdom of Heaven",
+      "year": 2005,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt1013743",
+      "title": "Knight and Day",
+      "year": 2010,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt1371111",
+      "title": "Cloud Atlas",
+      "year": 2012,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt2707408",
+      "title": "Narcos",
+      "year": 2015,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "birth_date": "30.07.1960",
+  "birth_location": "Madrid, Spain",
+  "filmweb_id": 128442,
+  "name_pl": "José Luis Escolar",
+  "birth_location_pl": "Madryt",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true
+}

@@ -1,0 +1,49 @@
+{
+  "id": "nm0005380",
+  "name": "Ray Romano",
+  "filmography": [
+    {
+      "imdb_id": "tt0268380",
+      "title": "Ice Age",
+      "year": 2002,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Manfred"
+    },
+    {
+      "imdb_id": "tt0438097",
+      "title": "Ice Age: The Meltdown",
+      "year": 2006,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Manny"
+    },
+    {
+      "imdb_id": "tt1302006",
+      "title": "The Irishman",
+      "year": 2019,
+      "roles": [
+        "cast"
+      ],
+      "character": "Bill Bufalino"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTM4NzA4ODQxNV5BMl5BanBnXkFtZTYwMDA5Mjk1._V1_.jpg",
+  "birth_date": "21.12.1957",
+  "birth_location": "Queens, New York City, New York, USA",
+  "height": "1.87 m",
+  "filmweb_id": 54731,
+  "name_pl": "Ray Romano",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 54731
+}

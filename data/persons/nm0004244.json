@@ -1,0 +1,58 @@
+{
+  "id": "nm0004244",
+  "name": "Jacques Tati",
+  "filmography": [
+    {
+      "imdb_id": "tt0040019",
+      "title": "School for Postmen",
+      "year": 1947,
+      "roles": [
+        "director",
+        "writer",
+        "star",
+        "cast"
+      ],
+      "character": "Postman"
+    },
+    {
+      "imdb_id": "tt0040497",
+      "title": "Jour de fête",
+      "year": 1949,
+      "roles": [
+        "director",
+        "writer",
+        "star",
+        "cast"
+      ],
+      "character": "François le facteur"
+    },
+    {
+      "imdb_id": "tt0046487",
+      "title": "Monsieur Hulot's Holiday",
+      "year": 1953,
+      "roles": [
+        "director",
+        "writer",
+        "star",
+        "cast",
+        "producer"
+      ],
+      "character": "Monsieur Hulot"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQxOTY4NjQ3M15BMl5BanBnXkFtZTcwMDI0NTU5Ng@@._V1_.jpg",
+  "birth_date": "09.10.1907",
+  "death_date": "04.11.1982",
+  "birth_location": "Le Pecq, Yvelines, France",
+  "height": "1.91 m",
+  "filmweb_id": 47909,
+  "name_pl": "Jacques Tati",
+  "birth_location_pl": "Le Pecq",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja"
+  ],
+  "wikidata_fw_id": 47909
+}

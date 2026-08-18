@@ -1,0 +1,45 @@
+{
+  "id": "nm0006241",
+  "name": "Sergei Prokofiev",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzlmMDBjMDktZWE5NS00NmU1LTk2YWMtYmU0NTNkOGI4YTdkXkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0029850",
+      "title": "Alexander Nevsky",
+      "year": 1938,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt0037824",
+      "title": "Ivan the Terrible, Part I",
+      "year": 1944,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt0051790",
+      "title": "Ivan the Terrible, Part II: The Boyars' Plot",
+      "year": 1946,
+      "roles": [
+        "composer"
+      ]
+    }
+  ],
+  "birth_date": "23.04.1891",
+  "death_date": "05.03.1953",
+  "birth_location": "Sontsivka, Bakhmut Uyezd, Katerynoslav Governorate, Russian Empire [now Sontsivka, Bakhmut Raion, Donetsk Oblast, Ukraine]",
+  "height": "1.90 m",
+  "filmweb_id": 42871,
+  "name_pl": "Sergei Prokofiev",
+  "birth_location_pl": "Sontsovka",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Związek Socjalistycznych Republik Radzieckich",
+    "Imperium Rosyjskie"
+  ]
+}

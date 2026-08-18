@@ -1,0 +1,38 @@
+{
+  "id": "nm0002235",
+  "name": "Mike Hagerty",
+  "filmography": [
+    {
+      "imdb_id": "tt0095963",
+      "title": "Red Heat",
+      "year": 1988,
+      "roles": [
+        "cast"
+      ],
+      "character": "Pat Nunn"
+    },
+    {
+      "imdb_id": "tt0120179",
+      "title": "Speed 2: Cruise Control",
+      "year": 1997,
+      "roles": [
+        "cast"
+      ],
+      "character": "Harvey"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYWZkNTM3MmQtMzUzMC00MDE1LWJhODctM2JiMTJmZjQ1NDlkXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "10.05.1954",
+  "death_date": "29.04.2022",
+  "birth_location": "Chicago, Illinois, USA",
+  "height": "1.88 m",
+  "imdb_scraped": true,
+  "filmweb_id": 5404,
+  "name_pl": "Mike Hagerty",
+  "birth_location_pl": "Chicago, Illinois",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

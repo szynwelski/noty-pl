@@ -1,0 +1,39 @@
+{
+  "id": "nm0001384",
+  "name": "Ice-T",
+  "filmography": [
+    {
+      "imdb_id": "tt0113481",
+      "title": "Johnny Mnemonic",
+      "year": 1995,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "J-Bone"
+    },
+    {
+      "imdb_id": "tt0233142",
+      "title": "3000 Miles to Graceland",
+      "year": 2001,
+      "roles": [
+        "cast"
+      ],
+      "character": "Hamilton"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjA3ODYyMDQwOV5BMl5BanBnXkFtZTcwNzM3MTAzNw@@._V1_.jpg",
+  "birth_date": "16.02.1958",
+  "birth_location": "Newark, New Jersey, USA",
+  "height": "1.80 m",
+  "imdb_scraped": true,
+  "filmweb_id": 8108,
+  "name_pl": "Ice-T",
+  "birth_location_pl": "Newark, New Jersey",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 8108
+}

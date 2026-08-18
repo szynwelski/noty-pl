@@ -1,0 +1,43 @@
+{
+  "id": "nm0241416",
+  "name": "Alexandre Dumas",
+  "filmography": [
+    {
+      "imdb_id": "tt0013674",
+      "title": "The Three Must-Get-Theres",
+      "year": 1922,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0120744",
+      "title": "The Man in the Iron Mask",
+      "year": 1998,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt1509767",
+      "title": "The Three Musketeers",
+      "year": 2011,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOGE5MjYwYTEtMTMyNy00NTAxLTgwZjktYTQ5NmU1MjhiODExXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "24.07.1802",
+  "death_date": "05.12.1870",
+  "birth_location": "Villers-Cotterêts, Aisne, France",
+  "height": "1.83 m",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja"
+  ],
+  "filmweb_id": 3189347,
+  "name_pl": "Alexandre Dumas",
+  "gender": "M"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "nm0001500",
+  "name": "Karl Malden",
+  "filmography": [
+    {
+      "imdb_id": "tt0044081",
+      "title": "A Streetcar Named Desire",
+      "year": 1951,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Mitch"
+    },
+    {
+      "imdb_id": "tt0047296",
+      "title": "On the Waterfront",
+      "year": 1954,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Father Barry"
+    },
+    {
+      "imdb_id": "tt0066206",
+      "title": "Patton",
+      "year": 1970,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "General Omar N. Bradley"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzZiYWMzZmItZWNmNy00NDVmLThlYjEtMmNkY2JiNTJiMjBkXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "22.03.1912",
+  "death_date": "01.07.2009",
+  "birth_location": "Chicago, Illinois, USA",
+  "height": "1.85 m",
+  "filmweb_id": 9384,
+  "name_pl": "Karl Malden",
+  "birth_location_pl": "Chicago, Illinois",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone",
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 9384
+}

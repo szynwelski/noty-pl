@@ -1,0 +1,44 @@
+{
+  "id": "nm0674518",
+  "name": "Charles Perrault",
+  "filmography": [
+    {
+      "imdb_id": "tt0000230",
+      "title": "Cinderella",
+      "year": 1899,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0131934",
+      "title": "Bluebeard",
+      "year": 1901,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt1661199",
+      "title": "Cinderella",
+      "year": 2015,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOTdhYTYwMmEtNmRiMy00MWIyLTk3NWYtMDIzMjg1NTA2ZTAwXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "12.01.1628",
+  "death_date": "16.05.1703",
+  "birth_location": "Paris, France",
+  "filmweb_id": 76027,
+  "name_pl": "Charles Perrault",
+  "birth_location_pl": "Paryż",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Królestwo Francji"
+  ],
+  "wikidata_fw_id": 76027
+}

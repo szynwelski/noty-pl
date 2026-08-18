@@ -1,0 +1,94 @@
+{
+  "imdb_id": "tt0202815",
+  "title": "A Photographic Contortion",
+  "description": "A man, objecting to being filmed, comes closer and closer to the camera lens until his mouth is all we see. Then he opens wide and swallows camera and cinematographer. He steps back, chews, and grins.",
+  "runtime_minutes": 1,
+  "release_date": "14.09.1902",
+  "genres": [
+    "Comedy",
+    "Short"
+  ],
+  "stars": [
+    {
+      "id": "nm1440205",
+      "name": "Sam Dalton"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0932055",
+      "name": "James Williamson"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1440205",
+      "name": "Sam Dalton",
+      "character": ""
+    }
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 234164,
+  "year": 1901,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZDM0MDg4YTctZDQyMS00MzI0LTgxYjktN2I2Y2NjM2I0YTJkXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "The Big Swallow",
+  "ratings": {
+    "imdb": {
+      "rating": 6.9,
+      "votes": 2497,
+      "distribution": {
+        "1": 45,
+        "2": 29,
+        "3": 42,
+        "4": 79,
+        "5": 236,
+        "6": 513,
+        "7": 790,
+        "8": 450,
+        "9": 142,
+        "10": 171
+      },
+      "normalized": 5.3583
+    },
+    "filmweb": {
+      "rating": 5.98,
+      "votes": 314,
+      "distribution": {
+        "1": 10,
+        "2": 10,
+        "3": 13,
+        "4": 22,
+        "5": 49,
+        "6": 74,
+        "7": 77,
+        "8": 42,
+        "9": 13,
+        "10": 4
+      },
+      "normalized": 4.2644
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "12.12.2016",
+      "normalized": 7.1247
+    },
+    "score": 5.5825
+  },
+  "polish_title": "The Big Swallow",
+  "silent": true,
+  "cinematographers": [
+    {
+      "id": "nm0932055",
+      "name": "James Williamson"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

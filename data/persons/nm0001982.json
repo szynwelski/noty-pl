@@ -1,0 +1,31 @@
+{
+  "id": "nm0001982",
+  "name": "Sebastian Cabot",
+  "filmography": [
+    {
+      "imdb_id": "tt0061852",
+      "title": "The Jungle Book",
+      "year": 1967,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Bagheera the Panther"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjEzNTY2NTczN15BMl5BanBnXkFtZTcwODMyNTgxOA@@._V1_.jpg",
+  "birth_date": "06.07.1918",
+  "death_date": "22.08.1977",
+  "birth_location": "London, England, UK",
+  "height": "1.73 m",
+  "imdb_scraped": true,
+  "filmweb_id": 53989,
+  "name_pl": "Sebastian Cabot",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 53989
+}

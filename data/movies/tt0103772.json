@@ -1,0 +1,229 @@
+{
+  "imdb_id": "tt0103772",
+  "title": "Basic Instinct",
+  "description": "A violent police detective investigates a brutal murder that might involve a manipulative and seductive novelist.",
+  "runtime_minutes": 127,
+  "release_date": "20.03.1992",
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Romance",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000140",
+      "name": "Michael Douglas"
+    },
+    {
+      "id": "nm0000232",
+      "name": "Sharon Stone"
+    },
+    {
+      "id": "nm0001169",
+      "name": "George Dzundza"
+    },
+    {
+      "id": "nm0000675",
+      "name": "Jeanne Tripplehorn"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000682",
+      "name": "Paul Verhoeven"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000390",
+      "name": "Joe Eszterhas"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000140",
+      "name": "Michael Douglas",
+      "character": "Det. Nick Curran"
+    },
+    {
+      "id": "nm0000232",
+      "name": "Sharon Stone",
+      "character": "Catherine Tramell"
+    },
+    {
+      "id": "nm0001169",
+      "name": "George Dzundza",
+      "character": "Det. Gus Moran"
+    },
+    {
+      "id": "nm0000675",
+      "name": "Jeanne Tripplehorn",
+      "character": "Dr. Beth Garner"
+    },
+    {
+      "id": "nm0036127",
+      "name": "Denis Arndt",
+      "character": "Lt. Phil Walker"
+    },
+    {
+      "id": "nm0765048",
+      "name": "Leilani Sarelle",
+      "character": "Roxy Hardy"
+    },
+    {
+      "id": "nm0949340",
+      "name": "Bruce A. Young",
+      "character": "Det. Sam Andrews"
+    },
+    {
+      "id": "nm0743304",
+      "name": "Chelcie Ross",
+      "character": "Captain Talcott"
+    },
+    {
+      "id": "nm0540416",
+      "name": "Dorothy Malone",
+      "character": "Hazel Dobkins"
+    },
+    {
+      "id": "nm0001431",
+      "name": "Wayne Knight",
+      "character": "ADA John Correli"
+    },
+    {
+      "id": "nm0901926",
+      "name": "Daniel von Bargen",
+      "character": "Lt. Martin Nilsen"
+    },
+    {
+      "id": "nm0864997",
+      "name": "Stephen Tobolowsky",
+      "character": "Dr. Lamott"
+    },
+    {
+      "id": "nm0610161",
+      "name": "Benjamin Mouton",
+      "character": "Detective Harrigan"
+    },
+    {
+      "id": "nm0569079",
+      "name": "Jack McGee",
+      "character": "Sheriff"
+    },
+    {
+      "id": "nm0127640",
+      "name": "Bill Cable",
+      "character": "Johnny Boz"
+    },
+    {
+      "id": "nm0746607",
+      "name": "Stephen Rowe",
+      "character": "Internal Affairs Investigator"
+    },
+    {
+      "id": "nm0683379",
+      "name": "Mitch Pileggi",
+      "character": "Internal Affairs Investigator"
+    },
+    {
+      "id": "nm0322325",
+      "name": "Mary Pat Gleason",
+      "character": "Juvenile Officer"
+    }
+  ],
+  "countries": [
+    "France",
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "color": null,
+  "filmweb_id": 1063,
+  "year": 1992,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjlhMGM2ZWItN2ZhZi00YzU0LTg1MTQtNzczZmY3OGJlOGM4XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.1,
+      "votes": 245988,
+      "distribution": {
+        "1": 2299,
+        "2": 1509,
+        "3": 2639,
+        "4": 5842,
+        "5": 15219,
+        "6": 41701,
+        "7": 82145,
+        "8": 56539,
+        "9": 21086,
+        "10": 17009
+      },
+      "normalized": 5.7644
+    },
+    "filmweb": {
+      "rating": 7.27,
+      "votes": 141656,
+      "distribution": {
+        "1": 536,
+        "2": 707,
+        "3": 1567,
+        "4": 3020,
+        "5": 7244,
+        "6": 18770,
+        "7": 44759,
+        "8": 43187,
+        "9": 15212,
+        "10": 6654
+      },
+      "normalized": 6.1781
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "02.12.2005",
+      "normalized": 6.4102
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "19.10.2005",
+      "normalized": 4.5781
+    },
+    "score": 5.7327
+  },
+  "polish_title": "Nagi instynkt",
+  "silent": false,
+  "description_pl": "Właściciel klubu nocnego w San Francisco zostaje brutalnie zamordowany. Śledztwo prowadzi detektyw Curran, oskarżany przez wydział wewnętrzny o skłonność do alkoholu. Główną podejrzaną jest piękna pisarka Catherine Tramell, która do perfekcji opanowała sztukę manipulacji ludzkimi emocjami. Zafascynowany jej urodą Curran daje się wciągnąć w zmysłową grę. W trakcie śledztwa zaczyna tracić zawodową czujność, co może okazać się śmiertelnie niebezpieczne.",
+  "producers": [
+    {
+      "id": "nm0064057",
+      "name": "William S. Beasley"
+    },
+    {
+      "id": "nm0195669",
+      "name": "Louis D'Esposito"
+    },
+    {
+      "id": "nm0440830",
+      "name": "Mario Kassar"
+    },
+    {
+      "id": "nm0550728",
+      "name": "Alan Marshall"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0000025",
+      "name": "Jerry Goldsmith"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0000957",
+      "name": "Jan de Bont"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

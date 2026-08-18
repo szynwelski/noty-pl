@@ -1,0 +1,198 @@
+{
+  "imdb_id": "tt4913118",
+  "title": "Isolated",
+  "description": "Isolated takes us in a journey to the most highly populated artificial island in the Colombian Caribbean while it muses on the role of men in society and uses this island as a metaphor of our planet.",
+  "runtime_minutes": 73,
+  "release_date": "14.10.2015",
+  "genres": [
+    "Documentary"
+  ],
+  "stars": [
+    {
+      "id": "nm10559568",
+      "name": "Rocio Barrios"
+    },
+    {
+      "id": "nm10559570",
+      "name": "Hoovert Carabalí"
+    },
+    {
+      "id": "nm10559563",
+      "name": "Dilfredis Cardales"
+    },
+    {
+      "id": "nm10559566",
+      "name": "Samuel Castillo"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm2703316",
+      "name": "Marcela Lizcano"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm2703316",
+      "name": "Marcela Lizcano"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm10559568",
+      "name": "Rocio Barrios",
+      "character": "Self"
+    },
+    {
+      "id": "nm10559570",
+      "name": "Hoovert Carabalí",
+      "character": "Self"
+    },
+    {
+      "id": "nm10559563",
+      "name": "Dilfredis Cardales",
+      "character": "Self - El cabo"
+    },
+    {
+      "id": "nm10559566",
+      "name": "Samuel Castillo",
+      "character": "Self - Puntico"
+    },
+    {
+      "id": "nm10559569",
+      "name": "Alexander Atencio Gaspar",
+      "character": "Self"
+    },
+    {
+      "id": "nm10559564",
+      "name": "Juvenal Julio",
+      "character": "Self"
+    },
+    {
+      "id": "nm10559565",
+      "name": "Kener Julio",
+      "character": "Self"
+    },
+    {
+      "id": "nm10559567",
+      "name": "Yuris Julio",
+      "character": "Self"
+    },
+    {
+      "id": "nm10559571",
+      "name": "Darwin Olascoaga",
+      "character": "Self"
+    }
+  ],
+  "countries": [
+    "Colombia",
+    "Ecuador",
+    "Mexico"
+  ],
+  "languages": [
+    "Spanish"
+  ],
+  "color": "Color",
+  "year": 2015,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BY2Q5NTg3YmEtYmJmNy00ZGY3LWJmNWYtMTc5YzcxYWQwZGE1XkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 751159,
+  "ratings": {
+    "imdb": {
+      "rating": 7.2,
+      "votes": 36,
+      "distribution": {
+        "1": 0,
+        "2": 1,
+        "3": 2,
+        "4": 2,
+        "5": 3,
+        "6": 8,
+        "7": 6,
+        "8": 4,
+        "9": 4,
+        "10": 6
+      },
+      "normalized": 5.3291
+    },
+    "filmweb": {
+      "rating": 5.37,
+      "votes": 19,
+      "distribution": {
+        "1": 1,
+        "2": 0,
+        "3": 1,
+        "4": 2,
+        "5": 5,
+        "6": 6,
+        "7": 3,
+        "8": 1,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 4.965
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "12.10.2020",
+      "normalized": 4.9718
+    },
+    "score": 5.0886
+  },
+  "polish_title": "Odcięci od świata",
+  "silent": false,
+  "description_pl": "540 osób zamieszkuje najgęściej zaludnioną sztuczną wyspę kolumbijskich Karaibów. Wyspa Santa Cruz del Islote (Święty Krzyż Wysepki) ma wielkość boiska piłkarskiego. Nie ma tu ani policji, ani księży, ani lekarzy, ani zbrojnych konfliktów. Jest 97 domów dla 18 rodzin, szkoła, restauracja w porcie i mały plac z krzyżem w centrum. \"Aislados\", przez spojrzenie na życie na wyspie, codzienne interakcje i zmagania mieszkańców, na ich walkę o pozostanie na swoim terytorium, pozwala zastanowić się nad rolą człowieka jako mieszkańca wszechświata. Maleńka wysepka staje się metaforą naszej planety.",
+  "producers": [
+    {
+      "id": "nm4028349",
+      "name": "Simon Beltran Echeverri"
+    },
+    {
+      "id": "nm4029019",
+      "name": "Diego Fernando Bustamante"
+    },
+    {
+      "id": "nm10559579",
+      "name": "Joel Cardenales"
+    },
+    {
+      "id": "nm10559578",
+      "name": "Maria Alejandra Diaz"
+    },
+    {
+      "id": "nm0248453",
+      "name": "Sarahi Echeverria"
+    },
+    {
+      "id": "nm10559576",
+      "name": "Sarahí Echeverria"
+    },
+    {
+      "id": "nm10559581",
+      "name": "Laura Lagos"
+    },
+    {
+      "id": "nm2703316",
+      "name": "Marcela Lizcano"
+    },
+    {
+      "id": "nm10559580",
+      "name": "Alberto Pito"
+    },
+    {
+      "id": "nm7221884",
+      "name": "Nathalia Rojas"
+    },
+    {
+      "id": "nm5278785",
+      "name": "Juan Pablo Solano"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm5056555",
+      "name": "Daniel Alberto Velasco"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

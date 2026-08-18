@@ -1,0 +1,146 @@
+{
+  "imdb_id": "tt0351167",
+  "title": "The Cathedral",
+  "description": "A space fantasy about an explorer who pays a visit to an unusual cathedral built with organic materials.",
+  "runtime_minutes": 7,
+  "release_date": "24.03.2002",
+  "genres": [
+    "Animation",
+    "Short",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm1320002",
+      "name": "Jola Rzebuska"
+    },
+    {
+      "id": "nm1319290",
+      "name": "Maria Kucharska"
+    },
+    {
+      "id": "nm1320730",
+      "name": "Marcin Jaskowski"
+    },
+    {
+      "id": "nm1320441",
+      "name": "Piotr Widlarz"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm1313617",
+      "name": "Tomasz Bagiński"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1313617",
+      "name": "Tomasz Bagiński"
+    },
+    {
+      "id": "nm1314178",
+      "name": "Jacek Dukaj"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1320002",
+      "name": "Jola Rzebuska",
+      "character": ""
+    },
+    {
+      "id": "nm1319290",
+      "name": "Maria Kucharska",
+      "character": ""
+    },
+    {
+      "id": "nm1320730",
+      "name": "Marcin Jaskowski",
+      "character": ""
+    },
+    {
+      "id": "nm1320441",
+      "name": "Piotr Widlarz",
+      "character": ""
+    }
+  ],
+  "countries": [
+    "Poland"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Color",
+  "filmweb_id": 34773,
+  "year": 2002,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNGRiNjQzNWQtMmU4ZS00MzFhLTgzZWEtMTRlMjQ5YTY4NmZlXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Katedra",
+  "ratings": {
+    "imdb": {
+      "rating": 7.2,
+      "votes": 5112,
+      "distribution": {
+        "1": 91,
+        "2": 50,
+        "3": 79,
+        "4": 135,
+        "5": 286,
+        "6": 596,
+        "7": 1222,
+        "8": 1227,
+        "9": 712,
+        "10": 714
+      },
+      "normalized": 5.8269
+    },
+    "filmweb": {
+      "rating": 7.82,
+      "votes": 174381,
+      "distribution": {
+        "1": 1436,
+        "2": 600,
+        "3": 1677,
+        "4": 2557,
+        "5": 5543,
+        "6": 13477,
+        "7": 33924,
+        "8": 58408,
+        "9": 35978,
+        "10": 20781
+      },
+      "normalized": 7.7916
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "19.10.2005",
+      "normalized": 5.4199
+    },
+    "score": 6.3461
+  },
+  "polish_title": "Katedra",
+  "silent": false,
+  "description_pl": "Film opowiada historię pielgrzyma zwiedzającego tajemniczą, gigantyczną konstrukcję budzącą skojarzenia ze szkieletem średniowiecznej katedry. Wraz z głównym bohaterem przemierzamy korytarze, przyglądamy się motywom zdobiącym ściany i... zaczynamy podejrzewać, że to nie jest zwykła budowla. Tajemnica objawi się w momencie, gdy katedrę oświetli wschód słońca. \"Katedra\" to siedmiominutowy film animowany zrealizowany na podstawie opowiadania Jacka Dukaja.",
+  "producers": [
+    {
+      "id": "nm1672375",
+      "name": "Marcin Kobylecki"
+    },
+    {
+      "id": "nm1320040",
+      "name": "Jaroslaw Sawko"
+    },
+    {
+      "id": "nm1320127",
+      "name": "Piotr Sikora"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm1315697",
+      "name": "Adam Rosiak"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

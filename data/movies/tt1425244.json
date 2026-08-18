@@ -1,0 +1,125 @@
+{
+  "imdb_id": "tt1425244",
+  "title": "Partly Cloudy",
+  "description": "Babies both human and beast are created up in the stratosphere, by the clouds themselves. One cloud specializes in \"dangerous\" babies, creating a challenge for his loyal stork that has to deliver them.",
+  "runtime_minutes": 6,
+  "release_date": "29.05.2009",
+  "genres": [
+    "Animation",
+    "Short",
+    "Comedy",
+    "Family",
+    "Fantasy"
+  ],
+  "stars": [
+    {
+      "id": "nm0297306",
+      "name": "Tony Fucile"
+    },
+    {
+      "id": "nm1751461",
+      "name": "Lori Richardson"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0812307",
+      "name": "Peter Sohn"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0812307",
+      "name": "Peter Sohn"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0297306",
+      "name": "Tony Fucile",
+      "character": "Gus"
+    },
+    {
+      "id": "nm1751461",
+      "name": "Lori Richardson",
+      "character": "Female Cloud"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Color",
+  "filmweb_id": 515362,
+  "year": 2009,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOGI5MjVhNDMtYWUyZi00YzhhLTk5NzUtZmUxNzdiOTk4ZjdjXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8,
+      "votes": 24910,
+      "distribution": {
+        "1": 135,
+        "2": 65,
+        "3": 82,
+        "4": 165,
+        "5": 569,
+        "6": 1614,
+        "7": 4471,
+        "8": 8413,
+        "9": 5137,
+        "10": 4259
+      },
+      "normalized": 7.35
+    },
+    "filmweb": {
+      "rating": 7.7,
+      "votes": 31955,
+      "distribution": {
+        "1": 75,
+        "2": 32,
+        "3": 126,
+        "4": 300,
+        "5": 808,
+        "6": 2887,
+        "7": 8153,
+        "8": 12145,
+        "9": 5422,
+        "10": 2007
+      },
+      "normalized": 7.3242
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "17.10.2020",
+      "normalized": 5.4199
+    },
+    "score": 6.698
+  },
+  "polish_title": "Zaburzenie częściowe",
+  "silent": false,
+  "description_pl": "Skąd się biorą dzieci? To logiczne, że przynoszą je bociany, ale właściwie to skąd je biorą. Według krótkometrażowego filmu Pixar maluchy tworzą chmury. Każda z nich ma własnego bociana, za którego pośrednictwem posyła niemowlaka do rodziców. Jeden z nich, Peck, ma bardzo niefortunnego kompana. Jego chmura robi same niebezpieczne i trudne do dostarczenia niemowlaki. Ale czego się nie robi dla przyjaciół...",
+  "producers": [
+    {
+      "id": "nm0005124",
+      "name": "John Lasseter"
+    },
+    {
+      "id": "nm0716816",
+      "name": "Kevin Reher"
+    },
+    {
+      "id": "nm0004056",
+      "name": "Andrew Stanton"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0315974",
+      "name": "Michael Giacchino"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

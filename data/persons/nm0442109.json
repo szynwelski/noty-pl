@@ -1,0 +1,54 @@
+{
+  "id": "nm0442109",
+  "name": "Charlie Kaufman",
+  "filmography": [
+    {
+      "imdb_id": "tt0120601",
+      "title": "Being John Malkovich",
+      "year": 1999,
+      "roles": [
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0268126",
+      "title": "Adaptation.",
+      "year": 2002,
+      "roles": [
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0270288",
+      "title": "Confessions of a Dangerous Mind",
+      "year": 2002,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0338013",
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "year": 2004,
+      "roles": [
+        "writer",
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTY5NzUyNjYxM15BMl5BanBnXkFtZTYwMDM1NDg0._V1_.jpg",
+  "birth_date": "19.11.1958",
+  "birth_location": "New York City, New York, USA",
+  "height": "1.64 m",
+  "filmweb_id": 12202,
+  "name_pl": "Charlie Kaufman",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

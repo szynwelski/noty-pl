@@ -1,0 +1,47 @@
+{
+  "id": "nm0929057",
+  "name": "Robert J. Wilke",
+  "filmography": [
+    {
+      "imdb_id": "tt0044706",
+      "title": "High Noon",
+      "year": 1952,
+      "roles": [
+        "cast"
+      ],
+      "character": "Jim Pierce"
+    },
+    {
+      "imdb_id": "tt0054331",
+      "title": "Spartacus",
+      "year": 1960,
+      "roles": [
+        "cast"
+      ],
+      "character": "Guard Captain"
+    },
+    {
+      "imdb_id": "tt0077405",
+      "title": "Days of Heaven",
+      "year": 1978,
+      "roles": [
+        "cast"
+      ],
+      "character": "The Farm Foreman"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTM1NTY3NDQzNF5BMl5BanBnXkFtZTYwNTE5Mzgy._V1_.jpg",
+  "birth_date": "18.05.1914",
+  "death_date": "28.03.1989",
+  "birth_location": "Cincinnati, Ohio, USA",
+  "height": "1.88 m",
+  "filmweb_id": 53618,
+  "name_pl": "Robert J. Wilke",
+  "birth_location_pl": "Cincinnati, Ohio",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

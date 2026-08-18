@@ -1,0 +1,50 @@
+{
+  "id": "nm0000141",
+  "name": "David Duchovny",
+  "filmography": [
+    {
+      "imdb_id": "tt0170817",
+      "title": "Pilot",
+      "year": 1993,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Fox Mulder"
+    },
+    {
+      "imdb_id": "tt0120902",
+      "title": "The X Files",
+      "year": 1998,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Agent Fox Mulder"
+    },
+    {
+      "imdb_id": "tt0251075",
+      "title": "Evolution",
+      "year": 2001,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Ira Kane"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZDFiMmI0NWUtNTNlYi00MWNjLWIxMmItZDc5M2ZkNDUyZjE2XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "07.08.1960",
+  "birth_location": "New York City, New York, USA",
+  "height": "1.83 m",
+  "filmweb_id": 168,
+  "name_pl": "David Duchovny",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 168
+}

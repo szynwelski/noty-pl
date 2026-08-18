@@ -1,0 +1,244 @@
+{
+  "imdb_id": "tt0243155",
+  "title": "Bridget Jones's Diary",
+  "description": "Bridget Jones is determined to improve herself while she looks for love in a year in which she keeps a personal diary.",
+  "runtime_minutes": 97,
+  "release_date": "13.04.2001",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0000250",
+      "name": "Renée Zellweger"
+    },
+    {
+      "id": "nm0000147",
+      "name": "Colin Firth"
+    },
+    {
+      "id": "nm0000424",
+      "name": "Hugh Grant"
+    },
+    {
+      "id": "nm0428121",
+      "name": "Gemma Jones"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0536632",
+      "name": "Sharon Maguire"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0276144",
+      "name": "Helen Fielding"
+    },
+    {
+      "id": "nm0203577",
+      "name": "Andrew Davies"
+    },
+    {
+      "id": "nm0193485",
+      "name": "Richard Curtis"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000250",
+      "name": "Renée Zellweger",
+      "character": "Bridget Jones"
+    },
+    {
+      "id": "nm0000147",
+      "name": "Colin Firth",
+      "character": "Mark Darcy"
+    },
+    {
+      "id": "nm0000424",
+      "name": "Hugh Grant",
+      "character": "Daniel Cleaver"
+    },
+    {
+      "id": "nm0428121",
+      "name": "Gemma Jones",
+      "character": "Bridget's Mum"
+    },
+    {
+      "id": "nm0408309",
+      "name": "Celia Imrie",
+      "character": "Una Alconbury"
+    },
+    {
+      "id": "nm0269077",
+      "name": "James Faulkner",
+      "character": "Uncle Geoffrey"
+    },
+    {
+      "id": "nm0000980",
+      "name": "Jim Broadbent",
+      "character": "Bridget's Dad"
+    },
+    {
+      "id": "nm0561890",
+      "name": "Charmian May",
+      "character": "Mrs. Darcy"
+    },
+    {
+      "id": "nm0111727",
+      "name": "Paul Brooke",
+      "character": "Mr. Fitzherbert"
+    },
+    {
+      "id": "nm0598748",
+      "name": "Felicity Montagu",
+      "character": "Perpetua"
+    },
+    {
+      "id": "nm0376602",
+      "name": "Shirley Henderson",
+      "character": "Jude"
+    },
+    {
+      "id": "nm0680766",
+      "name": "Sally Phillips",
+      "character": "Shazza"
+    },
+    {
+      "id": "nm0130536",
+      "name": "James Callis",
+      "character": "Tom"
+    },
+    {
+      "id": "nm0063636",
+      "name": "Charlie Caine",
+      "character": "Handsome Stranger"
+    },
+    {
+      "id": "nm0548828",
+      "name": "Gareth Marks",
+      "character": "Simon in Marketing"
+    },
+    {
+      "id": "nm0165952",
+      "name": "John Clegg",
+      "character": "Elderly Man"
+    },
+    {
+      "id": "nm0750723",
+      "name": "Salman Rushdie",
+      "character": "Salman Rushdie"
+    },
+    {
+      "id": "nm0001110",
+      "name": "Embeth Davidtz",
+      "character": "Natasha"
+    }
+  ],
+  "countries": [
+    "Ireland",
+    "United Kingdom",
+    "France",
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 4340,
+  "year": 2001,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTM1MTFiNDEtMGYzZC00MjM5LWEwMWMtN2VhNjg1MTEzOTg3XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.8,
+      "votes": 288538,
+      "distribution": {
+        "1": 3240,
+        "2": 2482,
+        "3": 4460,
+        "4": 9139,
+        "5": 23506,
+        "6": 59208,
+        "7": 86588,
+        "8": 53418,
+        "9": 21851,
+        "10": 24646
+      },
+      "normalized": 5.1011
+    },
+    "filmweb": {
+      "rating": 6.94,
+      "votes": 293801,
+      "distribution": {
+        "1": 2615,
+        "2": 2394,
+        "3": 6098,
+        "4": 10705,
+        "5": 23756,
+        "6": 51864,
+        "7": 87239,
+        "8": 67600,
+        "9": 24825,
+        "10": 16705
+      },
+      "normalized": 5.5097
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "02.12.2005",
+      "normalized": 5.6855
+    },
+    "score": 5.4321
+  },
+  "polish_title": "Dziennik Bridget Jones",
+  "silent": false,
+  "description_pl": "Twórcy filmów \"<a href=\"/film/?id=tt0109831\">Cztery wesela i pogrzeb</a>\" i \"<a href=\"/film/?id=tt0125439\">Notting Hill</a>\" przedstawiają \"Dziennik Bridget Jones\", najzabawniejszą, najoryginalniejszą i najodważniejszą komedię roku. W ekranizacji bestsellerowej powieści <a href=\"/osoba/?id=nm0276144\">Helen Fielding</a> wystąpili: <a href=\"/osoba/?id=nm0000250\">Renée Zellweger</a> (\"<a href=\"/film/?id=tt0116695\">Jerry Maguire</a>\"), <a href=\"/osoba/?id=nm0000424\">Hugh Grant</a> (\"<a href=\"/film/?id=tt0109831\">Cztery wesela i pogrzeb</a>\", \"<a href=\"/film/?id=tt0125439\">Notting Hill</a>\") i <a href=\"/osoba/?id=nm0000147\">Colin Firth</a> (\"<a href=\"/film/?id=tt0138097\">Zakochany Szekspir</a>\", \"<a href=\"/film/?id=tt0116209\">Angielski pacjent</a>\"). U progu nowego roku 32-letnia Bridget Jones postanawia wziąć swoje sprawy w swoje ręce - i zaczyna prowadzić intymny dziennik. Ma on wszelkie szanse stać się bestsellerem, bo Bridget ma wyrobione zdanie na temat mężczyzn, seksu, aerobiku, jedzenia i wszystkiego, czym żyje współczesna kobieta, a co najważniejsze - wali prawdę prosto z mostu i niczego nie owija w bawełnę. Chcesz rozpocząć nowe życie? Zaufaj Bridget - zacznij prowadzić dziennik!",
+  "producers": [
+    {
+      "id": "nm0079677",
+      "name": "Tim Bevan"
+    },
+    {
+      "id": "nm0147080",
+      "name": "Jonathan Cavendish"
+    },
+    {
+      "id": "nm0153877",
+      "name": "Liza Chasin"
+    },
+    {
+      "id": "nm0271479",
+      "name": "Eric Fellner"
+    },
+    {
+      "id": "nm0276144",
+      "name": "Helen Fielding"
+    },
+    {
+      "id": "nm0371735",
+      "name": "Debra Hayward"
+    },
+    {
+      "id": "nm0563930",
+      "name": "Peter McAleese"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0236462",
+      "name": "Patrick Doyle"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0238698",
+      "name": "Stuart Dryburgh"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "nm0002769",
+  "name": "Romy Schneider",
+  "filmography": [
+    {
+      "imdb_id": "tt0048624",
+      "title": "Sissi",
+      "year": 1955,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Sissi"
+    },
+    {
+      "imdb_id": "tt0049762",
+      "title": "Sissi - Die junge Kaiserin",
+      "year": 1956,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Sissi"
+    },
+    {
+      "imdb_id": "tt0050974",
+      "title": "Sissi: The Fateful Years of an Empress",
+      "year": 1957,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Empress Elisabeth of Austria"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTg4NDI2NzA3OF5BMl5BanBnXkFtZTcwNDM1OTQyOA@@._V1_.jpg",
+  "birth_date": "23.09.1938",
+  "death_date": "29.05.1982",
+  "birth_location": "Vienna, Austria",
+  "height": "1.62 m",
+  "filmweb_id": 42177,
+  "name_pl": "Romy Schneider",
+  "birth_location_pl": "Wiedeń",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Austria",
+    "Francja",
+    "Niemcy"
+  ],
+  "wikidata_fw_id": 42177
+}

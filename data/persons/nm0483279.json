@@ -1,0 +1,37 @@
+{
+  "id": "nm0483279",
+  "name": "Paul Lambert",
+  "filmography": [
+    {
+      "imdb_id": "tt0054331",
+      "title": "Spartacus",
+      "year": 1960,
+      "roles": [
+        "cast"
+      ],
+      "character": "Gannicus"
+    },
+    {
+      "imdb_id": "tt0063442",
+      "title": "Planet of the Apes",
+      "year": 1968,
+      "roles": [
+        "cast"
+      ],
+      "character": "Minister"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODcxYjVhODItZTBkNi00ZjRkLTgyMmYtYzE3NjNkYmIxNDJiXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "01.08.1922",
+  "death_date": "27.04.1997",
+  "birth_location": "El Paso, Texas, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 150461,
+  "name_pl": "Paul Lambert",
+  "birth_location_pl": "El Paso, Teksas",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

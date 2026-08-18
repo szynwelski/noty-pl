@@ -1,0 +1,257 @@
+{
+  "imdb_id": "tt0355295",
+  "title": "The Brothers Grimm",
+  "description": "Will and Jake Grimm are traveling con-artists who encounter a genuine fairy-tale curse which requires true courage instead of their usual bogus exorcisms.",
+  "runtime_minutes": 118,
+  "release_date": "26.08.2005",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Fantasy",
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000354",
+      "name": "Matt Damon"
+    },
+    {
+      "id": "nm0005132",
+      "name": "Heath Ledger"
+    },
+    {
+      "id": "nm0000899",
+      "name": "Monica Bellucci"
+    },
+    {
+      "id": "nm1996295",
+      "name": "Petr Ratimec"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000416",
+      "name": "Terry Gilliam"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0472567",
+      "name": "Ehren Kruger"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000354",
+      "name": "Matt Damon",
+      "character": "Wilhelm Grimm"
+    },
+    {
+      "id": "nm0005132",
+      "name": "Heath Ledger",
+      "character": "Jacob Grimm"
+    },
+    {
+      "id": "nm0000899",
+      "name": "Monica Bellucci",
+      "character": "Mirror Queen"
+    },
+    {
+      "id": "nm1996295",
+      "name": "Petr Ratimec",
+      "character": "Young Will"
+    },
+    {
+      "id": "nm0525656",
+      "name": "Barbora Lukesová",
+      "character": "Mother Grimm"
+    },
+    {
+      "id": "nm1391444",
+      "name": "Anna Rust",
+      "character": "Sister Grimm"
+    },
+    {
+      "id": "nm1984672",
+      "name": "Jeremy Robson",
+      "character": "Young Jacob"
+    },
+    {
+      "id": "nm0436286",
+      "name": "Radim Kalvoda",
+      "character": "Gendarme"
+    },
+    {
+      "id": "nm0389384",
+      "name": "Martin Hofmann",
+      "character": "Gendarme"
+    },
+    {
+      "id": "nm1119179",
+      "name": "Josef Pepa Nos",
+      "character": "German War Veteran"
+    },
+    {
+      "id": "nm1563426",
+      "name": "Harry Gilliam",
+      "character": "Stable Boy"
+    },
+    {
+      "id": "nm0879345",
+      "name": "Miroslav Táborský",
+      "character": "Old Miller"
+    },
+    {
+      "id": "nm0004355",
+      "name": "Roger Ashton-Griffiths",
+      "character": "Mayor"
+    },
+    {
+      "id": "nm1167094",
+      "name": "Marika Sarah Procházková",
+      "character": "Miller's Daughter"
+    },
+    {
+      "id": "nm0188871",
+      "name": "Mackenzie Crook",
+      "character": "Hidlick"
+    },
+    {
+      "id": "nm0725956",
+      "name": "Richard Ridings",
+      "character": "Bunst"
+    },
+    {
+      "id": "nm1996194",
+      "name": "Alena Jakobová",
+      "character": "Red Hooded Girl"
+    },
+    {
+      "id": "nm0670750",
+      "name": "Rudolf Pellar",
+      "character": "Watchman"
+    }
+  ],
+  "countries": [
+    "United States",
+    "Czech Republic"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian"
+  ],
+  "color": "Color",
+  "filmweb_id": 97041,
+  "year": 2005,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjNmMWRlYTktNGQyMi00YTgzLThjYjgtYWFmNTc3NGEwNTVkXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.9,
+      "votes": 132707,
+      "distribution": {
+        "1": 2908,
+        "2": 2606,
+        "3": 5013,
+        "4": 10367,
+        "5": 24197,
+        "6": 38172,
+        "7": 27967,
+        "8": 11769,
+        "9": 3853,
+        "10": 5855
+      },
+      "normalized": 3.4248
+    },
+    "filmweb": {
+      "rating": 6.51,
+      "votes": 71690,
+      "distribution": {
+        "1": 307,
+        "2": 377,
+        "3": 1442,
+        "4": 3099,
+        "5": 9098,
+        "6": 18928,
+        "7": 23745,
+        "8": 10588,
+        "9": 2454,
+        "10": 1652
+      },
+      "normalized": 4.3486
+    },
+    "michal": {
+      "rating": 2,
+      "date_rated": "01.12.2005",
+      "normalized": 3.1556
+    },
+    "score": 3.643
+  },
+  "polish_title": "Nieustraszeni bracia Grimm",
+  "silent": false,
+  "description_pl": "Bracia Grimm podróżują od wioski do wioski, przekonująć mieszkańców, że muszą poddać się egzorcyzmom, bo w ich domach żyją potwory nie ztego świata. Problem pojawia się, gdy okazuje się, że w jednej z wiosek mieszkają prawdziwe zjawy i zła królowa...",
+  "producers": [
+    {
+      "id": "nm0090394",
+      "name": "Daniel Bobker"
+    },
+    {
+      "id": "nm0156837",
+      "name": "Mishka Cheyko"
+    },
+    {
+      "id": "nm0330335",
+      "name": "Jonathan Gordon"
+    },
+    {
+      "id": "nm0570330",
+      "name": "Chris McGurk"
+    },
+    {
+      "id": "nm0616735",
+      "name": "Jake Myers"
+    },
+    {
+      "id": "nm0739868",
+      "name": "Andrew Rona"
+    },
+    {
+      "id": "nm0746273",
+      "name": "Charles Roven"
+    },
+    {
+      "id": "nm0774528",
+      "name": "John D. Schofield"
+    },
+    {
+      "id": "nm0813088",
+      "name": "Michael Solinger"
+    },
+    {
+      "id": "nm0918424",
+      "name": "Bob Weinstein"
+    },
+    {
+      "id": "nm0005544",
+      "name": "Harvey Weinstein"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0547050",
+      "name": "Dario Marianelli"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005875",
+      "name": "Newton Thomas Sigel"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

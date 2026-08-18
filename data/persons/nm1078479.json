@@ -1,0 +1,29 @@
+{
+  "id": "nm1078479",
+  "name": "John Cena",
+  "filmography": [
+    {
+      "imdb_id": "tt1517268",
+      "title": "Barbie",
+      "year": 2023,
+      "roles": [
+        "cast"
+      ],
+      "character": "Ken"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQ5MzkzNTIyN15BMl5BanBnXkFtZTYwNzUzOTA2._V1_.jpg",
+  "birth_date": "23.04.1977",
+  "birth_location": "West Newbury, Massachusetts, USA",
+  "height": "1.85 m",
+  "imdb_scraped": true,
+  "filmweb_id": 315723,
+  "name_pl": "John Cena",
+  "birth_location_pl": "West Newbury, Massachusetts",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 315723
+}

@@ -1,0 +1,164 @@
+{
+  "imdb_id": "tt0003419",
+  "title": "The Student of Prague",
+  "description": "The poor student Balduin sells his mirror image to the satanic sorcerer Scapinelli. He falls in love with a countess and tries to win her over. But his mirror image receives a life of its' own and sabotages Balduin's every move.",
+  "runtime_minutes": 83,
+  "release_date": "1913",
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "Horror",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0917467",
+      "name": "Paul Wegener"
+    },
+    {
+      "id": "nm0074186",
+      "name": "Grete Berger"
+    },
+    {
+      "id": "nm0758802",
+      "name": "Lyda Salmonova"
+    },
+    {
+      "id": "nm0332024",
+      "name": "John Gottowt"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0263912",
+      "name": "Hanns Heinz Ewers"
+    },
+    {
+      "id": "nm0753233",
+      "name": "Stellan Rye"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0263912",
+      "name": "Hanns Heinz Ewers"
+    },
+    {
+      "id": "nm0210503",
+      "name": "Alfred de Musset"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0917467",
+      "name": "Paul Wegener",
+      "character": "Balduin, a Student"
+    },
+    {
+      "id": "nm0074186",
+      "name": "Grete Berger",
+      "character": "Countess Margit von Schwarzenberg"
+    },
+    {
+      "id": "nm0758802",
+      "name": "Lyda Salmonova",
+      "character": "Lyduschka, a Gypsy Girl"
+    },
+    {
+      "id": "nm0332024",
+      "name": "John Gottowt",
+      "character": "Scapinelli, an Old Sorcerer"
+    },
+    {
+      "id": "nm0477996",
+      "name": "Lothar Körner",
+      "character": "Count von Schwarzenberg, Margit's Father"
+    },
+    {
+      "id": "nm0917744",
+      "name": "Fritz Weidemann",
+      "character": "Baron Waldis-Schwarzenberg, Margit's Cousin, betrothed"
+    },
+    {
+      "id": "nm0263912",
+      "name": "Hanns Heinz Ewers",
+      "character": "Self - with wide-brimmed hat at Belvedere"
+    },
+    {
+      "id": "nm0596218",
+      "name": "Alexander Moissi",
+      "character": "Self - with cap at Belvedere"
+    }
+  ],
+  "countries": [
+    "Germany"
+  ],
+  "languages": [
+    "German",
+    "English"
+  ],
+  "color": null,
+  "filmweb_id": 31537,
+  "year": 1913,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDQzMmFlZjgtYmNjYS00NGFjLWJkMzctNWNhMDRjZDRkOGE2XkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Der Student von Prag",
+  "ratings": {
+    "imdb": {
+      "rating": 6.4,
+      "votes": 2739,
+      "distribution": {
+        "1": 108,
+        "2": 26,
+        "3": 49,
+        "4": 123,
+        "5": 323,
+        "6": 670,
+        "7": 757,
+        "8": 354,
+        "9": 130,
+        "10": 199
+      },
+      "normalized": 4.5604
+    },
+    "filmweb": {
+      "rating": 6.47,
+      "votes": 1156,
+      "distribution": {
+        "1": 8,
+        "2": 5,
+        "3": 20,
+        "4": 48,
+        "5": 157,
+        "6": 327,
+        "7": 374,
+        "8": 141,
+        "9": 42,
+        "10": 34
+      },
+      "normalized": 4.4611
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "25.11.2007",
+      "normalized": 6.3474
+    },
+    "score": 5.123
+  },
+  "polish_title": "Student z Pragi",
+  "silent": true,
+  "description_pl": "Czarownik Scapinelli proponuje Balduinowi zawarcie szatańskiego paktu, na mocy którego w zamian za pieniądze i zaszczyty wejdzie w posiadanie lustrzanego odbicia młodzieńca. Miłość do pięknej hrabianki sprawia, że ubogi student bez zastanowienia przystaje na ten niezwykły układ. Po dokonaniu wymiany Balduin postanawia spotkać się z ukochaną. Nie wie, że ich romantyczną schadzkę obserwuje Cyganka, która natychmiast zawiadamia narzeczonego dziewczyny. Student staje przed widmem pojedynku. Na prośbę hrabiego gotów jest zrezygnować z gratyfikacji, jednak wówczas w drogę wchodzi mu jego sobowtór...",
+  "composers": [
+    {
+      "id": "nm0919054",
+      "name": "Josef Weiss"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005869",
+      "name": "Guido Seeber"
+    }
+  ],
+  "fetched_at": "2026-08-15"
+}

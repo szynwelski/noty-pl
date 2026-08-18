@@ -1,0 +1,35 @@
+{
+  "id": "nm2034297",
+  "name": "Anna Katarina",
+  "filmography": [
+    {
+      "imdb_id": "tt0103776",
+      "title": "Batman Returns",
+      "year": 1992,
+      "roles": [
+        "cast"
+      ],
+      "character": "Poodle Lady"
+    },
+    {
+      "imdb_id": "tt0119174",
+      "title": "The Game",
+      "year": 1997,
+      "roles": [
+        "cast"
+      ],
+      "character": "Elizabeth"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTUxMjg3NjQ3MF5BMl5BanBnXkFtZTcwMTk1NjEzMQ@@._V1_.jpg",
+  "birth_date": "14.03.1960",
+  "birth_location": "Bern, Switzerland",
+  "imdb_scraped": true,
+  "filmweb_id": 3148,
+  "name_pl": "Anna Katarina",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Szwajcaria"
+  ]
+}

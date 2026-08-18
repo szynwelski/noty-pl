@@ -1,0 +1,260 @@
+{
+  "imdb_id": "tt2034800",
+  "title": "The Great Wall",
+  "description": "In ancient China, a group of European mercenaries encounters a secret army that maintains and defends the Great Wall of China against a horde of monstrous creatures.",
+  "runtime_minutes": 103,
+  "release_date": "17.02.2017",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000354",
+      "name": "Matt Damon"
+    },
+    {
+      "id": "nm1320897",
+      "name": "Tian Jing"
+    },
+    {
+      "id": "nm0000353",
+      "name": "Willem Dafoe"
+    },
+    {
+      "id": "nm0490489",
+      "name": "Andy Lau"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0955443",
+      "name": "Yimou Zhang"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0076166",
+      "name": "Carlo Bernard"
+    },
+    {
+      "id": "nm1215164",
+      "name": "Doug Miro"
+    },
+    {
+      "id": "nm0006904",
+      "name": "Tony Gilroy"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000354",
+      "name": "Matt Damon",
+      "character": "William"
+    },
+    {
+      "id": "nm1320897",
+      "name": "Tian Jing",
+      "character": "Commander Lin Mae"
+    },
+    {
+      "id": "nm0000353",
+      "name": "Willem Dafoe",
+      "character": "Ballard"
+    },
+    {
+      "id": "nm0050959",
+      "name": "Pedro Pascal",
+      "character": "Tovar"
+    },
+    {
+      "id": "nm0490489",
+      "name": "Andy Lau",
+      "character": "Strategist Wang"
+    },
+    {
+      "id": "nm1833620",
+      "name": "Hanyu Zhang",
+      "character": "General Shao"
+    },
+    {
+      "id": "nm1971183",
+      "name": "Han Lu",
+      "character": "Peng Yong"
+    },
+    {
+      "id": "nm5341380",
+      "name": "Kenny Lin",
+      "character": "Commander Chen"
+    },
+    {
+      "id": "nm2108643",
+      "name": "Eddie Peng",
+      "character": "Commander Wu"
+    },
+    {
+      "id": "nm3154777",
+      "name": "Xuan Huang",
+      "character": "Commander Deng"
+    },
+    {
+      "id": "nm4404779",
+      "name": "Ryan Zheng",
+      "character": "Shen"
+    },
+    {
+      "id": "nm6710967",
+      "name": "Karry Wang",
+      "character": "Emperor"
+    },
+    {
+      "id": "nm5394091",
+      "name": "Cheney Chen",
+      "character": "Imperial Officer"
+    },
+    {
+      "id": "nm1561982",
+      "name": "Pilou Asbæk",
+      "character": "Bouchard"
+    },
+    {
+      "id": "nm1485637",
+      "name": "Numan Acar",
+      "character": "Najid"
+    },
+    {
+      "id": "nm0161978",
+      "name": "Johnny Cicco",
+      "character": "Rizzetti"
+    },
+    {
+      "id": "nm6840609",
+      "name": "Vicky Yu",
+      "character": "Lieutenant Xiao Yu"
+    },
+    {
+      "id": "nm8240810",
+      "name": "Bing Liu",
+      "character": "Lin Mae's 2nd Lieutenant Li Qing"
+    }
+  ],
+  "countries": [
+    "China",
+    "Japan",
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Mandarin",
+    "Spanish"
+  ],
+  "color": "Color",
+  "filmweb_id": 657525,
+  "year": 2016,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjA3MjAzOTQxNF5BMl5BanBnXkFtZTgwOTc5OTY1OTE@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.9,
+      "votes": 160751,
+      "distribution": {
+        "1": 4406,
+        "2": 3499,
+        "3": 6546,
+        "4": 12692,
+        "5": 26452,
+        "6": 43498,
+        "7": 35126,
+        "8": 15447,
+        "9": 5284,
+        "10": 7801
+      },
+      "normalized": 3.4135
+    },
+    "filmweb": {
+      "rating": 5.73,
+      "votes": 54389,
+      "distribution": {
+        "1": 530,
+        "2": 1132,
+        "3": 3595,
+        "4": 5633,
+        "5": 11191,
+        "6": 15266,
+        "7": 10829,
+        "8": 4297,
+        "9": 1170,
+        "10": 746
+      },
+      "normalized": 2.9787
+    },
+    "jarek": {
+      "rating": 2,
+      "date_rated": "08.02.2017",
+      "normalized": 3.5003
+    },
+    "score": 3.2975
+  },
+  "polish_title": "Wielki Mur",
+  "silent": false,
+  "description_pl": "Uwięziony w labiryntach Wielkiego Muru Chińskiego najemnik (<a href=\"/osoba/?id=nm0000354\">Matt Damon</a>) odkrywa tajemnicę stojącą za powstaniem legendarnej budowli, jednego z cudów świata. Kiedy kolejne fale niepowstrzymanych, krwiożerczych bestii próbują przejąć kontrolę nad światem, chcąc obalić legendarny Wielki Mur Chiński, najemnik i opryszek William Garin staje na czele walki, która z szukającego przygód mężczyzny zmieni go w bohatera.",
+  "producers": [
+    {
+      "id": "nm0308672",
+      "name": "Alex Gartner"
+    },
+    {
+      "id": "nm0373116",
+      "name": "Eric Hedayat"
+    },
+    {
+      "id": "nm2906163",
+      "name": "Alex Hedlund"
+    },
+    {
+      "id": "nm0419169",
+      "name": "Jon Jashni"
+    },
+    {
+      "id": "nm6206158",
+      "name": "Peikang La"
+    },
+    {
+      "id": "nm0517281",
+      "name": "Peter Loehr"
+    },
+    {
+      "id": "nm0746273",
+      "name": "Charles Roven"
+    },
+    {
+      "id": "nm2949271",
+      "name": "Jillian Share"
+    },
+    {
+      "id": "nm2100078",
+      "name": "Thomas Tull"
+    },
+    {
+      "id": "nm0003342",
+      "name": "E. Bennett Walsh"
+    },
+    {
+      "id": "nm2279703",
+      "name": "Wang Zhang"
+    },
+    {
+      "id": "nm2798269",
+      "name": "Zhao Zhang"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm1014697",
+      "name": "Ramin Djawadi"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

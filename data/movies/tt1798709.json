@@ -1,0 +1,237 @@
+{
+  "imdb_id": "tt1798709",
+  "title": "Her",
+  "description": "In the near future, a lonely writer develops an unlikely relationship with an operating system designed to meet his every need.",
+  "runtime_minutes": 126,
+  "release_date": "10.01.2014",
+  "genres": [
+    "Drama",
+    "Romance",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm0001618",
+      "name": "Joaquin Phoenix"
+    },
+    {
+      "id": "nm0010736",
+      "name": "Amy Adams"
+    },
+    {
+      "id": "nm0424060",
+      "name": "Scarlett Johansson"
+    },
+    {
+      "id": "nm1913734",
+      "name": "Rooney Mara"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0005069",
+      "name": "Spike Jonze"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0005069",
+      "name": "Spike Jonze"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0001618",
+      "name": "Joaquin Phoenix",
+      "character": "Theodore"
+    },
+    {
+      "id": "nm0010736",
+      "name": "Amy Adams",
+      "character": "Amy"
+    },
+    {
+      "id": "nm0424060",
+      "name": "Scarlett Johansson",
+      "character": "Samantha"
+    },
+    {
+      "id": "nm1842419",
+      "name": "Lynn Adrianna Freedman",
+      "character": "Letter Writer #1"
+    },
+    {
+      "id": "nm0686014",
+      "name": "Lisa Renee Pitts",
+      "character": "Letter Writer #2"
+    },
+    {
+      "id": "nm2415610",
+      "name": "Gabe Gomez",
+      "character": "Letter Writer #3"
+    },
+    {
+      "id": "nm0695435",
+      "name": "Chris Pratt",
+      "character": "Paul"
+    },
+    {
+      "id": "nm2995162",
+      "name": "Artt Butler",
+      "character": "Text Voice"
+    },
+    {
+      "id": "nm6130314",
+      "name": "May Lindstrom",
+      "character": "Sexy Pregnant TV Star"
+    },
+    {
+      "id": "nm1913734",
+      "name": "Rooney Mara",
+      "character": "Catherine"
+    },
+    {
+      "id": "nm0352778",
+      "name": "Bill Hader",
+      "character": "Chat Room Friend #2"
+    },
+    {
+      "id": "nm1325419",
+      "name": "Kristen Wiig",
+      "character": "SexyKitten"
+    },
+    {
+      "id": "nm0424647",
+      "name": "Brian Johnson",
+      "character": "OS1 Commercial Lead"
+    },
+    {
+      "id": "nm0504762",
+      "name": "Matt Letscher",
+      "character": "Charles"
+    },
+    {
+      "id": "nm0005069",
+      "name": "Spike Jonze",
+      "character": "Alien Child"
+    },
+    {
+      "id": "nm1312575",
+      "name": "Olivia Wilde",
+      "character": "Blind Date"
+    },
+    {
+      "id": "nm6130315",
+      "name": "David Azar",
+      "character": "Theodore's Divorce Attorney"
+    },
+    {
+      "id": "nm6130316",
+      "name": "Guy Lewis",
+      "character": "Marriage Counselor"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 646395,
+  "year": 2013,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjA1Nzk0OTM2OF5BMl5BanBnXkFtZTgwNjU2NjEwMDE@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8,
+      "votes": 731837,
+      "distribution": {
+        "1": 7295,
+        "2": 3988,
+        "3": 5711,
+        "4": 9507,
+        "5": 20210,
+        "6": 51028,
+        "7": 132014,
+        "8": 231475,
+        "9": 165620,
+        "10": 104989
+      },
+      "normalized": 7.5394
+    },
+    "filmweb": {
+      "rating": 7.45,
+      "votes": 184463,
+      "distribution": {
+        "1": 582,
+        "2": 636,
+        "3": 2495,
+        "4": 3248,
+        "5": 9446,
+        "6": 19830,
+        "7": 46729,
+        "8": 62575,
+        "9": 30380,
+        "10": 8542
+      },
+      "normalized": 6.6142
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "16.04.2016",
+      "normalized": 7.2292
+    },
+    "score": 7.1276
+  },
+  "polish_title": "Ona",
+  "silent": false,
+  "description_pl": "Niezwykła historia miłosna, samotny pisarz - Theodore (<a href=\"/osoba/?id=nm0001618\">Joaquin Phoenix</a>) kupuje nowy system operacyjny, który jest tak zaprojektowany, aby spełnić wszystkie potrzeby użytkownika. Między nim, a jego systemem operacyjnym rozwija się romans... Ta nieprawdopodobna opowieść pokazuje jak wielki wpływ może mieć na nas nowoczesna technologia.",
+  "producers": [
+    {
+      "id": "nm2273482",
+      "name": "Chelsea Barnard"
+    },
+    {
+      "id": "nm2691892",
+      "name": "Megan Ellison"
+    },
+    {
+      "id": "nm0268409",
+      "name": "Natalie Farrey"
+    },
+    {
+      "id": "nm0005069",
+      "name": "Spike Jonze"
+    },
+    {
+      "id": "nm0484504",
+      "name": "Vincent Landay"
+    },
+    {
+      "id": "nm0526917",
+      "name": "Daniel Lupi"
+    },
+    {
+      "id": "nm0608090",
+      "name": "Samantha Morton"
+    },
+    {
+      "id": "nm0810155",
+      "name": "Thomas Patrick Smith"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm1841348",
+      "name": "Arcade Fire"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0887227",
+      "name": "Hoyte van Hoytema"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "nm0578821",
+  "name": "J. Michael Mendel",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzU2Yzk2NzctMjc2OS00MTYzLWFiOTAtMDQzZTlkNmZkMjI1XkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0116695",
+      "title": "Jerry Maguire",
+      "year": 1996,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt2861424",
+      "title": "Rick and Morty",
+      "year": 2013,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "birth_date": "24.09.1964",
+  "death_date": "22.09.2019",
+  "birth_location": "Radford, Virginia, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 424648,
+  "name_pl": "J. Michael Mendel",
+  "birth_location_pl": "Radford, Wirginia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 424648
+}

@@ -1,0 +1,282 @@
+{
+  "imdb_id": "tt0478134",
+  "title": "In the Valley of Elah",
+  "description": "A retired military investigator works with a police detective to uncover the truth behind his son's disappearance following his return from a tour of duty in Iraq.",
+  "runtime_minutes": 121,
+  "release_date": "28.09.2007",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "stars": [
+    {
+      "id": "nm0000169",
+      "name": "Tommy Lee Jones"
+    },
+    {
+      "id": "nm0000234",
+      "name": "Charlize Theron"
+    },
+    {
+      "id": "nm0006958",
+      "name": "Jonathan Tucker"
+    },
+    {
+      "id": "nm0000574",
+      "name": "Jason Patric"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0353673",
+      "name": "Paul Haggis"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0353673",
+      "name": "Paul Haggis"
+    },
+    {
+      "id": "nm1676793",
+      "name": "Mark Boal"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000169",
+      "name": "Tommy Lee Jones",
+      "character": "Hank Deerfield"
+    },
+    {
+      "id": "nm0000234",
+      "name": "Charlize Theron",
+      "character": "Det. Emily Sanders"
+    },
+    {
+      "id": "nm0006958",
+      "name": "Jonathan Tucker",
+      "character": "Mike Deerfield"
+    },
+    {
+      "id": "nm0000574",
+      "name": "Jason Patric",
+      "character": "Lt. Kirklander"
+    },
+    {
+      "id": "nm0000215",
+      "name": "Susan Sarandon",
+      "character": "Joan Deerfield"
+    },
+    {
+      "id": "nm0290556",
+      "name": "James Franco",
+      "character": "Sgt. Dan Carnelli"
+    },
+    {
+      "id": "nm0179224",
+      "name": "Barry Corbin",
+      "character": "Arnold Bickman"
+    },
+    {
+      "id": "nm0000982",
+      "name": "Josh Brolin",
+      "character": "Chief Buchwald"
+    },
+    {
+      "id": "nm0004920",
+      "name": "Frances Fisher",
+      "character": "Evie"
+    },
+    {
+      "id": "nm1434871",
+      "name": "Wes Chatham",
+      "character": "Corporal Steve Penning"
+    },
+    {
+      "id": "nm2474864",
+      "name": "Jake McLaughlin",
+      "character": "Spc. Gordon Bonner"
+    },
+    {
+      "id": "nm1419635",
+      "name": "Mehcad Brooks",
+      "character": "Spc. Ennis Long"
+    },
+    {
+      "id": "nm0245145",
+      "name": "Wayne Duvall",
+      "character": "Detective Nugent"
+    },
+    {
+      "id": "nm1695381",
+      "name": "Roman Arabia",
+      "character": "Private Robert Ortiez"
+    },
+    {
+      "id": "nm0109785",
+      "name": "Brent Briscoe",
+      "character": "Detective Hodge"
+    },
+    {
+      "id": "nm0784833",
+      "name": "Greg Serano",
+      "character": "Detective Manny Nunez"
+    },
+    {
+      "id": "nm0786641",
+      "name": "Brent Sexton",
+      "character": "Lt. Burke"
+    },
+    {
+      "id": "nm2044770",
+      "name": "Devin Brochu",
+      "character": "David Sanders"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 374634,
+  "year": 2007,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzQwNzI3NzMtMGQ1Ny00NzU0LWIxMDUtMTNjMDc5M2I5NjQ0XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.1,
+      "votes": 77699,
+      "distribution": {
+        "1": 864,
+        "2": 355,
+        "3": 605,
+        "4": 1287,
+        "5": 3617,
+        "6": 11852,
+        "7": 27434,
+        "8": 20655,
+        "9": 6847,
+        "10": 4183
+      },
+      "normalized": 5.7197
+    },
+    "filmweb": {
+      "rating": 7.12,
+      "votes": 22777,
+      "distribution": {
+        "1": 37,
+        "2": 22,
+        "3": 122,
+        "4": 322,
+        "5": 1062,
+        "6": 3766,
+        "7": 9425,
+        "8": 6279,
+        "9": 1183,
+        "10": 559
+      },
+      "normalized": 5.851
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "12.08.2010",
+      "normalized": 5.6855
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "09.05.2008",
+      "normalized": 6.3474
+    },
+    "score": 5.9009
+  },
+  "polish_title": "W Dolinie Elah",
+  "silent": false,
+  "description_pl": "Hank Deerfield (<a href=\"/osoba/?id=nm0000169\">Tommy Lee Jones</a>), weteran wojenny, rozpoczyna na własną rękę śledztwo w sprawie zaginięcia swojego syna, Mike'a. Jak wynika z informacji przekazanych przez wojsko, Mike, dotąd wzorowy żołnierz, zdezerterował tuż po powrocie z wojny w Iraku. Wszelkie ślady, na które trafia Deerfield, wskazują jednak, że jego syn został zamordowany.",
+  "producers": [
+    {
+      "id": "nm0008903",
+      "name": "Karim Abouobayd"
+    },
+    {
+      "id": "nm2038481",
+      "name": "Laurence Becsey"
+    },
+    {
+      "id": "nm1950898",
+      "name": "Emilio Diez Barroso"
+    },
+    {
+      "id": "nm0270549",
+      "name": "Erik Feig"
+    },
+    {
+      "id": "nm2303675",
+      "name": "David Garrett"
+    },
+    {
+      "id": "nm2040941",
+      "name": "Gregory J. Gettas"
+    },
+    {
+      "id": "nm0353673",
+      "name": "Paul Haggis"
+    },
+    {
+      "id": "nm0370445",
+      "name": "Bob Hayward"
+    },
+    {
+      "id": "nm0392444",
+      "name": "James Holt"
+    },
+    {
+      "id": "nm0968789",
+      "name": "Darlene Caamano Loquet"
+    },
+    {
+      "id": "nm1733096",
+      "name": "Dana Maksimovich"
+    },
+    {
+      "id": "nm2303796",
+      "name": "Andrew Matosich"
+    },
+    {
+      "id": "nm0719612",
+      "name": "Deborah Rennard"
+    },
+    {
+      "id": "nm1646381",
+      "name": "Steve Samuels"
+    },
+    {
+      "id": "nm0905163",
+      "name": "Patrick Wachsberger"
+    },
+    {
+      "id": "nm0937262",
+      "name": "Stan Wlodkowski"
+    },
+    {
+      "id": "nm4111213",
+      "name": "Alex Garcia"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006142",
+      "name": "Mark Isham"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005683",
+      "name": "Roger Deakins"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

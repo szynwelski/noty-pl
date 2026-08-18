@@ -1,0 +1,77 @@
+{
+  "id": "nm0001140",
+  "name": "Philip K. Dick",
+  "filmography": [
+    {
+      "imdb_id": "tt0083658",
+      "title": "Blade Runner",
+      "year": 1982,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0100802",
+      "title": "Total Recall",
+      "year": 1990,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0160399",
+      "title": "Impostor",
+      "year": 2001,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0181689",
+      "title": "Minority Report",
+      "year": 2002,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0338337",
+      "title": "Paycheck",
+      "year": 2003,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt1385826",
+      "title": "The Adjustment Bureau",
+      "year": 2011,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt1856101",
+      "title": "Blade Runner 2049",
+      "year": 2017,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTY4MDI2NTE0M15BMl5BanBnXkFtZTgwNjI0NDY0MTI@._V1_.jpg",
+  "birth_date": "16.12.1928",
+  "death_date": "02.03.1982",
+  "birth_location": "Chicago, Illinois, USA",
+  "height": "1.78 m",
+  "filmweb_id": 430490,
+  "name_pl": "Philip K. Dick",
+  "birth_location_pl": "Chicago, Illinois",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 430490
+}

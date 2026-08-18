@@ -1,0 +1,48 @@
+{
+  "id": "nm0604702",
+  "name": "Harry Morgan",
+  "filmography": [
+    {
+      "imdb_id": "tt0036244",
+      "title": "The Ox-Bow Incident",
+      "year": 1943,
+      "roles": [
+        "cast"
+      ],
+      "character": "Art Croft"
+    },
+    {
+      "imdb_id": "tt0044706",
+      "title": "High Noon",
+      "year": 1952,
+      "roles": [
+        "cast"
+      ],
+      "character": "Sam Fuller"
+    },
+    {
+      "imdb_id": "tt0053946",
+      "title": "Inherit the Wind",
+      "year": 1960,
+      "roles": [
+        "cast"
+      ],
+      "character": "Judge Mel Coffey"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYjE3ZDQzOTEtYTcyZC00ZjNjLTk3MzMtNDM1ZWEyODQ0ZWMzXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "10.04.1915",
+  "death_date": "07.12.2011",
+  "birth_location": "Detroit, Michigan, USA",
+  "height": "1.68 m",
+  "filmweb_id": 43248,
+  "name_pl": "Harry Morgan",
+  "birth_location_pl": "Detroit, Michigan",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 43248
+}

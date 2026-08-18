@@ -1,0 +1,43 @@
+{
+  "id": "nm3723390",
+  "name": "Hildur Guðnadóttir",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZmQ1MGU5MDAtY2I3ZC00ZjQ5LWFiMjEtNjE3M2ZmNzlkYWE2XkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt5052474",
+      "title": "Sicario: Day of the Soldado",
+      "year": 2018,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt7366338",
+      "title": "Chernobyl",
+      "year": 2019,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt7286456",
+      "title": "Joker",
+      "year": 2019,
+      "roles": [
+        "composer"
+      ]
+    }
+  ],
+  "birth_date": "04.09.1982",
+  "birth_location": "Iceland",
+  "imdb_scraped": true,
+  "filmweb_id": 1673378,
+  "name_pl": "Hildur Guðnadóttir",
+  "birth_location_pl": "Reykjavik",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Islandia"
+  ],
+  "wikidata_fw_id": 1673378
+}

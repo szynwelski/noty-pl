@@ -1,0 +1,144 @@
+{
+  "imdb_id": "tt6810922",
+  "title": "Out of Frame",
+  "description": "Besides breaking the law, we have no other choices.",
+  "runtime_minutes": 95,
+  "release_date": "17.01.2016",
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm8013595",
+      "name": "Colin Wong"
+    },
+    {
+      "id": "nm9343850",
+      "name": "Kristy Shan"
+    },
+    {
+      "id": "nm9198291",
+      "name": "Yihao Miao"
+    },
+    {
+      "id": "nm9760130",
+      "name": "Li Yuan"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm1439302",
+      "name": "William Kwok"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm3756134",
+      "name": "Qing Wang"
+    },
+    {
+      "id": "nm5596077",
+      "name": "Kuo Zheng"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm8013595",
+      "name": "Colin Wong",
+      "character": "Tang"
+    },
+    {
+      "id": "nm9343850",
+      "name": "Kristy Shan",
+      "character": ""
+    },
+    {
+      "id": "nm9198291",
+      "name": "Yihao Miao",
+      "character": ""
+    },
+    {
+      "id": "nm9760130",
+      "name": "Li Yuan",
+      "character": ""
+    },
+    {
+      "id": "nm9456160",
+      "name": "Tiao Ma",
+      "character": ""
+    }
+  ],
+  "countries": [
+    "Hong Kong",
+    "China"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "color": "Color",
+  "filmweb_id": 795012,
+  "year": 2016,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzVmMGNlYTItZjM2ZS00OGQ1LThjYjQtNzlkMzM5NjY0MzA3XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "votes": 0,
+      "normalized": 5.5
+    },
+    "filmweb": {
+      "rating": 6.12,
+      "votes": 17,
+      "distribution": {
+        "2": 0,
+        "3": 1,
+        "4": 1,
+        "5": 3,
+        "6": 7,
+        "7": 2,
+        "8": 1,
+        "9": 2,
+        "10": 0
+      },
+      "normalized": 5.108
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "18.10.2017",
+      "normalized": 5.6855
+    },
+    "score": 5.4312
+  },
+  "polish_title": "Poza ramką",
+  "silent": false,
+  "description_pl": "Tang jest artystą we współczesnych Chinach. Przez lata tworzył \"Czarne obrazy\" - rzucał czarną farbą na czarne płótno. Historia rozpoczyna się, gdy artystyczna osada, w której mieszka Tang zostaje zniszczona przez władze. On sam dostaje się pod nadzór policyjny za \"utrudnianie egzekwowania prawa\". W rezultacie wraz z żoną i córką muszą przenieść się do innej artystycznej wioski, East Village. Życie nie jest tu łatwe. Tysiące artystów konkuruje ze sobą i żyje w ubóstwie. Tang tworzy, wykorzystując własne ciało i krew. Protestuje w ten sposób przeciwko przemocy i opresji, których doświadcza.",
+  "producers": [
+    {
+      "id": "nm0159470",
+      "name": "Chow Keung"
+    },
+    {
+      "id": "nm1439302",
+      "name": "William Kwok"
+    },
+    {
+      "id": "nm5298412",
+      "name": "Roger Lin"
+    },
+    {
+      "id": "nm5596061",
+      "name": "Ning Sun"
+    },
+    {
+      "id": "nm0939212",
+      "name": "Lawrence Philip Wong"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm5298412",
+      "name": "Roger Lin"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

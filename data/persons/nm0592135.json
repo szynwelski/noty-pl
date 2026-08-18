@@ -1,0 +1,32 @@
+{
+  "id": "nm0592135",
+  "name": "Lin-Manuel Miranda",
+  "filmography": [
+    {
+      "imdb_id": "tt8503618",
+      "title": "Hamilton",
+      "year": 2020,
+      "roles": [
+        "writer",
+        "star",
+        "cast",
+        "composer",
+        "producer"
+      ],
+      "character": "Alexander Hamilton"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTU0MDM2Mzg0OV5BMl5BanBnXkFtZTgwMjA1MDE2MDI@._V1_.jpg",
+  "birth_date": "16.01.1980",
+  "birth_location": "New York City, New York, USA",
+  "height": "1.75 m",
+  "imdb_scraped": true,
+  "filmweb_id": 879224,
+  "name_pl": "Lin-Manuel Miranda",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

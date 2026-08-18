@@ -1,0 +1,33 @@
+{
+  "id": "nm0818201",
+  "name": "Pierre Spengler",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZGMyYjhhNTctMWZlMi00ZjgxLTg2YjMtMmE2Y2FlYzQ3OWI2XkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0078346",
+      "title": "Superman",
+      "year": 1978,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0114787",
+      "title": "Underground",
+      "year": 1995,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "birth_date": "05.06.1947",
+  "birth_location": "Paris, France",
+  "imdb_scraped": true,
+  "filmweb_id": 94662,
+  "name_pl": "Pierre Spengler",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja"
+  ]
+}

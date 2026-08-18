@@ -1,0 +1,197 @@
+{
+  "imdb_id": "tt0094982",
+  "title": "Dekalog, jeden",
+  "description": "A woman worries about her nephew's spiritual education, as his life and his father's are run on their home computer.",
+  "runtime_minutes": 55,
+  "release_date": "10.12.1989",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0053017",
+      "name": "Henryk Baranowski"
+    },
+    {
+      "id": "nm0458352",
+      "name": "Wojciech Klata"
+    },
+    {
+      "id": "nm0464578",
+      "name": "Maja Komorowska"
+    },
+    {
+      "id": "nm0054007",
+      "name": "Artur Barcis"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001425",
+      "name": "Krzysztof Kieślowski"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0682830",
+      "name": "Krzysztof Piesiewicz"
+    },
+    {
+      "id": "nm0001425",
+      "name": "Krzysztof Kieślowski"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0053017",
+      "name": "Henryk Baranowski",
+      "character": "Krzysztof"
+    },
+    {
+      "id": "nm0458352",
+      "name": "Wojciech Klata",
+      "character": "Pawel"
+    },
+    {
+      "id": "nm0464578",
+      "name": "Maja Komorowska",
+      "character": "Irena"
+    },
+    {
+      "id": "nm0054007",
+      "name": "Artur Barcis",
+      "character": "Man in the Sheepskin"
+    },
+    {
+      "id": "nm2974796",
+      "name": "Agnieszka Brustman",
+      "character": "Chess Player"
+    },
+    {
+      "id": "nm0097114",
+      "name": "Maciej Borninski",
+      "character": "Jacek's father"
+    },
+    {
+      "id": "nm0586650",
+      "name": "Magdalena Mikolajczak",
+      "character": "Journalist"
+    },
+    {
+      "id": "nm0321601",
+      "name": "Maria Gladkowska",
+      "character": "English teacher"
+    },
+    {
+      "id": "nm0806400",
+      "name": "Anna Smal-Romanska",
+      "character": ""
+    },
+    {
+      "id": "nm0437694",
+      "name": "Ewa Kania",
+      "character": "Ewa Jezierska"
+    },
+    {
+      "id": "nm0805633",
+      "name": "Maciej Slawinski",
+      "character": "School Director"
+    },
+    {
+      "id": "nm0457270",
+      "name": "Aleksandra Kisielewska",
+      "character": "Jacek's mother"
+    },
+    {
+      "id": "nm0944108",
+      "name": "Piotr Wyrzykowski",
+      "character": ""
+    },
+    {
+      "id": "nm0538283",
+      "name": "Aleksandra Majsiuk",
+      "character": "Ola"
+    },
+    {
+      "id": "nm0942982",
+      "name": "Bozena Wróbel",
+      "character": ""
+    }
+  ],
+  "countries": [
+    "Poland",
+    "West Germany"
+  ],
+  "languages": [
+    "Polish"
+  ],
+  "color": "Color",
+  "filmweb_id": 32727,
+  "year": 1989,
+  "type": "tvEpisode",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZmZjMDZiYmItZmZkYS00ZDI3LThhMTItMDc1MjBkYmM1NDM4XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8.5,
+      "votes": 8372,
+      "distribution": {
+        "1": 88,
+        "2": 78,
+        "3": 49,
+        "4": 62,
+        "5": 127,
+        "6": 362,
+        "7": 960,
+        "8": 2103,
+        "9": 2230,
+        "10": 2313
+      }
+    },
+    "filmweb": {
+      "rating": 7.77,
+      "votes": 43334,
+      "distribution": {
+        "1": 159,
+        "2": 86,
+        "3": 291,
+        "4": 414,
+        "5": 1154,
+        "6": 3252,
+        "7": 9976,
+        "8": 16661,
+        "9": 7972,
+        "10": 3369
+      }
+    },
+    "michal": {
+      "rating": 10,
+      "date_rated": "21.10.2004"
+    }
+  },
+  "polish_title": "Dekalog I",
+  "silent": false,
+  "description_pl": "Pierwsza część cyklu odpowiada pierwszemu z dziesięciu przykazań - \"Nie będziesz miał bogów cudzych przede mną\". W scenariuszu ujęte zostało ono w sposób podstawowy - jest to problem istnienia Boga w ogóle, a także kreowania przez współczesnego człowieka fałszywych bożków. Twórcy filmu nieprzypadkowo owym bożkiem uczynili komputer - chcieli bowiem uniknąć tradycyjnej, biblijnej wykładni grzechu, sprzeniewierzenia się boskim nakazom.",
+  "producers": [
+    {
+      "id": "nm0119557",
+      "name": "Andrzej Buhl"
+    },
+    {
+      "id": "nm0161541",
+      "name": "Ryszard Chutkowski"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006237",
+      "name": "Zbigniew Preisner"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0954009",
+      "name": "Wieslaw Zdort"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "nm0783241",
+  "name": "Jamie Selkirk",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTY4NDgzNDkwMF5BMl5BanBnXkFtZTYwNTUyODI1._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0120737",
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0167261",
+      "title": "The Lord of the Rings: The Two Towers",
+      "year": 2002,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0167260",
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": 2003,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "imdb_scraped": true,
+  "filmweb_id": 302082,
+  "name_pl": "Jamie Selkirk",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Nowa Zelandia"
+  ]
+}

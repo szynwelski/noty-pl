@@ -1,0 +1,168 @@
+{
+  "imdb_id": "tt20239248",
+  "title": "Swarm",
+  "description": "Two human scientists study the secrets of an ancient alien entity -- but soon learn the horrible price of survival in a hostile universe.",
+  "runtime_minutes": 17,
+  "release_date": "20.05.2022",
+  "genres": [
+    "Animation",
+    "Short",
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Drama",
+    "Fantasy",
+    "Horror",
+    "Mystery",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0206257",
+      "name": "Rosario Dawson"
+    },
+    {
+      "id": "nm0313464",
+      "name": "Jason George"
+    },
+    {
+      "id": "nm0851317",
+      "name": "Fred Tatasciore"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm1783265",
+      "name": "Tim Miller"
+    },
+    {
+      "id": "nm0950775",
+      "name": "Jennifer Yuh Nelson"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1790731",
+      "name": "Bruce Sterling"
+    },
+    {
+      "id": "nm1783265",
+      "name": "Tim Miller"
+    },
+    {
+      "id": "nm3664884",
+      "name": "Philip Gelatt"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0206257",
+      "name": "Rosario Dawson",
+      "character": "Dr. Mirny"
+    },
+    {
+      "id": "nm0313464",
+      "name": "Jason George",
+      "character": "Afriel"
+    },
+    {
+      "id": "nm0851317",
+      "name": "Fred Tatasciore",
+      "character": "Springtail"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 857111,
+  "year": 2022,
+  "type": "tvEpisode",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzlmMWRhMTEtMDMyYi00ZTk1LTgzZjQtOGVlNTI4ZmUwZjAxXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.9,
+      "votes": 12087,
+      "distribution": {
+        "1": 158,
+        "2": 110,
+        "3": 199,
+        "4": 381,
+        "5": 993,
+        "6": 2297,
+        "7": 3649,
+        "8": 2387,
+        "9": 1028,
+        "10": 885
+      }
+    },
+    "filmweb": {
+      "rating": 5.43,
+      "votes": 1393,
+      "distribution": {
+        "1": 68,
+        "2": 62,
+        "3": 139,
+        "4": 177,
+        "5": 295,
+        "6": 276,
+        "7": 155,
+        "8": 75,
+        "9": 35,
+        "10": 111
+      }
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "31.10.2022"
+    }
+  },
+  "polish_title": "Rój",
+  "silent": false,
+  "description_pl": "Historia rodziny, która w walce o wolność i niezależność zmienia swoje dotychczasowe życie i zamieszkuje na odizolowanej od rzeczywistości wyspie. Rodzice i dwójka ich dorastających dzieci żyją w zgodzie z naturą i niemal do perfekcji doprowadzają sztukę przetrwania. Żyją zgodnie z ideą samowystarczalności, minimalizmu, ekologii, a dzięki rytuałom tworzą namiastkę wspólnoty. W tym układzie to ojciec jest głową rodziny i decyduje o jej losie, uczy przetrwania, wpaja ideę absolutnej wolności, dającą poczucie szczęścia, jakie niesie życie z dala od cywilizacji. Podział ról i zasady wydają się proste, jednak szybko pojawiają się rywalizacja i bunt. Piętrzące się rodzinne problemy i napięcia zaczynają zakłócać dotychczasowy spokój i relacje, zmieniając układ sił w rodzinie. Sytuację pogarsza kolejna zima, która może być wyjątkowo trudna, a zapasy jedzenia i wody mogą się okazać niewystarczające. W głowach członków rodziny rodzi się strach, zostają postawieni przed coraz trudniejszymi wyborami…",
+  "producers": [
+    {
+      "id": "nm5857796",
+      "name": "Savannah Aghassian"
+    },
+    {
+      "id": "nm8193037",
+      "name": "Jessica Ambrose"
+    },
+    {
+      "id": "nm0232433",
+      "name": "Joshua Donen"
+    },
+    {
+      "id": "nm0000399",
+      "name": "David Fincher"
+    },
+    {
+      "id": "nm2126361",
+      "name": "Victoria L. Howard"
+    },
+    {
+      "id": "nm10380524",
+      "name": "Jennifer Miller"
+    },
+    {
+      "id": "nm1783265",
+      "name": "Tim Miller"
+    },
+    {
+      "id": "nm0793276",
+      "name": "Al Shier"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0432725",
+      "name": "Tom Holkenborg"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

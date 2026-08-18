@@ -1,0 +1,100 @@
+{
+  "imdb_id": "tt0000003",
+  "title": "Poor Pierrot",
+  "description": "One night, Arlequin comes to see his lover Colombine. But then Pierrot knocks at the door and Colombine and Arlequin hide. Pierrot starts singing but Arlequin scares him and the poor man goes away.",
+  "runtime_minutes": 5,
+  "release_date": "28.10.1892",
+  "genres": [
+    "Animation",
+    "Short",
+    "Comedy",
+    "Romance"
+  ],
+  "top_cast": [],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": null,
+  "directors": [
+    {
+      "id": "nm0721526",
+      "name": "Émile Reynaud"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0721526",
+      "name": "Émile Reynaud"
+    }
+  ],
+  "filmweb_id": 198104,
+  "year": 1892,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTJjNGM5ZjEtMTVkMi00ODc2LWE5N2MtN2NhNGQyMzNmZDI2XkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Pauvre Pierrot",
+  "ratings": {
+    "imdb": {
+      "rating": 6.4,
+      "votes": 2370,
+      "distribution": {
+        "1": 58,
+        "2": 55,
+        "3": 55,
+        "4": 123,
+        "5": 297,
+        "6": 581,
+        "7": 602,
+        "8": 281,
+        "9": 97,
+        "10": 221
+      },
+      "normalized": 4.5656
+    },
+    "filmweb": {
+      "rating": 5.65,
+      "votes": 426,
+      "distribution": {
+        "1": 6,
+        "2": 23,
+        "3": 17,
+        "4": 56,
+        "5": 92,
+        "6": 111,
+        "7": 58,
+        "8": 31,
+        "9": 20,
+        "10": 12
+      },
+      "normalized": 3.8326
+    },
+    "jarek": {
+      "rating": 8,
+      "date_rated": "11.12.2016",
+      "normalized": 7.8989
+    },
+    "score": 5.4324
+  },
+  "polish_title": "Pauvre Pierrot",
+  "silent": true,
+  "description_pl": "Pewnej nocy, Arlequin przychodzi zobaczyć się ze swoją ukochaną Colombiane. W pewnym momencie Pierrot puka do drzwi, Colombiane i Arlequin ukrywają się. Pierrot zaczyna śpiewać, wtedy Arlequin straszy go i biedy człowiek odchodzi.",
+  "producers": [
+    {
+      "id": "nm1770680",
+      "name": "Julien Pappé"
+    },
+    {
+      "id": "nm0721526",
+      "name": "Émile Reynaud"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm1335271",
+      "name": "Gaston Paulin"
+    }
+  ],
+  "fetched_at": "2026-08-15"
+}

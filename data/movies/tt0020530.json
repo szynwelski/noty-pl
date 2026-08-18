@@ -1,0 +1,163 @@
+{
+  "imdb_id": "tt0020530",
+  "title": "Un chien andalou",
+  "description": "Luis Buñuel and Salvador Dalí present 16 minutes of bizarre, surreal imagery.",
+  "runtime_minutes": 16,
+  "release_date": "06.06.1929",
+  "genres": [
+    "Short",
+    "Fantasy",
+    "Horror"
+  ],
+  "stars": [
+    {
+      "id": "nm0060715",
+      "name": "Pierre Batcheff"
+    },
+    {
+      "id": "nm0546540",
+      "name": "Simone Mareuil"
+    },
+    {
+      "id": "nm0000320",
+      "name": "Luis Buñuel"
+    },
+    {
+      "id": "nm0182026",
+      "name": "Pancho Cossío"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000320",
+      "name": "Luis Buñuel"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0198557",
+      "name": "Salvador Dalí"
+    },
+    {
+      "id": "nm0000320",
+      "name": "Luis Buñuel"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0060715",
+      "name": "Pierre Batcheff",
+      "character": "Man"
+    },
+    {
+      "id": "nm0546540",
+      "name": "Simone Mareuil",
+      "character": "Young Girl"
+    },
+    {
+      "id": "nm0000320",
+      "name": "Luis Buñuel",
+      "character": "Man in Prologue"
+    },
+    {
+      "id": "nm0182026",
+      "name": "Pancho Cossío",
+      "character": "Stroller"
+    },
+    {
+      "id": "nm0198557",
+      "name": "Salvador Dalí",
+      "character": "Seminarist"
+    },
+    {
+      "id": "nm0261116",
+      "name": "Juan Esplandiu",
+      "character": "Stroller"
+    },
+    {
+      "id": "nm0393022",
+      "name": "Robert Hommet",
+      "character": "Young Man"
+    },
+    {
+      "id": "nm0555490",
+      "name": "Marval",
+      "character": "Seminarist"
+    },
+    {
+      "id": "nm0582000",
+      "name": "Fano Messan",
+      "character": "Hermaphrodite"
+    },
+    {
+      "id": "nm0210048",
+      "name": "Jaume Miravitlles",
+      "character": "Fat Seminarist"
+    }
+  ],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "French"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 906,
+  "year": 1929,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BY2QwOTliMzMtM2JiMy00MmZjLThjZTMtNDhhZmY2MGFiNTlmXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.6,
+      "votes": 57017,
+      "distribution": {
+        "1": 1030,
+        "2": 634,
+        "3": 782,
+        "4": 1183,
+        "5": 2585,
+        "6": 5275,
+        "7": 11723,
+        "8": 15608,
+        "9": 8278,
+        "10": 9919
+      },
+      "normalized": 6.5744
+    },
+    "filmweb": {
+      "rating": 7.36,
+      "votes": 32959,
+      "distribution": {
+        "1": 379,
+        "2": 244,
+        "3": 546,
+        "4": 692,
+        "5": 1777,
+        "6": 3805,
+        "7": 8400,
+        "8": 9968,
+        "9": 4473,
+        "10": 2675
+      },
+      "normalized": 6.3765
+    },
+    "jarek": {
+      "rating": 9,
+      "date_rated": "31.08.2010",
+      "normalized": 8.8973
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "19.10.2005",
+      "normalized": 7.2292
+    },
+    "score": 7.2694
+  },
+  "polish_title": "Pies andaluzyjski",
+  "silent": true,
+  "description_pl": "Niespełna 20-minutowy film, który stał się początkiem kina surrealistycznego. Obraz składa się z kilku luźnych scen, które nie pozostają ze sobą w żadnym konkretnym związku. Jedyną rzeczą, która je łączy jest chęć zaszokowania widza. Oglądamy zatem człowieka trzymającego na sznurku obciętą dłoń, zbliżenie rozcinanego brzytwą oka, czy dwa fortepiany, wewnątrz których znajdują się rozkładające ciała osłów.",
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-15"
+}

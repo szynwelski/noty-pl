@@ -1,0 +1,230 @@
+{
+  "imdb_id": "tt15495540",
+  "title": "Without Air",
+  "description": "When high-school literature teacher Ana Bauch innocently recommends a film to her students, a parent's complaint spirals her life into chaos.",
+  "runtime_minutes": 105,
+  "release_date": "02.11.2023",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm10245133",
+      "name": "Ágnes Krasznahorkai"
+    },
+    {
+      "id": "nm4704504",
+      "name": "Tünde Skovrán"
+    },
+    {
+      "id": "nm1237560",
+      "name": "Áron Dimény"
+    },
+    {
+      "id": "nm12969950",
+      "name": "Soma Sándor"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm9601677",
+      "name": "Katalin Moldovai"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm9601677",
+      "name": "Katalin Moldovai"
+    },
+    {
+      "id": "nm9725075",
+      "name": "Zita Palóczi"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm10245133",
+      "name": "Ágnes Krasznahorkai",
+      "character": "Ana"
+    },
+    {
+      "id": "nm4704504",
+      "name": "Tünde Skovrán",
+      "character": "Éva"
+    },
+    {
+      "id": "nm1237560",
+      "name": "Áron Dimény",
+      "character": "Márk"
+    },
+    {
+      "id": "nm12969950",
+      "name": "Soma Sándor",
+      "character": "Viktor"
+    },
+    {
+      "id": "nm2138366",
+      "name": "Ágnes Lõrincz",
+      "character": "Adél"
+    },
+    {
+      "id": "nm5418932",
+      "name": "Zsolt Bölönyi",
+      "character": "Ákos"
+    },
+    {
+      "id": "nm1242403",
+      "name": "Eszter Tompa",
+      "character": "Réka"
+    },
+    {
+      "id": "nm3986302",
+      "name": "Anna Szász",
+      "character": "Margit"
+    },
+    {
+      "id": "nm7895061",
+      "name": "Barna Bokor",
+      "character": "Botond"
+    },
+    {
+      "id": "nm16907429",
+      "name": "László Zsolt Lung",
+      "character": "Country Manager 1"
+    },
+    {
+      "id": "nm16907430",
+      "name": "Szilárd Szöllõsi Pénzes",
+      "character": "Country Manager 2"
+    },
+    {
+      "id": "nm5419513",
+      "name": "Tekla Tordai",
+      "character": "Teréz"
+    },
+    {
+      "id": "nm16907433",
+      "name": "Beáta Ildikó Fülöp",
+      "character": "Edit"
+    },
+    {
+      "id": "nm16907431",
+      "name": "Norbert-László Masu",
+      "character": "László"
+    },
+    {
+      "id": "nm10327167",
+      "name": "Gyöngyvér Vajda",
+      "character": "Erika"
+    },
+    {
+      "id": "nm16907428",
+      "name": "Gabriella Bartalis",
+      "character": "Ágnes"
+    },
+    {
+      "id": "nm16907432",
+      "name": "Szilárd Gáspár-Barra",
+      "character": "Tibi"
+    },
+    {
+      "id": "nm14738555",
+      "name": "Barbara Kerekes",
+      "character": "Lilla"
+    }
+  ],
+  "countries": [
+    "Hungary"
+  ],
+  "languages": [
+    "Hungarian",
+    "English",
+    "Romanian"
+  ],
+  "color": "Color",
+  "filmweb_id": 10041525,
+  "year": 2023,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZDQ5Mzg4YmItYWI2Yy00MjRjLTllNmQtYWQzYmI2MmQxOTFlXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Elfogy a levegõ",
+  "ratings": {
+    "imdb": {
+      "rating": 7.2,
+      "votes": 1169,
+      "distribution": {
+        "1": 32,
+        "2": 7,
+        "3": 14,
+        "4": 17,
+        "5": 56,
+        "6": 154,
+        "7": 392,
+        "8": 284,
+        "9": 107,
+        "10": 106
+      },
+      "normalized": 5.6492
+    },
+    "filmweb": {
+      "rating": 6.98,
+      "votes": 65,
+      "distribution": {
+        "2": 0,
+        "3": 0,
+        "4": 2,
+        "5": 6,
+        "6": 10,
+        "7": 28,
+        "8": 14,
+        "9": 2,
+        "10": 3
+      },
+      "normalized": 5.2806
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "20.10.2023",
+      "normalized": 7.1247
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "17.10.2023",
+      "normalized": 7.2292
+    },
+    "score": 6.3209
+  },
+  "polish_title": "Bez powietrza",
+  "silent": false,
+  "description_pl": "Ana, nauczycielka literatury, zostaje oskarżona o niewłaściwe zachowanie, ponieważ zasugerowała swoim 17-letnim uczniom obejrzenie filmu \"<a href=\"/film/?id=tt0114702\">Całkowite zaćmienie</a>\" <a href=\"/osoba/?id=nm0002140\">Agnieszki Holland</a>, aby mogli lepiej zrozumieć twórczość Rimbauda. Musi zdecydować, czy stanąć w obronie wartości, które reprezentuje, czy też po cichu się wycofać. Rozpoczyna absurdalną walkę o usprawiedliwienie siebie, ale dyrektor szkoły, Eva, powoli się wycofuje, co zaczyna wpływać na ich dobre osobiste relacje. Lokalna prasa pisze o sprawie, a skandal, który następuje, ma nieprzewidywalne konsekwencje dla jej życia i życia ucznia, Victora, którego ojciec złożył skargę. Głównymi tematami filmu są kwestie akceptacji, bycia nauczycielem, natury władzy i opresji.",
+  "producers": [
+    {
+      "id": "nm8328901",
+      "name": "Zsuzsi Gyurin"
+    },
+    {
+      "id": "nm3224636",
+      "name": "Bela Attila Kovacs"
+    },
+    {
+      "id": "nm9601677",
+      "name": "Katalin Moldovai"
+    },
+    {
+      "id": "nm0611274",
+      "name": "András Muhi"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm5372328",
+      "name": "Tibor Cári"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm4367096",
+      "name": "András Táborosi"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

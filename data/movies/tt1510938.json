@@ -1,0 +1,131 @@
+{
+  "imdb_id": "tt1510938",
+  "title": "The Sunset Limited",
+  "description": "Through a chance encounter, two men of opposing ideologies deliberate spiritual, philosophical, and profound matters in a New York City apartment.",
+  "runtime_minutes": 91,
+  "release_date": "12.02.2011",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0000168",
+      "name": "Samuel L. Jackson"
+    },
+    {
+      "id": "nm0000169",
+      "name": "Tommy Lee Jones"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000169",
+      "name": "Tommy Lee Jones"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0565092",
+      "name": "Cormac McCarthy"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000168",
+      "name": "Samuel L. Jackson",
+      "character": "Black"
+    },
+    {
+      "id": "nm0000169",
+      "name": "Tommy Lee Jones",
+      "character": "White"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 558807,
+  "year": 2011,
+  "type": "tvMovie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTM3MjUyMTY1MV5BMl5BanBnXkFtZTcwNzE0MDQ0NA@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.3,
+      "votes": 33982,
+      "distribution": {
+        "1": 544,
+        "2": 283,
+        "3": 428,
+        "4": 774,
+        "5": 1720,
+        "6": 3841,
+        "7": 7886,
+        "8": 8480,
+        "9": 4946,
+        "10": 5080
+      },
+      "normalized": 6.0368
+    },
+    "filmweb": {
+      "rating": 7.2,
+      "votes": 18271,
+      "distribution": {
+        "1": 105,
+        "2": 95,
+        "3": 324,
+        "4": 420,
+        "5": 1254,
+        "6": 2617,
+        "7": 5112,
+        "8": 5161,
+        "9": 2240,
+        "10": 943
+      },
+      "normalized": 6.0024
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "15.12.2013",
+      "normalized": 5.4199
+    },
+    "score": 5.8197
+  },
+  "polish_title": "Sunset Limited",
+  "silent": false,
+  "description_pl": "Losy skromnego, uczynnego i pobożnego mężczyzny po przejściach (<a href=\"/osoba/?id=nm0000168\">Jackson</a>) splatają się na jednej ze stacji metra z historią wykształconego, zasobnego i zgorzkniałego erudyty (<a href=\"/osoba/?id=nm0000169\">Jones</a>), w momencie w którym ten drugi próbuje popełnić samobójstwo. Pierwszemu z nich udaje się udaremnić zamiar drugiego i zaprosić go do siebie do domu, gdzie przez najbliższe godziny będzie starał się odwieść go od ponownej próby realizacji jego planu. Rozpoczyna się zawzięta dyskusja na temat najważniejszych dla nich kwestii - życia, prawdy i Boga.",
+  "producers": [
+    {
+      "id": "nm0355331",
+      "name": "Barbara A. Hall"
+    },
+    {
+      "id": "nm0000169",
+      "name": "Tommy Lee Jones"
+    },
+    {
+      "id": "nm2424203",
+      "name": "Aaron Lieber"
+    },
+    {
+      "id": "nm1364182",
+      "name": "Wesley A. Oliver"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0001937",
+      "name": "Marco Beltrami"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0254580",
+      "name": "Paul Elliott"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,153 @@
+{
+  "imdb_id": "tt0006177",
+  "title": "The Tramp",
+  "description": "The Little Fellow finds the girl of his dreams and work on a family farm.",
+  "runtime_minutes": 21,
+  "release_date": "12.04.1915",
+  "genres": [
+    "Short",
+    "Comedy"
+  ],
+  "stars": [
+    {
+      "id": "nm0000122",
+      "name": "Charles Chaplin"
+    },
+    {
+      "id": "nm0035627",
+      "name": "Billy Armstrong"
+    },
+    {
+      "id": "nm0045800",
+      "name": "Lloyd Bacon"
+    },
+    {
+      "id": "nm0417168",
+      "name": "Bud Jamison"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000122",
+      "name": "Charles Chaplin"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000122",
+      "name": "Charles Chaplin"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000122",
+      "name": "Charles Chaplin",
+      "character": "Tramp"
+    },
+    {
+      "id": "nm0035627",
+      "name": "Billy Armstrong",
+      "character": "Minister"
+    },
+    {
+      "id": "nm0045800",
+      "name": "Lloyd Bacon",
+      "character": "Second Thief"
+    },
+    {
+      "id": "nm0417168",
+      "name": "Bud Jamison",
+      "character": "Third Thief"
+    },
+    {
+      "id": "nm0570274",
+      "name": "Paddy McGuire",
+      "character": "Farmhand"
+    },
+    {
+      "id": "nm0701012",
+      "name": "Edna Purviance",
+      "character": "Farmer's Daughter"
+    },
+    {
+      "id": "nm0887714",
+      "name": "Ernest Van Pelt",
+      "character": "Farmer"
+    },
+    {
+      "id": "nm0925118",
+      "name": "Leo White",
+      "character": "First Thief"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "None",
+    "English"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 91785,
+  "year": 1915,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZmZkMzlmNWUtMGE0OC00N2NkLTkyNTktYzIxZDJiNzk2YjZhXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.8,
+      "votes": 4075,
+      "distribution": {
+        "1": 45,
+        "2": 22,
+        "3": 37,
+        "4": 101,
+        "5": 341,
+        "6": 802,
+        "7": 1418,
+        "8": 762,
+        "9": 205,
+        "10": 342
+      },
+      "normalized": 5.1808
+    },
+    "filmweb": {
+      "rating": 7.06,
+      "votes": 1185,
+      "distribution": {
+        "1": 3,
+        "2": 2,
+        "3": 11,
+        "4": 32,
+        "5": 98,
+        "6": 224,
+        "7": 404,
+        "8": 253,
+        "9": 67,
+        "10": 91
+      },
+      "normalized": 5.5959
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "16.07.2007",
+      "normalized": 5.4199
+    },
+    "score": 5.3989
+  },
+  "polish_title": "Włóczęga",
+  "silent": true,
+  "description_pl": "Włóczęga (<a href=\"/osoba/?id=nm0000122\">Charlie Chaplin</a>) ratuje wiejską dziewczynę (<a href=\"/osoba/?id=nm0701012\">Edna Purviance</a>) przed bandytami. Jej ojciec w nagrodę pozwala mu zostać i pracować w swoim gospodarstwie. Niedługo potem bandyci wracają i namawiają włóczęgę, aby pomógł im włamać się do domu farmera.",
+  "composers": [
+    {
+      "id": "nm0004592",
+      "name": "Robert Israel"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0258113",
+      "name": "Harry Ensign"
+    }
+  ],
+  "fetched_at": "2026-08-15"
+}

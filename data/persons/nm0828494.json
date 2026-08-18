@@ -1,0 +1,35 @@
+{
+  "id": "nm0828494",
+  "name": "Joe Stevens",
+  "filmography": [
+    {
+      "imdb_id": "tt0244000",
+      "title": "American Outlaws",
+      "year": 2001,
+      "roles": [
+        "cast"
+      ],
+      "character": "Loni Packwood"
+    },
+    {
+      "imdb_id": "tt1403865",
+      "title": "True Grit",
+      "year": 2010,
+      "roles": [
+        "cast"
+      ],
+      "character": "Cross-examining Lawyer"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDRlNTZiMzUtMTkyMS00OTY0LThmMTgtODMyZmM1MmYxM2ZjXkEyXkFqcGc@._V1_.jpg",
+  "birth_location": "Quantico, Virginia, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 3812,
+  "name_pl": "Joe Stevens",
+  "birth_location_pl": "Quantico, Wirginia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

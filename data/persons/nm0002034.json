@@ -1,0 +1,40 @@
+{
+  "id": "nm0002034",
+  "name": "Jane Darwell",
+  "filmography": [
+    {
+      "imdb_id": "tt0032551",
+      "title": "The Grapes of Wrath",
+      "year": 1940,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Ma Joad"
+    },
+    {
+      "imdb_id": "tt0036244",
+      "title": "The Ox-Bow Incident",
+      "year": 1943,
+      "roles": [
+        "cast"
+      ],
+      "character": "Ma Grier"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZGFmMDg3NjYtMjAxNS00ZmE1LWFjMzItOGQzNGNmZDkwMzQwXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "15.10.1879",
+  "death_date": "13.08.1967",
+  "birth_location": "Palmyra, Missouri, USA",
+  "height": "1.68 m",
+  "imdb_scraped": true,
+  "filmweb_id": 51833,
+  "name_pl": "Jane Darwell",
+  "birth_location_pl": "Palmyra, Missouri",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 51833
+}

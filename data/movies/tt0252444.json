@@ -1,0 +1,250 @@
+{
+  "imdb_id": "tt0252444",
+  "title": "Rabbit-Proof Fence",
+  "description": "Three Aboriginal girls journey 1,200 miles home.",
+  "runtime_minutes": 94,
+  "release_date": "31.01.2003",
+  "genres": [
+    "Adventure",
+    "Biography",
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm1082266",
+      "name": "Everlyn Sampi"
+    },
+    {
+      "id": "nm1082270",
+      "name": "Tianna Sansbury"
+    },
+    {
+      "id": "nm0000110",
+      "name": "Kenneth Branagh"
+    },
+    {
+      "id": "nm1081920",
+      "name": "Laura Monaghan"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0637518",
+      "name": "Phillip Noyce"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0969922",
+      "name": "Doris Pilkington"
+    },
+    {
+      "id": "nm0647608",
+      "name": "Christine Olsen"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1082266",
+      "name": "Everlyn Sampi",
+      "character": "Molly Craig"
+    },
+    {
+      "id": "nm1082270",
+      "name": "Tianna Sansbury",
+      "character": "Daisy Craig Kadibill"
+    },
+    {
+      "id": "nm0000110",
+      "name": "Kenneth Branagh",
+      "character": "A.O. Neville"
+    },
+    {
+      "id": "nm1081920",
+      "name": "Laura Monaghan",
+      "character": "Gracie Fields"
+    },
+    {
+      "id": "nm0347858",
+      "name": "David Gulpilil",
+      "character": "Moodoo"
+    },
+    {
+      "id": "nm0492443",
+      "name": "Ningali Lawford",
+      "character": "Maud - Molly's Mother"
+    },
+    {
+      "id": "nm1081698",
+      "name": "Myarn Lawford",
+      "character": "Molly's Grandmother"
+    },
+    {
+      "id": "nm0537648",
+      "name": "Deborah Mailman",
+      "character": "Mavis"
+    },
+    {
+      "id": "nm0164809",
+      "name": "Jason Clarke",
+      "character": "Constable Riggs"
+    },
+    {
+      "id": "nm1138590",
+      "name": "Natasha Wanganeen",
+      "character": "Nina, Dormitory Boss"
+    },
+    {
+      "id": "nm0567769",
+      "name": "Garry McDonald",
+      "character": "Mr. Neal at Moore River"
+    },
+    {
+      "id": "nm0006355",
+      "name": "Roy Billing",
+      "character": "Police Inspector"
+    },
+    {
+      "id": "nm0504047",
+      "name": "Lorna Lesley",
+      "character": "Miss Thomas"
+    },
+    {
+      "id": "nm0641575",
+      "name": "Celine O'Leary",
+      "character": "Miss Jessop"
+    },
+    {
+      "id": "nm0731303",
+      "name": "Kate Roberts",
+      "character": "Matron at Moore River"
+    },
+    {
+      "id": "nm1245322",
+      "name": "Tracy Monaghan",
+      "character": "Moodoo's Daughter"
+    },
+    {
+      "id": "nm1246687",
+      "name": "Tamara Flanagan",
+      "character": "Olive, Escaped Girl"
+    },
+    {
+      "id": "nm0628954",
+      "name": "David Ngoombujarra",
+      "character": "Kangaroo Hunter"
+    }
+  ],
+  "countries": [
+    "Australia"
+  ],
+  "languages": [
+    "English",
+    "Aboriginal"
+  ],
+  "color": "Color",
+  "filmweb_id": 32887,
+  "year": 2002,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMmUxMzM4ZTYtMmNiMy00OWVlLTkzMWYtMGJkNWYzN2EyMjljXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.4,
+      "votes": 31779,
+      "distribution": {
+        "1": 413,
+        "2": 181,
+        "3": 224,
+        "4": 471,
+        "5": 1212,
+        "6": 3454,
+        "7": 8571,
+        "8": 9662,
+        "9": 4331,
+        "10": 3260
+      },
+      "normalized": 6.2213
+    },
+    "filmweb": {
+      "rating": 7.47,
+      "votes": 6875,
+      "distribution": {
+        "1": 15,
+        "2": 10,
+        "3": 41,
+        "4": 92,
+        "5": 269,
+        "6": 781,
+        "7": 2122,
+        "8": 2336,
+        "9": 819,
+        "10": 390
+      },
+      "normalized": 6.5582
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "21.07.2011",
+      "normalized": 6.4102
+    },
+    "score": 6.3966
+  },
+  "polish_title": "Polowanie na króliki",
+  "silent": false,
+  "description_pl": "Molly Craig jest aborygeńską dziewczynką, która w ramach polityki australijskiego rządu została siłą odebrana rodzicom i przymusowo  umieszczona w ochronce, dzięki czemu ma zintegrować się z białą społecznością Australii. Mała Molly wraz ze swoją młodszą siostrą i ich kuzynką postanawiają uciec z ponurego sierocińca do rodziców. Przemierzają ponad 1 500 mil australijskiego pustkowia, starając się zmylić i przechytrzyć depczący im po piętach policyjny pościg.",
+  "producers": [
+    {
+      "id": "nm0123286",
+      "name": "Laura Burrows"
+    },
+    {
+      "id": "nm0253311",
+      "name": "David Elfick"
+    },
+    {
+      "id": "nm0572361",
+      "name": "Kathleen McLaughlin"
+    },
+    {
+      "id": "nm0637518",
+      "name": "Phillip Noyce"
+    },
+    {
+      "id": "nm0647608",
+      "name": "Christine Olsen"
+    },
+    {
+      "id": "nm0792431",
+      "name": "Emile Sherman"
+    },
+    {
+      "id": "nm0795478",
+      "name": "Jonathan Shteinman"
+    },
+    {
+      "id": "nm0859016",
+      "name": "Jeremy Thomas"
+    },
+    {
+      "id": "nm0935761",
+      "name": "John Winter"
+    },
+    {
+      "id": "nm1075038",
+      "name": "Oliver Huzly"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0300272",
+      "name": "Peter Gabriel"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0236313",
+      "name": "Christopher Doyle"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

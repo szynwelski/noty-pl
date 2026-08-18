@@ -1,0 +1,154 @@
+{
+  "imdb_id": "tt0123318",
+  "title": "Ghosts Before Breakfast",
+  "description": "Hans Richter, noted for his abstract shorts, has everyday objects rebelling against their daily routine.",
+  "runtime_minutes": 6,
+  "release_date": "14.07.1928",
+  "genres": [
+    "Short"
+  ],
+  "stars": [
+    {
+      "id": "nm0333653",
+      "name": "Werner Graeff"
+    },
+    {
+      "id": "nm0343123",
+      "name": "Walter Gronostay"
+    },
+    {
+      "id": "nm0385519",
+      "name": "Paul Hindemith"
+    },
+    {
+      "id": "nm0587366",
+      "name": "Darius Milhaud"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0725257",
+      "name": "Hans Richter"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0333653",
+      "name": "Werner Graeff"
+    },
+    {
+      "id": "nm0725257",
+      "name": "Hans Richter"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0333653",
+      "name": "Werner Graeff",
+      "character": ""
+    },
+    {
+      "id": "nm0343123",
+      "name": "Walter Gronostay",
+      "character": ""
+    },
+    {
+      "id": "nm0385519",
+      "name": "Paul Hindemith",
+      "character": ""
+    },
+    {
+      "id": "nm0587366",
+      "name": "Darius Milhaud",
+      "character": ""
+    },
+    {
+      "id": "nm1955009",
+      "name": "Madeleine Milhaud",
+      "character": ""
+    },
+    {
+      "id": "nm0651474",
+      "name": "Jean Oser",
+      "character": ""
+    },
+    {
+      "id": "nm2938637",
+      "name": "Willi Pferdekamp",
+      "character": ""
+    },
+    {
+      "id": "nm0725257",
+      "name": "Hans Richter",
+      "character": ""
+    }
+  ],
+  "countries": [
+    "Germany"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 200735,
+  "year": 1928,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDY3YTM1Y2UtZWNkZi00ZWMzLTliMzctYWE4ZjkyNmM2ZmNiXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Vormittagsspuk",
+  "ratings": {
+    "imdb": {
+      "rating": 7.1,
+      "votes": 2093,
+      "distribution": {
+        "1": 33,
+        "2": 25,
+        "3": 23,
+        "4": 61,
+        "5": 109,
+        "6": 367,
+        "7": 609,
+        "8": 478,
+        "9": 212,
+        "10": 176
+      },
+      "normalized": 5.6406
+    },
+    "filmweb": {
+      "rating": 6.92,
+      "votes": 514,
+      "distribution": {
+        "2": 1,
+        "3": 5,
+        "4": 22,
+        "5": 40,
+        "6": 112,
+        "7": 157,
+        "8": 125,
+        "9": 38,
+        "10": 14
+      },
+      "normalized": 5.3566
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "13.01.2008",
+      "normalized": 5.4199
+    },
+    "score": 5.4724
+  },
+  "polish_title": "Upiór przedpołudniowy",
+  "silent": true,
+  "composers": [
+    {
+      "id": "nm0385519",
+      "name": "Paul Hindemith"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0475307",
+      "name": "Reimar Kuntze"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

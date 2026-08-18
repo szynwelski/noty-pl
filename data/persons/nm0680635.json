@@ -1,0 +1,51 @@
+{
+  "id": "nm0680635",
+  "name": "Michael Phillips",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZmQ4ZTIzNTQtM2ViYS00MTBiLTkwZTItN2EwNTRkYzcxNjY2XkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0070735",
+      "title": "The Sting",
+      "year": 1973,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0075314",
+      "title": "Taxi Driver",
+      "year": 1976,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0075860",
+      "title": "Close Encounters of the Third Kind",
+      "year": 1977,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0160399",
+      "title": "Impostor",
+      "year": 2001,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "image_url_small": "https://m.media-amazon.com/images/M/MV5BZmQ4ZTIzNTQtM2ViYS00MTBiLTkwZTItN2EwNTRkYzcxNjY2XkEyXkFqcGc@._V1_CR96,1,385,578_.jpg",
+  "birth_date": "29.06.1943",
+  "birth_location": "Brooklyn, New York City, New York, USA",
+  "filmweb_id": 112426,
+  "name_pl": "Michael Phillips",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

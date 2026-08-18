@@ -1,0 +1,268 @@
+{
+  "imdb_id": "tt0462322",
+  "title": "Grindhouse",
+  "description": "Quentin Tarantino and Robert Rodriguez's homage to exploitation double features in the '60s and '70s with two back-to-back cult films that include previews of coming attractions between them.",
+  "runtime_minutes": 191,
+  "release_date": "06.04.2007",
+  "genres": [
+    "Horror",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000621",
+      "name": "Kurt Russell"
+    },
+    {
+      "id": "nm0000535",
+      "name": "Rose McGowan"
+    },
+    {
+      "id": "nm0001803",
+      "name": "Danny Trejo"
+    },
+    {
+      "id": "nm1057928",
+      "name": "Zoë Bell"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001675",
+      "name": "Robert Rodriguez"
+    },
+    {
+      "id": "nm0744834",
+      "name": "Eli Roth"
+    },
+    {
+      "id": "nm0000233",
+      "name": "Quentin Tarantino"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0001675",
+      "name": "Robert Rodriguez"
+    },
+    {
+      "id": "nm0957772",
+      "name": "Rob Zombie"
+    },
+    {
+      "id": "nm0942367",
+      "name": "Edgar Wright"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000621",
+      "name": "Kurt Russell",
+      "character": "Stuntman Mike"
+    },
+    {
+      "id": "nm0000535",
+      "name": "Rose McGowan",
+      "character": "Pam"
+    },
+    {
+      "id": "nm0001803",
+      "name": "Danny Trejo",
+      "character": "Machete"
+    },
+    {
+      "id": "nm1057928",
+      "name": "Zoë Bell",
+      "character": "Zoë Bell"
+    },
+    {
+      "id": "nm0206257",
+      "name": "Rosario Dawson",
+      "character": "Abernathy"
+    },
+    {
+      "id": "nm1089685",
+      "name": "Vanessa Ferlito",
+      "character": "Butterfly"
+    },
+    {
+      "id": "nm0688624",
+      "name": "Sydney Tamiia Poitier",
+      "character": "Jungle Julia"
+    },
+    {
+      "id": "nm1139632",
+      "name": "Tracie Thoms",
+      "character": "Kim"
+    },
+    {
+      "id": "nm0480465",
+      "name": "Jordan Ladd",
+      "character": "Shanna"
+    },
+    {
+      "id": "nm0935541",
+      "name": "Mary Elizabeth Winstead",
+      "character": "Lee"
+    },
+    {
+      "id": "nm0000233",
+      "name": "Quentin Tarantino",
+      "character": "Warren"
+    },
+    {
+      "id": "nm1292612",
+      "name": "Marcy Harriell",
+      "character": "Marcy"
+    },
+    {
+      "id": "nm0744834",
+      "name": "Eli Roth",
+      "character": "Dov"
+    },
+    {
+      "id": "nm2374829",
+      "name": "Omar Doom",
+      "character": "Nate"
+    },
+    {
+      "id": "nm0045209",
+      "name": "Michael Bacall",
+      "character": "Omar"
+    },
+    {
+      "id": "nm0821400",
+      "name": "Monica Staggs",
+      "character": "Lanna Frank"
+    },
+    {
+      "id": "nm0521781",
+      "name": "Jonathan Loughran",
+      "character": "Jasper"
+    },
+    {
+      "id": "nm2474901",
+      "name": "Marta Mendoza",
+      "character": "Punky Bruiser"
+    }
+  ],
+  "countries": [
+    "United States",
+    "Canada"
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "color": "Color",
+  "year": 2007,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjA0MzExNzc3MV5BMl5BanBnXkFtZTcwODAxMzM0MQ@@._V1_.jpg",
+  "filmweb_id": null,
+  "ratings": {
+    "imdb": {
+      "rating": 7.5,
+      "votes": 197535,
+      "distribution": {
+        "1": 6869,
+        "2": 1957,
+        "3": 2389,
+        "4": 3592,
+        "5": 7873,
+        "6": 17939,
+        "7": 42509,
+        "8": 51245,
+        "9": 27357,
+        "10": 35805
+      },
+      "normalized": 6.4331
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "11.08.2010",
+      "normalized": 4.9718
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "30.03.2008",
+      "normalized": 5.4199
+    },
+    "score": 5.5812,
+    "filmweb": {
+      "normalized": 5.5
+    }
+  },
+  "silent": false,
+  "producers": [
+    {
+      "id": "nm0042882",
+      "name": "Elizabeth Avellan"
+    },
+    {
+      "id": "nm1354700",
+      "name": "Sandra Condito"
+    },
+    {
+      "id": "nm1080440",
+      "name": "Rob Cotterill"
+    },
+    {
+      "id": "nm0295827",
+      "name": "Daniel Frisch"
+    },
+    {
+      "id": "nm0332308",
+      "name": "Andy Gould"
+    },
+    {
+      "id": "nm0478701",
+      "name": "Andrew G. La Marca"
+    },
+    {
+      "id": "nm0570690",
+      "name": "Shannon McIntosh"
+    },
+    {
+      "id": "nm0698689",
+      "name": "Tom Proper"
+    },
+    {
+      "id": "nm0001675",
+      "name": "Robert Rodriguez"
+    },
+    {
+      "id": "nm0744834",
+      "name": "Eli Roth"
+    },
+    {
+      "id": "nm1187651",
+      "name": "Gabriel Roth"
+    },
+    {
+      "id": "nm0767894",
+      "name": "Pilar Savone"
+    },
+    {
+      "id": "nm0804739",
+      "name": "James W. Skotchdopole"
+    },
+    {
+      "id": "nm1460251",
+      "name": "Erica Steinberg"
+    },
+    {
+      "id": "nm0000233",
+      "name": "Quentin Tarantino"
+    },
+    {
+      "id": "nm0918424",
+      "name": "Bob Weinstein"
+    },
+    {
+      "id": "nm0005544",
+      "name": "Harvey Weinstein"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

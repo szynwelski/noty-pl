@@ -1,0 +1,29 @@
+{
+  "id": "nm0524803",
+  "name": "Arnold Lucy",
+  "filmography": [
+    {
+      "imdb_id": "tt0020629",
+      "title": "All Quiet on the Western Front",
+      "year": 1930,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Kantorek"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZTE3ZjRkMTctZTQwNy00MmEyLWIzZTktOGM3ZGUwYzA5MDExXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "08.08.1865",
+  "death_date": "15.12.1945",
+  "birth_location": "Tottenham, London, England, UK",
+  "imdb_scraped": true,
+  "filmweb_id": 113125,
+  "name_pl": "Arnold Lucy",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ]
+}

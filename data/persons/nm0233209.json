@@ -1,0 +1,46 @@
+{
+  "id": "nm0233209",
+  "name": "Paul Dooley",
+  "filmography": [
+    {
+      "imdb_id": "tt0163187",
+      "title": "Runaway Bride",
+      "year": 1999,
+      "roles": [
+        "cast"
+      ],
+      "character": "Walter Carpenter"
+    },
+    {
+      "imdb_id": "tt0278504",
+      "title": "Insomnia",
+      "year": 2002,
+      "roles": [
+        "cast"
+      ],
+      "character": "Chief Nyback"
+    },
+    {
+      "imdb_id": "tt0862846",
+      "title": "Sunshine Cleaning",
+      "year": 2008,
+      "roles": [
+        "cast"
+      ],
+      "character": "Sherm"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjE0MTczMTYwOV5BMl5BanBnXkFtZTcwNjk4MzIzOA@@._V1_.jpg",
+  "birth_date": "22.02.1928",
+  "birth_location": "Parkersburg, West Virginia, USA",
+  "height": "1.77 m",
+  "filmweb_id": 6924,
+  "name_pl": "Paul Dooley",
+  "birth_location_pl": "Parkersburg, Wirginia Zachodnia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

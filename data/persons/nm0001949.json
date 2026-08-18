@@ -1,0 +1,37 @@
+{
+  "id": "nm0001949",
+  "name": "Andrew Birkin",
+  "filmography": [
+    {
+      "imdb_id": "tt0091605",
+      "title": "The Name of the Rose",
+      "year": 1986,
+      "roles": [
+        "writer",
+        "cast"
+      ],
+      "character": "Cuthbert of Winchester"
+    },
+    {
+      "imdb_id": "tt0396171",
+      "title": "Perfume: The Story of a Murderer",
+      "year": 2006,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZjQxODFmNDUtZjFiOC00MGZiLTgzZjAtYTY5ZTlkNmZkMTYyXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "09.12.1945",
+  "birth_location": "London, England, UK",
+  "imdb_scraped": true,
+  "filmweb_id": 12145,
+  "name_pl": "Andrew Birkin",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 12145
+}

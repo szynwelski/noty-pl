@@ -1,0 +1,48 @@
+{
+  "id": "nm0001620",
+  "name": "Slim Pickens",
+  "filmography": [
+    {
+      "imdb_id": "tt0057012",
+      "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "year": 1964,
+      "roles": [
+        "cast"
+      ],
+      "character": "Maj. 'King' Kong"
+    },
+    {
+      "imdb_id": "tt0059418",
+      "title": "Major Dundee",
+      "year": 1965,
+      "roles": [
+        "cast"
+      ],
+      "character": "Wiley"
+    },
+    {
+      "imdb_id": "tt0068638",
+      "title": "The Getaway",
+      "year": 1972,
+      "roles": [
+        "cast"
+      ],
+      "character": "Cowboy"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzM5MDQyNjI3Nl5BMl5BanBnXkFtZTcwMTA1MjE1Mg@@._V1_.jpg",
+  "birth_date": "29.06.1919",
+  "death_date": "08.12.1983",
+  "birth_location": "Kingsburg, California, USA",
+  "height": "1.89 m",
+  "filmweb_id": 43967,
+  "name_pl": "Slim Pickens",
+  "birth_location_pl": "Kingsburg, Kalifornia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 43967
+}

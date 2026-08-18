@@ -1,0 +1,40 @@
+{
+  "id": "nm0001002",
+  "name": "Dean Cain",
+  "filmography": [
+    {
+      "imdb_id": "tt0313443",
+      "title": "Out of Time",
+      "year": 2003,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Chris Harrison"
+    },
+    {
+      "imdb_id": "tt2528814",
+      "title": "God's Not Dead",
+      "year": 2014,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Marc Shelley"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTg5MDEzNDQ4MF5BMl5BanBnXkFtZTcwNzgxODQzMQ@@._V1_.jpg",
+  "birth_date": "31.07.1966",
+  "birth_location": "Mt. Clemens, Michigan, USA",
+  "height": "1.82 m",
+  "imdb_scraped": true,
+  "filmweb_id": 57171,
+  "name_pl": "Dean Cain",
+  "birth_location_pl": "Mt. Clemens, Michigan",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 57171
+}

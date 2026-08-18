@@ -1,0 +1,40 @@
+{
+  "id": "nm0127677",
+  "name": "Bruce Cabot",
+  "filmography": [
+    {
+      "imdb_id": "tt0024216",
+      "title": "King Kong",
+      "year": 1933,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Jack Driscoll"
+    },
+    {
+      "imdb_id": "tt0027652",
+      "title": "Fury",
+      "year": 1936,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Kirby Dawson"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOWM2Y2RlZDEtYTgwZi00MmU2LTg1ZDktN2IzN2YyNDUyOTNkXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "20.04.1904",
+  "death_date": "03.05.1972",
+  "birth_location": "Carlsbad, New Mexico, USA",
+  "height": "1.87 m",
+  "imdb_scraped": true,
+  "filmweb_id": 7327,
+  "name_pl": "Bruce Cabot",
+  "birth_location_pl": "Carlsbad, Nowy Meksyk",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "nm0197950",
+  "name": "Marcel Dalio",
+  "filmography": [
+    {
+      "imdb_id": "tt0028950",
+      "title": "Grand Illusion",
+      "year": 1937,
+      "roles": [
+        "cast"
+      ],
+      "character": "Le lieutenant Rosenthal"
+    },
+    {
+      "imdb_id": "tt0031885",
+      "title": "The Rules of the Game",
+      "year": 1939,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Robert de la Chesnaye"
+    },
+    {
+      "imdb_id": "tt0047437",
+      "title": "Sabrina",
+      "year": 1954,
+      "roles": [
+        "cast"
+      ],
+      "character": "Baron St. Fontanel"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjIyODk3OTIyOF5BMl5BanBnXkFtZTcwNDMwMjgwOA@@._V1_.jpg",
+  "birth_date": "23.11.1899",
+  "death_date": "20.11.1983",
+  "birth_location": "Paris, France",
+  "height": "1.65 m",
+  "filmweb_id": 42922,
+  "name_pl": "Marcel Dalio",
+  "birth_location_pl": "Paryż",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja"
+  ],
+  "wikidata_fw_id": 42922
+}

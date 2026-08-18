@@ -1,0 +1,48 @@
+{
+  "id": "nm1741002",
+  "name": "Matt Smith",
+  "filmography": [
+    {
+      "imdb_id": "tt1340138",
+      "title": "Terminator Genisys",
+      "year": 2015,
+      "roles": [
+        "cast"
+      ],
+      "character": "Alex"
+    },
+    {
+      "imdb_id": "tt11198330",
+      "title": "House of the Dragon",
+      "year": 2022,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Prince Daemon Targaryen"
+    },
+    {
+      "imdb_id": "tt1493274",
+      "title": "Caught Stealing",
+      "year": 2025,
+      "roles": [
+        "cast"
+      ],
+      "character": "Russ"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjE0NzExMTg0MV5BMl5BanBnXkFtZTgwOTIyNTI5NzE@._V1_.jpg",
+  "birth_date": "28.10.1982",
+  "birth_location": "Northampton, Northamptonshire, England, UK",
+  "height": "1.82 m",
+  "filmweb_id": 695570,
+  "name_pl": "Matt Smith",
+  "birth_location_pl": "Northampton, Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 695570
+}

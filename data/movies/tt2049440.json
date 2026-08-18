@@ -1,0 +1,80 @@
+{
+  "imdb_id": "tt2049440",
+  "title": "Falling Cat",
+  "description": "A cat falls down and lands on its feet.",
+  "runtime_minutes": 1,
+  "release_date": "1894",
+  "genres": [
+    "Short"
+  ],
+  "directors": [
+    {
+      "id": "nm4620889",
+      "name": "Étienne-Jules Marey"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 634674,
+  "year": 1894,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODhkZmU2ZjktMTMyZC00Y2IzLThmZTAtNjBkNWUxNzNlZWI1XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.6,
+      "votes": 1094,
+      "distribution": {
+        "1": 43,
+        "2": 31,
+        "3": 61,
+        "4": 87,
+        "5": 243,
+        "6": 289,
+        "7": 164,
+        "8": 61,
+        "9": 17,
+        "10": 98
+      },
+      "normalized": 3.9151
+    },
+    "filmweb": {
+      "rating": 5.89,
+      "votes": 127,
+      "distribution": {
+        "1": 1,
+        "2": 4,
+        "3": 6,
+        "4": 14,
+        "5": 34,
+        "6": 22,
+        "7": 20,
+        "8": 16,
+        "9": 5,
+        "10": 5
+      },
+      "normalized": 4.5706
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "11.12.2016",
+      "normalized": 5.6855
+    },
+    "score": 4.7237
+  },
+  "polish_title": "Falling Cat",
+  "silent": true,
+  "cinematographers": [
+    {
+      "id": "nm4620889",
+      "name": "Étienne-Jules Marey"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

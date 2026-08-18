@@ -1,0 +1,89 @@
+{
+  "id": "nm0000150",
+  "name": "Michael J. Fox",
+  "filmography": [
+    {
+      "imdb_id": "tt0088763",
+      "title": "Back to the Future",
+      "year": 1985,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Marty McFly"
+    },
+    {
+      "imdb_id": "tt0096874",
+      "title": "Back to the Future Part II",
+      "year": 1989,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Marty McFly"
+    },
+    {
+      "imdb_id": "tt0097027",
+      "title": "Casualties of War",
+      "year": 1989,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Eriksson"
+    },
+    {
+      "imdb_id": "tt0099088",
+      "title": "Back to the Future Part III",
+      "year": 1990,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Marty McFly"
+    },
+    {
+      "imdb_id": "tt0106941",
+      "title": "For Love or Money",
+      "year": 1993,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Doug Ireland"
+    },
+    {
+      "imdb_id": "tt0116996",
+      "title": "Mars Attacks!",
+      "year": 1996,
+      "roles": [
+        "cast"
+      ],
+      "character": "Jason Stone"
+    },
+    {
+      "imdb_id": "tt0165832",
+      "title": "Interstate 60",
+      "year": 2002,
+      "roles": [
+        "cast"
+      ],
+      "character": "Mr. Baker"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTcwNzM0MjE4NF5BMl5BanBnXkFtZTcwMDkxMzEwMw@@._V1_.jpg",
+  "birth_date": "09.06.1961",
+  "birth_location": "Edmonton, Alberta, Canada",
+  "height": "1.63 m",
+  "filmweb_id": 175,
+  "name_pl": "Michael J. Fox",
+  "birth_location_pl": "Edmonton",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Kanada",
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 175
+}

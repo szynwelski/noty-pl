@@ -1,0 +1,260 @@
+{
+  "imdb_id": "tt21191806",
+  "title": "Back in Action",
+  "description": "Former CIA spies Emily and Matt are pulled back into espionage after their secret identities are exposed.",
+  "runtime_minutes": 114,
+  "release_date": "17.01.2025",
+  "genres": [
+    "Action",
+    "Comedy"
+  ],
+  "stars": [
+    {
+      "id": "nm0004937",
+      "name": "Jamie Foxx"
+    },
+    {
+      "id": "nm0000139",
+      "name": "Cameron Diaz"
+    },
+    {
+      "id": "nm5628190",
+      "name": "McKenna Roberts"
+    },
+    {
+      "id": "nm11117139",
+      "name": "Rylan Jackson"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm1164861",
+      "name": "Seth Gordon"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1164861",
+      "name": "Seth Gordon"
+    },
+    {
+      "id": "nm1895993",
+      "name": "Brendan O'Brien"
+    },
+    {
+      "id": "nm6562494",
+      "name": "Lillian Yu"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0004937",
+      "name": "Jamie Foxx",
+      "character": "Matt"
+    },
+    {
+      "id": "nm0000139",
+      "name": "Cameron Diaz",
+      "character": "Emily"
+    },
+    {
+      "id": "nm5628190",
+      "name": "McKenna Roberts",
+      "character": "Alice"
+    },
+    {
+      "id": "nm11117139",
+      "name": "Rylan Jackson",
+      "character": "Leo"
+    },
+    {
+      "id": "nm0151419",
+      "name": "Kyle Chandler",
+      "character": "Chuck"
+    },
+    {
+      "id": "nm0000335",
+      "name": "Glenn Close",
+      "character": "Ginny"
+    },
+    {
+      "id": "nm5857152",
+      "name": "Jamie Demetriou",
+      "character": "Nigel"
+    },
+    {
+      "id": "nm0778831",
+      "name": "Andrew Scott",
+      "character": "Baron"
+    },
+    {
+      "id": "nm6826652",
+      "name": "Fola Evans-Akingbola",
+      "character": "Wendy"
+    },
+    {
+      "id": "nm2212779",
+      "name": "Robert Besta",
+      "character": "Balthazar Gor"
+    },
+    {
+      "id": "nm1506981",
+      "name": "Bashir Salahuddin",
+      "character": "Coach Chris"
+    },
+    {
+      "id": "nm5938631",
+      "name": "Tom Brittney",
+      "character": "Dylan"
+    },
+    {
+      "id": "nm4910117",
+      "name": "Ben VanderMey",
+      "character": "Tyler"
+    },
+    {
+      "id": "nm7064374",
+      "name": "Jude Mack",
+      "character": "Daphne"
+    },
+    {
+      "id": "nm9117332",
+      "name": "Luyanda Unati Lewis-Nyawo",
+      "character": "Airport Immigration Officer Keita"
+    },
+    {
+      "id": "nm8633614",
+      "name": "Tobi Bamtefa",
+      "character": "MI6 Agent Obasi"
+    },
+    {
+      "id": "nm10235676",
+      "name": "Leela Owen",
+      "character": "Annalise"
+    },
+    {
+      "id": "nm16147936",
+      "name": "Cruz Hadley",
+      "character": "James"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Polish"
+  ],
+  "color": "Color",
+  "filmweb_id": 10033145,
+  "year": 2025,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMWQ4YWYxYTAtZTlhNC00Nzc3LWE3OWUtZjY5MThlNWNiYTBiXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.9,
+      "votes": 68093,
+      "distribution": {
+        "1": 1749,
+        "2": 1302,
+        "3": 2341,
+        "4": 4800,
+        "5": 11620,
+        "6": 19572,
+        "7": 14050,
+        "8": 5770,
+        "9": 1936,
+        "10": 4953
+      },
+      "normalized": 3.4497
+    },
+    "filmweb": {
+      "rating": 5.36,
+      "votes": 12717,
+      "distribution": {
+        "1": 118,
+        "2": 263,
+        "3": 1066,
+        "4": 1890,
+        "5": 3201,
+        "6": 3695,
+        "7": 1659,
+        "8": 543,
+        "9": 141,
+        "10": 141
+      },
+      "normalized": 2.4119
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "15.03.2025",
+      "normalized": 5.6855
+    },
+    "score": 3.849
+  },
+  "polish_title": "Znowu w akcji",
+  "silent": false,
+  "producers": [
+    {
+      "id": "nm0062149",
+      "name": "Beau Bauman"
+    },
+    {
+      "id": "nm1858656",
+      "name": "Peter Chernin"
+    },
+    {
+      "id": "nm10508069",
+      "name": "Emma Finder"
+    },
+    {
+      "id": "nm0004937",
+      "name": "Jamie Foxx"
+    },
+    {
+      "id": "nm1164861",
+      "name": "Seth Gordon"
+    },
+    {
+      "id": "nm0507815",
+      "name": "Tim Lewis"
+    },
+    {
+      "id": "nm1895993",
+      "name": "Brendan O'Brien"
+    },
+    {
+      "id": "nm0756852",
+      "name": "Mika Saito"
+    },
+    {
+      "id": "nm0998099",
+      "name": "Sharla Sumpter Bridgett"
+    },
+    {
+      "id": "nm0841757",
+      "name": "Bergen Swanson"
+    },
+    {
+      "id": "nm0867768",
+      "name": "Jenno Topping"
+    },
+    {
+      "id": "nm1484310",
+      "name": "Datari Turner"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0501999",
+      "name": "Christopher Lennertz"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm1092952",
+      "name": "Ken Seng"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

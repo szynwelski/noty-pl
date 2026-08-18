@@ -1,0 +1,826 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🎬</text></svg>">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Krytyk — Noty</title>
+  <link rel="stylesheet" href="../../static/style.css">
+  <script src="../../static/translations.js"></script>
+  <script src="../../static/tooltip.js"></script>
+  <script src="../../static/histogram.js"></script>
+  <style>
+    .page-section { margin-top: 2.5rem; padding-top: 1.5rem; border-top: 2px solid var(--border); }
+    .page-section-title { font-size: .7rem; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; color: var(--muted); margin-bottom: 1.25rem; }
+
+    .top-table { width: auto; }
+    .top-table td { padding: .35rem .6rem; }
+    .top-table .rank { color: var(--muted); font-size: .8rem; width: 1.5rem; }
+    .top-table .score-col { text-align: right; font-variant-numeric: tabular-nums; min-width: 3rem; }
+    .top-table .count-col { text-align: right; color: var(--muted); font-size: .82rem; min-width: 3.5rem; }
+    .top-table tfoot td { text-align: right; padding: .25rem .6rem; border-bottom: none; }
+    .more-link { font-size: .82rem; color: var(--accent); text-decoration: none; white-space: nowrap; }
+    .more-link:hover { text-decoration: underline; }
+
+    .subsection { margin-bottom: 1.5rem; }
+    .subsection h2 { margin-bottom: .5rem; }
+    .two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; }
+    @media (max-width: 700px) { .two-col { grid-template-columns: 1fr; } }
+
+    .help-btn {
+      display: inline-flex; align-items: center; justify-content: center;
+      font-size: .7rem; font-weight: 400; color: var(--muted);
+      border: 1px solid var(--border); border-radius: 50%;
+      width: 1.4em; height: 1.4em; text-decoration: none; vertical-align: middle;
+      margin-left: .4rem; cursor: default;
+    }
+  </style>
+</head>
+<body>
+  <nav>
+    <a class="logo" href="/">no<span>ty</span></a>
+    <a class="nav-link" href="/">Filmy</a>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Osoby <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/osoba/rezyser/">Reżyserzy</a>
+        <a href="/osoba/scenarzysta/">Scenarzyści</a>
+        <a href="/osoba/gwiazda/">Gwiazdy</a>
+        <a href="/osoba/aktor/">Aktorzy</a>
+        <a href="/osoba/kompozytor/">Kompozytorzy</a>
+        <a href="/osoba/operator/">Operatorzy</a>
+        <a href="/osoba/producent/">Producenci</a>
+        <a href="/osoba/wszechstronna/">Wszechstronni</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Krytycy <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/krytyk/jarek/">Jarek</a>
+        <a href="/krytyk/michal/">Michał</a>
+        <a href="/krytyk/imdb/">IMDb</a>
+        <a href="/krytyk/filmweb/">Filmweb</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Kategorie <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/kategoria/gatunek/">Gatunki</a>
+        <a href="/kategoria/kraj/">Kraje</a>
+        <a href="/kategoria/jezyk/">Języki</a>
+        <a href="/kategoria/dekada/">Dekady</a>
+        <a href="/kategoria/rok/">Lata</a>
+        <a href="/kategoria/czas/">Czas trwania</a>
+        <a href="/kategoria/popularnosc/">Popularność</a>
+        <hr>
+        <a href="/kategoria/plec/">Płeć</a>
+        <a href="/kategoria/obywatelstwo/">Obywatelstwo</a>
+        <a href="/kategoria/urodzenie/">Urodzenie</a>
+        <a href="/kategoria/wiek/">Wiek</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Statystyki <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/statystyki/podsumowanie/">Podsumowanie</a>
+        <a href="/statystyki/rekordy/">Rekordy</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Metodologia <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/metodologia/filmy/">Filmy</a>
+        <a href="/metodologia/osoby/">Osoby</a>
+        <a href="/metodologia/kategorie-filmow/">Kategorie filmów</a>
+        <a href="/metodologia/kategorie-osob/">Kategorie osób</a>
+      </div>
+    </div>
+    <button id="search-global-btn" class="nav-search-btn" title="Szukaj (⌘K)">
+      <svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+    </button>
+  </nav>
+  <div id="search-modal" class="search-modal">
+    <div id="search-modal-backdrop" class="search-modal-backdrop"></div>
+    <div class="search-modal-box">
+      <div class="search-modal-header">
+        <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink:0;color:var(--muted)"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        <input id="search-modal-input" class="search-modal-input" type="text" placeholder="Szukaj filmów i osób…" autocomplete="off" spellcheck="false">
+        <kbd class="search-modal-esc">Esc</kbd>
+      </div>
+      <div id="search-modal-results" class="search-modal-results"></div>
+    </div>
+  </div>
+  <script src="/static/search.js"></script>
+
+  <div id="tooltip"></div>
+  <div class="container">
+    <div id="loading">Ładowanie…</div>
+    <div id="error" style="display:none"></div>
+    <div id="content" style="display:none">
+      <h1 id="heading"></h1>
+
+      <div class="two-col">
+        <div>
+          <h2 style="margin-top:1.25rem">Oceny oryginalne</h2>
+          <div class="stat-cards" id="stats-raw"></div>
+          <div class="histogram" id="hist-raw"></div>
+        </div>
+        <div>
+          <h2 style="margin-top:1.25rem">Oceny znormalizowane <span class="help-btn" id="norm-help">?</span></h2>
+          <div class="stat-cards" id="stats-norm"></div>
+          <div class="histogram" id="hist-norm"></div>
+        </div>
+      </div>
+
+      <!-- FILMY -->
+      <div class="page-section">
+        <div class="page-section-title">Filmy</div>
+        <div class="subsection">
+          <h2>Top 10 filmów</h2>
+          <table class="top-table">
+            <tbody id="top-films"></tbody>
+            <tfoot><tr><td colspan="4"><a class="more-link" id="more-films" href="#">Więcej filmów →</a></td></tr></tfoot>
+          </table>
+        </div>
+      </div>
+
+      <!-- OSOBY -->
+      <div class="page-section">
+        <div class="page-section-title">Osoby</div>
+        <div class="two-col">
+          <div class="subsection">
+            <h2>Top 10 reżyserów</h2>
+            <table class="top-table">
+              <tbody id="top-directors"></tbody>
+              <tfoot><tr><td colspan="5"><a class="more-link" id="more-directors" href="#">Wszyscy reżyserzy →</a></td></tr></tfoot>
+            </table>
+          </div>
+          <div class="subsection">
+            <h2>Top 10 scenarzystów</h2>
+            <table class="top-table">
+              <tbody id="top-writers"></tbody>
+              <tfoot><tr><td colspan="5"><a class="more-link" id="more-writers" href="#">Wszyscy scenarzyści →</a></td></tr></tfoot>
+            </table>
+          </div>
+        </div>
+        <div class="two-col">
+          <div class="subsection">
+            <h2>Top 10 gwiazd</h2>
+            <table class="top-table">
+              <tbody id="top-stars"></tbody>
+              <tfoot><tr><td colspan="5"><a class="more-link" id="more-stars" href="#">Wszystkie gwiazdy →</a></td></tr></tfoot>
+            </table>
+          </div>
+          <div class="subsection">
+            <h2>Top 10 aktorów</h2>
+            <table class="top-table">
+              <tbody id="top-actors"></tbody>
+              <tfoot><tr><td colspan="5"><a class="more-link" id="more-actors" href="#">Wszyscy aktorzy →</a></td></tr></tfoot>
+            </table>
+          </div>
+        </div>
+        <div class="two-col">
+          <div class="subsection">
+            <h2>Top 10 kompozytorów</h2>
+            <table class="top-table">
+              <tbody id="top-composers"></tbody>
+              <tfoot><tr><td colspan="5"><a class="more-link" id="more-composers" href="#">Wszyscy kompozytorzy →</a></td></tr></tfoot>
+            </table>
+          </div>
+          <div class="subsection">
+            <h2>Top 10 operatorów</h2>
+            <table class="top-table">
+              <tbody id="top-cinematographers"></tbody>
+              <tfoot><tr><td colspan="5"><a class="more-link" id="more-cinematographers" href="#">Wszyscy operatorzy →</a></td></tr></tfoot>
+            </table>
+          </div>
+        </div>
+        <div class="two-col">
+          <div class="subsection">
+            <h2>Top 10 producentów</h2>
+            <table class="top-table">
+              <tbody id="top-producers"></tbody>
+              <tfoot><tr><td colspan="5"><a class="more-link" id="more-producers" href="#">Wszyscy producenci →</a></td></tr></tfoot>
+            </table>
+          </div>
+          <div class="subsection">
+            <h2>Top 10 wszechstronnych</h2>
+            <table class="top-table">
+              <tbody id="top-versatile"></tbody>
+              <tfoot><tr><td colspan="4"><a class="more-link" href="/osoba/wszechstronna/">Wszyscy wszechstronni →</a></td></tr></tfoot>
+            </table>
+          </div>
+        </div>
+      </div>
+
+      <!-- KATEGORIE -->
+      <div class="page-section">
+        <div class="page-section-title">Kategorie</div>
+        <div class="two-col">
+          <div class="subsection">
+            <h2>Top 10 gatunków</h2>
+            <table class="top-table">
+              <tbody id="top-genres"></tbody>
+              <tfoot><tr><td colspan="5"><a class="more-link" id="more-genres" href="#">Wszystkie gatunki →</a></td></tr></tfoot>
+            </table>
+          </div>
+          <div class="subsection">
+            <h2>Top 10 krajów</h2>
+            <table class="top-table">
+              <tbody id="top-countries"></tbody>
+              <tfoot><tr><td colspan="5"><a class="more-link" id="more-countries" href="#">Wszystkie kraje →</a></td></tr></tfoot>
+            </table>
+          </div>
+        </div>
+        <div class="two-col">
+          <div class="subsection">
+            <h2>Top 10 języków</h2>
+            <table class="top-table">
+              <tbody id="top-langs"></tbody>
+              <tfoot><tr><td colspan="5"><a class="more-link" id="more-langs" href="#">Wszystkie języki →</a></td></tr></tfoot>
+            </table>
+          </div>
+          <div class="subsection">
+            <h2>Top 10 dekad</h2>
+            <table class="top-table">
+              <tbody id="top-decades"></tbody>
+              <tfoot><tr><td colspan="5"><a class="more-link" id="more-decades" href="#">Wszystkie dekady →</a></td></tr></tfoot>
+            </table>
+          </div>
+        </div>
+      </div>
+
+      <!-- REKOMENDACJE -->
+      <div id="recs-section" style="display:none" class="page-section">
+        <div class="page-section-title">Rekomendacje</div>
+        <div class="subsection">
+          <h2>Filmy do obejrzenia <span style="font-size:.8rem;font-weight:400;color:var(--muted)">— nieocenione o wysokiej ocenie końcowej</span></h2>
+          <table class="top-table">
+            <tbody id="top-recs"></tbody>
+            <tfoot><tr><td colspan="3"><a class="more-link" id="more-recs" href="#">Więcej rekomendacji →</a></td></tr></tfoot>
+          </table>
+        </div>
+      </div>
+
+      <!-- KALENDARIUM OCEN (tylko Michał/Jarek — mają daty dodania) -->
+      <div id="activity-section" style="display:none" class="page-section">
+        <div class="page-section-title">Kalendarium ocen</div>
+        <div class="subsection">
+          <h2>Liczba ocen dodanych w danym roku <span style="font-size:.8rem;font-weight:400;color:var(--muted)">— kliknij rok, aby zobaczyć filmy</span></h2>
+          <svg id="activity-chart" viewBox="0 0 800 140" style="width:100%;max-width:800px;overflow:visible;display:block;margin:.5rem 0 1rem"></svg>
+        </div>
+        <div class="subsection">
+          <h2>Średnia ocena wystawiona w danym roku</h2>
+          <svg id="activity-avg-chart" viewBox="0 0 800 130" style="width:100%;max-width:800px;overflow:visible;display:block;margin:.5rem 0 1rem"></svg>
+        </div>
+        <div class="subsection">
+          <table class="top-table" id="activity-table" style="max-width:420px">
+            <thead><tr>
+              <th data-col="year">Rok</th>
+              <th class="num" data-col="count">Liczba ocen</th>
+              <th class="num" data-col="avg">Średnia ocena</th>
+            </tr></thead>
+            <tbody id="activity-tbody"></tbody>
+          </table>
+        </div>
+      </div>
+
+    </div>
+  </div>
+  <script>
+    const LABELS   = { michal: 'Michał', jarek: 'Jarek', imdb: 'IMDb', filmweb: 'Filmweb' };
+    const IMDB_SVG = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 32" style="height:2rem;width:auto;vertical-align:middle" aria-label="IMDb"><rect width="100%" height="100%" rx="4" fill="#F5C518"/><g transform="translate(8,7)" fill="#000" fill-rule="nonzero"><polygon points="0 18 5 18 5 0 0 0"/><path d="M15.6725178,0 L14.5534833,8.40846934 L13.8582008,3.83502426 C13.65661,2.37009263 13.4632474,1.09175121 13.278113,0 L7,0 L7,18 L11.2416347,18 L11.2580911,6.11380679 L13.0436094,18 L16.0633571,18 L17.7583653,5.8517865 L17.7707076,18 L22,18 L22,0 Z"/><path d="M24,18 L24,0 L31.8045586,0 C33.5693522,0 35,1.41994415 35,3.17660424 L35,14.8233958 C35,16.5777858 33.5716617,18 31.8045586,18 Z M29.8322479,3.2395236 C29.6339219,3.13233348 29.2545158,3.08072342 28.7026524,3.08072342 L28.7026524,14.8914865 C29.4312846,14.8914865 29.8796736,14.7604764 30.0478195,14.4865461 C30.2159654,14.2165858 30.3021941,13.486105 30.3021941,12.2871637 L30.3021941,5.3078959 C30.3021941,4.49404499 30.272014,3.97397442 30.2159654,3.74371416 C30.1599168,3.5134539 30.0348852,3.34671372 29.8322479,3.2395236 Z"/><path d="M44.4299079,4.50685823 L44.749518,4.50685823 C46.5447098,4.50685823 48,5.91267586 48,7.64486762 L48,14.8619906 C48,16.5950653 46.5451816,18 44.749518,18 L44.4299079,18 C43.3314617,18 42.3602746,17.4736618 41.7718697,16.6682739 L41.4838962,17.7687785 L37,17.7687785 L37,0 L41.7843263,0 L41.7843263,5.78053556 C42.4024982,5.01015739 43.3551514,4.50685823 44.4299079,4.50685823 Z M43.4055679,13.2842155 L43.4055679,9.01907814 C43.4055679,8.31433946 43.3603268,7.85185468 43.2660746,7.63896485 C43.1718224,7.42607505 42.7955881,7.2893916 42.5316822,7.2893916 C42.267776,7.2893916 41.8607934,7.40047379 41.7816216,7.58767002 L41.7816216,9.01907814 L41.7816216,13.4207851 L41.7816216,14.8074788 C41.8721037,15.0130276 42.2602358,15.1274059 42.5316822,15.1274059 C42.8031285,15.1274059 43.1982131,15.0166981 43.281155,14.8074788 C43.3640968,14.5982595 43.4055679,14.0880581 43.4055679,13.2842155 Z"/></g></svg>`;
+    const FILMWEB_SVG = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 36" style="height:2rem;width:auto;vertical-align:middle" aria-label="Filmweb"><path fill-rule="evenodd" clip-rule="evenodd" d="M140.582 17.3644L140.674 17.4009C142.82 18.2505 144 20.0525 144 22.4712C144 26.2769 141.098 28.638 136.426 28.638C135.117 28.638 133.241 28.5156 131.966 28.3464L131.895 28.3372V7.11258L131.966 7.10281C133.286 6.91921 135.155 6.78087 136.306 6.78087C141.319 6.78087 143.561 9.63053 143.561 12.454C143.561 14.6865 142.589 16.3245 140.67 17.3201L140.582 17.3644ZM110.066 19.8984L112.532 6.95637H116.154L111.317 28.6381L109.937 28.6695L105.269 14.8183L105.226 14.6917L100.657 28.6695L99.2758 28.6381L94.3787 6.95637H98.0626L100.553 19.9513L100.641 19.956L104.666 6.86843H105.901L109.98 19.903L110.066 19.8984ZM89.0107 28.4798H92.2899V6.88491H90.6534L84.2496 19.4793L84.2083 19.3995L77.8468 6.88491H76.2124V28.4798H79.4885L79.4905 28.399L79.4642 16.409L79.549 16.3894L84.0253 25.1601H84.475L88.9523 16.3894L89.0371 16.409L89.0107 28.4006V28.4798ZM56.823 28.4796H60.293V6.9717H56.823V28.4796ZM53.352 16.3484H47.1441V10.162H54.1992V6.97192H43.6772V28.4799H47.1441V19.4526H53.352V16.3484ZM63.5627 28.4796V6.9717H67.0316V25.2875H73.8815V28.4796H63.5627ZM128.988 10.1471V6.95643H118.316V28.4644H128.988V25.2732H121.785V19.0288H128.284V15.8963H121.785V10.1471H128.988ZM135.305 9.98798L135.344 9.98026C135.802 9.90055 136.361 9.8846 136.748 9.8846C138.853 9.8846 140.062 11.0227 140.062 13.0079C140.062 15.0465 138.811 16.218 136.629 16.218C136.033 16.218 135.534 16.1846 135.348 16.1697L135.305 16.1661V9.98798ZM135.344 25.4941C135.719 25.5389 136.296 25.5949 136.925 25.5949C139.109 25.5949 140.413 24.2964 140.413 22.1214C140.413 20.1142 138.929 18.7657 136.718 18.7657C136.306 18.7657 135.704 18.7878 135.344 18.8357L135.305 18.8403V25.489L135.344 25.4941Z" fill="#1a1a2e"/><path fill-rule="evenodd" clip-rule="evenodd" d="M18.0914 36C28.083 36 36.1828 27.9411 36.1828 18C36.1828 8.05887 28.083 0 18.0914 0C8.09979 0 0 8.05887 0 18C0 27.9411 8.09979 36 18.0914 36ZM23.8936 24.5273C23.2377 25.1033 22.5233 25.5754 21.7692 25.939L23.3757 29.0118C24.38 28.5264 25.3291 27.9051 26.2005 27.1239C26.2189 27.0939 26.2419 27.0664 26.2658 27.0379C26.2838 27.0166 26.3022 26.9946 26.3194 26.9706C26.3813 26.92 26.441 26.8678 26.5016 26.8147C26.5518 26.7707 26.6027 26.7262 26.6559 26.6816L26.7355 26.6081C28.0872 25.2431 29.0719 23.7219 29.6777 22.0433C29.7966 21.6802 29.8933 21.3022 29.9785 20.9257C30.2075 19.9511 30.3166 18.921 30.3166 17.8451C30.3238 16.8155 30.2184 15.8369 30.0137 14.9168C29.9129 14.4329 29.7837 13.9577 29.6441 13.5107C29.1598 12.242 28.4578 11.0705 27.5424 9.99304C27.2798 9.69475 27.0116 9.40521 26.7355 9.12698C26.7225 9.11426 26.7103 9.10312 26.6991 9.09295L26.699 9.09293L26.699 9.09291L26.699 9.09288L26.699 9.09285C26.6817 9.07716 26.6669 9.06375 26.6559 9.05035L26.4699 8.79269C26.4524 8.78715 26.4334 8.78014 26.4147 8.77326L26.4146 8.77323C26.3934 8.76542 26.3727 8.75777 26.3551 8.75258C25.6413 8.07321 24.8819 7.50338 24.0756 7.04206C24.0565 7.01275 24.0342 6.98909 24.0115 6.96852C23.7866 6.85023 23.5597 6.73349 23.3344 6.63629L21.7692 9.71789C22.4163 10.0398 23.0273 10.4497 23.614 10.9522C23.8099 11.1234 24.0027 11.3075 24.1955 11.5009L24.2455 11.5551L24.2455 11.5551C24.3502 11.6684 24.4615 11.789 24.5599 11.9103C24.8737 12.2657 25.1657 12.6287 25.4242 13.0253C25.4639 13.0894 25.5046 13.154 25.5455 13.2188L25.5457 13.219L25.5457 13.2192C25.607 13.3162 25.6685 13.4137 25.7271 13.5107C25.9571 13.9278 26.1618 14.3562 26.3194 14.8088C26.6678 15.7412 26.8363 16.7636 26.8363 17.8451C26.8363 18.974 26.6559 20.0257 26.2791 21.0008C26.1421 21.3572 25.9747 21.7002 25.7932 22.0433C25.6754 22.2485 25.556 22.4393 25.4242 22.6352C25.1585 23.0533 24.867 23.4622 24.531 23.8577C24.4788 23.915 24.4262 23.9751 24.3723 24.0365L24.3722 24.0366L24.3722 24.0367C24.315 24.1019 24.2564 24.1687 24.1955 24.2357V24.2665L24.1064 24.343C24.0348 24.4043 23.963 24.4659 23.8936 24.5273ZM15.4211 16.0642H17.5279H21.4352V19.7804H17.5279H15.4211V16.0642ZM10.3928 11.2007C11.0839 11.897 11.9259 12.2421 12.9318 12.2421H12.9829C13.9433 12.2421 14.7792 11.9068 15.4656 11.2408C16.1562 10.5439 16.5004 9.70614 16.5159 8.7182C16.5247 7.72923 16.1784 6.89402 15.5002 6.19614C14.8076 5.49671 13.9666 5.15471 12.9628 5.15471C11.9683 5.14391 11.1288 5.47614 10.4248 6.15397C9.73889 6.84157 9.38998 7.6778 9.38998 8.67757C9.38068 9.665 9.71821 10.4997 10.3928 11.2007ZM7.61327 21.1716C6.60325 21.1716 5.75658 20.8224 5.06083 20.1225C4.3806 19.4184 4.04151 18.5766 4.05547 17.584C4.05547 16.5827 4.40282 15.7398 5.09236 15.047C5.8031 14.3666 6.64822 14.0313 7.64377 14.0421C8.65482 14.0421 9.50046 14.3877 10.1947 15.0902C10.8785 15.7927 11.2295 16.6331 11.2155 17.6256C11.2036 18.6228 10.8568 19.4627 10.1595 20.1631C9.46945 20.8348 8.62535 21.1716 7.65514 21.1716H7.61327ZM10.4884 29.1199C11.1805 29.8172 12.021 30.1639 13.0232 30.1639H13.0666C14.0301 30.1639 14.8701 29.828 15.5539 29.1626C16.2492 28.4631 16.5945 27.629 16.6074 26.6379C16.6193 25.6515 16.2724 24.8174 15.5891 24.1195C14.899 23.42 14.0596 23.076 13.0553 23.076C12.0649 23.0667 11.2218 23.3995 10.5209 24.0763C9.8319 24.7634 9.48609 25.6006 9.48609 26.5983C9.47472 27.5858 9.81226 28.4199 10.4884 29.1199Z" fill="url(#fw-logo-grad)"/><defs><linearGradient id="fw-logo-grad" x1="-8.11854" y1="18.39" x2="18.7976" y2="44.2624" gradientUnits="userSpaceOnUse"><stop stop-color="#FFCD05"/><stop offset="1" stop-color="#D89124"/></linearGradient></defs></svg>`;
+    const HEADINGS = { jarek: 'Jarek', michal: 'Michał', imdb: IMDB_SVG, filmweb: FILMWEB_SVG };
+    const STATS_DEC  = { imdb: 1, filmweb: 1, michal: 1, jarek: 1 };
+    const RATING_DEC = { imdb: 1, filmweb: 1, michal: 0, jarek: 0 };
+    const BAYES_M    = 10;
+
+    const src = 'filmweb';
+
+
+    function fmt1(v) { return v != null ? Number(v).toFixed(1) : '—'; }
+    function fmt2(v) { return v != null ? Number(v).toFixed(2) : '—'; }
+
+    function fmtFilmy(n) {
+      if (n === 1) return '1 film';
+      const l2 = n % 100, l1 = n % 10;
+      if (l2 >= 11 && l2 <= 14) return `${n} filmów`;
+      if (l1 >= 2 && l1 <= 4)   return `${n} filmy`;
+      return `${n} filmów`;
+    }
+
+    function fmtRol(n) {
+      if (n === 1) return '1 rola';
+      const l2 = n % 100, l1 = n % 10;
+      if (l2 >= 11 && l2 <= 14) return `${n} ról`;
+      if (l1 >= 2 && l1 <= 4)   return `${n} role`;
+      return `${n} ról`;
+    }
+
+    function tipPersonRow(p) {
+      const photo = p.image_url
+        ? `<img src="${p.image_url}" alt="" style="width:64px;height:80px;object-fit:cover;border-radius:4px;flex-shrink:0">`
+        : `<div style="width:64px;height:80px;border-radius:4px;background:var(--border);flex-shrink:0"></div>`;
+      if (!p.top_films?.length) return photo;
+      const rows = p.top_films.map(f =>
+        `<tr>
+          <td class="muted" style="padding-right:.6em">${f.year ?? '—'}</td>
+          <td style="max-width:200px;white-space:normal"><a href="/film/?id=${f.imdb_id}" style="color:inherit">${f.title}</a></td>
+          <td style="padding-left:.6em"><span class="${scoreClass(f.score)}">${fmt2(f.score)}</span></td>
+        </tr>`
+      ).join('');
+      return `<div style="display:flex;gap:.9rem;align-items:flex-start">${photo}` +
+        `<div><div class="tip-title" style="margin-bottom:.4rem">Najlepsze filmy</div>` +
+        `<table style="border-collapse:collapse;font-size:.85rem">${rows}</table></div></div>`;
+    }
+
+    function tipPerson(label, bayesian, avg, count, rk) {
+      return `<div class="tip-title">${label}</div>` +
+        `<div class="tip-main-val">${fmt(bayesian)}${rankStr(rk)}</div>` +
+        _tipRows([['Średnia', fmt(avg)], ['Filmów', String(count)]]);
+    }
+
+    function renderTopFilms(movies) {
+      const allRated = [...movies]
+        .filter(m => m.ratings?.[src]?.rating != null)
+        .sort((a, b) => b.ratings[src].rating - a.ratings[src].rating);
+      const filmRankSrc = {};
+      allRated.forEach((m, i) => { filmRankSrc[m.id] = { rank: i + 1, total: allRated.length }; });
+      const allScored = [...movies].filter(m => m.score != null).sort((a, b) => b.score - a.score);
+      const filmRankAll = {};
+      allScored.forEach((m, i) => { filmRankAll[m.id] = { rank: i + 1, total: allScored.length }; });
+
+      const top10 = allRated.slice(0, 10);
+      const rDec = RATING_DEC[src];
+      const tbody = document.getElementById('top-films');
+      tbody.innerHTML = top10.map((m, i) => {
+        const display = m.polish_title || m.title;
+        return `<tr>
+          <td class="rank">${i+1}</td>
+          <td data-idx="${i}"><a href="/film/?id=${m.id}">${display}</a>
+              ${m.year ? `<span class="muted" style="font-size:.8rem"> (${m.year})</span>` : ''}</td>
+          <td class="score-col" data-score-idx="${i}"><span class="${scoreClass(m.ratings[src].rating)}">${Number(m.ratings[src].rating).toFixed(rDec)}</span></td>
+          <td class="score-col muted" data-agg-idx="${i}" style="font-size:.8rem">${m.score != null ? fmt2(m.score) : '—'}</td>
+        </tr>`;
+      }).join('');
+      tbody.querySelectorAll('[data-idx]').forEach(td => {
+        const m = top10[+td.dataset.idx];
+        if (m.image_url || m.directors?.length || m.stars?.length)
+          attachTip(td, () => tipFilm(m));
+      });
+      tbody.querySelectorAll('[data-score-idx]').forEach(td => {
+        const m = top10[+td.dataset.scoreIdx];
+        attachTip(td, () => tipCritic(m.ratings[src], LABELS[src], filmRankSrc[m.id]));
+      });
+      tbody.querySelectorAll('[data-agg-idx]').forEach(td => {
+        const m = top10[+td.dataset.aggIdx];
+        if (m.score == null) return;
+        attachTip(td, () => tipScore(m.ratings, m.score, filmRankAll[m.id]));
+      });
+      document.getElementById('more-films').href = (src === 'michal' || src === 'jarek')
+        ? `/?ocenil=${src}&sortuj=${src}` : `/?sortuj=${src}`;
+    }
+
+    function renderTopPersons(persons, tbodyId, moreId, moreUrl) {
+      const allBySrc = [...persons]
+        .filter(p => p.ratings?.[src]?.bayesian != null)
+        .sort((a, b) => b.ratings[src].bayesian - a.ratings[src].bayesian);
+      const personRankSrc = {};
+      allBySrc.forEach((p, i) => { personRankSrc[p.id] = { rank: i + 1, total: allBySrc.length }; });
+      const allByScore = [...persons].filter(p => p.score != null).sort((a, b) => b.score - a.score);
+      const personRankAll = {};
+      allByScore.forEach((p, i) => { personRankAll[p.id] = { rank: i + 1, total: allByScore.length }; });
+
+      const top10 = allBySrc.slice(0, 10);
+      const tbody = document.getElementById(tbodyId);
+      tbody.innerHTML = top10.map((p, i) =>
+        `<tr>
+          <td class="rank">${i+1}</td>
+          <td data-idx="${i}"><a href="/osoba/?id=${p.id}">${p.name}</a></td>
+          <td class="score-col" data-score-idx="${i}"><span class="${scoreClass(p.ratings[src].bayesian)}">${fmt1(p.ratings[src].bayesian)}</span></td>
+          <td class="score-col muted" data-agg-idx="${i}" style="font-size:.8rem">${p.score != null ? fmt2(p.score) : '—'}</td>
+          <td class="count-col">${fmtFilmy(p.ratings[src].count)}</td>
+        </tr>`
+      ).join('');
+      tbody.querySelectorAll('[data-idx]').forEach(td => {
+        const p = top10[+td.dataset.idx];
+        if (p.image_url || p.top_films?.length)
+          attachTip(td, () => tipPersonRow(p));
+      });
+      tbody.querySelectorAll('[data-score-idx]').forEach(td => {
+        const p = top10[+td.dataset.scoreIdx];
+        const r = p.ratings[src];
+        attachTip(td, () => tipPerson(LABELS[src], r.bayesian, r.avg, r.count, personRankSrc[p.id]));
+      });
+      tbody.querySelectorAll('[data-agg-idx]').forEach(td => {
+        const p = top10[+td.dataset.aggIdx];
+        if (p.score == null) return;
+        attachTip(td, () => tipPerson('Ocena końcowa', p.score, p.score_avg, p.film_count, personRankAll[p.id]));
+      });
+      document.getElementById(moreId).href = moreUrl;
+    }
+
+    function computeAndRenderVersatile(roleIndexes) {
+      const ROLES = ['director','writer','star','cast','composer','cinematographer','producer'];
+      const globalMeans = {};
+      ROLES.forEach((role, i) => {
+        const vals = roleIndexes[i].map(p => p.ratings?.[src]?.bayesian).filter(v => v != null);
+        globalMeans[role] = vals.length ? vals.reduce((a,b) => a+b, 0) / vals.length : 5.5;
+      });
+      const personData = {};
+      ROLES.forEach((role, i) => {
+        roleIndexes[i].forEach(p => {
+          const s = p.ratings?.[src]?.bayesian;
+          if (s == null) return;
+          if (!personData[p.id]) personData[p.id] = { name: p.name, image_url: p.image_url, top_films: p.top_films, roles: {} };
+          personData[p.id].roles[role] = s;
+        });
+      });
+      const result = [];
+      for (const [pid, data] of Object.entries(personData)) {
+        const roleCount = Object.keys(data.roles).length;
+        if (roleCount < 3) continue;
+        const score = ROLES.reduce((sum, r) => sum + (data.roles[r] ?? globalMeans[r]), 0) / ROLES.length;
+        result.push({ id: pid, name: data.name, image_url: data.image_url, top_films: data.top_films, role_count: roleCount, score });
+      }
+      result.sort((a, b) => b.score - a.score);
+      const versTotal = result.length;
+      const top10 = result.slice(0, 10);
+      const tbody = document.getElementById('top-versatile');
+      tbody.innerHTML = top10.map((p, i) =>
+        `<tr>
+          <td class="rank">${i+1}</td>
+          <td data-idx="${i}"><a href="/osoba/?id=${p.id}">${p.name}</a></td>
+          <td class="score-col" data-score-idx="${i}"><span class="${scoreClass(p.score)}">${fmt1(p.score)}</span></td>
+          <td class="count-col">${fmtRol(p.role_count)}</td>
+        </tr>`
+      ).join('');
+      tbody.querySelectorAll('[data-idx]').forEach(td => {
+        const p = top10[+td.dataset.idx];
+        if (p && (p.image_url || p.top_films?.length))
+          attachTip(td, () => tipPersonRow(p));
+      });
+      tbody.querySelectorAll('[data-score-idx]').forEach(td => {
+        const i = +td.dataset.scoreIdx;
+        const p = top10[i];
+        if (!p) return;
+        attachTip(td, () =>
+          `<div class="tip-title">Wszechstronność (${LABELS[src]})</div>` +
+          `<div class="tip-main-val">${fmt(p.score)}${rankStr({ rank: i + 1, total: versTotal })}</div>` +
+          _tipRows([['Role', String(p.role_count)]])
+        );
+      });
+    }
+
+    function renderTopCategories(movies) {
+      const ratings = movies.flatMap(m => { const v = m.ratings?.[src]?.rating; return v != null ? [v] : []; });
+      const globalMean = ratings.length ? ratings.reduce((a,b) => a+b, 0) / ratings.length : 0;
+      const allScoreVals = movies.flatMap(m => m.score != null ? [m.score] : []);
+      const globalScoreMean = allScoreVals.length ? allScoreVals.reduce((a,b) => a+b, 0) / allScoreVals.length : 0;
+      const bay = (vals, mean) => vals.length
+        ? (vals.reduce((a,b) => a+b, 0) + BAYES_M * mean) / (vals.length + BAYES_M) : null;
+
+      const groups = { genres: {}, countries: {}, languages: {} };
+      for (const m of movies) {
+        const v = m.ratings?.[src]?.rating;
+        for (const g of m.genres    || []) {
+          if (!groups.genres[g])    groups.genres[g]    = { vals: [], films: [], allScores: [] };
+          if (v != null) { groups.genres[g].vals.push(v); groups.genres[g].films.push(m); }
+          if (m.score != null) groups.genres[g].allScores.push(m.score);
+        }
+        for (const c of m.countries || []) {
+          if (!groups.countries[c]) groups.countries[c] = { vals: [], films: [], allScores: [] };
+          if (v != null) { groups.countries[c].vals.push(v); groups.countries[c].films.push(m); }
+          if (m.score != null) groups.countries[c].allScores.push(m.score);
+        }
+        for (const l of m.languages || []) {
+          if (!groups.languages[l]) groups.languages[l] = { vals: [], films: [], allScores: [] };
+          if (v != null) { groups.languages[l].vals.push(v); groups.languages[l].films.push(m); }
+          if (m.score != null) groups.languages[l].allScores.push(m.score);
+        }
+      }
+
+      const top = (byDict, nameDict) => {
+        const all = Object.entries(byDict)
+          .filter(([, d]) => d.vals.length > 0)
+          .map(([k, d]) => ({
+            name:     nameDict[k] || k,
+            key:      k,
+            score:    bay(d.vals, globalMean),
+            scoreAll: bay(d.allScores, globalScoreMean),
+            count:    d.vals.length,
+            countAll: d.allScores.length,
+            top5:     [...d.films].sort((a, b) => (b.ratings[src]?.rating ?? 0) - (a.ratings[src]?.rating ?? 0)).slice(0, 5),
+          }))
+          .sort((a, b) => b.score - a.score);
+        const total = all.length;
+        all.forEach((item, i) => { item._rankSrc = i + 1; item._total = total; });
+        const byAll = [...all].sort((a, b) => (b.scoreAll ?? -Infinity) - (a.scoreAll ?? -Infinity));
+        byAll.forEach((item, i) => { item._rankAll = i + 1; });
+        return all.slice(0, 10);
+      };
+
+      const rDec = RATING_DEC[src];
+      const renderCat = (tbodyId, items, moreId, base) => {
+        const tbody = document.getElementById(tbodyId);
+        tbody.innerHTML = items.map((item, i) =>
+          `<tr>
+            <td class="rank">${i+1}</td>
+            <td data-idx="${i}"><a href="${base}?zaznacz=${encodeURIComponent(item.key)}">${item.name}</a></td>
+            <td class="score-col" data-score-idx="${i}"><span class="${scoreClass(item.score)}">${fmt1(item.score)}</span></td>
+            <td class="score-col muted" data-agg-idx="${i}" style="font-size:.8rem">${fmt2(item.scoreAll)}</td>
+            <td class="count-col">${fmtFilmy(item.count)}</td>
+          </tr>`
+        ).join('');
+        tbody.querySelectorAll('[data-idx]').forEach(td => {
+          const item = items[+td.dataset.idx];
+          if (!item.top5.length) return;
+          attachTip(td, () => {
+            const rows = item.top5.map(m => {
+              const v = m.ratings[src]?.rating;
+              return `<tr>
+                <td class="muted" style="padding-right:.6em">${m.year ?? '—'}</td>
+                <td style="max-width:200px;white-space:normal"><a href="/film/?id=${m.id}" style="color:inherit">${m.polish_title || m.title}</a></td>
+                <td style="padding-left:.6em"><span class="${scoreClass(v)}">${v != null ? Number(v).toFixed(rDec) : '—'}</span></td>
+              </tr>`;
+            }).join('');
+            return `<div class="tip-title">Top 5: ${item.name}</div><table style="border-collapse:collapse;font-size:.85rem">${rows}</table>`;
+          });
+        });
+        tbody.querySelectorAll('[data-score-idx]').forEach(td => {
+          const item = items[+td.dataset.scoreIdx];
+          if (item.score == null) return;
+          attachTip(td, () =>
+            `<div class="tip-title">${LABELS[src]}</div>` +
+            `<div class="tip-main-val">${fmt1(item.score)}${rankStr({ rank: item._rankSrc, total: item._total })}</div>` +
+            _tipRows([['Filmów', String(item.count)]])
+          );
+        });
+        tbody.querySelectorAll('[data-agg-idx]').forEach(td => {
+          const item = items[+td.dataset.aggIdx];
+          if (item.scoreAll == null) return;
+          attachTip(td, () =>
+            `<div class="tip-title">Ocena końcowa</div>` +
+            `<div class="tip-main-val">${fmt2(item.scoreAll)}${rankStr({ rank: item._rankAll, total: item._total })}</div>` +
+            _tipRows([['Filmów', String(item.countAll)]])
+          );
+        });
+        if (moreId) document.getElementById(moreId).href = `${base}?sortuj=${src}`;
+      };
+
+      renderCat('top-genres',    top(groups.genres,    GENRES),    'more-genres',    '/kategoria/gatunek/');
+      renderCat('top-countries', top(groups.countries, COUNTRIES), 'more-countries', '/kategoria/kraj/');
+      renderCat('top-langs',     top(groups.languages, LANGUAGES), 'more-langs',     '/kategoria/jezyk/');
+
+      // Decades
+      const decadeGroups = {};
+      for (const m of movies) {
+        const v = m.ratings?.[src]?.rating;
+        const d = m.year != null ? Math.floor(m.year / 10) * 10 : null;
+        if (d == null) continue;
+        if (!decadeGroups[d]) decadeGroups[d] = { vals: [], films: [], allScores: [] };
+        if (v != null) { decadeGroups[d].vals.push(v); decadeGroups[d].films.push(m); }
+        if (m.score != null) decadeGroups[d].allScores.push(m.score);
+      }
+      const decadeAll = Object.entries(decadeGroups)
+        .filter(([, d]) => d.vals.length > 0)
+        .map(([k, d]) => ({
+          name:     `${k}–${+k + 9}`,
+          key:      k,
+          score:    bay(d.vals, globalMean),
+          scoreAll: bay(d.allScores, globalScoreMean),
+          count:    d.vals.length,
+          countAll: d.allScores.length,
+          top5:     [...d.films].sort((a, b) => (b.ratings[src]?.rating ?? 0) - (a.ratings[src]?.rating ?? 0)).slice(0, 5),
+        }))
+        .sort((a, b) => b.score - a.score);
+      const decTotal = decadeAll.length;
+      decadeAll.forEach((item, i) => { item._rankSrc = i + 1; item._total = decTotal; });
+      const decByAll = [...decadeAll].sort((a, b) => (b.scoreAll ?? -Infinity) - (a.scoreAll ?? -Infinity));
+      decByAll.forEach((item, i) => { item._rankAll = i + 1; });
+      renderCat('top-decades', decadeAll.slice(0, 10), 'more-decades', '/kategoria/dekada/');
+    }
+
+    function renderRecs(movies, recsMoreUrl) {
+      if (src !== 'jarek' && src !== 'michal') return;
+      const recs = movies
+        .filter(m => m.score != null && m.ratings?.[src]?.rating == null)
+        .sort((a, b) => b.score - a.score)
+        .slice(0, 10);
+      document.getElementById('recs-section').style.display = '';
+      const tbody = document.getElementById('top-recs');
+      tbody.innerHTML = recs.map((m, i) => {
+        const display = m.polish_title || m.title;
+        return `<tr>
+          <td class="rank">${i+1}</td>
+          <td data-idx="${i}"><a href="/film/?id=${m.id}">${display}</a>
+              ${m.year ? `<span class="muted" style="font-size:.8rem"> (${m.year})</span>` : ''}</td>
+          <td class="score-col"><span class="${scoreClass(m.score)}">${fmt2(m.score)}</span></td>
+        </tr>`;
+      }).join('');
+      tbody.querySelectorAll('[data-idx]').forEach(td => {
+        const m = recs[+td.dataset.idx];
+        if (m.image_url || m.directors?.length || m.stars?.length)
+          attachTip(td, () => tipFilm(m));
+      });
+      document.getElementById('more-recs').href = recsMoreUrl;
+    }
+
+    // "Kalendarium ocen" (Michał/Jarek only): count-per-year bar chart, average-
+    // rating-per-year line chart, and a sortable year table. Years link to the
+    // movie list filtered by that critic + year-added.
+    function renderActivity(movies) {
+      const agg = {};  // year → { n, sum } of the critic's raw ratings
+      movies.forEach(m => {
+        const rt = m.ratings?.[src];
+        const dr = rt?.date_rated;
+        if (dr && dr.length >= 4 && rt.rating != null) {
+          const y = dr.slice(-4);
+          (agg[y] = agg[y] || { n: 0, sum: 0 });
+          agg[y].n++; agg[y].sum += rt.rating;
+        }
+      });
+      const nums = Object.keys(agg).map(Number).sort((a, b) => a - b);
+      if (!nums.length) return;
+      const years = [];
+      for (let y = nums[0]; y <= nums[nums.length - 1]; y++) years.push(y);
+      const rows = years.map(y => {
+        const a = agg[y];
+        return { year: y, count: a ? a.n : 0, avg: a && a.n ? a.sum / a.n : null };
+      });
+      const totalN = rows.reduce((s, r) => s + r.count, 0);
+      const overallAvg = totalN ? rows.reduce((s, r) => s + (r.avg != null ? r.avg * r.count : 0), 0) / totalN : null;
+      const filterUrl = y => `/?ocenil=${src}&rok-oceny=${y}`;
+      const xLabel = y => years.length <= 12 || y % 5 === 0;
+
+      // ── Count bar chart ──────────────────────────────────────────────────
+      (() => {
+        const W = 800, H = 140, PL = 34, PR = 12, PT = 12, PB = 28;
+        const cw = W - PL - PR, ch = H - PT - PB;
+        const maxVal = Math.max(...rows.map(r => r.count), 1);
+        const slot = cw / years.length, barW = Math.min(38, slot * 0.7);
+        let s = `<line x1="${PL}" x2="${PL}" y1="${PT}" y2="${PT + ch}" stroke="var(--border)"/>`;
+        s += `<line x1="${PL}" x2="${W - PR}" y1="${PT + ch}" y2="${PT + ch}" stroke="var(--border)"/>`;
+        s += `<text x="${PL - 5}" y="${PT + 4}" text-anchor="end" font-size="11" fill="var(--muted)">${maxVal}</text>`;
+        rows.forEach((r, i) => {
+          const cx = PL + slot * (i + 0.5);
+          const bh = ch * (r.count / maxVal);
+          if (xLabel(r.year)) s += `<text x="${cx.toFixed(1)}" y="${PT + ch + 16}" text-anchor="middle" font-size="10" fill="var(--muted)">${r.year}</text>`;
+          s += `<a href="${filterUrl(r.year)}"><rect class="act-bar" data-year="${r.year}" x="${(cx - barW / 2).toFixed(1)}" y="${(PT + ch - bh).toFixed(1)}" width="${barW.toFixed(1)}" height="${bh.toFixed(1)}" rx="2" fill="var(--accent)" opacity=".7" style="cursor:pointer"/></a>`;
+        });
+        document.getElementById('activity-chart').innerHTML = s;
+        document.querySelectorAll('#activity-chart .act-bar').forEach(rect => {
+          const r = rows[years.indexOf(+rect.dataset.year)];
+          attachTip(rect, () =>
+            `<div class="tip-title">${r.year}</div><div class="tip-main-val">${r.count}</div>` +
+            `<div class="muted" style="font-size:.8rem">${r.count === 1 ? 'ocena dodana' : 'ocen dodanych'}</div>`);
+        });
+      })();
+
+      // ── Average-rating line chart ────────────────────────────────────────
+      (() => {
+        const pts = rows.filter(r => r.avg != null);
+        if (pts.length < 1) return;
+        const W = 800, H = 130, PL = 34, PR = 12, PT = 12, PB = 28;
+        const cw = W - PL - PR, ch = H - PT - PB;
+        const avgs = rows.map(r => r.avg).filter(v => v != null).concat(overallAvg != null ? [overallAvg] : []);
+        const yMin = Math.max(1, Math.floor(Math.min(...avgs) - 0.5));
+        const yMax = Math.min(10, Math.ceil(Math.max(...avgs) + 0.5));
+        const slot = cw / years.length;
+        const xPos = i => PL + slot * (i + 0.5);
+        const yPos = v => PT + ch * (1 - (v - yMin) / (yMax - yMin || 1));
+        let s = '';
+        for (let g = yMin; g <= yMax; g++) {
+          const yp = yPos(g).toFixed(1);
+          s += `<line x1="${PL}" x2="${W - PR}" y1="${yp}" y2="${yp}" stroke="var(--border)" stroke-width=".5"/>`;
+          s += `<text x="${PL - 5}" y="${(+yp + 4).toFixed(1)}" text-anchor="end" font-size="11" fill="var(--muted)">${g}</text>`;
+        }
+        s += `<line x1="${PL}" x2="${PL}" y1="${PT}" y2="${PT + ch}" stroke="var(--border)"/>`;
+        // reference line at the critic's lifetime average
+        if (overallAvg != null) {
+          const yp = yPos(overallAvg).toFixed(1);
+          s += `<line x1="${PL}" x2="${W - PR}" y1="${yp}" y2="${yp}" stroke="var(--accent)" stroke-width="1" stroke-dasharray="3,3" opacity=".6"/>`;
+        }
+        rows.forEach((r, i) => { if (xLabel(r.year)) s += `<text x="${xPos(i).toFixed(1)}" y="${PT + ch + 16}" text-anchor="middle" font-size="10" fill="var(--muted)">${r.year}</text>`; });
+        const line = rows.map((r, i) => r.avg != null ? `${xPos(i).toFixed(1)},${yPos(r.avg).toFixed(1)}` : null).filter(Boolean).join(' ');
+        s += `<polyline points="${line}" fill="none" stroke="var(--accent)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>`;
+        rows.forEach((r, i) => {
+          if (r.avg == null) return;
+          s += `<circle class="avg-dot" data-year="${r.year}" cx="${xPos(i).toFixed(1)}" cy="${yPos(r.avg).toFixed(1)}" r="3.2" fill="var(--accent)"/>`;
+        });
+        document.getElementById('activity-avg-chart').innerHTML = s;
+        document.querySelectorAll('#activity-avg-chart .avg-dot').forEach(dot => {
+          const r = rows[years.indexOf(+dot.dataset.year)];
+          attachTip(dot, () =>
+            `<div class="tip-title">${r.year}</div><div class="tip-main-val">${r.avg.toFixed(2)}</div>` +
+            `<div class="muted" style="font-size:.8rem">średnia z ${r.count} ${r.count === 1 ? 'oceny' : 'ocen'}</div>`);
+        });
+      })();
+
+      // ── Sortable table ───────────────────────────────────────────────────
+      const tbody = document.getElementById('activity-tbody');
+      const KAL_COLS = new Set(['year', 'count', 'avg']);
+      let sortCol = 'year', sortDir = -1;
+
+      // Restore the Kalendarium sort from URL (?sortuj=<col>&kier=rosnaco) so it's shareable
+      const kalP = new URLSearchParams(location.search);
+      if (KAL_COLS.has(kalP.get('sortuj'))) {
+        sortCol = kalP.get('sortuj');
+        sortDir = kalP.get('kier') === 'rosnaco' ? 1 : -1;
+      }
+
+      function syncUrl() {
+        const p = new URLSearchParams();
+        if (sortCol !== 'year' || sortDir !== -1) {
+          p.set('sortuj', sortCol);
+          if (sortDir === 1) p.set('kier', 'rosnaco');
+        }
+        const qs = p.toString();
+        history.replaceState(null, '', qs ? '?' + qs : location.pathname);
+      }
+
+      function draw() {
+        const data = [...rows].sort((a, b) => {
+          const av = a[sortCol], bv = b[sortCol];
+          if (av == null && bv == null) return 0;
+          if (av == null) return 1;
+          if (bv == null) return -1;
+          return (av - bv) * sortDir;
+        });
+        tbody.innerHTML = data.map(r =>
+          `<tr><td><a href="${filterUrl(r.year)}">${r.year}</a></td>` +
+          `<td class="num">${r.count}</td>` +
+          `<td class="num">${r.avg != null ? r.avg.toFixed(2) : '—'}</td></tr>`
+        ).join('');
+        document.querySelectorAll('#activity-table th[data-col]').forEach(th => {
+          const on = th.dataset.col === sortCol;
+          th.classList.toggle('sorted', on);
+          if (on) th.dataset.dir = String(sortDir); else th.removeAttribute('data-dir');
+        });
+      }
+      document.querySelectorAll('#activity-table th[data-col]').forEach(th => {
+        th.style.cursor = 'pointer';
+        th.addEventListener('click', () => {
+          if (sortCol === th.dataset.col) sortDir *= -1;
+          else { sortCol = th.dataset.col; sortDir = -1; }
+          syncUrl();
+          draw();
+        });
+      });
+      draw();
+
+      document.getElementById('activity-section').style.display = '';
+    }
+
+    Promise.all([
+      fetch('../../data/movies_index.json').then(r => r.json()),
+      fetch('../../data/directors_index.json').then(r => r.json()),
+      fetch('../../data/writers_index.json').then(r => r.json()),
+      fetch('../../data/stars_index.json').then(r => r.json()),
+      fetch('../../data/actors_index.json').then(r => r.json()),
+      fetch('../../data/composers_index.json').then(r => r.json()),
+      fetch('../../data/cinematographers_index.json').then(r => r.json()),
+      fetch('../../data/producers_index.json').then(r => r.json()),
+    ]).then(([movies, directors, writers, stars, actors, composers, cinematographers, producers]) => {
+      const isInt = src === 'jarek' || src === 'michal';
+      const sDec  = STATS_DEC[src];
+
+      document.title = LABELS[src] + ' — Noty';
+      document.getElementById('heading').innerHTML = HEADINGS[src];
+
+      const ratingVals = movies.flatMap(m => { const v = m.ratings?.[src]?.rating;     return v != null ? [v] : []; });
+      const normVals   = movies.flatMap(m => { const r = m.ratings?.[src]; return r?.normalized != null && r?.rating != null ? [r.normalized] : []; });
+
+      renderStats('stats-raw',  ratingVals, sDec);
+      renderStats('stats-norm', normVals,   2);
+      renderHistogram('hist-raw',  ratingVals, isInt);
+      renderHistogram('hist-norm', normVals,   isInt);
+
+      renderTopFilms(movies);
+      renderTopPersons(directors,        'top-directors',        'more-directors',        `/osoba/rezyser/?sortuj=${src}`);
+      renderTopPersons(writers,          'top-writers',          'more-writers',          `/osoba/scenarzysta/?sortuj=${src}`);
+      renderTopPersons(stars,            'top-stars',            'more-stars',            `/osoba/gwiazda/?sortuj=${src}`);
+      renderTopPersons(actors,           'top-actors',           'more-actors',           `/osoba/aktor/?sortuj=${src}`);
+      renderTopPersons(composers,        'top-composers',        'more-composers',        `/osoba/kompozytor/?sortuj=${src}`);
+      renderTopPersons(cinematographers, 'top-cinematographers', 'more-cinematographers', `/osoba/operator/?sortuj=${src}`);
+      renderTopPersons(producers,        'top-producers',        'more-producers',        `/osoba/producent/?sortuj=${src}`);
+      computeAndRenderVersatile([directors, writers, stars, actors, composers, cinematographers, producers]);
+
+      renderTopCategories(movies);
+      renderRecs(movies, `/?sortuj=ocena&brak=${src}`);
+      if (isInt) renderActivity(movies);
+
+      attachTip(document.getElementById('norm-help'),
+        () => 'Percentylowo zmapowane na skalę N(5,5; 1,5) (patrz metodologia dla filmów).');
+
+      document.getElementById('loading').style.display = 'none';
+      document.getElementById('content').style.display = '';
+    }).catch(e => {
+      document.getElementById('loading').style.display = 'none';
+      document.getElementById('error').textContent = 'Błąd: ' + e;
+      document.getElementById('error').style.display = '';
+    });
+  </script>
+</body>
+</html>

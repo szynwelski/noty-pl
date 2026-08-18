@@ -1,0 +1,57 @@
+{
+  "id": "nm0939795",
+  "name": "John Wood",
+  "filmography": [
+    {
+      "imdb_id": "tt0086567",
+      "title": "WarGames",
+      "year": 1983,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Falken"
+    },
+    {
+      "imdb_id": "tt0118661",
+      "title": "The Avengers",
+      "year": 1998,
+      "roles": [
+        "cast"
+      ],
+      "character": "Trubshaw"
+    },
+    {
+      "imdb_id": "tt0122541",
+      "title": "An Ideal Husband",
+      "year": 1999,
+      "roles": [
+        "cast"
+      ],
+      "character": "Lord Caversham"
+    },
+    {
+      "imdb_id": "tt0241303",
+      "title": "Chocolat",
+      "year": 2000,
+      "roles": [
+        "cast"
+      ],
+      "character": "Guillaume Blerot"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDUwMTAzNzUzMV5BMl5BanBnXkFtZTcwMzc0MDIyOA@@._V1_.jpg",
+  "birth_date": "05.07.1930",
+  "death_date": "06.08.2011",
+  "birth_location": "Derbyshire, England, UK",
+  "height": "1.88 m",
+  "filmweb_id": 3160,
+  "name_pl": "John Wood",
+  "birth_location_pl": "Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ]
+}

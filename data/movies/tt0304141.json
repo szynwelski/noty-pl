@@ -1,0 +1,258 @@
+{
+  "imdb_id": "tt0304141",
+  "title": "Harry Potter and the Prisoner of Azkaban",
+  "description": "Harry Potter, Ron and Hermione return to Hogwarts School of Witchcraft and Wizardry for their third year of study, where they delve into the mystery surrounding an escaped prisoner who poses a dangerous threat to the young wizard.",
+  "runtime_minutes": 142,
+  "release_date": "04.06.2004",
+  "genres": [
+    "Adventure",
+    "Family",
+    "Fantasy",
+    "Mystery"
+  ],
+  "stars": [
+    {
+      "id": "nm0705356",
+      "name": "Daniel Radcliffe"
+    },
+    {
+      "id": "nm0914612",
+      "name": "Emma Watson"
+    },
+    {
+      "id": "nm0342488",
+      "name": "Rupert Grint"
+    },
+    {
+      "id": "nm0341743",
+      "name": "Richard Griffiths"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0190859",
+      "name": "Alfonso Cuarón"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0746830",
+      "name": "J.K. Rowling"
+    },
+    {
+      "id": "nm0460141",
+      "name": "Steve Kloves"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0705356",
+      "name": "Daniel Radcliffe",
+      "character": "Harry Potter"
+    },
+    {
+      "id": "nm0914612",
+      "name": "Emma Watson",
+      "character": "Hermione Granger"
+    },
+    {
+      "id": "nm0342488",
+      "name": "Rupert Grint",
+      "character": "Ron Weasley"
+    },
+    {
+      "id": "nm0341743",
+      "name": "Richard Griffiths",
+      "character": "Uncle Vernon"
+    },
+    {
+      "id": "nm0274913",
+      "name": "Pam Ferris",
+      "character": "Aunt Marge"
+    },
+    {
+      "id": "nm0789716",
+      "name": "Fiona Shaw",
+      "character": "Aunt Petunia"
+    },
+    {
+      "id": "nm0577982",
+      "name": "Harry Melling",
+      "character": "Dudley Dursley"
+    },
+    {
+      "id": "nm0712628",
+      "name": "Adrian Rawlins",
+      "character": "James Potter"
+    },
+    {
+      "id": "nm0813893",
+      "name": "Geraldine Somerville",
+      "character": "Lily Potter"
+    },
+    {
+      "id": "nm0408846",
+      "name": "Lee Ingleby",
+      "character": "Stan Shunpike"
+    },
+    {
+      "id": "nm0377901",
+      "name": "Lenny Henry",
+      "character": "Shrunken Head"
+    },
+    {
+      "id": "nm0306977",
+      "name": "Jimmy Gardner",
+      "character": "Ernie the Bus Driver"
+    },
+    {
+      "id": "nm0000198",
+      "name": "Gary Oldman",
+      "character": "Sirius Black"
+    },
+    {
+      "id": "nm0851663",
+      "name": "Jim Tavaré",
+      "character": "Tom the Innkeeper"
+    },
+    {
+      "id": "nm0362735",
+      "name": "Robert Hardy",
+      "character": "Cornelius Fudge"
+    },
+    {
+      "id": "nm0285492",
+      "name": "Abby Ford",
+      "character": "Young Witch Maid"
+    },
+    {
+      "id": "nm0962360",
+      "name": "Oliver Phelps",
+      "character": "George Weasley"
+    },
+    {
+      "id": "nm0962359",
+      "name": "James Phelps",
+      "character": "Fred Weasley"
+    }
+  ],
+  "countries": [
+    "United Kingdom",
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Latin",
+    "Old English"
+  ],
+  "color": null,
+  "filmweb_id": 34282,
+  "year": 2004,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTY4NTIwODg0N15BMl5BanBnXkFtZTcwOTc0MjEzMw@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.9,
+      "votes": 775101,
+      "distribution": {
+        "1": 6147,
+        "2": 1766,
+        "3": 3134,
+        "4": 5873,
+        "5": 16478,
+        "6": 49678,
+        "7": 155970,
+        "8": 254917,
+        "9": 133595,
+        "10": 147543
+      },
+      "normalized": 7.3159
+    },
+    "filmweb": {
+      "rating": 7.68,
+      "votes": 430267,
+      "distribution": {
+        "1": 3207,
+        "2": 1320,
+        "3": 3166,
+        "4": 6372,
+        "5": 15755,
+        "6": 43055,
+        "7": 108013,
+        "8": 131998,
+        "9": 58558,
+        "10": 58823
+      },
+      "normalized": 7.3085
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "02.12.2005",
+      "normalized": 5.6855
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "23.10.2016",
+      "normalized": 5.4199
+    },
+    "score": 6.4324
+  },
+  "polish_title": "Harry Potter i więzień Azkabanu",
+  "silent": false,
+  "description_pl": "Harry Potter i jego najlepsi przyjaciele Ron i Hermiona, po przerwie letniej powracają do Hogwartu, aby rozpocząć trzeci rok nauki. W tym samym czasie z pilnie strzeżonego więzienia dla czarodziejów ucieka niebezpieczny przestępca - Syriusz Black! Wszystko wskazuje na to, że Black poluje na Harry'ego. Cały świat czarodziejów rozpoczyna poszukiwania zbiega; z Azkabanu zostają wysłane przerażające istoty - Dementorzy, w celu zabicia przestępcy...\n\nFilm \"Harry Potter i więzień Azkabanu\" to trzecia z kolei ekranizacja powieści <a href=\"/osoba/?id=nm0746830\">J.K. Rowling</a>.",
+  "producers": [
+    {
+      "id": "nm0055431",
+      "name": "Michael Barnathan"
+    },
+    {
+      "id": "nm0140240",
+      "name": "Chris Carreras"
+    },
+    {
+      "id": "nm0001060",
+      "name": "Chris Columbus"
+    },
+    {
+      "id": "nm1486376",
+      "name": "Enfys Dickinson"
+    },
+    {
+      "id": "nm0243462",
+      "name": "Paula DuPré Pesmen"
+    },
+    {
+      "id": "nm0382268",
+      "name": "David Heyman"
+    },
+    {
+      "id": "nm0568223",
+      "name": "Callum McDougall"
+    },
+    {
+      "id": "nm0650038",
+      "name": "Lorne Orleans"
+    },
+    {
+      "id": "nm0705365",
+      "name": "Mark Radcliffe"
+    },
+    {
+      "id": "nm0782036",
+      "name": "Tanya Seghatchian"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0002354",
+      "name": "John Williams"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0785029",
+      "name": "Michael Seresin"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

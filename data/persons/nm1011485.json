@@ -1,0 +1,42 @@
+{
+  "id": "nm1011485",
+  "name": "Jed Kurzel",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNjkyZjk2YzAtMGZmNi00MDYyLTgyNjktZWQ3YzBkMDdkYzVhXkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt2094766",
+      "title": "Assassin's Creed",
+      "year": 2016,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt2316204",
+      "title": "Alien: Covenant",
+      "year": 2017,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt26625693",
+      "title": "The Order",
+      "year": 2024,
+      "roles": [
+        "composer"
+      ]
+    }
+  ],
+  "birth_date": "1976",
+  "filmweb_id": 1200564,
+  "name_pl": "Jed Kurzel",
+  "birth_location_pl": "Gawler",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Australia"
+  ],
+  "wikidata_fw_id": 1200564
+}

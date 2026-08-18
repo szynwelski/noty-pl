@@ -1,0 +1,40 @@
+{
+  "id": "nm0472603",
+  "name": "Otto Kruger",
+  "filmography": [
+    {
+      "imdb_id": "tt0037101",
+      "title": "Murder, My Sweet",
+      "year": 1944,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Jules Amthor"
+    },
+    {
+      "imdb_id": "tt0044706",
+      "title": "High Noon",
+      "year": 1952,
+      "roles": [
+        "cast"
+      ],
+      "character": "Judge Percy Mettrick"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTkzNTg3MzIzMV5BMl5BanBnXkFtZTYwMjE4Njky._V1_.jpg",
+  "birth_date": "06.09.1885",
+  "death_date": "06.09.1974",
+  "birth_location": "Toledo, Ohio, USA",
+  "height": "1.75 m",
+  "imdb_scraped": true,
+  "filmweb_id": 51454,
+  "name_pl": "Otto Kruger",
+  "birth_location_pl": "Toledo, Ohio",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 51454
+}

@@ -1,0 +1,104 @@
+{
+  "imdb_id": "tt0000028",
+  "title": "Fishing for Goldfish",
+  "description": "A baby held by his father dips his little hands into a water jug and he can' t catch the goldfish .",
+  "runtime_minutes": 1,
+  "release_date": "28.12.1895",
+  "genres": [
+    "Documentary",
+    "Short"
+  ],
+  "stars": [
+    {
+      "id": "nm2350838",
+      "name": "Andrée Lumière"
+    },
+    {
+      "id": "nm0525908",
+      "name": "Auguste Lumière"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0525910",
+      "name": "Louis Lumière"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm2350838",
+      "name": "Andrée Lumière",
+      "character": "Self"
+    },
+    {
+      "id": "nm0525908",
+      "name": "Auguste Lumière",
+      "character": "Self"
+    }
+  ],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 120776,
+  "year": 1895,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZDJjOGE2NWEtMTQ2NS00NWRhLTgwNjctOWEzMDg5MTcyNjU1XkEyXkFqcGc@._V1_.jpg",
+  "original_title": "La pêche aux poissons rouges",
+  "ratings": {
+    "imdb": {
+      "rating": 5.1,
+      "votes": 1287,
+      "distribution": {
+        "1": 69,
+        "2": 55,
+        "3": 83,
+        "4": 151,
+        "5": 406,
+        "6": 286,
+        "7": 110,
+        "8": 55,
+        "9": 16,
+        "10": 56
+      },
+      "normalized": 3.3584
+    },
+    "filmweb": {
+      "rating": 4.57,
+      "votes": 183,
+      "distribution": {
+        "1": 4,
+        "2": 20,
+        "3": 35,
+        "4": 32,
+        "5": 42,
+        "6": 21,
+        "7": 16,
+        "8": 8,
+        "9": 2,
+        "10": 3
+      },
+      "normalized": 3.6826
+    },
+    "jarek": {
+      "rating": 3,
+      "date_rated": "11.12.2016",
+      "normalized": 4.2591
+    },
+    "score": 3.7667
+  },
+  "polish_title": "La pêche aux poissons rouges",
+  "silent": true,
+  "description_pl": "Krótki film przedstawiający mężczyznę trzymającego ok. 10-11 miesięczne dziecko. Stoi ono na stole i wpatruje się w akwarium, w którym pływają dwie złote rybki. Dziecko ubrane jest na biało i wyciąga ręce, by złapać rybkę.",
+  "cinematographers": [
+    {
+      "id": "nm0525910",
+      "name": "Louis Lumière"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-15"
+}

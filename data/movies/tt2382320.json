@@ -1,0 +1,268 @@
+{
+  "imdb_id": "tt2382320",
+  "title": "No Time to Die",
+  "description": "James Bond has left active service. His peace is short-lived when Felix Leiter, an old friend from the CIA, turns up asking for help, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.",
+  "runtime_minutes": 163,
+  "release_date": "08.10.2021",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0185819",
+      "name": "Daniel Craig"
+    },
+    {
+      "id": "nm1869101",
+      "name": "Ana de Armas"
+    },
+    {
+      "id": "nm1785339",
+      "name": "Rami Malek"
+    },
+    {
+      "id": "nm2244205",
+      "name": "Léa Seydoux"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm1560977",
+      "name": "Cary Joji Fukunaga"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0701031",
+      "name": "Neal Purvis"
+    },
+    {
+      "id": "nm0905498",
+      "name": "Robert Wade"
+    },
+    {
+      "id": "nm1560977",
+      "name": "Cary Joji Fukunaga"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0185819",
+      "name": "Daniel Craig",
+      "character": "James Bond"
+    },
+    {
+      "id": "nm1869101",
+      "name": "Ana de Armas",
+      "character": "Paloma"
+    },
+    {
+      "id": "nm1785339",
+      "name": "Rami Malek",
+      "character": "Lyutsifer Safin"
+    },
+    {
+      "id": "nm2244205",
+      "name": "Léa Seydoux",
+      "character": "Madeleine"
+    },
+    {
+      "id": "nm2736476",
+      "name": "Lashana Lynch",
+      "character": "Nomi"
+    },
+    {
+      "id": "nm0000146",
+      "name": "Ralph Fiennes",
+      "character": "M"
+    },
+    {
+      "id": "nm0924210",
+      "name": "Ben Whishaw",
+      "character": "Q"
+    },
+    {
+      "id": "nm0365140",
+      "name": "Naomie Harris",
+      "character": "Moneypenny"
+    },
+    {
+      "id": "nm1239499",
+      "name": "Rory Kinnear",
+      "character": "Tanner"
+    },
+    {
+      "id": "nm0942482",
+      "name": "Jeffrey Wright",
+      "character": "Felix Leiter"
+    },
+    {
+      "id": "nm2915105",
+      "name": "Billy Magnussen",
+      "character": "Logan Ash"
+    },
+    {
+      "id": "nm0910607",
+      "name": "Christoph Waltz",
+      "character": "Blofeld"
+    },
+    {
+      "id": "nm1399770",
+      "name": "David Dencik",
+      "character": "Valdo Obruchev"
+    },
+    {
+      "id": "nm8437705",
+      "name": "Dali Benssalah",
+      "character": "Primo (Cyclops)"
+    },
+    {
+      "id": "nm11645469",
+      "name": "Lisa-Dorah Sonnet",
+      "character": "Mathilde"
+    },
+    {
+      "id": "nm12986347",
+      "name": "Coline Defaud",
+      "character": "Young Madeleine"
+    },
+    {
+      "id": "nm6749529",
+      "name": "Mathilde Bourbin",
+      "character": "Madeleine's Mother"
+    },
+    {
+      "id": "nm0219465",
+      "name": "Hugh Dennis",
+      "character": "Dr. Hardy"
+    }
+  ],
+  "countries": [
+    "United Kingdom",
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Italian",
+    "Russian",
+    "Spanish",
+    "Norwegian",
+    "German"
+  ],
+  "color": "Color",
+  "filmweb_id": 757778,
+  "year": 2021,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZGZiOGZhZDQtZmRkNy00ZmUzLTliMGEtZGU0NjExOGMxZDVkXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.3,
+      "votes": 492630,
+      "distribution": {
+        "1": 7814,
+        "2": 3599,
+        "3": 5302,
+        "4": 8789,
+        "5": 21688,
+        "6": 59698,
+        "7": 141665,
+        "8": 139603,
+        "9": 58240,
+        "10": 46232
+      },
+      "normalized": 6.1544
+    },
+    "filmweb": {
+      "rating": 7.02,
+      "votes": 104146,
+      "distribution": {
+        "1": 807,
+        "2": 464,
+        "3": 1474,
+        "4": 2305,
+        "5": 7461,
+        "6": 18654,
+        "7": 35447,
+        "8": 24527,
+        "9": 7413,
+        "10": 5594
+      },
+      "normalized": 5.6694
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "20.08.2022",
+      "normalized": 4.5781
+    },
+    "score": 5.4673
+  },
+  "polish_title": "Nie czas umierać",
+  "silent": false,
+  "description_pl": "James Bond opuszcza czynną służbę i cieszy się spokojnym życiem na Jamajce. Tymczasem jednak jego stary przyjaciel Felix Leiter z CIA zwraca się do niego o pomoc. Misja uratowania porwanego naukowca okazuje się o wiele bardziej zdradliwa, niż mogłoby się wydawać i naprowadza agenta 007 na ślad tajemniczego złoczyńcy, dysponującego nową, niezwykle niebezpieczną technologią.",
+  "producers": [
+    {
+      "id": "nm1007404",
+      "name": "Per Henry Borch"
+    },
+    {
+      "id": "nm0109103",
+      "name": "Chris Brigham"
+    },
+    {
+      "id": "nm0110483",
+      "name": "Barbara Broccoli"
+    },
+    {
+      "id": "nm0185819",
+      "name": "Daniel Craig"
+    },
+    {
+      "id": "nm7174386",
+      "name": "Odalys Garcia"
+    },
+    {
+      "id": "nm0345688",
+      "name": "Jon Gudmundsson"
+    },
+    {
+      "id": "nm0633437",
+      "name": "Andrew Noakes"
+    },
+    {
+      "id": "nm0691102",
+      "name": "David Pope"
+    },
+    {
+      "id": "nm0803141",
+      "name": "Enzo Sisti"
+    },
+    {
+      "id": "nm0860533",
+      "name": "Natalie Thompson"
+    },
+    {
+      "id": "nm1921196",
+      "name": "Gregg Wilson"
+    },
+    {
+      "id": "nm0933865",
+      "name": "Michael G. Wilson"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0001877",
+      "name": "Hans Zimmer"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0761874",
+      "name": "Linus Sandgren"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

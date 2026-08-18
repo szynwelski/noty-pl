@@ -1,0 +1,35 @@
+{
+  "id": "nm0234502",
+  "name": "Fyodor Dostoevsky",
+  "filmography": [
+    {
+      "imdb_id": "tt0026246",
+      "title": "Crime and Punishment",
+      "year": 1935,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0113595",
+      "title": "Lagodna",
+      "year": 1995,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BN2Q4MTI5MzctY2FmMC00N2JhLWI5ZTItYWExNDEwZDMzZDhlXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "30.10.1821",
+  "death_date": "09.02.1881",
+  "birth_location": "Moscow, Russian Empire [now Russia]",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Imperium Rosyjskie"
+  ],
+  "filmweb_id": 865928,
+  "name_pl": "Fiodor Dostojewski",
+  "birth_location_pl": "Moskwa",
+  "gender": "M"
+}

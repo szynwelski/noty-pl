@@ -1,0 +1,110 @@
+{
+  "imdb_id": "tt0052037",
+  "title": "The Last Day of Summer",
+  "description": "A young man meets a middle-aged woman at a deserted beach. Will they overcome their personal and wartime traumas and find a way to stay together?",
+  "runtime_minutes": 66,
+  "release_date": "04.08.1958",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0489665",
+      "name": "Irena Laskowska"
+    },
+    {
+      "id": "nm0532701",
+      "name": "Jan Machulski"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0465461",
+      "name": "Tadeusz Konwicki"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0465461",
+      "name": "Tadeusz Konwicki"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0489665",
+      "name": "Irena Laskowska",
+      "character": "She"
+    },
+    {
+      "id": "nm0532701",
+      "name": "Jan Machulski",
+      "character": "He"
+    }
+  ],
+  "countries": [
+    "Poland"
+  ],
+  "languages": [
+    "Polish"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 8423,
+  "year": 1958,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BM2Y3NjI1MDAtNDUxOS00MDhkLTk2NDctMDcyYjJmZmM4MjAyXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Ostatni dzien lata",
+  "ratings": {
+    "imdb": {
+      "rating": 6.9,
+      "votes": 852,
+      "distribution": {
+        "1": 11,
+        "2": 13,
+        "3": 21,
+        "4": 37,
+        "5": 60,
+        "6": 139,
+        "7": 242,
+        "8": 192,
+        "9": 82,
+        "10": 55
+      },
+      "normalized": 5.3389
+    },
+    "filmweb": {
+      "rating": 7.34,
+      "votes": 9835,
+      "distribution": {
+        "1": 30,
+        "2": 33,
+        "3": 134,
+        "4": 224,
+        "5": 595,
+        "6": 1252,
+        "7": 2682,
+        "8": 2930,
+        "9": 1494,
+        "10": 461
+      },
+      "normalized": 6.2836
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "18.03.2011",
+      "normalized": 6.3474
+    },
+    "score": 5.99
+  },
+  "polish_title": "Ostatni dzień lata",
+  "silent": false,
+  "description_pl": "Na opustoszałej plaży spotykają się w ostatnim dniu pobytu nad morzem dojrzała kobieta i młody mężczyzna. On obserwował ją od wielu dni, ale dopiero teraz odważył się na zawarcie znajomości. Namawia ją do pozostania. Ona jest wypalona wewnętrznie, obarczona przeżyciami wojennymi, utratą bliskiego człowieka - pilota, pełna goryczy i nieufności do ludzi. Mimo wzajemnego przyciągania znajdują się w klinczu psychologicznym, ciąży nad nimi okres wojny - tajemnicza przeszłość (młody człowiek nie może się zakotwiczyć w życiu, imał się różnych zawodów) i niepewna przyszłość.",
+  "cinematographers": [
+    {
+      "id": "nm0489669",
+      "name": "Jan Laskowski"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-15"
+}

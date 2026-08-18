@@ -1,0 +1,204 @@
+{
+  "imdb_id": "tt0026246",
+  "title": "Crime and Punishment",
+  "description": "A young man is haunted by the murder of a neighborhood pawn broker and hounded by the local police inspector who suspects that he is guilty.",
+  "runtime_minutes": 88,
+  "release_date": "11.01.1936",
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0036427",
+      "name": "Edward Arnold"
+    },
+    {
+      "id": "nm0000048",
+      "name": "Peter Lorre"
+    },
+    {
+      "id": "nm0550620",
+      "name": "Marian Marsh"
+    },
+    {
+      "id": "nm0083500",
+      "name": "Tala Birell"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0903049",
+      "name": "Josef von Sternberg"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0491076",
+      "name": "S.K. Lauren"
+    },
+    {
+      "id": "nm0030916",
+      "name": "Joseph Anthony"
+    },
+    {
+      "id": "nm0234502",
+      "name": "Fyodor Dostoevsky"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0036427",
+      "name": "Edward Arnold",
+      "character": "Insp. Porfiry"
+    },
+    {
+      "id": "nm0000048",
+      "name": "Peter Lorre",
+      "character": "Roderick Raskolnikov"
+    },
+    {
+      "id": "nm0550620",
+      "name": "Marian Marsh",
+      "character": "Sonya"
+    },
+    {
+      "id": "nm0083500",
+      "name": "Tala Birell",
+      "character": "Antonya Raskolnikov"
+    },
+    {
+      "id": "nm0728230",
+      "name": "Elisabeth Risdon",
+      "character": "Mrs. Raskolnikov"
+    },
+    {
+      "id": "nm0020979",
+      "name": "Robert Allen",
+      "character": "Dmitri"
+    },
+    {
+      "id": "nm0241523",
+      "name": "Douglass Dumbrille",
+      "character": "Grilov"
+    },
+    {
+      "id": "nm0516876",
+      "name": "Gene Lockhart",
+      "character": "Lushin"
+    },
+    {
+      "id": "nm0907289",
+      "name": "Charles Waldron",
+      "character": "University president"
+    },
+    {
+      "id": "nm0356159",
+      "name": "Thurston Hall",
+      "character": "Editor"
+    },
+    {
+      "id": "nm0037783",
+      "name": "Johnny Arthur",
+      "character": "Clerk"
+    },
+    {
+      "id": "nm0132742",
+      "name": "Mrs. Patrick Campbell",
+      "character": "Pawnbroker"
+    },
+    {
+      "id": "nm3473675",
+      "name": "A. Gest",
+      "character": "Clerk"
+    },
+    {
+      "id": "nm0036426",
+      "name": "Edith Arnold",
+      "character": "Nastasya"
+    },
+    {
+      "id": "nm2150229",
+      "name": "Michael Arshasky",
+      "character": "Clerk"
+    },
+    {
+      "id": "nm0086061",
+      "name": "George Blagoi",
+      "character": "Clerk"
+    },
+    {
+      "id": "nm0117194",
+      "name": "Nana Bryant",
+      "character": "Madam"
+    },
+    {
+      "id": "nm0163846",
+      "name": "Davison Clark",
+      "character": "Cop"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 89564,
+  "year": 1935,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BN2YwZmZjNTctZDc2NS00MWVhLWJiNGItZjMzZTIxM2ZkMGUzXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.9,
+      "votes": 2506,
+      "distribution": {
+        "1": 37,
+        "2": 18,
+        "3": 39,
+        "4": 54,
+        "5": 182,
+        "6": 435,
+        "7": 923,
+        "8": 470,
+        "9": 154,
+        "10": 194
+      },
+      "normalized": 5.3594
+    },
+    "filmweb": {
+      "rating": 6.95,
+      "votes": 94,
+      "distribution": {
+        "2": 1,
+        "3": 2,
+        "4": 5,
+        "5": 10,
+        "6": 11,
+        "7": 34,
+        "8": 17,
+        "9": 5,
+        "10": 9
+      },
+      "normalized": 5.2861
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "21.12.2006",
+      "normalized": 4.5781
+    },
+    "score": 5.0745
+  },
+  "polish_title": "Zabiłem",
+  "silent": false,
+  "description_pl": "Ostatni film Josefa von Sternberga zrealizowany dla wytwórnii Columbia. Mroczny dramat psychologiczny, godny uwagi głównie ze względu na interpretację postaci bohatera przez Petera Lorre'go.\nStudent Raskolnikow (Lorre) wierzy, że przez dokonanie mordu bez żadnych motywów rozwiąże swe metafizyczne problemy i uwolni się od przymusów społecznych. Morduje lichwiarkę, ale nadal czuje się nieszczęśliwy. Zwierza się ze swego czyny prostytutce Soni (M. Marsh), która namawia go, by udał się do sędziego śledczego (E. Arnold).",
+  "cinematographers": [
+    {
+      "id": "nm0005644",
+      "name": "Lucien Ballard"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-15"
+}

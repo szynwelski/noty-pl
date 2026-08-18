@@ -1,0 +1,30 @@
+{
+  "id": "nm1411125",
+  "name": "Selena Gomez",
+  "filmography": [
+    {
+      "imdb_id": "tt1067774",
+      "title": "Monte Carlo",
+      "year": 2011,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Grace"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjAwNTE2MDMyMl5BMl5BanBnXkFtZTgwMjAyODM3MTI@._V1_.jpg",
+  "birth_date": "22.07.1992",
+  "birth_location": "Grand Prairie, Texas, USA",
+  "height": "1.65 m",
+  "imdb_scraped": true,
+  "filmweb_id": 174812,
+  "name_pl": "Selena Gomez",
+  "birth_location_pl": "Grand Prairie, Teksas",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 174812
+}

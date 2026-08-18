@@ -1,0 +1,38 @@
+{
+  "id": "nm0000282",
+  "name": "Scott Bairstow",
+  "filmography": [
+    {
+      "imdb_id": "tt0119925",
+      "title": "The Postman",
+      "year": 1997,
+      "roles": [
+        "cast"
+      ],
+      "character": "Luke"
+    },
+    {
+      "imdb_id": "tt0283084",
+      "title": "Tuck Everlasting",
+      "year": 2002,
+      "roles": [
+        "cast"
+      ],
+      "character": "Miles Tuck"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjAzNDg5Nzg5MV5BMl5BanBnXkFtZTYwMTU3MTI3._V1_.jpg",
+  "birth_date": "23.04.1970",
+  "birth_location": "Steinbach, Manitoba, Canada",
+  "height": "1.75 m",
+  "imdb_scraped": true,
+  "filmweb_id": 4566,
+  "name_pl": "Scott Bairstow",
+  "birth_location_pl": "Steinbach",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Kanada"
+  ],
+  "wikidata_fw_id": 4566
+}

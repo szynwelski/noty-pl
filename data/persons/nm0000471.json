@@ -1,0 +1,41 @@
+{
+  "id": "nm0000471",
+  "name": "Raul Julia",
+  "filmography": [
+    {
+      "imdb_id": "tt0100404",
+      "title": "Presumed Innocent",
+      "year": 1990,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Sandy Stern"
+    },
+    {
+      "imdb_id": "tt0101272",
+      "title": "The Addams Family",
+      "year": 1991,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Gomez Addams"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzMyOTgzODYyNl5BMl5BanBnXkFtZTcwMDE5OTgwMw@@._V1_.jpg",
+  "birth_date": "09.03.1940",
+  "death_date": "24.10.1994",
+  "birth_location": "San Juan, Puerto Rico",
+  "height": "1.88 m",
+  "imdb_scraped": true,
+  "filmweb_id": 9293,
+  "name_pl": "Raúl Juliá",
+  "birth_location_pl": "San Juan",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 9293
+}

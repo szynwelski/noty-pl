@@ -1,0 +1,29 @@
+{
+  "id": "nm0003193",
+  "name": "Harry Davenport",
+  "filmography": [
+    {
+      "imdb_id": "tt0036244",
+      "title": "The Ox-Bow Incident",
+      "year": 1943,
+      "roles": [
+        "cast"
+      ],
+      "character": "Arthur Davies"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjI3MjAyMjI0M15BMl5BanBnXkFtZTcwODgwNTUxOA@@._V1_.jpg",
+  "birth_date": "19.01.1866",
+  "death_date": "09.08.1949",
+  "birth_location": "New York City, New York, USA",
+  "height": "1.70 m",
+  "imdb_scraped": true,
+  "filmweb_id": 59841,
+  "name_pl": "Harry Davenport",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

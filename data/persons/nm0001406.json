@@ -1,0 +1,47 @@
+{
+  "id": "nm0001406",
+  "name": "Carol Kane",
+  "filmography": [
+    {
+      "imdb_id": "tt0072890",
+      "title": "Dog Day Afternoon",
+      "year": 1975,
+      "roles": [
+        "cast"
+      ],
+      "character": "Jenny"
+    },
+    {
+      "imdb_id": "tt0075686",
+      "title": "Annie Hall",
+      "year": 1977,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Allison"
+    },
+    {
+      "imdb_id": "tt0093779",
+      "title": "The Princess Bride",
+      "year": 1987,
+      "roles": [
+        "cast"
+      ],
+      "character": "Valerie"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTc3NDgzMzMwOV5BMl5BanBnXkFtZTYwNjg1NzY0._V1_.jpg",
+  "birth_date": "18.06.1952",
+  "birth_location": "Cleveland, Ohio, USA",
+  "height": "1.57 m",
+  "filmweb_id": 3645,
+  "name_pl": "Carol Kane",
+  "birth_location_pl": "Cleveland, Ohio",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

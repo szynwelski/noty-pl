@@ -1,0 +1,40 @@
+{
+  "id": "nm0001487",
+  "name": "John Lynch",
+  "filmography": [
+    {
+      "imdb_id": "tt0108071",
+      "title": "The Secret Garden",
+      "year": 1993,
+      "roles": [
+        "cast"
+      ],
+      "character": "Lord Archibald Craven"
+    },
+    {
+      "imdb_id": "tt0120148",
+      "title": "Sliding Doors",
+      "year": 1998,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Gerry"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjE3NTAwODE2NV5BMl5BanBnXkFtZTcwNjA4ODIyOA@@._V1_.jpg",
+  "birth_date": "26.12.1961",
+  "birth_location": "Corrinshego, Newry, Northern Ireland, UK",
+  "height": "1.77 m",
+  "imdb_scraped": true,
+  "filmweb_id": 4140,
+  "name_pl": "John Lynch",
+  "birth_location_pl": "Corrinshego, Irlandia Północna",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Irlandia",
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 4140
+}

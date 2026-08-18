@@ -1,0 +1,38 @@
+{
+  "id": "nm0001783",
+  "name": "Sally Struthers",
+  "filmography": [
+    {
+      "imdb_id": "tt0065724",
+      "title": "Five Easy Pieces",
+      "year": 1970,
+      "roles": [
+        "cast"
+      ],
+      "character": "Betty"
+    },
+    {
+      "imdb_id": "tt0068638",
+      "title": "The Getaway",
+      "year": 1972,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Fran Clinton"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDA4Y2I1Y2YtNGQ5Ni00ODMzLWE0OTItYTg4ZTZmNDIzMDFkXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "28.07.1947",
+  "birth_location": "Portland, Oregon, USA",
+  "height": "1.55 m",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "filmweb_id": 41519,
+  "name_pl": "Sally Struthers",
+  "birth_location_pl": "Portland, Oregon",
+  "gender": "F"
+}

@@ -1,0 +1,93 @@
+{
+  "imdb_id": "tt0000020",
+  "title": "The Derby 1895",
+  "description": "A stationary camera, looking diagonally across a racetrack toward the infield, records the horses as they race past. Once they are out of view and the race is over, police officers run onto the infield. The crowd moves around.",
+  "runtime_minutes": 1,
+  "release_date": "20.11.1895",
+  "genres": [
+    "Documentary",
+    "Short",
+    "Sport"
+  ],
+  "directors": [
+    {
+      "id": "nm0010291",
+      "name": "Birt Acres"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 220409,
+  "year": 1895,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMGRjNjI4NWItZTkwNS00ZTBlLWFjMmYtZjBjNTNmZjJmNTg2XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 4.7,
+      "votes": 445,
+      "distribution": {
+        "1": 39,
+        "2": 16,
+        "3": 42,
+        "4": 77,
+        "5": 141,
+        "6": 61,
+        "7": 25,
+        "8": 16,
+        "9": 12,
+        "10": 16
+      },
+      "normalized": 3.8809
+    },
+    "filmweb": {
+      "rating": 4.6,
+      "votes": 62,
+      "distribution": {
+        "1": 3,
+        "2": 4,
+        "3": 17,
+        "4": 6,
+        "5": 12,
+        "6": 9,
+        "7": 6,
+        "8": 3,
+        "9": 1,
+        "10": 1
+      },
+      "normalized": 4.407
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "11.12.2016",
+      "normalized": 4.9718
+    },
+    "score": 4.4199
+  },
+  "polish_title": "The Derby 1895",
+  "silent": true,
+  "description_pl": "Krótki film Birta Acresa pokazujący konie podczas wyścigu.",
+  "producers": [
+    {
+      "id": "nm0010291",
+      "name": "Birt Acres"
+    },
+    {
+      "id": "nm0666972",
+      "name": "Robert W. Paul"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0010291",
+      "name": "Birt Acres"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-15"
+}

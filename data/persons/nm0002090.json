@@ -1,0 +1,30 @@
+{
+  "id": "nm0002090",
+  "name": "Zach Galligan",
+  "filmography": [
+    {
+      "imdb_id": "tt0087363",
+      "title": "Gremlins",
+      "year": 1984,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Billy"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTI4NDUyNjEyM15BMl5BanBnXkFtZTcwOTgxMDUwMg@@._V1_.jpg",
+  "birth_date": "14.02.1964",
+  "birth_location": "New York City, New York, USA",
+  "height": "1.78 m",
+  "imdb_scraped": true,
+  "filmweb_id": 42697,
+  "name_pl": "Zach Galligan",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 42697
+}

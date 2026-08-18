@@ -1,0 +1,236 @@
+{
+  "imdb_id": "tt0358273",
+  "title": "Walk the Line",
+  "description": "A chronicle of country-music legend Johnny Cash's life, from his early Arkansas-cotton-farm days to his rise to fame with Sun Records in Memphis, where he recorded alongside Elvis Presley, Jerry Lee Lewis, and Carl Perkins.",
+  "runtime_minutes": 136,
+  "release_date": "18.11.2005",
+  "genres": [
+    "Biography",
+    "Drama",
+    "Music",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0001618",
+      "name": "Joaquin Phoenix"
+    },
+    {
+      "id": "nm0000702",
+      "name": "Reese Witherspoon"
+    },
+    {
+      "id": "nm0329481",
+      "name": "Ginnifer Goodwin"
+    },
+    {
+      "id": "nm0001598",
+      "name": "Robert Patrick"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0003506",
+      "name": "James Mangold"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0143599",
+      "name": "Johnny Cash"
+    },
+    {
+      "id": "nm0219456",
+      "name": "Gill Dennis"
+    },
+    {
+      "id": "nm0003506",
+      "name": "James Mangold"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0001618",
+      "name": "Joaquin Phoenix",
+      "character": "John R. Cash"
+    },
+    {
+      "id": "nm0000702",
+      "name": "Reese Witherspoon",
+      "character": "June Carter"
+    },
+    {
+      "id": "nm0329481",
+      "name": "Ginnifer Goodwin",
+      "character": "Vivian Cash"
+    },
+    {
+      "id": "nm0001598",
+      "name": "Robert Patrick",
+      "character": "Ray Cash"
+    },
+    {
+      "id": "nm1316767",
+      "name": "Dallas Roberts",
+      "character": "Sam Phillips"
+    },
+    {
+      "id": "nm1677751",
+      "name": "Dan John Miller",
+      "character": "Luther Perkins"
+    },
+    {
+      "id": "nm0046541",
+      "name": "Larry Bagby",
+      "character": "Marshall Grant"
+    },
+    {
+      "id": "nm0528867",
+      "name": "Shelby Lynne",
+      "character": "Carrie Cash"
+    },
+    {
+      "id": "nm1675091",
+      "name": "Tyler Hilton",
+      "character": "Elvis Presley"
+    },
+    {
+      "id": "nm1679203",
+      "name": "Waylon Payne",
+      "character": "Jerry Lee Lewis"
+    },
+    {
+      "id": "nm1678944",
+      "name": "Shooter Jennings",
+      "character": "Waylon Jennings"
+    },
+    {
+      "id": "nm0480808",
+      "name": "Sandra Ellis Lafferty",
+      "character": "Maybelle Carter"
+    },
+    {
+      "id": "nm0066456",
+      "name": "Dan Beene",
+      "character": "Ezra Carter"
+    },
+    {
+      "id": "nm0824138",
+      "name": "Clay Steakley",
+      "character": "W.S. 'Fluke' Holland"
+    },
+    {
+      "id": "nm1797640",
+      "name": "Johnathan Rice",
+      "character": "Roy Orbison"
+    },
+    {
+      "id": "nm1737466",
+      "name": "John Holiday",
+      "character": "Carl Perkins"
+    },
+    {
+      "id": "nm1534812",
+      "name": "Ridge Canipe",
+      "character": "Young J.R."
+    },
+    {
+      "id": "nm1395771",
+      "name": "Lucas Till",
+      "character": "Young Jack Cash"
+    }
+  ],
+  "countries": [
+    "Germany",
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Russian"
+  ],
+  "color": "Color",
+  "filmweb_id": 119046,
+  "year": 2005,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjIyOTU3MjUxOF5BMl5BanBnXkFtZTcwMTQ0NjYzMw@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.8,
+      "votes": 282036,
+      "distribution": {
+        "1": 2251,
+        "2": 665,
+        "3": 973,
+        "4": 2126,
+        "5": 5947,
+        "6": 18918,
+        "7": 61127,
+        "8": 100073,
+        "9": 49017,
+        "10": 40939
+      },
+      "normalized": 7.0241
+    },
+    "filmweb": {
+      "rating": 7.58,
+      "votes": 68215,
+      "distribution": {
+        "1": 183,
+        "2": 107,
+        "3": 296,
+        "4": 585,
+        "5": 2023,
+        "6": 6511,
+        "7": 20116,
+        "8": 25849,
+        "9": 9042,
+        "10": 3503
+      },
+      "normalized": 6.9667
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "12.08.2006",
+      "normalized": 4.5781
+    },
+    "score": 6.1896
+  },
+  "polish_title": "Spacer po linie",
+  "silent": false,
+  "description_pl": "Film opowiada o życiu Johnny'ego Casha (<a href=\"/osoba/?id=nm0001618\">Joaquin Phoenix</a>): jego dzieciństwie na plantacji bawełny, trudnych stosunkach z ojcem obwiniającym go o śmierć swojego starszego syna, wielkiej sławie, uzależnieniu od narkotyków, a przede wszystkim o szalonej miłości Johnny'ego do piosenkarki June Carter (<a href=\"/osoba/?id=nm0000702\">Reese Witherspoon</a>).",
+  "producers": [
+    {
+      "id": "nm0088971",
+      "name": "Alan C. Blomquist"
+    },
+    {
+      "id": "nm0143601",
+      "name": "John Carter Cash"
+    },
+    {
+      "id": "nm0005077",
+      "name": "James Keach"
+    },
+    {
+      "id": "nm0465298",
+      "name": "Cathy Konrad"
+    },
+    {
+      "id": "nm0732213",
+      "name": "Lou Robin"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0122439",
+      "name": "T Bone Burnett"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0003659",
+      "name": "Phedon Papamichael"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

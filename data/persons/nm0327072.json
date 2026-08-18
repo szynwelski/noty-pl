@@ -1,0 +1,46 @@
+{
+  "id": "nm0327072",
+  "name": "Rick Gomez",
+  "filmography": [
+    {
+      "imdb_id": "tt0185906",
+      "title": "Band of Brothers",
+      "year": 2001,
+      "roles": [
+        "cast"
+      ],
+      "character": "George Luz"
+    },
+    {
+      "imdb_id": "tt0350258",
+      "title": "Ray",
+      "year": 2004,
+      "roles": [
+        "cast"
+      ],
+      "character": "Tom Dowd"
+    },
+    {
+      "imdb_id": "tt0401792",
+      "title": "Sin City",
+      "year": 2005,
+      "roles": [
+        "cast"
+      ],
+      "character": "Klump"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDEyMWM5ODAtMDhhMy00MDVjLTk2M2ItOGI2ZjgyNDM3YjFmXkEyXkFqcGc@._V1_.jpg",
+  "birth_location": "Bayonne, New Jersey, USA",
+  "height": "1.73 m",
+  "imdb_scraped": true,
+  "filmweb_id": 55400,
+  "name_pl": "Rick Gomez",
+  "birth_location_pl": "Bayonne, New Jersey",
+  "birth_date": "01.06.1972",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

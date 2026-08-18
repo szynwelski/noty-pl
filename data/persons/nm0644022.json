@@ -1,0 +1,70 @@
+{
+  "id": "nm0644022",
+  "name": "Bob Odenkirk",
+  "filmography": [
+    {
+      "imdb_id": "tt0903747",
+      "title": "Breaking Bad",
+      "year": 2008,
+      "roles": [
+        "cast"
+      ],
+      "character": "Saul Goodman"
+    },
+    {
+      "imdb_id": "tt1821549",
+      "title": "Nebraska",
+      "year": 2013,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Ross Grant"
+    },
+    {
+      "imdb_id": "tt3032476",
+      "title": "Better Call Saul",
+      "year": 2015,
+      "roles": [
+        "star",
+        "cast",
+        "producer"
+      ],
+      "character": "Jimmy McGill"
+    },
+    {
+      "imdb_id": "tt3281548",
+      "title": "Little Women",
+      "year": 2019,
+      "roles": [
+        "cast"
+      ],
+      "character": "Father March"
+    },
+    {
+      "imdb_id": "tt7888964",
+      "title": "Nobody",
+      "year": 2021,
+      "roles": [
+        "star",
+        "cast",
+        "producer"
+      ],
+      "character": "Hutch Mansell"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNjc1MDBkMWEtMzNmYy00NjFjLWFmZDktMzRlYThhMGQxZDYwXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "22.10.1962",
+  "birth_location": "Naperville, Illinois, USA",
+  "height": "1.75 m",
+  "filmweb_id": 5867,
+  "name_pl": "Bob Odenkirk",
+  "birth_location_pl": "Naperville, Illinois",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 5867
+}

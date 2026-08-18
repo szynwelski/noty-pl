@@ -1,0 +1,48 @@
+{
+  "id": "nm0001221",
+  "name": "Louise Fletcher",
+  "filmography": [
+    {
+      "imdb_id": "tt0073486",
+      "title": "One Flew Over the Cuckoo's Nest",
+      "year": 1975,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Nurse Ratched"
+    },
+    {
+      "imdb_id": "tt0096913",
+      "title": "Best of the Best",
+      "year": 1989,
+      "roles": [
+        "cast"
+      ],
+      "character": "Mrs. Grady"
+    },
+    {
+      "imdb_id": "tt0139134",
+      "title": "Cruel Intentions",
+      "year": 1999,
+      "roles": [
+        "cast"
+      ],
+      "character": "Helen Rosemond"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTIzOTcwNzYzMl5BMl5BanBnXkFtZTYwMjQ3MTI0._V1_.jpg",
+  "birth_date": "22.07.1934",
+  "death_date": "23.09.2022",
+  "birth_location": "Birmingham, Alabama, USA",
+  "height": "1.77 m",
+  "filmweb_id": 5454,
+  "name_pl": "Louise Fletcher",
+  "birth_location_pl": "Birmingham, Alabama",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

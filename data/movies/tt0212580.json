@@ -1,0 +1,91 @@
+{
+  "imdb_id": "tt0212580",
+  "title": "Upside Down; or, the Human Flies",
+  "description": "A Spiritualist causes a group of table-turners to walk upside down on the ceiling.",
+  "runtime_minutes": 1,
+  "release_date": "1899",
+  "genres": [
+    "Short",
+    "Fantasy"
+  ],
+  "stars": [
+    {
+      "id": "nm0095816",
+      "name": "Walter R. Booth"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0095816",
+      "name": "Walter R. Booth"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0095816",
+      "name": "Walter R. Booth",
+      "character": "The Spiritualist"
+    }
+  ],
+  "countries": [
+    "United States",
+    "United Kingdom"
+  ],
+  "languages": [
+    "None",
+    "English"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 186449,
+  "year": 1899,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZmUwYTFhZDMtOTYzZC00NmJkLWEyNDgtNjhjZDJmZGQ4MzU0XkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Upside Down; or, The Human Flies",
+  "ratings": {
+    "imdb": {
+      "rating": 5.9,
+      "votes": 233,
+      "distribution": {
+        "1": 13,
+        "2": 10,
+        "3": 5,
+        "4": 13,
+        "5": 48,
+        "6": 73,
+        "7": 35,
+        "8": 20,
+        "9": 7,
+        "10": 9
+      },
+      "normalized": 4.8255
+    },
+    "filmweb": {
+      "rating": 6.06,
+      "votes": 17,
+      "distribution": {
+        "2": 0,
+        "3": 1,
+        "4": 1,
+        "5": 4,
+        "6": 5,
+        "7": 2,
+        "8": 4,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 5.0834
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "12.12.2016",
+      "normalized": 7.1247
+    },
+    "score": 5.6779
+  },
+  "polish_title": "Upside Down, or The Human Flies",
+  "silent": true,
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-16"
+}

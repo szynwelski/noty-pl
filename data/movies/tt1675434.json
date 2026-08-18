@@ -1,0 +1,255 @@
+{
+  "imdb_id": "tt1675434",
+  "title": "The Intouchables",
+  "description": "After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caregiver.",
+  "runtime_minutes": 112,
+  "release_date": "02.11.2011",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0167388",
+      "name": "François Cluzet"
+    },
+    {
+      "id": "nm1082477",
+      "name": "Omar Sy"
+    },
+    {
+      "id": "nm0494504",
+      "name": "Anne Le Ny"
+    },
+    {
+      "id": "nm1109153",
+      "name": "Audrey Fleurot"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0619923",
+      "name": "Olivier Nakache"
+    },
+    {
+      "id": "nm0865918",
+      "name": "Éric Toledano"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0619923",
+      "name": "Olivier Nakache"
+    },
+    {
+      "id": "nm0865918",
+      "name": "Éric Toledano"
+    },
+    {
+      "id": "nm4778840",
+      "name": "Philippe Pozzo di Borgo"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0167388",
+      "name": "François Cluzet",
+      "character": "Philippe"
+    },
+    {
+      "id": "nm1082477",
+      "name": "Omar Sy",
+      "character": "Driss"
+    },
+    {
+      "id": "nm0494504",
+      "name": "Anne Le Ny",
+      "character": "Yvonne"
+    },
+    {
+      "id": "nm1109153",
+      "name": "Audrey Fleurot",
+      "character": "Magalie"
+    },
+    {
+      "id": "nm1525639",
+      "name": "Joséphine de Meaux",
+      "character": "La DRH société de courses"
+    },
+    {
+      "id": "nm0597042",
+      "name": "Clotilde Mollet",
+      "character": "Marcelle"
+    },
+    {
+      "id": "nm2031248",
+      "name": "Alba Gaïa Bellugi",
+      "character": "Elisa"
+    },
+    {
+      "id": "nm3994610",
+      "name": "Cyril Mendy",
+      "character": "Adama"
+    },
+    {
+      "id": "nm5511912",
+      "name": "Salimata Kamate",
+      "character": "Fatou"
+    },
+    {
+      "id": "nm5511483",
+      "name": "Absa Diatou Toure",
+      "character": "Mina"
+    },
+    {
+      "id": "nm0644314",
+      "name": "Grégoire Oestermann",
+      "character": "Antoine"
+    },
+    {
+      "id": "nm0196839",
+      "name": "Dominique Daguier",
+      "character": "Amie de Philippe"
+    },
+    {
+      "id": "nm0139107",
+      "name": "François Caron",
+      "character": "Ami de Philippe"
+    },
+    {
+      "id": "nm0024634",
+      "name": "Christian Ameri",
+      "character": "Albert"
+    },
+    {
+      "id": "nm4552893",
+      "name": "Thomas Solivérès",
+      "character": "Bastien"
+    },
+    {
+      "id": "nm1049589",
+      "name": "Dorothée Brière",
+      "character": "Eléonore"
+    },
+    {
+      "id": "nm0221103",
+      "name": "Marie-Laure Descoureaux",
+      "character": "Femme de chambre"
+    },
+    {
+      "id": "nm2173724",
+      "name": "Émilie Caen",
+      "character": "Galeriste"
+    }
+  ],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "French",
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 583390,
+  "year": 2011,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@._V1_.jpg",
+  "original_title": "Intouchables",
+  "ratings": {
+    "imdb": {
+      "rating": 8.5,
+      "votes": 1038047,
+      "distribution": {
+        "1": 5916,
+        "2": 2164,
+        "3": 2963,
+        "4": 5203,
+        "5": 11937,
+        "6": 33857,
+        "7": 117201,
+        "8": 274324,
+        "9": 321086,
+        "10": 263396
+      },
+      "normalized": 8.8713
+    },
+    "filmweb": {
+      "rating": 8.63,
+      "votes": 721126,
+      "distribution": {
+        "1": 2292,
+        "2": 721,
+        "3": 1951,
+        "4": 3233,
+        "5": 8184,
+        "6": 20300,
+        "7": 66098,
+        "8": 180138,
+        "9": 248936,
+        "10": 189273
+      },
+      "normalized": 10.0
+    },
+    "jarek": {
+      "rating": 9,
+      "date_rated": "23.05.2012",
+      "normalized": 8.8973
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "01.05.2012",
+      "normalized": 7.2292
+    },
+    "score": 8.7494
+  },
+  "polish_title": "Nietykalni",
+  "silent": false,
+  "description_pl": "Ta historia zdarzyła się naprawdę. Sparaliżowany na skutek wypadku milioner zatrudnia do pomocy i opieki młodego chłopaka z przedmieścia, który właśnie wyszedł z więzienia. Zderzenie dwóch skrajnie różnych światów daje początek szeregowi niewiarygodnych przygód i przyjaźni, która czyni ich... nietykalnymi.",
+  "producers": [
+    {
+      "id": "nm4374520",
+      "name": "Arnaud Bertrand"
+    },
+    {
+      "id": "nm0100364",
+      "name": "Dominique Boutonnat"
+    },
+    {
+      "id": "nm2019727",
+      "name": "Hubert Caillard"
+    },
+    {
+      "id": "nm1457753",
+      "name": "Nicolas Duval Adassovsky"
+    },
+    {
+      "id": "nm13040814",
+      "name": "Robin Noel"
+    },
+    {
+      "id": "nm0803420",
+      "name": "Laurent Sivot"
+    },
+    {
+      "id": "nm1552771",
+      "name": "Laurent Zeitoun"
+    },
+    {
+      "id": "nm1133525",
+      "name": "Yann Zenou"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0251801",
+      "name": "Ludovico Einaudi"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0882997",
+      "name": "Mathieu Vadepied"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

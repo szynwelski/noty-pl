@@ -1,0 +1,76 @@
+{
+  "id": "nm0001208",
+  "name": "Miguel Ferrer",
+  "filmography": [
+    {
+      "imdb_id": "tt0093870",
+      "title": "RoboCop",
+      "year": 1987,
+      "roles": [
+        "cast"
+      ],
+      "character": "Morton"
+    },
+    {
+      "imdb_id": "tt0105665",
+      "title": "Twin Peaks: Fire Walk with Me",
+      "year": 1992,
+      "roles": [
+        "cast"
+      ],
+      "character": "Albert Rosenfeld"
+    },
+    {
+      "imdb_id": "tt0107144",
+      "title": "Hot Shots! Part Deux",
+      "year": 1993,
+      "roles": [
+        "cast"
+      ],
+      "character": "Harbinger"
+    },
+    {
+      "imdb_id": "tt0119718",
+      "title": "Mr. Magoo",
+      "year": 1997,
+      "roles": [
+        "cast"
+      ],
+      "character": "Ortega Peru"
+    },
+    {
+      "imdb_id": "tt0120762",
+      "title": "Mulan",
+      "year": 1998,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Shan-Yu"
+    },
+    {
+      "imdb_id": "tt1300854",
+      "title": "Iron Man 3",
+      "year": 2013,
+      "roles": [
+        "cast"
+      ],
+      "character": "Vice President Rodriguez"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQ3MTYxNDE2MV5BMl5BanBnXkFtZTYwMTY0MTU3._V1_.jpg",
+  "birth_date": "07.02.1955",
+  "death_date": "19.01.2017",
+  "birth_location": "Santa Monica, California, USA",
+  "height": "1.83 m",
+  "filmweb_id": 3978,
+  "name_pl": "Miguel Ferrer",
+  "birth_location_pl": "Santa Monica, Kalifornia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 3978
+}

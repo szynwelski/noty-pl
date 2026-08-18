@@ -1,0 +1,211 @@
+{
+  "imdb_id": "tt0094987",
+  "title": "Dekalog, piec",
+  "description": "A soon-to-be lawyer crosses his path with a taxi driver and a young sinister man.",
+  "runtime_minutes": 59,
+  "release_date": "01.06.1990",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0048121",
+      "name": "Miroslaw Baka"
+    },
+    {
+      "id": "nm0322937",
+      "name": "Krzysztof Globisz"
+    },
+    {
+      "id": "nm0856227",
+      "name": "Jan Tesarz"
+    },
+    {
+      "id": "nm0054007",
+      "name": "Artur Barcis"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001425",
+      "name": "Krzysztof Kieślowski"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0682830",
+      "name": "Krzysztof Piesiewicz"
+    },
+    {
+      "id": "nm0001425",
+      "name": "Krzysztof Kieślowski"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0048121",
+      "name": "Miroslaw Baka",
+      "character": "Lazar Jacek"
+    },
+    {
+      "id": "nm0322937",
+      "name": "Krzysztof Globisz",
+      "character": "Piotr"
+    },
+    {
+      "id": "nm0856227",
+      "name": "Jan Tesarz",
+      "character": "Taxi Driver"
+    },
+    {
+      "id": "nm0054007",
+      "name": "Artur Barcis",
+      "character": "Survey Crewman"
+    },
+    {
+      "id": "nm0417370",
+      "name": "Krystyna Janda",
+      "character": "Dorota Geller"
+    },
+    {
+      "id": "nm0525557",
+      "name": "Olgierd Łukaszewicz",
+      "character": "Andrzej Geller"
+    },
+    {
+      "id": "nm0843796",
+      "name": "Maciej Szary",
+      "character": "Apartment Caretaker"
+    },
+    {
+      "id": "nm0953168",
+      "name": "Zbigniew Zapasiewicz",
+      "character": "Police Inspector"
+    },
+    {
+      "id": "nm0096291",
+      "name": "Zbigniew Borek",
+      "character": ""
+    },
+    {
+      "id": "nm0126090",
+      "name": "Wladyslaw Byrdy",
+      "character": ""
+    },
+    {
+      "id": "nm0066133",
+      "name": "Aleksander Bednarz",
+      "character": "Executioner"
+    },
+    {
+      "id": "nm0246192",
+      "name": "Barbara Dziekan",
+      "character": "Cashier"
+    },
+    {
+      "id": "nm0322373",
+      "name": "Iwona Glebicka",
+      "character": ""
+    },
+    {
+      "id": "nm0375656",
+      "name": "Elzbieta Helman",
+      "character": "Beatka"
+    },
+    {
+      "id": "nm0468575",
+      "name": "Helena Kowalczykowa",
+      "character": "Old Lady"
+    },
+    {
+      "id": "nm0555749",
+      "name": "Borys Marynowski",
+      "character": "Straaznik"
+    },
+    {
+      "id": "nm0532763",
+      "name": "Maciej Maciejewski",
+      "character": "Procurator"
+    },
+    {
+      "id": "nm0532769",
+      "name": "Sylwester Maciejewski",
+      "character": "Jacek's Brother"
+    }
+  ],
+  "countries": [
+    "Poland",
+    "West Germany"
+  ],
+  "languages": [
+    "Polish"
+  ],
+  "color": "Color",
+  "year": 1989,
+  "type": "tvEpisode",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNjY3YWY1NzYtOWRhMy00ZjQyLTk2ZTAtYTA3NDdmYmNjODQ5XkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 4977,
+  "ratings": {
+    "imdb": {
+      "rating": 8.4,
+      "votes": 5291,
+      "distribution": {
+        "1": 58,
+        "2": 49,
+        "3": 26,
+        "4": 38,
+        "5": 98,
+        "6": 243,
+        "7": 618,
+        "8": 1411,
+        "9": 1400,
+        "10": 1350
+      }
+    },
+    "filmweb": {
+      "rating": 8.08,
+      "votes": 37523,
+      "distribution": {
+        "1": 125,
+        "2": 59,
+        "3": 162,
+        "4": 259,
+        "5": 767,
+        "6": 1938,
+        "7": 6258,
+        "8": 13976,
+        "9": 9383,
+        "10": 4596
+      }
+    },
+    "michal": {
+      "rating": 10,
+      "date_rated": "21.10.2004"
+    }
+  },
+  "polish_title": "Dekalog V",
+  "silent": false,
+  "producers": [
+    {
+      "id": "nm0119557",
+      "name": "Andrzej Buhl"
+    },
+    {
+      "id": "nm0161541",
+      "name": "Ryszard Chutkowski"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006237",
+      "name": "Zbigniew Preisner"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005744",
+      "name": "Slawomir Idziak"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

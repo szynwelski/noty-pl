@@ -1,0 +1,234 @@
+{
+  "imdb_id": "tt1225822",
+  "title": "Extract",
+  "description": "Joel, the owner of an extract plant, tries to contend with myriad personal and professional problems, such as his potentially unfaithful wife and employees who want to take advantage of him.",
+  "runtime_minutes": 92,
+  "release_date": "04.09.2009",
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0000867",
+      "name": "Jason Bateman"
+    },
+    {
+      "id": "nm1325419",
+      "name": "Kristen Wiig"
+    },
+    {
+      "id": "nm0000255",
+      "name": "Ben Affleck"
+    },
+    {
+      "id": "nm0005109",
+      "name": "Mila Kunis"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0431918",
+      "name": "Mike Judge"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0431918",
+      "name": "Mike Judge"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000867",
+      "name": "Jason Bateman",
+      "character": "Joel"
+    },
+    {
+      "id": "nm1325419",
+      "name": "Kristen Wiig",
+      "character": "Suzie"
+    },
+    {
+      "id": "nm0000255",
+      "name": "Ben Affleck",
+      "character": "Dean"
+    },
+    {
+      "id": "nm0005109",
+      "name": "Mila Kunis",
+      "character": "Cindy"
+    },
+    {
+      "id": "nm0799777",
+      "name": "J.K. Simmons",
+      "character": "Brian"
+    },
+    {
+      "id": "nm0004286",
+      "name": "Clifton Collins Jr.",
+      "character": "Step"
+    },
+    {
+      "id": "nm1682420",
+      "name": "Dustin Milligan",
+      "character": "Brad"
+    },
+    {
+      "id": "nm0462712",
+      "name": "David Koechner",
+      "character": "Nathan"
+    },
+    {
+      "id": "nm0335275",
+      "name": "Beth Grant",
+      "character": "Mary"
+    },
+    {
+      "id": "nm2554352",
+      "name": "T.J. Miller",
+      "character": "Rory"
+    },
+    {
+      "id": "nm1985145",
+      "name": "Javier Gutierrez",
+      "character": "Hector"
+    },
+    {
+      "id": "nm0692493",
+      "name": "Lidia Porto",
+      "character": "Gabriella"
+    },
+    {
+      "id": "nm0005430",
+      "name": "Gene Simmons",
+      "character": "Joe Adler"
+    },
+    {
+      "id": "nm0776580",
+      "name": "Matt Schulze",
+      "character": "Willie"
+    },
+    {
+      "id": "nm3576444",
+      "name": "Lamberto Gutierrez",
+      "character": "Victor"
+    },
+    {
+      "id": "nm0109785",
+      "name": "Brent Briscoe",
+      "character": "Phil"
+    },
+    {
+      "id": "nm0005452",
+      "name": "Hal Sparks",
+      "character": "Guitar Salesman #1"
+    },
+    {
+      "id": "nm2326897",
+      "name": "Nick Thune",
+      "character": "Guitar Salesman #2"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "color": "Color",
+  "filmweb_id": 480913,
+  "year": 2009,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTgzNzU3OTQ4NV5BMl5BanBnXkFtZTcwOTY3MzA4Mg@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.1,
+      "votes": 53294,
+      "distribution": {
+        "1": 854,
+        "2": 741,
+        "3": 1454,
+        "4": 3301,
+        "5": 8272,
+        "6": 16079,
+        "7": 13512,
+        "8": 5425,
+        "9": 1648,
+        "10": 2008
+      },
+      "normalized": 3.7913
+    },
+    "filmweb": {
+      "rating": 5.53,
+      "votes": 6831,
+      "distribution": {
+        "1": 57,
+        "2": 98,
+        "3": 429,
+        "4": 803,
+        "5": 1811,
+        "6": 2079,
+        "7": 1129,
+        "8": 287,
+        "9": 54,
+        "10": 84
+      },
+      "normalized": 2.7697
+    },
+    "jarek": {
+      "rating": 1,
+      "date_rated": "10.03.2011",
+      "normalized": 2.5327
+    },
+    "score": 3.0312
+  },
+  "polish_title": "Ekstrakt",
+  "silent": false,
+  "description_pl": "Joel, właściciel fabryki, ma problemy w życiu zawodowym i prywatnym:  jego żona prawdopodobnie go zdradza, a pracownicy nienawidzą. Próbuje  stawić czoła niezliczonym osobistym i zawodowym problemom.",
+  "producers": [
+    {
+      "id": "nm1014365",
+      "name": "John Altschuler"
+    },
+    {
+      "id": "nm0283557",
+      "name": "Michael Flynn"
+    },
+    {
+      "id": "nm1015106",
+      "name": "Dave Krinsky"
+    },
+    {
+      "id": "nm1396395",
+      "name": "Tom Lassally"
+    },
+    {
+      "id": "nm2994560",
+      "name": "Glenn Lucas"
+    },
+    {
+      "id": "nm0744754",
+      "name": "Michael Rotenberg"
+    },
+    {
+      "id": "nm0841757",
+      "name": "Bergen Swanson"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0003392",
+      "name": "George S. Clinton"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005891",
+      "name": "Tim Suhrstedt"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

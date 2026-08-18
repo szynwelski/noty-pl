@@ -1,0 +1,36 @@
+{
+  "id": "nm0001969",
+  "name": "Ray Bradbury",
+  "filmography": [
+    {
+      "imdb_id": "tt0049513",
+      "title": "Moby Dick",
+      "year": 1956,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0060390",
+      "title": "Fahrenheit 451",
+      "year": 1966,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNmE5N2I2NDctMzAyNC00YzhjLWFmNDAtNzdmOTFmMjY5ZmUxXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "22.08.1920",
+  "death_date": "05.06.2012",
+  "birth_location": "Waukegan, Illinois, USA",
+  "height": "1.73 m",
+  "imdb_scraped": true,
+  "filmweb_id": 55113,
+  "name_pl": "Ray Bradbury",
+  "birth_location_pl": "Waukegan, Illinois",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

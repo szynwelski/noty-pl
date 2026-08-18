@@ -1,0 +1,39 @@
+{
+  "id": "nm0409183",
+  "name": "Neil Innes",
+  "filmography": [
+    {
+      "imdb_id": "tt0071853",
+      "title": "Monty Python and the Holy Grail",
+      "year": 1975,
+      "roles": [
+        "cast"
+      ],
+      "character": "First Monk"
+    },
+    {
+      "imdb_id": "tt0079470",
+      "title": "Monty Python's Life of Brian",
+      "year": 1979,
+      "roles": [
+        "cast"
+      ],
+      "character": "A Weedy Samaritan"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYjNhM2E2MTMtMWZhMy00NjdiLTk5YTEtYjUwMGYxMWMzZGRlXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "09.12.1944",
+  "death_date": "29.12.2019",
+  "birth_location": "Danbury, Essex, England, UK",
+  "height": "1.78 m",
+  "imdb_scraped": true,
+  "filmweb_id": 8477,
+  "name_pl": "Neil Innes",
+  "birth_location_pl": "Danbury, Anglia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 8477
+}

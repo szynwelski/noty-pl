@@ -1,0 +1,45 @@
+{
+  "id": "nm0942195",
+  "name": "Amy Wright",
+  "filmography": [
+    {
+      "imdb_id": "tt0077416",
+      "title": "The Deer Hunter",
+      "year": 1978,
+      "roles": [
+        "cast"
+      ],
+      "character": "Bridesmaid"
+    },
+    {
+      "imdb_id": "tt0081554",
+      "title": "Stardust Memories",
+      "year": 1980,
+      "roles": [
+        "cast"
+      ],
+      "character": "Shelley"
+    },
+    {
+      "imdb_id": "tt0114345",
+      "title": "The Scarlet Letter",
+      "year": 1995,
+      "roles": [
+        "cast"
+      ],
+      "character": "Goody Gotwick"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTI5NzE5NzgzMl5BMl5BanBnXkFtZTcwNzExMTkwMw@@._V1_.jpg",
+  "birth_date": "15.04.1950",
+  "birth_location": "Chicago, Illinois, USA",
+  "filmweb_id": 6229,
+  "name_pl": "Amy Wright",
+  "birth_location_pl": "Chicago, Illinois",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

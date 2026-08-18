@@ -1,0 +1,38 @@
+{
+  "id": "nm0001143",
+  "name": "Kevin Dillon",
+  "filmography": [
+    {
+      "imdb_id": "tt0091763",
+      "title": "Platoon",
+      "year": 1986,
+      "roles": [
+        "cast"
+      ],
+      "character": "Bunny"
+    },
+    {
+      "imdb_id": "tt0101761",
+      "title": "The Doors",
+      "year": 1991,
+      "roles": [
+        "cast"
+      ],
+      "character": "John Densmore"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTk1Njg4NTEwMV5BMl5BanBnXkFtZTYwODU0ODcz._V1_.jpg",
+  "birth_date": "19.08.1965",
+  "birth_location": "Mamaroneck, New York, USA",
+  "height": "1.75 m",
+  "imdb_scraped": true,
+  "filmweb_id": 8357,
+  "name_pl": "Kevin Dillon",
+  "birth_location_pl": "Mamaroneck, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 8357
+}

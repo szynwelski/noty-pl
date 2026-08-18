@@ -1,0 +1,94 @@
+{
+  "imdb_id": "tt0229217",
+  "title": "Annabelle Butterfly Dance",
+  "description": "Annabelle (Whitford) Moore performs one of her popular dances. For this performance, her costume has a pair of wings attached to her back, to suggest a butterfly. As she dances, she uses her long, flowing skirts to create visual patterns.",
+  "runtime_minutes": 1,
+  "release_date": "1894",
+  "genres": [
+    "Documentary",
+    "Short"
+  ],
+  "stars": [
+    {
+      "id": "nm0600903",
+      "name": "Annabelle Moore"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0005690",
+      "name": "William K.L. Dickson"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0600903",
+      "name": "Annabelle Moore",
+      "character": "Self"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 179126,
+  "year": 1894,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOTJmNGJlMzUtMTc1Mi00NjdkLTliMzUtZmNkYzQ4ZGYzMTE5XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.9,
+      "votes": 1105,
+      "distribution": {
+        "1": 39,
+        "2": 35,
+        "3": 48,
+        "4": 100,
+        "5": 231,
+        "6": 305,
+        "7": 175,
+        "8": 77,
+        "9": 34,
+        "10": 61
+      },
+      "normalized": 4.2191
+    },
+    "filmweb": {
+      "rating": 5.21,
+      "votes": 174,
+      "distribution": {
+        "1": 3,
+        "2": 10,
+        "3": 26,
+        "4": 24,
+        "5": 33,
+        "6": 36,
+        "7": 20,
+        "8": 14,
+        "9": 3,
+        "10": 5
+      },
+      "normalized": 4.0523
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "11.12.2016",
+      "normalized": 6.4102
+    },
+    "score": 4.8939
+  },
+  "polish_title": "Annabelle Butterfly Dance",
+  "silent": true,
+  "description_pl": "W tym minutowym filmie Annabelle Moore wykonuje jeden ze swych popularnych tańców. Do tego pokazu jej kostium został przyozdobiony w parę skrzydeł, przez co miała imitować motyla. Do stworzenia wizji zachowania motyla posłużyła jej długa i zwiewna spódnica.",
+  "cinematographers": [
+    {
+      "id": "nm0374658",
+      "name": "William Heise"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

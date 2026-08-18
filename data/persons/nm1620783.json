@@ -1,0 +1,48 @@
+{
+  "id": "nm1620783",
+  "name": "Meghan Markle",
+  "filmography": [
+    {
+      "imdb_id": "tt1403981",
+      "title": "Remember Me",
+      "year": 2010,
+      "roles": [
+        "cast"
+      ],
+      "character": "Megan"
+    },
+    {
+      "imdb_id": "tt1499658",
+      "title": "Horrible Bosses",
+      "year": 2011,
+      "roles": [
+        "cast"
+      ],
+      "character": "Jamie"
+    },
+    {
+      "imdb_id": "tt1632701",
+      "title": "Suits",
+      "year": 2011,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Rachel Zane"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjExNzU3ODY3NF5BMl5BanBnXkFtZTcwMjI0MzM0OA@@._V1_.jpg",
+  "birth_date": "04.08.1981",
+  "birth_location": "Los Angeles, California, USA",
+  "height": "1.68 m",
+  "filmweb_id": 515186,
+  "name_pl": "Meghan Markle",
+  "birth_location_pl": "Los Angeles, Kalifornia",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 515186
+}

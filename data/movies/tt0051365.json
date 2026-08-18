@@ -1,0 +1,203 @@
+{
+  "imdb_id": "tt0051365",
+  "title": "The Magician",
+  "description": "A traveling magician and his assistants are persecuted by authorities in Sweden of the 19th century. Their capture, however, didn't bring victory to those in power.",
+  "runtime_minutes": 101,
+  "release_date": "27.08.1959",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0001884",
+      "name": "Max von Sydow"
+    },
+    {
+      "id": "nm0862026",
+      "name": "Ingrid Thulin"
+    },
+    {
+      "id": "nm0085038",
+      "name": "Gunnar Björnstrand"
+    },
+    {
+      "id": "nm0927711",
+      "name": "Naima Wifstrand"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000005",
+      "name": "Ingmar Bergman"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000005",
+      "name": "Ingmar Bergman"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0001884",
+      "name": "Max von Sydow",
+      "character": "Albert Emanuel Vogler"
+    },
+    {
+      "id": "nm0862026",
+      "name": "Ingrid Thulin",
+      "character": "Manda Vogler (alias Mr. Aman)"
+    },
+    {
+      "id": "nm0085038",
+      "name": "Gunnar Björnstrand",
+      "character": "Dr. Vergerus, Minister of Health"
+    },
+    {
+      "id": "nm0927711",
+      "name": "Naima Wifstrand",
+      "character": "Granny Vogler"
+    },
+    {
+      "id": "nm0252345",
+      "name": "Bengt Ekerot",
+      "character": "Johan Spegel"
+    },
+    {
+      "id": "nm0000761",
+      "name": "Bibi Andersson",
+      "character": "Sara Lindqvist"
+    },
+    {
+      "id": "nm0294892",
+      "name": "Gertrud Fridh",
+      "character": "Ottilia Egerman"
+    },
+    {
+      "id": "nm0252299",
+      "name": "Lars Ekborg",
+      "character": "Simson, the coach driver"
+    },
+    {
+      "id": "nm0668053",
+      "name": "Toivo Pawlo",
+      "character": "Police Superintendant Starbeck"
+    },
+    {
+      "id": "nm0430746",
+      "name": "Erland Josephson",
+      "character": "Consul Egerman"
+    },
+    {
+      "id": "nm0294882",
+      "name": "Åke Fridell",
+      "character": "Tubal"
+    },
+    {
+      "id": "nm0752211",
+      "name": "Sif Ruud",
+      "character": "Sofia Garp"
+    },
+    {
+      "id": "nm0515554",
+      "name": "Oscar Ljung",
+      "character": "Antonsson, burly stableman"
+    },
+    {
+      "id": "nm0803603",
+      "name": "Ulla Sjöblom",
+      "character": "Henrietta Starbeck"
+    },
+    {
+      "id": "nm0246920",
+      "name": "Axel Düberg",
+      "character": "Rustan, young manservant"
+    },
+    {
+      "id": "nm0678555",
+      "name": "Birgitta Pettersson",
+      "character": "Sanna"
+    },
+    {
+      "id": "nm0084900",
+      "name": "Frithiof Bjärne",
+      "character": "Border Officer"
+    },
+    {
+      "id": "nm0097195",
+      "name": "Tor Borong",
+      "character": "Border Officer"
+    }
+  ],
+  "countries": [
+    "Sweden"
+  ],
+  "languages": [
+    "Swedish"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 33238,
+  "year": 1958,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNmZmNWMzNmQtZDBmMi00NTEwLThiMTUtMGQwNjFlMTc2ZTZhXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Ansiktet",
+  "ratings": {
+    "imdb": {
+      "rating": 7.5,
+      "votes": 11959,
+      "distribution": {
+        "1": 93,
+        "2": 64,
+        "3": 59,
+        "4": 166,
+        "5": 384,
+        "6": 1233,
+        "7": 3116,
+        "8": 3895,
+        "9": 1824,
+        "10": 1125
+      },
+      "normalized": 6.3345
+    },
+    "filmweb": {
+      "rating": 7.34,
+      "votes": 2183,
+      "distribution": {
+        "1": 40,
+        "2": 3,
+        "3": 7,
+        "4": 30,
+        "5": 102,
+        "6": 256,
+        "7": 684,
+        "8": 672,
+        "9": 273,
+        "10": 116
+      },
+      "normalized": 6.119
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "08.12.2005",
+      "normalized": 6.3474
+    },
+    "score": 6.267
+  },
+  "polish_title": "Twarz",
+  "silent": false,
+  "description_pl": "Sztokholm, rok 1840. Tajemniczy Vogler jest właścicielem wędrownego Teatru Magnetycznego Zdrowia. Gdy pojawia się w mieście, komisarz policji, lekarz i urzędnik miejski postanawiają sprawdzić jego możliwości.",
+  "composers": [
+    {
+      "id": "nm0635059",
+      "name": "Erik Nordgren"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005705",
+      "name": "Gunnar Fischer"
+    }
+  ],
+  "fetched_at": "2026-08-15"
+}

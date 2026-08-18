@@ -1,0 +1,49 @@
+{
+  "id": "nm0507073",
+  "name": "Damian Lewis",
+  "filmography": [
+    {
+      "imdb_id": "tt0185906",
+      "title": "Band of Brothers",
+      "year": 2001,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Richard D. Winters"
+    },
+    {
+      "imdb_id": "tt4270492",
+      "title": "Billions",
+      "year": 2016,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Bobby Axelrod"
+    },
+    {
+      "imdb_id": "tt7131622",
+      "title": "Once Upon a Time in... Hollywood",
+      "year": 2019,
+      "roles": [
+        "cast"
+      ],
+      "character": "Steve McQueen"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTM2OTcyMDgxMl5BMl5BanBnXkFtZTcwNDU3NTU5OA@@._V1_.jpg",
+  "birth_date": "11.02.1971",
+  "birth_location": "St. John's Wood, London, England, UK",
+  "height": "1.86 m",
+  "filmweb_id": 60097,
+  "name_pl": "Damian Lewis",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 60097
+}

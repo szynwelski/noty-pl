@@ -1,0 +1,49 @@
+{
+  "id": "nm0330150",
+  "name": "Don Gordon",
+  "filmography": [
+    {
+      "imdb_id": "tt0062765",
+      "title": "Bullitt",
+      "year": 1968,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Det. Delgetti"
+    },
+    {
+      "imdb_id": "tt0070511",
+      "title": "Papillon",
+      "year": 1973,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Julot"
+    },
+    {
+      "imdb_id": "tt0093409",
+      "title": "Lethal Weapon",
+      "year": 1987,
+      "roles": [
+        "cast"
+      ],
+      "character": "Cop #2"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQyMTI2MTY5NV5BMl5BanBnXkFtZTcwNjI1MDAxOA@@._V1_.jpg",
+  "birth_date": "13.11.1926",
+  "death_date": "24.04.2017",
+  "birth_location": "Los Angeles, California, USA",
+  "height": "1.73 m",
+  "filmweb_id": 47616,
+  "name_pl": "Don Gordon",
+  "birth_location_pl": "Los Angeles, Kalifornia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

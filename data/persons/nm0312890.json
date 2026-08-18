@@ -1,0 +1,31 @@
+{
+  "id": "nm0312890",
+  "name": "Leo Genn",
+  "filmography": [
+    {
+      "imdb_id": "tt0049513",
+      "title": "Moby Dick",
+      "year": 1956,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Starbuck"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQ3ODczNDcxNV5BMl5BanBnXkFtZTcwNTQwNDkwOA@@._V1_.jpg",
+  "birth_date": "09.08.1905",
+  "death_date": "26.01.1978",
+  "birth_location": "London, England, UK",
+  "height": "1.78 m",
+  "imdb_scraped": true,
+  "filmweb_id": 49705,
+  "name_pl": "Leo Genn",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 49705
+}

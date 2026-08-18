@@ -1,0 +1,118 @@
+{
+  "imdb_id": "tt0223341",
+  "title": "La fée aux choux",
+  "description": "Fantasy tale involving a fairy who can produce and deliver babies coming out of cabbages. Gently moving through the cabbages and using of lovely gestures, she takes one baby out of there, then makes more magic and delivers two more.",
+  "runtime_minutes": 1,
+  "release_date": "31.03.1896",
+  "genres": [
+    "Short",
+    "Family",
+    "Fantasy"
+  ],
+  "stars": [
+    {
+      "id": "nm0349785",
+      "name": "Alice Guy"
+    },
+    {
+      "id": "nm4905952",
+      "name": "Germaine Serand"
+    },
+    {
+      "id": "nm4906549",
+      "name": "Yvonne Serand"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0349785",
+      "name": "Alice Guy"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0349785",
+      "name": "Alice Guy"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0349785",
+      "name": "Alice Guy",
+      "character": ""
+    },
+    {
+      "id": "nm4905952",
+      "name": "Germaine Serand",
+      "character": ""
+    },
+    {
+      "id": "nm4906549",
+      "name": "Yvonne Serand",
+      "character": "The Cabbage Fairy"
+    }
+  ],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 258735,
+  "year": 1896,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYjBiMTBkNDEtOTc3Ny00ZWJlLTlmMzEtOTM0OTY1MGExMzMzXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.4,
+      "votes": 1627,
+      "distribution": {
+        "1": 62,
+        "2": 67,
+        "3": 109,
+        "4": 168,
+        "5": 424,
+        "6": 384,
+        "7": 217,
+        "8": 96,
+        "9": 32,
+        "10": 68
+      },
+      "normalized": 3.4979
+    },
+    "filmweb": {
+      "rating": 4.97,
+      "votes": 172,
+      "distribution": {
+        "1": 8,
+        "2": 12,
+        "3": 18,
+        "4": 28,
+        "5": 40,
+        "6": 28,
+        "7": 24,
+        "8": 9,
+        "9": 2,
+        "10": 3
+      },
+      "normalized": 3.9402
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "11.12.2016",
+      "normalized": 4.9718
+    },
+    "score": 4.1366
+  },
+  "polish_title": "La Fée aux Choux",
+  "silent": true,
+  "cinematographers": [
+    {
+      "id": "nm0349785",
+      "name": "Alice Guy"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

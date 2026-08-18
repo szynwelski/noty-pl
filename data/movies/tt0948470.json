@@ -1,0 +1,253 @@
+{
+  "imdb_id": "tt0948470",
+  "title": "The Amazing Spider-Man",
+  "description": "After Peter Parker is bitten by a genetically altered spider, he gains newfound, spider-like powers and ventures out to save the city from the machinations of a mysterious reptilian foe.",
+  "runtime_minutes": 136,
+  "release_date": "03.07.2012",
+  "genres": [
+    "Action",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm1940449",
+      "name": "Andrew Garfield"
+    },
+    {
+      "id": "nm1297015",
+      "name": "Emma Stone"
+    },
+    {
+      "id": "nm0406975",
+      "name": "Rhys Ifans"
+    },
+    {
+      "id": "nm0451234",
+      "name": "Irrfan Khan"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm1989536",
+      "name": "Marc Webb"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0888743",
+      "name": "James Vanderbilt"
+    },
+    {
+      "id": "nm0765091",
+      "name": "Alvin Sargent"
+    },
+    {
+      "id": "nm0460141",
+      "name": "Steve Kloves"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1940449",
+      "name": "Andrew Garfield",
+      "character": "Spider-Man"
+    },
+    {
+      "id": "nm1297015",
+      "name": "Emma Stone",
+      "character": "Gwen Stacy"
+    },
+    {
+      "id": "nm0406975",
+      "name": "Rhys Ifans",
+      "character": "The Lizard"
+    },
+    {
+      "id": "nm0001459",
+      "name": "Denis Leary",
+      "character": "Captain Stacy"
+    },
+    {
+      "id": "nm0000640",
+      "name": "Martin Sheen",
+      "character": "Uncle Ben"
+    },
+    {
+      "id": "nm0000398",
+      "name": "Sally Field",
+      "character": "Aunt May"
+    },
+    {
+      "id": "nm0451234",
+      "name": "Irrfan Khan",
+      "character": "Rajit Ratha"
+    },
+    {
+      "id": "nm0001714",
+      "name": "Campbell Scott",
+      "character": "Richard Parker"
+    },
+    {
+      "id": "nm0001110",
+      "name": "Embeth Davidtz",
+      "character": "Mary Parker"
+    },
+    {
+      "id": "nm3024712",
+      "name": "Chris Zylka",
+      "character": "Flash Thompson"
+    },
+    {
+      "id": "nm1934618",
+      "name": "Max Charles",
+      "character": "Peter Parker (Age 4)"
+    },
+    {
+      "id": "nm0001367",
+      "name": "C. Thomas Howell",
+      "character": "Jack's Father"
+    },
+    {
+      "id": "nm4223197",
+      "name": "Jake Keiffer",
+      "character": "Jack"
+    },
+    {
+      "id": "nm0171096",
+      "name": "Kari Coleman",
+      "character": "Helen Stacy"
+    },
+    {
+      "id": "nm2683982",
+      "name": "Michael Barra",
+      "character": "Store Clerk"
+    },
+    {
+      "id": "nm0304599",
+      "name": "Leif Gantvoort",
+      "character": "Cash Register Thief"
+    },
+    {
+      "id": "nm2185248",
+      "name": "Andy Pessoa",
+      "character": "Gordon"
+    },
+    {
+      "id": "nm2000954",
+      "name": "Hannah Marks",
+      "character": "Missy Kallenback"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 401436,
+  "year": 2012,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjMyOTM4MDMxNV5BMl5BanBnXkFtZTcwNjIyNzExOA@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7,
+      "votes": 781662,
+      "distribution": {
+        "1": 11094,
+        "2": 5646,
+        "3": 9900,
+        "4": 20679,
+        "5": 50447,
+        "6": 129993,
+        "7": 248708,
+        "8": 169774,
+        "9": 63373,
+        "10": 72048
+      },
+      "normalized": 5.6233
+    },
+    "filmweb": {
+      "rating": 6.75,
+      "votes": 162903,
+      "distribution": {
+        "1": 801,
+        "2": 1010,
+        "3": 3399,
+        "4": 5844,
+        "5": 15646,
+        "6": 35287,
+        "7": 54434,
+        "8": 32004,
+        "9": 9180,
+        "10": 5298
+      },
+      "normalized": 4.9919
+    },
+    "jarek": {
+      "rating": 3,
+      "date_rated": "02.09.2014",
+      "normalized": 4.2591
+    },
+    "michal": {
+      "rating": 3,
+      "date_rated": "03.03.2015",
+      "normalized": 3.8753
+    },
+    "score": 4.6874
+  },
+  "polish_title": "Niesamowity Spider-Man",
+  "silent": false,
+  "description_pl": "Nowa obsada, nowy reżyser, nowa historia. Czy zupełnie nowe podejście do najbardziej kasowego komiksu wszech czasów się powiedzie? Jak widać na przykładzie serii o Bondzie, odświeżenie tematu może okazać się wielkim sukcesem. Peter Parker tym razem uczy się jeszcze w liceum. Musi pogodzić się z tym, kim się stał, i wybaczyć sobie śmierć wuja, którego – tak mu się wydaje – mógł uratować.",
+  "producers": [
+    {
+      "id": "nm0032696",
+      "name": "Avi Arad"
+    },
+    {
+      "id": "nm5081880",
+      "name": "Tom Cohen"
+    },
+    {
+      "id": "nm0270559",
+      "name": "Kevin Feige"
+    },
+    {
+      "id": "nm0342045",
+      "name": "Michael Grillo"
+    },
+    {
+      "id": "nm1881232",
+      "name": "Kyla Kraman"
+    },
+    {
+      "id": "nm0498278",
+      "name": "Stan Lee"
+    },
+    {
+      "id": "nm0784732",
+      "name": "Beatriz Sequeira"
+    },
+    {
+      "id": "nm0866157",
+      "name": "Matt Tolmach"
+    },
+    {
+      "id": "nm0957205",
+      "name": "Laura Ziskin"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0000035",
+      "name": "James Horner"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0006701",
+      "name": "John Schwartzman"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

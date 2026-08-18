@@ -1,0 +1,47 @@
+{
+  "id": "nm0199787",
+  "name": "Henry Daniell",
+  "filmography": [
+    {
+      "imdb_id": "tt0032553",
+      "title": "The Great Dictator",
+      "year": 1940,
+      "roles": [
+        "cast"
+      ],
+      "character": "Garbitsch"
+    },
+    {
+      "imdb_id": "tt0032904",
+      "title": "The Philadelphia Story",
+      "year": 1940,
+      "roles": [
+        "cast"
+      ],
+      "character": "Sidney Kidd"
+    },
+    {
+      "imdb_id": "tt0051201",
+      "title": "Witness for the Prosecution",
+      "year": 1957,
+      "roles": [
+        "cast"
+      ],
+      "character": "Mayhew"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTYxNDk5NzQ1OF5BMl5BanBnXkFtZTcwNTg5MjgwOA@@._V1_.jpg",
+  "birth_date": "05.03.1894",
+  "death_date": "31.10.1963",
+  "birth_location": "London, England, UK",
+  "height": "1.83 m",
+  "filmweb_id": 47518,
+  "name_pl": "Henry Daniell",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ]
+}

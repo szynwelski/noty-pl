@@ -1,0 +1,208 @@
+{
+  "imdb_id": "tt0052997",
+  "title": "The League of Gentlemen",
+  "description": "A disgruntled veteran recruits a group of disgraced colleagues to perform a bank robbery with military precision.",
+  "runtime_minutes": 116,
+  "release_date": "24.01.1961",
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0370144",
+      "name": "Jack Hawkins"
+    },
+    {
+      "id": "nm0665902",
+      "name": "Nigel Patrick"
+    },
+    {
+      "id": "nm0515193",
+      "name": "Roger Livesey"
+    },
+    {
+      "id": "nm0000277",
+      "name": "Richard Attenborough"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0213136",
+      "name": "Basil Dearden"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0092675",
+      "name": "John Boland"
+    },
+    {
+      "id": "nm0285302",
+      "name": "Bryan Forbes"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0370144",
+      "name": "Jack Hawkins",
+      "character": "Hyde"
+    },
+    {
+      "id": "nm0665902",
+      "name": "Nigel Patrick",
+      "character": "Race"
+    },
+    {
+      "id": "nm0515193",
+      "name": "Roger Livesey",
+      "character": "Mycroft"
+    },
+    {
+      "id": "nm0000277",
+      "name": "Richard Attenborough",
+      "character": "Lexy"
+    },
+    {
+      "id": "nm0285302",
+      "name": "Bryan Forbes",
+      "character": "Porthill"
+    },
+    {
+      "id": "nm0601476",
+      "name": "Kieron Moore",
+      "character": "Stevens"
+    },
+    {
+      "id": "nm0018776",
+      "name": "Terence Alexander",
+      "character": "Rupert"
+    },
+    {
+      "id": "nm0083424",
+      "name": "Norman Bird",
+      "character": "Weaver"
+    },
+    {
+      "id": "nm0178509",
+      "name": "Robert Coote",
+      "character": "Bunny Warren"
+    },
+    {
+      "id": "nm0834320",
+      "name": "Melissa Stribling",
+      "character": "Peggy"
+    },
+    {
+      "id": "nm0628216",
+      "name": "Nanette Newman",
+      "character": "Elizabeth"
+    },
+    {
+      "id": "nm0792826",
+      "name": "Lydia Sherwood",
+      "character": "Hilda"
+    },
+    {
+      "id": "nm0362791",
+      "name": "Doris Hare",
+      "character": "Molly Weaver"
+    },
+    {
+      "id": "nm0517084",
+      "name": "David Lodge",
+      "character": "C.S.M."
+    },
+    {
+      "id": "nm0943859",
+      "name": "Patrick Wymark",
+      "character": "Wylie"
+    },
+    {
+      "id": "nm0363862",
+      "name": "Gerald Harper",
+      "character": "Captain Saunders"
+    },
+    {
+      "id": "nm0614862",
+      "name": "Brian Murray",
+      "character": "Grogan"
+    },
+    {
+      "id": "nm3119865",
+      "name": "John Adams",
+      "character": "Police Constable in Final Scene"
+    }
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 10564,
+  "year": 1960,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOTMyZjE4MzktNGIzOS00ODRjLTgxMDAtOWJjYmQ2YmEwYTJjXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.2,
+      "votes": 5932,
+      "distribution": {
+        "1": 53,
+        "2": 37,
+        "3": 39,
+        "4": 73,
+        "5": 224,
+        "6": 761,
+        "7": 2058,
+        "8": 1546,
+        "9": 565,
+        "10": 576
+      },
+      "normalized": 5.8335
+    },
+    "filmweb": {
+      "rating": 6.49,
+      "votes": 455,
+      "distribution": {
+        "1": 5,
+        "2": 0,
+        "3": 4,
+        "4": 15,
+        "5": 57,
+        "6": 136,
+        "7": 162,
+        "8": 53,
+        "9": 13,
+        "10": 10
+      },
+      "normalized": 4.6791
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "03.11.2006",
+      "normalized": 5.4199
+    },
+    "score": 5.3108
+  },
+  "polish_title": "Liga dżentelmenów",
+  "silent": false,
+  "description_pl": "Po latach oddanej służby w armii, pułkownik Hyde zostaje wysłany na przymusową emeryturę, z czego wcale nie jest zadowolony. Jeden po drugim znajduje siedmiu innych byłych oficerów, doskonałych fachowców w swoich dziedzinach, ale obecnie bezrobotnych i proponuje im udział w swoim projekcie. Wszystkich ośmiu panów zgadza się wspólnie zorganizować skok na bank, który chcą przeprowadzić z prawdziwie wojskową precyzją.",
+  "composers": [
+    {
+      "id": "nm0337898",
+      "name": "Philip Green"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0406471",
+      "name": "Arthur Ibbetson"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

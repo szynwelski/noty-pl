@@ -1,0 +1,222 @@
+{
+  "imdb_id": "tt0470752",
+  "title": "Ex Machina",
+  "description": "A young programmer is selected to participate in a ground-breaking experiment in synthetic intelligence by evaluating the human qualities of a highly advanced humanoid A.I.",
+  "runtime_minutes": 108,
+  "release_date": "24.04.2015",
+  "genres": [
+    "Drama",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm2539953",
+      "name": "Alicia Vikander"
+    },
+    {
+      "id": "nm1727304",
+      "name": "Domhnall Gleeson"
+    },
+    {
+      "id": "nm1209966",
+      "name": "Oscar Isaac"
+    },
+    {
+      "id": "nm4420495",
+      "name": "Sonoya Mizuno"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0307497",
+      "name": "Alex Garland"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0307497",
+      "name": "Alex Garland"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm2539953",
+      "name": "Alicia Vikander",
+      "character": "Ava"
+    },
+    {
+      "id": "nm1727304",
+      "name": "Domhnall Gleeson",
+      "character": "Caleb"
+    },
+    {
+      "id": "nm1209966",
+      "name": "Oscar Isaac",
+      "character": "Nathan"
+    },
+    {
+      "id": "nm0424819",
+      "name": "Corey Johnson",
+      "character": "Jay"
+    },
+    {
+      "id": "nm4420495",
+      "name": "Sonoya Mizuno",
+      "character": "Kyoko"
+    },
+    {
+      "id": "nm7048733",
+      "name": "Claire Selby",
+      "character": "Lily"
+    },
+    {
+      "id": "nm5883179",
+      "name": "Symara A. Templeman",
+      "character": "Jasmine"
+    },
+    {
+      "id": "nm7232418",
+      "name": "Gana Bayarsaikhan",
+      "character": "Jade"
+    },
+    {
+      "id": "nm4031531",
+      "name": "Tiffany Pisani",
+      "character": "Katya"
+    },
+    {
+      "id": "nm6045387",
+      "name": "Elina Alminas",
+      "character": "Amber"
+    },
+    {
+      "id": "nm5891887",
+      "name": "Chelsea Li",
+      "character": "Office Worker"
+    },
+    {
+      "id": "nm5431457",
+      "name": "Caitlin Morton",
+      "character": "Office Worker"
+    },
+    {
+      "id": "nm4714579",
+      "name": "Deborah Rosan",
+      "character": "Office Manager"
+    },
+    {
+      "id": "nm3561505",
+      "name": "Evie Wray",
+      "character": "Secretary"
+    }
+  ],
+  "countries": [
+    "United Kingdom",
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 686419,
+  "year": 2014,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTUxNzc0OTIxMV5BMl5BanBnXkFtZTgwNDI3NzU2NDE@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.7,
+      "votes": 644003,
+      "distribution": {
+        "1": 3419,
+        "2": 1901,
+        "3": 3173,
+        "4": 6429,
+        "5": 16475,
+        "6": 52520,
+        "7": 156927,
+        "8": 234074,
+        "9": 114736,
+        "10": 54349
+      },
+      "normalized": 6.8732
+    },
+    "filmweb": {
+      "rating": 7.29,
+      "votes": 208158,
+      "distribution": {
+        "1": 307,
+        "2": 347,
+        "3": 1609,
+        "4": 2834,
+        "5": 10307,
+        "6": 28620,
+        "7": 67920,
+        "8": 69157,
+        "9": 22261,
+        "10": 4796
+      },
+      "normalized": 6.2323
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "27.02.2018",
+      "normalized": 5.6855
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "20.07.2015",
+      "normalized": 4.5781
+    },
+    "score": 5.8423
+  },
+  "polish_title": "Ex Machina",
+  "silent": false,
+  "description_pl": "Scenarzysta „<a href=\"/film/?id=tt0289043\">28 dni później</a>” i „<a href=\"/film/?id=tt0448134\">W stronę słońca</a>” zaprasza do świata przyszłości, która dzieje się już teraz, w laboratoriach, o których nie mamy pojęcia. \nMłody informatyk Caleb (<a href=\"/osoba/?id=nm1727304\">Dohmnall Gleeson</a>) wygrywa firmowy konkurs i na tydzień trafia do laboratorium, w którym pracuje szef firmy - Nathan (<a href=\"/osoba/?id=nm1209966\">Oscar Isaac</a>). Caleb poznaje w nim piękną Avę (<a href=\"/osoba/?id=nm2539953\">Alicia Vikander</a>) - pierwszą na świecie sztuczną inteligencję pod postacią kobiety. Ava jest wynikiem eksperymentu Nathana. Czuje, myśli, wzrusza się i boi o własną przyszłość. Caleb nie wie, że sam jest częścią eksperymentu, który ma sprawdzić, jak na postać Avy zareaguje przeciętny człowiek.",
+  "producers": [
+    {
+      "id": "nm4791912",
+      "name": "Eli Bush"
+    },
+    {
+      "id": "nm2386549",
+      "name": "Caroline Levy"
+    },
+    {
+      "id": "nm0531602",
+      "name": "Andrew Macdonald"
+    },
+    {
+      "id": "nm0716924",
+      "name": "Allon Reich"
+    },
+    {
+      "id": "nm0743882",
+      "name": "Tessa Ross"
+    },
+    {
+      "id": "nm0748784",
+      "name": "Scott Rudin"
+    },
+    {
+      "id": "nm6755947",
+      "name": "Jason Sack"
+    },
+    {
+      "id": "nm4355109",
+      "name": "Joanne Smith"
+    },
+    {
+      "id": "nm1335925",
+      "name": "Jarle Tangen"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm1134771",
+      "name": "Rob Hardy"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

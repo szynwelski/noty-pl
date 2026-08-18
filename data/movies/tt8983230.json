@@ -1,0 +1,243 @@
+{
+  "imdb_id": "tt8983230",
+  "title": "Broad Peak",
+  "description": "After climbing Broad Peak mountain, Maciej Berbeka learns his journey to the summit is incomplete. 25 years later, he sets out to finish what he started.",
+  "runtime_minutes": 101,
+  "release_date": "14.09.2022",
+  "genres": [
+    "Adventure",
+    "Biography",
+    "Drama",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm1522852",
+      "name": "Ireneusz Czop"
+    },
+    {
+      "id": "nm0652292",
+      "name": "Maja Ostaszewska"
+    },
+    {
+      "id": "nm1644158",
+      "name": "Piotr Glowacki"
+    },
+    {
+      "id": "nm1466093",
+      "name": "Lukasz Simlat"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm1291828",
+      "name": "Leszek Dawid"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm4906610",
+      "name": "Lukasz Ludkowski"
+    },
+    {
+      "id": "nm10114370",
+      "name": "Maciej Rzaczynski"
+    },
+    {
+      "id": "nm1291828",
+      "name": "Leszek Dawid"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1522852",
+      "name": "Ireneusz Czop",
+      "character": "Maciej Berbeka"
+    },
+    {
+      "id": "nm0652292",
+      "name": "Maja Ostaszewska",
+      "character": "Ewa Dyakowska-Berbeka"
+    },
+    {
+      "id": "nm1644158",
+      "name": "Piotr Glowacki",
+      "character": "Aleksander Lwow"
+    },
+    {
+      "id": "nm1466093",
+      "name": "Lukasz Simlat",
+      "character": "Krzysztof Wielicki"
+    },
+    {
+      "id": "nm0764671",
+      "name": "Tomasz Sapryk",
+      "character": "Andrzej Zawada"
+    },
+    {
+      "id": "nm4221607",
+      "name": "Dawid Ogrodnik",
+      "character": "Adam Bielecki"
+    },
+    {
+      "id": "nm5972801",
+      "name": "Maciej Raniszewski",
+      "character": "Tomasz Kowalski"
+    },
+    {
+      "id": "nm5342673",
+      "name": "Maciej Kulig",
+      "character": "Artur Malek"
+    },
+    {
+      "id": "nm8553374",
+      "name": "Kuba Dyniewicz",
+      "character": "Jan Berbeka"
+    },
+    {
+      "id": "nm0941831",
+      "name": "Agnieszka Wosinska",
+      "character": "Anna Milewska"
+    },
+    {
+      "id": "nm3867276",
+      "name": "Joanna Banasik",
+      "character": "Guest at Ewa's opening"
+    },
+    {
+      "id": "nm3524451",
+      "name": "Dariusz Bereski",
+      "character": "Participant of the expedition in 1988"
+    },
+    {
+      "id": "nm9778886",
+      "name": "Konrad Biel",
+      "character": ""
+    },
+    {
+      "id": "nm2645285",
+      "name": "Andrzej Bienias",
+      "character": "Organizer of Ewa's opening"
+    },
+    {
+      "id": "nm0092584",
+      "name": "Waqar Bokhari",
+      "character": ""
+    },
+    {
+      "id": "nm1177300",
+      "name": "Joanna Borer",
+      "character": "Teacher"
+    },
+    {
+      "id": "nm1776082",
+      "name": "Tomasz Borkowski",
+      "character": "Journalist of Radio Zet"
+    },
+    {
+      "id": "nm1644801",
+      "name": "Jerzy Chruscinski",
+      "character": ""
+    }
+  ],
+  "countries": [
+    "Poland",
+    "Italy"
+  ],
+  "languages": [
+    "Polish",
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 812176,
+  "year": 2022,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZTQwNzVkYzktOTUzMC00Njg4LWIwOTYtM2ZjNTExZGY1NmUxXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6,
+      "votes": 2612,
+      "distribution": {
+        "1": 69,
+        "2": 44,
+        "3": 74,
+        "4": 169,
+        "5": 405,
+        "6": 784,
+        "7": 650,
+        "8": 247,
+        "9": 77,
+        "10": 93
+      },
+      "normalized": 3.9991
+    },
+    "filmweb": {
+      "rating": 5.61,
+      "votes": 19910,
+      "distribution": {
+        "1": 268,
+        "2": 181,
+        "3": 1037,
+        "4": 1956,
+        "5": 5353,
+        "6": 6339,
+        "7": 3369,
+        "8": 1026,
+        "9": 225,
+        "10": 156
+      },
+      "normalized": 2.8243
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "26.09.2022",
+      "normalized": 5.6855
+    },
+    "score": 4.1696
+  },
+  "polish_title": "Broad Peak",
+  "silent": false,
+  "description_pl": "W 1988 roku, po miesiącach przygotowań oraz tysiącach wydanych dolarów, międzynarodowa zimowa wyprawa mająca na celu zdobycie najtrudniejszej góry świata, K2, kończy się niepowodzeniem. Pomimo poczucia klęski szerzącego się wśród himalaistów dwóch Polaków, Maciej Berbeka i Alek Lwow, postanawia zdobyć sąsiadujący szczyt, Broad Peak. Wbrew powszechnej opinii doświadczonych wspinaczy mężczyznom udaje się przekonać kierownika wyprawy, Andrzeja Zawadę, na ryzykowną zmianę planów. Nowy kierunek ekspedycji zmieni i naznaczy życie Maćka w sposób, którego nigdy by się nie spodziewał.",
+  "producers": [
+    {
+      "id": "nm6276233",
+      "name": "Maria Herbich"
+    },
+    {
+      "id": "nm3664961",
+      "name": "Dawid Janicki"
+    },
+    {
+      "id": "nm11574509",
+      "name": "Pola Langowska"
+    },
+    {
+      "id": "nm11687250",
+      "name": "Aleksandra Rudzka"
+    },
+    {
+      "id": "nm11686637",
+      "name": "Pawel Rymarz"
+    },
+    {
+      "id": "nm2285475",
+      "name": "Krzysztof Rzaczynski"
+    },
+    {
+      "id": "nm10114370",
+      "name": "Maciej Rzaczynski"
+    },
+    {
+      "id": "nm14046407",
+      "name": "Maria Stemplowska-Rymarz"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm5823232",
+      "name": "Lukasz Gutt"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

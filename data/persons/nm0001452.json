@@ -1,0 +1,50 @@
+{
+  "id": "nm0001452",
+  "name": "Charles Laughton",
+  "filmography": [
+    {
+      "imdb_id": "tt0048424",
+      "title": "The Night of the Hunter",
+      "year": 1955,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0051201",
+      "title": "Witness for the Prosecution",
+      "year": 1957,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Sir Wilfrid"
+    },
+    {
+      "imdb_id": "tt0054331",
+      "title": "Spartacus",
+      "year": 1960,
+      "roles": [
+        "cast"
+      ],
+      "character": "Gracchus"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZWI2NWEzOTgtMjQyMi00ZWRhLWI3NjEtZThkNTQ5NjAxN2U5XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "01.07.1899",
+  "death_date": "15.12.1962",
+  "birth_location": "Victoria Hotel, Scarborough, North Yorkshire, England, UK",
+  "height": "1.72 m",
+  "filmweb_id": 41171,
+  "name_pl": "Charles Laughton",
+  "birth_location_pl": "Scarborough, Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone",
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 41171
+}

@@ -1,0 +1,263 @@
+{
+  "imdb_id": "tt0831387",
+  "title": "Godzilla",
+  "description": "Following the 1999 Janjira nuclear disaster that claimed his wife Sandra, Joe Brody seeks answers. His Navy officer son Ford accompanies him to Japan, where they discover the devastating truth and see ancient monsters emerge.",
+  "runtime_minutes": 123,
+  "release_date": "16.05.2014",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm1093951",
+      "name": "Aaron Taylor-Johnson"
+    },
+    {
+      "id": "nm0647634",
+      "name": "Elizabeth Olsen"
+    },
+    {
+      "id": "nm0186505",
+      "name": "Bryan Cranston"
+    },
+    {
+      "id": "nm0913822",
+      "name": "Ken Watanabe"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm1757929",
+      "name": "Gareth Edwards"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1709264",
+      "name": "Dave Callaham"
+    },
+    {
+      "id": "nm1440919",
+      "name": "Max Borenstein"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1093951",
+      "name": "Aaron Taylor-Johnson",
+      "character": "Ford Brody"
+    },
+    {
+      "id": "nm0647634",
+      "name": "Elizabeth Olsen",
+      "character": "Elle Brody"
+    },
+    {
+      "id": "nm0186505",
+      "name": "Bryan Cranston",
+      "character": "Joe Brody"
+    },
+    {
+      "id": "nm2640264",
+      "name": "CJ Adams",
+      "character": "Young Ford"
+    },
+    {
+      "id": "nm0913822",
+      "name": "Ken Watanabe",
+      "character": "Dr. Ishiro Serizawa"
+    },
+    {
+      "id": "nm3395766",
+      "name": "Carson Bolde",
+      "character": "Sam Brody"
+    },
+    {
+      "id": "nm1020089",
+      "name": "Sally Hawkins",
+      "character": "Vivienne Graham"
+    },
+    {
+      "id": "nm0000300",
+      "name": "Juliette Binoche",
+      "character": "Sandra Brody"
+    },
+    {
+      "id": "nm0000657",
+      "name": "David Strathairn",
+      "character": "Admiral William Stenz"
+    },
+    {
+      "id": "nm0429114",
+      "name": "Richard T. Jones",
+      "character": "Captain Russell Hampton"
+    },
+    {
+      "id": "nm0711559",
+      "name": "Victor Rasuk",
+      "character": "Sergeant Tre Morales"
+    },
+    {
+      "id": "nm1150775",
+      "name": "Patrick Sabongui",
+      "character": "Lieutenant Commander Marcus Waltz"
+    },
+    {
+      "id": "nm1742119",
+      "name": "Jared Keeso",
+      "character": "Jump Master"
+    },
+    {
+      "id": "nm3526638",
+      "name": "Luc Roderique",
+      "character": "Bomb Tracker"
+    },
+    {
+      "id": "nm2101229",
+      "name": "James Pizzinato",
+      "character": "HALO Jumper"
+    },
+    {
+      "id": "nm0521723",
+      "name": "Catherine Lough Haggquist",
+      "character": "PO #1 Martinez"
+    },
+    {
+      "id": "nm0444776",
+      "name": "Eric Keenleyside",
+      "character": "Boyd"
+    },
+    {
+      "id": "nm3141458",
+      "name": "Primo Allon",
+      "character": "Mine Team Member"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Japanese"
+  ],
+  "color": "Color",
+  "filmweb_id": 565162,
+  "year": 2014,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODE2NTdmMmYtY2U1OS00MjExLWIwNjQtYjQ5NTA0ZDZmZjZiXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.4,
+      "votes": 467328,
+      "distribution": {
+        "1": 10007,
+        "2": 7061,
+        "3": 12140,
+        "4": 23723,
+        "5": 52721,
+        "6": 109518,
+        "7": 124668,
+        "8": 69459,
+        "9": 25515,
+        "10": 32516
+      },
+      "normalized": 4.2559
+    },
+    "filmweb": {
+      "rating": 5.97,
+      "votes": 86500,
+      "distribution": {
+        "1": 762,
+        "2": 1265,
+        "3": 4472,
+        "4": 7133,
+        "5": 16202,
+        "6": 24099,
+        "7": 20262,
+        "8": 8537,
+        "9": 2278,
+        "10": 1490
+      },
+      "normalized": 3.2785
+    },
+    "jarek": {
+      "rating": 2,
+      "date_rated": "27.10.2017",
+      "normalized": 3.5003
+    },
+    "score": 3.6782
+  },
+  "polish_title": "Godzilla",
+  "silent": false,
+  "description_pl": "Zapierająca dech w piersiach reaktywacja historii kultowej Godzilli — postaci zrodzonej w wytwórni Toho. Tworzony z rozmachem film przygodowy, który pokazuje walkę najsławniejszego na świecie potwora przeciwko złym stworzeniom, które czerpią siłę z arogancji ludzkości wobec nauki i zagrażają światu.",
+  "producers": [
+    {
+      "id": "nm0052419",
+      "name": "Yoshimitsu Banno"
+    },
+    {
+      "id": "nm0169591",
+      "name": "Martin Cohen"
+    },
+    {
+      "id": "nm0003032",
+      "name": "Bob Ducsay"
+    },
+    {
+      "id": "nm1247503",
+      "name": "Alex Garcia"
+    },
+    {
+      "id": "nm0419169",
+      "name": "Jon Jashni"
+    },
+    {
+      "id": "nm0645776",
+      "name": "Kenji Okuhira"
+    },
+    {
+      "id": "nm0661289",
+      "name": "Mary Parent"
+    },
+    {
+      "id": "nm0736758",
+      "name": "Brian Rogers"
+    },
+    {
+      "id": "nm0746541",
+      "name": "Jim Rowe"
+    },
+    {
+      "id": "nm1262564",
+      "name": "Leeann Stonebreaker"
+    },
+    {
+      "id": "nm3819375",
+      "name": "Shannon Triplett"
+    },
+    {
+      "id": "nm2100078",
+      "name": "Thomas Tull"
+    },
+    {
+      "id": "nm0924357",
+      "name": "Patricia Whitcher"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006035",
+      "name": "Alexandre Desplat"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0568974",
+      "name": "Seamus McGarvey"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

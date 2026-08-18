@@ -1,0 +1,38 @@
+{
+  "id": "nm0113768",
+  "name": "James Brown",
+  "filmography": [
+    {
+      "imdb_id": "tt0080455",
+      "title": "The Blues Brothers",
+      "year": 1980,
+      "roles": [
+        "cast"
+      ],
+      "character": "Reverend Cleophus James"
+    },
+    {
+      "imdb_id": "tt0089927",
+      "title": "Rocky IV",
+      "year": 1985,
+      "roles": [
+        "cast"
+      ],
+      "character": "The Godfather of Soul"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNmE5OTU5ODMtMmU3ZS00OGQ3LWFiNGMtY2VkOWNiZThkOTU3XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "03.05.1933",
+  "death_date": "25.12.2006",
+  "birth_location": "Barnwell, South Carolina, USA",
+  "height": "1.70 m",
+  "imdb_scraped": true,
+  "filmweb_id": 9053,
+  "name_pl": "James Brown",
+  "birth_location_pl": "Barnwell, Karolina Południowa",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

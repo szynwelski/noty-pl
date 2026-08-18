@@ -1,0 +1,156 @@
+{
+  "imdb_id": "tt3727234",
+  "title": "Alejandrito y el Cuco",
+  "description": "After his teacher takes away his \"dirty pictures\", a nine-year-old boy and his friends orchestrate an unexpected revenge.",
+  "runtime_minutes": 15,
+  "release_date": "13.10.2014",
+  "genres": [
+    "Short",
+    "Comedy",
+    "Family",
+    "Fantasy"
+  ],
+  "stars": [
+    {
+      "id": "nm8145490",
+      "name": "Sarah Marínez Velázquez"
+    },
+    {
+      "id": "nm6491355",
+      "name": "Carlos Manuel Banzo"
+    },
+    {
+      "id": "nm8145491",
+      "name": "Daniel González Triana"
+    },
+    {
+      "id": "nm8145492",
+      "name": "Carlos A. González González"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm6491354",
+      "name": "Alejandro Medina"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm6491353",
+      "name": "Lina Saroza"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm8145490",
+      "name": "Sarah Marínez Velázquez",
+      "character": "Nina"
+    },
+    {
+      "id": "nm6491355",
+      "name": "Carlos Manuel Banzo",
+      "character": "Alejandrito"
+    },
+    {
+      "id": "nm8145491",
+      "name": "Daniel González Triana",
+      "character": "Amigo 1"
+    },
+    {
+      "id": "nm8145492",
+      "name": "Carlos A. González González",
+      "character": "Amigo 2"
+    },
+    {
+      "id": "nm6491352",
+      "name": "Ysmerci Salomon",
+      "character": "Maestra"
+    },
+    {
+      "id": "nm0596710",
+      "name": "Jorge Molina",
+      "character": "Director de la escuela"
+    },
+    {
+      "id": "nm8145489",
+      "name": "Lina",
+      "character": "Madre"
+    },
+    {
+      "id": "nm8145493",
+      "name": "María",
+      "character": "María"
+    }
+  ],
+  "countries": [
+    "Cuba"
+  ],
+  "languages": [
+    "Spanish"
+  ],
+  "color": "Color",
+  "filmweb_id": 725373,
+  "year": 2014,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTkxNjc1NGMtODgzNi00NTczLWEwYjItMTNjZGE3MTc0ZTdlXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.1,
+      "votes": 12,
+      "distribution": {
+        "1": 0,
+        "2": 1,
+        "3": 0,
+        "4": 1,
+        "5": 1,
+        "6": 4,
+        "7": 2,
+        "8": 3,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 5.2825
+    },
+    "filmweb": {
+      "rating": 4.75,
+      "votes": 4,
+      "distribution": {
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 2,
+        "6": 1,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 5.1285
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "22.12.2018",
+      "normalized": 4.9718
+    },
+    "score": 5.1276
+  },
+  "polish_title": "Aleks i Straszydło",
+  "silent": false,
+  "producers": [
+    {
+      "id": "nm6491354",
+      "name": "Alejandro Medina"
+    },
+    {
+      "id": "nm6491353",
+      "name": "Lina Saroza"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm6491353",
+      "name": "Lina Saroza"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

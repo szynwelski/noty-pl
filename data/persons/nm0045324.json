@@ -1,0 +1,38 @@
+{
+  "id": "nm0045324",
+  "name": "John Bach",
+  "filmography": [
+    {
+      "imdb_id": "tt0167261",
+      "title": "The Lord of the Rings: The Two Towers",
+      "year": 2002,
+      "roles": [
+        "cast"
+      ],
+      "character": "Madril"
+    },
+    {
+      "imdb_id": "tt0167260",
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": 2003,
+      "roles": [
+        "cast"
+      ],
+      "character": "Madril"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTg1Mjg2MzM0OV5BMl5BanBnXkFtZTcwMDQ2NzMwOA@@._V1_.jpg",
+  "birth_date": "05.06.1946",
+  "birth_location": "Wales, UK",
+  "height": "1.88 m",
+  "imdb_scraped": true,
+  "filmweb_id": 66333,
+  "name_pl": "John Bach",
+  "birth_location_pl": "Walia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania",
+    "Nowa Zelandia"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "nm0093051",
+  "name": "Uwe Boll",
+  "filmography": [
+    {
+      "imdb_id": "tt0383222",
+      "title": "BloodRayne",
+      "year": 2005,
+      "roles": [
+        "director",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0460780",
+      "title": "In the Name of the King: A Dungeon Siege Tale",
+      "year": 2007,
+      "roles": [
+        "director",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt2368553",
+      "title": "Assault on Wall Street",
+      "year": 2013,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTgzODEyMTUyOF5BMl5BanBnXkFtZTYwMTMyMzI0._V1_.jpg",
+  "birth_date": "22.06.1965",
+  "birth_location": "Wermelskirchen, North Rhine-Westphalia, Germany",
+  "height": "1.73 m",
+  "filmweb_id": 81480,
+  "name_pl": "Uwe Boll",
+  "birth_location_pl": "Wermelskirchen",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Kanada",
+    "Niemcy"
+  ],
+  "wikidata_fw_id": 81480
+}

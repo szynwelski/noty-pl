@@ -1,0 +1,146 @@
+{
+  "imdb_id": "tt0166374",
+  "title": "The Tale of Tillie's Dragon",
+  "description": "a little girl named Tillie who befriends a playful dragon named Herman. Together the two take part in a variety of adventures, including Tillie's struggle to protect her new friend from the people of her village, who view all dragons as fire-breathing man-eaters in need of extermination.",
+  "runtime_minutes": 44,
+  "release_date": "1995",
+  "genres": [
+    "Animation",
+    "Short",
+    "Family",
+    "Fantasy"
+  ],
+  "stars": [
+    {
+      "id": "nm0815718",
+      "name": "Kath Soucie"
+    },
+    {
+      "id": "nm0440885",
+      "name": "John Kassir"
+    },
+    {
+      "id": "nm0694637",
+      "name": "Wayne Powers"
+    },
+    {
+      "id": "nm0919798",
+      "name": "Frank Welker"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0834321",
+      "name": "Mike Stribling"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0834321",
+      "name": "Mike Stribling"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0815718",
+      "name": "Kath Soucie",
+      "character": "Tillie"
+    },
+    {
+      "id": "nm0440885",
+      "name": "John Kassir",
+      "character": "Herman"
+    },
+    {
+      "id": "nm0694637",
+      "name": "Wayne Powers",
+      "character": "Uncle St. George"
+    },
+    {
+      "id": "nm0919798",
+      "name": "Frank Welker",
+      "character": "Mayor Simmons"
+    },
+    {
+      "id": "nm0749042",
+      "name": "Randy Rudy",
+      "character": "Assistant Mayor Wilner"
+    },
+    {
+      "id": "nm0853122",
+      "name": "Russi Taylor",
+      "character": "Pie Lady"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "year": 1995,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTk2NDQ0OTA2NV5BMl5BanBnXkFtZTcwNjQyNjYyMQ@@._V1_.jpg",
+  "filmweb_id": 100377,
+  "ratings": {
+    "imdb": {
+      "rating": 6.1,
+      "votes": 125,
+      "distribution": {
+        "1": 5,
+        "2": 2,
+        "3": 6,
+        "4": 9,
+        "5": 12,
+        "6": 26,
+        "7": 20,
+        "8": 15,
+        "9": 9,
+        "10": 21
+      },
+      "normalized": 5.045
+    },
+    "filmweb": {
+      "rating": 6.71,
+      "votes": 104,
+      "distribution": {
+        "2": 2,
+        "3": 2,
+        "4": 6,
+        "5": 13,
+        "6": 28,
+        "7": 22,
+        "8": 12,
+        "9": 9,
+        "10": 10
+      },
+      "normalized": 5.1357
+    },
+    "michal": {
+      "rating": 2,
+      "date_rated": "20.06.2015",
+      "normalized": 3.1556
+    },
+    "score": 4.4454
+  },
+  "polish_title": "Mój Przyjaciel Smok",
+  "silent": false,
+  "description_pl": "Mała Tillie mieszka ze swoim wujem, baronetem Saint George, w starym zrujnowanym zamczysku. Dziewczynka nie ma przyjaciół, ponieważ troskliwy wujek nie pozwala oddalać się od zamku. Saint George chciałby (wzorem swego przodka) zostać pogromcą smoków. Tymczasem samotna Tilly oswaja pieski, koty, ptaszki. Zły burmistrz chce pozbawić rodzinę dachu nad głową. Tymczasem Tilly zaprzyjaźnia się z prawdziwym smokiem.",
+  "producers": [
+    {
+      "id": "nm0353970",
+      "name": "Steven Hahn"
+    },
+    {
+      "id": "nm0619391",
+      "name": "Isao Nago"
+    },
+    {
+      "id": "nm0834321",
+      "name": "Mike Stribling"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

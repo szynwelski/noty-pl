@@ -1,0 +1,218 @@
+{
+  "imdb_id": "tt0044079",
+  "title": "Strangers on a Train",
+  "description": "A psychopath tries to forcibly persuade a tennis star to agree to his theory that two strangers can get away with murder by submitting to his plan to kill the other's most-hated person.",
+  "runtime_minutes": 101,
+  "release_date": "30.06.1951",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Film-Noir",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0335048",
+      "name": "Farley Granger"
+    },
+    {
+      "id": "nm0908153",
+      "name": "Robert Walker"
+    },
+    {
+      "id": "nm0738746",
+      "name": "Ruth Roman"
+    },
+    {
+      "id": "nm0001991",
+      "name": "Leo G. Carroll"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000033",
+      "name": "Alfred Hitchcock"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0151452",
+      "name": "Raymond Chandler"
+    },
+    {
+      "id": "nm0650262",
+      "name": "Czenzi Ormonde"
+    },
+    {
+      "id": "nm0177336",
+      "name": "Whitfield Cook"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0335048",
+      "name": "Farley Granger",
+      "character": "Guy Haines"
+    },
+    {
+      "id": "nm0908153",
+      "name": "Robert Walker",
+      "character": "Bruno Antony"
+    },
+    {
+      "id": "nm0738746",
+      "name": "Ruth Roman",
+      "character": "Anne Morton"
+    },
+    {
+      "id": "nm0001991",
+      "name": "Leo G. Carroll",
+      "character": "Sen. Morton"
+    },
+    {
+      "id": "nm0386877",
+      "name": "Patricia Hitchcock",
+      "character": "Barbara Morton"
+    },
+    {
+      "id": "nm0736990",
+      "name": "Kasey Rogers",
+      "character": "Miriam Joyce Haines"
+    },
+    {
+      "id": "nm0521079",
+      "name": "Marion Lorne",
+      "character": "Mrs. Antony"
+    },
+    {
+      "id": "nm0354947",
+      "name": "Jonathan Hale",
+      "character": "Mr. Antony"
+    },
+    {
+      "id": "nm0820643",
+      "name": "Howard St. John",
+      "character": "Police Capt. Turley"
+    },
+    {
+      "id": "nm0113876",
+      "name": "John Brown",
+      "character": "Prof. Collins"
+    },
+    {
+      "id": "nm0889540",
+      "name": "Norma Varden",
+      "character": "Mrs. Cunningham"
+    },
+    {
+      "id": "nm0321143",
+      "name": "Robert Gist",
+      "character": "Det. Leslie Hennessey"
+    },
+    {
+      "id": "nm0020665",
+      "name": "Joel Allen",
+      "character": "Policeman"
+    },
+    {
+      "id": "nm0022367",
+      "name": "Murray Alper",
+      "character": "Boatman"
+    },
+    {
+      "id": "nm0028166",
+      "name": "Monya Andre",
+      "character": "Dowager"
+    },
+    {
+      "id": "nm0051618",
+      "name": "Benjie Bancroft",
+      "character": "Police Officer"
+    },
+    {
+      "id": "nm7288149",
+      "name": "Harry Baum",
+      "character": "Tennis Match Spectator"
+    },
+    {
+      "id": "nm0070757",
+      "name": "Brooks Benedict",
+      "character": "Tennis Umpire"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 1325,
+  "year": 1951,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYjZkNjIwYjktN2IzOC00MmJlLWFkNDItZDZmNGZkNjQzZTA0XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.9,
+      "votes": 148788,
+      "distribution": {
+        "1": 1521,
+        "2": 456,
+        "3": 674,
+        "4": 1188,
+        "5": 3260,
+        "6": 9833,
+        "7": 30171,
+        "8": 52219,
+        "9": 29708,
+        "10": 19758
+      },
+      "normalized": 7.2336
+    },
+    "filmweb": {
+      "rating": 7.39,
+      "votes": 11940,
+      "distribution": {
+        "1": 26,
+        "2": 20,
+        "3": 59,
+        "4": 119,
+        "5": 467,
+        "6": 1581,
+        "7": 3930,
+        "8": 3993,
+        "9": 1219,
+        "10": 526
+      },
+      "normalized": 6.4125
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "27.07.2012",
+      "normalized": 7.1247
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "08.09.2008",
+      "normalized": 5.4199
+    },
+    "score": 6.5477
+  },
+  "polish_title": "Nieznajomi z pociągu",
+  "silent": false,
+  "description_pl": "Wybitny tenisista, Guy Haines, spotyka  w pociągu ekscentrycznego Bruno. Mężczyzna proponuje mu dość nietypowy  układ - on zabije jego żonę, która nie zgadza się na rozwód, a w ramach  rewanżu Guy pozbędzie się despotycznego ojca Bruno. W takim przypadku  istnieje niewielka szansa odnalezienia winnego...",
+  "composers": [
+    {
+      "id": "nm0006323",
+      "name": "Dimitri Tiomkin"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0122079",
+      "name": "Robert Burks"
+    }
+  ],
+  "fetched_at": "2026-08-15"
+}

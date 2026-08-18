@@ -1,0 +1,49 @@
+{
+  "id": "nm0000974",
+  "name": "Walter Brennan",
+  "filmography": [
+    {
+      "imdb_id": "tt0027652",
+      "title": "Fury",
+      "year": 1936,
+      "roles": [
+        "cast"
+      ],
+      "character": "'Bugs' Meyers"
+    },
+    {
+      "imdb_id": "tt0040724",
+      "title": "Red River",
+      "year": 1948,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Nadine Groot"
+    },
+    {
+      "imdb_id": "tt0053221",
+      "title": "Rio Bravo",
+      "year": 1959,
+      "roles": [
+        "cast"
+      ],
+      "character": "Stumpy"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZmQ0NDA1MjEtMTUyNi00NWI3LWFkODktNjFmYzU0MzMwOTk0XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "25.07.1894",
+  "death_date": "21.09.1974",
+  "birth_location": "Lynn, Massachusetts, USA",
+  "height": "1.83 m",
+  "filmweb_id": 51460,
+  "name_pl": "Walter Brennan",
+  "birth_location_pl": "Swampscott, Massachusetts",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 51460
+}

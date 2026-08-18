@@ -1,0 +1,232 @@
+{
+  "imdb_id": "tt0071853",
+  "title": "Monty Python and the Holy Grail",
+  "description": "King Arthur and his Knights of the Round Table embark on a surreal, low-budget search for the Holy Grail, encountering many, very silly obstacles.",
+  "runtime_minutes": 91,
+  "release_date": "18.07.1975",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Fantasy"
+  ],
+  "stars": [
+    {
+      "id": "nm0001037",
+      "name": "Graham Chapman"
+    },
+    {
+      "id": "nm0000092",
+      "name": "John Cleese"
+    },
+    {
+      "id": "nm0001385",
+      "name": "Eric Idle"
+    },
+    {
+      "id": "nm0000416",
+      "name": "Terry Gilliam"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000416",
+      "name": "Terry Gilliam"
+    },
+    {
+      "id": "nm0001402",
+      "name": "Terry Jones"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0001037",
+      "name": "Graham Chapman"
+    },
+    {
+      "id": "nm0000092",
+      "name": "John Cleese"
+    },
+    {
+      "id": "nm0001385",
+      "name": "Eric Idle"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0001037",
+      "name": "Graham Chapman",
+      "character": "King Arthur"
+    },
+    {
+      "id": "nm0000092",
+      "name": "John Cleese",
+      "character": "Second Swallow-Savvy Guard"
+    },
+    {
+      "id": "nm0001385",
+      "name": "Eric Idle",
+      "character": "Dead Collector"
+    },
+    {
+      "id": "nm0000416",
+      "name": "Terry Gilliam",
+      "character": "Patsy"
+    },
+    {
+      "id": "nm0001402",
+      "name": "Terry Jones",
+      "character": "Dennis's Mother"
+    },
+    {
+      "id": "nm0001589",
+      "name": "Michael Palin",
+      "character": "First Swallow-Savvy Guard"
+    },
+    {
+      "id": "nm0095665",
+      "name": "Connie Booth",
+      "character": "The Witch"
+    },
+    {
+      "id": "nm0166470",
+      "name": "Carol Cleveland",
+      "character": "Zoot"
+    },
+    {
+      "id": "nm0409183",
+      "name": "Neil Innes",
+      "character": "First Monk"
+    },
+    {
+      "id": "nm0240436",
+      "name": "Bee Duffell",
+      "character": "Old Crone"
+    },
+    {
+      "id": "nm0949707",
+      "name": "John Young",
+      "character": "Dead Body"
+    },
+    {
+      "id": "nm0203935",
+      "name": "Rita Davies",
+      "character": "Historian's Wife"
+    },
+    {
+      "id": "nm0829189",
+      "name": "Avril Stewart",
+      "character": "Dr. Piglet"
+    },
+    {
+      "id": "nm0455435",
+      "name": "Sally Kinghorn",
+      "character": "Dr. Winston"
+    },
+    {
+      "id": "nm0959090",
+      "name": "Mark Zycon",
+      "character": "Prisoner"
+    },
+    {
+      "id": "nm0131572",
+      "name": "Elspeth Cameron",
+      "character": "Girl in Castle Anthrax"
+    },
+    {
+      "id": "nm0286927",
+      "name": "Mitsuko Forstater",
+      "character": "Girl in Castle Anthrax"
+    },
+    {
+      "id": "nm0426183",
+      "name": "Sandy Johnson",
+      "character": "Knight of Ni"
+    }
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Latin",
+    "Swedish"
+  ],
+  "color": null,
+  "filmweb_id": 1096,
+  "year": 1975,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYWY4YmUzZmUtMzQ0ZS00N2Y2LWJlODQtN2IwMDc1MWQwMmU3XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8.1,
+      "votes": 606467,
+      "distribution": {
+        "1": 7753,
+        "2": 3448,
+        "3": 4743,
+        "4": 7366,
+        "5": 14931,
+        "6": 33415,
+        "7": 88125,
+        "8": 160606,
+        "9": 145852,
+        "10": 140228
+      },
+      "normalized": 7.8347
+    },
+    "filmweb": {
+      "rating": 7.97,
+      "votes": 174735,
+      "distribution": {
+        "1": 1652,
+        "2": 898,
+        "3": 1946,
+        "4": 2417,
+        "5": 4880,
+        "6": 10889,
+        "7": 29707,
+        "8": 54118,
+        "9": 39821,
+        "10": 28407
+      },
+      "normalized": 8.3072
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "02.12.2005",
+      "normalized": 7.1247
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "19.10.2005",
+      "normalized": 6.3474
+    },
+    "score": 7.4035
+  },
+  "polish_title": "Monty Python i Święty Graal",
+  "silent": false,
+  "description_pl": "\"Monty Python i Święty Graal\" - niskobudżetowa produkcja, w której wzięli udział członkowie Pink Floyd i Led Zeppelin. We wstępie do filmu autorzy z charakterystyczną skromnością stwierdzają, iż ich obraz nie należy do arcydzieł tego pokroju co \"<a href=\"/film/?id=tt0047478\">Siedmiu samurajów</a>\", \"<a href=\"/film/?id=tt0037824\">Iwan Groźny</a>\" czy \"<a href=\"/film/?id=tt0050976\">Siódma pieczęć</a>\" (tu wmontowana jest scena z \"<a href=\"/film/?id=tt0050976\">Siódmej pieczęci</a>\" - Rycerz i Śmierć patrzą na siebie w milczeniu. Po długiej chwili Śmierć nagłym ruchem przylepia Rycerzowi do twarzy tort), jednakże jest to całkiem zabawny film - kontynuują autorzy. Jeśli widz jest intelektualny karzełkiem, lecz lubi chichotać, to zrobił dobry wybór. A jeśli nie jest \"intelektualnym karzełkiem\", to znajdzie inne wartości zręcznie ukryte pod błazeńską czapką. \n\nAkcja filmu toczy się w roku 932. Artur, obdarzony przez panią Jeziora mieczem Excalibur i mianowany przez nią królem Brytyjczyków, namawia pięciu rycerzy: Sir Bedeverea, Sir Lancelota zwanego Odważnym, Sir Galahada zwanego Czystym, Sir Roberta Nie-Tak-Całkiem-Odważnego i Sir Nie-Pojawiającego-Się-W-Tym-Filmie, by przyłączyli się do niego i zostali Rycerzami Okrągłego Stołu. Artur pragnie dotrzeć do zamku Camelot, ale Bóg przemawia do niego z niebios i poleca mu szukać świętego Graala. Te poszukiwania stanowią właściwą treść filmu. Artur i rycerze Okrągłego Stołu - wedle legendy waleczni, rozważni i sprawiedliwi - w wersji Monty Pythona są tchórzliwi i nie grzeszą mądrością. Nie mają nawet koni, a stukot końskich kopyt imitują uderzając o siebie połówki orzecha kokosowego. Jest w Świętym Graalu wiele perełek najczystszego nonsensu. W swojej pierwotnej wersji, akcja filmu toczyła się współcześnie. Na końcu święty Graal odnajdowano w domu towarowym Harrodsa, w specjalnym dziale \"Święty Graal\".",
+  "producers": [
+    {
+      "id": "nm0286926",
+      "name": "Mark Forstater"
+    },
+    {
+      "id": "nm0326364",
+      "name": "John Goldstone"
+    },
+    {
+      "id": "nm0925214",
+      "name": "Michael White"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0066055",
+      "name": "Terry Bedford"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,223 @@
+{
+  "imdb_id": "tt2277860",
+  "title": "Finding Dory",
+  "description": "Friendly but forgetful blue tang Dory begins a search for her long-lost parents and everyone learns a few things about the real meaning of family along the way.",
+  "runtime_minutes": 97,
+  "release_date": "17.06.2016",
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy",
+    "Family",
+    "Fantasy",
+    "Mystery"
+  ],
+  "stars": [
+    {
+      "id": "nm0001122",
+      "name": "Ellen DeGeneres"
+    },
+    {
+      "id": "nm0000983",
+      "name": "Albert Brooks"
+    },
+    {
+      "id": "nm0642145",
+      "name": "Ed O'Neill"
+    },
+    {
+      "id": "nm0647698",
+      "name": "Kaitlin Olson"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0533691",
+      "name": "Angus MacLane"
+    },
+    {
+      "id": "nm0004056",
+      "name": "Andrew Stanton"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0004056",
+      "name": "Andrew Stanton"
+    },
+    {
+      "id": "nm0835194",
+      "name": "Victoria Strouse"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0001122",
+      "name": "Ellen DeGeneres",
+      "character": "Dory"
+    },
+    {
+      "id": "nm0000983",
+      "name": "Albert Brooks",
+      "character": "Marlin"
+    },
+    {
+      "id": "nm0642145",
+      "name": "Ed O'Neill",
+      "character": "Hank"
+    },
+    {
+      "id": "nm0647698",
+      "name": "Kaitlin Olson",
+      "character": "Destiny"
+    },
+    {
+      "id": "nm5348776",
+      "name": "Hayden Rolence",
+      "character": "Nemo"
+    },
+    {
+      "id": "nm0123092",
+      "name": "Ty Burrell",
+      "character": "Bailey"
+    },
+    {
+      "id": "nm0000473",
+      "name": "Diane Keaton",
+      "character": "Jenny"
+    },
+    {
+      "id": "nm0506405",
+      "name": "Eugene Levy",
+      "character": "Charlie"
+    },
+    {
+      "id": "nm8204463",
+      "name": "Sloane Murray",
+      "character": "Young Dory"
+    },
+    {
+      "id": "nm0252961",
+      "name": "Idris Elba",
+      "character": "Fluke"
+    },
+    {
+      "id": "nm0922035",
+      "name": "Dominic West",
+      "character": "Rudder"
+    },
+    {
+      "id": "nm0677037",
+      "name": "Bob Peterson",
+      "character": "Mr. Ray"
+    },
+    {
+      "id": "nm0571952",
+      "name": "Kate McKinnon",
+      "character": "Wife Fish"
+    },
+    {
+      "id": "nm0352778",
+      "name": "Bill Hader",
+      "character": "Husband Fish (Stan)"
+    },
+    {
+      "id": "nm0000244",
+      "name": "Sigourney Weaver",
+      "character": "Sigourney Weaver"
+    },
+    {
+      "id": "nm1071252",
+      "name": "Alexander Gould",
+      "character": "Passenger Carl"
+    },
+    {
+      "id": "nm0120187",
+      "name": "Torbin Xan Bullock",
+      "character": "Gerald"
+    },
+    {
+      "id": "nm0004056",
+      "name": "Andrew Stanton",
+      "character": "Crush"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Indonesian"
+  ],
+  "color": "Color",
+  "filmweb_id": 660758,
+  "year": 2016,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BY2VlYWJjMGMtYjcwZC00MDE2LThmMDItYjVlMzNhYzBhYTk5XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.2,
+      "votes": 338583,
+      "distribution": {
+        "1": 2066,
+        "2": 1279,
+        "3": 2520,
+        "4": 6017,
+        "5": 16836,
+        "6": 51730,
+        "7": 113005,
+        "8": 86921,
+        "9": 30858,
+        "10": 27351
+      },
+      "normalized": 5.9572
+    },
+    "filmweb": {
+      "rating": 7.09,
+      "votes": 81298,
+      "distribution": {
+        "1": 105,
+        "2": 116,
+        "3": 515,
+        "4": 1191,
+        "5": 4810,
+        "6": 15281,
+        "7": 30578,
+        "8": 20601,
+        "9": 5728,
+        "10": 2373
+      },
+      "normalized": 5.7981
+    },
+    "michal": {
+      "rating": 3,
+      "date_rated": "30.06.2016",
+      "normalized": 3.8753
+    },
+    "score": 5.2102
+  },
+  "polish_title": "Gdzie jest Dory",
+  "silent": false,
+  "description_pl": "Gdy cierpiąca na zanik pamięci krótkotrwałej rybka Dory nagle przypomina sobie, że ma rodzinę, która być może jej szuka, wraz z Marlinem i Nemo wyrusza w niesamowitą podróż, by odnaleźć bliskich... Z pomocą przyjdą jej również zrzędliwa ośmiornica Hank, wątpiący w swoje zdolności echolokacyjne waleń biały Bailey oraz krótkowzroczny rekin wielorybi imieniem Nadzieja.",
+  "producers": [
+    {
+      "id": "nm0172491",
+      "name": "Lindsey Collins"
+    },
+    {
+      "id": "nm0005124",
+      "name": "John Lasseter"
+    },
+    {
+      "id": "nm0730141",
+      "name": "Bob Roath"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0002353",
+      "name": "Thomas Newman"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

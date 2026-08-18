@@ -1,0 +1,66 @@
+{
+  "id": "nm0778831",
+  "name": "Andrew Scott",
+  "filmography": [
+    {
+      "imdb_id": "tt2692904",
+      "title": "Locke",
+      "year": 2013,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Donal"
+    },
+    {
+      "imdb_id": "tt2379713",
+      "title": "Spectre",
+      "year": 2015,
+      "roles": [
+        "cast"
+      ],
+      "character": "C"
+    },
+    {
+      "imdb_id": "tt8579674",
+      "title": "1917",
+      "year": 2019,
+      "roles": [
+        "cast"
+      ],
+      "character": "Lieutenant Leslie"
+    },
+    {
+      "imdb_id": "tt8758202",
+      "title": "Smithereens",
+      "year": 2019,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Chris Gillhaney"
+    },
+    {
+      "imdb_id": "tt21191806",
+      "title": "Back in Action",
+      "year": 2025,
+      "roles": [
+        "cast"
+      ],
+      "character": "Baron"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQ5MjI2NTc1Ml5BMl5BanBnXkFtZTcwMzM5NjY4Nw@@._V1_.jpg",
+  "birth_date": "21.10.1976",
+  "birth_location": "Dublin, Ireland",
+  "height": "1.73 m",
+  "filmweb_id": 61258,
+  "name_pl": "Andrew Scott",
+  "birth_location_pl": "Dublin",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Irlandia"
+  ]
+}

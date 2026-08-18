@@ -1,0 +1,267 @@
+{
+  "imdb_id": "tt1517268",
+  "title": "Barbie",
+  "description": "Barbie and Ken are having the time of their lives in the seemingly perfect world of Barbie Land. However, when they get a chance to go to the outside world, they soon discover the joys and perils of living among regular humans.",
+  "runtime_minutes": 114,
+  "release_date": "21.07.2023",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Fantasy"
+  ],
+  "stars": [
+    {
+      "id": "nm3053338",
+      "name": "Margot Robbie"
+    },
+    {
+      "id": "nm0331516",
+      "name": "Ryan Gosling"
+    },
+    {
+      "id": "nm4793987",
+      "name": "Issa Rae"
+    },
+    {
+      "id": "nm0571952",
+      "name": "Kate McKinnon"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm1950086",
+      "name": "Greta Gerwig"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1950086",
+      "name": "Greta Gerwig"
+    },
+    {
+      "id": "nm0000876",
+      "name": "Noah Baumbach"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm3053338",
+      "name": "Margot Robbie",
+      "character": "Barbie"
+    },
+    {
+      "id": "nm0331516",
+      "name": "Ryan Gosling",
+      "character": "Ken"
+    },
+    {
+      "id": "nm4793987",
+      "name": "Issa Rae",
+      "character": "Barbie"
+    },
+    {
+      "id": "nm0571952",
+      "name": "Kate McKinnon",
+      "character": "Weird Barbie"
+    },
+    {
+      "id": "nm3381295",
+      "name": "Alexandra Shipp",
+      "character": "Barbie"
+    },
+    {
+      "id": "nm8076281",
+      "name": "Emma Mackey",
+      "character": "Barbie"
+    },
+    {
+      "id": "nm6341515",
+      "name": "Hari Nef",
+      "character": "Barbie"
+    },
+    {
+      "id": "nm5287110",
+      "name": "Sharon Rooney",
+      "character": "Barbie"
+    },
+    {
+      "id": "nm2474626",
+      "name": "Ana Cruz Kayne",
+      "character": "Barbie"
+    },
+    {
+      "id": "nm5709125",
+      "name": "Ritu Arya",
+      "character": "Journalist Barbie"
+    },
+    {
+      "id": "nm7645984",
+      "name": "Dua Lipa",
+      "character": "Barbie"
+    },
+    {
+      "id": "nm1965552",
+      "name": "Nicola Coughlan",
+      "character": "Barbie"
+    },
+    {
+      "id": "nm2193504",
+      "name": "Emerald Fennell",
+      "character": "Midge"
+    },
+    {
+      "id": "nm4855517",
+      "name": "Simu Liu",
+      "character": "Ken"
+    },
+    {
+      "id": "nm4667984",
+      "name": "Kingsley Ben-Adir",
+      "character": "Ken"
+    },
+    {
+      "id": "nm6967441",
+      "name": "Ncuti Gatwa",
+      "character": "Ken"
+    },
+    {
+      "id": "nm3268924",
+      "name": "Scott Evans",
+      "character": "Ken"
+    },
+    {
+      "id": "nm1078479",
+      "name": "John Cena",
+      "character": "Ken"
+    }
+  ],
+  "countries": [
+    "United States",
+    "United Kingdom",
+    "Canada"
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "color": "Color",
+  "filmweb_id": 754800,
+  "year": 2023,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYjI3NDU0ZGYtYjA2YS00Y2RlLTgwZDAtYTE2YTM5ZjE1M2JlXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.8,
+      "votes": 701912,
+      "distribution": {
+        "1": 46696,
+        "2": 14309,
+        "3": 17690,
+        "4": 25966,
+        "5": 51768,
+        "6": 101842,
+        "7": 187764,
+        "8": 123821,
+        "9": 59540,
+        "10": 72516
+      },
+      "normalized": 5.0742
+    },
+    "filmweb": {
+      "rating": 6.29,
+      "votes": 192352,
+      "distribution": {
+        "1": 5755,
+        "2": 3666,
+        "3": 8736,
+        "4": 11022,
+        "5": 24824,
+        "6": 41290,
+        "7": 49430,
+        "8": 28897,
+        "9": 9510,
+        "10": 9222
+      },
+      "normalized": 3.8874
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "15.01.2024",
+      "normalized": 4.9718
+    },
+    "score": 4.6445
+  },
+  "polish_title": "Barbie",
+  "silent": false,
+  "description_pl": "Świat Barbie to idealne miejsce, pełne idealnych mieszkańców. No, chyba że ktoś przeżywa akurat kryzys egzystencjalny w całej pełni. Albo jest Kenem.",
+  "producers": [
+    {
+      "id": "nm3943537",
+      "name": "Tom Ackerley"
+    },
+    {
+      "id": "nm5327089",
+      "name": "Cate Adams"
+    },
+    {
+      "id": "nm0000876",
+      "name": "Noah Baumbach"
+    },
+    {
+      "id": "nm0107509",
+      "name": "Robbie Brenner"
+    },
+    {
+      "id": "nm8342609",
+      "name": "Christine Crais"
+    },
+    {
+      "id": "nm3624524",
+      "name": "Richard Dickson"
+    },
+    {
+      "id": "nm0256497",
+      "name": "Toby Emmerich"
+    },
+    {
+      "id": "nm1950086",
+      "name": "Greta Gerwig"
+    },
+    {
+      "id": "nm0382268",
+      "name": "David Heyman"
+    },
+    {
+      "id": "nm3069731",
+      "name": "Ynon Kreiz"
+    },
+    {
+      "id": "nm0485376",
+      "name": "Jennifer Lane"
+    },
+    {
+      "id": "nm3560755",
+      "name": "Josey McNamara"
+    },
+    {
+      "id": "nm3053338",
+      "name": "Margot Robbie"
+    },
+    {
+      "id": "nm0789111",
+      "name": "Michael Sharp"
+    },
+    {
+      "id": "nm1562833",
+      "name": "Courtenay Valenti"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0006509",
+      "name": "Rodrigo Prieto"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

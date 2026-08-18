@@ -1,0 +1,37 @@
+{
+  "id": "nm0396768",
+  "name": "Arthur Housman",
+  "filmography": [
+    {
+      "imdb_id": "tt0018455",
+      "title": "Sunrise",
+      "year": 1927,
+      "roles": [
+        "cast"
+      ],
+      "character": "The Obtrusive Gentleman"
+    },
+    {
+      "imdb_id": "tt0196372",
+      "title": "The Best of Laurel and Hardy",
+      "year": 1968,
+      "roles": [
+        "cast"
+      ],
+      "character": "Second Drunk"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYjJhZDMyNTUtZjQ1OC00ZDQ1LTkyMGQtODcxNWY1NDY3ZjkxXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "10.10.1889",
+  "death_date": "08.04.1942",
+  "birth_location": "New York City, New York, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 110550,
+  "name_pl": "Arthur Housman",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

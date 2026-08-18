@@ -1,0 +1,30 @@
+{
+  "id": "nm0010004",
+  "name": "Peter Ackerman",
+  "filmography": [
+    {
+      "imdb_id": "tt0268380",
+      "title": "Ice Age",
+      "year": 2002,
+      "roles": [
+        "writer",
+        "cast"
+      ],
+      "character": "Dodo"
+    },
+    {
+      "imdb_id": "tt0438097",
+      "title": "Ice Age: The Meltdown",
+      "year": 2006,
+      "roles": [
+        "cast"
+      ],
+      "character": "Dung Beetle Dad"
+    }
+  ],
+  "imdb_scraped": true,
+  "filmweb_id": 54727,
+  "name_pl": "Peter Ackerman",
+  "gender": "M",
+  "wikidata_processed": true
+}

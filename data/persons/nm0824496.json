@@ -1,0 +1,30 @@
+{
+  "id": "nm0824496",
+  "name": "Bob Steele",
+  "filmography": [
+    {
+      "imdb_id": "tt0038355",
+      "title": "The Big Sleep",
+      "year": 1946,
+      "roles": [
+        "cast"
+      ],
+      "character": "Lash Canino"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjEwMzA4NTMzNV5BMl5BanBnXkFtZTcwNDc3NzkxOA@@._V1_.jpg",
+  "birth_date": "23.01.1907",
+  "death_date": "21.12.1988",
+  "birth_location": "Portland, Oregon, USA",
+  "height": "1.65 m",
+  "imdb_scraped": true,
+  "filmweb_id": 49196,
+  "name_pl": "Bob Steele",
+  "birth_location_pl": "Pendleton, Oregon",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 49196
+}

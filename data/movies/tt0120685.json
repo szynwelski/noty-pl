@@ -1,0 +1,250 @@
+{
+  "imdb_id": "tt0120685",
+  "title": "Godzilla",
+  "description": "French nuclear tests irradiate an iguana into a giant monster that heads off to New York City. The American military must chase the monster across the city to stop it before it reproduces.",
+  "runtime_minutes": 139,
+  "release_date": "20.05.1998",
+  "genres": [
+    "Action",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000111",
+      "name": "Matthew Broderick"
+    },
+    {
+      "id": "nm0000606",
+      "name": "Jean Reno"
+    },
+    {
+      "id": "nm0001623",
+      "name": "Maria Pitillo"
+    },
+    {
+      "id": "nm0000279",
+      "name": "Hank Azaria"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000386",
+      "name": "Roland Emmerich"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0002041",
+      "name": "Dean Devlin"
+    },
+    {
+      "id": "nm0000386",
+      "name": "Roland Emmerich"
+    },
+    {
+      "id": "nm0254645",
+      "name": "Ted Elliott"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000111",
+      "name": "Matthew Broderick",
+      "character": "Dr. Niko Tatopoulos"
+    },
+    {
+      "id": "nm0000606",
+      "name": "Jean Reno",
+      "character": "Philippe Roaché"
+    },
+    {
+      "id": "nm0001623",
+      "name": "Maria Pitillo",
+      "character": "Audrey Timmonds"
+    },
+    {
+      "id": "nm0000279",
+      "name": "Hank Azaria",
+      "character": "Victor 'Animal' Palotti"
+    },
+    {
+      "id": "nm0242656",
+      "name": "Kevin Dunn",
+      "character": "Colonel Hicks"
+    },
+    {
+      "id": "nm0503627",
+      "name": "Michael Lerner",
+      "character": "Mayor Ebert"
+    },
+    {
+      "id": "nm0733427",
+      "name": "Harry Shearer",
+      "character": "Charles Caiman"
+    },
+    {
+      "id": "nm0275890",
+      "name": "Arabella Field",
+      "character": "Lucy Palotti"
+    },
+    {
+      "id": "nm0507852",
+      "name": "Vicki Lewis",
+      "character": "Dr. Elsie Chapman"
+    },
+    {
+      "id": "nm0767443",
+      "name": "Doug Savant",
+      "character": "Sergeant O'Neal"
+    },
+    {
+      "id": "nm0199118",
+      "name": "Malcolm Danare",
+      "character": "Dr. Mendel Craven"
+    },
+    {
+      "id": "nm0325836",
+      "name": "Lorry Goldman",
+      "character": "Gene - Mayor's Aide"
+    },
+    {
+      "id": "nm0041290",
+      "name": "Christian Aubert",
+      "character": "Jean-Luc"
+    },
+    {
+      "id": "nm0074468",
+      "name": "Philippe Bergeron",
+      "character": "Jean-Claude"
+    },
+    {
+      "id": "nm0116834",
+      "name": "Frank Bruynbroek",
+      "character": "Jean-Pierre"
+    },
+    {
+      "id": "nm0320931",
+      "name": "François Giroday",
+      "character": "Jean-Philippe"
+    },
+    {
+      "id": "nm0316194",
+      "name": "Nicholas J. Giangiulio",
+      "character": "Ed"
+    },
+    {
+      "id": "nm0504342",
+      "name": "Robert Lesser",
+      "character": "Murray"
+    }
+  ],
+  "countries": [
+    "United States",
+    "Japan"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Japanese",
+    "Russian",
+    "Spanish"
+  ],
+  "color": null,
+  "filmweb_id": 58,
+  "year": 1998,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzdmYmUzYjAtMmJhNi00NGU3LWJiODYtM2I5MGFhZjBhM2NhXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.5,
+      "votes": 214348,
+      "distribution": {
+        "1": 10684,
+        "2": 9988,
+        "3": 15821,
+        "4": 24890,
+        "5": 40527,
+        "6": 46730,
+        "7": 33534,
+        "8": 15967,
+        "9": 5446,
+        "10": 10761
+      },
+      "normalized": 2.7167
+    },
+    "filmweb": {
+      "rating": 6.01,
+      "votes": 49959,
+      "distribution": {
+        "1": 618,
+        "2": 983,
+        "3": 2494,
+        "4": 3971,
+        "5": 8315,
+        "6": 13624,
+        "7": 12435,
+        "8": 5122,
+        "9": 1221,
+        "10": 1176
+      },
+      "normalized": 3.3257
+    },
+    "jarek": {
+      "rating": 3,
+      "date_rated": "02.12.2005",
+      "normalized": 4.2591
+    },
+    "score": 3.4338
+  },
+  "polish_title": "Godzilla",
+  "silent": false,
+  "description_pl": "W głębi dżungli Południowego Pacyfiku eksplozja nuklearna powołuje do życia niezwykłą istotę. Przez dziesiątki lat pozostawała w ukryciu, teraz pokaże się światu w całej swej okazałości. Jest najsłynniejszym potworem w historii kina, ma stopę wielkości autobusu, ogon długości ratuszowej wieży i siłę, której nikt nie dorówna.",
+  "producers": [
+    {
+      "id": "nm0002041",
+      "name": "Dean Devlin"
+    },
+    {
+      "id": "nm0000386",
+      "name": "Roland Emmerich"
+    },
+    {
+      "id": "nm0256498",
+      "name": "Ute Emmerich"
+    },
+    {
+      "id": "nm0269621",
+      "name": "William Fay"
+    },
+    {
+      "id": "nm0294975",
+      "name": "Robert N. Fried"
+    },
+    {
+      "id": "nm0887184",
+      "name": "Kelly Van Horn"
+    },
+    {
+      "id": "nm0936044",
+      "name": "Peter Winther"
+    },
+    {
+      "id": "nm0940531",
+      "name": "Cary Woods"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0003417",
+      "name": "David Arnold"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0825336",
+      "name": "Ueli Steiger"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

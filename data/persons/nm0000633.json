@@ -1,0 +1,39 @@
+{
+  "id": "nm0000633",
+  "name": "Tom Selleck",
+  "filmography": [
+    {
+      "imdb_id": "tt0108778",
+      "title": "Friends",
+      "year": 1994,
+      "roles": [
+        "cast"
+      ],
+      "character": "Dr. Richard Burke"
+    },
+    {
+      "imdb_id": "tt1103153",
+      "title": "Killers",
+      "year": 2010,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Mr. Kornfeldt"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQyMjQzODMzNF5BMl5BanBnXkFtZTcwMjE0NTM1Mw@@._V1_.jpg",
+  "birth_date": "29.01.1945",
+  "birth_location": "Detroit, Michigan, USA",
+  "height": "1.94 m",
+  "imdb_scraped": true,
+  "filmweb_id": 4132,
+  "name_pl": "Tom Selleck",
+  "birth_location_pl": "Detroit, Michigan",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 4132
+}

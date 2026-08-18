@@ -1,0 +1,247 @@
+{
+  "imdb_id": "tt0257756",
+  "title": "High Crimes",
+  "description": "An attorney tries to prove her husband's innocence.",
+  "runtime_minutes": 115,
+  "release_date": "05.04.2002",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0001029",
+      "name": "Jim Caviezel"
+    },
+    {
+      "id": "nm0000151",
+      "name": "Morgan Freeman"
+    },
+    {
+      "id": "nm0000171",
+      "name": "Ashley Judd"
+    },
+    {
+      "id": "nm0004395",
+      "name": "Adam Scott"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0002083",
+      "name": "Carl Franklin"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0277511",
+      "name": "Joseph Finder"
+    },
+    {
+      "id": "nm0954693",
+      "name": "Yuri Zeltser"
+    },
+    {
+      "id": "nm0081060",
+      "name": "Grace Cary Bickley"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0001029",
+      "name": "Jim Caviezel",
+      "character": "Tom Kubik"
+    },
+    {
+      "id": "nm0000151",
+      "name": "Morgan Freeman",
+      "character": "Charles W. Grimes"
+    },
+    {
+      "id": "nm0000171",
+      "name": "Ashley Judd",
+      "character": "Claire Kubik"
+    },
+    {
+      "id": "nm0004395",
+      "name": "Adam Scott",
+      "character": "Lt. Terrence Embry"
+    },
+    {
+      "id": "nm0001605",
+      "name": "Amanda Peet",
+      "character": "Jackie"
+    },
+    {
+      "id": "nm0001117",
+      "name": "Bruce Davison",
+      "character": "Brig. Gen. Bill Marks"
+    },
+    {
+      "id": "nm0101005",
+      "name": "Tom Bower",
+      "character": "FBI Agent Mullins"
+    },
+    {
+      "id": "nm0380022",
+      "name": "Juan Carlos Hernández",
+      "character": "Maj. James Hernandez"
+    },
+    {
+      "id": "nm0309461",
+      "name": "Michael Gaston",
+      "character": "Maj. Lucas Waldron"
+    },
+    {
+      "id": "nm0161980",
+      "name": "Jude Ciccolella",
+      "character": "Col. Farrell"
+    },
+    {
+      "id": "nm0729256",
+      "name": "Emilio Rivera",
+      "character": "Salvadoran Man"
+    },
+    {
+      "id": "nm0788335",
+      "name": "Michael Shannon",
+      "character": "Troy Abbott"
+    },
+    {
+      "id": "nm0082517",
+      "name": "John Billingsley",
+      "character": "Lie Detector Coach"
+    },
+    {
+      "id": "nm0852256",
+      "name": "Dendrie Taylor",
+      "character": "Lola"
+    },
+    {
+      "id": "nm0005294",
+      "name": "Paula Jai Parker",
+      "character": "Gracie"
+    },
+    {
+      "id": "nm0032033",
+      "name": "John Apicella",
+      "character": "Franklin"
+    },
+    {
+      "id": "nm0399813",
+      "name": "Dawn Hudson",
+      "character": "Lt. Col. LaPierre"
+    },
+    {
+      "id": "nm0791538",
+      "name": "Samuel Sheng",
+      "character": "Josh"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "color": "Color",
+  "filmweb_id": 31027,
+  "year": 2002,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNjI3ZWFiOWQtOTk3Yi00YWM5LWE0Y2EtZjhhYzBkZjc0ZGJmXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.4,
+      "votes": 52206,
+      "distribution": {
+        "1": 471,
+        "2": 369,
+        "3": 804,
+        "4": 2041,
+        "5": 6249,
+        "6": 16234,
+        "7": 15998,
+        "8": 6343,
+        "9": 1678,
+        "10": 2019
+      },
+      "normalized": 4.339
+    },
+    "filmweb": {
+      "rating": 6.87,
+      "votes": 19755,
+      "distribution": {
+        "1": 23,
+        "2": 23,
+        "3": 117,
+        "4": 370,
+        "5": 1314,
+        "6": 4290,
+        "7": 8697,
+        "8": 3974,
+        "9": 661,
+        "10": 286
+      },
+      "normalized": 5.3847
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "21.09.2020",
+      "normalized": 5.4199
+    },
+    "score": 5.0479
+  },
+  "polish_title": "Bez przedawnienia",
+  "silent": false,
+  "description_pl": "Adaptacja powieści Josepha Findera pt. \"Crimes\" opowiadającej o adwokatce stającej w obronie swojego męża oskarżonego przez rząd o zbrodnie wojenne. Kobieta prosi o pomoc wojskowego prawnika, ale w miarę jak sprawa posuwa się do przodu zaczyna wątpić w niewinność swojego męża.",
+  "producers": [
+    {
+      "id": "nm0064106",
+      "name": "Jesse Beaton"
+    },
+    {
+      "id": "nm0221638",
+      "name": "Naomi Despres"
+    },
+    {
+      "id": "nm0378229",
+      "name": "Lisa Henson"
+    },
+    {
+      "id": "nm0427915",
+      "name": "Dennis E. Jones"
+    },
+    {
+      "id": "nm0586969",
+      "name": "Arnon Milchan"
+    },
+    {
+      "id": "nm0717519",
+      "name": "Kevin Reidy"
+    },
+    {
+      "id": "nm0792435",
+      "name": "Eric Sherman"
+    },
+    {
+      "id": "nm0946003",
+      "name": "Janet Yang"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006251",
+      "name": "Graeme Revell"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005856",
+      "name": "Theo van de Sande"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

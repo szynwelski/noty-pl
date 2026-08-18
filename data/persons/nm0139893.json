@@ -1,0 +1,38 @@
+{
+  "id": "nm0139893",
+  "name": "Warren Carr",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDQxOWIwMWEtMjQ0My00YzA0LWI5Y2MtMjI1Zjg5ZmI1OWQ1XkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0116483",
+      "title": "Happy Gilmore",
+      "year": 1996,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0120901",
+      "title": "Wrongfully Accused",
+      "year": 1998,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0165929",
+      "title": "Romeo Must Die",
+      "year": 2000,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "birth_location": "Vancouver, British Columbia, Canada",
+  "imdb_scraped": true,
+  "filmweb_id": 87126,
+  "name_pl": "Warren Carr",
+  "birth_location_pl": "Vancouver",
+  "gender": "M",
+  "wikidata_processed": true
+}

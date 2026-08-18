@@ -1,0 +1,230 @@
+{
+  "imdb_id": "tt0119718",
+  "title": "Mr. Magoo",
+  "description": "The myopic millionaire defeats jewel smugglers in his usual bumbling manner.",
+  "runtime_minutes": 87,
+  "release_date": "25.12.1997",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Family"
+  ],
+  "stars": [
+    {
+      "id": "nm0000558",
+      "name": "Leslie Nielsen"
+    },
+    {
+      "id": "nm0001488",
+      "name": "Kelly Lynch"
+    },
+    {
+      "id": "nm0444832",
+      "name": "Matt Keeslar"
+    },
+    {
+      "id": "nm0157915",
+      "name": "Nick Chinlund"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0867262",
+      "name": "Stanley Tong"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0698493",
+      "name": "Pat Proft"
+    },
+    {
+      "id": "nm0792624",
+      "name": "Tom Sherohman"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000558",
+      "name": "Leslie Nielsen",
+      "character": "Mr. Magoo"
+    },
+    {
+      "id": "nm0001488",
+      "name": "Kelly Lynch",
+      "character": "Luanne"
+    },
+    {
+      "id": "nm0444832",
+      "name": "Matt Keeslar",
+      "character": "Waldo"
+    },
+    {
+      "id": "nm0157915",
+      "name": "Nick Chinlund",
+      "character": "Bob Morgan"
+    },
+    {
+      "id": "nm0864997",
+      "name": "Stephen Tobolowsky",
+      "character": "Agent Chuck Stupak"
+    },
+    {
+      "id": "nm0001368",
+      "name": "Ernie Hudson",
+      "character": "Agent Gus Anders"
+    },
+    {
+      "id": "nm0004950",
+      "name": "Jennifer Garner",
+      "character": "Stacey Sampanahoditra"
+    },
+    {
+      "id": "nm0000532",
+      "name": "Malcolm McDowell",
+      "character": "Austin Cloquet"
+    },
+    {
+      "id": "nm0001208",
+      "name": "Miguel Ferrer",
+      "character": "Ortega Peru"
+    },
+    {
+      "id": "nm0325023",
+      "name": "L. Harvey Gold",
+      "character": "Schmitt"
+    },
+    {
+      "id": "nm0410030",
+      "name": "Art Irizawa",
+      "character": "Gosha"
+    },
+    {
+      "id": "nm0857608",
+      "name": "John Tierney",
+      "character": "Hebzinski"
+    },
+    {
+      "id": "nm0446892",
+      "name": "Terence Kelly",
+      "character": "McManus"
+    },
+    {
+      "id": "nm0121341",
+      "name": "Rick Burgess",
+      "character": "Molinaro"
+    },
+    {
+      "id": "nm0913682",
+      "name": "Jerry Wasserman",
+      "character": "Javier"
+    },
+    {
+      "id": "nm0235596",
+      "name": "Bill Dow",
+      "character": "Museum Curator"
+    },
+    {
+      "id": "nm0003964",
+      "name": "Frank C. Turner",
+      "character": "Ralston - Stage Manager"
+    },
+    {
+      "id": "nm0751855",
+      "name": "Monique Rusu",
+      "character": "Rosita"
+    }
+  ],
+  "countries": [
+    "United States",
+    "Canada"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 142,
+  "year": 1997,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzQxMDQ3MDUtODJhMy00NDI5LWI4YmUtMWJkZjdhYzNlMTcxXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 4.1,
+      "votes": 16985,
+      "distribution": {
+        "1": 2116,
+        "2": 2000,
+        "3": 2645,
+        "4": 3074,
+        "5": 2742,
+        "6": 1822,
+        "7": 1040,
+        "8": 482,
+        "9": 225,
+        "10": 839
+      },
+      "normalized": 1.7068
+    },
+    "filmweb": {
+      "rating": 6.04,
+      "votes": 7491,
+      "distribution": {
+        "1": 83,
+        "2": 156,
+        "3": 446,
+        "4": 718,
+        "5": 1372,
+        "6": 1922,
+        "7": 1379,
+        "8": 635,
+        "9": 300,
+        "10": 480
+      },
+      "normalized": 3.4721
+    },
+    "jarek": {
+      "rating": 1,
+      "date_rated": "11.08.2010",
+      "normalized": 2.5327
+    },
+    "score": 2.5705
+  },
+  "polish_title": "Pan Magoo",
+  "silent": false,
+  "description_pl": "Aktorska wersja popularnych kreskówek sprzed kilkudziesięciu lat. Bohaterem jest milioner, który próbuje zataić przed otoczeniem fakt swej krótkowzroczności. Podczas uroczystej imprezy w muzeum jest świadkiem kradzieży cennego diamentu, ale nie widzi sprawców - i sam staje się głównym podejrzanym.",
+  "producers": [
+    {
+      "id": "nm0338814",
+      "name": "Justis Greene"
+    },
+    {
+      "id": "nm0003132",
+      "name": "Andre Morgan"
+    },
+    {
+      "id": "nm0617147",
+      "name": "Ben Myron"
+    },
+    {
+      "id": "nm0742070",
+      "name": "Robert L. Rosen"
+    },
+    {
+      "id": "nm0764549",
+      "name": "Henry G. Saperstein"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0851699",
+      "name": "Michael Tavera"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0155598",
+      "name": "Jingle Ma"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

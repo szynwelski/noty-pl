@@ -1,0 +1,128 @@
+{
+  "imdb_id": "tt0131934",
+  "title": "Bluebeard",
+  "description": "A young woman becomes the eighth wife of the wealthy Bluebeard, whose first seven wives have died under mysterious circumstances.",
+  "runtime_minutes": 12,
+  "release_date": "03.05.1902",
+  "genres": [
+    "Short",
+    "Horror"
+  ],
+  "stars": [
+    {
+      "id": "nm0617588",
+      "name": "Georges Méliès"
+    },
+    {
+      "id": "nm0194945",
+      "name": "Jehanne d'Alcy"
+    },
+    {
+      "id": "nm0076933",
+      "name": "Bleuette Bernon"
+    },
+    {
+      "id": "nm0925513",
+      "name": "Thomas White"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0617588",
+      "name": "Georges Méliès"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0617588",
+      "name": "Georges Méliès"
+    },
+    {
+      "id": "nm0674518",
+      "name": "Charles Perrault"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0617588",
+      "name": "Georges Méliès",
+      "character": "Barbe-bleue"
+    },
+    {
+      "id": "nm0194945",
+      "name": "Jehanne d'Alcy",
+      "character": "Le nouvelle épouse de Barbe-bleue"
+    },
+    {
+      "id": "nm0076933",
+      "name": "Bleuette Bernon",
+      "character": "La fée"
+    },
+    {
+      "id": "nm0925513",
+      "name": "Thomas White",
+      "character": ""
+    }
+  ],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 96481,
+  "year": 1901,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzA1MTZjYzQtOTMzYy00NDVmLTllZTItNjZmOTIxYTE0YzA5XkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Barbe-bleue",
+  "ratings": {
+    "imdb": {
+      "rating": 6.8,
+      "votes": 2117,
+      "distribution": {
+        "1": 33,
+        "2": 25,
+        "3": 39,
+        "4": 76,
+        "5": 195,
+        "6": 422,
+        "7": 659,
+        "8": 408,
+        "9": 135,
+        "10": 125
+      },
+      "normalized": 5.1973
+    },
+    "filmweb": {
+      "rating": 6.49,
+      "votes": 341,
+      "distribution": {
+        "1": 2,
+        "2": 2,
+        "3": 6,
+        "4": 22,
+        "5": 43,
+        "6": 86,
+        "7": 112,
+        "8": 38,
+        "9": 18,
+        "10": 12
+      },
+      "normalized": 4.7311
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "13.12.2016",
+      "normalized": 7.1247
+    },
+    "score": 5.6844
+  },
+  "polish_title": "Sinobrody",
+  "silent": true,
+  "description_pl": "Film Georges Méliesa jest horrorem, który rozgrywa się w starym zamku. Widzimy kobietę, która w pewnym momencie wchodzi do zakazanego pokoju, gdzie znajduję siedem powieszonych kobiet. Kobieta zapada w sen i śni o duchach 7 powieszonych żon i tańczących kluczach...",
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-16"
+}

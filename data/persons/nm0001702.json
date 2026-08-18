@@ -1,0 +1,70 @@
+{
+  "id": "nm0001702",
+  "name": "Roy Scheider",
+  "filmography": [
+    {
+      "imdb_id": "tt0067309",
+      "title": "Klute",
+      "year": 1971,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Frank Ligourin"
+    },
+    {
+      "imdb_id": "tt0067116",
+      "title": "The French Connection",
+      "year": 1971,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Buddy Russo"
+    },
+    {
+      "imdb_id": "tt0073195",
+      "title": "Jaws",
+      "year": 1975,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Brody"
+    },
+    {
+      "imdb_id": "tt0078754",
+      "title": "All That Jazz",
+      "year": 1979,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Joe Gideon"
+    },
+    {
+      "imdb_id": "tt0119978",
+      "title": "The Rainmaker",
+      "year": 1997,
+      "roles": [
+        "cast"
+      ],
+      "character": "Wilfred Keeley"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYTYwNTA1YzgtNjM3Yi00MGNlLWFiOWQtNzYxMWVjYTlhZDQxXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "10.11.1932",
+  "death_date": "10.02.2008",
+  "birth_location": "Orange, New Jersey, USA",
+  "height": "1.75 m",
+  "filmweb_id": 6724,
+  "name_pl": "Roy Scheider",
+  "birth_location_pl": "Orange, New Jersey",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 6724
+}

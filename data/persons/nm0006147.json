@@ -1,0 +1,36 @@
+{
+  "id": "nm0006147",
+  "name": "Bronislau Kaper",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjFkOGU1ZTAtNzlhNS00YjEwLTgxZmEtMTIzNjUwNDgwNWZkXkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0038991",
+      "title": "The Stranger",
+      "year": 1946,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt0056264",
+      "title": "Mutiny on the Bounty",
+      "year": 1962,
+      "roles": [
+        "composer"
+      ]
+    }
+  ],
+  "birth_date": "05.02.1902",
+  "death_date": "26.04.1983",
+  "birth_location": "Warsaw, Poland, Russian Empire [now Warsaw, Mazowieckie, Poland]",
+  "imdb_scraped": true,
+  "filmweb_id": 45455,
+  "name_pl": "Bronisław Kaper",
+  "birth_location_pl": "Warszawa",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Polska"
+  ],
+  "wikidata_fw_id": 45455
+}

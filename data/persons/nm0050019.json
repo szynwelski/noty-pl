@@ -1,0 +1,37 @@
+{
+  "id": "nm0050019",
+  "name": "Walter Baldwin",
+  "filmography": [
+    {
+      "imdb_id": "tt0037884",
+      "title": "The Lost Weekend",
+      "year": 1945,
+      "roles": [
+        "cast"
+      ],
+      "character": "Man from Albany"
+    },
+    {
+      "imdb_id": "tt0036868",
+      "title": "The Best Years of Our Lives",
+      "year": 1946,
+      "roles": [
+        "cast"
+      ],
+      "character": "Mr. Parrish"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjEzNzQ3NDAzMF5BMl5BanBnXkFtZTgwMzMwODg3MjE@._V1_.jpg",
+  "birth_date": "02.01.1889",
+  "death_date": "27.01.1977",
+  "birth_location": "Lima, Ohio, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 134267,
+  "name_pl": "Walter Baldwin",
+  "birth_location_pl": "Ohio",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

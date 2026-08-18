@@ -1,0 +1,234 @@
+{
+  "imdb_id": "tt2380307",
+  "title": "Coco",
+  "description": "Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.",
+  "runtime_minutes": 105,
+  "release_date": "22.11.2017",
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Drama",
+    "Family",
+    "Fantasy",
+    "Music",
+    "Mystery"
+  ],
+  "stars": [
+    {
+      "id": "nm5645519",
+      "name": "Anthony Gonzalez"
+    },
+    {
+      "id": "nm0305558",
+      "name": "Gael García Bernal"
+    },
+    {
+      "id": "nm0000973",
+      "name": "Benjamin Bratt"
+    },
+    {
+      "id": "nm0005513",
+      "name": "Alanna Ubach"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm2937122",
+      "name": "Adrian Molina"
+    },
+    {
+      "id": "nm0881279",
+      "name": "Lee Unkrich"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0881279",
+      "name": "Lee Unkrich"
+    },
+    {
+      "id": "nm0441735",
+      "name": "Jason Katz"
+    },
+    {
+      "id": "nm0017690",
+      "name": "Matthew Aldrich"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm5645519",
+      "name": "Anthony Gonzalez",
+      "character": "Miguel"
+    },
+    {
+      "id": "nm0305558",
+      "name": "Gael García Bernal",
+      "character": "Héctor"
+    },
+    {
+      "id": "nm0000973",
+      "name": "Benjamin Bratt",
+      "character": "Ernesto de la Cruz"
+    },
+    {
+      "id": "nm0005513",
+      "name": "Alanna Ubach",
+      "character": "Mamá Imelda"
+    },
+    {
+      "id": "nm0896149",
+      "name": "Renée Victor",
+      "character": "Abuelita"
+    },
+    {
+      "id": "nm0131781",
+      "name": "Jaime Camil",
+      "character": "Papá"
+    },
+    {
+      "id": "nm0000778",
+      "name": "Alfonso Arau",
+      "character": "Papá Julio"
+    },
+    {
+      "id": "nm0797567",
+      "name": "Herbert Siguenza",
+      "character": "Tío Oscar"
+    },
+    {
+      "id": "nm0407101",
+      "name": "Gabriel Iglesias",
+      "character": "Clerk"
+    },
+    {
+      "id": "nm0101603",
+      "name": "Lombardo Boyar",
+      "character": "Plaza Mariachi"
+    },
+    {
+      "id": "nm0613872",
+      "name": "Ana Ofelia Murguía",
+      "character": "Mamá Coco"
+    },
+    {
+      "id": "nm3086285",
+      "name": "Natalia Cordova-Buckley",
+      "character": "Frida Kahlo"
+    },
+    {
+      "id": "nm0526090",
+      "name": "Selene Luna",
+      "character": "Tía Rosita"
+    },
+    {
+      "id": "nm0001579",
+      "name": "Edward James Olmos",
+      "character": "Chicharrón"
+    },
+    {
+      "id": "nm2016172",
+      "name": "Sofía Espinosa",
+      "character": "Mamá"
+    },
+    {
+      "id": "nm3770662",
+      "name": "Carla Medina",
+      "character": "Departures Agent"
+    },
+    {
+      "id": "nm0650969",
+      "name": "Dyana Ortelli",
+      "character": "Tía Victoria"
+    },
+    {
+      "id": "nm0883609",
+      "name": "Luis Valdez",
+      "character": "Tío Berto"
+    }
+  ],
+  "countries": [
+    "United States",
+    "Mexico"
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "color": "Color",
+  "filmweb_id": 752260,
+  "year": 2017,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDIyM2E2NTAtMzlhNy00ZGUxLWI1NjgtZDY5MzhiMDc5NGU3XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8.4,
+      "votes": 722005,
+      "distribution": {
+        "1": 7280,
+        "2": 1434,
+        "3": 2034,
+        "4": 3879,
+        "5": 10063,
+        "6": 30913,
+        "7": 98529,
+        "8": 207589,
+        "9": 186094,
+        "10": 174190
+      },
+      "normalized": 8.5977
+    },
+    "filmweb": {
+      "rating": 8.27,
+      "votes": 210821,
+      "distribution": {
+        "1": 1007,
+        "2": 367,
+        "3": 683,
+        "4": 1229,
+        "5": 2925,
+        "6": 8876,
+        "7": 30331,
+        "8": 70384,
+        "9": 59657,
+        "10": 35362
+      },
+      "normalized": 9.3479
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "19.04.2018",
+      "normalized": 5.6855
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "12.11.2018",
+      "normalized": 4.5781
+    },
+    "score": 7.0523
+  },
+  "polish_title": "Coco",
+  "silent": false,
+  "description_pl": "Bohaterem filmu jest Miguel. W jego rodzinie od pokoleń muzyka jest zakazana. Jednak Miguel marzy, by pójść w ślady swojego idola, wielkiego muzyka Ernesta de la Cruza. Zdesperowany chce udowodnić światu swój talent, a to – za sprawą serii przedziwnych wydarzeń – doprowadzi go do niezwykle kolorowej Krainy Umarłych. Po drodze spotyka uroczego oszusta Hectora. Wspólnie spróbują rozwikłać tajemnicę z przeszłości rodziny Miguela...",
+  "producers": [
+    {
+      "id": "nm0026565",
+      "name": "Darla K. Anderson"
+    },
+    {
+      "id": "nm1216321",
+      "name": "Mary Alice Drumm"
+    },
+    {
+      "id": "nm0005124",
+      "name": "John Lasseter"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0315974",
+      "name": "Michael Giacchino"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

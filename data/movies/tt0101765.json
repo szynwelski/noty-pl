@@ -1,0 +1,232 @@
+{
+  "imdb_id": "tt0101765",
+  "title": "The Double Life of Véronique",
+  "description": "Two parallel stories about two identical women; one living in Poland, the other in France. They don't know each other, but their lives are nevertheless profoundly connected.",
+  "runtime_minutes": 98,
+  "release_date": "22.11.1991",
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "Music",
+    "Mystery",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0001393",
+      "name": "Irène Jacob"
+    },
+    {
+      "id": "nm0468651",
+      "name": "Wladyslaw Kowalski"
+    },
+    {
+      "id": "nm0344798",
+      "name": "Halina Gryglaszewska"
+    },
+    {
+      "id": "nm0420065",
+      "name": "Kalina Jedrusik"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001425",
+      "name": "Krzysztof Kieślowski"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0001425",
+      "name": "Krzysztof Kieślowski"
+    },
+    {
+      "id": "nm0682830",
+      "name": "Krzysztof Piesiewicz"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0001393",
+      "name": "Irène Jacob",
+      "character": "Weronika"
+    },
+    {
+      "id": "nm0468651",
+      "name": "Wladyslaw Kowalski",
+      "character": "Le père de Weronika"
+    },
+    {
+      "id": "nm0344798",
+      "name": "Halina Gryglaszewska",
+      "character": "La Tante"
+    },
+    {
+      "id": "nm0420065",
+      "name": "Kalina Jedrusik",
+      "character": "La femme barjolée"
+    },
+    {
+      "id": "nm0054270",
+      "name": "Aleksander Bardini",
+      "character": "Le chef d'orchestre"
+    },
+    {
+      "id": "nm0345616",
+      "name": "Jerzy Gudejko",
+      "character": "Antek"
+    },
+    {
+      "id": "nm0827989",
+      "name": "Janusz Sterninski",
+      "character": "L'avocat"
+    },
+    {
+      "id": "nm0901812",
+      "name": "Philippe Volter",
+      "character": "Alexandre Fabbri"
+    },
+    {
+      "id": "nm0241487",
+      "name": "Sandrine Dumas",
+      "character": "Catherine"
+    },
+    {
+      "id": "nm0239985",
+      "name": "Louis Ducreux",
+      "character": "Le professeur"
+    },
+    {
+      "id": "nm0242211",
+      "name": "Claude Duneton",
+      "character": "Le père de Véronique"
+    },
+    {
+      "id": "nm0262505",
+      "name": "Lorraine Evanoff",
+      "character": "Claude"
+    },
+    {
+      "id": "nm0211956",
+      "name": "Guillaume de Tonquédec",
+      "character": "Serge"
+    },
+    {
+      "id": "nm0309469",
+      "name": "Gilles Gaston-Dreyfus",
+      "character": "Jean-Pierre"
+    },
+    {
+      "id": "nm0296975",
+      "name": "Alain Frérot",
+      "character": "Le facteur"
+    },
+    {
+      "id": "nm0357646",
+      "name": "Youssef Hamid",
+      "character": "Le cheminot"
+    },
+    {
+      "id": "nm0136239",
+      "name": "Thierry de Carbonnières",
+      "character": "Le prof"
+    },
+    {
+      "id": "nm0627262",
+      "name": "Chantal Neuwirth",
+      "character": "La réceptionniste"
+    }
+  ],
+  "countries": [
+    "France",
+    "Poland",
+    "Norway"
+  ],
+  "languages": [
+    "French",
+    "Polish",
+    "Italian"
+  ],
+  "color": "Color",
+  "filmweb_id": 1159,
+  "year": 1991,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZjE1MjAxMjgtMTRjMC00YTFjLThhMzgtNzdlODZiZjA0MWMxXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "La double vie de Véronique",
+  "ratings": {
+    "imdb": {
+      "rating": 7.6,
+      "votes": 57457,
+      "distribution": {
+        "1": 788,
+        "2": 448,
+        "3": 626,
+        "4": 1067,
+        "5": 2399,
+        "6": 5267,
+        "7": 11439,
+        "8": 16035,
+        "9": 9931,
+        "10": 9457
+      },
+      "normalized": 6.5758
+    },
+    "filmweb": {
+      "rating": 7.48,
+      "votes": 50180,
+      "distribution": {
+        "1": 393,
+        "2": 282,
+        "3": 831,
+        "4": 1277,
+        "5": 2896,
+        "6": 5351,
+        "7": 11306,
+        "8": 14839,
+        "9": 7810,
+        "10": 5195
+      },
+      "normalized": 6.682
+    },
+    "michal": {
+      "rating": 8,
+      "date_rated": "19.10.2005",
+      "normalized": 8.1116
+    },
+    "score": 7.1231
+  },
+  "polish_title": "Podwójne życie Weroniki",
+  "silent": false,
+  "description_pl": "Tego samego dnia, o tej samej godzinie przychodzą na świat dwie dziewczynki. Jedna w Krakowie, druga w Clermont - Ferrant. Otrzymują takie same imiona, mają takie same zainteresowania artystyczne i są podobne jak dwie krople wody. Nic o sobie nie wiedząc czują się ze sobą związane...",
+  "producers": [
+    {
+      "id": "nm0161541",
+      "name": "Ryszard Chutkowski"
+    },
+    {
+      "id": "nm0209250",
+      "name": "Leonardo De La Fuente"
+    },
+    {
+      "id": "nm0347498",
+      "name": "Bernard-P. Guiremand"
+    },
+    {
+      "id": "nm0466194",
+      "name": "Ruben Korenfeld"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006237",
+      "name": "Zbigniew Preisner"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005744",
+      "name": "Slawomir Idziak"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

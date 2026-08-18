@@ -1,0 +1,47 @@
+{
+  "id": "nm0051862",
+  "name": "Lisa Banes",
+  "filmography": [
+    {
+      "imdb_id": "tt0259288",
+      "title": "Dragonfly",
+      "year": 2002,
+      "roles": [
+        "cast"
+      ],
+      "character": "Flora"
+    },
+    {
+      "imdb_id": "tt2267998",
+      "title": "Gone Girl",
+      "year": 2014,
+      "roles": [
+        "cast"
+      ],
+      "character": "Marybeth Elliott"
+    },
+    {
+      "imdb_id": "tt4094144",
+      "title": "The Strongest Man",
+      "year": 2015,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Mrs. Rosen"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzE3ODA0MDI2MF5BMl5BanBnXkFtZTgwMDA1MzE2MTI@._V1_.jpg",
+  "birth_date": "09.07.1955",
+  "death_date": "14.06.2021",
+  "birth_location": "Chagrin Falls, Ohio, USA",
+  "filmweb_id": 47492,
+  "name_pl": "Lisa Banes",
+  "birth_location_pl": "Chagrin Falls, Ohio",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "nm0736579",
+  "name": "Joe Rogan",
+  "filmography": [
+    {
+      "imdb_id": "tt1648179",
+      "title": "Here Comes the Boom",
+      "year": 2012,
+      "roles": [
+        "cast"
+      ],
+      "character": "Joe Rogan"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTgwOTllOWUtNWZlMS00NTE2LTg1MWQtYjUyOGQ2NDgwZGMzXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "11.08.1967",
+  "birth_location": "Newark, New Jersey, USA",
+  "height": "1.73 m",
+  "imdb_scraped": true,
+  "filmweb_id": 125734,
+  "name_pl": "Joe Rogan",
+  "birth_location_pl": "Newark, New Jersey",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 125734
+}

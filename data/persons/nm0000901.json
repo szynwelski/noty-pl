@@ -1,0 +1,40 @@
+{
+  "id": "nm0000901",
+  "name": "Jean-Paul Belmondo",
+  "filmography": [
+    {
+      "imdb_id": "tt0053472",
+      "title": "Breathless",
+      "year": 1960,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Michel Poiccard a.k.a. Laszlo Kovacs"
+    },
+    {
+      "imdb_id": "tt0309987",
+      "title": "The Dreamers",
+      "year": 2003,
+      "roles": [
+        "cast"
+      ],
+      "character": "Michel Poiccard a.k.a. Laszlo Kovacs"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTI4MTAwNDUxMV5BMl5BanBnXkFtZTcwODI0MDgzMw@@._V1_.jpg",
+  "birth_date": "09.04.1933",
+  "death_date": "06.09.2021",
+  "birth_location": "Neuilly-sur-Seine, Hauts-de-Seine, France",
+  "height": "1.77 m",
+  "imdb_scraped": true,
+  "filmweb_id": 6335,
+  "name_pl": "Jean-Paul Belmondo",
+  "birth_location_pl": "Neuilly-sur-Seine",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja"
+  ],
+  "wikidata_fw_id": 6335
+}

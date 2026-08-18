@@ -1,0 +1,48 @@
+{
+  "id": "nm0223290",
+  "name": "Brad Dexter",
+  "filmography": [
+    {
+      "imdb_id": "tt0042208",
+      "title": "The Asphalt Jungle",
+      "year": 1950,
+      "roles": [
+        "cast"
+      ],
+      "character": "Bob Brannom"
+    },
+    {
+      "imdb_id": "tt0054047",
+      "title": "The Magnificent Seven",
+      "year": 1960,
+      "roles": [
+        "cast"
+      ],
+      "character": "Harry Luck"
+    },
+    {
+      "imdb_id": "tt0057225",
+      "title": "Kings of the Sun",
+      "year": 1963,
+      "roles": [
+        "cast"
+      ],
+      "character": "Ah Haleb"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTk0MDc1NDgxNF5BMl5BanBnXkFtZTcwOTE1ODE1NA@@._V1_.jpg",
+  "birth_date": "09.04.1917",
+  "death_date": "12.12.2002",
+  "birth_location": "Goldfield, Nevada, USA",
+  "height": "1.83 m",
+  "filmweb_id": 48082,
+  "name_pl": "Brad Dexter",
+  "birth_location_pl": "Goldfield, Nevada",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 48082
+}

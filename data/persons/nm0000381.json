@@ -1,0 +1,48 @@
+{
+  "id": "nm0000381",
+  "name": "Anthony Edwards",
+  "filmography": [
+    {
+      "imdb_id": "tt0092099",
+      "title": "Top Gun",
+      "year": 1986,
+      "roles": [
+        "cast"
+      ],
+      "character": "Goose"
+    },
+    {
+      "imdb_id": "tt0443706",
+      "title": "Zodiac",
+      "year": 2007,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Inspector William Armstrong"
+    },
+    {
+      "imdb_id": "tt8740976",
+      "title": "Inventing Anna",
+      "year": 2022,
+      "roles": [
+        "cast"
+      ],
+      "character": "Alan Reed"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTI1NTk5ODY3Nl5BMl5BanBnXkFtZTcwNTE5MjcyMg@@._V1_.jpg",
+  "birth_date": "19.07.1962",
+  "birth_location": "Santa Barbara, California, USA",
+  "height": "1.88 m",
+  "filmweb_id": 7404,
+  "name_pl": "Anthony Edwards",
+  "birth_location_pl": "Santa Barbara, Kalifornia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 7404
+}

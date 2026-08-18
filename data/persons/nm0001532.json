@@ -1,0 +1,61 @@
+{
+  "id": "nm0001532",
+  "name": "John McTiernan",
+  "filmography": [
+    {
+      "imdb_id": "tt0093773",
+      "title": "Predator",
+      "year": 1987,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0095016",
+      "title": "Die Hard",
+      "year": 1988,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0099810",
+      "title": "The Hunt for Red October",
+      "year": 1990,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0112864",
+      "title": "Die Hard with a Vengeance",
+      "year": 1995,
+      "roles": [
+        "director",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0120657",
+      "title": "The 13th Warrior",
+      "year": 1999,
+      "roles": [
+        "director",
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjE4MTIwODY2Ml5BMl5BanBnXkFtZTYwMTk5MDQ3._V1_.jpg",
+  "birth_date": "08.01.1951",
+  "birth_location": "Albany, New York, USA",
+  "height": "1.83 m",
+  "filmweb_id": 11801,
+  "name_pl": "John McTiernan",
+  "birth_location_pl": "Albany, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

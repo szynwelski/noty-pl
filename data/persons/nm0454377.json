@@ -1,0 +1,39 @@
+{
+  "id": "nm0454377",
+  "name": "King George VI",
+  "filmography": [
+    {
+      "imdb_id": "tt0182766",
+      "title": "The Battle of Britain",
+      "year": 1943,
+      "roles": [
+        "cast"
+      ],
+      "character": "Self - Views Beach Laid with Barbed Wire"
+    },
+    {
+      "imdb_id": "tt0066765",
+      "title": "Monty Python's and Now for Something Completely Different",
+      "year": 1971,
+      "roles": [
+        "cast"
+      ],
+      "character": "Self"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzc2MmI1NjYtM2E4NS00MDNiLTk0ODktNWQ1YzlhYmRlODY1XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "14.12.1895",
+  "death_date": "06.02.1952",
+  "birth_location": "Sandringham, Norfolk, England, UK",
+  "height": "1.75 m",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania",
+    "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii"
+  ],
+  "filmweb_id": 247642,
+  "name_pl": "Król Jerzy VI",
+  "birth_location_pl": "Sandringham, Anglia",
+  "gender": "M"
+}

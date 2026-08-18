@@ -1,0 +1,186 @@
+{
+  "imdb_id": "tt2473746",
+  "title": "I'll Be Around",
+  "description": "(Russian with English subtitles) Inna is a typical 30-something yuppy, who also happens to be a single mother. One day discovering that she has an Incurable illness, Inna sets on finding the right adoptive parents for her son.",
+  "runtime_minutes": 93,
+  "release_date": "06.12.2012",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm1482303",
+      "name": "Mariya Shalayeva"
+    },
+    {
+      "id": "nm4669608",
+      "name": "Roman Zenchuk"
+    },
+    {
+      "id": "nm1825044",
+      "name": "Mariya Syomkina"
+    },
+    {
+      "id": "nm1783700",
+      "name": "Ivan Volkov"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm1253078",
+      "name": "Pavel Ruminov"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm7538552",
+      "name": "Tikhon Komev"
+    },
+    {
+      "id": "nm1253078",
+      "name": "Pavel Ruminov"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1482303",
+      "name": "Mariya Shalayeva",
+      "character": "Inna"
+    },
+    {
+      "id": "nm4669608",
+      "name": "Roman Zenchuk",
+      "character": "Mitya"
+    },
+    {
+      "id": "nm1825044",
+      "name": "Mariya Syomkina",
+      "character": ""
+    },
+    {
+      "id": "nm1783700",
+      "name": "Ivan Volkov",
+      "character": ""
+    },
+    {
+      "id": "nm1975949",
+      "name": "Alisa Khazanova",
+      "character": ""
+    },
+    {
+      "id": "nm0341948",
+      "name": "Elena Morozova",
+      "character": "Yuliya"
+    },
+    {
+      "id": "nm1334560",
+      "name": "Ivan Kokorin",
+      "character": "-"
+    },
+    {
+      "id": "nm4448626",
+      "name": "Chris Karle",
+      "character": "Eccentric hippy"
+    },
+    {
+      "id": "nm3219172",
+      "name": "Evgeny Kolyadintsev",
+      "character": ""
+    }
+  ],
+  "countries": [
+    "Russia",
+    "Ukraine"
+  ],
+  "languages": [
+    "Russian"
+  ],
+  "color": "Color",
+  "filmweb_id": 667633,
+  "year": 2012,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTM5MjkwOTgxMV5BMl5BanBnXkFtZTcwMDk0OTgxOQ@@._V1_.jpg",
+  "original_title": "Ya budu ryadom",
+  "ratings": {
+    "imdb": {
+      "rating": 6.9,
+      "votes": 303,
+      "distribution": {
+        "1": 34,
+        "2": 3,
+        "3": 8,
+        "4": 5,
+        "5": 15,
+        "6": 34,
+        "7": 74,
+        "8": 56,
+        "9": 30,
+        "10": 44
+      },
+      "normalized": 5.3205
+    },
+    "filmweb": {
+      "rating": 7.4,
+      "votes": 190,
+      "distribution": {
+        "2": 1,
+        "3": 6,
+        "4": 3,
+        "5": 5,
+        "6": 16,
+        "7": 61,
+        "8": 65,
+        "9": 24,
+        "10": 9
+      },
+      "normalized": 5.5517
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "15.02.2013",
+      "normalized": 6.4102
+    },
+    "score": 5.7608
+  },
+  "polish_title": "Będę przy tobie",
+  "silent": false,
+  "description_pl": "Inna to piękna, młoda, odnosząca sukcesy kobieta. Typowa przedstawicielka nowej rosyjskiej klasy średniej. Pracuje jako managerka moskiewskiej restauracji, gdzie jest darzona szacunkiem i sympatią kolegów. W życiu Inny jest jedna szczególna osoba – jej sześcioletni syn Mitia. Chłopiec jest centrum świata matki, jej najlepszym przyjacielem i sprzymierzeńcem. Ich relacja jest pełna troski, zrozumienia i wsparcia. Niespodziewanie lekarze rozpoznają u Inny nieuleczalną chorobę. Od tej chwili najważniejsze staje się znalezienie nowych rodziców dla małego Mitii.",
+  "producers": [
+    {
+      "id": "nm3305992",
+      "name": "Georgiy Malkov"
+    },
+    {
+      "id": "nm2942733",
+      "name": "Lera Mulina"
+    },
+    {
+      "id": "nm3424736",
+      "name": "Boris Shefir"
+    },
+    {
+      "id": "nm3425277",
+      "name": "Sergey Shefir"
+    },
+    {
+      "id": "nm0879783",
+      "name": "Aleksey Uchitel"
+    },
+    {
+      "id": "nm2435496",
+      "name": "Andrey Yakovlev"
+    },
+    {
+      "id": "nm3305952",
+      "name": "Volodymyr Zelenskyy"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm2047156",
+      "name": "Fedor Lyass"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

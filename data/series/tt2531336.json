@@ -1,0 +1,222 @@
+{
+  "imdb_id": "tt2531336",
+  "title": "Lupin",
+  "description": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
+  "runtime_minutes": 45,
+  "release_date": "08.01.2021",
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm1082477",
+      "name": "Omar Sy"
+    },
+    {
+      "id": "nm0756203",
+      "name": "Ludivine Sagnier"
+    },
+    {
+      "id": "nm2245673",
+      "name": "Soufiane Guerrab"
+    },
+    {
+      "id": "nm12216026",
+      "name": "Etan Simon"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1082477",
+      "name": "Omar Sy",
+      "character": "Assane Diop"
+    },
+    {
+      "id": "nm0756203",
+      "name": "Ludivine Sagnier",
+      "character": "Claire Laurent"
+    },
+    {
+      "id": "nm2245673",
+      "name": "Soufiane Guerrab",
+      "character": "Youssef Guédira"
+    },
+    {
+      "id": "nm12216026",
+      "name": "Etan Simon",
+      "character": "Raoul Diop"
+    },
+    {
+      "id": "nm12216024",
+      "name": "Mamadou Haidara",
+      "character": "[Young] Assane"
+    },
+    {
+      "id": "nm2246199",
+      "name": "Antoine Gouy",
+      "character": "Benjamin Férel"
+    },
+    {
+      "id": "nm10363321",
+      "name": "Shirine Boutella",
+      "character": "Sofia Belkacem"
+    },
+    {
+      "id": "nm0682634",
+      "name": "Hervé Pierre",
+      "character": "Hubert Pellegrini"
+    },
+    {
+      "id": "nm1202905",
+      "name": "Clotilde Hesme",
+      "character": "Juliette Pellegrini"
+    },
+    {
+      "id": "nm1711617",
+      "name": "Vincent Londez",
+      "character": "Capt. Romain Laugier"
+    },
+    {
+      "id": "nm0629195",
+      "name": "Adama Niane",
+      "character": "Léonard Koné"
+    },
+    {
+      "id": "nm12216990",
+      "name": "Ludmilla Makowski",
+      "character": "[Young] Claire"
+    },
+    {
+      "id": "nm10061242",
+      "name": "Noé Wodecki",
+      "character": "[Young] Bruno"
+    },
+    {
+      "id": "nm0767432",
+      "name": "Naky Sy Savane",
+      "character": "Mariama Diop"
+    },
+    {
+      "id": "nm0304826",
+      "name": "Vincent Garanger",
+      "character": "Gabriel Dumont"
+    },
+    {
+      "id": "nm6746117",
+      "name": "Martha Canga Antonio",
+      "character": "Fleur Bélanger"
+    },
+    {
+      "id": "nm9493225",
+      "name": "Salif Cissé",
+      "character": "[Younger] Jean-Luc Keller"
+    },
+    {
+      "id": "nm7556654",
+      "name": "Adrian Valli De Villebonne",
+      "character": "[Young] Benjamin"
+    }
+  ],
+  "countries": [
+    "France",
+    "United States"
+  ],
+  "languages": [
+    "French"
+  ],
+  "color": "Color",
+  "year": 2021,
+  "type": "tvSeries",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzk4MTc0NWUtZjk3Mi00ODkzLTlkYjItOWRhMTc5MmRiNjI0XkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 855446,
+  "ratings": {
+    "imdb": {
+      "rating": 7.5,
+      "votes": 160792,
+      "distribution": {
+        "1": 2351,
+        "2": 900,
+        "3": 1268,
+        "4": 2301,
+        "5": 5469,
+        "6": 14591,
+        "7": 39134,
+        "8": 49962,
+        "9": 23556,
+        "10": 21260
+      }
+    },
+    "filmweb": {
+      "rating": 7.22,
+      "votes": 73202,
+      "distribution": {
+        "1": 637,
+        "2": 360,
+        "3": 855,
+        "4": 1571,
+        "5": 4313,
+        "6": 11106,
+        "7": 22527,
+        "8": 19464,
+        "9": 6736,
+        "10": 5633
+      }
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "10.04.2023"
+    }
+  },
+  "polish_title": "Lupin",
+  "silent": false,
+  "description_pl": "Kiedy Assane Diop był nastolatkiem, jego życiem wstrząsnęła śmierć ojca, oskarżonego o przestępstwo, którego nie popełnił. 25 lat później Assane pomści go, inspirując się opowiadaniami \"Arsène Lupin, dżentelmen włamywacz\".",
+  "producers": [
+    {
+      "id": "nm1548781",
+      "name": "Isabelle Degeorges"
+    },
+    {
+      "id": "nm2024519",
+      "name": "Nathan Franck"
+    },
+    {
+      "id": "nm0443047",
+      "name": "George Kay"
+    },
+    {
+      "id": "nm1082477",
+      "name": "Omar Sy"
+    },
+    {
+      "id": "nm0419388",
+      "name": "Martin Jaubert"
+    },
+    {
+      "id": "nm0241489",
+      "name": "Sidonie Dumas"
+    },
+    {
+      "id": "nm2768197",
+      "name": "Christophe Riandee"
+    },
+    {
+      "id": "nm0684246",
+      "name": "Roxanne Pinheiro"
+    },
+    {
+      "id": "nm0504642",
+      "name": "Louis Leterrier"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm2075790",
+      "name": "Mathieu Lamboley"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

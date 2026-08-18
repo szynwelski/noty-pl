@@ -1,0 +1,48 @@
+{
+  "id": "nm0370821",
+  "name": "Richard Haydn",
+  "filmography": [
+    {
+      "imdb_id": "tt0056264",
+      "title": "Mutiny on the Bounty",
+      "year": 1962,
+      "roles": [
+        "cast"
+      ],
+      "character": "William Brown"
+    },
+    {
+      "imdb_id": "tt0059742",
+      "title": "The Sound of Music",
+      "year": 1965,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Max Detweiler"
+    },
+    {
+      "imdb_id": "tt0072431",
+      "title": "Young Frankenstein",
+      "year": 1974,
+      "roles": [
+        "cast"
+      ],
+      "character": "Herr Falkstein"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjkxNzM0NTY2OF5BMl5BanBnXkFtZTcwNzQ3NjAxOA@@._V1_.jpg",
+  "birth_date": "10.03.1905",
+  "death_date": "25.04.1985",
+  "birth_location": "Camberwell, London, England, UK",
+  "height": "1.77 m",
+  "filmweb_id": 44719,
+  "name_pl": "Richard Haydn",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ]
+}

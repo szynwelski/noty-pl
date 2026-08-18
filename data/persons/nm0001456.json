@@ -1,0 +1,30 @@
+{
+  "id": "nm0001456",
+  "name": "Kelly LeBrock",
+  "filmography": [
+    {
+      "imdb_id": "tt0120901",
+      "title": "Wrongfully Accused",
+      "year": 1998,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Lauren Goodhue"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTk3MDc1NjM4M15BMl5BanBnXkFtZTcwMzk1MDQ4Nw@@._V1_.jpg",
+  "birth_date": "24.03.1960",
+  "birth_location": "New York City, New York, USA",
+  "height": "1.73 m",
+  "imdb_scraped": true,
+  "filmweb_id": 6156,
+  "name_pl": "Kelly LeBrock",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 6156
+}

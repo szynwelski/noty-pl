@@ -1,0 +1,231 @@
+{
+  "imdb_id": "tt0988108",
+  "title": "The Class",
+  "description": "An average Estonian high-schooler decides to defend his bullied classmate. This starts war between him and the informal leader of the class. As teenagers' honour is a touchy thing, everything ends in bloodshed.",
+  "runtime_minutes": 99,
+  "release_date": "16.03.2007",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm2424610",
+      "name": "Vallo Kirs"
+    },
+    {
+      "id": "nm2596976",
+      "name": "Pärt Uusberg"
+    },
+    {
+      "id": "nm2596491",
+      "name": "Lauri Pedaja"
+    },
+    {
+      "id": "nm2594643",
+      "name": "Paula Solvak"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0704664",
+      "name": "Ilmar Raag"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0704664",
+      "name": "Ilmar Raag"
+    },
+    {
+      "id": "nm2424610",
+      "name": "Vallo Kirs"
+    },
+    {
+      "id": "nm2596976",
+      "name": "Pärt Uusberg"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm2424610",
+      "name": "Vallo Kirs",
+      "character": "Kaspar"
+    },
+    {
+      "id": "nm2596976",
+      "name": "Pärt Uusberg",
+      "character": "Joosep"
+    },
+    {
+      "id": "nm2596491",
+      "name": "Lauri Pedaja",
+      "character": "Anders"
+    },
+    {
+      "id": "nm2594643",
+      "name": "Paula Solvak",
+      "character": "Thea"
+    },
+    {
+      "id": "nm2594049",
+      "name": "Mikk Mägi",
+      "character": "Paul"
+    },
+    {
+      "id": "nm2597188",
+      "name": "Riina Ries",
+      "character": "Riina"
+    },
+    {
+      "id": "nm2593131",
+      "name": "Joonas Paas",
+      "character": "Toomas"
+    },
+    {
+      "id": "nm2608092",
+      "name": "Kadi Metsla",
+      "character": "Kati"
+    },
+    {
+      "id": "nm2600758",
+      "name": "Triin Tenso",
+      "character": "Kerli"
+    },
+    {
+      "id": "nm2597112",
+      "name": "Virgo Ernits",
+      "character": "Tiit"
+    },
+    {
+      "id": "nm2594764",
+      "name": "Karl Sakrits",
+      "character": "Olav"
+    },
+    {
+      "id": "nm2701491",
+      "name": "Liina Joonas",
+      "character": "Kersti"
+    },
+    {
+      "id": "nm2705084",
+      "name": "Saara Pius",
+      "character": "Liisa"
+    },
+    {
+      "id": "nm2704753",
+      "name": "Kaspar Kannelmäe",
+      "character": ""
+    },
+    {
+      "id": "nm2701471",
+      "name": "Brita Kikas",
+      "character": "Kerttu"
+    },
+    {
+      "id": "nm2700842",
+      "name": "Mirjam Mesak",
+      "character": "Marylin"
+    },
+    {
+      "id": "nm2704754",
+      "name": "Max-Sander Mikli",
+      "character": ""
+    },
+    {
+      "id": "nm2703024",
+      "name": "Imre Paabo",
+      "character": "Meelis"
+    }
+  ],
+  "countries": [
+    "Estonia"
+  ],
+  "languages": [
+    "Estonian"
+  ],
+  "color": "Color",
+  "filmweb_id": 433313,
+  "year": 2007,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTk5Nzk4MDI4NV5BMl5BanBnXkFtZTcwODA2OTAyOA@@._V1_.jpg",
+  "original_title": "Klass",
+  "ratings": {
+    "imdb": {
+      "rating": 7.9,
+      "votes": 16756,
+      "distribution": {
+        "1": 330,
+        "2": 101,
+        "3": 136,
+        "4": 195,
+        "5": 458,
+        "6": 1177,
+        "7": 3010,
+        "8": 4894,
+        "9": 3057,
+        "10": 3398
+      },
+      "normalized": 7.1153
+    },
+    "filmweb": {
+      "rating": 7.55,
+      "votes": 44671,
+      "distribution": {
+        "1": 379,
+        "2": 217,
+        "3": 456,
+        "4": 759,
+        "5": 1749,
+        "6": 4157,
+        "7": 10789,
+        "8": 15968,
+        "9": 7083,
+        "10": 3114
+      },
+      "normalized": 6.8707
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "12.10.2010",
+      "normalized": 6.3474
+    },
+    "score": 6.7778
+  },
+  "polish_title": "Nasza klasa",
+  "silent": false,
+  "description_pl": "Joosep - syn wojskowego - jest introwertykiem. Nie podoba się to jego kolegom z klasy, którzy pozwalają sobie na ordynarne żarty w stosunku do niego. Jedyną osobą, która postanawia się za nim wstawić staje się Kaspar - jeden z byłych oprawców. Gdy poziom poniżeń przekracza próg tolerancji Joosepa i Kaspara, chłopcy postanawiają coś z tym zrobić.",
+  "producers": [
+    {
+      "id": "nm2361106",
+      "name": "Kaspar Kaljas"
+    },
+    {
+      "id": "nm2298007",
+      "name": "Gerda Kordemets"
+    },
+    {
+      "id": "nm3255994",
+      "name": "Maario Masing"
+    },
+    {
+      "id": "nm0704664",
+      "name": "Ilmar Raag"
+    },
+    {
+      "id": "nm1841217",
+      "name": "Riina Sildos"
+    },
+    {
+      "id": "nm2759507",
+      "name": "Anna Stepanova"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm1315386",
+      "name": "Kristjan-Jaak Nuudi"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

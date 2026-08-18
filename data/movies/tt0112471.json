@@ -1,0 +1,241 @@
+{
+  "imdb_id": "tt0112471",
+  "title": "Before Sunrise",
+  "description": "A young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna. Unfortunately, both know that this will probably be their only night together.",
+  "runtime_minutes": 101,
+  "release_date": "27.01.1995",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0000160",
+      "name": "Ethan Hawke"
+    },
+    {
+      "id": "nm0000365",
+      "name": "Julie Delpy"
+    },
+    {
+      "id": "nm0248600",
+      "name": "Andrea Eckert"
+    },
+    {
+      "id": "nm0702541",
+      "name": "Hanno Pöschl"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000500",
+      "name": "Richard Linklater"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000500",
+      "name": "Richard Linklater"
+    },
+    {
+      "id": "nm0471811",
+      "name": "Kim Krizan"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000160",
+      "name": "Ethan Hawke",
+      "character": "Jesse"
+    },
+    {
+      "id": "nm0000365",
+      "name": "Julie Delpy",
+      "character": "Céline"
+    },
+    {
+      "id": "nm0248600",
+      "name": "Andrea Eckert",
+      "character": "Wife on Train"
+    },
+    {
+      "id": "nm0702541",
+      "name": "Hanno Pöschl",
+      "character": "Husband on Train"
+    },
+    {
+      "id": "nm0115690",
+      "name": "Karl Bruckschwaiger",
+      "character": "Guy on Bridge"
+    },
+    {
+      "id": "nm0748239",
+      "name": "Tex Rubinowitz",
+      "character": "Guy on Bridge"
+    },
+    {
+      "id": "nm0542278",
+      "name": "Erni Mangold",
+      "character": "Palm Reader"
+    },
+    {
+      "id": "nm0144635",
+      "name": "Dominik Castell",
+      "character": "Street Poet"
+    },
+    {
+      "id": "nm0125379",
+      "name": "Haymon Maria Buttinger",
+      "character": "Bartender"
+    },
+    {
+      "id": "nm0906464",
+      "name": "Harald Waiglein",
+      "character": "Guitarist in Club"
+    },
+    {
+      "id": "nm0422115",
+      "name": "Bilge Jeschim",
+      "character": "Belly Dancer"
+    },
+    {
+      "id": "nm0475991",
+      "name": "Kurti",
+      "character": "Percussionist"
+    },
+    {
+      "id": "nm0918326",
+      "name": "Hans Weingartner",
+      "character": "Cafe Patron"
+    },
+    {
+      "id": "nm0528951",
+      "name": "Liese Lyon",
+      "character": "Cafe Patron"
+    },
+    {
+      "id": "nm0400059",
+      "name": "Peter Ily Huemer",
+      "character": "Cafe Patron"
+    },
+    {
+      "id": "nm0718604",
+      "name": "Otto Reiter",
+      "character": "Cafe Patron"
+    },
+    {
+      "id": "nm0474696",
+      "name": "Hubert Fabian Kulterer",
+      "character": "Cafe Patron"
+    },
+    {
+      "id": "nm0028963",
+      "name": "Branko Andric",
+      "character": "Cafe Patron"
+    }
+  ],
+  "countries": [
+    "United States",
+    "Austria"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French"
+  ],
+  "color": "Color",
+  "filmweb_id": 4095,
+  "year": 1995,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZDZhZmI1ZTUtYWI3NC00NTMwLTk3NWMtNDc0OGNjM2I0ZjlmXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8.1,
+      "votes": 382405,
+      "distribution": {
+        "1": 3818,
+        "2": 1888,
+        "3": 2387,
+        "4": 4016,
+        "5": 8767,
+        "6": 21955,
+        "7": 61464,
+        "8": 115687,
+        "9": 84526,
+        "10": 77911
+      },
+      "normalized": 7.7854
+    },
+    "filmweb": {
+      "rating": 7.68,
+      "votes": 58551,
+      "distribution": {
+        "1": 205,
+        "2": 183,
+        "3": 528,
+        "4": 866,
+        "5": 2054,
+        "6": 5209,
+        "7": 13755,
+        "8": 20497,
+        "9": 10557,
+        "10": 4697
+      },
+      "normalized": 7.2777
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "06.12.2016",
+      "normalized": 6.4102
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "19.10.2005",
+      "normalized": 6.3474
+    },
+    "score": 6.9552
+  },
+  "polish_title": "Przed wschodem słońca",
+  "silent": false,
+  "description_pl": "Francuska studentka Celine i Amerykanin Jesse poznają się w pociągu do Wiednia. Rozmowa jest tak interesująca, że postanawiają wysiąść w Wiedniu i kontynuować dyskusję. Błahe rozmowy przeradzają się w poważne tematy, a wzajemne zauroczenie w uczucie.",
+  "producers": [
+    {
+      "id": "nm0414423",
+      "name": "Gregory Jacobs"
+    },
+    {
+      "id": "nm0708444",
+      "name": "Wolfgang Ramml"
+    },
+    {
+      "id": "nm0769869",
+      "name": "Gernot Schaffler"
+    },
+    {
+      "id": "nm0806189",
+      "name": "John Sloss"
+    },
+    {
+      "id": "nm0908323",
+      "name": "Anne Walker-McBay"
+    },
+    {
+      "id": "nm0920865",
+      "name": "Ellen Winn Wendl"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0295947",
+      "name": "Fred Frith"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0199679",
+      "name": "Lee Daniel"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

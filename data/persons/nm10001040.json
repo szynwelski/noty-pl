@@ -1,0 +1,27 @@
+{
+  "id": "nm10001040",
+  "name": "Anna Biernacik",
+  "filmography": [
+    {
+      "imdb_id": "tt8649186",
+      "title": "Corpus Christi",
+      "year": 2019,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Marta's Friend"
+    }
+  ],
+  "imdb_scraped": true,
+  "filmweb_id": 2612691,
+  "name_pl": "Anna Biernacik",
+  "birth_location_pl": "Zakopane",
+  "birth_date": "06.12.1992",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Polska"
+  ],
+  "wikidata_fw_id": 2612691
+}

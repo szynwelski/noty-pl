@@ -1,0 +1,39 @@
+{
+  "id": "nm0534409",
+  "name": "Bill Macy",
+  "filmography": [
+    {
+      "imdb_id": "tt0122933",
+      "title": "Analyze This",
+      "year": 1999,
+      "roles": [
+        "cast"
+      ],
+      "character": "Isaac Sobel"
+    },
+    {
+      "imdb_id": "tt0457939",
+      "title": "The Holiday",
+      "year": 2006,
+      "roles": [
+        "cast"
+      ],
+      "character": "Ernie"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQ0NjI5MjczM15BMl5BanBnXkFtZTYwNTYzODU1._V1_.jpg",
+  "birth_date": "18.05.1922",
+  "death_date": "17.10.2019",
+  "birth_location": "Revere, Massachusetts, USA",
+  "height": "1.79 m",
+  "imdb_scraped": true,
+  "filmweb_id": 6479,
+  "name_pl": "Bill Macy",
+  "birth_location_pl": "Revere, Massachusetts",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 6479
+}

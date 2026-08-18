@@ -1,0 +1,44 @@
+{
+  "id": "nm0220600",
+  "name": "Scott Derrickson",
+  "filmography": [
+    {
+      "imdb_id": "tt0970416",
+      "title": "The Day the Earth Stood Still",
+      "year": 2008,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt1211837",
+      "title": "Doctor Strange",
+      "year": 2016,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt13654226",
+      "title": "The Gorge",
+      "year": 2025,
+      "roles": [
+        "director"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODZjM2EzYmYtYjk2ZS00NWUzLTgxYmMtMTFlZDJmYjhlMjgxXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "16.07.1966",
+  "birth_location": "Denver, Colorado, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 47474,
+  "name_pl": "Scott Derrickson",
+  "birth_location_pl": "Denver, Kolorado",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 47474
+}

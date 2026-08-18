@@ -1,0 +1,86 @@
+{
+  "imdb_id": "tt2894706",
+  "title": "Danse macabre",
+  "description": "",
+  "runtime_minutes": 5,
+  "release_date": "23.05.2013",
+  "genres": [
+    "Animation",
+    "Short"
+  ],
+  "directors": [
+    {
+      "id": "nm5663947",
+      "name": "Malgorzata Rzanek"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm5663947",
+      "name": "Malgorzata Rzanek"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "Poland"
+  ],
+  "languages": [
+    "Polish"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 688106,
+  "year": 2013,
+  "type": "short",
+  "image_url": null,
+  "ratings": {
+    "imdb": {
+      "rating": 5.2,
+      "votes": 5,
+      "distribution": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 0,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 5.2846
+    },
+    "filmweb": {
+      "rating": 5.81,
+      "votes": 75,
+      "distribution": {
+        "2": 2,
+        "3": 4,
+        "4": 5,
+        "5": 21,
+        "6": 19,
+        "7": 15,
+        "8": 6,
+        "9": 2,
+        "10": 1
+      },
+      "normalized": 4.7225
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "01.12.2016",
+      "normalized": 5.6855
+    },
+    "score": 5.2309
+  },
+  "polish_title": "Danse Macabre",
+  "silent": false,
+  "description_pl": "\"Danse Macabre\" to średniowieczny motyw Tańca Śmierci - motywu, który w plastyczny sposób przedstawiał równość wszystkich ludzi wobec śmierci - niezależnie od stanu i pochodzenia. Szkolna gra w Wisielca staje się w filmie pretekstem do rozważań o nieuniknionym losie każdego śmiertelnika i o daremnych próbach oszukania losu. Ale Śmierci nie da się oszukać - chociaż pierwotnie pozwala bohaterom animacji potańczyć ze sobą, z czasem ścina wszystkich, niezależnie, czy byli dobrzy, czy źli, żyli krótko, czy długo.",
+  "composers": [
+    {
+      "id": "nm10704669",
+      "name": "Magda Grabowska"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

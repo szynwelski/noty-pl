@@ -1,0 +1,40 @@
+{
+  "id": "nm0002113",
+  "name": "Sydney Greenstreet",
+  "filmography": [
+    {
+      "imdb_id": "tt0033870",
+      "title": "The Maltese Falcon",
+      "year": 1941,
+      "roles": [
+        "cast"
+      ],
+      "character": "Kasper Gutman"
+    },
+    {
+      "imdb_id": "tt0034583",
+      "title": "Casablanca",
+      "year": 1942,
+      "roles": [
+        "cast"
+      ],
+      "character": "Signor Ferrari"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOTU1MDc1NTc4MF5BMl5BanBnXkFtZTcwNTA5NDYwOA@@._V1_.jpg",
+  "birth_date": "27.12.1879",
+  "death_date": "18.01.1954",
+  "birth_location": "Sandwich, Kent, England, UK",
+  "height": "1.75 m",
+  "imdb_scraped": true,
+  "filmweb_id": 6782,
+  "name_pl": "Sydney Greenstreet",
+  "birth_location_pl": "Sandwich, Anglia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania",
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 6782
+}

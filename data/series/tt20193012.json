@@ -1,0 +1,172 @@
+{
+  "imdb_id": "tt20193012",
+  "title": "The Very Pulse of the Machine",
+  "description": "When an exploratory mission to a Jovian moon ends in disaster, the lone survivor must begin a perilous but mind-expanding journey.",
+  "runtime_minutes": 17,
+  "release_date": "20.05.2022",
+  "genres": [
+    "Animation",
+    "Short",
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Drama",
+    "Fantasy",
+    "Horror",
+    "Mystery",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm4496875",
+      "name": "Mackenzie Davis"
+    },
+    {
+      "id": "nm5707828",
+      "name": "Holly Jade"
+    },
+    {
+      "id": "nm0789421",
+      "name": "David Shatraw"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm4254098",
+      "name": "Emily Dean"
+    },
+    {
+      "id": "nm0950775",
+      "name": "Jennifer Yuh Nelson"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm6419209",
+      "name": "Michael Swanwick"
+    },
+    {
+      "id": "nm3664884",
+      "name": "Philip Gelatt"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm4496875",
+      "name": "Mackenzie Davis",
+      "character": "Martha Kivelson"
+    },
+    {
+      "id": "nm5707828",
+      "name": "Holly Jade",
+      "character": "Juliet Burton"
+    },
+    {
+      "id": "nm0789421",
+      "name": "David Shatraw",
+      "character": "Heads Up Display"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "year": 2022,
+  "type": "tvEpisode",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZGYxYjE1ZjktNTQzNy00OTVjLWJlNGMtZGYxOWVkN2IxMzU2XkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 824633,
+  "ratings": {
+    "imdb": {
+      "rating": 6.8,
+      "votes": 13676,
+      "distribution": {
+        "1": 240,
+        "2": 148,
+        "3": 256,
+        "4": 480,
+        "5": 1257,
+        "6": 2710,
+        "7": 3477,
+        "8": 2384,
+        "9": 1233,
+        "10": 1491
+      }
+    },
+    "filmweb": {
+      "rating": 7.94,
+      "votes": 54233,
+      "distribution": {
+        "1": 98,
+        "2": 90,
+        "3": 250,
+        "4": 388,
+        "5": 1135,
+        "6": 3408,
+        "7": 10946,
+        "8": 20253,
+        "9": 13148,
+        "10": 4517
+      }
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "31.10.2022"
+    }
+  },
+  "polish_title": "Miłość, śmierć i roboty",
+  "silent": false,
+  "description_pl": "\"Miłość, śmierć i roboty\" to seria krótkich animowanych opowieści należących do różnych gatunków - science fiction, fantasy, horroru i komedii. Opowiedziane w śmiały sposób historie ogląda się przyjemnie, a losy ich bohaterów przez długi czas pozostają w pamięci. Historie tworzą pierwszą antologię animowanych opowieści, która dostarczy widzom niezapomnianych i poruszających do głębi wrażeń.",
+  "producers": [
+    {
+      "id": "nm0232433",
+      "name": "Joshua Donen"
+    },
+    {
+      "id": "nm0000399",
+      "name": "David Fincher"
+    },
+    {
+      "id": "nm2126361",
+      "name": "Victoria L. Howard"
+    },
+    {
+      "id": "nm7390375",
+      "name": "Jack Liang"
+    },
+    {
+      "id": "nm10223874",
+      "name": "Takahiro Matsuki"
+    },
+    {
+      "id": "nm10380524",
+      "name": "Jennifer Miller"
+    },
+    {
+      "id": "nm1783265",
+      "name": "Tim Miller"
+    },
+    {
+      "id": "nm1740732",
+      "name": "Ryo Segawa"
+    },
+    {
+      "id": "nm2478744",
+      "name": "Shuzo John Shiota"
+    },
+    {
+      "id": "nm5949365",
+      "name": "Michiko Takahisa"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm1052252",
+      "name": "Rob Cairns"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "nm0000304",
+  "name": "Linda Blair",
+  "filmography": [
+    {
+      "imdb_id": "tt0070047",
+      "title": "The Exorcist",
+      "year": 1973,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Regan"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTYxNzMxMTMwMV5BMl5BanBnXkFtZTYwODM3MTI0._V1_.jpg",
+  "birth_date": "22.01.1959",
+  "birth_location": "St. Louis, Missouri, USA",
+  "height": "1.57 m",
+  "imdb_scraped": true,
+  "filmweb_id": 3469,
+  "name_pl": "Linda Blair",
+  "birth_location_pl": "St. Louis, Missouri",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 3469
+}

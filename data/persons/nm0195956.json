@@ -1,0 +1,37 @@
+{
+  "id": "nm0195956",
+  "name": "Jean d'Yd",
+  "filmography": [
+    {
+      "imdb_id": "tt0013626",
+      "title": "The Smiling Madame Beudet",
+      "year": 1923,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Mr Labas"
+    },
+    {
+      "imdb_id": "tt0019254",
+      "title": "The Passion of Joan of Arc",
+      "year": 1928,
+      "roles": [
+        "cast"
+      ],
+      "character": "Guillaume Evrard"
+    }
+  ],
+  "birth_date": "17.03.1880",
+  "death_date": "14.05.1964",
+  "birth_location": "Paris, France",
+  "imdb_scraped": true,
+  "filmweb_id": 143006,
+  "name_pl": "Jean d'Yd",
+  "birth_location_pl": "Paryż",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja"
+  ]
+}

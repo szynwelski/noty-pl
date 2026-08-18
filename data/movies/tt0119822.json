@@ -1,0 +1,258 @@
+{
+  "imdb_id": "tt0119822",
+  "title": "As Good as It Gets",
+  "description": "A single mother and waitress, a misanthropic author, and a gay artist form an unlikely friendship after the artist is assaulted in a robbery.",
+  "runtime_minutes": 139,
+  "release_date": "25.12.1997",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0000197",
+      "name": "Jack Nicholson"
+    },
+    {
+      "id": "nm0000166",
+      "name": "Helen Hunt"
+    },
+    {
+      "id": "nm0001427",
+      "name": "Greg Kinnear"
+    },
+    {
+      "id": "nm0000421",
+      "name": "Cuba Gooding Jr."
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000985",
+      "name": "James L. Brooks"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0029125",
+      "name": "Mark Andrus"
+    },
+    {
+      "id": "nm0000985",
+      "name": "James L. Brooks"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000197",
+      "name": "Jack Nicholson",
+      "character": "Melvin Udall"
+    },
+    {
+      "id": "nm0000166",
+      "name": "Helen Hunt",
+      "character": "Carol Connelly"
+    },
+    {
+      "id": "nm0001427",
+      "name": "Greg Kinnear",
+      "character": "Simon Bishop"
+    },
+    {
+      "id": "nm0000421",
+      "name": "Cuba Gooding Jr.",
+      "character": "Frank Sachs"
+    },
+    {
+      "id": "nm0000240",
+      "name": "Skeet Ulrich",
+      "character": "Vincent"
+    },
+    {
+      "id": "nm0004309",
+      "name": "Shirley Knight",
+      "character": "Beverly"
+    },
+    {
+      "id": "nm0810379",
+      "name": "Yeardley Smith",
+      "character": "Jackie"
+    },
+    {
+      "id": "nm0648913",
+      "name": "Lupe Ontiveros",
+      "character": "Nora"
+    },
+    {
+      "id": "nm1212803",
+      "name": "Jill the Dog",
+      "character": "Verdell"
+    },
+    {
+      "id": "nm1428429",
+      "name": "Timer the Dog",
+      "character": "Supporting Dog"
+    },
+    {
+      "id": "nm1428428",
+      "name": "Billy the Dog",
+      "character": "Supporting Dog"
+    },
+    {
+      "id": "nm0652410",
+      "name": "Bibi Osterwald",
+      "character": "Neighbor Woman"
+    },
+    {
+      "id": "nm0088122",
+      "name": "Ross Bleckner",
+      "character": "Carl"
+    },
+    {
+      "id": "nm0049360",
+      "name": "Bernadette Balagtas",
+      "character": "Caterer"
+    },
+    {
+      "id": "nm0169465",
+      "name": "Jaffe Cohen",
+      "character": "Partygoer"
+    },
+    {
+      "id": "nm0453298",
+      "name": "Laurie Kilpatrick",
+      "character": "Partygoer"
+    },
+    {
+      "id": "nm0891138",
+      "name": "Alice Vaughn",
+      "character": "Partygoer"
+    },
+    {
+      "id": "nm0236519",
+      "name": "Brian Doyle-Murray",
+      "character": "Handyman"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": null,
+  "filmweb_id": 97,
+  "year": 1997,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzBiMWJhYmQtOWYzNS00NjgxLWE5NDItNzZlZDQwODBmODNjXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.7,
+      "votes": 339479,
+      "distribution": {
+        "1": 2125,
+        "2": 1358,
+        "3": 2044,
+        "4": 3889,
+        "5": 10326,
+        "6": 29372,
+        "7": 81403,
+        "8": 113118,
+        "9": 56012,
+        "10": 39832
+      },
+      "normalized": 6.8408
+    },
+    "filmweb": {
+      "rating": 7.51,
+      "votes": 122260,
+      "distribution": {
+        "1": 295,
+        "2": 291,
+        "3": 794,
+        "4": 1559,
+        "5": 4366,
+        "6": 13233,
+        "7": 36302,
+        "8": 42557,
+        "9": 15706,
+        "10": 7157
+      },
+      "normalized": 6.7584
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "02.12.2005",
+      "normalized": 7.1247
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "19.10.2005",
+      "normalized": 6.3474
+    },
+    "score": 6.7678
+  },
+  "polish_title": "Lepiej być nie może",
+  "silent": false,
+  "description_pl": "W nowojorskiej kamienicy mieszka pisarz, który pracuje nad kolejną powieścią  i który unika kontaktów z ludźmi. Sąsiedzi go nienawidzą. Jedyną osobą, która znosi jego towarzystwo jest kelnerka w jadłodajni, w której pisarz się stołuje. Dziewczyna ta okazuje się być ostatnią deską ratunku dla jego pokrętnej psychiki.",
+  "producers": [
+    {
+      "id": "nm0000985",
+      "name": "James L. Brooks"
+    },
+    {
+      "id": "nm0424660",
+      "name": "Bridget Johnson"
+    },
+    {
+      "id": "nm0442610",
+      "name": "Maria Kavanaugh"
+    },
+    {
+      "id": "nm0548257",
+      "name": "Laurence Mark"
+    },
+    {
+      "id": "nm0548943",
+      "name": "Richard Marks"
+    },
+    {
+      "id": "nm0692016",
+      "name": "Aldric La'auli Porter"
+    },
+    {
+      "id": "nm0757017",
+      "name": "Richard Sakai"
+    },
+    {
+      "id": "nm0774528",
+      "name": "John D. Schofield"
+    },
+    {
+      "id": "nm0005562",
+      "name": "Owen Wilson"
+    },
+    {
+      "id": "nm0954034",
+      "name": "Kristi Zea"
+    },
+    {
+      "id": "nm0957205",
+      "name": "Laura Ziskin"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0001877",
+      "name": "Hans Zimmer"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0007037",
+      "name": "John Bailey"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

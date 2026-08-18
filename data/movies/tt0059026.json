@@ -1,0 +1,169 @@
+{
+  "imdb_id": "tt0059026",
+  "title": "A Charlie Brown Christmas",
+  "description": "Depressed at the commercialism he sees around him, Charlie Brown tries to find a deeper meaning to Christmas.",
+  "runtime_minutes": 25,
+  "release_date": "09.12.1965",
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Drama",
+    "Family",
+    "Music"
+  ],
+  "stars": [
+    {
+      "id": "nm0022817",
+      "name": "Ann Altieri"
+    },
+    {
+      "id": "nm0233358",
+      "name": "Chris Doran"
+    },
+    {
+      "id": "nm0238741",
+      "name": "Sally Dryer"
+    },
+    {
+      "id": "nm0006837",
+      "name": "Bill Melendez"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0006837",
+      "name": "Bill Melendez"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0776433",
+      "name": "Charles M. Schulz"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0022817",
+      "name": "Ann Altieri",
+      "character": "Frieda"
+    },
+    {
+      "id": "nm0233358",
+      "name": "Chris Doran",
+      "character": "Schroeder"
+    },
+    {
+      "id": "nm0238741",
+      "name": "Sally Dryer",
+      "character": "Violet"
+    },
+    {
+      "id": "nm0006837",
+      "name": "Bill Melendez",
+      "character": "Snoopy"
+    },
+    {
+      "id": "nm0578879",
+      "name": "Karen Mendelson",
+      "character": "Patty"
+    },
+    {
+      "id": "nm0650348",
+      "name": "Geoffrey Ornstein",
+      "character": "Pig-Pen"
+    },
+    {
+      "id": "nm0730435",
+      "name": "Peter Robbins",
+      "character": "Charlie Brown"
+    },
+    {
+      "id": "nm0790259",
+      "name": "Christopher Shea",
+      "character": "Linus Van Pelt"
+    },
+    {
+      "id": "nm0825777",
+      "name": "Cathy Steinberg",
+      "character": "Sally Brown"
+    },
+    {
+      "id": "nm0833559",
+      "name": "Tracy Stratford",
+      "character": "Lucy Van Pelt"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 212143,
+  "year": 1965,
+  "type": "tvMovie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjViMWMxNWItYTk2OC00MWQwLWIyMzktNDQ4YWIyYjcxZGIyXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8.3,
+      "votes": 50857,
+      "distribution": {
+        "1": 460,
+        "2": 203,
+        "3": 322,
+        "4": 583,
+        "5": 1456,
+        "6": 3044,
+        "7": 6601,
+        "8": 11818,
+        "9": 9621,
+        "10": 16749
+      },
+      "normalized": 8.2655
+    },
+    "filmweb": {
+      "rating": 7.21,
+      "votes": 729,
+      "distribution": {
+        "1": 4,
+        "2": 3,
+        "3": 7,
+        "4": 14,
+        "5": 42,
+        "6": 105,
+        "7": 238,
+        "8": 208,
+        "9": 78,
+        "10": 30
+      },
+      "normalized": 5.715
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "09.12.2016",
+      "normalized": 7.1247
+    },
+    "score": 7.0351
+  },
+  "polish_title": "Gwiazdka Charlie Browna",
+  "silent": false,
+  "description_pl": "Święta Bożego Narodzenia są dla Charliego Browna prawdziwą udręką. W  odnalezieniu ich sensu pomagają chłopcu jego znajomi, powierzając mu  odpowiedzialne stanowisko reżysera świątecznego przedstawienia. W tym samym czasie pies Snoopy postanawia wziąć udział w konkursie na najlepiej przystrojony dom.",
+  "producers": [
+    {
+      "id": "nm0006837",
+      "name": "Bill Melendez"
+    },
+    {
+      "id": "nm0578882",
+      "name": "Lee Mendelson"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0345279",
+      "name": "Vince Guaraldi"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,100 @@
+{
+  "imdb_id": "tt0219560",
+  "title": "The Boxing Cats (Prof. Welton's)",
+  "description": "\"A glove contest between trained cats. A very comical and amusing subject, and is sure to create a great laugh.\" (by Edison Films)",
+  "runtime_minutes": 1,
+  "release_date": "16.07.1894",
+  "genres": [
+    "Short",
+    "Action",
+    "Comedy",
+    "Sport"
+  ],
+  "stars": [
+    {
+      "id": "nm0920663",
+      "name": "Henry Welton"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0005690",
+      "name": "William K.L. Dickson"
+    },
+    {
+      "id": "nm0374658",
+      "name": "William Heise"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0920663",
+      "name": "Henry Welton",
+      "character": "Self"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 229771,
+  "year": 1894,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTRhNjA4YmUtYmFlZi00ODg0LWIyN2MtMWYxNDVjMTdkNmQxXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.8,
+      "votes": 1666,
+      "distribution": {
+        "1": 89,
+        "2": 52,
+        "3": 77,
+        "4": 139,
+        "5": 317,
+        "6": 418,
+        "7": 257,
+        "8": 132,
+        "9": 57,
+        "10": 128
+      },
+      "normalized": 3.8828
+    },
+    "filmweb": {
+      "rating": 5.39,
+      "votes": 298,
+      "distribution": {
+        "1": 14,
+        "2": 14,
+        "3": 29,
+        "4": 28,
+        "5": 58,
+        "6": 74,
+        "7": 43,
+        "8": 22,
+        "9": 6,
+        "10": 10
+      },
+      "normalized": 3.8366
+    },
+    "jarek": {
+      "rating": 2,
+      "date_rated": "11.12.2016",
+      "normalized": 3.5003
+    },
+    "score": 3.7399
+  },
+  "polish_title": "The Boxing Cats (Prof. Welton's)",
+  "silent": true,
+  "description_pl": "Henry Welton przedstawia tutaj dwa wytresowane koty. Występują tutaj na miniaturowym ringu bokserskim, mają założone na swoich przednich łapkach miniaturowe rękawice bokserskie. Sparing wygląda podobnie jak w rzeczywistości...",
+  "cinematographers": [
+    {
+      "id": "nm0374658",
+      "name": "William Heise"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

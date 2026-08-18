@@ -1,0 +1,50 @@
+{
+  "id": "nm0000902",
+  "name": "Jim Belushi",
+  "filmography": [
+    {
+      "imdb_id": "tt0095963",
+      "title": "Red Heat",
+      "year": 1988,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Art Ridzik"
+    },
+    {
+      "imdb_id": "tt0443536",
+      "title": "Hoodwinked",
+      "year": 2005,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "The Woodsman"
+    },
+    {
+      "imdb_id": "tt1139328",
+      "title": "The Ghost Writer",
+      "year": 2010,
+      "roles": [
+        "cast"
+      ],
+      "character": "John Maddox"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQ3NzU1ODA5M15BMl5BanBnXkFtZTYwMTcxMjQz._V1_.jpg",
+  "birth_date": "15.06.1954",
+  "birth_location": "Chicago, Illinois, USA",
+  "height": "1.80 m",
+  "filmweb_id": 6201,
+  "name_pl": "Jim Belushi",
+  "birth_location_pl": "Chicago, Illinois",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone",
+    "Albania"
+  ],
+  "wikidata_fw_id": 6201
+}

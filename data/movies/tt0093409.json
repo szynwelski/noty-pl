@@ -1,0 +1,221 @@
+{
+  "imdb_id": "tt0093409",
+  "title": "Lethal Weapon",
+  "description": "Two newly paired cops who are complete opposites must put aside their differences in order to catch a gang of drug smugglers.",
+  "runtime_minutes": 109,
+  "release_date": "06.03.1987",
+  "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000154",
+      "name": "Mel Gibson"
+    },
+    {
+      "id": "nm0000418",
+      "name": "Danny Glover"
+    },
+    {
+      "id": "nm0000997",
+      "name": "Gary Busey"
+    },
+    {
+      "id": "nm0752751",
+      "name": "Mitchell Ryan"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001149",
+      "name": "Richard Donner"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000948",
+      "name": "Shane Black"
+    },
+    {
+      "id": "nm0090151",
+      "name": "Jeffrey Boam"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000154",
+      "name": "Mel Gibson",
+      "character": "Martin Riggs"
+    },
+    {
+      "id": "nm0000418",
+      "name": "Danny Glover",
+      "character": "Roger Murtaugh"
+    },
+    {
+      "id": "nm0000997",
+      "name": "Gary Busey",
+      "character": "Joshua"
+    },
+    {
+      "id": "nm0752751",
+      "name": "Mitchell Ryan",
+      "character": "The General"
+    },
+    {
+      "id": "nm0040662",
+      "name": "Tom Atkins",
+      "character": "Michael Hunsaker"
+    },
+    {
+      "id": "nm0522306",
+      "name": "Darlene Love",
+      "character": "Trish Murtaugh"
+    },
+    {
+      "id": "nm0938159",
+      "name": "Traci Wolfe",
+      "character": "Rianne Murtaugh"
+    },
+    {
+      "id": "nm0841806",
+      "name": "Jackie Swanson",
+      "character": "Amanda Hunsaker"
+    },
+    {
+      "id": "nm0385649",
+      "name": "Damon Hines",
+      "character": "Nick Murtaugh"
+    },
+    {
+      "id": "nm0808077",
+      "name": "Ebonie Smith",
+      "character": "Carrie Murtaugh"
+    },
+    {
+      "id": "nm0436105",
+      "name": "Bill Kalmenson",
+      "character": "Beat Cop"
+    },
+    {
+      "id": "nm0619031",
+      "name": "Lycia Naff",
+      "character": "Dixie"
+    },
+    {
+      "id": "nm13025135",
+      "name": "Patrick Cameron",
+      "character": "Cop #1"
+    },
+    {
+      "id": "nm0330150",
+      "name": "Don Gordon",
+      "character": "Cop #2"
+    },
+    {
+      "id": "nm0803765",
+      "name": "Jimmie F. Skaggs",
+      "character": "Drug Dealer #1"
+    },
+    {
+      "id": "nm0719159",
+      "name": "Jason Ronard",
+      "character": "Drug Dealer #2"
+    },
+    {
+      "id": "nm0198899",
+      "name": "Blackie Dammett",
+      "character": "Drug Dealer #3"
+    },
+    {
+      "id": "nm0101321",
+      "name": "Gail Bowman",
+      "character": "Cop"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": null,
+  "filmweb_id": 1308,
+  "year": 1987,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMWVlNWZlODktMzhhNS00YThhLWEzZWYtYzU0NDFmNzk0MGVlXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.6,
+      "votes": 297936,
+      "distribution": {
+        "1": 1452,
+        "2": 763,
+        "3": 1303,
+        "4": 2893,
+        "5": 8490,
+        "6": 27284,
+        "7": 84133,
+        "8": 103426,
+        "9": 37642,
+        "10": 30550
+      },
+      "normalized": 6.6466
+    },
+    "filmweb": {
+      "rating": 7.57,
+      "votes": 133117,
+      "distribution": {
+        "1": 409,
+        "2": 296,
+        "3": 705,
+        "4": 1586,
+        "5": 4105,
+        "6": 13613,
+        "7": 38311,
+        "8": 48472,
+        "9": 16673,
+        "10": 8947
+      },
+      "normalized": 6.9426
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "11.08.2010",
+      "normalized": 5.6855
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "22.03.2006",
+      "normalized": 4.5781
+    },
+    "score": 5.9632
+  },
+  "polish_title": "Zabójcza broń",
+  "silent": false,
+  "description_pl": "Po śmierci żony policjant Martin Riggs (<a href=\"/osoba/?id=nm0000154\">Mel Gibson</a>) myśli o samobójstwie. Przełożeni przenoszą go na posterunek, gdzie jego partnerem zostaje Roger Murtaugh (<a href=\"/osoba/?id=nm0000418\">Danny Glover</a>), przykładny ojciec, człowiek o nienagannej opinii. Ich pierwszym zadaniem jest zbadanie okoliczności podejrzanego samobójstwa. Podczas śledztwa zostają wplątani w porachunki mafijne. Pomimo niechęci do pracy z partnerem będą musieli sobie zaufać.",
+  "producers": [
+    {
+      "id": "nm0001149",
+      "name": "Richard Donner"
+    },
+    {
+      "id": "nm0506681",
+      "name": "Jennie Lew Tugend"
+    },
+    {
+      "id": "nm0005428",
+      "name": "Joel Silver"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0003552",
+      "name": "Stephen Goldblatt"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

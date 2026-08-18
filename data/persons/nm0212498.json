@@ -1,0 +1,45 @@
+{
+  "id": "nm0212498",
+  "name": "Tim DeZarn",
+  "filmography": [
+    {
+      "imdb_id": "tt0137523",
+      "title": "Fight Club",
+      "year": 1999,
+      "roles": [
+        "cast"
+      ],
+      "character": "Federated Motor Co. Inspector Bird"
+    },
+    {
+      "imdb_id": "tt0880578",
+      "title": "Untraceable",
+      "year": 2008,
+      "roles": [
+        "cast"
+      ],
+      "character": "Herbert Miller"
+    },
+    {
+      "imdb_id": "tt6412452",
+      "title": "The Ballad of Buster Scruggs",
+      "year": 2018,
+      "roles": [
+        "cast"
+      ],
+      "character": "Mean-Eyed Card Player"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzBlZWZmMzctZjA0ZC00ZjczLTg2MTAtZGUyZWRkMGIzOTJlXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "11.07.1952",
+  "birth_location": "Cincinnati, Ohio, USA",
+  "filmweb_id": 7560,
+  "name_pl": "Tim DeZarn",
+  "birth_location_pl": "Cincinnati, Ohio",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

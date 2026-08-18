@@ -1,0 +1,41 @@
+{
+  "id": "nm1041597",
+  "name": "Morgan Spurlock",
+  "filmography": [
+    {
+      "imdb_id": "tt0402906",
+      "title": "Ceský sen",
+      "year": 2004,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0390521",
+      "title": "Super Size Me",
+      "year": 2004,
+      "roles": [
+        "director",
+        "writer",
+        "star",
+        "cast",
+        "producer"
+      ],
+      "character": "Self"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOTIyNTU1ODQwOF5BMl5BanBnXkFtZTcwODk5MDU2Ng@@._V1_.jpg",
+  "birth_date": "07.11.1970",
+  "death_date": "23.05.2024",
+  "birth_location": "Parkersburg, West Virginia, USA",
+  "height": "1.88 m",
+  "imdb_scraped": true,
+  "filmweb_id": 154043,
+  "name_pl": "Morgan Spurlock",
+  "birth_location_pl": "Parkersburg, Wirginia Zachodnia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

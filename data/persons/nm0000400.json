@@ -1,0 +1,40 @@
+{
+  "id": "nm0000400",
+  "name": "Linda Fiorentino",
+  "filmography": [
+    {
+      "imdb_id": "tt0119654",
+      "title": "Men in Black",
+      "year": 1997,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Laurel"
+    },
+    {
+      "imdb_id": "tt0120655",
+      "title": "Dogma",
+      "year": 1999,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Bethany"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTMwODkxOTUxNV5BMl5BanBnXkFtZTYwODQ5OTQ0._V1_.jpg",
+  "birth_date": "09.03.1958",
+  "birth_location": "Philadelphia, Pennsylvania, USA",
+  "height": "1.73 m",
+  "imdb_scraped": true,
+  "filmweb_id": 239,
+  "name_pl": "Linda Fiorentino",
+  "birth_location_pl": "Filadelfia, Pensylwania",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 239
+}

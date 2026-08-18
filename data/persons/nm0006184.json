@@ -1,0 +1,35 @@
+{
+  "id": "nm0006184",
+  "name": "Johnny Mandel",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNWRjNjQ3MzctZDVkNy00MzQyLTg3NDItYWY5YzU0NDRiYTg4XkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0066026",
+      "title": "M*A*S*H",
+      "year": 1970,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt0078841",
+      "title": "Being There",
+      "year": 1979,
+      "roles": [
+        "composer"
+      ]
+    }
+  ],
+  "birth_date": "23.11.1925",
+  "death_date": "29.06.2020",
+  "birth_location": "New York City, New York, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 13014,
+  "name_pl": "Johnny Mandel",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

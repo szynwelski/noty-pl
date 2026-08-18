@@ -1,0 +1,39 @@
+{
+  "id": "nm0715346",
+  "name": "Carol Reed",
+  "filmography": [
+    {
+      "imdb_id": "tt0041959",
+      "title": "The Third Man",
+      "year": 1949,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0056264",
+      "title": "Mutiny on the Bounty",
+      "year": 1962,
+      "roles": [
+        "director"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYzNlZWI4YzItZGJmYy00NmIzLTljYmYtMzVhYWI4YzM2MTZiXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "30.12.1906",
+  "death_date": "25.04.1976",
+  "birth_location": "Putney, London, England, UK",
+  "height": "1.88 m",
+  "imdb_scraped": true,
+  "filmweb_id": 45451,
+  "name_pl": "Carol Reed",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 45451
+}

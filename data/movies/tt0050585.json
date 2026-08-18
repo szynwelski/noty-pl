@@ -1,0 +1,208 @@
+{
+  "imdb_id": "tt0050585",
+  "title": "Kanal",
+  "description": "In 1944, during the Warsaw uprising against the Nazis, Polish Lieutenant Zadra and his resistance fighters use Warsaw's sewer system to escape the German encirclement.",
+  "runtime_minutes": 91,
+  "release_date": "20.04.1957",
+  "genres": [
+    "Drama",
+    "War"
+  ],
+  "stars": [
+    {
+      "id": "nm0412748",
+      "name": "Teresa Izewska"
+    },
+    {
+      "id": "nm0417361",
+      "name": "Tadeusz Janczar"
+    },
+    {
+      "id": "nm0322895",
+      "name": "Wienczyslaw Glinski"
+    },
+    {
+      "id": "nm0350328",
+      "name": "Tadeusz Gwiazdowski"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0906667",
+      "name": "Andrzej Wajda"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0824046",
+      "name": "Jerzy Stefan Stawinski"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0412748",
+      "name": "Teresa Izewska",
+      "character": "'Stokrotka'"
+    },
+    {
+      "id": "nm0417361",
+      "name": "Tadeusz Janczar",
+      "character": "Ens. Jacek 'Korab'"
+    },
+    {
+      "id": "nm0322895",
+      "name": "Wienczyslaw Glinski",
+      "character": "Lt. 'Zadra'"
+    },
+    {
+      "id": "nm0350328",
+      "name": "Tadeusz Gwiazdowski",
+      "character": "Sgt. 'Kula'"
+    },
+    {
+      "id": "nm0586725",
+      "name": "Stanislaw Mikulski",
+      "character": "'Smukly'"
+    },
+    {
+      "id": "nm0439202",
+      "name": "Emil Karewicz",
+      "character": "Lt. 'Madry'"
+    },
+    {
+      "id": "nm0792996",
+      "name": "Vladek Sheybal",
+      "character": "Composer Michal"
+    },
+    {
+      "id": "nm0073672",
+      "name": "Teresa Berezowska",
+      "character": "Halinka"
+    },
+    {
+      "id": "nm0512081",
+      "name": "Zofia Lindorf",
+      "character": "Old woman looking for her daughter"
+    },
+    {
+      "id": "nm0412992",
+      "name": "Janina Jablonowska",
+      "character": "Screaming Woman in the Sewer"
+    },
+    {
+      "id": "nm0471008",
+      "name": "Maria Kretz",
+      "character": "Wounded Woman"
+    },
+    {
+      "id": "nm0257563",
+      "name": "Jan Englert",
+      "character": "Zefir"
+    },
+    {
+      "id": "nm0215214",
+      "name": "Kazimierz Dejunowicz",
+      "character": "Capt. 'Zabawa'"
+    },
+    {
+      "id": "nm0504224",
+      "name": "Zdzislaw Lesniak",
+      "character": "'Maly'"
+    },
+    {
+      "id": "nm0532763",
+      "name": "Maciej Maciejewski",
+      "character": "Lt. 'Gustaw'"
+    },
+    {
+      "id": "nm0668044",
+      "name": "Adam Pawlikowski",
+      "character": "SS Man"
+    },
+    {
+      "id": "nm0066132",
+      "name": "Wlodzimierz Bednarski",
+      "character": "Insurgent"
+    },
+    {
+      "id": "nm0196565",
+      "name": "Zenon Dadajewski",
+      "character": "Insurgent"
+    }
+  ],
+  "countries": [
+    "Poland"
+  ],
+  "languages": [
+    "Polish",
+    "German"
+  ],
+  "color": "Black and White",
+  "year": 1957,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTYxYmVhMzktODIxZS00YjQwLWE2MGMtZTJkZjUwMGJhN2MzXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 1117,
+  "ratings": {
+    "imdb": {
+      "rating": 7.9,
+      "votes": 8923,
+      "distribution": {
+        "1": 377,
+        "2": 51,
+        "3": 50,
+        "4": 89,
+        "5": 230,
+        "6": 646,
+        "7": 1670,
+        "8": 2926,
+        "9": 1614,
+        "10": 1270
+      },
+      "normalized": 7.0098
+    },
+    "filmweb": {
+      "rating": 7.81,
+      "votes": 41004,
+      "distribution": {
+        "1": 277,
+        "2": 157,
+        "3": 353,
+        "4": 543,
+        "5": 1268,
+        "6": 2961,
+        "7": 8554,
+        "8": 14386,
+        "9": 7739,
+        "10": 4766
+      },
+      "normalized": 7.7312
+    },
+    "jarek": {
+      "rating": 9,
+      "date_rated": "02.01.2011",
+      "normalized": 8.8973
+    },
+    "michal": {
+      "rating": 8,
+      "date_rated": "19.10.2005",
+      "normalized": 8.1116
+    },
+    "score": 7.9375
+  },
+  "polish_title": "Kanał",
+  "silent": false,
+  "description_pl": "Historia ostatnich godzin życia żołnierzy Armii Krajowej, walczących w Powstaniu Warszawskim. Po nieudanej próbie przebicia się przez stanowiska oddziałów niemieckich, kompania porucznika Zadry otrzymuje polecenie przedostania się z Mokotowa do wciąż walczącego Śródmieścia. Jedyna droga dotarcia do tego miejsca prowadzi przez kanały.",
+  "composers": [
+    {
+      "id": "nm0470869",
+      "name": "Jan Krenz"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0513512",
+      "name": "Jerzy Lipman"
+    }
+  ],
+  "fetched_at": "2026-08-15"
+}

@@ -1,0 +1,93 @@
+{
+  "id": "nm0000480",
+  "name": "Elias Koteas",
+  "filmography": [
+    {
+      "imdb_id": "tt0100050",
+      "title": "Look Who's Talking Too",
+      "year": 1990,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Stuart"
+    },
+    {
+      "imdb_id": "tt0119177",
+      "title": "Gattaca",
+      "year": 1997,
+      "roles": [
+        "cast"
+      ],
+      "character": "Antonio"
+    },
+    {
+      "imdb_id": "tt0119099",
+      "title": "Fallen",
+      "year": 1998,
+      "roles": [
+        "cast"
+      ],
+      "character": "Edgar Reese"
+    },
+    {
+      "imdb_id": "tt0822854",
+      "title": "Shooter",
+      "year": 2007,
+      "roles": [
+        "cast"
+      ],
+      "character": "Jack Payne"
+    },
+    {
+      "imdb_id": "tt0443706",
+      "title": "Zodiac",
+      "year": 2007,
+      "roles": [
+        "cast"
+      ],
+      "character": "Sgt. Jack Mulanax"
+    },
+    {
+      "imdb_id": "tt0421715",
+      "title": "The Curious Case of Benjamin Button",
+      "year": 2008,
+      "roles": [
+        "cast"
+      ],
+      "character": "Monsieur Gateau"
+    },
+    {
+      "imdb_id": "tt1228987",
+      "title": "Let Me In",
+      "year": 2010,
+      "roles": [
+        "cast"
+      ],
+      "character": "The Policeman"
+    },
+    {
+      "imdb_id": "tt1130884",
+      "title": "Shutter Island",
+      "year": 2010,
+      "roles": [
+        "cast"
+      ],
+      "character": "Laeddis"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTEwMTEzODkzNF5BMl5BanBnXkFtZTcwMjI1NDAyMw@@._V1_.jpg",
+  "birth_date": "11.03.1961",
+  "birth_location": "Montréal, Québec, Canada",
+  "height": "1.80 m",
+  "filmweb_id": 2802,
+  "name_pl": "Elias Koteas",
+  "birth_location_pl": "Montreal",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Kanada"
+  ],
+  "wikidata_fw_id": 2802
+}

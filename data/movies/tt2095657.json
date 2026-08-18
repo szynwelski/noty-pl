@@ -1,0 +1,147 @@
+{
+  "imdb_id": "tt2095657",
+  "title": "Blowfish",
+  "description": "A young woman, an elevator operator, changes her life thanks to her blowfish.",
+  "runtime_minutes": 88,
+  "release_date": "05.08.2011",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0523717",
+      "name": "Yi-ching Lu"
+    },
+    {
+      "id": "nm4744613",
+      "name": "Vicci Pan"
+    },
+    {
+      "id": "nm4308851",
+      "name": "Kangren Wu"
+    },
+    {
+      "id": "nm3311713",
+      "name": "Angel Yao"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0496995",
+      "name": "Chi-Yuarn Lee"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0496995",
+      "name": "Chi-Yuarn Lee"
+    },
+    {
+      "id": "nm4744613",
+      "name": "Vicci Pan"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0523717",
+      "name": "Yi-ching Lu",
+      "character": "Goldy"
+    },
+    {
+      "id": "nm4744613",
+      "name": "Vicci Pan",
+      "character": "Xiao Zhun"
+    },
+    {
+      "id": "nm4308851",
+      "name": "Kangren Wu",
+      "character": "Coach"
+    },
+    {
+      "id": "nm3311713",
+      "name": "Angel Yao",
+      "character": "Flora"
+    }
+  ],
+  "countries": [
+    "Taiwan"
+  ],
+  "languages": [
+    "Mandarin"
+  ],
+  "color": "Color",
+  "filmweb_id": 633992,
+  "year": 2011,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDlhMDMxMGItMGM0NS00NDdiLTlhZjQtZGM4NzljYzVjNTYyXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Hetun",
+  "ratings": {
+    "imdb": {
+      "rating": 6.4,
+      "votes": 152,
+      "distribution": {
+        "1": 6,
+        "2": 3,
+        "3": 6,
+        "4": 9,
+        "5": 14,
+        "6": 33,
+        "7": 31,
+        "8": 27,
+        "9": 13,
+        "10": 10
+      },
+      "normalized": 5.1488
+    },
+    "filmweb": {
+      "rating": 6.38,
+      "votes": 194,
+      "distribution": {
+        "1": 4,
+        "2": 2,
+        "3": 3,
+        "4": 16,
+        "5": 29,
+        "6": 41,
+        "7": 45,
+        "8": 39,
+        "9": 12,
+        "10": 3
+      },
+      "normalized": 4.7544
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "18.02.2013",
+      "normalized": 6.4102
+    },
+    "score": 5.4378
+  },
+  "polish_title": "Rybka",
+  "silent": false,
+  "description_pl": "Xiao-Zhun jest nieśmiałą windziarką w domu towarowym. Nie wyraża emocji, nawet gdy przyłapuje na zdradzie swojego chłopaka. Ale tego właśnie wieczoru podejmuje decyzję, że musi znaleźć lepszy dom dla swojej akwariowej ryby rozdymki. Sprzedaje ją przez internet i odwozi do nowego właściciela. Nieznajomy jest trenerem bejsbolu i oczekuje na powrót żony, która uciekła z innym facetem. Xiao-Zhun decyduje, że chce rozpocząć nowe życie i jest gotowa udawać jego żonę. Żyją jak mąż i żona, ale im bardziej ich życie staje się normalne, tym oni - tak naprawdę - stają się dziwni. W końcu, pewnego dnia, trener pragnie poznać prawdziwe imię dziewczyny.",
+  "producers": [
+    {
+      "id": "nm0994832",
+      "name": "Li-Fen Chien"
+    },
+    {
+      "id": "nm0128756",
+      "name": "Hsin-Hung Tsai"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0360463",
+      "name": "Yoshihiro Hanno"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0359215",
+      "name": "Yun-chung Han"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

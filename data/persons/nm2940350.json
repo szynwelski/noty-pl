@@ -1,0 +1,34 @@
+{
+  "id": "nm2940350",
+  "name": "Dorothy Smith",
+  "filmography": [
+    {
+      "imdb_id": "tt0242849",
+      "title": "Santa Claus",
+      "year": 1898,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Girl"
+    },
+    {
+      "imdb_id": "tt0000308",
+      "title": "The House That Jack Built",
+      "year": 1900,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Little girl"
+    }
+  ],
+  "birth_date": "12.07.1891",
+  "death_date": "23.10.1964",
+  "birth_location": "Ramsgate, Kent, England, UK",
+  "imdb_scraped": true,
+  "filmweb_id": 974955,
+  "name_pl": "Dorothy Smith",
+  "gender": "F",
+  "wikidata_processed": true
+}

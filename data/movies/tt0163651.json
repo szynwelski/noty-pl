@@ -1,0 +1,240 @@
+{
+  "imdb_id": "tt0163651",
+  "title": "American Pie",
+  "description": "Four teenage boys enter a pact to lose their virginity by prom night.",
+  "runtime_minutes": 95,
+  "release_date": "09.07.1999",
+  "genres": [
+    "Comedy"
+  ],
+  "stars": [
+    {
+      "id": "nm0004755",
+      "name": "Jason Biggs"
+    },
+    {
+      "id": "nm0005098",
+      "name": "Chris Klein"
+    },
+    {
+      "id": "nm0005272",
+      "name": "Thomas Ian Nicholas"
+    },
+    {
+      "id": "nm0177639",
+      "name": "Jennifer Coolidge"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0919369",
+      "name": "Paul Weitz"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0381221",
+      "name": "Adam Herz"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0004755",
+      "name": "Jason Biggs",
+      "character": "Jim"
+    },
+    {
+      "id": "nm0005098",
+      "name": "Chris Klein",
+      "character": "Oz"
+    },
+    {
+      "id": "nm0005272",
+      "name": "Thomas Ian Nicholas",
+      "character": "Kevin"
+    },
+    {
+      "id": "nm0177639",
+      "name": "Jennifer Coolidge",
+      "character": "Stifler's Mom"
+    },
+    {
+      "id": "nm0002436",
+      "name": "Shannon Elizabeth",
+      "character": "Nadia"
+    },
+    {
+      "id": "nm0004989",
+      "name": "Alyson Hannigan",
+      "character": "Michelle"
+    },
+    {
+      "id": "nm0476226",
+      "name": "Clyde Kusatsu",
+      "character": "English Teacher"
+    },
+    {
+      "id": "nm0506405",
+      "name": "Eugene Levy",
+      "character": "Jim's Dad"
+    },
+    {
+      "id": "nm0005169",
+      "name": "Natasha Lyonne",
+      "character": "Jessica"
+    },
+    {
+      "id": "nm0654104",
+      "name": "Chris Owen",
+      "character": "Sherman"
+    },
+    {
+      "id": "nm0696303",
+      "name": "Lawrence Pressman",
+      "character": "Coach Marshall"
+    },
+    {
+      "id": "nm0005346",
+      "name": "Tara Reid",
+      "character": "Vicky"
+    },
+    {
+      "id": "nm0005405",
+      "name": "Seann William Scott",
+      "character": "Stifler"
+    },
+    {
+      "id": "nm0002546",
+      "name": "Mena Suvari",
+      "character": "Heather"
+    },
+    {
+      "id": "nm0858776",
+      "name": "Eddie Kaye Thomas",
+      "character": "Finch"
+    },
+    {
+      "id": "nm0154882",
+      "name": "Molly Cheek",
+      "character": "Jim's Mom"
+    },
+    {
+      "id": "nm0587396",
+      "name": "Christina Milian",
+      "character": "Band Member"
+    },
+    {
+      "id": "nm0776376",
+      "name": "Woody Schultz",
+      "character": "Party Guy"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 876,
+  "year": 1999,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTg3ODY5ODI1NF5BMl5BanBnXkFtZTgwMTkxNTYxMTE@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7,
+      "votes": 471802,
+      "distribution": {
+        "1": 8126,
+        "2": 4999,
+        "3": 7464,
+        "4": 13086,
+        "5": 29606,
+        "6": 71076,
+        "7": 148157,
+        "8": 104140,
+        "9": 41780,
+        "10": 43368
+      },
+      "normalized": 5.6136
+    },
+    "filmweb": {
+      "rating": 6.49,
+      "votes": 371160,
+      "distribution": {
+        "1": 14573,
+        "2": 9406,
+        "3": 17620,
+        "4": 22172,
+        "5": 35431,
+        "6": 61217,
+        "7": 85247,
+        "8": 65994,
+        "9": 29012,
+        "10": 30488
+      },
+      "normalized": 4.2944
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "02.12.2005",
+      "normalized": 5.6855
+    },
+    "michal": {
+      "rating": 2,
+      "date_rated": "19.10.2005",
+      "normalized": 3.1556
+    },
+    "score": 4.6873
+  },
+  "polish_title": "American Pie",
+  "silent": false,
+  "description_pl": "Perypetie licealistów, którzy mają poważny, fundamentalny problem. Są bardzo młodzi, chcą zdobywać świat, lecz najpierw muszą pokonać barierę... dziewictwa. Zniecierpliwieni młodzi chłopcy przekonują się, że droga do świata seksu jest pełna komplikacji, pułapek a także upokorzeń. Czasem, niestety, kończy się ona nieodwzajemnioną miłością.",
+  "producers": [
+    {
+      "id": "nm0070454",
+      "name": "Chris Bender"
+    },
+    {
+      "id": "nm0007067",
+      "name": "Louis G. Friedman"
+    },
+    {
+      "id": "nm0601031",
+      "name": "Chris Moore"
+    },
+    {
+      "id": "nm0675013",
+      "name": "Craig Perry"
+    },
+    {
+      "id": "nm0736930",
+      "name": "J.B. Rogers"
+    },
+    {
+      "id": "nm0919363",
+      "name": "Chris Weitz"
+    },
+    {
+      "id": "nm0956015",
+      "name": "Warren Zide"
+    },
+    {
+      "id": "nm0381221",
+      "name": "Adam Herz"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0492714",
+      "name": "David Lawrence"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0003452",
+      "name": "Richard Crudo"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

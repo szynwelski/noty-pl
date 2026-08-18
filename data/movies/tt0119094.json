@@ -1,0 +1,256 @@
+{
+  "imdb_id": "tt0119094",
+  "title": "Face/Off",
+  "description": "To foil a terrorist plot, an FBI agent assumes the identity of the criminal who murdered his son via facial transplant surgery, but the crook wakes up prematurely and vows revenge.",
+  "runtime_minutes": 138,
+  "release_date": "27.06.1997",
+  "genres": [
+    "Action",
+    "Crime",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000237",
+      "name": "John Travolta"
+    },
+    {
+      "id": "nm0000115",
+      "name": "Nicolas Cage"
+    },
+    {
+      "id": "nm0000260",
+      "name": "Joan Allen"
+    },
+    {
+      "id": "nm0005273",
+      "name": "Alessandro Nivola"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000247",
+      "name": "John Woo"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0108273",
+      "name": "Mike Werb"
+    },
+    {
+      "id": "nm0171718",
+      "name": "Michael Colleary"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000237",
+      "name": "John Travolta",
+      "character": "Sean Archer"
+    },
+    {
+      "id": "nm0000115",
+      "name": "Nicolas Cage",
+      "character": "Castor Troy"
+    },
+    {
+      "id": "nm0000260",
+      "name": "Joan Allen",
+      "character": "Eve Archer"
+    },
+    {
+      "id": "nm0005273",
+      "name": "Alessandro Nivola",
+      "character": "Pollux Troy"
+    },
+    {
+      "id": "nm0000153",
+      "name": "Gina Gershon",
+      "character": "Sasha Hassler"
+    },
+    {
+      "id": "nm0000663",
+      "name": "Dominique Swain",
+      "character": "Jamie Archer"
+    },
+    {
+      "id": "nm0001024",
+      "name": "Nick Cassavetes",
+      "character": "Dietrich Hassler"
+    },
+    {
+      "id": "nm0696193",
+      "name": "Harve Presnell",
+      "character": "Victor Lazarro"
+    },
+    {
+      "id": "nm0272173",
+      "name": "Colm Feore",
+      "character": "Dr. Malcolm Walsh"
+    },
+    {
+      "id": "nm0002253",
+      "name": "John Carroll Lynch",
+      "character": "Prison Guard Walton"
+    },
+    {
+      "id": "nm0001634",
+      "name": "CCH Pounder",
+      "character": "Hollis Miller"
+    },
+    {
+      "id": "nm0936298",
+      "name": "Robert Wisdom",
+      "character": "Tito Biondi"
+    },
+    {
+      "id": "nm0158632",
+      "name": "Margaret Cho",
+      "character": "Wanda"
+    },
+    {
+      "id": "nm0219835",
+      "name": "James Denton",
+      "character": "Buzz"
+    },
+    {
+      "id": "nm0743671",
+      "name": "Matt Ross",
+      "character": "Loomis"
+    },
+    {
+      "id": "nm0061777",
+      "name": "Chris Bauer",
+      "character": "Dubov"
+    },
+    {
+      "id": "nm0420308",
+      "name": "Myles Jeffrey",
+      "character": "Michael Archer"
+    },
+    {
+      "id": "nm0567306",
+      "name": "David McCurley",
+      "character": "Adam Hassler"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Latin"
+  ],
+  "color": "Color",
+  "filmweb_id": 1028,
+  "year": 1997,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOGQyOWNmYTgtZWY0NS00NzhjLTg3NmMtMzcwYzQ2OTA2OTJkXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.3,
+      "votes": 430131,
+      "distribution": {
+        "1": 4107,
+        "2": 3330,
+        "3": 5002,
+        "4": 9355,
+        "5": 22230,
+        "6": 56886,
+        "7": 127822,
+        "8": 117381,
+        "9": 46185,
+        "10": 37833
+      },
+      "normalized": 6.1473
+    },
+    "filmweb": {
+      "rating": 7.08,
+      "votes": 79542,
+      "distribution": {
+        "1": 331,
+        "2": 417,
+        "3": 1281,
+        "4": 2154,
+        "5": 5281,
+        "6": 12979,
+        "7": 25296,
+        "8": 21586,
+        "9": 6872,
+        "10": 3345
+      },
+      "normalized": 5.7794
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "02.12.2005",
+      "normalized": 4.9718
+    },
+    "michal": {
+      "rating": 1,
+      "date_rated": "19.10.2005",
+      "normalized": 2.2657
+    },
+    "score": 4.7911
+  },
+  "polish_title": "Bez twarzy",
+  "silent": false,
+  "description_pl": "Castor Troy jest terrorystą, który organizuje zamach na wrogiego sobie agenta Seana Archera. Niestety ofiarą zamachu jest kilkuletni synek agenta. Sean bardzo przeżywa jego śmierć. Przestaje interesować się domem, żoną i dorastającą córką. Tymczasem nieuchwytny terrorysta podkłada w centrum Los Angeles bombę. Udaje się go złapać, ale trzeba zlokalizować ładunek. Aby go odnaleźć Sean musi przejąć twarz i osobowość bandyty. Czasu jest mało...",
+  "producers": [
+    {
+      "id": "nm0151835",
+      "name": "Terence Chang"
+    },
+    {
+      "id": "nm0171718",
+      "name": "Michael Colleary"
+    },
+    {
+      "id": "nm0000140",
+      "name": "Michael Douglas"
+    },
+    {
+      "id": "nm0324216",
+      "name": "Christopher Godsick"
+    },
+    {
+      "id": "nm0006790",
+      "name": "Jonathan D. Krane"
+    },
+    {
+      "id": "nm0505835",
+      "name": "Jeff Levine"
+    },
+    {
+      "id": "nm0651614",
+      "name": "Barrie M. Osborne"
+    },
+    {
+      "id": "nm0674303",
+      "name": "David Permut"
+    },
+    {
+      "id": "nm0720715",
+      "name": "Steven Reuther"
+    },
+    {
+      "id": "nm0108273",
+      "name": "Mike Werb"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0694173",
+      "name": "John Powell"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005929",
+      "name": "Oliver Wood"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "nm0313308",
+  "name": "Georg John",
+  "filmography": [
+    {
+      "imdb_id": "tt0012494",
+      "title": "Destiny",
+      "year": 1921,
+      "roles": [
+        "cast"
+      ],
+      "character": "Beggar"
+    },
+    {
+      "imdb_id": "tt0022100",
+      "title": "M",
+      "year": 1931,
+      "roles": [
+        "cast"
+      ],
+      "character": "Blind Panhandler"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZDZjNzZlYTQtMTk5Mi00NWJmLTgyMGUtNjFjN2FjMTQ2YzRmXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "23.07.1879",
+  "death_date": "18.11.1941",
+  "birth_location": "Schmiegel, Poland",
+  "imdb_scraped": true,
+  "filmweb_id": 50010,
+  "name_pl": "Georg John",
+  "birth_location_pl": "Śmigiel",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Rzesza Niemiecka"
+  ]
+}

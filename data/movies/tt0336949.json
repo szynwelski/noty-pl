@@ -1,0 +1,98 @@
+{
+  "imdb_id": "tt0336949",
+  "title": "The Old Maid's Valentine",
+  "description": "An old maid gets what she thinks is a valentine.",
+  "runtime_minutes": 1,
+  "release_date": "1900",
+  "genres": [
+    "Comedy",
+    "Short"
+  ],
+  "stars": [
+    {
+      "id": "nm0063051",
+      "name": "Eva Bayley"
+    },
+    {
+      "id": "nm0809419",
+      "name": "Laura Bayley"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0808310",
+      "name": "George Albert Smith"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0063051",
+      "name": "Eva Bayley",
+      "character": ""
+    },
+    {
+      "id": "nm0809419",
+      "name": "Laura Bayley",
+      "character": "Miss Pimple"
+    }
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 419726,
+  "year": 1900,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYTI1YTdlMDEtMDE5NS00MDI4LWE1ZjgtNzI0MmU1Yzg2YzI2XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 4.3,
+      "votes": 234,
+      "distribution": {
+        "1": 19,
+        "2": 21,
+        "3": 38,
+        "4": 51,
+        "5": 62,
+        "6": 23,
+        "7": 11,
+        "8": 1,
+        "9": 2,
+        "10": 6
+      },
+      "normalized": 4.2376
+    },
+    "filmweb": {
+      "rating": 4.25,
+      "votes": 20,
+      "distribution": {
+        "1": 1,
+        "2": 4,
+        "3": 3,
+        "4": 1,
+        "5": 5,
+        "6": 4,
+        "7": 2,
+        "8": 0,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 4.8147
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "13.12.2016",
+      "normalized": 6.4102
+    },
+    "score": 5.1542
+  },
+  "polish_title": "The Old Maid's Valentine",
+  "silent": true,
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-16"
+}

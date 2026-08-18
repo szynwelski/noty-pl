@@ -1,0 +1,85 @@
+{
+  "id": "nm0000076",
+  "name": "François Truffaut",
+  "filmography": [
+    {
+      "imdb_id": "tt0053198",
+      "title": "The 400 Blows",
+      "year": 1959,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0053472",
+      "title": "Breathless",
+      "year": 1960,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0055032",
+      "title": "Jules and Jim",
+      "year": 1962,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0060390",
+      "title": "Fahrenheit 451",
+      "year": 1966,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0075860",
+      "title": "Close Encounters of the Third Kind",
+      "year": 1977,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Claude Lacombe"
+    },
+    {
+      "imdb_id": "tt0080610",
+      "title": "The Last Metro",
+      "year": 1980,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0082370",
+      "title": "The Woman Next Door",
+      "year": 1981,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZDQ2OGVkOTItMDBkYy00N2FmLWI1ZmEtY2YzYzQ0OGFjZGM3XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "06.02.1932",
+  "death_date": "21.10.1984",
+  "birth_location": "Paris, France",
+  "height": "1.67 m",
+  "filmweb_id": 9019,
+  "name_pl": "François Truffaut",
+  "birth_location_pl": "Paryż",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja"
+  ],
+  "wikidata_fw_id": 9019
+}

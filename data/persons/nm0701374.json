@@ -1,0 +1,52 @@
+{
+  "id": "nm0701374",
+  "name": "Mario Puzo",
+  "filmography": [
+    {
+      "imdb_id": "tt0068646",
+      "title": "The Godfather",
+      "year": 1972,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0071562",
+      "title": "The Godfather Part II",
+      "year": 1974,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0078346",
+      "title": "Superman",
+      "year": 1978,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0099674",
+      "title": "The Godfather Part III",
+      "year": 1990,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjE1NjkxMDE3NV5BMl5BanBnXkFtZTcwNjI0MDMyOA@@._V1_.jpg",
+  "birth_date": "15.10.1920",
+  "death_date": "02.07.1999",
+  "birth_location": "Manhattan, New York City, New York, USA",
+  "height": "1.66 m",
+  "filmweb_id": 12632,
+  "name_pl": "Mario Puzo",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

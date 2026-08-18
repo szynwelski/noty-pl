@@ -1,0 +1,37 @@
+{
+  "id": "nm0808559",
+  "name": "Jacob Smith",
+  "filmography": [
+    {
+      "imdb_id": "tt0259288",
+      "title": "Dragonfly",
+      "year": 2002,
+      "roles": [
+        "cast"
+      ],
+      "character": "Ben"
+    },
+    {
+      "imdb_id": "tt0332452",
+      "title": "Troy",
+      "year": 2004,
+      "roles": [
+        "cast"
+      ],
+      "character": "Messenger Boy"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTI4NDQ0MTQwMF5BMl5BanBnXkFtZTYwMDg5NzQ0._V1_.jpg",
+  "birth_date": "21.01.1990",
+  "birth_location": "Monrovia, California, USA",
+  "height": "1.74 m",
+  "imdb_scraped": true,
+  "filmweb_id": 3604,
+  "name_pl": "Jacob Smith",
+  "birth_location_pl": "Monrovia, Kalifornia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

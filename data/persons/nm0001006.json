@@ -1,0 +1,57 @@
+{
+  "id": "nm0001006",
+  "name": "John Candy",
+  "filmography": [
+    {
+      "imdb_id": "tt0080455",
+      "title": "The Blues Brothers",
+      "year": 1980,
+      "roles": [
+        "star"
+      ]
+    },
+    {
+      "imdb_id": "tt0085995",
+      "title": "National Lampoon's Vacation",
+      "year": 1983,
+      "roles": [
+        "cast"
+      ],
+      "character": "Lasky - Guard at Walleyworld"
+    },
+    {
+      "imdb_id": "tt0094012",
+      "title": "Spaceballs",
+      "year": 1987,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Barf"
+    },
+    {
+      "imdb_id": "tt0099785",
+      "title": "Home Alone",
+      "year": 1990,
+      "roles": [
+        "cast"
+      ],
+      "character": "Gus Polinski"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzQ3MzQzODUxMF5BMl5BanBnXkFtZTcwMjY5MTkyOA@@._V1_.jpg",
+  "birth_date": "31.10.1950",
+  "death_date": "04.03.1994",
+  "birth_location": "Newmarket, Ontario, Canada",
+  "height": "1.88 m",
+  "filmweb_id": 41015,
+  "name_pl": "John Candy",
+  "birth_location_pl": "Toronto",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Kanada"
+  ],
+  "wikidata_fw_id": 41015
+}

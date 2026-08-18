@@ -1,0 +1,142 @@
+{
+  "imdb_id": "tt2406252",
+  "title": "Venus in Fur",
+  "description": "An actress attempts to convince a director how she's perfect for a role in his upcoming production.",
+  "runtime_minutes": 96,
+  "release_date": "08.11.2013",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0782561",
+      "name": "Emmanuelle Seigner"
+    },
+    {
+      "id": "nm0023832",
+      "name": "Mathieu Amalric"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000591",
+      "name": "Roman Polanski"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0412328",
+      "name": "David Ives"
+    },
+    {
+      "id": "nm0000591",
+      "name": "Roman Polanski"
+    },
+    {
+      "id": "nm0755106",
+      "name": "Leopold von Sacher-Masoch"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0782561",
+      "name": "Emmanuelle Seigner",
+      "character": "Vanda"
+    },
+    {
+      "id": "nm0023832",
+      "name": "Mathieu Amalric",
+      "character": "Thomas"
+    }
+  ],
+  "countries": [
+    "France",
+    "Poland"
+  ],
+  "languages": [
+    "French",
+    "German"
+  ],
+  "color": "Color",
+  "filmweb_id": 666828,
+  "year": 2013,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjM0ODgyOTM1Ml5BMl5BanBnXkFtZTgwMzI5ODM4MTE@._V1_.jpg",
+  "original_title": "La Vénus à la fourrure",
+  "ratings": {
+    "imdb": {
+      "rating": 7.1,
+      "votes": 22154,
+      "distribution": {
+        "1": 460,
+        "2": 219,
+        "3": 290,
+        "4": 617,
+        "5": 1250,
+        "6": 2988,
+        "7": 6457,
+        "8": 5894,
+        "9": 2485,
+        "10": 1494
+      },
+      "normalized": 5.7002
+    },
+    "filmweb": {
+      "rating": 7.3,
+      "votes": 34810,
+      "distribution": {
+        "1": 210,
+        "2": 195,
+        "3": 615,
+        "4": 766,
+        "5": 2032,
+        "6": 4011,
+        "7": 9277,
+        "8": 11270,
+        "9": 5115,
+        "10": 1319
+      },
+      "normalized": 6.2408
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "09.02.2015",
+      "normalized": 4.5781
+    },
+    "score": 5.5064
+  },
+  "polish_title": "Wenus w futrze",
+  "silent": false,
+  "description_pl": "Głównym bohaterem \"Wenus w futrze\" jest Thomas, reżyser poszukujący do swojej nowej sztuki odtwórczyni głównej roli. Wyczerpujący casting do nowego spektaklu nie przynosi rezultatu. Żadna z kandydatek nie nadaje się do roli kobiety, która zawiera umowę z mężczyzną, by uczynić z niego niewolnika. Zrezygnowany reżyser już zbiera się do wyjścia, gdy do teatru wpada Wanda. Wydaje się bezczelna, niewychowana, zdesperowana i nieprzygotowana. Gdy Thomas niechętnie zgadza się dać jej szansę, aktorka przechodzi oszałamiającą metamorfozę.",
+  "producers": [
+    {
+      "id": "nm0071452",
+      "name": "Robert Benmussa"
+    },
+    {
+      "id": "nm1159611",
+      "name": "Mariusz Lukomski"
+    },
+    {
+      "id": "nm2673504",
+      "name": "Wojciech Palys"
+    },
+    {
+      "id": "nm0764963",
+      "name": "Alain Sarde"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006035",
+      "name": "Alexandre Desplat"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0248997",
+      "name": "Pawel Edelman"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

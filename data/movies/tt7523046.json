@@ -1,0 +1,153 @@
+{
+  "imdb_id": "tt7523046",
+  "title": "Sella Turcica",
+  "description": "",
+  "runtime_minutes": 75,
+  "release_date": "17.10.2017",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm9396113",
+      "name": "Vitali Daushev"
+    },
+    {
+      "id": "nm4778253",
+      "name": "Sergey Genkin"
+    },
+    {
+      "id": "nm1767215",
+      "name": "Ilya Kovrizhnykh"
+    },
+    {
+      "id": "nm9396112",
+      "name": "Valeri Maslov"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0713689",
+      "name": "Yusup Razykov"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0713689",
+      "name": "Yusup Razykov"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm9396113",
+      "name": "Vitali Daushev",
+      "character": ""
+    },
+    {
+      "id": "nm4778253",
+      "name": "Sergey Genkin",
+      "character": ""
+    },
+    {
+      "id": "nm1767215",
+      "name": "Ilya Kovrizhnykh",
+      "character": ""
+    },
+    {
+      "id": "nm9396112",
+      "name": "Valeri Maslov",
+      "character": ""
+    },
+    {
+      "id": "nm8485294",
+      "name": "Veronika Safonova",
+      "character": ""
+    }
+  ],
+  "countries": [
+    "Russia"
+  ],
+  "languages": [
+    "Russian"
+  ],
+  "color": "Color",
+  "filmweb_id": 794145,
+  "year": 2017,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYzRiMzdiOTQtYTk3Ny00Y2E4LTgzYTktMTY1OTY0YTI2YjZhXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Turetskoe sedlo",
+  "ratings": {
+    "imdb": {
+      "rating": 5.7,
+      "votes": 74,
+      "distribution": {
+        "1": 9,
+        "2": 3,
+        "3": 4,
+        "4": 8,
+        "5": 15,
+        "6": 11,
+        "7": 14,
+        "8": 6,
+        "9": 1,
+        "10": 3
+      },
+      "normalized": 5.0529
+    },
+    "filmweb": {
+      "rating": 5.59,
+      "votes": 95,
+      "distribution": {
+        "1": 2,
+        "2": 1,
+        "3": 6,
+        "4": 12,
+        "5": 21,
+        "6": 25,
+        "7": 19,
+        "8": 8,
+        "9": 1,
+        "10": 0
+      },
+      "normalized": 4.5457
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "27.10.2017",
+      "normalized": 6.3474
+    },
+    "score": 5.3153
+  },
+  "polish_title": "Siodło tureckie",
+  "silent": false,
+  "description_pl": "„Zespół pustego siodła tureckiego” to zaburzenia pracy układów nerwowego i hormonalnego. Cierpi na nie główny bohater filmu – były pracownik organów bezpieczeństwa państwowego, który na emeryturze z nudów i samotności zaczyna śledzić tych, których zachowanie rozbudza jego ciekawość i podejrzliwość.",
+  "producers": [
+    {
+      "id": "nm5816564",
+      "name": "Filipp Brusnikin"
+    },
+    {
+      "id": "nm7721092",
+      "name": "Aleksandr Gadalov"
+    },
+    {
+      "id": "nm5710274",
+      "name": "Darya Lavrova"
+    },
+    {
+      "id": "nm5384501",
+      "name": "Denis Luzanov"
+    },
+    {
+      "id": "nm0713689",
+      "name": "Yusup Razykov"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm5626908",
+      "name": "Aleksey Artishevskiy"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

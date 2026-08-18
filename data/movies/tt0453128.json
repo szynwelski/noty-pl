@@ -1,0 +1,81 @@
+{
+  "imdb_id": "tt0453128",
+  "title": "Funny Horizontal Bar",
+  "description": "The second sequence of the \"Wintergartenprogramm (1895)\" by the Skladanowsky Brothers. In it, the Milton Brothers perform incredible features together on a horizontal bar.",
+  "runtime_minutes": 1,
+  "release_date": "01.11.1895",
+  "genres": [
+    "Short"
+  ],
+  "directors": [
+    {
+      "id": "nm0804434",
+      "name": "Max Skladanowsky"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "Germany"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 229901,
+  "year": 1895,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOTRhOWVmZjQtOGYzNy00NTUxLWE4MmItOTJmNjVhOGI3MGFlXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.4,
+      "votes": 350,
+      "distribution": {
+        "1": 18,
+        "2": 10,
+        "3": 25,
+        "4": 31,
+        "5": 96,
+        "6": 93,
+        "7": 44,
+        "8": 13,
+        "9": 3,
+        "10": 17
+      },
+      "normalized": 4.4172
+    },
+    "filmweb": {
+      "rating": 5.19,
+      "votes": 37,
+      "distribution": {
+        "1": 3,
+        "2": 1,
+        "3": 6,
+        "4": 2,
+        "5": 7,
+        "6": 8,
+        "7": 6,
+        "8": 2,
+        "9": 0,
+        "10": 2
+      },
+      "normalized": 4.7786
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "11.12.2016",
+      "normalized": 5.6855
+    },
+    "score": 4.9604
+  },
+  "polish_title": "Komisches Reck",
+  "silent": true,
+  "cinematographers": [
+    {
+      "id": "nm0804434",
+      "name": "Max Skladanowsky"
+    }
+  ],
+  "composers": [],
+  "original_title": "Komisches Reck",
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,234 @@
+{
+  "imdb_id": "tt0107290",
+  "title": "Jurassic Park",
+  "description": "An industrialist invites some experts to visit his theme park of cloned dinosaurs. After a power failure, the creatures run loose, putting everyone's lives, including his grandchildren's, in danger.",
+  "runtime_minutes": 127,
+  "release_date": "11.06.1993",
+  "genres": [
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm0000554",
+      "name": "Sam Neill"
+    },
+    {
+      "id": "nm0000368",
+      "name": "Laura Dern"
+    },
+    {
+      "id": "nm0000156",
+      "name": "Jeff Goldblum"
+    },
+    {
+      "id": "nm0000277",
+      "name": "Richard Attenborough"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000229",
+      "name": "Steven Spielberg"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000341",
+      "name": "Michael Crichton"
+    },
+    {
+      "id": "nm0462895",
+      "name": "David Koepp"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000554",
+      "name": "Sam Neill",
+      "character": "Grant"
+    },
+    {
+      "id": "nm0000368",
+      "name": "Laura Dern",
+      "character": "Ellie"
+    },
+    {
+      "id": "nm0000156",
+      "name": "Jeff Goldblum",
+      "character": "Malcolm"
+    },
+    {
+      "id": "nm0000277",
+      "name": "Richard Attenborough",
+      "character": "Hammond"
+    },
+    {
+      "id": "nm0669629",
+      "name": "Bob Peck",
+      "character": "Muldoon"
+    },
+    {
+      "id": "nm0274684",
+      "name": "Martin Ferrero",
+      "character": "Gennaro"
+    },
+    {
+      "id": "nm0000703",
+      "name": "BD Wong",
+      "character": "Wu"
+    },
+    {
+      "id": "nm0001515",
+      "name": "Joseph Mazzello",
+      "character": "Tim"
+    },
+    {
+      "id": "nm0000611",
+      "name": "Ariana Richards",
+      "character": "Lex"
+    },
+    {
+      "id": "nm0000168",
+      "name": "Samuel L. Jackson",
+      "character": "Arnold"
+    },
+    {
+      "id": "nm0001431",
+      "name": "Wayne Knight",
+      "character": "Nedry"
+    },
+    {
+      "id": "nm0596520",
+      "name": "Gerald R. Molen",
+      "character": "Harding"
+    },
+    {
+      "id": "nm0762153",
+      "name": "Miguel Sandoval",
+      "character": "Rostagno"
+    },
+    {
+      "id": "nm0861151",
+      "name": "Cameron Thor",
+      "character": "Dodgson"
+    },
+    {
+      "id": "nm0276211",
+      "name": "Christopher John Fields",
+      "character": "Volunteer #1"
+    },
+    {
+      "id": "nm0381035",
+      "name": "Whit Flint",
+      "character": "Volunteer Boy"
+    },
+    {
+      "id": "nm0005678",
+      "name": "Dean Cundey",
+      "character": "Mate"
+    },
+    {
+      "id": "nm0113909",
+      "name": "Jophery C. Brown",
+      "character": "Worker in Raptor Pen"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "color": "Color",
+  "filmweb_id": 1212,
+  "year": 1993,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8.2,
+      "votes": 1193651,
+      "distribution": {
+        "1": 5489,
+        "2": 3050,
+        "3": 5000,
+        "4": 9177,
+        "5": 22885,
+        "6": 65501,
+        "7": 206309,
+        "8": 389145,
+        "9": 257165,
+        "10": 229930
+      },
+      "normalized": 8.2031
+    },
+    "filmweb": {
+      "rating": 7.04,
+      "votes": 340864,
+      "distribution": {
+        "1": 2600,
+        "2": 2841,
+        "3": 7243,
+        "4": 13051,
+        "5": 26147,
+        "6": 54864,
+        "7": 97116,
+        "8": 79676,
+        "9": 31425,
+        "10": 25901
+      },
+      "normalized": 5.7139
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "11.08.2010",
+      "normalized": 7.1247
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "19.10.2005",
+      "normalized": 5.4199
+    },
+    "score": 6.6154
+  },
+  "polish_title": "Park Jurajski",
+  "silent": false,
+  "description_pl": "Naukowcy, posługując się najnowszą techniką i wykorzystując wiedzę na temat DNA, pozyskują autentyczną krew dinozaurów z insektów zatopionych przed milionami lat w bursztynie. Dzięki temu, odtwarzają wiele gatunków dinozaurów, które lokują w gigantycznym parku na wyspie. Kiedy do parku przyjeżdża grupa ludzi, aby zobaczyć prehistoryczne gady, zaczynają się poważne kłopoty.",
+  "producers": [
+    {
+      "id": "nm0005086",
+      "name": "Kathleen Kennedy"
+    },
+    {
+      "id": "nm0596520",
+      "name": "Gerald R. Molen"
+    },
+    {
+      "id": "nm0752671",
+      "name": "Lata Ryan"
+    },
+    {
+      "id": "nm0933213",
+      "name": "Colin Wilson"
+    },
+    {
+      "id": "nm0000229",
+      "name": "Steven Spielberg"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0002354",
+      "name": "John Williams"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005678",
+      "name": "Dean Cundey"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

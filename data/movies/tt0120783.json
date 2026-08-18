@@ -1,0 +1,229 @@
+{
+  "imdb_id": "tt0120783",
+  "title": "The Parent Trap",
+  "description": "Identical twins Annie and Hallie, separated at birth and each raised by one of their biological parents, discover each other for the first time at summer camp and make a plan to bring their wayward parents back together.",
+  "runtime_minutes": 128,
+  "release_date": "29.07.1998",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Drama",
+    "Family",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0517820",
+      "name": "Lindsay Lohan"
+    },
+    {
+      "id": "nm0000598",
+      "name": "Dennis Quaid"
+    },
+    {
+      "id": "nm0001670",
+      "name": "Natasha Richardson"
+    },
+    {
+      "id": "nm0005006",
+      "name": "Elaine Hendrix"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0583600",
+      "name": "Nancy Meyers"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0477696",
+      "name": "Erich Kästner"
+    },
+    {
+      "id": "nm0842582",
+      "name": "David Swift"
+    },
+    {
+      "id": "nm0583600",
+      "name": "Nancy Meyers"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0517820",
+      "name": "Lindsay Lohan",
+      "character": "Hallie Parker"
+    },
+    {
+      "id": "nm0000598",
+      "name": "Dennis Quaid",
+      "character": "Nick Parker"
+    },
+    {
+      "id": "nm0001670",
+      "name": "Natasha Richardson",
+      "character": "Elizabeth James"
+    },
+    {
+      "id": "nm0005006",
+      "name": "Elaine Hendrix",
+      "character": "Meredith Blake"
+    },
+    {
+      "id": "nm0910076",
+      "name": "Lisa Ann Walter",
+      "character": "Chessy"
+    },
+    {
+      "id": "nm0475336",
+      "name": "Simon Kunz",
+      "character": "Martin"
+    },
+    {
+      "id": "nm0391072",
+      "name": "Polly Holliday",
+      "character": "Marva Kulp, Sr."
+    },
+    {
+      "id": "nm0923909",
+      "name": "Maggie Wheeler",
+      "character": "Marva Kulp, Jr."
+    },
+    {
+      "id": "nm0828745",
+      "name": "Ronnie Stevens",
+      "character": "Grandfather"
+    },
+    {
+      "id": "nm0055645",
+      "name": "Joanna Barnes",
+      "character": "Vicki Blake"
+    },
+    {
+      "id": "nm0583654",
+      "name": "Hallie Meyers-Shyer",
+      "character": "Lindsay"
+    },
+    {
+      "id": "nm0859191",
+      "name": "Maggie Emma Thomas",
+      "character": "Zoe"
+    },
+    {
+      "id": "nm0940552",
+      "name": "Courtney Woods",
+      "character": "Nicole"
+    },
+    {
+      "id": "nm0334159",
+      "name": "Kat Graham",
+      "character": "Jackie"
+    },
+    {
+      "id": "nm0517821",
+      "name": "Michael Lohan",
+      "character": "Lost Boy at Camp"
+    },
+    {
+      "id": "nm0838298",
+      "name": "Rachel Sullivan",
+      "character": "Navajo Bunk Girl"
+    },
+    {
+      "id": "nm0221175",
+      "name": "Katie DeShan",
+      "character": "Navajo Bunk Girl"
+    },
+    {
+      "id": "nm0381033",
+      "name": "Brighton Hertford",
+      "character": "Navajo Bunk Girl"
+    }
+  ],
+  "countries": [
+    "United States",
+    "United Kingdom"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "color": null,
+  "filmweb_id": 132,
+  "year": 1998,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTRkYmY3Y2QtMGM2Ny00MTNmLTk4NjYtNjMwNTNmMGY5ZDllXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.7,
+      "votes": 175912,
+      "distribution": {
+        "1": 1723,
+        "2": 1490,
+        "3": 2772,
+        "4": 6511,
+        "5": 16784,
+        "6": 36827,
+        "7": 45300,
+        "8": 28985,
+        "9": 13103,
+        "10": 22417
+      },
+      "normalized": 4.8996
+    },
+    "filmweb": {
+      "rating": 6.49,
+      "votes": 49557,
+      "distribution": {
+        "1": 229,
+        "2": 361,
+        "3": 1148,
+        "4": 2727,
+        "5": 6524,
+        "6": 13456,
+        "7": 13987,
+        "8": 6950,
+        "9": 2101,
+        "10": 2074
+      },
+      "normalized": 4.3018
+    },
+    "michal": {
+      "rating": 3,
+      "date_rated": "19.10.2005",
+      "normalized": 3.8753
+    },
+    "score": 4.3589
+  },
+  "polish_title": "Nie wierzcie bliźniaczkom",
+  "silent": false,
+  "description_pl": "Komedia rodzinna. Nowa wersja słynnego filmu \"Rodzice miejcie się na baczności\". Dwie bliźniaczki, które rozdzielono wkrótce po narodzeniu, spotykają się przypadkowo na obozie letnim i postanawiają pogodzić skłóconych rodziców. Plan wymaga, by zamieniły się rolami, co prowadzi do przezabawnych komplikacji.",
+  "producers": [
+    {
+      "id": "nm0088692",
+      "name": "Bruce A. Block"
+    },
+    {
+      "id": "nm0186376",
+      "name": "Julie B. Crane"
+    },
+    {
+      "id": "nm0796124",
+      "name": "Charles Shyer"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006293",
+      "name": "Alan Silvestri"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005678",
+      "name": "Dean Cundey"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

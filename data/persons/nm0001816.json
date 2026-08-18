@@ -1,0 +1,40 @@
+{
+  "id": "nm0001816",
+  "name": "Robert Vaughn",
+  "filmography": [
+    {
+      "imdb_id": "tt0054047",
+      "title": "The Magnificent Seven",
+      "year": 1960,
+      "roles": [
+        "cast"
+      ],
+      "character": "Lee"
+    },
+    {
+      "imdb_id": "tt0062765",
+      "title": "Bullitt",
+      "year": 1968,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Walter Chalmers"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODAxNzIzOTI0MV5BMl5BanBnXkFtZTgwMzAzODc1MDI@._V1_.jpg",
+  "birth_date": "22.11.1932",
+  "death_date": "11.11.2016",
+  "birth_location": "New York City, New York, USA",
+  "height": "1.75 m",
+  "imdb_scraped": true,
+  "filmweb_id": 5899,
+  "name_pl": "Robert Vaughn",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 5899
+}

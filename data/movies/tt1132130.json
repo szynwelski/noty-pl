@@ -1,0 +1,230 @@
+{
+  "imdb_id": "tt1132130",
+  "title": "2012: Doomsday",
+  "description": "Four strangers on a journey of faith are drawn to a temple in the heart of Mexico on December 21, 2012. For the Mayans it is the last recorded day. For NASA scientists it is a cataclysmic polar shift. For the rest of us, it is Doomsday.",
+  "runtime_minutes": 85,
+  "release_date": "12.02.2008",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "Fantasy",
+    "Horror",
+    "Mystery",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0002037",
+      "name": "Cliff De Young"
+    },
+    {
+      "id": "nm0001535",
+      "name": "Dale Midkiff"
+    },
+    {
+      "id": "nm0000371",
+      "name": "Ami Dolenz"
+    },
+    {
+      "id": "nm2216599",
+      "name": "Danae Nason"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm2544836",
+      "name": "Nick Everhart"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm2544836",
+      "name": "Nick Everhart"
+    },
+    {
+      "id": "nm0783119",
+      "name": "Naomi L. Selfman"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0002037",
+      "name": "Cliff De Young",
+      "character": "Lloyd"
+    },
+    {
+      "id": "nm0001535",
+      "name": "Dale Midkiff",
+      "character": "Dr. Frank Richards"
+    },
+    {
+      "id": "nm0000371",
+      "name": "Ami Dolenz",
+      "character": "Susan Reed"
+    },
+    {
+      "id": "nm2216599",
+      "name": "Danae Nason",
+      "character": "Sarah"
+    },
+    {
+      "id": "nm2117453",
+      "name": "Joshua Lee",
+      "character": "Alex"
+    },
+    {
+      "id": "nm2896588",
+      "name": "Sara Tomko",
+      "character": "Wakanna"
+    },
+    {
+      "id": "nm2451806",
+      "name": "Caroline Amiguet",
+      "character": "Dr. Trish Lane"
+    },
+    {
+      "id": "nm2401408",
+      "name": "Shirley Raun",
+      "character": "Mrs. Reed"
+    },
+    {
+      "id": "nm2094651",
+      "name": "Louis Graham",
+      "character": "Dr. Ian Hunter"
+    },
+    {
+      "id": "nm2316340",
+      "name": "Jonathan Nation",
+      "character": "Uncle Jim"
+    },
+    {
+      "id": "nm1936317",
+      "name": "Mark Hengst",
+      "character": "Matt"
+    },
+    {
+      "id": "nm2982092",
+      "name": "Gilberto Canto",
+      "character": "Gino"
+    },
+    {
+      "id": "nm2182684",
+      "name": "Omar Mora",
+      "character": "Raul"
+    },
+    {
+      "id": "nm2982490",
+      "name": "Wil Omar Sanchez",
+      "character": "Man on Bridge"
+    },
+    {
+      "id": "nm2280429",
+      "name": "Jason S. Gray",
+      "character": "Carlos Martinez"
+    },
+    {
+      "id": "nm2759093",
+      "name": "Ashley Elizabeth Campbell",
+      "character": "Secretary"
+    },
+    {
+      "id": "nm2513389",
+      "name": "Collin Brock",
+      "character": "Ted"
+    },
+    {
+      "id": "nm2646995",
+      "name": "James Sinclair",
+      "character": "Rick"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 464969,
+  "year": 2008,
+  "type": "video",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjEzNzk0NDE3Nl5BMl5BanBnXkFtZTcwNjg3MTEwMg@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 1.8,
+      "votes": 7871,
+      "distribution": {
+        "1": 5143,
+        "2": 997,
+        "3": 505,
+        "4": 267,
+        "5": 228,
+        "6": 136,
+        "7": 93,
+        "8": 84,
+        "9": 41,
+        "10": 377
+      },
+      "normalized": 1.0
+    },
+    "filmweb": {
+      "rating": 2.63,
+      "votes": 6303,
+      "distribution": {
+        "1": 2876,
+        "2": 1100,
+        "3": 870,
+        "4": 411,
+        "5": 315,
+        "6": 204,
+        "7": 172,
+        "8": 107,
+        "9": 64,
+        "10": 184
+      },
+      "normalized": 1.0
+    },
+    "michal": {
+      "rating": 1,
+      "date_rated": "08.03.2008",
+      "normalized": 2.2657
+    },
+    "score": 1.4219
+  },
+  "polish_title": "2012: Koniec świata",
+  "silent": false,
+  "description_pl": "21 grudnia 2012, czterech nieznajomych wyrusza w podróż do starożytnej świątyni w sercu Meksyku. Według legendy Majów jest to ostatni dzień istnienia Świata. Dla naukowców z NASA jest to kataklizm, związany z przesunięciem biegunów. A czym jest ten dzień dla nas...",
+  "producers": [
+    {
+      "id": "nm0050097",
+      "name": "Paul Bales"
+    },
+    {
+      "id": "nm2107411",
+      "name": "Matthew Bolton"
+    },
+    {
+      "id": "nm0490375",
+      "name": "David Michael Latt"
+    },
+    {
+      "id": "nm0727235",
+      "name": "David Rimawi"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm1442561",
+      "name": "Ralph Rieckermann"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0040630",
+      "name": "Mark Atkins"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

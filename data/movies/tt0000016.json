@@ -1,0 +1,109 @@
+{
+  "imdb_id": "tt0000016",
+  "title": "Boat Leaving the Port",
+  "description": "Three men in a rowboat are leaving the harbor.",
+  "runtime_minutes": 1,
+  "release_date": "1895",
+  "genres": [
+    "Documentary",
+    "Short"
+  ],
+  "stars": [
+    {
+      "id": "nm0525900",
+      "name": "Mrs. Auguste Lumiere"
+    },
+    {
+      "id": "nm9735581",
+      "name": "Jeanne-Joséphine Lumière"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0525910",
+      "name": "Louis Lumière"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm9735581",
+      "name": "Jeanne-Joséphine Lumière",
+      "character": "Self (on the pier)"
+    },
+    {
+      "id": "nm0525900",
+      "name": "Mrs. Auguste Lumiere",
+      "character": "Self (on the pier)"
+    }
+  ],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "year": 1895,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODE2MjJjZTgtMmFjNi00MGE4LWFjNzItYTY2M2MwYWRmZWYyXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 96237,
+  "original_title": "Barque sortant du port",
+  "ratings": {
+    "imdb": {
+      "rating": 5.9,
+      "votes": 1755,
+      "distribution": {
+        "1": 55,
+        "2": 43,
+        "3": 52,
+        "4": 146,
+        "5": 408,
+        "6": 498,
+        "7": 279,
+        "8": 126,
+        "9": 51,
+        "10": 97
+      },
+      "normalized": 4.0115
+    },
+    "filmweb": {
+      "rating": 5.75,
+      "votes": 420,
+      "distribution": {
+        "1": 8,
+        "2": 7,
+        "3": 20,
+        "4": 39,
+        "5": 103,
+        "6": 122,
+        "7": 73,
+        "8": 24,
+        "9": 12,
+        "10": 12
+      },
+      "normalized": 3.9253
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "11.12.2016",
+      "normalized": 7.1247
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "21.10.2007",
+      "normalized": 5.4199
+    },
+    "score": 5.1204
+  },
+  "polish_title": "Łódka opuszcza port",
+  "silent": true,
+  "description_pl": "Kolejny film braci Lumiere, który przedstawia jedną scenę. Obserwujemy łódź wypływającą z portu, która jest obserwowana przez członków rodziny Lumiere'a. Kamera stoi prawie przez cały czas nieruchomo (są tylko nieznaczne ruchy), ale mimo to ukazuje całe piękno fal, słońca nad nimi..",
+  "cinematographers": [
+    {
+      "id": "nm0525910",
+      "name": "Louis Lumière"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-15"
+}

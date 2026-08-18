@@ -1,0 +1,39 @@
+{
+  "id": "nm0001811",
+  "name": "Peter Ustinov",
+  "filmography": [
+    {
+      "imdb_id": "tt0054331",
+      "title": "Spartacus",
+      "year": 1960,
+      "roles": [
+        "cast"
+      ],
+      "character": "Batiatus"
+    },
+    {
+      "imdb_id": "tt0204824",
+      "title": "Animal Farm",
+      "year": 1999,
+      "roles": [
+        "cast"
+      ],
+      "character": "Old Major"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYmE2N2VjMjUtMTc2ZS00YzNiLTkzYzAtZDlmZWVmN2FhYjVkXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "16.04.1921",
+  "death_date": "28.03.2004",
+  "birth_location": "Swiss Cottage, London, England, UK",
+  "height": "1.82 m",
+  "imdb_scraped": true,
+  "filmweb_id": 7730,
+  "name_pl": "Peter Ustinov",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 7730
+}

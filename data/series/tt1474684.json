@@ -1,0 +1,227 @@
+{
+  "imdb_id": "tt1474684",
+  "title": "Luther",
+  "description": "John Luther is a brilliant homicide detective with a knack for getting inside the minds of murderers. Unfortunately, his unconventional methods and personal demons put him at odds with his team.",
+  "runtime_minutes": 60,
+  "release_date": "17.10.2010",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0252961",
+      "name": "Idris Elba"
+    },
+    {
+      "id": "nm0189720",
+      "name": "Dermot Crowley"
+    },
+    {
+      "id": "nm0806968",
+      "name": "Michael Smiley"
+    },
+    {
+      "id": "nm1546206",
+      "name": "Warren Brown"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0252961",
+      "name": "Idris Elba",
+      "character": "DCI John Luther"
+    },
+    {
+      "id": "nm0189720",
+      "name": "Dermot Crowley",
+      "character": "DSU Martin Schenk"
+    },
+    {
+      "id": "nm0806968",
+      "name": "Michael Smiley",
+      "character": "Benny Silver"
+    },
+    {
+      "id": "nm1546206",
+      "name": "Warren Brown",
+      "character": "DS Justin Ripley"
+    },
+    {
+      "id": "nm2235721",
+      "name": "Ruth Wilson",
+      "character": "Alice Morgan"
+    },
+    {
+      "id": "nm0001524",
+      "name": "Paul McGann",
+      "character": "Mark North"
+    },
+    {
+      "id": "nm0025458",
+      "name": "Nikki Amuka-Bird",
+      "character": "DS Erin Gray"
+    },
+    {
+      "id": "nm0538869",
+      "name": "Patrick Malahide",
+      "character": "George Cornelius"
+    },
+    {
+      "id": "nm0533599",
+      "name": "Steven Mackintosh",
+      "character": "DCI Ian Reed"
+    },
+    {
+      "id": "nm0716293",
+      "name": "Saskia Reeves",
+      "character": "DSU Rose Teller"
+    },
+    {
+      "id": "nm0890055",
+      "name": "Indira Varma",
+      "character": "Zoe Luther"
+    },
+    {
+      "id": "nm2929682",
+      "name": "Aimee-Ffion Edwards",
+      "character": "Jenny Jones"
+    },
+    {
+      "id": "nm0347149",
+      "name": "Sienna Guillory",
+      "character": "Mary Day"
+    },
+    {
+      "id": "nm0641244",
+      "name": "David O'Hara",
+      "character": "DSU George Stark"
+    },
+    {
+      "id": "nm0162281",
+      "name": "Enzo Cilenti",
+      "character": "Jeremy Lake"
+    },
+    {
+      "id": "nm1663573",
+      "name": "Kierston Wareing",
+      "character": "Caroline Jones"
+    },
+    {
+      "id": "nm2148911",
+      "name": "Wunmi Mosaku",
+      "character": "DS Catherine Halliday"
+    },
+    {
+      "id": "nm0635820",
+      "name": "Hermione Norris",
+      "character": "Vivien Lake"
+    }
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 567351,
+  "year": 2010,
+  "type": "tvSeries",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNmViZjE1MjEtZjRlZC00MWMzLTg0ODItYjI1ODZiNzk5YzBiXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8.4,
+      "votes": 164605,
+      "distribution": {
+        "1": 1974,
+        "2": 579,
+        "3": 693,
+        "4": 1104,
+        "5": 2368,
+        "6": 5591,
+        "7": 17204,
+        "8": 45115,
+        "9": 52461,
+        "10": 37516
+      }
+    },
+    "jarek": {
+      "rating": 1,
+      "date_rated": "29.08.2018"
+    }
+  },
+  "polish_title": "Luther",
+  "silent": false,
+  "producers": [
+    {
+      "id": "nm0189232",
+      "name": "Neil Cross"
+    },
+    {
+      "id": "nm0252961",
+      "name": "Idris Elba"
+    },
+    {
+      "id": "nm0318489",
+      "name": "Phillippa Giles"
+    },
+    {
+      "id": "nm0456739",
+      "name": "Leila Kirkpatrick"
+    },
+    {
+      "id": "nm1939604",
+      "name": "Katie Swinden"
+    },
+    {
+      "id": "nm0933803",
+      "name": "Marcus Wilson"
+    },
+    {
+      "id": "nm0071677",
+      "name": "Claire Bennett"
+    },
+    {
+      "id": "nm2618209",
+      "name": "Elizabeth Kilgarriff"
+    },
+    {
+      "id": "nm1308615",
+      "name": "Elizabeth Binns"
+    },
+    {
+      "id": "nm2185491",
+      "name": "Denise Paul"
+    },
+    {
+      "id": "nm0728550",
+      "name": "Derek Ritchie"
+    },
+    {
+      "id": "nm0164135",
+      "name": "Julie Clark"
+    },
+    {
+      "id": "nm0170735",
+      "name": "Phillipa Cole"
+    },
+    {
+      "id": "nm1321158",
+      "name": "Martin Coates"
+    },
+    {
+      "id": "nm0758776",
+      "name": "Hilary Salmon"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm1232266",
+      "name": "Paul Englishby"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

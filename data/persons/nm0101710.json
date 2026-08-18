@@ -1,0 +1,56 @@
+{
+  "id": "nm0101710",
+  "name": "Billy Boyd",
+  "filmography": [
+    {
+      "imdb_id": "tt0120737",
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001,
+      "roles": [
+        "cast"
+      ],
+      "character": "Pippin"
+    },
+    {
+      "imdb_id": "tt0167261",
+      "title": "The Lord of the Rings: The Two Towers",
+      "year": 2002,
+      "roles": [
+        "cast"
+      ],
+      "character": "Pippin"
+    },
+    {
+      "imdb_id": "tt0311113",
+      "title": "Master and Commander: The Far Side of the World",
+      "year": 2003,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Barrett Bonden, Coxswain"
+    },
+    {
+      "imdb_id": "tt0167260",
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": 2003,
+      "roles": [
+        "cast"
+      ],
+      "character": "Pippin"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQzOTEyMTQ3OF5BMl5BanBnXkFtZTYwNzkzMDk1._V1_.jpg",
+  "birth_date": "28.08.1968",
+  "birth_location": "Glasgow, Scotland, UK",
+  "height": "1.69 m",
+  "filmweb_id": 49161,
+  "name_pl": "Billy Boyd",
+  "birth_location_pl": "Glasgow, Szkocja",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ]
+}

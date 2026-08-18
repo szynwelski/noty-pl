@@ -1,0 +1,78 @@
+{
+  "imdb_id": "tt0256884",
+  "title": "Lion, London Zoological Garden",
+  "description": "A male lion, right next to bars that are about 6 or 8 inches apart, keenly watches a uniformed zoo attendant toss small morsels of food into the cage. The lion alternates between finding the food on the cage floor and reaching through the bars to swipe at the man, who stays alarmingly close to the beast. In the background are the large rocks and brick wall at the back of the lion's habitat.",
+  "runtime_minutes": 1,
+  "release_date": "12.08.1896",
+  "genres": [
+    "Short",
+    "Documentary"
+  ],
+  "directors": [
+    {
+      "id": "nm0698645",
+      "name": "Alexandre Promio"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 280124,
+  "year": 1896,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzY0NDc3OWYtNjFkMS00ZTYzLTlkYzAtZTBkODNmZjEyNTNkXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Lions, Jardin zoologique, Londres",
+  "ratings": {
+    "imdb": {
+      "rating": 5.2,
+      "votes": 753,
+      "distribution": {
+        "1": 42,
+        "2": 36,
+        "3": 47,
+        "4": 97,
+        "5": 209,
+        "6": 191,
+        "7": 79,
+        "8": 23,
+        "9": 8,
+        "10": 21
+      },
+      "normalized": 3.8298
+    },
+    "filmweb": {
+      "rating": 5.19,
+      "votes": 88,
+      "distribution": {
+        "1": 5,
+        "2": 3,
+        "3": 12,
+        "4": 8,
+        "5": 22,
+        "6": 15,
+        "7": 12,
+        "8": 7,
+        "9": 2,
+        "10": 2
+      },
+      "normalized": 4.421
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "11.12.2016",
+      "normalized": 4.9718
+    },
+    "score": 4.4075
+  },
+  "polish_title": "Lions, Jardin zoologique, Londres",
+  "silent": true,
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-16"
+}

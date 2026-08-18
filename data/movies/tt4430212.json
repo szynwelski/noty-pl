@@ -1,0 +1,253 @@
+{
+  "imdb_id": "tt4430212",
+  "title": "Drishyam",
+  "description": "Desperate measures are taken by a man who tries to save his family from the dark side of the law, after they commit an unexpected crime.",
+  "runtime_minutes": 163,
+  "release_date": "31.07.2015",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0222426",
+      "name": "Ajay Devgn"
+    },
+    {
+      "id": "nm1328152",
+      "name": "Shriya Saran"
+    },
+    {
+      "id": "nm0007102",
+      "name": "Tabu"
+    },
+    {
+      "id": "nm0438494",
+      "name": "Rajat Kapoor"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm1723225",
+      "name": "Nishikant Kamat"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm2572228",
+      "name": "Jeethu Joseph"
+    },
+    {
+      "id": "nm3179723",
+      "name": "Upendra Sidhaye"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0222426",
+      "name": "Ajay Devgn",
+      "character": "Vijay Salgaonkar"
+    },
+    {
+      "id": "nm1328152",
+      "name": "Shriya Saran",
+      "character": "Nandini Salgaonkar"
+    },
+    {
+      "id": "nm0007102",
+      "name": "Tabu",
+      "character": "IGP Meera Deshmukh"
+    },
+    {
+      "id": "nm0438494",
+      "name": "Rajat Kapoor",
+      "character": "Mahesh Deshmukh"
+    },
+    {
+      "id": "nm7181900",
+      "name": "Ishita Dutta",
+      "character": "Anju Salgaonkar"
+    },
+    {
+      "id": "nm7648609",
+      "name": "Mrunal Jadhav",
+      "character": "Anu Salgaonkar"
+    },
+    {
+      "id": "nm6226780",
+      "name": "Rishab Chadha",
+      "character": "Sameer Deshmukh"
+    },
+    {
+      "id": "nm1416011",
+      "name": "Prasanna Ketkar",
+      "character": "Sr. Insp. Shrikant Prabhu"
+    },
+    {
+      "id": "nm1416918",
+      "name": "Kamlesh Sawant",
+      "character": "SI Laxmikant Gaitonde"
+    },
+    {
+      "id": "nm7648615",
+      "name": "Yogesh Sonam",
+      "character": "Inspector Vinayak Sawant"
+    },
+    {
+      "id": "nm1873305",
+      "name": "Yogesh Soman",
+      "character": "Insp. Vinayak Sawant"
+    },
+    {
+      "id": "nm5267231",
+      "name": "Prathamesh Parab",
+      "character": "Jose"
+    },
+    {
+      "id": "nm2961609",
+      "name": "Sharad Bhutadiya",
+      "character": "Martin Uncle"
+    },
+    {
+      "id": "nm7648614",
+      "name": "Samar Parshuram",
+      "character": "Contractor Rane"
+    },
+    {
+      "id": "nm6155321",
+      "name": "Ashish Warang",
+      "character": "New Senior Inspector"
+    },
+    {
+      "id": "nm5422415",
+      "name": "Anil Nagarkar",
+      "character": "Satish Naik"
+    },
+    {
+      "id": "nm1617236",
+      "name": "Tarun Shukla",
+      "character": "Swami Chinmayanand"
+    },
+    {
+      "id": "nm7648629",
+      "name": "Smita Inamdar",
+      "character": "School Principal"
+    }
+  ],
+  "countries": [
+    "India"
+  ],
+  "languages": [
+    "Hindi",
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 748765,
+  "year": 2015,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYjMzZTU0NzUtZGQ0MC00Y2M4LWI5ZDUtZjY1YmNjMjNmNmI3XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8.2,
+      "votes": 110403,
+      "distribution": {
+        "1": 4036,
+        "2": 735,
+        "3": 623,
+        "4": 913,
+        "5": 1851,
+        "6": 3607,
+        "7": 10411,
+        "8": 25389,
+        "9": 28034,
+        "10": 34804
+      },
+      "normalized": 7.9788
+    },
+    "filmweb": {
+      "rating": 7.58,
+      "votes": 783,
+      "distribution": {
+        "1": 12,
+        "2": 8,
+        "3": 10,
+        "4": 16,
+        "5": 39,
+        "6": 65,
+        "7": 193,
+        "8": 202,
+        "9": 121,
+        "10": 117
+      },
+      "normalized": 6.1901
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "10.10.2020",
+      "normalized": 6.4102
+    },
+    "score": 6.8597
+  },
+  "polish_title": "Drishyam - pozory mylą",
+  "silent": false,
+  "producers": [
+    {
+      "id": "nm3175899",
+      "name": "Sanjay Agrawal"
+    },
+    {
+      "id": "nm2725969",
+      "name": "Gayatri Gulati"
+    },
+    {
+      "id": "nm1572280",
+      "name": "Sanjeev Joshi"
+    },
+    {
+      "id": "nm6195926",
+      "name": "Kanchan Marathe"
+    },
+    {
+      "id": "nm7395815",
+      "name": "Jaswinder Pabbla"
+    },
+    {
+      "id": "nm2391751",
+      "name": "Abhishek Pathak"
+    },
+    {
+      "id": "nm3056354",
+      "name": "Amita Pathak"
+    },
+    {
+      "id": "nm1166150",
+      "name": "Kumar Mangat Pathak"
+    },
+    {
+      "id": "nm3175420",
+      "name": "Neelam Pathak"
+    },
+    {
+      "id": "nm2083546",
+      "name": "Sarita Patil"
+    },
+    {
+      "id": "nm1580398",
+      "name": "Vignesh Shetty"
+    },
+    {
+      "id": "nm17975015",
+      "name": "Surjeet Singh"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm4075058",
+      "name": "Avinash Arun"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

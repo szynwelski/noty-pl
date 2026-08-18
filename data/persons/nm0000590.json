@@ -1,0 +1,29 @@
+{
+  "id": "nm0000590",
+  "name": "Edgar Allan Poe",
+  "filmography": [
+    {
+      "imdb_id": "tt0018770",
+      "title": "The Fall of the House of Usher",
+      "year": 1928,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYTNkYmQ5ODgtZjNiMy00MWIxLWI0YzgtODljMjI0YTk2YWI0XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "19.01.1809",
+  "death_date": "07.10.1849",
+  "birth_location": "Boston, Massachusetts, USA",
+  "height": "1.73 m",
+  "imdb_scraped": true,
+  "filmweb_id": 698409,
+  "name_pl": "Edgar Allan Poe",
+  "birth_location_pl": "Boston, Massachusetts",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 698409
+}

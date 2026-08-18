@@ -1,0 +1,253 @@
+{
+  "imdb_id": "tt1016150",
+  "title": "All Quiet on the Western Front",
+  "description": "A young German soldier's eagerness to serve his country quickly fades when he witnesses the horrors of combat on the Western Front during World War I.",
+  "runtime_minutes": 148,
+  "release_date": "28.10.2022",
+  "genres": [
+    "Drama",
+    "History",
+    "War"
+  ],
+  "stars": [
+    {
+      "id": "nm0436835",
+      "name": "Felix Kammerer"
+    },
+    {
+      "id": "nm3477129",
+      "name": "Albrecht Schuch"
+    },
+    {
+      "id": "nm6037256",
+      "name": "Aaron Hilmer"
+    },
+    {
+      "id": "nm2714111",
+      "name": "Moritz Klaus"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0074163",
+      "name": "Edward Berger"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0074163",
+      "name": "Edward Berger"
+    },
+    {
+      "id": "nm0665510",
+      "name": "Lesley Paterson"
+    },
+    {
+      "id": "nm1748106",
+      "name": "Ian Stokell"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0436835",
+      "name": "Felix Kammerer",
+      "character": "Paul Bäumer"
+    },
+    {
+      "id": "nm3477129",
+      "name": "Albrecht Schuch",
+      "character": "Stanislaus Katczinsky"
+    },
+    {
+      "id": "nm6037256",
+      "name": "Aaron Hilmer",
+      "character": "Albert Kropp"
+    },
+    {
+      "id": "nm2714111",
+      "name": "Moritz Klaus",
+      "character": "Franz Müller"
+    },
+    {
+      "id": "nm9620384",
+      "name": "Adrian Grünewald",
+      "character": "Ludwig Behm"
+    },
+    {
+      "id": "nm2518296",
+      "name": "Edin Hasanovic",
+      "character": "Tjaden Stackfleet"
+    },
+    {
+      "id": "nm0117709",
+      "name": "Daniel Brühl",
+      "character": "Matthias Erzberger"
+    },
+    {
+      "id": "nm0598857",
+      "name": "Thibault de Montalembert",
+      "character": "General Ferdinand Foch"
+    },
+    {
+      "id": "nm0834479",
+      "name": "Devid Striesow",
+      "character": "General Friedrichs"
+    },
+    {
+      "id": "nm2435705",
+      "name": "Andreas Döhler",
+      "character": "Leutnant Hoppe"
+    },
+    {
+      "id": "nm1389891",
+      "name": "Sebastian Hülk",
+      "character": "Major Von Brixdorf"
+    },
+    {
+      "id": "nm0270784",
+      "name": "Luc Feit",
+      "character": "Stabsarzt"
+    },
+    {
+      "id": "nm0937000",
+      "name": "Michael Wittenborn",
+      "character": "Rektor"
+    },
+    {
+      "id": "nm2345047",
+      "name": "Michael Stange",
+      "character": "Musterungsoffizier"
+    },
+    {
+      "id": "nm2584311",
+      "name": "Sascha Nathan",
+      "character": "Graf Von Oberndorff"
+    },
+    {
+      "id": "nm0486437",
+      "name": "Tobias Langhoff",
+      "character": "Generalmajor Von Winterfeldt"
+    },
+    {
+      "id": "nm6077587",
+      "name": "Anton von Lucke",
+      "character": "Hauptmann Von Helldorf"
+    },
+    {
+      "id": "nm4528152",
+      "name": "Michael Pitthan",
+      "character": "Kapitän Ernst Von Vanselow"
+    }
+  ],
+  "countries": [
+    "Germany",
+    "United States",
+    "United Kingdom"
+  ],
+  "languages": [
+    "German",
+    "French"
+  ],
+  "color": "Color",
+  "filmweb_id": 430867,
+  "year": 2022,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOWJiYWMyYTktZThhOS00ZjgxLWE0YTQtZDMyNTQxMjMyYjI2XkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Im Westen nichts Neues",
+  "ratings": {
+    "imdb": {
+      "rating": 7.8,
+      "votes": 344060,
+      "distribution": {
+        "1": 1519,
+        "2": 750,
+        "3": 1217,
+        "4": 2232,
+        "5": 6232,
+        "6": 19736,
+        "7": 66233,
+        "8": 149775,
+        "9": 61293,
+        "10": 35073
+      },
+      "normalized": 7.035
+    },
+    "filmweb": {
+      "rating": 7.39,
+      "votes": 81057,
+      "distribution": {
+        "1": 577,
+        "2": 276,
+        "3": 699,
+        "4": 1123,
+        "5": 3464,
+        "6": 9618,
+        "7": 25292,
+        "8": 26204,
+        "9": 8653,
+        "10": 5151
+      },
+      "normalized": 6.4636
+    },
+    "jarek": {
+      "rating": 8,
+      "date_rated": "17.01.2024",
+      "normalized": 7.8989
+    },
+    "score": 7.1325
+  },
+  "polish_title": "Na Zachodzie bez zmian",
+  "silent": false,
+  "description_pl": "\"Na Zachodzie bez zmian\" to porywająca opowieść o młodym niemieckim żołnierzu na froncie zachodnim podczas I wojny światowej. Paul i jego towarzysze na własnej skórze doświadczają, jak początkowa euforia wojny przemienia się w desperację i strach, gdy walczą w okopach o swoje życie. Film w reżyserii <a href=\"/osoba/?id=nm0074163\">Edwarda Bergera</a> jest oparty na znanej na całym świecie powieści Ericha Marii Remarque’a pod tym samym tytułem.",
+  "producers": [
+    {
+      "id": "nm0074163",
+      "name": "Edward Berger"
+    },
+    {
+      "id": "nm0117709",
+      "name": "Daniel Brühl"
+    },
+    {
+      "id": "nm1897448",
+      "name": "Daniel Marc Dreifuss"
+    },
+    {
+      "id": "nm0344612",
+      "name": "Malte Grunert"
+    },
+    {
+      "id": "nm2699559",
+      "name": "Pavel Muller"
+    },
+    {
+      "id": "nm0634532",
+      "name": "Mark Nolting"
+    },
+    {
+      "id": "nm0665510",
+      "name": "Lesley Paterson"
+    },
+    {
+      "id": "nm0776674",
+      "name": "Thorsten Schumacher"
+    },
+    {
+      "id": "nm1748106",
+      "name": "Ian Stokell"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm2890617",
+      "name": "Volker Bertelmann"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm2168099",
+      "name": "James Friend"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

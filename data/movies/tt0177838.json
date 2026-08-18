@@ -1,0 +1,203 @@
+{
+  "imdb_id": "tt0177838",
+  "title": "Historia kina w Popielawach",
+  "description": "A young boy dreams of rebuilding a cinematograph constructed by his ancestor. The boy's father, however, does not approve of the idea.",
+  "runtime_minutes": 100,
+  "release_date": "20.11.1998",
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0538048",
+      "name": "Krzysztof Majchrzak"
+    },
+    {
+      "id": "nm0649044",
+      "name": "Bartosz Opania"
+    },
+    {
+      "id": "nm0088111",
+      "name": "Grazyna Blecka-Kolska"
+    },
+    {
+      "id": "nm0669813",
+      "name": "Franciszek Pieczka"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0464383",
+      "name": "Jan Jakub Kolski"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0464383",
+      "name": "Jan Jakub Kolski"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0538048",
+      "name": "Krzysztof Majchrzak",
+      "character": "Józef Andryszek V"
+    },
+    {
+      "id": "nm0649044",
+      "name": "Bartosz Opania",
+      "character": "Józef Andryszek I"
+    },
+    {
+      "id": "nm0088111",
+      "name": "Grazyna Blecka-Kolska",
+      "character": "Chanutka V"
+    },
+    {
+      "id": "nm0669813",
+      "name": "Franciszek Pieczka",
+      "character": "Uncle Janek"
+    },
+    {
+      "id": "nm0419189",
+      "name": "Michal Jasinski",
+      "character": "Szustek"
+    },
+    {
+      "id": "nm0473021",
+      "name": "Tomasz Krysiak",
+      "character": "Staszek"
+    },
+    {
+      "id": "nm0762790",
+      "name": "Mariusz Saniternik",
+      "character": "Kulawik"
+    },
+    {
+      "id": "nm0682825",
+      "name": "Joanna Orleanska",
+      "character": "Chanutka I"
+    },
+    {
+      "id": "nm0119783",
+      "name": "Izabella Bukowska",
+      "character": "Jagoda"
+    },
+    {
+      "id": "nm0321601",
+      "name": "Maria Gladkowska",
+      "character": "Dziedziczka"
+    },
+    {
+      "id": "nm0637434",
+      "name": "Jan Nowicki",
+      "character": "Dziedzic"
+    },
+    {
+      "id": "nm0081601",
+      "name": "Anna Biernacka",
+      "character": "Staszek's Grandmother"
+    },
+    {
+      "id": "nm0476443",
+      "name": "Edward Kusztal",
+      "character": "Staszek's Grandfather"
+    },
+    {
+      "id": "nm0066133",
+      "name": "Aleksander Bednarz",
+      "character": "Professor"
+    },
+    {
+      "id": "nm0633498",
+      "name": "Boguslaw Nobel-Nobielski",
+      "character": "Assistant"
+    },
+    {
+      "id": "nm0944226",
+      "name": "Maria Wójcikowska",
+      "character": "Matka Andryszka I"
+    },
+    {
+      "id": "nm0714580",
+      "name": "Zdzislaw Reczynski",
+      "character": "Fornal"
+    },
+    {
+      "id": "nm0844157",
+      "name": "Michal Szkóp",
+      "character": "Kierowca Nyski"
+    }
+  ],
+  "countries": [
+    "Poland"
+  ],
+  "languages": [
+    "Polish"
+  ],
+  "color": "Color",
+  "filmweb_id": 66,
+  "year": 1998,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTExMzYyYmMtMjQxZC00NGQzLThlODItMmQ1ZjNhZTRmNWU0XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.9,
+      "votes": 404,
+      "distribution": {
+        "1": 4,
+        "2": 3,
+        "3": 10,
+        "4": 9,
+        "5": 31,
+        "6": 76,
+        "7": 114,
+        "8": 80,
+        "9": 31,
+        "10": 46
+      },
+      "normalized": 5.327
+    },
+    "filmweb": {
+      "rating": 7.41,
+      "votes": 9249,
+      "distribution": {
+        "1": 53,
+        "2": 32,
+        "3": 96,
+        "4": 191,
+        "5": 457,
+        "6": 1146,
+        "7": 2413,
+        "8": 2972,
+        "9": 1333,
+        "10": 556
+      },
+      "normalized": 6.4491
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "12.04.2007",
+      "normalized": 6.3474
+    },
+    "score": 6.0412
+  },
+  "polish_title": "Historia kina w Popielawach",
+  "silent": false,
+  "description_pl": "Film, w którym zdarzenia realistyczne mieszają się z baśnią. Opowieść o prototypie kamery filmowej zbudowanym przez wiejskiego kowala w połowie ubiegłego wieku. W sto lat później urządzenie zostaje zniszczone podczas pożaru. Młody chłopak podejmuje się rekonstrukcji i spotyka się ze sprzeciwem własnego ojca.",
+  "composers": [
+    {
+      "id": "nm0465102",
+      "name": "Zygmunt Konieczny"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0699670",
+      "name": "Krzysztof Ptak"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

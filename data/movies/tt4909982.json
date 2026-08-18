@@ -1,0 +1,156 @@
+{
+  "imdb_id": "tt4909982",
+  "title": "Losers",
+  "description": "Elena, Koko, Patso and Gosho are high school students in a small provincial town. Koko is in love with Elena. The girl wants to be a singer. She is really excited about the visiting concert of a famous rock band. The event shakes up the whole town giving birth to new love affairs, disappointments and complicated relationships.",
+  "runtime_minutes": 97,
+  "release_date": "01.04.2016",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm7494211",
+      "name": "Elena Telbis"
+    },
+    {
+      "id": "nm1089542",
+      "name": "Deyan Donkov"
+    },
+    {
+      "id": "nm3437226",
+      "name": "Ovanes Torosian"
+    },
+    {
+      "id": "nm6836866",
+      "name": "Georgi Gotsin"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0160666",
+      "name": "Ivaylo Hristov"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0160666",
+      "name": "Ivaylo Hristov"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm7494211",
+      "name": "Elena Telbis",
+      "character": ""
+    },
+    {
+      "id": "nm1089542",
+      "name": "Deyan Donkov",
+      "character": ""
+    },
+    {
+      "id": "nm3437226",
+      "name": "Ovanes Torosian",
+      "character": ""
+    },
+    {
+      "id": "nm6836866",
+      "name": "Georgi Gotsin",
+      "character": ""
+    },
+    {
+      "id": "nm6124541",
+      "name": "Plamen Dimov",
+      "character": ""
+    },
+    {
+      "id": "nm10090614",
+      "name": "Kristina Yaneva",
+      "character": ""
+    },
+    {
+      "id": "nm10470832",
+      "name": "Hristiana Yotova",
+      "character": "Dancheto"
+    }
+  ],
+  "countries": [
+    "Bulgaria"
+  ],
+  "languages": [
+    "Bulgarian"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 750676,
+  "year": 2015,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjA3OTAxNjQ5N15BMl5BanBnXkFtZTgwMTIzOTE4NjE@._V1_.jpg",
+  "original_title": "Karatsi",
+  "ratings": {
+    "imdb": {
+      "rating": 7.3,
+      "votes": 932,
+      "distribution": {
+        "1": 40,
+        "2": 12,
+        "3": 10,
+        "4": 31,
+        "5": 41,
+        "6": 101,
+        "7": 183,
+        "8": 175,
+        "9": 109,
+        "10": 230
+      },
+      "normalized": 5.6752
+    },
+    "filmweb": {
+      "rating": 7.16,
+      "votes": 37,
+      "distribution": {
+        "2": 0,
+        "3": 0,
+        "4": 2,
+        "5": 2,
+        "6": 3,
+        "7": 16,
+        "8": 9,
+        "9": 5,
+        "10": 0
+      },
+      "normalized": 5.2872
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "12.10.2020",
+      "normalized": 7.1247
+    },
+    "score": 6.029
+  },
+  "polish_title": "Przegrani",
+  "silent": false,
+  "description_pl": "Elena, Koko, Patso i Gosho chodzą do szkoły średniej w prowincjonalnym mieście. Są nierozłącznym przyjaciółmi, którzy uważają siebie za \"przegranych\". Rodzice Koko pracują w Grecji, dlatego chłopak sam opiekuje się chorą na Alzheimera babcią. Koko jest zakochany w Elenie, ale dziewczyna jest pochłonięta czym innym. Marzy, żeby zostać piosenkarką zamiast użerać się z matką alkoholiczką. Tymczasem do miasta ma przyjechać na koncert sławny zespół rockowy. Zaowocuje to zmianami w całym mieście. Pojawią się nowe romanse, rozczarowania i komplikacje.",
+  "producers": [
+    {
+      "id": "nm1284264",
+      "name": "Orlin Ruevski"
+    },
+    {
+      "id": "nm0900524",
+      "name": "Asen Vladimirov"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0232344",
+      "name": "Kiril Donchev"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0398619",
+      "name": "Emil Christov"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

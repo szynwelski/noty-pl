@@ -1,0 +1,40 @@
+{
+  "id": "nm0001588",
+  "name": "Jack Palance",
+  "filmography": [
+    {
+      "imdb_id": "tt0096895",
+      "title": "Batman",
+      "year": 1989,
+      "roles": [
+        "cast"
+      ],
+      "character": "Grissom"
+    },
+    {
+      "imdb_id": "tt0098439",
+      "title": "Tango & Cash",
+      "year": 1989,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Yves Perret"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYmU4NTJmMDItZTYzOS00YmZmLWJjN2ItMDJkMjM3NjRhNzFkXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "18.02.1919",
+  "death_date": "10.11.2006",
+  "birth_location": "Lattimer Mines, Pennsylvania, USA",
+  "height": "1.92 m",
+  "imdb_scraped": true,
+  "filmweb_id": 8175,
+  "name_pl": "Jack Palance",
+  "birth_location_pl": "Lattimer Mines, Pensylwania",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 8175
+}

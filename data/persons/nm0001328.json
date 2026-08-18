@@ -1,0 +1,72 @@
+{
+  "id": "nm0001328",
+  "name": "Howard Hawks",
+  "filmography": [
+    {
+      "imdb_id": "tt0029947",
+      "title": "Bringing Up Baby",
+      "year": 1938,
+      "roles": [
+        "director",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0032599",
+      "title": "His Girl Friday",
+      "year": 1940,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0038355",
+      "title": "The Big Sleep",
+      "year": 1946,
+      "roles": [
+        "director",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0040724",
+      "title": "Red River",
+      "year": 1948,
+      "roles": [
+        "director",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0053221",
+      "title": "Rio Bravo",
+      "year": 1959,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0086250",
+      "title": "Scarface",
+      "year": 1983,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTU5NDcxNTkwMF5BMl5BanBnXkFtZTcwNTc1ODcxOA@@._V1_.jpg",
+  "birth_date": "30.05.1896",
+  "death_date": "26.12.1977",
+  "birth_location": "Goshen, Indiana, USA",
+  "height": "1.85 m",
+  "filmweb_id": 49187,
+  "name_pl": "Howard Hawks",
+  "birth_location_pl": "Goshen, Indiana",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 49187
+}

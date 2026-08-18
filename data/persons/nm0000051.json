@@ -1,0 +1,42 @@
+{
+  "id": "nm0000051",
+  "name": "James Mason",
+  "filmography": [
+    {
+      "imdb_id": "tt0053125",
+      "title": "North by Northwest",
+      "year": 1959,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Phillip Vandamm"
+    },
+    {
+      "imdb_id": "tt0075520",
+      "title": "Jesus of Nazareth",
+      "year": 1977,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Joseph of Arimathea"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODViODdiNDItZTg2My00OWE3LTg1OWMtZTNjZjdjNTlhMTg1XkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 41179,
+  "birth_date": "15.05.1909",
+  "death_date": "27.07.1984",
+  "birth_location": "Huddersfield, Yorkshire [now in Kirklees, West Yorkshire], England, UK",
+  "height": "1.80 m",
+  "imdb_scraped": true,
+  "name_pl": "James Mason",
+  "birth_location_pl": "Huddersfield, Anglia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania",
+    "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii"
+  ],
+  "wikidata_fw_id": 41179
+}

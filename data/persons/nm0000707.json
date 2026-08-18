@@ -1,0 +1,40 @@
+{
+  "id": "nm0000707",
+  "name": "Sean Young",
+  "filmography": [
+    {
+      "imdb_id": "tt0083658",
+      "title": "Blade Runner",
+      "year": 1982,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Rachael"
+    },
+    {
+      "imdb_id": "tt0109040",
+      "title": "Ace Ventura: Pet Detective",
+      "year": 1994,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Einhorn"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzA2Yzg5MzItMjYxYi00OTllLTk5ZWEtZTk3OWY2ZThhODNiXkEyXkFqcGc@._V1_.jpg",
+  "birth_location": "Louisville, Kentucky, USA",
+  "height": "1.73 m",
+  "imdb_scraped": true,
+  "filmweb_id": 6450,
+  "name_pl": "Sean Young",
+  "birth_location_pl": "Louisville, Kentucky",
+  "gender": "F",
+  "wikidata_processed": true,
+  "birth_date": "20.11.1959",
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 6450
+}

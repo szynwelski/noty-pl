@@ -1,0 +1,93 @@
+{
+  "imdb_id": "tt0277115",
+  "title": "Luis Martinetti, Contortionist",
+  "description": "Luis Martinetti, a contortionist suspended from acrobatic flying rings, contorts himself for about thirty seconds. This is one of the first films made for Edison's kinetoscopes.",
+  "runtime_minutes": 1,
+  "release_date": "11.10.1894",
+  "genres": [
+    "Short"
+  ],
+  "stars": [
+    {
+      "id": "nm0553414",
+      "name": "Luis Martinetti"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0005690",
+      "name": "William K.L. Dickson"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0553414",
+      "name": "Luis Martinetti",
+      "character": "Self"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 271214,
+  "year": 1894,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzdmZTI3ZmItZDMxOC00MjdjLWFmY2ItZmYxZjk5ZTA5ZjMwXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.5,
+      "votes": 803,
+      "distribution": {
+        "1": 32,
+        "2": 21,
+        "3": 46,
+        "4": 77,
+        "5": 201,
+        "6": 230,
+        "7": 106,
+        "8": 46,
+        "9": 15,
+        "10": 29
+      },
+      "normalized": 4.0168
+    },
+    "filmweb": {
+      "rating": 4.68,
+      "votes": 78,
+      "distribution": {
+        "1": 2,
+        "2": 7,
+        "3": 14,
+        "4": 14,
+        "5": 16,
+        "6": 10,
+        "7": 9,
+        "8": 6,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 4.3399
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "11.12.2016",
+      "normalized": 6.4102
+    },
+    "score": 4.9223
+  },
+  "polish_title": "Luis Martinetti, Contortionist",
+  "silent": true,
+  "description_pl": "Luis Martinetti pokazuje tutaj akrobatyczne sztuczki z pomocą małych obręczy. Te właśnie okręgi nieustannie wirują na jego ciele. Ma je na nogach, rękach czy głowie. Pokazuje kilka różnych figur akrobatycznych. Aby wszystkie krążki wciąż się obracały musi cały czas koordynować ruchy swojego ciała.",
+  "cinematographers": [
+    {
+      "id": "nm0374658",
+      "name": "William Heise"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

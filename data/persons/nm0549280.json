@@ -1,0 +1,39 @@
+{
+  "id": "nm0549280",
+  "name": "Hugh Marlowe",
+  "filmography": [
+    {
+      "imdb_id": "tt0042192",
+      "title": "All About Eve",
+      "year": 1950,
+      "roles": [
+        "cast"
+      ],
+      "character": "Lloyd Richards"
+    },
+    {
+      "imdb_id": "tt0043456",
+      "title": "The Day the Earth Stood Still",
+      "year": 1951,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Tom Stevens"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOTE5NDQ3MDgyN15BMl5BanBnXkFtZTcwMjcyMDMxOA@@._V1_.jpg",
+  "birth_date": "30.01.1911",
+  "death_date": "02.05.1982",
+  "birth_location": "Philadelphia, Pennsylvania, USA",
+  "height": "1.83 m",
+  "imdb_scraped": true,
+  "filmweb_id": 46565,
+  "name_pl": "Hugh Marlowe",
+  "birth_location_pl": "Filadelfia, Pensylwania",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

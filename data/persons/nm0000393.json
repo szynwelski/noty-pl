@@ -1,0 +1,39 @@
+{
+  "id": "nm0000393",
+  "name": "Peter Falk",
+  "filmography": [
+    {
+      "imdb_id": "tt0093779",
+      "title": "The Princess Bride",
+      "year": 1987,
+      "roles": [
+        "cast"
+      ],
+      "character": "The Grandfather"
+    },
+    {
+      "imdb_id": "tt0093191",
+      "title": "Wings of Desire",
+      "year": 1987,
+      "roles": [
+        "cast"
+      ],
+      "character": "Der Filmstar"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTk4ODUwNDE3MF5BMl5BanBnXkFtZTYwMjA1NTM0._V1_.jpg",
+  "birth_date": "16.09.1927",
+  "death_date": "23.06.2011",
+  "birth_location": "New York City, New York, USA",
+  "height": "1.68 m",
+  "imdb_scraped": true,
+  "filmweb_id": 42642,
+  "name_pl": "Peter Falk",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 42642
+}

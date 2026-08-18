@@ -1,0 +1,40 @@
+{
+  "id": "nm1587194",
+  "name": "Emil Skladanowsky",
+  "filmography": [
+    {
+      "imdb_id": "tt0000017",
+      "title": "Italian Peasant Dance",
+      "year": 1895,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt1754898",
+      "title": "Wintergartenprogramm",
+      "year": 1895,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Self"
+    },
+    {
+      "imdb_id": "tt0405123",
+      "title": "Wrestling",
+      "year": 1895,
+      "roles": [
+        "director"
+      ]
+    }
+  ],
+  "birth_date": "08.06.1866",
+  "birth_location": "Berlin, Germany",
+  "filmweb_id": 475010,
+  "name_pl": "Emil Skladanowsky",
+  "birth_location_pl": "Berlin",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true
+}

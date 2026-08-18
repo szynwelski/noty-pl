@@ -1,0 +1,207 @@
+{
+  "imdb_id": "tt0018014",
+  "title": "Hotel Imperial",
+  "description": "During World War I, a hotel maid and Austrian officer in hiding attempt to survive in a Russian-occupied town.",
+  "runtime_minutes": 85,
+  "release_date": "01.01.1927",
+  "genres": [
+    "Drama",
+    "War"
+  ],
+  "stars": [
+    {
+      "id": "nm0624470",
+      "name": "Pola Negri"
+    },
+    {
+      "id": "nm0355671",
+      "name": "James Hall"
+    },
+    {
+      "id": "nm0797094",
+      "name": "George Siegmann"
+    },
+    {
+      "id": "nm0203439",
+      "name": "Max Davidson"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0830249",
+      "name": "Mauritz Stiller"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0083742",
+      "name": "Lajos Biró"
+    },
+    {
+      "id": "nm0299154",
+      "name": "Jules Furthman"
+    },
+    {
+      "id": "nm0562372",
+      "name": "Edwin Justus Mayer"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0624470",
+      "name": "Pola Negri",
+      "character": "Anna Sedlak"
+    },
+    {
+      "id": "nm0355671",
+      "name": "James Hall",
+      "character": "Lt. Paul Almasy"
+    },
+    {
+      "id": "nm0797094",
+      "name": "George Siegmann",
+      "character": "Gen. Juschkiewitsch"
+    },
+    {
+      "id": "nm0203439",
+      "name": "Max Davidson",
+      "character": "Elias Butterman"
+    },
+    {
+      "id": "nm0891349",
+      "name": "Michael Vavitch",
+      "character": "Tabakowitsch"
+    },
+    {
+      "id": "nm0295618",
+      "name": "Otto Fries",
+      "character": "Anton Klinak"
+    },
+    {
+      "id": "nm0816007",
+      "name": "Nicholas Soussanin",
+      "character": "Baron Fredrikson"
+    },
+    {
+      "id": "nm0905560",
+      "name": "Golden Wadhams",
+      "character": "Maj. Gen. Sultanov"
+    },
+    {
+      "id": "nm0077320",
+      "name": "George Berrell",
+      "character": "Old Man with White Hair"
+    },
+    {
+      "id": "nm1197652",
+      "name": "Ruth Feldman",
+      "character": "Woman in Parade Crowd"
+    },
+    {
+      "id": "nm0792065",
+      "name": "Georgia Sherart",
+      "character": "Bystander at Ending"
+    },
+    {
+      "id": "nm0842522",
+      "name": "Josef Swickard",
+      "character": "Austrian General"
+    },
+    {
+      "id": "nm0854415",
+      "name": "Mike Tellegen",
+      "character": "Passport Inspector"
+    },
+    {
+      "id": "nm0351904",
+      "name": "Carl von Haartman",
+      "character": "Russian Soldier"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": null,
+  "filmweb_id": 35385,
+  "year": 1927,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOTczNjhhZmYtZmQ3OS00MDFhLWJhYzktMjU1MmIyZDk1N2UyXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.7,
+      "votes": 304,
+      "distribution": {
+        "1": 5,
+        "2": 6,
+        "3": 5,
+        "4": 8,
+        "5": 20,
+        "6": 89,
+        "7": 75,
+        "8": 53,
+        "9": 18,
+        "10": 25
+      },
+      "normalized": 5.2071
+    },
+    "filmweb": {
+      "rating": 6.76,
+      "votes": 190,
+      "distribution": {
+        "2": 1,
+        "3": 6,
+        "4": 4,
+        "5": 17,
+        "6": 43,
+        "7": 70,
+        "8": 32,
+        "9": 11,
+        "10": 6
+      },
+      "normalized": 5.1733
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "19.10.2005",
+      "normalized": 5.4199
+    },
+    "score": 5.2668
+  },
+  "polish_title": "Hotel Imperial",
+  "silent": true,
+  "description_pl": "Galicja, rok 1915. Na froncie wschodnim trwa rosyjska ofensywa. W zajętym przez Rosjan miasteczku szuka schronienia porucznik węgierskich huzarów Paul Almasy (James Hall), który podczas odwrotu znalazł się za liniami wroga. Trafia do miejscowego Hotelu Imperial, gdzie ukrywa go pokojówka Anna (Pola Negri). Hotel za kwaterę wybiera sobie również rosyjski generał Juszkiewicz (<a href=\"/osoba/?id=nm0797094\">George Siegmann</a>), który od początku zaczyna interesować się piękną pokojówką.",
+  "producers": [
+    {
+      "id": "nm0489690",
+      "name": "Jesse L. Lasky"
+    },
+    {
+      "id": "nm0690143",
+      "name": "Erich Pommer"
+    },
+    {
+      "id": "nm0775976",
+      "name": "B.P. Schulberg"
+    },
+    {
+      "id": "nm0958532",
+      "name": "Adolph Zukor"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0005959",
+      "name": "Giuseppe Becce"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0322688",
+      "name": "Bert Glennon"
+    }
+  ],
+  "fetched_at": "2026-08-15"
+}

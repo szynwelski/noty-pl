@@ -1,0 +1,199 @@
+{
+  "imdb_id": "tt0030522",
+  "title": "Olympia Part One: Festival of the Nations",
+  "description": "The document of the 1936 Olympics at Berlin.",
+  "runtime_minutes": 111,
+  "release_date": "08.03.1940",
+  "genres": [
+    "Documentary",
+    "Sport"
+  ],
+  "stars": [
+    {
+      "id": "nm17549907",
+      "name": "Gunnar Bergh"
+    },
+    {
+      "id": "nm2807447",
+      "name": "Erich Borchmeyer"
+    },
+    {
+      "id": "nm17535247",
+      "name": "Ken Carpenter"
+    },
+    {
+      "id": "nm17553373",
+      "name": "Austin Cassar-Torreggiani"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0726166",
+      "name": "Leni Riefenstahl"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0726166",
+      "name": "Leni Riefenstahl"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm17549907",
+      "name": "Gunnar Bergh",
+      "character": "Self - Discus - Sweden"
+    },
+    {
+      "id": "nm2807447",
+      "name": "Erich Borchmeyer",
+      "character": "Self - 100 Meters, Germany"
+    },
+    {
+      "id": "nm17535247",
+      "name": "Ken Carpenter",
+      "character": "Self - Discus USA"
+    },
+    {
+      "id": "nm17553373",
+      "name": "Austin Cassar-Torreggiani",
+      "character": "Self - 100 Meters, Malta"
+    },
+    {
+      "id": "nm17549906",
+      "name": "Gordon Glover Dunn",
+      "character": "Self - Discus - USA"
+    },
+    {
+      "id": "nm17553372",
+      "name": "Doris Eckert",
+      "character": "Self - 80 Meters, Germany"
+    },
+    {
+      "id": "nm5094898",
+      "name": "Siegfried Eifrig",
+      "character": "Self - Olympic Flame Lighter"
+    },
+    {
+      "id": "nm3720440",
+      "name": "Tilly Fleischer",
+      "character": "Self - Javelin Throw, Germany"
+    },
+    {
+      "id": "nm17549902",
+      "name": "Hans Fritsch",
+      "character": "Self - Discus, Germany"
+    },
+    {
+      "id": "nm17549901",
+      "name": "Fumi Kojima",
+      "character": "Self - Discus, Japan"
+    },
+    {
+      "id": "nm3860836",
+      "name": "Luise Krüger",
+      "character": "Self - Javelin Throw, Germany"
+    },
+    {
+      "id": "nm3873264",
+      "name": "Maria Kwasniewska",
+      "character": "Self - Javelin Throw, Poland"
+    },
+    {
+      "id": "nm17549896",
+      "name": "Peigen Leng",
+      "character": "Self - Discus - China"
+    },
+    {
+      "id": "nm17553377",
+      "name": "Howie McPhee",
+      "character": "Self - 100 Meters, Canada"
+    },
+    {
+      "id": "nm17549897",
+      "name": "Hide Mineshima",
+      "character": "Self - Discus, Japan"
+    },
+    {
+      "id": "nm3873604",
+      "name": "Paula Mollenhauer",
+      "character": "Self - Discus Throw, Germany"
+    },
+    {
+      "id": "nm17549900",
+      "name": "Jules Noel",
+      "character": "Self - Discus, France"
+    },
+    {
+      "id": "nm17549905",
+      "name": "Giorgio Oberweger",
+      "character": "Self - Discus, Italy"
+    }
+  ],
+  "countries": [
+    "Germany"
+  ],
+  "languages": [
+    "German",
+    "English",
+    "Italian",
+    "French",
+    "Japanese",
+    "Portuguese"
+  ],
+  "color": "Black and White",
+  "year": 1938,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjAxMzM4NDk5MF5BMl5BanBnXkFtZTgwNjUzOTA2MjE@._V1_.jpg",
+  "filmweb_id": 98837,
+  "original_title": "Olympia 1. Teil - Fest der Völker",
+  "ratings": {
+    "imdb": {
+      "rating": 7.7,
+      "votes": 5764,
+      "distribution": {
+        "1": 135,
+        "2": 38,
+        "3": 39,
+        "4": 72,
+        "5": 221,
+        "6": 441,
+        "7": 1062,
+        "8": 1594,
+        "9": 997,
+        "10": 1165
+      },
+      "normalized": 6.5578
+    },
+    "filmweb": {
+      "rating": 7.78,
+      "votes": 1179,
+      "distribution": {
+        "1": 19,
+        "2": 0,
+        "3": 9,
+        "4": 12,
+        "5": 30,
+        "6": 74,
+        "7": 234,
+        "8": 486,
+        "9": 195,
+        "10": 120
+      },
+      "normalized": 6.7191
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "17.10.2007",
+      "normalized": 7.2292
+    },
+    "score": 6.8354
+  },
+  "polish_title": "Olimpiada, część I",
+  "silent": false,
+  "description_pl": "Wyznaczona przez Komitet Olimpijski do nakręcenia dokumentu o Olimpiadzie w Berlinie w 1936 roku Leni Riefenstahl stworzyła pean na cześć ludzkiego ciała, a jednocześnie dzieło gloryfikujące nazistowskie ideały. Film zawiera m.in. takie konkurencje jak: maraton czy nurkowanie, a także scenę zapalania pochodni na stadionie.",
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-15"
+}

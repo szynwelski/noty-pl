@@ -1,0 +1,40 @@
+{
+  "id": "nm0871287",
+  "name": "Henry Travers",
+  "filmography": [
+    {
+      "imdb_id": "tt0036342",
+      "title": "Shadow of a Doubt",
+      "year": 1943,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Joseph Newton"
+    },
+    {
+      "imdb_id": "tt0038650",
+      "title": "It's a Wonderful Life",
+      "year": 1946,
+      "roles": [
+        "cast"
+      ],
+      "character": "Clarence"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTAxOTA4ODA1MTdeQTJeQWpwZ15BbWU3MDY1MTAwMjg@._V1_.jpg",
+  "birth_date": "05.03.1874",
+  "death_date": "18.10.1965",
+  "birth_location": "Prudhoe, Northumberland, England, UK",
+  "height": "1.64 m",
+  "imdb_scraped": true,
+  "filmweb_id": 53056,
+  "name_pl": "Henry Travers",
+  "birth_location_pl": "Berwick-upon-Tweed, Anglia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 53056
+}

@@ -1,0 +1,31 @@
+{
+  "id": "nm0539719",
+  "name": "Greg Malins",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZmMxOWJiMTAtNmE3MC00YzA4LTliOTktMmQyOWJmNTRhMTRlXkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0108778",
+      "title": "Friends",
+      "year": 1994,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0460649",
+      "title": "How I Met Your Mother",
+      "year": 2005,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "birth_date": "05.12.1967",
+  "birth_location": "Seattle, Washington, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 140408,
+  "name_pl": "Greg Malins",
+  "birth_location_pl": "Seattle, Waszyngton",
+  "gender": "M",
+  "wikidata_processed": true
+}

@@ -1,0 +1,88 @@
+{
+  "imdb_id": "tt3201916",
+  "title": "Je vous aime",
+  "description": "Medium close-up of a man saying \"Je vous aime\".",
+  "runtime_minutes": 1,
+  "release_date": "01.01.1891",
+  "genres": [
+    "Short"
+  ],
+  "stars": [
+    {
+      "id": "nm2930046",
+      "name": "Georges Demenÿ"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm2930046",
+      "name": "Georges Demenÿ"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm2930046",
+      "name": "Georges Demenÿ",
+      "character": "Self"
+    }
+  ],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 701677,
+  "year": 1891,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDAxZDI0NGQtNmQ3My00YzdiLTllZjgtMWU4NDg0OGYwMDY4XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5,
+      "votes": 490,
+      "distribution": {
+        "1": 38,
+        "2": 25,
+        "3": 31,
+        "4": 57,
+        "5": 159,
+        "6": 81,
+        "7": 39,
+        "8": 19,
+        "9": 8,
+        "10": 33
+      },
+      "normalized": 4.0132
+    },
+    "filmweb": {
+      "rating": 4.38,
+      "votes": 50,
+      "distribution": {
+        "1": 7,
+        "2": 4,
+        "3": 8,
+        "4": 8,
+        "5": 9,
+        "6": 4,
+        "7": 4,
+        "8": 4,
+        "9": 1,
+        "10": 1
+      },
+      "normalized": 4.4829
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "11.12.2016",
+      "normalized": 6.4102
+    },
+    "score": 4.9688
+  },
+  "polish_title": "Je vous aime",
+  "silent": true,
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-16"
+}

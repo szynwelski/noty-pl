@@ -1,0 +1,259 @@
+{
+  "imdb_id": "tt0299658",
+  "title": "Chicago",
+  "description": "Two death-row murderesses develop a fierce rivalry while competing for publicity, celebrity, and a sleazy lawyer's attention.",
+  "runtime_minutes": 113,
+  "release_date": "24.01.2003",
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Musical"
+  ],
+  "stars": [
+    {
+      "id": "nm0000250",
+      "name": "Renée Zellweger"
+    },
+    {
+      "id": "nm0001876",
+      "name": "Catherine Zeta-Jones"
+    },
+    {
+      "id": "nm0000152",
+      "name": "Richard Gere"
+    },
+    {
+      "id": "nm0004875",
+      "name": "Taye Diggs"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0551128",
+      "name": "Rob Marshall"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0174374",
+      "name": "Bill Condon"
+    },
+    {
+      "id": "nm0002080",
+      "name": "Bob Fosse"
+    },
+    {
+      "id": "nm0247939",
+      "name": "Fred Ebb"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000250",
+      "name": "Renée Zellweger",
+      "character": "Roxie Hart"
+    },
+    {
+      "id": "nm0001876",
+      "name": "Catherine Zeta-Jones",
+      "character": "Velma Kelly"
+    },
+    {
+      "id": "nm0000152",
+      "name": "Richard Gere",
+      "character": "Billy Flynn"
+    },
+    {
+      "id": "nm0004875",
+      "name": "Taye Diggs",
+      "character": "Bandleader"
+    },
+    {
+      "id": "nm0766761",
+      "name": "Cliff Saunders",
+      "character": "Stage Manager"
+    },
+    {
+      "id": "nm0922035",
+      "name": "Dominic West",
+      "character": "Fred Casely"
+    },
+    {
+      "id": "nm0247720",
+      "name": "Jayne Eastwood",
+      "character": "Mrs. Borusewicz"
+    },
+    {
+      "id": "nm0064098",
+      "name": "Bruce Beaton",
+      "character": "Police Photographer"
+    },
+    {
+      "id": "nm0687999",
+      "name": "Roman Podhora",
+      "character": "Sergeant Fogarty"
+    },
+    {
+      "id": "nm0000604",
+      "name": "John C. Reilly",
+      "character": "Amos Hart"
+    },
+    {
+      "id": "nm0272173",
+      "name": "Colm Feore",
+      "character": "Harrison"
+    },
+    {
+      "id": "nm0809727",
+      "name": "Rob Smith",
+      "character": "Newspaper Photographer"
+    },
+    {
+      "id": "nm1216312",
+      "name": "Sean Wayne Doyle",
+      "character": "Reporter"
+    },
+    {
+      "id": "nm0066846",
+      "name": "Steve Behal",
+      "character": "Prison Clerk"
+    },
+    {
+      "id": "nm0746881",
+      "name": "Robbie Rox",
+      "character": "Prison Guard"
+    },
+    {
+      "id": "nm0729234",
+      "name": "Chita Rivera",
+      "character": "Nickie"
+    },
+    {
+      "id": "nm0001451",
+      "name": "Queen Latifah",
+      "character": "Matron Mama Morton"
+    },
+    {
+      "id": "nm0592874",
+      "name": "Susan Misner",
+      "character": "Liz"
+    }
+  ],
+  "countries": [
+    "Germany",
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Hungarian"
+  ],
+  "color": "Color",
+  "filmweb_id": 33246,
+  "year": 2002,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNmJmZDEyNTctOTM1MS00NWEwLWFkMjctMjhhODEzMjU1MjA0XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.2,
+      "votes": 258068,
+      "distribution": {
+        "1": 5688,
+        "2": 3022,
+        "3": 4269,
+        "4": 6993,
+        "5": 15181,
+        "6": 32388,
+        "7": 63056,
+        "8": 61504,
+        "9": 33483,
+        "10": 32484
+      },
+      "normalized": 5.9471
+    },
+    "filmweb": {
+      "rating": 7.38,
+      "votes": 96382,
+      "distribution": {
+        "1": 609,
+        "2": 460,
+        "3": 1348,
+        "4": 2171,
+        "5": 5191,
+        "6": 11582,
+        "7": 25455,
+        "8": 29671,
+        "9": 13322,
+        "10": 6573
+      },
+      "normalized": 6.4464
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "02.12.2005",
+      "normalized": 6.4102
+    },
+    "michal": {
+      "rating": 3,
+      "date_rated": "19.10.2005",
+      "normalized": 3.8753
+    },
+    "score": 5.6697
+  },
+  "polish_title": "Chicago",
+  "silent": false,
+  "description_pl": "Znany broadwayowski reżyser teatralny w filmowej adaptacji nagrodzonego Tony musicalu o seksie, morderstwie, zazdrości i jazzie. Historia seksownej, wodewilowej piosenkarki Roxie Hart, która zamknięta w więzieniu za zabójstwo swojego kochanka staje się obiektem podziwu, dzięki pomocy swojego niezbyt uczciwego prawnika.",
+  "producers": [
+    {
+      "id": "nm1289883",
+      "name": "Jennifer Berman"
+    },
+    {
+      "id": "nm0138502",
+      "name": "Don Carmody"
+    },
+    {
+      "id": "nm1134021",
+      "name": "Sam Crothers"
+    },
+    {
+      "id": "nm0248616",
+      "name": "John M. Eckert"
+    },
+    {
+      "id": "nm0326252",
+      "name": "Julie Goldstein"
+    },
+    {
+      "id": "nm0581117",
+      "name": "Neil Meron"
+    },
+    {
+      "id": "nm0692921",
+      "name": "Meryl Poster"
+    },
+    {
+      "id": "nm0724237",
+      "name": "Martin Richards"
+    },
+    {
+      "id": "nm0918424",
+      "name": "Bob Weinstein"
+    },
+    {
+      "id": "nm0005544",
+      "name": "Harvey Weinstein"
+    },
+    {
+      "id": "nm0951722",
+      "name": "Craig Zadan"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0066244",
+      "name": "Dion Beebe"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

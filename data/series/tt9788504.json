@@ -1,0 +1,134 @@
+{
+  "imdb_id": "tt9788504",
+  "title": "Helping Hand",
+  "description": "Stranded in orbit, an astronaut must choose between life and limb before her oxygen runs out.",
+  "runtime_minutes": 10,
+  "release_date": "15.03.2019",
+  "genres": [
+    "Animation",
+    "Short",
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Drama",
+    "Fantasy",
+    "Horror",
+    "Mystery",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm5930685",
+      "name": "Elly Condron"
+    },
+    {
+      "id": "nm1930408",
+      "name": "Christopher Lee Parson"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm1166916",
+      "name": "Gabriele Pennacchioli"
+    },
+    {
+      "id": "nm2728536",
+      "name": "Jon Yeo"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm10616328",
+      "name": "Claudine Griggs"
+    },
+    {
+      "id": "nm3664884",
+      "name": "Philip Gelatt"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm5930685",
+      "name": "Elly Condron",
+      "character": "Alexandria"
+    },
+    {
+      "id": "nm1930408",
+      "name": "Christopher Lee Parson",
+      "character": "Bill"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 10019655,
+  "year": 2019,
+  "type": "tvEpisode",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTFmZGUxZTEtNTU0Yy00YTgyLTgwYjUtOGM1YzE4OWE0ZDcyXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.3,
+      "votes": 18485,
+      "distribution": {
+        "1": 167,
+        "2": 117,
+        "3": 169,
+        "4": 353,
+        "5": 890,
+        "6": 2452,
+        "7": 5415,
+        "8": 5233,
+        "9": 2190,
+        "10": 1499
+      }
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "28.10.2022"
+    }
+  },
+  "polish_title": "Helping Hand",
+  "silent": false,
+  "producers": [
+    {
+      "id": "nm2230806",
+      "name": "Caleb Bouchard"
+    },
+    {
+      "id": "nm0232433",
+      "name": "Joshua Donen"
+    },
+    {
+      "id": "nm0000399",
+      "name": "David Fincher"
+    },
+    {
+      "id": "nm2126361",
+      "name": "Victoria L. Howard"
+    },
+    {
+      "id": "nm10380524",
+      "name": "Jennifer Miller"
+    },
+    {
+      "id": "nm1783265",
+      "name": "Tim Miller"
+    },
+    {
+      "id": "nm11677445",
+      "name": "Debbie Ross"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm1052252",
+      "name": "Rob Cairns"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

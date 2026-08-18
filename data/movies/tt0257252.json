@@ -1,0 +1,190 @@
+{
+  "imdb_id": "tt0257252",
+  "title": "Velký prípad",
+  "description": "",
+  "runtime_minutes": 80,
+  "release_date": "20.12.1946",
+  "genres": [
+    "Comedy",
+    "War"
+  ],
+  "stars": [
+    {
+      "id": "nm0699138",
+      "name": "Jaroslav Průcha"
+    },
+    {
+      "id": "nm0090571",
+      "name": "Vítězslav Boček"
+    },
+    {
+      "id": "nm0904032",
+      "name": "Bedřich Vrbský"
+    },
+    {
+      "id": "nm0124379",
+      "name": "Helena Bušová"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0473603",
+      "name": "Václav Kubásek"
+    },
+    {
+      "id": "nm0532385",
+      "name": "Josef Mach"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0473603",
+      "name": "Václav Kubásek"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0699138",
+      "name": "Jaroslav Průcha",
+      "character": "Mlynár (Konrád Peitel)"
+    },
+    {
+      "id": "nm0090571",
+      "name": "Vítězslav Boček",
+      "character": "Hermann Hähne"
+    },
+    {
+      "id": "nm0904032",
+      "name": "Bedřich Vrbský",
+      "character": "Nadlesní"
+    },
+    {
+      "id": "nm0124379",
+      "name": "Helena Bušová",
+      "character": "Majitelka vinárny"
+    },
+    {
+      "id": "nm0297113",
+      "name": "Dagmar Frýbortová",
+      "character": "Dcera mlynáre"
+    },
+    {
+      "id": "nm0720021",
+      "name": "Vladimír Řepa",
+      "character": "Starosta"
+    },
+    {
+      "id": "nm0959149",
+      "name": "Bohuš Záhorský",
+      "character": "Prednosta stanice"
+    },
+    {
+      "id": "nm0277070",
+      "name": "František Filipovský",
+      "character": "Redaktor"
+    },
+    {
+      "id": "nm0223384",
+      "name": "Rudolf Deyl",
+      "character": "Zvérolékár"
+    },
+    {
+      "id": "nm0695657",
+      "name": "Bolek Prchal",
+      "character": "Sedlák"
+    },
+    {
+      "id": "nm0627126",
+      "name": "Stanislav Neumann",
+      "character": "Hodinár"
+    },
+    {
+      "id": "nm0712119",
+      "name": "Martin Raus",
+      "character": "Wohryzka"
+    },
+    {
+      "id": "nm0841373",
+      "name": "Václav Svorc",
+      "character": "Cet. strázmistr"
+    },
+    {
+      "id": "nm0387192",
+      "name": "Vladimír Hlavatý",
+      "character": "Matonoha"
+    },
+    {
+      "id": "nm1855102",
+      "name": "Rudolf Moravek",
+      "character": "Vrtátko"
+    },
+    {
+      "id": "nm0666834",
+      "name": "František Paul",
+      "character": "Velitel Volkssturmu"
+    },
+    {
+      "id": "nm0245359",
+      "name": "Alois Dvorský",
+      "character": "Pokladník zálozny"
+    },
+    {
+      "id": "nm0366289",
+      "name": "Gabriel Hart",
+      "character": "Prof. Weissenberger"
+    }
+  ],
+  "countries": [
+    "Czechoslovakia"
+  ],
+  "languages": [
+    "Czech"
+  ],
+  "color": "Black and White",
+  "year": 1946,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYWE0YTMwNTAtNjczMy00YTBiLWIwZDEtNTQ5OGQwYTdlZmJhXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": null,
+  "ratings": {
+    "imdb": {
+      "rating": 6.3,
+      "votes": 12,
+      "distribution": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 2,
+        "6": 5,
+        "7": 2,
+        "8": 1,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 5.2912
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "27.11.2005",
+      "normalized": 5.4199
+    },
+    "score": 5.4037,
+    "filmweb": {
+      "normalized": 5.5
+    }
+  },
+  "silent": false,
+  "composers": [
+    {
+      "id": "nm0435541",
+      "name": "Julius Kalaš"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0891977",
+      "name": "Julius Vegricht"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "nm0001855",
+  "name": "Tom Wilson",
+  "filmography": [
+    {
+      "imdb_id": "tt0088763",
+      "title": "Back to the Future",
+      "year": 1985,
+      "roles": [
+        "cast"
+      ],
+      "character": "Biff Tannen"
+    },
+    {
+      "imdb_id": "tt0096874",
+      "title": "Back to the Future Part II",
+      "year": 1989,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Biff Tannen"
+    },
+    {
+      "imdb_id": "tt0099088",
+      "title": "Back to the Future Part III",
+      "year": 1990,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Buford 'Mad Dog' Tannen"
+    },
+    {
+      "imdb_id": "tt1130080",
+      "title": "The Informant!",
+      "year": 2009,
+      "roles": [
+        "cast"
+      ],
+      "character": "Mark Cheviron"
+    },
+    {
+      "imdb_id": "tt2404463",
+      "title": "The Heat",
+      "year": 2013,
+      "roles": [
+        "cast"
+      ],
+      "character": "Captain Woods"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTM3MzM4ODM4M15BMl5BanBnXkFtZTYwMDU1Mzky._V1_.jpg",
+  "birth_date": "15.04.1959",
+  "birth_location": "Philadelphia, Pennsylvania, USA",
+  "height": "1.89 m",
+  "filmweb_id": 40755,
+  "name_pl": "Tom Wilson",
+  "birth_location_pl": "Filadelfia, Pensylwania",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 40755
+}

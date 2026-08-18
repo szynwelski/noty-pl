@@ -1,0 +1,127 @@
+{
+  "imdb_id": "tt0000026",
+  "title": "The Messers. Lumière at Cards",
+  "description": "Two men play cards, as a third watches and a waiter brings drinks. The third man pours drinks as the waiter laughs.",
+  "runtime_minutes": 1,
+  "release_date": "23.02.1896",
+  "genres": [
+    "Documentary",
+    "Short"
+  ],
+  "stars": [
+    {
+      "id": "nm2350007",
+      "name": "Antoine Féraud"
+    },
+    {
+      "id": "nm0525907",
+      "name": "Antoine Lumière"
+    },
+    {
+      "id": "nm1151424",
+      "name": "Félicien Trewey"
+    },
+    {
+      "id": "nm2354154",
+      "name": "Alphonse Winckler"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0525910",
+      "name": "Louis Lumière"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm2350007",
+      "name": "Antoine Féraud",
+      "character": "Self - Valet"
+    },
+    {
+      "id": "nm0525907",
+      "name": "Antoine Lumière",
+      "character": "Self - Man playing cards, seated on the left"
+    },
+    {
+      "id": "nm1151424",
+      "name": "Félicien Trewey",
+      "character": "Self - Man playing cards, seated on the right"
+    },
+    {
+      "id": "nm2354154",
+      "name": "Alphonse Winckler",
+      "character": "Self - Man playing cards, seated in the middle"
+    }
+  ],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 96235,
+  "year": 1896,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNGQ0MzQ1YWItYzk2ZC00NTE5LTk1ZDktNDNmZTgwZGIzOWY1XkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Partie d'écarté",
+  "ratings": {
+    "imdb": {
+      "rating": 5.6,
+      "votes": 1763,
+      "distribution": {
+        "1": 63,
+        "2": 56,
+        "3": 73,
+        "4": 143,
+        "5": 445,
+        "6": 528,
+        "7": 248,
+        "8": 95,
+        "9": 29,
+        "10": 83
+      },
+      "normalized": 3.6173
+    },
+    "filmweb": {
+      "rating": 5.69,
+      "votes": 547,
+      "distribution": {
+        "1": 9,
+        "2": 17,
+        "3": 26,
+        "4": 49,
+        "5": 145,
+        "6": 144,
+        "7": 96,
+        "8": 33,
+        "9": 10,
+        "10": 18
+      },
+      "normalized": 3.7201
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "11.12.2016",
+      "normalized": 4.9718
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "21.10.2007",
+      "normalized": 4.5781
+    },
+    "score": 4.2218
+  },
+  "polish_title": "Gra w karty",
+  "silent": true,
+  "description_pl": "Kolejny krótkometrażowy film Louisa Lumiere. Tym razem filmuje dwóch mężczyzn grających w karty i trzeciego, który im się przygląda. Kelner przynosi drinki.",
+  "cinematographers": [
+    {
+      "id": "nm0525910",
+      "name": "Louis Lumière"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-15"
+}

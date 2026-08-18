@@ -1,0 +1,83 @@
+{
+  "id": "nm0001008",
+  "name": "Frank Capra",
+  "filmography": [
+    {
+      "imdb_id": "tt0025316",
+      "title": "It Happened One Night",
+      "year": 1934,
+      "roles": [
+        "director",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0027996",
+      "title": "Mr. Deeds Goes to Town",
+      "year": 1936,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0029162",
+      "title": "Lost Horizon",
+      "year": 1937,
+      "roles": [
+        "director",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0031679",
+      "title": "Mr. Smith Goes to Washington",
+      "year": 1939,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0182766",
+      "title": "The Battle of Britain",
+      "year": 1943,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0036613",
+      "title": "Arsenic and Old Lace",
+      "year": 1944,
+      "roles": [
+        "director",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0038650",
+      "title": "It's a Wonderful Life",
+      "year": 1946,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNGNjYTM0MmMtYmMwZC00NWRjLWE3MDAtNDEyYWY3NWIzZTM1XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "18.05.1897",
+  "death_date": "03.09.1991",
+  "birth_location": "Bisacquino, Sicily, Italy",
+  "height": "1.70 m",
+  "filmweb_id": 50724,
+  "name_pl": "Frank Capra",
+  "birth_location_pl": "Bisacquino",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Włochy",
+    "Stany Zjednoczone",
+    "Zjednoczone Królestwo Włoch"
+  ],
+  "wikidata_fw_id": 50724
+}

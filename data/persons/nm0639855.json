@@ -1,0 +1,38 @@
+{
+  "id": "nm0639855",
+  "name": "Tom O'Brien",
+  "filmography": [
+    {
+      "imdb_id": "tt0015624",
+      "title": "The Big Parade",
+      "year": 1925,
+      "roles": [
+        "cast"
+      ],
+      "character": "Bull"
+    },
+    {
+      "imdb_id": "tt0020080",
+      "title": "The Last Warning",
+      "year": 1928,
+      "roles": [
+        "cast"
+      ],
+      "character": "Inspector"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNmY3ZmQyZjgtMTU1NC00M2I1LThlODQtNDA2ZDZhZmFiYTlkXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "25.07.1890",
+  "death_date": "08.06.1947",
+  "birth_location": "San Diego, California, USA",
+  "height": "1.82 m",
+  "imdb_scraped": true,
+  "filmweb_id": 110546,
+  "name_pl": "Tom O'Brien",
+  "birth_location_pl": "San Diego, Kalifornia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "imdb_id": "tt22091698",
+  "title": "Someone Borrowed",
+  "description": "A stubborn bachelor hires an actress to play his fiancee to fulfill his dying mother's final wish, and try to avoid her deleting him from her will.",
+  "runtime_minutes": 107,
+  "release_date": "13.10.2022",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm3412586",
+      "name": "Caio Castro"
+    },
+    {
+      "id": "nm6474717",
+      "name": "Thati Lopes"
+    },
+    {
+      "id": "nm3240305",
+      "name": "Mariana Xavier"
+    },
+    {
+      "id": "nm0935423",
+      "name": "Danielle Winits"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm1006796",
+      "name": "Cris D'Amato"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm14054241",
+      "name": "Luanna Guimarães"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm3412586",
+      "name": "Caio Castro",
+      "character": "Luiz"
+    },
+    {
+      "id": "nm6474717",
+      "name": "Thati Lopes",
+      "character": "Lina"
+    },
+    {
+      "id": "nm3240305",
+      "name": "Mariana Xavier",
+      "character": "Maria Inez"
+    },
+    {
+      "id": "nm0935423",
+      "name": "Danielle Winits",
+      "character": "Soraya"
+    },
+    {
+      "id": "nm5764625",
+      "name": "Danilo de Moura",
+      "character": "Nestor"
+    },
+    {
+      "id": "nm3692255",
+      "name": "Fafá Rennó",
+      "character": "Maria Eugênia"
+    },
+    {
+      "id": "nm8179302",
+      "name": "Bruna Louise",
+      "character": "Maria Clara"
+    },
+    {
+      "id": "nm5479252",
+      "name": "Gabi Lopes",
+      "character": "Paulinha"
+    },
+    {
+      "id": "nm3039589",
+      "name": "Polliana Aleixo",
+      "character": "Suellen Glória"
+    },
+    {
+      "id": "nm10332726",
+      "name": "Vanessa Loren",
+      "character": "Cris"
+    },
+    {
+      "id": "nm0871244",
+      "name": "Patricya Travassos",
+      "character": "Dona Carlota"
+    },
+    {
+      "id": "nm7836746",
+      "name": "Thamiris Mandú",
+      "character": "Ilana"
+    },
+    {
+      "id": "nm2872530",
+      "name": "Flávio Pardal",
+      "character": "Samir"
+    },
+    {
+      "id": "nm0463207",
+      "name": "Arthur Kohl",
+      "character": "Dr. Edmar"
+    },
+    {
+      "id": "nm5861287",
+      "name": "Felipe Montanari",
+      "character": "MC"
+    },
+    {
+      "id": "nm6495786",
+      "name": "Olivia Castanho",
+      "character": "Suellen Glória"
+    },
+    {
+      "id": "nm1872697",
+      "name": "Gloria Garayua",
+      "character": ""
+    },
+    {
+      "id": "nm0387521",
+      "name": "Keisuke Hoashi",
+      "character": "Pedro"
+    }
+  ],
+  "countries": [
+    "Brazil"
+  ],
+  "languages": [
+    "Portuguese"
+  ],
+  "color": "Color",
+  "filmweb_id": 10020598,
+  "year": 2022,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BN2FmNjg5ZTYtOTU2YS00MWMzLThkZmYtMmJjYjA3M2Q4NTU2XkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Esposa de Aluguel",
+  "ratings": {
+    "imdb": {
+      "rating": 5.7,
+      "votes": 2020,
+      "distribution": {
+        "1": 76,
+        "2": 58,
+        "3": 76,
+        "4": 187,
+        "5": 400,
+        "6": 505,
+        "7": 362,
+        "8": 169,
+        "9": 74,
+        "10": 113
+      },
+      "normalized": 3.6615
+    },
+    "filmweb": {
+      "rating": 5.06,
+      "votes": 1726,
+      "distribution": {
+        "1": 33,
+        "2": 76,
+        "3": 175,
+        "4": 313,
+        "5": 456,
+        "6": 382,
+        "7": 184,
+        "8": 73,
+        "9": 14,
+        "10": 20
+      },
+      "normalized": 2.4803
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "14.10.2022",
+      "normalized": 4.9718
+    },
+    "score": 3.7045
+  },
+  "polish_title": "Małżonka do wynajęcia",
+  "silent": false,
+  "producers": [
+    {
+      "id": "nm2800314",
+      "name": "Carol Alckmin"
+    },
+    {
+      "id": "nm2401579",
+      "name": "Diana Almeida"
+    },
+    {
+      "id": "nm13776623",
+      "name": "Giovana Ferrarese"
+    },
+    {
+      "id": "nm9060326",
+      "name": "Gabriela Lima"
+    },
+    {
+      "id": "nm1995291",
+      "name": "Mayra Lucas"
+    },
+    {
+      "id": "nm1025540",
+      "name": "Patricia Zerbinatto"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

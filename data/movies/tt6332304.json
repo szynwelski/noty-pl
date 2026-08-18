@@ -1,0 +1,88 @@
+{
+  "imdb_id": "tt6332304",
+  "title": "Alfred Raymond Turner, Agnes May Turner and Wilfred Sidney Turner",
+  "description": "",
+  "runtime_minutes": 1,
+  "release_date": "08.07.1902",
+  "genres": [
+    "Short"
+  ],
+  "stars": [
+    {
+      "id": "nm9866060",
+      "name": "Agnes May Turner"
+    },
+    {
+      "id": "nm9866111",
+      "name": "Alfred Raymond Turner"
+    },
+    {
+      "id": "nm9866112",
+      "name": "Wilfred Sidney Turner"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm8643876",
+      "name": "Edward Raymond Turner"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm9866060",
+      "name": "Agnes May Turner",
+      "character": "Self"
+    },
+    {
+      "id": "nm9866111",
+      "name": "Alfred Raymond Turner",
+      "character": "Self"
+    },
+    {
+      "id": "nm9866112",
+      "name": "Wilfred Sidney Turner",
+      "character": "Self"
+    }
+  ],
+  "countries": [],
+  "languages": [],
+  "color": "Color",
+  "filmweb_id": 10101808,
+  "year": 1902,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZTU4NTBjY2UtN2IzMi00YTBjLTg2NjItMzJiMWZkYmE3NThmXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.4,
+      "votes": 53,
+      "distribution": {
+        "1": 8,
+        "2": 3,
+        "3": 2,
+        "4": 2,
+        "5": 6,
+        "6": 18,
+        "7": 6,
+        "8": 3,
+        "9": 0,
+        "10": 5
+      },
+      "normalized": 5.063
+    },
+    "jarek": {
+      "rating": 8,
+      "date_rated": "16.12.2016",
+      "normalized": 7.8989
+    },
+    "score": 6.154,
+    "filmweb": {
+      "normalized": 5.5
+    }
+  },
+  "polish_title": "Alfred Raymond Turner, Agnes May Turner and Wilfred Sidney Turner",
+  "silent": true,
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,243 @@
+{
+  "imdb_id": "tt0352248",
+  "title": "Cinderella Man",
+  "description": "The true story of James J. Braddock, a supposedly washed-up boxer, who returned to the spotlight to win the heavyweight championship of the world.",
+  "runtime_minutes": 144,
+  "release_date": "03.06.2005",
+  "genres": [
+    "Biography",
+    "Drama",
+    "Romance",
+    "Sport"
+  ],
+  "stars": [
+    {
+      "id": "nm0000128",
+      "name": "Russell Crowe"
+    },
+    {
+      "id": "nm0000250",
+      "name": "Renée Zellweger"
+    },
+    {
+      "id": "nm0081572",
+      "name": "Craig Bierko"
+    },
+    {
+      "id": "nm0316079",
+      "name": "Paul Giamatti"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000165",
+      "name": "Ron Howard"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0391132",
+      "name": "Cliff Hollingsworth"
+    },
+    {
+      "id": "nm0326040",
+      "name": "Akiva Goldsman"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000128",
+      "name": "Russell Crowe",
+      "character": "Jim Braddock"
+    },
+    {
+      "id": "nm0000250",
+      "name": "Renée Zellweger",
+      "character": "Mae Braddock"
+    },
+    {
+      "id": "nm0081572",
+      "name": "Craig Bierko",
+      "character": "Max Baer"
+    },
+    {
+      "id": "nm0316079",
+      "name": "Paul Giamatti",
+      "character": "Joe Gould"
+    },
+    {
+      "id": "nm0175916",
+      "name": "Paddy Considine",
+      "character": "Mike Wilson"
+    },
+    {
+      "id": "nm0569226",
+      "name": "Bruce McGill",
+      "character": "Jimmy Johnston"
+    },
+    {
+      "id": "nm0399126",
+      "name": "David Huband",
+      "character": "Ford Bond"
+    },
+    {
+      "id": "nm1161069",
+      "name": "Connor Price",
+      "character": "Jay Braddock"
+    },
+    {
+      "id": "nm1659650",
+      "name": "Ariel Waller",
+      "character": "Rosemarie Braddock"
+    },
+    {
+      "id": "nm0521901",
+      "name": "Patrick Louis",
+      "character": "Howard Braddock"
+    },
+    {
+      "id": "nm1679669",
+      "name": "Rosemarie DeWitt",
+      "character": "Sara"
+    },
+    {
+      "id": "nm0440514",
+      "name": "Linda Kash",
+      "character": "Lucille Gould"
+    },
+    {
+      "id": "nm0132757",
+      "name": "Nicholas Campbell",
+      "character": "Sporty Lewis"
+    },
+    {
+      "id": "nm0701578",
+      "name": "Gene Pyrz",
+      "character": "Jake"
+    },
+    {
+      "id": "nm0787825",
+      "name": "Chuck Shamata",
+      "character": "Father Rorick"
+    },
+    {
+      "id": "nm0133474",
+      "name": "Ron Canada",
+      "character": "Joe Jeanette"
+    },
+    {
+      "id": "nm1770466",
+      "name": "Alicia Johnston",
+      "character": "Alice"
+    },
+    {
+      "id": "nm1920144",
+      "name": "Troy Amos-Ross",
+      "character": "John Henry Lewis"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 107060,
+  "year": 2005,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYjQ3M2ZjMzYtNmQwNC00MjNkLTgzOTgtMjhjMDk0YzIzOWZkXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8,
+      "votes": 210459,
+      "distribution": {
+        "1": 1890,
+        "2": 627,
+        "3": 761,
+        "4": 1470,
+        "5": 3820,
+        "6": 11471,
+        "7": 38233,
+        "8": 75450,
+        "9": 43243,
+        "10": 33494
+      },
+      "normalized": 7.471
+    },
+    "filmweb": {
+      "rating": 7.7,
+      "votes": 85346,
+      "distribution": {
+        "1": 459,
+        "2": 281,
+        "3": 625,
+        "4": 1179,
+        "5": 2831,
+        "6": 7427,
+        "7": 20245,
+        "8": 29771,
+        "9": 14344,
+        "10": 8184
+      },
+      "normalized": 7.3492
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "11.08.2010",
+      "normalized": 4.9718
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "07.08.2006",
+      "normalized": 5.4199
+    },
+    "score": 6.303
+  },
+  "polish_title": "Człowiek ringu",
+  "silent": false,
+  "description_pl": "Opowieść o losach legendarnego sportowca Jima Braddocka - boksera, który po serii przegranych pojedynków, został zmuszony do porzucenia ringu. Podczas trudnych lat Wielkiego Kryzysu podejmował się wielu zajęć, by utrzymać rodzinę. Właśnie w tym okresie ponownie otrzymał szansę zmierzenia się z jednym z najlepszych bokserów tamtych czasów. Po niespodziewanym dla wszystkich zwycięstwie został wystawiony do walki z mistrzem świata - zawodnikiem znanym z uśmiercenia kilku swoich ringowych przeciwników.",
+  "producers": [
+    {
+      "id": "nm0004976",
+      "name": "Brian Grazer"
+    },
+    {
+      "id": "nm0356745",
+      "name": "Todd Hallowell"
+    },
+    {
+      "id": "nm0000165",
+      "name": "Ron Howard"
+    },
+    {
+      "id": "nm0001508",
+      "name": "Penny Marshall"
+    },
+    {
+      "id": "nm0569257",
+      "name": "Kathleen McGill"
+    },
+    {
+      "id": "nm0892550",
+      "name": "Louisa Velis"
+    },
+    {
+      "id": "nm0924270",
+      "name": "Jim Whitaker"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0002353",
+      "name": "Thomas Newman"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0869379",
+      "name": "Salvatore Totino"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

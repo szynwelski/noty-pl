@@ -1,0 +1,226 @@
+{
+  "imdb_id": "tt0337945",
+  "title": "Coronado",
+  "description": "An American woman, in search of her fiancé, becomes involved in a revolution of a Central American country.",
+  "runtime_minutes": 88,
+  "release_date": "22.04.2004",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "War"
+  ],
+  "stars": [
+    {
+      "id": "nm0202184",
+      "name": "Kristin Dattilo"
+    },
+    {
+      "id": "nm0737553",
+      "name": "Clayton Rohner"
+    },
+    {
+      "id": "nm0523350",
+      "name": "Michael Lowry"
+    },
+    {
+      "id": "nm0722636",
+      "name": "John Rhys-Davies"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0299603",
+      "name": "Claudio Fäh"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0257159",
+      "name": "Volker Engel"
+    },
+    {
+      "id": "nm0917846",
+      "name": "Marc Weigert"
+    },
+    {
+      "id": "nm0299603",
+      "name": "Claudio Fäh"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0202184",
+      "name": "Kristin Dattilo",
+      "character": "Claire Winslow"
+    },
+    {
+      "id": "nm0737553",
+      "name": "Clayton Rohner",
+      "character": "Arnet McClure"
+    },
+    {
+      "id": "nm0523350",
+      "name": "Michael Lowry",
+      "character": "Will Gallagher"
+    },
+    {
+      "id": "nm0722636",
+      "name": "John Rhys-Davies",
+      "character": "Presidente Hugo Luis Ramos"
+    },
+    {
+      "id": "nm0669254",
+      "name": "Daniel Zacapa",
+      "character": "Sancho"
+    },
+    {
+      "id": "nm0148869",
+      "name": "Gary Carlos Cervantes",
+      "character": "Jose"
+    },
+    {
+      "id": "nm0913992",
+      "name": "David Earl Waterman",
+      "character": "Renny"
+    },
+    {
+      "id": "nm0704385",
+      "name": "Byron Quiros",
+      "character": "General Rafael"
+    },
+    {
+      "id": "nm0700793",
+      "name": "David Purdham",
+      "character": "Ambassador Hurrie"
+    },
+    {
+      "id": "nm0602267",
+      "name": "Danny Mora",
+      "character": "Skeptical Interrogator"
+    },
+    {
+      "id": "nm1325037",
+      "name": "Rafael J. Noble",
+      "character": "Gullible Officer"
+    },
+    {
+      "id": "nm1323588",
+      "name": "Aline Mayagoitia",
+      "character": "Anna"
+    },
+    {
+      "id": "nm1324742",
+      "name": "Claudia de la Cabada",
+      "character": "Rafael's Subcomandante"
+    },
+    {
+      "id": "nm0260201",
+      "name": "José Escandón",
+      "character": "Prison Guard"
+    },
+    {
+      "id": "nm1203670",
+      "name": "Roger Nevares",
+      "character": "Outpost Guard Garcia"
+    },
+    {
+      "id": "nm0762107",
+      "name": "Diego Sandoval",
+      "character": "Execution Officer"
+    },
+    {
+      "id": "nm1319982",
+      "name": "Gabriel Ronquillo",
+      "character": "Colonel Valdez"
+    },
+    {
+      "id": "nm1322756",
+      "name": "Paco Estua",
+      "character": "Coupon Guy"
+    }
+  ],
+  "countries": [
+    "Germany",
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "color": "Color",
+  "filmweb_id": 121933,
+  "year": 2003,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BY2ZlZDkyYzAtZTNiYS00ODFlLWI4ODctZmIzMzU0ZjQ5NWZjXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 4.4,
+      "votes": 1642,
+      "distribution": {
+        "1": 176,
+        "2": 134,
+        "3": 192,
+        "4": 260,
+        "5": 316,
+        "6": 222,
+        "7": 163,
+        "8": 64,
+        "9": 31,
+        "10": 84
+      },
+      "normalized": 2.4959
+    },
+    "filmweb": {
+      "rating": 5.35,
+      "votes": 599,
+      "distribution": {
+        "1": 19,
+        "2": 21,
+        "3": 62,
+        "4": 82,
+        "5": 143,
+        "6": 126,
+        "7": 75,
+        "8": 33,
+        "9": 13,
+        "10": 25
+      },
+      "normalized": 3.3102
+    },
+    "michal": {
+      "rating": 1,
+      "date_rated": "02.03.2007",
+      "normalized": 2.2657
+    },
+    "score": 2.6906
+  },
+  "polish_title": "Coronado",
+  "silent": false,
+  "description_pl": "Narzeczony Claire (Kristin Dattilo) zapomina ważnych dokumentów, Claire wybiera się więc do Szwajcarii, aby mu je dostarczyć. Na miejscu dowiaduje się, że minęła się z nim, ponieważ chłopak wyjechał już do El Coronado, państwa w centralnej Ameryce, które stoi na krawędzi rewolucji. W towarzystwie reportera telewizyjnego Arneta McClure'a (Clayton Rohner), Claire podąża za narzeczonym.",
+  "producers": [
+    {
+      "id": "nm0257159",
+      "name": "Volker Engel"
+    },
+    {
+      "id": "nm0403552",
+      "name": "Bob Hurrie"
+    },
+    {
+      "id": "nm0917846",
+      "name": "Marc Weigert"
+    },
+    {
+      "id": "nm0917850",
+      "name": "Stacey Weigert"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0927510",
+      "name": "Ralf Wienrich"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

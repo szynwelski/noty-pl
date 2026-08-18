@@ -1,0 +1,40 @@
+{
+  "id": "nm0417361",
+  "name": "Tadeusz Janczar",
+  "filmography": [
+    {
+      "imdb_id": "tt0050585",
+      "title": "Kanal",
+      "year": 1957,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Ens. Jacek 'Korab'"
+    },
+    {
+      "imdb_id": "tt0052083",
+      "title": "Lydia Ate the Apple",
+      "year": 1958,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Pawel"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNjViMmQ0YTktNDEwYy00ZWFlLWE1YTEtZjFjZmVkOWZlYzI4XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "25.04.1926",
+  "death_date": "31.10.1997",
+  "birth_location": "Warsaw, Mazowieckie, Poland",
+  "imdb_scraped": true,
+  "filmweb_id": 8566,
+  "name_pl": "Tadeusz Janczar",
+  "birth_location_pl": "Warszawa",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Polska"
+  ],
+  "wikidata_fw_id": 8566
+}

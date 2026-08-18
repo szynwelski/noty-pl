@@ -1,0 +1,204 @@
+{
+  "imdb_id": "tt0237123",
+  "title": "Coupling",
+  "description": "Six best friends talk about all aspects of sex and relationships on their never-ending quest to find true love.",
+  "runtime_minutes": 30,
+  "release_date": "01.09.2001",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0202603",
+      "name": "Jack Davenport"
+    },
+    {
+      "id": "nm0069109",
+      "name": "Gina Bellman"
+    },
+    {
+      "id": "nm0018729",
+      "name": "Sarah Alexander"
+    },
+    {
+      "id": "nm0411214",
+      "name": "Kate Isitt"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0202603",
+      "name": "Jack Davenport",
+      "character": "Steve Taylor"
+    },
+    {
+      "id": "nm0069109",
+      "name": "Gina Bellman",
+      "character": "Jane Christie"
+    },
+    {
+      "id": "nm0018729",
+      "name": "Sarah Alexander",
+      "character": "Susan Walker"
+    },
+    {
+      "id": "nm0411214",
+      "name": "Kate Isitt",
+      "character": "Sally Harper"
+    },
+    {
+      "id": "nm0587060",
+      "name": "Ben Miles",
+      "character": "Patrick Maitland"
+    },
+    {
+      "id": "nm0185404",
+      "name": "Richard Coyle",
+      "character": "Jeffrey 'Jeff' Murdock"
+    },
+    {
+      "id": "nm0616960",
+      "name": "Richard Mylan",
+      "character": "Oliver Morris"
+    },
+    {
+      "id": "nm0321092",
+      "name": "Lou Gish",
+      "character": "Julia"
+    },
+    {
+      "id": "nm0128458",
+      "name": "Olivia Caffrey",
+      "character": "Tamsin"
+    },
+    {
+      "id": "nm0296592",
+      "name": "Mariella Frostrup",
+      "character": "Mariella Frostrup"
+    },
+    {
+      "id": "nm0654197",
+      "name": "Lloyd Owen",
+      "character": "James"
+    },
+    {
+      "id": "nm0549401",
+      "name": "Elizabeth Marmur",
+      "character": "Jill"
+    },
+    {
+      "id": "nm0288976",
+      "name": "Emilia Fox",
+      "character": "Wilma Lettings"
+    },
+    {
+      "id": "nm0040010",
+      "name": "Adam Astill",
+      "character": "Barman"
+    },
+    {
+      "id": "nm0697051",
+      "name": "Michael Price",
+      "character": "Barman"
+    },
+    {
+      "id": "nm0007893",
+      "name": "Amanda Abbington",
+      "character": "Nicola"
+    },
+    {
+      "id": "nm0557520",
+      "name": "William Scott-Masson",
+      "character": "Howard"
+    },
+    {
+      "id": "nm0416849",
+      "name": "Raji James",
+      "character": "Waiter"
+    }
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "year": 2000,
+  "type": "tvSeries",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BM2EzMTA4MjgtOTBiYS00NGI2LWJhYTQtYWUzZDI2YjI2NTJlXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 138433,
+  "ratings": {
+    "imdb": {
+      "rating": 8.5,
+      "votes": 50457,
+      "distribution": {
+        "1": 1430,
+        "2": 295,
+        "3": 304,
+        "4": 417,
+        "5": 696,
+        "6": 1700,
+        "7": 4716,
+        "8": 10112,
+        "9": 14508,
+        "10": 16279
+      }
+    },
+    "filmweb": {
+      "rating": 7.84,
+      "votes": 822,
+      "distribution": {
+        "1": 20,
+        "2": 6,
+        "3": 14,
+        "4": 11,
+        "5": 34,
+        "6": 42,
+        "7": 125,
+        "8": 229,
+        "9": 215,
+        "10": 126
+      }
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "02.08.2023"
+    }
+  },
+  "polish_title": "Każdy z każdym",
+  "silent": false,
+  "producers": [
+    {
+      "id": "nm0895054",
+      "name": "Beryl Vertue"
+    },
+    {
+      "id": "nm0895056",
+      "name": "Sue Vertue"
+    },
+    {
+      "id": "nm0673942",
+      "name": "Geoffrey Perkins"
+    },
+    {
+      "id": "nm0165058",
+      "name": "Sophie Clarke-Jervoise"
+    },
+    {
+      "id": "nm0607885",
+      "name": "Nick Mortimer"
+    },
+    {
+      "id": "nm0677319",
+      "name": "Murray Peterson"
+    },
+    {
+      "id": "nm1232959",
+      "name": "Jo Kay"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

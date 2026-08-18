@@ -1,0 +1,46 @@
+{
+  "id": "nm0751762",
+  "name": "Leon Russom",
+  "filmography": [
+    {
+      "imdb_id": "tt0170817",
+      "title": "Pilot",
+      "year": 1993,
+      "roles": [
+        "cast"
+      ],
+      "character": "Detective Miles"
+    },
+    {
+      "imdb_id": "tt0455275",
+      "title": "Prison Break",
+      "year": 2005,
+      "roles": [
+        "cast"
+      ],
+      "character": "General Jonathan Krantz"
+    },
+    {
+      "imdb_id": "tt1403865",
+      "title": "True Grit",
+      "year": 2010,
+      "roles": [
+        "cast"
+      ],
+      "character": "Sheriff"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTFmNDRiZGEtYWIzOC00NTQ3LWFmNTYtZGZlMWI2NjlmY2Q3XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "06.12.1941",
+  "birth_location": "Little Rock, Arkansas, USA",
+  "height": "1.75 m",
+  "filmweb_id": 41330,
+  "name_pl": "Leon Russom",
+  "birth_location_pl": "Little Rock, Arkansas",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

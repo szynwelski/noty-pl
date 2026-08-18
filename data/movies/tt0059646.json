@@ -1,0 +1,233 @@
+{
+  "imdb_id": "tt0059646",
+  "title": "Repulsion",
+  "description": "A withdrawn young manicurist who lives with her sister sinks into deep depression. When her sister leaves for a vacation, she begins to hallucinate, which quickly devolves into homicidal mania.",
+  "runtime_minutes": 105,
+  "release_date": "03.10.1965",
+  "genres": [
+    "Drama",
+    "Horror",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000366",
+      "name": "Catherine Deneuve"
+    },
+    {
+      "id": "nm0376915",
+      "name": "Ian Hendry"
+    },
+    {
+      "id": "nm0292159",
+      "name": "John Fraser"
+    },
+    {
+      "id": "nm0299014",
+      "name": "Yvonne Furneaux"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000591",
+      "name": "Roman Polanski"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000591",
+      "name": "Roman Polanski"
+    },
+    {
+      "id": "nm0102722",
+      "name": "Gérard Brach"
+    },
+    {
+      "id": "nm0831816",
+      "name": "David Stone"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000366",
+      "name": "Catherine Deneuve",
+      "character": "Carol Ledoux"
+    },
+    {
+      "id": "nm0376915",
+      "name": "Ian Hendry",
+      "character": "Michael"
+    },
+    {
+      "id": "nm0292159",
+      "name": "John Fraser",
+      "character": "Colin"
+    },
+    {
+      "id": "nm0299014",
+      "name": "Yvonne Furneaux",
+      "character": "Helen Ledoux"
+    },
+    {
+      "id": "nm0943859",
+      "name": "Patrick Wymark",
+      "character": "Landlord"
+    },
+    {
+      "id": "nm0396881",
+      "name": "Renee Houston",
+      "character": "Miss Balch"
+    },
+    {
+      "id": "nm0853293",
+      "name": "Valerie Taylor",
+      "character": "Madame Denise"
+    },
+    {
+      "id": "nm0898376",
+      "name": "James Villiers",
+      "character": "John"
+    },
+    {
+      "id": "nm0292136",
+      "name": "Helen Fraser",
+      "character": "Bridget"
+    },
+    {
+      "id": "nm0299412",
+      "name": "Hugh Futcher",
+      "character": "Reggie"
+    },
+    {
+      "id": "nm0581011",
+      "name": "Monica Merlin",
+      "character": "Mrs. Rendlesham"
+    },
+    {
+      "id": "nm0334081",
+      "name": "Imogen Graham",
+      "character": "Manicurist"
+    },
+    {
+      "id": "nm0695511",
+      "name": "Mike Pratt",
+      "character": "Workman"
+    },
+    {
+      "id": "nm2278568",
+      "name": "Lewis Alexander",
+      "character": "Neighbour"
+    },
+    {
+      "id": "nm0020270",
+      "name": "Tony Allen",
+      "character": "Neighbor"
+    },
+    {
+      "id": "nm3641068",
+      "name": "Joe Beckett",
+      "character": "Neighbour"
+    },
+    {
+      "id": "nm0069275",
+      "name": "Hercules Bellville",
+      "character": "Passer-by on South Kensington Street"
+    },
+    {
+      "id": "nm0097848",
+      "name": "Wallace Bosco",
+      "character": "Old Man"
+    }
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 1103,
+  "year": 1965,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOTE0YzBjNWEtZTE4NC00ZmM5LTllZmUtZGYwOGFlYWVjOGU2XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.5,
+      "votes": 61653,
+      "distribution": {
+        "1": 863,
+        "2": 469,
+        "3": 707,
+        "4": 1260,
+        "5": 2714,
+        "6": 6008,
+        "7": 13295,
+        "8": 17863,
+        "9": 10466,
+        "10": 8008
+      },
+      "normalized": 6.3891
+    },
+    "filmweb": {
+      "rating": 7.68,
+      "votes": 30101,
+      "distribution": {
+        "1": 305,
+        "2": 124,
+        "3": 304,
+        "4": 483,
+        "5": 1107,
+        "6": 2570,
+        "7": 6387,
+        "8": 10128,
+        "9": 5694,
+        "10": 2999
+      },
+      "normalized": 7.2561
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "19.10.2005",
+      "normalized": 6.3474
+    },
+    "score": 6.6642
+  },
+  "polish_title": "Wstręt",
+  "silent": false,
+  "description_pl": "Carol Ledoux (<a href=\"/osoba/?id=nm0000366\">Catherine Deneuve</a>) - młoda Belgijka, pracująca jako manicurzystka w jednym z londyńskich gabinetów kosmetycznych - dzieli mieszkanie ze swoją siostrą Heleną (Yvonne Furneaux) i jej kochankiem Michaelem (Ian Hendry). Po ich wyjeździe Carol zaczyna tracić równowagę duchową, cierpieć na halucynacje. Zostaje zwolniona z pracy i zabarykadowuje się w mieszkaniu. Po obelżywym telefonie żony Michaela wyłącza aparat, zrywając ostatecznie więź ze światem zewnętrznym.",
+  "producers": [
+    {
+      "id": "nm0349667",
+      "name": "Gene Gutowski"
+    },
+    {
+      "id": "nm0827946",
+      "name": "Robert Sterne"
+    },
+    {
+      "id": "nm0915508",
+      "name": "Sam Waynberg"
+    },
+    {
+      "id": "nm0459771",
+      "name": "Michael Klinger"
+    },
+    {
+      "id": "nm0855184",
+      "name": "Tony Tenser"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0357783",
+      "name": "Chico Hamilton"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0852405",
+      "name": "Gilbert Taylor"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

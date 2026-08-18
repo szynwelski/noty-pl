@@ -1,0 +1,49 @@
+{
+  "id": "nm0000821",
+  "name": "Amitabh Bachchan",
+  "filmography": [
+    {
+      "imdb_id": "tt0066763",
+      "title": "Anand",
+      "year": 1971,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Dr. Bhaskar K. Bannerjee"
+    },
+    {
+      "imdb_id": "tt0248126",
+      "title": "Kabhi Khushi Kabhie Gham...",
+      "year": 2001,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Yashvardhan Raichand"
+    },
+    {
+      "imdb_id": "tt1343092",
+      "title": "The Great Gatsby",
+      "year": 2013,
+      "roles": [
+        "cast"
+      ],
+      "character": "Meyer Wolfshiem"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTk1OTUxMzIzMV5BMl5BanBnXkFtZTcwMzMxMjI0Nw@@._V1_.jpg",
+  "birth_date": "11.10.1942",
+  "birth_location": "Allahabad, United Provinces, British India [now Prayagraj, Uttar Pradesh, India]",
+  "height": "1.88 m",
+  "filmweb_id": 105384,
+  "name_pl": "Amitabh Bachchan",
+  "birth_location_pl": "Allahabad",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Indie"
+  ],
+  "wikidata_fw_id": 105384
+}

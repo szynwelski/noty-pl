@@ -1,0 +1,213 @@
+{
+  "imdb_id": "tt0381392",
+  "title": "Ma mère",
+  "description": "When his father dies, a young man is introduced by his attractive, amoral mother to a world of hedonism and depravity.",
+  "runtime_minutes": 110,
+  "release_date": "19.05.2004",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0001376",
+      "name": "Isabelle Huppert"
+    },
+    {
+      "id": "nm0308039",
+      "name": "Louis Garrel"
+    },
+    {
+      "id": "nm0004381",
+      "name": "Emma de Caunes"
+    },
+    {
+      "id": "nm1301770",
+      "name": "Joana Preiss"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0393394",
+      "name": "Christophe Honoré"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0060652",
+      "name": "Georges Bataille"
+    },
+    {
+      "id": "nm0393394",
+      "name": "Christophe Honoré"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0001376",
+      "name": "Isabelle Huppert",
+      "character": "Hélène"
+    },
+    {
+      "id": "nm0308039",
+      "name": "Louis Garrel",
+      "character": "Pierre"
+    },
+    {
+      "id": "nm0004381",
+      "name": "Emma de Caunes",
+      "character": "Hansi"
+    },
+    {
+      "id": "nm1301770",
+      "name": "Joana Preiss",
+      "character": "Réa"
+    },
+    {
+      "id": "nm0598801",
+      "name": "Jean-Baptiste Montagut",
+      "character": "Loulou"
+    },
+    {
+      "id": "nm0721469",
+      "name": "Dominique Reymond",
+      "character": "Marthe"
+    },
+    {
+      "id": "nm0705005",
+      "name": "Olivier Rabourdin",
+      "character": "Robert"
+    },
+    {
+      "id": "nm0239947",
+      "name": "Philippe Duclos",
+      "character": "Le père"
+    },
+    {
+      "id": "nm0865734",
+      "name": "Pascal Tokatlian",
+      "character": "Klaus"
+    },
+    {
+      "id": "nm0354642",
+      "name": "Theo Hakola",
+      "character": "Ian"
+    },
+    {
+      "id": "nm0519933",
+      "name": "Nuno Lopes",
+      "character": "Le docteur"
+    },
+    {
+      "id": "nm1917743",
+      "name": "Patrick Fanik",
+      "character": "Eric"
+    },
+    {
+      "id": "nm1971607",
+      "name": "Susi Egetenmeier",
+      "character": "Le femme des dunes"
+    },
+    {
+      "id": "nm1977549",
+      "name": "Sylvie Marie Amour DeCristo",
+      "character": "Le femme de ménage"
+    }
+  ],
+  "countries": [
+    "France",
+    "Portugal",
+    "Austria",
+    "Spain"
+  ],
+  "languages": [
+    "French",
+    "English",
+    "German",
+    "Spanish"
+  ],
+  "color": "Color",
+  "filmweb_id": 124257,
+  "year": 2004,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTU5MzA3NTE4MF5BMl5BanBnXkFtZTcwMDkyMjkyMQ@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 4.9,
+      "votes": 8372,
+      "distribution": {
+        "1": 809,
+        "2": 505,
+        "3": 627,
+        "4": 1021,
+        "5": 1439,
+        "6": 1326,
+        "7": 1003,
+        "8": 704,
+        "9": 305,
+        "10": 633
+      },
+      "normalized": 2.2734
+    },
+    "filmweb": {
+      "rating": 5.69,
+      "votes": 782,
+      "distribution": {
+        "1": 33,
+        "2": 34,
+        "3": 72,
+        "4": 76,
+        "5": 125,
+        "6": 148,
+        "7": 130,
+        "8": 102,
+        "9": 32,
+        "10": 30
+      },
+      "normalized": 3.5449
+    },
+    "michal": {
+      "rating": 1,
+      "date_rated": "20.06.2008",
+      "normalized": 2.2657
+    },
+    "score": 2.6947
+  },
+  "polish_title": "Moja matka",
+  "silent": false,
+  "description_pl": "Film oparty na kontrowersyjnej noweli Georgesa Bataille'a. Po śmierci ojca, młody chłopak zostaje wprowadzony w hedonistyczny i zdeprawowany świat swojej matki. Zatracając się w tej rzeczywistości, chłopak poznaje coraz więcej mrocznych sekretów swojej rodzicielki.",
+  "producers": [
+    {
+      "id": "nm0104418",
+      "name": "Paulo Branco"
+    },
+    {
+      "id": "nm0166394",
+      "name": "Dimitri de Clercq"
+    },
+    {
+      "id": "nm0411942",
+      "name": "Alexander Dumreicher-Ivanceanu"
+    },
+    {
+      "id": "nm0469842",
+      "name": "Gabriele Kranzelbinder"
+    },
+    {
+      "id": "nm0529717",
+      "name": "Bernard-Henri Lévy"
+    },
+    {
+      "id": "nm0815082",
+      "name": "Stéphane Sorlat"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0522173",
+      "name": "Hélène Louvart"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

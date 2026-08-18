@@ -1,0 +1,30 @@
+{
+  "id": "nm0001569",
+  "name": "Chuck Norris",
+  "filmography": [
+    {
+      "imdb_id": "tt1764651",
+      "title": "The Expendables 2",
+      "year": 2012,
+      "roles": [
+        "cast"
+      ],
+      "character": "Booker"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZDFjOWRiNDktMTMyNy00MDYxLWFkYjYtN2IxNTYyMzZmZjljXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "10.03.1940",
+  "death_date": "19.03.2026",
+  "birth_location": "Ryan, Oklahoma, USA",
+  "height": "1.74 m",
+  "imdb_scraped": true,
+  "filmweb_id": 325,
+  "name_pl": "Chuck Norris",
+  "birth_location_pl": "Ryan, Oklahoma",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 325
+}

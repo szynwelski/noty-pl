@@ -1,0 +1,245 @@
+{
+  "imdb_id": "tt0119217",
+  "title": "Good Will Hunting",
+  "description": "A therapist counsels Will Hunting, a janitor with a genius IQ.",
+  "runtime_minutes": 126,
+  "release_date": "09.01.1998",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0000245",
+      "name": "Robin Williams"
+    },
+    {
+      "id": "nm0000354",
+      "name": "Matt Damon"
+    },
+    {
+      "id": "nm0000255",
+      "name": "Ben Affleck"
+    },
+    {
+      "id": "nm0001745",
+      "name": "Stellan Skarsgård"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001814",
+      "name": "Gus Van Sant"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000354",
+      "name": "Matt Damon"
+    },
+    {
+      "id": "nm0000255",
+      "name": "Ben Affleck"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000245",
+      "name": "Robin Williams",
+      "character": "Sean"
+    },
+    {
+      "id": "nm0000354",
+      "name": "Matt Damon",
+      "character": "Will"
+    },
+    {
+      "id": "nm0000255",
+      "name": "Ben Affleck",
+      "character": "Chuckie"
+    },
+    {
+      "id": "nm0001745",
+      "name": "Stellan Skarsgård",
+      "character": "Lambeau"
+    },
+    {
+      "id": "nm0585906",
+      "name": "John Mighton",
+      "character": "Tom"
+    },
+    {
+      "id": "nm0538259",
+      "name": "Rachel Majorowski",
+      "character": "Krystyn"
+    },
+    {
+      "id": "nm0565494",
+      "name": "Colleen McCauley",
+      "character": "Cathy"
+    },
+    {
+      "id": "nm0000729",
+      "name": "Casey Affleck",
+      "character": "Morgan"
+    },
+    {
+      "id": "nm0369513",
+      "name": "Cole Hauser",
+      "character": "Billy"
+    },
+    {
+      "id": "nm0580436",
+      "name": "Matt Mercier",
+      "character": "Barbershop Quartet #1"
+    },
+    {
+      "id": "nm0820538",
+      "name": "Ralph St. George",
+      "character": "Barbershop Quartet #2"
+    },
+    {
+      "id": "nm0528546",
+      "name": "Rob Lynds",
+      "character": "Barbershop Quartet #3"
+    },
+    {
+      "id": "nm0913418",
+      "name": "Dan Washington",
+      "character": "Barbershop Quartet #4"
+    },
+    {
+      "id": "nm0284315",
+      "name": "Alison Folland",
+      "character": "M.I.T. Student"
+    },
+    {
+      "id": "nm0108683",
+      "name": "Derrick Bridgeman",
+      "character": "M.I.T. Student"
+    },
+    {
+      "id": "nm0006710",
+      "name": "Vik Sahay",
+      "character": "M.I.T. Student"
+    },
+    {
+      "id": "nm0251059",
+      "name": "Shannon Egleson",
+      "character": "Girl on Street"
+    },
+    {
+      "id": "nm0529147",
+      "name": "Rob Lyons",
+      "character": "Carmine Scarpaglia"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 21,
+  "year": 1997,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDdjZGQ5YzEtNTc2My00Mjc0LWFlMTctYzkwMzZlNzdiZWYzXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8.4,
+      "votes": 1235278,
+      "distribution": {
+        "1": 5500,
+        "2": 2546,
+        "3": 3524,
+        "4": 6726,
+        "5": 15781,
+        "6": 45818,
+        "7": 165964,
+        "8": 387262,
+        "9": 346315,
+        "10": 255842
+      },
+      "normalized": 8.6642
+    },
+    "filmweb": {
+      "rating": 8.13,
+      "votes": 313096,
+      "distribution": {
+        "1": 967,
+        "2": 422,
+        "3": 971,
+        "4": 1779,
+        "5": 4845,
+        "6": 13833,
+        "7": 51665,
+        "8": 118299,
+        "9": 84000,
+        "10": 36315
+      },
+      "normalized": 8.8982
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "02.12.2005",
+      "normalized": 5.6855
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "28.12.2014",
+      "normalized": 7.2292
+    },
+    "score": 7.6193
+  },
+  "polish_title": "Buntownik z wyboru",
+  "silent": false,
+  "description_pl": "Will jest mieszkającym w ubogiej dzielnicy nastolatkiem, który nie wie, co zrobić ze swoim życiem. W dzień sprząta na uniwersytecie, wieczorami chodzi z kolegami po barach i wszczyna awantury. Pewnego dnia rozwiązuje bardzo trudne zadanie matematyczne. Profesor matematyki przez przypadek odkrywa jego talent. Postanawia zmienić jego życie i wykorzystać niesamowite umiejętności. Ale Will nie wie, czy chce tego dokonać. Rozpoczyna się jego wewnętrzna walka.",
+  "producers": [
+    {
+      "id": "nm0035917",
+      "name": "Su Armstrong"
+    },
+    {
+      "id": "nm0004744",
+      "name": "Lawrence Bender"
+    },
+    {
+      "id": "nm0330335",
+      "name": "Jonathan Gordon"
+    },
+    {
+      "id": "nm0601031",
+      "name": "Chris Moore"
+    },
+    {
+      "id": "nm0608714",
+      "name": "Scott Mosier"
+    },
+    {
+      "id": "nm0003620",
+      "name": "Kevin Smith"
+    },
+    {
+      "id": "nm0918424",
+      "name": "Bob Weinstein"
+    },
+    {
+      "id": "nm0005544",
+      "name": "Harvey Weinstein"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0000384",
+      "name": "Danny Elfman"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0260389",
+      "name": "Jean-Yves Escoffier"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

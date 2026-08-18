@@ -1,0 +1,231 @@
+{
+  "imdb_id": "tt10272386",
+  "title": "The Father",
+  "description": "A man refuses all assistance from his daughter as he ages. When he tries to understand what is happening around him, he begins to doubt his loved ones, his own mind and even the fabric of his reality.",
+  "runtime_minutes": 97,
+  "release_date": "26.02.2021",
+  "genres": [
+    "Drama",
+    "Mystery"
+  ],
+  "stars": [
+    {
+      "id": "nm0000164",
+      "name": "Anthony Hopkins"
+    },
+    {
+      "id": "nm1469236",
+      "name": "Olivia Colman"
+    },
+    {
+      "id": "nm0309693",
+      "name": "Mark Gatiss"
+    },
+    {
+      "id": "nm0931404",
+      "name": "Olivia Williams"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm1725469",
+      "name": "Florian Zeller"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0358960",
+      "name": "Christopher Hampton"
+    },
+    {
+      "id": "nm1725469",
+      "name": "Florian Zeller"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000164",
+      "name": "Anthony Hopkins",
+      "character": "Anthony"
+    },
+    {
+      "id": "nm1469236",
+      "name": "Olivia Colman",
+      "character": "Anne"
+    },
+    {
+      "id": "nm0309693",
+      "name": "Mark Gatiss",
+      "character": "The Man"
+    },
+    {
+      "id": "nm0931404",
+      "name": "Olivia Williams",
+      "character": "The Woman"
+    },
+    {
+      "id": "nm1782299",
+      "name": "Imogen Poots",
+      "character": "Laura"
+    },
+    {
+      "id": "nm0001722",
+      "name": "Rufus Sewell",
+      "character": "Paul"
+    },
+    {
+      "id": "nm0223499",
+      "name": "Ayesha Dharker",
+      "character": "Dr Sarai"
+    },
+    {
+      "id": "nm8174176",
+      "name": "Roman Zeller",
+      "character": "Boy"
+    },
+    {
+      "id": "nm8958189",
+      "name": "Adnan Kundi",
+      "character": "Passerby"
+    },
+    {
+      "id": "nm12473278",
+      "name": "Brian Rodger",
+      "character": "Hospital Visitor"
+    },
+    {
+      "id": "nm3561505",
+      "name": "Evie Wray",
+      "character": "Lucy"
+    }
+  ],
+  "countries": [
+    "United Kingdom",
+    "France",
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 835469,
+  "year": 2020,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYzUxMDAyMDAtNzIyZi00OGQ1LTllMjEtYzRjOThkZTUxNTliXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8.2,
+      "votes": 248451,
+      "distribution": {
+        "1": 1368,
+        "2": 580,
+        "3": 798,
+        "4": 1232,
+        "5": 3294,
+        "6": 10118,
+        "7": 34478,
+        "8": 93903,
+        "9": 62024,
+        "10": 40656
+      },
+      "normalized": 8.0353
+    },
+    "filmweb": {
+      "rating": 8.12,
+      "votes": 62949,
+      "distribution": {
+        "1": 43,
+        "2": 25,
+        "3": 103,
+        "4": 163,
+        "5": 660,
+        "6": 2326,
+        "7": 10699,
+        "8": 26965,
+        "9": 17200,
+        "10": 4765
+      },
+      "normalized": 8.8444
+    },
+    "michal": {
+      "rating": 8,
+      "date_rated": "24.04.2021",
+      "normalized": 8.1116
+    },
+    "score": 8.3304
+  },
+  "polish_title": "Ojciec",
+  "silent": false,
+  "description_pl": "To przejmujący obraz o przemijaniu i miłości. Laureatka Oscara, <a href=\"/osoba/?id=nm1469236\">Olivia Colman</a> gra Annę, która stara się opiekować 80-letnim ojcem, Anthonym (<a href=\"/osoba/?id=nm0000164\">Anthony Hopkins</a>). Anne martwi się stanem ojca, który wykazuje oznaki demencji. Anthony ma raz lepsze raz gorsze dni, potrafi kaprysić, odrzuca kolejnych opiekunów, proponowanych przez córkę. Anna widzi jak ojciec powoli gaśnie.",
+  "producers": [
+    {
+      "id": "nm2325520",
+      "name": "Daniel Battsek"
+    },
+    {
+      "id": "nm0136260",
+      "name": "Philippe Carcassonne"
+    },
+    {
+      "id": "nm0164708",
+      "name": "Cleone Clarke"
+    },
+    {
+      "id": "nm2925026",
+      "name": "Lauren Dark"
+    },
+    {
+      "id": "nm0206050",
+      "name": "Alice Dawson"
+    },
+    {
+      "id": "nm10663088",
+      "name": "Simon Friend"
+    },
+    {
+      "id": "nm1647051",
+      "name": "Paul Grindey"
+    },
+    {
+      "id": "nm3053115",
+      "name": "Hugo Grumbar"
+    },
+    {
+      "id": "nm0368206",
+      "name": "Tim Haslam"
+    },
+    {
+      "id": "nm0515201",
+      "name": "Jean-Louis Livi"
+    },
+    {
+      "id": "nm2000281",
+      "name": "Ollie Madden"
+    },
+    {
+      "id": "nm0661406",
+      "name": "David Parfitt"
+    },
+    {
+      "id": "nm9233852",
+      "name": "Christophe Spadone"
+    },
+    {
+      "id": "nm2169762",
+      "name": "Beth Timbrell"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0251801",
+      "name": "Ludovico Einaudi"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0810430",
+      "name": "Ben Smithard"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

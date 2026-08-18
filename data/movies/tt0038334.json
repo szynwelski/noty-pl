@@ -1,0 +1,199 @@
+{
+  "imdb_id": "tt0038334",
+  "title": "The Battle of the Rails",
+  "description": "Recounts the courageous efforts by French railroad workers who were part of an organized resistance during German World War II occupation.",
+  "runtime_minutes": 85,
+  "release_date": "27.02.1946",
+  "genres": [
+    "Drama",
+    "History",
+    "War"
+  ],
+  "stars": [
+    {
+      "id": "nm0055435",
+      "name": "Marcel Barnault"
+    },
+    {
+      "id": "nm0163581",
+      "name": "Jean Clarieux"
+    },
+    {
+      "id": "nm0202416",
+      "name": "Jean Daurand"
+    },
+    {
+      "id": "nm0220802",
+      "name": "Lucien Desagneaux"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0167496",
+      "name": "René Clément"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0167496",
+      "name": "René Clément"
+    },
+    {
+      "id": "nm0041640",
+      "name": "Colette Audry"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0055435",
+      "name": "Marcel Barnault",
+      "character": "Cheminot"
+    },
+    {
+      "id": "nm0163581",
+      "name": "Jean Clarieux",
+      "character": "Lampin"
+    },
+    {
+      "id": "nm0202416",
+      "name": "Jean Daurand",
+      "character": "Cheminot"
+    },
+    {
+      "id": "nm0220802",
+      "name": "Lucien Desagneaux",
+      "character": "Athos"
+    },
+    {
+      "id": "nm0431219",
+      "name": "François Joux",
+      "character": "Cheminot"
+    },
+    {
+      "id": "nm0490317",
+      "name": "Pierre Latour",
+      "character": "Cheminot"
+    },
+    {
+      "id": "nm0491279",
+      "name": "Tony Laurent",
+      "character": "Camargue"
+    },
+    {
+      "id": "nm0212178",
+      "name": "Robert Le Ray",
+      "character": "Chef de gare"
+    },
+    {
+      "id": "nm0523524",
+      "name": "Pierre Lozach",
+      "character": "Cheminot"
+    },
+    {
+      "id": "nm0591047",
+      "name": "Pierre Mindaist",
+      "character": "Cheminot"
+    },
+    {
+      "id": "nm0667424",
+      "name": "Léon Pauléon",
+      "character": "Chef de gare St-André"
+    },
+    {
+      "id": "nm0712238",
+      "name": "Fernand Rauzéna",
+      "character": "Cheminot"
+    },
+    {
+      "id": "nm0715112",
+      "name": "Redon",
+      "character": "Mecanicien"
+    },
+    {
+      "id": "nm0758337",
+      "name": "Michel Salina",
+      "character": "Allemand"
+    },
+    {
+      "id": "nm0938534",
+      "name": "Max Woll",
+      "character": "Officier Allemand"
+    },
+    {
+      "id": "nm0000964",
+      "name": "Charles Boyer",
+      "character": "Narrator"
+    }
+  ],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "French",
+    "German"
+  ],
+  "color": "Black and White",
+  "year": 1946,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZWRmYTZlMmQtNDkwNi00ZjM3LTgzNTMtNjk1ZmU2NTMzZmMyXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 118184,
+  "original_title": "Bataille du rail",
+  "ratings": {
+    "imdb": {
+      "rating": 7,
+      "votes": 1513,
+      "distribution": {
+        "1": 22,
+        "2": 14,
+        "3": 12,
+        "4": 35,
+        "5": 115,
+        "6": 261,
+        "7": 556,
+        "8": 310,
+        "9": 92,
+        "10": 96
+      },
+      "normalized": 5.4758
+    },
+    "filmweb": {
+      "rating": 6.06,
+      "votes": 281,
+      "distribution": {
+        "1": 1,
+        "2": 2,
+        "3": 11,
+        "4": 18,
+        "5": 55,
+        "6": 86,
+        "7": 69,
+        "8": 32,
+        "9": 7,
+        "10": 0
+      },
+      "normalized": 4.373
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "20.11.2005",
+      "normalized": 5.4199
+    },
+    "score": 5.0896
+  },
+  "polish_title": "Bitwa o szyny",
+  "silent": false,
+  "description_pl": "Początkowo film został zaplanowany na krótki metraż, mający ukazać organizację i akcje ruchu oporu francuskich kolejarzy. Materiał zrealizowany przez Clémenta - nikomu wówczas nie znanego początkującego filmowca - okazał się jednak na tyle dobry, że w efekcie powstał długometrażowy paradokument, który już wkrótce stał się jednym z najgłośniejszych i najciekawszych obrazów walki o wyzwolenie.",
+  "composers": [
+    {
+      "id": "nm0061713",
+      "name": "Yves Baudrier"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0002162",
+      "name": "Henri Alekan"
+    }
+  ],
+  "fetched_at": "2026-08-15"
+}

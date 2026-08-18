@@ -1,0 +1,82 @@
+{
+  "imdb_id": "tt0000272",
+  "title": "As Seen Through a Telescope",
+  "description": "An elderly gentleman in a silk hat sits on a stool in front of a store on the main street of town. He has a telescope that he focuses on the ankle of a young woman who is a short distance away. Her husband catches the gent looking. What will the two men now do?",
+  "runtime_minutes": 1,
+  "release_date": "1903",
+  "genres": [
+    "Short",
+    "Comedy"
+  ],
+  "directors": [
+    {
+      "id": "nm0808310",
+      "name": "George Albert Smith"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "year": 1900,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BN2U5Y2UyOTItMDRhZS00MTM1LWE3NWYtYzJiNzQ4NzEwYmFmXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 96468,
+  "ratings": {
+    "imdb": {
+      "rating": 5.6,
+      "votes": 1006,
+      "distribution": {
+        "1": 32,
+        "2": 41,
+        "3": 50,
+        "4": 90,
+        "5": 247,
+        "6": 308,
+        "7": 133,
+        "8": 57,
+        "9": 12,
+        "10": 36
+      },
+      "normalized": 3.9956
+    },
+    "filmweb": {
+      "rating": 5.29,
+      "votes": 152,
+      "distribution": {
+        "1": 1,
+        "2": 8,
+        "3": 5,
+        "4": 21,
+        "5": 49,
+        "6": 44,
+        "7": 16,
+        "8": 6,
+        "9": 1,
+        "10": 1
+      },
+      "normalized": 4.2029
+    },
+    "jarek": {
+      "rating": 8,
+      "date_rated": "12.12.2016",
+      "normalized": 7.8989
+    },
+    "score": 5.3658
+  },
+  "polish_title": "Widok przez teleskop",
+  "silent": true,
+  "description_pl": "Starszy pan w jedwabnym kapeluszu siada na krześle przed sklepem, na głównej ulicy. Zaczyna patrzeć przez teleskop i zaczyna się skupiać na kostce młodej kobiety, która przechodzi nieopodal. Jej mąż zauważa, że starszy pan ją obserwuję. Co teraz obaj mężczyźni zrobią?",
+  "cinematographers": [
+    {
+      "id": "nm0808310",
+      "name": "George Albert Smith"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-15"
+}

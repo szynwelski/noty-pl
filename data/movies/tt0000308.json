@@ -1,0 +1,98 @@
+{
+  "imdb_id": "tt0000308",
+  "title": "The House That Jack Built",
+  "description": "A cleverly conceived picture of a little boy and girl with building blocks. The little girl has erected a pretty structure, which the boy proceeds to demolish with pokes of his fingers. When the demolition of the house is completed, the film is shown in reverse, and the little building comes back to its original form in a most marvellous manner.",
+  "runtime_minutes": 1,
+  "release_date": "1903",
+  "genres": [
+    "Short"
+  ],
+  "stars": [
+    {
+      "id": "nm2940350",
+      "name": "Dorothy Smith"
+    },
+    {
+      "id": "nm2940072",
+      "name": "Harold Smith"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0808310",
+      "name": "George Albert Smith"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm2940350",
+      "name": "Dorothy Smith",
+      "character": "Little girl"
+    },
+    {
+      "id": "nm2940072",
+      "name": "Harold Smith",
+      "character": "Little brother"
+    }
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "None",
+    "English"
+  ],
+  "color": "Black and White",
+  "year": 1900,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNWIzMTU1ZmQtNDhkMi00NzNmLTliMzctNmUxOTE1ZTdhOTBjXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 148661,
+  "ratings": {
+    "imdb": {
+      "rating": 5.2,
+      "votes": 183,
+      "distribution": {
+        "1": 14,
+        "2": 12,
+        "3": 13,
+        "4": 16,
+        "5": 45,
+        "6": 47,
+        "7": 21,
+        "8": 5,
+        "9": 3,
+        "10": 7
+      },
+      "normalized": 4.7189
+    },
+    "filmweb": {
+      "rating": 5.14,
+      "votes": 14,
+      "distribution": {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 5,
+        "6": 0,
+        "7": 3,
+        "8": 2,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 4.9828
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "12.12.2016",
+      "normalized": 5.6855
+    },
+    "score": 5.1291
+  },
+  "polish_title": "The House That Jack Built",
+  "silent": true,
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-15"
+}

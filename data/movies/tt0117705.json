@@ -1,0 +1,285 @@
+{
+  "imdb_id": "tt0117705",
+  "title": "Space Jam",
+  "description": "In a desperate attempt to win a basketball match and earn their freedom, the Looney Tunes seek the aid of retired NBA star Michael Jordan.",
+  "runtime_minutes": 88,
+  "release_date": "15.11.1996",
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy",
+    "Family",
+    "Fantasy",
+    "Sci-Fi",
+    "Sport"
+  ],
+  "stars": [
+    {
+      "id": "nm0003044",
+      "name": "Michael Jordan"
+    },
+    {
+      "id": "nm0001431",
+      "name": "Wayne Knight"
+    },
+    {
+      "id": "nm0005337",
+      "name": "Theresa Randle"
+    },
+    {
+      "id": "nm0913502",
+      "name": "Manner Washington III"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0701592",
+      "name": "Joe Pytka"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1080144",
+      "name": "Leo Benvenuti"
+    },
+    {
+      "id": "nm0748874",
+      "name": "Steve Rudnick"
+    },
+    {
+      "id": "nm0365390",
+      "name": "Timothy Harris"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0003044",
+      "name": "Michael Jordan",
+      "character": "Michael Jordan"
+    },
+    {
+      "id": "nm0001431",
+      "name": "Wayne Knight",
+      "character": "Stan Podolak"
+    },
+    {
+      "id": "nm0005337",
+      "name": "Theresa Randle",
+      "character": "Juanita Jordan"
+    },
+    {
+      "id": "nm0913502",
+      "name": "Manner Washington III",
+      "character": "Jeffery Jordan"
+    },
+    {
+      "id": "nm1034047",
+      "name": "Eric Gordon",
+      "character": "Marcus Jordan"
+    },
+    {
+      "id": "nm0108780",
+      "name": "Penny Bae Bridges",
+      "character": "Jasmine Jordan"
+    },
+    {
+      "id": "nm0358650",
+      "name": "Brandon Hammond",
+      "character": "Michael Jordan (10 Years Old)"
+    },
+    {
+      "id": "nm0083399",
+      "name": "Larry Bird",
+      "character": "Larry Bird"
+    },
+    {
+      "id": "nm0000195",
+      "name": "Bill Murray",
+      "character": "Bill Murray"
+    },
+    {
+      "id": "nm0058175",
+      "name": "Thom Barry",
+      "character": "James Jordan"
+    },
+    {
+      "id": "nm0004725",
+      "name": "Charles Barkley",
+      "character": "Charles Barkley"
+    },
+    {
+      "id": "nm0263992",
+      "name": "Patrick Ewing",
+      "character": "Patrick Ewing"
+    },
+    {
+      "id": "nm0091932",
+      "name": "Tyrone Bogues",
+      "character": "Muggsy Bogues"
+    },
+    {
+      "id": "nm0425600",
+      "name": "Larry Johnson",
+      "character": "Larry Johnson"
+    },
+    {
+      "id": "nm0103399",
+      "name": "Shawn Bradley",
+      "character": "Shawn Bradley"
+    },
+    {
+      "id": "nm0711116",
+      "name": "Ahmad Rashad",
+      "character": "Ahmad Rashad"
+    },
+    {
+      "id": "nm0364609",
+      "name": "Del Harris",
+      "character": "Del Harris"
+    },
+    {
+      "id": "nm0228615",
+      "name": "Vlade Divac",
+      "character": "Vlade Divac"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 582,
+  "year": 1996,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZGQ3ZDk0M2MtZDNmNi00OWE3LThiODUtMTU3NmVjMTA0ZGQyXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.5,
+      "votes": 230915,
+      "distribution": {
+        "1": 3147,
+        "2": 3013,
+        "3": 5866,
+        "4": 11519,
+        "5": 26151,
+        "6": 53156,
+        "7": 60127,
+        "8": 33221,
+        "9": 12060,
+        "10": 22655
+      },
+      "normalized": 4.4655
+    },
+    "filmweb": {
+      "rating": 6.95,
+      "votes": 150426,
+      "distribution": {
+        "1": 461,
+        "2": 704,
+        "3": 2181,
+        "4": 5031,
+        "5": 12037,
+        "6": 30178,
+        "7": 49042,
+        "8": 32499,
+        "9": 11103,
+        "10": 7190
+      },
+      "normalized": 5.5269
+    },
+    "jarek": {
+      "rating": 2,
+      "date_rated": "21.07.2011",
+      "normalized": 3.5003
+    },
+    "score": 4.4976
+  },
+  "polish_title": "Kosmiczny mecz",
+  "silent": false,
+  "description_pl": "Bohaterowie najsłynniejszych kreskówek z serii \"Looney Tunes\" porywają <a href=\"/osoba/?id=nm0003044\">Michaela Jordana</a>, aby podczas meczu koszykówki pomógł im pokonać największego wroga. Drużyna animków występujących w tej popularnej serii, m.in. Królik Bugs, Struś Pędziwiatr, Diabeł Tasmański i Tweety, pod wodzą gwiazdy koszykówki chce zmierzyć się z przybyszami z kosmosu. Słynny sportowiec stara się robić wszystko, aby doprowadzić grupkę niesfornych animków do zwycięstwa.",
+  "producers": [
+    {
+      "id": "nm0007831",
+      "name": "Allison Abbate"
+    },
+    {
+      "id": "nm0040404",
+      "name": "Dino Athanassiou"
+    },
+    {
+      "id": "nm0219550",
+      "name": "Dennis Edwards"
+    },
+    {
+      "id": "nm0266131",
+      "name": "David Falk"
+    },
+    {
+      "id": "nm0325175",
+      "name": "Daniel Goldberg"
+    },
+    {
+      "id": "nm0434922",
+      "name": "Sheldon Kahn"
+    },
+    {
+      "id": "nm0484592",
+      "name": "Michael Lander"
+    },
+    {
+      "id": "nm0500778",
+      "name": "Steven Paul Leiva"
+    },
+    {
+      "id": "nm0575817",
+      "name": "Joe Medjuck"
+    },
+    {
+      "id": "nm0689298",
+      "name": "Curtis Polk"
+    },
+    {
+      "id": "nm0715916",
+      "name": "Jerry Rees"
+    },
+    {
+      "id": "nm0718645",
+      "name": "Ivan Reitman"
+    },
+    {
+      "id": "nm0743583",
+      "name": "Ken Ross"
+    },
+    {
+      "id": "nm2083711",
+      "name": "R. Don Smith"
+    },
+    {
+      "id": "nm0838302",
+      "name": "Rick Sullivan"
+    },
+    {
+      "id": "nm0864128",
+      "name": "Ron Tippe"
+    },
+    {
+      "id": "nm0916118",
+      "name": "Gordon A. Webb"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006133",
+      "name": "James Newton Howard"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0152469",
+      "name": "Michael Chapman"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

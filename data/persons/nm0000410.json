@@ -1,0 +1,84 @@
+{
+  "id": "nm0000410",
+  "name": "Stephen Fry",
+  "filmography": [
+    {
+      "imdb_id": "tt0120633",
+      "title": "A Civil Action",
+      "year": 1998,
+      "roles": [
+        "cast"
+      ],
+      "character": "Pinder"
+    },
+    {
+      "imdb_id": "tt0280707",
+      "title": "Gosford Park",
+      "year": 2001,
+      "roles": [
+        "cast"
+      ],
+      "character": "Inspector Thompson"
+    },
+    {
+      "imdb_id": "tt0371724",
+      "title": "The Hitchhiker's Guide to the Galaxy",
+      "year": 2005,
+      "roles": [
+        "cast"
+      ],
+      "character": "Narrator"
+    },
+    {
+      "imdb_id": "tt0434409",
+      "title": "V for Vendetta",
+      "year": 2005,
+      "roles": [
+        "cast"
+      ],
+      "character": "Deitrich"
+    },
+    {
+      "imdb_id": "tt1014759",
+      "title": "Alice in Wonderland",
+      "year": 2010,
+      "roles": [
+        "cast"
+      ],
+      "character": "Cheshire Cat"
+    },
+    {
+      "imdb_id": "tt1515091",
+      "title": "Sherlock Holmes: A Game of Shadows",
+      "year": 2011,
+      "roles": [
+        "cast"
+      ],
+      "character": "Mycroft Holmes"
+    },
+    {
+      "imdb_id": "tt3892434",
+      "title": "That Sugar Film",
+      "year": 2014,
+      "roles": [
+        "cast"
+      ],
+      "character": "Self"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOTlmNTY3OWMtZjBhNy00MWVhLWI5MTctYWY0Y2YyZGE5Zjk1XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "24.08.1957",
+  "birth_location": "Hampstead, London, England, UK",
+  "height": "1.95 m",
+  "filmweb_id": 5070,
+  "name_pl": "Stephen Fry",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Austria",
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 5070
+}

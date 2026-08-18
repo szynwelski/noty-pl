@@ -1,0 +1,43 @@
+{
+  "id": "nm0166972",
+  "name": "Colin Clive",
+  "filmography": [
+    {
+      "imdb_id": "tt0021884",
+      "title": "Frankenstein",
+      "year": 1931,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Henry Frankenstein"
+    },
+    {
+      "imdb_id": "tt0026138",
+      "title": "Bride of Frankenstein",
+      "year": 1935,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Henry Frankenstein"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNmE4Y2U0YzQtYzVjOC00MTEwLWI3ZmMtODRhMzMwYmZmZGY3XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "20.01.1900",
+  "death_date": "25.06.1937",
+  "birth_location": "St. Malo, France",
+  "height": "1.83 m",
+  "imdb_scraped": true,
+  "filmweb_id": 41965,
+  "name_pl": "Colin Clive",
+  "birth_location_pl": "St. Malo",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja",
+    "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii",
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 41965
+}

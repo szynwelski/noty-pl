@@ -1,0 +1,198 @@
+{
+  "imdb_id": "tt7336842",
+  "title": "The Blessed",
+  "description": "Follows a handful of characters living in Algiers in the wake of a civil war that lasted throughout the 1990s.",
+  "runtime_minutes": 102,
+  "release_date": "13.12.2017",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0098793",
+      "name": "Sami Bouajila"
+    },
+    {
+      "id": "nm0434191",
+      "name": "Nadia Kaci"
+    },
+    {
+      "id": "nm0072364",
+      "name": "Faouzi Bensaïdi"
+    },
+    {
+      "id": "nm5296974",
+      "name": "Amine Lansari"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm4800203",
+      "name": "Sofia Djama"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm4800203",
+      "name": "Sofia Djama"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0098793",
+      "name": "Sami Bouajila",
+      "character": "Samir"
+    },
+    {
+      "id": "nm0434191",
+      "name": "Nadia Kaci",
+      "character": "Amal"
+    },
+    {
+      "id": "nm0072364",
+      "name": "Faouzi Bensaïdi",
+      "character": "Amin"
+    },
+    {
+      "id": "nm5296974",
+      "name": "Amine Lansari",
+      "character": "Fahim"
+    },
+    {
+      "id": "nm6891947",
+      "name": "Lyna Khoudri",
+      "character": "Feriel"
+    },
+    {
+      "id": "nm5575653",
+      "name": "Adam Bessa",
+      "character": "Reda"
+    },
+    {
+      "id": "nm10145213",
+      "name": "Hadjar Benmansour",
+      "character": ""
+    },
+    {
+      "id": "nm9017723",
+      "name": "Salima Abada",
+      "character": "Souad"
+    },
+    {
+      "id": "nm10145214",
+      "name": "Abdelkader Affak",
+      "character": ""
+    },
+    {
+      "id": "nm0019880",
+      "name": "Mohamed Ali Allalou",
+      "character": ""
+    },
+    {
+      "id": "nm10145215",
+      "name": "Rafik Nait Chabane",
+      "character": ""
+    },
+    {
+      "id": "nm10145216",
+      "name": "Brahim Derris",
+      "character": ""
+    },
+    {
+      "id": "nm13434452",
+      "name": "Dana Abed",
+      "character": "Vayonka"
+    },
+    {
+      "id": "nm4062628",
+      "name": "Yanis Koussim",
+      "character": "Barbu"
+    },
+    {
+      "id": "nm2009102",
+      "name": "Souhila Yagoubi",
+      "character": "Fadila"
+    }
+  ],
+  "countries": [
+    "Algeria",
+    "Belgium",
+    "France"
+  ],
+  "languages": [
+    "French",
+    "Arabic"
+  ],
+  "color": "Color",
+  "filmweb_id": 791443,
+  "year": 2017,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNmY3YmZlMDMtZDA3ZC00ZWYwLThkMTAtMDc2MmZlODI2NDczXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Les bienheureux",
+  "ratings": {
+    "imdb": {
+      "rating": 6.5,
+      "votes": 263,
+      "distribution": {
+        "1": 45,
+        "2": 5,
+        "3": 6,
+        "4": 8,
+        "5": 25,
+        "6": 48,
+        "7": 67,
+        "8": 37,
+        "9": 10,
+        "10": 12
+      },
+      "normalized": 5.0585
+    },
+    "filmweb": {
+      "rating": 6.95,
+      "votes": 21,
+      "distribution": {
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 2,
+        "6": 3,
+        "7": 6,
+        "8": 9,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 5.2305
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "22.10.2017",
+      "normalized": 7.1247
+    },
+    "score": 5.8046
+  },
+  "polish_title": "Błogosławieni",
+  "silent": false,
+  "description_pl": "Od czasu proklamowania niepodległości w 1962 roku, przez Algierię przetoczyła się wojna domowa i seria antyrządowych protestów. Mieszkańcy, zmęczeni konfliktami, na każdym kroku starają się wracać do normalności. Dla Amal i Samira dwudziesta rocznica ślubu to prawdziwe święto. Chcą ten dzień spędzić razem z synem. Wyjście do restauracji staje się okazją do rozmowy o utraconych marzeniach i wspólnej walce z codziennymi problemami. Dla ich syna Fahima i jego przyjaciół, Algieria z ostatnich lat to skradziona szansa na szczęśliwą młodość.",
+  "producers": [
+    {
+      "id": "nm0703697",
+      "name": "Patrick Quinet"
+    },
+    {
+      "id": "nm3141275",
+      "name": "Emilie Renault"
+    },
+    {
+      "id": "nm0954440",
+      "name": "Serge Zeitoun"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0044545",
+      "name": "Pierre Aïm"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

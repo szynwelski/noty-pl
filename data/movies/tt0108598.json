@@ -1,0 +1,140 @@
+{
+  "imdb_id": "tt0108598",
+  "title": "Wallace & Gromit: The Wrong Trousers",
+  "description": "Gromit butts heads with a mysterious penguin lodger, who hatches a sinister scheme involving the ex-NASA Techno Trousers that have been modified by Wallace for walkies.",
+  "runtime_minutes": 30,
+  "release_date": "17.12.1993",
+  "genres": [
+    "Animation",
+    "Short",
+    "Comedy",
+    "Crime",
+    "Family",
+    "Mystery",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm0758608",
+      "name": "Peter Sallis"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0661910",
+      "name": "Nick Park"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0661910",
+      "name": "Nick Park"
+    },
+    {
+      "id": "nm0048276",
+      "name": "Bob Baker"
+    },
+    {
+      "id": "nm0796285",
+      "name": "Brian Sibley"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0758608",
+      "name": "Peter Sallis",
+      "character": "Wallace"
+    }
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "year": 1993,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZGI0ZjU1ZmUtZmRlZC00Yjg3LWI1MjktM2YwYmU1NGNiYzU0XkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 31345,
+  "original_title": "The Wrong Trousers",
+  "ratings": {
+    "imdb": {
+      "rating": 8.3,
+      "votes": 63999,
+      "distribution": {
+        "1": 784,
+        "2": 263,
+        "3": 304,
+        "4": 455,
+        "5": 1220,
+        "6": 2793,
+        "7": 8583,
+        "8": 18056,
+        "9": 15209,
+        "10": 16332
+      },
+      "normalized": 8.2714
+    },
+    "filmweb": {
+      "rating": 7.42,
+      "votes": 11194,
+      "distribution": {
+        "1": 75,
+        "2": 36,
+        "3": 100,
+        "4": 185,
+        "5": 499,
+        "6": 1271,
+        "7": 3302,
+        "8": 3631,
+        "9": 1388,
+        "10": 707
+      },
+      "normalized": 6.4902
+    },
+    "jarek": {
+      "rating": 3,
+      "date_rated": "05.01.2016",
+      "normalized": 4.2591
+    },
+    "michal": {
+      "rating": 3,
+      "date_rated": "05.01.2016",
+      "normalized": 3.8753
+    },
+    "score": 5.724
+  },
+  "polish_title": "Wallace & Gromit: Wściekłe gacie",
+  "silent": false,
+  "description_pl": "Gromit dostaje na urodziny maszynę do wyprowadzania go na spacery skonstruowaną przez jego pana - wynalazcę Wallace'a. W tym czasie w ich domu wynajmować pokój zaczyna pingwin i powoli zdobywa zaufanie Wallace'a. Gromit wyprowadza się, a maszyna - tytułowe \"The wrong trousers\" - przestaje spełniać funkcję, do której została stworzona...",
+  "producers": [
+    {
+      "id": "nm0520485",
+      "name": "Peter Lord"
+    },
+    {
+      "id": "nm0596960",
+      "name": "Christopher Moll"
+    },
+    {
+      "id": "nm0741318",
+      "name": "Colin Rose"
+    },
+    {
+      "id": "nm0758788",
+      "name": "Peter Salmon"
+    },
+    {
+      "id": "nm0819862",
+      "name": "David Sproxton"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0636608",
+      "name": "Julian Nott"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

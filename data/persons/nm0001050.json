@@ -1,0 +1,50 @@
+{
+  "id": "nm0001050",
+  "name": "Montgomery Clift",
+  "filmography": [
+    {
+      "imdb_id": "tt0040724",
+      "title": "Red River",
+      "year": 1948,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Matt Garth"
+    },
+    {
+      "imdb_id": "tt0045793",
+      "title": "From Here to Eternity",
+      "year": 1953,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Robert E. Lee Prewitt"
+    },
+    {
+      "imdb_id": "tt0055031",
+      "title": "Judgment at Nuremberg",
+      "year": 1961,
+      "roles": [
+        "cast"
+      ],
+      "character": "Rudolph Petersen"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjc4ZWM1MzItNWY2YS00MGM3LWEwNmYtZjNiN2IxNjNmZTAyXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "17.10.1920",
+  "death_date": "23.07.1966",
+  "birth_location": "Omaha, Nebraska, USA",
+  "height": "1.78 m",
+  "filmweb_id": 45093,
+  "name_pl": "Montgomery Clift",
+  "birth_location_pl": "Omaha, Nebraska",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 45093
+}

@@ -1,0 +1,37 @@
+{
+  "id": "nm0834438",
+  "name": "John Stride",
+  "filmography": [
+    {
+      "imdb_id": "tt0067372",
+      "title": "Macbeth",
+      "year": 1971,
+      "roles": [
+        "cast"
+      ],
+      "character": "Ross"
+    },
+    {
+      "imdb_id": "tt0075005",
+      "title": "The Omen",
+      "year": 1976,
+      "roles": [
+        "cast"
+      ],
+      "character": "The Psychiatrist"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BN2Q5YzZiNDktMzE1Ny00YzczLThhMTktYzk3ZWJjNThiZWI0XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "11.07.1936",
+  "death_date": "20.04.2018",
+  "birth_location": "London, England, UK",
+  "imdb_scraped": true,
+  "filmweb_id": 42165,
+  "name_pl": "John Stride",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ]
+}

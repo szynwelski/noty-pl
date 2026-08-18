@@ -1,0 +1,41 @@
+{
+  "id": "nm0634159",
+  "name": "Philippe Noiret",
+  "filmography": [
+    {
+      "imdb_id": "tt0095765",
+      "title": "Cinema Paradiso",
+      "year": 1988,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Alfredo"
+    },
+    {
+      "imdb_id": "tt0110877",
+      "title": "The Postman",
+      "year": 1994,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Pablo Neruda"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTU2MzE2OTE0N15BMl5BanBnXkFtZTcwNTg2NzIwNw@@._V1_.jpg",
+  "birth_date": "01.10.1930",
+  "death_date": "23.11.2006",
+  "birth_location": "Lille, Nord, France",
+  "height": "1.85 m",
+  "imdb_scraped": true,
+  "filmweb_id": 3821,
+  "name_pl": "Philippe Noiret",
+  "birth_location_pl": "Lille",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja"
+  ],
+  "wikidata_fw_id": 3821
+}

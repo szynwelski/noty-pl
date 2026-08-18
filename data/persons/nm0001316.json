@@ -1,0 +1,40 @@
+{
+  "id": "nm0001316",
+  "name": "Oliver Hardy",
+  "filmography": [
+    {
+      "imdb_id": "tt0056799",
+      "title": "30 Years of Fun",
+      "year": 1963,
+      "roles": [
+        "star",
+        "cast"
+      ]
+    },
+    {
+      "imdb_id": "tt0196372",
+      "title": "The Best of Laurel and Hardy",
+      "year": 1968,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Ollie"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNGNkNDllNjEtZTFjMS00NjExLThkZGYtODU4YmM4OGE2OTkwXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "18.01.1892",
+  "death_date": "07.08.1957",
+  "birth_location": "Harlem, Georgia, USA",
+  "height": "1.85 m",
+  "imdb_scraped": true,
+  "filmweb_id": 56645,
+  "name_pl": "Oliver Hardy",
+  "birth_location_pl": "Harlem, Georgia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 56645
+}

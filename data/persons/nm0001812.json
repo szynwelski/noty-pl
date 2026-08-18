@@ -1,0 +1,59 @@
+{
+  "id": "nm0001812",
+  "name": "Lee Van Cleef",
+  "filmography": [
+    {
+      "imdb_id": "tt0044706",
+      "title": "High Noon",
+      "year": 1952,
+      "roles": [
+        "cast"
+      ],
+      "character": "Jack Colby"
+    },
+    {
+      "imdb_id": "tt0056217",
+      "title": "The Man Who Shot Liberty Valance",
+      "year": 1962,
+      "roles": [
+        "cast"
+      ],
+      "character": "Reese"
+    },
+    {
+      "imdb_id": "tt0059578",
+      "title": "For a Few Dollars More",
+      "year": 1965,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Col. Douglas Mortimer"
+    },
+    {
+      "imdb_id": "tt0060196",
+      "title": "The Good, the Bad and the Ugly",
+      "year": 1966,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Sentenza"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTY0ODU1NjY5N15BMl5BanBnXkFtZTcwNTI0NzEyMw@@._V1_.jpg",
+  "birth_date": "09.01.1925",
+  "death_date": "16.12.1989",
+  "birth_location": "Somerville, New Jersey, USA",
+  "height": "1.88 m",
+  "filmweb_id": 44783,
+  "name_pl": "Lee Van Cleef",
+  "birth_location_pl": "Somerville, New Jersey",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 44783
+}

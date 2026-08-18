@@ -1,0 +1,205 @@
+{
+  "imdb_id": "tt33764258",
+  "ratings": {
+    "imdb": {
+      "rating": 8.5,
+      "votes": 407764,
+      "distribution": {
+        "1": 20159,
+        "2": 3439,
+        "3": 2782,
+        "4": 2982,
+        "5": 5556,
+        "6": 12828,
+        "7": 34261,
+        "8": 82768,
+        "9": 117695,
+        "10": 125294
+      },
+      "normalized": 8.8072
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "20.07.2026",
+      "normalized": 7.1247
+    },
+    "michal": {
+      "rating": 8,
+      "date_rated": "17.07.2026",
+      "normalized": 8.1116
+    },
+    "filmweb": {
+      "rating": 7.48,
+      "votes": 23497,
+      "distribution": {
+        "1": 1322,
+        "2": 195,
+        "3": 288,
+        "4": 238,
+        "5": 590,
+        "6": 1544,
+        "7": 4325,
+        "8": 7652,
+        "9": 4813,
+        "10": 2530
+      },
+      "normalized": 6.663
+    },
+    "score": 7.6766
+  },
+  "title": "The Odyssey",
+  "description": "After the Trojan War, Odysseus faces a dangerous voyage back to Ithaca, meeting creatures like the Cyclops Polyphemus, Sirens, and Calypso along the way.",
+  "year": 2026,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTcyNmJlZmQtNDUwYy00NDBjLTg1NGQtYTY2Y2UxMWM3NmI1XkEyXkFqcGc@._V1_.jpg",
+  "runtime_minutes": 172,
+  "release_date": "17.07.2026",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "stars": [
+    {
+      "id": "nm0000354",
+      "name": "Matt Damon"
+    },
+    {
+      "id": "nm4043618",
+      "name": "Tom Holland"
+    },
+    {
+      "id": "nm0004266",
+      "name": "Anne Hathaway"
+    },
+    {
+      "id": "nm1500155",
+      "name": "Robert Pattinson"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0634240",
+      "name": "Christopher Nolan"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0634240",
+      "name": "Christopher Nolan"
+    },
+    {
+      "id": "nm0392955",
+      "name": "Homer"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000354",
+      "name": "Matt Damon",
+      "character": "Odysseus"
+    },
+    {
+      "id": "nm4043618",
+      "name": "Tom Holland",
+      "character": "Telemachus"
+    },
+    {
+      "id": "nm0004266",
+      "name": "Anne Hathaway",
+      "character": "Penelope"
+    },
+    {
+      "id": "nm6346805",
+      "name": "Travis Scott",
+      "character": "Bard"
+    },
+    {
+      "id": "nm1500155",
+      "name": "Robert Pattinson",
+      "character": "Antinous"
+    },
+    {
+      "id": "nm3659660",
+      "name": "Corey Hawkins",
+      "character": "Polybus"
+    },
+    {
+      "id": "nm0581711",
+      "name": "Jarreth J. Merz",
+      "character": "Leodes"
+    },
+    {
+      "id": "nm1294002",
+      "name": "Niko Nicotera",
+      "character": "Peisander"
+    },
+    {
+      "id": "nm0680983",
+      "name": "Elliot Page",
+      "character": "Sinon"
+    },
+    {
+      "id": "nm2057036",
+      "name": "Shiloh Fernandez",
+      "character": "First Trojan"
+    },
+    {
+      "id": "nm1969169",
+      "name": "Rafi Gavron",
+      "character": "Second Trojan"
+    },
+    {
+      "id": "nm1175468",
+      "name": "Elyes Gabel",
+      "character": "Elatus"
+    },
+    {
+      "id": "nm0325221",
+      "name": "Iddo Goldberg",
+      "character": "Amphimedon"
+    },
+    {
+      "id": "nm0364807",
+      "name": "Jamie Harris",
+      "character": "Agelus"
+    },
+    {
+      "id": "nm0018099",
+      "name": "John Ales",
+      "character": "Beggar in Ithaca"
+    },
+    {
+      "id": "nm17606008",
+      "name": "Raimy Lang",
+      "character": "Teenage Antinous"
+    },
+    {
+      "id": "nm9215028",
+      "name": "Mason Cufari",
+      "character": "Teenage Sinon"
+    },
+    {
+      "id": "nm0000491",
+      "name": "John Leguizamo",
+      "character": "Eumaeus"
+    }
+  ],
+  "countries": [
+    "United Kingdom",
+    "United States",
+    "Canada",
+    "New Zealand",
+    "Iceland"
+  ],
+  "languages": [
+    "English",
+    "Greek"
+  ],
+  "color": "Color",
+  "silent": false,
+  "filmweb_id": 10068387,
+  "polish_title": "Odyseja",
+  "description_pl": "\"Odyseja\" to historia Odyseusza, królu Itaki, podczas jego długiej i pełnej niebezpieczeństw podróży powrotnej do domu po wojnie trojańskiej. Opisuje jego spotkania z mitycznymi istotami, takimi jak cyklop Polifem, syreny oraz nimfa Kalipso. Król robi wszystko by wrócić do ukochanej żony Penelopy.",
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "nm0285922",
+  "name": "Wallace Ford",
+  "filmography": [
+    {
+      "imdb_id": "tt0036342",
+      "title": "Shadow of a Doubt",
+      "year": 1943,
+      "roles": [
+        "cast"
+      ],
+      "character": "Fred Saunders"
+    },
+    {
+      "imdb_id": "tt0038109",
+      "title": "Spellbound",
+      "year": 1945,
+      "roles": [
+        "cast"
+      ],
+      "character": "Stranger in Hotel Lobby"
+    },
+    {
+      "imdb_id": "tt0042546",
+      "title": "Harvey",
+      "year": 1950,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Ellis Logfren, The Taxi Driver"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYjhlYWRkM2MtYmYwMi00YTMxLWE1ZjgtYWExNWRjMjc2ODk1XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "12.02.1898",
+  "death_date": "11.06.1966",
+  "birth_location": "Bolton, Greater Manchester, England, UK",
+  "height": "1.73 m",
+  "filmweb_id": 47047,
+  "name_pl": "Wallace Ford",
+  "birth_location_pl": "Bolton, Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ]
+}

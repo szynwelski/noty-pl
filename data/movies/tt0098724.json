@@ -1,0 +1,179 @@
+{
+  "imdb_id": "tt0098724",
+  "title": "Sex, Lies, and Videotape",
+  "description": "A sexually repressed woman's husband is having an affair with her sister. The arrival of a visitor with a rather unusual fetish changes everything.",
+  "runtime_minutes": 100,
+  "release_date": "22.09.1989",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0000652",
+      "name": "James Spader"
+    },
+    {
+      "id": "nm0000510",
+      "name": "Andie MacDowell"
+    },
+    {
+      "id": "nm0001251",
+      "name": "Peter Gallagher"
+    },
+    {
+      "id": "nm0000624",
+      "name": "Laura San Giacomo"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001752",
+      "name": "Steven Soderbergh"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0001752",
+      "name": "Steven Soderbergh"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000652",
+      "name": "James Spader",
+      "character": "Graham"
+    },
+    {
+      "id": "nm0000510",
+      "name": "Andie MacDowell",
+      "character": "Ann"
+    },
+    {
+      "id": "nm0001251",
+      "name": "Peter Gallagher",
+      "character": "John"
+    },
+    {
+      "id": "nm0000624",
+      "name": "Laura San Giacomo",
+      "character": "Cynthia"
+    },
+    {
+      "id": "nm0891381",
+      "name": "Ron Vawter",
+      "character": "Therapist"
+    },
+    {
+      "id": "nm0109359",
+      "name": "Steven Brill",
+      "character": "Barfly"
+    },
+    {
+      "id": "nm0740498",
+      "name": "Alexandra Root",
+      "character": "Girl on Tape"
+    },
+    {
+      "id": "nm0852316",
+      "name": "Earl T. Taylor",
+      "character": "Landlord"
+    },
+    {
+      "id": "nm0283993",
+      "name": "David Foil",
+      "character": "John's Colleague"
+    }
+  ],
+  "countries": [
+    "United Kingdom",
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 1265,
+  "year": 1989,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZmFjNjkyNmQtMDdkNy00YmQxLWFmZTYtZDQyYTY3ZGFjYmFiXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.2,
+      "votes": 65073,
+      "distribution": {
+        "1": 693,
+        "2": 475,
+        "3": 784,
+        "4": 1542,
+        "5": 3655,
+        "6": 9229,
+        "7": 18982,
+        "8": 17057,
+        "9": 7631,
+        "10": 5025
+      },
+      "normalized": 5.9023
+    },
+    "filmweb": {
+      "rating": 7.07,
+      "votes": 19209,
+      "distribution": {
+        "1": 98,
+        "2": 95,
+        "3": 230,
+        "4": 400,
+        "5": 1178,
+        "6": 3097,
+        "7": 6613,
+        "8": 5510,
+        "9": 1514,
+        "10": 474
+      },
+      "normalized": 5.7542
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "14.12.2006",
+      "normalized": 5.4199
+    },
+    "score": 5.6921
+  },
+  "polish_title": "Seks, kłamstwa i kasety wideo",
+  "silent": false,
+  "description_pl": "John (<a href=\"/osoba/?id=nm0001251\">Peter Gallagher</a>) i Ann (<a href=\"/osoba/?id=nm0000510\">Andie MacDowell</a>) wydają się być szczęśliwym małżeństwem. Ale to tylko pozory; John znajduje pocieszenie w ramionach siostry żony. Ann szuka więc porady u psychoanalityka. Gdy przyjeżdża Graham (<a href=\"/osoba/?id=nm0000652\">James Spader</a>), kolega Johna ze studiów, Ann odkrywa jego kolekcję kaset wideo, na których zarejestrowane są zwierzenia kobiet na temat ich doświadczeń seksualnych. Graham proponuje Ann podobny seans.",
+  "producers": [
+    {
+      "id": "nm0362675",
+      "name": "John Hardy"
+    },
+    {
+      "id": "nm0556876",
+      "name": "Morgan Mason"
+    },
+    {
+      "id": "nm0628352",
+      "name": "Robert F. Newmyer"
+    },
+    {
+      "id": "nm0854941",
+      "name": "Nancy Tenenbaum"
+    },
+    {
+      "id": "nm0917059",
+      "name": "Nick Wechsler"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0553498",
+      "name": "Cliff Martinez"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0516162",
+      "name": "Walt Lloyd"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

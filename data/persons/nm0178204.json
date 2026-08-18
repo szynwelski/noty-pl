@@ -1,0 +1,49 @@
+{
+  "id": "nm0178204",
+  "name": "Kyle Cooper",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTcyMDc2ODAyOF5BMl5BanBnXkFtZTYwODU4MDA3._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0371746",
+      "title": "Iron Man",
+      "year": 2008,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt1228705",
+      "title": "Iron Man 2",
+      "year": 2010,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0955308",
+      "title": "Robin Hood",
+      "year": 2010,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt1104001",
+      "title": "Tron: Legacy",
+      "year": 2010,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "birth_date": "13.07.1962",
+  "birth_location": "Salem, Massachusetts, USA",
+  "filmweb_id": 175467,
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "name_pl": "Kyle Cooper",
+  "gender": "M"
+}

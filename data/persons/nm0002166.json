@@ -1,0 +1,52 @@
+{
+  "id": "nm0002166",
+  "name": "John A. Alonzo",
+  "filmography": [
+    {
+      "imdb_id": "tt0054047",
+      "title": "The Magnificent Seven",
+      "year": 1960,
+      "roles": [
+        "cast"
+      ],
+      "character": "Miguel"
+    },
+    {
+      "imdb_id": "tt0067185",
+      "title": "Harold and Maude",
+      "year": 1971,
+      "roles": [
+        "cinematographer"
+      ]
+    },
+    {
+      "imdb_id": "tt0067927",
+      "title": "Vanishing Point",
+      "year": 1971,
+      "roles": [
+        "cinematographer"
+      ]
+    },
+    {
+      "imdb_id": "tt0086250",
+      "title": "Scarface",
+      "year": 1983,
+      "roles": [
+        "cinematographer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTIxNWJhZjItZjZmMy00Y2IzLThkMzctODIyYjAzOTgwMWM0XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "12.06.1934",
+  "death_date": "13.03.2001",
+  "birth_location": "Dallas, Texas, USA",
+  "filmweb_id": 12490,
+  "name_pl": "John A. Alonzo",
+  "birth_location_pl": "Dallas, Teksas",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "nm0000046",
+  "name": "Vivien Leigh",
+  "filmography": [
+    {
+      "imdb_id": "tt0031381",
+      "title": "Gone with the Wind",
+      "year": 1939,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Scarlett"
+    },
+    {
+      "imdb_id": "tt0044081",
+      "title": "A Streetcar Named Desire",
+      "year": 1951,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Blanche"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYTQzNjEyMDgtMWJlNi00MzA1LWE3YTktYzQ1MTljODNhNGFkXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 9462,
+  "birth_date": "05.11.1913",
+  "death_date": "07.07.1967",
+  "birth_location": "Darjeeling, Bengal Presidency, British India [now West Bengal, India]",
+  "height": "1.60 m",
+  "imdb_scraped": true,
+  "name_pl": "Vivien Leigh",
+  "birth_location_pl": "Dardżyling",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 9462
+}

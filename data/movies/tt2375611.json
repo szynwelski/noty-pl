@@ -1,0 +1,149 @@
+{
+  "imdb_id": "tt2375611",
+  "title": "The Big Leap",
+  "description": "Three people meet at the top of a skyscraper. They have the same intention - to commit suicide due to a major financial crisis. The conflict quickly deepens when they discover that they all represent a different conviction about the hereafter: Sarah is the believer, John the atheist and Ben uncertain agnostic. The only way to find out who's right is to take The Big Leap.",
+  "runtime_minutes": 13,
+  "release_date": "24.05.2013",
+  "genres": [
+    "Short",
+    "Action",
+    "Comedy"
+  ],
+  "stars": [
+    {
+      "id": "nm1458971",
+      "name": "Arkadiusz Jakubik"
+    },
+    {
+      "id": "nm1690409",
+      "name": "Tilly Scott Pedersen"
+    },
+    {
+      "id": "nm0803890",
+      "name": "Gustaf Skarsgård"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm2127736",
+      "name": "Kristoffer Rus"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm2127736",
+      "name": "Kristoffer Rus"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1458971",
+      "name": "Arkadiusz Jakubik",
+      "character": "Ben"
+    },
+    {
+      "id": "nm1690409",
+      "name": "Tilly Scott Pedersen",
+      "character": "Sarah"
+    },
+    {
+      "id": "nm0803890",
+      "name": "Gustaf Skarsgård",
+      "character": "John"
+    }
+  ],
+  "countries": [
+    "Sweden",
+    "Poland"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 653104,
+  "year": 2013,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzE1ZGM4MWMtNjM0Ni00ZjkzLWFkM2YtYjc4MmZlZTdmMTI5XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.7,
+      "votes": 52,
+      "distribution": {
+        "1": 5,
+        "2": 1,
+        "3": 4,
+        "4": 3,
+        "5": 4,
+        "6": 8,
+        "7": 12,
+        "8": 5,
+        "9": 4,
+        "10": 6
+      },
+      "normalized": 5.2879
+    },
+    "filmweb": {
+      "rating": 6.01,
+      "votes": 393,
+      "distribution": {
+        "1": 12,
+        "2": 2,
+        "3": 16,
+        "4": 29,
+        "5": 61,
+        "6": 130,
+        "7": 73,
+        "8": 51,
+        "9": 13,
+        "10": 6
+      },
+      "normalized": 4.2138
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "01.12.2016",
+      "normalized": 7.1247
+    },
+    "score": 5.5421
+  },
+  "polish_title": "Wielki skok",
+  "silent": false,
+  "description_pl": "Jest ich troje - kobieta i dwóch mężczyzn. Pewnego dnia spotykają się na  dachu drapacza chmur. Wszyscy mają ten sam zamiar - chcą popełnić  samobójstwo. Powód? Bezsilność wobec kryzysu finansowego, który zbiera  coraz większe żniwo. W tych okolicznościach między bohaterami rodzi się  poważny konflikt. Okazuje się, że każdy z nich ma inne poglądy na temat  życia po śmierci: Sarah jest wierząca, John jest ateistą, a Ben  niezdecydowanym agnostykiem. Jedynym sposobem na to, by się dowiedzieć  kto ma rację, będzie Wielki Skok.",
+  "producers": [
+    {
+      "id": "nm1865827",
+      "name": "Ewa Borgunska"
+    },
+    {
+      "id": "nm1458302",
+      "name": "Renata Czarnkowska-Listos"
+    },
+    {
+      "id": "nm6906783",
+      "name": "Maria Golos"
+    },
+    {
+      "id": "nm0472312",
+      "name": "Katarzyna Krosny"
+    },
+    {
+      "id": "nm1439952",
+      "name": "Robert Moscicki"
+    },
+    {
+      "id": "nm0630564",
+      "name": "Wlodzimierz Niderhaus"
+    },
+    {
+      "id": "nm0835467",
+      "name": "Maciej Strzembosz"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm5566990",
+      "name": "Kristian Eliasson"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

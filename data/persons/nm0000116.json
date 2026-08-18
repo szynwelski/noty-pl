@@ -1,0 +1,93 @@
+{
+  "id": "nm0000116",
+  "name": "James Cameron",
+  "filmography": [
+    {
+      "imdb_id": "tt0088247",
+      "title": "The Terminator",
+      "year": 1984,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0090605",
+      "title": "Aliens",
+      "year": 1986,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0103064",
+      "title": "Terminator 2: Judgment Day",
+      "year": 1991,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0120338",
+      "title": "Titanic",
+      "year": 1997,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0307479",
+      "title": "Solaris",
+      "year": 2002,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0499549",
+      "title": "Avatar",
+      "year": 2009,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt1340138",
+      "title": "Terminator Genisys",
+      "year": 2015,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0437086",
+      "title": "Alita: Battle Angel",
+      "year": 2019,
+      "roles": [
+        "writer",
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjI0MjMzOTg2MF5BMl5BanBnXkFtZTcwMTM3NjQxMw@@._V1_.jpg",
+  "birth_date": "16.08.1954",
+  "birth_location": "Kapuskasing, Ontario, Canada",
+  "height": "1.88 m",
+  "filmweb_id": 16,
+  "name_pl": "James Cameron",
+  "birth_location_pl": "Kapuskasing",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Kanada",
+    "Nowa Zelandia"
+  ]
+}

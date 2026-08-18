@@ -1,0 +1,179 @@
+{
+  "imdb_id": "tt0204913",
+  "title": "Book of Days",
+  "description": "The film draw inspiration from architectural sites redolent with ghosts of the past: the abandoned, overgrown, crumbling halls of Ellis Island and a medieval French village.",
+  "year": 1989,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDZmYjRkN2UtZmUxMS00MjVlLTlhZTgtMzcyZjcwNDQyMDhiXkEyXkFqcGc@._V1_.jpg",
+  "runtime_minutes": 75,
+  "release_date": "06.03.1993",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0250527",
+      "name": "Robert Een"
+    },
+    {
+      "id": "nm1667846",
+      "name": "Donna M. Fields"
+    },
+    {
+      "id": "nm1495087",
+      "name": "Wayne Hankin"
+    },
+    {
+      "id": "nm5100755",
+      "name": "Lanny Harrison"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0598229",
+      "name": "Meredith Monk"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm6410004",
+      "name": "Tone Blevins"
+    },
+    {
+      "id": "nm0598229",
+      "name": "Meredith Monk"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0250527",
+      "name": "Robert Een",
+      "character": "Soldier"
+    },
+    {
+      "id": "nm1667846",
+      "name": "Donna M. Fields",
+      "character": "Tribeswoman"
+    },
+    {
+      "id": "nm1495087",
+      "name": "Wayne Hankin",
+      "character": "Traveling Storyteller"
+    },
+    {
+      "id": "nm5100755",
+      "name": "Lanny Harrison",
+      "character": "Jewish Mother"
+    },
+    {
+      "id": "nm0397048",
+      "name": "Lucas Hoving",
+      "character": "Physician"
+    },
+    {
+      "id": "nm1450494",
+      "name": "Karen Levitas",
+      "character": "Jewish Elder Daughter"
+    },
+    {
+      "id": "nm6410003",
+      "name": "Rob McBrien",
+      "character": "Dance of Death"
+    },
+    {
+      "id": "nm0598229",
+      "name": "Meredith Monk",
+      "character": "Madwoman"
+    },
+    {
+      "id": "nm2502714",
+      "name": "Toby Newman",
+      "character": "Jewish Girl"
+    },
+    {
+      "id": "nm12117085",
+      "name": "Pablo Vela",
+      "character": "Jewish Grandfather"
+    }
+  ],
+  "countries": [
+    "France",
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 189762,
+  "ratings": {
+    "imdb": {
+      "rating": 7.5,
+      "votes": 190,
+      "distribution": {
+        "1": 16,
+        "2": 1,
+        "3": 5,
+        "4": 3,
+        "5": 7,
+        "6": 17,
+        "7": 38,
+        "8": 41,
+        "9": 15,
+        "10": 47
+      },
+      "normalized": 5.4919
+    },
+    "filmweb": {
+      "rating": 7.78,
+      "votes": 40,
+      "distribution": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 4,
+        "6": 2,
+        "7": 7,
+        "8": 12,
+        "9": 7,
+        "10": 7
+      },
+      "normalized": 5.3782
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "19.10.2005",
+      "normalized": 7.2292
+    },
+    "score": 6.0331
+  },
+  "polish_title": "Book of Days",
+  "silent": false,
+  "producers": [
+    {
+      "id": "nm0489851",
+      "name": "Dominique Lasseur"
+    },
+    {
+      "id": "nm0770213",
+      "name": "Amy Schatz"
+    },
+    {
+      "id": "nm0851232",
+      "name": "Catherine Tatge"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0598229",
+      "name": "Meredith Monk"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0659896",
+      "name": "Jerry Pantzer"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

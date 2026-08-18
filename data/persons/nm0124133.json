@@ -1,0 +1,38 @@
+{
+  "id": "nm0124133",
+  "name": "George W. Bush",
+  "filmography": [
+    {
+      "imdb_id": "tt0310793",
+      "title": "Bowling for Columbine",
+      "year": 2002,
+      "roles": [
+        "cast"
+      ],
+      "character": "Self"
+    },
+    {
+      "imdb_id": "tt0361596",
+      "title": "Fahrenheit 9/11",
+      "year": 2004,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Self"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjMzNTk5MjQ2Ml5BMl5BanBnXkFtZTcwNjk2NDAzOA@@._V1_.jpg",
+  "birth_date": "06.07.1946",
+  "birth_location": "New Haven, Connecticut, USA",
+  "height": "1.82 m",
+  "imdb_scraped": true,
+  "filmweb_id": 80127,
+  "name_pl": "George W. Bush",
+  "birth_location_pl": "New Haven, Connecticut",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

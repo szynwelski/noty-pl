@@ -1,0 +1,96 @@
+{
+  "imdb_id": "tt0326158",
+  "title": "Sioux Ghost Dance",
+  "description": "A group of Sioux Indians from Buffalo Bill's Wild West exhibition demonstrates a dance called a \"ghost dance\".",
+  "runtime_minutes": 1,
+  "release_date": "24.09.1894",
+  "genres": [
+    "Short",
+    "Western"
+  ],
+  "directors": [
+    {
+      "id": "nm0005690",
+      "name": "William K.L. Dickson"
+    },
+    {
+      "id": "nm0374658",
+      "name": "William Heise"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 271979,
+  "year": 1894,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODkwNTJlMmQtMWVhNC00ZjhjLWJkMzYtNzQ4OGUxZWI3NjU1XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.2,
+      "votes": 912,
+      "distribution": {
+        "1": 50,
+        "2": 34,
+        "3": 60,
+        "4": 117,
+        "5": 294,
+        "6": 185,
+        "7": 64,
+        "8": 40,
+        "9": 18,
+        "10": 50
+      },
+      "normalized": 3.6477
+    },
+    "filmweb": {
+      "rating": 5.02,
+      "votes": 128,
+      "distribution": {
+        "1": 4,
+        "2": 6,
+        "3": 21,
+        "4": 16,
+        "5": 39,
+        "6": 13,
+        "7": 16,
+        "8": 6,
+        "9": 3,
+        "10": 4
+      },
+      "normalized": 4.1633
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "11.12.2016",
+      "normalized": 6.4102
+    },
+    "score": 4.7404
+  },
+  "polish_title": "Sioux Ghost Dance",
+  "silent": true,
+  "description_pl": "Grupa Indian pochodzących z Dzikiego Zachodu demonstruje nam taniec zwany &#8222;tańcem ducha&#8221;. Grupa składa się zarówno z ludzi dorosłych jak i młodych. Większość z nich przybiera stosowną pozycję do tego tańca.",
+  "producers": [
+    {
+      "id": "nm0005690",
+      "name": "William K.L. Dickson"
+    },
+    {
+      "id": "nm0249379",
+      "name": "Thomas A. Edison"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0374658",
+      "name": "William Heise"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

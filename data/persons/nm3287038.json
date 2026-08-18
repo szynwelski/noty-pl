@@ -1,0 +1,49 @@
+{
+  "id": "nm3287038",
+  "name": "Thomas Mann",
+  "filmography": [
+    {
+      "imdb_id": "tt1636826",
+      "title": "Project X",
+      "year": 2012,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Thomas"
+    },
+    {
+      "imdb_id": "tt1906329",
+      "title": "As Cool as I Am",
+      "year": 2013,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Kenny Crauder"
+    },
+    {
+      "imdb_id": "tt3731562",
+      "title": "Kong: Skull Island",
+      "year": 2017,
+      "roles": [
+        "cast"
+      ],
+      "character": "Slivko"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMmIwOWNhMzQtMTg1Yy00MDI1LThlYTUtYjgzMGI1YzY3OTM3XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "27.09.1991",
+  "birth_location": "Portland, Oregon, USA",
+  "height": "1.83 m",
+  "imdb_scraped": true,
+  "filmweb_id": 1127730,
+  "name_pl": "Thomas Mann",
+  "birth_location_pl": "Portland, Oregon",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 1127730
+}

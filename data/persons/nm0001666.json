@@ -1,0 +1,49 @@
+{
+  "id": "nm0001666",
+  "name": "Debbie Reynolds",
+  "filmography": [
+    {
+      "imdb_id": "tt0045152",
+      "title": "Singin' in the Rain",
+      "year": 1952,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Kathy Selden"
+    },
+    {
+      "imdb_id": "tt0103855",
+      "title": "The Bodyguard",
+      "year": 1992,
+      "roles": [
+        "cast"
+      ],
+      "character": "Debbie Reynolds"
+    },
+    {
+      "imdb_id": "tt1598828",
+      "title": "One for the Money",
+      "year": 2012,
+      "roles": [
+        "cast"
+      ],
+      "character": "Grandma Mazur"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTM5NTAzNzM0NF5BMl5BanBnXkFtZTcwMTY4OTY2Nw@@._V1_.jpg",
+  "birth_date": "01.04.1932",
+  "death_date": "28.12.2016",
+  "birth_location": "El Paso, Texas, USA",
+  "height": "1.57 m",
+  "filmweb_id": 4129,
+  "name_pl": "Debbie Reynolds",
+  "birth_location_pl": "El Paso, Teksas",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 4129
+}

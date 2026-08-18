@@ -1,0 +1,39 @@
+{
+  "id": "nm0725891",
+  "name": "John Ridgely",
+  "filmography": [
+    {
+      "imdb_id": "tt0036613",
+      "title": "Arsenic and Old Lace",
+      "year": 1944,
+      "roles": [
+        "cast"
+      ],
+      "character": "Saunders"
+    },
+    {
+      "imdb_id": "tt0038355",
+      "title": "The Big Sleep",
+      "year": 1946,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Eddie Mars"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzA5Mzc3ZGEtYTNiYS00M2E2LWI4MjctMzRiNDlhNDAyZGVhXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "06.09.1909",
+  "death_date": "18.01.1968",
+  "birth_location": "Chicago, Illinois, USA",
+  "height": "1.88 m",
+  "imdb_scraped": true,
+  "filmweb_id": 79116,
+  "name_pl": "John Ridgely",
+  "birth_location_pl": "Chicago, Illinois",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

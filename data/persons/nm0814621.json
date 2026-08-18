@@ -1,0 +1,39 @@
+{
+  "id": "nm0814621",
+  "name": "Stanley Sopel",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZTEwY2IyNDQtM2ZkOS00MDc0LWFkN2QtOTA5ZGE1MjkxZjU4XkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0055928",
+      "title": "Dr. No",
+      "year": 1962,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0057076",
+      "title": "From Russia with Love",
+      "year": 1963,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0058150",
+      "title": "Goldfinger",
+      "year": 1964,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "birth_date": "11.10.1924",
+  "death_date": "23.10.2007",
+  "birth_location": "Holborn, London, England, UK",
+  "filmweb_id": 310607,
+  "name_pl": "Stanley Sopel",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true
+}

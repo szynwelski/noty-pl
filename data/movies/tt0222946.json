@@ -1,0 +1,100 @@
+{
+  "imdb_id": "tt0222946",
+  "title": "A Nightmare",
+  "description": "In this fantastic scene, a man who is eager to retire has a difficult time finding peace, as his nocturnal illusions come to life out of thin air.",
+  "runtime_minutes": 1,
+  "release_date": "19.06.1896",
+  "genres": [
+    "Short",
+    "Horror"
+  ],
+  "stars": [
+    {
+      "id": "nm0194945",
+      "name": "Jehanne d'Alcy"
+    },
+    {
+      "id": "nm0617588",
+      "name": "Georges Méliès"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0617588",
+      "name": "Georges Méliès"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0194945",
+      "name": "Jehanne d'Alcy",
+      "character": "Woman in Toga"
+    },
+    {
+      "id": "nm0617588",
+      "name": "Georges Méliès",
+      "character": "Man"
+    }
+  ],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "year": 1896,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZWJmNzJhYjQtZWFkYy00NGMxLTk4MDUtZmU4M2JmYjkyOTIwXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Le Cauchemar",
+  "filmweb_id": 302242,
+  "ratings": {
+    "imdb": {
+      "rating": 6.4,
+      "votes": 2377,
+      "distribution": {
+        "1": 42,
+        "2": 30,
+        "3": 47,
+        "4": 116,
+        "5": 301,
+        "6": 653,
+        "7": 655,
+        "8": 313,
+        "9": 84,
+        "10": 136
+      },
+      "normalized": 4.5643
+    },
+    "filmweb": {
+      "rating": 6.21,
+      "votes": 380,
+      "distribution": {
+        "1": 3,
+        "2": 5,
+        "3": 13,
+        "4": 23,
+        "5": 53,
+        "6": 129,
+        "7": 90,
+        "8": 40,
+        "9": 13,
+        "10": 11
+      },
+      "normalized": 4.3887
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "11.12.2016",
+      "normalized": 7.1247
+    },
+    "score": 5.3592
+  },
+  "polish_title": "Le Cauchemar",
+  "silent": true,
+  "description_pl": "Mężczyzna rzuca się na łóżku nękany koszmarem. W pewnym momencie w jego śnie pojawia się piękna kobieta. Gdy jednak próbuje ją objąć, zamienia się ona w wędrownego śpiewaka. Ten z kolei zamienia się w błazna. Sen staje się coraz dziwniejszy...",
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-16"
+}

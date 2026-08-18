@@ -1,0 +1,100 @@
+{
+  "imdb_id": "tt3839142",
+  "title": "Tuk-tuk",
+  "description": "Three kids work as drivers in the streets of Cairo.",
+  "runtime_minutes": 75,
+  "release_date": "26.04.2015",
+  "genres": [
+    "Documentary"
+  ],
+  "directors": [
+    {
+      "id": "nm4917820",
+      "name": "Romany Saad"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm4917820",
+      "name": "Romany Saad"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "Egypt"
+  ],
+  "languages": [
+    "Arabic"
+  ],
+  "color": "Color",
+  "filmweb_id": 751160,
+  "year": 2015,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzk4MTM4NzA0OV5BMl5BanBnXkFtZTgwODYzMzIzNjE@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8.2,
+      "votes": 33,
+      "distribution": {
+        "1": 3,
+        "2": 0,
+        "3": 0,
+        "4": 2,
+        "5": 3,
+        "6": 3,
+        "7": 5,
+        "8": 4,
+        "9": 0,
+        "10": 13
+      },
+      "normalized": 5.4521
+    },
+    "filmweb": {
+      "rating": 7.11,
+      "votes": 9,
+      "distribution": {
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 2,
+        "7": 4,
+        "8": 3,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 5.2283
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "12.10.2020",
+      "normalized": 4.9718
+    },
+    "score": 5.2174
+  },
+  "polish_title": "Tuk-Tuk",
+  "silent": false,
+  "description_pl": "Abdallah, Bika i Sharon codziennie rano wsiadają do swoich tuk-tuków, by wyjechać na wiecznie zatłoczone ulice Kairu. Dołączają do tysięcy małych trzykołowych, motorowych riksz, sprawnie lawirujących w zgiełku między przechodniami, samochodami i straganami, niebezpiecznie wylewającymi się na jezdnie. Są zbyt młodzi, żeby otrzymać od miasta oficjalną koncesję, a mimo to poświęcają swoje dzieciństwo i edukację dla lepszej przyszłości swoich bliskich. Przez kilka dni przemierzamy z nimi gorączkowy i malowniczy Kair, śledząc ich zmagania z policją wymuszającą haracze, złodziejami i taksówkarzami. W tym nieprzyjaznym otoczeniu Abdallah, Bika i Sharon muszą bardzo szybko dorosnąć.",
+  "producers": [
+    {
+      "id": "nm9826759",
+      "name": "Rania Gendy"
+    },
+    {
+      "id": "nm9826760",
+      "name": "Maged Saad"
+    },
+    {
+      "id": "nm4917820",
+      "name": "Romany Saad"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm6605772",
+      "name": "Hany Fakhry"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

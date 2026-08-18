@@ -1,0 +1,29 @@
+{
+  "id": "nm0382402",
+  "name": "Jean Heywood",
+  "filmography": [
+    {
+      "imdb_id": "tt0249462",
+      "title": "Billy Elliot",
+      "year": 2000,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Grandma"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNmJkMzBhZjMtOTQyYy00MjhmLWE5NWQtZDhmNTI1NGY2MDkxXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "15.07.1921",
+  "death_date": "14.09.2019",
+  "birth_location": "Blyth, Northumberland, England, UK",
+  "imdb_scraped": true,
+  "filmweb_id": 31556,
+  "name_pl": "Jean Heywood",
+  "birth_location_pl": "Blyth, Anglia",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ]
+}

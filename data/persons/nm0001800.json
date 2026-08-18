@@ -1,0 +1,59 @@
+{
+  "id": "nm0001800",
+  "name": "Rip Torn",
+  "filmography": [
+    {
+      "imdb_id": "tt0119654",
+      "title": "Men in Black",
+      "year": 1997,
+      "roles": [
+        "cast"
+      ],
+      "character": "Zed"
+    },
+    {
+      "imdb_id": "tt0140352",
+      "title": "The Insider",
+      "year": 1999,
+      "roles": [
+        "cast"
+      ],
+      "character": "John Scanlon"
+    },
+    {
+      "imdb_id": "tt0120912",
+      "title": "Men in Black II",
+      "year": 2002,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Zed"
+    },
+    {
+      "imdb_id": "tt0422720",
+      "title": "Marie Antoinette",
+      "year": 2006,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Louis XV"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjAwMTI5MTA5MV5BMl5BanBnXkFtZTYwMDE2Mjk2._V1_.jpg",
+  "birth_date": "06.02.1931",
+  "death_date": "09.07.2019",
+  "birth_location": "Temple, Texas, USA",
+  "height": "1.78 m",
+  "filmweb_id": 5317,
+  "name_pl": "Rip Torn",
+  "birth_location_pl": "Temple, Teksas",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 5317
+}

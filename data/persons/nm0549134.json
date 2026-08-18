@@ -1,0 +1,40 @@
+{
+  "id": "nm0549134",
+  "name": "John Marley",
+  "filmography": [
+    {
+      "imdb_id": "tt0066011",
+      "title": "Love Story",
+      "year": 1970,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Phil Cavilleri"
+    },
+    {
+      "imdb_id": "tt0068646",
+      "title": "The Godfather",
+      "year": 1972,
+      "roles": [
+        "cast"
+      ],
+      "character": "Jack Woltz"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjk0NjY1MjAyMl5BMl5BanBnXkFtZTcwNzY5NDYwOA@@._V1_.jpg",
+  "birth_date": "17.10.1907",
+  "death_date": "22.05.1984",
+  "birth_location": "Harlem, Manhattan, New York City, New York, USA",
+  "height": "1.73 m",
+  "imdb_scraped": true,
+  "filmweb_id": 8448,
+  "name_pl": "John Marley",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 8448
+}

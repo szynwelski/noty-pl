@@ -1,0 +1,39 @@
+{
+  "id": "nm0001045",
+  "name": "Tommy Chong",
+  "filmography": [
+    {
+      "imdb_id": "tt0165598",
+      "title": "That '70s Show",
+      "year": 1998,
+      "roles": [
+        "cast"
+      ],
+      "character": "Leonard 'Leo' Chingkwake"
+    },
+    {
+      "imdb_id": "tt2948356",
+      "title": "Zootopia",
+      "year": 2016,
+      "roles": [
+        "cast"
+      ],
+      "character": "Yax"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjE1MzYxNDg4Nl5BMl5BanBnXkFtZTYwMzU4NzYz._V1_.jpg",
+  "birth_date": "24.05.1938",
+  "birth_location": "Edmonton, Alberta, Canada",
+  "height": "1.77 m",
+  "imdb_scraped": true,
+  "filmweb_id": 41633,
+  "name_pl": "Tommy Chong",
+  "birth_location_pl": "Edmonton",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Kanada",
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 41633
+}

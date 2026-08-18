@@ -1,0 +1,77 @@
+{
+  "id": "nm0000636",
+  "name": "William Shakespeare",
+  "filmography": [
+    {
+      "imdb_id": "tt0036910",
+      "title": "Henry V",
+      "year": 1944,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0059012",
+      "title": "Chimes at Midnight",
+      "year": 1965,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0067372",
+      "title": "Macbeth",
+      "year": 1971,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0107616",
+      "title": "Much Ado About Nothing",
+      "year": 1993,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0117509",
+      "title": "Romeo + Juliet",
+      "year": 1996,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0147800",
+      "title": "10 Things I Hate About You",
+      "year": 1999,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0379889",
+      "title": "The Merchant of Venice",
+      "year": 2004,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTg5ODgyNDgyNF5BMl5BanBnXkFtZTcwMjEwNTgxOA@@._V1_.jpg",
+  "birth_date": "23.04.1564",
+  "death_date": "23.04.1616",
+  "birth_location": "Stratford-upon-Avon, Warwickshire, Kingdom of England [now England, UK]",
+  "height": "1.72 m",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Królestwo Anglii"
+  ],
+  "filmweb_id": 520021,
+  "wikidata_fw_id": 651546,
+  "name_pl": "William Shakespeare",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "nm0733427",
+  "name": "Harry Shearer",
+  "filmography": [
+    {
+      "imdb_id": "tt0088258",
+      "title": "This Is Spinal Tap",
+      "year": 1984,
+      "roles": [
+        "writer",
+        "cast"
+      ],
+      "character": "Derek Smalls"
+    },
+    {
+      "imdb_id": "tt0120685",
+      "title": "Godzilla",
+      "year": 1998,
+      "roles": [
+        "cast"
+      ],
+      "character": "Charles Caiman"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTIxNDg4MzA5OF5BMl5BanBnXkFtZTYwOTM3MDc1._V1_.jpg",
+  "birth_date": "23.12.1943",
+  "birth_location": "Los Angeles, California, USA",
+  "height": "1.70 m",
+  "imdb_scraped": true,
+  "filmweb_id": 3102,
+  "name_pl": "Harry Shearer",
+  "birth_location_pl": "Los Angeles, Kalifornia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 3102
+}

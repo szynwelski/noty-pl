@@ -1,0 +1,283 @@
+{
+  "imdb_id": "tt4154756",
+  "title": "Avengers: Infinity War",
+  "description": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+  "runtime_minutes": 149,
+  "release_date": "27.04.2018",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm0000375",
+      "name": "Robert Downey Jr."
+    },
+    {
+      "id": "nm1165110",
+      "name": "Chris Hemsworth"
+    },
+    {
+      "id": "nm0749263",
+      "name": "Mark Ruffalo"
+    },
+    {
+      "id": "nm0262635",
+      "name": "Chris Evans"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0751577",
+      "name": "Anthony Russo"
+    },
+    {
+      "id": "nm0751648",
+      "name": "Joe Russo"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1321655",
+      "name": "Christopher Markus"
+    },
+    {
+      "id": "nm1321656",
+      "name": "Stephen McFeely"
+    },
+    {
+      "id": "nm0498278",
+      "name": "Stan Lee"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000375",
+      "name": "Robert Downey Jr.",
+      "character": "Tony Stark"
+    },
+    {
+      "id": "nm1165110",
+      "name": "Chris Hemsworth",
+      "character": "Thor"
+    },
+    {
+      "id": "nm0749263",
+      "name": "Mark Ruffalo",
+      "character": "Bruce Banner"
+    },
+    {
+      "id": "nm0262635",
+      "name": "Chris Evans",
+      "character": "Steve Rogers"
+    },
+    {
+      "id": "nm0424060",
+      "name": "Scarlett Johansson",
+      "character": "Natasha Romanoff"
+    },
+    {
+      "id": "nm0000332",
+      "name": "Don Cheadle",
+      "character": "James Rhodes"
+    },
+    {
+      "id": "nm1212722",
+      "name": "Benedict Cumberbatch",
+      "character": "Doctor Strange"
+    },
+    {
+      "id": "nm4043618",
+      "name": "Tom Holland",
+      "character": "Peter Parker"
+    },
+    {
+      "id": "nm1569276",
+      "name": "Chadwick Boseman",
+      "character": "T'Challa"
+    },
+    {
+      "id": "nm0757855",
+      "name": "Zoe Saldaña",
+      "character": "Gamora"
+    },
+    {
+      "id": "nm2394794",
+      "name": "Karen Gillan",
+      "character": "Nebula"
+    },
+    {
+      "id": "nm1089991",
+      "name": "Tom Hiddleston",
+      "character": "Loki"
+    },
+    {
+      "id": "nm0079273",
+      "name": "Paul Bettany",
+      "character": "Vision"
+    },
+    {
+      "id": "nm0647634",
+      "name": "Elizabeth Olsen",
+      "character": "Wanda Maximoff"
+    },
+    {
+      "id": "nm1107001",
+      "name": "Anthony Mackie",
+      "character": "Sam Wilson"
+    },
+    {
+      "id": "nm1659221",
+      "name": "Sebastian Stan",
+      "character": "Bucky Barnes"
+    },
+    {
+      "id": "nm0252961",
+      "name": "Idris Elba",
+      "character": "Heimdall"
+    },
+    {
+      "id": "nm1775091",
+      "name": "Danai Gurira",
+      "character": "Okoye"
+    }
+  ],
+  "countries": [
+    "United States",
+    "Norway"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 693758,
+  "year": 2018,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8.4,
+      "votes": 1399170,
+      "distribution": {
+        "1": 29677,
+        "2": 5117,
+        "3": 6285,
+        "4": 9648,
+        "5": 21753,
+        "6": 54930,
+        "7": 149208,
+        "8": 318866,
+        "9": 362243,
+        "10": 441443
+      },
+      "normalized": 8.6947
+    },
+    "filmweb": {
+      "rating": 8.11,
+      "votes": 213659,
+      "distribution": {
+        "1": 973,
+        "2": 410,
+        "3": 1128,
+        "4": 1801,
+        "5": 4597,
+        "6": 12388,
+        "7": 35950,
+        "8": 68204,
+        "9": 56242,
+        "10": 31966
+      },
+      "normalized": 8.7827
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "10.05.2018",
+      "normalized": 4.9718
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "02.05.2018",
+      "normalized": 4.5781
+    },
+    "score": 6.7568
+  },
+  "polish_title": "Avengers: Wojna bez granic",
+  "silent": false,
+  "description_pl": "Kiedy Avengersi i ich sojusznicy kontynuują ochronę świata przed globalnym zagrożeniem, pojawia się nowy przeciwnik, Thanos (<a href=\"/osoba/?id=nm0000982\">Josh Brolin</a>). Celem tego międzygalaktycznego despoty jest zebranie wszystkich sześciu Kamieni Nieskończoności, artefaktów o niewyobrażalnej mocy. Chce za ich pomocą kreować rzeczywistość według własnej, pokręconej woli. Los Ziemi i wszelkiego życia znajduje się w wielkim niebezpieczeństwie.",
+  "producers": [
+    {
+      "id": "nm0022285",
+      "name": "Victoria Alonso"
+    },
+    {
+      "id": "nm0068416",
+      "name": "Mitchell Bell"
+    },
+    {
+      "id": "nm2753152",
+      "name": "Ari Costa"
+    },
+    {
+      "id": "nm0195669",
+      "name": "Louis D'Esposito"
+    },
+    {
+      "id": "nm0968941",
+      "name": "Thiago Da Costa"
+    },
+    {
+      "id": "nm0269463",
+      "name": "Jon Favreau"
+    },
+    {
+      "id": "nm0270559",
+      "name": "Kevin Feige"
+    },
+    {
+      "id": "nm0342045",
+      "name": "Michael Grillo"
+    },
+    {
+      "id": "nm0348181",
+      "name": "James Gunn"
+    },
+    {
+      "id": "nm0498278",
+      "name": "Stan Lee"
+    },
+    {
+      "id": "nm0674797",
+      "name": "JoAnn Perritano"
+    },
+    {
+      "id": "nm3460314",
+      "name": "Edu Sallouti"
+    },
+    {
+      "id": "nm1017025",
+      "name": "Nicholas Simon"
+    },
+    {
+      "id": "nm2514395",
+      "name": "Trinh Tran"
+    },
+    {
+      "id": "nm1598727",
+      "name": "Jen Underdahl"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006293",
+      "name": "Alan Silvestri"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm1022001",
+      "name": "Trent Opaloch"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

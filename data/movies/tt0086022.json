@@ -1,0 +1,202 @@
+{
+  "imdb_id": "tt0086022",
+  "title": "Nostalgia",
+  "description": "A Russian poet and his interpreter travel to Italy researching the life of an 18th-century composer, and instead meet a ruminative madman who tells the poet how the world may be saved.",
+  "runtime_minutes": 125,
+  "release_date": "1992",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0946160",
+      "name": "Oleg Yankovskiy"
+    },
+    {
+      "id": "nm0430746",
+      "name": "Erland Josephson"
+    },
+    {
+      "id": "nm0320323",
+      "name": "Domiziana Giordano"
+    },
+    {
+      "id": "nm0855837",
+      "name": "Patrizia Terreno"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001789",
+      "name": "Andrei Tarkovsky"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0001789",
+      "name": "Andrei Tarkovsky"
+    },
+    {
+      "id": "nm0346096",
+      "name": "Tonino Guerra"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0946160",
+      "name": "Oleg Yankovskiy",
+      "character": "Andrei Gorchakov"
+    },
+    {
+      "id": "nm0430746",
+      "name": "Erland Josephson",
+      "character": "Domenico"
+    },
+    {
+      "id": "nm0320323",
+      "name": "Domiziana Giordano",
+      "character": "Eugenia"
+    },
+    {
+      "id": "nm0855837",
+      "name": "Patrizia Terreno",
+      "character": "Andrei's Wife"
+    },
+    {
+      "id": "nm0210057",
+      "name": "Laura De Marchi",
+      "character": "Chambermaid"
+    },
+    {
+      "id": "nm0090521",
+      "name": "Delia Boccardo",
+      "character": "Domenico's Wife"
+    },
+    {
+      "id": "nm0904371",
+      "name": "Milena Vukotic",
+      "character": "Civil Servant"
+    },
+    {
+      "id": "nm0224047",
+      "name": "Raffaele Di Mario",
+      "character": ""
+    },
+    {
+      "id": "nm0298928",
+      "name": "Rate Furlan",
+      "character": ""
+    },
+    {
+      "id": "nm0301689",
+      "name": "Livio Galassi",
+      "character": ""
+    },
+    {
+      "id": "nm0536435",
+      "name": "Elena Magoia",
+      "character": ""
+    },
+    {
+      "id": "nm0896235",
+      "name": "Piero Vida",
+      "character": ""
+    },
+    {
+      "id": "nm0133871",
+      "name": "Alberto Canepa",
+      "character": "Farmer"
+    },
+    {
+      "id": "nm0134932",
+      "name": "Omero Capanna",
+      "character": "Burning Man"
+    },
+    {
+      "id": "nm0583857",
+      "name": "Vittorio Mezzogiorno",
+      "character": ""
+    }
+  ],
+  "countries": [
+    "Italy",
+    "Soviet Union"
+  ],
+  "languages": [
+    "Italian",
+    "Russian"
+  ],
+  "color": "Color",
+  "year": 1983,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMWFjMGFhYzEtODZkZS00MDRjLWE2NGEtMWRhODcwMzNiN2I1XkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 30807,
+  "original_title": "Nostalghia",
+  "ratings": {
+    "imdb": {
+      "rating": 7.9,
+      "votes": 33503,
+      "distribution": {
+        "1": 504,
+        "2": 354,
+        "3": 411,
+        "4": 623,
+        "5": 1161,
+        "6": 2323,
+        "7": 5054,
+        "8": 8676,
+        "9": 6776,
+        "10": 7621
+      },
+      "normalized": 7.1288
+    },
+    "filmweb": {
+      "rating": 7.6,
+      "votes": 6572,
+      "distribution": {
+        "1": 157,
+        "2": 53,
+        "3": 99,
+        "4": 126,
+        "5": 304,
+        "6": 546,
+        "7": 1137,
+        "8": 2021,
+        "9": 1310,
+        "10": 819
+      },
+      "normalized": 6.8756
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "12.11.2007",
+      "normalized": 6.3474
+    },
+    "score": 6.7839
+  },
+  "polish_title": "Nostalgia",
+  "silent": false,
+  "description_pl": "Poeta Andrei Gortchakov (<a href=\"/osoba/?id=nm0946160\">Oleg Jankowski</a>) podróżuje przez Włochy razem z przewodniczką i tłumaczką Eugenią (Domiziana Giordano), by poznać życie rosyjskiego kompozytora, który żył w XVIII wieku. W pewnym mieście spotykają chorego Domenico (<a href=\"/osoba/?id=nm0430746\">Erland Josephson</a>), który kilka lat wcześniej uwięził swoją własną rodzinę w stodole, by chronić ją przed złem tego świata. Andrei zaczyna zagłębiać się w umysł szalonego Domenico.",
+  "producers": [
+    {
+      "id": "nm0093257",
+      "name": "Manolo Bolognini"
+    },
+    {
+      "id": "nm0744022",
+      "name": "Renzo Rossellini"
+    },
+    {
+      "id": "nm0869099",
+      "name": "Daniel Toscan du Plantier"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0484272",
+      "name": "Giuseppe Lanci"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

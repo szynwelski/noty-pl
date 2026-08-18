@@ -1,0 +1,39 @@
+{
+  "id": "nm0676349",
+  "name": "Brock Peters",
+  "filmography": [
+    {
+      "imdb_id": "tt0056592",
+      "title": "To Kill a Mockingbird",
+      "year": 1962,
+      "roles": [
+        "cast"
+      ],
+      "character": "Tom Robinson"
+    },
+    {
+      "imdb_id": "tt0059418",
+      "title": "Major Dundee",
+      "year": 1965,
+      "roles": [
+        "cast"
+      ],
+      "character": "Aesop"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOTM0OTMwMzc1Nl5BMl5BanBnXkFtZTcwMzkwMjEzMQ@@._V1_.jpg",
+  "birth_date": "02.07.1927",
+  "death_date": "23.08.2005",
+  "birth_location": "New York City, New York, USA",
+  "height": "1.82 m",
+  "imdb_scraped": true,
+  "filmweb_id": 40600,
+  "name_pl": "Brock Peters",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 40600
+}

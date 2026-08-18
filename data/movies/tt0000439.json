@@ -1,0 +1,192 @@
+{
+  "imdb_id": "tt0000439",
+  "title": "The Great Train Robbery",
+  "description": "A group of bandits stage a brazen train hold-up, only to find a determined posse hot on their heels.",
+  "runtime_minutes": 11,
+  "release_date": "07.12.1903",
+  "genres": [
+    "Short",
+    "Action",
+    "Adventure",
+    "Crime",
+    "Drama",
+    "Western"
+  ],
+  "stars": [
+    {
+      "id": "nm0001908",
+      "name": "Gilbert M. 'Broncho Billy' Anderson"
+    },
+    {
+      "id": "nm0007625",
+      "name": "A.C. Abadie"
+    },
+    {
+      "id": "nm0055607",
+      "name": "George Barnes"
+    },
+    {
+      "id": "nm0055661",
+      "name": "Justus D. Barnes"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0692105",
+      "name": "Edwin S. Porter"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1145809",
+      "name": "Scott Marble"
+    },
+    {
+      "id": "nm0692105",
+      "name": "Edwin S. Porter"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0001908",
+      "name": "Gilbert M. 'Broncho Billy' Anderson",
+      "character": "Bandit"
+    },
+    {
+      "id": "nm0007625",
+      "name": "A.C. Abadie",
+      "character": "Sheriff"
+    },
+    {
+      "id": "nm0055607",
+      "name": "George Barnes",
+      "character": ""
+    },
+    {
+      "id": "nm0055661",
+      "name": "Justus D. Barnes",
+      "character": "Bandit Who Fires at Camera"
+    },
+    {
+      "id": "nm0131750",
+      "name": "Walter Cameron",
+      "character": "Sheriff"
+    },
+    {
+      "id": "nm2313241",
+      "name": "John Manus Dougherty Sr.",
+      "character": "Fourth Bandit"
+    },
+    {
+      "id": "nm0302368",
+      "name": "Donald Gallaher",
+      "character": "Little Boy"
+    },
+    {
+      "id": "nm7715443",
+      "name": "Shadrack E. Graham",
+      "character": "Child"
+    },
+    {
+      "id": "nm0359294",
+      "name": "Frank Hanaway",
+      "character": "Bandit"
+    },
+    {
+      "id": "nm3128574",
+      "name": "Adam Charles Hayman",
+      "character": "Bandit"
+    },
+    {
+      "id": "nm0428895",
+      "name": "Morgan Jones",
+      "character": ""
+    },
+    {
+      "id": "nm0586903",
+      "name": "Robert Milasch",
+      "character": "Trainman"
+    },
+    {
+      "id": "nm0615155",
+      "name": "Marie Murray",
+      "character": "Dance-Hall Dancer"
+    },
+    {
+      "id": "nm11716185",
+      "name": "Frederick T. Scott",
+      "character": "Man"
+    },
+    {
+      "id": "nm4842160",
+      "name": "Mary Snow",
+      "character": "Little Girl"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "None"
+  ],
+  "color": null,
+  "filmweb_id": 32194,
+  "year": 1903,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOWUwMWMxZjEtNTMzNy00NDc4LWEyNjktYzRjZjQ4MGI4ZDZhXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.2,
+      "votes": 22969,
+      "distribution": {
+        "1": 152,
+        "2": 131,
+        "3": 206,
+        "4": 449,
+        "5": 1375,
+        "6": 3410,
+        "7": 7449,
+        "8": 5921,
+        "9": 1728,
+        "10": 2148
+      },
+      "normalized": 5.8722
+    },
+    "filmweb": {
+      "rating": 6.88,
+      "votes": 3139,
+      "distribution": {
+        "1": 25,
+        "2": 8,
+        "3": 34,
+        "4": 78,
+        "5": 256,
+        "6": 663,
+        "7": 1215,
+        "8": 533,
+        "9": 151,
+        "10": 176
+      },
+      "normalized": 5.3836
+    },
+    "jarek": {
+      "rating": 8,
+      "date_rated": "15.12.2016",
+      "normalized": 7.8989
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "11.11.2007",
+      "normalized": 6.3474
+    },
+    "score": 6.3755
+  },
+  "polish_title": "Napad na ekspres",
+  "silent": true,
+  "description_pl": "Bandyci napadają na sprzedawcę na stacji kolejowej, związują go i zostawiają, sami zaś wsiadają do pociągu, gdzie dokonują kolejnych bandyckich napaści, w wyniku których ginie jeden pasażer. Tymczasem związanego sprzedawcę znajduje mała dziewczynka, która powiadamia szeryfa - ten natychmiast rusza w pościg za bandytami.",
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-15"
+}

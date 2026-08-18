@@ -1,0 +1,242 @@
+{
+  "imdb_id": "tt0113189",
+  "title": "GoldenEye",
+  "description": "When a powerful secret defense system is stolen, James Bond is assigned to stop a Russian crime syndicate from using it.",
+  "runtime_minutes": 130,
+  "release_date": "17.11.1995",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000112",
+      "name": "Pierce Brosnan"
+    },
+    {
+      "id": "nm0000293",
+      "name": "Sean Bean"
+    },
+    {
+      "id": "nm0001713",
+      "name": "Izabella Scorupco"
+    },
+    {
+      "id": "nm0000463",
+      "name": "Famke Janssen"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0132709",
+      "name": "Martin Campbell"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0001220",
+      "name": "Ian Fleming"
+    },
+    {
+      "id": "nm0289833",
+      "name": "Michael France"
+    },
+    {
+      "id": "nm0128997",
+      "name": "Jeffrey Caine"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000112",
+      "name": "Pierce Brosnan",
+      "character": "James Bond"
+    },
+    {
+      "id": "nm0000293",
+      "name": "Sean Bean",
+      "character": "Alec Trevelyan"
+    },
+    {
+      "id": "nm0001713",
+      "name": "Izabella Scorupco",
+      "character": "Natalya Simonova"
+    },
+    {
+      "id": "nm0000463",
+      "name": "Famke Janssen",
+      "character": "Xenia Onatopp"
+    },
+    {
+      "id": "nm0000833",
+      "name": "Joe Don Baker",
+      "character": "Jack Wade"
+    },
+    {
+      "id": "nm0001132",
+      "name": "Judi Dench",
+      "character": "M"
+    },
+    {
+      "id": "nm0001059",
+      "name": "Robbie Coltrane",
+      "character": "Valentin Zukovsky"
+    },
+    {
+      "id": "nm0001409",
+      "name": "Tchéky Karyo",
+      "character": "Dimitri Mishkin"
+    },
+    {
+      "id": "nm0424167",
+      "name": "Gottfried John",
+      "character": "Colonel Ourumov"
+    },
+    {
+      "id": "nm0001086",
+      "name": "Alan Cumming",
+      "character": "Boris Grishenko"
+    },
+    {
+      "id": "nm0005155",
+      "name": "Desmond Llewelyn",
+      "character": "Q"
+    },
+    {
+      "id": "nm0094039",
+      "name": "Samantha Bond",
+      "character": "Moneypenny"
+    },
+    {
+      "id": "nm0457655",
+      "name": "Michael Kitchen",
+      "character": "Bill Tanner"
+    },
+    {
+      "id": "nm0330601",
+      "name": "Serena Gordon",
+      "character": "Caroline"
+    },
+    {
+      "id": "nm0475336",
+      "name": "Simon Kunz",
+      "character": "Severnaya Duty Officer"
+    },
+    {
+      "id": "nm0235206",
+      "name": "Pavel Douglas",
+      "character": "French Warship Captain"
+    },
+    {
+      "id": "nm0482070",
+      "name": "Olivier Lajous",
+      "character": "French Warship Officer"
+    },
+    {
+      "id": "nm0593165",
+      "name": "Billy J. Mitchell",
+      "character": "Admiral Chuck Farrel"
+    }
+  ],
+  "countries": [
+    "United Kingdom",
+    "United States",
+    "Russia"
+  ],
+  "languages": [
+    "English",
+    "Russian",
+    "Spanish"
+  ],
+  "color": "Color",
+  "filmweb_id": 799,
+  "year": 1995,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOGQxNmYyY2YtZGIyNy00ODgxLThhZWEtZGIyNjJhYzFlOTllXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.2,
+      "votes": 288205,
+      "distribution": {
+        "1": 1848,
+        "2": 1255,
+        "3": 2224,
+        "4": 5014,
+        "5": 14249,
+        "6": 41421,
+        "7": 97651,
+        "8": 73796,
+        "9": 27478,
+        "10": 23269
+      },
+      "normalized": 5.9504
+    },
+    "filmweb": {
+      "rating": 7.13,
+      "votes": 90904,
+      "distribution": {
+        "1": 199,
+        "2": 193,
+        "3": 683,
+        "4": 1614,
+        "5": 5153,
+        "6": 15145,
+        "7": 33839,
+        "8": 24503,
+        "9": 5968,
+        "10": 3607
+      },
+      "normalized": 5.8854
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "02.12.2005",
+      "normalized": 4.9718
+    },
+    "michal": {
+      "rating": 3,
+      "date_rated": "19.10.2005",
+      "normalized": 3.8753
+    },
+    "score": 5.1707
+  },
+  "polish_title": "GoldenEye",
+  "silent": false,
+  "description_pl": "Bond ma nowego śmiertelnego wroga, z którym musi się zmierzyć w swej misji. Jego perfidny przeciwnik kradnie ściśle tajny helikopter i najnowszą sowiecką broń zwaną \"GoldenEye\", przy pomocy której chce zniszczyć cały zachodni świat. Tylko James Bond (debiutujący w tej roli <a href=\"/osoba/?id=nm0000112\">Pierce Brosnan</a>) może zapobiec nieszczęściu.",
+  "producers": [
+    {
+      "id": "nm0110483",
+      "name": "Barbara Broccoli"
+    },
+    {
+      "id": "nm0678932",
+      "name": "Tom Pevsner"
+    },
+    {
+      "id": "nm0915415",
+      "name": "Anthony Waye"
+    },
+    {
+      "id": "nm0933865",
+      "name": "Michael G. Wilson"
+    },
+    {
+      "id": "nm0110482",
+      "name": "Albert R. Broccoli"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0785385",
+      "name": "Éric Serra"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005793",
+      "name": "Phil Meheux"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

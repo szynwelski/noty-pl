@@ -1,0 +1,46 @@
+{
+  "id": "nm0926368",
+  "name": "Benjamin Whitrow",
+  "filmography": [
+    {
+      "imdb_id": "tt0112130",
+      "title": "Pride and Prejudice",
+      "year": 1995,
+      "roles": [
+        "cast"
+      ],
+      "character": "Mr. Bennet"
+    },
+    {
+      "imdb_id": "tt0120630",
+      "title": "Chicken Run",
+      "year": 2000,
+      "roles": [
+        "cast"
+      ],
+      "character": "Fowler"
+    },
+    {
+      "imdb_id": "tt4555426",
+      "title": "Darkest Hour",
+      "year": 2017,
+      "roles": [
+        "cast"
+      ],
+      "character": "Sir Samuel Hoare"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQyNTkxNTAyNF5BMl5BanBnXkFtZTgwOTg1Mjg0MjE@._V1_.jpg",
+  "birth_date": "17.02.1937",
+  "death_date": "28.09.2017",
+  "birth_location": "Oxford, Oxfordshire, England, UK",
+  "filmweb_id": 63538,
+  "name_pl": "Benjamin Whitrow",
+  "birth_location_pl": "Oksford, Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "nm0000044",
+  "name": "Burt Lancaster",
+  "filmography": [
+    {
+      "imdb_id": "tt0045793",
+      "title": "From Here to Eternity",
+      "year": 1953,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Sgt. Milton Warden"
+    },
+    {
+      "imdb_id": "tt0048356",
+      "title": "Marty",
+      "year": 1955,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0051036",
+      "title": "Sweet Smell of Success",
+      "year": 1957,
+      "roles": [
+        "star",
+        "cast",
+        "producer"
+      ],
+      "character": "J.J. Hunsecker"
+    },
+    {
+      "imdb_id": "tt0055031",
+      "title": "Judgment at Nuremberg",
+      "year": 1961,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Dr. Ernst Janning"
+    },
+    {
+      "imdb_id": "tt0071585",
+      "title": "Conversation Piece",
+      "year": 1974,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Il Professore"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNmE0M2EwMTYtYzJmOC00OGQ5LWJiNjUtMzE2ZjJlMjFmMTMwXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 45092,
+  "birth_date": "02.11.1913",
+  "death_date": "20.10.1994",
+  "birth_location": "New York City, New York, USA",
+  "height": "1.87 m",
+  "imdb_scraped": true,
+  "name_pl": "Burt Lancaster",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 45092
+}

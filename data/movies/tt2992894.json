@@ -1,0 +1,180 @@
+{
+  "imdb_id": "tt2992894",
+  "title": "Halfway",
+  "description": "Stef moved to a new home, but there is another man in his home, Theo. Theo is the previous owner of the house, he died a few years ago. Stef seems to be the only one who can see him.",
+  "runtime_minutes": 115,
+  "release_date": "26.02.2014",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm1687396",
+      "name": "Jurgen Delnaet"
+    },
+    {
+      "id": "nm0208642",
+      "name": "Koen De Graeve"
+    },
+    {
+      "id": "nm4199630",
+      "name": "Evelien Bosmans"
+    },
+    {
+      "id": "nm2141341",
+      "name": "Gilles De Schryver"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0258172",
+      "name": "Geoffrey Enthoven"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0208051",
+      "name": "Pierre De Clercq"
+    },
+    {
+      "id": "nm1066773",
+      "name": "Mariano Vanhoof"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1687396",
+      "name": "Jurgen Delnaet",
+      "character": "Theo"
+    },
+    {
+      "id": "nm0208642",
+      "name": "Koen De Graeve",
+      "character": "Stef"
+    },
+    {
+      "id": "nm4199630",
+      "name": "Evelien Bosmans",
+      "character": "Julie"
+    },
+    {
+      "id": "nm2141341",
+      "name": "Gilles De Schryver",
+      "character": "Robin"
+    },
+    {
+      "id": "nm0046424",
+      "name": "Veerle Baetens",
+      "character": "Natalie"
+    },
+    {
+      "id": "nm1508789",
+      "name": "Ella Leyers",
+      "character": "Rebecca"
+    },
+    {
+      "id": "nm2058024",
+      "name": "Tom Audenaert",
+      "character": "Lionel"
+    },
+    {
+      "id": "nm1089135",
+      "name": "Tiny Bertels",
+      "character": "Ellen"
+    },
+    {
+      "id": "nm0407769",
+      "name": "Herwig Ilegems",
+      "character": "Max"
+    },
+    {
+      "id": "nm0503854",
+      "name": "Günther Lesage",
+      "character": "Karl"
+    },
+    {
+      "id": "nm0893655",
+      "name": "Jos Verbist",
+      "character": "Dr. Paul"
+    }
+  ],
+  "countries": [
+    "Belgium"
+  ],
+  "languages": [
+    "Dutch"
+  ],
+  "color": "Color",
+  "filmweb_id": 692908,
+  "year": 2014,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjM1NTExNDgzN15BMl5BanBnXkFtZTgwMzg1NDUwMjE@._V1_.jpg",
+  "original_title": "Halfweg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.5,
+      "votes": 540,
+      "distribution": {
+        "1": 11,
+        "2": 4,
+        "3": 12,
+        "4": 29,
+        "5": 55,
+        "6": 125,
+        "7": 178,
+        "8": 77,
+        "9": 20,
+        "10": 29
+      },
+      "normalized": 4.9986
+    },
+    "filmweb": {
+      "rating": 6.9,
+      "votes": 70,
+      "distribution": {
+        "2": 1,
+        "3": 1,
+        "4": 2,
+        "5": 4,
+        "6": 11,
+        "7": 28,
+        "8": 19,
+        "9": 4,
+        "10": 0
+      },
+      "normalized": 5.2545
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "22.12.2018",
+      "normalized": 6.4102
+    },
+    "score": 5.5544
+  },
+  "polish_title": "W pół drogi",
+  "silent": false,
+  "description_pl": "Stephen jest w trakcie rozwodu. Czuje, że emocjonalnie nie daje już rady. Desperacko potrzebuje ciszy i spokoju, żeby się pozbierać. Nadarza się okazja na kupno pięknego domu w stylu art deco. Stephen bez wahania kupuje dom i myśli tylko o tym, żeby się w nim zaszyć i wreszcie odpocząć. Jednak pewnego dnia spod prysznica wychodzi przepasany ręcznikiem mężczyzna. Mówi, że nazywa się Theo i ten dom należy do niego. Żąda, aby Stephen natychmiast się wyprowadził. Ten oczywiście odmawia. I tak znajdzie się w środku twardej wojny o terytorium, pełnej złośliwości, niszczenia mebli, tłuczenia szyb, obrażania i wrzasków.",
+  "producers": [
+    {
+      "id": "nm4785702",
+      "name": "Nicola Bové"
+    },
+    {
+      "id": "nm6950446",
+      "name": "Mark Stevens"
+    },
+    {
+      "id": "nm1066773",
+      "name": "Mariano Vanhoof"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0770698",
+      "name": "Gerd Schelfhout"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

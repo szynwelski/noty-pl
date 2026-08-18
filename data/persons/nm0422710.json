@@ -1,0 +1,37 @@
+{
+  "id": "nm0422710",
+  "name": "Penn Jillette",
+  "filmography": [
+    {
+      "imdb_id": "tt0114709",
+      "title": "Toy Story",
+      "year": 1995,
+      "roles": [
+        "cast"
+      ],
+      "character": "TV Announcer"
+    },
+    {
+      "imdb_id": "tt5058700",
+      "title": "Black Museum",
+      "year": 2017,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTc3NzA2MDU0NF5BMl5BanBnXkFtZTYwODMyNzE2._V1_.jpg",
+  "birth_date": "05.03.1955",
+  "birth_location": "Greenfield, Massachusetts, USA",
+  "height": "2.00 m",
+  "imdb_scraped": true,
+  "filmweb_id": 7742,
+  "name_pl": "Penn Jillette",
+  "birth_location_pl": "Greenfield, Massachusetts",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 7742
+}

@@ -1,0 +1,77 @@
+{
+  "id": "nm0001036",
+  "name": "Geraldine Chaplin",
+  "filmography": [
+    {
+      "imdb_id": "tt0059113",
+      "title": "Doctor Zhivago",
+      "year": 1965,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Tonya"
+    },
+    {
+      "imdb_id": "tt0074360",
+      "title": "Cría Cuervos",
+      "year": 1976,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "María"
+    },
+    {
+      "imdb_id": "tt0287467",
+      "title": "Talk to Her",
+      "year": 2002,
+      "roles": [
+        "cast"
+      ],
+      "character": "Katerina Bilova"
+    },
+    {
+      "imdb_id": "tt0383222",
+      "title": "BloodRayne",
+      "year": 2005,
+      "roles": [
+        "cast"
+      ],
+      "character": "Fortune Teller"
+    },
+    {
+      "imdb_id": "tt1649419",
+      "title": "The Impossible",
+      "year": 2012,
+      "roles": [
+        "cast"
+      ],
+      "character": "Old Woman"
+    },
+    {
+      "imdb_id": "tt4881806",
+      "title": "Jurassic World: Fallen Kingdom",
+      "year": 2018,
+      "roles": [
+        "cast"
+      ],
+      "character": "Iris"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTU4OTAzMTkxOF5BMl5BanBnXkFtZTYwMDA5OTc3._V1_.jpg",
+  "birth_date": "31.07.1944",
+  "birth_location": "Santa Monica, California, USA",
+  "height": "1.65 m",
+  "filmweb_id": 6951,
+  "name_pl": "Geraldine Chaplin",
+  "birth_location_pl": "Santa Monica, Kalifornia",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Hiszpania",
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 6951
+}

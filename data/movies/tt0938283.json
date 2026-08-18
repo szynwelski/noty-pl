@@ -1,0 +1,262 @@
+{
+  "imdb_id": "tt0938283",
+  "title": "The Last Airbender",
+  "description": "Aang, a young successor to a long line of Avatars, must master all four elements and stop the Fire Nation from enslaving the Water Tribes and the Earth Kingdom.",
+  "runtime_minutes": 103,
+  "release_date": "01.07.2010",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Family",
+    "Fantasy"
+  ],
+  "stars": [
+    {
+      "id": "nm3226241",
+      "name": "Noah Ringer"
+    },
+    {
+      "id": "nm2443758",
+      "name": "Nicola Peltz Beckham"
+    },
+    {
+      "id": "nm1717152",
+      "name": "Jackson Rathbone"
+    },
+    {
+      "id": "nm2353862",
+      "name": "Dev Patel"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0796117",
+      "name": "M. Night Shyamalan"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0796117",
+      "name": "M. Night Shyamalan"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm3226241",
+      "name": "Noah Ringer",
+      "character": "Aang"
+    },
+    {
+      "id": "nm2443758",
+      "name": "Nicola Peltz Beckham",
+      "character": "Katara"
+    },
+    {
+      "id": "nm1717152",
+      "name": "Jackson Rathbone",
+      "character": "Sokka"
+    },
+    {
+      "id": "nm2353862",
+      "name": "Dev Patel",
+      "character": "Prince Zuko"
+    },
+    {
+      "id": "nm0869467",
+      "name": "Shaun Toub",
+      "character": "Uncle Iroh"
+    },
+    {
+      "id": "nm0541902",
+      "name": "Aasif Mandvi",
+      "character": "Commander Zhao"
+    },
+    {
+      "id": "nm0193295",
+      "name": "Cliff Curtis",
+      "character": "Fire Lord Ozai"
+    },
+    {
+      "id": "nm2437267",
+      "name": "Seychelle Gabriel",
+      "character": "Princess Yue"
+    },
+    {
+      "id": "nm0396455",
+      "name": "Katharine Houghton",
+      "character": "Katara's Grandma"
+    },
+    {
+      "id": "nm0347341",
+      "name": "Francis Guinan",
+      "character": "Master Pakku"
+    },
+    {
+      "id": "nm0348515",
+      "name": "Damon Gupton",
+      "character": "Monk Gyatso"
+    },
+    {
+      "id": "nm1974397",
+      "name": "Summer Bishil",
+      "character": "Azula"
+    },
+    {
+      "id": "nm0453641",
+      "name": "Randall Duk Kim",
+      "character": "Old Man in Temple"
+    },
+    {
+      "id": "nm1428359",
+      "name": "John D'Alonzo",
+      "character": "Zhao's Assistant"
+    },
+    {
+      "id": "nm1692978",
+      "name": "Keong Sim",
+      "character": "Earthbending Father"
+    },
+    {
+      "id": "nm3389267",
+      "name": "Isaac Jin Solstein",
+      "character": "Earthbending Boy"
+    },
+    {
+      "id": "nm0407418",
+      "name": "Edmund Ikeda",
+      "character": "Old Man of Kyoshi Town"
+    },
+    {
+      "id": "nm0633604",
+      "name": "John Noble",
+      "character": "The Dragon Spirit"
+    }
+  ],
+  "countries": [
+    "United States",
+    "United Kingdom",
+    "Canada",
+    "Denmark",
+    "Vietnam"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 418956,
+  "year": 2010,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOGEwNDlmZDQtMjA0My00NWMwLWJkNTAtODk2MGVjODBlNWFjXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 3.9,
+      "votes": 182390,
+      "distribution": {
+        "1": 44339,
+        "2": 19442,
+        "3": 20064,
+        "4": 21742,
+        "5": 23089,
+        "6": 19274,
+        "7": 13012,
+        "8": 7647,
+        "9": 3537,
+        "10": 10244
+      },
+      "normalized": 1.5907
+    },
+    "filmweb": {
+      "rating": 5.3,
+      "votes": 50755,
+      "distribution": {
+        "1": 2580,
+        "2": 2858,
+        "3": 5416,
+        "4": 5922,
+        "5": 9003,
+        "6": 10206,
+        "7": 7848,
+        "8": 3989,
+        "9": 1541,
+        "10": 1392
+      },
+      "normalized": 2.2054
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "04.10.2010",
+      "normalized": 4.9718
+    },
+    "score": 2.9226
+  },
+  "polish_title": "Ostatni Władca Wiatru",
+  "silent": false,
+  "description_pl": "Film zrealizowany na podstawie znanego serialu dla dzieci, osadzony w świecie fantasy wzorowanym na azjatyckiej metafizyce, w którym głównymi wątkami są wschodnie sztuki walki i magia. Potomek znaczącej linii Awatarów musi nauczyć się odpowiedzialnego działania, aby skutecznie stawić czoła narodowi Ognia i nie dopuścić do zniewolenia narodów Wody, Ziemi i Powietrza.",
+  "producers": [
+    {
+      "id": "nm0042992",
+      "name": "Scott Aversano"
+    },
+    {
+      "id": "nm4420050",
+      "name": "Brad Avery"
+    },
+    {
+      "id": "nm0227204",
+      "name": "Michael Dante DiMartino"
+    },
+    {
+      "id": "nm0005086",
+      "name": "Kathleen Kennedy"
+    },
+    {
+      "id": "nm1665983",
+      "name": "Bryan Konietzko"
+    },
+    {
+      "id": "nm0550881",
+      "name": "Frank Marshall"
+    },
+    {
+      "id": "nm0580303",
+      "name": "Sam Mercer"
+    },
+    {
+      "id": "nm0653853",
+      "name": "Mouns Overgaard"
+    },
+    {
+      "id": "nm0735376",
+      "name": "Jose L. Rodriguez"
+    },
+    {
+      "id": "nm0796117",
+      "name": "M. Night Shyamalan"
+    },
+    {
+      "id": "nm2236795",
+      "name": "Chanh Tran"
+    },
+    {
+      "id": "nm1283926",
+      "name": "Thi Bich Ngoc Tran"
+    },
+    {
+      "id": "nm5769291",
+      "name": "Iris Weber"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006133",
+      "name": "James Newton Howard"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0504226",
+      "name": "Andrew Lesnie"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

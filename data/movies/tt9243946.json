@@ -1,0 +1,233 @@
+{
+  "imdb_id": "tt9243946",
+  "title": "El Camino",
+  "description": "Fugitive Jesse Pinkman runs from his captors, the law, and his past.",
+  "runtime_minutes": 122,
+  "release_date": "11.10.2019",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0666739",
+      "name": "Aaron Paul"
+    },
+    {
+      "id": "nm0052186",
+      "name": "Jonathan Banks"
+    },
+    {
+      "id": "nm2804503",
+      "name": "Matt Jones"
+    },
+    {
+      "id": "nm1889973",
+      "name": "Charles Baker"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0319213",
+      "name": "Vince Gilligan"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0319213",
+      "name": "Vince Gilligan"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0666739",
+      "name": "Aaron Paul",
+      "character": "Jesse"
+    },
+    {
+      "id": "nm0052186",
+      "name": "Jonathan Banks",
+      "character": "Mike"
+    },
+    {
+      "id": "nm2804503",
+      "name": "Matt Jones",
+      "character": "Badger"
+    },
+    {
+      "id": "nm1889973",
+      "name": "Charles Baker",
+      "character": "Skinny Pete"
+    },
+    {
+      "id": "nm0856086",
+      "name": "Todd Terry",
+      "character": "SAC Ramey"
+    },
+    {
+      "id": "nm0669071",
+      "name": "Julie Pearl",
+      "character": "ADA Suzanne Ericsen"
+    },
+    {
+      "id": "nm11049521",
+      "name": "Gregory Steven Soliz",
+      "character": "TV News Anchor"
+    },
+    {
+      "id": "nm0359969",
+      "name": "Larry Hankin",
+      "character": "Old Joe"
+    },
+    {
+      "id": "nm0687146",
+      "name": "Jesse Plemons",
+      "character": "Todd"
+    },
+    {
+      "id": "nm0101005",
+      "name": "Tom Bower",
+      "character": "Lou"
+    },
+    {
+      "id": "nm0762121",
+      "name": "Gloria Sandoval",
+      "character": "Sonia"
+    },
+    {
+      "id": "nm0002128",
+      "name": "Tess Harper",
+      "character": "Mrs. Pinkman"
+    },
+    {
+      "id": "nm0091480",
+      "name": "Michael Bofshever",
+      "character": "Mr. Pinkman"
+    },
+    {
+      "id": "nm8510314",
+      "name": "Danielle Todesco",
+      "character": "Reporter"
+    },
+    {
+      "id": "nm2509902",
+      "name": "Scott MacArthur",
+      "character": "Neil"
+    },
+    {
+      "id": "nm0791864",
+      "name": "Scott Shepherd",
+      "character": "Casey"
+    },
+    {
+      "id": "nm0004958",
+      "name": "Marla Gibbs",
+      "character": "Jean"
+    },
+    {
+      "id": "nm0001233",
+      "name": "Robert Forster",
+      "character": "Ed"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "color": "Color",
+  "year": 2019,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYTYxMjI2YzUtODQ5Mi00M2JmLTlmNzItOTlkM2MyM2ExM2RlXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 838708,
+  "ratings": {
+    "imdb": {
+      "rating": 7.3,
+      "votes": 350333,
+      "distribution": {
+        "1": 3103,
+        "2": 1448,
+        "3": 2598,
+        "4": 5181,
+        "5": 14717,
+        "6": 44632,
+        "7": 106662,
+        "8": 95786,
+        "9": 36557,
+        "10": 39649
+      },
+      "normalized": 6.1343
+    },
+    "filmweb": {
+      "rating": 6.49,
+      "votes": 59352,
+      "distribution": {
+        "1": 138,
+        "2": 204,
+        "3": 1111,
+        "4": 2071,
+        "5": 7735,
+        "6": 16837,
+        "7": 20296,
+        "8": 8205,
+        "9": 1765,
+        "10": 990
+      },
+      "normalized": 4.2988
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "24.10.2019",
+      "normalized": 4.9718
+    },
+    "score": 5.135
+  },
+  "polish_title": "El Camino: Film \"Breaking Bad\"",
+  "silent": false,
+  "producers": [
+    {
+      "id": "nm2214628",
+      "name": "Melissa Bernstein"
+    },
+    {
+      "id": "nm2609722",
+      "name": "Jenn Carroll"
+    },
+    {
+      "id": "nm0319213",
+      "name": "Vince Gilligan"
+    },
+    {
+      "id": "nm0425741",
+      "name": "Mark Johnson"
+    },
+    {
+      "id": "nm1034887",
+      "name": "Diane Mercer"
+    },
+    {
+      "id": "nm0627917",
+      "name": "Charles Newirth"
+    },
+    {
+      "id": "nm0666739",
+      "name": "Aaron Paul"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm1726663",
+      "name": "Dave Porter"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0011190",
+      "name": "Marshall Adams"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

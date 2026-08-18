@@ -1,0 +1,187 @@
+{
+  "imdb_id": "tt0056736",
+  "title": "L'Eclisse",
+  "description": "A young woman meets a vital young man, but their love affair is doomed because of the man's materialistic nature.",
+  "runtime_minutes": 126,
+  "release_date": "20.12.1962",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0900143",
+      "name": "Monica Vitti"
+    },
+    {
+      "id": "nm0001128",
+      "name": "Alain Delon"
+    },
+    {
+      "id": "nm0704719",
+      "name": "Francisco Rabal"
+    },
+    {
+      "id": "nm0109265",
+      "name": "Lilla Brignone"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000774",
+      "name": "Michelangelo Antonioni"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000774",
+      "name": "Michelangelo Antonioni"
+    },
+    {
+      "id": "nm0346096",
+      "name": "Tonino Guerra"
+    },
+    {
+      "id": "nm0059026",
+      "name": "Elio Bartolini"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0900143",
+      "name": "Monica Vitti",
+      "character": "Vittoria"
+    },
+    {
+      "id": "nm0001128",
+      "name": "Alain Delon",
+      "character": "Piero"
+    },
+    {
+      "id": "nm0704719",
+      "name": "Francisco Rabal",
+      "character": "Riccardo"
+    },
+    {
+      "id": "nm0109265",
+      "name": "Lilla Brignone",
+      "character": "Vittoria's Mother"
+    },
+    {
+      "id": "nm0740735",
+      "name": "Rossana Rory",
+      "character": "Anita"
+    },
+    {
+      "id": "nm0723280",
+      "name": "Mirella Ricciardi",
+      "character": "Marta"
+    },
+    {
+      "id": "nm0782564",
+      "name": "Louis Seigner",
+      "character": "Ercoli"
+    },
+    {
+      "id": "nm0253463",
+      "name": "Cyrus Elias",
+      "character": "Intoxicated Man"
+    },
+    {
+      "id": "nm0538166",
+      "name": "Alba Maiolini",
+      "character": "Woman at the Stock Market"
+    },
+    {
+      "id": "nm0853736",
+      "name": "Maria Tedeschi",
+      "character": "Woman with Glasses at the Stock Market"
+    }
+  ],
+  "countries": [
+    "Italy",
+    "France"
+  ],
+  "languages": [
+    "Italian",
+    "English"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 33942,
+  "year": 1962,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMGFhOWE1NzAtZjVlMC00YTA5LWE5ZjYtNTUxNGU2MGQ1ODQ1XkEyXkFqcGc@._V1_.jpg",
+  "original_title": "L'eclisse",
+  "ratings": {
+    "imdb": {
+      "rating": 7.7,
+      "votes": 24657,
+      "distribution": {
+        "1": 726,
+        "2": 228,
+        "3": 280,
+        "4": 437,
+        "5": 996,
+        "6": 2200,
+        "7": 4687,
+        "8": 6827,
+        "9": 4130,
+        "10": 4146
+      },
+      "normalized": 6.7502
+    },
+    "filmweb": {
+      "rating": 7.45,
+      "votes": 6074,
+      "distribution": {
+        "1": 63,
+        "2": 24,
+        "3": 88,
+        "4": 145,
+        "5": 332,
+        "6": 697,
+        "7": 1411,
+        "8": 1805,
+        "9": 954,
+        "10": 555
+      },
+      "normalized": 6.5131
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "19.03.2006",
+      "normalized": 6.3474
+    },
+    "score": 6.5369
+  },
+  "polish_title": "Zaćmienie",
+  "silent": false,
+  "description_pl": "Vittoria rozstaje się z swym wieloletnim przyjacielem Ricardo. Świeżo odzyskana wolność wydaje się jednak raczej czymś grożnym niż zachęcającym. W poszukiwaniu nowych przyjaźni poznaje chłodnego maklera giełdowego. Ich związek pozostaje tylko kontaktem międzyludzkim, gdzie na prawdziwą miłośc nie ma miejsca.",
+  "producers": [
+    {
+      "id": "nm0354623",
+      "name": "Raymond Hakim"
+    },
+    {
+      "id": "nm0354624",
+      "name": "Robert Hakim"
+    },
+    {
+      "id": "nm0729939",
+      "name": "Angelo Rizzoli"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006090",
+      "name": "Giovanni Fusco"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005689",
+      "name": "Gianni Di Venanzo"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

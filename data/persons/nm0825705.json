@@ -1,0 +1,36 @@
+{
+  "id": "nm0825705",
+  "name": "John Steinbeck",
+  "filmography": [
+    {
+      "imdb_id": "tt0032551",
+      "title": "The Grapes of Wrath",
+      "year": 1940,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0048028",
+      "title": "East of Eden",
+      "year": 1955,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYzBiNmIxOWYtNTc3NS00OTg4LTgxOGYtOTJmYTk3NzJhYzE1XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "27.02.1902",
+  "death_date": "20.12.1968",
+  "birth_location": "Salinas, California, USA",
+  "height": "1.83 m",
+  "imdb_scraped": true,
+  "filmweb_id": 83897,
+  "name_pl": "John Steinbeck",
+  "birth_location_pl": "Salinas, Kalifornia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

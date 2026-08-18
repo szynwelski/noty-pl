@@ -1,0 +1,74 @@
+{
+  "imdb_id": "tt0225426",
+  "title": "Conway Castle",
+  "description": "Without a doubt this is the finest railroad moving picture ever made, and for variety and beauty of scenery it can hardly be surpassed the world over. This view is taken from the front of a rapidly moving locomotive, over a stretch of track made up of a continuous series of reverse curves; and every turn opens a vista of surpassing beauty. Conwy Castle itself, one of the most picturesque and historic spots in Wales, appears from time to time in the picture.",
+  "runtime_minutes": 2,
+  "release_date": "1898",
+  "genres": [
+    "Documentary",
+    "Short"
+  ],
+  "top_cast": [],
+  "countries": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 355156,
+  "year": 1898,
+  "type": "short",
+  "image_url": null,
+  "ratings": {
+    "imdb": {
+      "rating": 5.6,
+      "votes": 91,
+      "distribution": {
+        "1": 10,
+        "2": 1,
+        "3": 6,
+        "4": 5,
+        "5": 21,
+        "6": 21,
+        "7": 10,
+        "8": 8,
+        "9": 4,
+        "10": 5
+      },
+      "normalized": 5.0225
+    },
+    "filmweb": {
+      "rating": 4.0,
+      "votes": 3,
+      "distribution": {
+        "2": 0,
+        "3": 2,
+        "4": 0,
+        "5": 0,
+        "6": 1,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 5.1269
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "13.12.2016",
+      "normalized": 7.1247
+    },
+    "score": 5.758
+  },
+  "polish_title": "Conway Castle",
+  "silent": true,
+  "cinematographers": [
+    {
+      "id": "nm0005690",
+      "name": "William K.L. Dickson"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

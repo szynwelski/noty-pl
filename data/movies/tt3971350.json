@@ -1,0 +1,160 @@
+{
+  "imdb_id": "tt3971350",
+  "title": "Von Faltbooten und Heringen",
+  "description": "Ivan meets Paolo, little Jonas meets Ida, another Jonas meets Sandra and Annina meets Jonas - in July, at a campsite by a river.",
+  "runtime_minutes": 15,
+  "release_date": "2014",
+  "genres": [
+    "Short",
+    "Comedy"
+  ],
+  "stars": [
+    {
+      "id": "nm6715944",
+      "name": "Jara Bihler"
+    },
+    {
+      "id": "nm7035534",
+      "name": "Maria-Valentina Brotschi"
+    },
+    {
+      "id": "nm7035532",
+      "name": "Thomas Butteweg"
+    },
+    {
+      "id": "nm5420098",
+      "name": "Jonas Gygax"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm5210531",
+      "name": "Elena Brotschi"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm5210531",
+      "name": "Elena Brotschi"
+    },
+    {
+      "id": "nm6715945",
+      "name": "Mario Gysi"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm6715944",
+      "name": "Jara Bihler",
+      "character": "Annina"
+    },
+    {
+      "id": "nm7035534",
+      "name": "Maria-Valentina Brotschi",
+      "character": ""
+    },
+    {
+      "id": "nm7035532",
+      "name": "Thomas Butteweg",
+      "character": "Pjotr"
+    },
+    {
+      "id": "nm5420098",
+      "name": "Jonas Gygax",
+      "character": "Ivan"
+    },
+    {
+      "id": "nm6715941",
+      "name": "Philippe Heule",
+      "character": "Jonas"
+    },
+    {
+      "id": "nm3812603",
+      "name": "Aminta Iseppi",
+      "character": "Paolo"
+    },
+    {
+      "id": "nm6715942",
+      "name": "Janina Kutschan",
+      "character": "Sandra"
+    },
+    {
+      "id": "nm6715943",
+      "name": "Vinzent Lehmann",
+      "character": "little Jonas"
+    }
+  ],
+  "countries": [
+    "Switzerland"
+  ],
+  "languages": [
+    "German",
+    "Swiss German"
+  ],
+  "color": "Color",
+  "filmweb_id": 725372,
+  "year": 2014,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzI4ZGM3ZTEtYjhkNS00NzY3LWFkZjItZWE3NWRlODQyYWY5XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.4,
+      "votes": 16,
+      "distribution": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 1,
+        "6": 2,
+        "7": 6,
+        "8": 2,
+        "9": 1,
+        "10": 3
+      },
+      "normalized": 5.3194
+    },
+    "filmweb": {
+      "rating": 6.47,
+      "votes": 15,
+      "distribution": {
+        "2": 0,
+        "3": 1,
+        "4": 1,
+        "5": 3,
+        "6": 2,
+        "7": 5,
+        "8": 1,
+        "9": 0,
+        "10": 2
+      },
+      "normalized": 5.1711
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "22.12.2018",
+      "normalized": 5.6855
+    },
+    "score": 5.392
+  },
+  "polish_title": "Ćwierkanie i nurkowanie",
+  "silent": false,
+  "producers": [
+    {
+      "id": "nm1140879",
+      "name": "Filippo Bonacci"
+    },
+    {
+      "id": "nm7035533",
+      "name": "Zhdk Zürcher Hochschule der Künste"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm4541632",
+      "name": "Tom Keller"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

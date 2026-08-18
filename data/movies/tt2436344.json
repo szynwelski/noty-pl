@@ -1,0 +1,173 @@
+{
+  "imdb_id": "tt2436344",
+  "title": "A Very Unsettled Summer",
+  "description": "An unsettled summer becomes the background of an erotic twist that track four characters into a fictional game. But playing fiction is not an innocent game.",
+  "runtime_minutes": 98,
+  "release_date": "01.11.2013",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0803397",
+      "name": "Jamie Sives"
+    },
+    {
+      "id": "nm0880367",
+      "name": "Ana Ularu"
+    },
+    {
+      "id": "nm0091035",
+      "name": "Kim Bodnia"
+    },
+    {
+      "id": "nm2318797",
+      "name": "Diana Cavallioti"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0198746",
+      "name": "Anca Damian"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm5311637",
+      "name": "Philip O'Ceallaigh"
+    },
+    {
+      "id": "nm0198746",
+      "name": "Anca Damian"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0803397",
+      "name": "Jamie Sives",
+      "character": "Daniel"
+    },
+    {
+      "id": "nm0880367",
+      "name": "Ana Ularu",
+      "character": "Maria"
+    },
+    {
+      "id": "nm0091035",
+      "name": "Kim Bodnia",
+      "character": "Alex"
+    },
+    {
+      "id": "nm2318797",
+      "name": "Diana Cavallioti",
+      "character": "Irina"
+    },
+    {
+      "id": "nm2276340",
+      "name": "Teodor Corban",
+      "character": "The Boss"
+    }
+  ],
+  "countries": [
+    "Romania",
+    "Sweden",
+    "United Kingdom",
+    "Czech Republic"
+  ],
+  "languages": [
+    "English",
+    "Romanian"
+  ],
+  "color": "Color",
+  "filmweb_id": 674963,
+  "year": 2013,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYjRmYWZmZGYtMjFiMi00ZjY4LWEyZmYtNmY2MGIxN2IxZDExXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "O varã foarte instabilã",
+  "ratings": {
+    "imdb": {
+      "rating": 5.2,
+      "votes": 195,
+      "distribution": {
+        "1": 29,
+        "2": 11,
+        "3": 13,
+        "4": 19,
+        "5": 30,
+        "6": 27,
+        "7": 20,
+        "8": 15,
+        "9": 10,
+        "10": 21
+      },
+      "normalized": 4.6224
+    },
+    "filmweb": {
+      "rating": 4.8,
+      "votes": 88,
+      "distribution": {
+        "1": 3,
+        "2": 7,
+        "3": 15,
+        "4": 10,
+        "5": 20,
+        "6": 19,
+        "7": 8,
+        "8": 4,
+        "9": 2,
+        "10": 0
+      },
+      "normalized": 4.3047
+    },
+    "jarek": {
+      "rating": 3,
+      "date_rated": "01.10.2017",
+      "normalized": 4.2591
+    },
+    "michal": {
+      "rating": 3,
+      "date_rated": "15.10.2013",
+      "normalized": 3.8753
+    },
+    "score": 4.2654
+  },
+  "polish_title": "Bardzo niespokojne lato",
+  "silent": false,
+  "description_pl": "Bukareszt. Przytłaczający upał i nadchodząca burza jest tłem erotycznej historii czwórki bohaterów. Dziennikarz Daniel otrzymuje od Marii, swojej byłej dziewczyny, opowiadanie. Maria jest w nim prostytutką, która po raz ostatni chce się z nim przespać. Za pieniądze. Wciągnięty w grę Daniel znów staje się jej kochankiem. Utrzymuje to w tajemnicy przed swoją narzeczoną Iriną. Ta historia staje się równocześnie kanwą scenariusza, pisanego na bieżąco przez Alexa, powiernika Daniela i Marii. Granica między rzeczywistością i powstającą historią zaciera się. Emocje i wspomnienia czwórki bohaterów przenikają się, a atmosfera coraz bardziej się zagęszcza. Daniel wierzy, że jeśli samodzielnie napisze koniec tej historii, odzyska kontrolę nad swoim życiem.",
+  "producers": [
+    {
+      "id": "nm3763816",
+      "name": "Jessica Ask"
+    },
+    {
+      "id": "nm0198746",
+      "name": "Anca Damian"
+    },
+    {
+      "id": "nm1149408",
+      "name": "Grant Keir"
+    },
+    {
+      "id": "nm2226760",
+      "name": "Sean Wheelan"
+    },
+    {
+      "id": "nm5712161",
+      "name": "Riina Sporring Zachariassen"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0489059",
+      "name": "Nathan Larson"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm1416291",
+      "name": "Liviu Mãrghidan"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

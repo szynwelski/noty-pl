@@ -1,0 +1,47 @@
+{
+  "id": "nm0001832",
+  "name": "Sam Waterston",
+  "filmography": [
+    {
+      "imdb_id": "tt0093940",
+      "title": "September",
+      "year": 1987,
+      "roles": [
+        "cast"
+      ],
+      "character": "Peter"
+    },
+    {
+      "imdb_id": "tt0097123",
+      "title": "Crimes and Misdemeanors",
+      "year": 1989,
+      "roles": [
+        "cast"
+      ],
+      "character": "Ben"
+    },
+    {
+      "imdb_id": "tt4540710",
+      "title": "Miss Sloane",
+      "year": 2016,
+      "roles": [
+        "cast"
+      ],
+      "character": "George Dupont"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTY4MjA2MzMwOF5BMl5BanBnXkFtZTcwNzQ3MDgzMw@@._V1_.jpg",
+  "birth_date": "15.11.1940",
+  "birth_location": "Cambridge, Massachusetts, USA",
+  "height": "1.85 m",
+  "filmweb_id": 5416,
+  "name_pl": "Sam Waterston",
+  "birth_location_pl": "Cambridge, Massachusetts",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 5416
+}

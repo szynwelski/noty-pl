@@ -1,0 +1,59 @@
+{
+  "id": "nm0000347",
+  "name": "Tim Curry",
+  "filmography": [
+    {
+      "imdb_id": "tt0099810",
+      "title": "The Hunt for Red October",
+      "year": 1990,
+      "roles": [
+        "cast"
+      ],
+      "character": "Dr. Petrov"
+    },
+    {
+      "imdb_id": "tt0104431",
+      "title": "Home Alone 2: Lost in New York",
+      "year": 1992,
+      "roles": [
+        "cast"
+      ],
+      "character": "Concierge"
+    },
+    {
+      "imdb_id": "tt0112715",
+      "title": "Congo",
+      "year": 1995,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Herkermer Homolka"
+    },
+    {
+      "imdb_id": "tt0361089",
+      "title": "Valiant",
+      "year": 2005,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Von Talon"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTc5MTQ2OTYwOF5BMl5BanBnXkFtZTYwMzEzMTA1._V1_.jpg",
+  "birth_date": "19.04.1946",
+  "birth_location": "Grappenhall, Cheshire, England, UK",
+  "height": "1.72 m",
+  "filmweb_id": 7972,
+  "name_pl": "Tim Curry",
+  "birth_location_pl": "Grappenhall, Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone",
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 7972
+}

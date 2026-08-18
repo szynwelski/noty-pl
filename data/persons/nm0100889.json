@@ -1,0 +1,47 @@
+{
+  "id": "nm0100889",
+  "name": "Michael Bowen",
+  "filmography": [
+    {
+      "imdb_id": "tt0119396",
+      "title": "Jackie Brown",
+      "year": 1997,
+      "roles": [
+        "cast"
+      ],
+      "character": "Mark Dargus"
+    },
+    {
+      "imdb_id": "tt0266697",
+      "title": "Kill Bill: Vol. 1",
+      "year": 2003,
+      "roles": [
+        "cast"
+      ],
+      "character": "Buck"
+    },
+    {
+      "imdb_id": "tt0378194",
+      "title": "Kill Bill: Vol. 2",
+      "year": 2004,
+      "roles": [
+        "cast"
+      ],
+      "character": "Buck"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTk0MTA2MjI3OF5BMl5BanBnXkFtZTcwNDAyMDYzOA@@._V1_.jpg",
+  "birth_date": "21.06.1953",
+  "birth_location": "Houston, Texas, USA",
+  "height": "1.75 m",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "filmweb_id": 3276,
+  "wikidata_fw_id": 3276,
+  "gender": "M",
+  "name_pl": "Michael Bowen",
+  "birth_location_pl": "Teksas"
+}

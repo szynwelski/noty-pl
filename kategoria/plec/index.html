@@ -1,0 +1,486 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🎬</text></svg>">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Płeć — Noty</title>
+  <link rel="stylesheet" href="../../static/style.css">
+  <script src="../../static/translations.js"></script>
+  <script src="../../static/tooltip.js"></script>
+  <style>
+    .gender-table th.group-f { color: #e07fa0; }
+    .gender-table th.group-m { color: #7ab4e0; }
+    .gender-table td.sep { width: 1.4rem; }
+    .gender-table td.sep-head { }
+
+    /* Tooltips */
+    .top-tooltip {
+      font-size: .82rem;
+      line-height: 1.6;
+      min-width: 180px;
+    }
+    .top-tooltip a { color: var(--accent); text-decoration: none; }
+    .top-tooltip a:hover { text-decoration: underline; }
+    .top-tooltip .tp-row {
+      display: flex;
+      justify-content: space-between;
+      gap: .7rem;
+    }
+    .top-tooltip .tp-rank { color: var(--muted); min-width: 1.2rem; }
+
+    /* Country filter bar */
+    .filter-bar {
+      display: flex;
+      align-items: center;
+      gap: .6rem;
+      margin-bottom: 1.4rem;
+    }
+    .filter-bar label { font-size: .85rem; color: var(--muted); white-space: nowrap; }
+    .filter-bar select {
+      font-size: .85rem;
+      padding: .3rem .5rem;
+      background: var(--bg-card);
+      color: var(--text);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      min-width: 14rem;
+      cursor: pointer;
+    }
+    .filter-bar .filter-count {
+      font-size: .8rem;
+      color: var(--muted);
+    }
+
+    /* Charts */
+    .gender-charts { margin-top: 2.5rem; }
+    .gender-charts h2 {
+      font-size: 1rem;
+      font-weight: 600;
+      margin-bottom: 1.2rem;
+    }
+
+    /* Proportion bars */
+    .prop-section { margin-bottom: 2.5rem; }
+    .prop-row {
+      display: grid;
+      grid-template-columns: 10rem 1fr;
+      align-items: center;
+      gap: .7rem;
+      margin-bottom: .45rem;
+    }
+    .prop-label { font-size: .85rem; text-align: right; }
+    .prop-bar-wrap {
+      height: 20px;
+      border-radius: 3px;
+      overflow: hidden;
+      display: flex;
+      background: var(--bg-card);
+    }
+    .prop-bar-f { background: #e07fa0; }
+    .prop-bar-m { background: #7ab4e0; }
+    .prop-bar-overlay {
+      position: absolute;
+      inset: 0;
+      pointer-events: none;
+    }
+    .prop-bar-overlay span {
+      position: absolute;
+      line-height: 20px;
+      color: white;
+      font-size: .72rem;
+      font-weight: 700;
+      white-space: nowrap;
+    }
+
+    /* Score dot chart */
+    .score-section { margin-bottom: 2rem; }
+    .score-chart-wrap { overflow-x: auto; }
+    svg.score-chart { display: block; }
+    .score-legend {
+      display: flex;
+      gap: 1.4rem;
+      font-size: .8rem;
+      margin-top: .5rem;
+    }
+    .score-legend-dot {
+      display: inline-block;
+      width: 10px; height: 10px;
+      border-radius: 50%;
+      margin-right: .3rem;
+      vertical-align: middle;
+    }
+
+    /* Count cell — no underline, just cursor pointer */
+    [data-tooltip-count] { cursor: default; }
+  </style>
+</head>
+<body>
+  <nav>
+    <a class="logo" href="/">no<span>ty</span></a>
+    <a class="nav-link" href="/">Filmy</a>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Osoby <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/osoba/rezyser/">Reżyserzy</a>
+        <a href="/osoba/scenarzysta/">Scenarzyści</a>
+        <a href="/osoba/gwiazda/">Gwiazdy</a>
+        <a href="/osoba/aktor/">Aktorzy</a>
+        <a href="/osoba/kompozytor/">Kompozytorzy</a>
+        <a href="/osoba/operator/">Operatorzy</a>
+        <a href="/osoba/producent/">Producenci</a>
+        <a href="/osoba/wszechstronna/">Wszechstronni</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Krytycy <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/krytyk/jarek/">Jarek</a>
+        <a href="/krytyk/michal/">Michał</a>
+        <a href="/krytyk/imdb/">IMDb</a>
+        <a href="/krytyk/filmweb/">Filmweb</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Kategorie <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/kategoria/gatunek/">Gatunki</a>
+        <a href="/kategoria/kraj/">Kraje</a>
+        <a href="/kategoria/jezyk/">Języki</a>
+        <a href="/kategoria/dekada/">Dekady</a>
+        <a href="/kategoria/rok/">Lata</a>
+        <a href="/kategoria/czas/">Czas trwania</a>
+        <a href="/kategoria/popularnosc/">Popularność</a>
+        <hr>
+        <a href="/kategoria/plec/">Płeć</a>
+        <a href="/kategoria/obywatelstwo/">Obywatelstwo</a>
+        <a href="/kategoria/urodzenie/">Urodzenie</a>
+        <a href="/kategoria/wiek/">Wiek</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Statystyki <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/statystyki/podsumowanie/">Podsumowanie</a>
+        <a href="/statystyki/rekordy/">Rekordy</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Metodologia <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/metodologia/filmy/">Filmy</a>
+        <a href="/metodologia/osoby/">Osoby</a>
+        <a href="/metodologia/kategorie-filmow/">Kategorie filmów</a>
+        <a href="/metodologia/kategorie-osob/">Kategorie osób</a>
+      </div>
+    </div>
+    <button id="search-global-btn" class="nav-search-btn" title="Szukaj (⌘K)">
+      <svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+    </button>
+  </nav>
+  <div id="search-modal" class="search-modal">
+    <div id="search-modal-backdrop" class="search-modal-backdrop"></div>
+    <div class="search-modal-box">
+      <div class="search-modal-header">
+        <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink:0;color:var(--muted)"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        <input id="search-modal-input" class="search-modal-input" type="text" placeholder="Szukaj filmów i osób…" autocomplete="off" spellcheck="false">
+        <kbd class="search-modal-esc">Esc</kbd>
+      </div>
+      <div id="search-modal-results" class="search-modal-results"></div>
+    </div>
+  </div>
+  <script src="/static/search.js"></script>
+
+  <div id="tooltip"></div>
+  <div class="container">
+    <h1>Płeć</h1>
+    <div id="loading">Ładowanie…</div>
+    <div id="content" style="display:none">
+
+      <div class="filter-bar">
+        <label for="filter-country">Obywatelstwo:</label>
+        <select id="filter-country">
+          <option value="">Wszystkie kraje</option>
+        </select>
+        <span id="filter-count" class="filter-count"></span>
+      </div>
+
+      <table class="gender-table">
+        <colgroup>
+          <col>
+          <col class="sep">
+          <col style="width:5rem"><col style="width:5rem">
+          <col class="sep">
+          <col style="width:5rem"><col style="width:5rem">
+          <col class="sep">
+          <col style="width:5rem"><col style="width:5rem">
+        </colgroup>
+        <thead>
+          <tr>
+            <th></th>
+            <th class="sep-head"></th>
+            <th class="num group-f" colspan="2" style="border-bottom:1px solid #e07fa0">Kobiety</th>
+            <th class="sep-head"></th>
+            <th class="num group-m" colspan="2" style="border-bottom:1px solid #7ab4e0">Mężczyźni</th>
+            <th class="sep-head"></th>
+            <th class="num" colspan="2" style="border-bottom:1px solid var(--border)">Razem</th>
+          </tr>
+          <tr>
+            <th></th>
+            <th class="sep-head"></th>
+            <th class="num muted" style="font-weight:400;font-size:.8rem">Osób</th>
+            <th class="num muted" style="font-weight:400;font-size:.8rem">Średnia</th>
+            <th class="sep-head"></th>
+            <th class="num muted" style="font-weight:400;font-size:.8rem">Osób</th>
+            <th class="num muted" style="font-weight:400;font-size:.8rem">Średnia</th>
+            <th class="sep-head"></th>
+            <th class="num muted" style="font-weight:400;font-size:.8rem">Osób</th>
+            <th class="num muted" style="font-weight:400;font-size:.8rem">Średnia</th>
+          </tr>
+        </thead>
+        <tbody id="tbody"></tbody>
+      </table>
+
+      <div class="gender-charts">
+        <div class="prop-section">
+          <h2>Udział kobiet i mężczyzn</h2>
+          <div id="prop-chart"></div>
+        </div>
+        <div class="score-section">
+          <h2>Średnia nota — kobiety vs mężczyźni</h2>
+          <div class="score-chart-wrap">
+            <div id="score-chart-wrap"></div>
+          </div>
+          <div class="score-legend">
+            <span><span class="score-legend-dot" style="background:#e07fa0"></span>Kobiety</span>
+            <span><span class="score-legend-dot" style="background:#7ab4e0"></span>Mężczyźni</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script>
+
+    function topTooltipHtml(top) {
+      if (!top || !top.length) return '<span class="muted">Brak danych</span>';
+      return '<div class="top-tooltip">' +
+        top.map((p, i) =>
+          `<div class="tp-row"><span><span class="tp-rank">${i+1}.</span> <a href="/osoba/?id=${p.id}">${p.name}</a></span><span class="${scoreClass(p.score)}">${p.score != null ? p.score.toFixed(2) : '—'}</span></div>`
+        ).join('') + '</div>';
+    }
+
+    // Top-people arrays are stored here and referenced by index, so person names
+    // (which may contain ' or <) never get serialized into an HTML attribute.
+    let topData = [];
+
+    function countCell(s) {
+      if (!s.count) return '<td class="num muted">0</td>';
+      const idx = topData.push(s.top || []) - 1;
+      return `<td class="num"><span data-tooltip-count data-top-idx="${idx}">${s.count}</span></td>`;
+    }
+
+    function avgCell(s) {
+      const avg = s.avg != null
+        ? `<span class="${scoreClass(s.avg)}">${s.avg.toFixed(2)}</span>`
+        : '<span class="muted">—</span>';
+      return `<td class="num">${avg}</td>`;
+    }
+
+    function renderTable(rows, country) {
+      const tbody = document.getElementById('tbody');
+      tbody.innerHTML = '';
+      topData = [];  // reset per render so stale indices don't accumulate
+      rows.forEach(row => {
+        const href = row.url + (country ? '?kraj=' + encodeURIComponent(country) : '');
+        const tr = document.createElement('tr');
+        tr.innerHTML =
+          `<td><a href="${href}">${row.label}</a></td>` +
+          `<td class="sep"></td>` +
+          countCell(row.F) + avgCell(row.F) +
+          `<td class="sep"></td>` +
+          countCell(row.M) + avgCell(row.M) +
+          `<td class="sep"></td>` +
+          countCell(row.all) + avgCell(row.all);
+        tbody.appendChild(tr);
+      });
+      initCountTooltips();
+    }
+
+    function renderPropChart(rows, country) {
+      const wrap = document.getElementById('prop-chart');
+      wrap.innerHTML = '';
+      rows.forEach(row => {
+        const total = (row.F.count || 0) + (row.M.count || 0);
+        if (!total) return;
+        const pctF = (row.F.count || 0) / total * 100;
+        const pctM = (row.M.count || 0) / total * 100;
+        const href = row.url + (country ? '?kraj=' + encodeURIComponent(country) : '');
+        const div = document.createElement('div');
+        div.className = 'prop-row';
+        const fStyle = `left:${(pctF/2).toFixed(2)}%;transform:translateX(-50%)`;
+        const mStyle = `right:${(pctM/2).toFixed(2)}%;transform:translateX(50%)`;
+        div.innerHTML = `
+          <span class="prop-label"><a href="${href}">${row.label}</a></span>
+          <div style="position:relative">
+            <div class="prop-bar-wrap" title="${row.F.count || 0} kobiet / ${row.M.count || 0} mężczyzn">
+              <div class="prop-bar-f" style="width:${pctF.toFixed(2)}%"></div>
+              <div class="prop-bar-m" style="width:${pctM.toFixed(2)}%"></div>
+            </div>
+            <div class="prop-bar-overlay">
+              ${pctF > 0 ? `<span style="${fStyle}">${pctF.toFixed(0)}%</span>` : ''}
+              ${pctM > 0 ? `<span style="${mStyle}">${pctM.toFixed(0)}%</span>` : ''}
+            </div>
+          </div>`;
+        wrap.appendChild(div);
+      });
+    }
+
+    function renderScoreChart(rows) {
+      const wrap = document.getElementById('score-chart-wrap');
+      const activeRows = rows.filter(r => r.F.avg != null || r.M.avg != null);
+      if (!activeRows.length) { wrap.innerHTML = ''; return; }
+
+      const allAvgs = activeRows.flatMap(r => [r.F.avg, r.M.avg]).filter(v => v != null);
+      const minScore = Math.floor(Math.min(...allAvgs) * 10) / 10 - 0.1;
+      const maxScore = Math.ceil(Math.max(...allAvgs) * 10) / 10 + 0.1;
+
+      const W = 600, padL = 160, padR = 20, padT = 24, padB = 30;
+      const rowH = 52;
+      const DOT_R = 11;
+      const OFFSET = 8; // vertical offset from row center for each dot
+      const H = padT + activeRows.length * rowH + padB;
+      const chartW = W - padL - padR;
+
+      function xPos(val) {
+        return padL + (val - minScore) / (maxScore - minScore) * chartW;
+      }
+
+      let s = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" style="display:block">`;
+
+      // Vertical score grid lines
+      const step = (maxScore - minScore) > 2 ? 0.5 : 0.25;
+      for (let v = Math.ceil(minScore / step) * step; v <= maxScore + 0.001; v += step) {
+        const x = xPos(v);
+        s += `<line x1="${x.toFixed(1)}" y1="${padT}" x2="${x.toFixed(1)}" y2="${H - padB}" stroke="var(--border)" stroke-width="1"/>`;
+        s += `<text x="${x.toFixed(1)}" y="${H - padB + 14}" text-anchor="middle" font-size="11" fill="var(--muted)">${v.toFixed(2)}</text>`;
+      }
+
+      // Horizontal row separators
+      for (let i = 1; i < activeRows.length; i++) {
+        const y = padT + i * rowH;
+        s += `<line x1="0" y1="${y}" x2="${W}" y2="${y}" stroke="var(--border)" stroke-width="1"/>`;
+      }
+
+      activeRows.forEach((row, i) => {
+        const midY = padT + i * rowH + rowH / 2;
+        const yF = midY - OFFSET;
+        const yM = midY + OFFSET;
+
+        // Row label centered between the two dots
+        s += `<text x="${padL - 10}" y="${midY + 4}" text-anchor="end" font-size="12" fill="var(--text)">${row.label}</text>`;
+
+        // Vertical dotted connector between the two dots (at midpoint x)
+        if (row.F.avg != null && row.M.avg != null) {
+          const xF = xPos(row.F.avg), xM = xPos(row.M.avg);
+          const xMid = (xF + xM) / 2;
+          s += `<line x1="${xMid.toFixed(1)}" y1="${yF}" x2="${xMid.toFixed(1)}" y2="${yM}" stroke="var(--border)" stroke-width="1" stroke-dasharray="2,2"/>`;
+        }
+
+        if (row.F.avg != null) {
+          const x = xPos(row.F.avg);
+          s += `<circle cx="${x.toFixed(1)}" cy="${yF}" r="${DOT_R}" fill="#e07fa0"/>`;
+          s += `<text x="${x.toFixed(1)}" y="${yF + 4}" text-anchor="middle" font-size="9" fill="white" font-weight="600">${row.F.avg.toFixed(1)}</text>`;
+        }
+        if (row.M.avg != null) {
+          const x = xPos(row.M.avg);
+          s += `<circle cx="${x.toFixed(1)}" cy="${yM}" r="${DOT_R}" fill="#7ab4e0"/>`;
+          s += `<text x="${x.toFixed(1)}" y="${yM + 4}" text-anchor="middle" font-size="9" fill="white" font-weight="600">${row.M.avg.toFixed(1)}</text>`;
+        }
+      });
+
+      s += `</svg>`;
+      wrap.innerHTML = s;
+    }
+
+    function render(rows, country) {
+      renderTable(rows, country);
+      renderPropChart(rows, country);
+      renderScoreChart(rows);
+    }
+
+    function initCountTooltips() {
+      document.querySelectorAll('[data-tooltip-count]').forEach(el => {
+        el.addEventListener('mouseenter', e => {
+          const top = topData[+el.getAttribute('data-top-idx')] || [];
+          const tt = document.getElementById('tooltip');
+          tt.innerHTML = topTooltipHtml(top);
+          tt.style.display = 'block';
+          const margin = 12;
+          let x = e.pageX + margin, y = e.pageY + margin;
+          if (x + tt.offsetWidth > window.innerWidth - 10) x = e.pageX - tt.offsetWidth - margin;
+          if (y + tt.offsetHeight > window.scrollY + window.innerHeight - 10) y = e.pageY - tt.offsetHeight - margin;
+          tt.style.left = x + 'px';
+          tt.style.top = y + 'px';
+        });
+        el.addEventListener('mouseleave', () => {
+          document.getElementById('tooltip').style.display = 'none';
+        });
+      });
+    }
+
+    // Merge default stats row with per-country data
+    function applyCountry(defaultRows, countryData) {
+      return defaultRows.map(row => {
+        const cd = countryData[row.key];
+        if (!cd) return row;
+        return { ...row, F: cd.F, M: cd.M, all: cd.all };
+      });
+    }
+
+    Promise.all([
+      fetch('/data/gender_stats.json').then(r => r.json()),
+      fetch('/data/gender_by_country.json').then(r => r.json()),
+    ]).then(([defaultStats, byCountry]) => {
+      // Build sorted country dropdown (by unique person count desc)
+      const sel = document.getElementById('filter-country');
+      const sorted = Object.entries(byCountry)
+        .sort((a, b) => b[1]._count - a[1]._count);
+      sorted.forEach(([country]) => {
+        const opt = document.createElement('option');
+        opt.value = country;
+        opt.textContent = country;
+        sel.appendChild(opt);
+      });
+
+      function update() {
+        const country = sel.value;
+        let rows;
+        const countSpan = document.getElementById('filter-count');
+        if (!country) {
+          rows = defaultStats;
+          countSpan.textContent = '';
+        } else {
+          rows = applyCountry(defaultStats, byCountry[country] || {});
+          const cnt = byCountry[country]?._count ?? 0;
+          countSpan.textContent = cnt ? `${cnt} osób` : '';
+        }
+        render(rows, country);
+        const qs = country ? '?kraj=' + encodeURIComponent(country) : location.pathname;
+        history.replaceState(null, '', qs);
+      }
+
+      // Restore the country filter from ?kraj= so the view is shareable/deep-linkable
+      const urlCountry = new URLSearchParams(location.search).get('kraj');
+      if (urlCountry && [...sel.options].some(o => o.value === urlCountry)) {
+        sel.value = urlCountry;
+      }
+
+      sel.addEventListener('change', update);
+      update();
+
+      document.getElementById('loading').style.display = 'none';
+      document.getElementById('content').style.display = '';
+    });
+  </script>
+</body>
+</html>

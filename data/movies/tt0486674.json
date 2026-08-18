@@ -1,0 +1,242 @@
+{
+  "imdb_id": "tt0486674",
+  "title": "What Just Happened",
+  "description": "Two weeks in the life of a fading Hollywood producer who's having a rough time trying to get his new picture made.",
+  "runtime_minutes": 104,
+  "release_date": "31.10.2008",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0000134",
+      "name": "Robert De Niro"
+    },
+    {
+      "id": "nm0001806",
+      "name": "John Turturro"
+    },
+    {
+      "id": "nm0001804",
+      "name": "Stanley Tucci"
+    },
+    {
+      "id": "nm0000576",
+      "name": "Sean Penn"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001469",
+      "name": "Barry Levinson"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0513165",
+      "name": "Art Linson"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000134",
+      "name": "Robert De Niro",
+      "character": "Ben"
+    },
+    {
+      "id": "nm0001806",
+      "name": "John Turturro",
+      "character": "Dick Bell"
+    },
+    {
+      "id": "nm0001804",
+      "name": "Stanley Tucci",
+      "character": "Scott Solomon"
+    },
+    {
+      "id": "nm0000576",
+      "name": "Sean Penn",
+      "character": "Sean Penn"
+    },
+    {
+      "id": "nm0001416",
+      "name": "Catherine Keener",
+      "character": "Lou Tarnow"
+    },
+    {
+      "id": "nm0000246",
+      "name": "Bruce Willis",
+      "character": "Actor"
+    },
+    {
+      "id": "nm0000705",
+      "name": "Robin Wright",
+      "character": "Kelly"
+    },
+    {
+      "id": "nm0829576",
+      "name": "Kristen Stewart",
+      "character": "Zoe"
+    },
+    {
+      "id": "nm0000699",
+      "name": "Michael Wincott",
+      "character": "Jeremy Brunell"
+    },
+    {
+      "id": "nm0006463",
+      "name": "Jason Kravits",
+      "character": "Pollster"
+    },
+    {
+      "id": "nm0411980",
+      "name": "Mark Ivanir",
+      "character": "Johnny"
+    },
+    {
+      "id": "nm1478911",
+      "name": "Remy K. Selma",
+      "character": "Jimmy"
+    },
+    {
+      "id": "nm0919525",
+      "name": "Christopher Evan Welch",
+      "character": "Studio Marketing Guy"
+    },
+    {
+      "id": "nm1143816",
+      "name": "Lily Rabe",
+      "character": "Dawn"
+    },
+    {
+      "id": "nm0506094",
+      "name": "Sam Levinson",
+      "character": "Carl"
+    },
+    {
+      "id": "nm2008156",
+      "name": "Logan Grove",
+      "character": "Max"
+    },
+    {
+      "id": "nm2491432",
+      "name": "Alessandra Daniele",
+      "character": "Sophie"
+    },
+    {
+      "id": "nm0118383",
+      "name": "Karina Friend Buck",
+      "character": "Verna"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Hebrew",
+    "French"
+  ],
+  "color": "Color",
+  "filmweb_id": 277470,
+  "year": 2008,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTEyMDg3ODAwNl5BMl5BanBnXkFtZTcwMzM3MTc3MQ@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.6,
+      "votes": 29373,
+      "distribution": {
+        "1": 1268,
+        "2": 788,
+        "3": 1456,
+        "4": 2889,
+        "5": 5992,
+        "6": 8075,
+        "7": 5052,
+        "8": 1820,
+        "9": 570,
+        "10": 1463
+      },
+      "normalized": 3.0254
+    },
+    "filmweb": {
+      "rating": 5.14,
+      "votes": 8740,
+      "distribution": {
+        "1": 302,
+        "2": 274,
+        "3": 955,
+        "4": 1425,
+        "5": 2150,
+        "6": 1854,
+        "7": 1089,
+        "8": 410,
+        "9": 89,
+        "10": 192
+      },
+      "normalized": 2.0583
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "03.01.2013",
+      "normalized": 4.5781
+    },
+    "score": 3.2206
+  },
+  "polish_title": "Co jest grane?",
+  "silent": false,
+  "description_pl": "Komedia o zdesperowanym producencie filmowym (<a href=\"/osoba/?id=nm0000134\">Robert De Niro</a>), który musi poradzić sobie z szalonym reżyserem, bezwstydną aktorką, nie mającym o niczym pojęcia kierownikiem produkcji, pobitym agentem, a przede wszystkim ze swoim rozpadającym się drugim małżeństwem…",
+  "producers": [
+    {
+      "id": "nm0019984",
+      "name": "Mark Allan"
+    },
+    {
+      "id": "nm3053107",
+      "name": "Victoria Cordova"
+    },
+    {
+      "id": "nm1171860",
+      "name": "Mark Cuban"
+    },
+    {
+      "id": "nm0000134",
+      "name": "Robert De Niro"
+    },
+    {
+      "id": "nm0465740",
+      "name": "Eric Kopeloff"
+    },
+    {
+      "id": "nm0001469",
+      "name": "Barry Levinson"
+    },
+    {
+      "id": "nm0513165",
+      "name": "Art Linson"
+    },
+    {
+      "id": "nm0742772",
+      "name": "Jane Rosenthal"
+    },
+    {
+      "id": "nm0906136",
+      "name": "Todd Wagner"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0953616",
+      "name": "Marcelo Zarvos"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0284860",
+      "name": "Stéphane Fontaine"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

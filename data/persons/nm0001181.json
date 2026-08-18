@@ -1,0 +1,39 @@
+{
+  "id": "nm0001181",
+  "name": "Jack Elam",
+  "filmography": [
+    {
+      "imdb_id": "tt0064116",
+      "title": "Once Upon a Time in the West",
+      "year": 1968,
+      "roles": [
+        "cast"
+      ],
+      "character": "Snaky"
+    },
+    {
+      "imdb_id": "tt0070518",
+      "title": "Pat Garrett & Billy the Kid",
+      "year": 1973,
+      "roles": [
+        "cast"
+      ],
+      "character": "Alamosa Bill"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYzJkNDllOWUtYzMyYi00ODhiLTgxNWQtMWEyNjFlYjUyNDFkXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "13.11.1920",
+  "death_date": "20.10.2003",
+  "birth_location": "Miami, Arizona, USA",
+  "height": "1.83 m",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "filmweb_id": 47048,
+  "wikidata_fw_id": 47048,
+  "gender": "M",
+  "name_pl": "Jack Elam",
+  "birth_location_pl": "Miami, Arizona"
+}

@@ -1,0 +1,272 @@
+{
+  "imdb_id": "tt0407887",
+  "title": "The Departed",
+  "description": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
+  "runtime_minutes": 151,
+  "release_date": "06.10.2006",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000138",
+      "name": "Leonardo DiCaprio"
+    },
+    {
+      "id": "nm0000354",
+      "name": "Matt Damon"
+    },
+    {
+      "id": "nm0000197",
+      "name": "Jack Nicholson"
+    },
+    {
+      "id": "nm0000242",
+      "name": "Mark Wahlberg"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000217",
+      "name": "Martin Scorsese"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1184258",
+      "name": "William Monahan"
+    },
+    {
+      "id": "nm0538320",
+      "name": "Alan Mak"
+    },
+    {
+      "id": "nm0159039",
+      "name": "Felix Chong"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000138",
+      "name": "Leonardo DiCaprio",
+      "character": "Billy"
+    },
+    {
+      "id": "nm0000354",
+      "name": "Matt Damon",
+      "character": "Colin"
+    },
+    {
+      "id": "nm0000197",
+      "name": "Jack Nicholson",
+      "character": "Costello"
+    },
+    {
+      "id": "nm0000242",
+      "name": "Mark Wahlberg",
+      "character": "Dignam"
+    },
+    {
+      "id": "nm0000640",
+      "name": "Martin Sheen",
+      "character": "Queenan"
+    },
+    {
+      "id": "nm0935653",
+      "name": "Ray Winstone",
+      "character": "Mr. French"
+    },
+    {
+      "id": "nm0267812",
+      "name": "Vera Farmiga",
+      "character": "Madolyn"
+    },
+    {
+      "id": "nm0026364",
+      "name": "Anthony Anderson",
+      "character": "Brown"
+    },
+    {
+      "id": "nm0000285",
+      "name": "Alec Baldwin",
+      "character": "Ellerby"
+    },
+    {
+      "id": "nm0180984",
+      "name": "Kevin Corrigan",
+      "character": "Cousin Sean"
+    },
+    {
+      "id": "nm0197647",
+      "name": "James Badge Dale",
+      "character": "Barrigan"
+    },
+    {
+      "id": "nm0641244",
+      "name": "David O'Hara",
+      "character": "Fitzy"
+    },
+    {
+      "id": "nm0001679",
+      "name": "Mark Rolston",
+      "character": "Delahunt"
+    },
+    {
+      "id": "nm0906301",
+      "name": "Robert Wahlberg",
+      "character": "Lazio (FBI)"
+    },
+    {
+      "id": "nm0198306",
+      "name": "Kristen Dalton",
+      "character": "Gwen"
+    },
+    {
+      "id": "nm2401565",
+      "name": "Thomas B. Duffy",
+      "character": "Governor"
+    },
+    {
+      "id": "nm0400879",
+      "name": "Richard Hughes",
+      "character": "Uncle Edward"
+    },
+    {
+      "id": "nm0533323",
+      "name": "J.C. MacKenzie",
+      "character": "Realtor"
+    }
+  ],
+  "countries": [
+    "United States",
+    "Hong Kong"
+  ],
+  "languages": [
+    "English",
+    "Cantonese"
+  ],
+  "color": null,
+  "filmweb_id": 136005,
+  "year": 2006,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8.5,
+      "votes": 1571512,
+      "distribution": {
+        "1": 10088,
+        "2": 3653,
+        "3": 4644,
+        "4": 8078,
+        "5": 18489,
+        "6": 51095,
+        "7": 175830,
+        "8": 442224,
+        "9": 503764,
+        "10": 353647
+      },
+      "normalized": 8.9887
+    },
+    "filmweb": {
+      "rating": 8.02,
+      "votes": 352511,
+      "distribution": {
+        "1": 710,
+        "2": 411,
+        "3": 1310,
+        "4": 2340,
+        "5": 6251,
+        "6": 18627,
+        "7": 66036,
+        "8": 138755,
+        "9": 84421,
+        "10": 33650
+      },
+      "normalized": 8.4276
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "05.02.2010",
+      "normalized": 6.4102
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "06.11.2006",
+      "normalized": 6.3474
+    },
+    "score": 7.5435
+  },
+  "polish_title": "Infiltracja",
+  "silent": false,
+  "description_pl": "Zrealizowany z hollywoodzkim rozmachem i gwiazdorską obsadą, remake światowego hitu \"<a href=\"/film/?id=tt0338564\">Infernal Affairs</a>\" z 2002 roku. \nAkcja filmu rozgrywa się w południowym Bostonie, gdzie policja stanowa toczy zażartą walkę z przestępczością zorganizowaną. Młody tajny agent policji, Billy Costigan (<a href=\"/osoba/?id=nm0000138\">Leonardo DiCaprio</a>), otrzymuje od przełożonego Olivera Queenana (<a href=\"/osoba/?id=nm0000640\">Martin Sheen</a>) rozkaz przeniknięcia do struktur mafijnych, którymi rządzi Frank Costello (<a href=\"/osoba/?id=nm0000197\">Jack Nicholson</a>). Podczas gdy Billy szybko zdobywa zaufanie bossa, Colin Sullivan (<a href=\"/osoba/?id=nm0000354\">Matt Damon</a>) - zatwardziały młody przestępca, który już jako kadet Akademii Policyjnej pełnił rolę mafijnego informatora - zostaje awansowany na stanowisko dowódcze w Wydziale Spraw Wewnętrznych. Każdego z nich pochłania podwójne życie. Kiedy zarówno przestępcy, jak i stróże prawa, wpadają na trop wrogiej wtyczki we własnych szeregach, obaj bohaterowie rozpoczynają wyścig o to, kto pierwszy odkryje tożsamość drugiego, by tym samym uratować własną skórę...",
+  "producers": [
+    {
+      "id": "nm0013583",
+      "name": "Michael Aguilar"
+    },
+    {
+      "id": "nm0113583",
+      "name": "G. Mac Brown"
+    },
+    {
+      "id": "nm0205713",
+      "name": "Doug Davison"
+    },
+    {
+      "id": "nm0340522",
+      "name": "Brad Grey"
+    },
+    {
+      "id": "nm0353929",
+      "name": "Kristin Hahn"
+    },
+    {
+      "id": "nm0454752",
+      "name": "Graham King"
+    },
+    {
+      "id": "nm0498175",
+      "name": "Roy Lee"
+    },
+    {
+      "id": "nm0638089",
+      "name": "Gianni Nunnari"
+    },
+    {
+      "id": "nm0000093",
+      "name": "Brad Pitt"
+    },
+    {
+      "id": "nm0717518",
+      "name": "Joseph P. Reidy"
+    },
+    {
+      "id": "nm0777408",
+      "name": "Rick Schwartz"
+    },
+    {
+      "id": "nm0863374",
+      "name": "Emma Tillinger Koskoff"
+    },
+    {
+      "id": "nm1469853",
+      "name": "Dan Lin"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006290",
+      "name": "Howard Shore"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0000841",
+      "name": "Michael Ballhaus"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,109 @@
+{
+  "imdb_id": "tt0231445",
+  "title": "The Poachers",
+  "description": "Three hunters surprise two poachers in the act. The hunters take umbrage and give chase over fences and through fields. The hunters fire away, but the poachers have guns as well, and a fight ensues with casualties for the hunters. Two cops appear and so do dogs as the chase continues. Will the poachers escape, or will they, like the game they were after, be trapped?",
+  "runtime_minutes": 3,
+  "release_date": "31.10.1903",
+  "genres": [
+    "Short",
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0341750",
+      "name": "Sid Griffiths"
+    },
+    {
+      "id": "nm2346256",
+      "name": "Will Haggar Jr."
+    },
+    {
+      "id": "nm0353575",
+      "name": "Walter Haggar"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0353576",
+      "name": "William Haggar"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0341750",
+      "name": "Sid Griffiths",
+      "character": "Second Poacher"
+    },
+    {
+      "id": "nm2346256",
+      "name": "Will Haggar Jr.",
+      "character": "First Poacher"
+    },
+    {
+      "id": "nm0353575",
+      "name": "Walter Haggar",
+      "character": "First Gamekeeper"
+    }
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 362180,
+  "year": 1903,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMWI2MzliMzEtZDI1Mi00NDc5LWI5YmUtZWExNWU4Nzk3NzdhXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "A Desperate Poaching Affray",
+  "ratings": {
+    "imdb": {
+      "rating": 5.8,
+      "votes": 480,
+      "distribution": {
+        "1": 15,
+        "2": 9,
+        "3": 19,
+        "4": 44,
+        "5": 120,
+        "6": 143,
+        "7": 69,
+        "8": 31,
+        "9": 15,
+        "10": 15
+      },
+      "normalized": 4.5538
+    },
+    "filmweb": {
+      "rating": 5.23,
+      "votes": 13,
+      "distribution": {
+        "2": 0,
+        "3": 2,
+        "4": 0,
+        "5": 6,
+        "6": 4,
+        "7": 0,
+        "8": 1,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 5.0203
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "15.12.2016",
+      "normalized": 5.6855
+    },
+    "score": 5.0865
+  },
+  "polish_title": "A Desperate Poaching Affray",
+  "silent": true,
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-16"
+}

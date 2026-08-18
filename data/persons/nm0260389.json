@@ -1,0 +1,35 @@
+{
+  "id": "nm0260389",
+  "name": "Jean-Yves Escoffier",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYTc1NzM5NjAtN2Q5Ni00NDI4LTkzNWUtN2U4M2MyNTBlY2EyXkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0119217",
+      "title": "Good Will Hunting",
+      "year": 1997,
+      "roles": [
+        "cinematographer"
+      ]
+    },
+    {
+      "imdb_id": "tt0128442",
+      "title": "Rounders",
+      "year": 1998,
+      "roles": [
+        "cinematographer"
+      ]
+    }
+  ],
+  "birth_date": "12.07.1950",
+  "death_date": "01.04.2003",
+  "birth_location": "Lyon, France",
+  "imdb_scraped": true,
+  "filmweb_id": 10274,
+  "name_pl": "Jean-Yves Escoffier",
+  "birth_location_pl": "Lyon",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja"
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "imdb_id": "tt0021749",
+  "title": "City Lights",
+  "description": "With the aid of a wealthy erratic tippler, a dewy-eyed tramp who has fallen in love with a blind flower girl accumulates money to be able to help her medically.",
+  "runtime_minutes": 87,
+  "release_date": "07.03.1931",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0000122",
+      "name": "Charles Chaplin"
+    },
+    {
+      "id": "nm0156039",
+      "name": "Virginia Cherrill"
+    },
+    {
+      "id": "nm5681967",
+      "name": "Florence Lee"
+    },
+    {
+      "id": "nm0616729",
+      "name": "Harry Myers"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000122",
+      "name": "Charles Chaplin"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000122",
+      "name": "Charles Chaplin"
+    },
+    {
+      "id": "nm0139714",
+      "name": "Harry Carr"
+    },
+    {
+      "id": "nm0188357",
+      "name": "Harry Crocker"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000122",
+      "name": "Charles Chaplin",
+      "character": "A Tramp"
+    },
+    {
+      "id": "nm0156039",
+      "name": "Virginia Cherrill",
+      "character": "A Blind Girl"
+    },
+    {
+      "id": "nm5681967",
+      "name": "Florence Lee",
+      "character": "The Blind Girl's Grandmother"
+    },
+    {
+      "id": "nm0616729",
+      "name": "Harry Myers",
+      "character": "An Eccentric Millionaire"
+    },
+    {
+      "id": "nm0305087",
+      "name": "Al Ernest Garcia",
+      "character": "The Millionaire's Butler"
+    },
+    {
+      "id": "nm0003424",
+      "name": "Hank Mann",
+      "character": "A Prizefighter"
+    },
+    {
+      "id": "nm0008609",
+      "name": "Johnny Aber",
+      "character": "Newsboy"
+    },
+    {
+      "id": "nm1033905",
+      "name": "Jack Alexander",
+      "character": "Boxing Match Spectator"
+    },
+    {
+      "id": "nm1035024",
+      "name": "T.S. Alexander",
+      "character": "Doctor"
+    },
+    {
+      "id": "nm1033907",
+      "name": "Victor Alexander",
+      "character": "Superstitious Boxer"
+    },
+    {
+      "id": "nm0042317",
+      "name": "Albert Austin",
+      "character": "Street Sweeper"
+    },
+    {
+      "id": "nm1035060",
+      "name": "Harry Ayers",
+      "character": "Cop"
+    },
+    {
+      "id": "nm0048417",
+      "name": "Eddie Baker",
+      "character": "Boxing Fight Referee"
+    },
+    {
+      "id": "nm0074788",
+      "name": "Henry Bergman",
+      "character": "Mayor"
+    },
+    {
+      "id": "nm0080930",
+      "name": "Edward Biby",
+      "character": "Nightclub Patron"
+    },
+    {
+      "id": "nm0086199",
+      "name": "Betty Blair",
+      "character": "Woman at Center of Table in Restaurant"
+    },
+    {
+      "id": "nm0110886",
+      "name": "Buster Brodie",
+      "character": "Bald Party Guest"
+    },
+    {
+      "id": "nm0139370",
+      "name": "Jeanne Carpenter",
+      "character": "Diner in Restaurant"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "None",
+    "English"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 31693,
+  "year": 1931,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BM2U4NjgzODUtODkyOC00YTE2LTlhNTItYzFlYmM1NTEzZDA2XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8.5,
+      "votes": 217756,
+      "distribution": {
+        "1": 3854,
+        "2": 1172,
+        "3": 1285,
+        "4": 2315,
+        "5": 4342,
+        "6": 8791,
+        "7": 24699,
+        "8": 53381,
+        "9": 58276,
+        "10": 59641
+      },
+      "normalized": 8.7486
+    },
+    "filmweb": {
+      "rating": 8.14,
+      "votes": 14532,
+      "distribution": {
+        "1": 87,
+        "2": 13,
+        "3": 52,
+        "4": 99,
+        "5": 224,
+        "6": 765,
+        "7": 2552,
+        "8": 5014,
+        "9": 3386,
+        "10": 2340
+      },
+      "normalized": 8.6737
+    },
+    "jarek": {
+      "rating": 8,
+      "date_rated": "05.04.2011",
+      "normalized": 7.8989
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "19.10.2005",
+      "normalized": 7.2292
+    },
+    "score": 8.1376
+  },
+  "polish_title": "Światła wielkiego miasta",
+  "silent": true,
+  "description_pl": "Bezdomny włóczęga Charlie szuka szczęścia w wielkim mieście. Na ulicy spotyka piękną, niewidomą kwiaciarkę i kupuje od niej kwiaty. Dziewczyna, nie widząc jego zniszczonego ubrania, bierze go za bogacza. Tego samego wieczoru Charlie ratuje pijanego milionera od popełnienia samobójstwa.",
+  "composers": [
+    {
+      "id": "nm0000122",
+      "name": "Charles Chaplin"
+    }
+  ],
+  "fetched_at": "2026-08-15"
+}

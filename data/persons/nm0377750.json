@@ -1,0 +1,40 @@
+{
+  "id": "nm0377750",
+  "name": "Buck Henry",
+  "filmography": [
+    {
+      "imdb_id": "tt0061722",
+      "title": "The Graduate",
+      "year": 1967,
+      "roles": [
+        "writer",
+        "cast"
+      ],
+      "character": "Room Clerk"
+    },
+    {
+      "imdb_id": "tt0065528",
+      "title": "Catch-22",
+      "year": 1970,
+      "roles": [
+        "writer",
+        "cast"
+      ],
+      "character": "Colonel Korn"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYTRlOTg1OWMtZWZmMS00NzcyLWJlZTktODZkZGFiNTEzNDFlXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "09.12.1930",
+  "death_date": "08.01.2020",
+  "birth_location": "New York City, New York, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 5387,
+  "name_pl": "Buck Henry",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 5387
+}

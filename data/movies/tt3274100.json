@@ -1,0 +1,80 @@
+{
+  "imdb_id": "tt3274100",
+  "title": "Pferd und Reiter Springen über ein Hindernis",
+  "description": "A horse with rider jumping over an obstacle",
+  "runtime_minutes": 1,
+  "release_date": "31.05.1888",
+  "genres": [
+    "Short"
+  ],
+  "directors": [
+    {
+      "id": "nm6027351",
+      "name": "Ottomar Anschütz"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "Germany"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 701566,
+  "year": 1888,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYTkzYjliMjAtNzYyNy00NmU3LTg4NDctZjVkMmY0ODdlYWUyXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.6,
+      "votes": 581,
+      "distribution": {
+        "1": 33,
+        "2": 22,
+        "3": 21,
+        "4": 43,
+        "5": 149,
+        "6": 153,
+        "7": 81,
+        "8": 29,
+        "9": 18,
+        "10": 32
+      },
+      "normalized": 4.2483
+    },
+    "filmweb": {
+      "rating": 4.33,
+      "votes": 86,
+      "distribution": {
+        "1": 21,
+        "2": 7,
+        "3": 3,
+        "4": 10,
+        "5": 15,
+        "6": 12,
+        "7": 10,
+        "8": 4,
+        "9": 1,
+        "10": 3
+      },
+      "normalized": 4.1617
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "16.12.2016",
+      "normalized": 6.4102
+    },
+    "score": 4.9401
+  },
+  "polish_title": "Pferd und Reiter Springen über ein Hindernis",
+  "silent": true,
+  "cinematographers": [
+    {
+      "id": "nm6027351",
+      "name": "Ottomar Anschütz"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

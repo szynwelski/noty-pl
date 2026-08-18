@@ -1,0 +1,158 @@
+{
+  "imdb_id": "tt0018770",
+  "title": "The Fall of the House of Usher",
+  "description": "Allan visits the sinister Usher family mansion, where his friend Roderick is painting a portrait of his sickly wife Madeline. The portrait seems to be draining the life out of Madeline, slowly leading to her death.",
+  "runtime_minutes": 72,
+  "release_date": "05.10.1928",
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "Horror"
+  ],
+  "stars": [
+    {
+      "id": "nm0213581",
+      "name": "Jean Debucourt"
+    },
+    {
+      "id": "nm0304101",
+      "name": "Marguerite Gance"
+    },
+    {
+      "id": "nm0484012",
+      "name": "Charles Lamy"
+    },
+    {
+      "id": "nm0288453",
+      "name": "Fournez-Goffard"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0258477",
+      "name": "Jean Epstein"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000590",
+      "name": "Edgar Allan Poe"
+    },
+    {
+      "id": "nm0000320",
+      "name": "Luis Buñuel"
+    },
+    {
+      "id": "nm0258477",
+      "name": "Jean Epstein"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0213581",
+      "name": "Jean Debucourt",
+      "character": "Sir Roderick Usher"
+    },
+    {
+      "id": "nm0304101",
+      "name": "Marguerite Gance",
+      "character": "Madeleine Usher"
+    },
+    {
+      "id": "nm0484012",
+      "name": "Charles Lamy",
+      "character": "Allan - the Guest"
+    },
+    {
+      "id": "nm0288453",
+      "name": "Fournez-Goffard",
+      "character": "The Doctor"
+    },
+    {
+      "id": "nm0201733",
+      "name": "Luc Dartagnan",
+      "character": "Bar Customer"
+    },
+    {
+      "id": "nm0304098",
+      "name": "Abel Gance",
+      "character": "Bar Customer"
+    },
+    {
+      "id": "nm0356826",
+      "name": "Halma",
+      "character": "Bar Waiter"
+    },
+    {
+      "id": "nm0396202",
+      "name": "Pierre Hot",
+      "character": "Bar Customer"
+    },
+    {
+      "id": "nm0444881",
+      "name": "Pierre Kefer",
+      "character": "Bar Customer"
+    }
+  ],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "year": 1928,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDgwMjJjM2YtN2I1My00MGY4LWI3NTItNjIwZTA2M2Y4ZjFjXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 95302,
+  "original_title": "La chute de la maison Usher",
+  "ratings": {
+    "imdb": {
+      "rating": 7.2,
+      "votes": 5098,
+      "distribution": {
+        "1": 73,
+        "2": 57,
+        "3": 86,
+        "4": 147,
+        "5": 337,
+        "6": 748,
+        "7": 1289,
+        "8": 1190,
+        "9": 616,
+        "10": 555
+      },
+      "normalized": 5.8258
+    },
+    "filmweb": {
+      "rating": 7.43,
+      "votes": 1437,
+      "distribution": {
+        "1": 5,
+        "2": 5,
+        "3": 20,
+        "4": 35,
+        "5": 59,
+        "6": 168,
+        "7": 377,
+        "8": 486,
+        "9": 194,
+        "10": 88
+      },
+      "normalized": 6.1662
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "19.10.2005",
+      "normalized": 5.4199
+    },
+    "score": 5.804
+  },
+  "polish_title": "Upadek domu Usherów",
+  "silent": true,
+  "description_pl": "\"<a href=\"/film/?id=tt0018770\">Upadek domu Usherów</a>\" jest poetyckim filmem grozy, najznakomitszym osiągnięciem tego gatunku w historii kina. Opowiada o Allanie, gościu rodziny Usherów. Jest on znajomym pana domu, mieszkającego wraz z chorą żona i doktorem. \n\n Mistrzowskie wykorzystanie środków naturalnych wzbogacanych zabiegami technicznymi (zdjęcia zwolnione, nakładane i trickowe) sprawia, że film nabiera niepowtarzalnego, szlachetnego charakteru ekranowego poematu. <a href=\"/osoba/?id=nm0258477\">Epstein</a> podsumowuje tutaj własne poszukiwania w dziedzinie środków wyrazu awangardowego impresjonizmu, tworząc ten wyjątkowy film - sen. \"Gdyby zamiast imitować procedery literackie, film zechciał rozwinąć i wykorzystać swoje powiązanie ze snem i marzeniem sennym, mogłoby stworzyć system ekspresji o niesłychanej subtelności, o ogromnej sile i niezwykłej oryginalności.\" (<a href=\"/osoba/?id=nm0258477\">Jean Epstein</a>).",
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-15"
+}

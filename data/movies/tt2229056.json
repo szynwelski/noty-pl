@@ -1,0 +1,210 @@
+{
+  "imdb_id": "tt2229056",
+  "title": "A Respectable Family",
+  "description": "Upon returning home to Iran after more than two decades abroad, visiting professor Arash is quickly thrust into a past he's spent his whole life trying to escape.",
+  "runtime_minutes": 90,
+  "release_date": "31.10.2012",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm1954434",
+      "name": "Babak Hamidian"
+    },
+    {
+      "id": "nm2343617",
+      "name": "Mehrdad Sedighian"
+    },
+    {
+      "id": "nm3213784",
+      "name": "Mehran Ahmadi"
+    },
+    {
+      "id": "nm1165588",
+      "name": "Ahoo Kheradmand"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm3009133",
+      "name": "Massoud Bakhshi"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm3009133",
+      "name": "Massoud Bakhshi"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1954434",
+      "name": "Babak Hamidian",
+      "character": "Arash"
+    },
+    {
+      "id": "nm2343617",
+      "name": "Mehrdad Sedighian",
+      "character": "Hamed"
+    },
+    {
+      "id": "nm3213784",
+      "name": "Mehran Ahmadi",
+      "character": "Jafar - Hamed's Father"
+    },
+    {
+      "id": "nm1165588",
+      "name": "Ahoo Kheradmand",
+      "character": "Arash's Mother"
+    },
+    {
+      "id": "nm0623360",
+      "name": "Parivash Nazarieh",
+      "character": "Zohreh"
+    },
+    {
+      "id": "nm0415415",
+      "name": "Behnaz Jafari",
+      "character": ""
+    },
+    {
+      "id": "nm3411358",
+      "name": "Seyyed Mehrdad Ziaei",
+      "character": ""
+    },
+    {
+      "id": "nm5129779",
+      "name": "Niki Nasirian",
+      "character": ""
+    },
+    {
+      "id": "nm16269348",
+      "name": "Fateme Asgari",
+      "character": ""
+    },
+    {
+      "id": "nm14328383",
+      "name": "Behnam Davari",
+      "character": ""
+    },
+    {
+      "id": "nm16403817",
+      "name": "Behnam Davoodi",
+      "character": ""
+    },
+    {
+      "id": "nm14915797",
+      "name": "Hassan Joudaki",
+      "character": ""
+    },
+    {
+      "id": "nm12031243",
+      "name": "Matin Kheybali",
+      "character": ""
+    },
+    {
+      "id": "nm2155402",
+      "name": "Sima Mobarak-Shahi",
+      "character": ""
+    },
+    {
+      "id": "nm7174455",
+      "name": "Simon Simonian",
+      "character": ""
+    },
+    {
+      "id": "nm16715085",
+      "name": "Adnan Shah Talaei",
+      "character": ""
+    },
+    {
+      "id": "nm3104997",
+      "name": "Emre Tetikel",
+      "character": "Hamid"
+    },
+    {
+      "id": "nm9697280",
+      "name": "Ebrahim Zareie",
+      "character": ""
+    }
+  ],
+  "countries": [
+    "Iran",
+    "France"
+  ],
+  "languages": [
+    "Persian"
+  ],
+  "color": "Color",
+  "filmweb_id": 663844,
+  "year": 2012,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYTA0OGJiMzYtMmVkYS00Yjk3LWI2ODktYzkxYjI1MGEzNTRiXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Yek khanévadéh-e mohtaram",
+  "ratings": {
+    "imdb": {
+      "rating": 6.5,
+      "votes": 574,
+      "distribution": {
+        "1": 34,
+        "2": 9,
+        "3": 17,
+        "4": 32,
+        "5": 58,
+        "6": 121,
+        "7": 122,
+        "8": 82,
+        "9": 38,
+        "10": 61
+      },
+      "normalized": 4.9918
+    },
+    "filmweb": {
+      "rating": 6.63,
+      "votes": 30,
+      "distribution": {
+        "2": 0,
+        "3": 0,
+        "4": 2,
+        "5": 0,
+        "6": 14,
+        "7": 7,
+        "8": 6,
+        "9": 0,
+        "10": 1
+      },
+      "normalized": 5.1722
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "15.02.2013",
+      "normalized": 5.6855
+    },
+    "score": 5.2832
+  },
+  "polish_title": "Rodzina godna szacunku",
+  "silent": false,
+  "producers": [
+    {
+      "id": "nm2755715",
+      "name": "Mohammad Afarideh"
+    },
+    {
+      "id": "nm0081226",
+      "name": "Jacques Bidou"
+    },
+    {
+      "id": "nm1171976",
+      "name": "Marianne Dumoulin"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0415417",
+      "name": "Mehdi Jafari"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

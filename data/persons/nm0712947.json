@@ -1,0 +1,48 @@
+{
+  "id": "nm0712947",
+  "name": "Nicholas Ray",
+  "filmography": [
+    {
+      "imdb_id": "tt0048545",
+      "title": "Rebel Without a Cause",
+      "year": 1955,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0075675",
+      "title": "The American Friend",
+      "year": 1977,
+      "roles": [
+        "cast"
+      ],
+      "character": "'Derwatt'"
+    },
+    {
+      "imdb_id": "tt0079261",
+      "title": "Hair",
+      "year": 1979,
+      "roles": [
+        "cast"
+      ],
+      "character": "The General"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYjA1ZTJhYTQtZTVjMi00YTY5LWI4Y2EtYjAyMTgxM2QwMzAxXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "07.08.1911",
+  "death_date": "16.06.1979",
+  "birth_location": "Galesville, Wisconsin, USA",
+  "height": "1.85 m",
+  "filmweb_id": 43651,
+  "name_pl": "Nicholas Ray",
+  "birth_location_pl": "Galesville, Wisconsin",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 43651
+}

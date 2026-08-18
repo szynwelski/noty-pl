@@ -1,0 +1,245 @@
+{
+  "imdb_id": "tt0120586",
+  "title": "American History X",
+  "description": "A neo-Nazi is released from prison a changed man and hopes to prevent his younger brother from following in his footsteps.",
+  "runtime_minutes": 119,
+  "release_date": "20.11.1998",
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0001570",
+      "name": "Edward Norton"
+    },
+    {
+      "id": "nm0000411",
+      "name": "Edward Furlong"
+    },
+    {
+      "id": "nm0000350",
+      "name": "Beverly D'Angelo"
+    },
+    {
+      "id": "nm0000497",
+      "name": "Jennifer Lien"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0443411",
+      "name": "Tony Kaye"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0571346",
+      "name": "David McKenna"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0001570",
+      "name": "Edward Norton",
+      "character": "Derek"
+    },
+    {
+      "id": "nm0000411",
+      "name": "Edward Furlong",
+      "character": "Danny"
+    },
+    {
+      "id": "nm0000350",
+      "name": "Beverly D'Angelo",
+      "character": "Doris"
+    },
+    {
+      "id": "nm0000497",
+      "name": "Jennifer Lien",
+      "character": "Davina"
+    },
+    {
+      "id": "nm0839486",
+      "name": "Ethan Suplee",
+      "character": "Seth"
+    },
+    {
+      "id": "nm0000103",
+      "name": "Fairuza Balk",
+      "character": "Stacey"
+    },
+    {
+      "id": "nm0000984",
+      "name": "Avery Brooks",
+      "character": "Sweeney"
+    },
+    {
+      "id": "nm0001285",
+      "name": "Elliott Gould",
+      "character": "Murray"
+    },
+    {
+      "id": "nm0005078",
+      "name": "Stacy Keach",
+      "character": "Cameron"
+    },
+    {
+      "id": "nm0750916",
+      "name": "William Russ",
+      "character": "Dennis"
+    },
+    {
+      "id": "nm0868956",
+      "name": "Guy Torry",
+      "character": "Lamont"
+    },
+    {
+      "id": "nm0181288",
+      "name": "Joe Cortese",
+      "character": "Rasmussen"
+    },
+    {
+      "id": "nm0808633",
+      "name": "Jason Bose Smith",
+      "character": "Little Henry"
+    },
+    {
+      "id": "nm0529014",
+      "name": "Antonio David Lyons",
+      "character": "Lawrence"
+    },
+    {
+      "id": "nm0812550",
+      "name": "Alex Sol",
+      "character": "Mitch McCormick"
+    },
+    {
+      "id": "nm0539537",
+      "name": "Keram Malicki-Sánchez",
+      "character": "Chris"
+    },
+    {
+      "id": "nm0004709",
+      "name": "Giuseppe Andrews",
+      "character": "Jason"
+    },
+    {
+      "id": "nm6783755",
+      "name": "Michelle Christine White",
+      "character": "Lizzy"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 30633,
+  "year": 1998,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzhiOTQ0NDItOTg0Zi00OGVmLWE0OGEtMTI4NDM0NWMxZWU4XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8.5,
+      "votes": 1282653,
+      "distribution": {
+        "1": 7790,
+        "2": 2794,
+        "3": 3518,
+        "4": 6348,
+        "5": 13943,
+        "6": 39986,
+        "7": 147096,
+        "8": 372369,
+        "9": 416270,
+        "10": 272539
+      },
+      "normalized": 8.9422
+    },
+    "filmweb": {
+      "rating": 8.18,
+      "votes": 311175,
+      "distribution": {
+        "1": 1114,
+        "2": 597,
+        "3": 1317,
+        "4": 2341,
+        "5": 5924,
+        "6": 15289,
+        "7": 46855,
+        "8": 104525,
+        "9": 87380,
+        "10": 45833
+      },
+      "normalized": 9.056
+    },
+    "jarek": {
+      "rating": 8,
+      "date_rated": "02.12.2005",
+      "normalized": 7.8989
+    },
+    "michal": {
+      "rating": 8,
+      "date_rated": "19.10.2005",
+      "normalized": 8.1116
+    },
+    "score": 8.5022
+  },
+  "polish_title": "Więzień nienawiści",
+  "silent": false,
+  "description_pl": "Przywódca miejscowej organizacji nazistowskiej (Derek) wychodzi z więzienia, do którego trafił za morderstwo na tle rasowym. Cały nazistowski krąg hucznie go wita i cieszy się z jego wyjścia na wolność. Jednak przede wszystkim na jego widok cieszy się młodszy brat (Daniel) dla którego Derek jest wielkim autorytetem. Z czasem zauważa on zmianę w zachowaniu Dereka, który przestał już być żądnym czystości rasy bohaterem, a stał się bratem, który w poczuciu obowiązku i troski o przyszłe życie młodszego brata, stara się odwieść go od nazistowskiej ideologii. Derek opowiada mu o przeżytych doświadczeniach w więzieniu, które miały wpływ na jego diametralną przemianę, mając nadzieję że to zmieni poglądy Daniela. Jednak czy to wystarczy...?",
+  "producers": [
+    {
+      "id": "nm0140011",
+      "name": "Bill Carraro"
+    },
+    {
+      "id": "nm0006894",
+      "name": "Michael De Luca"
+    },
+    {
+      "id": "nm0381489",
+      "name": "Jon Hess"
+    },
+    {
+      "id": "nm0571346",
+      "name": "David McKenna"
+    },
+    {
+      "id": "nm0554204",
+      "name": "John Morrissey"
+    },
+    {
+      "id": "nm0668831",
+      "name": "Kearie Peak"
+    },
+    {
+      "id": "nm0005494",
+      "name": "Steve Tisch"
+    },
+    {
+      "id": "nm0877274",
+      "name": "Lawrence Turman"
+    },
+    {
+      "id": "nm0936970",
+      "name": "Brian Witten"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006050",
+      "name": "Anne Dudley"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0443411",
+      "name": "Tony Kaye"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

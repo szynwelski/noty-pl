@@ -1,0 +1,49 @@
+{
+  "id": "nm0001042",
+  "name": "Lois Chiles",
+  "filmography": [
+    {
+      "imdb_id": "tt0070903",
+      "title": "The Way We Were",
+      "year": 1973,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Carol Ann"
+    },
+    {
+      "imdb_id": "tt0079574",
+      "title": "Moonraker",
+      "year": 1979,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Holly Goodhead"
+    },
+    {
+      "imdb_id": "tt0120179",
+      "title": "Speed 2: Cruise Control",
+      "year": 1997,
+      "roles": [
+        "cast"
+      ],
+      "character": "Celeste"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTcyMTMyMjczNF5BMl5BanBnXkFtZTcwMjQyMzY0NA@@._V1_.jpg",
+  "birth_date": "15.04.1947",
+  "birth_location": "Houston, Texas, USA",
+  "height": "1.71 m",
+  "filmweb_id": 5406,
+  "name_pl": "Lois Chiles",
+  "birth_location_pl": "Houston, Teksas",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 5406
+}

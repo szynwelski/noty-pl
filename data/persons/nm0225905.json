@@ -1,0 +1,37 @@
+{
+  "id": "nm0225905",
+  "name": "Wilhelm Diegelmann",
+  "filmography": [
+    {
+      "imdb_id": "tt0012494",
+      "title": "Destiny",
+      "year": 1921,
+      "roles": [
+        "cast"
+      ],
+      "character": "Doctor"
+    },
+    {
+      "imdb_id": "tt0020697",
+      "title": "The Blue Angel",
+      "year": 1930,
+      "roles": [
+        "cast"
+      ],
+      "character": "Der Kapitän"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTY1MDg2MDIzN15BMl5BanBnXkFtZTgwMDk3MDExMzE@._V1_.jpg",
+  "birth_date": "28.09.1861",
+  "death_date": "01.03.1934",
+  "birth_location": "Ellers, Electorate of Hesse [now Neuhof, Hesse, Germany]",
+  "imdb_scraped": true,
+  "filmweb_id": 144687,
+  "name_pl": "Wilhelm Diegelmann",
+  "birth_location_pl": "Ellers (obecnie Neuhoff)",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Niemcy"
+  ]
+}

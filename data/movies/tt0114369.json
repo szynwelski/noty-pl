@@ -1,0 +1,260 @@
+{
+  "imdb_id": "tt0114369",
+  "title": "Seven",
+  "description": "Two detectives try to track down a serial killer who chooses his victims based on the Seven Deadly Sins.",
+  "runtime_minutes": 127,
+  "release_date": "22.09.1995",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000151",
+      "name": "Morgan Freeman"
+    },
+    {
+      "id": "nm0000093",
+      "name": "Brad Pitt"
+    },
+    {
+      "id": "nm0000228",
+      "name": "Kevin Spacey"
+    },
+    {
+      "id": "nm0001825",
+      "name": "Andrew Kevin Walker"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000399",
+      "name": "David Fincher"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0001825",
+      "name": "Andrew Kevin Walker"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000151",
+      "name": "Morgan Freeman",
+      "character": "Somerset"
+    },
+    {
+      "id": "nm0000093",
+      "name": "Brad Pitt",
+      "character": "Mills"
+    },
+    {
+      "id": "nm0000228",
+      "name": "Kevin Spacey",
+      "character": "John Doe"
+    },
+    {
+      "id": "nm0001825",
+      "name": "Andrew Kevin Walker",
+      "character": "Dead Man at 1st Crime Scene"
+    },
+    {
+      "id": "nm0669254",
+      "name": "Daniel Zacapa",
+      "character": "Detective Taylor at First Murder"
+    },
+    {
+      "id": "nm0000569",
+      "name": "Gwyneth Paltrow",
+      "character": "Tracy"
+    },
+    {
+      "id": "nm0144307",
+      "name": "John Cassini",
+      "character": "Officer Davis"
+    },
+    {
+      "id": "nm0532943",
+      "name": "Bob Mack",
+      "character": "Gluttony Victim"
+    },
+    {
+      "id": "nm0188598",
+      "name": "Peter Crombie",
+      "character": "Dr. O'Neill"
+    },
+    {
+      "id": "nm0146146",
+      "name": "Reg E. Cathey",
+      "character": "Dr. Santiago"
+    },
+    {
+      "id": "nm0000388",
+      "name": "R. Lee Ermey",
+      "character": "Police Captain"
+    },
+    {
+      "id": "nm0160690",
+      "name": "George Christy",
+      "character": "Workman at Door of Somerset's Office"
+    },
+    {
+      "id": "nm0401352",
+      "name": "Endre Hules",
+      "character": "Cab Driver"
+    },
+    {
+      "id": "nm0416551",
+      "name": "Hawthorne James",
+      "character": "George the Night Guard at the Library"
+    },
+    {
+      "id": "nm0203525",
+      "name": "William Davidson",
+      "character": "First Guard at the Library"
+    },
+    {
+      "id": "nm0172172",
+      "name": "Bob Collins",
+      "character": "Second Guard at the Library"
+    },
+    {
+      "id": "nm0367211",
+      "name": "Jimmy Dale Hartsell",
+      "character": "Library Janitor"
+    },
+    {
+      "id": "nm0745780",
+      "name": "Richard Roundtree",
+      "character": "Talbot"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 702,
+  "year": 1995,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BY2IzNzMxZjctZjUxZi00YzAxLTk3ZjMtODFjODdhMDU5NDM1XkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Se7en",
+  "ratings": {
+    "imdb": {
+      "rating": 8.6,
+      "votes": 2048599,
+      "distribution": {
+        "1": 9389,
+        "2": 3962,
+        "3": 5312,
+        "4": 8584,
+        "5": 19513,
+        "6": 53527,
+        "7": 218118,
+        "8": 545615,
+        "9": 692976,
+        "10": 491603
+      },
+      "normalized": 9.3201
+    },
+    "filmweb": {
+      "rating": 8.31,
+      "votes": 639980,
+      "distribution": {
+        "1": 2179,
+        "2": 866,
+        "3": 2101,
+        "4": 3425,
+        "5": 9004,
+        "6": 24015,
+        "7": 87794,
+        "8": 210609,
+        "9": 190901,
+        "10": 109086
+      },
+      "normalized": 9.4419
+    },
+    "jarek": {
+      "rating": 8,
+      "date_rated": "02.12.2005",
+      "normalized": 7.8989
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "19.10.2005",
+      "normalized": 6.3474
+    },
+    "score": 8.2521
+  },
+  "polish_title": "Siedem",
+  "silent": false,
+  "description_pl": "Siedem. To liczba ofiar, których dosięgnie gniew jego wybrańca. To liczba sposobów odebrania życia, które on wybierze. To liczba dni tygodnia z życia deszczowej metropolii, które obejrzysz na ekranie, poznając zakamarki umysłu szaleńca. Ale czy na pewno jest on szalony, czy może szalone są tylko drogi, którymi prowadzi pozbawione empatii społeczeństwo do oświecenia?",
+  "producers": [
+    {
+      "id": "nm0114698",
+      "name": "Stephen Joel Brown"
+    },
+    {
+      "id": "nm0138287",
+      "name": "Phyllis Carlyle"
+    },
+    {
+      "id": "nm0314772",
+      "name": "William C. Gerrity"
+    },
+    {
+      "id": "nm0339248",
+      "name": "Nana Greenwald"
+    },
+    {
+      "id": "nm0365036",
+      "name": "Lynn Harris"
+    },
+    {
+      "id": "nm0464387",
+      "name": "Dan Kolsrud"
+    },
+    {
+      "id": "nm0465744",
+      "name": "Anne Kopelson"
+    },
+    {
+      "id": "nm0465745",
+      "name": "Arnold Kopelson"
+    },
+    {
+      "id": "nm0638089",
+      "name": "Gianni Nunnari"
+    },
+    {
+      "id": "nm0659529",
+      "name": "Sanford Panitch"
+    },
+    {
+      "id": "nm0686890",
+      "name": "Michele Platt"
+    },
+    {
+      "id": "nm0764552",
+      "name": "Richard Saperstein"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006290",
+      "name": "Howard Shore"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0451787",
+      "name": "Darius Khondji"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

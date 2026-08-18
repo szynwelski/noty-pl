@@ -1,0 +1,106 @@
+{
+  "imdb_id": "tt0248808",
+  "title": "For the Birds",
+  "description": "A group of snooty birds roosting on a telephone wire get their just deserts when a goofy bird drops in.",
+  "runtime_minutes": 3,
+  "release_date": "02.11.2001",
+  "genres": [
+    "Animation",
+    "Short",
+    "Comedy",
+    "Family"
+  ],
+  "stars": [
+    {
+      "id": "nm0250995",
+      "name": "Ralph Eggleston"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0250995",
+      "name": "Ralph Eggleston"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0250995",
+      "name": "Ralph Eggleston"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0250995",
+      "name": "Ralph Eggleston",
+      "character": "Bird"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Color",
+  "filmweb_id": 97585,
+  "year": 2000,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzdmYzM2YmMtMzcxMC00NWQ1LTliYjktOGEyN2UwMTFlZmE5XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.9,
+      "votes": 36086,
+      "distribution": {
+        "1": 228,
+        "2": 138,
+        "3": 190,
+        "4": 338,
+        "5": 1019,
+        "6": 2745,
+        "7": 6854,
+        "8": 12123,
+        "9": 6343,
+        "10": 6108
+      },
+      "normalized": 7.1346
+    },
+    "filmweb": {
+      "rating": 7.14,
+      "votes": 15562,
+      "distribution": {
+        "1": 28,
+        "2": 35,
+        "3": 150,
+        "4": 322,
+        "5": 915,
+        "6": 2750,
+        "7": 5192,
+        "8": 4245,
+        "9": 1347,
+        "10": 578
+      },
+      "normalized": 5.8909
+    },
+    "michal": {
+      "rating": 3,
+      "date_rated": "21.10.2020",
+      "normalized": 3.8753
+    },
+    "score": 5.6336
+  },
+  "polish_title": "Ptasie sprawki",
+  "silent": false,
+  "description_pl": "Ten krótkometrażowy film animowany opowiada historię o grupie małych ptaków siedzących razem na drucie telefonicznym. Kiedy większy i niezgrabny ptak przybywa, mniejsze ptaki odrzucają go drwinami i obrażają. On w ciszy upiera się i próbuje zwyciężyć ich przyjaźń, ale w końcu mniejsze ptaki decydują się go zepchnąć z ich miejsca. Niestety za późno odkrywają jakie są minusy tego planu...",
+  "producers": [
+    {
+      "id": "nm0240640",
+      "name": "Karen Dufilho"
+    },
+    {
+      "id": "nm0005124",
+      "name": "John Lasseter"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

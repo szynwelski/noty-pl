@@ -1,0 +1,229 @@
+{
+  "imdb_id": "tt0100405",
+  "title": "Pretty Woman",
+  "description": "A corporate raider hires a hooker to act as a business escort in Beverly Hills, California.",
+  "runtime_minutes": 119,
+  "release_date": "23.03.1990",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0000152",
+      "name": "Richard Gere"
+    },
+    {
+      "id": "nm0000210",
+      "name": "Julia Roberts"
+    },
+    {
+      "id": "nm0004517",
+      "name": "Jason Alexander"
+    },
+    {
+      "id": "nm0000624",
+      "name": "Laura San Giacomo"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0005190",
+      "name": "Garry Marshall"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0493369",
+      "name": "J.F. Lawton"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000152",
+      "name": "Richard Gere",
+      "character": "Edward Lewis"
+    },
+    {
+      "id": "nm0000210",
+      "name": "Julia Roberts",
+      "character": "Vivian Ward"
+    },
+    {
+      "id": "nm0004517",
+      "name": "Jason Alexander",
+      "character": "Philip Stuckey"
+    },
+    {
+      "id": "nm0000897",
+      "name": "Ralph Bellamy",
+      "character": "James Morse"
+    },
+    {
+      "id": "nm0000624",
+      "name": "Laura San Giacomo",
+      "character": "Kit De Luca"
+    },
+    {
+      "id": "nm0405033",
+      "name": "Alex Hyde-White",
+      "character": "David Morse"
+    },
+    {
+      "id": "nm0001865",
+      "name": "Amy Yasbeck",
+      "character": "Elizabeth Stuckey"
+    },
+    {
+      "id": "nm0231942",
+      "name": "Elinor Donahue",
+      "character": "Bridget"
+    },
+    {
+      "id": "nm0001185",
+      "name": "Hector Elizondo",
+      "character": "Barney Thompson"
+    },
+    {
+      "id": "nm0049943",
+      "name": "Judith Baldwin",
+      "character": "Susan"
+    },
+    {
+      "id": "nm0709513",
+      "name": "Jason Randal",
+      "character": "Magician"
+    },
+    {
+      "id": "nm0032326",
+      "name": "Bill Applebaum",
+      "character": "Howard"
+    },
+    {
+      "id": "nm0084846",
+      "name": "Tracy Bjork",
+      "character": "Female Guest"
+    },
+    {
+      "id": "nm15267088",
+      "name": "Gary Greene",
+      "character": "Male Guest"
+    },
+    {
+      "id": "nm0303009",
+      "name": "Billy Gallo",
+      "character": "Carlos"
+    },
+    {
+      "id": "nm0252745",
+      "name": "Abdul Salaam El Razzac",
+      "character": "Happy Man"
+    },
+    {
+      "id": "nm0000279",
+      "name": "Hank Azaria",
+      "character": "Detective"
+    },
+    {
+      "id": "nm0359969",
+      "name": "Larry Hankin",
+      "character": "Landlord"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 1238,
+  "year": 1990,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNjk2ODQzNDYxNV5BMl5BanBnXkFtZTgwMTcyNDg4NjE@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.1,
+      "votes": 410253,
+      "distribution": {
+        "1": 4240,
+        "2": 2697,
+        "3": 4315,
+        "4": 9138,
+        "5": 23463,
+        "6": 62598,
+        "7": 123764,
+        "8": 92889,
+        "9": 41409,
+        "10": 45740
+      },
+      "normalized": 5.7852
+    },
+    "filmweb": {
+      "rating": 7.4,
+      "votes": 208624,
+      "distribution": {
+        "1": 420,
+        "2": 435,
+        "3": 1400,
+        "4": 3253,
+        "5": 8992,
+        "6": 27694,
+        "7": 65745,
+        "8": 65282,
+        "9": 23237,
+        "10": 12166
+      },
+      "normalized": 6.5077
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "30.05.2015",
+      "normalized": 6.4102
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "19.10.2005",
+      "normalized": 4.5781
+    },
+    "score": 5.8203
+  },
+  "polish_title": "Pretty Woman",
+  "silent": false,
+  "description_pl": "Dzieli ich wszystko, ale łączy jedno - oboje robią różne rzeczy dla pieniędzy.\nBohaterką filmu jest Vivian Ward (<a href=\"/osoba/?id=nm0000210\">Julia Roberts</a>), dziewczyna do towarzystwa, która dopiero co przyjechała do Los Angeles z prowincji. Przypadkowo spotyka bogatego i przystojnego adwokata z Wall Street, Edwarda Lewisa (<a href=\"/osoba/?id=nm0000152\">Richard Gere</a>), którego urzeka jej spontaniczność. Proponuje więc dziewczynie korzystną transakcję: za tydzień spędzony u jego boku dostanie trzy tysiące dolarów.",
+  "producers": [
+    {
+      "id": "nm0326214",
+      "name": "Gary W. Goldstein"
+    },
+    {
+      "id": "nm0586969",
+      "name": "Arnon Milchan"
+    },
+    {
+      "id": "nm0720715",
+      "name": "Steven Reuther"
+    },
+    {
+      "id": "nm0902467",
+      "name": "Walter von Huene"
+    },
+    {
+      "id": "nm0957205",
+      "name": "Laura Ziskin"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006133",
+      "name": "James Newton Howard"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0591665",
+      "name": "Charles Minsky"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

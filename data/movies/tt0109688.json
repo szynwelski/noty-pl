@@ -1,0 +1,205 @@
+{
+  "imdb_id": "tt0109688",
+  "title": "Ashes of Time",
+  "description": "A broken-hearted hit man moves to the desert where he finds skilled swordsmen to carry out his contract killings.",
+  "runtime_minutes": 100,
+  "release_date": "17.09.1994",
+  "genres": [
+    "Action",
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0510857",
+      "name": "Brigitte Lin"
+    },
+    {
+      "id": "nm0001041",
+      "name": "Maggie Cheung"
+    },
+    {
+      "id": "nm0002000",
+      "name": "Leslie Cheung"
+    },
+    {
+      "id": "nm0504897",
+      "name": "Tony Leung Chiu-wai"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0939182",
+      "name": "Wong Kar-Wai"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0149222",
+      "name": "Louis Cha"
+    },
+    {
+      "id": "nm0939182",
+      "name": "Wong Kar-Wai"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0510857",
+      "name": "Brigitte Lin",
+      "character": "Mu-rong Yin"
+    },
+    {
+      "id": "nm0001041",
+      "name": "Maggie Cheung",
+      "character": "The Woman"
+    },
+    {
+      "id": "nm0002000",
+      "name": "Leslie Cheung",
+      "character": "Ou-yang Feng"
+    },
+    {
+      "id": "nm0504897",
+      "name": "Tony Leung Chiu-wai",
+      "character": "Blind Swordsman"
+    },
+    {
+      "id": "nm0156484",
+      "name": "Jacky Cheung",
+      "character": "Hung Chi"
+    },
+    {
+      "id": "nm0504899",
+      "name": "Tony Ka Fai Leung",
+      "character": "Huang Yao-shi"
+    },
+    {
+      "id": "nm0047002",
+      "name": "Li Bai",
+      "character": "Hung Chi's Wife"
+    },
+    {
+      "id": "nm0490500",
+      "name": "Carina Lau",
+      "character": "Peach Blossom"
+    },
+    {
+      "id": "nm0947777",
+      "name": "Charlie Yeung",
+      "character": "Young Girl"
+    },
+    {
+      "id": "nm0939153",
+      "name": "Joey Wang",
+      "character": ""
+    },
+    {
+      "id": "nm0628877",
+      "name": "Collin Chou",
+      "character": "Swordsman"
+    },
+    {
+      "id": "nm0490614",
+      "name": "Shun Lau",
+      "character": "Leader of Ouyang's Opponents in Opening Battle"
+    },
+    {
+      "id": "nm7395099",
+      "name": "Li Yin",
+      "character": "Rebel swordsman"
+    }
+  ],
+  "countries": [
+    "Hong Kong",
+    "Taiwan",
+    "China",
+    "Japan"
+  ],
+  "languages": [
+    "Cantonese",
+    "Mandarin"
+  ],
+  "color": "Color",
+  "filmweb_id": 5239,
+  "year": 1994,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTc0NzMxMjI0MV5BMl5BanBnXkFtZTcwNzIwNzM5MQ@@._V1_.jpg",
+  "original_title": "Dung che sai duk",
+  "ratings": {
+    "imdb": {
+      "rating": 7,
+      "votes": 18422,
+      "distribution": {
+        "1": 309,
+        "2": 187,
+        "3": 341,
+        "4": 607,
+        "5": 1215,
+        "6": 2619,
+        "7": 4461,
+        "8": 4091,
+        "9": 2301,
+        "10": 2291
+      },
+      "normalized": 5.5242
+    },
+    "filmweb": {
+      "rating": 7.11,
+      "votes": 625,
+      "distribution": {
+        "1": 3,
+        "2": 2,
+        "3": 13,
+        "4": 22,
+        "5": 44,
+        "6": 99,
+        "7": 202,
+        "8": 124,
+        "9": 71,
+        "10": 45
+      },
+      "normalized": 5.5668
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "13.02.2013",
+      "normalized": 6.4102
+    },
+    "score": 5.8337
+  },
+  "polish_title": "Popioły czasu",
+  "silent": false,
+  "description_pl": "Ouyang Feng to mieszkaniec White Camel Mountain. Ma ambicję, aby zostać sławnym szermierzem. Po tym, jak jego starszy brat żeni się z jego ukochaną, on przenosi się na pustynie, gdzie zakłada gospodę. Zostaje agentem dla zabójców i wynajmuje młodych, ale tanich fechmistrzów, aby wykonywali brudną robotę za innych. W karczmie również spotyka swoich przyjaciół i zawiera znajomości z innymi ludźmi, z których każdy ma inną, ciekawą historię do opowiedzenia...",
+  "producers": [
+    {
+      "id": "nm0151175",
+      "name": "Ye-cheng Chan"
+    },
+    {
+      "id": "nm0939182",
+      "name": "Wong Kar-Wai"
+    },
+    {
+      "id": "nm0465036",
+      "name": "Johnnie Kong"
+    },
+    {
+      "id": "nm0311508",
+      "name": "Jeffrey Lau"
+    },
+    {
+      "id": "nm0659388",
+      "name": "Jacky Yee Wah Pang"
+    },
+    {
+      "id": "nm0795511",
+      "name": "Kei Shu"
+    },
+    {
+      "id": "nm0610784",
+      "name": "Sung-Lin Tsai"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

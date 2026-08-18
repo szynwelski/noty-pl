@@ -1,0 +1,214 @@
+{
+  "imdb_id": "tt0095647",
+  "title": "Mississippi Burning",
+  "description": "Two FBI agents with wildly different styles arrive in Mississippi to investigate the disappearance of three civil rights activists.",
+  "runtime_minutes": 128,
+  "release_date": "27.01.1989",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000432",
+      "name": "Gene Hackman"
+    },
+    {
+      "id": "nm0000353",
+      "name": "Willem Dafoe"
+    },
+    {
+      "id": "nm0000531",
+      "name": "Frances McDormand"
+    },
+    {
+      "id": "nm0000374",
+      "name": "Brad Dourif"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000570",
+      "name": "Alan Parker"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0314665",
+      "name": "Chris Gerolmo"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000432",
+      "name": "Gene Hackman",
+      "character": "Anderson"
+    },
+    {
+      "id": "nm0000353",
+      "name": "Willem Dafoe",
+      "character": "Ward"
+    },
+    {
+      "id": "nm0000531",
+      "name": "Frances McDormand",
+      "character": "Mrs. Pell"
+    },
+    {
+      "id": "nm0000374",
+      "name": "Brad Dourif",
+      "character": "Deputy Pell"
+    },
+    {
+      "id": "nm0000388",
+      "name": "R. Lee Ermey",
+      "character": "Mayor Tilman"
+    },
+    {
+      "id": "nm0765605",
+      "name": "Gailard Sartain",
+      "character": "Sheriff Stuckey"
+    },
+    {
+      "id": "nm0864997",
+      "name": "Stephen Tobolowsky",
+      "character": "Townley"
+    },
+    {
+      "id": "nm0740264",
+      "name": "Michael Rooker",
+      "character": "Frank Bailey"
+    },
+    {
+      "id": "nm0898546",
+      "name": "Pruitt Taylor Vince",
+      "character": "Lester Cowens"
+    },
+    {
+      "id": "nm0229200",
+      "name": "Badja Djola",
+      "character": "Agent Monk"
+    },
+    {
+      "id": "nm0242656",
+      "name": "Kevin Dunn",
+      "character": "Agent Bird"
+    },
+    {
+      "id": "nm0265670",
+      "name": "Frankie Faison",
+      "character": "Eulogist"
+    },
+    {
+      "id": "nm0556977",
+      "name": "Thomas B. Mason",
+      "character": "Judge"
+    },
+    {
+      "id": "nm0622535",
+      "name": "Geoffrey Nauffts",
+      "character": "Goatee"
+    },
+    {
+      "id": "nm0956053",
+      "name": "Rick Zieff",
+      "character": "Passenger"
+    },
+    {
+      "id": "nm0924617",
+      "name": "Christopher White",
+      "character": "Black Passenger"
+    },
+    {
+      "id": "nm0339443",
+      "name": "Gladys Greer",
+      "character": "Hattie"
+    },
+    {
+      "id": "nm0320566",
+      "name": "Jake Gipson",
+      "character": "Mose"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 1267,
+  "year": 1988,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZDgwNTljYmMtYmQyNi00MmEwLTk0NzMtZDJmZDIzZmQ4MzQ2XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.8,
+      "votes": 128364,
+      "distribution": {
+        "1": 763,
+        "2": 202,
+        "3": 336,
+        "4": 720,
+        "5": 2187,
+        "6": 7501,
+        "7": 29688,
+        "8": 52914,
+        "9": 21910,
+        "10": 12143
+      },
+      "normalized": 6.992
+    },
+    "filmweb": {
+      "rating": 7.71,
+      "votes": 26869,
+      "distribution": {
+        "1": 34,
+        "2": 25,
+        "3": 61,
+        "4": 130,
+        "5": 395,
+        "6": 1771,
+        "7": 7623,
+        "8": 12157,
+        "9": 3624,
+        "10": 1049
+      },
+      "normalized": 7.3401
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "30.10.2022",
+      "normalized": 7.2292
+    },
+    "score": 7.1871
+  },
+  "polish_title": "Missisipi w ogniu",
+  "silent": false,
+  "description_pl": "Dwóch agentów FBI prowadzi trudne śledztwo w sprawie tajemniczego i brutalnego morderstwa działaczy praw człowieka w małym miasteczku, w którym panuje ostra segregacja rasowa. Zmowa milczenia zdająca się obejmować wszystkich mieszkańców utrudnia agentom rządowym wyjaśnienie sprawy.",
+  "producers": [
+    {
+      "id": "nm0171348",
+      "name": "Robert F. Colesberry"
+    },
+    {
+      "id": "nm0957712",
+      "name": "Frederick Zollo"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0002303",
+      "name": "Trevor Jones"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0084695",
+      "name": "Peter Biziou"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

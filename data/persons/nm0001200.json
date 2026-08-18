@@ -1,0 +1,48 @@
+{
+  "id": "nm0001200",
+  "name": "Gary Farmer",
+  "filmography": [
+    {
+      "imdb_id": "tt0112817",
+      "title": "Dead Man",
+      "year": 1995,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Nobody"
+    },
+    {
+      "imdb_id": "tt0227445",
+      "title": "The Score",
+      "year": 2001,
+      "roles": [
+        "cast"
+      ],
+      "character": "Burt"
+    },
+    {
+      "imdb_id": "tt0268126",
+      "title": "Adaptation.",
+      "year": 2002,
+      "roles": [
+        "cast"
+      ],
+      "character": "Buster Baxley"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYmJlMjk0ODEtYmRjNi00ZjA1LWE5N2UtNmQzOThhMGYxZjM5XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "12.06.1953",
+  "birth_location": "Ohsweken, Ontario, Canada",
+  "height": "1.89 m",
+  "filmweb_id": 6246,
+  "name_pl": "Gary Farmer",
+  "birth_location_pl": "Oshwekan",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Kanada"
+  ],
+  "wikidata_fw_id": 6246
+}

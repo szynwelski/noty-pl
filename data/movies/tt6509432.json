@@ -1,0 +1,149 @@
+{
+  "imdb_id": "tt6509432",
+  "title": "The Departure",
+  "description": "A Buddhist monk asks what we owe one another and provides experiences to help us find answers.",
+  "runtime_minutes": 87,
+  "release_date": "13.10.2017",
+  "genres": [
+    "Documentary"
+  ],
+  "directors": [
+    {
+      "id": "nm5300836",
+      "name": "Lana Wilson"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm2090073",
+      "name": "David Teague"
+    },
+    {
+      "id": "nm5300836",
+      "name": "Lana Wilson"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "Japanese"
+  ],
+  "color": "Color",
+  "filmweb_id": 793573,
+  "year": 2017,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDc1ODI1ZjUtMjg1Yy00NTA3LWIxYmMtNTU2NDE1OTU2NmUyXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.1,
+      "votes": 291,
+      "distribution": {
+        "1": 16,
+        "2": 5,
+        "3": 2,
+        "4": 5,
+        "5": 15,
+        "6": 51,
+        "7": 79,
+        "8": 54,
+        "9": 23,
+        "10": 41
+      },
+      "normalized": 5.4575
+    },
+    "filmweb": {
+      "rating": 6.81,
+      "votes": 52,
+      "distribution": {
+        "2": 0,
+        "3": 0,
+        "4": 4,
+        "5": 5,
+        "6": 11,
+        "7": 17,
+        "8": 8,
+        "9": 6,
+        "10": 1
+      },
+      "normalized": 5.2195
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "17.10.2017",
+      "normalized": 6.4102
+    },
+    "score": 5.6957
+  },
+  "polish_title": "Odejście",
+  "silent": false,
+  "description_pl": "Ittetsu Nemoto kiedyś był muzykiem punkowym. Dziś to mnich buddyjski, który w rodzinnej Japonii pomaga niedoszłym samobójcom odnaleźć powody, dla których warto żyć. Samobójstwa w jego kraju to poważny problem. Ponieważ jednak nie stawia wyraźnej granicy między pracą a życiem prywatnym, zaczyna mieć to wpływ na jego własne zdrowie i rodzinę. Dokument przygląda się mnichowi w momencie, w którym musi sam odpowiedzieć na pytanie, które zadaje swoim pacjentom - co tak naprawdę sprawia, że warto żyć?",
+  "producers": [
+    {
+      "id": "nm8845040",
+      "name": "Nao Abe"
+    },
+    {
+      "id": "nm2278572",
+      "name": "Lilly Hartley"
+    },
+    {
+      "id": "nm2653426",
+      "name": "Michael Kinomoto"
+    },
+    {
+      "id": "nm0503631",
+      "name": "Mike Lerner"
+    },
+    {
+      "id": "nm7009207",
+      "name": "Diane Max"
+    },
+    {
+      "id": "nm8845041",
+      "name": "Mai Morikawa"
+    },
+    {
+      "id": "nm8845042",
+      "name": "Ariya Sasaki"
+    },
+    {
+      "id": "nm3172673",
+      "name": "Regina K. Scully"
+    },
+    {
+      "id": "nm7009209",
+      "name": "Claire Silberman"
+    },
+    {
+      "id": "nm4696063",
+      "name": "Jeffrey Tarrant"
+    },
+    {
+      "id": "nm6448391",
+      "name": "Laura Vigilante"
+    },
+    {
+      "id": "nm5300836",
+      "name": "Lana Wilson"
+    },
+    {
+      "id": "nm1153389",
+      "name": "Eri Yokoyama"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm3608107",
+      "name": "Nathan Michel"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm1901728",
+      "name": "Emily Topper"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

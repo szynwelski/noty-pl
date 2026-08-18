@@ -1,0 +1,226 @@
+{
+  "imdb_id": "tt0073802",
+  "title": "Three Days of the Condor",
+  "description": "A bookish CIA researcher in Manhattan finds all his co-workers dead, and must outwit those responsible until he figures out who he can really trust.",
+  "runtime_minutes": 117,
+  "release_date": "25.09.1975",
+  "genres": [
+    "Crime",
+    "Mystery",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000602",
+      "name": "Robert Redford"
+    },
+    {
+      "id": "nm0001159",
+      "name": "Faye Dunaway"
+    },
+    {
+      "id": "nm0731772",
+      "name": "Cliff Robertson"
+    },
+    {
+      "id": "nm0001884",
+      "name": "Max von Sydow"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001628",
+      "name": "Sydney Pollack"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0333599",
+      "name": "James Grady"
+    },
+    {
+      "id": "nm0783913",
+      "name": "Lorenzo Semple Jr."
+    },
+    {
+      "id": "nm0713128",
+      "name": "David Rayfiel"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000602",
+      "name": "Robert Redford",
+      "character": "Turner"
+    },
+    {
+      "id": "nm0001159",
+      "name": "Faye Dunaway",
+      "character": "Kathy"
+    },
+    {
+      "id": "nm0731772",
+      "name": "Cliff Robertson",
+      "character": "Higgins"
+    },
+    {
+      "id": "nm0001884",
+      "name": "Max von Sydow",
+      "character": "Joubert"
+    },
+    {
+      "id": "nm0002144",
+      "name": "John Houseman",
+      "character": "Mr. Wabash"
+    },
+    {
+      "id": "nm0693994",
+      "name": "Addison Powell",
+      "character": "Atwood"
+    },
+    {
+      "id": "nm0569350",
+      "name": "Walter McGinn",
+      "character": "Barber"
+    },
+    {
+      "id": "nm0155395",
+      "name": "Tina Chen",
+      "character": "Janice"
+    },
+    {
+      "id": "nm0437395",
+      "name": "Michael Kane",
+      "character": "Wicks"
+    },
+    {
+      "id": "nm0570407",
+      "name": "Don McHenry",
+      "character": "Dr. Lappe"
+    },
+    {
+      "id": "nm0588969",
+      "name": "Michael Miller",
+      "character": "Fowler"
+    },
+    {
+      "id": "nm0652600",
+      "name": "Jess Osuna",
+      "character": "The Major"
+    },
+    {
+      "id": "nm0621468",
+      "name": "Dino Narizzano",
+      "character": "Harold"
+    },
+    {
+      "id": "nm0826523",
+      "name": "Helen Stenborg",
+      "character": "Mrs. Russell"
+    },
+    {
+      "id": "nm0331112",
+      "name": "Patrick Gorman",
+      "character": "Martin"
+    },
+    {
+      "id": "nm0746525",
+      "name": "Hansford Rowe",
+      "character": "Jennings"
+    },
+    {
+      "id": "nm0323344",
+      "name": "Carlin Glynn",
+      "character": "Mae Barber"
+    },
+    {
+      "id": "nm0308056",
+      "name": "Hank Garrett",
+      "character": "Mailman"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "color": null,
+  "filmweb_id": 11226,
+  "year": 1975,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYjQ1NjlkZTMtNTkyZS00YmY3LWJmMzctMTgxNmE4NTFkNDViXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.4,
+      "votes": 69786,
+      "distribution": {
+        "1": 373,
+        "2": 169,
+        "3": 390,
+        "4": 781,
+        "5": 2319,
+        "6": 7999,
+        "7": 21933,
+        "8": 22394,
+        "9": 8094,
+        "10": 5334
+      },
+      "normalized": 6.2382
+    },
+    "filmweb": {
+      "rating": 7.45,
+      "votes": 20537,
+      "distribution": {
+        "1": 33,
+        "2": 19,
+        "3": 85,
+        "4": 186,
+        "5": 675,
+        "6": 2315,
+        "7": 6707,
+        "8": 7606,
+        "9": 2167,
+        "10": 744
+      },
+      "normalized": 6.5832
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "08.02.2010",
+      "normalized": 5.4199
+    },
+    "score": 6.0804
+  },
+  "polish_title": "Trzy dni Kondora",
+  "silent": false,
+  "description_pl": "Po powrocie do biura, Joe Turner (<a href=\"/osoba/?id=nm0000602\">Robert Redford</a>), dokumentalista pracujący w jednej z agencji CIA, znajduje ciała zamordowanych kolegów. Gdy zawiadamia centralę o tragedii, nie zdaje sobie sprawy, że teraz jemu grozi śmiertelne niebezpieczeństwo, bowiem przybyły na spotkanie szef sekcji próbuje się go pozbyć. Uciekając przed napastnikiem, Joe terroryzuje młodą kobietę, Kathy (<a href=\"/osoba/?id=nm0001159\">Faye Dunaway</a>), którą zmusza do udzielenia mu schronienia. Ich tropem podąża płatny zabójca.",
+  "producers": [
+    {
+      "id": "nm0774029",
+      "name": "Stanley Schneider"
+    },
+    {
+      "id": "nm0209569",
+      "name": "Dino De Laurentiis"
+    },
+    {
+      "id": "nm0001628",
+      "name": "Sydney Pollack"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006115",
+      "name": "Dave Grusin"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005845",
+      "name": "Owen Roizman"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

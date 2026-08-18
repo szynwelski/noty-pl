@@ -1,0 +1,281 @@
+{
+  "imdb_id": "tt1856101",
+  "title": "Blade Runner 2049",
+  "description": "Young Blade Runner K's discovery of a long-buried secret leads him to track down former Blade Runner Rick Deckard, who's been missing for thirty years.",
+  "runtime_minutes": 164,
+  "release_date": "06.10.2017",
+  "genres": [
+    "Action",
+    "Drama",
+    "Mystery",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000148",
+      "name": "Harrison Ford"
+    },
+    {
+      "id": "nm0331516",
+      "name": "Ryan Gosling"
+    },
+    {
+      "id": "nm1869101",
+      "name": "Ana de Armas"
+    },
+    {
+      "id": "nm1176985",
+      "name": "Dave Bautista"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0898288",
+      "name": "Denis Villeneuve"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0266684",
+      "name": "Hampton Fancher"
+    },
+    {
+      "id": "nm0338169",
+      "name": "Michael Green"
+    },
+    {
+      "id": "nm0001140",
+      "name": "Philip K. Dick"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000148",
+      "name": "Harrison Ford",
+      "character": "Rick Deckard"
+    },
+    {
+      "id": "nm0331516",
+      "name": "Ryan Gosling",
+      "character": "'K'"
+    },
+    {
+      "id": "nm1869101",
+      "name": "Ana de Armas",
+      "character": "Joi"
+    },
+    {
+      "id": "nm1176985",
+      "name": "Dave Bautista",
+      "character": "Sapper Morton"
+    },
+    {
+      "id": "nm0000705",
+      "name": "Robin Wright",
+      "character": "Lieutenant Joshi"
+    },
+    {
+      "id": "nm0036553",
+      "name": "Mark Arnold",
+      "character": "Interviewer"
+    },
+    {
+      "id": "nm1315976",
+      "name": "Vilma Szécsi",
+      "character": "Angry Old Lady"
+    },
+    {
+      "id": "nm0365445",
+      "name": "Wood Harris",
+      "character": "Nandez"
+    },
+    {
+      "id": "nm2810287",
+      "name": "David Dastmalchian",
+      "character": "Coco"
+    },
+    {
+      "id": "nm1319365",
+      "name": "Tómas Lemarquis",
+      "character": "File Clerk"
+    },
+    {
+      "id": "nm1679778",
+      "name": "Sylvia Hoeks",
+      "character": "Luv"
+    },
+    {
+      "id": "nm0001579",
+      "name": "Edward James Olmos",
+      "character": "Gaff"
+    },
+    {
+      "id": "nm0001467",
+      "name": "Jared Leto",
+      "character": "Niander Wallace"
+    },
+    {
+      "id": "nm1760156",
+      "name": "Sallie Harmsen",
+      "character": "Female Replicant"
+    },
+    {
+      "id": "nm0007814",
+      "name": "Hiam Abbass",
+      "character": "Freysa"
+    },
+    {
+      "id": "nm4496875",
+      "name": "Mackenzie Davis",
+      "character": "Mariette"
+    },
+    {
+      "id": "nm1279980",
+      "name": "Krista Kosonen",
+      "character": "Doxie #2"
+    },
+    {
+      "id": "nm2917590",
+      "name": "Elarica Johnson",
+      "character": "Doxie #3"
+    }
+  ],
+  "countries": [
+    "United States",
+    "Canada",
+    "Spain"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 630798,
+  "year": 2017,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8,
+      "votes": 764521,
+      "distribution": {
+        "1": 9056,
+        "2": 5004,
+        "3": 6693,
+        "4": 10511,
+        "5": 22286,
+        "6": 53445,
+        "7": 128587,
+        "8": 221758,
+        "9": 174581,
+        "10": 132600
+      },
+      "normalized": 7.5503
+    },
+    "filmweb": {
+      "rating": 7.54,
+      "votes": 208182,
+      "distribution": {
+        "1": 1454,
+        "2": 1045,
+        "3": 3071,
+        "4": 3863,
+        "5": 10383,
+        "6": 21117,
+        "7": 47735,
+        "8": 64057,
+        "9": 37960,
+        "10": 17497
+      },
+      "normalized": 6.8625
+    },
+    "jarek": {
+      "rating": 8,
+      "date_rated": "12.11.2017",
+      "normalized": 7.8989
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "11.11.2017",
+      "normalized": 7.2292
+    },
+    "score": 7.3852
+  },
+  "polish_title": "Blade Runner 2049",
+  "silent": false,
+  "description_pl": "Minęło 30 lat od wydarzeń przedstawionych w filmie \"<a href=\"/film/?id=tt0083658\">Łowca androidów</a>\" <a href=\"/osoba/?id=nm0000631\">Ridleya Scotta</a>. Wtedy w 2019 roku agent Rick Deckard (<a href=\"/osoba/?id=nm0000148\">Harrison Ford</a>) ścigał w Los Angeles zbuntowane androidy z serii Nexus 6. Teraz w 2049 roku do akcji wkracza nowy Blade Runner, czyli łowca - oficer K (<a href=\"/osoba/?id=nm0331516\">Ryan Gosling</a>). Niespodziewanie funkcjonariusz odkrywa spisek, który może zniszczyć pozostałości dawnego porządku i społeczeństwa. Żeby uratować i tak już zrujnowany świat, K musi poprosić o pomoc Deckarda. Problem w tym, że Rick ukrywa się od czasu, gdy w 2019 roku uciekł z Los Angeles...",
+  "producers": [
+    {
+      "id": "nm7199051",
+      "name": "Yale Badik"
+    },
+    {
+      "id": "nm0067624",
+      "name": "Dana Belcastro"
+    },
+    {
+      "id": "nm0140011",
+      "name": "Bill Carraro"
+    },
+    {
+      "id": "nm0303817",
+      "name": "Tim Gamble"
+    },
+    {
+      "id": "nm0321423",
+      "name": "Frank Giustra"
+    },
+    {
+      "id": "nm2106119",
+      "name": "Asa Greenberg"
+    },
+    {
+      "id": "nm6579174",
+      "name": "Val Hill"
+    },
+    {
+      "id": "nm0424663",
+      "name": "Broderick Johnson"
+    },
+    {
+      "id": "nm0467255",
+      "name": "Andrew A. Kosove"
+    },
+    {
+      "id": "nm0569451",
+      "name": "Ian McGloin"
+    },
+    {
+      "id": "nm3038102",
+      "name": "Carl Rogers"
+    },
+    {
+      "id": "nm0000631",
+      "name": "Ridley Scott"
+    },
+    {
+      "id": "nm0816976",
+      "name": "Donald Sparks"
+    },
+    {
+      "id": "nm1176853",
+      "name": "Steven P. Wegner"
+    },
+    {
+      "id": "nm0005570",
+      "name": "Bud Yorkin"
+    },
+    {
+      "id": "nm0005427",
+      "name": "Cynthia Sikes Yorkin"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005683",
+      "name": "Roger Deakins"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

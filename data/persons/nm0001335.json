@@ -1,0 +1,39 @@
+{
+  "id": "nm0001335",
+  "name": "Tippi Hedren",
+  "filmography": [
+    {
+      "imdb_id": "tt0056869",
+      "title": "The Birds",
+      "year": 1963,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Melanie Daniels"
+    },
+    {
+      "imdb_id": "tt0061523",
+      "title": "A Countess from Hong Kong",
+      "year": 1967,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Martha"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNjAwNjIzMTk3NV5BMl5BanBnXkFtZTYwOTM0NTk3._V1_.jpg",
+  "birth_date": "19.01.1930",
+  "birth_location": "New Ulm, Minnesota, USA",
+  "height": "1.63 m",
+  "imdb_scraped": true,
+  "filmweb_id": 9501,
+  "name_pl": "Tippi Hedren",
+  "birth_location_pl": "New Ulm, Minnesota",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

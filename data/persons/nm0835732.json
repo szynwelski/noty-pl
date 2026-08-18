@@ -1,0 +1,50 @@
+{
+  "id": "nm0835732",
+  "name": "Jeb Stuart",
+  "filmography": [
+    {
+      "imdb_id": "tt0095016",
+      "title": "Die Hard",
+      "year": 1988,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0097770",
+      "title": "Lock Up",
+      "year": 1989,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0106977",
+      "title": "The Fugitive",
+      "year": 1993,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt11311302",
+      "title": "Vikings: Valhalla",
+      "year": 2022,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTE4MDEzMmItZTAxMi00ZmFlLTliZmYtZGY5ODFkODA0ZDg2XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "21.01.1956",
+  "birth_location": "Little Rock, Arkansas, USA",
+  "filmweb_id": 11039,
+  "name_pl": "Jeb Stuart",
+  "birth_location_pl": "Little Rock, Arkansas",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "nm0001725",
+  "name": "Omar Sharif",
+  "filmography": [
+    {
+      "imdb_id": "tt0056172",
+      "title": "Lawrence of Arabia",
+      "year": 1962,
+      "roles": [
+        "cast"
+      ],
+      "character": "Sherif Ali"
+    },
+    {
+      "imdb_id": "tt0059113",
+      "title": "Doctor Zhivago",
+      "year": 1965,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Yuri"
+    },
+    {
+      "imdb_id": "tt0120657",
+      "title": "The 13th Warrior",
+      "year": 1999,
+      "roles": [
+        "cast"
+      ],
+      "character": "Melchisidek"
+    },
+    {
+      "imdb_id": "tt0443649",
+      "title": "10,000 BC",
+      "year": 2008,
+      "roles": [
+        "cast"
+      ],
+      "character": "Narrator"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTU0ODg3MjM0OF5BMl5BanBnXkFtZTYwNTM2MDU0._V1_.jpg",
+  "birth_date": "10.04.1932",
+  "death_date": "10.07.2015",
+  "birth_location": "Alexandria, Egypt",
+  "height": "1.80 m",
+  "filmweb_id": 6897,
+  "name_pl": "Omar Sharif",
+  "birth_location_pl": "Aleksandria",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Egipt"
+  ]
+}

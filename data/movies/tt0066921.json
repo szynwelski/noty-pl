@@ -1,0 +1,230 @@
+{
+  "imdb_id": "tt0066921",
+  "title": "A Clockwork Orange",
+  "description": "Alex DeLarge and his droogs barbarize a decaying near-future.",
+  "runtime_minutes": 136,
+  "release_date": "02.02.1972",
+  "genres": [
+    "Crime",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm0000532",
+      "name": "Malcolm McDowell"
+    },
+    {
+      "id": "nm0535861",
+      "name": "Patrick Magee"
+    },
+    {
+      "id": "nm0060988",
+      "name": "Michael Bates"
+    },
+    {
+      "id": "nm0165049",
+      "name": "Warren Clarke"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000040",
+      "name": "Stanley Kubrick"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000040",
+      "name": "Stanley Kubrick"
+    },
+    {
+      "id": "nm0121256",
+      "name": "Anthony Burgess"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000532",
+      "name": "Malcolm McDowell",
+      "character": "Alex"
+    },
+    {
+      "id": "nm0535861",
+      "name": "Patrick Magee",
+      "character": "Mr Alexander"
+    },
+    {
+      "id": "nm0060988",
+      "name": "Michael Bates",
+      "character": "Chief Guard"
+    },
+    {
+      "id": "nm0165049",
+      "name": "Warren Clarke",
+      "character": "Dim"
+    },
+    {
+      "id": "nm0166979",
+      "name": "John Clive",
+      "character": "Stage Actor"
+    },
+    {
+      "id": "nm0180920",
+      "name": "Adrienne Corri",
+      "character": "Mrs. Alexander"
+    },
+    {
+      "id": "nm0240268",
+      "name": "Carl Duering",
+      "character": "Dr. Brodsky"
+    },
+    {
+      "id": "nm0268306",
+      "name": "Paul Farrell",
+      "character": "Tramp"
+    },
+    {
+      "id": "nm0290117",
+      "name": "Clive Francis",
+      "character": "Lodger"
+    },
+    {
+      "id": "nm0332842",
+      "name": "Michael Gover",
+      "character": "Prison Governor"
+    },
+    {
+      "id": "nm0439507",
+      "name": "Miriam Karlin",
+      "character": "Catlady"
+    },
+    {
+      "id": "nm0546118",
+      "name": "James Marcus",
+      "character": "Georgie"
+    },
+    {
+      "id": "nm0606368",
+      "name": "Aubrey Morris",
+      "character": "Deltoid"
+    },
+    {
+      "id": "nm0703501",
+      "name": "Godfrey Quigley",
+      "character": "Prison Chaplain"
+    },
+    {
+      "id": "nm0713520",
+      "name": "Sheila Raynor",
+      "character": "Mum"
+    },
+    {
+      "id": "nm0752686",
+      "name": "Madge Ryan",
+      "character": "Dr. Branom"
+    },
+    {
+      "id": "nm0767644",
+      "name": "John Savident",
+      "character": "Conspirator"
+    },
+    {
+      "id": "nm0789001",
+      "name": "Anthony Sharp",
+      "character": "Minister"
+    }
+  ],
+  "countries": [
+    "United Kingdom",
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 1275,
+  "year": 1971,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8.2,
+      "votes": 942235,
+      "distribution": {
+        "1": 15778,
+        "2": 6981,
+        "3": 8802,
+        "4": 13190,
+        "5": 24448,
+        "6": 51876,
+        "7": 128331,
+        "8": 237636,
+        "9": 232701,
+        "10": 222492
+      },
+      "normalized": 8.1554
+    },
+    "filmweb": {
+      "rating": 7.9,
+      "votes": 225015,
+      "distribution": {
+        "1": 2602,
+        "2": 1308,
+        "3": 3007,
+        "4": 3714,
+        "5": 8057,
+        "6": 14870,
+        "7": 36911,
+        "8": 66199,
+        "9": 51558,
+        "10": 36789
+      },
+      "normalized": 8.1048
+    },
+    "jarek": {
+      "rating": 8,
+      "date_rated": "02.12.2005",
+      "normalized": 7.8989
+    },
+    "michal": {
+      "rating": 9,
+      "date_rated": "19.10.2005",
+      "normalized": 8.9779
+    },
+    "score": 8.2843
+  },
+  "polish_title": "Mechaniczna pomarańcza",
+  "silent": false,
+  "description_pl": "Niedaleka przyszłość. Historia grupy młodych chuliganów, którym przewodzi okrutny, zdemoralizowany i pozbawiony skrupułów miłośnik Beethovena, Alex (<a href=\"/osoba/?id=nm0000532\">Malcolm McDowell</a>). Skazany za brutalne zabójstwo, trafia na 14 lat do więzienia. Tam otrzymuje propozycję - poddanie się nowatorskiej terapii psychologicznej w zamian za wolność. Owa terapia polega na zmuszaniu pacjenta do oglądania krwawych i okrutnych scen przemocy. Po takim praniu mózgu Alex zmienia się w porządnego obywatela.",
+  "producers": [
+    {
+      "id": "nm0000040",
+      "name": "Stanley Kubrick"
+    },
+    {
+      "id": "nm0514843",
+      "name": "Si Litvinoff"
+    },
+    {
+      "id": "nm0704629",
+      "name": "Max L. Raab"
+    },
+    {
+      "id": "nm0930089",
+      "name": "Bernard Williams"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0137793",
+      "name": "Wendy Carlos"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005633",
+      "name": "John Alcott"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

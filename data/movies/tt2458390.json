@@ -1,0 +1,220 @@
+{
+  "imdb_id": "tt2458390",
+  "title": "Penny Dreadful",
+  "description": "A novice crook gets involved in a ransom plot, but winds up kidnapping the wrong girl.",
+  "runtime_minutes": 18,
+  "release_date": "2013",
+  "genres": [
+    "Short",
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm4802218",
+      "name": "Oona Laurence"
+    },
+    {
+      "id": "nm0828353",
+      "name": "David H. Stevens"
+    },
+    {
+      "id": "nm2556731",
+      "name": "Marnie Schulenburg"
+    },
+    {
+      "id": "nm1344221",
+      "name": "Rick Zahn"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm2107414",
+      "name": "Shane Atkinson"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm2107414",
+      "name": "Shane Atkinson"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm4802218",
+      "name": "Oona Laurence",
+      "character": "Little Girl"
+    },
+    {
+      "id": "nm0828353",
+      "name": "David H. Stevens",
+      "character": "Dennis"
+    },
+    {
+      "id": "nm2556731",
+      "name": "Marnie Schulenburg",
+      "character": "Holly"
+    },
+    {
+      "id": "nm1344221",
+      "name": "Rick Zahn",
+      "character": "Hyrum"
+    },
+    {
+      "id": "nm2716554",
+      "name": "Richard Busser",
+      "character": "Randy"
+    },
+    {
+      "id": "nm0079257",
+      "name": "Gary Betsworth",
+      "character": "Mr. Andersen"
+    },
+    {
+      "id": "nm5348182",
+      "name": "Kayla Baggerly",
+      "character": "Student"
+    },
+    {
+      "id": "nm5348665",
+      "name": "Lyron Baggerly",
+      "character": "Parent"
+    },
+    {
+      "id": "nm5348445",
+      "name": "Anna-Marie Bass",
+      "character": "Parent"
+    },
+    {
+      "id": "nm5348222",
+      "name": "Yvonne Bass",
+      "character": "Student"
+    },
+    {
+      "id": "nm5347995",
+      "name": "Marli Gibbs",
+      "character": "Student"
+    },
+    {
+      "id": "nm5348399",
+      "name": "Sheryl Gibbs",
+      "character": "Parent"
+    },
+    {
+      "id": "nm0321580",
+      "name": "Robert Gladding",
+      "character": "Parent"
+    },
+    {
+      "id": "nm5348454",
+      "name": "Bronte Healey",
+      "character": "Student"
+    },
+    {
+      "id": "nm1131150",
+      "name": "Jennifer Healey",
+      "character": "Parent"
+    },
+    {
+      "id": "nm5347938",
+      "name": "Talmage Healey",
+      "character": "Student"
+    },
+    {
+      "id": "nm5348817",
+      "name": "Kaitlin Lefler",
+      "character": "Student"
+    },
+    {
+      "id": "nm5348660",
+      "name": "Kim Lefler",
+      "character": "Parent"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 683494,
+  "year": 2013,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQzOTQ3Mjg4MV5BMl5BanBnXkFtZTgwMjcxOTk0MDE@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.5,
+      "votes": 271,
+      "distribution": {
+        "1": 10,
+        "2": 2,
+        "3": 2,
+        "4": 5,
+        "5": 13,
+        "6": 32,
+        "7": 63,
+        "8": 77,
+        "9": 29,
+        "10": 38
+      },
+      "normalized": 5.5834
+    },
+    "filmweb": {
+      "rating": 7.62,
+      "votes": 94,
+      "distribution": {
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 2,
+        "6": 13,
+        "7": 28,
+        "8": 32,
+        "9": 14,
+        "10": 5
+      },
+      "normalized": 5.4763
+    },
+    "jarek": {
+      "rating": 3,
+      "date_rated": "01.10.2017",
+      "normalized": 4.2591
+    },
+    "score": 5.1063
+  },
+  "polish_title": "Straszna Penny",
+  "silent": false,
+  "producers": [
+    {
+      "id": "nm2331308",
+      "name": "David Bisson"
+    },
+    {
+      "id": "nm4055424",
+      "name": "Jessica Caldwell"
+    },
+    {
+      "id": "nm3924629",
+      "name": "Rob Cristiano"
+    },
+    {
+      "id": "nm2220174",
+      "name": "Tommy Woodard"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm1311785",
+      "name": "Lev Zhurbin"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm1342082",
+      "name": "Bianca Cline"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

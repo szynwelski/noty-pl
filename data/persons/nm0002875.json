@@ -1,0 +1,35 @@
+{
+  "id": "nm0002875",
+  "name": "Freddie Young",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYzVhNzgyMDQtOGZlZC00ZDE4LWEwMDAtNjJmNzUzNzhmZTE5XkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0056172",
+      "title": "Lawrence of Arabia",
+      "year": 1962,
+      "roles": [
+        "cinematographer"
+      ]
+    },
+    {
+      "imdb_id": "tt0059113",
+      "title": "Doctor Zhivago",
+      "year": 1965,
+      "roles": [
+        "cinematographer"
+      ]
+    }
+  ],
+  "birth_date": "09.10.1902",
+  "death_date": "01.12.1998",
+  "birth_location": "London, England, UK",
+  "imdb_scraped": true,
+  "filmweb_id": 12057,
+  "name_pl": "Freddie Young",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ]
+}

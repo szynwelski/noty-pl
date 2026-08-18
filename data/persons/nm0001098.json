@@ -1,0 +1,30 @@
+{
+  "id": "nm0001098",
+  "name": "Rodney Dangerfield",
+  "filmography": [
+    {
+      "imdb_id": "tt0110632",
+      "title": "Natural Born Killers",
+      "year": 1994,
+      "roles": [
+        "cast"
+      ],
+      "character": "Mallory's Dad"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTUzMjkxMTY5MF5BMl5BanBnXkFtZTYwODg1NDgz._V1_.jpg",
+  "birth_date": "22.11.1921",
+  "death_date": "05.10.2004",
+  "birth_location": "Deer Park, Long Island, New York, USA",
+  "height": "1.79 m",
+  "imdb_scraped": true,
+  "filmweb_id": 5284,
+  "name_pl": "Rodney Dangerfield",
+  "birth_location_pl": "Deer Park, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 5284
+}

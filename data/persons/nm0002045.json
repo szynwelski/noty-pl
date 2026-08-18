@@ -1,0 +1,40 @@
+{
+  "id": "nm0002045",
+  "name": "Stanley Donen",
+  "filmography": [
+    {
+      "imdb_id": "tt0045152",
+      "title": "Singin' in the Rain",
+      "year": 1952,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0056923",
+      "title": "Charade",
+      "year": 1963,
+      "roles": [
+        "director",
+        "cast",
+        "producer"
+      ],
+      "character": "Man in Elevator"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZWNmNGI5NGUtNjc1Ny00MzNhLTg2ZmItMTZmYTExN2IyNTkwXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "13.04.1924",
+  "death_date": "21.02.2019",
+  "birth_location": "Columbia, South Carolina, USA",
+  "height": "1.73 m",
+  "imdb_scraped": true,
+  "filmweb_id": 42991,
+  "name_pl": "Stanley Donen",
+  "birth_location_pl": "Columbia, Karolina Południowa",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 42991
+}

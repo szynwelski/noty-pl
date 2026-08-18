@@ -1,0 +1,34 @@
+{
+  "id": "nm0418123",
+  "name": "Robert Janson",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjU0YTdkNmYtNGNjOC00MzU4LWI2OTYtOTM4YmRhMDVlYmIzXkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0113835",
+      "title": "Mlode wilki",
+      "year": 1995,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt0117198",
+      "title": "Nocne graffiti",
+      "year": 1997,
+      "roles": [
+        "composer"
+      ]
+    }
+  ],
+  "birth_date": "07.06.1965",
+  "birth_location": "Czeladz, Slaskie, Poland",
+  "imdb_scraped": true,
+  "filmweb_id": 10753,
+  "name_pl": "Robert Janson",
+  "birth_location_pl": "Czeladż",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Polska"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "nm0005076",
+  "name": "Jeffrey Katzenberg",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTU1OTE1Nzg3MV5BMl5BanBnXkFtZTYwMjk0OTc0._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0110357",
+      "title": "The Lion King",
+      "year": 1994,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0120630",
+      "title": "Chicken Run",
+      "year": 2000,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0126029",
+      "title": "Shrek",
+      "year": 2001,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0298148",
+      "title": "Shrek 2",
+      "year": 2004,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0425123",
+      "title": "Just Like Heaven",
+      "year": 2005,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "birth_date": "21.12.1950",
+  "birth_location": "New York City, New York, USA",
+  "height": "1.65 m",
+  "filmweb_id": 12341,
+  "name_pl": "Jeffrey Katzenberg",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

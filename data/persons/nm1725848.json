@@ -1,0 +1,47 @@
+{
+  "id": "nm1725848",
+  "name": "Joe Anderson",
+  "filmography": [
+    {
+      "imdb_id": "tt0424908",
+      "title": "Copying Beethoven",
+      "year": 2006,
+      "roles": [
+        "cast"
+      ],
+      "character": "Karl van Beethoven"
+    },
+    {
+      "imdb_id": "tt0421082",
+      "title": "Control",
+      "year": 2007,
+      "roles": [
+        "cast"
+      ],
+      "character": "Peter Hook aka Hooky"
+    },
+    {
+      "imdb_id": "tt1601913",
+      "title": "The Grey",
+      "year": 2011,
+      "roles": [
+        "cast"
+      ],
+      "character": "Flannery"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNjM2NTkyNjUzOV5BMl5BanBnXkFtZTcwNDg5Njk3OQ@@._V1_.jpg",
+  "birth_date": "26.03.1982",
+  "birth_location": "England, UK",
+  "height": "1.81 m",
+  "filmweb_id": 310061,
+  "name_pl": "Joe Anderson",
+  "birth_location_pl": "Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 310061
+}

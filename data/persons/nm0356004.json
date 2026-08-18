@@ -1,0 +1,47 @@
+{
+  "id": "nm0356004",
+  "name": "Porter Hall",
+  "filmography": [
+    {
+      "imdb_id": "tt0031679",
+      "title": "Mr. Smith Goes to Washington",
+      "year": 1939,
+      "roles": [
+        "cast"
+      ],
+      "character": "Senator Monroe"
+    },
+    {
+      "imdb_id": "tt0032599",
+      "title": "His Girl Friday",
+      "year": 1940,
+      "roles": [
+        "cast"
+      ],
+      "character": "Murphy"
+    },
+    {
+      "imdb_id": "tt0036775",
+      "title": "Double Indemnity",
+      "year": 1944,
+      "roles": [
+        "cast"
+      ],
+      "character": "Mr. Jackson"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzUzMTVmMjctNjE0OC00MGUxLTg2NjQtMjcxOWNjN2ZkMmRlXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "19.09.1888",
+  "death_date": "06.10.1953",
+  "birth_location": "Cincinnati, Ohio, USA",
+  "height": "1.70 m",
+  "filmweb_id": 41769,
+  "name_pl": "Porter Hall",
+  "birth_location_pl": "Cincinnati, Ohio",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

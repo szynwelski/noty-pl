@@ -1,0 +1,245 @@
+{
+  "imdb_id": "tt1318514",
+  "title": "Rise of the Planet of the Apes",
+  "description": "A substance designed to help the brain repair itself gives advanced intelligence to a chimpanzee who leads an ape uprising.",
+  "runtime_minutes": 105,
+  "release_date": "05.08.2011",
+  "genres": [
+    "Action",
+    "Drama",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0290556",
+      "name": "James Franco"
+    },
+    {
+      "id": "nm0785227",
+      "name": "Andy Serkis"
+    },
+    {
+      "id": "nm2951768",
+      "name": "Freida Pinto"
+    },
+    {
+      "id": "nm0465269",
+      "name": "Karin Konoval"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm1012501",
+      "name": "Rupert Wyatt"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0415425",
+      "name": "Rick Jaffa"
+    },
+    {
+      "id": "nm0798646",
+      "name": "Amanda Silver"
+    },
+    {
+      "id": "nm0099541",
+      "name": "Pierre Boulle"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0290556",
+      "name": "James Franco",
+      "character": "Will Rodman"
+    },
+    {
+      "id": "nm0785227",
+      "name": "Andy Serkis",
+      "character": "Caesar"
+    },
+    {
+      "id": "nm2951768",
+      "name": "Freida Pinto",
+      "character": "Caroline Aranha"
+    },
+    {
+      "id": "nm0465269",
+      "name": "Karin Konoval",
+      "character": "Maurice"
+    },
+    {
+      "id": "nm1024953",
+      "name": "Terry Notary",
+      "character": "Rocket"
+    },
+    {
+      "id": "nm0725956",
+      "name": "Richard Ridings",
+      "character": "Buck - Ape"
+    },
+    {
+      "id": "nm1341724",
+      "name": "Christopher Gordon",
+      "character": "Koba - Ape"
+    },
+    {
+      "id": "nm1981476",
+      "name": "Devyn Dalton",
+      "character": "Cornelia - Ape"
+    },
+    {
+      "id": "nm0135778",
+      "name": "Jay Caputo",
+      "character": "Alpha"
+    },
+    {
+      "id": "nm0001475",
+      "name": "John Lithgow",
+      "character": "Charles Rodman"
+    },
+    {
+      "id": "nm0004051",
+      "name": "Brian Cox",
+      "character": "John Landon"
+    },
+    {
+      "id": "nm0271657",
+      "name": "Tom Felton",
+      "character": "Dodge Landon"
+    },
+    {
+      "id": "nm0654648",
+      "name": "David Oyelowo",
+      "character": "Steven Jacobs"
+    },
+    {
+      "id": "nm0479527",
+      "name": "Tyler Labine",
+      "character": "Robert Franklin"
+    },
+    {
+      "id": "nm0364807",
+      "name": "Jamie Harris",
+      "character": "Rodney - Shelter Assistant"
+    },
+    {
+      "id": "nm0648153",
+      "name": "Ty Olsson",
+      "character": "Chief John Hamil"
+    },
+    {
+      "id": "nm0382110",
+      "name": "David Hewlett",
+      "character": "Hunsiker"
+    },
+    {
+      "id": "nm2005335",
+      "name": "Joey Roche",
+      "character": "Todd Hunsiker"
+    }
+  ],
+  "countries": [
+    "United States",
+    "United Kingdom",
+    "Canada"
+  ],
+  "languages": [
+    "English",
+    "Sign Languages"
+  ],
+  "color": "Color",
+  "filmweb_id": 558709,
+  "year": 2011,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYjIxMjA1NWUtNzk3ZC00MjY5LTk3NjQtM2ViZTk5YWY1MDhlXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.6,
+      "votes": 608829,
+      "distribution": {
+        "1": 3492,
+        "2": 1883,
+        "3": 2995,
+        "4": 6461,
+        "5": 17635,
+        "6": 55783,
+        "7": 171546,
+        "8": 216395,
+        "9": 80836,
+        "10": 51803
+      },
+      "normalized": 6.6932
+    },
+    "filmweb": {
+      "rating": 7.03,
+      "votes": 117663,
+      "distribution": {
+        "1": 468,
+        "2": 429,
+        "3": 1407,
+        "4": 2615,
+        "5": 7384,
+        "6": 19940,
+        "7": 43322,
+        "8": 30636,
+        "9": 8285,
+        "10": 3177
+      },
+      "normalized": 5.6889
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "28.08.2011",
+      "normalized": 4.9718
+    },
+    "score": 5.7846
+  },
+  "polish_title": "Geneza planety małp",
+  "silent": false,
+  "description_pl": "Akcja filmu rozgrywa się we współczesnym San Francisco, gdzie naukowcy prowadzą badania genetyczne, w wyniku których dochodzi do narodzin rasy wybitnie inteligentnych małp i wybuchu wojny o ich dominację nad ludźmi.",
+  "producers": [
+    {
+      "id": "nm1858656",
+      "name": "Peter Chernin"
+    },
+    {
+      "id": "nm1249995",
+      "name": "Dylan Clark"
+    },
+    {
+      "id": "nm0358411",
+      "name": "Thomas M. Hammel"
+    },
+    {
+      "id": "nm0415425",
+      "name": "Rick Jaffa"
+    },
+    {
+      "id": "nm1692290",
+      "name": "Mike Larocca"
+    },
+    {
+      "id": "nm0798646",
+      "name": "Amanda Silver"
+    },
+    {
+      "id": "nm0931101",
+      "name": "Kurt Williams"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0236462",
+      "name": "Patrick Doyle"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0504226",
+      "name": "Andrew Lesnie"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

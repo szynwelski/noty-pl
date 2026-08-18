@@ -1,0 +1,58 @@
+{
+  "id": "nm0317970",
+  "name": "Billy Gilbert",
+  "filmography": [
+    {
+      "imdb_id": "tt0029583",
+      "title": "Snow White and the Seven Dwarfs",
+      "year": 1937,
+      "roles": [
+        "cast"
+      ],
+      "character": "Sneezy"
+    },
+    {
+      "imdb_id": "tt0032599",
+      "title": "His Girl Friday",
+      "year": 1940,
+      "roles": [
+        "cast"
+      ],
+      "character": "Joe Pettibone"
+    },
+    {
+      "imdb_id": "tt0032553",
+      "title": "The Great Dictator",
+      "year": 1940,
+      "roles": [
+        "cast"
+      ],
+      "character": "Herring"
+    },
+    {
+      "imdb_id": "tt0196372",
+      "title": "The Best of Laurel and Hardy",
+      "year": 1968,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "First Drunk"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTcyNTAxODg1MF5BMl5BanBnXkFtZTcwNzA2OTkwOA@@._V1_.jpg",
+  "birth_date": "12.09.1894",
+  "death_date": "23.09.1971",
+  "birth_location": "Louisville, Kentucky, USA",
+  "height": "1.80 m",
+  "filmweb_id": 47519,
+  "name_pl": "Billy Gilbert",
+  "birth_location_pl": "Louisville, Kentucky",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 47519
+}

@@ -1,0 +1,37 @@
+{
+  "id": "nm0000807",
+  "name": "Jane Austen",
+  "filmography": [
+    {
+      "imdb_id": "tt0114388",
+      "title": "Sense and Sensibility",
+      "year": 1995,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0414387",
+      "title": "Pride & Prejudice",
+      "year": 2005,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjIxNDAyMjk5MF5BMl5BanBnXkFtZTcwNzk5ODgxOA@@._V1_.jpg",
+  "birth_date": "16.12.1775",
+  "death_date": "18.07.1817",
+  "birth_location": "Steventon, Hampshire, England, UK",
+  "height": "1.73 m",
+  "imdb_scraped": true,
+  "filmweb_id": 713065,
+  "name_pl": "Jane Austen",
+  "birth_location_pl": "Steventon, Anglia",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii"
+  ],
+  "wikidata_fw_id": 713065
+}

@@ -1,0 +1,51 @@
+{
+  "id": "nm0045839",
+  "name": "Walter Bacon",
+  "filmography": [
+    {
+      "imdb_id": "tt0044081",
+      "title": "A Streetcar Named Desire",
+      "year": 1951,
+      "roles": [
+        "cast"
+      ],
+      "character": "Club Patron"
+    },
+    {
+      "imdb_id": "tt0043456",
+      "title": "The Day the Earth Stood Still",
+      "year": 1951,
+      "roles": [
+        "cast"
+      ],
+      "character": "Sightseer at Spaceship"
+    },
+    {
+      "imdb_id": "tt0051201",
+      "title": "Witness for the Prosecution",
+      "year": 1957,
+      "roles": [
+        "cast"
+      ],
+      "character": "Bar Patron"
+    },
+    {
+      "imdb_id": "tt0054215",
+      "title": "Psycho",
+      "year": 1960,
+      "roles": [
+        "cast"
+      ],
+      "character": "Church Member"
+    }
+  ],
+  "birth_date": "13.05.1891",
+  "death_date": "07.11.1973",
+  "birth_location": "Brooklyn, New York, USA",
+  "filmweb_id": 1548907,
+  "name_pl": "Walter Bacon",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true
+}

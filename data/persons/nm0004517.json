@@ -1,0 +1,39 @@
+{
+  "id": "nm0004517",
+  "name": "Jason Alexander",
+  "filmography": [
+    {
+      "imdb_id": "tt0100405",
+      "title": "Pretty Woman",
+      "year": 1990,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Philip Stuckey"
+    },
+    {
+      "imdb_id": "tt1028532",
+      "title": "Hachi: A Dog's Tale",
+      "year": 2009,
+      "roles": [
+        "cast"
+      ],
+      "character": "Carl"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTYxNzMyMDY1OV5BMl5BanBnXkFtZTcwMDU3NjYyMw@@._V1_.jpg",
+  "birth_date": "23.09.1959",
+  "birth_location": "Newark, New Jersey, USA",
+  "height": "1.65 m",
+  "imdb_scraped": true,
+  "filmweb_id": 9110,
+  "name_pl": "Jason Alexander",
+  "birth_location_pl": "Newark, New Jersey",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 9110
+}

@@ -1,0 +1,263 @@
+{
+  "imdb_id": "tt0144084",
+  "title": "American Psycho",
+  "description": "A wealthy New York City investment banking executive, Patrick Bateman, hides his alternate psychopathic ego from his co-workers and friends as he delves deeper into his violent, hedonistic fantasies.",
+  "runtime_minutes": 102,
+  "release_date": "14.04.2000",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Horror"
+  ],
+  "stars": [
+    {
+      "id": "nm0000288",
+      "name": "Christian Bale"
+    },
+    {
+      "id": "nm0857620",
+      "name": "Justin Theroux"
+    },
+    {
+      "id": "nm0524197",
+      "name": "Josh Lucas"
+    },
+    {
+      "id": "nm0756083",
+      "name": "Bill Sage"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0366004",
+      "name": "Mary Harron"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0254735",
+      "name": "Bret Easton Ellis"
+    },
+    {
+      "id": "nm0366004",
+      "name": "Mary Harron"
+    },
+    {
+      "id": "nm0877587",
+      "name": "Guinevere Turner"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000288",
+      "name": "Christian Bale",
+      "character": "Patrick Bateman"
+    },
+    {
+      "id": "nm0857620",
+      "name": "Justin Theroux",
+      "character": "Timothy Bryce"
+    },
+    {
+      "id": "nm0524197",
+      "name": "Josh Lucas",
+      "character": "Craig McDermott"
+    },
+    {
+      "id": "nm0756083",
+      "name": "Bill Sage",
+      "character": "David Van Patten"
+    },
+    {
+      "id": "nm0001721",
+      "name": "Chloë Sevigny",
+      "character": "Jean"
+    },
+    {
+      "id": "nm0000702",
+      "name": "Reese Witherspoon",
+      "character": "Evelyn Williams"
+    },
+    {
+      "id": "nm0000526",
+      "name": "Samantha Mathis",
+      "character": "Courtney Rawlinson"
+    },
+    {
+      "id": "nm0743671",
+      "name": "Matt Ross",
+      "character": "Luis Carruthers"
+    },
+    {
+      "id": "nm0001467",
+      "name": "Jared Leto",
+      "character": "Paul Allen"
+    },
+    {
+      "id": "nm0000353",
+      "name": "Willem Dafoe",
+      "character": "Donald Kimball"
+    },
+    {
+      "id": "nm0786806",
+      "name": "Cara Seymour",
+      "character": "Christie"
+    },
+    {
+      "id": "nm0877587",
+      "name": "Guinevere Turner",
+      "character": "Elizabeth"
+    },
+    {
+      "id": "nm0091505",
+      "name": "Stephen Bogaert",
+      "character": "Harold Carnes"
+    },
+    {
+      "id": "nm0576702",
+      "name": "Monika Meier",
+      "character": "Daisy"
+    },
+    {
+      "id": "nm0146146",
+      "name": "Reg E. Cathey",
+      "character": "Homeless Man"
+    },
+    {
+      "id": "nm0930127",
+      "name": "Blair Williams",
+      "character": "Waiter #1"
+    },
+    {
+      "id": "nm0198695",
+      "name": "Marie Dame",
+      "character": "Victoria"
+    },
+    {
+      "id": "nm0366003",
+      "name": "Kelley Harron",
+      "character": "Bargirl"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Cantonese"
+  ],
+  "color": "Color",
+  "filmweb_id": 1075,
+  "year": 2000,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzBjM2I5ZjUtNmIzNy00OGNkLWIwZDMtOTAwYWUwMzA2YjdlXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.6,
+      "votes": 851349,
+      "distribution": {
+        "1": 6582,
+        "2": 4271,
+        "3": 6645,
+        "4": 12605,
+        "5": 29798,
+        "6": 82315,
+        "7": 214172,
+        "8": 269497,
+        "9": 130442,
+        "10": 95022
+      },
+      "normalized": 6.7081
+    },
+    "filmweb": {
+      "rating": 7.28,
+      "votes": 216599,
+      "distribution": {
+        "1": 1019,
+        "2": 1005,
+        "3": 2760,
+        "4": 4267,
+        "5": 11732,
+        "6": 28017,
+        "7": 65868,
+        "8": 66771,
+        "9": 25040,
+        "10": 10120
+      },
+      "normalized": 6.2117
+    },
+    "michal": {
+      "rating": 3,
+      "date_rated": "31.10.2006",
+      "normalized": 3.8753
+    },
+    "score": 5.5984
+  },
+  "polish_title": "American Psycho",
+  "silent": false,
+  "description_pl": "Film ukazujący mroczne oblicze świata młodych, zamożnych biznesmenów w Ameryce lat 80. Patrick Bateman (<a href=\"/osoba/?id=nm0000288\">Christian Bale</a>) robi błyskotliwą karierę w firmie ojca, finansisty z Wall Street. Z pozoru jest typowym, egocentrycznym yuppie, którego życie określa kult markowych przedmiotów. Jednak w jego głowie lęgną się chore myśli o seryjnych morderstwach. Pod ich wpływem osobowość Patricka powoli ulega destrukcji.",
+  "producers": [
+    {
+      "id": "nm0053228",
+      "name": "Ernie Barbarash"
+    },
+    {
+      "id": "nm0131947",
+      "name": "Alessandro Camon"
+    },
+    {
+      "id": "nm0236944",
+      "name": "Joseph Drake"
+    },
+    {
+      "id": "nm0357018",
+      "name": "Christian Halsey Solomon"
+    },
+    {
+      "id": "nm0360065",
+      "name": "Chris Hanley"
+    },
+    {
+      "id": "nm0386702",
+      "name": "Victoria Hirst"
+    },
+    {
+      "id": "nm0569640",
+      "name": "Gretchen McGowan"
+    },
+    {
+      "id": "nm0664513",
+      "name": "Michael Paseornek"
+    },
+    {
+      "id": "nm0696299",
+      "name": "Edward R. Pressman"
+    },
+    {
+      "id": "nm0755278",
+      "name": "Jeff Sackman"
+    },
+    {
+      "id": "nm0834188",
+      "name": "Clifford Streit"
+    },
+    {
+      "id": "nm0731146",
+      "name": "Rob Weiss"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0129816",
+      "name": "John Cale"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0782900",
+      "name": "Andrzej Sekula"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

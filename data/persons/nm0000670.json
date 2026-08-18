@@ -1,0 +1,48 @@
+{
+  "id": "nm0000670",
+  "name": "Lea Thompson",
+  "filmography": [
+    {
+      "imdb_id": "tt0088763",
+      "title": "Back to the Future",
+      "year": 1985,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Lorraine Baines"
+    },
+    {
+      "imdb_id": "tt0096874",
+      "title": "Back to the Future Part II",
+      "year": 1989,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Lorraine"
+    },
+    {
+      "imdb_id": "tt0099088",
+      "title": "Back to the Future Part III",
+      "year": 1990,
+      "roles": [
+        "cast"
+      ],
+      "character": "Maggie McFly"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTgwNDE2MTY2MV5BMl5BanBnXkFtZTgwMzQxMDc2MjI@._V1_.jpg",
+  "birth_date": "31.05.1961",
+  "birth_location": "Rochester, Minnesota, USA",
+  "height": "1.63 m",
+  "filmweb_id": 40754,
+  "name_pl": "Lea Thompson",
+  "birth_location_pl": "Rochester, Minnesota",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

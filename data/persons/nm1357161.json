@@ -1,0 +1,37 @@
+{
+  "id": "nm1357161",
+  "name": "Francesco De Vito",
+  "filmography": [
+    {
+      "imdb_id": "tt0335345",
+      "title": "The Passion of the Christ",
+      "year": 2004,
+      "roles": [
+        "cast"
+      ],
+      "character": "Peter"
+    },
+    {
+      "imdb_id": "tt5433398",
+      "title": "Soledad",
+      "year": 2018,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Lucarella"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTIzNzAzMjA5NV5BMl5BanBnXkFtZTYwODQ0OTM3._V1_.jpg",
+  "imdb_scraped": true,
+  "filmweb_id": 139546,
+  "name_pl": "Francesco De Vito",
+  "birth_location_pl": "Tarent",
+  "gender": "M",
+  "wikidata_processed": true,
+  "birth_date": "10.08.1970",
+  "nationality": [
+    "Włochy"
+  ],
+  "wikidata_fw_id": 139546
+}

@@ -1,0 +1,46 @@
+{
+  "id": "nm0115152",
+  "name": "Chris Browning",
+  "filmography": [
+    {
+      "imdb_id": "tt0438488",
+      "title": "Terminator Salvation",
+      "year": 2009,
+      "roles": [
+        "cast"
+      ],
+      "character": "Morrison"
+    },
+    {
+      "imdb_id": "tt1228987",
+      "title": "Let Me In",
+      "year": 2010,
+      "roles": [
+        "cast"
+      ],
+      "character": "Jack"
+    },
+    {
+      "imdb_id": "tt1037705",
+      "title": "The Book of Eli",
+      "year": 2010,
+      "roles": [
+        "cast"
+      ],
+      "character": "Hijack Leader"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMmU1MzQxZjUtYjQyMi00NDczLTkzYjktOWQ2YTYxMjE3ZWZmXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "07.03.1964",
+  "birth_location": "Reno, Nevada, USA",
+  "height": "1.91 m",
+  "filmweb_id": 276937,
+  "name_pl": "Chris Browning",
+  "birth_location_pl": "Reno, Nevada",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

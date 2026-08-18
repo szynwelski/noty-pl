@@ -1,0 +1,39 @@
+{
+  "id": "nm0335788",
+  "name": "Charley Grapewin",
+  "filmography": [
+    {
+      "imdb_id": "tt0032138",
+      "title": "The Wizard of Oz",
+      "year": 1939,
+      "roles": [
+        "cast"
+      ],
+      "character": "Uncle Henry"
+    },
+    {
+      "imdb_id": "tt0032551",
+      "title": "The Grapes of Wrath",
+      "year": 1940,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Grandpa"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTEyODYwMTMzNzNeQTJeQWpwZ15BbWU3MDI5NjM2MDg@._V1_.jpg",
+  "birth_date": "20.12.1869",
+  "death_date": "02.02.1956",
+  "birth_location": "Xenia, Ohio, USA",
+  "height": "1.71 m",
+  "imdb_scraped": true,
+  "filmweb_id": 47314,
+  "name_pl": "Charley Grapewin",
+  "birth_location_pl": "Xenia, Ohio",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

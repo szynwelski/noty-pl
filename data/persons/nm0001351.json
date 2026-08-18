@@ -1,0 +1,36 @@
+{
+  "id": "nm0001351",
+  "name": "George Roy Hill",
+  "filmography": [
+    {
+      "imdb_id": "tt0064115",
+      "title": "Butch Cassidy and the Sundance Kid",
+      "year": 1969,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0070735",
+      "title": "The Sting",
+      "year": 1973,
+      "roles": [
+        "director"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjE1NzM2MTM1OF5BMl5BanBnXkFtZTgwNjA3Nzg4MDE@._V1_.jpg",
+  "birth_date": "20.12.1921",
+  "death_date": "27.12.2002",
+  "birth_location": "Minneapolis, Minnesota, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 31769,
+  "name_pl": "George Roy Hill",
+  "birth_location_pl": "Minneapolis, Minnesota",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 31769
+}

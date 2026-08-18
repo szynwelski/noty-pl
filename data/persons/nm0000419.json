@@ -1,0 +1,42 @@
+{
+  "id": "nm0000419",
+  "name": "Jean-Luc Godard",
+  "filmography": [
+    {
+      "imdb_id": "tt0053472",
+      "title": "Breathless",
+      "year": 1960,
+      "roles": [
+        "director",
+        "writer",
+        "cast"
+      ],
+      "character": "The Snitch"
+    },
+    {
+      "imdb_id": "tt0055852",
+      "title": "Cleo from 5 to 7",
+      "year": 1962,
+      "roles": [
+        "cast"
+      ],
+      "character": "L'homme aux lunettes noires"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOTQ5NjYwODg1MF5BMl5BanBnXkFtZTgwMTA2NzI2MDE@._V1_.jpg",
+  "birth_date": "03.12.1930",
+  "death_date": "13.09.2022",
+  "birth_location": "Paris, France",
+  "height": "1.73 m",
+  "imdb_scraped": true,
+  "filmweb_id": 50182,
+  "name_pl": "Jean-Luc Godard",
+  "birth_location_pl": "Paryż",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Szwajcaria",
+    "Francja"
+  ],
+  "wikidata_fw_id": 50182
+}

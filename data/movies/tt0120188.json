@@ -1,0 +1,261 @@
+{
+  "imdb_id": "tt0120188",
+  "title": "Three Kings",
+  "description": "In the aftermath of the Persian Gulf War, four soldiers set out to steal gold that was stolen from Kuwait, but they discover people who desperately need their help.",
+  "runtime_minutes": 114,
+  "release_date": "01.10.1999",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Drama",
+    "War"
+  ],
+  "stars": [
+    {
+      "id": "nm0000123",
+      "name": "George Clooney"
+    },
+    {
+      "id": "nm0000242",
+      "name": "Mark Wahlberg"
+    },
+    {
+      "id": "nm0001084",
+      "name": "Ice Cube"
+    },
+    {
+      "id": "nm0005069",
+      "name": "Spike Jonze"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0751102",
+      "name": "David O. Russell"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0725983",
+      "name": "John Ridley"
+    },
+    {
+      "id": "nm0751102",
+      "name": "David O. Russell"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000123",
+      "name": "George Clooney",
+      "character": "Maj. Archie Gates"
+    },
+    {
+      "id": "nm0000242",
+      "name": "Mark Wahlberg",
+      "character": "SFC Troy Barlow"
+    },
+    {
+      "id": "nm0001084",
+      "name": "Ice Cube",
+      "character": "Chief Elgin"
+    },
+    {
+      "id": "nm0005069",
+      "name": "Spike Jonze",
+      "character": "PFC Conrad Vig"
+    },
+    {
+      "id": "nm0193295",
+      "name": "Cliff Curtis",
+      "character": "Amir Abdulah"
+    },
+    {
+      "id": "nm0004887",
+      "name": "Nora Dunn",
+      "character": "Adriana Cruz"
+    },
+    {
+      "id": "nm0005085",
+      "name": "Jamie Kennedy",
+      "character": "Walter Wogaman"
+    },
+    {
+      "id": "nm0846548",
+      "name": "Saïd Taghmaoui",
+      "character": "Captain Said"
+    },
+    {
+      "id": "nm0932112",
+      "name": "Mykelti Williamson",
+      "character": "Colonel Horn"
+    },
+    {
+      "id": "nm0564697",
+      "name": "Holt McCallany",
+      "character": "Captain Van Meter"
+    },
+    {
+      "id": "nm0339460",
+      "name": "Judy Greer",
+      "character": "Cathy Daitch"
+    },
+    {
+      "id": "nm0517911",
+      "name": "Christopher Lohr",
+      "character": "Teebaux"
+    },
+    {
+      "id": "nm0804471",
+      "name": "Jon Sklaroff",
+      "character": "Paco"
+    },
+    {
+      "id": "nm0005459",
+      "name": "Liz Stauber",
+      "character": "Debbie Barlow, Troy's Wife"
+    },
+    {
+      "id": "nm0394542",
+      "name": "Marsha Horan",
+      "character": "Amir's Wife"
+    },
+    {
+      "id": "nm0790057",
+      "name": "Alia Shawkat",
+      "character": "Amir's Daughter"
+    },
+    {
+      "id": "nm0019289",
+      "name": "Jabir Algarawi",
+      "character": "Hairdressing Twin #1"
+    },
+    {
+      "id": "nm0019288",
+      "name": "Ghanem Algarawi",
+      "character": "Hairdressing Twin #2"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Arabic"
+  ],
+  "color": null,
+  "filmweb_id": 921,
+  "year": 1999,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODdlODNiYWUtNDU4Mi00OWY0LTk2MmMtZWMwNzA4Yzc1NTAyXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.1,
+      "votes": 187024,
+      "distribution": {
+        "1": 2117,
+        "2": 1161,
+        "3": 2103,
+        "4": 4149,
+        "5": 10838,
+        "6": 29895,
+        "7": 62495,
+        "8": 45817,
+        "9": 16792,
+        "10": 11657
+      },
+      "normalized": 5.7513
+    },
+    "filmweb": {
+      "rating": 6.52,
+      "votes": 21169,
+      "distribution": {
+        "1": 74,
+        "2": 87,
+        "3": 341,
+        "4": 796,
+        "5": 2438,
+        "6": 5901,
+        "7": 7659,
+        "8": 2947,
+        "9": 557,
+        "10": 369
+      },
+      "normalized": 4.3702
+    },
+    "jarek": {
+      "rating": 2,
+      "date_rated": "23.02.2011",
+      "normalized": 3.5003
+    },
+    "michal": {
+      "rating": 3,
+      "date_rated": "01.12.2006",
+      "normalized": 3.8753
+    },
+    "score": 4.3743
+  },
+  "polish_title": "Złoto pustyni",
+  "silent": false,
+  "description_pl": "Marzec 1991 roku. Wojna w Zatoce zmierza ku końcowi. Czterech żołnierzy amerykańskich stacjonujących w Iraku postanawia zdobyć kuwejckie złoto, ukradzione przez Irakijczyków. Zadanie wydaje się być dziecinnie proste - żołnierze zamierzają wyjechać o wschodzie słońca i wrócić na lunch.",
+  "producers": [
+    {
+      "id": "nm0075732",
+      "name": "Bruce Berman"
+    },
+    {
+      "id": "nm2248125",
+      "name": "Robert S. Costanzo"
+    },
+    {
+      "id": "nm0322221",
+      "name": "Alan Glazer"
+    },
+    {
+      "id": "nm0329084",
+      "name": "Gregory Goodman"
+    },
+    {
+      "id": "nm0432625",
+      "name": "Paul Junger Witt"
+    },
+    {
+      "id": "nm0568093",
+      "name": "Edward L. McDonnell"
+    },
+    {
+      "id": "nm0725983",
+      "name": "John Ridley"
+    },
+    {
+      "id": "nm0744907",
+      "name": "Kim Roth"
+    },
+    {
+      "id": "nm0746273",
+      "name": "Charles Roven"
+    },
+    {
+      "id": "nm0781769",
+      "name": "Douglas Segal"
+    },
+    {
+      "id": "nm0810423",
+      "name": "Kelley Smith-Wait"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0001980",
+      "name": "Carter Burwell"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005875",
+      "name": "Newton Thomas Sigel"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

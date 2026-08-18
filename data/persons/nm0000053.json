@@ -1,0 +1,50 @@
+{
+  "id": "nm0000053",
+  "name": "Robert Mitchum",
+  "filmography": [
+    {
+      "imdb_id": "tt0039689",
+      "title": "Out of the Past",
+      "year": 1947,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Jeff"
+    },
+    {
+      "imdb_id": "tt0048424",
+      "title": "The Night of the Hunter",
+      "year": 1955,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Harry Powell"
+    },
+    {
+      "imdb_id": "tt0112817",
+      "title": "Dead Man",
+      "year": 1995,
+      "roles": [
+        "cast"
+      ],
+      "character": "John Dickinson"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNjdkNTBiNGItYjJlOS00ZTE1LWFjOWEtNWYxMmJkNTRiOGNkXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 6252,
+  "birth_date": "06.08.1917",
+  "death_date": "01.07.1997",
+  "birth_location": "Bridgeport, Connecticut, USA",
+  "height": "1.84 m",
+  "imdb_scraped": true,
+  "name_pl": "Robert Mitchum",
+  "birth_location_pl": "Bridgeport, Connecticut",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 6252
+}

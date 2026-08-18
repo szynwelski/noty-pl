@@ -1,0 +1,43 @@
+{
+  "id": "nm0006271",
+  "name": "Philippe Sarde",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjFlMjE5MDQtZjExNi00ZjhmLThiMzYtNjk1Nzg5ZTFjZDgyXkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0074811",
+      "title": "The Tenant",
+      "year": 1976,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt0080009",
+      "title": "Tess",
+      "year": 1979,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt0091757",
+      "title": "Pirates",
+      "year": 1986,
+      "roles": [
+        "composer"
+      ]
+    }
+  ],
+  "birth_date": "21.06.1948",
+  "birth_location": "Neuilly-sur-Seine, Hauts-de-Seine, France",
+  "filmweb_id": 10730,
+  "name_pl": "Philippe Sarde",
+  "birth_location_pl": "Neuilly-sur-Seine",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja"
+  ],
+  "wikidata_fw_id": 10730
+}

@@ -1,0 +1,38 @@
+{
+  "id": "nm0056217",
+  "name": "Harold Pinter",
+  "filmography": [
+    {
+      "imdb_id": "tt0067144",
+      "title": "The Go-Between",
+      "year": 1971,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0857265",
+      "title": "Sleuth",
+      "year": 2007,
+      "roles": [
+        "writer",
+        "star",
+        "cast"
+      ],
+      "character": "Man on T.V."
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOTIwODY3NTA4MV5BMl5BanBnXkFtZTcwMTM0OTAyOQ@@._V1_.jpg",
+  "birth_date": "10.10.1930",
+  "death_date": "24.12.2008",
+  "birth_location": "Hackney, London, England, UK",
+  "imdb_scraped": true,
+  "filmweb_id": 10150,
+  "name_pl": "Harold Pinter",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ]
+}

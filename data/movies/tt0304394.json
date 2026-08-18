@@ -1,0 +1,157 @@
+{
+  "imdb_id": "tt0304394",
+  "title": "Meska sprawa",
+  "description": "13-year-old Bartek tries desperately to hide the fact that his father beats him. Lonely and with no support from his mother or his school, tyrannised by his soccer coach, the boy finds his only friend in an old dying stray dog.",
+  "runtime_minutes": 26,
+  "release_date": "22.03.2002",
+  "genres": [
+    "Drama",
+    "Short"
+  ],
+  "stars": [
+    {
+      "id": "nm1136537",
+      "name": "Bartosz Idczak"
+    },
+    {
+      "id": "nm0416062",
+      "name": "Mariusz Jakus"
+    },
+    {
+      "id": "nm0081390",
+      "name": "Marek Bielecki"
+    },
+    {
+      "id": "nm0054570",
+      "name": "Katarzyna Bargielowska"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0264614",
+      "name": "Slawomir Fabicki"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0264614",
+      "name": "Slawomir Fabicki"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1136537",
+      "name": "Bartosz Idczak",
+      "character": "Bartek Idczak"
+    },
+    {
+      "id": "nm0416062",
+      "name": "Mariusz Jakus",
+      "character": "Andrzej, coach"
+    },
+    {
+      "id": "nm0081390",
+      "name": "Marek Bielecki",
+      "character": "Stefan, Bartek`s father"
+    },
+    {
+      "id": "nm0054570",
+      "name": "Katarzyna Bargielowska",
+      "character": "Hanka, Bartek`s mother"
+    },
+    {
+      "id": "nm1186120",
+      "name": "Tomasz Rolinski",
+      "character": "Platfus, Bartek`s brother"
+    },
+    {
+      "id": "nm1187129",
+      "name": "Andrzej Wichrowski",
+      "character": "Chief of dog shelter"
+    },
+    {
+      "id": "nm1186927",
+      "name": "Grzegorz Król",
+      "character": "Siwy"
+    },
+    {
+      "id": "nm0683343",
+      "name": "Mariusz Pilawski",
+      "character": "Henryk, head master"
+    },
+    {
+      "id": "nm0158563",
+      "name": "Katarzyna Chmara",
+      "character": "Teacher of religion"
+    }
+  ],
+  "countries": [
+    "Poland"
+  ],
+  "languages": [
+    "Polish"
+  ],
+  "color": "Black and White",
+  "year": 2001,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BY2RiMmZjM2QtNmZjMy00ZjZmLTlmODYtZTQ3YjNmNzM0NjJmXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 32668,
+  "ratings": {
+    "imdb": {
+      "rating": 7.6,
+      "votes": 568,
+      "distribution": {
+        "1": 9,
+        "2": 6,
+        "3": 7,
+        "4": 12,
+        "5": 15,
+        "6": 44,
+        "7": 110,
+        "8": 151,
+        "9": 88,
+        "10": 126
+      },
+      "normalized": 5.8214
+    },
+    "filmweb": {
+      "rating": 7.56,
+      "votes": 8510,
+      "distribution": {
+        "1": 30,
+        "2": 17,
+        "3": 52,
+        "4": 117,
+        "5": 293,
+        "6": 791,
+        "7": 2329,
+        "8": 3292,
+        "9": 1133,
+        "10": 456
+      },
+      "normalized": 6.7909
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "19.10.2005",
+      "normalized": 7.2292
+    },
+    "score": 6.6138
+  },
+  "polish_title": "Męska sprawa",
+  "silent": false,
+  "description_pl": "\"Męska sprawa\" opowiada historię 13-letniego Bartka (Bartosz Idczak) z biednej łódzkiej rodziny. Matka (<a href=\"/osoba/?id=nm0054570\">Katarzyna Bargiełowska</a>) z trudem utrzymuje rodzinę, składając plastikowe lalki. Ojciec (<a href=\"/osoba/?id=nm0081390\">Marek Bielecki</a>), były piłkarz-amator, jest bezrobotny. Jedynym środkiem wychowawczym, jaki stosuje wobec syna jest pasek od spodni. Na dziecku wyładowuje swoje frustracje. Bartek ma trudności w szkole - jego dzienniczek jest pełen uwag o złym zachowaniu na lekcjach, wybrykach na przerwach, nieznajomości wzoru na objętość czworościanu foremnego itp. Chłopiec należy do drużyny piłkarskiej prowadzonej przez chorobliwie ambitnego nauczyciela w-f (<a href=\"/osoba/?id=nm0416062\">Mariusz Jakus</a>), któremu marzy się czwarty z rzędu puchar w nadchodzących mistrzostwach. Krzykiem, wyzwiskami a nawet szantażem bezwzględny trener zmusza chłopców do absolutnego posłuszeństwa i maksymalnego wysiłku. Jedynym przyjacielem chłopca, dorastającego w poczuciu niemal absolutnej samotności, jest pies ze schroniska, ale nawet jego może wkrótce stracić...",
+  "composers": [
+    {
+      "id": "nm1185390",
+      "name": "Barbara Kolago"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0323950",
+      "name": "Bogumil Godfrejów"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

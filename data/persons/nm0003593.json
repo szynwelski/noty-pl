@@ -1,0 +1,46 @@
+{
+  "id": "nm0003593",
+  "name": "Fred Zinnemann",
+  "filmography": [
+    {
+      "imdb_id": "tt0044706",
+      "title": "High Noon",
+      "year": 1952,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0045793",
+      "title": "From Here to Eternity",
+      "year": 1953,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0069947",
+      "title": "The Day of the Jackal",
+      "year": 1973,
+      "roles": [
+        "director"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjMyODc3MjM3OF5BMl5BanBnXkFtZTcwNzQwNTYyOA@@._V1_.jpg",
+  "birth_date": "29.04.1907",
+  "death_date": "14.03.1997",
+  "birth_location": "Rzeszów, Galicia, Austria-Hungary",
+  "height": "1.69 m",
+  "filmweb_id": 45088,
+  "name_pl": "Fred Zinnemann",
+  "birth_location_pl": "Rzeszów",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone",
+    "Austria"
+  ],
+  "wikidata_fw_id": 45088
+}

@@ -1,0 +1,39 @@
+{
+  "id": "nm0005194",
+  "name": "Danny Masterson",
+  "filmography": [
+    {
+      "imdb_id": "tt0165598",
+      "title": "That '70s Show",
+      "year": 1998,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Steven Hyde"
+    },
+    {
+      "imdb_id": "tt1068680",
+      "title": "Yes Man",
+      "year": 2008,
+      "roles": [
+        "cast"
+      ],
+      "character": "Rooney"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTUwNDgwOTI4MV5BMl5BanBnXkFtZTcwODMyNTQzMQ@@._V1_.jpg",
+  "birth_date": "13.03.1976",
+  "birth_location": "Nassau County, New York, USA",
+  "height": "1.78 m",
+  "imdb_scraped": true,
+  "filmweb_id": 31704,
+  "name_pl": "Danny Masterson",
+  "birth_location_pl": "Albertson, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 31704
+}

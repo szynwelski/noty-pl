@@ -1,0 +1,29 @@
+{
+  "id": "nm0005200",
+  "name": "Paul McCartney",
+  "filmography": [
+    {
+      "imdb_id": "tt1790809",
+      "title": "Pirates of the Caribbean: Dead Men Tell No Tales",
+      "year": 2017,
+      "roles": [
+        "cast"
+      ],
+      "character": "Uncle Jack"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTk1MjE1NzM0NV5BMl5BanBnXkFtZTcwMTI5NzIxMw@@._V1_.jpg",
+  "birth_date": "18.06.1942",
+  "birth_location": "Liverpool, Merseyside, England, UK",
+  "height": "1.80 m",
+  "imdb_scraped": true,
+  "filmweb_id": 12050,
+  "name_pl": "Paul McCartney",
+  "birth_location_pl": "Liverpool, Anglia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 12050
+}

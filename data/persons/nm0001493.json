@@ -1,0 +1,48 @@
+{
+  "id": "nm0001493",
+  "name": "Peter MacNicol",
+  "filmography": [
+    {
+      "imdb_id": "tt0097428",
+      "title": "Ghostbusters II",
+      "year": 1989,
+      "roles": [
+        "cast"
+      ],
+      "character": "Dr. Janosz Poha"
+    },
+    {
+      "imdb_id": "tt0118689",
+      "title": "Bean",
+      "year": 1997,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "David Langley"
+    },
+    {
+      "imdb_id": "tt1440129",
+      "title": "Battleship",
+      "year": 2012,
+      "roles": [
+        "cast"
+      ],
+      "character": "Secretary of Defense"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZWE4MTFlYTktNDVmOS00OWYwLTg2M2QtZWFkZWZlYjkwNjgwXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "10.04.1954",
+  "birth_location": "Dallas, Texas, USA",
+  "height": "1.68 m",
+  "filmweb_id": 4873,
+  "name_pl": "Peter MacNicol",
+  "birth_location_pl": "Dallas, Teksas",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 4873
+}

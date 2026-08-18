@@ -1,0 +1,78 @@
+{
+  "imdb_id": "tt2151541",
+  "title": "Aquarium",
+  "description": "Different species of fish and frogs swim around an aquarium.",
+  "runtime_minutes": 1,
+  "release_date": "22.03.1896",
+  "genres": [
+    "Documentary",
+    "Short"
+  ],
+  "directors": [
+    {
+      "id": "nm0525910",
+      "name": "Louis Lumière"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "None",
+    "French"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 283194,
+  "year": 1896,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZTdlYmYzN2ItYmRiZS00MGVlLWJhYmUtZGE3Njc4NDk5OTBmXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.1,
+      "votes": 209,
+      "distribution": {
+        "1": 18,
+        "2": 7,
+        "3": 15,
+        "4": 18,
+        "5": 79,
+        "6": 43,
+        "7": 12,
+        "8": 8,
+        "9": 1,
+        "10": 8
+      },
+      "normalized": 4.5942
+    },
+    "filmweb": {
+      "rating": 4.33,
+      "votes": 3,
+      "distribution": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 2,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 5.1324
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "11.12.2016",
+      "normalized": 5.6855
+    },
+    "score": 5.1374
+  },
+  "polish_title": "Aquarium",
+  "silent": true,
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-16"
+}

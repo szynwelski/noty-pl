@@ -1,0 +1,197 @@
+{
+  "imdb_id": "tt0067023",
+  "title": "Duel",
+  "description": "A menacing truck stalks traveling salesman David Mann across the desert highways.",
+  "runtime_minutes": 90,
+  "release_date": "13.11.1971",
+  "genres": [
+    "Action",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0915840",
+      "name": "Dennis Weaver"
+    },
+    {
+      "id": "nm0779261",
+      "name": "Jacqueline Scott"
+    },
+    {
+      "id": "nm0278646",
+      "name": "Eddie Firestone"
+    },
+    {
+      "id": "nm0296135",
+      "name": "Lou Frizzell"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000229",
+      "name": "Steven Spielberg"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0558577",
+      "name": "Richard Matheson"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0915840",
+      "name": "Dennis Weaver",
+      "character": "David Mann"
+    },
+    {
+      "id": "nm0779261",
+      "name": "Jacqueline Scott",
+      "character": "Mrs. Mann"
+    },
+    {
+      "id": "nm0278646",
+      "name": "Eddie Firestone",
+      "character": "Cafe Owner"
+    },
+    {
+      "id": "nm0296135",
+      "name": "Lou Frizzell",
+      "character": "Bus Driver"
+    },
+    {
+      "id": "nm0245940",
+      "name": "Gene Dynarski",
+      "character": "Man in Cafe"
+    },
+    {
+      "id": "nm0072569",
+      "name": "Lucille Benson",
+      "character": "Lady at Snakerama"
+    },
+    {
+      "id": "nm0378630",
+      "name": "Tim Herbert",
+      "character": "Gas Station Attendant"
+    },
+    {
+      "id": "nm0781543",
+      "name": "Charles Seel",
+      "character": "Old Man"
+    },
+    {
+      "id": "nm0641337",
+      "name": "Shirley O'Hara",
+      "character": "Waitress"
+    },
+    {
+      "id": "nm0516948",
+      "name": "Alexander Lockwood",
+      "character": "Old Man in Car"
+    },
+    {
+      "id": "nm0235297",
+      "name": "Amy Douglass",
+      "character": "Old Woman in Car"
+    },
+    {
+      "id": "nm0926539",
+      "name": "Dick Whittington",
+      "character": "Radio Interviewer"
+    },
+    {
+      "id": "nm0517444",
+      "name": "Carey Loftin",
+      "character": "The Truck Driver"
+    },
+    {
+      "id": "nm0887975",
+      "name": "Dale Van Sickel",
+      "character": "Car Driver"
+    },
+    {
+      "id": "nm15736009",
+      "name": "Lance Cormier",
+      "character": "Slow Man in Cafe"
+    },
+    {
+      "id": "nm0792147",
+      "name": "Chick Sheridan",
+      "character": "Old Man"
+    },
+    {
+      "id": "nm0826161",
+      "name": "Shawn Steinman",
+      "character": "Girl on school bus"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 8753,
+  "year": 1971,
+  "type": "tvMovie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BN2ZhYjY5MzMtMmU4Yy00MDBjLWFhY2UtODg5YzdmNTY0Y2Q0XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.6,
+      "votes": 86588,
+      "distribution": {
+        "1": 683,
+        "2": 312,
+        "3": 544,
+        "4": 1020,
+        "5": 2640,
+        "6": 8016,
+        "7": 22891,
+        "8": 29169,
+        "9": 12013,
+        "10": 9300
+      },
+      "normalized": 6.594
+    },
+    "filmweb": {
+      "rating": 7.58,
+      "votes": 14877,
+      "distribution": {
+        "1": 72,
+        "2": 56,
+        "3": 144,
+        "4": 218,
+        "5": 532,
+        "6": 1494,
+        "7": 4060,
+        "8": 4844,
+        "9": 2046,
+        "10": 1411
+      },
+      "normalized": 6.9087
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "20.10.2005",
+      "normalized": 5.4199
+    },
+    "score": 6.3075
+  },
+  "polish_title": "Pojedynek na szosie",
+  "silent": false,
+  "description_pl": "Amerykański biznesmen, David Mann (<a href=\"/osoba/?id=nm0915840\">Dennis Weaver</a>), podczas podróży służbowej wyprzedza na odludnej szosie ogromną, obskurną cysternę. Kierowca kolosa z niewyjaśnionych przyczyn rusza za nim w pościg. Rozpoczyna się mordercza walka o przetrwanie.",
+  "composers": [
+    {
+      "id": "nm0006105",
+      "name": "Billy Goldenberg"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005785",
+      "name": "Jack A. Marta"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

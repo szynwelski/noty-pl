@@ -1,0 +1,76 @@
+{
+  "imdb_id": "tt2524434",
+  "title": "Paradise",
+  "description": "",
+  "runtime_minutes": 15,
+  "release_date": "15.10.2012",
+  "genres": [
+    "Animation",
+    "Short"
+  ],
+  "directors": [
+    {
+      "id": "nm5374102",
+      "name": "Min-young Jung"
+    },
+    {
+      "id": "nm3803893",
+      "name": "Kyung Jin Kim"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "South Korea"
+  ],
+  "languages": [
+    "Korean"
+  ],
+  "color": "Color",
+  "filmweb_id": 559034,
+  "year": 2012,
+  "type": "short",
+  "image_url": null,
+  "ratings": {
+    "imdb": {
+      "votes": 0,
+      "normalized": 5.5
+    },
+    "filmweb": {
+      "rating": 5.16,
+      "votes": 1003,
+      "distribution": {
+        "1": 14,
+        "2": 23,
+        "3": 104,
+        "4": 186,
+        "5": 259,
+        "6": 242,
+        "7": 117,
+        "8": 39,
+        "9": 10,
+        "10": 9
+      },
+      "normalized": 2.9049
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "15.02.2013",
+      "normalized": 5.6855
+    },
+    "score": 4.6968
+  },
+  "polish_title": "Raj",
+  "silent": false,
+  "producers": [
+    {
+      "id": "nm5374102",
+      "name": "Min-young Jung"
+    },
+    {
+      "id": "nm3803893",
+      "name": "Kyung Jin Kim"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

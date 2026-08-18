@@ -1,0 +1,81 @@
+{
+  "imdb_id": "tt1321391",
+  "title": "Head of Colonial Procession",
+  "description": "Procession of representatives of the British Empire's far-flung territories, including Canada, though it had gained its independence in 1867. Shows the continued fealty to Britain even among former colonies that would continue well into the 20th century.",
+  "runtime_minutes": 1,
+  "release_date": "1897",
+  "genres": [
+    "Documentary",
+    "Short"
+  ],
+  "directors": [
+    {
+      "id": "nm0666972",
+      "name": "Robert W. Paul"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 652703,
+  "year": 1897,
+  "type": "short",
+  "image_url": null,
+  "ratings": {
+    "imdb": {
+      "rating": 3.9,
+      "votes": 92,
+      "distribution": {
+        "1": 19,
+        "2": 7,
+        "3": 9,
+        "4": 18,
+        "5": 22,
+        "6": 9,
+        "7": 3,
+        "8": 3,
+        "9": 0,
+        "10": 2
+      },
+      "normalized": 4.738
+    },
+    "filmweb": {
+      "rating": 3.75,
+      "votes": 8,
+      "distribution": {
+        "1": 1,
+        "2": 0,
+        "3": 2,
+        "4": 3,
+        "5": 1,
+        "6": 1,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 4.9742
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "11.12.2016",
+      "normalized": 4.9718
+    },
+    "score": 4.8947
+  },
+  "polish_title": "Head of Colonial Procession",
+  "silent": true,
+  "cinematographers": [
+    {
+      "id": "nm0666972",
+      "name": "Robert W. Paul"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

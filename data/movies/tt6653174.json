@@ -1,0 +1,156 @@
+{
+  "imdb_id": "tt6653174",
+  "title": "Little White Lie",
+  "description": "A small-town journalist in southern Chile realizes he just run out of good news so that he starts making gossips and fake stories in order to keep his job in the local newspaper he works for.",
+  "runtime_minutes": 80,
+  "release_date": "01.06.2017",
+  "genres": [
+    "Comedy"
+  ],
+  "stars": [
+    {
+      "id": "nm1425960",
+      "name": "Rodrigo Salinas"
+    },
+    {
+      "id": "nm6529593",
+      "name": "Ernesto Meléndez"
+    },
+    {
+      "id": "nm0754416",
+      "name": "Catalina Saavedra"
+    },
+    {
+      "id": "nm2854433",
+      "name": "Daniel Antivilo"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm5640848",
+      "name": "Tomás Alzamora Muñoz"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm5640848",
+      "name": "Tomás Alzamora Muñoz"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1425960",
+      "name": "Rodrigo Salinas",
+      "character": "Edgardo"
+    },
+    {
+      "id": "nm6529593",
+      "name": "Ernesto Meléndez",
+      "character": "Vladimir"
+    },
+    {
+      "id": "nm0754416",
+      "name": "Catalina Saavedra",
+      "character": "Leontina"
+    },
+    {
+      "id": "nm2854433",
+      "name": "Daniel Antivilo",
+      "character": "Don Fabián"
+    },
+    {
+      "id": "nm8851245",
+      "name": "Jonas Sanche",
+      "character": "Carlitos"
+    },
+    {
+      "id": "nm5640848",
+      "name": "Tomás Alzamora Muñoz",
+      "character": "Campesino"
+    },
+    {
+      "id": "nm3057392",
+      "name": "Alejandra Yañez",
+      "character": "La Señora de la Cantina"
+    },
+    {
+      "id": "nm9977811",
+      "name": "Alejandra Yáñez",
+      "character": "La Señora de la Cantina"
+    }
+  ],
+  "countries": [
+    "Chile"
+  ],
+  "languages": [
+    "Spanish"
+  ],
+  "color": "Color",
+  "filmweb_id": 794905,
+  "year": 2017,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODE1MmQ4MjQtOGU5ZS00YzNmLWJjOGYtNzgwMTBiNjU2NTkzXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "La Mentirita Blanca",
+  "ratings": {
+    "imdb": {
+      "rating": 6.3,
+      "votes": 103,
+      "distribution": {
+        "1": 4,
+        "2": 3,
+        "3": 1,
+        "4": 9,
+        "5": 22,
+        "6": 24,
+        "7": 18,
+        "8": 5,
+        "9": 1,
+        "10": 16
+      },
+      "normalized": 5.1775
+    },
+    "filmweb": {
+      "rating": 6.31,
+      "votes": 80,
+      "distribution": {
+        "2": 0,
+        "3": 2,
+        "4": 4,
+        "5": 11,
+        "6": 26,
+        "7": 26,
+        "8": 9,
+        "9": 2,
+        "10": 0
+      },
+      "normalized": 4.8974
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "22.10.2017",
+      "normalized": 4.9718
+    },
+    "score": 5.0156
+  },
+  "polish_title": "Kłamstewko",
+  "silent": false,
+  "description_pl": "Edgardo jest dziennikarzem w miasteczku, w którym nic się nie dzieje. Skoro nic się nie dzieje, to gazeta się nie sprzedaje, reklamodawcy uciekają, a właściciel jest wściekły. Edgardo, żeby ratować swoją posadę, zaczyna uprawiać \"dziennikarstwo kreatywne\", a mówiąc wprost, zaczyna zmyślać. Sensacyjne materiały z wykorzystaniem zdjęć z sieci sprawiają, że gazeta ożywa i sprzedaje się jak gorące bułeczki. A sam Edgardo z szarego, nic nie znaczącego dziennikarzyny zmienia się w szanowanego członka społeczeństwa. Tylko czy można tak zmyślać bez końca? Oparta na prawdziwych wydarzeniach komedia o fake news i ich konsekwencjach.",
+  "producers": [
+    {
+      "id": "nm5640044",
+      "name": "Pablo Calisto"
+    },
+    {
+      "id": "nm11481629",
+      "name": "Christian Turres"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm6061519",
+      "name": "Jonathan Maldonado"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

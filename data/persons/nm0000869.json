@@ -1,0 +1,41 @@
+{
+  "id": "nm0000869",
+  "name": "Alan Bates",
+  "filmography": [
+    {
+      "imdb_id": "tt0057831",
+      "title": "Zorba the Greek",
+      "year": 1964,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Basil"
+    },
+    {
+      "imdb_id": "tt0067144",
+      "title": "The Go-Between",
+      "year": 1971,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Ted Burgess"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMGViMjBhMmQtZTFkMS00NDZkLWFlOTAtYjFhODhiMmIzOTBkXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "17.02.1934",
+  "death_date": "27.12.2003",
+  "birth_location": "Allestree, Derbyshire, England, UK",
+  "height": "1.76 m",
+  "imdb_scraped": true,
+  "filmweb_id": 40774,
+  "name_pl": "Alan Bates",
+  "birth_location_pl": "Allestree, Anglia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 40774
+}

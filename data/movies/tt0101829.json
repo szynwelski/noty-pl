@@ -1,0 +1,239 @@
+{
+  "imdb_id": "tt0101829",
+  "title": "Europa",
+  "description": "Just after World War II, an American takes a railway job in Germany, but finds his position politically sensitive with various people trying to use him.",
+  "runtime_minutes": 108,
+  "release_date": "27.06.1991",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0837784",
+      "name": "Barbara Sukowa"
+    },
+    {
+      "id": "nm0000852",
+      "name": "Jean-Marc Barr"
+    },
+    {
+      "id": "nm0001424",
+      "name": "Udo Kier"
+    },
+    {
+      "id": "nm0433495",
+      "name": "Ernst-Hugo Järegård"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001885",
+      "name": "Lars von Trier"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0001885",
+      "name": "Lars von Trier"
+    },
+    {
+      "id": "nm0905071",
+      "name": "Niels Vørsel"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0837784",
+      "name": "Barbara Sukowa",
+      "character": "Katharina Hartmann"
+    },
+    {
+      "id": "nm0000852",
+      "name": "Jean-Marc Barr",
+      "character": "Leopold Kessler"
+    },
+    {
+      "id": "nm0001424",
+      "name": "Udo Kier",
+      "character": "Lawrence Hartmann"
+    },
+    {
+      "id": "nm0433495",
+      "name": "Ernst-Hugo Järegård",
+      "character": "Uncle Kessler"
+    },
+    {
+      "id": "nm0618017",
+      "name": "Erik Mørk",
+      "character": "Pater"
+    },
+    {
+      "id": "nm0715866",
+      "name": "Jørgen Reenberg",
+      "character": "Max Hartmann"
+    },
+    {
+      "id": "nm0421473",
+      "name": "Henning Jensen",
+      "character": "Siggy"
+    },
+    {
+      "id": "nm0176061",
+      "name": "Eddie Constantine",
+      "character": "Colonel Harris"
+    },
+    {
+      "id": "nm0001884",
+      "name": "Max von Sydow",
+      "character": "Narrator"
+    },
+    {
+      "id": "nm0693689",
+      "name": "Benny Poulsen",
+      "character": "Steleman"
+    },
+    {
+      "id": "nm0618143",
+      "name": "Erno Müller",
+      "character": "Seifert"
+    },
+    {
+      "id": "nm0474039",
+      "name": "Dietrich Kuhlbrodt",
+      "character": "Inspector"
+    },
+    {
+      "id": "nm0801122",
+      "name": "Michael Phillip Simpson",
+      "character": "Robins"
+    },
+    {
+      "id": "nm0673670",
+      "name": "Holger Perfort",
+      "character": "Mr. Ravenstein"
+    },
+    {
+      "id": "nm0860884",
+      "name": "Anne Werner Thomsen",
+      "character": "Mrs. Ravenstein"
+    },
+    {
+      "id": "nm0421466",
+      "name": "Hardy Rafn",
+      "character": "Man in Housecoat"
+    },
+    {
+      "id": "nm0389993",
+      "name": "Cæcilia Holbek Trier",
+      "character": "Maid"
+    },
+    {
+      "id": "nm0380982",
+      "name": "János Herskó",
+      "character": "Jewish Man"
+    }
+  ],
+  "countries": [
+    "Denmark",
+    "Sweden",
+    "France",
+    "Germany",
+    "Switzerland"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Latin",
+    "Greek, Ancient (to 1453)"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 830,
+  "year": 1991,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZWU4MDBhZTktMzEyZC00NmUzLThjZjItOGI5ZjhkOGIzZWYwXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.5,
+      "votes": 24816,
+      "distribution": {
+        "1": 374,
+        "2": 183,
+        "3": 234,
+        "4": 481,
+        "5": 1079,
+        "6": 2345,
+        "7": 5627,
+        "8": 7191,
+        "9": 4077,
+        "10": 3225
+      },
+      "normalized": 6.3572
+    },
+    "filmweb": {
+      "rating": 7.4,
+      "votes": 6036,
+      "distribution": {
+        "1": 73,
+        "2": 17,
+        "3": 75,
+        "4": 124,
+        "5": 302,
+        "6": 668,
+        "7": 1576,
+        "8": 1927,
+        "9": 874,
+        "10": 400
+      },
+      "normalized": 6.3803
+    },
+    "michal": {
+      "rating": 8,
+      "date_rated": "19.10.2005",
+      "normalized": 8.1116
+    },
+    "score": 6.9497
+  },
+  "polish_title": "Europa",
+  "silent": false,
+  "description_pl": "Europa, pierwsze miesiące po II wojnie światowej. Młody Amerykanin przybywa do Niemiec, ojczyzny swych przodków, by pomóc ludziom skrzywdzonym przez wojnę. Zostaje konduktorem pociągów ekspresowych, kocha się w córce swego szefa. Ten jednak był związany z faszystami.",
+  "producers": [
+    {
+      "id": "nm0090350",
+      "name": "Philippe Bober"
+    },
+    {
+      "id": "nm0159734",
+      "name": "Bo Christensen"
+    },
+    {
+      "id": "nm0243235",
+      "name": "François Duplat"
+    },
+    {
+      "id": "nm0323885",
+      "name": "Patrick Godeau"
+    },
+    {
+      "id": "nm0421639",
+      "name": "Peter Aalbæk Jensen"
+    },
+    {
+      "id": "nm0593049",
+      "name": "Gérard Mital"
+    },
+    {
+      "id": "nm0643189",
+      "name": "Gunnar Obel"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0389996",
+      "name": "Joachim Holbek"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

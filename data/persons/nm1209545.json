@@ -1,0 +1,38 @@
+{
+  "id": "nm1209545",
+  "name": "Laverne Cox",
+  "filmography": [
+    {
+      "imdb_id": "tt9620292",
+      "title": "Promising Young Woman",
+      "year": 2020,
+      "roles": [
+        "cast"
+      ],
+      "character": "Gail"
+    },
+    {
+      "imdb_id": "tt8740976",
+      "title": "Inventing Anna",
+      "year": 2022,
+      "roles": [
+        "cast"
+      ],
+      "character": "Kacy Duke"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTM4MTk2NTQ2Ml5BMl5BanBnXkFtZTgwNzcwNzc4NzE@._V1_.jpg",
+  "birth_date": "29.05.1972",
+  "birth_location": "Mobile, Alabama, USA",
+  "height": "1.80 m",
+  "imdb_scraped": true,
+  "filmweb_id": 1547291,
+  "name_pl": "Laverne Cox",
+  "birth_location_pl": "Mobile, Alabama",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 1547291
+}

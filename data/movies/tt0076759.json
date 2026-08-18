@@ -1,0 +1,228 @@
+{
+  "imdb_id": "tt0076759",
+  "title": "Star Wars: Episode IV - A New Hope",
+  "description": "A farmboy joins forces with various allies to save their galaxy from the evil Empire's planet-destroying battle station, while also rescuing the princess leading the rebellion against them.",
+  "runtime_minutes": 121,
+  "release_date": "25.05.1977",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm0000434",
+      "name": "Mark Hamill"
+    },
+    {
+      "id": "nm0000148",
+      "name": "Harrison Ford"
+    },
+    {
+      "id": "nm0000402",
+      "name": "Carrie Fisher"
+    },
+    {
+      "id": "nm0000027",
+      "name": "Alec Guinness"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000184",
+      "name": "George Lucas"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000184",
+      "name": "George Lucas"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000434",
+      "name": "Mark Hamill",
+      "character": "Luke Skywalker"
+    },
+    {
+      "id": "nm0000148",
+      "name": "Harrison Ford",
+      "character": "Han Solo"
+    },
+    {
+      "id": "nm0000402",
+      "name": "Carrie Fisher",
+      "character": "Princess Leia Organa"
+    },
+    {
+      "id": "nm0001088",
+      "name": "Peter Cushing",
+      "character": "Grand Moff Tarkin"
+    },
+    {
+      "id": "nm0000027",
+      "name": "Alec Guinness",
+      "character": "Ben Obi-Wan Kenobi"
+    },
+    {
+      "id": "nm0000355",
+      "name": "Anthony Daniels",
+      "character": "C-3PO"
+    },
+    {
+      "id": "nm0048652",
+      "name": "Kenny Baker",
+      "character": "R2-D2"
+    },
+    {
+      "id": "nm0562679",
+      "name": "Peter Mayhew",
+      "character": "Chewbacca"
+    },
+    {
+      "id": "nm0001190",
+      "name": "David Prowse",
+      "character": "Lord Darth Vader"
+    },
+    {
+      "id": "nm0114436",
+      "name": "Phil Brown",
+      "character": "Uncle Owen"
+    },
+    {
+      "id": "nm0292235",
+      "name": "Shelagh Fraser",
+      "character": "Aunt Beru"
+    },
+    {
+      "id": "nm0701023",
+      "name": "Jack Purvis",
+      "character": "Chief Jawa"
+    },
+    {
+      "id": "nm0567018",
+      "name": "Alex McCrindle",
+      "character": "General Dodonna"
+    },
+    {
+      "id": "nm0125952",
+      "name": "Eddie Byrne",
+      "character": "General Willard"
+    },
+    {
+      "id": "nm0377120",
+      "name": "Drewe Henley",
+      "character": "Red Leader"
+    },
+    {
+      "id": "nm0493200",
+      "name": "Denis Lawson",
+      "character": "Red Two (Wedge)"
+    },
+    {
+      "id": "nm0353796",
+      "name": "Garrick Hagon",
+      "character": "Red Three (Biggs)"
+    },
+    {
+      "id": "nm0458161",
+      "name": "Jack Klaff",
+      "character": "Red Four (John D.)"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 759,
+  "year": 1977,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOGUwMDk0Y2MtNjBlNi00NmRiLTk2MWYtMGMyMDlhYmI4ZDBjXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Star Wars",
+  "ratings": {
+    "imdb": {
+      "rating": 8.6,
+      "votes": 1583467,
+      "distribution": {
+        "1": 19353,
+        "2": 4871,
+        "3": 6225,
+        "4": 10105,
+        "5": 24295,
+        "6": 60017,
+        "7": 183338,
+        "8": 380346,
+        "9": 420768,
+        "10": 474149
+      },
+      "normalized": 9.2428
+    },
+    "filmweb": {
+      "rating": 7.89,
+      "votes": 353296,
+      "distribution": {
+        "1": 4657,
+        "2": 1580,
+        "3": 2914,
+        "4": 4487,
+        "5": 9783,
+        "6": 24536,
+        "7": 70077,
+        "8": 110937,
+        "9": 63300,
+        "10": 61025
+      },
+      "normalized": 8.0808
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "02.12.2005",
+      "normalized": 5.6855
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "28.11.2015",
+      "normalized": 5.4199
+    },
+    "score": 7.1072
+  },
+  "polish_title": "Gwiezdne wojny: Część IV - Nowa nadzieja",
+  "silent": false,
+  "description_pl": "Dawno, dawno temu w odległej galaktyce...  Rycerze Jedi zostali wytępieni, a Imperium żelazną ręka sprawuje rządy nad całą galaktyką. Mała grupa Rebeliantów podejmuje walkę kradnąc tajne plany najpotężniejszej broni Imperium - tzw. Gwiazdy Śmierci. Najbardziej zaufany sługa Imperatora - Darth Vader musi odzyskać plany i odnaleźć ukrytą bazę buntowników. Księżniczka Leia - wzięta do niewoli przywódczyni Rebeliantów, wysyła sygnał z wezwaniem pomocy, który zostaje przechwycony przez zwykłego chłopaka z farmy - Luke'a Skywalkera. Wychodząc naprzeciw swemu przeznaczeniu, Luke podejmuje wyzwanie i rusza na ratunek Księżniczce chcąc pomóc Rebeliantom w obaleniu Imperium. W misji pomagają mu niezwykli sojusznicy - mądry Obi-Wan Kenobi, nieco arogancki gwiezdny awanturnik Han Solo i jego lojalny towarzysz Chewbacca a także dwa droidy R2-D2 i C-3PO.",
+  "producers": [
+    {
+      "id": "nm0476030",
+      "name": "Gary Kurtz"
+    },
+    {
+      "id": "nm0000184",
+      "name": "George Lucas"
+    },
+    {
+      "id": "nm0564768",
+      "name": "Rick McCallum"
+    },
+    {
+      "id": "nm0625425",
+      "name": "James Nelson"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0002354",
+      "name": "John Williams"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0852405",
+      "name": "Gilbert Taylor"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

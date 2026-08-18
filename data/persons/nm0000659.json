@@ -1,0 +1,48 @@
+{
+  "id": "nm0000659",
+  "name": "Barbra Streisand",
+  "filmography": [
+    {
+      "imdb_id": "tt0070903",
+      "title": "The Way We Were",
+      "year": 1973,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Katie Morosky"
+    },
+    {
+      "imdb_id": "tt0290002",
+      "title": "Meet the Fockers",
+      "year": 2004,
+      "roles": [
+        "cast"
+      ],
+      "character": "Roz Focker"
+    },
+    {
+      "imdb_id": "tt0970866",
+      "title": "Little Fockers",
+      "year": 2010,
+      "roles": [
+        "cast"
+      ],
+      "character": "Roz Focker"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjMwOTQ3NTg1MF5BMl5BanBnXkFtZTcwMjc4MjQ4OA@@._V1_.jpg",
+  "birth_date": "24.04.1942",
+  "birth_location": "Williamsburg, Brooklyn, New York City, New York, USA",
+  "height": "1.65 m",
+  "filmweb_id": 9170,
+  "name_pl": "Barbra Streisand",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 9170
+}

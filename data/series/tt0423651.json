@@ -1,0 +1,201 @@
+{
+  "imdb_id": "tt0423651",
+  "title": "Fingersmith",
+  "description": "In Victorian England, young thief Sue participates in a scam to defraud a rich heiress by becoming her maid. Things take an unexpected turn and Sue's plan goes horribly wrong.",
+  "runtime_minutes": 60,
+  "release_date": "02.04.2005",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0144187",
+      "name": "Elaine Cassidy"
+    },
+    {
+      "id": "nm1020089",
+      "name": "Sally Hawkins"
+    },
+    {
+      "id": "nm0001767",
+      "name": "Imelda Staunton"
+    },
+    {
+      "id": "nm1140344",
+      "name": "Rupert Evans"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0144187",
+      "name": "Elaine Cassidy",
+      "character": "Maud Lilly"
+    },
+    {
+      "id": "nm1020089",
+      "name": "Sally Hawkins",
+      "character": "Sue Trinder"
+    },
+    {
+      "id": "nm0001767",
+      "name": "Imelda Staunton",
+      "character": "Mrs. Sucksby"
+    },
+    {
+      "id": "nm1140344",
+      "name": "Rupert Evans",
+      "character": "Richard 'Gentleman' Rivers"
+    },
+    {
+      "id": "nm0873739",
+      "name": "David Troughton",
+      "character": "Mr. Ibbs"
+    },
+    {
+      "id": "nm0916037",
+      "name": "Bronson Webb",
+      "character": "John Vroom"
+    },
+    {
+      "id": "nm1643154",
+      "name": "Stephen Wight",
+      "character": "Charles"
+    },
+    {
+      "id": "nm0243983",
+      "name": "Richard Durden",
+      "character": "Mr. Hawtrey"
+    },
+    {
+      "id": "nm0376025",
+      "name": "Polly Hemingway",
+      "character": "Mrs. Stiles"
+    },
+    {
+      "id": "nm0997824",
+      "name": "Demelza Randall",
+      "character": "Dainty"
+    },
+    {
+      "id": "nm0001097",
+      "name": "Charles Dance",
+      "character": "Mr. Christopher Lilly"
+    },
+    {
+      "id": "nm0046002",
+      "name": "Sarah Badel",
+      "character": "Mrs. Frobisher"
+    },
+    {
+      "id": "nm0540516",
+      "name": "Tina Malone",
+      "character": "Nurse Spiller"
+    },
+    {
+      "id": "nm0605088",
+      "name": "Wendy Morgan",
+      "character": "Mrs. Cream"
+    },
+    {
+      "id": "nm0334290",
+      "name": "Sam Graham",
+      "character": "Dr. Christie"
+    },
+    {
+      "id": "nm1877404",
+      "name": "Laura Dos Santos",
+      "character": "Agnes"
+    },
+    {
+      "id": "nm0524250",
+      "name": "Nick Lucas",
+      "character": "Mr. Huss"
+    },
+    {
+      "id": "nm0647035",
+      "name": "William Oliver",
+      "character": "Dr. Graves"
+    }
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "year": 2005,
+  "type": "tvMiniSeries",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZWU0YzU5YzctMjk4MS00NzNkLTgzYWEtOTE1YjQzZjExN2YxXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 152990,
+  "ratings": {
+    "imdb": {
+      "rating": 7.8,
+      "votes": 10487,
+      "distribution": {
+        "1": 241,
+        "2": 69,
+        "3": 76,
+        "4": 121,
+        "5": 288,
+        "6": 691,
+        "7": 1606,
+        "8": 2638,
+        "9": 1836,
+        "10": 2921
+      }
+    },
+    "filmweb": {
+      "rating": 7.47,
+      "votes": 5002,
+      "distribution": {
+        "1": 21,
+        "2": 16,
+        "3": 52,
+        "4": 94,
+        "5": 258,
+        "6": 603,
+        "7": 1347,
+        "8": 1514,
+        "9": 650,
+        "10": 447
+      }
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "17.01.2018"
+    }
+  },
+  "polish_title": "Złodziejka",
+  "silent": false,
+  "description_pl": "Wiktoriańska Anglia, 1862 rok. Susan Trinder i Maud Lilly mają po osiemnaście lat, obie są sierotami, obie straciły matki w dramatycznych okolicznościach. Sue Trinder, córka złodziejki i morderczyni, mieszka w Londynie przy Lant Street, w domu oszusta i pasera, gdzie codziennie załatwia się brudne interesy. Panna Maud Lilly - wykształcona młoda dama - wychowuje się w Briar, posiadłości wuja, miłośnika i kolekcjonera nader specyficznego gatunku książek. Pewnego dnia losy obu dziewcząt się łączą.",
+  "producers": [
+    {
+      "id": "nm0372165",
+      "name": "Sally Head"
+    },
+    {
+      "id": "nm0522946",
+      "name": "Georgina Lowe"
+    },
+    {
+      "id": "nm0623765",
+      "name": "Gareth Neame"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0085685",
+      "name": "Richard Blackford"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0467313",
+      "name": "Simon Kossoff"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

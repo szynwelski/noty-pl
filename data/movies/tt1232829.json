@@ -1,0 +1,246 @@
+{
+  "imdb_id": "tt1232829",
+  "title": "21 Jump Street",
+  "description": "A pair of underachieving cops are sent back to a local high school to blend in and bring down a synthetic drug ring.",
+  "runtime_minutes": 109,
+  "release_date": "16.03.2012",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Crime"
+  ],
+  "stars": [
+    {
+      "id": "nm1706767",
+      "name": "Jonah Hill"
+    },
+    {
+      "id": "nm1475594",
+      "name": "Channing Tatum"
+    },
+    {
+      "id": "nm0001084",
+      "name": "Ice Cube"
+    },
+    {
+      "id": "nm0488953",
+      "name": "Brie Larson"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0520488",
+      "name": "Phil Lord"
+    },
+    {
+      "id": "nm0588087",
+      "name": "Christopher Miller"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0045209",
+      "name": "Michael Bacall"
+    },
+    {
+      "id": "nm1706767",
+      "name": "Jonah Hill"
+    },
+    {
+      "id": "nm0367895",
+      "name": "Patrick Hasburgh"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1706767",
+      "name": "Jonah Hill",
+      "character": "Schmidt"
+    },
+    {
+      "id": "nm1475594",
+      "name": "Channing Tatum",
+      "character": "Jenko"
+    },
+    {
+      "id": "nm0001084",
+      "name": "Ice Cube",
+      "character": "Captain Dickson"
+    },
+    {
+      "id": "nm0488953",
+      "name": "Brie Larson",
+      "character": "Molly Tracey"
+    },
+    {
+      "id": "nm2002649",
+      "name": "Dave Franco",
+      "character": "Eric Molson"
+    },
+    {
+      "id": "nm1443527",
+      "name": "Rob Riggle",
+      "character": "Mr. Walters"
+    },
+    {
+      "id": "nm1154986",
+      "name": "DeRay Davis",
+      "character": "Domingo"
+    },
+    {
+      "id": "nm3967702",
+      "name": "Dax Flame",
+      "character": "Zack"
+    },
+    {
+      "id": "nm0663177",
+      "name": "Chris Parnell",
+      "character": "Mr. Gordon"
+    },
+    {
+      "id": "nm2608689",
+      "name": "Ellie Kemper",
+      "character": "Ms. Griggs"
+    },
+    {
+      "id": "nm2159926",
+      "name": "Jake Johnson",
+      "character": "Principal Dadier"
+    },
+    {
+      "id": "nm0644406",
+      "name": "Nick Offerman",
+      "character": "Deputy Chief Hardy"
+    },
+    {
+      "id": "nm0005372",
+      "name": "Holly Robinson Peete",
+      "character": "Officer Judy Hoffs"
+    },
+    {
+      "id": "nm2922572",
+      "name": "Johnny Pemberton",
+      "character": "Delroy"
+    },
+    {
+      "id": "nm3197294",
+      "name": "Stanley Wong",
+      "character": "Roman"
+    },
+    {
+      "id": "nm2058713",
+      "name": "Justin Hires",
+      "character": "Juario"
+    },
+    {
+      "id": "nm3512352",
+      "name": "Brett Lapeyrouse",
+      "character": "Amir"
+    },
+    {
+      "id": "nm2365442",
+      "name": "Lindsey Broad",
+      "character": "Lisa"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 208694,
+  "year": 2012,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTg2NjJiODctM2IyMS00MmQ5LWI1YmQtNTBjMTI4M2U2YzA5XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.2,
+      "votes": 653048,
+      "distribution": {
+        "1": 5076,
+        "2": 3262,
+        "3": 5482,
+        "4": 11531,
+        "5": 30880,
+        "6": 91179,
+        "7": 209223,
+        "8": 173215,
+        "9": 65766,
+        "10": 57434
+      },
+      "normalized": 5.9719
+    },
+    "filmweb": {
+      "rating": 6.94,
+      "votes": 173801,
+      "distribution": {
+        "1": 450,
+        "2": 696,
+        "3": 2557,
+        "4": 5013,
+        "5": 13473,
+        "6": 34883,
+        "7": 59718,
+        "8": 38350,
+        "9": 12170,
+        "10": 6491
+      },
+      "normalized": 5.5065
+    },
+    "jarek": {
+      "rating": 2,
+      "date_rated": "21.02.2013",
+      "normalized": 3.5003
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "07.08.2015",
+      "normalized": 4.5781
+    },
+    "score": 4.8892
+  },
+  "polish_title": "21 Jump Street",
+  "silent": false,
+  "description_pl": "Byli wrogami w szkole, teraz są partnerami w policji, których nie sposób rozdzielić. Otrzymują zadanie, by wcielić się w studentów i rozbić gang narkotykowy  na swojej dawnej uczelni. Gdy jednak muszą znowu wieść żywot  nastolatków, do głosu dochodzi ich młodzieńcza niedojrzałość, która może  zagrozić powodzeniu misji a także ich przyjaźni - rezultaty są  przekomiczne!",
+  "producers": [
+    {
+      "id": "nm0004798",
+      "name": "Stephen J. Cannell"
+    },
+    {
+      "id": "nm1706767",
+      "name": "Jonah Hill"
+    },
+    {
+      "id": "nm1815091",
+      "name": "Tania Landau"
+    },
+    {
+      "id": "nm0605775",
+      "name": "Neal H. Moritz"
+    },
+    {
+      "id": "nm0842470",
+      "name": "Ezra Swerdlow"
+    },
+    {
+      "id": "nm1475594",
+      "name": "Channing Tatum"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006205",
+      "name": "Mark Mothersbaugh"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0677021",
+      "name": "Barry Peterson"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

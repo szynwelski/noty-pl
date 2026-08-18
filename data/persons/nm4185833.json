@@ -1,0 +1,44 @@
+{
+  "id": "nm4185833",
+  "name": "William A. Boardway",
+  "filmography": [
+    {
+      "imdb_id": "tt0025316",
+      "title": "It Happened One Night",
+      "year": 1934,
+      "roles": [
+        "cast"
+      ],
+      "character": "Wedding Guest"
+    },
+    {
+      "imdb_id": "tt0027125",
+      "title": "Top Hat",
+      "year": 1935,
+      "roles": [
+        "cast"
+      ],
+      "character": "Club Member"
+    },
+    {
+      "imdb_id": "tt0038355",
+      "title": "The Big Sleep",
+      "year": 1946,
+      "roles": [
+        "cast"
+      ],
+      "character": "Casino Patron"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYzRiMTM3ZGUtN2M2ZC00NDhkLThlMzYtMGZlYjE3NzAzOGZiXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "11.01.1889",
+  "death_date": "24.04.1962",
+  "birth_location": "New York, USA",
+  "height": "1.73 m",
+  "imdb_scraped": true,
+  "filmweb_id": 2884657,
+  "name_pl": "William A. Boardway",
+  "birth_location_pl": "Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true
+}

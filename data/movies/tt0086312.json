@@ -1,0 +1,234 @@
+{
+  "imdb_id": "tt0086312",
+  "title": "Silkwood",
+  "description": "A worker at a plutonium processing plant is purposefully contaminated, psychologically tortured and possibly murdered to prevent her from exposing worker safety violations at the plant.",
+  "runtime_minutes": 131,
+  "release_date": "27.01.1984",
+  "genres": [
+    "Biography",
+    "Drama",
+    "History",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000658",
+      "name": "Meryl Streep"
+    },
+    {
+      "id": "nm0000621",
+      "name": "Kurt Russell"
+    },
+    {
+      "id": "nm0000333",
+      "name": "Cher"
+    },
+    {
+      "id": "nm0005266",
+      "name": "Craig T. Nelson"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001566",
+      "name": "Mike Nichols"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0001188",
+      "name": "Nora Ephron"
+    },
+    {
+      "id": "nm0035146",
+      "name": "Alice Arlen"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000658",
+      "name": "Meryl Streep",
+      "character": "Karen Silkwood"
+    },
+    {
+      "id": "nm0000621",
+      "name": "Kurt Russell",
+      "character": "Drew Stephens"
+    },
+    {
+      "id": "nm0000333",
+      "name": "Cher",
+      "character": "Dolly Pelliker"
+    },
+    {
+      "id": "nm0005266",
+      "name": "Craig T. Nelson",
+      "character": "Winston"
+    },
+    {
+      "id": "nm0769311",
+      "name": "Diana Scarwid",
+      "character": "Angela"
+    },
+    {
+      "id": "nm0911542",
+      "name": "Fred Ward",
+      "character": "Morgan"
+    },
+    {
+      "id": "nm0798779",
+      "name": "Ron Silver",
+      "character": "Paul Stone"
+    },
+    {
+      "id": "nm0356251",
+      "name": "Charles Hallahan",
+      "character": "Earl Lapin"
+    },
+    {
+      "id": "nm0813977",
+      "name": "Josef Sommer",
+      "character": "Max Richter"
+    },
+    {
+      "id": "nm0094048",
+      "name": "Sudie Bond",
+      "character": "Thelma Rice"
+    },
+    {
+      "id": "nm0287098",
+      "name": "Henderson Forsythe",
+      "character": "Quincy Bissell"
+    },
+    {
+      "id": "nm0449684",
+      "name": "E. Katherine Kerr",
+      "character": "Gilda Schultz"
+    },
+    {
+      "id": "nm0569226",
+      "name": "Bruce McGill",
+      "character": "Mace Hurley"
+    },
+    {
+      "id": "nm0000657",
+      "name": "David Strathairn",
+      "character": "Wesley"
+    },
+    {
+      "id": "nm0703862",
+      "name": "J.C. Quinn",
+      "character": "Curtis Schultz"
+    },
+    {
+      "id": "nm0110398",
+      "name": "Kent Broadhurst",
+      "character": "Carl"
+    },
+    {
+      "id": "nm0358118",
+      "name": "Richard Hamilton",
+      "character": "Georgie"
+    },
+    {
+      "id": "nm0486985",
+      "name": "Les Lannom",
+      "character": "Jimmy"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 9539,
+  "year": 1983,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOGVhMWYzNWQtODQ4NS00OTI5LTlmYjEtNWZlZjc2OWIxYzg5XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.1,
+      "votes": 24983,
+      "distribution": {
+        "1": 329,
+        "2": 143,
+        "3": 231,
+        "4": 442,
+        "5": 1201,
+        "6": 3563,
+        "7": 8345,
+        "8": 5898,
+        "9": 2412,
+        "10": 2419
+      },
+      "normalized": 5.7023
+    },
+    "filmweb": {
+      "rating": 6.93,
+      "votes": 2697,
+      "distribution": {
+        "1": 14,
+        "2": 24,
+        "3": 60,
+        "4": 91,
+        "5": 187,
+        "6": 487,
+        "7": 912,
+        "8": 593,
+        "9": 193,
+        "10": 136
+      },
+      "normalized": 5.4537
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "27.10.2006",
+      "normalized": 5.4199
+    },
+    "score": 5.5253
+  },
+  "polish_title": "Silkwood",
+  "silent": false,
+  "description_pl": "Historia oparta na faktach. Karen Silkwood pracująca przy reaktorze jądrowym odkrywa niezgodne z prawem praktyki, mogące negatywnie wpłynąć na zdrowie i życie pracowników. Próbuje interweniować.",
+  "producers": [
+    {
+      "id": "nm0134330",
+      "name": "Larry Cano"
+    },
+    {
+      "id": "nm0369592",
+      "name": "Michael Hausman"
+    },
+    {
+      "id": "nm0386449",
+      "name": "Buzz Hirsch"
+    },
+    {
+      "id": "nm0001566",
+      "name": "Mike Nichols"
+    },
+    {
+      "id": "nm0832915",
+      "name": "Tom Stovall"
+    },
+    {
+      "id": "nm0875636",
+      "name": "Joel Tuber"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0000016",
+      "name": "Georges Delerue"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005816",
+      "name": "Miroslav Ondříček"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

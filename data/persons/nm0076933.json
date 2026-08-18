@@ -1,0 +1,47 @@
+{
+  "id": "nm0076933",
+  "name": "Bleuette Bernon",
+  "filmography": [
+    {
+      "imdb_id": "tt0000230",
+      "title": "Cinderella",
+      "year": 1899,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "The Fairy Godmother"
+    },
+    {
+      "imdb_id": "tt0131934",
+      "title": "Bluebeard",
+      "year": 1901,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "La fée"
+    },
+    {
+      "imdb_id": "tt0000417",
+      "title": "A Trip to the Moon",
+      "year": 1902,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Lady in the Moon"
+    }
+  ],
+  "birth_date": "06.06.1878",
+  "death_date": "15.06.1937",
+  "birth_location": "Paris, France",
+  "filmweb_id": 64053,
+  "name_pl": "Bleuette Bernon",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "nm0074186",
+  "name": "Grete Berger",
+  "filmography": [
+    {
+      "imdb_id": "tt0003419",
+      "title": "The Student of Prague",
+      "year": 1913,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Countess Margit von Schwarzenberg"
+    },
+    {
+      "imdb_id": "tt0012494",
+      "title": "Destiny",
+      "year": 1921,
+      "roles": [
+        "cast"
+      ],
+      "character": "Mother"
+    },
+    {
+      "imdb_id": "tt0017136",
+      "title": "Metropolis",
+      "year": 1927,
+      "roles": [
+        "cast"
+      ],
+      "character": "Arbeiterin"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZjE5YmUyNzgtZDFkYy00OGM4LTgyODYtNDcyOWMwOTEyNTY0XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "11.02.1883",
+  "death_date": "23.05.1944",
+  "birth_location": "Jägerndorf, Moravia, Austria-Hungary [now Krnov, Czech Republic]",
+  "filmweb_id": 47762,
+  "name_pl": "Grete Berger",
+  "birth_location_pl": "Karniów",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Austria"
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "imdb_id": "tt0012364",
+  "title": "The Phantom Carriage",
+  "description": "On New Year's Eve, the driver of a ghostly carriage forces a drunken man to reflect on his selfish, wasted life.",
+  "runtime_minutes": 107,
+  "release_date": "04.06.1922",
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "Horror"
+  ],
+  "stars": [
+    {
+      "id": "nm0803705",
+      "name": "Victor Sjöström"
+    },
+    {
+      "id": "nm0096737",
+      "name": "Hilda Borgström"
+    },
+    {
+      "id": "nm0841061",
+      "name": "Tore Svennberg"
+    },
+    {
+      "id": "nm0391474",
+      "name": "Astrid Holm"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0803705",
+      "name": "Victor Sjöström"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0481248",
+      "name": "Selma Lagerlöf"
+    },
+    {
+      "id": "nm0803705",
+      "name": "Victor Sjöström"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0803705",
+      "name": "Victor Sjöström",
+      "character": "David Holm"
+    },
+    {
+      "id": "nm0096737",
+      "name": "Hilda Borgström",
+      "character": "Anna Holm - David Holms fru"
+    },
+    {
+      "id": "nm0841061",
+      "name": "Tore Svennberg",
+      "character": "Georges - Davids vän"
+    },
+    {
+      "id": "nm0391474",
+      "name": "Astrid Holm",
+      "character": "Syster Edit - Slumsyster"
+    },
+    {
+      "id": "nm0782943",
+      "name": "Concordia Selander",
+      "character": "Edits mor"
+    },
+    {
+      "id": "nm0526479",
+      "name": "Lisa Lundholm",
+      "character": "Syster Maria - Slumsyster"
+    },
+    {
+      "id": "nm0917912",
+      "name": "Tor Weijden",
+      "character": "Gustafsson - Frälsningssoldat"
+    },
+    {
+      "id": "nm0043509",
+      "name": "Einar Axelsson",
+      "character": "Davids yngre bror"
+    },
+    {
+      "id": "nm0959818",
+      "name": "Olof Ås",
+      "character": "Den första körkarlen"
+    },
+    {
+      "id": "nm0014363",
+      "name": "Nils Aréhn",
+      "character": "Fängelsepredikanten"
+    },
+    {
+      "id": "nm0512442",
+      "name": "Simon Lindstrand",
+      "character": "Davids supkamrat på kyrkogården (1)"
+    },
+    {
+      "id": "nm0253307",
+      "name": "Nils Elffors",
+      "character": "Davids supkamrat på kyrkogården (2)"
+    },
+    {
+      "id": "nm0348262",
+      "name": "Algot Gunnarsson",
+      "character": "En arbetare på krogen"
+    },
+    {
+      "id": "nm0514371",
+      "name": "Hildur Lithman",
+      "character": "Arbetarhustrun på krogen"
+    },
+    {
+      "id": "nm0071091",
+      "name": "Josua Bengtson",
+      "character": "Ena kortspelaren"
+    },
+    {
+      "id": "nm0016817",
+      "name": "Emmy Albiin",
+      "character": "Kvinna med lungsot"
+    },
+    {
+      "id": "nm0111144",
+      "name": "Helga Brofeldt",
+      "character": "Servitris på krogen (1)"
+    },
+    {
+      "id": "nm0311957",
+      "name": "Mona Geijer-Falkner",
+      "character": "Servitris på krogen (2)"
+    }
+  ],
+  "countries": [
+    "Sweden"
+  ],
+  "languages": [
+    "None",
+    "Swedish"
+  ],
+  "color": null,
+  "filmweb_id": 101004,
+  "year": 1921,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNGVmY2EyZTktYzUwMy00YTU1LWJhZDYtNjIwYTFhMTZhOTVhXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Körkarlen",
+  "ratings": {
+    "imdb": {
+      "rating": 8,
+      "votes": 15943,
+      "distribution": {
+        "1": 327,
+        "2": 68,
+        "3": 96,
+        "4": 213,
+        "5": 438,
+        "6": 1162,
+        "7": 2612,
+        "8": 5069,
+        "9": 3217,
+        "10": 2741
+      },
+      "normalized": 7.3408
+    },
+    "filmweb": {
+      "rating": 7.79,
+      "votes": 5156,
+      "distribution": {
+        "1": 72,
+        "2": 13,
+        "3": 28,
+        "4": 45,
+        "5": 130,
+        "6": 336,
+        "7": 1178,
+        "8": 1841,
+        "9": 984,
+        "10": 529
+      },
+      "normalized": 7.3701
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "16.12.2007",
+      "normalized": 7.2292
+    },
+    "score": 7.3134
+  },
+  "polish_title": "Furman śmierci",
+  "silent": true,
+  "description_pl": "Jest Sylwester. Trzech pijaków opowiada legendę. Legenda ta mówi o tym, że osoba która ostatnia umrze w roku kalendarzowym i na dodatek jest grzesznikiem, będzie musiała prowadzić przez cały następny rok tzw. \"Wóz widmo\". Jej zadaniem będzie zbieranie dusz umarłych osób... David Holm, jeden z pijaków umiera właśnie jako ostatni człowiek w roku...",
+  "cinematographers": [
+    {
+      "id": "nm0005748",
+      "name": "Julius Jaenzon"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-15"
+}

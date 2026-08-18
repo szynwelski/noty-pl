@@ -1,0 +1,31 @@
+{
+  "id": "nm0794297",
+  "name": "Anne Shirley",
+  "filmography": [
+    {
+      "imdb_id": "tt0037101",
+      "title": "Murder, My Sweet",
+      "year": 1944,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Ann Grayle"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZTIwNDVmMzYtZDhkOS00NjViLWE4NjEtOTI2Nzg0ZjMwMTI4XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "17.04.1918",
+  "death_date": "04.07.1993",
+  "birth_location": "New York City, New York, USA",
+  "height": "1.57 m",
+  "imdb_scraped": true,
+  "filmweb_id": 110914,
+  "name_pl": "Anne Shirley",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 110914
+}

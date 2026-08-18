@@ -1,0 +1,39 @@
+{
+  "id": "nm0552483",
+  "name": "Jean Martin",
+  "filmography": [
+    {
+      "imdb_id": "tt0058946",
+      "title": "The Battle of Algiers",
+      "year": 1966,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Col. Mathieu"
+    },
+    {
+      "imdb_id": "tt0069947",
+      "title": "The Day of the Jackal",
+      "year": 1973,
+      "roles": [
+        "cast"
+      ],
+      "character": "Wolenski"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDY2MDA0ODUyMF5BMl5BanBnXkFtZTcwNjI5ODQwNw@@._V1_.jpg",
+  "birth_date": "06.03.1922",
+  "death_date": "02.02.2009",
+  "birth_location": "Paris, France",
+  "height": "1.90 m",
+  "imdb_scraped": true,
+  "filmweb_id": 49298,
+  "name_pl": "Jean Martin",
+  "birth_location_pl": "Paryż",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja"
+  ]
+}

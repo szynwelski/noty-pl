@@ -1,0 +1,142 @@
+{
+  "imdb_id": "tt0060345",
+  "title": "How the Grinch Stole Christmas!",
+  "description": "A grumpy hermit hatches a plan to steal Christmas from the Whos of Whoville.",
+  "runtime_minutes": 26,
+  "release_date": "18.12.1966",
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Family",
+    "Fantasy",
+    "Musical"
+  ],
+  "stars": [
+    {
+      "id": "nm0000472",
+      "name": "Boris Karloff"
+    },
+    {
+      "id": "nm0004931",
+      "name": "June Foray"
+    },
+    {
+      "id": "nm0268428",
+      "name": "Dal McKennon"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0005062",
+      "name": "Chuck Jones"
+    },
+    {
+      "id": "nm0913326",
+      "name": "Ben Washam"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0317450",
+      "name": "Dr. Seuss"
+    },
+    {
+      "id": "nm0817476",
+      "name": "Irv Spector"
+    },
+    {
+      "id": "nm0644727",
+      "name": "Bob Ogle"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000472",
+      "name": "Boris Karloff",
+      "character": "Narrator"
+    },
+    {
+      "id": "nm0004931",
+      "name": "June Foray",
+      "character": "Cindy Lou Who"
+    },
+    {
+      "id": "nm0268428",
+      "name": "Dal McKennon",
+      "character": "Max"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 31890,
+  "year": 1966,
+  "type": "tvMovie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZmQ3YWZhNDctY2JmOS00MTEwLTg4MjYtY2NmNjg2MzUzYzhmXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8.3,
+      "votes": 66520,
+      "distribution": {
+        "1": 634,
+        "2": 246,
+        "3": 343,
+        "4": 579,
+        "5": 1637,
+        "6": 4022,
+        "7": 9439,
+        "8": 16833,
+        "9": 13198,
+        "10": 19589
+      },
+      "normalized": 8.2773
+    },
+    "filmweb": {
+      "rating": 7.07,
+      "votes": 2525,
+      "distribution": {
+        "1": 13,
+        "2": 8,
+        "3": 37,
+        "4": 78,
+        "5": 158,
+        "6": 463,
+        "7": 840,
+        "8": 558,
+        "9": 204,
+        "10": 166
+      },
+      "normalized": 5.677
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "09.12.2016",
+      "normalized": 5.6855
+    },
+    "score": 6.5466
+  },
+  "polish_title": "Grinch: Świąt nie będzie",
+  "silent": false,
+  "description_pl": "Klasyk literatury dziecięcej dr Seuss. Genialny animator Chuck Jones. Obaj już za życia stali się legendami, nic więc dziwnego, że film, który były owocem ich współpracy, GRINCH natychmiast po swej premierze zaliczony został do klasycznych pozycji kina familijnego i zdobył liczne prestiżowe nagrody, w tym cenione Peabody Awards. Narratorem opowieści o zrzędliwym Grinchu, który próbuje wykraść święta Bożego Narodzenia mieszkańcom Ktosiowa, jest nie kto inny jak sam Boris Karloff. Oglądając animowany film dr. Seussa weźmiesz udział we wspaniałym festynie radości, poznasz niezwykłych bohaterów, przezabawne wierszyki i wesołe piosenki.",
+  "producers": [
+    {
+      "id": "nm0005062",
+      "name": "Chuck Jones"
+    },
+    {
+      "id": "nm0317450",
+      "name": "Dr. Seuss"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0687927",
+      "name": "Eugene Poddany"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

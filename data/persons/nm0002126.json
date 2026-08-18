@@ -1,0 +1,46 @@
+{
+  "id": "nm0002126",
+  "name": "Dorian Harewood",
+  "filmography": [
+    {
+      "imdb_id": "tt0093058",
+      "title": "Full Metal Jacket",
+      "year": 1987,
+      "roles": [
+        "cast"
+      ],
+      "character": "Eightball"
+    },
+    {
+      "imdb_id": "tt0118528",
+      "title": "12 Angry Men",
+      "year": 1997,
+      "roles": [
+        "cast"
+      ],
+      "character": "Juror #5"
+    },
+    {
+      "imdb_id": "tt0348836",
+      "title": "Gothika",
+      "year": 2003,
+      "roles": [
+        "cast"
+      ],
+      "character": "Teddy Howard"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjI2MjQzNzcxNV5BMl5BanBnXkFtZTcwMTU1NDg5Nw@@._V1_.jpg",
+  "birth_date": "06.08.1950",
+  "birth_location": "Dayton, Ohio, USA",
+  "height": "1.78 m",
+  "filmweb_id": 6003,
+  "name_pl": "Dorian Harewood",
+  "birth_location_pl": "Dayton, Ohio",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

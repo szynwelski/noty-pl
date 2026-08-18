@@ -1,0 +1,107 @@
+{
+  "imdb_id": "tt0000017",
+  "title": "Italian Peasant Dance",
+  "description": "The first sequence of the \"Wintergartenprogramm (1895)\" by the Skladanowsky Brothers. In it, two children, Ploetz and Larella, perform an Italian peasant dance.",
+  "runtime_minutes": 1,
+  "release_date": "01.11.1895",
+  "genres": [
+    "Documentary",
+    "Short"
+  ],
+  "stars": [
+    {
+      "id": "nm3691272",
+      "name": "Ploetz"
+    },
+    {
+      "id": "nm3692829",
+      "name": "Larella"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm1587194",
+      "name": "Emil Skladanowsky"
+    },
+    {
+      "id": "nm0804434",
+      "name": "Max Skladanowsky"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm3691272",
+      "name": "Ploetz",
+      "character": "Self - The boy"
+    },
+    {
+      "id": "nm3692829",
+      "name": "Larella",
+      "character": "Self - The girl"
+    }
+  ],
+  "countries": [
+    "Germany"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 220404,
+  "year": 1895,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYjM2M2NhMTQtNDY2ZS00YWVjLWExNzgtZjZhMmVkODE2NDc5XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 4.6,
+      "votes": 418,
+      "distribution": {
+        "1": 34,
+        "2": 29,
+        "3": 38,
+        "4": 71,
+        "5": 120,
+        "6": 67,
+        "7": 24,
+        "8": 10,
+        "9": 4,
+        "10": 21
+      },
+      "normalized": 3.8789
+    },
+    "filmweb": {
+      "rating": 4.3,
+      "votes": 30,
+      "distribution": {
+        "1": 3,
+        "2": 4,
+        "3": 5,
+        "4": 3,
+        "5": 9,
+        "6": 1,
+        "7": 2,
+        "8": 2,
+        "9": 0,
+        "10": 1
+      },
+      "normalized": 4.6891
+    },
+    "jarek": {
+      "rating": 2,
+      "date_rated": "11.12.2016",
+      "normalized": 3.5003
+    },
+    "score": 4.0228
+  },
+  "polish_title": "Bauerntanz zweier Kinder",
+  "silent": true,
+  "cinematographers": [
+    {
+      "id": "nm0804434",
+      "name": "Max Skladanowsky"
+    }
+  ],
+  "composers": [],
+  "original_title": "Italienischer Bauerntanz",
+  "fetched_at": "2026-08-15"
+}

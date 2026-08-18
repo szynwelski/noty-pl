@@ -1,0 +1,252 @@
+{
+  "imdb_id": "tt0348150",
+  "title": "Superman Returns",
+  "description": "Superman returns to Earth after spending five years in space examining his homeworld Krypton. But he finds things have changed while he was gone, and he must once again prove himself important to the world.",
+  "runtime_minutes": 154,
+  "release_date": "30.06.2006",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm0746125",
+      "name": "Brandon Routh"
+    },
+    {
+      "id": "nm0000228",
+      "name": "Kevin Spacey"
+    },
+    {
+      "id": "nm0098378",
+      "name": "Kate Bosworth"
+    },
+    {
+      "id": "nm0005188",
+      "name": "James Marsden"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001741",
+      "name": "Bryan Singer"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1002424",
+      "name": "Michael Dougherty"
+    },
+    {
+      "id": "nm0003529",
+      "name": "Dan Harris"
+    },
+    {
+      "id": "nm0001741",
+      "name": "Bryan Singer"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0746125",
+      "name": "Brandon Routh",
+      "character": "Clark Kent"
+    },
+    {
+      "id": "nm0000228",
+      "name": "Kevin Spacey",
+      "character": "Lex Luthor"
+    },
+    {
+      "id": "nm0098378",
+      "name": "Kate Bosworth",
+      "character": "Lois Lane"
+    },
+    {
+      "id": "nm0005188",
+      "name": "James Marsden",
+      "character": "Richard White"
+    },
+    {
+      "id": "nm0000205",
+      "name": "Parker Posey",
+      "character": "Kitty Kowalski"
+    },
+    {
+      "id": "nm0001449",
+      "name": "Frank Langella",
+      "character": "Perry White"
+    },
+    {
+      "id": "nm0403134",
+      "name": "Sam Huntington",
+      "character": "Jimmy Olsen"
+    },
+    {
+      "id": "nm0001693",
+      "name": "Eva Marie Saint",
+      "character": "Martha Kent"
+    },
+    {
+      "id": "nm0000008",
+      "name": "Marlon Brando",
+      "character": "Jor-El"
+    },
+    {
+      "id": "nm0671980",
+      "name": "Kal Penn",
+      "character": "Stanford"
+    },
+    {
+      "id": "nm2294573",
+      "name": "Tristan Lake Leabu",
+      "character": "Jason White"
+    },
+    {
+      "id": "nm0264781",
+      "name": "David Fabrizio",
+      "character": "Brutus"
+    },
+    {
+      "id": "nm1345123",
+      "name": "Ian Roberts",
+      "character": "Riley"
+    },
+    {
+      "id": "nm1651267",
+      "name": "Vincent Stone",
+      "character": "Grant"
+    },
+    {
+      "id": "nm0489001",
+      "name": "Jack Larson",
+      "character": "Bo the Bartender"
+    },
+    {
+      "id": "nm0624747",
+      "name": "Noel Neill",
+      "character": "Gertrude Vanderworth"
+    },
+    {
+      "id": "nm0439170",
+      "name": "James Karen",
+      "character": "Ben Hubbard"
+    },
+    {
+      "id": "nm1837610",
+      "name": "Stephan Bender",
+      "character": "15-Year-Old Clark"
+    }
+  ],
+  "countries": [
+    "United States",
+    "Australia"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French"
+  ],
+  "color": null,
+  "filmweb_id": 138858,
+  "year": 2006,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjg1ZGRiMTEtYmU4Zi00NTkwLWJmODQtMjU3MTAyMGQ2OGZlXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.1,
+      "votes": 304413,
+      "distribution": {
+        "1": 11681,
+        "2": 7126,
+        "3": 10795,
+        "4": 21047,
+        "5": 45179,
+        "6": 75092,
+        "7": 63620,
+        "8": 32945,
+        "9": 14228,
+        "10": 22700
+      },
+      "normalized": 3.6818
+    },
+    "filmweb": {
+      "rating": 5.46,
+      "votes": 32110,
+      "distribution": {
+        "1": 653,
+        "2": 833,
+        "3": 2603,
+        "4": 4113,
+        "5": 7905,
+        "6": 8011,
+        "7": 4856,
+        "8": 1799,
+        "9": 483,
+        "10": 854
+      },
+      "normalized": 2.543
+    },
+    "jarek": {
+      "rating": 3,
+      "date_rated": "29.12.2016",
+      "normalized": 4.2591
+    },
+    "score": 3.4946
+  },
+  "polish_title": "Superman: Powrót",
+  "silent": false,
+  "description_pl": "Superman (Człowiek ze Stali) powraca na Ziemię po sześciu latach nieobecności. W czasie kiedy nie było go na Ziemi, zło rozprzestrzeniło się tutaj z wielką mocą. Nawet Lex Luthor, niegdyś wyrzutek, jest teraz jednym z najpotężniejszych ludzi w Metropolis. Kiedy w mieście pojawia się stary wróg Supermana z planety Krypton, superbohater na nowo musi rozpocząć swoją niekończącą się walkę ze złem.",
+  "producers": [
+    {
+      "id": "nm0012155",
+      "name": "Gilbert Adler"
+    },
+    {
+      "id": "nm0269621",
+      "name": "William Fay"
+    },
+    {
+      "id": "nm0002331",
+      "name": "Stephen Jones"
+    },
+    {
+      "id": "nm0497019",
+      "name": "Chris Lee"
+    },
+    {
+      "id": "nm0575858",
+      "name": "Scott Mednick"
+    },
+    {
+      "id": "nm0650038",
+      "name": "Lorne Orleans"
+    },
+    {
+      "id": "nm0005307",
+      "name": "Jon Peters"
+    },
+    {
+      "id": "nm0001741",
+      "name": "Bryan Singer"
+    },
+    {
+      "id": "nm2100078",
+      "name": "Thomas Tull"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0653211",
+      "name": "John Ottman"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005875",
+      "name": "Newton Thomas Sigel"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

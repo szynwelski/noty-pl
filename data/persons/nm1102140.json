@@ -1,0 +1,42 @@
+{
+  "id": "nm1102140",
+  "name": "Josh Radnor",
+  "filmography": [
+    {
+      "imdb_id": "tt0460649",
+      "title": "How I Met Your Mother",
+      "year": 2005,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Ted Mosby"
+    },
+    {
+      "imdb_id": "tt1481572",
+      "title": "Happythankyoumoreplease",
+      "year": 2010,
+      "roles": [
+        "director",
+        "writer",
+        "star",
+        "cast"
+      ],
+      "character": "Sam Wexler"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjAwNTUxMTM4OF5BMl5BanBnXkFtZTcwNjUyNzc4Mg@@._V1_.jpg",
+  "birth_date": "29.07.1974",
+  "birth_location": "Columbus, Ohio, USA",
+  "height": "1.81 m",
+  "imdb_scraped": true,
+  "filmweb_id": 239480,
+  "name_pl": "Josh Radnor",
+  "birth_location_pl": "Columbus, Ohio",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 239480
+}

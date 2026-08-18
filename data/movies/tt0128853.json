@@ -1,0 +1,246 @@
+{
+  "imdb_id": "tt0128853",
+  "title": "You've Got Mail",
+  "description": "Book superstore magnate Joe Fox and independent book shop owner Kathleen Kelly fall in love in the anonymity of the Internet, both blissfully unaware that he's trying to put her out of business.",
+  "runtime_minutes": 119,
+  "release_date": "18.12.1998",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0000158",
+      "name": "Tom Hanks"
+    },
+    {
+      "id": "nm0000212",
+      "name": "Meg Ryan"
+    },
+    {
+      "id": "nm0001427",
+      "name": "Greg Kinnear"
+    },
+    {
+      "id": "nm0000205",
+      "name": "Parker Posey"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001188",
+      "name": "Nora Ephron"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0529450",
+      "name": "Miklós László"
+    },
+    {
+      "id": "nm0001188",
+      "name": "Nora Ephron"
+    },
+    {
+      "id": "nm0258286",
+      "name": "Delia Ephron"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000158",
+      "name": "Tom Hanks",
+      "character": "Joe Fox"
+    },
+    {
+      "id": "nm0000212",
+      "name": "Meg Ryan",
+      "character": "Kathleen Kelly"
+    },
+    {
+      "id": "nm0001427",
+      "name": "Greg Kinnear",
+      "character": "Frank Navasky"
+    },
+    {
+      "id": "nm0000205",
+      "name": "Parker Posey",
+      "character": "Patricia Eden"
+    },
+    {
+      "id": "nm0822958",
+      "name": "Jean Stapleton",
+      "character": "Birdie Conrad"
+    },
+    {
+      "id": "nm0001872",
+      "name": "Steve Zahn",
+      "character": "George Pappas"
+    },
+    {
+      "id": "nm0122688",
+      "name": "Heather Burns",
+      "character": "Christina Plutzker"
+    },
+    {
+      "id": "nm0152638",
+      "name": "Dave Chappelle",
+      "character": "Kevin Jackson"
+    },
+    {
+      "id": "nm0001056",
+      "name": "Dabney Coleman",
+      "character": "Nelson Fox"
+    },
+    {
+      "id": "nm0709907",
+      "name": "John Randolph",
+      "character": "Schuyler Fox"
+    },
+    {
+      "id": "nm0386645",
+      "name": "Hallee Hirsh",
+      "character": "Annabelle Fox"
+    },
+    {
+      "id": "nm0769027",
+      "name": "Jeffrey Scaperrotta",
+      "character": "Matt Fox"
+    },
+    {
+      "id": "nm0786806",
+      "name": "Cara Seymour",
+      "character": "Gillian Quinn"
+    },
+    {
+      "id": "nm0278234",
+      "name": "Katie Finneran",
+      "character": "Maureen, the Nanny"
+    },
+    {
+      "id": "nm0045937",
+      "name": "Michael Badalucco",
+      "character": "Charlie"
+    },
+    {
+      "id": "nm0750658",
+      "name": "Deborah Rush",
+      "character": "Veronica Grant"
+    },
+    {
+      "id": "nm0185274",
+      "name": "Veanne Cox",
+      "character": "Miranda Margulies"
+    },
+    {
+      "id": "nm0295171",
+      "name": "Bruce Jay Friedman",
+      "character": "Vince Mancini"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": null,
+  "filmweb_id": 112,
+  "year": 1998,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BN2FhMWRiODYtMTQwMy00OTE2LTlhZjMtNWRmYmIyZjYwYTk1XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.7,
+      "votes": 247683,
+      "distribution": {
+        "1": 2494,
+        "2": 2229,
+        "3": 4047,
+        "4": 9081,
+        "5": 22523,
+        "6": 53642,
+        "7": 70153,
+        "8": 42228,
+        "9": 18542,
+        "10": 22744
+      },
+      "normalized": 4.8763
+    },
+    "filmweb": {
+      "rating": 6.83,
+      "votes": 162014,
+      "distribution": {
+        "1": 516,
+        "2": 716,
+        "3": 2024,
+        "4": 4964,
+        "5": 13780,
+        "6": 36156,
+        "7": 57323,
+        "8": 32058,
+        "9": 8949,
+        "10": 5528
+      },
+      "normalized": 5.3241
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "21.02.2011",
+      "normalized": 4.9718
+    },
+    "michal": {
+      "rating": 3,
+      "date_rated": "19.10.2005",
+      "normalized": 3.8753
+    },
+    "score": 4.7619
+  },
+  "polish_title": "Masz wiadomość",
+  "silent": false,
+  "description_pl": "Manhattan, czasy współczesne. Dwoje nieznanych sobie ludzi pracuje w tej samej branży. On jest właścicielem sieci księgarń obejmujących całe miasto, ona jest właścicielką niewielkiego lokalu, gdzie sprzedaje się książki dla dzieci. Zgodnie z zasadą konkurencji są wrogami. Ale któregoś dnia nawiązują przypadkowy kontakt przez internet - tak rodzi się wzajemna sympatia.",
+  "producers": [
+    {
+      "id": "nm0113583",
+      "name": "G. Mac Brown"
+    },
+    {
+      "id": "nm0237802",
+      "name": "Dianne Dreyer"
+    },
+    {
+      "id": "nm0244158",
+      "name": "Julie Durk"
+    },
+    {
+      "id": "nm0258286",
+      "name": "Delia Ephron"
+    },
+    {
+      "id": "nm0001188",
+      "name": "Nora Ephron"
+    },
+    {
+      "id": "nm0496736",
+      "name": "Donald J. Lee Jr."
+    },
+    {
+      "id": "nm0795682",
+      "name": "Lauren Shuler Donner"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006070",
+      "name": "George Fenton"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0511979",
+      "name": "John Lindley"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

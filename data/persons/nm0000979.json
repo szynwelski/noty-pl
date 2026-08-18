@@ -1,0 +1,40 @@
+{
+  "id": "nm0000979",
+  "name": "Wilford Brimley",
+  "filmography": [
+    {
+      "imdb_id": "tt0084787",
+      "title": "The Thing",
+      "year": 1982,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Blair"
+    },
+    {
+      "imdb_id": "tt0106918",
+      "title": "The Firm",
+      "year": 1993,
+      "roles": [
+        "cast"
+      ],
+      "character": "William Devasher"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYjVmMTNiYmMtOWEyMi00MzhlLWIxMTEtMzc2ZTQ3YWI1NTM4XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "27.09.1934",
+  "death_date": "01.08.2020",
+  "birth_location": "Salt Lake City, Utah, USA",
+  "height": "1.73 m",
+  "imdb_scraped": true,
+  "filmweb_id": 4130,
+  "name_pl": "Wilford Brimley",
+  "birth_location_pl": "Salt Lake City, Utah",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 4130
+}

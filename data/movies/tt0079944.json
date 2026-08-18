@@ -1,0 +1,165 @@
+{
+  "imdb_id": "tt0079944",
+  "title": "Stalker",
+  "description": "A guide leads two men through an area known as the Zone to find a room that grants wishes.",
+  "runtime_minutes": 162,
+  "release_date": "17.04.1980",
+  "genres": [
+    "Drama",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm0293981",
+      "name": "Alisa Freyndlikh"
+    },
+    {
+      "id": "nm0435289",
+      "name": "Aleksandr Kaydanovskiy"
+    },
+    {
+      "id": "nm0813463",
+      "name": "Anatoliy Solonitsyn"
+    },
+    {
+      "id": "nm0342458",
+      "name": "Nikolay Grinko"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001789",
+      "name": "Andrei Tarkovsky"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0835297",
+      "name": "Arkadiy Strugatskiy"
+    },
+    {
+      "id": "nm0835298",
+      "name": "Boris Strugatskiy"
+    },
+    {
+      "id": "nm0001789",
+      "name": "Andrei Tarkovsky"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0293981",
+      "name": "Alisa Freyndlikh",
+      "character": "Stalker's Wife"
+    },
+    {
+      "id": "nm0435289",
+      "name": "Aleksandr Kaydanovskiy",
+      "character": "Stalker"
+    },
+    {
+      "id": "nm0813463",
+      "name": "Anatoliy Solonitsyn",
+      "character": "Writer"
+    },
+    {
+      "id": "nm0342458",
+      "name": "Nikolay Grinko",
+      "character": "Professor"
+    },
+    {
+      "id": "nm0009125",
+      "name": "Natalya Abramova",
+      "character": "Marta"
+    },
+    {
+      "id": "nm0433012",
+      "name": "Faime Jurno",
+      "character": "Writer's Companion"
+    },
+    {
+      "id": "nm16659123",
+      "name": "Evgeniy Kostin",
+      "character": "Cafe Owner"
+    },
+    {
+      "id": "nm0719350",
+      "name": "Raimo Rendi",
+      "character": "Policeman Patrol"
+    }
+  ],
+  "countries": [
+    "Soviet Union"
+  ],
+  "languages": [
+    "Russian"
+  ],
+  "color": "Color",
+  "filmweb_id": 30808,
+  "year": 1979,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDIzMDRiYjgtM2U1Yy00MjlhLTliODMtM2E5NDI5Njc3YmZkXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8,
+      "votes": 157442,
+      "distribution": {
+        "1": 3950,
+        "2": 1745,
+        "3": 2198,
+        "4": 2938,
+        "5": 5339,
+        "6": 9680,
+        "7": 20462,
+        "8": 34791,
+        "9": 31580,
+        "10": 44759
+      },
+      "normalized": 7.4483
+    },
+    "filmweb": {
+      "rating": 7.89,
+      "votes": 35231,
+      "distribution": {
+        "1": 522,
+        "2": 263,
+        "3": 641,
+        "4": 699,
+        "5": 1442,
+        "6": 2361,
+        "7": 5290,
+        "8": 9126,
+        "9": 8073,
+        "10": 6814
+      },
+      "normalized": 8.0213
+    },
+    "jarek": {
+      "rating": 9,
+      "date_rated": "27.07.2012",
+      "normalized": 8.8973
+    },
+    "michal": {
+      "rating": 8,
+      "date_rated": "18.11.2007",
+      "normalized": 8.1116
+    },
+    "score": 8.1196
+  },
+  "polish_title": "Stalker",
+  "silent": false,
+  "description_pl": "Stalker – tytułowy bohater filmu <a href=\"/osoba/?id=nm0001789\">Andrieja Tarkowskiego</a> – to jurodiwyj, zakorzeniona w kulturze rosyjskiej postać „szaleńca chrystusowego”, który wybiera specyficzną drogę do świętości ujawniając wady i grzechy ludzi bez względu na obowiązujące normy i czekające go upokorzenia.  \n\nFilm rozpoczyna scena, w której bohater, trudniący się w przeprowadzaniu ludzi przez zamkniętą, ogrodzoną strefę, w której zgodnie z legendami panują nadprzyrodzone moce, wymyka się z domu, aby zabrać Pisarza oraz Profesora w podróż do tajemniczej komnaty, która podobno spełnia marzenia. Jak się później okazuje, jest to podróż inicjacyjna.",
+  "composers": [
+    {
+      "id": "nm0005949",
+      "name": "Eduard Artemyev"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0461862",
+      "name": "Aleksandr Knyazhinskiy"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,248 @@
+{
+  "imdb_id": "tt0427309",
+  "title": "The Great Debaters",
+  "description": "A drama based on the true story of Melvin B. Tolson, a professor at Wiley College Texas. In 1935, he inspired students to form the school's first debate team, which went on to challenge Harvard in the national championship.",
+  "runtime_minutes": 126,
+  "release_date": "25.12.2007",
+  "genres": [
+    "Biography",
+    "Drama",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0000243",
+      "name": "Denzel Washington"
+    },
+    {
+      "id": "nm0001845",
+      "name": "Forest Whitaker"
+    },
+    {
+      "id": "nm0253708",
+      "name": "Kimberly Elise"
+    },
+    {
+      "id": "nm1676649",
+      "name": "Nate Parker"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000243",
+      "name": "Denzel Washington"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0251935",
+      "name": "Robert Eisele"
+    },
+    {
+      "id": "nm2831777",
+      "name": "Jeffrey Porro"
+    },
+    {
+      "id": "nm2872558",
+      "name": "Tony Scherman"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000243",
+      "name": "Denzel Washington",
+      "character": "Melvin B. Tolson"
+    },
+    {
+      "id": "nm0001845",
+      "name": "Forest Whitaker",
+      "character": "Dr. James Farmer Sr."
+    },
+    {
+      "id": "nm0253708",
+      "name": "Kimberly Elise",
+      "character": "Pearl Farmer"
+    },
+    {
+      "id": "nm1676649",
+      "name": "Nate Parker",
+      "character": "Henry Lowe"
+    },
+    {
+      "id": "nm0810619",
+      "name": "Jurnee Smollett",
+      "character": "Samantha Booke"
+    },
+    {
+      "id": "nm1091701",
+      "name": "Denzel Whitaker",
+      "character": "James Farmer Jr."
+    },
+    {
+      "id": "nm0930892",
+      "name": "Jermaine Williams",
+      "character": "Hamilton Burgess"
+    },
+    {
+      "id": "nm0712406",
+      "name": "Gina Ravera",
+      "character": "Ruth Tolson"
+    },
+    {
+      "id": "nm0001334",
+      "name": "John Heard",
+      "character": "Sheriff Dozier"
+    },
+    {
+      "id": "nm2154316",
+      "name": "Devyn A. Tyler",
+      "character": "Helen Farmer"
+    },
+    {
+      "id": "nm2779780",
+      "name": "Trenton McClain Boyd",
+      "character": "Nathaniel Farmer"
+    },
+    {
+      "id": "nm0599907",
+      "name": "Ritchie Montgomery",
+      "character": "Deputy"
+    },
+    {
+      "id": "nm0907808",
+      "name": "Jackson Walker",
+      "character": "Pig Owner"
+    },
+    {
+      "id": "nm0660986",
+      "name": "Tim Parati",
+      "character": "Pig Farmer"
+    },
+    {
+      "id": "nm1420281",
+      "name": "Robert X. Golphin",
+      "character": "Dunbar Reed"
+    },
+    {
+      "id": "nm1495175",
+      "name": "Justice Leak",
+      "character": "Harland Osbourne"
+    },
+    {
+      "id": "nm1412974",
+      "name": "Glen Powell",
+      "character": "Harvard Debater #1"
+    },
+    {
+      "id": "nm2042898",
+      "name": "Brad Watkins",
+      "character": "Harvard Debater #2"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": null,
+  "filmweb_id": 195956,
+  "year": 2007,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQxMDc1NzkwMF5BMl5BanBnXkFtZTcwMDI5MjU1MQ@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.5,
+      "votes": 66757,
+      "distribution": {
+        "1": 690,
+        "2": 221,
+        "3": 308,
+        "4": 645,
+        "5": 1889,
+        "6": 6143,
+        "7": 18225,
+        "8": 21820,
+        "9": 9214,
+        "10": 7602
+      },
+      "normalized": 6.3968
+    },
+    "filmweb": {
+      "rating": 7.51,
+      "votes": 11327,
+      "distribution": {
+        "1": 28,
+        "2": 13,
+        "3": 47,
+        "4": 102,
+        "5": 355,
+        "6": 1228,
+        "7": 3381,
+        "8": 4369,
+        "9": 1314,
+        "10": 490
+      },
+      "normalized": 6.7042
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "02.10.2008",
+      "normalized": 5.4199
+    },
+    "score": 6.1736
+  },
+  "polish_title": "Klub dyskusyjny",
+  "silent": false,
+  "description_pl": "Dramat oparty na prawdziwej historii Melvina B. Tolsona, profesora na Wiley Collage w Teksasie. W 1935 roku zainspirował studentów do utworzenia pierwszego szkolnego kółka dyskusyjnego, które pojechało później zmierzyć się z Harvardem w mistrzostwach kraju.",
+  "producers": [
+    {
+      "id": "nm0003091",
+      "name": "Molly Allen"
+    },
+    {
+      "id": "nm0085542",
+      "name": "Todd Black"
+    },
+    {
+      "id": "nm0188396",
+      "name": "David Crockett"
+    },
+    {
+      "id": "nm0287164",
+      "name": "Kate Forte"
+    },
+    {
+      "id": "nm2641696",
+      "name": "Melody Fowler"
+    },
+    {
+      "id": "nm0005387",
+      "name": "Joe Roth"
+    },
+    {
+      "id": "nm0778668",
+      "name": "Valerie Scoon"
+    },
+    {
+      "id": "nm0918424",
+      "name": "Bob Weinstein"
+    },
+    {
+      "id": "nm0005544",
+      "name": "Harvey Weinstein"
+    },
+    {
+      "id": "nm0001856",
+      "name": "Oprah Winfrey"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0003542",
+      "name": "Philippe Rousselot"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

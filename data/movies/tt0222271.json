@@ -1,0 +1,100 @@
+{
+  "imdb_id": "tt0222271",
+  "title": "Photographe",
+  "description": "A photographer has his camera all set up to take a man's picture, but just as the photographer is about to take the picture, the subject gets up to look at the camera more closely. The frustrated photographer soon becomes quite impatient.",
+  "runtime_minutes": 1,
+  "release_date": "06.11.1898",
+  "genres": [
+    "Documentary",
+    "Short",
+    "Comedy"
+  ],
+  "stars": [
+    {
+      "id": "nm0525908",
+      "name": "Auguste Lumière"
+    },
+    {
+      "id": "nm0561109",
+      "name": "Clément Maurice"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0525910",
+      "name": "Louis Lumière"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0525908",
+      "name": "Auguste Lumière",
+      "character": "Self - The Subject"
+    },
+    {
+      "id": "nm0561109",
+      "name": "Clément Maurice",
+      "character": "Self - The Photographer"
+    }
+  ],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "year": 1896,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNGMyMjlkNTAtYzI3NC00NjNjLWI4MGEtNDZmNTM4MDRhZjE2XkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 120775,
+  "ratings": {
+    "imdb": {
+      "rating": 5.7,
+      "votes": 597,
+      "distribution": {
+        "1": 32,
+        "2": 12,
+        "3": 26,
+        "4": 36,
+        "5": 137,
+        "6": 197,
+        "7": 90,
+        "8": 37,
+        "9": 10,
+        "10": 20
+      },
+      "normalized": 4.3749
+    },
+    "filmweb": {
+      "rating": 5.82,
+      "votes": 126,
+      "distribution": {
+        "1": 2,
+        "2": 7,
+        "3": 7,
+        "4": 10,
+        "5": 20,
+        "6": 39,
+        "7": 19,
+        "8": 14,
+        "9": 3,
+        "10": 5
+      },
+      "normalized": 4.5377
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "11.12.2016",
+      "normalized": 5.6855
+    },
+    "score": 4.866
+  },
+  "polish_title": "Photographe",
+  "silent": true,
+  "description_pl": "Fotograf ustawił już swój aparat i jest gotowy zrobić zdjęcie pewnemu dżentelmenowi. Fotografowany bierze lusterko by jeszcze zobaczyć czy dobrze wygląda. Tuż przed tym jak fotograf ma zrobić zdjęcie, dżentelmen wstaje by podejść do aparatu bliżej. Sfrustrowany fotograf wkrótce staje się zniecierpliwiony.",
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-16"
+}

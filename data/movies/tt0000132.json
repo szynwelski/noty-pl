@@ -1,0 +1,124 @@
+{
+  "imdb_id": "tt0000132",
+  "title": "Card Party",
+  "description": "In what is considered the first remake in cinema history, prolific French director Georges Méliès directs his first film, depicting a delightful afternoon among friends playing cards over a glass of beer.",
+  "runtime_minutes": 1,
+  "release_date": "1896",
+  "genres": [
+    "Short",
+    "Biography"
+  ],
+  "stars": [
+    {
+      "id": "nm9342429",
+      "name": "Octavie Huvier"
+    },
+    {
+      "id": "nm0577734",
+      "name": "Gaston Méliès"
+    },
+    {
+      "id": "nm0617588",
+      "name": "Georges Méliès"
+    },
+    {
+      "id": "nm3029234",
+      "name": "Georgette Méliès"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0617588",
+      "name": "Georges Méliès"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0617588",
+      "name": "Georges Méliès"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm9342429",
+      "name": "Octavie Huvier",
+      "character": "La Serveuse"
+    },
+    {
+      "id": "nm0577734",
+      "name": "Gaston Méliès",
+      "character": "Un joueur de cartes"
+    },
+    {
+      "id": "nm0617588",
+      "name": "Georges Méliès",
+      "character": "Un joueur de cartes"
+    },
+    {
+      "id": "nm3029234",
+      "name": "Georgette Méliès",
+      "character": "La petite fille"
+    }
+  ],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 294592,
+  "year": 1896,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BY2M4ZDFlYjAtYzY2Yi00NzUzLTk3NjYtOTZhOTM2MDZlNzQ4XkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Une partie de cartes",
+  "ratings": {
+    "imdb": {
+      "rating": 5.1,
+      "votes": 1296,
+      "distribution": {
+        "1": 52,
+        "2": 47,
+        "3": 86,
+        "4": 180,
+        "5": 461,
+        "6": 264,
+        "7": 118,
+        "8": 50,
+        "9": 2,
+        "10": 36
+      },
+      "normalized": 3.3554
+    },
+    "filmweb": {
+      "rating": 5.26,
+      "votes": 270,
+      "distribution": {
+        "1": 5,
+        "2": 5,
+        "3": 23,
+        "4": 42,
+        "5": 88,
+        "6": 53,
+        "7": 33,
+        "8": 12,
+        "9": 6,
+        "10": 3
+      },
+      "normalized": 3.8023
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "11.12.2016",
+      "normalized": 4.9718
+    },
+    "score": 4.0432
+  },
+  "polish_title": "Partia kart",
+  "silent": true,
+  "description_pl": "Trzech mężczyzn w kapeluszach siedzi przy stoliku, grając w karty i paląc cygara. Podchodzi do nich służąca z kieliszkami i winem na tacy. Mężczyzni wznoszą toast. Jeden z nich wyciąga gazetę i czyta pozostałym zabawną historię.",
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-15"
+}

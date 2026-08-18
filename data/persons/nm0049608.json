@@ -1,0 +1,35 @@
+{
+  "id": "nm0049608",
+  "name": "Michael Balcon",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYzM4NDFlOTctNWI4OC00NGZlLTkwNzUtZGVkMjgzZjRkNzZlXkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0026029",
+      "title": "The 39 Steps",
+      "year": 1935,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0041546",
+      "title": "Kind Hearts and Coronets",
+      "year": 1949,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "birth_date": "19.05.1896",
+  "death_date": "17.10.1977",
+  "birth_location": "Birmingham, England, UK",
+  "imdb_scraped": true,
+  "filmweb_id": 84003,
+  "name_pl": "Michael Balcon",
+  "birth_location_pl": "Birmingham, Anglia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "nm0525900",
+  "name": "Mrs. Auguste Lumiere",
+  "filmography": [
+    {
+      "imdb_id": "tt0000029",
+      "title": "Baby's Meal",
+      "year": 1895,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Self"
+    },
+    {
+      "imdb_id": "tt0000016",
+      "title": "Boat Leaving the Port",
+      "year": 1895,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Self (on the pier)"
+    },
+    {
+      "imdb_id": "tt0222259",
+      "title": "Tric-trac Game",
+      "year": 1895,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Self"
+    },
+    {
+      "imdb_id": "tt0000012",
+      "title": "The Arrival of a Train",
+      "year": 1896,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Self"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzZhMDhlYjktMWMwYS00MDYwLTkxOGEtYjhkMzhjNTIzNzBjXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "13.09.1874",
+  "death_date": "25.06.1963",
+  "birth_location": "Lyon, France",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "filmweb_id": 112441,
+  "name_pl": "Margaret Lumière",
+  "birth_location_pl": "Lyon",
+  "gender": "F"
+}

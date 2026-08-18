@@ -1,0 +1,47 @@
+{
+  "id": "nm0063027",
+  "name": "Terence Bayler",
+  "filmography": [
+    {
+      "imdb_id": "tt0067372",
+      "title": "Macbeth",
+      "year": 1971,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Macduff"
+    },
+    {
+      "imdb_id": "tt0079470",
+      "title": "Monty Python's Life of Brian",
+      "year": 1979,
+      "roles": [
+        "cast"
+      ],
+      "character": "Gregory"
+    },
+    {
+      "imdb_id": "tt0107943",
+      "title": "The Remains of the Day",
+      "year": 1993,
+      "roles": [
+        "cast"
+      ],
+      "character": "Trimmer"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTUyNDM5MjE1NF5BMl5BanBnXkFtZTcwNzEyNTM0OA@@._V1_.jpg",
+  "birth_date": "24.01.1930",
+  "death_date": "02.08.2016",
+  "birth_location": "Wanganui, New Zealand",
+  "filmweb_id": 8486,
+  "name_pl": "Terence Bayler",
+  "birth_location_pl": "Wanganui",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Nowa Zelandia"
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "imdb_id": "tt0081554",
+  "title": "Stardust Memories",
+  "description": "While attending a retrospective of his work, a filmmaker recalls his life and his loves: the inspirations for his films.",
+  "runtime_minutes": 89,
+  "release_date": "26.09.1980",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0000095",
+      "name": "Woody Allen"
+    },
+    {
+      "id": "nm0001648",
+      "name": "Charlotte Rampling"
+    },
+    {
+      "id": "nm0363888",
+      "name": "Jessica Harper"
+    },
+    {
+      "id": "nm0056763",
+      "name": "Marie-Christine Barrault"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000095",
+      "name": "Woody Allen"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000095",
+      "name": "Woody Allen"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000095",
+      "name": "Woody Allen",
+      "character": "Sandy Bates"
+    },
+    {
+      "id": "nm0001648",
+      "name": "Charlotte Rampling",
+      "character": "Dorrie"
+    },
+    {
+      "id": "nm0363888",
+      "name": "Jessica Harper",
+      "character": "Daisy"
+    },
+    {
+      "id": "nm0056763",
+      "name": "Marie-Christine Barrault",
+      "character": "Isobel"
+    },
+    {
+      "id": "nm0731634",
+      "name": "Tony Roberts",
+      "character": "Tony"
+    },
+    {
+      "id": "nm0827663",
+      "name": "Daniel Stern",
+      "character": "Actor"
+    },
+    {
+      "id": "nm0942195",
+      "name": "Amy Wright",
+      "character": "Shelley"
+    },
+    {
+      "id": "nm0359834",
+      "name": "Helen Hanft",
+      "character": "Vivian Orkin"
+    },
+    {
+      "id": "nm0745232",
+      "name": "John Rothman",
+      "character": "Jack Abel"
+    },
+    {
+      "id": "nm0211408",
+      "name": "Anne DeSalvo",
+      "character": "Sandy's Sister"
+    },
+    {
+      "id": "nm0626990",
+      "name": "Joan Neuman",
+      "character": "Sandy's Mother"
+    },
+    {
+      "id": "nm0152177",
+      "name": "Ken Chapin",
+      "character": "Sandy's Father"
+    },
+    {
+      "id": "nm0162361",
+      "name": "Leonardo Cimino",
+      "character": "Sandy's Analyst"
+    },
+    {
+      "id": "nm0591768",
+      "name": "Eli Mintz",
+      "character": "Old Man"
+    },
+    {
+      "id": "nm0549475",
+      "name": "Bob Maroff",
+      "character": "Jerry Abraham"
+    },
+    {
+      "id": "nm0833526",
+      "name": "Gabrielle Strasun",
+      "character": "Charlotte Ames"
+    },
+    {
+      "id": "nm0513501",
+      "name": "David Lipman",
+      "character": "George - Sandy's Chauffeur"
+    },
+    {
+      "id": "nm8276025",
+      "name": "Robert Munk",
+      "character": "Boy Sandy"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Persian"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 11790,
+  "year": 1980,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMmUzODJhMjctOGE1Ni00ZTNlLWE1YmItNzkxNmNiOTkzYjJkXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.2,
+      "votes": 25352,
+      "distribution": {
+        "1": 468,
+        "2": 251,
+        "3": 308,
+        "4": 586,
+        "5": 1451,
+        "6": 3321,
+        "7": 6914,
+        "8": 5878,
+        "9": 3093,
+        "10": 3082
+      },
+      "normalized": 5.8745
+    },
+    "filmweb": {
+      "rating": 7.09,
+      "votes": 4333,
+      "distribution": {
+        "1": 32,
+        "2": 16,
+        "3": 48,
+        "4": 97,
+        "5": 298,
+        "6": 705,
+        "7": 1431,
+        "8": 1166,
+        "9": 348,
+        "10": 192
+      },
+      "normalized": 5.7466
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "07.01.2006",
+      "normalized": 7.2292
+    },
+    "score": 6.2834
+  },
+  "polish_title": "Wspomnienia z gwiezdnego pyłu",
+  "silent": false,
+  "description_pl": "Reżyser Sandy Bates (<a href=\"/osoba/?id=nm0000095\">Woody Allen</a>) przeżywa głęboki kryzys, jest sfrustrowany i załamany. Właśnie odbywa się przegląd jego starych filmów. Na uroczystości oblegają go tłumy. Cały ten zgiełk wokół jego osoby skłania Batesa do zastanowienia się nad swoją przeszłością i karierą filmowca oraz do podsumowania życia osobistego.",
+  "producers": [
+    {
+      "id": "nm0339086",
+      "name": "Robert Greenhut"
+    },
+    {
+      "id": "nm0423618",
+      "name": "Charles H. Joffe"
+    },
+    {
+      "id": "nm0738435",
+      "name": "Jack Rollins"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0932336",
+      "name": "Gordon Willis"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

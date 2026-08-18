@@ -1,0 +1,59 @@
+{
+  "imdb_id": "tt6332344",
+  "title": "Panning Shot from Brighton Pier to Seafront",
+  "description": "",
+  "runtime_minutes": null,
+  "release_date": "12.09.2012",
+  "genres": [
+    "Short"
+  ],
+  "directors": [
+    {
+      "id": "nm8643876",
+      "name": "Edward Raymond Turner"
+    }
+  ],
+  "top_cast": [],
+  "countries": [],
+  "languages": [
+    "None"
+  ],
+  "color": "Color",
+  "year": 2012,
+  "type": "short",
+  "image_url": null,
+  "filmweb_id": null,
+  "ratings": {
+    "imdb": {
+      "rating": 5.1,
+      "votes": 8,
+      "distribution": {
+        "1": 0,
+        "2": 1,
+        "3": 1,
+        "4": 0,
+        "5": 1,
+        "6": 2,
+        "7": 2,
+        "8": 0,
+        "9": 0,
+        "10": 1
+      },
+      "normalized": 5.2694
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "16.12.2016",
+      "normalized": 6.4102
+    },
+    "score": 5.7265,
+    "filmweb": {
+      "normalized": 5.5
+    }
+  },
+  "silent": false,
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-16"
+}

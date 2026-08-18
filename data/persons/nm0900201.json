@@ -1,0 +1,36 @@
+{
+  "id": "nm0900201",
+  "name": "Viva",
+  "filmography": [
+    {
+      "imdb_id": "tt0069097",
+      "title": "Play It Again, Sam",
+      "year": 1972,
+      "roles": [
+        "cast"
+      ],
+      "character": "Jennifer"
+    },
+    {
+      "imdb_id": "tt0087884",
+      "title": "Paris, Texas",
+      "year": 1984,
+      "roles": [
+        "cast"
+      ],
+      "character": "Woman on TV"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNjk5ODU2NzE1Nl5BMl5BanBnXkFtZTcwNjI2MzAyOA@@._V1_.jpg",
+  "birth_date": "23.08.1938",
+  "birth_location": "Syracuse, New York, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 72496,
+  "name_pl": "Viva",
+  "birth_location_pl": "Syracuse, Nowy Jork",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

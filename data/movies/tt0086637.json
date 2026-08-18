@@ -1,0 +1,220 @@
+{
+  "imdb_id": "tt0086637",
+  "title": "Zelig",
+  "description": "\"Documentary\" about a man who can look and act like whoever he's around, and meets various famous people.",
+  "runtime_minutes": 79,
+  "release_date": "25.08.1983",
+  "genres": [
+    "Comedy"
+  ],
+  "stars": [
+    {
+      "id": "nm0000095",
+      "name": "Woody Allen"
+    },
+    {
+      "id": "nm0001201",
+      "name": "Mia Farrow"
+    },
+    {
+      "id": "nm0394632",
+      "name": "Patrick Horgan"
+    },
+    {
+      "id": "nm0118796",
+      "name": "John Buckwalter"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000095",
+      "name": "Woody Allen"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000095",
+      "name": "Woody Allen"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000095",
+      "name": "Woody Allen",
+      "character": "Leonard Zelig"
+    },
+    {
+      "id": "nm0001201",
+      "name": "Mia Farrow",
+      "character": "Dr. Eudora Nesbitt Fletcher"
+    },
+    {
+      "id": "nm0394632",
+      "name": "Patrick Horgan",
+      "character": "The Narrator"
+    },
+    {
+      "id": "nm0118796",
+      "name": "John Buckwalter",
+      "character": "Dr. Sindell"
+    },
+    {
+      "id": "nm0154059",
+      "name": "Marvin Chatinover",
+      "character": "Glandular Diagnosis Doctor"
+    },
+    {
+      "id": "nm0842475",
+      "name": "Stanley Swerdlow",
+      "character": "Mexican Food Doctor"
+    },
+    {
+      "id": "nm0627326",
+      "name": "Paul Nevens",
+      "character": "Dr. Birsky"
+    },
+    {
+      "id": "nm0259844",
+      "name": "Howard Erskine",
+      "character": "Hypodermic Doctor"
+    },
+    {
+      "id": "nm0358266",
+      "name": "George Hamlin",
+      "character": "Experimental Drugs Doctor"
+    },
+    {
+      "id": "nm0068466",
+      "name": "Ralph Bell",
+      "character": "Other Doctor"
+    },
+    {
+      "id": "nm0926026",
+      "name": "Richard Whiting",
+      "character": "Other Doctor"
+    },
+    {
+      "id": "nm0404054",
+      "name": "Will Hussung",
+      "character": "Other Doctor"
+    },
+    {
+      "id": "nm0407065",
+      "name": "Robert Iglesia",
+      "character": "Man in Barber Chair"
+    },
+    {
+      "id": "nm0720311",
+      "name": "Eli Resnick",
+      "character": "Man in Park"
+    },
+    {
+      "id": "nm0574276",
+      "name": "Edward McPhillips",
+      "character": "Scotsman"
+    },
+    {
+      "id": "nm0360796",
+      "name": "Gale Hansen",
+      "character": "Freshman #1"
+    },
+    {
+      "id": "nm0005052",
+      "name": "Michael Jeter",
+      "character": "Freshman #2"
+    },
+    {
+      "id": "nm0574513",
+      "name": "Peter McRobbie",
+      "character": "Workers Rally Speaker"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 11986,
+  "year": 1983,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDJiYzNhZjUtNTRmMS00ZjA1LWFmNjUtZjgwYWY2NGYxYzg3XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.6,
+      "votes": 46242,
+      "distribution": {
+        "1": 573,
+        "2": 239,
+        "3": 374,
+        "4": 699,
+        "5": 1715,
+        "6": 4081,
+        "7": 10178,
+        "8": 14525,
+        "9": 7785,
+        "10": 6073
+      },
+      "normalized": 6.5661
+    },
+    "filmweb": {
+      "rating": 7.8,
+      "votes": 22072,
+      "distribution": {
+        "1": 170,
+        "2": 49,
+        "3": 157,
+        "4": 230,
+        "5": 576,
+        "6": 1693,
+        "7": 4700,
+        "8": 7957,
+        "9": 4479,
+        "10": 2061
+      },
+      "normalized": 7.6529
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "21.10.2005",
+      "normalized": 7.2292
+    },
+    "score": 7.1494
+  },
+  "polish_title": "Zelig",
+  "silent": false,
+  "description_pl": "Opowieść ta i jej bohater są częścią historii Stanów Zjednoczonych. W latach 30-tych XX wieku media obiegły sensacyjne doniesienia o człowieku, którego niezwykłe zdolności zyskały mu wielki rozgłos w kraju i na świecie. Leonard Zelig zasłynął z umiejętności niewytłumaczalnej przez naukę metamorfozy ciała... \r\n<a href=\"/osoba/?id=nm0000095\">Woody Allen</a> stworzył film, którego dokumentalizowana konwencja daje widzowi absolutne wrażenie oglądania autentycznych wydarzeń \"z epoki\".  Jednak wbrew pozorom historia niesamowitego Leonarda jest fikcyjna. Choć film jest komedią, jest również poważną refleksją na temat tożsamości jednostki zagubionej w masie ludzkiej. Czy Leonard Zelig znajdzie siłę aby odnaleźć swoje prawdziwe oblicze wśród fałszywych masek?",
+  "producers": [
+    {
+      "id": "nm0339086",
+      "name": "Robert Greenhut"
+    },
+    {
+      "id": "nm0423618",
+      "name": "Charles H. Joffe"
+    },
+    {
+      "id": "nm0679017",
+      "name": "Michael Peyser"
+    },
+    {
+      "id": "nm0738435",
+      "name": "Jack Rollins"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0405163",
+      "name": "Dick Hyman"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0932336",
+      "name": "Gordon Willis"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

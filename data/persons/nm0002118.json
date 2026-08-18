@@ -1,0 +1,58 @@
+{
+  "id": "nm0002118",
+  "name": "Alan Hale",
+  "filmography": [
+    {
+      "imdb_id": "tt0013951",
+      "title": "The Covered Wagon",
+      "year": 1923,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Sam Woodhull"
+    },
+    {
+      "imdb_id": "tt0025316",
+      "title": "It Happened One Night",
+      "year": 1934,
+      "roles": [
+        "cast"
+      ],
+      "character": "Danker"
+    },
+    {
+      "imdb_id": "tt0029843",
+      "title": "The Adventures of Robin Hood",
+      "year": 1938,
+      "roles": [
+        "cast"
+      ],
+      "character": "Little John"
+    },
+    {
+      "imdb_id": "tt0196372",
+      "title": "The Best of Laurel and Hardy",
+      "year": 1968,
+      "roles": [
+        "cast"
+      ],
+      "character": "Joe Grogan"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTA0ODAzMTc1MTheQTJeQWpwZ15BbWU3MDkxNjI2MDg@._V1_.jpg",
+  "birth_date": "10.02.1892",
+  "death_date": "22.01.1950",
+  "birth_location": "Washington, District of Columbia, USA",
+  "height": "1.88 m",
+  "filmweb_id": 52900,
+  "name_pl": "Alan Hale",
+  "birth_location_pl": "Waszyngton, Dystrykt Kolumbii",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 52900
+}

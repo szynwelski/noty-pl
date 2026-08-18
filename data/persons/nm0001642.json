@@ -1,0 +1,57 @@
+{
+  "id": "nm0001642",
+  "name": "Randy Quaid",
+  "filmography": [
+    {
+      "imdb_id": "tt0067328",
+      "title": "The Last Picture Show",
+      "year": 1971,
+      "roles": [
+        "cast"
+      ],
+      "character": "Lester Marlow"
+    },
+    {
+      "imdb_id": "tt0085995",
+      "title": "National Lampoon's Vacation",
+      "year": 1983,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Cousin Eddie"
+    },
+    {
+      "imdb_id": "tt0099371",
+      "title": "Days of Thunder",
+      "year": 1990,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Tim Daland"
+    },
+    {
+      "imdb_id": "tt0116629",
+      "title": "Independence Day",
+      "year": 1996,
+      "roles": [
+        "cast"
+      ],
+      "character": "Russell Casse"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZTQ4MzliYjctZGEwYi00YjFlLWJhZjItZDJmNGU4MWJlMTZmXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "01.10.1950",
+  "birth_location": "Houston, Texas, USA",
+  "height": "1.96 m",
+  "filmweb_id": 4081,
+  "name_pl": "Randy Quaid",
+  "birth_location_pl": "Houston, Teksas",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

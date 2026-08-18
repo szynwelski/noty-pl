@@ -1,0 +1,38 @@
+{
+  "id": "nm0001094",
+  "name": "Roald Dahl",
+  "filmography": [
+    {
+      "imdb_id": "tt0367594",
+      "title": "Charlie and the Chocolate Factory",
+      "year": 2005,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0432283",
+      "title": "Fantastic Mr. Fox",
+      "year": 2009,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTk1MjE1MTc2N15BMl5BanBnXkFtZTcwNDA2MjgxOA@@._V1_.jpg",
+  "birth_date": "13.09.1916",
+  "death_date": "23.11.1990",
+  "birth_location": "Llandaff, Cardiff, Wales, UK",
+  "height": "1.98 m",
+  "imdb_scraped": true,
+  "filmweb_id": 12055,
+  "name_pl": "Roald Dahl",
+  "birth_location_pl": "Cardiff, Walia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Norwegia",
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 12055
+}

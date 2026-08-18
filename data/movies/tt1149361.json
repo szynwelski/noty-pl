@@ -1,0 +1,235 @@
+{
+  "imdb_id": "tt1149361",
+  "title": "Micmacs",
+  "description": "A man and his friends come up with an intricate and original plan to destroy two big weapons manufacturers.",
+  "runtime_minutes": 105,
+  "release_date": "11.06.2010",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Crime"
+  ],
+  "stars": [
+    {
+      "id": "nm0200702",
+      "name": "Dany Boon"
+    },
+    {
+      "id": "nm0244707",
+      "name": "André Dussollier"
+    },
+    {
+      "id": "nm0548169",
+      "name": "Nicolas Marié"
+    },
+    {
+      "id": "nm0603446",
+      "name": "Yolande Moreau"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000466",
+      "name": "Jean-Pierre Jeunet"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000466",
+      "name": "Jean-Pierre Jeunet"
+    },
+    {
+      "id": "nm0491011",
+      "name": "Guillaume Laurant"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0200702",
+      "name": "Dany Boon",
+      "character": "Bazil"
+    },
+    {
+      "id": "nm0244707",
+      "name": "André Dussollier",
+      "character": "Nicolas Thibault de Fenouillet"
+    },
+    {
+      "id": "nm0548169",
+      "name": "Nicolas Marié",
+      "character": "François Marconi"
+    },
+    {
+      "id": "nm0603446",
+      "name": "Yolande Moreau",
+      "character": "Tambouille"
+    },
+    {
+      "id": "nm0684500",
+      "name": "Dominique Pinon",
+      "character": "Fracasse"
+    },
+    {
+      "id": "nm1738443",
+      "name": "Marie-Julie Baup",
+      "character": "Calculette"
+    },
+    {
+      "id": "nm0190591",
+      "name": "Michel Crémadès",
+      "character": "Petit Pierre"
+    },
+    {
+      "id": "nm1922676",
+      "name": "Julie Ferrier",
+      "character": "La Môme Caoutchouc"
+    },
+    {
+      "id": "nm1082477",
+      "name": "Omar Sy",
+      "character": "Remington"
+    },
+    {
+      "id": "nm0547339",
+      "name": "Jean-Pierre Marielle",
+      "character": "Placard"
+    },
+    {
+      "id": "nm0133636",
+      "name": "Urbain Cancelier",
+      "character": "Le gardien de nuit de Marconi"
+    },
+    {
+      "id": "nm0663283",
+      "name": "Patrick Paroux",
+      "character": "Gerbaud"
+    },
+    {
+      "id": "nm0065451",
+      "name": "Jean-Pierre Becker",
+      "character": "Libarski"
+    },
+    {
+      "id": "nm0124754",
+      "name": "Stéphane Butet",
+      "character": "Matéo"
+    },
+    {
+      "id": "nm0320712",
+      "name": "Philippe Girard",
+      "character": "Gravier"
+    },
+    {
+      "id": "nm1816136",
+      "name": "Doudou Masta",
+      "character": "Le chef des rebelles"
+    },
+    {
+      "id": "nm2587478",
+      "name": "Emy Lévy",
+      "character": "La bénévole des Restos du coeur"
+    },
+    {
+      "id": "nm1051119",
+      "name": "Éric Naggar",
+      "character": "Georges, le chauffeur de Marconi"
+    }
+  ],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "French"
+  ],
+  "color": "Color",
+  "filmweb_id": 469509,
+  "year": 2009,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTgwOTc4OTk3NV5BMl5BanBnXkFtZTcwMzc0MjMzMw@@._V1_.jpg",
+  "original_title": "Micmacs à tire-larigot",
+  "ratings": {
+    "imdb": {
+      "rating": 7.1,
+      "votes": 32184,
+      "distribution": {
+        "1": 355,
+        "2": 221,
+        "3": 370,
+        "4": 697,
+        "5": 1825,
+        "6": 4606,
+        "7": 9566,
+        "8": 8465,
+        "9": 3635,
+        "10": 2444
+      },
+      "normalized": 5.7078
+    },
+    "filmweb": {
+      "rating": 6.77,
+      "votes": 15301,
+      "distribution": {
+        "1": 81,
+        "2": 117,
+        "3": 415,
+        "4": 554,
+        "5": 1469,
+        "6": 2942,
+        "7": 4847,
+        "8": 3370,
+        "9": 1122,
+        "10": 384
+      },
+      "normalized": 5.1091
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "21.07.2011",
+      "normalized": 6.4102
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "20.07.2011",
+      "normalized": 5.4199
+    },
+    "score": 5.6617
+  },
+  "polish_title": "Bazyl. Człowiek z kulą w głowie",
+  "silent": false,
+  "description_pl": "Bohaterem filmu jest mężczyzna z kulą w głowie. Każdy dzień może być jego ostatnim, ma bowiem 50% szans na przeżycie. Postanawia pozostały mu czas wykorzystać, by zemścić się na producentach broni. Pomoże mu w tym grupa barwnych postaci.",
+  "producers": [
+    {
+      "id": "nm0109393",
+      "name": "Frédéric Brillion"
+    },
+    {
+      "id": "nm0000466",
+      "name": "Jean-Pierre Jeunet"
+    },
+    {
+      "id": "nm1380658",
+      "name": "Souad Lamriki"
+    },
+    {
+      "id": "nm0499448",
+      "name": "Gilles Legrand"
+    },
+    {
+      "id": "nm2867856",
+      "name": "Camille Nahassia"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm3449976",
+      "name": "Raphaël Beau"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0619216",
+      "name": "Tetsuo Nagata"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

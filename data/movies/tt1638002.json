@@ -1,0 +1,258 @@
+{
+  "imdb_id": "tt1638002",
+  "title": "Love, Rosie",
+  "description": "Rosie and Alex have been best friends since they were 5, so they couldn't possibly be right for each other--or could they? When it comes to love, life and making the right choices, these two are their own worst enemies.",
+  "runtime_minutes": 102,
+  "release_date": "17.10.2014",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm2934314",
+      "name": "Lily Collins"
+    },
+    {
+      "id": "nm3510471",
+      "name": "Sam Claflin"
+    },
+    {
+      "id": "nm0177396",
+      "name": "Christian Cooke"
+    },
+    {
+      "id": "nm1785575",
+      "name": "Jaime Winstone"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0228542",
+      "name": "Christian Ditter"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1130708",
+      "name": "Juliette Towhidi"
+    },
+    {
+      "id": "nm1754499",
+      "name": "Cecelia Ahern"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm2934314",
+      "name": "Lily Collins",
+      "character": "Rosie Dunne"
+    },
+    {
+      "id": "nm3510471",
+      "name": "Sam Claflin",
+      "character": "Alex Stewart"
+    },
+    {
+      "id": "nm0177396",
+      "name": "Christian Cooke",
+      "character": "Greg"
+    },
+    {
+      "id": "nm1785575",
+      "name": "Jaime Winstone",
+      "character": "Ruby"
+    },
+    {
+      "id": "nm4025229",
+      "name": "Suki Waterhouse",
+      "character": "Bethany"
+    },
+    {
+      "id": "nm0989182",
+      "name": "Tamsin Egerton",
+      "character": "Sally"
+    },
+    {
+      "id": "nm1820980",
+      "name": "Jamie Beamish",
+      "character": "Phil"
+    },
+    {
+      "id": "nm0186475",
+      "name": "Lorcan Cranitch",
+      "character": "Dennis Dunne"
+    },
+    {
+      "id": "nm0752557",
+      "name": "Ger Ryan",
+      "character": "Alice Dunne"
+    },
+    {
+      "id": "nm4100318",
+      "name": "Lily Laight",
+      "character": "Katie - Age 12"
+    },
+    {
+      "id": "nm7107445",
+      "name": "Matthew Dillon",
+      "character": "Toby - Age 12"
+    },
+    {
+      "id": "nm5727657",
+      "name": "Rosa Molloy",
+      "character": "Katie - Age 5"
+    },
+    {
+      "id": "nm7107446",
+      "name": "Sadhbh Malin",
+      "character": "Clare"
+    },
+    {
+      "id": "nm1648649",
+      "name": "Nick Lee",
+      "character": "Herb"
+    },
+    {
+      "id": "nm2304002",
+      "name": "Damien Devaney",
+      "character": "Man in the Lift"
+    },
+    {
+      "id": "nm4694056",
+      "name": "Ciaran McGlynn",
+      "character": "Dick"
+    },
+    {
+      "id": "nm10025609",
+      "name": "Justin Holmes",
+      "character": "Jonathan"
+    },
+    {
+      "id": "nm3280686",
+      "name": "Art Parkinson",
+      "character": "Gary Dunne"
+    }
+  ],
+  "countries": [
+    "Germany",
+    "United Kingdom"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 666170,
+  "year": 2014,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTk0Mzg1MTU1MF5BMl5BanBnXkFtZTgwMjU3ODI2MzE@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.1,
+      "votes": 170086,
+      "distribution": {
+        "1": 1536,
+        "2": 1054,
+        "3": 1817,
+        "4": 3709,
+        "5": 9325,
+        "6": 24086,
+        "7": 46827,
+        "8": 39610,
+        "9": 19029,
+        "10": 23095
+      },
+      "normalized": 5.7437
+    },
+    "filmweb": {
+      "rating": 7.39,
+      "votes": 172234,
+      "distribution": {
+        "1": 447,
+        "2": 561,
+        "3": 1946,
+        "4": 3509,
+        "5": 9352,
+        "6": 23324,
+        "7": 48043,
+        "8": 50280,
+        "9": 21861,
+        "10": 12911
+      },
+      "normalized": 6.4689
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "03.01.2016",
+      "normalized": 4.9718
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "07.03.2019",
+      "normalized": 4.5781
+    },
+    "score": 5.4406
+  },
+  "polish_title": "Love, Rosie",
+  "silent": false,
+  "description_pl": "Rosie i Alex znają się od dzieciństwa. Gdy Alex wyjeżdża z Dublina na studia do Ameryki, ich wieloletnią przyjaźń czekają ciężkie chwile. Czy znajomość przetrwa lata rozłąki i tysiące kilometrów? Czy zaryzykują wszystko dla rodzącej się między nimi miłości?",
+  "producers": [
+    {
+      "id": "nm1267873",
+      "name": "Simon Brooks"
+    },
+    {
+      "id": "nm0138502",
+      "name": "Don Carmody"
+    },
+    {
+      "id": "nm0283478",
+      "name": "James Flynn"
+    },
+    {
+      "id": "nm1638716",
+      "name": "Susann Funke"
+    },
+    {
+      "id": "nm0474709",
+      "name": "Robert Kulzer"
+    },
+    {
+      "id": "nm4244703",
+      "name": "Jonnie Malachi"
+    },
+    {
+      "id": "nm0573600",
+      "name": "Jane McNally"
+    },
+    {
+      "id": "nm0609265",
+      "name": "Martin Moszkowicz"
+    },
+    {
+      "id": "nm0634532",
+      "name": "Mark Nolting"
+    },
+    {
+      "id": "nm0640875",
+      "name": "Patrick O'Donoghue"
+    },
+    {
+      "id": "nm0861997",
+      "name": "Bernhard Thür"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0920958",
+      "name": "Ralf Wengenmayr"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0717874",
+      "name": "Christian Rein"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

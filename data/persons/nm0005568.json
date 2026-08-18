@@ -1,0 +1,48 @@
+{
+  "id": "nm0005568",
+  "name": "Russell Wong",
+  "filmography": [
+    {
+      "imdb_id": "tt0165929",
+      "title": "Romeo Must Die",
+      "year": 2000,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Kai"
+    },
+    {
+      "imdb_id": "tt0315297",
+      "title": "Twisted",
+      "year": 2004,
+      "roles": [
+        "cast"
+      ],
+      "character": "Lieutenant Tong"
+    },
+    {
+      "imdb_id": "tt0859163",
+      "title": "The Mummy: Tomb of the Dragon Emperor",
+      "year": 2008,
+      "roles": [
+        "cast"
+      ],
+      "character": "Ming Guo"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMThlZjI1YzQtNGNlMy00N2U2LWE5NzEtODJlYWI1NmUwNzkxXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "01.03.1963",
+  "birth_location": "Troy, New York, USA",
+  "height": "1.83 m",
+  "filmweb_id": 8419,
+  "name_pl": "Russell Wong",
+  "birth_location_pl": "Troy, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 8419
+}

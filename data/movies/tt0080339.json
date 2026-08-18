@@ -1,0 +1,248 @@
+{
+  "imdb_id": "tt0080339",
+  "title": "Airplane!",
+  "description": "After the crew becomes sick with food poisoning, a neurotic ex-fighter pilot must safely land a commercial airplane full of passengers.",
+  "runtime_minutes": 88,
+  "release_date": "02.07.1980",
+  "genres": [
+    "Comedy"
+  ],
+  "stars": [
+    {
+      "id": "nm0001332",
+      "name": "Robert Hays"
+    },
+    {
+      "id": "nm0353546",
+      "name": "Julie Hagerty"
+    },
+    {
+      "id": "nm0000558",
+      "name": "Leslie Nielsen"
+    },
+    {
+      "id": "nm0000717",
+      "name": "Kareem Abdul-Jabbar"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000720",
+      "name": "Jim Abrahams"
+    },
+    {
+      "id": "nm0001878",
+      "name": "David Zucker"
+    },
+    {
+      "id": "nm0958387",
+      "name": "Jerry Zucker"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000720",
+      "name": "Jim Abrahams"
+    },
+    {
+      "id": "nm0001878",
+      "name": "David Zucker"
+    },
+    {
+      "id": "nm0958387",
+      "name": "Jerry Zucker"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0001332",
+      "name": "Robert Hays",
+      "character": "Ted Striker"
+    },
+    {
+      "id": "nm0353546",
+      "name": "Julie Hagerty",
+      "character": "Elaine Dickinson"
+    },
+    {
+      "id": "nm0000558",
+      "name": "Leslie Nielsen",
+      "character": "Dr. Rumack"
+    },
+    {
+      "id": "nm0000717",
+      "name": "Kareem Abdul-Jabbar",
+      "character": "Roger Murdock"
+    },
+    {
+      "id": "nm0000978",
+      "name": "Lloyd Bridges",
+      "character": "Steve McCroskey"
+    },
+    {
+      "id": "nm0336335",
+      "name": "Peter Graves",
+      "character": "Captain Clarence Oveur"
+    },
+    {
+      "id": "nm0666309",
+      "name": "Lorna Patterson",
+      "character": "Randy"
+    },
+    {
+      "id": "nm0821041",
+      "name": "Robert Stack",
+      "character": "Captain Rex Kramer"
+    },
+    {
+      "id": "nm0835992",
+      "name": "Stephen Stucker",
+      "character": "Johnny Henshaw-Jacobs"
+    },
+    {
+      "id": "nm1290293",
+      "name": "Otto",
+      "character": "Otto"
+    },
+    {
+      "id": "nm0000720",
+      "name": "Jim Abrahams",
+      "character": "Religious Zealot #6"
+    },
+    {
+      "id": "nm0039149",
+      "name": "Frank Ashmore",
+      "character": "Victor Basta"
+    },
+    {
+      "id": "nm0052186",
+      "name": "Jonathan Banks",
+      "character": "Gunderson"
+    },
+    {
+      "id": "nm0073551",
+      "name": "Craig Berenson",
+      "character": "Paul Carey"
+    },
+    {
+      "id": "nm0082511",
+      "name": "Barbara Billingsley",
+      "character": "Jive Lady"
+    },
+    {
+      "id": "nm0117165",
+      "name": "Lee Bryant",
+      "character": "Mrs. Hammen"
+    },
+    {
+      "id": "nm0119922",
+      "name": "Joyce Bulifant",
+      "character": "Mrs. Davis"
+    },
+    {
+      "id": "nm0132693",
+      "name": "Mae E. Campbell",
+      "character": "Security Lady"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 30720,
+  "year": 1980,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNGMxMDRhMjItMDNlZi00MDIzLWE5MDQtODljMDQ3MWM1Y2E4XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.7,
+      "votes": 291371,
+      "distribution": {
+        "1": 1919,
+        "2": 1447,
+        "3": 2287,
+        "4": 4257,
+        "5": 10499,
+        "6": 27497,
+        "7": 64806,
+        "8": 87749,
+        "9": 45970,
+        "10": 44940
+      },
+      "normalized": 6.8344
+    },
+    "filmweb": {
+      "rating": 7.0,
+      "votes": 52029,
+      "distribution": {
+        "1": 385,
+        "2": 291,
+        "3": 825,
+        "4": 1523,
+        "5": 3739,
+        "6": 9412,
+        "7": 17000,
+        "8": 11886,
+        "9": 4337,
+        "10": 2631
+      },
+      "normalized": 5.6175
+    },
+    "jarek": {
+      "rating": 3,
+      "date_rated": "13.12.2022",
+      "normalized": 4.2591
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "21.12.2006",
+      "normalized": 6.3474
+    },
+    "score": 5.7646
+  },
+  "polish_title": "Czy leci z nami pilot?",
+  "silent": false,
+  "description_pl": "Ted Striker po przeżytym wojennym koszmarze obiecuje sobie już nigdy nie pilotować samolotu. Tymczasem leci jako pasażer, aby przekonać swoją dziewczynę-stewardessę, żeby do niego wróciła. Wkrótce wszyscy piloci zapadają na dziwną chorobę. Ted jest jedyną nadzieją dla kilkudziesięciu pasażerów samolotu. Czy pokona strach?",
+  "producers": [
+    {
+      "id": "nm0000720",
+      "name": "Jim Abrahams"
+    },
+    {
+      "id": "nm0205727",
+      "name": "Jon Davison"
+    },
+    {
+      "id": "nm0523324",
+      "name": "Hunt Lowry"
+    },
+    {
+      "id": "nm0001878",
+      "name": "David Zucker"
+    },
+    {
+      "id": "nm0958387",
+      "name": "Jerry Zucker"
+    },
+    {
+      "id": "nm0462322",
+      "name": "Howard W. Koch"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0000930",
+      "name": "Elmer Bernstein"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005657",
+      "name": "Joseph F. Biroc"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

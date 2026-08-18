@@ -1,0 +1,52 @@
+{
+  "id": "nm0001627",
+  "name": "Sidney Poitier",
+  "filmography": [
+    {
+      "imdb_id": "tt0061735",
+      "title": "Guess Who's Coming to Dinner",
+      "year": 1967,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "John Prentice"
+    },
+    {
+      "imdb_id": "tt0061811",
+      "title": "In the Heat of the Night",
+      "year": 1967,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Det. Virgil Tibbs"
+    },
+    {
+      "imdb_id": "tt0119395",
+      "title": "The Jackal",
+      "year": 1997,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Preston"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQ0OTE3MzQ2Nl5BMl5BanBnXkFtZTcwMDc2MDc1NA@@._V1_.jpg",
+  "birth_date": "20.02.1927",
+  "death_date": "06.01.2022",
+  "birth_location": "Miami, Florida, USA",
+  "height": "1.89 m",
+  "filmweb_id": 4338,
+  "name_pl": "Sidney Poitier",
+  "birth_location_pl": "Miami, Floryda",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone",
+    "Bahamy"
+  ],
+  "wikidata_fw_id": 4338
+}

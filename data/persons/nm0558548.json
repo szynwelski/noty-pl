@@ -1,0 +1,48 @@
+{
+  "id": "nm0558548",
+  "name": "Hans Matheson",
+  "filmography": [
+    {
+      "imdb_id": "tt0988045",
+      "title": "Sherlock Holmes",
+      "year": 2009,
+      "roles": [
+        "cast"
+      ],
+      "character": "Lord Coward"
+    },
+    {
+      "imdb_id": "tt0800320",
+      "title": "Clash of the Titans",
+      "year": 2010,
+      "roles": [
+        "cast"
+      ],
+      "character": "Ixas"
+    },
+    {
+      "imdb_id": "tt1253863",
+      "title": "300: Rise of an Empire",
+      "year": 2014,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Aeskylos"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZjYzZThjNzYtNDg1Yi00MDQ1LTgzMGMtNDUzNTE1MjIxNTU1XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "07.08.1975",
+  "birth_location": "Stornaway, Scotland, UK",
+  "height": "1.74 m",
+  "imdb_scraped": true,
+  "filmweb_id": 41600,
+  "name_pl": "Hans Matheson",
+  "birth_location_pl": "Stornoway, Szkocja",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 41600
+}

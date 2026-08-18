@@ -1,0 +1,39 @@
+{
+  "id": "nm1443502",
+  "name": "Jordan Peele",
+  "filmography": [
+    {
+      "imdb_id": "tt5052448",
+      "title": "Get Out",
+      "year": 2017,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt1979376",
+      "title": "Toy Story 4",
+      "year": 2019,
+      "roles": [
+        "cast"
+      ],
+      "character": "Bunny"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZGIzOTRhY2ItYzdiOC00NTNlLWJmMTYtZGYzNWM2M2RiNjM3XkEyXkFqcGc@._V1_.jpg",
+  "image_url_small": "https://m.media-amazon.com/images/M/MV5BZGIzOTRhY2ItYzdiOC00NTNlLWJmMTYtZGYzNWM2M2RiNjM3XkEyXkFqcGc@._V1_CR159,0,642,963_.jpg",
+  "birth_date": "21.02.1979",
+  "birth_location": "New York City, New York, USA",
+  "height": "1.71 m",
+  "imdb_scraped": true,
+  "filmweb_id": 541449,
+  "name_pl": "Jordan Peele",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

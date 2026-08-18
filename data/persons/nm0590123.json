@@ -1,0 +1,38 @@
+{
+  "id": "nm0590123",
+  "name": "Mort Mills",
+  "filmography": [
+    {
+      "imdb_id": "tt0052311",
+      "title": "Touch of Evil",
+      "year": 1958,
+      "roles": [
+        "cast"
+      ],
+      "character": "Al Schwartz"
+    },
+    {
+      "imdb_id": "tt0054215",
+      "title": "Psycho",
+      "year": 1960,
+      "roles": [
+        "cast"
+      ],
+      "character": "Highway Patrol Officer"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTgwMzY1NjA0MV5BMl5BanBnXkFtZTgwMzM1MTk0MjE@._V1_.jpg",
+  "birth_date": "11.01.1919",
+  "death_date": "06.06.1993",
+  "birth_location": "New York City, New York, USA",
+  "height": "1.85 m",
+  "imdb_scraped": true,
+  "filmweb_id": 55871,
+  "name_pl": "Mort Mills",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

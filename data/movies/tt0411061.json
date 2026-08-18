@@ -1,0 +1,286 @@
+{
+  "imdb_id": "tt0411061",
+  "title": "88 Minutes",
+  "description": "On the day that a serial killer that he helped put away is supposed to be executed, a noted forensic psychologist and college professor receives a call informing him that he has 88 minutes left to live.",
+  "runtime_minutes": 108,
+  "release_date": "18.04.2008",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000199",
+      "name": "Al Pacino"
+    },
+    {
+      "id": "nm0001860",
+      "name": "Alicia Witt"
+    },
+    {
+      "id": "nm1360270",
+      "name": "Ben McKenzie"
+    },
+    {
+      "id": "nm0005447",
+      "name": "Leelee Sobieski"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000816",
+      "name": "Jon Avnet"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0860155",
+      "name": "Gary Scott Thompson"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000199",
+      "name": "Al Pacino",
+      "character": "Jack Gramm"
+    },
+    {
+      "id": "nm0001860",
+      "name": "Alicia Witt",
+      "character": "Kim Cummings"
+    },
+    {
+      "id": "nm1360270",
+      "name": "Ben McKenzie",
+      "character": "Mike Stempt"
+    },
+    {
+      "id": "nm0005447",
+      "name": "Leelee Sobieski",
+      "character": "Lauren Douglas"
+    },
+    {
+      "id": "nm0000312",
+      "name": "Amy Brenneman",
+      "character": "Shelly Barnes"
+    },
+    {
+      "id": "nm0001235",
+      "name": "William Forsythe",
+      "character": "Frank Parks"
+    },
+    {
+      "id": "nm0000679",
+      "name": "Deborah Kara Unger",
+      "character": "Carol Lynn Johnson"
+    },
+    {
+      "id": "nm0568180",
+      "name": "Neal McDonough",
+      "character": "Jon Forster"
+    },
+    {
+      "id": "nm1489668",
+      "name": "Leah Cairns",
+      "character": "Sara Pollard"
+    },
+    {
+      "id": "nm0610459",
+      "name": "Stephen Moyer",
+      "character": "Guy LaForge"
+    },
+    {
+      "id": "nm0714992",
+      "name": "Christopher Redman",
+      "character": "Jeremy Guber"
+    },
+    {
+      "id": "nm1927763",
+      "name": "Trilby Glover",
+      "character": "Defense Attorney"
+    },
+    {
+      "id": "nm0495023",
+      "name": "Damien Leake",
+      "character": "The Judge"
+    },
+    {
+      "id": "nm0281956",
+      "name": "Brendan Fletcher",
+      "character": "Johnny D'Franco"
+    },
+    {
+      "id": "nm1002664",
+      "name": "Michael Eklund",
+      "character": "J.T. Rycker"
+    },
+    {
+      "id": "nm0178631",
+      "name": "Kristina Copeland",
+      "character": "Dale Morris"
+    },
+    {
+      "id": "nm1605039",
+      "name": "Tammy Hui",
+      "character": "Janie Cates"
+    },
+    {
+      "id": "nm1373148",
+      "name": "Vicky Huang",
+      "character": "Joanie Cates"
+    }
+  ],
+  "countries": [
+    "Germany",
+    "Canada",
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 123510,
+  "year": 2007,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTgxOTg1NzgzMV5BMl5BanBnXkFtZTcwNTM3Mjc1MQ@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.9,
+      "votes": 80615,
+      "distribution": {
+        "1": 2295,
+        "2": 2119,
+        "3": 3270,
+        "4": 5959,
+        "5": 12758,
+        "6": 22461,
+        "7": 17897,
+        "8": 7750,
+        "9": 2571,
+        "10": 3535
+      },
+      "normalized": 3.447
+    },
+    "filmweb": {
+      "rating": 6.5,
+      "votes": 37501,
+      "distribution": {
+        "1": 170,
+        "2": 263,
+        "3": 906,
+        "4": 1712,
+        "5": 4468,
+        "6": 9375,
+        "7": 12682,
+        "8": 5864,
+        "9": 1226,
+        "10": 835
+      },
+      "normalized": 4.3326
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "02.07.2008",
+      "normalized": 4.5781
+    },
+    "score": 4.1192
+  },
+  "polish_title": "88 minut",
+  "silent": false,
+  "description_pl": "Główny bohater to profesor (<a href=\"/osoba/?id=nm0000199\">Pacino</a>), który dorabia sobie na boku pracując jako psychoterapeuta dla FBI. Pewnego dnia mężczyzna otrzymuje ostrzeżenie, z którego wynika, iż zostało mu tylko 88 minut życia. Bohater będzie musiał użyć wszystkich swoich umiejętności by odnaleźć swojego prześladowcę. Wśród podejrzanych są wiecznie narzekający student, porzucona kochanka oraz seryjny zabójca przebywający właśnie w celi śmierci.",
+  "producers": [
+    {
+      "id": "nm0000816",
+      "name": "Jon Avnet"
+    },
+    {
+      "id": "nm0049689",
+      "name": "John Baldecchi"
+    },
+    {
+      "id": "nm0004744",
+      "name": "Lawrence Bender"
+    },
+    {
+      "id": "nm0203246",
+      "name": "Boaz Davidson"
+    },
+    {
+      "id": "nm0227234",
+      "name": "Danny Dimbort"
+    },
+    {
+      "id": "nm0256542",
+      "name": "Randall Emmett"
+    },
+    {
+      "id": "nm0266813",
+      "name": "Michael P. Flannigan"
+    },
+    {
+      "id": "nm0298915",
+      "name": "George Furla"
+    },
+    {
+      "id": "nm0317934",
+      "name": "Todd Gilbert"
+    },
+    {
+      "id": "nm0352820",
+      "name": "Samuel Hadida"
+    },
+    {
+      "id": "nm0373872",
+      "name": "Manfred D. Heid"
+    },
+    {
+      "id": "nm2496346",
+      "name": "Jochen Kamlah"
+    },
+    {
+      "id": "nm1539868",
+      "name": "Gerd Koechlin"
+    },
+    {
+      "id": "nm1572971",
+      "name": "Josef Lautenschlager"
+    },
+    {
+      "id": "nm0503592",
+      "name": "Avi Lerner"
+    },
+    {
+      "id": "nm0644749",
+      "name": "Marsha Oglesby"
+    },
+    {
+      "id": "nm0795121",
+      "name": "Trevor Short"
+    },
+    {
+      "id": "nm0858077",
+      "name": "Andreas Thiesmeyer"
+    },
+    {
+      "id": "nm0860155",
+      "name": "Gary Scott Thompson"
+    },
+    {
+      "id": "nm0860315",
+      "name": "John Thompson"
+    },
+    {
+      "id": "nm0932144",
+      "name": "Shawn Williamson"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0790481",
+      "name": "Edward Shearmur"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

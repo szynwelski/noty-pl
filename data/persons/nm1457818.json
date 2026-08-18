@@ -1,0 +1,45 @@
+{
+  "id": "nm1457818",
+  "name": "Przemyslaw Angerman",
+  "filmography": [
+    {
+      "imdb_id": "tt0382109",
+      "title": "Jak to sie robi z dziewczynami",
+      "year": 2002,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0476872",
+      "title": "Skazany na bluesa",
+      "year": 2005,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt2095008",
+      "title": "Wyjazd integracyjny",
+      "year": 2011,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BY2ZlZDA4MTQtNjQ2Zi00MTYxLTk5ZjYtZmU4ZDRlODM3YjM5XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "11.12.1975",
+  "birth_location": "Kraków, Malopolskie, Poland",
+  "filmweb_id": 114956,
+  "name_pl": "Przemysław Angerman",
+  "birth_location_pl": "Kraków",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Polska"
+  ],
+  "wikidata_fw_id": 114956
+}

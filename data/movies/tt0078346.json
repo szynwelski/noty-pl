@@ -1,0 +1,235 @@
+{
+  "imdb_id": "tt0078346",
+  "title": "Superman",
+  "description": "An alien orphan is sent from his dying planet to Earth, where he grows up to become his adoptive home's first and greatest superhero.",
+  "runtime_minutes": 143,
+  "release_date": "15.12.1978",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm0001659",
+      "name": "Christopher Reeve"
+    },
+    {
+      "id": "nm0452288",
+      "name": "Margot Kidder"
+    },
+    {
+      "id": "nm0000432",
+      "name": "Gene Hackman"
+    },
+    {
+      "id": "nm0000008",
+      "name": "Marlon Brando"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001149",
+      "name": "Richard Donner"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0796950",
+      "name": "Jerry Siegel"
+    },
+    {
+      "id": "nm0795975",
+      "name": "Joe Shuster"
+    },
+    {
+      "id": "nm0701374",
+      "name": "Mario Puzo"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0001659",
+      "name": "Christopher Reeve",
+      "character": "Superman"
+    },
+    {
+      "id": "nm0452288",
+      "name": "Margot Kidder",
+      "character": "Lois Lane"
+    },
+    {
+      "id": "nm0000432",
+      "name": "Gene Hackman",
+      "character": "Lex Luthor"
+    },
+    {
+      "id": "nm0000008",
+      "name": "Marlon Brando",
+      "character": "Jor-El"
+    },
+    {
+      "id": "nm0000885",
+      "name": "Ned Beatty",
+      "character": "Otis"
+    },
+    {
+      "id": "nm0178114",
+      "name": "Jackie Cooper",
+      "character": "Perry White"
+    },
+    {
+      "id": "nm0001229",
+      "name": "Glenn Ford",
+      "character": "Pa Kent"
+    },
+    {
+      "id": "nm0002145",
+      "name": "Trevor Howard",
+      "character": "1st Elder"
+    },
+    {
+      "id": "nm0641172",
+      "name": "Jack O'Halloran",
+      "character": "Non"
+    },
+    {
+      "id": "nm0674781",
+      "name": "Valerie Perrine",
+      "character": "Eve Teschmacher"
+    },
+    {
+      "id": "nm0770730",
+      "name": "Maria Schell",
+      "character": "Vond-Ah"
+    },
+    {
+      "id": "nm0000654",
+      "name": "Terence Stamp",
+      "character": "General Zod"
+    },
+    {
+      "id": "nm0857187",
+      "name": "Phyllis Thaxter",
+      "character": "Ma Kent"
+    },
+    {
+      "id": "nm0948772",
+      "name": "Susannah York",
+      "character": "Lara"
+    },
+    {
+      "id": "nm0247532",
+      "name": "Jeff East",
+      "character": "Young Clark Kent"
+    },
+    {
+      "id": "nm0566013",
+      "name": "Marc McClure",
+      "character": "Jimmy Olsen"
+    },
+    {
+      "id": "nm0235243",
+      "name": "Sarah Douglas",
+      "character": "Ursa"
+    },
+    {
+      "id": "nm0028674",
+      "name": "Harry Andrews",
+      "character": "2nd Elder"
+    }
+  ],
+  "countries": [
+    "United Kingdom",
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 9881,
+  "year": 1978,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzFlZDJjMDAtZDYxZS00NzZhLTk2ODMtZWRlODA3Njk3ZTdmXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.4,
+      "votes": 208314,
+      "distribution": {
+        "1": 1906,
+        "2": 961,
+        "3": 1690,
+        "4": 3686,
+        "5": 9646,
+        "6": 26057,
+        "7": 61196,
+        "8": 53747,
+        "9": 22346,
+        "10": 27079
+      },
+      "normalized": 6.2639
+    },
+    "filmweb": {
+      "rating": 6.56,
+      "votes": 22948,
+      "distribution": {
+        "1": 121,
+        "2": 139,
+        "3": 461,
+        "4": 987,
+        "5": 2629,
+        "6": 6152,
+        "7": 7535,
+        "8": 3220,
+        "9": 757,
+        "10": 947
+      },
+      "normalized": 4.457
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "19.10.2005",
+      "normalized": 4.5781
+    },
+    "score": 5.0997
+  },
+  "polish_title": "Superman",
+  "silent": false,
+  "description_pl": "Superman jest obdarzonym nadludzkimi mocami przybyszem z planety Krypton, który na co dzień wciela się w Clarka Kenta, skromnego dziennikarza z popularnej gazety. Nadchodzi jednak czas, gdy musi zmierzyć się ze swym największym wrogiem - Lexem Luthorem, złoczyńcą, który pragnie przejąć władzę nad światem.",
+  "producers": [
+    {
+      "id": "nm0339103",
+      "name": "Charles Greenlaw"
+    },
+    {
+      "id": "nm0007163",
+      "name": "Ilya Salkind"
+    },
+    {
+      "id": "nm0818201",
+      "name": "Pierre Spengler"
+    },
+    {
+      "id": "nm0504513",
+      "name": "Richard Lester"
+    },
+    {
+      "id": "nm0758499",
+      "name": "Alexander Salkind"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0002354",
+      "name": "John Williams"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005910",
+      "name": "Geoffrey Unsworth"
+    }
+  ],
+  "original_title": "Superman: The Movie",
+  "fetched_at": "2026-08-16"
+}

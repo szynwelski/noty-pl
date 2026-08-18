@@ -1,0 +1,40 @@
+{
+  "id": "nm0431918",
+  "name": "Mike Judge",
+  "filmography": [
+    {
+      "imdb_id": "tt0151804",
+      "title": "Office Space",
+      "year": 1999,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt1225822",
+      "title": "Extract",
+      "year": 2009,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjE2OTY1Mzg3MV5BMl5BanBnXkFtZTcwNzI0MjExNw@@._V1_.jpg",
+  "birth_date": "17.10.1962",
+  "birth_location": "Guayaquil, Ecuador",
+  "height": "1.82 m",
+  "imdb_scraped": true,
+  "filmweb_id": 60516,
+  "name_pl": "Mike Judge",
+  "birth_location_pl": "Guayaquil",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone",
+    "Ekwador"
+  ],
+  "wikidata_fw_id": 60516
+}

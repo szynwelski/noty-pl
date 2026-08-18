@@ -1,0 +1,234 @@
+{
+  "imdb_id": "tt0051036",
+  "title": "Sweet Smell of Success",
+  "description": "A powerful Broadway columnist coerces an unscrupulous press agent into breaking up his sister's romance with a jazz musician.",
+  "runtime_minutes": 96,
+  "release_date": "04.07.1957",
+  "genres": [
+    "Drama",
+    "Film-Noir"
+  ],
+  "stars": [
+    {
+      "id": "nm0000044",
+      "name": "Burt Lancaster"
+    },
+    {
+      "id": "nm0000348",
+      "name": "Tony Curtis"
+    },
+    {
+      "id": "nm0365893",
+      "name": "Susan Harrison"
+    },
+    {
+      "id": "nm0590398",
+      "name": "Martin Milner"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0533241",
+      "name": "Alexander Mackendrick"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0644048",
+      "name": "Clifford Odets"
+    },
+    {
+      "id": "nm0499626",
+      "name": "Ernest Lehman"
+    },
+    {
+      "id": "nm0533241",
+      "name": "Alexander Mackendrick"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000044",
+      "name": "Burt Lancaster",
+      "character": "J.J. Hunsecker"
+    },
+    {
+      "id": "nm0000348",
+      "name": "Tony Curtis",
+      "character": "Sidney Falco"
+    },
+    {
+      "id": "nm0365893",
+      "name": "Susan Harrison",
+      "character": "Susan Hunsecker"
+    },
+    {
+      "id": "nm0590398",
+      "name": "Martin Milner",
+      "character": "Steve Dallas"
+    },
+    {
+      "id": "nm0232655",
+      "name": "Jeff Donnell",
+      "character": "Sally"
+    },
+    {
+      "id": "nm0505249",
+      "name": "Sam Levene",
+      "character": "Frank D' Angelo"
+    },
+    {
+      "id": "nm0295862",
+      "name": "Joe Frisco",
+      "character": "Herbie Temple"
+    },
+    {
+      "id": "nm0629539",
+      "name": "Barbara Nichols",
+      "character": "Rita"
+    },
+    {
+      "id": "nm0583093",
+      "name": "Emile Meyer",
+      "character": "Lt. Harry Kello"
+    },
+    {
+      "id": "nm0041138",
+      "name": "Edith Atwater",
+      "character": "Mary"
+    },
+    {
+      "id": "nm0357783",
+      "name": "Chico Hamilton",
+      "character": "Self"
+    },
+    {
+      "id": "nm0394900",
+      "name": "Paul Horn",
+      "character": "Self"
+    },
+    {
+      "id": "nm0441711",
+      "name": "Fred Katz",
+      "character": "Self"
+    },
+    {
+      "id": "nm0163741",
+      "name": "Buddy Clark",
+      "character": "Self"
+    },
+    {
+      "id": "nm0012175",
+      "name": "Jay Adler",
+      "character": "Manny Davis"
+    },
+    {
+      "id": "nm0063038",
+      "name": "Mary Bayless",
+      "character": "Bar Patron"
+    },
+    {
+      "id": "nm0086319",
+      "name": "Nicky Blair",
+      "character": "Patron at Toots Shor's"
+    },
+    {
+      "id": "nm0096470",
+      "name": "Nick Borgani",
+      "character": "Waiter"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Italian",
+    "Spanish"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 31835,
+  "year": 1957,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZWY3NmM5MTMtODczZS00NmE5LTljOGEtNjFmYzVlZThmNDZmXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8,
+      "votes": 40475,
+      "distribution": {
+        "1": 685,
+        "2": 339,
+        "3": 289,
+        "4": 474,
+        "5": 1248,
+        "6": 2913,
+        "7": 7067,
+        "8": 11809,
+        "9": 8165,
+        "10": 7486
+      },
+      "normalized": 7.3616
+    },
+    "filmweb": {
+      "rating": 7.81,
+      "votes": 2806,
+      "distribution": {
+        "1": 13,
+        "2": 5,
+        "3": 15,
+        "4": 26,
+        "5": 82,
+        "6": 235,
+        "7": 676,
+        "8": 844,
+        "9": 669,
+        "10": 241
+      },
+      "normalized": 7.2224
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "08.07.2017",
+      "normalized": 7.2292
+    },
+    "score": 7.2711
+  },
+  "polish_title": "Słodki zapach sukcesu",
+  "silent": false,
+  "description_pl": "Sidney Falco drobny agent prasowy pragnie wspiąć się na szczyt kariery zawodowej, by poczuć \"słodki zapach sukcesu\". Przypochlebia się wszechwładnemu redaktorowi rubryki towarzyskiej jednej z nowojorskich gazet, Hunseckerowi. Dostarcza mu tematów i posłusznie wykonuje wszystkie jego polecenia. Natomiast Hunseckerowi sen z powiek spędza romans jego siostry z muzykiem jazzowym.",
+  "producers": [
+    {
+      "id": "nm0384343",
+      "name": "James Hill"
+    },
+    {
+      "id": "nm0000348",
+      "name": "Tony Curtis"
+    },
+    {
+      "id": "nm0372959",
+      "name": "Harold Hecht"
+    },
+    {
+      "id": "nm0000044",
+      "name": "Burt Lancaster"
+    },
+    {
+      "id": "nm0001463",
+      "name": "Janet Leigh"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0000930",
+      "name": "Elmer Bernstein"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0002146",
+      "name": "James Wong Howe"
+    }
+  ],
+  "fetched_at": "2026-08-15"
+}

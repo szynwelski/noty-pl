@@ -1,0 +1,29 @@
+{
+  "id": "nm0057383",
+  "name": "John Barrie",
+  "filmography": [
+    {
+      "imdb_id": "tt0066206",
+      "title": "Patton",
+      "year": 1970,
+      "roles": [
+        "cast"
+      ],
+      "character": "Air Vice-Marshal Sir Arthur Coningham"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjM4MDc1NDAwNl5BMl5BanBnXkFtZTgwMTcwNDE1NTE@._V1_.jpg",
+  "birth_date": "06.05.1917",
+  "death_date": "24.03.1980",
+  "birth_location": "New Brighton, Merseyside, England, UK",
+  "imdb_scraped": true,
+  "filmweb_id": 159433,
+  "name_pl": "John Barrie",
+  "birth_location_pl": "New Brighton, Anglia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania",
+    "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii"
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "imdb_id": "tt0011071",
+  "title": "Convict 13",
+  "description": "A young golfer is mugged by an escaped convict and finds himself in a prison where he foils a jailbreak.",
+  "runtime_minutes": 19,
+  "release_date": "27.10.1920",
+  "genres": [
+    "Short",
+    "Comedy",
+    "Crime"
+  ],
+  "stars": [
+    {
+      "id": "nm0000036",
+      "name": "Buster Keaton"
+    },
+    {
+      "id": "nm0781623",
+      "name": "Sybil Seely"
+    },
+    {
+      "id": "nm0731247",
+      "name": "Joe Roberts"
+    },
+    {
+      "id": "nm0166836",
+      "name": "Edward F. Cline"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0166836",
+      "name": "Edward F. Cline"
+    },
+    {
+      "id": "nm0000036",
+      "name": "Buster Keaton"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0166836",
+      "name": "Edward F. Cline"
+    },
+    {
+      "id": "nm0000036",
+      "name": "Buster Keaton"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000036",
+      "name": "Buster Keaton",
+      "character": "Golfer Turned Prisoner, Guard"
+    },
+    {
+      "id": "nm0781623",
+      "name": "Sybil Seely",
+      "character": "Socialite, Warden's Daughter"
+    },
+    {
+      "id": "nm0731247",
+      "name": "Joe Roberts",
+      "character": "The Crazed Prisoner"
+    },
+    {
+      "id": "nm0166836",
+      "name": "Edward F. Cline",
+      "character": "Hangman"
+    },
+    {
+      "id": "nm0444172",
+      "name": "Joe Keaton",
+      "character": "Prisoner"
+    },
+    {
+      "id": "nm0444174",
+      "name": "Louise Keaton",
+      "character": ""
+    },
+    {
+      "id": "nm0444171",
+      "name": "Harry Keaton",
+      "character": "Little guard that Big Joe knocks out"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "None",
+    "English"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 95788,
+  "year": 1920,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOTdiYWEwZjUtMTllOS00NTVkLWI3NjktMWI1ZjlkZmQ1YzM0XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.1,
+      "votes": 3956,
+      "distribution": {
+        "1": 34,
+        "2": 15,
+        "3": 27,
+        "4": 65,
+        "5": 192,
+        "6": 692,
+        "7": 1547,
+        "8": 899,
+        "9": 267,
+        "10": 218
+      },
+      "normalized": 5.6568
+    },
+    "filmweb": {
+      "rating": 6.57,
+      "votes": 416,
+      "distribution": {
+        "1": 1,
+        "2": 0,
+        "3": 6,
+        "4": 9,
+        "5": 44,
+        "6": 117,
+        "7": 167,
+        "8": 62,
+        "9": 9,
+        "10": 1
+      },
+      "normalized": 4.7991
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "11.07.2007",
+      "normalized": 4.5781
+    },
+    "score": 5.0113
+  },
+  "polish_title": "Skazaniec",
+  "silent": true,
+  "description_pl": "Buster podczas gry w golfa z Sybil zostaje okradziony. Uciekinier z więzienia zamienia się z Busterem na ubranie, i przez to Buster trafia do więzienia. Dowiaduję się, że zostanie powieszony. Próbuję więc uciec... kiedy jeden z więźniów atakuję strażników, on zabiera jednemu z nich mundur...",
+  "cinematographers": [
+    {
+      "id": "nm0504380",
+      "name": "Elgin Lessley"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-15"
+}

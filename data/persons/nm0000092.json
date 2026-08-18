@@ -1,0 +1,130 @@
+{
+  "id": "nm0000092",
+  "name": "John Cleese",
+  "filmography": [
+    {
+      "imdb_id": "tt0066765",
+      "title": "Monty Python's and Now for Something Completely Different",
+      "year": 1971,
+      "roles": [
+        "writer",
+        "star",
+        "cast"
+      ],
+      "character": "Announcer"
+    },
+    {
+      "imdb_id": "tt0071853",
+      "title": "Monty Python and the Holy Grail",
+      "year": 1975,
+      "roles": [
+        "writer",
+        "star",
+        "cast"
+      ],
+      "character": "Second Swallow-Savvy Guard"
+    },
+    {
+      "imdb_id": "tt0079470",
+      "title": "Monty Python's Life of Brian",
+      "year": 1979,
+      "roles": [
+        "writer",
+        "star",
+        "cast"
+      ],
+      "character": "Wise Man #1"
+    },
+    {
+      "imdb_id": "tt0085959",
+      "title": "Monty Python's the Meaning of Life",
+      "year": 1983,
+      "roles": [
+        "writer",
+        "star",
+        "cast"
+      ],
+      "character": "Fish #2"
+    },
+    {
+      "imdb_id": "tt0095159",
+      "title": "A Fish Called Wanda",
+      "year": 1988,
+      "roles": [
+        "director",
+        "writer",
+        "star",
+        "cast",
+        "producer"
+      ],
+      "character": "Archie"
+    },
+    {
+      "imdb_id": "tt0119190",
+      "title": "George of the Jungle",
+      "year": 1997,
+      "roles": [
+        "cast"
+      ],
+      "character": "An Ape Named 'Ape'"
+    },
+    {
+      "imdb_id": "tt0143145",
+      "title": "The World Is Not Enough",
+      "year": 1999,
+      "roles": [
+        "cast"
+      ],
+      "character": "R"
+    },
+    {
+      "imdb_id": "tt0246460",
+      "title": "Die Another Day",
+      "year": 2002,
+      "roles": [
+        "cast"
+      ],
+      "character": "Q"
+    },
+    {
+      "imdb_id": "tt0298148",
+      "title": "Shrek 2",
+      "year": 2004,
+      "roles": [
+        "cast"
+      ],
+      "character": "King"
+    },
+    {
+      "imdb_id": "tt0361089",
+      "title": "Valiant",
+      "year": 2005,
+      "roles": [
+        "cast"
+      ],
+      "character": "Mercury"
+    },
+    {
+      "imdb_id": "tt0970416",
+      "title": "The Day the Earth Stood Still",
+      "year": 2008,
+      "roles": [
+        "cast"
+      ],
+      "character": "Professor Barnhardt"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQ1MTIzMzM1MF5BMl5BanBnXkFtZTYwNjQ3ODI1._V1_.jpg",
+  "birth_date": "27.10.1939",
+  "birth_location": "Weston-Super-Mare, Somerset, England, UK",
+  "height": "1.96 m",
+  "filmweb_id": 149,
+  "name_pl": "John Cleese",
+  "birth_location_pl": "Weston-Super-Mare, Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ]
+}

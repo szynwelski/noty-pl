@@ -1,0 +1,77 @@
+{
+  "id": "nm0001178",
+  "name": "Sergei Eisenstein",
+  "filmography": [
+    {
+      "imdb_id": "tt0015648",
+      "title": "Battleship Potemkin",
+      "year": 1925,
+      "roles": [
+        "director",
+        "cast"
+      ],
+      "character": "Odessa Citizen"
+    },
+    {
+      "imdb_id": "tt0015361",
+      "title": "Strike",
+      "year": 1925,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0029850",
+      "title": "Alexander Nevsky",
+      "year": 1938,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0037824",
+      "title": "Ivan the Terrible, Part I",
+      "year": 1944,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0051790",
+      "title": "Ivan the Terrible, Part II: The Boyars' Plot",
+      "year": 1946,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0079020",
+      "title": "Que Viva Mexico",
+      "year": 1979,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzgzMDgyNDA3NV5BMl5BanBnXkFtZTgwNjE1OTExMjE@._V1_.jpg",
+  "birth_date": "22.01.1898",
+  "death_date": "11.02.1948",
+  "birth_location": "Riga, Governorate of Livonia, Russian Empire [now Latvia]",
+  "height": "1.70 m",
+  "filmweb_id": 73443,
+  "name_pl": "Siergiej Eisenstein",
+  "birth_location_pl": "Ryga",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Związek Socjalistycznych Republik Radzieckich",
+    "Imperium Rosyjskie"
+  ]
+}

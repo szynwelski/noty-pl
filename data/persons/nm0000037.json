@@ -1,0 +1,42 @@
+{
+  "id": "nm0000037",
+  "name": "Gene Kelly",
+  "filmography": [
+    {
+      "imdb_id": "tt0045152",
+      "title": "Singin' in the Rain",
+      "year": 1952,
+      "roles": [
+        "director",
+        "star",
+        "cast"
+      ],
+      "character": "Don Lockwood"
+    },
+    {
+      "imdb_id": "tt0053946",
+      "title": "Inherit the Wind",
+      "year": 1960,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "E. K. Hornbeck"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMGRjYTg5OGItYTFjZC00ZjU2LWI0NzgtYzFlZjYxYmUzMDkwXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 42999,
+  "birth_date": "23.08.1912",
+  "death_date": "02.02.1996",
+  "birth_location": "Pittsburgh, Pennsylvania, USA",
+  "height": "1.72 m",
+  "imdb_scraped": true,
+  "name_pl": "Gene Kelly",
+  "birth_location_pl": "Pittsburgh, Pensylwania",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 42999
+}

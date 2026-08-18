@@ -1,0 +1,49 @@
+{
+  "id": "nm0926235",
+  "name": "James Whitmore",
+  "filmography": [
+    {
+      "imdb_id": "tt0042208",
+      "title": "The Asphalt Jungle",
+      "year": 1950,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Gus Minissi"
+    },
+    {
+      "imdb_id": "tt0063442",
+      "title": "Planet of the Apes",
+      "year": 1968,
+      "roles": [
+        "cast"
+      ],
+      "character": "President of the Assembly"
+    },
+    {
+      "imdb_id": "tt0111161",
+      "title": "The Shawshank Redemption",
+      "year": 1994,
+      "roles": [
+        "cast"
+      ],
+      "character": "Brooks Hatlen"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYjcxNTU0MTYtYjgwNi00ZjIxLTljYWUtMzY4OGRkZjUyNzRhXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "01.10.1921",
+  "death_date": "06.02.2009",
+  "birth_location": "White Plains, New York, USA",
+  "height": "1.73 m",
+  "filmweb_id": 5333,
+  "name_pl": "James Whitmore",
+  "birth_location_pl": "White Plains, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 5333
+}

@@ -1,0 +1,248 @@
+{
+  "imdb_id": "tt0091605",
+  "title": "The Name of the Rose",
+  "description": "An intellectually nonconformist friar investigates a series of mysterious deaths in an isolated abbey.",
+  "runtime_minutes": 130,
+  "release_date": "24.09.1986",
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000125",
+      "name": "Sean Connery"
+    },
+    {
+      "id": "nm0000225",
+      "name": "Christian Slater"
+    },
+    {
+      "id": "nm0702818",
+      "name": "Helmut Qualtinger"
+    },
+    {
+      "id": "nm0059946",
+      "name": "Elya Baskin"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000269",
+      "name": "Jean-Jacques Annaud"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0248767",
+      "name": "Umberto Eco"
+    },
+    {
+      "id": "nm0001949",
+      "name": "Andrew Birkin"
+    },
+    {
+      "id": "nm0102722",
+      "name": "Gérard Brach"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000125",
+      "name": "Sean Connery",
+      "character": "William of Baskerville"
+    },
+    {
+      "id": "nm0000225",
+      "name": "Christian Slater",
+      "character": "Adso of Melk"
+    },
+    {
+      "id": "nm0702818",
+      "name": "Helmut Qualtinger",
+      "character": "Remigio de Varagine"
+    },
+    {
+      "id": "nm0059946",
+      "name": "Elya Baskin",
+      "character": "Severinus"
+    },
+    {
+      "id": "nm0003909",
+      "name": "Michael Lonsdale",
+      "character": "The Abbot"
+    },
+    {
+      "id": "nm0695711",
+      "name": "Volker Prechtel",
+      "character": "Malachia"
+    },
+    {
+      "id": "nm0149923",
+      "name": "Feodor Chaliapin Jr.",
+      "character": "Jorge de Burgos"
+    },
+    {
+      "id": "nm0382676",
+      "name": "William Hickey",
+      "character": "Ubertino de Casale"
+    },
+    {
+      "id": "nm0352138",
+      "name": "Michael Habeck",
+      "character": "Berengar"
+    },
+    {
+      "id": "nm0022786",
+      "name": "Urs Althaus",
+      "character": "Venantius"
+    },
+    {
+      "id": "nm0889926",
+      "name": "Valentina Vargas",
+      "character": "The Girl"
+    },
+    {
+      "id": "nm0000579",
+      "name": "Ron Perlman",
+      "character": "Salvatore"
+    },
+    {
+      "id": "nm0872689",
+      "name": "Leopoldo Trieste",
+      "character": "Michele da Cesena"
+    },
+    {
+      "id": "nm0885309",
+      "name": "Franco Valobra",
+      "character": "Jerome of Kaffa"
+    },
+    {
+      "id": "nm0229943",
+      "name": "Vernon Dobtcheff",
+      "character": "Hugh of Newcastle"
+    },
+    {
+      "id": "nm0639521",
+      "name": "Donald O'Brien",
+      "character": "Pietro d'Assisi"
+    },
+    {
+      "id": "nm0001949",
+      "name": "Andrew Birkin",
+      "character": "Cuthbert of Winchester"
+    },
+    {
+      "id": "nm0000719",
+      "name": "F. Murray Abraham",
+      "character": "Bernardo Gui"
+    }
+  ],
+  "countries": [
+    "West Germany",
+    "Italy",
+    "France"
+  ],
+  "languages": [
+    "English",
+    "Latin"
+  ],
+  "color": "Color",
+  "filmweb_id": 1319,
+  "year": 1986,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODcwODk2NmQtMjg0My00NzcxLWFhNTYtNjM4ODUxM2VjNTI2XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.7,
+      "votes": 128081,
+      "distribution": {
+        "1": 788,
+        "2": 397,
+        "3": 667,
+        "4": 1407,
+        "5": 3585,
+        "6": 10605,
+        "7": 29717,
+        "8": 45480,
+        "9": 21654,
+        "10": 13781
+      },
+      "normalized": 6.7965
+    },
+    "filmweb": {
+      "rating": 7.75,
+      "votes": 178623,
+      "distribution": {
+        "1": 1131,
+        "2": 630,
+        "3": 1425,
+        "4": 2306,
+        "5": 5745,
+        "6": 13827,
+        "7": 39920,
+        "8": 63714,
+        "9": 32313,
+        "10": 17612
+      },
+      "normalized": 7.5306
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "23.08.2011",
+      "normalized": 6.3474
+    },
+    "score": 6.8915
+  },
+  "polish_title": "Imię róży",
+  "silent": false,
+  "description_pl": "Rzecz się dzieje w 1327 roku. Po tajemniczej śmierci zakonnika w benedyktyńskim klasztorze wybucha wśród braci panika, strach przed nadchodzącą apokalipsą. Aby uspokoić przerażonych mnichów, opat (<a href=\"/osoba/?id=nm0003909\">Michael Lonsdale</a>) prosi o pomoc przy rozwiązaniu zagadki franciszkanina Wilhelma z Baskerville (<a href=\"/osoba/?id=nm0000125\">Sean Connery</a>). Kolejne zabójstwa komplikują śledztwo.",
+  "producers": [
+    {
+      "id": "nm0188053",
+      "name": "Franco Cristaldi"
+    },
+    {
+      "id": "nm0248180",
+      "name": "Jake Eberts"
+    },
+    {
+      "id": "nm0251536",
+      "name": "Bernd Eichinger"
+    },
+    {
+      "id": "nm2040420",
+      "name": "Pierre Hebey"
+    },
+    {
+      "id": "nm0594891",
+      "name": "Alexandre Mnouchkine"
+    },
+    {
+      "id": "nm0769672",
+      "name": "Bernd Schaefers"
+    },
+    {
+      "id": "nm0778285",
+      "name": "Thomas Schühly"
+    },
+    {
+      "id": "nm0917833",
+      "name": "Herman Weigel"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0000035",
+      "name": "James Horner"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005686",
+      "name": "Tonino Delli Colli"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

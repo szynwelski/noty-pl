@@ -1,0 +1,96 @@
+{
+  "imdb_id": "tt0241524",
+  "title": "A Hand Shake",
+  "description": "Two men shake hands for the Kinetograph.",
+  "runtime_minutes": 1,
+  "release_date": "1892",
+  "genres": [
+    "Short"
+  ],
+  "stars": [
+    {
+      "id": "nm0005690",
+      "name": "William K.L. Dickson"
+    },
+    {
+      "id": "nm0374658",
+      "name": "William Heise"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0005690",
+      "name": "William K.L. Dickson",
+      "character": ""
+    },
+    {
+      "id": "nm0374658",
+      "name": "William Heise",
+      "character": ""
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "None",
+    "English"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 97237,
+  "year": 1892,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYTVjMjFkMzQtYjE4Zi00MzM2LWEwNzItM2Y1MTIyNzU0NmE4XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 3.7,
+      "votes": 693,
+      "distribution": {
+        "1": 94,
+        "2": 87,
+        "3": 117,
+        "4": 162,
+        "5": 117,
+        "6": 59,
+        "7": 22,
+        "8": 12,
+        "9": 2,
+        "10": 21
+      },
+      "normalized": 2.865
+    },
+    "filmweb": {
+      "rating": 3.21,
+      "votes": 106,
+      "distribution": {
+        "1": 21,
+        "2": 21,
+        "3": 26,
+        "4": 16,
+        "5": 12,
+        "6": 3,
+        "7": 3,
+        "8": 1,
+        "9": 2,
+        "10": 1
+      },
+      "normalized": 3.6299
+    },
+    "jarek": {
+      "rating": 3,
+      "date_rated": "11.12.2016",
+      "normalized": 4.2591
+    },
+    "score": 3.5847
+  },
+  "polish_title": "A Hand Shake",
+  "silent": true,
+  "cinematographers": [
+    {
+      "id": "nm0374658",
+      "name": "William Heise"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

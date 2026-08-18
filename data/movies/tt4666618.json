@@ -1,0 +1,150 @@
+{
+  "imdb_id": "tt4666618",
+  "title": "A Sinner in Mecca",
+  "description": "For a gay filmmaker, filming in Saudi Arabia presents two serious challenges: filming is forbidden in the country and homosexuality is punishable by death. For filmmaker Parvez Sharma, however, these were risks he had to assume as he embarked on his Hajj pilgrimage, a journey considered the greatest accomplishment and aspiration within Islam, his religion. On his journey Parvez aims to look beyond 21st-century Islam's crises of religious extremism, commercialism and sectarian battles. He brings back the story of the religion like it has never been told before, having endured the biggest jihad there is: the struggle with the self.",
+  "runtime_minutes": 79,
+  "release_date": "04.10.2015",
+  "genres": [
+    "Documentary"
+  ],
+  "stars": [
+    {
+      "id": "nm13445593",
+      "name": "Hamad Almutaani"
+    },
+    {
+      "id": "nm13237493",
+      "name": "Maram Alzghoul"
+    },
+    {
+      "id": "nm13723113",
+      "name": "Shady Eldanf"
+    },
+    {
+      "id": "nm13853668",
+      "name": "Ismail Sarsor"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm2204599",
+      "name": "Parvez Sharma"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm6773441",
+      "name": "Sajid Akbar"
+    },
+    {
+      "id": "nm0025400",
+      "name": "Alison Amron"
+    },
+    {
+      "id": "nm2204599",
+      "name": "Parvez Sharma"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm13445593",
+      "name": "Hamad Almutaani",
+      "character": "Self"
+    },
+    {
+      "id": "nm13237493",
+      "name": "Maram Alzghoul",
+      "character": "Self"
+    },
+    {
+      "id": "nm13723113",
+      "name": "Shady Eldanf",
+      "character": "Self"
+    },
+    {
+      "id": "nm13853668",
+      "name": "Ismail Sarsor",
+      "character": "Self"
+    },
+    {
+      "id": "nm13806203",
+      "name": "Ahmed Yagoub",
+      "character": "Self"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 751154,
+  "year": 2015,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjAzMTk3OTcwOV5BMl5BanBnXkFtZTgwMDE3NjE3NjE@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 4.8,
+      "votes": 371,
+      "distribution": {
+        "1": 156,
+        "2": 14,
+        "3": 10,
+        "4": 21,
+        "5": 29,
+        "6": 35,
+        "7": 37,
+        "8": 29,
+        "9": 9,
+        "10": 31
+      },
+      "normalized": 4.1186
+    },
+    "filmweb": {
+      "rating": 6.16,
+      "votes": 31,
+      "distribution": {
+        "2": 0,
+        "3": 1,
+        "4": 3,
+        "5": 5,
+        "6": 10,
+        "7": 7,
+        "8": 4,
+        "9": 0,
+        "10": 1
+      },
+      "normalized": 5.0283
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "11.10.2020",
+      "normalized": 4.9718
+    },
+    "score": 4.7062
+  },
+  "polish_title": "Grzesznik w Mekce",
+  "silent": false,
+  "description_pl": "Parvez opuszcza Stany Zjednoczone i, jak każdy pobożny muzułmanin, wyrusza w pielgrzymkę do Mekki. Z tłumu pielgrzymów nic go nie wyróżnia, ale tylko na pierwszy rzut oka. Jest gejem i ma przy sobie telefon, którym filmuje święte miejsca. Jedno i drugie jest w Arabii Saudyjskiej zakazane i karane więzieniem, karą cielesną, grzywną a nawet śmiercią. \"Czy jest w islamie miejsce dla takiego grzesznika jak ja?\" - poszukiwanie odpowiedzi prowadzi Parveza do miejsc, których nikt wcześniej nie odważył się sfilmować. W odważnym i unikalnym dokumencie reżyser powraca do tematu homoseksualizmu w krajach islamskich, wplatając w niego wątki osobiste.",
+  "producers": [
+    {
+      "id": "nm0025400",
+      "name": "Alison Amron"
+    },
+    {
+      "id": "nm1502761",
+      "name": "Andrew Herwitz"
+    },
+    {
+      "id": "nm2204599",
+      "name": "Parvez Sharma"
+    },
+    {
+      "id": "nm6773442",
+      "name": "Sonia Swaroop"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

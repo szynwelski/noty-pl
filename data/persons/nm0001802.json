@@ -1,0 +1,39 @@
+{
+  "id": "nm0001802",
+  "name": "Nancy Travis",
+  "filmography": [
+    {
+      "imdb_id": "tt0099005",
+      "title": "Air America",
+      "year": 1990,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Corinne Landreaux"
+    },
+    {
+      "imdb_id": "tt0403508",
+      "title": "The Sisterhood of the Traveling Pants",
+      "year": 2005,
+      "roles": [
+        "cast"
+      ],
+      "character": "Lydia Rodman"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDAxZjViMzMtNjRhNS00NDYwLWFjZGEtOGMxZjIxZTVjYmMzXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "21.09.1961",
+  "birth_location": "New York City, New York, USA",
+  "height": "1.63 m",
+  "imdb_scraped": true,
+  "filmweb_id": 41033,
+  "name_pl": "Nancy Travis",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 41033
+}

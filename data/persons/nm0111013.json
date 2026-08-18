@@ -1,0 +1,59 @@
+{
+  "id": "nm0111013",
+  "name": "Adam Brody",
+  "filmography": [
+    {
+      "imdb_id": "tt0298130",
+      "title": "The Ring",
+      "year": 2002,
+      "roles": [
+        "cast"
+      ],
+      "character": "Male Teen #1"
+    },
+    {
+      "imdb_id": "tt0356910",
+      "title": "Mr. & Mrs. Smith",
+      "year": 2005,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Benjamin Danz"
+    },
+    {
+      "imdb_id": "tt5028002",
+      "title": "StartUp",
+      "year": 2016,
+      "roles": [
+        "star",
+        "cast",
+        "producer"
+      ],
+      "character": "Nick Talman"
+    },
+    {
+      "imdb_id": "tt9620292",
+      "title": "Promising Young Woman",
+      "year": 2020,
+      "roles": [
+        "cast"
+      ],
+      "character": "Jerry"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOTY3NzMzMjgyMl5BMl5BanBnXkFtZTcwNjc2OTM4Mg@@._V1_.jpg",
+  "birth_date": "15.12.1979",
+  "birth_location": "San Diego, California, USA",
+  "height": "1.80 m",
+  "filmweb_id": 98422,
+  "name_pl": "Adam Brody",
+  "birth_location_pl": "San Diego, Kalifornia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 98422
+}

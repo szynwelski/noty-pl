@@ -1,0 +1,28 @@
+{
+  "id": "nm0172014",
+  "name": "John Collin",
+  "filmography": [
+    {
+      "imdb_id": "tt0080009",
+      "title": "Tess",
+      "year": 1979,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "John Durbeyfield"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQ2OWIxMzAtMTI5MS00YmVhLWIxNjUtM2NjZDNlYmQzYjUwXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "18.10.1928",
+  "death_date": "25.02.1987",
+  "birth_location": "Burley-in-Wharfedale, Ilkley, Bradford, West Yorkshire, England, UK",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "filmweb_id": 2182413,
+  "name_pl": "John Collin",
+  "gender": "M"
+}

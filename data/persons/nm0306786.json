@@ -1,0 +1,29 @@
+{
+  "id": "nm0306786",
+  "name": "Reginald Gardiner",
+  "filmography": [
+    {
+      "imdb_id": "tt0032553",
+      "title": "The Great Dictator",
+      "year": 1940,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Schultz"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BM2RiZDdjNzItOGMwMS00NDk4LWFjOWEtNGQyZmRlOTYyODk2XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "27.02.1903",
+  "death_date": "07.07.1980",
+  "birth_location": "London, England, UK",
+  "imdb_scraped": true,
+  "filmweb_id": 47517,
+  "name_pl": "Reginald Gardiner",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "imdb_id": "tt2309941",
+  "title": "De nieuwe wereld",
+  "description": "A chance meeting between a Dutch cleaner and an African asylum seeker leads to an unexpected relationship and two extraordinary weeks.",
+  "runtime_minutes": 85,
+  "release_date": "30.01.2013",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0471288",
+      "name": "Bianca Krijgsman"
+    },
+    {
+      "id": "nm1371957",
+      "name": "Issaka Sawadogo"
+    },
+    {
+      "id": "nm4715428",
+      "name": "Teun Stokkel"
+    },
+    {
+      "id": "nm0331520",
+      "name": "Janni Goslinga"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm1984934",
+      "name": "Jaap van Heusden"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1563165",
+      "name": "Rogier de Blok"
+    },
+    {
+      "id": "nm1984934",
+      "name": "Jaap van Heusden"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0471288",
+      "name": "Bianca Krijgsman",
+      "character": "Mirte"
+    },
+    {
+      "id": "nm1371957",
+      "name": "Issaka Sawadogo",
+      "character": "Luc"
+    },
+    {
+      "id": "nm4715428",
+      "name": "Teun Stokkel",
+      "character": "Adri"
+    },
+    {
+      "id": "nm0331520",
+      "name": "Janni Goslinga",
+      "character": "Fien"
+    },
+    {
+      "id": "nm0069925",
+      "name": "Ali Ben Horsting",
+      "character": "Johan"
+    },
+    {
+      "id": "nm6252823",
+      "name": "Lizzy van Vleuten",
+      "character": "Oldest daughter"
+    },
+    {
+      "id": "nm15041857",
+      "name": "Fenne Bauw",
+      "character": "Youngest daughter"
+    },
+    {
+      "id": "nm0697844",
+      "name": "Annemarie Prins",
+      "character": "Neighbor"
+    },
+    {
+      "id": "nm0314764",
+      "name": "Tjebbo Gerritsma",
+      "character": "Sjors"
+    },
+    {
+      "id": "nm4331536",
+      "name": "Tarikh Janssen",
+      "character": "Erwin"
+    },
+    {
+      "id": "nm4868250",
+      "name": "Tanja Otolski",
+      "character": "Oksana"
+    },
+    {
+      "id": "nm2539193",
+      "name": "Leyla Cimen",
+      "character": "Turkish colleague"
+    },
+    {
+      "id": "nm1484186",
+      "name": "Abel Nienhuis",
+      "character": "Tall colleague"
+    },
+    {
+      "id": "nm0388407",
+      "name": "Bas Hoeflaak",
+      "character": "Security officer"
+    },
+    {
+      "id": "nm2544826",
+      "name": "Wim Bouwens",
+      "character": "Head of service"
+    },
+    {
+      "id": "nm0831637",
+      "name": "Mirjam Stolwijk",
+      "character": "Immigration officer"
+    },
+    {
+      "id": "nm1876965",
+      "name": "Eelco Smits",
+      "character": "Government Official"
+    },
+    {
+      "id": "nm0643124",
+      "name": "Mimoun Oaïssa",
+      "character": "Senior Government Official"
+    }
+  ],
+  "countries": [
+    "Netherlands"
+  ],
+  "languages": [
+    "Dutch",
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 699400,
+  "year": 2013,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYzVmZDJjOGYtOTg4Yy00NWNiLTkxYTctNjIyYmZkOWU2NmFmXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.2,
+      "votes": 382,
+      "distribution": {
+        "1": 7,
+        "2": 3,
+        "3": 3,
+        "4": 7,
+        "5": 12,
+        "6": 31,
+        "7": 143,
+        "8": 120,
+        "9": 24,
+        "10": 32
+      },
+      "normalized": 5.4866
+    },
+    "filmweb": {
+      "rating": 6.44,
+      "votes": 9,
+      "distribution": {
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1,
+        "6": 4,
+        "7": 3,
+        "8": 1,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 5.1805
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "01.10.2017",
+      "normalized": 5.6855
+    },
+    "score": 5.4509
+  },
+  "polish_title": "Nowy świat",
+  "silent": false,
+  "producers": [
+    {
+      "id": "nm0059500",
+      "name": "Marc Bary"
+    },
+    {
+      "id": "nm0329663",
+      "name": "Ada Goossens"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm3143679",
+      "name": "Minco Eggersman"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm1550795",
+      "name": "Jan Moeskops"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,226 @@
+{
+  "imdb_id": "tt0104412",
+  "title": "Hero",
+  "description": "A small-time criminal rescues passengers from a crashed airliner only to see another man take credit.",
+  "runtime_minutes": 119,
+  "release_date": "02.10.1992",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0000163",
+      "name": "Dustin Hoffman"
+    },
+    {
+      "id": "nm0000133",
+      "name": "Geena Davis"
+    },
+    {
+      "id": "nm0000412",
+      "name": "Andy Garcia"
+    },
+    {
+      "id": "nm0000349",
+      "name": "Joan Cusack"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001241",
+      "name": "Stephen Frears"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0957205",
+      "name": "Laura Ziskin"
+    },
+    {
+      "id": "nm0765091",
+      "name": "Alvin Sargent"
+    },
+    {
+      "id": "nm0672459",
+      "name": "David Webb Peoples"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000163",
+      "name": "Dustin Hoffman",
+      "character": "Bernie LaPlante"
+    },
+    {
+      "id": "nm0000133",
+      "name": "Geena Davis",
+      "character": "Gale Gayley"
+    },
+    {
+      "id": "nm0000412",
+      "name": "Andy Garcia",
+      "character": "John Bubber"
+    },
+    {
+      "id": "nm0000349",
+      "name": "Joan Cusack",
+      "character": "Evelyn"
+    },
+    {
+      "id": "nm0640413",
+      "name": "Kevin J. O'Connor",
+      "character": "Chucky"
+    },
+    {
+      "id": "nm0001999",
+      "name": "Maury Chaykin",
+      "character": "Winston"
+    },
+    {
+      "id": "nm0864997",
+      "name": "Stephen Tobolowsky",
+      "character": "Wallace"
+    },
+    {
+      "id": "nm0166061",
+      "name": "Christian Clemenson",
+      "character": "Conklin"
+    },
+    {
+      "id": "nm0000792",
+      "name": "Tom Arnold",
+      "character": "Chick"
+    },
+    {
+      "id": "nm0075671",
+      "name": "Warren Berlinger",
+      "character": "Judge Goines"
+    },
+    {
+      "id": "nm0400261",
+      "name": "Cady Huffman",
+      "character": "Flight Attendant Leslie"
+    },
+    {
+      "id": "nm0193664",
+      "name": "Susie Cusack",
+      "character": "Donna O'Day"
+    },
+    {
+      "id": "nm0534944",
+      "name": "James Madio",
+      "character": "Joey"
+    },
+    {
+      "id": "nm0726223",
+      "name": "Richard Riehle",
+      "character": "Robinson"
+    },
+    {
+      "id": "nm0000838",
+      "name": "Daniel Baldwin",
+      "character": "Fireman Denton"
+    },
+    {
+      "id": "nm0947742",
+      "name": "Don Yesso",
+      "character": "Elliott"
+    },
+    {
+      "id": "nm0700130",
+      "name": "Don Pugsley",
+      "character": "Jury Foreman"
+    },
+    {
+      "id": "nm0929502",
+      "name": "Lee Wilkof",
+      "character": "Prosecutor"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "color": null,
+  "filmweb_id": 8968,
+  "year": 1992,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMWY2NDA0NjctMThiZi00NTI1LWFjODEtODlmZTdkMzJlYzc5XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.5,
+      "votes": 25334,
+      "distribution": {
+        "1": 334,
+        "2": 228,
+        "3": 430,
+        "4": 985,
+        "5": 2900,
+        "6": 6676,
+        "7": 7460,
+        "8": 3729,
+        "9": 1263,
+        "10": 1329
+      },
+      "normalized": 4.5433
+    },
+    "filmweb": {
+      "rating": 6.9,
+      "votes": 10062,
+      "distribution": {
+        "1": 18,
+        "2": 17,
+        "3": 57,
+        "4": 166,
+        "5": 653,
+        "6": 2316,
+        "7": 4163,
+        "8": 2028,
+        "9": 455,
+        "10": 189
+      },
+      "normalized": 5.4311
+    },
+    "michal": {
+      "rating": 3,
+      "date_rated": "20.10.2005",
+      "normalized": 3.8753
+    },
+    "score": 4.6166
+  },
+  "polish_title": "Przypadkowy bohater",
+  "silent": false,
+  "description_pl": "Bernie Laplante to drobny oszust i złodziejaszek. Jego dewizą życiową jest: 'nie wychylać się.' Jednak kiedy jest świadkiem katastrofy samolotu sam ratuje 54 osoby z płonącego wraku, kradnie kilka kart kredytowych i znika. Jedna z ofiar, dziennikarka Gale Gayley, namawia wydawnictwo aby go odnaleźć i nagrodzić 1 mln. dolarów za bohaterstwo. Niestety, nieświadom niczego Laplante zwierza się pewnemu bezdomnemu ze swych przeżyć. Wkrótce świat poznaje 'anioła lotu  714'.",
+  "producers": [
+    {
+      "id": "nm0135859",
+      "name": "Joseph M. Caracciolo"
+    },
+    {
+      "id": "nm0410516",
+      "name": "Sandy Isaac"
+    },
+    {
+      "id": "nm0957205",
+      "name": "Laura Ziskin"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006070",
+      "name": "George Fenton"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0822975",
+      "name": "Oliver Stapleton"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

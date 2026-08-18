@@ -1,0 +1,85 @@
+{
+  "imdb_id": "tt2499798",
+  "title": "Hearty Tomato",
+  "description": "",
+  "runtime_minutes": 87,
+  "release_date": "12.10.2012",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm5353904",
+      "name": "Zhi Zhang"
+    },
+    {
+      "id": "nm5354368",
+      "name": "Xiaoli Cheng"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm5354331",
+      "name": "Zhonghua Zhang"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm5353904",
+      "name": "Zhi Zhang",
+      "character": ""
+    },
+    {
+      "id": "nm5354368",
+      "name": "Xiaoli Cheng",
+      "character": ""
+    }
+  ],
+  "countries": [
+    "China"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "color": "Color",
+  "year": 2012,
+  "type": "movie",
+  "image_url": null,
+  "filmweb_id": 667969,
+  "original_title": "Tou xin de fan qie",
+  "ratings": {
+    "imdb": {
+      "votes": 0,
+      "normalized": 5.5
+    },
+    "filmweb": {
+      "rating": 5.44,
+      "votes": 18,
+      "distribution": {
+        "2": 1,
+        "3": 2,
+        "4": 2,
+        "5": 4,
+        "6": 4,
+        "7": 2,
+        "8": 3,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 4.9782
+    },
+    "jarek": {
+      "rating": 8,
+      "date_rated": "15.02.2013",
+      "normalized": 7.8989
+    },
+    "score": 6.1257
+  },
+  "polish_title": "Soczysty pomidor",
+  "silent": false,
+  "description_pl": "Hailang Li, zbuntowany nastolatek jest bez reszty pochłonięty przez gry wideo, dla których często ucieka ze szkoły. Nie może pojąć dlaczego jego matka haruje sprzedając warzywa na targu. W oczach matki Hailang Li to dobry chłopiec i zawsze dba, aby niczego mu nie brakowało. Aż do dnia, w którym odkrywa, że syn jest na wagarach i ukradł pieniądze, by zapłacić za gry. Zrozpaczona matka po raz pierwszy wymierza synowi porządne lanie. Zbuntowany Hailang Li postanawia pójść na targ i przez jeden dzień sprzedawać pomidory, żeby udowodnić matce, że sam potrafi zarobić na życie.",
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-16"
+}

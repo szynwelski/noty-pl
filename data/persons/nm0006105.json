@@ -1,0 +1,35 @@
+{
+  "id": "nm0006105",
+  "name": "Billy Goldenberg",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjBhZmIzYTItMWE1MC00MjM1LTk1NTUtZjEwM2I0NTk0NWI0XkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0067023",
+      "title": "Duel",
+      "year": 1971,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt0069097",
+      "title": "Play It Again, Sam",
+      "year": 1972,
+      "roles": [
+        "composer"
+      ]
+    }
+  ],
+  "birth_date": "10.02.1936",
+  "death_date": "03.08.2020",
+  "birth_location": "Brooklyn, New York City, New York, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 43609,
+  "name_pl": "Billy Goldenberg",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

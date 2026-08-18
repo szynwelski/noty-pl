@@ -1,0 +1,40 @@
+{
+  "id": "nm0841797",
+  "name": "Gloria Swanson",
+  "filmography": [
+    {
+      "imdb_id": "tt0010418",
+      "title": "Male and Female",
+      "year": 1919,
+      "roles": [
+        "cast"
+      ],
+      "character": "Lady Mary Lasenby"
+    },
+    {
+      "imdb_id": "tt0043014",
+      "title": "Sunset Boulevard",
+      "year": 1950,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Norma Desmond"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYzgxZDg5ZjctYWQyMi00YWQyLTgyMmMtYzk3NzMwZDFhZTlmXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "27.03.1899",
+  "death_date": "04.04.1983",
+  "birth_location": "Chicago, Illinois, USA",
+  "height": "1.50 m",
+  "imdb_scraped": true,
+  "filmweb_id": 46569,
+  "name_pl": "Gloria Swanson",
+  "birth_location_pl": "Chicago, Illinois",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 46569
+}

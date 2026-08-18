@@ -1,0 +1,155 @@
+{
+  "imdb_id": "tt20239370",
+  "title": "Mason's Rats",
+  "description": "Farmer Mason knows he has a real pest problem when the rats start shooting back.",
+  "runtime_minutes": 10,
+  "release_date": "20.05.2022",
+  "genres": [
+    "Animation",
+    "Short",
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Drama",
+    "Fantasy",
+    "Horror",
+    "Mystery",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0272401",
+      "name": "Craig Ferguson"
+    },
+    {
+      "id": "nm1405398",
+      "name": "Dan Stevens"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm1074389",
+      "name": "Carlos Stevens"
+    },
+    {
+      "id": "nm0950775",
+      "name": "Jennifer Yuh Nelson"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm12571754",
+      "name": "Neal Asher"
+    },
+    {
+      "id": "nm2154161",
+      "name": "Joe Abercrombie"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0272401",
+      "name": "Craig Ferguson",
+      "character": "Mason"
+    },
+    {
+      "id": "nm1405398",
+      "name": "Dan Stevens",
+      "character": "Nigel"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "year": 2022,
+  "type": "tvEpisode",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODYzYTM3NjUtMzg1Yi00MDEyLWFmZDgtNTY2MjVlMmRhYzgyXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 824633,
+  "ratings": {
+    "imdb": {
+      "rating": 7.6,
+      "votes": 12911,
+      "distribution": {
+        "1": 82,
+        "2": 59,
+        "3": 67,
+        "4": 136,
+        "5": 386,
+        "6": 1183,
+        "7": 3276,
+        "8": 4530,
+        "9": 1838,
+        "10": 1354
+      }
+    },
+    "filmweb": {
+      "rating": 7.94,
+      "votes": 54233,
+      "distribution": {
+        "1": 98,
+        "2": 90,
+        "3": 250,
+        "4": 388,
+        "5": 1135,
+        "6": 3408,
+        "7": 10946,
+        "8": 20253,
+        "9": 13148,
+        "10": 4517
+      }
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "31.10.2022"
+    }
+  },
+  "polish_title": "Miłość, śmierć i roboty",
+  "silent": false,
+  "description_pl": "\"Miłość, śmierć i roboty\" to seria krótkich animowanych opowieści należących do różnych gatunków - science fiction, fantasy, horroru i komedii. Opowiedziane w śmiały sposób historie ogląda się przyjemnie, a losy ich bohaterów przez długi czas pozostają w pamięci. Historie tworzą pierwszą antologię animowanych opowieści, która dostarczy widzom niezapomnianych i poruszających do głębi wrażeń.",
+  "producers": [
+    {
+      "id": "nm2230806",
+      "name": "Caleb Bouchard"
+    },
+    {
+      "id": "nm0232433",
+      "name": "Joshua Donen"
+    },
+    {
+      "id": "nm0000399",
+      "name": "David Fincher"
+    },
+    {
+      "id": "nm2126361",
+      "name": "Victoria L. Howard"
+    },
+    {
+      "id": "nm7119111",
+      "name": "Christian Illingworth"
+    },
+    {
+      "id": "nm10380524",
+      "name": "Jennifer Miller"
+    },
+    {
+      "id": "nm1783265",
+      "name": "Tim Miller"
+    },
+    {
+      "id": "nm13012513",
+      "name": "Sophie Robeson"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm1052252",
+      "name": "Rob Cairns"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

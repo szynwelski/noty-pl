@@ -1,0 +1,55 @@
+{
+  "id": "nm0001857",
+  "name": "Henry Winkler",
+  "filmography": [
+    {
+      "imdb_id": "tt0088559",
+      "title": "MacGyver",
+      "year": 1985,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0165375",
+      "title": "Pilot",
+      "year": 1985,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0389860",
+      "title": "Click",
+      "year": 2006,
+      "roles": [
+        "cast"
+      ],
+      "character": "Ted Newman"
+    },
+    {
+      "imdb_id": "tt1648179",
+      "title": "Here Comes the Boom",
+      "year": 2012,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Marty Streb"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTM1MTMxNjI0Nl5BMl5BanBnXkFtZTYwMTQ2MTgz._V1_.jpg",
+  "birth_date": "30.10.1945",
+  "birth_location": "New York City, New York, USA",
+  "height": "1.65 m",
+  "filmweb_id": 3470,
+  "name_pl": "Henry Winkler",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 3470
+}

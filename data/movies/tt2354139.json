@@ -1,0 +1,155 @@
+{
+  "imdb_id": "tt2354139",
+  "title": "Killing Time",
+  "description": "Two hit men wait for their next target in an empty apartment. The hours go by. Little by little, they start losing their patience and their temper. Pretty soon, they may even lose their lives. Killing time can be a deadly affair.",
+  "runtime_minutes": 99,
+  "release_date": "01.03.2013",
+  "genres": [
+    "Crime",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0682725",
+      "name": "Florin Piersic Jr."
+    },
+    {
+      "id": "nm2761046",
+      "name": "Cristian Gutau"
+    },
+    {
+      "id": "nm3864922",
+      "name": "Olimpia Melinte"
+    },
+    {
+      "id": "nm0952624",
+      "name": "Florin Zamfirescu"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0682725",
+      "name": "Florin Piersic Jr."
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0682725",
+      "name": "Florin Piersic Jr."
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0682725",
+      "name": "Florin Piersic Jr.",
+      "character": "Hitman no 1"
+    },
+    {
+      "id": "nm2761046",
+      "name": "Cristian Gutau",
+      "character": "Hitman no 2"
+    },
+    {
+      "id": "nm3864922",
+      "name": "Olimpia Melinte",
+      "character": "Neighbor"
+    },
+    {
+      "id": "nm0952624",
+      "name": "Florin Zamfirescu",
+      "character": "Old man"
+    },
+    {
+      "id": "nm1437086",
+      "name": "Daniel Popa",
+      "character": "The doctor"
+    }
+  ],
+  "countries": [
+    "Romania"
+  ],
+  "languages": [
+    "Romanian"
+  ],
+  "color": "Color",
+  "filmweb_id": 667814,
+  "year": 2011,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMWRlMTZmMTctOWNlMS00OGQ0LTkzZDEtMmQ4NGYzYjIzOGE5XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.2,
+      "votes": 282,
+      "distribution": {
+        "1": 50,
+        "2": 11,
+        "3": 14,
+        "4": 22,
+        "5": 34,
+        "6": 33,
+        "7": 23,
+        "8": 28,
+        "9": 21,
+        "10": 46
+      },
+      "normalized": 4.427
+    },
+    "filmweb": {
+      "rating": 5.05,
+      "votes": 57,
+      "distribution": {
+        "1": 2,
+        "2": 6,
+        "3": 5,
+        "4": 8,
+        "5": 11,
+        "6": 13,
+        "7": 6,
+        "8": 3,
+        "9": 2,
+        "10": 1
+      },
+      "normalized": 4.5978
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "15.02.2013",
+      "normalized": 4.9718
+    },
+    "score": 4.6655
+  },
+  "polish_title": "Zabić czas",
+  "silent": false,
+  "description_pl": "W pustym, jeszcze nie zamieszkałym budynku przebywa dwóch mężczyzn. Są profesjonalnymi zabójcami. Czekają na swoją kolejną ofiarę. Mijają godziny. Mężczyźni stopniowo zaczynają tracić cierpliwości i irytują się. Bardziej humorzasty i doświadczony zabójca ciska się i oskarża partnera o to, że jest amatorskim wieśniakiem, który nie ma pojęcia o tym jak się zabija oraz o to, że brak mu koniecznej w tej robocie finezji. Ten drugi, podstawiony pod ścianą może okazać się o wiele bardziej bezwzględny, pozbawiony skrupułów i brutalny niż to na pierwszy rzut oka wygląda. Doprowadzeni do ostateczności mężczyźni mogą nawet stracić życie. Zabijanie czasu może być sprawą śmiertelną.",
+  "producers": [
+    {
+      "id": "nm2275492",
+      "name": "Daniel Burlac"
+    },
+    {
+      "id": "nm3202398",
+      "name": "Andrei Cretulescu"
+    },
+    {
+      "id": "nm0682725",
+      "name": "Florin Piersic Jr."
+    },
+    {
+      "id": "nm2430317",
+      "name": "Ben Tisch"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm1094332",
+      "name": "Karl Ritter"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm4997237",
+      "name": "Cristian Stan"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

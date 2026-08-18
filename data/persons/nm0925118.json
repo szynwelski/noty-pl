@@ -1,0 +1,50 @@
+{
+  "id": "nm0925118",
+  "name": "Leo White",
+  "filmography": [
+    {
+      "imdb_id": "tt0006177",
+      "title": "The Tramp",
+      "year": 1915,
+      "roles": [
+        "cast"
+      ],
+      "character": "First Thief"
+    },
+    {
+      "imdb_id": "tt0007880",
+      "title": "Easy Street",
+      "year": 1917,
+      "roles": [
+        "cast"
+      ],
+      "character": "Policeman"
+    },
+    {
+      "imdb_id": "tt0012952",
+      "title": "Blood and Sand",
+      "year": 1922,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Antonio"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZGRkNWVhNTgtMGU3Zi00ODQwLWI5OWYtOTNiMjIzZjQyY2IyXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "10.11.1882",
+  "death_date": "20.09.1948",
+  "birth_location": "Grudziadz, Kujawsko-Pomorskie, Poland",
+  "height": "1.68 m",
+  "filmweb_id": 53266,
+  "name_pl": "Leo White",
+  "birth_location_pl": "Graudenz (obecnie Grudziądz)",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone",
+    "Cesarstwo Niemieckie"
+  ],
+  "wikidata_fw_id": 53266
+}

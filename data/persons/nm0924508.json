@@ -1,0 +1,39 @@
+{
+  "id": "nm0924508",
+  "name": "Betty White",
+  "filmography": [
+    {
+      "imdb_id": "tt0160916",
+      "title": "The Story of Us",
+      "year": 1999,
+      "roles": [
+        "cast"
+      ],
+      "character": "Lillian Jordan"
+    },
+    {
+      "imdb_id": "tt1041829",
+      "title": "The Proposal",
+      "year": 2009,
+      "roles": [
+        "cast"
+      ],
+      "character": "Grandma Annie"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjA2OTA5NTUyMF5BMl5BanBnXkFtZTcwNjMwNzYzMw@@._V1_.jpg",
+  "birth_date": "17.01.1922",
+  "death_date": "31.12.2021",
+  "birth_location": "Oak Park, Illinois, USA",
+  "height": "1.63 m",
+  "imdb_scraped": true,
+  "filmweb_id": 4090,
+  "name_pl": "Betty White",
+  "birth_location_pl": "Oak Park, Illinois",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 4090
+}

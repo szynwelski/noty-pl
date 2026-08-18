@@ -1,0 +1,48 @@
+{
+  "id": "nm0516093",
+  "name": "Norman Lloyd",
+  "filmography": [
+    {
+      "imdb_id": "tt0038109",
+      "title": "Spellbound",
+      "year": 1945,
+      "roles": [
+        "cast"
+      ],
+      "character": "Mr. Garmes"
+    },
+    {
+      "imdb_id": "tt0044837",
+      "title": "Limelight",
+      "year": 1952,
+      "roles": [
+        "cast"
+      ],
+      "character": "Bodalink"
+    },
+    {
+      "imdb_id": "tt0097165",
+      "title": "Dead Poets Society",
+      "year": 1989,
+      "roles": [
+        "cast"
+      ],
+      "character": "Mr. Nolan"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjAyOTY5MTkzOV5BMl5BanBnXkFtZTYwMDYxMDU0._V1_.jpg",
+  "birth_date": "08.11.1914",
+  "death_date": "11.05.2021",
+  "birth_location": "Jersey City, New Jersey, USA",
+  "height": "1.74 m",
+  "filmweb_id": 9206,
+  "name_pl": "Norman Lloyd",
+  "birth_location_pl": "Jersey City, New Jersey",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 9206
+}

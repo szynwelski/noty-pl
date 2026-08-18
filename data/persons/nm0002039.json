@@ -1,0 +1,30 @@
+{
+  "id": "nm0002039",
+  "name": "Ruby Dee",
+  "filmography": [
+    {
+      "imdb_id": "tt0765429",
+      "title": "American Gangster",
+      "year": 2007,
+      "roles": [
+        "cast"
+      ],
+      "character": "Mama Lucas"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjU1NTkxODQwM15BMl5BanBnXkFtZTcwODMwMzc1MQ@@._V1_.jpg",
+  "birth_date": "27.10.1922",
+  "death_date": "11.06.2014",
+  "birth_location": "Cleveland, Ohio, USA",
+  "height": "1.58 m",
+  "imdb_scraped": true,
+  "filmweb_id": 46798,
+  "name_pl": "Ruby Dee",
+  "birth_location_pl": "Cleveland, Ohio",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 46798
+}

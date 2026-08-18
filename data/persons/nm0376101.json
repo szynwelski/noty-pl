@@ -1,0 +1,58 @@
+{
+  "id": "nm0376101",
+  "name": "David Hemmings",
+  "filmography": [
+    {
+      "imdb_id": "tt0060176",
+      "title": "Blow-Up",
+      "year": 1966,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Thomas"
+    },
+    {
+      "imdb_id": "tt0172495",
+      "title": "Gladiator",
+      "year": 2000,
+      "roles": [
+        "cast"
+      ],
+      "character": "Cassius"
+    },
+    {
+      "imdb_id": "tt0217505",
+      "title": "Gangs of New York",
+      "year": 2002,
+      "roles": [
+        "cast"
+      ],
+      "character": "Mr. Schermerhorn"
+    },
+    {
+      "imdb_id": "tt0311429",
+      "title": "The League of Extraordinary Gentlemen",
+      "year": 2003,
+      "roles": [
+        "cast"
+      ],
+      "character": "Nigel"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzA2NTVhZmItY2ZhNi00NmQxLWFkODUtYWZiMmExZTNmMGU5XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "18.11.1941",
+  "death_date": "03.12.2003",
+  "birth_location": "Guildford, Surrey, England, UK",
+  "height": "1.73 m",
+  "filmweb_id": 49770,
+  "name_pl": "David Hemmings",
+  "birth_location_pl": "Guildford, Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 49770
+}

@@ -1,0 +1,77 @@
+{
+  "imdb_id": "tt0000144",
+  "title": "Chez le magnétiseur",
+  "description": "The Magnetizer uses his powers to change the costumes of the three other players.",
+  "runtime_minutes": 1,
+  "release_date": "01.09.2009",
+  "genres": [
+    "Comedy",
+    "Short"
+  ],
+  "directors": [
+    {
+      "id": "nm0349785",
+      "name": "Alice Guy"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "year": 1897,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOWVlZDY5M2UtNTg3Zi00NWVjLTlkZDUtNDY0NjhhMjk4NzczXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 302686,
+  "ratings": {
+    "imdb": {
+      "rating": 5.2,
+      "votes": 415,
+      "distribution": {
+        "1": 17,
+        "2": 18,
+        "3": 32,
+        "4": 62,
+        "5": 122,
+        "6": 97,
+        "7": 34,
+        "8": 18,
+        "9": 0,
+        "10": 15
+      },
+      "normalized": 4.236
+    },
+    "filmweb": {
+      "rating": 5.1,
+      "votes": 31,
+      "distribution": {
+        "1": 1,
+        "2": 0,
+        "3": 3,
+        "4": 6,
+        "5": 10,
+        "6": 8,
+        "7": 0,
+        "8": 2,
+        "9": 0,
+        "10": 1
+      },
+      "normalized": 4.8123
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "13.12.2016",
+      "normalized": 6.4102
+    },
+    "score": 5.1528
+  },
+  "polish_title": "Chez le magnétiseur",
+  "silent": true,
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-15"
+}

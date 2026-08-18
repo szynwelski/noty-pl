@@ -1,0 +1,52 @@
+{
+  "id": "nm0796950",
+  "name": "Jerry Siegel",
+  "filmography": [
+    {
+      "imdb_id": "tt0034247",
+      "title": "Superman: The Mad Scientist",
+      "year": 1941,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0078346",
+      "title": "Superman",
+      "year": 1978,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0770828",
+      "title": "Man of Steel",
+      "year": 2013,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt5950044",
+      "title": "Superman",
+      "year": 2025,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMmMyMzgyYzUtZTI4OS00MjI1LTgxYjYtNWRkYzM2MmU2ZGIzXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "17.10.1914",
+  "death_date": "28.01.1996",
+  "birth_location": "Cleveland, Ohio, USA",
+  "filmweb_id": 387582,
+  "name_pl": "Jerry Siegel",
+  "birth_location_pl": "Cleveland, Ohio",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 387582
+}

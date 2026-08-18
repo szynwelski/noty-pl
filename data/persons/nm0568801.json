@@ -1,0 +1,46 @@
+{
+  "id": "nm0568801",
+  "name": "Colin McFarlane",
+  "filmography": [
+    {
+      "imdb_id": "tt0372784",
+      "title": "Batman Begins",
+      "year": 2005,
+      "roles": [
+        "cast"
+      ],
+      "character": "Loeb"
+    },
+    {
+      "imdb_id": "tt0468569",
+      "title": "The Dark Knight",
+      "year": 2008,
+      "roles": [
+        "cast"
+      ],
+      "character": "Loeb"
+    },
+    {
+      "imdb_id": "tt1590193",
+      "title": "The Commuter",
+      "year": 2018,
+      "roles": [
+        "cast"
+      ],
+      "character": "Conductor Sam"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTIzNDI4NzQzMF5BMl5BanBnXkFtZTYwMDQyNDcy._V1_.jpg",
+  "birth_date": "15.09.1961",
+  "birth_location": "Clapton, London, England, UK",
+  "height": "1.80 m",
+  "filmweb_id": 130927,
+  "name_pl": "Colin McFarlane",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ]
+}

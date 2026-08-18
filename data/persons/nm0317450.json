@@ -1,0 +1,29 @@
+{
+  "id": "nm0317450",
+  "name": "Dr. Seuss",
+  "filmography": [
+    {
+      "imdb_id": "tt0060345",
+      "title": "How the Grinch Stole Christmas!",
+      "year": 1966,
+      "roles": [
+        "writer",
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDAxMGUyODYtMDUwNC00NTY4LWI3YTItZWMzMDlmM2UwNzhmXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "02.03.1904",
+  "death_date": "24.09.1991",
+  "birth_location": "Springfield, Massachusetts, USA",
+  "height": "1.80 m",
+  "imdb_scraped": true,
+  "filmweb_id": 297235,
+  "name_pl": "Dr. Seuss",
+  "birth_location_pl": "Springfield, Massachusetts",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

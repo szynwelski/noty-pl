@@ -1,0 +1,90 @@
+{
+  "imdb_id": "tt0080770",
+  "title": "Talking Heads",
+  "description": "People of different age, profession and social status answer two simple questions: who they are and what they want from life.",
+  "runtime_minutes": 16,
+  "release_date": "20.06.2006",
+  "genres": [
+    "Documentary",
+    "Short",
+    "Biography"
+  ],
+  "directors": [
+    {
+      "id": "nm0001425",
+      "name": "Krzysztof Kieślowski"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0001425",
+      "name": "Krzysztof Kieślowski"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "Poland"
+  ],
+  "languages": [
+    "Polish"
+  ],
+  "color": "Black and White",
+  "year": 1980,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZDhjN2ViY2EtMzA2Zi00ZTU2LWI5MzctMmE5ZDBlNjAyYjMwXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 35461,
+  "original_title": "Gadajace glowy",
+  "ratings": {
+    "imdb": {
+      "rating": 8,
+      "votes": 4263,
+      "distribution": {
+        "1": 27,
+        "2": 12,
+        "3": 25,
+        "4": 22,
+        "5": 89,
+        "6": 252,
+        "7": 765,
+        "8": 1501,
+        "9": 886,
+        "10": 684
+      },
+      "normalized": 6.952
+    },
+    "filmweb": {
+      "rating": 8.07,
+      "votes": 47991,
+      "distribution": {
+        "1": 170,
+        "2": 84,
+        "3": 190,
+        "4": 311,
+        "5": 792,
+        "6": 2281,
+        "7": 8059,
+        "8": 18980,
+        "9": 12186,
+        "10": 4938
+      },
+      "normalized": 8.5279
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "03.02.2007",
+      "normalized": 7.2292
+    },
+    "score": 7.5697
+  },
+  "polish_title": "Gadające głowy",
+  "silent": false,
+  "description_pl": "W 1979 roku <a href=\"/osoba/?id=nm0001425\">Krzysztof Kieślowski</a> przeprowadził pewnego rodzaju sondę społeczną. Pytania były z pozoru banalne. Kim jesteś? Czego byś chciał? Co jest dla ciebie najważniejsze? Wynikiem sondy był krótki film dokumentalny. <a href=\"/osoba/?id=nm0001425\">Kieślowski</a> wybrał 44 osoby i ustawił je w porządku chronologicznym tj. od najmłodszego do najstarszego. Każdemu poświęcił tylko jedno ujęcie. Na ekranie pojawiają się kolejne \"gadające głowy\", a w prawym dolnym rogu podany jest rok urodzenia danego człowieka. Począwszy od niemowlaka, przez przedszkolaków, uczniów, studentów, ludzi dorosłych, aż po stuletnią staruszkę, obserwujemy jak zmieniają się pragnienia ludzi w różnym wieku i w różnej sytuacji życiowej.",
+  "cinematographers": [
+    {
+      "id": "nm0678456",
+      "name": "Jacek Petrycki"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "nm0001357",
+  "name": "Paul Hogan",
+  "filmography": [
+    {
+      "imdb_id": "tt0090555",
+      "title": "Crocodile Dundee",
+      "year": 1986,
+      "roles": [
+        "writer",
+        "star",
+        "cast"
+      ],
+      "character": "Mick 'Crocodile' Dundee"
+    },
+    {
+      "imdb_id": "tt0092493",
+      "title": "Crocodile Dundee II",
+      "year": 1988,
+      "roles": [
+        "writer",
+        "star",
+        "cast",
+        "producer"
+      ],
+      "character": "Mick 'Crocodile' Dundee"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTI3NzE5MTU3NV5BMl5BanBnXkFtZTcwNjMwMTM3Mg@@._V1_.jpg",
+  "birth_date": "08.10.1939",
+  "birth_location": "Lightning Ridge, New South Wales, Australia",
+  "height": "1.75 m",
+  "imdb_scraped": true,
+  "filmweb_id": 40192,
+  "name_pl": "Paul Hogan",
+  "birth_location_pl": "Lightning Ridge",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Australia"
+  ],
+  "wikidata_fw_id": 40192
+}

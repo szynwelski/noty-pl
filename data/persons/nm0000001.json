@@ -1,0 +1,40 @@
+{
+  "id": "nm0000001",
+  "name": "Fred Astaire",
+  "filmography": [
+    {
+      "imdb_id": "tt0027125",
+      "title": "Top Hat",
+      "year": 1935,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Jerry Travers"
+    },
+    {
+      "imdb_id": "tt0309987",
+      "title": "The Dreamers",
+      "year": 2003,
+      "roles": [
+        "cast"
+      ],
+      "character": "Jerry Travers"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTk1ZjgyZDItOTQ3OC00ZWRjLWEwMDEtNDE1MGZjNjZiMTIyXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 44703,
+  "birth_date": "10.05.1899",
+  "death_date": "22.06.1987",
+  "birth_location": "Omaha, Nebraska, USA",
+  "height": "1.75 m",
+  "imdb_scraped": true,
+  "name_pl": "Fred Astaire",
+  "birth_location_pl": "Omaha, Nebraska",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 44703
+}

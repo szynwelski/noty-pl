@@ -1,0 +1,125 @@
+{
+  "imdb_id": "tt3630492",
+  "title": "How to Stop a Wedding",
+  "description": "On a train from southern Sweden, Malmö to Stockholm two strangers end up in same compartment not knowing that they both are on a way to a same wedding. Things gets a little more complicated when they discover that this is the wedding both of them wants to stop.",
+  "runtime_minutes": 72,
+  "release_date": "28.08.2015",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm6390730",
+      "name": "Christian Ehrnstén"
+    },
+    {
+      "id": "nm5535977",
+      "name": "Lina Sundén"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm2846964",
+      "name": "Drazen Kuljanin"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm2846964",
+      "name": "Drazen Kuljanin"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm6390730",
+      "name": "Christian Ehrnstén",
+      "character": "Philip"
+    },
+    {
+      "id": "nm5535977",
+      "name": "Lina Sundén",
+      "character": "Amanda"
+    }
+  ],
+  "countries": [
+    "Sweden"
+  ],
+  "languages": [
+    "Swedish"
+  ],
+  "color": "Color",
+  "filmweb_id": 725308,
+  "year": 2014,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQzOTg2MjM3MV5BMl5BanBnXkFtZTgwNTMxNTI4MjE@._V1_.jpg",
+  "original_title": "Hur man stoppar ett bröllop",
+  "ratings": {
+    "imdb": {
+      "rating": 5.5,
+      "votes": 166,
+      "distribution": {
+        "1": 21,
+        "2": 6,
+        "3": 10,
+        "4": 18,
+        "5": 13,
+        "6": 27,
+        "7": 22,
+        "8": 16,
+        "9": 11,
+        "10": 22
+      },
+      "normalized": 4.8123
+    },
+    "filmweb": {
+      "rating": 5.37,
+      "votes": 1224,
+      "distribution": {
+        "1": 25,
+        "2": 46,
+        "3": 127,
+        "4": 160,
+        "5": 237,
+        "6": 290,
+        "7": 224,
+        "8": 97,
+        "9": 12,
+        "10": 6
+      },
+      "normalized": 3.0385
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "22.12.2018",
+      "normalized": 4.9718
+    },
+    "score": 4.2742
+  },
+  "polish_title": "Jak zatrzymać ślub",
+  "silent": false,
+  "description_pl": "Dramat nakręcony w 5 godzin i 17 minut, dokładnie tyle ile trwa  podróż pociągiem z Malmö do Sztokholmu. Środek zimy. W pociągu, w jednym  przedziale spotykają się dziewczyna i chłopak. Prowadzą typowe dla  nieznajomych rozmowy do czasu, aż odkryją, że jadą na ten sam ślub. Nie  jest ważne czy dostali zaproszenie, czy wpraszają się bez niego. Ważne  jest to, że i ona i on mają dostateczną ilość powodów, żeby chcieć go  odwołać… Wkrótce okaże się, że łączy ich nie tylko wspólny cel, ale też  bolesne wspomnienia i miłosne rozczarowania.",
+  "producers": [
+    {
+      "id": "nm6610125",
+      "name": "Molly Sjöwall"
+    },
+    {
+      "id": "nm1898177",
+      "name": "Jonas Sörensson"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm2846936",
+      "name": "Tomas Hulenvik"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm6390731",
+      "name": "Anna Patarakina"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

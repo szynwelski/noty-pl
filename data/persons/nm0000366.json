@@ -1,0 +1,80 @@
+{
+  "id": "nm0000366",
+  "name": "Catherine Deneuve",
+  "filmography": [
+    {
+      "imdb_id": "tt0059646",
+      "title": "Repulsion",
+      "year": 1965,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Carol Ledoux"
+    },
+    {
+      "imdb_id": "tt0061395",
+      "title": "Belle de Jour",
+      "year": 1967,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Séverine Serizy"
+    },
+    {
+      "imdb_id": "tt0066491",
+      "title": "Tristana",
+      "year": 1970,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Tristana"
+    },
+    {
+      "imdb_id": "tt0080610",
+      "title": "The Last Metro",
+      "year": 1980,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Marion Steiner"
+    },
+    {
+      "imdb_id": "tt0168629",
+      "title": "Dancer in the Dark",
+      "year": 2000,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Kathy"
+    },
+    {
+      "imdb_id": "tt0283832",
+      "title": "8 Women",
+      "year": 2002,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Gaby"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQ0NDQ2MjYwMl5BMl5BanBnXkFtZTcwMjQ0MDM2Nw@@._V1_.jpg",
+  "birth_date": "22.10.1943",
+  "birth_location": "Paris, France",
+  "height": "1.67 m",
+  "filmweb_id": 160,
+  "name_pl": "Catherine Deneuve",
+  "birth_location_pl": "Paryż",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja"
+  ],
+  "wikidata_fw_id": 160
+}

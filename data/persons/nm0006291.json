@@ -1,0 +1,28 @@
+{
+  "id": "nm0006291",
+  "name": "Dmitri Shostakovich",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzZmMjE2ZWItMTc5MC00NTY1LThjODctNTM4ODFmZmJjM2RmXkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0023663",
+      "title": "Shame",
+      "year": 1932,
+      "roles": [
+        "composer"
+      ]
+    }
+  ],
+  "birth_date": "25.09.1906",
+  "death_date": "09.08.1975",
+  "birth_location": "St. Petersburg, Russian Empire [now Russia]",
+  "imdb_scraped": true,
+  "filmweb_id": 126155,
+  "name_pl": "Dymitr Szostakowicz",
+  "birth_location_pl": "Petersburg",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Związek Socjalistycznych Republik Radzieckich",
+    "Imperium Rosyjskie"
+  ]
+}

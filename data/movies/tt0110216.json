@@ -1,0 +1,247 @@
+{
+  "imdb_id": "tt0110216",
+  "title": "Junior",
+  "description": "As part of a fertility research project, a male scientist agrees to carry a pregnancy in his own body.",
+  "runtime_minutes": 109,
+  "release_date": "23.11.1994",
+  "genres": [
+    "Comedy",
+    "Romance",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm0000216",
+      "name": "Arnold Schwarzenegger"
+    },
+    {
+      "id": "nm0000362",
+      "name": "Danny DeVito"
+    },
+    {
+      "id": "nm0000668",
+      "name": "Emma Thompson"
+    },
+    {
+      "id": "nm0001449",
+      "name": "Frank Langella"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0718645",
+      "name": "Ivan Reitman"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0905458",
+      "name": "Kevin Wade"
+    },
+    {
+      "id": "nm0175620",
+      "name": "Chris Conrad"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000216",
+      "name": "Arnold Schwarzenegger",
+      "character": "Dr. Alex Hesse"
+    },
+    {
+      "id": "nm0000362",
+      "name": "Danny DeVito",
+      "character": "Dr. Larry Arbogast"
+    },
+    {
+      "id": "nm0000668",
+      "name": "Emma Thompson",
+      "character": "Dr. Diana Reddin"
+    },
+    {
+      "id": "nm0001449",
+      "name": "Frank Langella",
+      "character": "Noah Banes"
+    },
+    {
+      "id": "nm0715622",
+      "name": "Pamela Reed",
+      "character": "Angela"
+    },
+    {
+      "id": "nm0878152",
+      "name": "Aida Turturro",
+      "character": "Louise"
+    },
+    {
+      "id": "nm0248698",
+      "name": "James Eckhouse",
+      "character": "Ned Sneller"
+    },
+    {
+      "id": "nm0146903",
+      "name": "Megan Cavanagh",
+      "character": "Willow"
+    },
+    {
+      "id": "nm0925578",
+      "name": "Welker White",
+      "character": "Jenny"
+    },
+    {
+      "id": "nm0149910",
+      "name": "Kathleen Chalfant",
+      "character": "Casitas Madres Receptionist"
+    },
+    {
+      "id": "nm0448223",
+      "name": "Merle Kennedy",
+      "character": "Samantha"
+    },
+    {
+      "id": "nm0172423",
+      "name": "Judy Collins",
+      "character": "Naomi"
+    },
+    {
+      "id": "nm0781515",
+      "name": "Mindy Seeger",
+      "character": "Alice"
+    },
+    {
+      "id": "nm0005221",
+      "name": "Christopher Meloni",
+      "character": "Mr. Lanzarotta"
+    },
+    {
+      "id": "nm0672688",
+      "name": "Antoinette Peragine",
+      "character": "Mrs. Lanzarotta"
+    },
+    {
+      "id": "nm0933147",
+      "name": "Cassandra Wilson",
+      "character": "Singer"
+    },
+    {
+      "id": "nm0572314",
+      "name": "Ellen McLaughlin",
+      "character": "Chairwoman (FDA)"
+    },
+    {
+      "id": "nm0317369",
+      "name": "Stefan Gierasch",
+      "character": "Edward Sawyer"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "color": "Color",
+  "filmweb_id": 6645,
+  "year": 1994,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYmY3YWMyMWYtN2UyYS00YjgwLWEyOTktMmNjY2JiN2MyNWY5XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 4.8,
+      "votes": 78420,
+      "distribution": {
+        "1": 4315,
+        "2": 4984,
+        "3": 8531,
+        "4": 14696,
+        "5": 18502,
+        "6": 13782,
+        "7": 7178,
+        "8": 2818,
+        "9": 931,
+        "10": 2683
+      },
+      "normalized": 2.0272
+    },
+    "filmweb": {
+      "rating": 5.36,
+      "votes": 44126,
+      "distribution": {
+        "1": 859,
+        "2": 1254,
+        "3": 3615,
+        "4": 6070,
+        "5": 10936,
+        "6": 11523,
+        "7": 6608,
+        "8": 2133,
+        "9": 483,
+        "10": 645
+      },
+      "normalized": 2.3364
+    },
+    "jarek": {
+      "rating": 2,
+      "date_rated": "21.02.2011",
+      "normalized": 3.5003
+    },
+    "michal": {
+      "rating": 1,
+      "date_rated": "19.10.2005",
+      "normalized": 2.2657
+    },
+    "score": 2.5324
+  },
+  "polish_title": "Junior",
+  "silent": false,
+  "description_pl": "Doktor Alex Hesse (<a href=\"/osoba/?id=nm0000216\">Arnold Schwarzenegger</a>) jest naukowcem zajmującym się opracowaniem środka zapewniającego prawidłowy rozwój ciąży. W wyniku kłopotów finansowych uczelni Hesse zmuszony jest do eksperymentowania na sobie, w efekcie czego nieoczekiwanie zachodzi w ciążę. Początkowo nie chce słyszeć o potomku, ale kiedy dostrzega uroki błogosławionego stanu, postanawia urodzić dziecko...",
+  "producers": [
+    {
+      "id": "nm0131771",
+      "name": "Beverly J. Camhe"
+    },
+    {
+      "id": "nm0175620",
+      "name": "Chris Conrad"
+    },
+    {
+      "id": "nm0325175",
+      "name": "Daniel Goldberg"
+    },
+    {
+      "id": "nm0434922",
+      "name": "Sheldon Kahn"
+    },
+    {
+      "id": "nm0575817",
+      "name": "Joe Medjuck"
+    },
+    {
+      "id": "nm0635141",
+      "name": "Neal Nordlinger"
+    },
+    {
+      "id": "nm0718645",
+      "name": "Ivan Reitman"
+    },
+    {
+      "id": "nm0916118",
+      "name": "Gordon A. Webb"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006133",
+      "name": "James Newton Howard"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0004229",
+      "name": "Adam Greenberg"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

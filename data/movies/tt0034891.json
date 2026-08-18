@@ -1,0 +1,215 @@
+{
+  "imdb_id": "tt0034891",
+  "title": "In Which We Serve",
+  "description": "This \"story of a ship\", the British destroyer H.M.S. Torrin, is told in flashbacks by survivors as they cling to a life raft.",
+  "runtime_minutes": 115,
+  "release_date": "23.12.1942",
+  "genres": [
+    "Drama",
+    "War"
+  ],
+  "stars": [
+    {
+      "id": "nm0002021",
+      "name": "Noël Coward"
+    },
+    {
+      "id": "nm0590055",
+      "name": "John Mills"
+    },
+    {
+      "id": "nm0587061",
+      "name": "Bernard Miles"
+    },
+    {
+      "id": "nm0424743",
+      "name": "Celia Johnson"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0002021",
+      "name": "Noël Coward"
+    },
+    {
+      "id": "nm0000180",
+      "name": "David Lean"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0002021",
+      "name": "Noël Coward"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0002021",
+      "name": "Noël Coward",
+      "character": "Capt. E.V. Kinross R.N. - Captain 'D'"
+    },
+    {
+      "id": "nm0590055",
+      "name": "John Mills",
+      "character": "Ordinary Seaman Shorty Blake"
+    },
+    {
+      "id": "nm0587061",
+      "name": "Bernard Miles",
+      "character": "Chief Petty Officer Walter Hardy"
+    },
+    {
+      "id": "nm0424743",
+      "name": "Celia Johnson",
+      "character": "Mrs. Alix Kinross"
+    },
+    {
+      "id": "nm0909727",
+      "name": "Kay Walsh",
+      "character": "Freda Lewis"
+    },
+    {
+      "id": "nm0136983",
+      "name": "Joyce Carey",
+      "character": "Mrs. Kath Hardy"
+    },
+    {
+      "id": "nm0255576",
+      "name": "Derek Elphinstone",
+      "character": "No. 1"
+    },
+    {
+      "id": "nm0928697",
+      "name": "Michael Wilding",
+      "character": "Flags"
+    },
+    {
+      "id": "nm0763059",
+      "name": "Robert Sansom",
+      "character": "Guns"
+    },
+    {
+      "id": "nm0295546",
+      "name": "Philip Friend",
+      "character": "Torps"
+    },
+    {
+      "id": "nm0105221",
+      "name": "Chimmo Branson",
+      "character": "Midshipman"
+    },
+    {
+      "id": "nm0075326",
+      "name": "Ballard Berkeley",
+      "character": "Engineer Commander"
+    },
+    {
+      "id": "nm0339579",
+      "name": "Hubert Gregg",
+      "character": "Pilot"
+    },
+    {
+      "id": "nm0232019",
+      "name": "James Donald",
+      "character": "Doc"
+    },
+    {
+      "id": "nm0926451",
+      "name": "Michael Whittaker",
+      "character": "Sub"
+    },
+    {
+      "id": "nm0141432",
+      "name": "Kenneth Carten",
+      "character": "Sub-Lieutenant R.N.V.R."
+    },
+    {
+      "id": "nm0890044",
+      "name": "John Varley",
+      "character": "Secco"
+    },
+    {
+      "id": "nm0914539",
+      "name": "Caven Watson",
+      "character": "Brodie"
+    }
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 8030,
+  "year": 1942,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzY4ZGViODktOGQ0MC00NmZhLTg3MGMtMTEwMmYyYTA4MmViXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.2,
+      "votes": 7161,
+      "distribution": {
+        "1": 83,
+        "2": 49,
+        "3": 72,
+        "4": 168,
+        "5": 396,
+        "6": 996,
+        "7": 2110,
+        "8": 1820,
+        "9": 757,
+        "10": 710
+      },
+      "normalized": 5.8391
+    },
+    "filmweb": {
+      "rating": 6.31,
+      "votes": 193,
+      "distribution": {
+        "1": 3,
+        "2": 1,
+        "3": 6,
+        "4": 10,
+        "5": 23,
+        "6": 55,
+        "7": 62,
+        "8": 25,
+        "9": 5,
+        "10": 3
+      },
+      "normalized": 4.7028
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "19.10.2005",
+      "normalized": 6.3474
+    },
+    "score": 5.6298
+  },
+  "polish_title": "Nasz okręt",
+  "silent": false,
+  "description_pl": "Film opowiada historię pewnego okrętu - brytyjskiego niszczyciela HMS Torrin. Poznajemy stosunki jakie panowały na okręcie między marynarzami. A życie na takim okręcie nie jest łatwe ...",
+  "producers": [
+    {
+      "id": "nm0002021",
+      "name": "Noël Coward"
+    },
+    {
+      "id": "nm0369743",
+      "name": "Anthony Havelock-Allan"
+    },
+    {
+      "id": "nm0808458",
+      "name": "Herbert Smith"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0623768",
+      "name": "Ronald Neame"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-15"
+}

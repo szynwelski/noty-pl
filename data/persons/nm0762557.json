@@ -1,0 +1,37 @@
+{
+  "id": "nm0762557",
+  "name": "Erskine Sanford",
+  "filmography": [
+    {
+      "imdb_id": "tt0033467",
+      "title": "Citizen Kane",
+      "year": 1941,
+      "roles": [
+        "cast"
+      ],
+      "character": "Herbert Carter"
+    },
+    {
+      "imdb_id": "tt0035015",
+      "title": "The Magnificent Ambersons",
+      "year": 1942,
+      "roles": [
+        "cast"
+      ],
+      "character": "Roger Bronson"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTU0Mjc1ZjMtZDkxNC00ZmVjLTgyMzktMjg5M2FiYzg2NTk1XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "19.11.1885",
+  "death_date": "07.07.1969",
+  "birth_location": "Trinidad, Colorado, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 46586,
+  "name_pl": "Erskine Sanford",
+  "birth_location_pl": "Trinidad, Kolorado",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

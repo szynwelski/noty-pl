@@ -1,0 +1,81 @@
+{
+  "imdb_id": "tt0218551",
+  "title": "Return of Lifeboat",
+  "description": "\"Shows a life boat coming through the breakers. The surf is high and the stout boat is tossed about like a cork.\"",
+  "runtime_minutes": 1,
+  "release_date": "1897",
+  "genres": [
+    "Documentary",
+    "Short"
+  ],
+  "directors": [
+    {
+      "id": "nm0924920",
+      "name": "James H. White"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 328458,
+  "year": 1897,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTFkN2JkMDgtZThkZC00YjU0LTg5YzctMTJmYmI5Mjk2NTUwXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 4.5,
+      "votes": 307,
+      "distribution": {
+        "1": 30,
+        "2": 17,
+        "3": 38,
+        "4": 60,
+        "5": 87,
+        "6": 38,
+        "7": 17,
+        "8": 8,
+        "9": 3,
+        "10": 9
+      },
+      "normalized": 4.1398
+    },
+    "filmweb": {
+      "rating": 4.0,
+      "votes": 18,
+      "distribution": {
+        "1": 2,
+        "2": 2,
+        "3": 3,
+        "4": 4,
+        "5": 3,
+        "6": 2,
+        "7": 2,
+        "8": 0,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 4.8171
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "11.12.2016",
+      "normalized": 7.1247
+    },
+    "score": 5.3605
+  },
+  "polish_title": "Return of Lifeboat",
+  "silent": true,
+  "cinematographers": [
+    {
+      "id": "nm0088124",
+      "name": "W. Bleckyrden"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

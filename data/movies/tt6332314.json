@@ -1,0 +1,69 @@
+{
+  "imdb_id": "tt6332314",
+  "title": "Agnes May Turner on a Swing",
+  "description": "",
+  "runtime_minutes": null,
+  "release_date": "1902",
+  "genres": [
+    "Short"
+  ],
+  "stars": [
+    {
+      "id": "nm9866060",
+      "name": "Agnes May Turner"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm8643876",
+      "name": "Edward Raymond Turner"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm9866060",
+      "name": "Agnes May Turner",
+      "character": "Self"
+    }
+  ],
+  "countries": [],
+  "languages": [],
+  "color": "Color",
+  "year": 1902,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODBlZTg4MGUtZWE4OC00ZmYyLTlmMmQtOGI2NmNiMTJjYzBjXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": null,
+  "ratings": {
+    "imdb": {
+      "rating": 4.5,
+      "votes": 22,
+      "distribution": {
+        "1": 3,
+        "2": 0,
+        "3": 1,
+        "4": 4,
+        "5": 8,
+        "6": 1,
+        "7": 3,
+        "8": 1,
+        "9": 0,
+        "10": 1
+      },
+      "normalized": 5.1819
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "16.12.2016",
+      "normalized": 7.1247
+    },
+    "score": 5.9355,
+    "filmweb": {
+      "normalized": 5.5
+    }
+  },
+  "silent": true,
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,211 @@
+{
+  "imdb_id": "tt0170817",
+  "title": "Pilot",
+  "description": "Agent Dana Scully is instructed to debunk an FBI project dubbed \"The X-Files,\" paranormal cases that have been reopened by Agent Fox Mulder.",
+  "runtime_minutes": 48,
+  "release_date": "10.09.1993",
+  "genres": [
+    "Adventure",
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000141",
+      "name": "David Duchovny"
+    },
+    {
+      "id": "nm0000096",
+      "name": "Gillian Anderson"
+    },
+    {
+      "id": "nm0162541",
+      "name": "Charles Cioffi"
+    },
+    {
+      "id": "nm0002037",
+      "name": "Cliff De Young"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0541677",
+      "name": "Robert Mandel"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0004810",
+      "name": "Chris Carter"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000141",
+      "name": "David Duchovny",
+      "character": "Fox Mulder"
+    },
+    {
+      "id": "nm0000096",
+      "name": "Gillian Anderson",
+      "character": "Dana Scully"
+    },
+    {
+      "id": "nm0162541",
+      "name": "Charles Cioffi",
+      "character": "Section Chief Scott Blevins"
+    },
+    {
+      "id": "nm0002037",
+      "name": "Cliff De Young",
+      "character": "Dr. Jay Nemman"
+    },
+    {
+      "id": "nm0467165",
+      "name": "Sarah Koskoff",
+      "character": "Theresa Nemman"
+    },
+    {
+      "id": "nm0751762",
+      "name": "Leon Russom",
+      "character": "Detective Miles"
+    },
+    {
+      "id": "nm0030644",
+      "name": "Zachary Ansley",
+      "character": "Billy Miles"
+    },
+    {
+      "id": "nm0589358",
+      "name": "Stephen E. Miller",
+      "character": "Coroner Truitt"
+    },
+    {
+      "id": "nm0829121",
+      "name": "Malcolm Stewart",
+      "character": "Dr. Glass"
+    },
+    {
+      "id": "nm0075563",
+      "name": "Alexandra Berlin",
+      "character": "Orderly"
+    },
+    {
+      "id": "nm0418012",
+      "name": "Jim Jansen",
+      "character": "Dr. Heitz Werber"
+    },
+    {
+      "id": "nm0133400",
+      "name": "Ken Camroux-Taylor",
+      "character": "Third Man"
+    },
+    {
+      "id": "nm0009002",
+      "name": "Doug Abrahams",
+      "character": "Patrolman #1"
+    },
+    {
+      "id": "nm0205657",
+      "name": "William B. Davis",
+      "character": "Smoking Man"
+    },
+    {
+      "id": "nm0307008",
+      "name": "Katya Gardner",
+      "character": "Peggy O'Dell"
+    },
+    {
+      "id": "nm0717398",
+      "name": "Ric Reid",
+      "character": "Asst. Coroner"
+    },
+    {
+      "id": "nm0263890",
+      "name": "Lesley Ewen",
+      "character": "Receptionist"
+    },
+    {
+      "id": "nm0084622",
+      "name": "J.B. Bivens",
+      "character": "Truck Driver"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 188457,
+  "year": 1993,
+  "type": "tvEpisode",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjk3NTZiNjMtODIzNC00MmEzLWEyNjQtNTA4OTFiZmU3MTllXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8.2,
+      "votes": 14655,
+      "distribution": {
+        "1": 83,
+        "2": 79,
+        "3": 53,
+        "4": 84,
+        "5": 258,
+        "6": 698,
+        "7": 2142,
+        "8": 4570,
+        "9": 3084,
+        "10": 3604
+      }
+    },
+    "filmweb": {
+      "rating": 8.32,
+      "votes": 319,
+      "distribution": {
+        "1": 3,
+        "2": 4,
+        "3": 5,
+        "4": 13,
+        "5": 17,
+        "6": 29,
+        "7": 24,
+        "8": 31,
+        "9": 29,
+        "10": 164
+      }
+    },
+    "michal": {
+      "rating": 3,
+      "date_rated": "19.10.2005"
+    }
+  },
+  "polish_title": "Pilot",
+  "silent": false,
+  "producers": [
+    {
+      "id": "nm0004810",
+      "name": "Chris Carter"
+    },
+    {
+      "id": "nm0755261",
+      "name": "Daniel Sackheim"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006296",
+      "name": "Mark Snow"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0215878",
+      "name": "Thomas Del Ruth"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

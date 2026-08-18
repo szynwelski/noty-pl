@@ -1,0 +1,195 @@
+{
+  "imdb_id": "tt0091670",
+  "title": "The Sacrifice",
+  "description": "At the dawn of World War III, a man searches for a way to restore peace to the world and finds he must give something in return.",
+  "runtime_minutes": 149,
+  "release_date": "09.05.1986",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0430746",
+      "name": "Erland Josephson"
+    },
+    {
+      "id": "nm0281453",
+      "name": "Susan Fleetwood"
+    },
+    {
+      "id": "nm0249735",
+      "name": "Allan Edwall"
+    },
+    {
+      "id": "nm0321108",
+      "name": "Guðrún Gísladóttir"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001789",
+      "name": "Andrei Tarkovsky"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0001789",
+      "name": "Andrei Tarkovsky"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0430746",
+      "name": "Erland Josephson",
+      "character": "Alexander"
+    },
+    {
+      "id": "nm0281453",
+      "name": "Susan Fleetwood",
+      "character": "Adelaide"
+    },
+    {
+      "id": "nm0249735",
+      "name": "Allan Edwall",
+      "character": "Otto"
+    },
+    {
+      "id": "nm0321108",
+      "name": "Guðrún Gísladóttir",
+      "character": "Maria"
+    },
+    {
+      "id": "nm0938623",
+      "name": "Sven Wollter",
+      "character": "Victor"
+    },
+    {
+      "id": "nm0537865",
+      "name": "Valérie Mairesse",
+      "character": "Julia"
+    },
+    {
+      "id": "nm0291913",
+      "name": "Filippa Franzén",
+      "character": "Marta"
+    },
+    {
+      "id": "nm0458041",
+      "name": "Tommy Kjellqvist",
+      "character": "Gossen"
+    },
+    {
+      "id": "nm0477657",
+      "name": "Per Källman",
+      "character": "Ambulansförare"
+    },
+    {
+      "id": "nm0634951",
+      "name": "Tommy Nordahl",
+      "character": "Ambulansförare"
+    },
+    {
+      "id": "nm0027873",
+      "name": "Tintin Anderzon",
+      "character": ""
+    },
+    {
+      "id": "nm0110929",
+      "name": "Helena Brodin",
+      "character": ""
+    },
+    {
+      "id": "nm0138167",
+      "name": "Birgit Carlstén",
+      "character": ""
+    },
+    {
+      "id": "nm0295404",
+      "name": "Jane Friedmann",
+      "character": ""
+    },
+    {
+      "id": "nm0512516",
+      "name": "Martin Lindström",
+      "character": ""
+    },
+    {
+      "id": "nm0833296",
+      "name": "Jan-Olof Strandberg",
+      "character": ""
+    }
+  ],
+  "countries": [
+    "Sweden",
+    "France",
+    "United Kingdom"
+  ],
+  "languages": [
+    "Swedish",
+    "Icelandic"
+  ],
+  "color": "Color",
+  "filmweb_id": 32143,
+  "year": 1986,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYWQ5ODRjNzktOTI2OC00ZGFhLWE1MGMtYjEyNTNjODA3NmNlXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Offret",
+  "ratings": {
+    "imdb": {
+      "rating": 7.8,
+      "votes": 35426,
+      "distribution": {
+        "1": 611,
+        "2": 441,
+        "3": 536,
+        "4": 703,
+        "5": 1355,
+        "6": 2502,
+        "7": 5341,
+        "8": 8873,
+        "9": 7085,
+        "10": 7979
+      },
+      "normalized": 6.9315
+    },
+    "filmweb": {
+      "rating": 7.77,
+      "votes": 7119,
+      "distribution": {
+        "1": 172,
+        "2": 43,
+        "3": 94,
+        "4": 103,
+        "5": 333,
+        "6": 443,
+        "7": 1194,
+        "8": 2031,
+        "9": 1647,
+        "10": 1059
+      },
+      "normalized": 7.3819
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "21.02.2013",
+      "normalized": 7.1247
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "08.08.2010",
+      "normalized": 6.3474
+    },
+    "score": 6.9464
+  },
+  "polish_title": "Ofiarowanie",
+  "silent": false,
+  "description_pl": "Aleksander, pięćdziesięcioletni niedoszły aktor, pisarz, a także ateista, żyje z żoną, nastoletnią córką oraz synem w nadmorskiej posiadłości na odludziu. Gdy zostaje ogłoszony alarm ogłaszający atak nuklearny, Aleksander szukając pomocy zwraca się do Boga, oferując samego siebie, by w zamian apokaliptyczny holocaust w ogóle się nie wydarzył. Ostatni film zmarłego w 1986 roku reżysera, traktowany za jego duchowy testament twórczy.",
+  "cinematographers": [
+    {
+      "id": "nm0005815",
+      "name": "Sven Nykvist"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

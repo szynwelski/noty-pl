@@ -1,0 +1,93 @@
+{
+  "imdb_id": "tt0000032",
+  "title": "The serpentine dancer",
+  "description": "The seventh sequence of the \"Wintergartenprogramm (1895)\" by the Skladanowsky Brothers. In it, a young female dancer with large, flowing robes, swirls round herself quickly, making her light robe flow around her like a butterfly's wings.",
+  "runtime_minutes": 1,
+  "release_date": "01.11.1895",
+  "genres": [
+    "Short"
+  ],
+  "stars": [
+    {
+      "id": "nm3692479",
+      "name": "Ancion"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0804434",
+      "name": "Max Skladanowsky"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm3692479",
+      "name": "Ancion",
+      "character": "The dancer"
+    }
+  ],
+  "countries": [
+    "Germany"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 220700,
+  "year": 1895,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOTgzNDFhYjEtOWViZi00MGQ3LThhNDUtNTZiYmY4YTFkOTE2XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 4.9,
+      "votes": 496,
+      "distribution": {
+        "1": 37,
+        "2": 24,
+        "3": 40,
+        "4": 65,
+        "5": 151,
+        "6": 99,
+        "7": 38,
+        "8": 16,
+        "9": 6,
+        "10": 20
+      },
+      "normalized": 3.9795
+    },
+    "filmweb": {
+      "rating": 4.27,
+      "votes": 51,
+      "distribution": {
+        "1": 5,
+        "2": 8,
+        "3": 12,
+        "4": 5,
+        "5": 6,
+        "6": 5,
+        "7": 3,
+        "8": 5,
+        "9": 0,
+        "10": 2
+      },
+      "normalized": 4.4377
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "11.12.2016",
+      "normalized": 5.6855
+    },
+    "score": 4.7009
+  },
+  "polish_title": "Serpentinen Tanz",
+  "silent": true,
+  "cinematographers": [
+    {
+      "id": "nm0804434",
+      "name": "Max Skladanowsky"
+    }
+  ],
+  "composers": [],
+  "original_title": "Die Serpentintänzerin",
+  "fetched_at": "2026-08-15"
+}

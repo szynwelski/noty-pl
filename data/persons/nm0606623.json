@@ -1,0 +1,33 @@
+{
+  "id": "nm0606623",
+  "name": "Jane Morris",
+  "filmography": [
+    {
+      "imdb_id": "tt0163187",
+      "title": "Runaway Bride",
+      "year": 1999,
+      "roles": [
+        "cast"
+      ],
+      "character": "Mrs. Pressman"
+    },
+    {
+      "imdb_id": "tt5865326",
+      "title": "The Laundromat",
+      "year": 2019,
+      "roles": [
+        "cast"
+      ],
+      "character": "Barb Sidley"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjE3NDg1MjMyN15BMl5BanBnXkFtZTgwMzQ2NjA5NjE@._V1_.jpg",
+  "birth_date": "15.04.1953",
+  "birth_location": "Quincy, Illinois, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 6928,
+  "name_pl": "Jane Morris",
+  "birth_location_pl": "Quincy, Illinois",
+  "gender": "F",
+  "wikidata_processed": true
+}

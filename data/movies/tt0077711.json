@@ -1,0 +1,176 @@
+{
+  "imdb_id": "tt0077711",
+  "title": "Autumn Sonata",
+  "description": "A devoted wife is visited by her mother, a successful concert pianist who had little time for her when she was young.",
+  "runtime_minutes": 99,
+  "release_date": "18.10.1978",
+  "genres": [
+    "Drama",
+    "Music"
+  ],
+  "stars": [
+    {
+      "id": "nm0000006",
+      "name": "Ingrid Bergman"
+    },
+    {
+      "id": "nm0880521",
+      "name": "Liv Ullmann"
+    },
+    {
+      "id": "nm0638784",
+      "name": "Lena Nyman"
+    },
+    {
+      "id": "nm0084917",
+      "name": "Halvar Björk"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000005",
+      "name": "Ingmar Bergman"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000005",
+      "name": "Ingmar Bergman"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000006",
+      "name": "Ingrid Bergman",
+      "character": "Charlotte Andergast"
+    },
+    {
+      "id": "nm0880521",
+      "name": "Liv Ullmann",
+      "character": "Eva"
+    },
+    {
+      "id": "nm0638784",
+      "name": "Lena Nyman",
+      "character": "Helena"
+    },
+    {
+      "id": "nm0084917",
+      "name": "Halvar Björk",
+      "character": "Viktor"
+    },
+    {
+      "id": "nm0024931",
+      "name": "Marianne Aminoff",
+      "character": "Charlotte's private secretary"
+    },
+    {
+      "id": "nm0051931",
+      "name": "Arne Bang-Hansen",
+      "character": "Uncle Otto"
+    },
+    {
+      "id": "nm0085038",
+      "name": "Gunnar Björnstrand",
+      "character": "Paul"
+    },
+    {
+      "id": "nm0430746",
+      "name": "Erland Josephson",
+      "character": "Josef"
+    },
+    {
+      "id": "nm0530621",
+      "name": "Georg Løkkeberg",
+      "character": "Leonardo"
+    },
+    {
+      "id": "nm0689433",
+      "name": "Mimi Pollak",
+      "character": "Piano instructor"
+    },
+    {
+      "id": "nm0880519",
+      "name": "Linn Ullmann",
+      "character": "Eva as a child"
+    },
+    {
+      "id": "nm0902369",
+      "name": "Eva von Hanno",
+      "character": "Nurse"
+    },
+    {
+      "id": "nm0927732",
+      "name": "Knut Wigert",
+      "character": "Professor"
+    }
+  ],
+  "countries": [
+    "West Germany",
+    "United Kingdom",
+    "Sweden"
+  ],
+  "languages": [
+    "Swedish",
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 1296,
+  "year": 1978,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTg1MzJiNTYtZjcyNS00NDE5LWE0N2ItMGIxM2Y2ZDMyYjJjXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Höstsonaten",
+  "ratings": {
+    "imdb": {
+      "rating": 8.1,
+      "votes": 42999,
+      "distribution": {
+        "1": 604,
+        "2": 372,
+        "3": 429,
+        "4": 566,
+        "5": 1057,
+        "6": 2430,
+        "7": 6362,
+        "8": 12499,
+        "9": 10210,
+        "10": 8470
+      },
+      "normalized": 7.6298
+    },
+    "filmweb": {
+      "rating": 7.91,
+      "votes": 8634,
+      "distribution": {
+        "1": 151,
+        "2": 37,
+        "3": 65,
+        "4": 88,
+        "5": 225,
+        "6": 459,
+        "7": 1455,
+        "8": 3012,
+        "9": 2061,
+        "10": 1081
+      },
+      "normalized": 7.921
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "02.02.2022",
+      "normalized": 7.2292
+    },
+    "score": 7.5933
+  },
+  "polish_title": "Jesienna sonata",
+  "silent": false,
+  "description_pl": "Po siedmiu latach zaniedbywania i ignorancji światowej sławy pianistka Charlotte odwiedza w domu swą córkę Evę. Ta, aby zaskoczyć matkę, sprowadza swą umysłowo chorą siostrę Helen, zamkniętą przed laty przez matkę w zakładzie dla obłąkanych. Napięcie między Charlotte i Evą zaczyna rosnąć uzmysławiając obu kobietom konieczność wyjaśnienia sobie wielu spraw.",
+  "cinematographers": [
+    {
+      "id": "nm0005815",
+      "name": "Sven Nykvist"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

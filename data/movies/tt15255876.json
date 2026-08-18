@@ -1,0 +1,194 @@
+{
+  "imdb_id": "tt15255876",
+  "ratings": {
+    "imdb": {
+      "rating": 6.7,
+      "votes": 67928,
+      "distribution": {
+        "1": 624,
+        "2": 374,
+        "3": 655,
+        "4": 1554,
+        "5": 5413,
+        "6": 17314,
+        "7": 25800,
+        "8": 11168,
+        "9": 2732,
+        "10": 2294
+      },
+      "normalized": 4.9345
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "11.07.2026",
+      "normalized": 5.6855
+    },
+    "filmweb": {
+      "rating": 6.15,
+      "votes": 11492,
+      "distribution": {
+        "1": 12,
+        "2": 28,
+        "3": 159,
+        "4": 480,
+        "5": 1810,
+        "6": 4813,
+        "7": 3412,
+        "8": 663,
+        "9": 67,
+        "10": 48
+      },
+      "normalized": 3.6461
+    },
+    "score": 4.7554
+  },
+  "title": "Emily the Criminal",
+  "description": "Down on her luck and saddled with debt, Emily gets involved in a credit card scam that pulls her into the criminal underworld of Los Angeles, ultimately leading to deadly consequences.",
+  "year": 2022,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZGQ1ZmNmYjctZTQzOC00MzMxLThjNmItODc4OTIxYWEwNmJjXkEyXkFqcGc@._V1_.jpg",
+  "runtime_minutes": 97,
+  "release_date": "12.08.2022",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm2201555",
+      "name": "Aubrey Plaza"
+    },
+    {
+      "id": "nm0744331",
+      "name": "Theo Rossi"
+    },
+    {
+      "id": "nm2224519",
+      "name": "Bernardo Badillo"
+    },
+    {
+      "id": "nm0082517",
+      "name": "John Billingsley"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm3621304",
+      "name": "John Patton Ford"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm3621304",
+      "name": "John Patton Ford"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm2201555",
+      "name": "Aubrey Plaza",
+      "character": "Emily"
+    },
+    {
+      "id": "nm0744331",
+      "name": "Theo Rossi",
+      "character": "Youcef"
+    },
+    {
+      "id": "nm2224519",
+      "name": "Bernardo Badillo",
+      "character": "Javier"
+    },
+    {
+      "id": "nm0082517",
+      "name": "John Billingsley",
+      "character": "Office Manager"
+    },
+    {
+      "id": "nm3187683",
+      "name": "Kim Yarbrough",
+      "character": "Secretary"
+    },
+    {
+      "id": "nm2388022",
+      "name": "Kara Luiz",
+      "character": "Bank Boss"
+    },
+    {
+      "id": "nm5025479",
+      "name": "Janice Sonia Lee",
+      "character": "Becca"
+    },
+    {
+      "id": "nm10461050",
+      "name": "Wesley Han",
+      "character": "Mike"
+    },
+    {
+      "id": "nm13338380",
+      "name": "Wyatt Barrios",
+      "character": "Javier's Son"
+    },
+    {
+      "id": "nm0248461",
+      "name": "Megalyn Echikunwoke",
+      "character": "Liz"
+    },
+    {
+      "id": "nm3996999",
+      "name": "Brandon Sklenar",
+      "character": "Brent"
+    },
+    {
+      "id": "nm2212825",
+      "name": "Ben Rodgers",
+      "character": "Jason"
+    },
+    {
+      "id": "nm6561255",
+      "name": "Ricarlo Flanagan",
+      "character": "Mike"
+    },
+    {
+      "id": "nm10756435",
+      "name": "Amje Elharden",
+      "character": "Robert"
+    },
+    {
+      "id": "nm1722382",
+      "name": "Jonathan Avigdori",
+      "character": "Khalil"
+    },
+    {
+      "id": "nm5099520",
+      "name": "Victor Manso",
+      "character": "Young Guy in Baseball Hat"
+    },
+    {
+      "id": "nm5966873",
+      "name": "Lamar Usher",
+      "character": "Lamar"
+    },
+    {
+      "id": "nm1695381",
+      "name": "Roman Arabia",
+      "character": "Security Guard"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Arabic",
+    "Spanish",
+    "Korean"
+  ],
+  "color": "Color",
+  "silent": false,
+  "filmweb_id": 10006527,
+  "polish_title": "Na złej drodze",
+  "description_pl": "Emily (<a href=\"/osoba/?id=nm2201555\">Aubrey Plaza</a>) jest obciążona studenckimi długami i wykluczona z rynku pracy z powodu karalności. Dorabia po cichu, lecz nie pokrywa to nawet części jej potrzeb, więc zdesperowana udaje się w polecone przez kumpla miejsce. Zaczyna się prosto. Dostaje sklonowaną kartę kredytową i jedyne, co musi zrobić, to kupić telewizor. Wykonuje zadanie, a towar przekazuje swoim szefom, za co otrzymuje 200 $. Jest to łatwiejsze, niż się spodziewa, i zaczyna robić to regularnie, zbliżając do kierownika zadania Youcefa (<a href=\"/osoba/?id=nm0744331\">Theo Rossi</a>), który powoli staje się kimś więcej, niż jej mentorem... Ale jak daleko jest gotowa się posunąć?",
+  "fetched_at": "2026-08-16"
+}

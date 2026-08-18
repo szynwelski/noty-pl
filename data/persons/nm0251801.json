@@ -1,0 +1,51 @@
+{
+  "id": "nm0251801",
+  "name": "Ludovico Einaudi",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNGIxOGNjZmMtM2I4ZC00ZjZjLWJjZDUtNmFkZDUyNTNlNmJiXkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0480025",
+      "title": "This Is England",
+      "year": 2006,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt1675434",
+      "title": "The Intouchables",
+      "year": 2011,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt9770150",
+      "title": "Nomadland",
+      "year": 2020,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt10272386",
+      "title": "The Father",
+      "year": 2020,
+      "roles": [
+        "composer"
+      ]
+    }
+  ],
+  "birth_date": "23.11.1955",
+  "birth_location": "Turin, Italy",
+  "filmweb_id": 11914,
+  "name_pl": "Ludovico Einaudi",
+  "birth_location_pl": "Turyn",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Włochy"
+  ],
+  "wikidata_fw_id": 11914
+}

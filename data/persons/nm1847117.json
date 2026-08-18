@@ -1,0 +1,47 @@
+{
+  "id": "nm1847117",
+  "name": "Janelle Monáe",
+  "filmography": [
+    {
+      "imdb_id": "tt4846340",
+      "title": "Hidden Figures",
+      "year": 2016,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Mary Jackson"
+    },
+    {
+      "imdb_id": "tt4975722",
+      "title": "Moonlight",
+      "year": 2016,
+      "roles": [
+        "cast"
+      ],
+      "character": "Teresa"
+    },
+    {
+      "imdb_id": "tt11564570",
+      "title": "Glass Onion",
+      "year": 2022,
+      "roles": [
+        "cast"
+      ],
+      "character": "Andi Brand"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTEyMDA1MzE0NjdeQTJeQWpwZ15BbWU3MDM0NzA4MDQ@._V1_.jpg",
+  "birth_date": "01.12.1985",
+  "birth_location": "Kansas City, Kansas, USA",
+  "height": "1.52 m",
+  "filmweb_id": 1088502,
+  "name_pl": "Janelle Monáe",
+  "birth_location_pl": "Kansas City, Kansas",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

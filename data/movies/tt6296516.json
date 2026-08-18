@@ -1,0 +1,196 @@
+{
+  "imdb_id": "tt6296516",
+  "title": "Czlowiek z reklamowka",
+  "description": "",
+  "runtime_minutes": 21,
+  "release_date": "29.07.2013",
+  "genres": [
+    "Short"
+  ],
+  "stars": [
+    {
+      "id": "nm9070079",
+      "name": "Malgorzata Baczynska"
+    },
+    {
+      "id": "nm2931885",
+      "name": "Slawomir Blaszewski"
+    },
+    {
+      "id": "nm3489777",
+      "name": "Mariusz Brzozowski"
+    },
+    {
+      "id": "nm11123550",
+      "name": "Klaudia Brzyk"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm7036333",
+      "name": "Jakub Polakowski"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm7036333",
+      "name": "Jakub Polakowski"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm9070079",
+      "name": "Malgorzata Baczynska",
+      "character": ""
+    },
+    {
+      "id": "nm2931885",
+      "name": "Slawomir Blaszewski",
+      "character": ""
+    },
+    {
+      "id": "nm3489777",
+      "name": "Mariusz Brzozowski",
+      "character": ""
+    },
+    {
+      "id": "nm11123550",
+      "name": "Klaudia Brzyk",
+      "character": ""
+    },
+    {
+      "id": "nm12886672",
+      "name": "Adam Chowanski",
+      "character": ""
+    },
+    {
+      "id": "nm3941895",
+      "name": "Matylda Dymek",
+      "character": ""
+    },
+    {
+      "id": "nm12886667",
+      "name": "Waldemar Gortat",
+      "character": ""
+    },
+    {
+      "id": "nm1760132",
+      "name": "Zuzanna Grabowska",
+      "character": ""
+    },
+    {
+      "id": "nm12886670",
+      "name": "Monika Grzeszczuk",
+      "character": ""
+    },
+    {
+      "id": "nm10174155",
+      "name": "Tomasz Jacyków",
+      "character": ""
+    },
+    {
+      "id": "nm12886665",
+      "name": "Joanna Jeziorek",
+      "character": ""
+    },
+    {
+      "id": "nm6281929",
+      "name": "Ewa Krzyzak",
+      "character": ""
+    },
+    {
+      "id": "nm12886666",
+      "name": "Urszula Murasiewicz-Dziubalon",
+      "character": ""
+    },
+    {
+      "id": "nm3556176",
+      "name": "Michal Ogórek",
+      "character": ""
+    },
+    {
+      "id": "nm3512147",
+      "name": "Marcin Paprocki",
+      "character": ""
+    },
+    {
+      "id": "nm3984562",
+      "name": "Anna Pindera",
+      "character": ""
+    },
+    {
+      "id": "nm11513053",
+      "name": "Mariusz Potopianek",
+      "character": ""
+    },
+    {
+      "id": "nm12886669",
+      "name": "Przemyslaw Pypec",
+      "character": ""
+    }
+  ],
+  "countries": [
+    "Poland"
+  ],
+  "languages": [
+    "Polish"
+  ],
+  "color": "Color",
+  "year": 2013,
+  "type": "short",
+  "image_url": null,
+  "filmweb_id": 659561,
+  "ratings": {
+    "imdb": {
+      "rating": 6.9,
+      "votes": 9,
+      "distribution": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1,
+        "6": 3,
+        "7": 2,
+        "8": 2,
+        "9": 1,
+        "10": 0
+      },
+      "normalized": 5.3042
+    },
+    "filmweb": {
+      "rating": 6.78,
+      "votes": 691,
+      "distribution": {
+        "1": 9,
+        "2": 6,
+        "3": 16,
+        "4": 23,
+        "5": 52,
+        "6": 143,
+        "7": 222,
+        "8": 152,
+        "9": 47,
+        "10": 21
+      },
+      "normalized": 5.1777
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "01.10.2017",
+      "normalized": 6.4102
+    },
+    "score": 5.6307
+  },
+  "polish_title": "Człowiek z reklamówką",
+  "silent": false,
+  "description_pl": "Tytułowy bohater to Edward Nożycoręki postkomunistycznej Polski. Ostentacyjnie inny i oporny na wszelkie trendy, idzie przez życie z oldschoolową reklamówką w ręku, a za jego plecami znajomi, rodzina i styliści przez wszystkie przypadki odmieniają słowo obciach. To nie tylko komediowa opowieść o nonkonformiście, ale i o naszym kraju – miejscu, gdzie niewinny zachwyt nad kolorowym światem Zachodu zmienił się z czasem w zblazowane pozerstwo.",
+  "cinematographers": [
+    {
+      "id": "nm7036333",
+      "name": "Jakub Polakowski"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

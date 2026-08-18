@@ -1,0 +1,35 @@
+{
+  "id": "nm0326412",
+  "name": "Samuel Goldwyn Jr.",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTM0NTU2NDUyOF5BMl5BanBnXkFtZTYwMzM3ODA2._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0311113",
+      "title": "Master and Commander: The Far Side of the World",
+      "year": 2003,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0359950",
+      "title": "The Secret Life of Walter Mitty",
+      "year": 2013,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "birth_date": "07.09.1926",
+  "death_date": "09.01.2015",
+  "birth_location": "Los Angeles, California, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 67653,
+  "name_pl": "Samuel Goldwyn Jr.",
+  "birth_location_pl": "Los Angeles, Kalifornia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "nm0001329",
+  "name": "Nigel Hawthorne",
+  "filmography": [
+    {
+      "imdb_id": "tt0106697",
+      "title": "Demolition Man",
+      "year": 1993,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Dr. Raymond Cocteau"
+    },
+    {
+      "imdb_id": "tt0118607",
+      "title": "Amistad",
+      "year": 1997,
+      "roles": [
+        "cast"
+      ],
+      "character": "Martin Van Buren"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTM4MTg4NDE1NV5BMl5BanBnXkFtZTYwNTE2OTM3._V1_.jpg",
+  "birth_date": "05.04.1929",
+  "death_date": "26.12.2001",
+  "birth_location": "Coventry, Warwickshire, England, UK",
+  "height": "1.82 m",
+  "imdb_scraped": true,
+  "filmweb_id": 2554,
+  "name_pl": "Nigel Hawthorne",
+  "birth_location_pl": "Coventry, Anglia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 2554
+}

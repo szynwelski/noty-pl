@@ -1,0 +1,72 @@
+{
+  "id": "nm0000060",
+  "name": "Gregory Peck",
+  "filmography": [
+    {
+      "imdb_id": "tt0038109",
+      "title": "Spellbound",
+      "year": 1945,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "John Ballantyne"
+    },
+    {
+      "imdb_id": "tt0046250",
+      "title": "Roman Holiday",
+      "year": 1953,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Joe Bradley"
+    },
+    {
+      "imdb_id": "tt0049513",
+      "title": "Moby Dick",
+      "year": 1956,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Captain Ahab"
+    },
+    {
+      "imdb_id": "tt0056592",
+      "title": "To Kill a Mockingbird",
+      "year": 1962,
+      "roles": [
+        "star",
+        "cast",
+        "producer"
+      ],
+      "character": "Atticus Finch"
+    },
+    {
+      "imdb_id": "tt0075005",
+      "title": "The Omen",
+      "year": 1976,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Robert Thorn"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYWU1YTkwOGEtZTdjOC00ZDEyLThkZWUtMzY4ZjYzYWQyM2FlXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 8205,
+  "birth_date": "05.04.1916",
+  "death_date": "12.06.2003",
+  "birth_location": "La Jolla [now in San Diego], California, USA",
+  "height": "1.89 m",
+  "imdb_scraped": true,
+  "name_pl": "Gregory Peck",
+  "birth_location_pl": "La Jolla, Kalifornia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 8205
+}

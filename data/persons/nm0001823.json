@@ -1,0 +1,66 @@
+{
+  "id": "nm0001823",
+  "name": "Tom Waits",
+  "filmography": [
+    {
+      "imdb_id": "tt0090967",
+      "title": "Down by Law",
+      "year": 1986,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Zack"
+    },
+    {
+      "imdb_id": "tt0102536",
+      "title": "Night on Earth",
+      "year": 1991,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt0103874",
+      "title": "Dracula",
+      "year": 1992,
+      "roles": [
+        "cast"
+      ],
+      "character": "R.M. Renfield"
+    },
+    {
+      "imdb_id": "tt0379217",
+      "title": "Coffee and Cigarettes",
+      "year": 2003,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Tom"
+    },
+    {
+      "imdb_id": "tt1037705",
+      "title": "The Book of Eli",
+      "year": 2010,
+      "roles": [
+        "cast"
+      ],
+      "character": "Engineer"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOTIwNjE4OTQ3M15BMl5BanBnXkFtZTYwMzIzMjcy._V1_.jpg",
+  "birth_date": "07.12.1949",
+  "birth_location": "Pomona, California, USA",
+  "height": "1.80 m",
+  "filmweb_id": 8130,
+  "name_pl": "Tom Waits",
+  "birth_location_pl": "Pomona, Kalifornia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 8130
+}

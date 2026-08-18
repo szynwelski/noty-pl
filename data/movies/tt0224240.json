@@ -1,0 +1,99 @@
+{
+  "imdb_id": "tt0224240",
+  "title": "The Temptation of St. Anthony",
+  "description": "The pious St. Anthony is tormented by visions of seductive women.",
+  "runtime_minutes": 1,
+  "release_date": "1898",
+  "genres": [
+    "Short",
+    "Drama",
+    "Fantasy"
+  ],
+  "stars": [
+    {
+      "id": "nm0194945",
+      "name": "Jehanne d'Alcy"
+    },
+    {
+      "id": "nm0617588",
+      "name": "Georges Méliès"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0617588",
+      "name": "Georges Méliès"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0194945",
+      "name": "Jehanne d'Alcy",
+      "character": "Seductive Woman Who Appears on the Cross"
+    },
+    {
+      "id": "nm0617588",
+      "name": "Georges Méliès",
+      "character": "St. Anthony"
+    }
+  ],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 377012,
+  "year": 1898,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZmQ3MmYxNDItMWYwOS00ZDgwLThhMDAtZmNlODVkMmFkMDU2XkEyXkFqcGc@._V1_.jpg",
+  "original_title": "La Tentation de Saint-Antoine",
+  "ratings": {
+    "imdb": {
+      "rating": 5.9,
+      "votes": 1149,
+      "distribution": {
+        "1": 31,
+        "2": 26,
+        "3": 47,
+        "4": 81,
+        "5": 221,
+        "6": 354,
+        "7": 210,
+        "8": 101,
+        "9": 29,
+        "10": 49
+      },
+      "normalized": 4.2098
+    },
+    "filmweb": {
+      "rating": 5.79,
+      "votes": 234,
+      "distribution": {
+        "2": 8,
+        "3": 12,
+        "4": 13,
+        "5": 55,
+        "6": 79,
+        "7": 48,
+        "8": 11,
+        "9": 1,
+        "10": 7
+      },
+      "normalized": 4.2568
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "13.12.2016",
+      "normalized": 6.4102
+    },
+    "score": 4.9589
+  },
+  "polish_title": "La Tentation de Saint-Antoine",
+  "silent": true,
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-16"
+}

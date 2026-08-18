@@ -1,0 +1,67 @@
+{
+  "id": "nm0001074",
+  "name": "Ronny Cox",
+  "filmography": [
+    {
+      "imdb_id": "tt0086960",
+      "title": "Beverly Hills Cop",
+      "year": 1984,
+      "roles": [
+        "cast"
+      ],
+      "character": "Lt. Bogomil"
+    },
+    {
+      "imdb_id": "tt0092644",
+      "title": "Beverly Hills Cop II",
+      "year": 1987,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Andrew Bogomil"
+    },
+    {
+      "imdb_id": "tt0093870",
+      "title": "RoboCop",
+      "year": 1987,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Jones"
+    },
+    {
+      "imdb_id": "tt0100802",
+      "title": "Total Recall",
+      "year": 1990,
+      "roles": [
+        "cast"
+      ],
+      "character": "Cohaagen"
+    },
+    {
+      "imdb_id": "tt0244000",
+      "title": "American Outlaws",
+      "year": 2001,
+      "roles": [
+        "cast"
+      ],
+      "character": "Doc Mimms, Zee's Dad"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjEyMjAzNTI0M15BMl5BanBnXkFtZTcwNTA1MjcyMQ@@._V1_.jpg",
+  "birth_date": "23.07.1938",
+  "birth_location": "Cloudcroft, New Mexico, USA",
+  "height": "1.88 m",
+  "filmweb_id": 5237,
+  "name_pl": "Ronny Cox",
+  "birth_location_pl": "Cloudcroft, Nowy Meksyk",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 5237
+}

@@ -1,0 +1,224 @@
+{
+  "imdb_id": "tt0465551",
+  "title": "Notes on a Scandal",
+  "description": "A veteran high school teacher befriends a younger art teacher, who is having an affair with one of her fifteen-year-old students. However, her intentions with this new \"friend\" also go well beyond a platonic friendship.",
+  "runtime_minutes": 92,
+  "release_date": "26.01.2007",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Romance",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000949",
+      "name": "Cate Blanchett"
+    },
+    {
+      "id": "nm0001132",
+      "name": "Judi Dench"
+    },
+    {
+      "id": "nm1587166",
+      "name": "Andrew Simpson"
+    },
+    {
+      "id": "nm0313702",
+      "name": "Tom Georgeson"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0264236",
+      "name": "Richard Eyre"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0544999",
+      "name": "Patrick Marber"
+    },
+    {
+      "id": "nm0375398",
+      "name": "Zoë Heller"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000949",
+      "name": "Cate Blanchett",
+      "character": "Sheba Hart"
+    },
+    {
+      "id": "nm0001132",
+      "name": "Judi Dench",
+      "character": "Barbara Covett"
+    },
+    {
+      "id": "nm1587166",
+      "name": "Andrew Simpson",
+      "character": "Steven Connolly"
+    },
+    {
+      "id": "nm0313702",
+      "name": "Tom Georgeson",
+      "character": "Ted Mawson"
+    },
+    {
+      "id": "nm0540585",
+      "name": "Michael Maloney",
+      "character": "Sandy Pabblem"
+    },
+    {
+      "id": "nm0768936",
+      "name": "Joanna Scanlan",
+      "character": "Sue Hodge"
+    },
+    {
+      "id": "nm0662744",
+      "name": "Shaun Parkes",
+      "character": "Bill Rumer"
+    },
+    {
+      "id": "nm0448021",
+      "name": "Emma Kennedy",
+      "character": "Linda"
+    },
+    {
+      "id": "nm0474904",
+      "name": "Syreeta Kumar",
+      "character": "Gita"
+    },
+    {
+      "id": "nm0205289",
+      "name": "Phil Davis",
+      "character": "Brian Bangs"
+    },
+    {
+      "id": "nm0636637",
+      "name": "Wendy Nottingham",
+      "character": "Elaine Clifford"
+    },
+    {
+      "id": "nm0256658",
+      "name": "Tameka Empson",
+      "character": "Antonia Robinson"
+    },
+    {
+      "id": "nm2473992",
+      "name": "Leon Skinner",
+      "character": "Davis"
+    },
+    {
+      "id": "nm0631490",
+      "name": "Bill Nighy",
+      "character": "Richard Hart"
+    },
+    {
+      "id": "nm1017334",
+      "name": "Juno Temple",
+      "character": "Polly Hart"
+    },
+    {
+      "id": "nm2428265",
+      "name": "Max Lewis",
+      "character": "Ben Hart"
+    },
+    {
+      "id": "nm0319019",
+      "name": "Debra Gillett",
+      "character": "Lorraine"
+    },
+    {
+      "id": "nm0565061",
+      "name": "Barry McCarthy",
+      "character": "Dave"
+    }
+  ],
+  "countries": [
+    "United Kingdom",
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "color": "Color",
+  "filmweb_id": 264516,
+  "year": 2006,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODdhZDJjNDgtZjAxZi00ZGE2LWJiYzYtZTJhMmRmYjgzMzY0XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.4,
+      "votes": 89761,
+      "distribution": {
+        "1": 667,
+        "2": 360,
+        "3": 550,
+        "4": 1159,
+        "5": 3410,
+        "6": 10451,
+        "7": 27828,
+        "8": 27436,
+        "9": 10625,
+        "10": 7275
+      },
+      "normalized": 6.2455
+    },
+    "filmweb": {
+      "rating": 7.39,
+      "votes": 37995,
+      "distribution": {
+        "1": 78,
+        "2": 44,
+        "3": 187,
+        "4": 352,
+        "5": 1325,
+        "6": 4670,
+        "7": 12915,
+        "8": 13599,
+        "9": 3564,
+        "10": 1261
+      },
+      "normalized": 6.4543
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "17.10.2007",
+      "normalized": 5.4199
+    },
+    "score": 6.0399
+  },
+  "polish_title": "Notatki o skandalu",
+  "silent": false,
+  "description_pl": "Czterdziestoletnia Sheba Hart dołącza do grona nauczycieli w szkole Św. Jerzego jako nowa nauczycielka sztuki. Zyskuje nową przyjaciółkę Barbarę, jednak ma jeszcze innego przyjaciela - piętnastoletniego chłopca, z którym nawiązuje romans. Całą tą sytuację obesrwuje Barbara i stara się ukrywać tajemnicę Sheby i staje się kronikarką zbliżającego się skandalu.",
+  "producers": [
+    {
+      "id": "nm0289221",
+      "name": "Robert Fox"
+    },
+    {
+      "id": "nm0606877",
+      "name": "Redmond Morris"
+    },
+    {
+      "id": "nm0748784",
+      "name": "Scott Rudin"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0001275",
+      "name": "Philip Glass"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0579580",
+      "name": "Chris Menges"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

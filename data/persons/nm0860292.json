@@ -1,0 +1,42 @@
+{
+  "id": "nm0860292",
+  "name": "Jim Thompson",
+  "filmography": [
+    {
+      "imdb_id": "tt0049406",
+      "title": "The Killing",
+      "year": 1956,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0050825",
+      "title": "Paths of Glory",
+      "year": 1957,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0068638",
+      "title": "The Getaway",
+      "year": 1972,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "birth_date": "27.09.1906",
+  "death_date": "07.04.1977",
+  "birth_location": "Anadarko, Oklahoma, USA",
+  "filmweb_id": 118973,
+  "name_pl": "Jim Thompson",
+  "birth_location_pl": "Anadarko, Oklahoma",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "nm0000023",
+  "name": "Judy Garland",
+  "filmography": [
+    {
+      "imdb_id": "tt0032138",
+      "title": "The Wizard of Oz",
+      "year": 1939,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Dorothy"
+    },
+    {
+      "imdb_id": "tt0055031",
+      "title": "Judgment at Nuremberg",
+      "year": 1961,
+      "roles": [
+        "cast"
+      ],
+      "character": "Irene Hoffman"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYmYyNjhjNGEtMTFlYy00YzhlLWJhNTAtYTBmOGViMzAwM2Y5XkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 47308,
+  "birth_date": "10.06.1922",
+  "death_date": "22.06.1969",
+  "birth_location": "Grand Rapids, Minnesota, USA",
+  "height": "1.50 m",
+  "imdb_scraped": true,
+  "name_pl": "Judy Garland",
+  "birth_location_pl": "Grand Rapids, Minnesota",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 47308
+}

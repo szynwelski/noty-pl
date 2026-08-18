@@ -1,0 +1,298 @@
+{
+  "imdb_id": "tt27075958",
+  "title": "Fountain of Youth",
+  "description": "Two estranged siblings join forces to seek the legendary Fountain of Youth. Using historical clues, they embark on an epic quest filled with adventure. If successful, the mythical fountain could grant them immortality.",
+  "runtime_minutes": 125,
+  "release_date": "23.05.2025",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Mystery"
+  ],
+  "stars": [
+    {
+      "id": "nm1024677",
+      "name": "John Krasinski"
+    },
+    {
+      "id": "nm0000204",
+      "name": "Natalie Portman"
+    },
+    {
+      "id": "nm2555462",
+      "name": "Eiza González"
+    },
+    {
+      "id": "nm1727304",
+      "name": "Domhnall Gleeson"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0005363",
+      "name": "Guy Ritchie"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0888743",
+      "name": "James Vanderbilt"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1024677",
+      "name": "John Krasinski",
+      "character": "Luke Purdue"
+    },
+    {
+      "id": "nm0000204",
+      "name": "Natalie Portman",
+      "character": "Charlotte Purdue"
+    },
+    {
+      "id": "nm2555462",
+      "name": "Eiza González",
+      "character": "Esme"
+    },
+    {
+      "id": "nm1727304",
+      "name": "Domhnall Gleeson",
+      "character": "Owen Carver"
+    },
+    {
+      "id": "nm1573892",
+      "name": "Arian Moayed",
+      "character": "Inspector Jamal Abbas"
+    },
+    {
+      "id": "nm0022306",
+      "name": "Laz Alonso",
+      "character": "Patrick Murphy"
+    },
+    {
+      "id": "nm0252238",
+      "name": "Carmen Ejogo",
+      "character": "Deb McCall"
+    },
+    {
+      "id": "nm0001804",
+      "name": "Stanley Tucci",
+      "character": "The Elder"
+    },
+    {
+      "id": "nm12686326",
+      "name": "Benjamin Chivers",
+      "character": "Thomas"
+    },
+    {
+      "id": "nm1981574",
+      "name": "Michael Epp",
+      "character": "Praeger"
+    },
+    {
+      "id": "nm1452260",
+      "name": "Steve Tran",
+      "character": "Kasem"
+    },
+    {
+      "id": "nm9978432",
+      "name": "Daniel De Bourg",
+      "character": "Harold"
+    },
+    {
+      "id": "nm0917347",
+      "name": "Perdita Weeks",
+      "character": "Harold's Lawyer"
+    },
+    {
+      "id": "nm1533008",
+      "name": "Simon Shorten",
+      "character": "Dubious Cop"
+    },
+    {
+      "id": "nm4095121",
+      "name": "Russell Balogh",
+      "character": "Agent Stevens"
+    },
+    {
+      "id": "nm5930685",
+      "name": "Elly Condron",
+      "character": "Head Librarian"
+    },
+    {
+      "id": "nm1678637",
+      "name": "Edith Bukovics",
+      "character": "Library Board Member"
+    },
+    {
+      "id": "nm7490971",
+      "name": "Donnie Baxter",
+      "character": "Westerguard"
+    }
+  ],
+  "countries": [
+    "United States",
+    "United Kingdom"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 10065817,
+  "year": 2025,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNWRlZmU3ZTItM2JlYi00YTg1LTgxNTItMjMyNzIyZWY5YWJmXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.7,
+      "votes": 54723,
+      "distribution": {
+        "1": 1325,
+        "2": 1311,
+        "3": 2556,
+        "4": 5042,
+        "5": 11351,
+        "6": 16161,
+        "7": 9991,
+        "8": 3669,
+        "9": 1123,
+        "10": 2194
+      },
+      "normalized": 3.1397
+    },
+    "filmweb": {
+      "rating": 5.45,
+      "votes": 6263,
+      "distribution": {
+        "1": 28,
+        "2": 105,
+        "3": 429,
+        "4": 811,
+        "5": 1901,
+        "6": 1836,
+        "7": 766,
+        "8": 177,
+        "9": 33,
+        "10": 177
+      },
+      "normalized": 2.6482
+    },
+    "jarek": {
+      "rating": 3,
+      "date_rated": "31.07.2025",
+      "normalized": 4.2591
+    },
+    "score": 3.349
+  },
+  "polish_title": "Fontanna Młodości",
+  "silent": false,
+  "producers": [
+    {
+      "id": "nm6842463",
+      "name": "Ivan Atkinson"
+    },
+    {
+      "id": "nm2366012",
+      "name": "Matt Bettinelli-Olpin"
+    },
+    {
+      "id": "nm1849791",
+      "name": "Siobhan Boyes"
+    },
+    {
+      "id": "nm4460428",
+      "name": "Mark Dinning"
+    },
+    {
+      "id": "nm1441300",
+      "name": "Amin El Masri"
+    },
+    {
+      "id": "nm1911103",
+      "name": "David Ellison"
+    },
+    {
+      "id": "nm2190737",
+      "name": "Tara Farney"
+    },
+    {
+      "id": "nm2419470",
+      "name": "Tyler Gillett"
+    },
+    {
+      "id": "nm1602154",
+      "name": "Dana Goldberg"
+    },
+    {
+      "id": "nm1447370",
+      "name": "Don Granger"
+    },
+    {
+      "id": "nm16693462",
+      "name": "Amira Ismail"
+    },
+    {
+      "id": "nm0444724",
+      "name": "Max Keene"
+    },
+    {
+      "id": "nm0616735",
+      "name": "Jake Myers"
+    },
+    {
+      "id": "nm1805366",
+      "name": "Philie Naughten"
+    },
+    {
+      "id": "nm2248084",
+      "name": "Paul Neinstein"
+    },
+    {
+      "id": "nm2908842",
+      "name": "Thunn Pestonji"
+    },
+    {
+      "id": "nm0005363",
+      "name": "Guy Ritchie"
+    },
+    {
+      "id": "nm0750472",
+      "name": "Gerhard Rupp"
+    },
+    {
+      "id": "nm0002555",
+      "name": "Konstantin Seitz"
+    },
+    {
+      "id": "nm0792061",
+      "name": "William Sherak"
+    },
+    {
+      "id": "nm0888743",
+      "name": "James Vanderbilt"
+    },
+    {
+      "id": "nm2318753",
+      "name": "Chad Villella"
+    },
+    {
+      "id": "nm1246087",
+      "name": "Tripp Vinson"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm1666163",
+      "name": "Christopher Benstead"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm1456252",
+      "name": "Ed Wild"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

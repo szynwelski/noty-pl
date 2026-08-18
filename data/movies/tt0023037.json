@@ -1,0 +1,133 @@
+{
+  "imdb_id": "tt0023037",
+  "title": "Land Without Bread",
+  "description": "A surrealist film, a pseudo-documentary portrait of Las Hurdes, a remote region of Spain where civilisation has barely developed, showing how the local peasants try to survive without even the most basic utilities and skills.",
+  "runtime_minutes": 30,
+  "release_date": "1933",
+  "genres": [
+    "Documentary",
+    "Short"
+  ],
+  "stars": [
+    {
+      "id": "nm0415231",
+      "name": "Abel Jacquin"
+    },
+    {
+      "id": "nm0642089",
+      "name": "Alexandre O'Neill"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000320",
+      "name": "Luis Buñuel"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000320",
+      "name": "Luis Buñuel"
+    },
+    {
+      "id": "nm0844798",
+      "name": "Rafael Sánchez Ventura"
+    },
+    {
+      "id": "nm0881252",
+      "name": "Pierre Unik"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0415231",
+      "name": "Abel Jacquin",
+      "character": "Self"
+    },
+    {
+      "id": "nm0642089",
+      "name": "Alexandre O'Neill",
+      "character": "Self"
+    }
+  ],
+  "countries": [
+    "Spain"
+  ],
+  "languages": [
+    "French"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 12006,
+  "year": 1933,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNmNmNjc4ZmUtMWZkMC00MTUyLThkYjctMGIwOTc4NTBjNmQwXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Las Hurdes",
+  "ratings": {
+    "imdb": {
+      "rating": 7.3,
+      "votes": 6739,
+      "distribution": {
+        "1": 84,
+        "2": 26,
+        "3": 69,
+        "4": 150,
+        "5": 349,
+        "6": 848,
+        "7": 1774,
+        "8": 2032,
+        "9": 732,
+        "10": 675
+      },
+      "normalized": 6.0002
+    },
+    "filmweb": {
+      "rating": 7.11,
+      "votes": 755,
+      "distribution": {
+        "1": 2,
+        "2": 3,
+        "3": 5,
+        "4": 12,
+        "5": 49,
+        "6": 141,
+        "7": 243,
+        "8": 213,
+        "9": 66,
+        "10": 21
+      },
+      "normalized": 5.6002
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "13.01.2008",
+      "normalized": 7.2292
+    },
+    "score": 6.2765
+  },
+  "polish_title": "Ziemia Hurdów",
+  "silent": false,
+  "description_pl": "\"<a href=\"/film/?id=tt0023037\">Ziemia Hurdów</a>\" to jedyny w dorobku <a href=\"/osoba/?id=nm0000320\">Luisa Bunuela</a> film dokumentalny. Powstały zaraz po dwóch wielkich manifestach surrealistycznych, czyli \"<a href=\"/film/?id=tt0020530\">Psie andaluzyjskim</a>\" i \"<a href=\"/film/?id=tt0021577\">Złotym wieku</a>\", poraża swoim realizmem. Opowiada o mieszkańcach ubogiego regionu w Hiszpanii. Ludzie ci żyją w ogromnej nędzy nie posiadając elementarnych warunków do egzystencji. Całość dopełnia chłodny komentarz narratora.",
+  "producers": [
+    {
+      "id": "nm0010375",
+      "name": "Ramón Acín"
+    },
+    {
+      "id": "nm0000320",
+      "name": "Luis Buñuel"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0587366",
+      "name": "Darius Milhaud"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0521419",
+      "name": "Eli Lotar"
+    }
+  ],
+  "fetched_at": "2026-08-15"
+}

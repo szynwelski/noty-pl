@@ -1,0 +1,46 @@
+{
+  "id": "nm0005316",
+  "name": "Mary Kay Place",
+  "filmography": [
+    {
+      "imdb_id": "tt0119978",
+      "title": "The Rainmaker",
+      "year": 1997,
+      "roles": [
+        "cast"
+      ],
+      "character": "Dot Black"
+    },
+    {
+      "imdb_id": "tt0120601",
+      "title": "Being John Malkovich",
+      "year": 1999,
+      "roles": [
+        "cast"
+      ],
+      "character": "Floris"
+    },
+    {
+      "imdb_id": "tt0256415",
+      "title": "Sweet Home Alabama",
+      "year": 2002,
+      "roles": [
+        "cast"
+      ],
+      "character": "Pearl"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQxNDk0NzIzOV5BMl5BanBnXkFtZTcwNzQ3MDMzNA@@._V1_.jpg",
+  "birth_date": "23.09.1947",
+  "birth_location": "Tulsa, Oklahoma, USA",
+  "height": "1.55 m",
+  "filmweb_id": 7168,
+  "name_pl": "Mary Kay Place",
+  "birth_location_pl": "Tulsa, Oklahoma",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

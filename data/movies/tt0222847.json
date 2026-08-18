@@ -1,0 +1,96 @@
+{
+  "imdb_id": "tt0222847",
+  "title": "The Brahmin and the Butterfly",
+  "description": "A Brahmin comes upon a giant caterpillar, which turns into a cross between a butterfly and a girl: the Brahmin finally turns into a caterpillar.",
+  "runtime_minutes": 2,
+  "release_date": "1903",
+  "genres": [
+    "Short",
+    "Fantasy"
+  ],
+  "stars": [
+    {
+      "id": "nm0617588",
+      "name": "Georges Méliès"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0617588",
+      "name": "Georges Méliès"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0617588",
+      "name": "Georges Méliès"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0617588",
+      "name": "Georges Méliès",
+      "character": "Brahmin"
+    }
+  ],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "year": 1901,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTdjMDhlMzEtZTQ2My00M2NmLWI0NzEtMzk3YmIxMmE4ZDIyXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 314802,
+  "original_title": "La Chrysalide et le papillon",
+  "ratings": {
+    "imdb": {
+      "rating": 6,
+      "votes": 588,
+      "distribution": {
+        "1": 15,
+        "2": 12,
+        "3": 19,
+        "4": 34,
+        "5": 117,
+        "6": 198,
+        "7": 105,
+        "8": 49,
+        "9": 15,
+        "10": 24
+      },
+      "normalized": 4.5747
+    },
+    "filmweb": {
+      "rating": 6.15,
+      "votes": 92,
+      "distribution": {
+        "1": 1,
+        "2": 3,
+        "3": 5,
+        "4": 7,
+        "5": 12,
+        "6": 24,
+        "7": 18,
+        "8": 15,
+        "9": 4,
+        "10": 3
+      },
+      "normalized": 4.8063
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "12.12.2016",
+      "normalized": 7.1247
+    },
+    "score": 5.5019
+  },
+  "polish_title": "Poczwarka i złoty motyl",
+  "silent": true,
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-16"
+}

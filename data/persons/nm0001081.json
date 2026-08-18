@@ -1,0 +1,60 @@
+{
+  "id": "nm0001081",
+  "name": "Cameron Crowe",
+  "filmography": [
+    {
+      "imdb_id": "tt0116695",
+      "title": "Jerry Maguire",
+      "year": 1996,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0181875",
+      "title": "Almost Famous",
+      "year": 2000,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0259711",
+      "title": "Vanilla Sky",
+      "year": 2001,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt1389137",
+      "title": "We Bought a Zoo",
+      "year": 2011,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTMxOTIyNDA3OF5BMl5BanBnXkFtZTcwOTU5NDcxNg@@._V1_.jpg",
+  "birth_date": "13.07.1957",
+  "birth_location": "Palm Springs, California, USA",
+  "height": "1.83 m",
+  "filmweb_id": 11498,
+  "name_pl": "Cameron Crowe",
+  "birth_location_pl": "Palm Springs, Kalifornia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 11498
+}

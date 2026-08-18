@@ -1,0 +1,48 @@
+{
+  "id": "nm0942220",
+  "name": "Ben Wright",
+  "filmography": [
+    {
+      "imdb_id": "tt0059742",
+      "title": "The Sound of Music",
+      "year": 1965,
+      "roles": [
+        "cast"
+      ],
+      "character": "Herr Zeller"
+    },
+    {
+      "imdb_id": "tt0061852",
+      "title": "The Jungle Book",
+      "year": 1967,
+      "roles": [
+        "cast"
+      ],
+      "character": "Wolf"
+    },
+    {
+      "imdb_id": "tt0097757",
+      "title": "The Little Mermaid",
+      "year": 1989,
+      "roles": [
+        "cast"
+      ],
+      "character": "Grimsby"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDM2MmY5NzAtMWZhYS00ODU0LThhZWEtYzMyMDU4MmEwMTBiXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "05.05.1915",
+  "death_date": "02.07.1989",
+  "birth_location": "London, England, UK",
+  "filmweb_id": 101281,
+  "name_pl": "Ben Wright",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone",
+    "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii",
+    "Wielka Brytania"
+  ]
+}

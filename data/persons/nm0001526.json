@@ -1,0 +1,51 @@
+{
+  "id": "nm0001526",
+  "name": "Patrick McGoohan",
+  "filmography": [
+    {
+      "imdb_id": "tt0079116",
+      "title": "Escape from Alcatraz",
+      "year": 1979,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Warden Arthur Dollison"
+    },
+    {
+      "imdb_id": "tt0112573",
+      "title": "Braveheart",
+      "year": 1995,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Longshanks - King Edward I"
+    },
+    {
+      "imdb_id": "tt0117913",
+      "title": "A Time to Kill",
+      "year": 1996,
+      "roles": [
+        "cast"
+      ],
+      "character": "Judge Omar Noose"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNjA2ZGQ0ZGQtZjMyMC00N2ZlLThkZTAtMWRmM2JiODBiNjg5XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "19.03.1928",
+  "death_date": "13.01.2009",
+  "birth_location": "Astoria, Queens, New York City, New York, USA",
+  "height": "1.87 m",
+  "filmweb_id": 41705,
+  "name_pl": "Patrick McGoohan",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Irlandia",
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 41705
+}

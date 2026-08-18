@@ -1,0 +1,47 @@
+{
+  "id": "nm0236866",
+  "name": "Charles Drake",
+  "filmography": [
+    {
+      "imdb_id": "tt0033870",
+      "title": "The Maltese Falcon",
+      "year": 1941,
+      "roles": [
+        "cast"
+      ],
+      "character": "Reporter"
+    },
+    {
+      "imdb_id": "tt0042546",
+      "title": "Harvey",
+      "year": 1950,
+      "roles": [
+        "cast"
+      ],
+      "character": "Dr. Raymond Sanderson"
+    },
+    {
+      "imdb_id": "tt0064041",
+      "title": "The Arrangement",
+      "year": 1969,
+      "roles": [
+        "cast"
+      ],
+      "character": "Finnegan"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzdmODhhZjUtNWM1Yi00ZjNkLWI5MDQtNGVlZjc1ZjJkNzU5XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "02.10.1917",
+  "death_date": "10.09.1994",
+  "birth_location": "New York City, New York, USA",
+  "height": "1.88 m",
+  "filmweb_id": 44405,
+  "name_pl": "Charles Drake",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

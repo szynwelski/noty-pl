@@ -1,0 +1,215 @@
+{
+  "imdb_id": "tt3120054",
+  "title": "Take Care",
+  "description": "After being hit by a car, a woman comes home to realize that her friends don't really want to take care of her. Desperate for help, she turns to an unlikely source.",
+  "runtime_minutes": 94,
+  "release_date": "05.12.2014",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0004753",
+      "name": "Leslie Bibb"
+    },
+    {
+      "id": "nm0755603",
+      "name": "Thomas Sadoski"
+    },
+    {
+      "id": "nm2365811",
+      "name": "Betty Gilpin"
+    },
+    {
+      "id": "nm1221863",
+      "name": "Michael Stahl-David"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0875710",
+      "name": "Liz Tuccillo"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0875710",
+      "name": "Liz Tuccillo"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0004753",
+      "name": "Leslie Bibb",
+      "character": "Frannie"
+    },
+    {
+      "id": "nm0755603",
+      "name": "Thomas Sadoski",
+      "character": "Devon"
+    },
+    {
+      "id": "nm2365811",
+      "name": "Betty Gilpin",
+      "character": "Jodi"
+    },
+    {
+      "id": "nm1221863",
+      "name": "Michael Stahl-David",
+      "character": "Kyle"
+    },
+    {
+      "id": "nm0197453",
+      "name": "Nadia Dajani",
+      "character": "Fallon"
+    },
+    {
+      "id": "nm1677477",
+      "name": "Marin Ireland",
+      "character": "Laila"
+    },
+    {
+      "id": "nm0735300",
+      "name": "Elizabeth Rodriguez",
+      "character": "Nurse Janet"
+    },
+    {
+      "id": "nm3904633",
+      "name": "Tracee Chimo",
+      "character": "Rachel"
+    },
+    {
+      "id": "nm0324233",
+      "name": "Michael Godere",
+      "character": "Jason"
+    },
+    {
+      "id": "nm5114093",
+      "name": "Kevin Curtis",
+      "character": "Lawrence"
+    },
+    {
+      "id": "nm1883590",
+      "name": "Tim Wu",
+      "character": "Chef Wu"
+    },
+    {
+      "id": "nm3283306",
+      "name": "Danielle Kronenberg",
+      "character": "Hot girl"
+    },
+    {
+      "id": "nm0891485",
+      "name": "Yul Vazquez",
+      "character": "Doctor"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 712395,
+  "year": 2014,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjE3NjYyMzUxNV5BMl5BanBnXkFtZTgwMTQ0NjYwMzE@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6,
+      "votes": 3489,
+      "distribution": {
+        "1": 113,
+        "2": 63,
+        "3": 117,
+        "4": 244,
+        "5": 474,
+        "6": 911,
+        "7": 771,
+        "8": 402,
+        "9": 177,
+        "10": 217
+      },
+      "normalized": 3.8693
+    },
+    "filmweb": {
+      "rating": 5.63,
+      "votes": 2074,
+      "distribution": {
+        "1": 13,
+        "2": 31,
+        "3": 119,
+        "4": 244,
+        "5": 503,
+        "6": 640,
+        "7": 356,
+        "8": 117,
+        "9": 34,
+        "10": 17
+      },
+      "normalized": 3.1403
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "21.02.2023",
+      "normalized": 4.5781
+    },
+    "score": 3.8626
+  },
+  "polish_title": "Zadbaj o siebie",
+  "silent": false,
+  "description_pl": "Frannie uległa wypadkowi i nie potrafi poradzić sobie z podstawowymi czynnościami i wymaga nieustannej pomocy. Kiedy zawiodły ją wszystkie przyjaciółki w desperacji zwróciła się o pomoc do swojego byłego partnera. Niedługo na horyzoncie pojawia się przystojny lekarz i reszty historii można się tylko domyślać.",
+  "producers": [
+    {
+      "id": "nm0004753",
+      "name": "Leslie Bibb"
+    },
+    {
+      "id": "nm0174821",
+      "name": "Pete Conlin"
+    },
+    {
+      "id": "nm2629290",
+      "name": "A.J. Del Cueto"
+    },
+    {
+      "id": "nm4306731",
+      "name": "Marcelo Gandola"
+    },
+    {
+      "id": "nm0307547",
+      "name": "Marc Garland"
+    },
+    {
+      "id": "nm6336458",
+      "name": "Johnathan Hoffman"
+    },
+    {
+      "id": "nm0577644",
+      "name": "John P. Melfi"
+    },
+    {
+      "id": "nm0622549",
+      "name": "Grace Naughton"
+    },
+    {
+      "id": "nm4947855",
+      "name": "Reka Posta"
+    },
+    {
+      "id": "nm0875710",
+      "name": "Liz Tuccillo"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0262050",
+      "name": "Anne Etheridge"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

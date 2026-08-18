@@ -1,0 +1,48 @@
+{
+  "id": "nm0001190",
+  "name": "David Prowse",
+  "filmography": [
+    {
+      "imdb_id": "tt0076759",
+      "title": "Star Wars: Episode IV - A New Hope",
+      "year": 1977,
+      "roles": [
+        "cast"
+      ],
+      "character": "Lord Darth Vader"
+    },
+    {
+      "imdb_id": "tt0080684",
+      "title": "Star Wars: Episode V - The Empire Strikes Back",
+      "year": 1980,
+      "roles": [
+        "cast"
+      ],
+      "character": "Darth Vader"
+    },
+    {
+      "imdb_id": "tt0086190",
+      "title": "Star Wars: Episode VI - Return of the Jedi",
+      "year": 1983,
+      "roles": [
+        "cast"
+      ],
+      "character": "Darth Vader"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTEyODc0MTUzODBeQTJeQWpwZ15BbWU4MDUyMjc3OTAx._V1_.jpg",
+  "birth_date": "01.07.1935",
+  "death_date": "28.11.2020",
+  "birth_location": "Bristol, England, UK",
+  "height": "1.98 m",
+  "filmweb_id": 4795,
+  "name_pl": "David Prowse",
+  "birth_location_pl": "Bristol, Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 4795
+}

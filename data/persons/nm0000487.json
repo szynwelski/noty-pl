@@ -1,0 +1,54 @@
+{
+  "id": "nm0000487",
+  "name": "Ang Lee",
+  "filmography": [
+    {
+      "imdb_id": "tt0114388",
+      "title": "Sense and Sensibility",
+      "year": 1995,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0190332",
+      "title": "Crouching Tiger, Hidden Dragon",
+      "year": 2000,
+      "roles": [
+        "director",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0454876",
+      "title": "Life of Pi",
+      "year": 2012,
+      "roles": [
+        "director",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt1025100",
+      "title": "Gemini Man",
+      "year": 2019,
+      "roles": [
+        "director"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODA2MTczOTY0N15BMl5BanBnXkFtZTcwNTU3NjA4OA@@._V1_.jpg",
+  "birth_date": "23.10.1954",
+  "birth_location": "Pingtung, Taiwan",
+  "height": "1.75 m",
+  "filmweb_id": 10872,
+  "name_pl": "Ang Lee",
+  "birth_location_pl": "Pingtung",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Republika Chińska"
+  ],
+  "wikidata_fw_id": 10872
+}

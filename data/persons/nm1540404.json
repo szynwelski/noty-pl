@@ -1,0 +1,48 @@
+{
+  "id": "nm1540404",
+  "name": "Max Minghella",
+  "filmography": [
+    {
+      "imdb_id": "tt1093357",
+      "title": "The Darkest Hour",
+      "year": 2011,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Ben"
+    },
+    {
+      "imdb_id": "tt1124035",
+      "title": "The Ides of March",
+      "year": 2011,
+      "roles": [
+        "cast"
+      ],
+      "character": "Ben Harpen"
+    },
+    {
+      "imdb_id": "tt2234155",
+      "title": "The Internship",
+      "year": 2013,
+      "roles": [
+        "cast"
+      ],
+      "character": "Graham Hawtrey"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQ4OTEwNTcwN15BMl5BanBnXkFtZTgwNDU4MDgxMTE@._V1_.jpg",
+  "birth_date": "16.09.1985",
+  "birth_location": "Hampstead, London, England, UK",
+  "height": "1.78 m",
+  "filmweb_id": 182430,
+  "name_pl": "Max Minghella",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 182430
+}

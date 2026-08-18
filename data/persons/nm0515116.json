@@ -1,0 +1,59 @@
+{
+  "id": "nm0515116",
+  "name": "Blake Lively",
+  "filmography": [
+    {
+      "imdb_id": "tt0403508",
+      "title": "The Sisterhood of the Traveling Pants",
+      "year": 2005,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Bridget"
+    },
+    {
+      "imdb_id": "tt0840361",
+      "title": "The Town",
+      "year": 2010,
+      "roles": [
+        "cast"
+      ],
+      "character": "Krista Coughlin"
+    },
+    {
+      "imdb_id": "tt1133985",
+      "title": "Green Lantern",
+      "year": 2011,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Carol Ferris"
+    },
+    {
+      "imdb_id": "tt7040874",
+      "title": "A Simple Favor",
+      "year": 2018,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Emily Nelson"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTU2Njk0NTUyNl5BMl5BanBnXkFtZTcwODE0OTgyNw@@._V1_.jpg",
+  "birth_date": "25.08.1987",
+  "birth_location": "Los Angeles, California, USA",
+  "height": "1.78 m",
+  "filmweb_id": 150729,
+  "name_pl": "Blake Lively",
+  "birth_location_pl": "Los Angeles, Kalifornia",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 150729
+}

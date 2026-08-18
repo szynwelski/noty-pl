@@ -1,0 +1,103 @@
+{
+  "imdb_id": "tt0477315",
+  "title": "The Hornbacker-Murphy Fight",
+  "description": "A referee and five fans (including a waiter in his apron) look on as two young men box. The dark-haired, slightly taller boxer throws a right and the light-haired smaller one goes down; but he's up before the referee starts counting. After the knockdown, the boxers mostly hit each other's gloves. The fans, at least one of whom is sitting inside the ring, show no animation. They're all men, dressed in a range of late 19th-century garb.",
+  "runtime_minutes": 1,
+  "release_date": "02.10.1894",
+  "genres": [
+    "Short",
+    "Sport"
+  ],
+  "stars": [
+    {
+      "id": "nm2121412",
+      "name": "Eugene Hornbacker"
+    },
+    {
+      "id": "nm2551205",
+      "name": "Murphy"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0005690",
+      "name": "William K.L. Dickson"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm2121412",
+      "name": "Eugene Hornbacker",
+      "character": "Self (boxer)"
+    },
+    {
+      "id": "nm2551205",
+      "name": "Murphy",
+      "character": "Self (boxer)"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 271150,
+  "year": 1894,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOWU2MTIzMTQtNzkxYy00Yzg3LWJiN2EtZDlmMmE2YzUxOTE0XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 4.9,
+      "votes": 424,
+      "distribution": {
+        "1": 28,
+        "2": 16,
+        "3": 26,
+        "4": 82,
+        "5": 147,
+        "6": 74,
+        "7": 27,
+        "8": 7,
+        "9": 6,
+        "10": 11
+      },
+      "normalized": 4.0342
+    },
+    "filmweb": {
+      "rating": 4.84,
+      "votes": 57,
+      "distribution": {
+        "1": 2,
+        "2": 4,
+        "3": 10,
+        "4": 8,
+        "5": 15,
+        "6": 7,
+        "7": 6,
+        "8": 2,
+        "9": 1,
+        "10": 2
+      },
+      "normalized": 4.5285
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "11.12.2016",
+      "normalized": 5.6855
+    },
+    "score": 4.7494
+  },
+  "polish_title": "The Hornbacker-Murphy Fight",
+  "silent": true,
+  "description_pl": "Sędzia i pięciu fanów (łącznie z kelnerem ubranym w fartuch) oglądają dwóch walczących ze sobą bokserów. Po walce fani siadają na środku ringu, bez emocji. Wszyscy mężczyźni ubrani są w stroje z końca XIX wieku.",
+  "cinematographers": [
+    {
+      "id": "nm0374658",
+      "name": "William Heise"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

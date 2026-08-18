@@ -1,0 +1,185 @@
+{
+  "imdb_id": "tt0381681",
+  "title": "Before Sunset",
+  "description": "Nine years after Jesse and Celine first met, they encounter each other again on the French leg of Jesse's book tour.",
+  "runtime_minutes": 80,
+  "release_date": "30.07.2004",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0000160",
+      "name": "Ethan Hawke"
+    },
+    {
+      "id": "nm0000365",
+      "name": "Julie Delpy"
+    },
+    {
+      "id": "nm0229943",
+      "name": "Vernon Dobtcheff"
+    },
+    {
+      "id": "nm1195302",
+      "name": "Louise Lemoine Torrès"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000500",
+      "name": "Richard Linklater"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000500",
+      "name": "Richard Linklater"
+    },
+    {
+      "id": "nm0000365",
+      "name": "Julie Delpy"
+    },
+    {
+      "id": "nm0000160",
+      "name": "Ethan Hawke"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000160",
+      "name": "Ethan Hawke",
+      "character": "Jesse"
+    },
+    {
+      "id": "nm0000365",
+      "name": "Julie Delpy",
+      "character": "Celine"
+    },
+    {
+      "id": "nm0229943",
+      "name": "Vernon Dobtcheff",
+      "character": "Bookstore Manager"
+    },
+    {
+      "id": "nm1195302",
+      "name": "Louise Lemoine Torrès",
+      "character": "Journalist #1"
+    },
+    {
+      "id": "nm0667416",
+      "name": "Rodolphe Pauly",
+      "character": "Journalist #2"
+    },
+    {
+      "id": "nm1242048",
+      "name": "Mariane Plasteig",
+      "character": "Waitress"
+    },
+    {
+      "id": "nm1578895",
+      "name": "Diabolo",
+      "character": "Philippe"
+    },
+    {
+      "id": "nm1716305",
+      "name": "Denis Evrard",
+      "character": "Boat Attendant"
+    },
+    {
+      "id": "nm0217817",
+      "name": "Albert Delpy",
+      "character": "Man at Grill"
+    },
+    {
+      "id": "nm0683531",
+      "name": "Marie Pillet",
+      "character": "Woman in Courtyard"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "color": "Color",
+  "filmweb_id": 111405,
+  "year": 2004,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQ1MjAwNTM5Ml5BMl5BanBnXkFtZTYwNDM0MTc3._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8.1,
+      "votes": 318550,
+      "distribution": {
+        "1": 4730,
+        "2": 1864,
+        "3": 2229,
+        "4": 3475,
+        "5": 7756,
+        "6": 19353,
+        "7": 53354,
+        "8": 97248,
+        "9": 66441,
+        "10": 62100
+      },
+      "normalized": 7.7751
+    },
+    "filmweb": {
+      "rating": 7.53,
+      "votes": 41601,
+      "distribution": {
+        "1": 121,
+        "2": 110,
+        "3": 393,
+        "4": 566,
+        "5": 1620,
+        "6": 4227,
+        "7": 11504,
+        "8": 14533,
+        "9": 6098,
+        "10": 2429
+      },
+      "normalized": 6.8066
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "25.03.2006",
+      "normalized": 7.1247
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "22.11.2005",
+      "normalized": 6.3474
+    },
+    "score": 7.0134
+  },
+  "polish_title": "Przed zachodem słońca",
+  "silent": false,
+  "description_pl": "Dziewięć lat temu Jesse (<a href=\"/osoba/?id=nm0000160\">Ethan Hawke</a>) i Celine (<a href=\"/osoba/?id=nm0000365\">Julie Delpy</a>) spotkali się przez przypadek w Wiedniu. Mimo że nie znali się wcale, całą noc spędzili na rozmowach o życiu, wartościach, o rzeczach tych błahych i tych ważnych. Rozstali się tuż przed świtem, obiecując, że zobaczą się już za sześć miesięcy. Do spotkania jednak nie doszło... Teraz, po upływie tylu lat, ich drogi niespodziewanie przecinają się ponownie w Paryżu, gdzie Jesse promuje swoją najnowszą książkę. Na jednym ze spotkań dla czytelników pojawia się Celine... Oboje mają kilka godzin, by uporać się ze swoimi uczuciami, przeszłością i odpowiedzieć na trudne pytanie: Czy znaczą wciąż dla siebie tyle, co dziewięć lat temu?",
+  "producers": [
+    {
+      "id": "nm0183397",
+      "name": "Isabelle Coulet"
+    },
+    {
+      "id": "nm0806189",
+      "name": "John Sloss"
+    },
+    {
+      "id": "nm0908323",
+      "name": "Anne Walker-McBay"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0199679",
+      "name": "Lee Daniel"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

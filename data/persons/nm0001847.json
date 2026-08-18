@@ -1,0 +1,40 @@
+{
+  "id": "nm0001847",
+  "name": "Richard Widmark",
+  "filmography": [
+    {
+      "imdb_id": "tt0055031",
+      "title": "Judgment at Nuremberg",
+      "year": 1961,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Col. Tad Lawson"
+    },
+    {
+      "imdb_id": "tt0071877",
+      "title": "Murder on the Orient Express",
+      "year": 1974,
+      "roles": [
+        "cast"
+      ],
+      "character": "Ratchett"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTU0MjgwODQ3M15BMl5BanBnXkFtZTcwMjIxMjUyNA@@._V1_.jpg",
+  "birth_date": "26.12.1914",
+  "death_date": "24.03.2008",
+  "birth_location": "Sunrise Township, Chisago County, Minnesota, USA",
+  "height": "1.78 m",
+  "imdb_scraped": true,
+  "filmweb_id": 43965,
+  "name_pl": "Richard Widmark",
+  "birth_location_pl": "Sunrise, Minnesota",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 43965
+}

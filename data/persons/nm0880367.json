@@ -1,0 +1,47 @@
+{
+  "id": "nm0880367",
+  "name": "Ana Ularu",
+  "filmography": [
+    {
+      "imdb_id": "tt2436344",
+      "title": "A Very Unsettled Summer",
+      "year": 2013,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Maria"
+    },
+    {
+      "imdb_id": "tt3062096",
+      "title": "Inferno",
+      "year": 2016,
+      "roles": [
+        "cast"
+      ],
+      "character": "Vayentha"
+    },
+    {
+      "imdb_id": "tt7128066",
+      "title": "Charleston",
+      "year": 2017,
+      "roles": [
+        "cast"
+      ],
+      "character": "Ioana"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDU5NGJhMTktNDBmYS00ZWQ3LTgyNTUtODQwMzlmZmM5MDk5XkEyXkFqcGc@._V1_.jpg",
+  "birth_location": "Bucharest, Romania",
+  "height": "1.64 m",
+  "imdb_scraped": true,
+  "filmweb_id": 549850,
+  "name_pl": "Ana Ularu",
+  "birth_location_pl": "Bukareszt",
+  "gender": "F",
+  "wikidata_processed": true,
+  "birth_date": "26.06.1985",
+  "nationality": [
+    "Rumunia"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "nm0180257",
+  "name": "John Cornell",
+  "filmography": [
+    {
+      "imdb_id": "tt0090555",
+      "title": "Crocodile Dundee",
+      "year": 1986,
+      "roles": [
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0092493",
+      "title": "Crocodile Dundee II",
+      "year": 1988,
+      "roles": [
+        "director",
+        "producer"
+      ]
+    }
+  ],
+  "birth_date": "02.03.1941",
+  "death_date": "23.07.2021",
+  "birth_location": "Kalgoorlie, Western Australia, Australia",
+  "imdb_scraped": true,
+  "filmweb_id": 48692,
+  "name_pl": "John Cornell",
+  "birth_location_pl": "Kalgoorlie",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Australia"
+  ]
+}

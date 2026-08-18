@@ -1,0 +1,285 @@
+{
+  "imdb_id": "tt4986098",
+  "title": "The Titan",
+  "description": "A military family takes part in a ground-breaking experiment of genetic evolution and space exploration.",
+  "runtime_minutes": 97,
+  "release_date": "30.03.2018",
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Romance",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0941777",
+      "name": "Sam Worthington"
+    },
+    {
+      "id": "nm2279940",
+      "name": "Taylor Schilling"
+    },
+    {
+      "id": "nm0929489",
+      "name": "Tom Wilkinson"
+    },
+    {
+      "id": "nm2936228",
+      "name": "Agyness Deyn"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm2569510",
+      "name": "Lennart Ruff"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm2750446",
+      "name": "Max Hurwitz"
+    },
+    {
+      "id": "nm3885069",
+      "name": "Arash Amel"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0941777",
+      "name": "Sam Worthington",
+      "character": "Lt. Rick Janssen"
+    },
+    {
+      "id": "nm2279940",
+      "name": "Taylor Schilling",
+      "character": "Dr. Abi Janssen"
+    },
+    {
+      "id": "nm0929489",
+      "name": "Tom Wilkinson",
+      "character": "Prof. Martin Collingwood"
+    },
+    {
+      "id": "nm2936228",
+      "name": "Agyness Deyn",
+      "character": "Dr. Freya Upton"
+    },
+    {
+      "id": "nm2812026",
+      "name": "Nathalie Emmanuel",
+      "character": "W.O. Tally Rutherford"
+    },
+    {
+      "id": "nm7415871",
+      "name": "Noah Jupe",
+      "character": "Lucas Janssen"
+    },
+    {
+      "id": "nm0424819",
+      "name": "Corey Johnson",
+      "character": "Cl. Jim Peterson"
+    },
+    {
+      "id": "nm0431235",
+      "name": "Aleksandar Jovanovic",
+      "character": "Sgt. Anton Werner"
+    },
+    {
+      "id": "nm1546300",
+      "name": "Diego Boneta",
+      "character": "Dr. Luis Hernandez"
+    },
+    {
+      "id": "nm3077149",
+      "name": "Aaron Heffernan",
+      "character": "Cpl. Zane Gorski"
+    },
+    {
+      "id": "nm1246448",
+      "name": "Alex Lanipekun",
+      "character": "Andrew Rutherford"
+    },
+    {
+      "id": "nm3117921",
+      "name": "Naomi Battrick",
+      "character": "Rayenne Gorski"
+    },
+    {
+      "id": "nm2189243",
+      "name": "Steven Cree",
+      "character": "Mjr. Timothy Pike"
+    },
+    {
+      "id": "nm1208191",
+      "name": "Nathalie Poza",
+      "character": "Cpt. Vita Ramos"
+    },
+    {
+      "id": "nm0308289",
+      "name": "Francesc Garrido",
+      "character": "Colonel Solano"
+    },
+    {
+      "id": "nm4964567",
+      "name": "Kyle Soller",
+      "character": "Dr. Elliot Blake"
+    },
+    {
+      "id": "nm3198781",
+      "name": "Ben Aldridge",
+      "character": "Lawrence"
+    },
+    {
+      "id": "nm0758687",
+      "name": "Gustavo Salmerón",
+      "character": "Felipe Ramos"
+    }
+  ],
+  "countries": [
+    "United Kingdom",
+    "Spain",
+    "United States",
+    "Germany"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 755619,
+  "year": 2018,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjE4NDc5MDU2NV5BMl5BanBnXkFtZTgwNDI1ODEyNTM@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 4.8,
+      "votes": 35556,
+      "distribution": {
+        "1": 2490,
+        "2": 2274,
+        "3": 3777,
+        "4": 5913,
+        "5": 8602,
+        "6": 6734,
+        "7": 3203,
+        "8": 1252,
+        "9": 421,
+        "10": 890
+      },
+      "normalized": 2.0578
+    },
+    "filmweb": {
+      "rating": 4.69,
+      "votes": 14780,
+      "distribution": {
+        "1": 283,
+        "2": 689,
+        "3": 2424,
+        "4": 3155,
+        "5": 4029,
+        "6": 2539,
+        "7": 1130,
+        "8": 354,
+        "9": 79,
+        "10": 98
+      },
+      "normalized": 1.6803
+    },
+    "jarek": {
+      "rating": 2,
+      "date_rated": "09.04.2018",
+      "normalized": 3.5003
+    },
+    "score": 2.4128
+  },
+  "polish_title": "The Titan",
+  "silent": false,
+  "producers": [
+    {
+      "id": "nm1989734",
+      "name": "Rory Aitken"
+    },
+    {
+      "id": "nm3885069",
+      "name": "Arash Amel"
+    },
+    {
+      "id": "nm1757754",
+      "name": "Fred Berger"
+    },
+    {
+      "id": "nm1291566",
+      "name": "Nicolas Chartier"
+    },
+    {
+      "id": "nm1983985",
+      "name": "Leon Clarance"
+    },
+    {
+      "id": "nm2371249",
+      "name": "Jonathan Deckter"
+    },
+    {
+      "id": "nm2541742",
+      "name": "Adrián Guerra"
+    },
+    {
+      "id": "nm6866766",
+      "name": "Joshua Horsfield"
+    },
+    {
+      "id": "nm2750446",
+      "name": "Max Hurwitz"
+    },
+    {
+      "id": "nm2271939",
+      "name": "Brian Kavanaugh-Jones"
+    },
+    {
+      "id": "nm7403611",
+      "name": "Jo Monk"
+    },
+    {
+      "id": "nm0637013",
+      "name": "Toni Novella"
+    },
+    {
+      "id": "nm1532744",
+      "name": "Ben Pugh"
+    },
+    {
+      "id": "nm1396369",
+      "name": "Michael Reuter"
+    },
+    {
+      "id": "nm3046500",
+      "name": "Jimmy Star"
+    },
+    {
+      "id": "nm5453588",
+      "name": "Olive Uniacke"
+    },
+    {
+      "id": "nm3641120",
+      "name": "Núria Valls"
+    },
+    {
+      "id": "nm4299913",
+      "name": "Laure Vaysse"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm1135983",
+      "name": "Fil Eisler"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm3152167",
+      "name": "Jan-Marcello Kahl"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

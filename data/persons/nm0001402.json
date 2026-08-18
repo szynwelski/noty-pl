@@ -1,0 +1,61 @@
+{
+  "id": "nm0001402",
+  "name": "Terry Jones",
+  "filmography": [
+    {
+      "imdb_id": "tt0066765",
+      "title": "Monty Python's and Now for Something Completely Different",
+      "year": 1971,
+      "roles": [
+        "cast"
+      ],
+      "character": "Stage Manager"
+    },
+    {
+      "imdb_id": "tt0071853",
+      "title": "Monty Python and the Holy Grail",
+      "year": 1975,
+      "roles": [
+        "director",
+        "cast"
+      ],
+      "character": "Dennis's Mother"
+    },
+    {
+      "imdb_id": "tt0079470",
+      "title": "Monty Python's Life of Brian",
+      "year": 1979,
+      "roles": [
+        "director",
+        "cast"
+      ],
+      "character": "Mandy Cohen"
+    },
+    {
+      "imdb_id": "tt0085959",
+      "title": "Monty Python's the Meaning of Life",
+      "year": 1983,
+      "roles": [
+        "director",
+        "star",
+        "cast"
+      ],
+      "character": "Bert"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjlhMzRjYzYtYmM1ZC00NTBhLWI4ZjgtYjI1MTg3OWZlMTA1XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "01.02.1942",
+  "death_date": "21.01.2020",
+  "birth_location": "Colwyn Bay, Wales, UK",
+  "height": "1.73 m",
+  "filmweb_id": 8473,
+  "name_pl": "Terry Jones",
+  "birth_location_pl": "Colwyn Bay, Walia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 8473
+}

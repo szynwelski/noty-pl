@@ -1,0 +1,31 @@
+{
+  "id": "nm0000009",
+  "name": "Richard Burton",
+  "filmography": [
+    {
+      "imdb_id": "tt0061184",
+      "title": "Who's Afraid of Virginia Woolf?",
+      "year": 1966,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "George"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZTg2MWQ2YjctYTEwZC00OTAyLWI2YmYtMTgwOTM1NTZlY2UyXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 41551,
+  "birth_date": "10.11.1925",
+  "death_date": "05.08.1984",
+  "birth_location": "Pontrhydyfen, Wales, UK",
+  "height": "1.77 m",
+  "imdb_scraped": true,
+  "name_pl": "Richard Burton",
+  "birth_location_pl": "Pontrydyfen, Walia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania",
+    "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii"
+  ]
+}

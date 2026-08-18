@@ -1,0 +1,59 @@
+{
+  "id": "nm0428065",
+  "name": "Felicity Jones",
+  "filmography": [
+    {
+      "imdb_id": "tt1872181",
+      "title": "The Amazing Spider-Man 2",
+      "year": 2014,
+      "roles": [
+        "cast"
+      ],
+      "character": "Felicia"
+    },
+    {
+      "imdb_id": "tt2980516",
+      "title": "The Theory of Everything",
+      "year": 2014,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Jane Hawking"
+    },
+    {
+      "imdb_id": "tt3062096",
+      "title": "Inferno",
+      "year": 2016,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Sienna Brooks"
+    },
+    {
+      "imdb_id": "tt3748528",
+      "title": "Rogue One: A Star Wars Story",
+      "year": 2016,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Jyn Erso"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjA0MTIwMzIyN15BMl5BanBnXkFtZTgwNDEyMzg1NDE@._V1_.jpg",
+  "birth_date": "17.10.1983",
+  "birth_location": "Birmingham, West Midlands, England, UK",
+  "height": "1.60 m",
+  "filmweb_id": 193204,
+  "name_pl": "Felicity Jones",
+  "birth_location_pl": "Birmingham, Anglia",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 193204
+}

@@ -1,0 +1,83 @@
+{
+  "imdb_id": "tt3155794",
+  "title": "Passage of Venus",
+  "description": "Early chronophotography of the 1874 Venus transit, captured by Jules Janssen in Japan using his \"photographic revolver\" for scientific research.",
+  "runtime_minutes": 1,
+  "release_date": "09.12.1874",
+  "genres": [
+    "Documentary",
+    "Short",
+    "History"
+  ],
+  "directors": [
+    {
+      "id": "nm1715062",
+      "name": "P.J.C. Janssen"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "year": 1874,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMmUxZjdjZDAtZTAwNy00NmRkLTg5ZmQtNzkwMWE5NGJhODg3XkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Passage de Vénus",
+  "filmweb_id": 701519,
+  "ratings": {
+    "imdb": {
+      "rating": 6.8,
+      "votes": 2622,
+      "distribution": {
+        "1": 106,
+        "2": 60,
+        "3": 44,
+        "4": 98,
+        "5": 296,
+        "6": 526,
+        "7": 614,
+        "8": 257,
+        "9": 110,
+        "10": 511
+      },
+      "normalized": 5.1885
+    },
+    "filmweb": {
+      "rating": 5.65,
+      "votes": 173,
+      "distribution": {
+        "1": 13,
+        "2": 9,
+        "3": 19,
+        "4": 13,
+        "5": 30,
+        "6": 32,
+        "7": 13,
+        "8": 16,
+        "9": 4,
+        "10": 24
+      },
+      "normalized": 4.3136
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "11.12.2016",
+      "normalized": 7.1247
+    },
+    "score": 5.5423
+  },
+  "polish_title": "Passage de Venus",
+  "silent": true,
+  "cinematographers": [
+    {
+      "id": "nm1715062",
+      "name": "P.J.C. Janssen"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

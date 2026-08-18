@@ -1,0 +1,224 @@
+{
+  "imdb_id": "tt0119267",
+  "title": "Heart of Fire",
+  "description": "A firefighter helps a child trapped under a truck.",
+  "runtime_minutes": 86,
+  "release_date": "07.01.1997",
+  "genres": [
+    "Action",
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0001155",
+      "name": "Patrick Duffy"
+    },
+    {
+      "id": "nm0414646",
+      "name": "Steve Jacobs"
+    },
+    {
+      "id": "nm0934569",
+      "name": "Troy Winbush"
+    },
+    {
+      "id": "nm0035788",
+      "name": "Kerry Armstrong"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0694411",
+      "name": "John Power"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0748216",
+      "name": "George Rubino"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0001155",
+      "name": "Patrick Duffy",
+      "character": "Max Tucker"
+    },
+    {
+      "id": "nm0414646",
+      "name": "Steve Jacobs",
+      "character": "Fire Captain"
+    },
+    {
+      "id": "nm0934569",
+      "name": "Troy Winbush",
+      "character": "Thorsen"
+    },
+    {
+      "id": "nm0035788",
+      "name": "Kerry Armstrong",
+      "character": "Sue Tucker"
+    },
+    {
+      "id": "nm0810456",
+      "name": "Joy Smithers",
+      "character": "Julie Stoler"
+    },
+    {
+      "id": "nm0571327",
+      "name": "Alex McKenna",
+      "character": "Katy Stoler"
+    },
+    {
+      "id": "nm0532374",
+      "name": "Gerard Maguire",
+      "character": "Scott Dodd"
+    },
+    {
+      "id": "nm0570889",
+      "name": "Andrew McKaige",
+      "character": "Grady Robinson"
+    },
+    {
+      "id": "nm0386015",
+      "name": "Phillip Hinton",
+      "character": "Danny Armstrong"
+    },
+    {
+      "id": "nm0498568",
+      "name": "Stephen Leeder",
+      "character": "Brian Henderson"
+    },
+    {
+      "id": "nm0461694",
+      "name": "Kim Knuckey",
+      "character": "Jim Santiago"
+    },
+    {
+      "id": "nm0420758",
+      "name": "Alarna Jenkins",
+      "character": "Laurie Tucker"
+    },
+    {
+      "id": "nm0754284",
+      "name": "Natasha Saakas",
+      "character": "Chrissie Tucker"
+    },
+    {
+      "id": "nm0525686",
+      "name": "Melissa Anne Lukin",
+      "character": "Carrie"
+    },
+    {
+      "id": "nm0400680",
+      "name": "Jenny Hughes",
+      "character": "Jenna"
+    },
+    {
+      "id": "nm0541107",
+      "name": "Enrico Mammarella",
+      "character": "Officer Copanas"
+    },
+    {
+      "id": "nm0916078",
+      "name": "David Webb",
+      "character": "Fireman Ryan"
+    },
+    {
+      "id": "nm0249768",
+      "name": "Michael Edward-Stevens",
+      "character": "Chief Abernathy"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 35962,
+  "year": 1997,
+  "type": "tvMovie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMGNiMDdmZmUtNGJjMC00NjdhLWIxOWUtZWI2YmI2ZDdjMjJmXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.7,
+      "votes": 208,
+      "distribution": {
+        "1": 11,
+        "2": 11,
+        "3": 12,
+        "4": 16,
+        "5": 27,
+        "6": 22,
+        "7": 20,
+        "8": 24,
+        "9": 12,
+        "10": 53
+      },
+      "normalized": 4.804
+    },
+    "filmweb": {
+      "rating": 7.0,
+      "votes": 231,
+      "distribution": {
+        "1": 1,
+        "2": 0,
+        "3": 9,
+        "4": 9,
+        "5": 12,
+        "6": 41,
+        "7": 77,
+        "8": 52,
+        "9": 7,
+        "10": 23
+      },
+      "normalized": 5.3609
+    },
+    "michal": {
+      "rating": 2,
+      "date_rated": "01.11.2006",
+      "normalized": 3.1556
+    },
+    "score": 4.4402
+  },
+  "polish_title": "Zarzewie ognia",
+  "silent": false,
+  "description_pl": "Oparta na faktach historia wielkiej akcji ratunkowej na autostradzie. W samochodzie przygniecionym przez cysternę uwięziona została wówczas dwunastoletnia dziewczynka, którą uratował - narażając własne życie - bohaterski strażak Max Tucker. Historię tę relacjonował program Real TV...",
+  "producers": [
+    {
+      "id": "nm0482175",
+      "name": "Michael Lake"
+    },
+    {
+      "id": "nm0587477",
+      "name": "Jim Milio"
+    },
+    {
+      "id": "nm0642195",
+      "name": "Jean O'Neill"
+    },
+    {
+      "id": "nm0788461",
+      "name": "Arnold Shapiro"
+    },
+    {
+      "id": "nm0918495",
+      "name": "Ronnie Weinstock"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0003392",
+      "name": "George S. Clinton"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0123363",
+      "name": "Dan Burstall"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

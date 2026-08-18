@@ -1,0 +1,100 @@
+{
+  "imdb_id": "tt2049439",
+  "title": "The Last Song Before the War",
+  "description": "The story of the most remote music festival in the world, Festival Au Desert, and the battle to make it happen.",
+  "runtime_minutes": 74,
+  "release_date": "21.04.2013",
+  "genres": [
+    "Documentary",
+    "Adventure",
+    "Music"
+  ],
+  "directors": [
+    {
+      "id": "nm4620563",
+      "name": "Kiley Kraskouskas"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "United States",
+    "Mali"
+  ],
+  "languages": [
+    "French",
+    "Tamashek",
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 734444,
+  "year": 2013,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOTkxNjI1MTA5N15BMl5BanBnXkFtZTgwMTUxODI0NDE@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.8,
+      "votes": 20,
+      "distribution": {
+        "1": 3,
+        "2": 1,
+        "3": 0,
+        "4": 2,
+        "5": 2,
+        "6": 1,
+        "7": 5,
+        "8": 4,
+        "9": 0,
+        "10": 2
+      },
+      "normalized": 5.3031
+    },
+    "filmweb": {
+      "rating": 5.0,
+      "votes": 3,
+      "distribution": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 1,
+        "7": 0,
+        "8": 1,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 5.1645
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "22.12.2018",
+      "normalized": 4.9718
+    },
+    "score": 5.1465
+  },
+  "polish_title": "Ostatnia piosenka przed wojną",
+  "silent": false,
+  "description_pl": "Wielokrotnie nagradzany dokument o najbardziej oddalonym festiwalu na świecie i corocznej walce o to, by się odbył. Od 2001 roku, na północy Mali, dwie godziny drogi od Timbuktu, na środku pustyni, w oazie Essakane, odbywał się Festival au Desert. To szczególne wydarzenie było symbolem pokoju pomiędzy Malijczykami a koczowniczymi Tuaregami. Co roku organizatorzy, muzycy oraz goście przybywali samolotami, terenowymi samochodami, motorami oraz na wielbłądach. Podczas trzech dni imprezy, na dużej scenie występowało ponad 30 grup z całego świata. Na całym terenie festiwalu odbywały się też inne imprezy, czytana była poezja, organizowane były spotkania, których tematem była kultura, sztuka i polityka. Spotykali się ludzie, którzy na co dzień oddaleni są od siebie o setki kilometrów. Na Festiwalu pojawiali się m.in. Amadou & Mariam, Bono, Leni Stern, Manu Chao. \"To niesamowite miejsce. Nie ma tam drzwi ani bramek, niepotrzebne są pieniądze\" - tak mówił o festiwalu Robert Plant w 2003 roku. Po 12 latach sukcesów, odkąd separatyści z ludu Tuaregów oraz islamscy bojownicy przejęli kontrolę nad północnym regionem Mali, pustynny festiwal został zawieszony.",
+  "producers": [
+    {
+      "id": "nm4110567",
+      "name": "Leola Calzolai-Stewart"
+    },
+    {
+      "id": "nm4620563",
+      "name": "Kiley Kraskouskas"
+    },
+    {
+      "id": "nm4620450",
+      "name": "Andrea Papitto"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0408683",
+      "name": "Jonathan Ingalls"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

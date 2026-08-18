@@ -1,0 +1,76 @@
+{
+  "imdb_id": "tt3508566",
+  "title": "La vague",
+  "description": "In this early film experiment a wave crashes against a jagged rock.",
+  "runtime_minutes": 1,
+  "release_date": "15.11.1891",
+  "genres": [
+    "Short"
+  ],
+  "directors": [
+    {
+      "id": "nm4620889",
+      "name": "Étienne-Jules Marey"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 712885,
+  "year": 1891,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZTU5YWU1YTMtOGE2MC00ODNmLTllMWMtZmVjZjI4MDBlNzdkXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5,
+      "votes": 611,
+      "distribution": {
+        "1": 34,
+        "2": 38,
+        "3": 36,
+        "4": 94,
+        "5": 189,
+        "6": 106,
+        "7": 52,
+        "8": 21,
+        "9": 5,
+        "10": 36
+      },
+      "normalized": 3.8418
+    },
+    "filmweb": {
+      "rating": 4.82,
+      "votes": 67,
+      "distribution": {
+        "1": 6,
+        "2": 6,
+        "3": 9,
+        "4": 6,
+        "5": 15,
+        "6": 12,
+        "7": 5,
+        "8": 3,
+        "9": 2,
+        "10": 3
+      },
+      "normalized": 4.4391
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "11.12.2016",
+      "normalized": 7.1247
+    },
+    "score": 5.1352
+  },
+  "polish_title": "La vague",
+  "silent": true,
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-16"
+}

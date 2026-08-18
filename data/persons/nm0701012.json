@@ -1,0 +1,70 @@
+{
+  "id": "nm0701012",
+  "name": "Edna Purviance",
+  "filmography": [
+    {
+      "imdb_id": "tt0006177",
+      "title": "The Tramp",
+      "year": 1915,
+      "roles": [
+        "cast"
+      ],
+      "character": "Farmer's Daughter"
+    },
+    {
+      "imdb_id": "tt0007264",
+      "title": "The Rink",
+      "year": 1916,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "The Girl"
+    },
+    {
+      "imdb_id": "tt0007880",
+      "title": "Easy Street",
+      "year": 1917,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "The Mission Worker"
+    },
+    {
+      "imdb_id": "tt0008133",
+      "title": "The Immigrant",
+      "year": 1917,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Immigrant"
+    },
+    {
+      "imdb_id": "tt0012349",
+      "title": "The Kid",
+      "year": 1921,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "The Woman"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTgzMTI2MTcwNV5BMl5BanBnXkFtZTcwMjY4NjYxOA@@._V1_.jpg",
+  "birth_date": "21.10.1895",
+  "death_date": "11.01.1958",
+  "birth_location": "Paradise, Nevada, USA",
+  "height": "1.57 m",
+  "filmweb_id": 57338,
+  "name_pl": "Edna Purviance",
+  "birth_location_pl": "Paradise, Nevada",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 57338
+}

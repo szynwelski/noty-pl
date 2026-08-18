@@ -1,0 +1,81 @@
+{
+  "imdb_id": "tt1321417",
+  "title": "Life Guards and Princes North of St Paul's",
+  "description": "",
+  "runtime_minutes": 1,
+  "release_date": "1897",
+  "genres": [
+    "Documentary",
+    "Short"
+  ],
+  "directors": [
+    {
+      "id": "nm0666972",
+      "name": "Robert W. Paul"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 758023,
+  "year": 1897,
+  "type": "short",
+  "image_url": null,
+  "ratings": {
+    "imdb": {
+      "rating": 3.9,
+      "votes": 94,
+      "distribution": {
+        "1": 21,
+        "2": 8,
+        "3": 11,
+        "4": 16,
+        "5": 20,
+        "6": 8,
+        "7": 4,
+        "8": 2,
+        "9": 1,
+        "10": 3
+      },
+      "normalized": 4.7276
+    },
+    "filmweb": {
+      "rating": 3.17,
+      "votes": 6,
+      "distribution": {
+        "1": 2,
+        "2": 0,
+        "3": 2,
+        "4": 0,
+        "5": 1,
+        "6": 1,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 4.9896
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "11.12.2016",
+      "normalized": 4.9718
+    },
+    "score": 4.8963
+  },
+  "polish_title": "Life Guards and Princes North of St Paul's",
+  "silent": true,
+  "cinematographers": [
+    {
+      "id": "nm0666972",
+      "name": "Robert W. Paul"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,183 @@
+{
+  "imdb_id": "tt2402579",
+  "title": "Kafka's the Burrow",
+  "description": "The story of a man in his prime who, having seemingly achieved everything, has entrenched himself in his burrow, a fortress-like apartment complex. But no matter how hard he tries to ignore it, there it is: the world outside.",
+  "runtime_minutes": 110,
+  "release_date": "09.07.2015",
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm1640351",
+      "name": "Kristina Klebe"
+    },
+    {
+      "id": "nm0496441",
+      "name": "Erwin Leder"
+    },
+    {
+      "id": "nm0834479",
+      "name": "Devid Striesow"
+    },
+    {
+      "id": "nm0821177",
+      "name": "Robert Stadlober"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0293770",
+      "name": "Jochen Alexander Freydank"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0293770",
+      "name": "Jochen Alexander Freydank"
+    },
+    {
+      "id": "nm0434525",
+      "name": "Franz Kafka"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1640351",
+      "name": "Kristina Klebe",
+      "character": "Frau von Franz"
+    },
+    {
+      "id": "nm0496441",
+      "name": "Erwin Leder",
+      "character": "Penner"
+    },
+    {
+      "id": "nm0834479",
+      "name": "Devid Striesow",
+      "character": ""
+    },
+    {
+      "id": "nm0821177",
+      "name": "Robert Stadlober",
+      "character": "Wachmann"
+    },
+    {
+      "id": "nm0352780",
+      "name": "Josef Hader",
+      "character": "Hausmeister"
+    },
+    {
+      "id": "nm0695127",
+      "name": "Axel Prahl",
+      "character": "Franz"
+    },
+    {
+      "id": "nm1597296",
+      "name": "Mirjam Novak",
+      "character": "Kellnerin"
+    },
+    {
+      "id": "nm0927652",
+      "name": "Roeland Wiesnekker",
+      "character": ""
+    },
+    {
+      "id": "nm0584274",
+      "name": "Torsten Michaelis",
+      "character": "Möbelpacker"
+    },
+    {
+      "id": "nm0744850",
+      "name": "Fritz Roth",
+      "character": ""
+    },
+    {
+      "id": "nm0374651",
+      "name": "Reiner Heise",
+      "character": "Chef"
+    },
+    {
+      "id": "nm2144637",
+      "name": "Claudia Hübschmann",
+      "character": "Sekretärin"
+    },
+    {
+      "id": "nm0470963",
+      "name": "Gabriele Krestan",
+      "character": "Ältere Dame"
+    }
+  ],
+  "countries": [
+    "Germany"
+  ],
+  "languages": [
+    "German"
+  ],
+  "color": "Color",
+  "filmweb_id": 682752,
+  "year": 2014,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODUzOTI5ODEwNV5BMl5BanBnXkFtZTgwMDAyNzYxODE@._V1_.jpg",
+  "original_title": "Kafkas Der Bau",
+  "ratings": {
+    "imdb": {
+      "rating": 5.3,
+      "votes": 185,
+      "distribution": {
+        "1": 20,
+        "2": 11,
+        "3": 15,
+        "4": 23,
+        "5": 22,
+        "6": 30,
+        "7": 20,
+        "8": 14,
+        "9": 7,
+        "10": 23
+      },
+      "normalized": 4.7484
+    },
+    "filmweb": {
+      "rating": 5.98,
+      "votes": 51,
+      "distribution": {
+        "1": 3,
+        "2": 0,
+        "3": 4,
+        "4": 5,
+        "5": 4,
+        "6": 11,
+        "7": 12,
+        "8": 8,
+        "9": 4,
+        "10": 0
+      },
+      "normalized": 4.8704
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "22.12.2018",
+      "normalized": 5.6855
+    },
+    "score": 5.1014
+  },
+  "polish_title": "Kafka - Schron",
+  "silent": false,
+  "description_pl": "Franz jest po czterdziestce. Jest człowiekiem sukcesu, więc może pozwolić sobie na mieszkanie w apartamentowcu. Tu czuje się komfortowo, a przede wszystkim bezpiecznie. Jego dom to prawdziwa twierdza. Pewnego dnia odkrywa, że nie jest tu jednak całkiem sam i po raz pierwszy czuje się zagrożony. Zaczyna zwalniać się z pracy, by obserwować budynek z zewnątrz. To staje się jego obsesją i wyczerpuje go fizycznie i psychicznie. Wkrótce traci pracę, a rodzina gdzieś znika. Zdesperowany Franz wraca do domu, by odnaleźć intruza. Odcina zasilanie oraz wodę i wszystko pogrąża się w chaosie. A jego tajemniczy prześladowca zbliża się i wkrótce staną twarzą w twarz.",
+  "composers": [
+    {
+      "id": "nm0646219",
+      "name": "Rainer Oleak"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0921258",
+      "name": "Egon Werdin"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

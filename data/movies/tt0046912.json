@@ -1,0 +1,209 @@
+{
+  "imdb_id": "tt0046912",
+  "title": "Dial M for Murder",
+  "description": "A jealous former tennis player plots the perfect murder of his wealthy wife in their London flat, triggering a tense trap of betrayal and evidence.",
+  "runtime_minutes": 105,
+  "release_date": "29.05.1954",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0001537",
+      "name": "Ray Milland"
+    },
+    {
+      "id": "nm0000038",
+      "name": "Grace Kelly"
+    },
+    {
+      "id": "nm0191950",
+      "name": "Robert Cummings"
+    },
+    {
+      "id": "nm0002369",
+      "name": "John Williams"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000033",
+      "name": "Alfred Hitchcock"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0461425",
+      "name": "Frederick Knott"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0001537",
+      "name": "Ray Milland",
+      "character": "Tony Wendice"
+    },
+    {
+      "id": "nm0000038",
+      "name": "Grace Kelly",
+      "character": "Margot Wendice"
+    },
+    {
+      "id": "nm0191950",
+      "name": "Robert Cummings",
+      "character": "Mark Halliday"
+    },
+    {
+      "id": "nm0002369",
+      "name": "John Williams",
+      "character": "Chief Inspector Hubbard"
+    },
+    {
+      "id": "nm0206060",
+      "name": "Anthony Dawson",
+      "character": "Charles Swann"
+    },
+    {
+      "id": "nm0110063",
+      "name": "Leo Britt",
+      "character": "The Storyteller"
+    },
+    {
+      "id": "nm0019996",
+      "name": "Patrick Allen",
+      "character": "Detective Pearson"
+    },
+    {
+      "id": "nm0500216",
+      "name": "George Leigh",
+      "character": "Detective Williams"
+    },
+    {
+      "id": "nm0017579",
+      "name": "George Alderson",
+      "character": "First Detective"
+    },
+    {
+      "id": "nm0400902",
+      "name": "Robin Hughes",
+      "character": "Police Sergeant O'Brien"
+    },
+    {
+      "id": "nm0070507",
+      "name": "Richard Bender",
+      "character": "Banquet Member"
+    },
+    {
+      "id": "nm0164437",
+      "name": "Robin Sanders Clark",
+      "character": "Detective"
+    },
+    {
+      "id": "nm0192326",
+      "name": "Jack Cunningham",
+      "character": "Bobby Outside Flat"
+    },
+    {
+      "id": "nm0229933",
+      "name": "Robert Dobson",
+      "character": "Police Photographer"
+    },
+    {
+      "id": "nm0230934",
+      "name": "Guy Doleman",
+      "character": "Detective"
+    },
+    {
+      "id": "nm0283170",
+      "name": "Bess Flowers",
+      "character": "Woman Departing Ship"
+    },
+    {
+      "id": "nm0308816",
+      "name": "Robert Garvin",
+      "character": "Banquet Member"
+    },
+    {
+      "id": "nm0334076",
+      "name": "Herschel Graham",
+      "character": "Banquet Member"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 7474,
+  "year": 1954,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZmYzNDgzYjgtNmU3Ny00YzUxLWE3OWUtMjIxZmNkYTVhNDZmXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8.1,
+      "votes": 206381,
+      "distribution": {
+        "1": 1757,
+        "2": 671,
+        "3": 830,
+        "4": 1282,
+        "5": 3359,
+        "6": 9133,
+        "7": 34301,
+        "8": 77418,
+        "9": 48774,
+        "10": 28856
+      },
+      "normalized": 7.7352
+    },
+    "filmweb": {
+      "rating": 7.89,
+      "votes": 20183,
+      "distribution": {
+        "1": 67,
+        "2": 22,
+        "3": 38,
+        "4": 100,
+        "5": 293,
+        "6": 1081,
+        "7": 4531,
+        "8": 8829,
+        "9": 3891,
+        "10": 1331
+      },
+      "normalized": 7.9782
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "27.07.2012",
+      "normalized": 6.4102
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "12.10.2015",
+      "normalized": 6.3474
+    },
+    "score": 7.1178
+  },
+  "polish_title": "M jak morderstwo",
+  "silent": false,
+  "description_pl": "Tony Wendice (Ray Milland) odkrywa zdradę swojej żony. Wynajmuje i szantażuje swojego dawnego kolegę. Ten w czasie napaści na Margot Wendice (<a href=\"/osoba/?id=nm0000038\">Grace Kelly</a>) sam zostaje zamordowany, a biedna Margot oskarżona o zabójstwo i aresztowana. Jej kochanek (<a href=\"/osoba/?id=nm0191950\">Robert Cummings</a>) i detektyw muszą znaleźć na czas \"klucz\" do rozwiązania sprawy.",
+  "composers": [
+    {
+      "id": "nm0006323",
+      "name": "Dimitri Tiomkin"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0122079",
+      "name": "Robert Burks"
+    }
+  ],
+  "fetched_at": "2026-08-15"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "nm0723827",
+  "name": "Jean-Louis Richard",
+  "filmography": [
+    {
+      "imdb_id": "tt0055032",
+      "title": "Jules and Jim",
+      "year": 1962,
+      "roles": [
+        "cast"
+      ],
+      "character": "Cliente au Cafe'"
+    },
+    {
+      "imdb_id": "tt0060390",
+      "title": "Fahrenheit 451",
+      "year": 1966,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0080610",
+      "title": "The Last Metro",
+      "year": 1980,
+      "roles": [
+        "cast"
+      ],
+      "character": "Daxiat"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDhmZmI3M2YtZWNiNy00MGRiLTljMjctOGZhYjA1ZTVkZTdmXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "17.05.1927",
+  "death_date": "03.06.2012",
+  "birth_location": "Paris, France",
+  "filmweb_id": 31842,
+  "name_pl": "Jean-Louis Richard",
+  "birth_location_pl": "Paryż",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja"
+  ]
+}

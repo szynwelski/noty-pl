@@ -1,0 +1,40 @@
+{
+  "id": "nm0006890",
+  "name": "Paul Scofield",
+  "filmography": [
+    {
+      "imdb_id": "tt0110932",
+      "title": "Quiz Show",
+      "year": 1994,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Mark Van Doren"
+    },
+    {
+      "imdb_id": "tt0204824",
+      "title": "Animal Farm",
+      "year": 1999,
+      "roles": [
+        "cast"
+      ],
+      "character": "Boxer"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjA1ODg0NjA0OF5BMl5BanBnXkFtZTcwNzA5ODM2MQ@@._V1_.jpg",
+  "birth_date": "21.01.1922",
+  "death_date": "19.03.2008",
+  "birth_location": "Edgbaston, Birmingham, England, UK",
+  "height": "1.88 m",
+  "imdb_scraped": true,
+  "filmweb_id": 7881,
+  "name_pl": "Paul Scofield",
+  "birth_location_pl": "Hurstpierpoint, Anglia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 7881
+}

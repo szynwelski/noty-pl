@@ -1,0 +1,206 @@
+{
+  "imdb_id": "tt2084005",
+  "title": "Operation Libertad",
+  "description": "They are four young men and four young women, from different backgrounds, united in their conviction that society must change. Revolted by the political situation in those troubled 1970s, they decide to mount a spectacular action to expose the complicity of Swiss banks in the crimes of a heinous South-American dictatorship. Vehicles, weapons, safe houses: \"Operation Libertad\" is prepared carefully. In a shrewd move, a member of the group is equipped with a portable camera; he will film the operation as it unfolds, producing material that will boost its impact in the mass media. When the day arrives, everything goes exactly as planned -- till hitting a snag. The first in a series of disconcerting hitches that throw the group increasingly off balance...",
+  "runtime_minutes": 91,
+  "release_date": "22.05.2012",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0135084",
+      "name": "Laurent Capelluto"
+    },
+    {
+      "id": "nm1449783",
+      "name": "Stipe Erceg"
+    },
+    {
+      "id": "nm0468085",
+      "name": "Natacha Koutchoumov"
+    },
+    {
+      "id": "nm4451874",
+      "name": "Karine Guignard"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0905570",
+      "name": "Nicolas Wadimoff"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0074213",
+      "name": "Jacob Berger"
+    },
+    {
+      "id": "nm0905570",
+      "name": "Nicolas Wadimoff"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0135084",
+      "name": "Laurent Capelluto",
+      "character": "Guy"
+    },
+    {
+      "id": "nm1449783",
+      "name": "Stipe Erceg",
+      "character": "Marko"
+    },
+    {
+      "id": "nm0468085",
+      "name": "Natacha Koutchoumov",
+      "character": "Virginie"
+    },
+    {
+      "id": "nm4451874",
+      "name": "Karine Guignard",
+      "character": "Charly"
+    },
+    {
+      "id": "nm0519933",
+      "name": "Nuno Lopes",
+      "character": "Baltos"
+    },
+    {
+      "id": "nm0119650",
+      "name": "Antonio Buíl",
+      "character": "Vilas"
+    },
+    {
+      "id": "nm4257464",
+      "name": "Jonathan Genet",
+      "character": "Hugues"
+    },
+    {
+      "id": "nm1973167",
+      "name": "Erika Lillo",
+      "character": "Carmen"
+    },
+    {
+      "id": "nm0626865",
+      "name": "Michael Neuenschwander",
+      "character": "Burkhalter"
+    },
+    {
+      "id": "nm7006104",
+      "name": "Sofia Verdon",
+      "character": "Amália"
+    }
+  ],
+  "countries": [
+    "Switzerland",
+    "France",
+    "Portugal"
+  ],
+  "languages": [
+    "French",
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 658765,
+  "year": 2012,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjA0MzkwNjA5OF5BMl5BanBnXkFtZTgwNTY4OTAwMDE@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.7,
+      "votes": 86,
+      "distribution": {
+        "1": 7,
+        "2": 3,
+        "3": 4,
+        "4": 7,
+        "5": 4,
+        "6": 16,
+        "7": 21,
+        "8": 8,
+        "9": 4,
+        "10": 12
+      },
+      "normalized": 5.2738
+    },
+    "filmweb": {
+      "rating": 5.59,
+      "votes": 34,
+      "distribution": {
+        "1": 1,
+        "2": 1,
+        "3": 3,
+        "4": 5,
+        "5": 5,
+        "6": 9,
+        "7": 3,
+        "8": 5,
+        "9": 2,
+        "10": 0
+      },
+      "normalized": 4.8663
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "15.02.2013",
+      "normalized": 4.9718
+    },
+    "score": 5.0373
+  },
+  "polish_title": "Operacja Wolność",
+  "silent": false,
+  "description_pl": "Lata 70-te, czas buntu przeciw kapitalizmowi. Niewielka, rewolucyjna grupa napada na bank w Zurychu, by ujawnić powiązania szwajcarskiego systemu finansowego z paragwajskim reżimem rządowym.",
+  "producers": [
+    {
+      "id": "nm2130779",
+      "name": "Tunje Berns"
+    },
+    {
+      "id": "nm1998242",
+      "name": "Joëlle Bertossa"
+    },
+    {
+      "id": "nm1513655",
+      "name": "Alberto Chollet"
+    },
+    {
+      "id": "nm0482532",
+      "name": "Serge Lalou"
+    },
+    {
+      "id": "nm4752699",
+      "name": "Michel Merkt"
+    },
+    {
+      "id": "nm4737094",
+      "name": "Sophie Sallin"
+    },
+    {
+      "id": "nm0759848",
+      "name": "Samir"
+    },
+    {
+      "id": "nm1583058",
+      "name": "Charlotte Uzu"
+    },
+    {
+      "id": "nm0905570",
+      "name": "Nicolas Wadimoff"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm3970564",
+      "name": "Christof Steinmann"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm1455606",
+      "name": "Franck Rabel"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

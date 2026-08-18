@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🎬</text></svg>">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Metodologia oceniania osób — Noty</title>
+  <link rel="stylesheet" href="../../static/style.css">
+  <style>
+    .prose { max-width: 720px; }
+    .prose h2 { margin-top: 2.5rem; margin-bottom: .75rem; }
+    .prose p  { margin-bottom: 1rem; color: var(--text); line-height: 1.75; }
+    .prose ul { margin: .5rem 0 1rem 1.5rem; }
+    .prose li { margin-bottom: .4rem; line-height: 1.7; }
+    .prose code {
+      background: var(--border);
+      border-radius: 4px;
+      padding: .1em .4em;
+      font-size: .88em;
+      font-family: ui-monospace, monospace;
+    }
+    .formula {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: .9rem 1.25rem;
+      margin: 1rem 0;
+      font-family: ui-monospace, monospace;
+      font-size: .9rem;
+      overflow-x: auto;
+    }
+    .note {
+      background: var(--surface);
+      border-left: 3px solid var(--accent);
+      padding: .75rem 1rem;
+      border-radius: 0 var(--radius) var(--radius) 0;
+      margin: 1rem 0;
+      font-size: .9rem;
+      color: var(--muted);
+    }
+    .example-table { border-collapse: collapse; margin: 1rem 0; font-size: .9rem; }
+    .example-table th { text-align: left; padding: .4rem .75rem; color: var(--muted); font-weight: 600; font-size: .75rem; text-transform: uppercase; letter-spacing: .05em; border-bottom: 1px solid var(--border); }
+    .example-table td { padding: .4rem .75rem; border-bottom: 1px solid var(--border); }
+    .example-table tr:last-child td { border-bottom: none; }
+  </style>
+</head>
+<body>
+  <nav>
+    <a class="logo" href="/">no<span>ty</span></a>
+    <a class="nav-link" href="/">Filmy</a>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Osoby <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/osoba/rezyser/">Reżyserzy</a>
+        <a href="/osoba/scenarzysta/">Scenarzyści</a>
+        <a href="/osoba/gwiazda/">Gwiazdy</a>
+        <a href="/osoba/aktor/">Aktorzy</a>
+        <a href="/osoba/kompozytor/">Kompozytorzy</a>
+        <a href="/osoba/operator/">Operatorzy</a>
+        <a href="/osoba/producent/">Producenci</a>
+        <a href="/osoba/wszechstronna/">Wszechstronni</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Krytycy <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/krytyk/jarek/">Jarek</a>
+        <a href="/krytyk/michal/">Michał</a>
+        <a href="/krytyk/imdb/">IMDb</a>
+        <a href="/krytyk/filmweb/">Filmweb</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Kategorie <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/kategoria/gatunek/">Gatunki</a>
+        <a href="/kategoria/kraj/">Kraje</a>
+        <a href="/kategoria/jezyk/">Języki</a>
+        <a href="/kategoria/dekada/">Dekady</a>
+        <a href="/kategoria/rok/">Lata</a>
+        <a href="/kategoria/czas/">Czas trwania</a>
+        <a href="/kategoria/popularnosc/">Popularność</a>
+        <hr>
+        <a href="/kategoria/plec/">Płeć</a>
+        <a href="/kategoria/obywatelstwo/">Obywatelstwo</a>
+        <a href="/kategoria/urodzenie/">Urodzenie</a>
+        <a href="/kategoria/wiek/">Wiek</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Statystyki <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/statystyki/podsumowanie/">Podsumowanie</a>
+        <a href="/statystyki/rekordy/">Rekordy</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Metodologia <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/metodologia/filmy/">Filmy</a>
+        <a href="/metodologia/osoby/">Osoby</a>
+        <a href="/metodologia/kategorie-filmow/">Kategorie filmów</a>
+        <a href="/metodologia/kategorie-osob/">Kategorie osób</a>
+      </div>
+    </div>
+    <button id="search-global-btn" class="nav-search-btn" title="Szukaj (⌘K)">
+      <svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+    </button>
+  </nav>
+  <div id="search-modal" class="search-modal">
+    <div id="search-modal-backdrop" class="search-modal-backdrop"></div>
+    <div class="search-modal-box">
+      <div class="search-modal-header">
+        <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink:0;color:var(--muted)"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        <input id="search-modal-input" class="search-modal-input" type="text" placeholder="Szukaj filmów i osób…" autocomplete="off" spellcheck="false">
+        <kbd class="search-modal-esc">Esc</kbd>
+      </div>
+      <div id="search-modal-results" class="search-modal-results"></div>
+    </div>
+  </div>
+  <script src="/static/search.js"></script>
+
+  <div class="container">
+    <div class="prose">
+      <h1>Jak obliczana jest ocena osób?</h1>
+
+      <div class="note" style="margin-bottom:1.5rem">
+        <strong>Uwaga ogólna:</strong> ocena osoby nie jest bezpośrednią oceną jej dokonań twórczych —
+        jest pochodną ocen filmów, przy których ta osoba pracowała.
+        W przypadku reżyserów przekłada się to stosunkowo dobrze: reżyser ma duży wpływ
+        na ostateczny kształt dzieła.
+        Przy aktorach zależność jest słabsza — aktor może zagrać drugorzędną rolę
+        w wybitnym filmie albo gwiazdorską w słabym, nie mając kontroli nad jakością produkcji.
+        Ranking osób należy więc czytać jako <em>„kto był przy najlepszych filmach"</em>,
+        a nie koniecznie <em>„kto jest obiektywnie najlepszy w swoim fachu"</em>.
+      </div>
+
+      <p>
+        Ocena reżysera, scenarzysty lub aktora to <strong>średnia z 5 najlepszych filmów</strong>
+        danej osoby. Jeśli osoba ma mniej niż 5 filmów w bazie, brakujące miejsca
+        są uzupełniane wirtualnymi filmami o globalnej średniej — czyli wynik
+        jest przyciągany w stronę średniej proporcjonalnie do tego, jak mało wiemy o danej osobie.
+      </p>
+
+      <h2>Dlaczego top-5, a nie średnia ze wszystkich filmów?</h2>
+
+      <p>
+        Prosta średnia ze wszystkich filmów penalizuje twórców,
+        którzy obok wybitnych dzieł nakręcili też słabsze — np. reżysera
+        z pięcioma arcydziełami i kilkoma nieudanymi filmami komercyjnymi.
+        Pytaniem, na które chcemy odpowiedzieć, jest
+        <em>„jak dobry jest ten twórca w najlepszej formie?"</em>,
+        a nie <em>„jaka jest jego przeciętna"</em>.
+      </p>
+      <p>
+        Top-5 odpowiada na to pytanie bezpośrednio: liczy się tylko to,
+        co twórca ma na swoim koncie najlepszego.
+        Piąty film jest jednocześnie progiem — żeby go przekroczyć,
+        nowy film musi być lepszy niż dotychczasowe piąte miejsce.
+      </p>
+
+      <div class="note">
+        Reżyserzy z dużą i równą filmografią (Hitchcock, Kubrick, Chaplin)
+        są tu traktowani sprawiedliwie — ich stabilność przekłada się
+        na wysokie top-5. Twórcy płodni, ale nierówni, nie zyskują
+        przewagi tylko dlatego, że nakręcili więcej filmów.
+      </div>
+
+      <h2>Wzór</h2>
+
+      <p>Gdy osoba ma 5 lub więcej filmów:</p>
+      <div class="formula">
+        ocena = średnia(5 najlepszych filmów)
+      </div>
+
+      <p>Gdy osoba ma mniej niż 5 filmów (<code>n &lt; 5</code>):</p>
+      <div class="formula">
+        ocena = (suma_top_n + (5 − n) × średnia_globalna) / 5
+      </div>
+
+      <p>
+        Brakujące miejsca do 5 są dosłownie uzupełniane wirtualnymi filmami
+        o wartości równej globalnej średniej (~5,45), po czym liczona jest
+        zwykła średnia z wszystkich 5 pozycji.
+      </p>
+
+      <h2>Wpływ liczby filmów</h2>
+
+      <table class="example-table">
+        <thead>
+          <tr>
+            <th>Liczba filmów (n)</th>
+            <th>Waga własnych filmów</th>
+            <th>Waga globalnej średniej</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td>1</td><td>20%</td><td>80%</td></tr>
+          <tr><td>2</td><td>40%</td><td>60%</td></tr>
+          <tr><td>3</td><td>60%</td><td>40%</td></tr>
+          <tr><td>4</td><td>80%</td><td>20%</td></tr>
+          <tr><td>5+</td><td>100%</td><td>0%</td></tr>
+        </tbody>
+      </table>
+
+      <p>
+        Od 5 filmów wzwyż ocena jest w pełni „własna" — globalna średnia
+        nie ma już żadnego wpływu. Wagi rosną liniowo: każdy kolejny film
+        zastępuje jeden wirtualny i dodaje 20 punktów procentowych wagi własnej.
+      </p>
+
+      <h2>Oceny poszczególnych krytyków</h2>
+
+      <p>
+        Kolumny Jarek, Michał, IMDb i Filmweb w rankingach osób
+        są liczone tą samą metodą — top-5 filmów ocenionych przez danego krytyka
+        lub serwis, z bayesowskim uzupełnieniem gdy jest ich mniej niż 5.
+        Globalna średnia jest wtedy średnią danego krytyka ze wszystkich jego ocen.
+      </p>
+
+      <h2>Co liczy się jako film?</h2>
+
+      <p>
+        Do obliczeń wchodzą wyłącznie filmy (w tym krótkometrażowe),
+        które mają ocenę końcową w bazie. Seriale i miniseriale są wykluczone,
+        nawet jeśli dana osoba przy nich pracowała.
+      </p>
+
+      <p>
+        Oceny końcowe filmów są obliczane według osobnej metodologii —
+        szczegóły znajdziesz w <a href="/metodologia/filmy/">metodologii oceniania filmów</a>.
+      </p>
+
+      <h2 id="wszechstronnosc" style="scroll-margin-top:64px">Wszechstronność</h2>
+
+      <p>
+        Ranking wszechstronności wyróżnia osoby, które uzbierały dobre wyniki
+        w wielu różnych rolach — nie tylko jako reżyser czy aktor, ale w kilku
+        kategoriach jednocześnie.
+        Uwzględnianych jest 7 ról: reżyser, scenarzysta, gwiazda, aktor,
+        kompozytor, operator, producent.
+      </p>
+
+      <p>
+        Dla każdej osoby i każdej roli pobierany jest jej wynik bayesowski
+        (top-5, jak opisano wyżej) w tej roli. Następnie obliczana jest
+        <strong>średnia po wszystkich 7 rolach</strong> — z tym, że role,
+        w których dana osoba w ogóle nie wystąpiła, są uzupełniane
+        globalną średnią tej roli (efekt kary za brak aktywności w danej dziedzinie).
+      </p>
+
+      <div class="formula">
+        wynik_wszechstronności = (Σ wynik_roli) / 7
+        <br><br>
+        gdzie: wynik_roli = bayesian(top-5 w danej roli) jeśli osoba w niej wystąpiła,
+        <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        lub średnia_globalna_roli w przeciwnym razie
+      </div>
+
+      <p>
+        Do rankingu kwalifikują się wyłącznie osoby, które mają wyniki
+        w co najmniej <strong>3 różnych rolach</strong>. Dzięki temu nie wystarczy
+        być znakomitym reżyserem, który okazjonalnie wystąpił jako aktor —
+        potrzebna jest realnie rozległa twórczość.
+      </p>
+
+      <div class="note">
+        Kara za brakujące role powoduje, że specjalista w jednej dziedzinie
+        (np. znakomity kompozytor tylko) nigdy nie pokona osoby o równie wysokich
+        wynikach, ale aktywnej w wielu obszarach.
+        Im więcej ról powyżej globalnej średniej, tym wyższy wynik —
+        każda dodatkowa rola na ponadprzeciętnym poziomie podnosi średnią.
+      </div>
+
+      <p>
+        Statystyki twórców pogrupowanych według obywatelstwa, urodzenia i wieku
+        opisano osobno w <a href="/metodologia/kategorie-osob/">metodologii kategorii osób</a>.
+      </p>
+
+    </div>
+  </div>
+</body>
+</html>

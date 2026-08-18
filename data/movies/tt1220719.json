@@ -1,0 +1,244 @@
+{
+  "imdb_id": "tt1220719",
+  "title": "Ip Man",
+  "description": "During the Japanese invasion of China, a wealthy martial artist is forced to leave his home when his city is occupied. With little means of providing for themselves, Ip Man and the remaining members of the city must find a way to survive.",
+  "runtime_minutes": 106,
+  "release_date": "05.10.2025",
+  "genres": [
+    "Action",
+    "Biography",
+    "Drama",
+    "War"
+  ],
+  "stars": [
+    {
+      "id": "nm0947447",
+      "name": "Donnie Yen"
+    },
+    {
+      "id": "nm0945189",
+      "name": "Simon Yam"
+    },
+    {
+      "id": "nm0266658",
+      "name": "Louis Fan"
+    },
+    {
+      "id": "nm0482628",
+      "name": "Ka-Tung Lam"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0948159",
+      "name": "Wilson Yip"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm2774833",
+      "name": "Edmond Wong"
+    },
+    {
+      "id": "nm5335213",
+      "name": "Tai-Lee Chan"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0947447",
+      "name": "Donnie Yen",
+      "character": "Ip Man"
+    },
+    {
+      "id": "nm0945189",
+      "name": "Simon Yam",
+      "character": "Quan"
+    },
+    {
+      "id": "nm0266658",
+      "name": "Louis Fan",
+      "character": "Jin"
+    },
+    {
+      "id": "nm1414203",
+      "name": "Lynn Xiong",
+      "character": "Cheung"
+    },
+    {
+      "id": "nm0407507",
+      "name": "Hiroyuki Ikeuchi",
+      "character": "Miura"
+    },
+    {
+      "id": "nm0482628",
+      "name": "Ka-Tung Lam",
+      "character": "Li"
+    },
+    {
+      "id": "nm1789084",
+      "name": "Xing Yu",
+      "character": "Lin"
+    },
+    {
+      "id": "nm1264361",
+      "name": "You-Nam Wong",
+      "character": "Yuan"
+    },
+    {
+      "id": "nm3253626",
+      "name": "Yu-Hang To",
+      "character": "Wei"
+    },
+    {
+      "id": "nm3841713",
+      "name": "Calvin Ka-Sing Cheng",
+      "character": "Yao"
+    },
+    {
+      "id": "nm2705327",
+      "name": "Zhihui Chen",
+      "character": "Master Liu"
+    },
+    {
+      "id": "nm4600309",
+      "name": "Tenma Shibuya",
+      "character": "Colonel Sato"
+    },
+    {
+      "id": "nm4202593",
+      "name": "Li Chak",
+      "character": "Zhun"
+    },
+    {
+      "id": "nm5335544",
+      "name": "Deqiang Shi",
+      "character": "Southern Master"
+    },
+    {
+      "id": "nm4947080",
+      "name": "Zhong Zhou",
+      "character": "Southern Master"
+    },
+    {
+      "id": "nm5335194",
+      "name": "Bo Zhang",
+      "character": "Jin's Underling"
+    },
+    {
+      "id": "nm0453584",
+      "name": "King Kong Lee",
+      "character": "Jin's Underling"
+    },
+    {
+      "id": "nm5336072",
+      "name": "Lu Kai",
+      "character": "Jin's Underling"
+    }
+  ],
+  "countries": [
+    "Hong Kong",
+    "China"
+  ],
+  "languages": [
+    "Cantonese",
+    "Mandarin",
+    "Japanese",
+    "Chinese",
+    "English"
+  ],
+  "color": "Color",
+  "year": 2008,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZmJjZDE0MmYtNzgwYy00NTg2LWE0NDYtNzA0YTA4MjA0NmYxXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 481898,
+  "ratings": {
+    "imdb": {
+      "rating": 8,
+      "votes": 244834,
+      "distribution": {
+        "1": 2013,
+        "2": 688,
+        "3": 914,
+        "4": 1537,
+        "5": 4259,
+        "6": 13491,
+        "7": 43507,
+        "8": 83570,
+        "9": 53060,
+        "10": 41795
+      },
+      "normalized": 7.4838
+    },
+    "filmweb": {
+      "rating": 7.84,
+      "votes": 74384,
+      "distribution": {
+        "1": 283,
+        "2": 138,
+        "3": 376,
+        "4": 763,
+        "5": 1891,
+        "6": 5653,
+        "7": 16100,
+        "8": 27026,
+        "9": 15073,
+        "10": 7081
+      },
+      "normalized": 7.8671
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "13.02.2013",
+      "normalized": 6.4102
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "14.09.2012",
+      "normalized": 5.4199
+    },
+    "score": 6.7953
+  },
+  "polish_title": "Ip Man",
+  "silent": false,
+  "description_pl": "Film biograficzny przedstawiający historię Ip Mana, legendarnego  chińskiego mistrza kung fu. Był on nauczycielem między innymi Bruce'a Lee. Obecnie jego szkoły Wing Chun trenują uczniów na  całym świecie. Akcja filmu osadzona jest w latach 40-tych XX wieku w  czasie okupacji Chin przez Japonię.",
+  "producers": [
+    {
+      "id": "nm1539749",
+      "name": "Cheuk Kau Man"
+    },
+    {
+      "id": "nm1267458",
+      "name": "Yuk-Lam Pang"
+    },
+    {
+      "id": "nm3881007",
+      "name": "Kwok-Lam Sin"
+    },
+    {
+      "id": "nm6674259",
+      "name": "Chi-Pan Wong"
+    },
+    {
+      "id": "nm2260417",
+      "name": "Raymond Pak-Ming Wong"
+    },
+    {
+      "id": "nm0955330",
+      "name": "Baoquan Zhang"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0442766",
+      "name": "Kenji Kawai"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0461922",
+      "name": "Sing-Pui O"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

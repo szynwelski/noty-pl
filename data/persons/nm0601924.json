@@ -1,0 +1,42 @@
+{
+  "id": "nm0601924",
+  "name": "Ted Moore",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNjg5ZTcxMTctN2RiYS00NzUyLWE2NWEtYWJlZmY0YmQ2MzUyXkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0055928",
+      "title": "Dr. No",
+      "year": 1962,
+      "roles": [
+        "cinematographer"
+      ]
+    },
+    {
+      "imdb_id": "tt0057076",
+      "title": "From Russia with Love",
+      "year": 1963,
+      "roles": [
+        "cinematographer"
+      ]
+    },
+    {
+      "imdb_id": "tt0058150",
+      "title": "Goldfinger",
+      "year": 1964,
+      "roles": [
+        "cinematographer"
+      ]
+    }
+  ],
+  "birth_date": "07.08.1914",
+  "death_date": "01.07.1987",
+  "birth_location": "Benoni, Gauteng, South Africa",
+  "filmweb_id": 12044,
+  "name_pl": "Ted Moore",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Południowa Afryka"
+  ]
+}

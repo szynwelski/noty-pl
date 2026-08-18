@@ -1,0 +1,39 @@
+{
+  "id": "nm0796923",
+  "name": "Don Siegel",
+  "filmography": [
+    {
+      "imdb_id": "tt0066999",
+      "title": "Dirty Harry",
+      "year": 1971,
+      "roles": [
+        "director",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0079116",
+      "title": "Escape from Alcatraz",
+      "year": 1979,
+      "roles": [
+        "director",
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTU1MjEwMWMtMzg4YS00NmNlLWE3YTQtMTVmNDlmMTM1YWE2XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "26.10.1912",
+  "death_date": "20.04.1991",
+  "birth_location": "Chicago, Illinois, USA",
+  "height": "1.75 m",
+  "imdb_scraped": true,
+  "filmweb_id": 41868,
+  "name_pl": "Don Siegel",
+  "birth_location_pl": "Chicago, Illinois",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 41868
+}

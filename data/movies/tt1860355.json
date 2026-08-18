@@ -1,0 +1,181 @@
+{
+  "imdb_id": "tt1860355",
+  "title": "Undefeated",
+  "description": "Chronicles three underprivileged students from inner-city Memphis and their volunteer coach who tries to help them beat the odds on and off the field.",
+  "runtime_minutes": 113,
+  "release_date": "03.08.2012",
+  "genres": [
+    "Documentary",
+    "Sport"
+  ],
+  "stars": [
+    {
+      "id": "nm4708927",
+      "name": "Bill Courtney"
+    },
+    {
+      "id": "nm4709068",
+      "name": "O.C. Brown"
+    },
+    {
+      "id": "nm4709205",
+      "name": "Montrail 'Money' Brown"
+    },
+    {
+      "id": "nm4709342",
+      "name": "Chavis Daniels"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm2418675",
+      "name": "Daniel Lindsay"
+    },
+    {
+      "id": "nm1390562",
+      "name": "T.J. Martin"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm4708927",
+      "name": "Bill Courtney",
+      "character": "Self"
+    },
+    {
+      "id": "nm4709068",
+      "name": "O.C. Brown",
+      "character": "Self"
+    },
+    {
+      "id": "nm4709205",
+      "name": "Montrail 'Money' Brown",
+      "character": "Self"
+    },
+    {
+      "id": "nm4709342",
+      "name": "Chavis Daniels",
+      "character": "Self"
+    },
+    {
+      "id": "nm7590090",
+      "name": "Jeff Germany",
+      "character": "Self"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 631042,
+  "year": 2011,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOTE1ODE2NDc5Ml5BMl5BanBnXkFtZTcwNDU1NjQxOA@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.7,
+      "votes": 7553,
+      "distribution": {
+        "1": 149,
+        "2": 37,
+        "3": 41,
+        "4": 68,
+        "5": 220,
+        "6": 572,
+        "7": 1609,
+        "8": 2333,
+        "9": 1279,
+        "10": 1245
+      },
+      "normalized": 6.7125
+    },
+    "filmweb": {
+      "rating": 7.08,
+      "votes": 836,
+      "distribution": {
+        "1": 9,
+        "2": 1,
+        "3": 10,
+        "4": 20,
+        "5": 62,
+        "6": 135,
+        "7": 245,
+        "8": 248,
+        "9": 82,
+        "10": 24
+      },
+      "normalized": 5.5754
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "09.02.2013",
+      "normalized": 5.6855
+    },
+    "score": 5.9911
+  },
+  "polish_title": "Niepokonani",
+  "silent": false,
+  "producers": [
+    {
+      "id": "nm0004835",
+      "name": "Sean 'Diddy' Combs"
+    },
+    {
+      "id": "nm1000623",
+      "name": "Paolo Coppola"
+    },
+    {
+      "id": "nm2060819",
+      "name": "Ed Cunningham"
+    },
+    {
+      "id": "nm0267498",
+      "name": "Michele Farinola"
+    },
+    {
+      "id": "nm3272072",
+      "name": "Lee Gordon"
+    },
+    {
+      "id": "nm1164861",
+      "name": "Seth Gordon"
+    },
+    {
+      "id": "nm4817414",
+      "name": "Neeraj Kohli"
+    },
+    {
+      "id": "nm2418675",
+      "name": "Daniel Lindsay"
+    },
+    {
+      "id": "nm1195366",
+      "name": "Jillian Longnecker"
+    },
+    {
+      "id": "nm4375657",
+      "name": "Rich Middlemas"
+    },
+    {
+      "id": "nm1198791",
+      "name": "Chris Miller"
+    },
+    {
+      "id": "nm0801691",
+      "name": "Nigel Sinclair"
+    },
+    {
+      "id": "nm3581772",
+      "name": "Glen Zipper"
+    },
+    {
+      "id": "nm4370106",
+      "name": "Ralph Zipper"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

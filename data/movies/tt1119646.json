@@ -1,0 +1,253 @@
+{
+  "imdb_id": "tt1119646",
+  "title": "The Hangover",
+  "description": "Three buddies wake up from a bachelor party in Las Vegas with no memory of the previous night and the bachelor missing. They must make their way around the city in order to find their friend in time for his wedding.",
+  "runtime_minutes": 100,
+  "release_date": "05.06.2009",
+  "genres": [
+    "Comedy"
+  ],
+  "stars": [
+    {
+      "id": "nm0302108",
+      "name": "Zach Galifianakis"
+    },
+    {
+      "id": "nm0177896",
+      "name": "Bradley Cooper"
+    },
+    {
+      "id": "nm0058581",
+      "name": "Justin Bartha"
+    },
+    {
+      "id": "nm1159180",
+      "name": "Ed Helms"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0680846",
+      "name": "Todd Phillips"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0524190",
+      "name": "Jon Lucas"
+    },
+    {
+      "id": "nm0601859",
+      "name": "Scott Moore"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0302108",
+      "name": "Zach Galifianakis",
+      "character": "Alan"
+    },
+    {
+      "id": "nm0177896",
+      "name": "Bradley Cooper",
+      "character": "Phil"
+    },
+    {
+      "id": "nm0058581",
+      "name": "Justin Bartha",
+      "character": "Doug"
+    },
+    {
+      "id": "nm1159180",
+      "name": "Ed Helms",
+      "character": "Stu"
+    },
+    {
+      "id": "nm0001287",
+      "name": "Heather Graham",
+      "character": "Jade"
+    },
+    {
+      "id": "nm0056936",
+      "name": "Sasha Barrese",
+      "character": "Tracy"
+    },
+    {
+      "id": "nm0001787",
+      "name": "Jeffrey Tambor",
+      "character": "Sid"
+    },
+    {
+      "id": "nm0421822",
+      "name": "Ken Jeong",
+      "character": "Mr. Chow"
+    },
+    {
+      "id": "nm0006713",
+      "name": "Rachael Harris",
+      "character": "Melissa"
+    },
+    {
+      "id": "nm0005512",
+      "name": "Mike Tyson",
+      "character": "Mike Tyson"
+    },
+    {
+      "id": "nm0258402",
+      "name": "Mike Epps",
+      "character": "Black Doug"
+    },
+    {
+      "id": "nm0122073",
+      "name": "Jernard Burks",
+      "character": "Leonard"
+    },
+    {
+      "id": "nm1443527",
+      "name": "Rob Riggle",
+      "character": "Officer Franklin"
+    },
+    {
+      "id": "nm0454598",
+      "name": "Cleo King",
+      "character": "Officer Garden"
+    },
+    {
+      "id": "nm0130437",
+      "name": "Bryan Callen",
+      "character": "Eddie"
+    },
+    {
+      "id": "nm0909768",
+      "name": "Matt Walsh",
+      "character": "Dr. Valsh"
+    },
+    {
+      "id": "nm1406333",
+      "name": "Ian Anthony Dale",
+      "character": "Chow's #1"
+    },
+    {
+      "id": "nm1049045",
+      "name": "Michael Li",
+      "character": "Chow's #2"
+    }
+  ],
+  "countries": [
+    "United States",
+    "Germany"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": null,
+  "filmweb_id": 487211,
+  "year": 2009,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDI2MzBhNzgtOWYyOS00NDM2LWE0OGYtOGQ0M2FjMTI2NTllXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.7,
+      "votes": 940593,
+      "distribution": {
+        "1": 8398,
+        "2": 4501,
+        "3": 6805,
+        "4": 12065,
+        "5": 28597,
+        "6": 77441,
+        "7": 209973,
+        "8": 306137,
+        "9": 157289,
+        "10": 129387
+      },
+      "normalized": 6.8963
+    },
+    "filmweb": {
+      "rating": 7.28,
+      "votes": 740736,
+      "distribution": {
+        "1": 12750,
+        "2": 7457,
+        "3": 17004,
+        "4": 24027,
+        "5": 43274,
+        "6": 89350,
+        "7": 171908,
+        "8": 195667,
+        "9": 99707,
+        "10": 79592
+      },
+      "normalized": 6.2165
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "11.08.2010",
+      "normalized": 4.9718
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "16.09.2009",
+      "normalized": 4.5781
+    },
+    "score": 5.6657
+  },
+  "polish_title": "Kac Vegas",
+  "silent": false,
+  "description_pl": "Czterech dobrych kumpli wyrusza na wieczór kawalerski do Las Vegas. Następnego ranka dopada ich kac-gigant, przyszły pan młody znika, a pozostali nie pamiętają, co się stało. Wyruszając na poszukiwanie kolegi, odkrywają, że jeden z nich poślubił striptizerkę, drugi miał doświadczenie homoseksualne, a wszystkich czterech ściga lichwiarz – bandyta.",
+  "producers": [
+    {
+      "id": "nm0070454",
+      "name": "Chris Bender"
+    },
+    {
+      "id": "nm0119056",
+      "name": "Scott Budnick"
+    },
+    {
+      "id": "nm0269621",
+      "name": "William Fay"
+    },
+    {
+      "id": "nm0325175",
+      "name": "Daniel Goldberg"
+    },
+    {
+      "id": "nm0419169",
+      "name": "Jon Jashni"
+    },
+    {
+      "id": "nm0680846",
+      "name": "Todd Phillips"
+    },
+    {
+      "id": "nm0796914",
+      "name": "David Siegel"
+    },
+    {
+      "id": "nm0818940",
+      "name": "J.C. Spink"
+    },
+    {
+      "id": "nm2100078",
+      "name": "Thomas Tull"
+    },
+    {
+      "id": "nm0923234",
+      "name": "Jeffrey Wetzel"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0065100",
+      "name": "Christophe Beck"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0003394",
+      "name": "Lawrence Sher"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

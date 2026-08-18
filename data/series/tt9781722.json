@@ -1,0 +1,188 @@
+{
+  "imdb_id": "tt9781722",
+  "title": "Sonnie's Edge",
+  "description": "In the underground world of \"beastie\" fights, Sonnie is unbeatable -- as long as she keeps her edge.",
+  "runtime_minutes": 17,
+  "release_date": "15.03.2019",
+  "genres": [
+    "Animation",
+    "Short",
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Drama",
+    "Fantasy",
+    "Horror",
+    "Mystery",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm2873549",
+      "name": "Helen Sadler"
+    },
+    {
+      "id": "nm4173528",
+      "name": "Hayley McLaughlin"
+    },
+    {
+      "id": "nm0936011",
+      "name": "Time Winters"
+    },
+    {
+      "id": "nm1859475",
+      "name": "Omid Abtahi"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm1166916",
+      "name": "Gabriele Pennacchioli"
+    },
+    {
+      "id": "nm1702145",
+      "name": "Dave Wilson"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm10543902",
+      "name": "Peter F. Hamilton"
+    },
+    {
+      "id": "nm3664884",
+      "name": "Philip Gelatt"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm2873549",
+      "name": "Helen Sadler",
+      "character": "Sonnie"
+    },
+    {
+      "id": "nm4173528",
+      "name": "Hayley McLaughlin",
+      "character": "Jennifer"
+    },
+    {
+      "id": "nm0936011",
+      "name": "Time Winters",
+      "character": "Dicko"
+    },
+    {
+      "id": "nm1859475",
+      "name": "Omid Abtahi",
+      "character": "Wes"
+    },
+    {
+      "id": "nm0010837",
+      "name": "Christine Adams",
+      "character": "Ivrina"
+    },
+    {
+      "id": "nm0434444",
+      "name": "Hakeem Kae-Kazim",
+      "character": "Simon"
+    },
+    {
+      "id": "nm2498820",
+      "name": "Braden Lynch",
+      "character": "Announcer"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "year": 2019,
+  "type": "tvEpisode",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZmMxM2M2ZjAtOWZjNC00ZGQ1LTkyZmItODQ1MjYxOTE5OTkyXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 824633,
+  "ratings": {
+    "imdb": {
+      "rating": 8.2,
+      "votes": 28017,
+      "distribution": {
+        "1": 312,
+        "2": 153,
+        "3": 203,
+        "4": 328,
+        "5": 596,
+        "6": 1432,
+        "7": 3588,
+        "8": 7641,
+        "9": 7615,
+        "10": 6149
+      }
+    },
+    "filmweb": {
+      "rating": 7.94,
+      "votes": 54233,
+      "distribution": {
+        "1": 98,
+        "2": 90,
+        "3": 250,
+        "4": 388,
+        "5": 1135,
+        "6": 3408,
+        "7": 10946,
+        "8": 20253,
+        "9": 13148,
+        "10": 4517
+      }
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "28.10.2022"
+    }
+  },
+  "polish_title": "Miłość, śmierć i roboty",
+  "silent": false,
+  "description_pl": "\"Miłość, śmierć i roboty\" to seria krótkich animowanych opowieści należących do różnych gatunków - science fiction, fantasy, horroru i komedii. Opowiedziane w śmiały sposób historie ogląda się przyjemnie, a losy ich bohaterów przez długi czas pozostają w pamięci. Historie tworzą pierwszą antologię animowanych opowieści, która dostarczy widzom niezapomnianych i poruszających do głębi wrażeń.",
+  "producers": [
+    {
+      "id": "nm0232433",
+      "name": "Joshua Donen"
+    },
+    {
+      "id": "nm0000399",
+      "name": "David Fincher"
+    },
+    {
+      "id": "nm2126361",
+      "name": "Victoria L. Howard"
+    },
+    {
+      "id": "nm10380524",
+      "name": "Jennifer Miller"
+    },
+    {
+      "id": "nm1783265",
+      "name": "Tim Miller"
+    },
+    {
+      "id": "nm5494360",
+      "name": "Hayley Perkins"
+    },
+    {
+      "id": "nm0793276",
+      "name": "Al Shier"
+    },
+    {
+      "id": "nm1066838",
+      "name": "Tiffany Webber"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm1052252",
+      "name": "Rob Cairns"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

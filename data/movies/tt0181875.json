@@ -1,0 +1,235 @@
+{
+  "imdb_id": "tt0181875",
+  "title": "Almost Famous",
+  "description": "A high-school boy in the early 1970s is given the chance to write a story for Rolling Stone magazine about an up-and-coming rock band as he accompanies them on their concert tour.",
+  "runtime_minutes": 122,
+  "release_date": "22.09.2000",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Drama",
+    "Music"
+  ],
+  "stars": [
+    {
+      "id": "nm0001082",
+      "name": "Billy Crudup"
+    },
+    {
+      "id": "nm0297578",
+      "name": "Patrick Fugit"
+    },
+    {
+      "id": "nm0005028",
+      "name": "Kate Hudson"
+    },
+    {
+      "id": "nm0000531",
+      "name": "Frances McDormand"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001081",
+      "name": "Cameron Crowe"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0001081",
+      "name": "Cameron Crowe"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0001082",
+      "name": "Billy Crudup",
+      "character": "Russell Hammond"
+    },
+    {
+      "id": "nm0297578",
+      "name": "Patrick Fugit",
+      "character": "William Miller"
+    },
+    {
+      "id": "nm0005028",
+      "name": "Kate Hudson",
+      "character": "Penny Lane"
+    },
+    {
+      "id": "nm0000531",
+      "name": "Frances McDormand",
+      "character": "Elaine Miller"
+    },
+    {
+      "id": "nm0005134",
+      "name": "Jason Lee",
+      "character": "Jeff Bebe"
+    },
+    {
+      "id": "nm0221046",
+      "name": "Zooey Deschanel",
+      "character": "Anita Miller"
+    },
+    {
+      "id": "nm0029400",
+      "name": "Michael Angarano",
+      "character": "Young William"
+    },
+    {
+      "id": "nm0001593",
+      "name": "Anna Paquin",
+      "character": "Polexia Aphrodisia"
+    },
+    {
+      "id": "nm0000103",
+      "name": "Fairuza Balk",
+      "character": "Sapphire"
+    },
+    {
+      "id": "nm0852965",
+      "name": "Noah Taylor",
+      "character": "Dick Roswell"
+    },
+    {
+      "id": "nm0270152",
+      "name": "John Fedevich",
+      "character": "Ed Vallencourt"
+    },
+    {
+      "id": "nm0468820",
+      "name": "Mark Kozelek",
+      "character": "Larry Fellows"
+    },
+    {
+      "id": "nm0000450",
+      "name": "Philip Seymour Hoffman",
+      "character": "Lester Bangs"
+    },
+    {
+      "id": "nm0005459",
+      "name": "Liz Stauber",
+      "character": "Leslie"
+    },
+    {
+      "id": "nm0266422",
+      "name": "Jimmy Fallon",
+      "character": "Dennis Hope"
+    },
+    {
+      "id": "nm0742911",
+      "name": "Olivia Rosewood",
+      "character": "Beth from Denver"
+    },
+    {
+      "id": "nm0005313",
+      "name": "Bijou Phillips",
+      "character": "Estrella Starr"
+    },
+    {
+      "id": "nm0189600",
+      "name": "Alice Marie Crowe",
+      "character": "Mrs. Deegan"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "color": "Color",
+  "filmweb_id": 1339,
+  "year": 2000,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZGFmNDQzOTItOGZkNS00NjFkLWE4MjQtNmRjMjNlMjg3YzdiXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.9,
+      "votes": 316780,
+      "distribution": {
+        "1": 2715,
+        "2": 1278,
+        "3": 1836,
+        "4": 3374,
+        "5": 8363,
+        "6": 23224,
+        "7": 62358,
+        "8": 96837,
+        "9": 60776,
+        "10": 56019
+      },
+      "normalized": 7.2698
+    },
+    "filmweb": {
+      "rating": 7.32,
+      "votes": 17748,
+      "distribution": {
+        "1": 46,
+        "2": 30,
+        "3": 135,
+        "4": 238,
+        "5": 871,
+        "6": 2457,
+        "7": 5810,
+        "8": 5577,
+        "9": 1816,
+        "10": 768
+      },
+      "normalized": 6.264
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "19.10.2005",
+      "normalized": 5.4199
+    },
+    "score": 6.3179
+  },
+  "polish_title": "U progu sławy",
+  "silent": false,
+  "description_pl": "Piętnastolatek William (<a href=\"/osoba/?id=nm0297578\">Patrick Fugit</a>), zagorzały fan rocka, ma możliwość towarzyszyć znanemu zespołowi muzycznemu podczas tournée po Stanach Zjednoczonych, aby napisać reportaż dla magazynu \"Rolling Stone\". Podczas podróży William przestaje być tylko obserwatorem, a staje się częścią zespołu. Traci jednak obiektywizm i nie jest w stanie uczciwie opowiedzieć o swoich idolach.",
+  "producers": [
+    {
+      "id": "nm0117290",
+      "name": "Ian Bryce"
+    },
+    {
+      "id": "nm0001081",
+      "name": "Cameron Crowe"
+    },
+    {
+      "id": "nm0263988",
+      "name": "Marty P. Ewing"
+    },
+    {
+      "id": "nm0553048",
+      "name": "Scott M. Martin"
+    },
+    {
+      "id": "nm0003251",
+      "name": "Steven P. Saeta"
+    },
+    {
+      "id": "nm0829601",
+      "name": "Lisa Stewart"
+    },
+    {
+      "id": "nm0956310",
+      "name": "Jerry Ziesmer"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0933896",
+      "name": "Nancy Wilson"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0001799",
+      "name": "John Toll"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

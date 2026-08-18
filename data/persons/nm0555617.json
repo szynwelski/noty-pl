@@ -1,0 +1,41 @@
+{
+  "id": "nm0555617",
+  "name": "Harpo Marx",
+  "filmography": [
+    {
+      "imdb_id": "tt0023969",
+      "title": "Duck Soup",
+      "year": 1933,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Pinky"
+    },
+    {
+      "imdb_id": "tt0026778",
+      "title": "A Night at the Opera",
+      "year": 1935,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Tomasso"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BM2EwNzU2MmItMjk3OS00M2Y3LWJlYTktZjI3ZWQzYjQ0OTAxXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "23.11.1888",
+  "death_date": "28.09.1964",
+  "birth_location": "New York City, New York, USA",
+  "height": "1.66 m",
+  "imdb_scraped": true,
+  "filmweb_id": 49882,
+  "name_pl": "Harpo Marx",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 49882
+}

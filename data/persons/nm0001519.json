@@ -1,0 +1,65 @@
+{
+  "id": "nm0001519",
+  "name": "Ian McDiarmid",
+  "filmography": [
+    {
+      "imdb_id": "tt0086190",
+      "title": "Star Wars: Episode VI - Return of the Jedi",
+      "year": 1983,
+      "roles": [
+        "cast"
+      ],
+      "character": "The Emperor"
+    },
+    {
+      "imdb_id": "tt0162661",
+      "title": "Sleepy Hollow",
+      "year": 1999,
+      "roles": [
+        "cast"
+      ],
+      "character": "Doctor Lancaster"
+    },
+    {
+      "imdb_id": "tt0120915",
+      "title": "Star Wars: Episode I - The Phantom Menace",
+      "year": 1999,
+      "roles": [
+        "cast"
+      ],
+      "character": "Senator Palpatine"
+    },
+    {
+      "imdb_id": "tt0121765",
+      "title": "Star Wars: Episode II - Attack of the Clones",
+      "year": 2002,
+      "roles": [
+        "cast"
+      ],
+      "character": "Supreme Chancellor Palpatine"
+    },
+    {
+      "imdb_id": "tt0121766",
+      "title": "Star Wars: Episode III - Revenge of the Sith",
+      "year": 2005,
+      "roles": [
+        "cast"
+      ],
+      "character": "Supreme Chancellor Palpatine"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTU1NDY1NjU4NF5BMl5BanBnXkFtZTYwODQxNTU0._V1_.jpg",
+  "birth_date": "11.08.1944",
+  "birth_location": "Carnoustie, Tayside, Scotland, UK",
+  "height": "1.78 m",
+  "filmweb_id": 4793,
+  "name_pl": "Ian McDiarmid",
+  "birth_location_pl": "Carnoustie, Szkocja",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 4793
+}

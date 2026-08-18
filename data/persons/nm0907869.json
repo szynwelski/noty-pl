@@ -1,0 +1,32 @@
+{
+  "id": "nm0907869",
+  "name": "John Walker",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTUwMjE4ODgwMF5BMl5BanBnXkFtZTgwMDEwMDk2NTE@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0129167",
+      "title": "The Iron Giant",
+      "year": 1999,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0317705",
+      "title": "The Incredibles",
+      "year": 2004,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "birth_date": "21.04.1956",
+  "imdb_scraped": true,
+  "filmweb_id": 251257,
+  "name_pl": "John Walker",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

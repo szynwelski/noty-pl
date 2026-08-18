@@ -1,0 +1,34 @@
+{
+  "id": "nm0483788",
+  "name": "Jean-Marie Lamour",
+  "filmography": [
+    {
+      "imdb_id": "tt0324133",
+      "title": "Swimming Pool",
+      "year": 2003,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Franck"
+    },
+    {
+      "imdb_id": "tt1243957",
+      "title": "The Tourist",
+      "year": 2010,
+      "roles": [
+        "cast"
+      ],
+      "character": "Cafe Waiter Jean-Michel"
+    }
+  ],
+  "imdb_scraped": true,
+  "filmweb_id": 115225,
+  "name_pl": "Jean-Marie Lamour",
+  "birth_location_pl": "Marsylia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja"
+  ]
+}

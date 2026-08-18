@@ -1,0 +1,49 @@
+{
+  "id": "nm0000774",
+  "name": "Michelangelo Antonioni",
+  "filmography": [
+    {
+      "imdb_id": "tt0053619",
+      "title": "L'Avventura",
+      "year": 1960,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0056736",
+      "title": "L'Eclisse",
+      "year": 1962,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0060176",
+      "title": "Blow-Up",
+      "year": 1966,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNGQ0YzUxOGQtY2QwMy00N2M3LWEyMGUtY2FlOTBjMTIxYzcxXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "29.09.1912",
+  "death_date": "30.07.2007",
+  "birth_location": "Ferrara, Emilia-Romagna, Italy",
+  "height": "1.78 m",
+  "filmweb_id": 41017,
+  "name_pl": "Michelangelo Antonioni",
+  "birth_location_pl": "Ferrara",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Włochy",
+    "Zjednoczone Królestwo Włoch"
+  ],
+  "wikidata_fw_id": 41017
+}

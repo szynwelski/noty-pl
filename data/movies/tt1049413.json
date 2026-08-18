@@ -1,0 +1,238 @@
+{
+  "imdb_id": "tt1049413",
+  "title": "Up",
+  "description": "A grumpy old man turns his house into an airship using balloons and flies off to South America with a young stowaway.",
+  "runtime_minutes": 96,
+  "release_date": "29.05.2009",
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy",
+    "Drama",
+    "Family"
+  ],
+  "stars": [
+    {
+      "id": "nm0000799",
+      "name": "Edward Asner"
+    },
+    {
+      "id": "nm2973712",
+      "name": "Jordan Nagai"
+    },
+    {
+      "id": "nm0001652",
+      "name": "John Ratzenberger"
+    },
+    {
+      "id": "nm0001626",
+      "name": "Christopher Plummer"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0230032",
+      "name": "Pete Docter"
+    },
+    {
+      "id": "nm0677037",
+      "name": "Bob Peterson"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0230032",
+      "name": "Pete Docter"
+    },
+    {
+      "id": "nm0677037",
+      "name": "Bob Peterson"
+    },
+    {
+      "id": "nm0565336",
+      "name": "Tom McCarthy"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000799",
+      "name": "Edward Asner",
+      "character": "Carl Fredricksen"
+    },
+    {
+      "id": "nm2973712",
+      "name": "Jordan Nagai",
+      "character": "Russell"
+    },
+    {
+      "id": "nm0001652",
+      "name": "John Ratzenberger",
+      "character": "Construction Foreman Tom"
+    },
+    {
+      "id": "nm0001626",
+      "name": "Christopher Plummer",
+      "character": "Charles Muntz"
+    },
+    {
+      "id": "nm0677037",
+      "name": "Bob Peterson",
+      "character": "Dug"
+    },
+    {
+      "id": "nm0005148",
+      "name": "Delroy Lindo",
+      "character": "Beta"
+    },
+    {
+      "id": "nm0710019",
+      "name": "Jerome Ranft",
+      "character": "Gamma"
+    },
+    {
+      "id": "nm0443286",
+      "name": "David Kaye",
+      "character": "Newsreel Announcer"
+    },
+    {
+      "id": "nm3423667",
+      "name": "Elie Docter",
+      "character": "Young Ellie"
+    },
+    {
+      "id": "nm3422941",
+      "name": "Jeremy Leary",
+      "character": "Young Carl"
+    },
+    {
+      "id": "nm0569680",
+      "name": "Mickie McGowan",
+      "character": "Police Officer Edith"
+    },
+    {
+      "id": "nm0542706",
+      "name": "Danny Mann",
+      "character": "Construction Worker Steve"
+    },
+    {
+      "id": "nm0298412",
+      "name": "Donald Fullilove",
+      "character": "Nurse George"
+    },
+    {
+      "id": "nm0363641",
+      "name": "Jess Harnell",
+      "character": "Nurse AJ"
+    },
+    {
+      "id": "nm2155757",
+      "name": "Josh Cooley",
+      "character": "Omega"
+    },
+    {
+      "id": "nm0230032",
+      "name": "Pete Docter",
+      "character": "Campmaster Strauch"
+    },
+    {
+      "id": "nm0028764",
+      "name": "Mark Andrews",
+      "character": "Additional Voices"
+    },
+    {
+      "id": "nm0074036",
+      "name": "Bob Bergen",
+      "character": "Additional Voices"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 436704,
+  "year": 2009,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNmI1ZTc5MWMtMDYyOS00ZDc2LTkzOTAtNjQ4NWIxNjYyNDgzXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8.3,
+      "votes": 1250739,
+      "distribution": {
+        "1": 6284,
+        "2": 2952,
+        "3": 4202,
+        "4": 8412,
+        "5": 21196,
+        "6": 63096,
+        "7": 195902,
+        "8": 384606,
+        "9": 318437,
+        "10": 245652
+      },
+      "normalized": 8.4805
+    },
+    "filmweb": {
+      "rating": 7.52,
+      "votes": 267995,
+      "distribution": {
+        "1": 1171,
+        "2": 1040,
+        "3": 2637,
+        "4": 4977,
+        "5": 12085,
+        "6": 29260,
+        "7": 68381,
+        "8": 86790,
+        "9": 40610,
+        "10": 21044
+      },
+      "normalized": 6.7956
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "14.12.2010",
+      "normalized": 5.6855
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "11.01.2010",
+      "normalized": 5.4199
+    },
+    "score": 6.5954
+  },
+  "polish_title": "Odlot",
+  "silent": false,
+  "description_pl": "\"<a href=\"/film/?id=tt1049413\">Odlot</a>\" to najnowszy film studia Disney / Pixar. Jest to historia o dorastaniu. Jej bohaterem jest pewien 70-latek. Pewnego dnia spotyka strażnika leśnego, co doprowadzi do całej serii przedziwnych zdarzeń, które całkowicie zmieniają to, kim jest. Bohater przemierzy cały świat walcząc z bestiami i złoczyńcami, i zawsze spożywając obiad o 15.30.",
+  "producers": [
+    {
+      "id": "nm0005124",
+      "name": "John Lasseter"
+    },
+    {
+      "id": "nm0706032",
+      "name": "Kori Rae"
+    },
+    {
+      "id": "nm0714066",
+      "name": "Denise Ream"
+    },
+    {
+      "id": "nm0729304",
+      "name": "Jonas Rivera"
+    },
+    {
+      "id": "nm0004056",
+      "name": "Andrew Stanton"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0315974",
+      "name": "Michael Giacchino"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

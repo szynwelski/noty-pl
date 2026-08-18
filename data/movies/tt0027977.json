@@ -1,0 +1,202 @@
+{
+  "imdb_id": "tt0027977",
+  "title": "Modern Times",
+  "description": "The Tramp struggles to live in modern industrial society with the help of a young homeless woman.",
+  "runtime_minutes": 87,
+  "release_date": "25.02.1936",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0000122",
+      "name": "Charles Chaplin"
+    },
+    {
+      "id": "nm0002104",
+      "name": "Paulette Goddard"
+    },
+    {
+      "id": "nm0074788",
+      "name": "Henry Bergman"
+    },
+    {
+      "id": "nm0761866",
+      "name": "Tiny Sandford"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000122",
+      "name": "Charles Chaplin"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000122",
+      "name": "Charles Chaplin"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000122",
+      "name": "Charles Chaplin",
+      "character": "A Factory Worker"
+    },
+    {
+      "id": "nm0002104",
+      "name": "Paulette Goddard",
+      "character": "A Gamin"
+    },
+    {
+      "id": "nm0074788",
+      "name": "Henry Bergman",
+      "character": "Cafe Proprietor"
+    },
+    {
+      "id": "nm0761866",
+      "name": "Tiny Sandford",
+      "character": "Big Bill"
+    },
+    {
+      "id": "nm0174682",
+      "name": "Chester Conklin",
+      "character": "Mechanic"
+    },
+    {
+      "id": "nm0003424",
+      "name": "Hank Mann",
+      "character": "Burglar"
+    },
+    {
+      "id": "nm0090008",
+      "name": "Stanley Blystone",
+      "character": "Gamin's Father"
+    },
+    {
+      "id": "nm0305087",
+      "name": "Al Ernest Garcia",
+      "character": "President of the Electro Steel Corp."
+    },
+    {
+      "id": "nm0018685",
+      "name": "Richard Alexander",
+      "character": "Prison Cellmate"
+    },
+    {
+      "id": "nm0721637",
+      "name": "Cecil Reynolds",
+      "character": "Minister"
+    },
+    {
+      "id": "nm0571901",
+      "name": "Mira McKinney",
+      "character": "Minister's Wife"
+    },
+    {
+      "id": "nm0534259",
+      "name": "Murdock MacQuarrie",
+      "character": "J. Widdecombe Billows"
+    },
+    {
+      "id": "nm0524306",
+      "name": "Wilfred Lucas",
+      "character": "Juvenile Officer"
+    },
+    {
+      "id": "nm1250355",
+      "name": "Edward LeSaint",
+      "character": "Sheriff Couler"
+    },
+    {
+      "id": "nm0538984",
+      "name": "Fred Malatesta",
+      "character": "Cafe Head Waiter"
+    },
+    {
+      "id": "nm0825624",
+      "name": "Sammy Stein",
+      "character": "Turbine Operator"
+    },
+    {
+      "id": "nm0840339",
+      "name": "Juana Sutton",
+      "character": "Woman with Buttoned Bosom"
+    },
+    {
+      "id": "nm0647013",
+      "name": "Ted Oliver",
+      "character": "Billows' Assistant"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 97131,
+  "year": 1936,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODVkZGFhNGQtYjdiYi00Njc4LWFmYTItNTlmNzJjMTg1ZDc5XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8.5,
+      "votes": 287086,
+      "distribution": {
+        "1": 4467,
+        "2": 1282,
+        "3": 1418,
+        "4": 2458,
+        "5": 5164,
+        "6": 11036,
+        "7": 32634,
+        "8": 74392,
+        "9": 81144,
+        "10": 73091
+      },
+      "normalized": 8.76
+    },
+    "filmweb": {
+      "rating": 8.08,
+      "votes": 12694,
+      "distribution": {
+        "1": 99,
+        "2": 30,
+        "3": 53,
+        "4": 88,
+        "5": 233,
+        "6": 627,
+        "7": 2199,
+        "8": 4532,
+        "9": 2996,
+        "10": 1837
+      },
+      "normalized": 8.4646
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "05.06.2010",
+      "normalized": 7.1247
+    },
+    "michal": {
+      "rating": 8,
+      "date_rated": "19.10.2005",
+      "normalized": 8.1116
+    },
+    "score": 8.1152
+  },
+  "polish_title": "Dzisiejsze czasy",
+  "silent": true,
+  "description_pl": "Ostatnie nieme arcydzieło <a href=\"/osoba/?id=nm0000122\">Charlesa Chaplina</a>, które powstało prawie dziesięć lat po wprowadzeniu dźwięku. Pewien robotnik, wykończony nerwowo, dostaje się do szpitala psychiatrycznego. Potem wielokrotnie popada w konflikt z prawem i ma kłopoty ze znalezieniem nowej pracy. Poznaje piękną dziewczynę....",
+  "composers": [
+    {
+      "id": "nm0000122",
+      "name": "Charles Chaplin"
+    }
+  ],
+  "fetched_at": "2026-08-15"
+}

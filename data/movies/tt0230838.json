@@ -1,0 +1,245 @@
+{
+  "imdb_id": "tt0230838",
+  "title": "Sweet November",
+  "description": "A workaholic executive, and an unconventional woman agree to a personal relationship for a short period. In this short period she changes his life.",
+  "year": 2001,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BY2QyYWU1Y2EtZmU2Yi00NzMxLTllODUtYTU2NjM4MWQwYzJiXkEyXkFqcGc@._V1_.jpg",
+  "runtime_minutes": 119,
+  "release_date": "16.02.2001",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0000206",
+      "name": "Keanu Reeves"
+    },
+    {
+      "id": "nm0000234",
+      "name": "Charlize Theron"
+    },
+    {
+      "id": "nm0005042",
+      "name": "Jason Isaacs"
+    },
+    {
+      "id": "nm0314524",
+      "name": "Greg Germann"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0640466",
+      "name": "Pat O'Connor"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0712029",
+      "name": "Herman Raucher"
+    },
+    {
+      "id": "nm0951049",
+      "name": "Paul Yurick"
+    },
+    {
+      "id": "nm0900820",
+      "name": "Kurt Voelker"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000206",
+      "name": "Keanu Reeves",
+      "character": "Nelson Moss"
+    },
+    {
+      "id": "nm0000234",
+      "name": "Charlize Theron",
+      "character": "Sara Deever"
+    },
+    {
+      "id": "nm0005042",
+      "name": "Jason Isaacs",
+      "character": "Chaz Watley"
+    },
+    {
+      "id": "nm0314524",
+      "name": "Greg Germann",
+      "character": "Vince Holland"
+    },
+    {
+      "id": "nm0014582",
+      "name": "Liam Aiken",
+      "character": "Abner"
+    },
+    {
+      "id": "nm0431451",
+      "name": "Robert Joy",
+      "character": "Raeford Dunne"
+    },
+    {
+      "id": "nm0334179",
+      "name": "Lauren Graham",
+      "character": "Angelica"
+    },
+    {
+      "id": "nm0742146",
+      "name": "Michael Rosenbaum",
+      "character": "Brandon"
+    },
+    {
+      "id": "nm0001449",
+      "name": "Frank Langella",
+      "character": "Edgar Price"
+    },
+    {
+      "id": "nm0006463",
+      "name": "Jason Kravits",
+      "character": "Manny"
+    },
+    {
+      "id": "nm0048844",
+      "name": "Ray Baker",
+      "character": "Buddy Leach"
+    },
+    {
+      "id": "nm0120183",
+      "name": "Tom Bullock",
+      "character": "Al"
+    },
+    {
+      "id": "nm0698680",
+      "name": "Adele Proom",
+      "character": "Osiris"
+    },
+    {
+      "id": "nm0130458",
+      "name": "L. Peter Callender",
+      "character": "Don Watson, DMV Proctor"
+    },
+    {
+      "id": "nm0518547",
+      "name": "June Carryl",
+      "character": "Beatrice"
+    },
+    {
+      "id": "nm0947172",
+      "name": "Kelvin Han Yee",
+      "character": "Burly Man"
+    },
+    {
+      "id": "nm0006718",
+      "name": "David Fine",
+      "character": "Homeless Man"
+    },
+    {
+      "id": "nm0916547",
+      "name": "Elizabeth Weber",
+      "character": "Lexy"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": null,
+  "filmweb_id": 9913,
+  "ratings": {
+    "imdb": {
+      "rating": 6.7,
+      "votes": 99461,
+      "distribution": {
+        "1": 1841,
+        "2": 1302,
+        "3": 2174,
+        "4": 4083,
+        "5": 9105,
+        "6": 19269,
+        "7": 25874,
+        "8": 16972,
+        "9": 7970,
+        "10": 10871
+      },
+      "normalized": 4.9217
+    },
+    "filmweb": {
+      "rating": 7.32,
+      "votes": 104710,
+      "distribution": {
+        "1": 466,
+        "2": 471,
+        "3": 1531,
+        "4": 2451,
+        "5": 6205,
+        "6": 13481,
+        "7": 29193,
+        "8": 31075,
+        "9": 12586,
+        "10": 7251
+      },
+      "normalized": 6.3022
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "25.06.2015",
+      "normalized": 5.6855
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "22.04.2024",
+      "normalized": 4.5781
+    },
+    "score": 5.3719
+  },
+  "polish_title": "Słodki listopad",
+  "silent": false,
+  "description_pl": "Historia nowojorskiego biznesmena Nelsona Mossa (<a href=\"/osoba/?id=nm0000206\">Keanu Reeves</a>), który zakochuje się w Sarze Deever (<a href=\"/osoba/?id=nm0000234\">Charlize Theron</a>) - dziewczynie co miesiąc zmieniającej partnerów. Każdemu z nich pomaga poradzić sobie z problemami emocjonalnymi. Kiedy jednak sama zakochuje się w młodym biznesmenie, nie chce poddać się uczuciom.",
+  "producers": [
+    {
+      "id": "nm0251360",
+      "name": "Jodi Ehrlich"
+    },
+    {
+      "id": "nm0263988",
+      "name": "Marty P. Ewing"
+    },
+    {
+      "id": "nm0440990",
+      "name": "Elliott Kastner"
+    },
+    {
+      "id": "nm0720715",
+      "name": "Steven Reuther"
+    },
+    {
+      "id": "nm0831097",
+      "name": "Deborah Stoff"
+    },
+    {
+      "id": "nm0831098",
+      "name": "Erwin Stoff"
+    },
+    {
+      "id": "nm0910793",
+      "name": "Wendy Wanderman"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0002366",
+      "name": "Christopher Young"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005767",
+      "name": "Edward Lachman"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

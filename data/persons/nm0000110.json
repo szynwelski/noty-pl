@@ -1,0 +1,110 @@
+{
+  "id": "nm0000110",
+  "name": "Kenneth Branagh",
+  "filmography": [
+    {
+      "imdb_id": "tt0107616",
+      "title": "Much Ado About Nothing",
+      "year": 1993,
+      "roles": [
+        "director",
+        "writer",
+        "star",
+        "cast",
+        "producer"
+      ],
+      "character": "Benedick"
+    },
+    {
+      "imdb_id": "tt0120533",
+      "title": "Celebrity",
+      "year": 1998,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Lee Simon"
+    },
+    {
+      "imdb_id": "tt0120891",
+      "title": "Wild Wild West",
+      "year": 1999,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Dr. Arliss Loveless"
+    },
+    {
+      "imdb_id": "tt0252444",
+      "title": "Rabbit-Proof Fence",
+      "year": 2002,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "A.O. Neville"
+    },
+    {
+      "imdb_id": "tt0857265",
+      "title": "Sleuth",
+      "year": 2007,
+      "roles": [
+        "director",
+        "star",
+        "cast",
+        "producer"
+      ],
+      "character": "Other Man on T.V."
+    },
+    {
+      "imdb_id": "tt0800369",
+      "title": "Thor",
+      "year": 2011,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt1205537",
+      "title": "Jack Ryan: Shadow Recruit",
+      "year": 2014,
+      "roles": [
+        "director",
+        "star",
+        "cast"
+      ],
+      "character": "Viktor Cherevin"
+    },
+    {
+      "imdb_id": "tt1661199",
+      "title": "Cinderella",
+      "year": 2015,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt15398776",
+      "title": "Oppenheimer",
+      "year": 2023,
+      "roles": [
+        "cast"
+      ],
+      "character": "Niels Bohr"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjI0NTQ4Mjk5Ml5BMl5BanBnXkFtZTcwMDc1NjkzNw@@._V1_.jpg",
+  "birth_date": "10.12.1960",
+  "birth_location": "Belfast, Northern Ireland, UK",
+  "height": "1.77 m",
+  "filmweb_id": 12,
+  "name_pl": "Kenneth Branagh",
+  "birth_location_pl": "Belfast, Irlandia Północna",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ]
+}

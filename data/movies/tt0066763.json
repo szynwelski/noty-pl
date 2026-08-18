@@ -1,0 +1,223 @@
+{
+  "imdb_id": "tt0066763",
+  "title": "Anand",
+  "description": "The story of a terminally ill man who wishes to live life to the fullest before the inevitable occurs, as told by his best friend.",
+  "runtime_minutes": 122,
+  "release_date": "12.03.1971",
+  "genres": [
+    "Drama",
+    "Musical"
+  ],
+  "stars": [
+    {
+      "id": "nm0004435",
+      "name": "Rajesh Khanna"
+    },
+    {
+      "id": "nm0000821",
+      "name": "Amitabh Bachchan"
+    },
+    {
+      "id": "nm0764407",
+      "name": "Sumita Sanyal"
+    },
+    {
+      "id": "nm0219946",
+      "name": "Ramesh Deo"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0611531",
+      "name": "Hrishikesh Mukherjee"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0611531",
+      "name": "Hrishikesh Mukherjee"
+    },
+    {
+      "id": "nm0347899",
+      "name": "Gulzar"
+    },
+    {
+      "id": "nm0611520",
+      "name": "D.N. Mukherjee"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0004435",
+      "name": "Rajesh Khanna",
+      "character": "Anand Saigal"
+    },
+    {
+      "id": "nm0000821",
+      "name": "Amitabh Bachchan",
+      "character": "Dr. Bhaskar K. Bannerjee"
+    },
+    {
+      "id": "nm0764407",
+      "name": "Sumita Sanyal",
+      "character": "Renu"
+    },
+    {
+      "id": "nm0219946",
+      "name": "Ramesh Deo",
+      "character": "Dr. Prakash Kulkarni"
+    },
+    {
+      "id": "nm0219947",
+      "name": "Seema Deo",
+      "character": "Suman Kulkarni"
+    },
+    {
+      "id": "nm0783996",
+      "name": "Asit Kumar Sen",
+      "character": "Chandranath"
+    },
+    {
+      "id": "nm0695155",
+      "name": "Atam Prakash",
+      "character": "Ranjeet"
+    },
+    {
+      "id": "nm0474931",
+      "name": "Lalita Kumari",
+      "character": "Mrs. Sanyal"
+    },
+    {
+      "id": "nm0222743",
+      "name": "Dev Kishan",
+      "character": ""
+    },
+    {
+      "id": "nm1783998",
+      "name": "Savita",
+      "character": ""
+    },
+    {
+      "id": "nm0080231",
+      "name": "Brahm Bhardwaj",
+      "character": "Moni Baba"
+    },
+    {
+      "id": "nm0667985",
+      "name": "Lalita Pawar",
+      "character": "Matron D'Sa"
+    },
+    {
+      "id": "nm0451862",
+      "name": "Durga Khote",
+      "character": "Renu's Mother"
+    },
+    {
+      "id": "nm0348664",
+      "name": "Gurnam Singh",
+      "character": ""
+    },
+    {
+      "id": "nm0802107",
+      "name": "Dara Singh Randhawa",
+      "character": "Head Wrestler"
+    },
+    {
+      "id": "nm0907888",
+      "name": "Johnny Walker",
+      "character": "Issabhai Suratwala"
+    },
+    {
+      "id": "nm3789772",
+      "name": "Nusrat Kardar",
+      "character": "Stage Viewer"
+    },
+    {
+      "id": "nm1425570",
+      "name": "Moolchand",
+      "character": "Overweight Patient"
+    }
+  ],
+  "countries": [
+    "India"
+  ],
+  "languages": [
+    "Hindi"
+  ],
+  "color": "Color",
+  "filmweb_id": 145253,
+  "year": 1971,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BN2M5YjUyOTktNTQxNC00MzQ2LTk2NDAtMTFkMjBlODlhOGRlXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8.1,
+      "votes": 37796,
+      "distribution": {
+        "1": 1758,
+        "2": 328,
+        "3": 313,
+        "4": 398,
+        "5": 787,
+        "6": 1315,
+        "7": 2778,
+        "8": 5950,
+        "9": 9174,
+        "10": 14995
+      },
+      "normalized": 7.621
+    },
+    "filmweb": {
+      "rating": 7.0,
+      "votes": 54,
+      "distribution": {
+        "1": 3,
+        "2": 0,
+        "3": 3,
+        "4": 1,
+        "5": 3,
+        "6": 8,
+        "7": 8,
+        "8": 16,
+        "9": 5,
+        "10": 7
+      },
+      "normalized": 5.2774
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "31.10.2020",
+      "normalized": 7.1247
+    },
+    "score": 6.6744
+  },
+  "polish_title": "Anand",
+  "silent": false,
+  "producers": [
+    {
+      "id": "nm0611531",
+      "name": "Hrishikesh Mukherjee"
+    },
+    {
+      "id": "nm0802690",
+      "name": "N.C. Sippy"
+    },
+    {
+      "id": "nm0802694",
+      "name": "Romu N. Sippy"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006005",
+      "name": "Salil Choudhury"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0665558",
+      "name": "Jaywant Pathare"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

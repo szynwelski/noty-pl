@@ -1,0 +1,46 @@
+{
+  "id": "nm0820660",
+  "name": "Marco St. John",
+  "filmography": [
+    {
+      "imdb_id": "tt0340855",
+      "title": "Monster",
+      "year": 2003,
+      "roles": [
+        "cast"
+      ],
+      "character": "Evan"
+    },
+    {
+      "imdb_id": "tt0330793",
+      "title": "The Punisher",
+      "year": 2004,
+      "roles": [
+        "cast"
+      ],
+      "character": "Police Chief Morris"
+    },
+    {
+      "imdb_id": "tt0780534",
+      "title": "My Mom's New Boyfriend",
+      "year": 2008,
+      "roles": [
+        "cast"
+      ],
+      "character": "Inspector Laborde"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTc3NzgzOTI5NV5BMl5BanBnXkFtZTcwNzY4MTkyMQ@@._V1_.jpg",
+  "birth_date": "07.05.1939",
+  "birth_location": "New Orleans, Louisiana, USA",
+  "filmweb_id": 45180,
+  "name_pl": "Marco St. John",
+  "birth_location_pl": "Nowy Orlean, Luizjana",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 45180
+}

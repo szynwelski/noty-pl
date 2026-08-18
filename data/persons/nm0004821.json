@@ -1,0 +1,49 @@
+{
+  "id": "nm0004821",
+  "name": "Michael Chiklis",
+  "filmography": [
+    {
+      "imdb_id": "tt0120667",
+      "title": "Fantastic Four",
+      "year": 2005,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Ben Grimm"
+    },
+    {
+      "imdb_id": "tt1059786",
+      "title": "Eagle Eye",
+      "year": 2008,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Defense Secretary Callister"
+    },
+    {
+      "imdb_id": "tt11286314",
+      "title": "Don't Look Up",
+      "year": 2021,
+      "roles": [
+        "cast"
+      ],
+      "character": "Dan Pawketty"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BN2NhYjMyY2EtZWFmOS00MWIzLTlmMDUtZmY5MWQ0MDQ0YWNlXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "30.08.1963",
+  "birth_location": "Lowell, Massachusetts, USA",
+  "height": "1.75 m",
+  "filmweb_id": 3068,
+  "name_pl": "Michael Chiklis",
+  "birth_location_pl": "Lowell, Massachusetts",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 3068
+}

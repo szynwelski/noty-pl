@@ -1,0 +1,47 @@
+{
+  "id": "nm0004365",
+  "name": "Fred Williamson",
+  "filmography": [
+    {
+      "imdb_id": "tt0066026",
+      "title": "M*A*S*H",
+      "year": 1970,
+      "roles": [
+        "cast"
+      ],
+      "character": "Dr. Oliver 'Spearchucker' Jones"
+    },
+    {
+      "imdb_id": "tt0116367",
+      "title": "From Dusk Till Dawn",
+      "year": 1996,
+      "roles": [
+        "cast"
+      ],
+      "character": "Frost"
+    },
+    {
+      "imdb_id": "tt0335438",
+      "title": "Starsky & Hutch",
+      "year": 2004,
+      "roles": [
+        "cast"
+      ],
+      "character": "Captain Doby"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTU1MzIzNjk4N15BMl5BanBnXkFtZTYwMjk4NDYz._V1_.jpg",
+  "birth_date": "05.03.1938",
+  "birth_location": "Gary, Indiana, USA",
+  "height": "1.90 m",
+  "filmweb_id": 64532,
+  "name_pl": "Fred Williamson",
+  "birth_location_pl": "Gary, Indiana",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 64532
+}

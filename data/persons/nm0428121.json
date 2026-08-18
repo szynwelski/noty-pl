@@ -1,0 +1,69 @@
+{
+  "id": "nm0428121",
+  "name": "Gemma Jones",
+  "filmography": [
+    {
+      "imdb_id": "tt0114388",
+      "title": "Sense and Sensibility",
+      "year": 1995,
+      "roles": [
+        "cast"
+      ],
+      "character": "Mrs. Dashwood"
+    },
+    {
+      "imdb_id": "tt0243155",
+      "title": "Bridget Jones's Diary",
+      "year": 2001,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Bridget's Mum"
+    },
+    {
+      "imdb_id": "tt0317198",
+      "title": "Bridget Jones: The Edge of Reason",
+      "year": 2004,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Mum"
+    },
+    {
+      "imdb_id": "tt1182350",
+      "title": "You Will Meet a Tall Dark Stranger",
+      "year": 2010,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Helena"
+    },
+    {
+      "imdb_id": "tt1473832",
+      "title": "Bridget Jones's Baby",
+      "year": 2016,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Mum"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjIzNjE1OTkzOV5BMl5BanBnXkFtZTgwNzc0MzU2MTE@._V1_.jpg",
+  "birth_date": "04.12.1942",
+  "birth_location": "Marylebone, London, England, UK",
+  "height": "1.68 m",
+  "filmweb_id": 4201,
+  "name_pl": "Gemma Jones",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 4201
+}

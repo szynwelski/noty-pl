@@ -1,0 +1,175 @@
+{
+  "imdb_id": "tt7521948",
+  "title": "Boarding Pass",
+  "description": "Neda has decided to transit narcotics by swallowing them to solve her financial problems . The job, however has its own dangers.",
+  "runtime_minutes": 88,
+  "release_date": "15.10.2017",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm5781340",
+      "name": "Neda Jebreili"
+    },
+    {
+      "id": "nm1368007",
+      "name": "Mansour Shahbazi"
+    },
+    {
+      "id": "nm2831674",
+      "name": "Mohammad Ali Najafian"
+    },
+    {
+      "id": "nm0706392",
+      "name": "Asghar Rafijam"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm4428749",
+      "name": "Mehdi Rahmani"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm4719828",
+      "name": "Amir Arabi"
+    },
+    {
+      "id": "nm2370060",
+      "name": "Babak Mirzakhani"
+    },
+    {
+      "id": "nm4428749",
+      "name": "Mehdi Rahmani"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm5781340",
+      "name": "Neda Jebreili",
+      "character": "Neda"
+    },
+    {
+      "id": "nm1368007",
+      "name": "Mansour Shahbazi",
+      "character": "Masoud"
+    },
+    {
+      "id": "nm2831674",
+      "name": "Mohammad Ali Najafian",
+      "character": ""
+    },
+    {
+      "id": "nm0706392",
+      "name": "Asghar Rafijam",
+      "character": "Doctor"
+    },
+    {
+      "id": "nm4159861",
+      "name": "Shirin Yazdanbakhsh",
+      "character": "Old Woman"
+    },
+    {
+      "id": "nm8559047",
+      "name": "Tala Mo",
+      "character": ""
+    },
+    {
+      "id": "nm11770818",
+      "name": "Bardia Hosseini",
+      "character": "Bardia"
+    },
+    {
+      "id": "nm6181725",
+      "name": "Amin Ghavami",
+      "character": ""
+    }
+  ],
+  "countries": [
+    "Iran"
+  ],
+  "languages": [
+    "Persian"
+  ],
+  "color": "Color",
+  "filmweb_id": 794143,
+  "year": 2017,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZDZlMWVkZTMtZmE0Zi00ZmU2LWFkYjQtYzBhMTA5MzdiYmRiXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Kart-e Parvaz",
+  "ratings": {
+    "imdb": {
+      "rating": 5.6,
+      "votes": 118,
+      "distribution": {
+        "1": 7,
+        "2": 2,
+        "3": 6,
+        "4": 8,
+        "5": 25,
+        "6": 23,
+        "7": 24,
+        "8": 9,
+        "9": 2,
+        "10": 12
+      },
+      "normalized": 4.9907
+    },
+    "filmweb": {
+      "rating": 6.37,
+      "votes": 65,
+      "distribution": {
+        "1": 1,
+        "2": 0,
+        "3": 4,
+        "4": 4,
+        "5": 11,
+        "6": 8,
+        "7": 18,
+        "8": 15,
+        "9": 4,
+        "10": 0
+      },
+      "normalized": 4.9725
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "22.10.2017",
+      "normalized": 5.6855
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "27.10.2017",
+      "normalized": 5.4199
+    },
+    "score": 5.2671
+  },
+  "polish_title": "Karta pokładowa",
+  "silent": false,
+  "description_pl": "Są w Iranie ludzie, którzy dobrowolnie lub pod przymusem łykają narkotyki i przewożą je przez granice do innych krajów. Mówi się na nich Body Packers. Przewożą opium, heroinę, kokainę i amfetaminę, starannie zapakowane w plastikowe torebki. To jednak dopiero początek. Kiedy łykasz te torebki, wcale nie złapania przez policję boisz się najbardziej. Najbardziej boisz się, że torebki nie są dostatecznie szczelne i zaczną przepuszczać. Wtedy zaczyna się proces umierania: rozszerzają się źrenice, zwalnia oddech, pękają jelita i w końcu zatrzymuje się serce.",
+  "producers": [
+    {
+      "id": "nm8384805",
+      "name": "Bahman Kamyar"
+    },
+    {
+      "id": "nm4428749",
+      "name": "Mehdi Rahmani"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm2370060",
+      "name": "Babak Mirzakhani"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm6158194",
+      "name": "Mohammad Rasouli"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

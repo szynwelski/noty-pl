@@ -1,0 +1,45 @@
+{
+  "id": "nm0283731",
+  "name": "Karl Fochler",
+  "filmography": [
+    {
+      "imdb_id": "tt0048624",
+      "title": "Sissi",
+      "year": 1955,
+      "roles": [
+        "cast"
+      ],
+      "character": "Graf Grünne"
+    },
+    {
+      "imdb_id": "tt0049762",
+      "title": "Sissi - Die junge Kaiserin",
+      "year": 1956,
+      "roles": [
+        "cast"
+      ],
+      "character": "Graf Grünne"
+    },
+    {
+      "imdb_id": "tt0050974",
+      "title": "Sissi: The Fateful Years of an Empress",
+      "year": 1957,
+      "roles": [
+        "cast"
+      ],
+      "character": "Graf Grünne"
+    }
+  ],
+  "birth_date": "23.05.1898",
+  "death_date": "23.05.1982",
+  "birth_location": "Vienna, Austria-Hungary",
+  "filmweb_id": 99000,
+  "name_pl": "Karl Fochler",
+  "birth_location_pl": "Wiedeń",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Austria"
+  ]
+}

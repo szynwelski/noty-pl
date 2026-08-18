@@ -1,0 +1,49 @@
+{
+  "id": "nm0167388",
+  "name": "François Cluzet",
+  "filmography": [
+    {
+      "imdb_id": "tt0113117",
+      "title": "French Kiss",
+      "year": 1995,
+      "roles": [
+        "cast"
+      ],
+      "character": "Bob"
+    },
+    {
+      "imdb_id": "tt0362225",
+      "title": "Tell No One",
+      "year": 2006,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Alexandre Beck"
+    },
+    {
+      "imdb_id": "tt1675434",
+      "title": "The Intouchables",
+      "year": 2011,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Philippe"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTkyNjcyNjE0Nl5BMl5BanBnXkFtZTcwMTY5NTc1NA@@._V1_.jpg",
+  "birth_date": "21.09.1955",
+  "birth_location": "Paris, France",
+  "height": "1.74 m",
+  "filmweb_id": 8761,
+  "name_pl": "François Cluzet",
+  "birth_location_pl": "Paryż",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja"
+  ],
+  "wikidata_fw_id": 8761
+}

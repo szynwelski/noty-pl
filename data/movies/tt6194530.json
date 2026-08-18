@@ -1,0 +1,217 @@
+{
+  "imdb_id": "tt6194530",
+  "title": "Ava",
+  "description": "13-year-old Ava learns that she will lose her sight sooner than expected, and she confronts the problem in her own way.",
+  "runtime_minutes": 105,
+  "release_date": "22.12.2017",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm8543451",
+      "name": "Noée Abita"
+    },
+    {
+      "id": "nm2662182",
+      "name": "Laure Calamy"
+    },
+    {
+      "id": "nm8543452",
+      "name": "Juan Cano"
+    },
+    {
+      "id": "nm5256328",
+      "name": "Tamara Cano"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm5674565",
+      "name": "Léa Mysius"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm5674565",
+      "name": "Léa Mysius"
+    },
+    {
+      "id": "nm5243556",
+      "name": "Paul Guilhaume"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm8543451",
+      "name": "Noée Abita",
+      "character": "Ava"
+    },
+    {
+      "id": "nm2662182",
+      "name": "Laure Calamy",
+      "character": "Maud"
+    },
+    {
+      "id": "nm8543452",
+      "name": "Juan Cano",
+      "character": "Juan"
+    },
+    {
+      "id": "nm5256328",
+      "name": "Tamara Cano",
+      "character": "Jessica"
+    },
+    {
+      "id": "nm9096052",
+      "name": "Ismaël Capelot",
+      "character": ""
+    },
+    {
+      "id": "nm8962705",
+      "name": "Daouda Diakhaté",
+      "character": "Tété"
+    },
+    {
+      "id": "nm9096051",
+      "name": "Baptiste Archimbaud",
+      "character": "Matthias"
+    },
+    {
+      "id": "nm0065823",
+      "name": "Franck Beckmann",
+      "character": "L'ophtalmologiste"
+    },
+    {
+      "id": "nm1597053",
+      "name": "Carmen Gimenez",
+      "character": "Carmen"
+    },
+    {
+      "id": "nm6573477",
+      "name": "Valentine Cadic",
+      "character": "Serveuse mariage"
+    },
+    {
+      "id": "nm9109749",
+      "name": "Mary Lefèvre",
+      "character": "La policière à cheval"
+    },
+    {
+      "id": "nm9109750",
+      "name": "Vincent Grousset",
+      "character": "Le policier à cheval"
+    },
+    {
+      "id": "nm9109751",
+      "name": "Paul Meulins",
+      "character": "Le moniteur"
+    },
+    {
+      "id": "nm9109752",
+      "name": "Mila Cheuzzi",
+      "character": "Inès"
+    },
+    {
+      "id": "nm9109753",
+      "name": "Nolan Dos Santos",
+      "character": "Doublure Inès"
+    },
+    {
+      "id": "nm9109754",
+      "name": "Thiméo Méric Guarese",
+      "character": "Doublure Inès"
+    },
+    {
+      "id": "nm9109755",
+      "name": "Romain Biderre",
+      "character": "L'enfant au manège"
+    },
+    {
+      "id": "nm9109756",
+      "name": "Sabrina Gimenez",
+      "character": "Le femme en rouge du mariage"
+    }
+  ],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "French",
+    "Spanish"
+  ],
+  "color": "Color",
+  "filmweb_id": 786712,
+  "year": 2017,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMGU2NDMyZGMtNzI3YS00ODE0LWFlMzYtOTdiZGIyZTAzNjlkXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.6,
+      "votes": 3664,
+      "distribution": {
+        "1": 95,
+        "2": 47,
+        "3": 70,
+        "4": 147,
+        "5": 280,
+        "6": 788,
+        "7": 1152,
+        "8": 649,
+        "9": 219,
+        "10": 217
+      },
+      "normalized": 4.7872
+    },
+    "filmweb": {
+      "rating": 6.41,
+      "votes": 3217,
+      "distribution": {
+        "1": 17,
+        "2": 26,
+        "3": 83,
+        "4": 140,
+        "5": 403,
+        "6": 880,
+        "7": 1076,
+        "8": 442,
+        "9": 106,
+        "10": 44
+      },
+      "normalized": 4.24
+    },
+    "jarek": {
+      "rating": 1,
+      "date_rated": "14.10.2017",
+      "normalized": 2.5327
+    },
+    "score": 3.8533
+  },
+  "polish_title": "Ava",
+  "silent": false,
+  "description_pl": "Opowieść o młodej dziewczynie, w której dojrzewa bunt. Ava spędza wakacje z matką nad Atlantykiem. Senną atmosferę niespodziewanie przerywa wiadomość o tajemniczej chorobie, która, być może, jest wytworem jej fantazji. Czas, który pozostał do końca wakacji postanawia uczynić niepowtarzalnym. Poznany na plaży tajemniczy chłopak staje się częścią nowego świata bohaterki, która odważnie podąży za swoimi pragnieniami.",
+  "producers": [
+    {
+      "id": "nm0515201",
+      "name": "Jean-Louis Livi"
+    },
+    {
+      "id": "nm3920683",
+      "name": "Fanny Yvonnet"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm3022040",
+      "name": "Florencia Di Concilio"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm5243556",
+      "name": "Paul Guilhaume"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

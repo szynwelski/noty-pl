@@ -1,0 +1,161 @@
+{
+  "imdb_id": "tt2534660",
+  "title": "In the Crosswind",
+  "description": "\"Risttuules\" is a very emotional, tragic movie about mass deportation to Siberia based on the memories of Erna. It all started on June 14, 1941, when trucks came for the innocent families with their children where they headed to the train station and later by animal wagons to Siberia. \"How to survive hunger, cold, humiliation, losing friends and freedom, but still keep living on, when almost all hope is lost?\"",
+  "runtime_minutes": 90,
+  "release_date": "28.03.2014",
+  "genres": [
+    "Drama",
+    "History"
+  ],
+  "stars": [
+    {
+      "id": "nm1067265",
+      "name": "Laura Peterson-Aardam"
+    },
+    {
+      "id": "nm2869384",
+      "name": "Tarmo Song"
+    },
+    {
+      "id": "nm5385698",
+      "name": "Mirt Preegel"
+    },
+    {
+      "id": "nm3829570",
+      "name": "Ingrid Isotamm"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm3761088",
+      "name": "Martti Helde"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm3761088",
+      "name": "Martti Helde"
+    },
+    {
+      "id": "nm3113939",
+      "name": "Liis Nimik"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1067265",
+      "name": "Laura Peterson-Aardam",
+      "character": "Erna Tamm"
+    },
+    {
+      "id": "nm2869384",
+      "name": "Tarmo Song",
+      "character": "Heldur"
+    },
+    {
+      "id": "nm5385698",
+      "name": "Mirt Preegel",
+      "character": "Eliide"
+    },
+    {
+      "id": "nm3829570",
+      "name": "Ingrid Isotamm",
+      "character": "Hermiine"
+    },
+    {
+      "id": "nm5376140",
+      "name": "Einar Hillep",
+      "character": "kolhoosi esimees"
+    }
+  ],
+  "countries": [
+    "Estonia"
+  ],
+  "languages": [
+    "Estonian",
+    "Russian"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 709999,
+  "year": 2014,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNWNjOTBjMTMtN2E2ZC00NzMxLTg4ODAtYmEyOTE2ZGM0NTYyXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Risttuules",
+  "ratings": {
+    "imdb": {
+      "rating": 7.5,
+      "votes": 1793,
+      "distribution": {
+        "1": 46,
+        "2": 23,
+        "3": 35,
+        "4": 46,
+        "5": 76,
+        "6": 164,
+        "7": 341,
+        "8": 449,
+        "9": 306,
+        "10": 307
+      },
+      "normalized": 6.0207
+    },
+    "filmweb": {
+      "rating": 7.24,
+      "votes": 636,
+      "distribution": {
+        "1": 12,
+        "2": 0,
+        "3": 14,
+        "4": 16,
+        "5": 47,
+        "6": 70,
+        "7": 155,
+        "8": 192,
+        "9": 88,
+        "10": 42
+      },
+      "normalized": 5.7172
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "22.12.2018",
+      "normalized": 7.1247
+    },
+    "score": 6.2875
+  },
+  "polish_title": "Na skrzyżowaniu wichrów",
+  "silent": false,
+  "description_pl": "Po inkorporowaniu krajów bałtyckich do ZSRR zaczęły się, odbyte w niegodnych warunkach, masowe wywózki rdzennej ludności na Syberię. Pośród ponad 40 tysięcy wysiedlonych znajduje się Erna, rozdzielona z mężem - wojskowym, matka małej dziewczynki. Na miejscu czekają ją liczne upokorzenia, zimno, głód i praca ponad siły. Pomimo 15-tu lat spędzonych na Syberii Erna nigdy nie straciła poczucia wolności oraz nadziei na powrót do ojczyzny i odnalezienie ukochanego. \nWydarzenia tamtych dni przedstawiono za pomocą czarno-białych tableaux vivants, czerpiąc z listów, a także pamiętnika prowadzonego przez samą Ernę.",
+  "producers": [
+    {
+      "id": "nm1315718",
+      "name": "Pille Rünk"
+    },
+    {
+      "id": "nm4856240",
+      "name": "Sergei Serpuhov"
+    },
+    {
+      "id": "nm2321683",
+      "name": "Piret Tibbo-Hudgins"
+    },
+    {
+      "id": "nm3678021",
+      "name": "Helen Vinogradov"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm2596976",
+      "name": "Pärt Uusberg"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm2760570",
+      "name": "Erik Põllumaa"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

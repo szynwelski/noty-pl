@@ -1,0 +1,38 @@
+{
+  "id": "nm1433588",
+  "name": "Jim Parsons",
+  "filmography": [
+    {
+      "imdb_id": "tt0333766",
+      "title": "Garden State",
+      "year": 2004,
+      "roles": [
+        "cast"
+      ],
+      "character": "Tim"
+    },
+    {
+      "imdb_id": "tt4846340",
+      "title": "Hidden Figures",
+      "year": 2016,
+      "roles": [
+        "cast"
+      ],
+      "character": "Paul Stafford"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTg1MTkxODgzMF5BMl5BanBnXkFtZTgwMjExMjgyNzM@._V1_.jpg",
+  "birth_date": "24.03.1973",
+  "birth_location": "Houston, Texas, USA",
+  "height": "1.85 m",
+  "imdb_scraped": true,
+  "filmweb_id": 138752,
+  "name_pl": "Jim Parsons",
+  "birth_location_pl": "Houston, Teksas",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 138752
+}

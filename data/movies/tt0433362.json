@@ -1,0 +1,243 @@
+{
+  "imdb_id": "tt0433362",
+  "title": "Daybreakers",
+  "description": "In the year 2019, a plague has transformed almost every human into vampires. Faced with a dwindling blood supply, the fractured dominant race plots their survival; meanwhile, a researcher works with a covert band of vamps on a way to save humankind.",
+  "runtime_minutes": 98,
+  "release_date": "08.01.2010",
+  "genres": [
+    "Action",
+    "Horror",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000160",
+      "name": "Ethan Hawke"
+    },
+    {
+      "id": "nm0000353",
+      "name": "Willem Dafoe"
+    },
+    {
+      "id": "nm0000554",
+      "name": "Sam Neill"
+    },
+    {
+      "id": "nm3735190",
+      "name": "Harriet Minto-Day"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm1294961",
+      "name": "Michael Spierig"
+    },
+    {
+      "id": "nm1294962",
+      "name": "Peter Spierig"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1294961",
+      "name": "Michael Spierig"
+    },
+    {
+      "id": "nm1294962",
+      "name": "Peter Spierig"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000160",
+      "name": "Ethan Hawke",
+      "character": "Edward Dalton"
+    },
+    {
+      "id": "nm0000353",
+      "name": "Willem Dafoe",
+      "character": "Lionel 'Elvis' Cormac"
+    },
+    {
+      "id": "nm0000554",
+      "name": "Sam Neill",
+      "character": "Charles Bromley"
+    },
+    {
+      "id": "nm3735190",
+      "name": "Harriet Minto-Day",
+      "character": "Lisa Barrett"
+    },
+    {
+      "id": "nm0481092",
+      "name": "Jay Laga'aia",
+      "character": "Senator Turner"
+    },
+    {
+      "id": "nm0960946",
+      "name": "Damien Garvey",
+      "character": "Senator Westlake"
+    },
+    {
+      "id": "nm3735235",
+      "name": "Sahaj Dumpleton",
+      "character": "Homeless Vampire"
+    },
+    {
+      "id": "nm2502771",
+      "name": "Allan Todd",
+      "character": "Businessman"
+    },
+    {
+      "id": "nm0223941",
+      "name": "Gabriella Di Labio",
+      "character": "Businesswoman"
+    },
+    {
+      "id": "nm1972696",
+      "name": "Ben Siemer",
+      "character": "Police Officer"
+    },
+    {
+      "id": "nm2730163",
+      "name": "Peter Welman",
+      "character": "Police Officer"
+    },
+    {
+      "id": "nm3735121",
+      "name": "Callum McLean",
+      "character": "Vampire School Kid"
+    },
+    {
+      "id": "nm3735100",
+      "name": "Jarrad Pon",
+      "character": "Vampire School Kid"
+    },
+    {
+      "id": "nm3735271",
+      "name": "Victoria Williams",
+      "character": "Vampire School Kid"
+    },
+    {
+      "id": "nm3735162",
+      "name": "Zoe White",
+      "character": "Vampire School Kid"
+    },
+    {
+      "id": "nm3735203",
+      "name": "Aolani Roy",
+      "character": "Vampire School Kid"
+    },
+    {
+      "id": "nm0483012",
+      "name": "Tiffany Lamb",
+      "character": "News Reader"
+    },
+    {
+      "id": "nm1561426",
+      "name": "Renai Caruso",
+      "character": "Coffee Shop Attendant"
+    }
+  ],
+  "countries": [
+    "Australia",
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 209723,
+  "year": 2009,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzg3NDYyMDU4Nl5BMl5BanBnXkFtZTcwODA5NzA5Mg@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.4,
+      "votes": 141780,
+      "distribution": {
+        "1": 1728,
+        "2": 1465,
+        "3": 2801,
+        "4": 6397,
+        "5": 16383,
+        "6": 38235,
+        "7": 43429,
+        "8": 19185,
+        "9": 5717,
+        "10": 6440
+      },
+      "normalized": 4.2919
+    },
+    "filmweb": {
+      "rating": 6.08,
+      "votes": 40617,
+      "distribution": {
+        "1": 352,
+        "2": 460,
+        "3": 1715,
+        "4": 3100,
+        "5": 6788,
+        "6": 11671,
+        "7": 10598,
+        "8": 4147,
+        "9": 956,
+        "10": 830
+      },
+      "normalized": 3.4775
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "12.04.2011",
+      "normalized": 4.9718
+    },
+    "score": 4.2471
+  },
+  "polish_title": "Daybreakers - Świt",
+  "silent": false,
+  "description_pl": "Jest rok 2019. Od 10 lat tajemnicza choroba zmienia ludzi w wampiry. Nowa rasa przejęła dominację na Ziemi. Ludzie są chwytani i hodowani jak zwierzęta, stając się niezbędnym pokarmem nowych stworzeń. Życie tych istot uzależnione jest od dostępu do krwi zdrowych ludzi, których na świecie ubywa. Kiedy gatunek ludzki jest bliski wymarcia, wśród wampirów pojawiają się obrońcy ostatnich ludzi.",
+  "producers": [
+    {
+      "id": "nm0088756",
+      "name": "Peter Block"
+    },
+    {
+      "id": "nm0113244",
+      "name": "Chris Brown"
+    },
+    {
+      "id": "nm0176065",
+      "name": "Jason Constantine"
+    },
+    {
+      "id": "nm0271474",
+      "name": "Todd Fellman"
+    },
+    {
+      "id": "nm1227576",
+      "name": "Bryan Furst"
+    },
+    {
+      "id": "nm0299120",
+      "name": "Sean Furst"
+    },
+    {
+      "id": "nm0940016",
+      "name": "Stuart Wood"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0330090",
+      "name": "Christopher Gordon"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0636603",
+      "name": "Ben Nott"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

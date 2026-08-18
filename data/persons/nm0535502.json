@@ -1,0 +1,49 @@
+{
+  "id": "nm0535502",
+  "name": "Mía Maestro",
+  "filmography": [
+    {
+      "imdb_id": "tt0120274",
+      "title": "Tango",
+      "year": 1998,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Elena Flores"
+    },
+    {
+      "imdb_id": "tt0120679",
+      "title": "Frida",
+      "year": 2002,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Cristina Kahlo"
+    },
+    {
+      "imdb_id": "tt0318462",
+      "title": "The Motorcycle Diaries",
+      "year": 2004,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Chichina Ferreyra"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYjVlZTZkMGYtOTdlNC00OTBkLTg4NzctMTZmYzE2NTYyMzQ3XkEyXkFqcGc@._V1_.jpg",
+  "birth_location": "Buenos Aires, Argentina",
+  "height": "1.63 m",
+  "imdb_scraped": true,
+  "filmweb_id": 4390,
+  "name_pl": "Mía Maestro",
+  "birth_location_pl": "Buenos Aires",
+  "gender": "F",
+  "wikidata_processed": true,
+  "birth_date": "19.06.1978",
+  "nationality": [
+    "Argentyna"
+  ]
+}

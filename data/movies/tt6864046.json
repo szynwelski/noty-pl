@@ -1,0 +1,284 @@
+{
+  "imdb_id": "tt6864046",
+  "title": "Shadow",
+  "description": "In a Chinese royal court, an army commander secretly trains a \"shadow\" to retake a city against the wishes of the king.",
+  "runtime_minutes": 116,
+  "release_date": "30.09.2018",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "History",
+    "War"
+  ],
+  "stars": [
+    {
+      "id": "nm2874732",
+      "name": "Chao Deng"
+    },
+    {
+      "id": "nm2111748",
+      "name": "Li Sun"
+    },
+    {
+      "id": "nm4404779",
+      "name": "Ryan Zheng"
+    },
+    {
+      "id": "nm3511805",
+      "name": "Qianyuan Wang"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0955443",
+      "name": "Yimou Zhang"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm8976470",
+      "name": "Wei Li"
+    },
+    {
+      "id": "nm0955443",
+      "name": "Yimou Zhang"
+    },
+    {
+      "id": "nm0837678",
+      "name": "Sujin Zhu"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm2874732",
+      "name": "Chao Deng",
+      "character": "Jing"
+    },
+    {
+      "id": "nm2111748",
+      "name": "Li Sun",
+      "character": "Madam (Wife of Commander Yu)"
+    },
+    {
+      "id": "nm4404779",
+      "name": "Ryan Zheng",
+      "character": "The King of Pei"
+    },
+    {
+      "id": "nm3511805",
+      "name": "Qianyuan Wang",
+      "character": "Captain Tian"
+    },
+    {
+      "id": "nm4592524",
+      "name": "Jingchun Wang",
+      "character": "Minister Lu"
+    },
+    {
+      "id": "nm0432425",
+      "name": "Jun Hu",
+      "character": "General Yang"
+    },
+    {
+      "id": "nm1714990",
+      "name": "Xiaotong Guan",
+      "character": "The Princess (The King's Sister)"
+    },
+    {
+      "id": "nm5142253",
+      "name": "Lei Wu",
+      "character": "Ping (General Yang's Son)"
+    },
+    {
+      "id": "nm6974936",
+      "name": "Bai Feng",
+      "character": ""
+    }
+  ],
+  "countries": [
+    "China",
+    "Hong Kong"
+  ],
+  "languages": [
+    "Mandarin"
+  ],
+  "color": "Color",
+  "filmweb_id": 811774,
+  "year": 2018,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDVmMjU1M2ItNzc4Ny00NjE0LTljNTMtYTA0NWI1ZWMzNjhkXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Ying",
+  "ratings": {
+    "imdb": {
+      "rating": 7,
+      "votes": 20043,
+      "distribution": {
+        "1": 305,
+        "2": 187,
+        "3": 303,
+        "4": 533,
+        "5": 1423,
+        "6": 3326,
+        "7": 6470,
+        "8": 4769,
+        "9": 1657,
+        "10": 1070
+      },
+      "normalized": 5.5253
+    },
+    "filmweb": {
+      "rating": 6.26,
+      "votes": 2240,
+      "distribution": {
+        "1": 14,
+        "2": 29,
+        "3": 71,
+        "4": 132,
+        "5": 337,
+        "6": 638,
+        "7": 628,
+        "8": 271,
+        "9": 76,
+        "10": 44
+      },
+      "normalized": 4.0017
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "01.10.2023",
+      "normalized": 5.6855
+    },
+    "score": 5.0708
+  },
+  "polish_title": "Cień",
+  "silent": false,
+  "description_pl": "Pełne tajemnic Królestwo Pei pogrążone jest w mroku spisków i rywalizacji o władzę, w której nawet intencje samego króla nie są jasne. Legendarny dowódca chcąc ocalić Pei przed wpływem swoich największych wrogów, sięga po skrywaną sekretnie broń – swój cień, który odtąd będzie stawiał czoła jego przeciwnikom. W sieci intryg i niedomówień szybko przestaje być jasne, kto jest nieprzyjacielem, a kto prawdziwym sprzymierzeńcem. Czy mimo wszystko dowódcy uda się zdemaskować wrogów i ocalić przed nimi ukochane Królestwo?",
+  "producers": [
+    {
+      "id": "nm2044045",
+      "name": "Lizhi Chen"
+    },
+    {
+      "id": "nm9617188",
+      "name": "Su Chen"
+    },
+    {
+      "id": "nm9038055",
+      "name": "Yingjie Chen"
+    },
+    {
+      "id": "nm3932730",
+      "name": "Edward Cheng"
+    },
+    {
+      "id": "nm6887891",
+      "name": "Yuchun Dou"
+    },
+    {
+      "id": "nm2432501",
+      "name": "Ellen Eliasoph"
+    },
+    {
+      "id": "nm8352413",
+      "name": "Li Gao"
+    },
+    {
+      "id": "nm2109486",
+      "name": "Jonah Greenberg"
+    },
+    {
+      "id": "nm9875557",
+      "name": "Keyu Guo"
+    },
+    {
+      "id": "nm8189977",
+      "name": "Ziyan Huang"
+    },
+    {
+      "id": "nm9875558",
+      "name": "Li Kang"
+    },
+    {
+      "id": "nm11565766",
+      "name": "Di Lang"
+    },
+    {
+      "id": "nm11565765",
+      "name": "Karine Li"
+    },
+    {
+      "id": "nm9617189",
+      "name": "Qing Li"
+    },
+    {
+      "id": "nm9617185",
+      "name": "Jie Lian"
+    },
+    {
+      "id": "nm9617187",
+      "name": "Jun Liu"
+    },
+    {
+      "id": "nm9016525",
+      "name": "Jim Ma"
+    },
+    {
+      "id": "nm0278338",
+      "name": "Da Mi"
+    },
+    {
+      "id": "nm2911221",
+      "name": "Liwei Pang"
+    },
+    {
+      "id": "nm9875559",
+      "name": "Willian Quan"
+    },
+    {
+      "id": "nm9875560",
+      "name": "Liang Shih"
+    },
+    {
+      "id": "nm9875561",
+      "name": "Yibin Tang"
+    },
+    {
+      "id": "nm9617186",
+      "name": "Xiaozhu Wang"
+    },
+    {
+      "id": "nm0921454",
+      "name": "Michael J. Werner"
+    },
+    {
+      "id": "nm9875562",
+      "name": "Sherry Xie"
+    },
+    {
+      "id": "nm1236491",
+      "name": "Dong Yu"
+    },
+    {
+      "id": "nm2798269",
+      "name": "Zhao Zhang"
+    },
+    {
+      "id": "nm9188660",
+      "name": "Peter Zheng"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm1823693",
+      "name": "Loudboy"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm1618536",
+      "name": "Xiaoding Zhao"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

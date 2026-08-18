@@ -1,0 +1,35 @@
+{
+  "id": "nm0817379",
+  "name": "Peter Spears",
+  "filmography": [
+    {
+      "imdb_id": "tt5726616",
+      "title": "Call Me by Your Name",
+      "year": 2017,
+      "roles": [
+        "cast",
+        "producer"
+      ],
+      "character": "Isaac"
+    },
+    {
+      "imdb_id": "tt9770150",
+      "title": "Nomadland",
+      "year": 2020,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTI0NTllZTEtNmUxNS00NjVmLTg4MTgtYjc4OTA0ZDgyNTk0XkEyXkFqcGc@._V1_.jpg",
+  "birth_location": "Kansas City, Missouri, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 145429,
+  "name_pl": "Peter Spears",
+  "birth_location_pl": "Kansas City, Kansas",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

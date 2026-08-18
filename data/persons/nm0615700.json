@@ -1,0 +1,37 @@
+{
+  "id": "nm0615700",
+  "name": "Andrzej Musial",
+  "filmography": [
+    {
+      "imdb_id": "tt0105185",
+      "title": "Psy",
+      "year": 1992,
+      "roles": [
+        "cast"
+      ],
+      "character": "Ochocki"
+    },
+    {
+      "imdb_id": "tt0300657",
+      "title": "The Hexer",
+      "year": 2001,
+      "roles": [
+        "cast"
+      ],
+      "character": "Haxo"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDEwZDBlZDgtNTU5ZC00NTYzLThhN2YtMzhjNjgyYjdhMDZmXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "1955",
+  "birth_location": "Plock, Mazowieckie, Poland",
+  "imdb_scraped": true,
+  "filmweb_id": 389972,
+  "name_pl": "Andrzej Musiał",
+  "birth_location_pl": "Płock",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Polska"
+  ],
+  "wikidata_fw_id": 389972
+}

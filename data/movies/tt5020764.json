@@ -1,0 +1,162 @@
+{
+  "imdb_id": "tt5020764",
+  "title": "Klezmer",
+  "description": "While walking through the forest during the Nazi occupation, young people find a wounded Jewish man. They now have to decide what to do with him.",
+  "runtime_minutes": 93,
+  "release_date": "09.09.2015",
+  "genres": [
+    "Drama",
+    "War"
+  ],
+  "stars": [
+    {
+      "id": "nm2022053",
+      "name": "Leslaw Zurek"
+    },
+    {
+      "id": "nm4346617",
+      "name": "Szymon Nowak"
+    },
+    {
+      "id": "nm6086479",
+      "name": "Weronika Lewon"
+    },
+    {
+      "id": "nm4002803",
+      "name": "Dorota Kuduk"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm3336086",
+      "name": "Piotr Chrzan"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm3336086",
+      "name": "Piotr Chrzan"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm2022053",
+      "name": "Leslaw Zurek",
+      "character": "Michal"
+    },
+    {
+      "id": "nm4346617",
+      "name": "Szymon Nowak",
+      "character": "Marek"
+    },
+    {
+      "id": "nm6086479",
+      "name": "Weronika Lewon",
+      "character": "Maryska"
+    },
+    {
+      "id": "nm4002803",
+      "name": "Dorota Kuduk",
+      "character": "Hanka"
+    },
+    {
+      "id": "nm3801504",
+      "name": "Kamil Przystal",
+      "character": "Witus"
+    },
+    {
+      "id": "nm6125122",
+      "name": "Filip Kosior",
+      "character": "Jewish"
+    },
+    {
+      "id": "nm6702518",
+      "name": "Ewa Jakubowicz",
+      "character": "Rozalka"
+    },
+    {
+      "id": "nm0533650",
+      "name": "Rafal Mackowiak",
+      "character": "Pazyniak"
+    },
+    {
+      "id": "nm0440760",
+      "name": "Marek Kasprzyk",
+      "character": "MIetek"
+    },
+    {
+      "id": "nm2028782",
+      "name": "Bartosz Turzynski",
+      "character": "Gendarme"
+    },
+    {
+      "id": "nm3766672",
+      "name": "Jacek Kwiecien",
+      "character": "Blue Policeman"
+    }
+  ],
+  "countries": [
+    "Poland"
+  ],
+  "languages": [
+    "Polish"
+  ],
+  "color": "Color",
+  "filmweb_id": 742215,
+  "year": 2015,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYjdjYzQ2YzctNDA3Ny00NmU2LTg3YjctNjNhYWM0NjBmOWRkXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.7,
+      "votes": 33,
+      "distribution": {
+        "1": 3,
+        "2": 0,
+        "3": 2,
+        "4": 3,
+        "5": 2,
+        "6": 8,
+        "7": 6,
+        "8": 5,
+        "9": 2,
+        "10": 2
+      },
+      "normalized": 5.2955
+    },
+    "filmweb": {
+      "rating": 6.31,
+      "votes": 347,
+      "distribution": {
+        "1": 6,
+        "2": 7,
+        "3": 24,
+        "4": 22,
+        "5": 37,
+        "6": 77,
+        "7": 75,
+        "8": 67,
+        "9": 19,
+        "10": 13
+      },
+      "normalized": 4.5324
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "12.10.2020",
+      "normalized": 7.1247
+    },
+    "score": 5.6509
+  },
+  "polish_title": "Klezmer",
+  "silent": false,
+  "description_pl": "Jest słoneczny letni dzień 1943 roku, Polska znajduje się pod niemiecką  okupacją. Grupa młodych ludzi, mieszkańców pobliskiej wsi, wybiera się  do lasu zbierać szyszki i chrust na opał. Rozmawiają, flirtują, snują  plany na przyszłość. Wyprawa ta nie skończy się jednak tak jak sądzili;  pewne wydarzenie spowoduje, że będą musieli zmierzyć się z zupełnie nową  sytuacją, w jakiej jeszcze nigdy nie byli, która będzie miała  decydujący wpływ na ich losy.",
+  "cinematographers": [
+    {
+      "id": "nm4682884",
+      "name": "Sylwester Kazmierczak"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

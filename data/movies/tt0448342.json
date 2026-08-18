@@ -1,0 +1,225 @@
+{
+  "imdb_id": "tt0448342",
+  "title": "Someone Else's Happiness",
+  "description": "A village outside Brussels in rocked by the hit-and-run killing of a child.",
+  "runtime_minutes": 100,
+  "release_date": "07.12.2005",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0311655",
+      "name": "Ina Geerts"
+    },
+    {
+      "id": "nm0824373",
+      "name": "Johanna ter Steege"
+    },
+    {
+      "id": "nm0508085",
+      "name": "Johan Leysen"
+    },
+    {
+      "id": "nm0111600",
+      "name": "Natali Broods"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0873260",
+      "name": "Fien Troch"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0873260",
+      "name": "Fien Troch"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0311655",
+      "name": "Ina Geerts",
+      "character": "Christine"
+    },
+    {
+      "id": "nm0824373",
+      "name": "Johanna ter Steege",
+      "character": "Ann"
+    },
+    {
+      "id": "nm0508085",
+      "name": "Johan Leysen",
+      "character": "Francis"
+    },
+    {
+      "id": "nm0111600",
+      "name": "Natali Broods",
+      "character": "Gerda"
+    },
+    {
+      "id": "nm2021318",
+      "name": "Elmo Mistiaen",
+      "character": "Sam"
+    },
+    {
+      "id": "nm0886045",
+      "name": "Peter Van den Begin",
+      "character": "Mark"
+    },
+    {
+      "id": "nm0210918",
+      "name": "Josse De Pauw",
+      "character": "Inspecteur"
+    },
+    {
+      "id": "nm0616217",
+      "name": "Viviane de Muynck",
+      "character": "Moeder Christine"
+    },
+    {
+      "id": "nm1594369",
+      "name": "Gilles Lagay",
+      "character": "Vader Christine"
+    },
+    {
+      "id": "nm0887769",
+      "name": "Geert Van Rampelberg",
+      "character": "Collega Mark"
+    },
+    {
+      "id": "nm0165982",
+      "name": "Robbie Cleiren",
+      "character": "Fred"
+    },
+    {
+      "id": "nm0888652",
+      "name": "Bruno Vanden Broecke",
+      "character": "Hendrik"
+    },
+    {
+      "id": "nm0098107",
+      "name": "Sara De Bosschere",
+      "character": "Marie"
+    },
+    {
+      "id": "nm2087459",
+      "name": "Frank Chartier",
+      "character": "Njord"
+    },
+    {
+      "id": "nm2140857",
+      "name": "Laure Humblet",
+      "character": "Vicky"
+    },
+    {
+      "id": "nm2146990",
+      "name": "Gilles Vandecaveye",
+      "character": "Nico"
+    },
+    {
+      "id": "nm0684513",
+      "name": "Arend Pinoy",
+      "character": "Stijn"
+    },
+    {
+      "id": "nm1345980",
+      "name": "Els Deceukelier",
+      "character": "Sonja"
+    }
+  ],
+  "countries": [
+    "Belgium",
+    "Netherlands"
+  ],
+  "languages": [
+    "Dutch"
+  ],
+  "color": "Color",
+  "filmweb_id": 277340,
+  "year": 2005,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTgxMDQ2ODQ0OV5BMl5BanBnXkFtZTgwNjMzMzI0MjE@._V1_.jpg",
+  "original_title": "Een ander zijn geluk",
+  "ratings": {
+    "imdb": {
+      "rating": 6.2,
+      "votes": 492,
+      "distribution": {
+        "1": 13,
+        "2": 14,
+        "3": 21,
+        "4": 36,
+        "5": 67,
+        "6": 98,
+        "7": 90,
+        "8": 87,
+        "9": 36,
+        "10": 30
+      },
+      "normalized": 4.7739
+    },
+    "filmweb": {
+      "rating": 6.53,
+      "votes": 19,
+      "distribution": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 3,
+        "6": 7,
+        "7": 3,
+        "8": 2,
+        "9": 1,
+        "10": 2
+      },
+      "normalized": 5.17
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "31.07.2006",
+      "normalized": 6.3474
+    },
+    "score": 5.4304
+  },
+  "polish_title": "Cudze szczęście",
+  "silent": false,
+  "description_pl": "Całe życie Christine (Ina Geerts) ulega zmianie, kiedy znajduje na drodze dziecięce ciało. Ofiara została potrącona przez kierowcę, który uciekł z miejsca wypadku, zostawiając ją na pewną śmierć. Wydarzenie powoduje poruszenie całej lokalnej społeczności małego miasteczka, lecz im dalej postępują poszukiwania zabójcy, tym więcej skrywanych tajemnic wychodzi na jaw. Śmierć dziecka nieoczekiwanie staje się okazją do wyrównywania starych rachunków, ale także do poszukiwania własnego szczęścia.",
+  "producers": [
+    {
+      "id": "nm0067408",
+      "name": "Jeroen Beker"
+    },
+    {
+      "id": "nm1857199",
+      "name": "Ilse Joye"
+    },
+    {
+      "id": "nm0518429",
+      "name": "Antonino Lombardo"
+    },
+    {
+      "id": "nm0873262",
+      "name": "Ludo Troch"
+    },
+    {
+      "id": "nm0315180",
+      "name": "Frans van Gestel"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm2017864",
+      "name": "Peter Van Laerhoven"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0886139",
+      "name": "Frank van den Eeden"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

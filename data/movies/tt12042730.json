@@ -1,0 +1,283 @@
+{
+  "imdb_id": "tt12042730",
+  "title": "Project Hail Mary",
+  "description": "A science teacher wakes up alone on a spaceship. As his memory returns, he uncovers a mission to stop a mysterious substance killing Earth's sun, and realizes that an unexpected friendship may be the key.",
+  "runtime_minutes": 156,
+  "release_date": "20.03.2026",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm0331516",
+      "name": "Ryan Gosling"
+    },
+    {
+      "id": "nm1197689",
+      "name": "Sandra Hüller"
+    },
+    {
+      "id": "nm4013922",
+      "name": "James Ortiz"
+    },
+    {
+      "id": "nm5152633",
+      "name": "Lionel Boyce"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0520488",
+      "name": "Phil Lord"
+    },
+    {
+      "id": "nm0588087",
+      "name": "Christopher Miller"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1206844",
+      "name": "Drew Goddard"
+    },
+    {
+      "id": "nm1083982",
+      "name": "Andy Weir"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0331516",
+      "name": "Ryan Gosling",
+      "character": "Ryland Grace"
+    },
+    {
+      "id": "nm1197689",
+      "name": "Sandra Hüller",
+      "character": "Eva Stratt"
+    },
+    {
+      "id": "nm4013922",
+      "name": "James Ortiz",
+      "character": "Rocky"
+    },
+    {
+      "id": "nm5152633",
+      "name": "Lionel Boyce",
+      "character": "Carl"
+    },
+    {
+      "id": "nm2168927",
+      "name": "Milana Vayntrub",
+      "character": "Olesya Ilyukhina"
+    },
+    {
+      "id": "nm0504962",
+      "name": "Ken Leung",
+      "character": "Yao"
+    },
+    {
+      "id": "nm13067986",
+      "name": "Priya Kansara",
+      "character": "Mary"
+    },
+    {
+      "id": "nm0815420",
+      "name": "Mia Soteriou",
+      "character": "Dr. Browne"
+    },
+    {
+      "id": "nm8352984",
+      "name": "Annelle Olaleye",
+      "character": "Olivia"
+    },
+    {
+      "id": "nm18315694",
+      "name": "Maya Eva Hosein",
+      "character": "Rekha"
+    },
+    {
+      "id": "nm10072799",
+      "name": "Bastian Antonio Fuentes",
+      "character": "Parker"
+    },
+    {
+      "id": "nm7635404",
+      "name": "Alice Brittain",
+      "character": "Hardware Store Cashier"
+    },
+    {
+      "id": "nm8751303",
+      "name": "Michael Akinsulire",
+      "character": "Air Force Officer"
+    },
+    {
+      "id": "nm8966445",
+      "name": "Travis Jay",
+      "character": "Tilt-a-Whirl"
+    },
+    {
+      "id": "nm3904821",
+      "name": "Geoffrey Lumb",
+      "character": "Aircraft Carrier Officer"
+    },
+    {
+      "id": "nm0995902",
+      "name": "Paul Lambert",
+      "character": "Dr. Scyther"
+    },
+    {
+      "id": "nm4093657",
+      "name": "Orion Lee",
+      "character": "Dr. Li"
+    },
+    {
+      "id": "nm1208035",
+      "name": "Aaron Neil",
+      "character": "Narender"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 10047841,
+  "year": 2026,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTkwNzJiYTctNzI3NC00NjE1LTlhYjktY2Q5MTdmMWFmNzcxXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8.2,
+      "votes": 504149,
+      "distribution": {
+        "1": 3384,
+        "2": 1588,
+        "3": 2368,
+        "4": 3629,
+        "5": 8066,
+        "6": 22620,
+        "7": 66626,
+        "8": 136721,
+        "9": 137797,
+        "10": 121350
+      },
+      "normalized": 8.0909
+    },
+    "filmweb": {
+      "rating": 7.87,
+      "votes": 55948,
+      "distribution": {
+        "1": 131,
+        "2": 129,
+        "3": 333,
+        "4": 461,
+        "5": 1427,
+        "6": 3987,
+        "7": 12271,
+        "8": 19897,
+        "9": 12074,
+        "10": 5238
+      },
+      "normalized": 7.974
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "09.05.2026",
+      "normalized": 6.4102
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "05.05.2026",
+      "normalized": 7.2292
+    },
+    "score": 7.4261
+  },
+  "polish_title": "Projekt Hail Mary",
+  "silent": false,
+  "description_pl": "Nauczyciel nauk ścisłych Ryland Grace (<a href=\"/osoba/?id=nm0331516\">Ryan Gosling</a>) budzi się na statku kosmicznym lata świetlne od domu, nie pamiętając, kim jest ani jak się tam znalazł. Gdy wraca mu pamięć, zaczyna odkrywać swoją misję: rozwiązać zagadkę tajemniczej substancji powodującej wygaśnięcie słońca. Musi wykorzystać swoją wiedzę naukową i niekonwencjonalne pomysły, aby ocalić wszystko na Ziemi przed zagładą, ale nieoczekiwana przyjaźń oznacza, że być może nie będzie musiał robić tego sam.",
+  "producers": [
+    {
+      "id": "nm5065316",
+      "name": "Nikki Baida"
+    },
+    {
+      "id": "nm1209665",
+      "name": "Sarah Esberg"
+    },
+    {
+      "id": "nm1206844",
+      "name": "Drew Goddard"
+    },
+    {
+      "id": "nm0331516",
+      "name": "Ryan Gosling"
+    },
+    {
+      "id": "nm0002647",
+      "name": "Barrie Hemsley"
+    },
+    {
+      "id": "nm1585571",
+      "name": "Ross Jensen"
+    },
+    {
+      "id": "nm4056338",
+      "name": "Ken Kao"
+    },
+    {
+      "id": "nm5860767",
+      "name": "Lucy Kitada"
+    },
+    {
+      "id": "nm0520488",
+      "name": "Phil Lord"
+    },
+    {
+      "id": "nm0588087",
+      "name": "Christopher Miller"
+    },
+    {
+      "id": "nm1471418",
+      "name": "Rachel O'Connor"
+    },
+    {
+      "id": "nm1166871",
+      "name": "Amy Pascal"
+    },
+    {
+      "id": "nm1533078",
+      "name": "Aditya Sood"
+    },
+    {
+      "id": "nm1083982",
+      "name": "Andy Weir"
+    },
+    {
+      "id": "nm0924357",
+      "name": "Patricia Whitcher"
+    },
+    {
+      "id": "nm7212481",
+      "name": "J Wheeler White"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm1207404",
+      "name": "Daniel Pemberton"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0292132",
+      "name": "Greig Fraser"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

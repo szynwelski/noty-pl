@@ -1,0 +1,248 @@
+{
+  "imdb_id": "tt0119278",
+  "title": "Chicago Cab",
+  "description": "A Chicago cab driver's night shift becomes a kaleidoscope of humanity. With each fare, his initial cold demeanor softens, revealing unexpected depth amid cameos from familiar faces.",
+  "runtime_minutes": 96,
+  "release_date": "02.10.1998",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0227051",
+      "name": "Paul Dillon"
+    },
+    {
+      "id": "nm0303816",
+      "name": "Tim Gamble"
+    },
+    {
+      "id": "nm0872410",
+      "name": "Olivia Trevino"
+    },
+    {
+      "id": "nm0365128",
+      "name": "Moira Sinise"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0194191",
+      "name": "Mary Cybulski"
+    },
+    {
+      "id": "nm0864091",
+      "name": "John Tintori"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0449509",
+      "name": "Will Kern"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0227051",
+      "name": "Paul Dillon",
+      "character": "Cab Driver"
+    },
+    {
+      "id": "nm0303816",
+      "name": "Tim Gamble",
+      "character": "Religious Father"
+    },
+    {
+      "id": "nm0872410",
+      "name": "Olivia Trevino",
+      "character": "4-Year Old Girl"
+    },
+    {
+      "id": "nm0365128",
+      "name": "Moira Sinise",
+      "character": "Religious Mother"
+    },
+    {
+      "id": "nm0451294",
+      "name": "Rana Khan",
+      "character": "Pakistani"
+    },
+    {
+      "id": "nm0857355",
+      "name": "Darryl Theirse",
+      "character": "X-Hat"
+    },
+    {
+      "id": "nm0000461",
+      "name": "Michael Ironside",
+      "character": "Al"
+    },
+    {
+      "id": "nm0205688",
+      "name": "Shanesia Davis",
+      "character": "Lawyer"
+    },
+    {
+      "id": "nm0761279",
+      "name": "Laura Kellogg Sandberg",
+      "character": "Bug-Eyed Woman"
+    },
+    {
+      "id": "nm0887363",
+      "name": "Phillip Edward Van Lear",
+      "character": "Father-to-Be"
+    },
+    {
+      "id": "nm0428960",
+      "name": "Ora Jones",
+      "character": "Pregnant Woman"
+    },
+    {
+      "id": "nm0788335",
+      "name": "Michael Shannon",
+      "character": "Crack Head"
+    },
+    {
+      "id": "nm0184736",
+      "name": "Shulie Cowen",
+      "character": "Stoner Girl"
+    },
+    {
+      "id": "nm0745139",
+      "name": "Andrew Rothenberg",
+      "character": "Homer"
+    },
+    {
+      "id": "nm0504832",
+      "name": "Tracy Letts",
+      "character": "Sports Fan"
+    },
+    {
+      "id": "nm0355389",
+      "name": "Carol Hall",
+      "character": "Mega Shopper"
+    },
+    {
+      "id": "nm0718085",
+      "name": "Tim Reinhard",
+      "character": "Geek"
+    },
+    {
+      "id": "nm0846246",
+      "name": "Hubert Taczanowski",
+      "character": "Immigrant"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 4534,
+  "year": 1997,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDRkYjNlOGItNDI2MC00MDRlLWIxN2UtYmM4Y2I5N2FmMmVlXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.4,
+      "votes": 2167,
+      "distribution": {
+        "1": 85,
+        "2": 33,
+        "3": 56,
+        "4": 130,
+        "5": 239,
+        "6": 396,
+        "7": 489,
+        "8": 340,
+        "9": 159,
+        "10": 240
+      },
+      "normalized": 4.5773
+    },
+    "filmweb": {
+      "rating": 7.02,
+      "votes": 553,
+      "distribution": {
+        "1": 4,
+        "2": 1,
+        "3": 9,
+        "4": 21,
+        "5": 52,
+        "6": 94,
+        "7": 163,
+        "8": 116,
+        "9": 56,
+        "10": 37
+      },
+      "normalized": 5.4612
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "19.10.2005",
+      "normalized": 5.4199
+    },
+    "score": 5.1528
+  },
+  "polish_title": "Diabelska taksówka",
+  "silent": false,
+  "description_pl": "14 godzin z życia Chicago widziane oczami taksówkarza. Jeżdżąc swoją taksówką po niebezpiecznych zakątkach miasta poznaje wielu ludzi, często nieszczęśliwych, często groźnych. Jego pasażerami są ludzie doświadczeni przez los, przestępcy, desperaci, a także kobieta w ciąży, która właśnie zaczyna rodzić.",
+  "producers": [
+    {
+      "id": "nm0000131",
+      "name": "John Cusack"
+    },
+    {
+      "id": "nm0212340",
+      "name": "Suzanne De Walt"
+    },
+    {
+      "id": "nm0222584",
+      "name": "D.V. DeVincentis"
+    },
+    {
+      "id": "nm0227051",
+      "name": "Paul Dillon"
+    },
+    {
+      "id": "nm0330291",
+      "name": "Jamie Gordon"
+    },
+    {
+      "id": "nm0398258",
+      "name": "Gary Howsam"
+    },
+    {
+      "id": "nm0546161",
+      "name": "Paul Marcus"
+    },
+    {
+      "id": "nm0604804",
+      "name": "Kathy Morgan"
+    },
+    {
+      "id": "nm0684336",
+      "name": "Steve Pink"
+    },
+    {
+      "id": "nm1144215",
+      "name": "Charles Weber"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0358091",
+      "name": "Page Hamilton"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0846246",
+      "name": "Hubert Taczanowski"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

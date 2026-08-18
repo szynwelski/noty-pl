@@ -1,0 +1,31 @@
+{
+  "id": "nm0000891",
+  "name": "Wallace Beery",
+  "filmography": [
+    {
+      "imdb_id": "tt0022958",
+      "title": "Grand Hotel",
+      "year": 1932,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "General Director Preysing"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BN2YwZDBjZWEtMTk5OS00MmJiLWJiMDMtODQyZmQ1MmYyZjQyXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "01.04.1885",
+  "death_date": "15.04.1949",
+  "birth_location": "Kansas City, Missouri, USA",
+  "height": "1.80 m",
+  "imdb_scraped": true,
+  "filmweb_id": 61445,
+  "name_pl": "Wallace Beery",
+  "birth_location_pl": "Kansas City, Missouri",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 61445
+}

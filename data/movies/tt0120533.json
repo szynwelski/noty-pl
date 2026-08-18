@@ -1,0 +1,223 @@
+{
+  "imdb_id": "tt0120533",
+  "title": "Celebrity",
+  "description": "The fortunes of a husband and wife differ drastically after they divorce.",
+  "runtime_minutes": 113,
+  "release_date": "20.11.1998",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0000110",
+      "name": "Kenneth Branagh"
+    },
+    {
+      "id": "nm0001114",
+      "name": "Judy Davis"
+    },
+    {
+      "id": "nm0000138",
+      "name": "Leonardo DiCaprio"
+    },
+    {
+      "id": "nm0609549",
+      "name": "Greg Mottola"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000095",
+      "name": "Woody Allen"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000095",
+      "name": "Woody Allen"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000110",
+      "name": "Kenneth Branagh",
+      "character": "Lee Simon"
+    },
+    {
+      "id": "nm0001114",
+      "name": "Judy Davis",
+      "character": "Robin Simon"
+    },
+    {
+      "id": "nm0000138",
+      "name": "Leonardo DiCaprio",
+      "character": "Brandon Darrow"
+    },
+    {
+      "id": "nm0609549",
+      "name": "Greg Mottola",
+      "character": "Director"
+    },
+    {
+      "id": "nm0002520",
+      "name": "Jeff Mazzola",
+      "character": "Assistant Director"
+    },
+    {
+      "id": "nm0591268",
+      "name": "Dick Mingalone",
+      "character": "Camera Operator"
+    },
+    {
+      "id": "nm0080891",
+      "name": "Vladimir Bibic",
+      "character": "Director of Photography"
+    },
+    {
+      "id": "nm0000429",
+      "name": "Melanie Griffith",
+      "character": "Nicole Oliver"
+    },
+    {
+      "id": "nm7695954",
+      "name": "Francisco Quijada",
+      "character": "Erno Delucca"
+    },
+    {
+      "id": "nm0657760",
+      "name": "Aleksa Palladino",
+      "character": "Production Assistant"
+    },
+    {
+      "id": "nm0602821",
+      "name": "Dan Moran",
+      "character": "Jackhammer Operator"
+    },
+    {
+      "id": "nm0144831",
+      "name": "Peter Castellotti",
+      "character": "Sound Recordist"
+    },
+    {
+      "id": "nm0606338",
+      "name": "A. Lee Morris",
+      "character": "Second Assistant Cameraperson"
+    },
+    {
+      "id": "nm0569790",
+      "name": "Douglas McGrath",
+      "character": "Bill Gaines"
+    },
+    {
+      "id": "nm0814400",
+      "name": "Maurice Sonnenberg",
+      "character": "Dalton Freed"
+    },
+    {
+      "id": "nm0000213",
+      "name": "Winona Ryder",
+      "character": "Nola"
+    },
+    {
+      "id": "nm0880637",
+      "name": "Craig Ulmschneider",
+      "character": "Daniel - Production Assistant"
+    },
+    {
+      "id": "nm0075957",
+      "name": "Mina Bern",
+      "character": "Elderly Homeowner"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 23,
+  "year": 1998,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTIyZjBlZWMtMWYyNS00Yjc1LWE1NjktMGZlNzdjZTdjYWQwXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.3,
+      "votes": 28811,
+      "distribution": {
+        "1": 1010,
+        "2": 514,
+        "3": 763,
+        "4": 1593,
+        "5": 3649,
+        "6": 7320,
+        "7": 7275,
+        "8": 3873,
+        "9": 1282,
+        "10": 1532
+      },
+      "normalized": 4.1751
+    },
+    "filmweb": {
+      "rating": 6.89,
+      "votes": 12345,
+      "distribution": {
+        "1": 70,
+        "2": 62,
+        "3": 205,
+        "4": 383,
+        "5": 1089,
+        "6": 2401,
+        "7": 4179,
+        "8": 2643,
+        "9": 658,
+        "10": 655
+      },
+      "normalized": 5.4181
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "16.01.2006",
+      "normalized": 5.4199
+    },
+    "score": 5.0044
+  },
+  "polish_title": "Celebrity",
+  "silent": false,
+  "description_pl": "Niedoszły pisarz i niespełniony dziennikarz, Lee (<a href=\"/osoba/?id=nm0000110\">Kenneth Branagh</a>) i znerwicowana nauczycielka języka angielskiego, Robin (<a href=\"/osoba/?id=nm0001114\">Judy Davis</a>), po szesnastu latach wspólnego małżeństwa postanawiają się rozwieźć. Po rozstaniu on chce nadrobić zaległości towarzyskie i zawodowe, za wszelką cenę próbując dostać się do świata celebrytów, ona z kolei próbując pozbierać się po odejściu męża, poznaje producenta telewizyjnego, który w mgnieniu oka robi z niej gwiazdę. \n<a href=\"/osoba/?id=nm0000095\">Woody Allen</a> opowiada historię dwojga ludzi, którzy zatracają się w dążeniu do kariery zapominają o prawdziwych wartościach.",
+  "producers": [
+    {
+      "id": "nm0036981",
+      "name": "Letty Aronson"
+    },
+    {
+      "id": "nm0064286",
+      "name": "J.E. Beaucaire"
+    },
+    {
+      "id": "nm0003673",
+      "name": "Richard Brick"
+    },
+    {
+      "id": "nm0235389",
+      "name": "Jean Doumanian"
+    },
+    {
+      "id": "nm0423618",
+      "name": "Charles H. Joffe"
+    },
+    {
+      "id": "nm0738435",
+      "name": "Jack Rollins"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005815",
+      "name": "Sven Nykvist"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

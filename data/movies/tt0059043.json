@@ -1,0 +1,180 @@
+{
+  "imdb_id": "tt0059043",
+  "title": "The Collector",
+  "description": "A man kidnaps a woman and holds her hostage just for the pleasure of having her there.",
+  "runtime_minutes": 119,
+  "release_date": "14.08.1965",
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000654",
+      "name": "Terence Stamp"
+    },
+    {
+      "id": "nm0002058",
+      "name": "Samantha Eggar"
+    },
+    {
+      "id": "nm0913332",
+      "name": "Mona Washbourne"
+    },
+    {
+      "id": "nm0198090",
+      "name": "Maurice Dallimore"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0943758",
+      "name": "William Wyler"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0288826",
+      "name": "John Fowles"
+    },
+    {
+      "id": "nm0463385",
+      "name": "John Kohn"
+    },
+    {
+      "id": "nm0542970",
+      "name": "Stanley Mann"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000654",
+      "name": "Terence Stamp",
+      "character": "Freddie Clegg"
+    },
+    {
+      "id": "nm0002058",
+      "name": "Samantha Eggar",
+      "character": "Miranda Grey"
+    },
+    {
+      "id": "nm0913332",
+      "name": "Mona Washbourne",
+      "character": "Aunt Annie"
+    },
+    {
+      "id": "nm0198090",
+      "name": "Maurice Dallimore",
+      "character": "Colonel Whitcomb - The Neighbor"
+    },
+    {
+      "id": "nm0603336",
+      "name": "Kenneth More",
+      "character": "Miranda's Older Friend"
+    },
+    {
+      "id": "nm0024672",
+      "name": "Allyson Ames",
+      "character": "First Victim"
+    },
+    {
+      "id": "nm0054049",
+      "name": "Gordon Barclay",
+      "character": "Clerk"
+    },
+    {
+      "id": "nm0065778",
+      "name": "William Beckley",
+      "character": "Crutchley"
+    },
+    {
+      "id": "nm0081065",
+      "name": "William Bickley",
+      "character": "Crutchley"
+    },
+    {
+      "id": "nm0369849",
+      "name": "David Haviland",
+      "character": "Clerk"
+    },
+    {
+      "id": "nm0739914",
+      "name": "Edina Ronay",
+      "character": "Nurse"
+    }
+  ],
+  "countries": [
+    "United Kingdom",
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 32176,
+  "year": 1965,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDZiYmRiMmEtZDcyOS00ZjU2LTlmNjUtMDMzNGIxYjA0ZjgxXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.5,
+      "votes": 13304,
+      "distribution": {
+        "1": 109,
+        "2": 57,
+        "3": 94,
+        "4": 194,
+        "5": 517,
+        "6": 1452,
+        "7": 3474,
+        "8": 4459,
+        "9": 1617,
+        "10": 1331
+      },
+      "normalized": 6.3396
+    },
+    "filmweb": {
+      "rating": 7.62,
+      "votes": 2521,
+      "distribution": {
+        "1": 10,
+        "2": 7,
+        "3": 15,
+        "4": 31,
+        "5": 118,
+        "6": 221,
+        "7": 673,
+        "8": 857,
+        "9": 354,
+        "10": 235
+      },
+      "normalized": 6.7086
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "15.11.2007",
+      "normalized": 7.2292
+    },
+    "score": 6.7591
+  },
+  "polish_title": "Kolekcjoner",
+  "silent": false,
+  "description_pl": "\"Kolekcjoner\" opowiada o Fryderyku Cleggu - młodym urzędniku, kolekcjonerze motyli, który zakochuje się w studentce malarstwa, Mirandzie Grey. Po wnikliwej obserwacji Clegg porywa Mirandę, jak nowy, niezwykle interesujący okaz. Zamyka ją w piwnicy swojego domu i mimo jej próśb nie zgadza się zwrócić jej wolności. Przy tym ciągle ma nadzieję, że ona mimo tego, co zrobił dostrzeże w nim wrażliwego, inteligentnego mężczyznę i zakocha się w nim.",
+  "producers": [
+    {
+      "id": "nm0454167",
+      "name": "Jud Kinberg"
+    },
+    {
+      "id": "nm0463385",
+      "name": "John Kohn"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0003574",
+      "name": "Maurice Jarre"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

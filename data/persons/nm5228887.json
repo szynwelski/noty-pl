@@ -1,0 +1,49 @@
+{
+  "id": "nm5228887",
+  "name": "Ben Hardy",
+  "filmography": [
+    {
+      "imdb_id": "tt3385516",
+      "title": "X-Men: Apocalypse",
+      "year": 2016,
+      "roles": [
+        "cast"
+      ],
+      "character": "Angel"
+    },
+    {
+      "imdb_id": "tt1727824",
+      "title": "Bohemian Rhapsody",
+      "year": 2018,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Roger Taylor"
+    },
+    {
+      "imdb_id": "tt8106534",
+      "title": "6 Underground",
+      "year": 2019,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Four"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjAzMDExNDYxMl5BMl5BanBnXkFtZTgwODY2MTE2NjM@._V1_.jpg",
+  "birth_date": "02.01.1991",
+  "birth_location": "Bournemouth, Dorset, England, UK",
+  "height": "1.78 m",
+  "imdb_scraped": true,
+  "filmweb_id": 2316254,
+  "name_pl": "Ben Hardy",
+  "birth_location_pl": "Bournemouth, Anglia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 2316254
+}

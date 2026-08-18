@@ -1,0 +1,39 @@
+{
+  "id": "nm0000693",
+  "name": "Peter Weller",
+  "filmography": [
+    {
+      "imdb_id": "tt0093870",
+      "title": "RoboCop",
+      "year": 1987,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Murphy"
+    },
+    {
+      "imdb_id": "tt1408101",
+      "title": "Star Trek Into Darkness",
+      "year": 2013,
+      "roles": [
+        "cast"
+      ],
+      "character": "Marcus"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTE5MTIxNTM1NV5BMl5BanBnXkFtZTYwOTMzNjc1._V1_.jpg",
+  "birth_date": "24.06.1947",
+  "birth_location": "Stevens Point, Wisconsin, USA",
+  "height": "1.83 m",
+  "imdb_scraped": true,
+  "filmweb_id": 6723,
+  "name_pl": "Peter Weller",
+  "birth_location_pl": "Stevens Point, Wisconsin",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 6723
+}

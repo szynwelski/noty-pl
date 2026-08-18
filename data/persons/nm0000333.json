@@ -1,0 +1,30 @@
+{
+  "id": "nm0000333",
+  "name": "Cher",
+  "filmography": [
+    {
+      "imdb_id": "tt0086312",
+      "title": "Silkwood",
+      "year": 1983,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Dolly Pelliker"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTc1NTM4NzQ1Ml5BMl5BanBnXkFtZTcwNjc3MDgwNA@@._V1_.jpg",
+  "birth_date": "20.05.1946",
+  "birth_location": "El Centro, California, USA",
+  "height": "1.74 m",
+  "imdb_scraped": true,
+  "filmweb_id": 21,
+  "name_pl": "Cher",
+  "birth_location_pl": "El Centro, Kalifornia",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 21
+}

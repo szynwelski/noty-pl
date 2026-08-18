@@ -1,0 +1,263 @@
+{
+  "imdb_id": "tt0113568",
+  "title": "Ghost in the Shell",
+  "description": "A cyborg policewoman and her partner hunt a mysterious and powerful hacker called the Puppet Master.",
+  "runtime_minutes": 83,
+  "release_date": "29.03.1996",
+  "genres": [
+    "Animation",
+    "Action",
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0848968",
+      "name": "Atsuko Tanaka"
+    },
+    {
+      "id": "nm0443509",
+      "name": "Iemasa Kayumi"
+    },
+    {
+      "id": "nm0960033",
+      "name": "Akio Ôtsuka"
+    },
+    {
+      "id": "nm0945290",
+      "name": "Kôichi Yamadera"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0651900",
+      "name": "Mamoru Oshii"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0794385",
+      "name": "Shirow Masamune"
+    },
+    {
+      "id": "nm0411872",
+      "name": "Kazunori Itô"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0848968",
+      "name": "Atsuko Tanaka",
+      "character": "Motoko Kusanagi"
+    },
+    {
+      "id": "nm0443509",
+      "name": "Iemasa Kayumi",
+      "character": "The Puppet Master"
+    },
+    {
+      "id": "nm0960033",
+      "name": "Akio Ôtsuka",
+      "character": "Batô"
+    },
+    {
+      "id": "nm0945290",
+      "name": "Kôichi Yamadera",
+      "character": "Togusa"
+    },
+    {
+      "id": "nm0645634",
+      "name": "Tamio Ôki",
+      "character": "Aramaki"
+    },
+    {
+      "id": "nm1563697",
+      "name": "Yutaka Nakano",
+      "character": "Ishikawa"
+    },
+    {
+      "id": "nm0312656",
+      "name": "Tesshô Genda",
+      "character": "Nakamura"
+    },
+    {
+      "id": "nm0945377",
+      "name": "Kazuhiro Yamaji",
+      "character": "Garbage collector"
+    },
+    {
+      "id": "nm0594420",
+      "name": "Mitsuru Miyamoto",
+      "character": "Daida Mizuho"
+    },
+    {
+      "id": "nm1616932",
+      "name": "Namaki Masakazu",
+      "character": "Urisu hakase"
+    },
+    {
+      "id": "nm0157133",
+      "name": "Shigeru Chiba",
+      "character": "Seisô kyokuin"
+    },
+    {
+      "id": "nm0945671",
+      "name": "Masato Yamanouchi",
+      "character": "Gaimu daijin"
+    },
+    {
+      "id": "nm0644564",
+      "name": "Shinji Ogawa",
+      "character": "Gaikôkan"
+    },
+    {
+      "id": "nm0407527",
+      "name": "Hiroshi Yanaka",
+      "character": "Kenshi-kan"
+    },
+    {
+      "id": "nm0559604",
+      "name": "Ginzô Matsuo",
+      "character": "Ossan"
+    },
+    {
+      "id": "nm0559690",
+      "name": "Takashi Matsuyama",
+      "character": "Jikkô-han"
+    },
+    {
+      "id": "nm0643897",
+      "name": "Sanryô Odaka",
+      "character": "Gishi"
+    },
+    {
+      "id": "nm1575546",
+      "name": "Masamichi Satô",
+      "character": "Untenshu"
+    }
+  ],
+  "countries": [
+    "Japan",
+    "United Kingdom"
+  ],
+  "languages": [
+    "Japanese"
+  ],
+  "color": "Color",
+  "filmweb_id": 31866,
+  "year": 1995,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzljMjA3MTQtMjM1OS00OGJjLWJiYzctZDRiMTk1NWI5YzQ5XkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Kôkaku kidôtai",
+  "ratings": {
+    "imdb": {
+      "rating": 7.9,
+      "votes": 176063,
+      "distribution": {
+        "1": 1203,
+        "2": 625,
+        "3": 934,
+        "4": 1853,
+        "5": 4401,
+        "6": 12002,
+        "7": 31507,
+        "8": 55203,
+        "9": 36424,
+        "10": 31911
+      },
+      "normalized": 7.2463
+    },
+    "filmweb": {
+      "rating": 7.86,
+      "votes": 72169,
+      "distribution": {
+        "1": 606,
+        "2": 209,
+        "3": 582,
+        "4": 875,
+        "5": 2302,
+        "6": 5399,
+        "7": 14462,
+        "8": 23093,
+        "9": 15210,
+        "10": 9431
+      },
+      "normalized": 7.937
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "11.08.2010",
+      "normalized": 6.4102
+    },
+    "score": 7.1978
+  },
+  "polish_title": "Ghost in the Shell",
+  "silent": false,
+  "description_pl": "Akcja rozgrywa się w roku 2029 w świecie, w którym komputery są wszechobecne. Wraz z ich ekspansją zmieniła się definicja przestępstwa. Teraz najgorszą zbrodnią jest włamywanie się do sieci. Aby temu zapobiec, powołano specjalny oddział Sekcja 9 składający się z cyborgów mających dostęp do sieci z każdego miejsca na Ziemi. \"Ghost in the Shell\" opowiada o poszukiwaniach przez parę agentów groźnego hakera ukrywającego się pod pseudonimem \"Władca marionetek\".",
+  "producers": [
+    {
+      "id": "nm0289654",
+      "name": "Andy Frain"
+    },
+    {
+      "id": "nm0347418",
+      "name": "Laurence Guinness"
+    },
+    {
+      "id": "nm0406596",
+      "name": "Makoto Ibuki"
+    },
+    {
+      "id": "nm0411070",
+      "name": "Mitsuhisa Ishikawa"
+    },
+    {
+      "id": "nm0412669",
+      "name": "Ken Iyadomi"
+    },
+    {
+      "id": "nm0559526",
+      "name": "Ken Matsumoto"
+    },
+    {
+      "id": "nm0594353",
+      "name": "Teruo Miyahara"
+    },
+    {
+      "id": "nm0594697",
+      "name": "Yoshimasa Mizuo"
+    },
+    {
+      "id": "nm0595754",
+      "name": "Takashi Mogi"
+    },
+    {
+      "id": "nm0837711",
+      "name": "Yasushi Sukeof"
+    },
+    {
+      "id": "nm13835583",
+      "name": "Shigeru Watanabe"
+    },
+    {
+      "id": "nm0945698",
+      "name": "Hiroshi Yamazaki"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0442766",
+      "name": "Kenji Kawai"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0794174",
+      "name": "Hisao Shirai"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

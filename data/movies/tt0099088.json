@@ -1,0 +1,239 @@
+{
+  "imdb_id": "tt0099088",
+  "title": "Back to the Future Part III",
+  "description": "Stranded in 1955, Marty McFly learns about the death of Doc Brown in 1885 and must travel back in time to save him. With no fuel readily available for the DeLorean, the two must figure how to escape the Old West before Emmett is murdered.",
+  "runtime_minutes": 118,
+  "release_date": "25.05.1990",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Sci-Fi",
+    "Western"
+  ],
+  "stars": [
+    {
+      "id": "nm0000150",
+      "name": "Michael J. Fox"
+    },
+    {
+      "id": "nm0000502",
+      "name": "Christopher Lloyd"
+    },
+    {
+      "id": "nm0005460",
+      "name": "Mary Steenburgen"
+    },
+    {
+      "id": "nm0001855",
+      "name": "Tom Wilson"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000709",
+      "name": "Robert Zemeckis"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000709",
+      "name": "Robert Zemeckis"
+    },
+    {
+      "id": "nm0301826",
+      "name": "Bob Gale"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000150",
+      "name": "Michael J. Fox",
+      "character": "Marty McFly"
+    },
+    {
+      "id": "nm0000502",
+      "name": "Christopher Lloyd",
+      "character": "Doctor Emmett Brown"
+    },
+    {
+      "id": "nm0005460",
+      "name": "Mary Steenburgen",
+      "character": "Clara Clayton"
+    },
+    {
+      "id": "nm0001855",
+      "name": "Tom Wilson",
+      "character": "Buford 'Mad Dog' Tannen"
+    },
+    {
+      "id": "nm0000670",
+      "name": "Lea Thompson",
+      "character": "Maggie McFly"
+    },
+    {
+      "id": "nm0000223",
+      "name": "Elisabeth Shue",
+      "character": "Jennifer"
+    },
+    {
+      "id": "nm0164273",
+      "name": "Matt Clark",
+      "character": "Bartender"
+    },
+    {
+      "id": "nm0246004",
+      "name": "Richard Dysart",
+      "character": "Barbwire Salesman"
+    },
+    {
+      "id": "nm0125426",
+      "name": "Pat Buttram",
+      "character": "Saloon Old Timers"
+    },
+    {
+      "id": "nm0001013",
+      "name": "Harry Carey Jr.",
+      "character": "Saloon Old Timers"
+    },
+    {
+      "id": "nm0852305",
+      "name": "Dub Taylor",
+      "character": "Saloon Old Timers"
+    },
+    {
+      "id": "nm0866055",
+      "name": "James Tolkan",
+      "character": "Marshal Strickland"
+    },
+    {
+      "id": "nm0566013",
+      "name": "Marc McClure",
+      "character": "Dave McFly"
+    },
+    {
+      "id": "nm0818274",
+      "name": "Wendie Jo Sperber",
+      "character": "Linda McFly"
+    },
+    {
+      "id": "nm0919297",
+      "name": "Jeffrey Weissman",
+      "character": "George McFly"
+    },
+    {
+      "id": "nm0944018",
+      "name": "Christopher Wynne",
+      "character": "Buford Tannen's Gang"
+    },
+    {
+      "id": "nm0838340",
+      "name": "Sean Sullivan",
+      "character": "Buford Tannen's Gang"
+    },
+    {
+      "id": "nm0914635",
+      "name": "Mike Watson",
+      "character": "Buford Tannen's Gang"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 8825,
+  "year": 1990,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTNkNzJmY2MtOGNjYi00NDJmLWIyZTQtNmFmMGQ5M2VlOTI0XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.5,
+      "votes": 524618,
+      "distribution": {
+        "1": 2015,
+        "2": 1650,
+        "3": 3232,
+        "4": 7389,
+        "5": 21739,
+        "6": 66574,
+        "7": 159730,
+        "8": 142642,
+        "9": 58037,
+        "10": 61610
+      },
+      "normalized": 6.4939
+    },
+    "filmweb": {
+      "rating": 7.45,
+      "votes": 162498,
+      "distribution": {
+        "1": 560,
+        "2": 493,
+        "3": 1419,
+        "4": 2898,
+        "5": 7779,
+        "6": 20886,
+        "7": 47600,
+        "8": 46898,
+        "9": 19383,
+        "10": 14582
+      },
+      "normalized": 6.6113
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "02.12.2005",
+      "normalized": 4.9718
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "19.10.2005",
+      "normalized": 5.4199
+    },
+    "score": 5.8742
+  },
+  "polish_title": "Powrót do przyszłości III",
+  "silent": false,
+  "description_pl": "Tym razem Dr Brown wylądował na Dzikim Zachodzie w roku 1885. Jednak po dziewięciu miesiącach pobytu został zastrzelony. Na pomoc rusza mu Marty, ale sam popada w kłopoty. Jedynym dla nich wyjściem jest powrót do przyszłości. Niestety nie jest to możliwe, bo wehikuł ma przebity bak...",
+  "producers": [
+    {
+      "id": "nm0134635",
+      "name": "Neil Canton"
+    },
+    {
+      "id": "nm0301826",
+      "name": "Bob Gale"
+    },
+    {
+      "id": "nm0005086",
+      "name": "Kathleen Kennedy"
+    },
+    {
+      "id": "nm0550881",
+      "name": "Frank Marshall"
+    },
+    {
+      "id": "nm0000229",
+      "name": "Steven Spielberg"
+    },
+    {
+      "id": "nm0823330",
+      "name": "Steve Starkey"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006293",
+      "name": "Alan Silvestri"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005678",
+      "name": "Dean Cundey"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

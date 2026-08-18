@@ -1,0 +1,35 @@
+{
+  "id": "nm0501015",
+  "name": "Stanislaw Lem",
+  "filmography": [
+    {
+      "imdb_id": "tt0069293",
+      "title": "Solaris",
+      "year": 1972,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0307479",
+      "title": "Solaris",
+      "year": 2002,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BY2UxYjljMGQtMWU5My00ZWViLTliYjYtZmQzZjk5ZjJjZGFhXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "12.09.1921",
+  "death_date": "27.03.2006",
+  "birth_location": "Lwów, Lwowskie, Poland [now Lviv, Ukraine]",
+  "imdb_scraped": true,
+  "filmweb_id": 75583,
+  "name_pl": "Stanisław Lem",
+  "birth_location_pl": "Lwów",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Polska"
+  ]
+}

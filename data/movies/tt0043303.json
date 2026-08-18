@@ -1,0 +1,206 @@
+{
+  "imdb_id": "tt0043303",
+  "title": "The Red Inn",
+  "description": "A group of travelers, including a monk, stay in a lonely inn in the mountains. The host confesses the monk his habit of serving a soporific soup to the guests, to rob their possessions and to bury them in the backyard. The story unfolds as the monk tries to save the guest's lives without violating the holy secrecy of the confession.",
+  "runtime_minutes": 98,
+  "release_date": "07.06.1954",
+  "genres": [
+    "Comedy",
+    "Crime"
+  ],
+  "stars": [
+    {
+      "id": "nm0272794",
+      "name": "Fernandel"
+    },
+    {
+      "id": "nm0741147",
+      "name": "Françoise Rosay"
+    },
+    {
+      "id": "nm0647130",
+      "name": "Marie-Claire Olivia"
+    },
+    {
+      "id": "nm0146613",
+      "name": "Jean-Roger Caussimon"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0002193",
+      "name": "Claude Autant-Lara"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0042179",
+      "name": "Jean Aurenche"
+    },
+    {
+      "id": "nm0098204",
+      "name": "Pierre Bost"
+    },
+    {
+      "id": "nm0002193",
+      "name": "Claude Autant-Lara"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0272794",
+      "name": "Fernandel",
+      "character": "The Monk"
+    },
+    {
+      "id": "nm0741147",
+      "name": "Françoise Rosay",
+      "character": "Marie Martin"
+    },
+    {
+      "id": "nm0647130",
+      "name": "Marie-Claire Olivia",
+      "character": "Mathilde Martin"
+    },
+    {
+      "id": "nm0146613",
+      "name": "Jean-Roger Caussimon",
+      "character": "Darwin"
+    },
+    {
+      "id": "nm0314590",
+      "name": "Nane Germon",
+      "character": "Elisa"
+    },
+    {
+      "id": "nm0195954",
+      "name": "Didier d'Yd",
+      "character": "Jeannou"
+    },
+    {
+      "id": "nm0314472",
+      "name": "Lud Germain",
+      "character": "Fetiche"
+    },
+    {
+      "id": "nm0153405",
+      "name": "Jacques Charon",
+      "character": "Rodolphe"
+    },
+    {
+      "id": "nm6492315",
+      "name": "Andrée Viala",
+      "character": "La Marquise Caroline"
+    },
+    {
+      "id": "nm0077340",
+      "name": "Robert Berri",
+      "character": "Le Cocher"
+    },
+    {
+      "id": "nm0154948",
+      "name": "André Cheff",
+      "character": "Un gendarme"
+    },
+    {
+      "id": "nm0197930",
+      "name": "André Dalibert",
+      "character": "Woodcutter"
+    },
+    {
+      "id": "nm0039510",
+      "name": "Grégoire Aslan",
+      "character": "Barboeuf"
+    },
+    {
+      "id": "nm0136853",
+      "name": "Julien Carette",
+      "character": "Pierre Martin"
+    },
+    {
+      "id": "nm0598971",
+      "name": "Yves Montand",
+      "character": "Singing Commentator"
+    },
+    {
+      "id": "nm0308885",
+      "name": "Manuel Gary",
+      "character": "Un gendarme"
+    },
+    {
+      "id": "nm0498961",
+      "name": "René Lefèvre-Bel",
+      "character": "Un autre gendarme"
+    }
+  ],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "French"
+  ],
+  "color": "Black and White",
+  "year": 1951,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTkwNTg3MjIxN15BMl5BanBnXkFtZTgwNzgwNjQ1MjE@._V1_.jpg",
+  "filmweb_id": 104079,
+  "original_title": "L'auberge rouge",
+  "ratings": {
+    "imdb": {
+      "rating": 7.2,
+      "votes": 1741,
+      "distribution": {
+        "1": 27,
+        "2": 14,
+        "3": 16,
+        "4": 34,
+        "5": 106,
+        "6": 259,
+        "7": 480,
+        "8": 442,
+        "9": 189,
+        "10": 174
+      },
+      "normalized": 5.6774
+    },
+    "filmweb": {
+      "rating": 7.21,
+      "votes": 1314,
+      "distribution": {
+        "1": 4,
+        "2": 3,
+        "3": 9,
+        "4": 22,
+        "5": 67,
+        "6": 228,
+        "7": 425,
+        "8": 385,
+        "9": 113,
+        "10": 58
+      },
+      "normalized": 5.8234
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "27.11.2005",
+      "normalized": 4.5781
+    },
+    "score": 5.3596
+  },
+  "polish_title": "Czerwona oberża",
+  "silent": false,
+  "description_pl": "Grupka podróżników, a wśród nich mnich grany przez <a href=\"/osoba/?id=nm0272794\">Fernandela</a>, zatrzymuje się w samotnej oberży położonej daleko w górach, którą prowadzi nietypowe małżeństwo. Gdy właścicielka w trakcie spowiedzi wyznaje mnichowi, że od lat dolewa gościom do zupy truciznę, ten postanawia uratować nieszczęśników, z którymi przybył...",
+  "composers": [
+    {
+      "id": "nm0006011",
+      "name": "René Cloërec"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0045168",
+      "name": "André Bac"
+    }
+  ],
+  "fetched_at": "2026-08-15"
+}

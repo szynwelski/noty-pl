@@ -1,0 +1,176 @@
+{
+  "imdb_id": "tt16350296",
+  "title": "The Attendant",
+  "description": "Short film about a man beating the system.",
+  "runtime_minutes": 12,
+  "release_date": "2012",
+  "genres": [
+    "Short",
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0001160",
+      "name": "Adrian Dunbar"
+    },
+    {
+      "id": "nm2988926",
+      "name": "Abigail McGibbon"
+    },
+    {
+      "id": "nm0564525",
+      "name": "Frankie McCafferty"
+    },
+    {
+      "id": "nm0334324",
+      "name": "Stuart Graham"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0064155",
+      "name": "Ian Beattie"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0064155",
+      "name": "Ian Beattie"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0001160",
+      "name": "Adrian Dunbar",
+      "character": "Frankie"
+    },
+    {
+      "id": "nm2988926",
+      "name": "Abigail McGibbon",
+      "character": "Cathy"
+    },
+    {
+      "id": "nm0564525",
+      "name": "Frankie McCafferty",
+      "character": "Paul"
+    },
+    {
+      "id": "nm0334324",
+      "name": "Stuart Graham",
+      "character": "Maxwell"
+    },
+    {
+      "id": "nm0571137",
+      "name": "Alan McKee",
+      "character": "Cathal"
+    },
+    {
+      "id": "nm1307898",
+      "name": "Alexandra Ford",
+      "character": "On the Phone"
+    }
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 10034518,
+  "year": 2012,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNjgyOTgyZWItYjRlNC00MWY5LThjZTQtYjUzOGViMjA1YjU0XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.9,
+      "votes": 161,
+      "distribution": {
+        "1": 2,
+        "2": 1,
+        "3": 2,
+        "4": 8,
+        "5": 15,
+        "6": 18,
+        "7": 57,
+        "8": 37,
+        "9": 10,
+        "10": 11
+      },
+      "normalized": 5.3118
+    },
+    "filmweb": {
+      "rating": 4.82,
+      "votes": 11,
+      "distribution": {
+        "1": 1,
+        "2": 2,
+        "3": 0,
+        "4": 1,
+        "5": 2,
+        "6": 2,
+        "7": 2,
+        "8": 1,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 5.0022
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "21.12.2022",
+      "normalized": 4.5781
+    },
+    "score": 4.964
+  },
+  "polish_title": "The Attendant",
+  "silent": false,
+  "description_pl": "Frankie to chłopak parkingowy w Irlandii Północnej, którego oczy zawsze zwrócone są ku przyszłości. Pracuje przy spektakularnej Grobli Olbrzyma w hrabstwie Antrim, jednym z irlandzkich cudów natury. Jednak gdy jego przyjaciółka Cathy i jej mąż Paul wpadają w tarapaty, Frankie powtarza, jak ma z resztą w zwyczaju, że coś się wykombinuje.",
+  "producers": [
+    {
+      "id": "nm13128315",
+      "name": "Andrea Beattie"
+    },
+    {
+      "id": "nm0064155",
+      "name": "Ian Beattie"
+    },
+    {
+      "id": "nm13189438",
+      "name": "Stewart Beattie"
+    },
+    {
+      "id": "nm13189434",
+      "name": "Tommy Beattie"
+    },
+    {
+      "id": "nm13189435",
+      "name": "Mark Conroy"
+    },
+    {
+      "id": "nm13189436",
+      "name": "Tony Diver"
+    },
+    {
+      "id": "nm1063438",
+      "name": "Stuart Spence"
+    },
+    {
+      "id": "nm13189437",
+      "name": "Patrick Walsh"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm3002390",
+      "name": "Neil Martin"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm2975835",
+      "name": "Ryan Kernaghan"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "nm0001203",
+  "name": "William Faulkner",
+  "filmography": [
+    {
+      "imdb_id": "tt0038355",
+      "title": "The Big Sleep",
+      "year": 1946,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMmNhOWEzNGUtMDAxOC00Yjc3LTliY2UtNDcxMTBiMDkyYTE3XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "25.09.1897",
+  "death_date": "06.07.1962",
+  "birth_location": "New Albany, Mississippi, USA",
+  "height": "1.66 m",
+  "imdb_scraped": true,
+  "filmweb_id": 49188,
+  "name_pl": "William Faulkner",
+  "birth_location_pl": "New Albany, Missisipi",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

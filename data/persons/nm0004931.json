@@ -1,0 +1,40 @@
+{
+  "id": "nm0004931",
+  "name": "June Foray",
+  "filmography": [
+    {
+      "imdb_id": "tt0060345",
+      "title": "How the Grinch Stole Christmas!",
+      "year": 1966,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Cindy Lou Who"
+    },
+    {
+      "imdb_id": "tt0120762",
+      "title": "Mulan",
+      "year": 1998,
+      "roles": [
+        "cast"
+      ],
+      "character": "Grandmother Fa"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODc4NzU3NjY5Ml5BMl5BanBnXkFtZTcwMzMxNzkyMg@@._V1_.jpg",
+  "birth_date": "18.09.1917",
+  "death_date": "26.07.2017",
+  "birth_location": "Springfield, Massachusetts, USA",
+  "height": "1.50 m",
+  "imdb_scraped": true,
+  "filmweb_id": 40491,
+  "name_pl": "June Foray",
+  "birth_location_pl": "Springfield, Massachusetts",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 40491
+}

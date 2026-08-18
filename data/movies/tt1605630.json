@@ -1,0 +1,251 @@
+{
+  "imdb_id": "tt1605630",
+  "title": "American Reunion",
+  "description": "Jim, Michelle, Stifler, and their friends reunite in East Great Falls, Michigan for their high school reunion.",
+  "runtime_minutes": 113,
+  "release_date": "06.04.2012",
+  "genres": [
+    "Comedy"
+  ],
+  "stars": [
+    {
+      "id": "nm0004755",
+      "name": "Jason Biggs"
+    },
+    {
+      "id": "nm0004989",
+      "name": "Alyson Hannigan"
+    },
+    {
+      "id": "nm0005405",
+      "name": "Seann William Scott"
+    },
+    {
+      "id": "nm0005098",
+      "name": "Chris Klein"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm1375358",
+      "name": "Jon Hurwitz"
+    },
+    {
+      "id": "nm1376383",
+      "name": "Hayden Schlossberg"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1375358",
+      "name": "Jon Hurwitz"
+    },
+    {
+      "id": "nm1376383",
+      "name": "Hayden Schlossberg"
+    },
+    {
+      "id": "nm0381221",
+      "name": "Adam Herz"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0004755",
+      "name": "Jason Biggs",
+      "character": "Jim"
+    },
+    {
+      "id": "nm0004989",
+      "name": "Alyson Hannigan",
+      "character": "Michelle"
+    },
+    {
+      "id": "nm0005405",
+      "name": "Seann William Scott",
+      "character": "Stifler"
+    },
+    {
+      "id": "nm0005098",
+      "name": "Chris Klein",
+      "character": "Oz"
+    },
+    {
+      "id": "nm0005272",
+      "name": "Thomas Ian Nicholas",
+      "character": "Kevin"
+    },
+    {
+      "id": "nm0005346",
+      "name": "Tara Reid",
+      "character": "Vicky"
+    },
+    {
+      "id": "nm0002546",
+      "name": "Mena Suvari",
+      "character": "Heather"
+    },
+    {
+      "id": "nm0858776",
+      "name": "Eddie Kaye Thomas",
+      "character": "Finch"
+    },
+    {
+      "id": "nm0158626",
+      "name": "John Cho",
+      "character": "MILF Guy #2"
+    },
+    {
+      "id": "nm0177639",
+      "name": "Jennifer Coolidge",
+      "character": "Stifler's Mom"
+    },
+    {
+      "id": "nm0506405",
+      "name": "Eugene Levy",
+      "character": "Jim's Dad"
+    },
+    {
+      "id": "nm0005169",
+      "name": "Natasha Lyonne",
+      "character": "Jessica"
+    },
+    {
+      "id": "nm1268158",
+      "name": "Dania Ramirez",
+      "character": "Selena"
+    },
+    {
+      "id": "nm2197298",
+      "name": "Katrina Bowden",
+      "character": "Mia"
+    },
+    {
+      "id": "nm0364280",
+      "name": "Jay Harrington",
+      "character": "Dr. Ron"
+    },
+    {
+      "id": "nm3196681",
+      "name": "Ali Cobrin",
+      "character": "Kara"
+    },
+    {
+      "id": "nm1778468",
+      "name": "Charles Hittinger",
+      "character": "AJ"
+    },
+    {
+      "id": "nm0002436",
+      "name": "Shannon Elizabeth",
+      "character": "Nadia"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 593914,
+  "year": 2012,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTY4MTEyMzU1N15BMl5BanBnXkFtZTcwNDQ0NTc1Nw@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.7,
+      "votes": 235005,
+      "distribution": {
+        "1": 3362,
+        "2": 2129,
+        "3": 3926,
+        "4": 8366,
+        "5": 21209,
+        "6": 49434,
+        "7": 70430,
+        "8": 39212,
+        "9": 15250,
+        "10": 21687
+      },
+      "normalized": 4.8786
+    },
+    "filmweb": {
+      "rating": 6.75,
+      "votes": 139341,
+      "distribution": {
+        "1": 1498,
+        "2": 1201,
+        "3": 3382,
+        "4": 5758,
+        "5": 13201,
+        "6": 27645,
+        "7": 43180,
+        "8": 27587,
+        "9": 9638,
+        "10": 6251
+      },
+      "normalized": 4.9942
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "13.02.2013",
+      "normalized": 4.9718
+    },
+    "score": 4.9482
+  },
+  "polish_title": "American Pie: Zjazd absolwentów",
+  "silent": false,
+  "description_pl": "Ulubieni bohaterowie kultowej serii \"American Pie\" spotykają się po latach podczas zjazdu absolwentów. Spotkanie uświadomi im, że choć przez ponad dekadę zmieniło się wiele, to jednak ani czas, ani odległość nie są w stanie zmienić starych nawyków. Zjazd przerodzi się w odjechaną imprezę, na której nie zabraknie… szarlotki i, oczywiście, mamy Stiflera! Seria \"American Pie\" na całym świecie zarobiła jak dotąd łącznie ponad 700 milionów dolarów.",
+  "producers": [
+    {
+      "id": "nm0004755",
+      "name": "Jason Biggs"
+    },
+    {
+      "id": "nm0007067",
+      "name": "Louis G. Friedman"
+    },
+    {
+      "id": "nm0381221",
+      "name": "Adam Herz"
+    },
+    {
+      "id": "nm0601031",
+      "name": "Chris Moore"
+    },
+    {
+      "id": "nm0675013",
+      "name": "Craig Perry"
+    },
+    {
+      "id": "nm0005405",
+      "name": "Seann William Scott"
+    },
+    {
+      "id": "nm0919363",
+      "name": "Chris Weitz"
+    },
+    {
+      "id": "nm0919369",
+      "name": "Paul Weitz"
+    },
+    {
+      "id": "nm0956015",
+      "name": "Warren Zide"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm1015867",
+      "name": "Lyle Workman"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0645401",
+      "name": "Daryn Okada"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

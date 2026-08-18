@@ -1,0 +1,232 @@
+{
+  "imdb_id": "tt1126618",
+  "title": "Morning Glory",
+  "description": "An upstart television producer accepts the challenge of reviving a struggling morning show program with warring co-hosts.",
+  "runtime_minutes": 107,
+  "release_date": "10.11.2010",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm1046097",
+      "name": "Rachel McAdams"
+    },
+    {
+      "id": "nm0000148",
+      "name": "Harrison Ford"
+    },
+    {
+      "id": "nm0000473",
+      "name": "Diane Keaton"
+    },
+    {
+      "id": "nm0063800",
+      "name": "Noah Bean"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0585011",
+      "name": "Roger Michell"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0112459",
+      "name": "Aline Brosh McKenna"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1046097",
+      "name": "Rachel McAdams",
+      "character": "Becky"
+    },
+    {
+      "id": "nm0000148",
+      "name": "Harrison Ford",
+      "character": "Mike Pomeroy"
+    },
+    {
+      "id": "nm0000473",
+      "name": "Diane Keaton",
+      "character": "Colleen Peck"
+    },
+    {
+      "id": "nm0063800",
+      "name": "Noah Bean",
+      "character": "First Date"
+    },
+    {
+      "id": "nm2274324",
+      "name": "Jack Davidson",
+      "character": "Dog Walking Neighbor"
+    },
+    {
+      "id": "nm0039665",
+      "name": "Vanessa Aspillaga",
+      "character": "Anna"
+    },
+    {
+      "id": "nm1865598",
+      "name": "Jeff Hiller",
+      "character": "Sam - Channel 9 Producer"
+    },
+    {
+      "id": "nm0694212",
+      "name": "Linda Powell",
+      "character": "Louanne"
+    },
+    {
+      "id": "nm4154892",
+      "name": "Mike Hydeck",
+      "character": "Ralph"
+    },
+    {
+      "id": "nm3824426",
+      "name": "Joseph J. Vargas",
+      "character": "Channel 9 Director"
+    },
+    {
+      "id": "nm3983078",
+      "name": "Mario Frieson",
+      "character": "Channel 9 Technical Director"
+    },
+    {
+      "id": "nm2796775",
+      "name": "Kevin Herbst",
+      "character": "Channel 9 Associate Director"
+    },
+    {
+      "id": "nm0918443",
+      "name": "Jerome Weinstein",
+      "character": "Fred"
+    },
+    {
+      "id": "nm0661950",
+      "name": "Steve Park",
+      "character": "Channel 9 Weatherperson"
+    },
+    {
+      "id": "nm0285046",
+      "name": "David Fonteno",
+      "character": "Oscar"
+    },
+    {
+      "id": "nm0001091",
+      "name": "Patti D'Arbanville",
+      "character": "Becky's Mom"
+    },
+    {
+      "id": "nm0000156",
+      "name": "Jeff Goldblum",
+      "character": "Jerry Barnes"
+    },
+    {
+      "id": "nm0933940",
+      "name": "Patrick Wilson",
+      "character": "Adam Bennett"
+    }
+  ],
+  "countries": [
+    "United Kingdom",
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Ukrainian",
+    "Spanish"
+  ],
+  "color": "Color",
+  "filmweb_id": 487563,
+  "year": 2010,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZDQ4NTdkZTAtNjk2Mi00NjkxLWI2ZjktYzNjMjViY2Q3ZDViXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.5,
+      "votes": 87867,
+      "distribution": {
+        "1": 790,
+        "2": 750,
+        "3": 1456,
+        "4": 3413,
+        "5": 9364,
+        "6": 23493,
+        "7": 27431,
+        "8": 12343,
+        "9": 4185,
+        "10": 4642
+      },
+      "normalized": 4.5074
+    },
+    "filmweb": {
+      "rating": 6.32,
+      "votes": 45243,
+      "distribution": {
+        "1": 135,
+        "2": 179,
+        "3": 946,
+        "4": 2098,
+        "5": 6519,
+        "6": 14691,
+        "7": 14112,
+        "8": 4990,
+        "9": 980,
+        "10": 593
+      },
+      "normalized": 3.9383
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "11.06.2015",
+      "normalized": 4.9718
+    },
+    "score": 4.4725
+  },
+  "polish_title": "Dzień dobry TV",
+  "silent": false,
+  "description_pl": "Poranny program telewizyjny prowadzi para prezenterów- Mike Pomeroy (<a href=\"/osoba/?id=nm0000148\">Harrison Ford</a>) i Colleen Peck (<a href=\"/osoba/?id=nm0000473\">Diane Keaton</a>), którzy żywo się ze sobą sprzeczają. Nowa producentka Becky Fuller (<a href=\"/osoba/?id=nm1046097\">Rachel McAdams</a>) stara się podnieść oglądalność podupadającego programu i w tym celu, pogodzić prowadzących.",
+  "producers": [
+    {
+      "id": "nm0009190",
+      "name": "J.J. Abrams"
+    },
+    {
+      "id": "nm1333357",
+      "name": "Bryan Burk"
+    },
+    {
+      "id": "nm1602119",
+      "name": "Sherryl Clark"
+    },
+    {
+      "id": "nm0624041",
+      "name": "Udi Nedivi"
+    },
+    {
+      "id": "nm0726099",
+      "name": "Guy Riedel"
+    },
+    {
+      "id": "nm6618222",
+      "name": "Lindsey Weber"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0003417",
+      "name": "David Arnold"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0473696",
+      "name": "Alwin H. Küchler"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

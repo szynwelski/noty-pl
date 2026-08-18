@@ -1,0 +1,95 @@
+{
+  "imdb_id": "tt0000011",
+  "title": "Acrobatic Potpourri",
+  "description": "The fifth sequence of the \"Wintergartenprogramm (1895)\" by the Skladanowsky Brothers. In it, eight circus performers known as the Grunato Family perform their famous balancing act.",
+  "runtime_minutes": 1,
+  "release_date": "01.11.1895",
+  "genres": [
+    "Documentary",
+    "Short"
+  ],
+  "stars": [
+    {
+      "id": "nm3692297",
+      "name": "Grunato"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0804434",
+      "name": "Max Skladanowsky"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm3692297",
+      "name": "Grunato",
+      "character": "Self - Acrobats"
+    }
+  ],
+  "countries": [
+    "Germany"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 229114,
+  "year": 1895,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODdhY2VmNTItYTM5My00MjQ0LTgzMTUtMjk2ZTE0ODAwYzYzXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.2,
+      "votes": 465,
+      "distribution": {
+        "1": 27,
+        "2": 19,
+        "3": 34,
+        "4": 53,
+        "5": 139,
+        "6": 108,
+        "7": 42,
+        "8": 9,
+        "9": 9,
+        "10": 25
+      },
+      "normalized": 4.1988
+    },
+    "filmweb": {
+      "rating": 4.89,
+      "votes": 36,
+      "distribution": {
+        "1": 3,
+        "2": 2,
+        "3": 6,
+        "4": 4,
+        "5": 6,
+        "6": 5,
+        "7": 7,
+        "8": 2,
+        "9": 0,
+        "10": 1
+      },
+      "normalized": 4.7238
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "11.12.2016",
+      "normalized": 4.9718
+    },
+    "score": 4.6315
+  },
+  "polish_title": "Akrobatisches Potpourri",
+  "silent": true,
+  "description_pl": "Film przedstawia pokazy cyrkowe ośmiu akrobatów znanych jako rodzina Grunato.",
+  "cinematographers": [
+    {
+      "id": "nm0804434",
+      "name": "Max Skladanowsky"
+    }
+  ],
+  "composers": [],
+  "original_title": "Akrobatisches Potpourri",
+  "fetched_at": "2026-08-15"
+}

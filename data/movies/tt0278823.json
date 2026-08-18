@@ -1,0 +1,220 @@
+{
+  "imdb_id": "tt0278823",
+  "title": "Hollywood Ending",
+  "description": "A director is forced to work with the ex-wife who left him for the boss of the studio bankrolling his new film. But the night before the first day of shooting, he develops a case of psychosomatic blindness.",
+  "runtime_minutes": 112,
+  "release_date": "03.05.2002",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0000095",
+      "name": "Woody Allen"
+    },
+    {
+      "id": "nm0000495",
+      "name": "Téa Leoni"
+    },
+    {
+      "id": "nm0233646",
+      "name": "Bob Dorian"
+    },
+    {
+      "id": "nm0552423",
+      "name": "Ivan Martin"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000095",
+      "name": "Woody Allen"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000095",
+      "name": "Woody Allen"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000095",
+      "name": "Woody Allen",
+      "character": "Val"
+    },
+    {
+      "id": "nm0000495",
+      "name": "Téa Leoni",
+      "character": "Ellie"
+    },
+    {
+      "id": "nm0233646",
+      "name": "Bob Dorian",
+      "character": "Galaxie Executive"
+    },
+    {
+      "id": "nm0552423",
+      "name": "Ivan Martin",
+      "character": "Galaxie Executive"
+    },
+    {
+      "id": "nm0248981",
+      "name": "Gregg Edelman",
+      "character": "Galaxie Executive"
+    },
+    {
+      "id": "nm0001313",
+      "name": "George Hamilton",
+      "character": "Ed"
+    },
+    {
+      "id": "nm0001852",
+      "name": "Treat Williams",
+      "character": "Hal"
+    },
+    {
+      "id": "nm0005226",
+      "name": "Debra Messing",
+      "character": "Lori"
+    },
+    {
+      "id": "nm0400223",
+      "name": "Neal Huff",
+      "character": "Commercial A.D."
+    },
+    {
+      "id": "nm0041932",
+      "name": "Mark Rydell",
+      "character": "Al"
+    },
+    {
+      "id": "nm0569790",
+      "name": "Douglas McGrath",
+      "character": "Barbeque Guest"
+    },
+    {
+      "id": "nm0745029",
+      "name": "Stephanie Roth Haberle",
+      "character": "Barbeque Guest"
+    },
+    {
+      "id": "nm0314086",
+      "name": "Bill Gerber",
+      "character": "Barbeque Guest"
+    },
+    {
+      "id": "nm1166945",
+      "name": "Roxanne Perry",
+      "character": "Barbeque Guest"
+    },
+    {
+      "id": "nm1006690",
+      "name": "Barbara Carroll",
+      "character": "Carlyle Pianist"
+    },
+    {
+      "id": "nm0259844",
+      "name": "Howard Erskine",
+      "character": "Carlyle Patron"
+    },
+    {
+      "id": "nm0950531",
+      "name": "Yu Lu",
+      "character": "Cameraman"
+    },
+    {
+      "id": "nm0155539",
+      "name": "Barney Cheng",
+      "character": "Translator"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Mandarin"
+  ],
+  "color": "Color",
+  "filmweb_id": 32869,
+  "year": 2002,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjExNTgwMjk4NV5BMl5BanBnXkFtZTYwMDAxODM3._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.5,
+      "votes": 29212,
+      "distribution": {
+        "1": 632,
+        "2": 318,
+        "3": 550,
+        "4": 1190,
+        "5": 2862,
+        "6": 7028,
+        "7": 9296,
+        "8": 4537,
+        "9": 1492,
+        "10": 1307
+      },
+      "normalized": 4.5393
+    },
+    "filmweb": {
+      "rating": 7.02,
+      "votes": 14301,
+      "distribution": {
+        "1": 95,
+        "2": 40,
+        "3": 168,
+        "4": 334,
+        "5": 928,
+        "6": 2394,
+        "7": 5102,
+        "8": 3808,
+        "9": 1054,
+        "10": 378
+      },
+      "normalized": 5.6456
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "27.10.2005",
+      "normalized": 5.4199
+    },
+    "score": 5.2016
+  },
+  "polish_title": "Koniec z Hollywood",
+  "silent": false,
+  "description_pl": "Val Waxman to reżyser filmowy, który największe sukcesy odnosił w latach 70-tych i 80-tych, a dziś został zredukowany do kręcenia reklamówek telewizyjnych. Wreszcie dostaję ofertę nakręcenia dużego filmu. Niestety spotyka go katastrofa, gdyż Val czasowo traci wzrok, co doprowadza go do paranoi. Jednak ma przy sobie kilkoro przyjaciół, którzy pomagają mu nie przerywać pracy i zachować jego problem w tajemnicy przed producentami filmu.",
+  "producers": [
+    {
+      "id": "nm0036981",
+      "name": "Letty Aronson"
+    },
+    {
+      "id": "nm0423618",
+      "name": "Charles H. Joffe"
+    },
+    {
+      "id": "nm0732193",
+      "name": "Helen Robin"
+    },
+    {
+      "id": "nm0738435",
+      "name": "Jack Rollins"
+    },
+    {
+      "id": "nm1008264",
+      "name": "Stephen Tenenbaum"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0003371",
+      "name": "Wedigo von Schultzendorff"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

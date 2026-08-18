@@ -1,0 +1,77 @@
+{
+  "id": "nm0000162",
+  "name": "Anne Heche",
+  "filmography": [
+    {
+      "imdb_id": "tt0119008",
+      "title": "Donnie Brasco",
+      "year": 1997,
+      "roles": [
+        "cast"
+      ],
+      "character": "Maggie"
+    },
+    {
+      "imdb_id": "tt0119345",
+      "title": "I Know What You Did Last Summer",
+      "year": 1997,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Melissa Egan"
+    },
+    {
+      "imdb_id": "tt0155975",
+      "title": "Psycho",
+      "year": 1998,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Marion Crane"
+    },
+    {
+      "imdb_id": "tt0251160",
+      "title": "John Q",
+      "year": 2002,
+      "roles": [
+        "cast"
+      ],
+      "character": "Rebecca Payne"
+    },
+    {
+      "imdb_id": "tt0337876",
+      "title": "Birth",
+      "year": 2004,
+      "roles": [
+        "cast"
+      ],
+      "character": "Clara"
+    },
+    {
+      "imdb_id": "tt1186370",
+      "title": "Spread",
+      "year": 2009,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Samantha"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTI1MzgwNzc2Ml5BMl5BanBnXkFtZTYwNTU3NjAz._V1_.jpg",
+  "birth_date": "25.05.1969",
+  "death_date": "11.08.2022",
+  "birth_location": "Aurora, Ohio, USA",
+  "height": "1.65 m",
+  "filmweb_id": 185,
+  "name_pl": "Anne Heche",
+  "birth_location_pl": "Aurora, Ohio",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

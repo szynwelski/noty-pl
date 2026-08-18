@@ -1,0 +1,51 @@
+{
+  "id": "nm0000763",
+  "name": "Dana Andrews",
+  "filmography": [
+    {
+      "imdb_id": "tt0036244",
+      "title": "The Ox-Bow Incident",
+      "year": 1943,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Donald Martin"
+    },
+    {
+      "imdb_id": "tt0037008",
+      "title": "Laura",
+      "year": 1944,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Det. Lt. Mark McPherson"
+    },
+    {
+      "imdb_id": "tt0036868",
+      "title": "The Best Years of Our Lives",
+      "year": 1946,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Fred Derry"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMWZmMjAwMjMtYmNkYS00YzQ2LWEwNjItODEyNDBmNzUzMDc1XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "01.01.1909",
+  "death_date": "17.12.1992",
+  "birth_location": "Covington County, Mississippi, USA",
+  "height": "1.78 m",
+  "filmweb_id": 49929,
+  "name_pl": "Dana Andrews",
+  "birth_location_pl": "Missisipi",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 49929
+}

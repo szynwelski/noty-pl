@@ -1,0 +1,45 @@
+{
+  "id": "nm0560526",
+  "name": "Jerzy Matula",
+  "filmography": [
+    {
+      "imdb_id": "tt0084923",
+      "title": "Wyjscie awaryjne",
+      "year": 1982,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt0090246",
+      "title": "Vabank II, czyli riposta",
+      "year": 1985,
+      "roles": [
+        "cast"
+      ],
+      "character": "Janusz, Film Director"
+    },
+    {
+      "imdb_id": "tt0082625",
+      "title": "Kobieta samotna",
+      "year": 1987,
+      "roles": [
+        "cast"
+      ],
+      "character": "Stefan, Post Office Manager"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZThjZjc3ZjEtMGEwOC00ZDhhLWEzOTItNTVhOWI1MDRhNDJjXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "19.04.1942",
+  "birth_location": "Lwów, Lwowskie, Poland [now Lviv, Ukraine]",
+  "filmweb_id": 12368,
+  "name_pl": "Jerzy Matula",
+  "birth_location_pl": "Lwów",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Polska"
+  ],
+  "wikidata_fw_id": 12368
+}

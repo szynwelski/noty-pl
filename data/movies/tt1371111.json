@@ -1,0 +1,327 @@
+{
+  "imdb_id": "tt1371111",
+  "title": "Cloud Atlas",
+  "description": "As souls are born and reborn, they renew their connections to one another throughout the ages.",
+  "runtime_minutes": 172,
+  "release_date": "26.10.2012",
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000158",
+      "name": "Tom Hanks"
+    },
+    {
+      "id": "nm0000932",
+      "name": "Halle Berry"
+    },
+    {
+      "id": "nm0000424",
+      "name": "Hugh Grant"
+    },
+    {
+      "id": "nm0915989",
+      "name": "Hugo Weaving"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0878756",
+      "name": "Tom Tykwer"
+    },
+    {
+      "id": "nm0905154",
+      "name": "Lana Wachowski"
+    },
+    {
+      "id": "nm0905152",
+      "name": "Lilly Wachowski"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm3290967",
+      "name": "David Mitchell"
+    },
+    {
+      "id": "nm0905154",
+      "name": "Lana Wachowski"
+    },
+    {
+      "id": "nm0878756",
+      "name": "Tom Tykwer"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000158",
+      "name": "Tom Hanks",
+      "character": "Dr. Henry Goose"
+    },
+    {
+      "id": "nm0000932",
+      "name": "Halle Berry",
+      "character": "Native Woman"
+    },
+    {
+      "id": "nm0000424",
+      "name": "Hugh Grant",
+      "character": "Rev. Giles Horrox"
+    },
+    {
+      "id": "nm0000980",
+      "name": "Jim Broadbent",
+      "character": "Captain Molyneux"
+    },
+    {
+      "id": "nm0915989",
+      "name": "Hugo Weaving",
+      "character": "Haskell Moore"
+    },
+    {
+      "id": "nm0836343",
+      "name": "Jim Sturgess",
+      "character": "Adam Ewing"
+    },
+    {
+      "id": "nm0046277",
+      "name": "Bae Doona",
+      "character": "Tilda"
+    },
+    {
+      "id": "nm0924210",
+      "name": "Ben Whishaw",
+      "character": "Cabin Boy"
+    },
+    {
+      "id": "nm0202966",
+      "name": "Keith David",
+      "character": "Kupaka"
+    },
+    {
+      "id": "nm0195439",
+      "name": "James D'Arcy",
+      "character": "Young Rufus Sixsmith"
+    },
+    {
+      "id": "nm0955782",
+      "name": "Xun Zhou",
+      "character": "Talbot (Hotel Manager)"
+    },
+    {
+      "id": "nm1408543",
+      "name": "David Gyasi",
+      "character": "Autua"
+    },
+    {
+      "id": "nm0000215",
+      "name": "Susan Sarandon",
+      "character": "Madame Horrox"
+    },
+    {
+      "id": "nm0299481",
+      "name": "Robert Fyfe",
+      "character": "Old Salty Dog"
+    },
+    {
+      "id": "nm0943487",
+      "name": "Martin Wuttke",
+      "character": "Mr. Boerhaave"
+    },
+    {
+      "id": "nm4668848",
+      "name": "Robin Morrissey",
+      "character": "Young Cavendish"
+    },
+    {
+      "id": "nm2242315",
+      "name": "Brody Nicholas Lee",
+      "character": "Javier Gomez"
+    },
+    {
+      "id": "nm0888084",
+      "name": "Ian van Temperley",
+      "character": "Enforcer"
+    }
+  ],
+  "countries": [
+    "China",
+    "Germany",
+    "Hong Kong",
+    "Singapore",
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Ukrainian",
+    "Korean"
+  ],
+  "color": "Color",
+  "filmweb_id": 580801,
+  "year": 2012,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTczMTgxMjc4NF5BMl5BanBnXkFtZTcwNjM5MTA2OA@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.3,
+      "votes": 387864,
+      "distribution": {
+        "1": 8028,
+        "2": 4506,
+        "3": 6286,
+        "4": 10643,
+        "5": 21622,
+        "6": 43322,
+        "7": 78963,
+        "8": 93278,
+        "9": 61498,
+        "10": 59718
+      },
+      "normalized": 6.1402
+    },
+    "filmweb": {
+      "rating": 7.11,
+      "votes": 184412,
+      "distribution": {
+        "1": 1497,
+        "2": 1268,
+        "3": 4920,
+        "4": 6016,
+        "5": 15557,
+        "6": 26201,
+        "7": 46457,
+        "8": 46691,
+        "9": 23807,
+        "10": 11998
+      },
+      "normalized": 5.8432
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "04.11.2013",
+      "normalized": 6.4102
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "27.09.2014",
+      "normalized": 6.3474
+    },
+    "score": 6.1852
+  },
+  "polish_title": "Atlas chmur",
+  "silent": false,
+  "description_pl": "Największe filmowe widowisko 2012 roku, oparte na bestsellerowej epopei <a href=\"/osoba/?id=nm3290967\">Davida Mitchella</a>, którego styl krytycy porównują do estetyki dzieł Vladimira Nabokova, a oryginalną wizję świata do spostrzeżeń takich mistrzów jak Umberto Eco, Haruki Murakami i Philip K. Dick.\nW filmie śledzimy losy postaci z różnych epok i zakątków świata, których  najbardziej błahe decyzje i czyny mają daleko idący wpływ na  teraźniejszość, przyszłość, a nawet przeszłość naszej planety. \"Atlas  chmur\" jest ucztą nie tylko dla wielbicieli zapierających dech w  piersiach opowieści przygodowych, ale także spostrzegawczych miłośników X  Muzy. Każda z gwiazd występuje w filmie w kilku nierozpoznawalnych na  pierwszy rzut oka wcieleniach, dając popis wirtuozerskiej gry i  ironicznego dystansu do swojego dotychczasowego wizerunku.",
+  "producers": [
+    {
+      "id": "nm0036155",
+      "name": "Stefan Arndt"
+    },
+    {
+      "id": "nm1048635",
+      "name": "Alex Boden"
+    },
+    {
+      "id": "nm0113362",
+      "name": "David Brown"
+    },
+    {
+      "id": "nm0159052",
+      "name": "John Chong"
+    },
+    {
+      "id": "nm0260402",
+      "name": "José Luis Escolar"
+    },
+    {
+      "id": "nm7054797",
+      "name": "Peter Grossman"
+    },
+    {
+      "id": "nm0384294",
+      "name": "Grant Hill"
+    },
+    {
+      "id": "nm0448184",
+      "name": "Lora Kennedy"
+    },
+    {
+      "id": "nm4467332",
+      "name": "Caroline Kwauk"
+    },
+    {
+      "id": "nm2900221",
+      "name": "Peter Lam"
+    },
+    {
+      "id": "nm0498023",
+      "name": "Philip Lee"
+    },
+    {
+      "id": "nm0517709",
+      "name": "Marcus Loges"
+    },
+    {
+      "id": "nm0539378",
+      "name": "Roberto Malerba"
+    },
+    {
+      "id": "nm2465636",
+      "name": "Dan Masciarelli"
+    },
+    {
+      "id": "nm0627134",
+      "name": "Ulli Neumann"
+    },
+    {
+      "id": "nm1891392",
+      "name": "Gigi Oeri"
+    },
+    {
+      "id": "nm7055338",
+      "name": "Wilson Qiu"
+    },
+    {
+      "id": "nm0734954",
+      "name": "Alexander Rodnyansky"
+    },
+    {
+      "id": "nm0774950",
+      "name": "Uwe Schott"
+    },
+    {
+      "id": "nm1182611",
+      "name": "Pearry Reginald Teo"
+    },
+    {
+      "id": "nm1757162",
+      "name": "Tony Teo"
+    },
+    {
+      "id": "nm2618505",
+      "name": "Ricky Tse"
+    },
+    {
+      "id": "nm0878756",
+      "name": "Tom Tykwer"
+    },
+    {
+      "id": "nm0902201",
+      "name": "Alexander van Dülmen"
+    },
+    {
+      "id": "nm0905154",
+      "name": "Lana Wachowski"
+    },
+    {
+      "id": "nm0905152",
+      "name": "Lilly Wachowski"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

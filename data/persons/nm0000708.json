@@ -1,0 +1,66 @@
+{
+  "id": "nm0000708",
+  "name": "Billy Zane",
+  "filmography": [
+    {
+      "imdb_id": "tt0088763",
+      "title": "Back to the Future",
+      "year": 1985,
+      "roles": [
+        "cast"
+      ],
+      "character": "Match"
+    },
+    {
+      "imdb_id": "tt0096874",
+      "title": "Back to the Future Part II",
+      "year": 1989,
+      "roles": [
+        "cast"
+      ],
+      "character": "Match"
+    },
+    {
+      "imdb_id": "tt0120338",
+      "title": "Titanic",
+      "year": 1997,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Cal Hockley"
+    },
+    {
+      "imdb_id": "tt0247199",
+      "title": "The Believer",
+      "year": 2001,
+      "roles": [
+        "cast"
+      ],
+      "character": "Curtis Zampf"
+    },
+    {
+      "imdb_id": "tt0383222",
+      "title": "BloodRayne",
+      "year": 2005,
+      "roles": [
+        "cast"
+      ],
+      "character": "Elrich"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTI5NzA2NTE0NF5BMl5BanBnXkFtZTcwNzAxMTUxMw@@._V1_.jpg",
+  "birth_date": "24.02.1966",
+  "birth_location": "Chicago, Illinois, USA",
+  "height": "1.84 m",
+  "filmweb_id": 4437,
+  "name_pl": "Billy Zane",
+  "birth_location_pl": "Chicago, Illinois",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 4437
+}

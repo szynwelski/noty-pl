@@ -1,0 +1,29 @@
+{
+  "id": "nm0723472",
+  "name": "John C. Rice",
+  "filmography": [
+    {
+      "imdb_id": "tt0139738",
+      "title": "The Kiss",
+      "year": 1896,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Billie Bikes"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjU2M2Y4ZTYtZGJhNS00YTRlLTgzZDQtYjcxMzQ4NDk3YmEwXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "07.04.1857",
+  "death_date": "05.06.1915",
+  "birth_location": "Beaverkill, New York, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 112837,
+  "name_pl": "John C. Rice",
+  "birth_location_pl": "Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "nm1404408",
+  "name": "Alice Eve",
+  "filmography": [
+    {
+      "imdb_id": "tt0815236",
+      "title": "She's Out of My League",
+      "year": 2010,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Molly"
+    },
+    {
+      "imdb_id": "tt1409024",
+      "title": "Men in Black 3",
+      "year": 2012,
+      "roles": [
+        "cast"
+      ],
+      "character": "Young Agent O"
+    },
+    {
+      "imdb_id": "tt1486192",
+      "title": "The Raven",
+      "year": 2012,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Emily Hamilton"
+    },
+    {
+      "imdb_id": "tt1408101",
+      "title": "Star Trek Into Darkness",
+      "year": 2013,
+      "roles": [
+        "cast"
+      ],
+      "character": "Carol Marcus"
+    },
+    {
+      "imdb_id": "tt5497778",
+      "title": "Nosedive",
+      "year": 2016,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Naomi Jayne Blestow"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOTM5NzI1NTMwN15BMl5BanBnXkFtZTcwOTQ0NjExNw@@._V1_.jpg",
+  "birth_date": "06.02.1982",
+  "birth_location": "London, England, UK",
+  "height": "1.66 m",
+  "filmweb_id": 186313,
+  "name_pl": "Alice Eve",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 186313
+}

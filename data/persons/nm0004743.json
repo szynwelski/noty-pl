@@ -1,0 +1,47 @@
+{
+  "id": "nm0004743",
+  "name": "Gil Bellows",
+  "filmography": [
+    {
+      "imdb_id": "tt0111161",
+      "title": "The Shawshank Redemption",
+      "year": 1994,
+      "roles": [
+        "cast"
+      ],
+      "character": "Tommy"
+    },
+    {
+      "imdb_id": "tt0384680",
+      "title": "The Weather Man",
+      "year": 2005,
+      "roles": [
+        "cast"
+      ],
+      "character": "Don"
+    },
+    {
+      "imdb_id": "tt0914863",
+      "title": "Unthinkable",
+      "year": 2010,
+      "roles": [
+        "cast"
+      ],
+      "character": "Agent Vincent"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTgxMzc0MDAzNV5BMl5BanBnXkFtZTgwMzUzMTI0MzE@._V1_.jpg",
+  "birth_date": "28.06.1967",
+  "birth_location": "Vancouver, British Columbia, Canada",
+  "height": "1.80 m",
+  "filmweb_id": 5181,
+  "name_pl": "Gil Bellows",
+  "birth_location_pl": "Vancouver",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Kanada"
+  ],
+  "wikidata_fw_id": 5181
+}

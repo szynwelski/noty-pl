@@ -1,0 +1,47 @@
+{
+  "id": "nm0788288",
+  "name": "Harry Shannon",
+  "filmography": [
+    {
+      "imdb_id": "tt0033467",
+      "title": "Citizen Kane",
+      "year": 1941,
+      "roles": [
+        "cast"
+      ],
+      "character": "Kane's Father"
+    },
+    {
+      "imdb_id": "tt0044706",
+      "title": "High Noon",
+      "year": 1952,
+      "roles": [
+        "cast"
+      ],
+      "character": "Cooper"
+    },
+    {
+      "imdb_id": "tt0052311",
+      "title": "Touch of Evil",
+      "year": 1958,
+      "roles": [
+        "cast"
+      ],
+      "character": "Chief Gould"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYmEyMWMyZDItOGNlNi00YjI0LWI1MWEtNzRhNTU3NWI0YWIyXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "13.06.1890",
+  "death_date": "27.07.1964",
+  "birth_location": "Saginaw, Michigan, USA",
+  "height": "1.87 m",
+  "filmweb_id": 57655,
+  "name_pl": "Harry Shannon",
+  "birth_location_pl": "Saginaw, Michigan",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

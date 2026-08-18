@@ -1,0 +1,40 @@
+{
+  "id": "nm0000157",
+  "name": "Linda Hamilton",
+  "filmography": [
+    {
+      "imdb_id": "tt0088247",
+      "title": "The Terminator",
+      "year": 1984,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Sarah Connor"
+    },
+    {
+      "imdb_id": "tt0103064",
+      "title": "Terminator 2: Judgment Day",
+      "year": 1991,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Sarah Connor"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZTI1MmRmYmMtYTZiMy00NGFkLThkMGEtNjgyYjFhMzE2NjUzXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "26.09.1956",
+  "birth_location": "Salisbury, Maryland, USA",
+  "height": "1.68 m",
+  "imdb_scraped": true,
+  "filmweb_id": 5157,
+  "name_pl": "Linda Hamilton",
+  "birth_location_pl": "Salisbury, Maryland",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 5157
+}

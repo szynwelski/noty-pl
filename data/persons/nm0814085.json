@@ -1,0 +1,56 @@
+{
+  "id": "nm0814085",
+  "name": "Stephen Sommers",
+  "filmography": [
+    {
+      "imdb_id": "tt0120616",
+      "title": "The Mummy",
+      "year": 1999,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0209163",
+      "title": "The Mummy Returns",
+      "year": 2001,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0338526",
+      "title": "Van Helsing",
+      "year": 2004,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0859163",
+      "title": "The Mummy: Tomb of the Dragon Emperor",
+      "year": 2008,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTYzMzc3ODc1N15BMl5BanBnXkFtZTYwNjI1NTY0._V1_.jpg",
+  "birth_date": "20.03.1962",
+  "birth_location": "Indianapolis, Indiana, USA",
+  "height": "1.88 m",
+  "filmweb_id": 10888,
+  "name_pl": "Stephen Sommers",
+  "birth_location_pl": "Indianapolis, Indiana",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 10888
+}

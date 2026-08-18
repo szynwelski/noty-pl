@@ -1,0 +1,87 @@
+{
+  "imdb_id": "tt6290428",
+  "title": "Rogalik",
+  "description": "A short visual journey through various households shows just how lively, unique and atmospheric these places can be.",
+  "runtime_minutes": 17,
+  "release_date": "25.02.2013",
+  "genres": [
+    "Short"
+  ],
+  "directors": [
+    {
+      "id": "nm5428555",
+      "name": "Pawel Ziemilski"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm5428555",
+      "name": "Pawel Ziemilski"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "Poland"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": null,
+  "filmweb_id": 659987,
+  "year": 2013,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYmZjZTA5MjktNzM3NC00YWJhLTgyMzktZThkNzAyNWE4OGE0XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.9,
+      "votes": 9,
+      "distribution": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2,
+        "5": 2,
+        "6": 3,
+        "7": 1,
+        "8": 0,
+        "9": 0,
+        "10": 1
+      },
+      "normalized": 5.2836
+    },
+    "filmweb": {
+      "rating": 6.19,
+      "votes": 325,
+      "distribution": {
+        "1": 2,
+        "2": 6,
+        "3": 18,
+        "4": 24,
+        "5": 46,
+        "6": 83,
+        "7": 80,
+        "8": 41,
+        "9": 17,
+        "10": 8
+      },
+      "normalized": 4.4307
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "03.12.2016",
+      "normalized": 4.9718
+    },
+    "score": 4.8954
+  },
+  "polish_title": "Rogalik",
+  "silent": false,
+  "description_pl": "Przemieszczając się wśród ludzi i przedmiotów, poznajemy świat zwykle spychany na margines jako nieatrakcyjny. Podróż ta ma w sobie coś z sennej wizji. Kim są ci ludzie obserwowani jak w wielkim akwarium? I jaka jest nasza pozycja wobec nich?",
+  "cinematographers": [
+    {
+      "id": "nm5224218",
+      "name": "Maciej Twardowski"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

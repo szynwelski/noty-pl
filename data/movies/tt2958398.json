@@ -1,0 +1,143 @@
+{
+  "imdb_id": "tt2958398",
+  "title": "The Exhibition",
+  "description": "The film tells about a small museum, where the economic boom has not yet arrived. It appears as if time has stopped in this national museum, a museum which should serve as a show window for Slovakia. Stuffed animals are covered with dust and the three employees working as caretakers of the huge building look like the museum exhibits themselves.",
+  "year": 2013,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMmJlYjg5ZTctMjkyYy00ZTNkLWE3YTctYjQ3NjNiMjkzNTc1XkEyXkFqcGc@._V1_.jpg",
+  "runtime_minutes": 30,
+  "release_date": "2013",
+  "genres": [
+    "Short",
+    "Comedy"
+  ],
+  "stars": [
+    {
+      "id": "nm1212577",
+      "name": "Jan Budař"
+    },
+    {
+      "id": "nm5709468",
+      "name": "Dana Kosicka"
+    },
+    {
+      "id": "nm5710273",
+      "name": "Miro Kristofcak"
+    },
+    {
+      "id": "nm5710947",
+      "name": "Emil Lehota"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm5711145",
+      "name": "Peter Beganyi"
+    },
+    {
+      "id": "nm4986624",
+      "name": "Andrej Kolencik"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm5711145",
+      "name": "Peter Beganyi"
+    },
+    {
+      "id": "nm4986624",
+      "name": "Andrej Kolencik"
+    },
+    {
+      "id": "nm4987292",
+      "name": "Lukas Sigmund"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1212577",
+      "name": "Jan Budař",
+      "character": "Guard"
+    },
+    {
+      "id": "nm5709468",
+      "name": "Dana Kosicka",
+      "character": "Director"
+    },
+    {
+      "id": "nm5710273",
+      "name": "Miro Kristofcak",
+      "character": "Miro"
+    },
+    {
+      "id": "nm5710947",
+      "name": "Emil Lehota",
+      "character": "Emil"
+    },
+    {
+      "id": "nm0806259",
+      "name": "Jan Slovák",
+      "character": "Jan"
+    }
+  ],
+  "countries": [
+    "Slovakia"
+  ],
+  "languages": [
+    "Slovak"
+  ],
+  "color": "Color",
+  "filmweb_id": 716532,
+  "original_title": "Vystava",
+  "ratings": {
+    "imdb": {
+      "rating": 6.3,
+      "votes": 10,
+      "distribution": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 1,
+        "6": 3,
+        "7": 4,
+        "8": 1,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 5.2944
+    },
+    "filmweb": {
+      "rating": 6.41,
+      "votes": 17,
+      "distribution": {
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 4,
+        "6": 2,
+        "7": 6,
+        "8": 4,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 5.1524
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "01.10.2017",
+      "normalized": 4.9718
+    },
+    "score": 5.1395
+  },
+  "polish_title": "Wystawa",
+  "silent": false,
+  "cinematographers": [
+    {
+      "id": "nm2901215",
+      "name": "Stanek Tomas"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

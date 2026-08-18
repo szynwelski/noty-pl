@@ -1,0 +1,45 @@
+{
+  "id": "nm0866058",
+  "name": "J.R.R. Tolkien",
+  "filmography": [
+    {
+      "imdb_id": "tt0120737",
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0167261",
+      "title": "The Lord of the Rings: The Two Towers",
+      "year": 2002,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0167260",
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": 2003,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNmMyMzU0ZmMtMGUxMS00OGExLWJjMTQtM2ZmMWZjY2Q5ODBiXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "03.01.1892",
+  "death_date": "02.09.1973",
+  "birth_location": "Bloemfontein, Orange Free State [now in South Africa]",
+  "height": "1.74 m",
+  "filmweb_id": 241960,
+  "name_pl": "J.R.R. Tolkien",
+  "birth_location_pl": "Bloemfontein",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 241960
+}

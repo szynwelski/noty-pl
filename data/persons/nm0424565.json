@@ -1,0 +1,59 @@
+{
+  "id": "nm0424565",
+  "name": "Ben Johnson",
+  "filmography": [
+    {
+      "imdb_id": "tt0059418",
+      "title": "Major Dundee",
+      "year": 1965,
+      "roles": [
+        "cast"
+      ],
+      "character": "Sergeant Chillum"
+    },
+    {
+      "imdb_id": "tt0065214",
+      "title": "The Wild Bunch",
+      "year": 1969,
+      "roles": [
+        "cast"
+      ],
+      "character": "Tector Gorch"
+    },
+    {
+      "imdb_id": "tt0067328",
+      "title": "The Last Picture Show",
+      "year": 1971,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Sam the Lion"
+    },
+    {
+      "imdb_id": "tt0068638",
+      "title": "The Getaway",
+      "year": 1972,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Jack Beynon"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQ5NjQ2MTQ0OV5BMl5BanBnXkFtZTcwNDc4NTczNA@@._V1_.jpg",
+  "birth_date": "13.06.1918",
+  "death_date": "08.04.1996",
+  "birth_location": "Foraker, Shidler, Oklahoma, USA",
+  "height": "1.88 m",
+  "filmweb_id": 2854,
+  "name_pl": "Ben Johnson",
+  "birth_location_pl": "Foraker, Oklahoma",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 2854
+}

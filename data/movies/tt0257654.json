@@ -1,0 +1,98 @@
+{
+  "imdb_id": "tt0257654",
+  "title": "The Delights of Automobiling",
+  "description": "As two couples enjoy their evening promenade in a nice but rickety open motor car, without notice, an explosion blows the vehicle to smithereens.",
+  "runtime_minutes": 1,
+  "release_date": "1902",
+  "genres": [
+    "Short",
+    "Comedy"
+  ],
+  "stars": [
+    {
+      "id": "nm0378408",
+      "name": "Cecil M. Hepworth"
+    },
+    {
+      "id": "nm1416127",
+      "name": "Henry Lawley"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0378408",
+      "name": "Cecil M. Hepworth"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0378408",
+      "name": "Cecil M. Hepworth",
+      "character": "Driver"
+    },
+    {
+      "id": "nm1416127",
+      "name": "Henry Lawley",
+      "character": "Passenger"
+    }
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "year": 1900,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDFiMDg4ZGQtMjc3OC00OGViLWFmMjctMTAzOTY5NjkyNTJjXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 328939,
+  "original_title": "Explosion of a Motor Car",
+  "ratings": {
+    "imdb": {
+      "rating": 6.2,
+      "votes": 1128,
+      "distribution": {
+        "1": 21,
+        "2": 27,
+        "3": 34,
+        "4": 61,
+        "5": 181,
+        "6": 327,
+        "7": 277,
+        "8": 93,
+        "9": 45,
+        "10": 62
+      },
+      "normalized": 4.538
+    },
+    "filmweb": {
+      "rating": 5.62,
+      "votes": 64,
+      "distribution": {
+        "2": 2,
+        "3": 5,
+        "4": 7,
+        "5": 14,
+        "6": 17,
+        "7": 14,
+        "8": 3,
+        "9": 1,
+        "10": 1
+      },
+      "normalized": 4.7065
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "12.12.2016",
+      "normalized": 7.1247
+    },
+    "score": 5.4564
+  },
+  "polish_title": "Explosion of a Motor Car",
+  "silent": true,
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-16"
+}

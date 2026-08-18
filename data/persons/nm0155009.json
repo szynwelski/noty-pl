@@ -1,0 +1,36 @@
+{
+  "id": "nm0155009",
+  "name": "Anton Chekhov",
+  "filmography": [
+    {
+      "imdb_id": "tt0084411",
+      "title": "An Uneventful Story",
+      "year": 1983,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt2758880",
+      "title": "Winter Sleep",
+      "year": 2014,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYmRiOWJjYWQtNzE2My00YTM0LWIzOWUtMDY1YWIwYmY0Nzk2XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "29.01.1860",
+  "death_date": "15.07.1904",
+  "birth_location": "Taganrog, Russian Empire [now Rostov Oblast, Russia]",
+  "height": "1.86 m",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Imperium Rosyjskie"
+  ],
+  "filmweb_id": 668596,
+  "name_pl": "Antoni Czechow",
+  "birth_location_pl": "Taganrog",
+  "gender": "M"
+}

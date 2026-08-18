@@ -1,0 +1,41 @@
+{
+  "id": "nm0000795",
+  "name": "Jean Arthur",
+  "filmography": [
+    {
+      "imdb_id": "tt0027996",
+      "title": "Mr. Deeds Goes to Town",
+      "year": 1936,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Louise 'Babe' Bennett"
+    },
+    {
+      "imdb_id": "tt0031679",
+      "title": "Mr. Smith Goes to Washington",
+      "year": 1939,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Saunders"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYWNiNjY1NzktNGE2OS00OTExLTg0OTgtODVjODFlMzg4NDdlXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "17.10.1900",
+  "death_date": "19.06.1991",
+  "birth_location": "Plattsburgh, New York, USA",
+  "height": "1.60 m",
+  "imdb_scraped": true,
+  "filmweb_id": 52333,
+  "name_pl": "Jean Arthur",
+  "birth_location_pl": "Plattsburg, Nowy Jork",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 52333
+}

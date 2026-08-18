@@ -1,0 +1,31 @@
+{
+  "id": "nm0773932",
+  "name": "Maria Schneider",
+  "filmography": [
+    {
+      "imdb_id": "tt0070849",
+      "title": "Last Tango in Paris",
+      "year": 1972,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Jeanne"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjAyMzYzOTI1M15BMl5BanBnXkFtZTcwODI0MTI0NA@@._V1_.jpg",
+  "birth_date": "27.03.1952",
+  "death_date": "03.02.2011",
+  "birth_location": "Paris, France",
+  "height": "1.68 m",
+  "imdb_scraped": true,
+  "filmweb_id": 41020,
+  "name_pl": "Maria Schneider",
+  "birth_location_pl": "Paryż",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja"
+  ],
+  "wikidata_fw_id": 41020
+}

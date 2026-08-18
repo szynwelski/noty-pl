@@ -1,0 +1,253 @@
+{
+  "imdb_id": "tt0119874",
+  "title": "The Peacemaker",
+  "description": "A US Army colonel and a civilian woman supervising him must track down stolen Russian nuclear weapons before they're used by terrorists.",
+  "runtime_minutes": 124,
+  "release_date": "26.09.1997",
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000123",
+      "name": "George Clooney"
+    },
+    {
+      "id": "nm0000173",
+      "name": "Nicole Kidman"
+    },
+    {
+      "id": "nm0411903",
+      "name": "Marcel Iures"
+    },
+    {
+      "id": "nm0051282",
+      "name": "Aleksandr Baluev"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001460",
+      "name": "Mimi Leder"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0168298",
+      "name": "Leslie Cockburn"
+    },
+    {
+      "id": "nm0168285",
+      "name": "Andrew Cockburn"
+    },
+    {
+      "id": "nm0771512",
+      "name": "Michael Schiffer"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000123",
+      "name": "George Clooney",
+      "character": "Thomas Devoe"
+    },
+    {
+      "id": "nm0000173",
+      "name": "Nicole Kidman",
+      "character": "Julia Kelly"
+    },
+    {
+      "id": "nm0411903",
+      "name": "Marcel Iures",
+      "character": "Dusan Gavrich"
+    },
+    {
+      "id": "nm0051282",
+      "name": "Aleksandr Baluev",
+      "character": "Alexsander Kodoroff"
+    },
+    {
+      "id": "nm0575969",
+      "name": "Rene Medvesek",
+      "character": "Vlado Mirich"
+    },
+    {
+      "id": "nm0921550",
+      "name": "Gary Werntz",
+      "character": "Hamilton"
+    },
+    {
+      "id": "nm0000871",
+      "name": "Randall Batinkoff",
+      "character": "Ken"
+    },
+    {
+      "id": "nm0371579",
+      "name": "Jim Haynie",
+      "character": "General Garnett"
+    },
+    {
+      "id": "nm0834708",
+      "name": "Alexander Strobele",
+      "character": "Shummaker"
+    },
+    {
+      "id": "nm0564697",
+      "name": "Holt McCallany",
+      "character": "Appleton"
+    },
+    {
+      "id": "nm0090225",
+      "name": "Michael Boatman",
+      "character": "CPN Beach"
+    },
+    {
+      "id": "nm0178616",
+      "name": "Joan Copeland",
+      "character": "Senator Bevens"
+    },
+    {
+      "id": "nm0326988",
+      "name": "Carlos Gómez",
+      "character": "Santiago"
+    },
+    {
+      "id": "nm0000090",
+      "name": "Armin Mueller-Stahl",
+      "character": "Dimitri Vertikoff"
+    },
+    {
+      "id": "nm0432838",
+      "name": "Slavko Juraga",
+      "character": "Stevo"
+    },
+    {
+      "id": "nm0676014",
+      "name": "Aleksandr Peskov",
+      "character": "Vassily"
+    },
+    {
+      "id": "nm0009900",
+      "name": "Dejan Acimovic",
+      "character": "Kodoroff's Driver"
+    },
+    {
+      "id": "nm0623319",
+      "name": "Harsh Nayyar",
+      "character": "Dr. Taraki"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Russian",
+    "Serbian",
+    "Bosnian",
+    "Croatian",
+    "Polish",
+    "German",
+    "Serbo-Croatian"
+  ],
+  "color": "Color",
+  "filmweb_id": 10723,
+  "year": 1997,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZGJkYTc0ZDAtZWY0Ny00OTg0LWIyMmEtOTY2OTgyYmU3NzRmXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6,
+      "votes": 66713,
+      "distribution": {
+        "1": 1478,
+        "2": 934,
+        "3": 1856,
+        "4": 4509,
+        "5": 11936,
+        "6": 20819,
+        "7": 14953,
+        "8": 6136,
+        "9": 1890,
+        "10": 2202
+      },
+      "normalized": 3.5666
+    },
+    "filmweb": {
+      "rating": 6.39,
+      "votes": 21868,
+      "distribution": {
+        "1": 56,
+        "2": 83,
+        "3": 377,
+        "4": 988,
+        "5": 2966,
+        "6": 6836,
+        "7": 7225,
+        "8": 2492,
+        "9": 458,
+        "10": 387
+      },
+      "normalized": 4.0979
+    },
+    "jarek": {
+      "rating": 2,
+      "date_rated": "22.03.2011",
+      "normalized": 3.5003
+    },
+    "score": 3.7216
+  },
+  "polish_title": "Peacemaker",
+  "silent": false,
+  "description_pl": "Gdy rokowania rozbrojeniowe zostały pomyślnie zakończone, daleko na Syberii doszło do potężnej eksplozji. Wybuchu nuklearnego o ogromnej sile rażenia nikt się nie spodziewał. Rządy Stanów Zjednoczonych i Rosji, dwóch najpotężniejszych mocarstw atomowych, postanawiają wyjaśnić przyczyny katastrofy. Amerykański naukowiec, doktor Julia Kelly, od początku śledztwa nie wierzy, że eksplozja była kwestią przypadku.",
+  "producers": [
+    {
+      "id": "nm0168285",
+      "name": "Andrew Cockburn"
+    },
+    {
+      "id": "nm0168298",
+      "name": "Leslie Cockburn"
+    },
+    {
+      "id": "nm0342045",
+      "name": "Michael Grillo"
+    },
+    {
+      "id": "nm0444965",
+      "name": "Pat Kehoe"
+    },
+    {
+      "id": "nm0527322",
+      "name": "Branko Lustig"
+    },
+    {
+      "id": "nm0531827",
+      "name": "Laurie MacDonald"
+    },
+    {
+      "id": "nm0662748",
+      "name": "Walter F. Parkes"
+    },
+    {
+      "id": "nm0920274",
+      "name": "John Wells"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0001877",
+      "name": "Hans Zimmer"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005777",
+      "name": "Dietrich Lohmann"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

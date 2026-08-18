@@ -1,0 +1,39 @@
+{
+  "id": "nm0000426",
+  "name": "Jennifer Grey",
+  "filmography": [
+    {
+      "imdb_id": "tt0092890",
+      "title": "Dirty Dancing",
+      "year": 1987,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Baby Houseman"
+    },
+    {
+      "imdb_id": "tt21823606",
+      "title": "A Real Pain",
+      "year": 2024,
+      "roles": [
+        "cast"
+      ],
+      "character": "Marcia"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjE4NTExMTcxN15BMl5BanBnXkFtZTcwMjYwMDc4Ng@@._V1_.jpg",
+  "birth_date": "26.03.1960",
+  "birth_location": "New York City, New York, USA",
+  "height": "1.60 m",
+  "imdb_scraped": true,
+  "filmweb_id": 31606,
+  "name_pl": "Jennifer Grey",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 31606
+}

@@ -1,0 +1,38 @@
+{
+  "id": "nm0778737",
+  "name": "Charles Scorsese",
+  "filmography": [
+    {
+      "imdb_id": "tt0081398",
+      "title": "Raging Bull",
+      "year": 1980,
+      "roles": [
+        "cast"
+      ],
+      "character": "Charlie - Man with Como"
+    },
+    {
+      "imdb_id": "tt0099685",
+      "title": "GoodFellas",
+      "year": 1990,
+      "roles": [
+        "cast"
+      ],
+      "character": "Vinnie"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjIyNjM5OTg4OF5BMl5BanBnXkFtZTcwNjM3MjkxOA@@._V1_.jpg",
+  "birth_date": "08.05.1913",
+  "death_date": "23.08.1993",
+  "birth_location": "Manhattan, New York City, New York, USA",
+  "height": "1.73 m",
+  "imdb_scraped": true,
+  "filmweb_id": 81750,
+  "name_pl": "Charles Scorsese",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

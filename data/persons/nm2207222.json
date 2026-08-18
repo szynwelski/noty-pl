@@ -1,0 +1,48 @@
+{
+  "id": "nm2207222",
+  "name": "Scott Eastwood",
+  "filmography": [
+    {
+      "imdb_id": "tt1205489",
+      "title": "Gran Torino",
+      "year": 2008,
+      "roles": [
+        "cast"
+      ],
+      "character": "Trey"
+    },
+    {
+      "imdb_id": "tt2713180",
+      "title": "Fury",
+      "year": 2014,
+      "roles": [
+        "cast"
+      ],
+      "character": "Sergeant Miles"
+    },
+    {
+      "imdb_id": "tt2557478",
+      "title": "Pacific Rim: Uprising",
+      "year": 2018,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Nate Lambert"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODQ4ODU5NjIxMF5BMl5BanBnXkFtZTgwNzIzNTIzNzM@._V1_.jpg",
+  "birth_date": "21.03.1986",
+  "birth_location": "Carmel, California, USA",
+  "height": "1.80 m",
+  "imdb_scraped": true,
+  "filmweb_id": 615753,
+  "name_pl": "Scott Eastwood",
+  "birth_location_pl": "Carmel, Kalifornia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 615753
+}

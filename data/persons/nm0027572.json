@@ -1,0 +1,61 @@
+{
+  "id": "nm0027572",
+  "name": "Wes Anderson",
+  "filmography": [
+    {
+      "imdb_id": "tt0432283",
+      "title": "Fantastic Mr. Fox",
+      "year": 2009,
+      "roles": [
+        "director",
+        "writer",
+        "cast"
+      ],
+      "character": "Weasel"
+    },
+    {
+      "imdb_id": "tt1748122",
+      "title": "Moonrise Kingdom",
+      "year": 2012,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt2278388",
+      "title": "The Grand Budapest Hotel",
+      "year": 2014,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt5104604",
+      "title": "Isle of Dogs",
+      "year": 2018,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTY1MjgzODIwNF5BMl5BanBnXkFtZTcwNTM2NzExMw@@._V1_.jpg",
+  "birth_date": "01.05.1969",
+  "birth_location": "Houston, Texas, USA",
+  "height": "1.85 m",
+  "filmweb_id": 46519,
+  "name_pl": "Wes Anderson",
+  "birth_location_pl": "Houston, Teksas",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 46519
+}

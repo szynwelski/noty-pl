@@ -1,0 +1,47 @@
+{
+  "id": "nm0781218",
+  "name": "Jon Seda",
+  "filmography": [
+    {
+      "imdb_id": "tt0114746",
+      "title": "12 Monkeys",
+      "year": 1995,
+      "roles": [
+        "cast"
+      ],
+      "character": "Jose"
+    },
+    {
+      "imdb_id": "tt0117381",
+      "title": "Primal Fear",
+      "year": 1996,
+      "roles": [
+        "cast"
+      ],
+      "character": "Alex"
+    },
+    {
+      "imdb_id": "tt0172156",
+      "title": "Bad Boys II",
+      "year": 2003,
+      "roles": [
+        "cast"
+      ],
+      "character": "Roberto"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZWRkMmVjMzAtNWIzNi00Y2U4LWIyNzMtNjg5ZThhYjQwYzI0XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "14.10.1970",
+  "birth_location": "New York City, New York, USA",
+  "height": "1.75 m",
+  "filmweb_id": 8979,
+  "name_pl": "Jon Seda",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 8979
+}

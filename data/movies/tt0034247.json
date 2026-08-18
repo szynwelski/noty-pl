@@ -1,0 +1,150 @@
+{
+  "imdb_id": "tt0034247",
+  "title": "Superman: The Mad Scientist",
+  "description": "The Man of Steel fights a mad scientist who is destroying Metropolis with an energy cannon.",
+  "runtime_minutes": 10,
+  "release_date": "26.09.1941",
+  "genres": [
+    "Animation",
+    "Short",
+    "Action",
+    "Adventure",
+    "Family",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm0172872",
+      "name": "Bud Collyer"
+    },
+    {
+      "id": "nm0018510",
+      "name": "Joan Alexander"
+    },
+    {
+      "id": "nm0580271",
+      "name": "Jack Mercer"
+    },
+    {
+      "id": "nm0633391",
+      "name": "Julian Noa"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0281487",
+      "name": "Dave Fleischer"
+    },
+    {
+      "id": "nm0611157",
+      "name": "Steve Muffati"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0796950",
+      "name": "Jerry Siegel"
+    },
+    {
+      "id": "nm0795975",
+      "name": "Joe Shuster"
+    },
+    {
+      "id": "nm0460667",
+      "name": "Seymour Kneitel"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0172872",
+      "name": "Bud Collyer",
+      "character": "Clark Kent"
+    },
+    {
+      "id": "nm0018510",
+      "name": "Joan Alexander",
+      "character": "Lois Lane"
+    },
+    {
+      "id": "nm0580271",
+      "name": "Jack Mercer",
+      "character": "The Mad Scientist"
+    },
+    {
+      "id": "nm0633391",
+      "name": "Julian Noa",
+      "character": "Perry White"
+    },
+    {
+      "id": "nm0724111",
+      "name": "Grant Richards",
+      "character": "Narrator"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": null,
+  "filmweb_id": 262178,
+  "year": 1941,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTQ4YjliNGUtY2QyOC00OWQ3LThmYzctMzg0OGE0ZTc0MTI1XkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Superman",
+  "ratings": {
+    "imdb": {
+      "rating": 7.3,
+      "votes": 4042,
+      "distribution": {
+        "1": 83,
+        "2": 40,
+        "3": 47,
+        "4": 120,
+        "5": 259,
+        "6": 529,
+        "7": 1026,
+        "8": 838,
+        "9": 354,
+        "10": 746
+      },
+      "normalized": 5.9821
+    },
+    "filmweb": {
+      "rating": 6.63,
+      "votes": 470,
+      "distribution": {
+        "1": 3,
+        "2": 3,
+        "3": 12,
+        "4": 17,
+        "5": 47,
+        "6": 127,
+        "7": 150,
+        "8": 67,
+        "9": 19,
+        "10": 25
+      },
+      "normalized": 4.8586
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "10.06.2007",
+      "normalized": 4.5781
+    },
+    "score": 5.1396
+  },
+  "polish_title": "Superman",
+  "silent": false,
+  "description_pl": "Przełomowa kreskówka o Supermanie. Szalony naukowiec porywa Lois i demonstruje jej moc swojego działa niszcząc Metropolis. Na ratunek śpieszy już jednak Superman, bowiem tylko on jest w stanie uporać się z tak straszliwą bronią.",
+  "cinematographers": [
+    {
+      "id": "nm0771171",
+      "name": "Charles Schettler"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-15"
+}

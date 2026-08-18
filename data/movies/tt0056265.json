@@ -1,0 +1,210 @@
+{
+  "imdb_id": "tt0056265",
+  "title": "The Man from the First Century",
+  "description": "A workman is accidentally sent into outer space, where he meets an alien that can make himself invisible. They return to Earth in the year 2447. Complications ensue.",
+  "runtime_minutes": 85,
+  "release_date": "23.03.1962",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm0465716",
+      "name": "Miloš Kopecký"
+    },
+    {
+      "id": "nm0525570",
+      "name": "Radovan Lukavský"
+    },
+    {
+      "id": "nm0435324",
+      "name": "Anita Kajlichova"
+    },
+    {
+      "id": "nm0470718",
+      "name": "Otomar Krejča"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0513792",
+      "name": "Oldřich Lipský"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0513792",
+      "name": "Oldřich Lipský"
+    },
+    {
+      "id": "nm0090076",
+      "name": "Zdenek Bláha"
+    },
+    {
+      "id": "nm3375346",
+      "name": "Milos Fiala"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0465716",
+      "name": "Miloš Kopecký",
+      "character": "Josef, calouník"
+    },
+    {
+      "id": "nm0525570",
+      "name": "Radovan Lukavský",
+      "character": "Adam, obyvatel Modré hvezdy"
+    },
+    {
+      "id": "nm0435324",
+      "name": "Anita Kajlichova",
+      "character": "Eve"
+    },
+    {
+      "id": "nm0470718",
+      "name": "Otomar Krejča",
+      "character": "Akademik"
+    },
+    {
+      "id": "nm0647429",
+      "name": "Vít Olmer",
+      "character": "inz. Petr"
+    },
+    {
+      "id": "nm0513795",
+      "name": "Lubomír Lipský",
+      "character": "Zarizovac v objednávárne"
+    },
+    {
+      "id": "nm0685652",
+      "name": "Anna Pitasová",
+      "character": "Osetrovatelka"
+    },
+    {
+      "id": "nm0387192",
+      "name": "Vladimír Hlavatý",
+      "character": "reditel Strakonických raketáren"
+    },
+    {
+      "id": "nm0387218",
+      "name": "Josef Hlinomaz",
+      "character": "Mistr závodu"
+    },
+    {
+      "id": "nm0840921",
+      "name": "Bohumil Švarc",
+      "character": "Astronaut"
+    },
+    {
+      "id": "nm0579844",
+      "name": "Vladimír Menšík",
+      "character": "Muz v baru"
+    },
+    {
+      "id": "nm0716881",
+      "name": "Zdeněk Řehoř",
+      "character": ""
+    },
+    {
+      "id": "nm2606196",
+      "name": "Milos Zavrel",
+      "character": ""
+    },
+    {
+      "id": "nm9348835",
+      "name": "Bohumil Cernohous",
+      "character": "Astronaut"
+    },
+    {
+      "id": "nm0752314",
+      "name": "Jirí Ruzicka",
+      "character": "Zívající muz"
+    },
+    {
+      "id": "nm0752323",
+      "name": "Helena Růžičková",
+      "character": "Redaktorka"
+    },
+    {
+      "id": "nm1859895",
+      "name": "Miroslav Abrahám",
+      "character": ""
+    },
+    {
+      "id": "nm9053336",
+      "name": "Zlata Adamová",
+      "character": "Úcastnice konference"
+    }
+  ],
+  "countries": [
+    "Czechoslovakia"
+  ],
+  "languages": [
+    "Czech"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 212376,
+  "year": 1962,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOTBhNTc0MWUtYmI2OS00MjBmLTk1ZGEtNGNlMGQ5MWI4YjYzXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Muz z prvního století",
+  "ratings": {
+    "imdb": {
+      "rating": 6,
+      "votes": 212,
+      "distribution": {
+        "1": 5,
+        "2": 3,
+        "3": 11,
+        "4": 10,
+        "5": 34,
+        "6": 71,
+        "7": 44,
+        "8": 14,
+        "9": 8,
+        "10": 12
+      },
+      "normalized": 4.9701
+    },
+    "filmweb": {
+      "rating": 6.5,
+      "votes": 20,
+      "distribution": {
+        "2": 0,
+        "3": 1,
+        "4": 1,
+        "5": 3,
+        "6": 4,
+        "7": 4,
+        "8": 7,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 5.159
+    },
+    "michal": {
+      "rating": 3,
+      "date_rated": "27.11.2005",
+      "normalized": 3.8753
+    },
+    "score": 4.6681
+  },
+  "polish_title": "Człowiek z pierwszego stulecia",
+  "silent": false,
+  "composers": [
+    {
+      "id": "nm0514097",
+      "name": "Zdeněk Liška"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0637273",
+      "name": "Vladimír Novotný"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

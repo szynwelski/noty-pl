@@ -1,0 +1,240 @@
+{
+  "imdb_id": "tt2404435",
+  "title": "The Magnificent Seven",
+  "description": "Seven gunmen from a variety of backgrounds are brought together by a vengeful young widow to protect her town from the private army of a destructive industrialist.",
+  "runtime_minutes": 132,
+  "release_date": "23.09.2016",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "Western"
+  ],
+  "stars": [
+    {
+      "id": "nm0000243",
+      "name": "Denzel Washington"
+    },
+    {
+      "id": "nm0695435",
+      "name": "Chris Pratt"
+    },
+    {
+      "id": "nm0000160",
+      "name": "Ethan Hawke"
+    },
+    {
+      "id": "nm0000352",
+      "name": "Vincent D'Onofrio"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0298807",
+      "name": "Antoine Fuqua"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000041",
+      "name": "Akira Kurosawa"
+    },
+    {
+      "id": "nm0368074",
+      "name": "Shinobu Hashimoto"
+    },
+    {
+      "id": "nm0644823",
+      "name": "Hideo Oguni"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000243",
+      "name": "Denzel Washington",
+      "character": "Chisolm"
+    },
+    {
+      "id": "nm0695435",
+      "name": "Chris Pratt",
+      "character": "Josh Faraday"
+    },
+    {
+      "id": "nm0000160",
+      "name": "Ethan Hawke",
+      "character": "Goodnight Robicheaux"
+    },
+    {
+      "id": "nm0000352",
+      "name": "Vincent D'Onofrio",
+      "character": "Jack Horne"
+    },
+    {
+      "id": "nm0496932",
+      "name": "Lee Byung-hun",
+      "character": "Billy Rocks"
+    },
+    {
+      "id": "nm2636310",
+      "name": "Manuel Garcia-Rulfo",
+      "character": "Vasquez"
+    },
+    {
+      "id": "nm2936232",
+      "name": "Martin Sensmeier",
+      "character": "Red Harvest"
+    },
+    {
+      "id": "nm2247245",
+      "name": "Haley Bennett",
+      "character": "Emma Cullen"
+    },
+    {
+      "id": "nm0765597",
+      "name": "Peter Sarsgaard",
+      "character": "Bartholomew Bogue"
+    },
+    {
+      "id": "nm2093766",
+      "name": "Luke Grimes",
+      "character": "Teddy Q"
+    },
+    {
+      "id": "nm0093589",
+      "name": "Matt Bomer",
+      "character": "Matthew Cullen"
+    },
+    {
+      "id": "nm0430885",
+      "name": "Jonathan Joss",
+      "character": "Denali"
+    },
+    {
+      "id": "nm1544217",
+      "name": "Cam Gigandet",
+      "character": "McCann"
+    },
+    {
+      "id": "nm1556504",
+      "name": "Emil Beheshti",
+      "character": "Maxwell"
+    },
+    {
+      "id": "nm0039327",
+      "name": "Mark Ashworth",
+      "character": "Preacher"
+    },
+    {
+      "id": "nm1551999",
+      "name": "Billy Slaughter",
+      "character": "Josiah"
+    },
+    {
+      "id": "nm6021414",
+      "name": "Dodge Prince",
+      "character": "Anthony"
+    },
+    {
+      "id": "nm0692670",
+      "name": "Matthew Posey",
+      "character": "Hank Stoner"
+    }
+  ],
+  "countries": [
+    "United States",
+    "Australia"
+  ],
+  "languages": [
+    "English",
+    "North American Indian",
+    "Spanish"
+  ],
+  "color": "Color",
+  "filmweb_id": 662836,
+  "year": 2016,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTUzNTc0NTAyM15BMl5BanBnXkFtZTgwMTk1ODA5OTE@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.9,
+      "votes": 247939,
+      "distribution": {
+        "1": 2145,
+        "2": 1328,
+        "3": 2585,
+        "4": 5709,
+        "5": 17162,
+        "6": 48036,
+        "7": 89879,
+        "8": 50937,
+        "9": 15693,
+        "10": 14465
+      },
+      "normalized": 5.4241
+    },
+    "filmweb": {
+      "rating": 6.84,
+      "votes": 71033,
+      "distribution": {
+        "1": 205,
+        "2": 194,
+        "3": 804,
+        "4": 1697,
+        "5": 5437,
+        "6": 15249,
+        "7": 27811,
+        "8": 15235,
+        "9": 3275,
+        "10": 1126
+      },
+      "normalized": 5.3338
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "02.04.2021",
+      "normalized": 4.5781
+    },
+    "score": 5.112
+  },
+  "polish_title": "Siedmiu wspaniałych",
+  "silent": false,
+  "description_pl": "Armia bandytów terroryzuje małą wioskę na pograniczu amerykańsko-meksykańskim. Zrozpaczeni farmerzy zwracają się z prośbą o pomoc do grupy rewolwerowców. Siedmiu najemników postanawia stawić czoło przeważającym siłom przeciwnika, choć wydają się nie mieć szans. Czy najtwardsi rewolwerowcy będą w stanie uwolnić wioskę spod bandyckich rządów? Czy zapewnią mieszkańcom spokój i bezpieczeństwo?",
+  "producers": [
+    {
+      "id": "nm0075732",
+      "name": "Bruce Berman"
+    },
+    {
+      "id": "nm0083696",
+      "name": "Roger Birnbaum"
+    },
+    {
+      "id": "nm0085542",
+      "name": "Todd Black"
+    },
+    {
+      "id": "nm0298807",
+      "name": "Antoine Fuqua"
+    },
+    {
+      "id": "nm0592387",
+      "name": "Walter Mirisch"
+    },
+    {
+      "id": "nm1099869",
+      "name": "Kat Samick"
+    },
+    {
+      "id": "nm2137570",
+      "name": "Ben Waisbren"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0278475",
+      "name": "Mauro Fiore"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

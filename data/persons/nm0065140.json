@@ -1,0 +1,33 @@
+{
+  "id": "nm0065140",
+  "name": "Glenn Beck",
+  "filmography": [
+    {
+      "imdb_id": "tt0057012",
+      "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "year": 1964,
+      "roles": [
+        "cast"
+      ],
+      "character": "Lt. Kivel"
+    },
+    {
+      "imdb_id": "tt0062622",
+      "title": "2001: A Space Odyssey",
+      "year": 1968,
+      "roles": [
+        "cast"
+      ],
+      "character": "Aries-1B Co-Pilot"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjc4ZDc4YTUtMmNmMi00MWUwLWI0MzktODdkNWMxOTg3MWNhXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "01.06.1935",
+  "birth_location": "Cranbrook, British Columbia, Canada",
+  "imdb_scraped": true,
+  "filmweb_id": 82961,
+  "name_pl": "Glenn Beck",
+  "birth_location_pl": "Cranbrook",
+  "gender": "M",
+  "wikidata_processed": true
+}

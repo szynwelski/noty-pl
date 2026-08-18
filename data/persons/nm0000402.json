@@ -1,0 +1,88 @@
+{
+  "id": "nm0000402",
+  "name": "Carrie Fisher",
+  "filmography": [
+    {
+      "imdb_id": "tt0076759",
+      "title": "Star Wars: Episode IV - A New Hope",
+      "year": 1977,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Princess Leia Organa"
+    },
+    {
+      "imdb_id": "tt0080684",
+      "title": "Star Wars: Episode V - The Empire Strikes Back",
+      "year": 1980,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Princess Leia"
+    },
+    {
+      "imdb_id": "tt0086190",
+      "title": "Star Wars: Episode VI - Return of the Jedi",
+      "year": 1983,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Princess Leia"
+    },
+    {
+      "imdb_id": "tt0091167",
+      "title": "Hannah and Her Sisters",
+      "year": 1986,
+      "roles": [
+        "cast"
+      ],
+      "character": "April"
+    },
+    {
+      "imdb_id": "tt0098635",
+      "title": "When Harry Met Sally...",
+      "year": 1989,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Marie"
+    },
+    {
+      "imdb_id": "tt0261392",
+      "title": "Jay and Silent Bob Strike Back",
+      "year": 2001,
+      "roles": [
+        "cast"
+      ],
+      "character": "Nun"
+    },
+    {
+      "imdb_id": "tt2488496",
+      "title": "Star Wars: Episode VII - The Force Awakens",
+      "year": 2015,
+      "roles": [
+        "cast"
+      ],
+      "character": "Princess Leia"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjM3MjI4NTI4MV5BMl5BanBnXkFtZTgwNzgyMzQyNDM@._V1_.jpg",
+  "birth_date": "21.10.1956",
+  "death_date": "27.12.2016",
+  "birth_location": "Burbank, California, USA",
+  "height": "1.55 m",
+  "filmweb_id": 4788,
+  "name_pl": "Carrie Fisher",
+  "birth_location_pl": "Burbank, Kalifornia",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 4788
+}

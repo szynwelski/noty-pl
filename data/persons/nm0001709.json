@@ -1,0 +1,74 @@
+{
+  "id": "nm0001709",
+  "name": "Til Schweiger",
+  "filmography": [
+    {
+      "imdb_id": "tt0349683",
+      "title": "King Arthur",
+      "year": 2004,
+      "roles": [
+        "cast"
+      ],
+      "character": "Cynric"
+    },
+    {
+      "imdb_id": "tt0361748",
+      "title": "Inglourious Basterds",
+      "year": 2009,
+      "roles": [
+        "cast"
+      ],
+      "character": "Sgt. Hugo Stiglitz"
+    },
+    {
+      "imdb_id": "tt1509767",
+      "title": "The Three Musketeers",
+      "year": 2011,
+      "roles": [
+        "cast"
+      ],
+      "character": "Cagliostro"
+    },
+    {
+      "imdb_id": "tt1596350",
+      "title": "This Means War",
+      "year": 2012,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Heinrich"
+    },
+    {
+      "imdb_id": "tt2406566",
+      "title": "Atomic Blonde",
+      "year": 2017,
+      "roles": [
+        "cast"
+      ],
+      "character": "Watchmaker"
+    },
+    {
+      "imdb_id": "tt5177120",
+      "title": "The Ministry of Ungentlemanly Warfare",
+      "year": 2024,
+      "roles": [
+        "cast"
+      ],
+      "character": "Heinrich Luhr"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTM5NzA4ODQ3NF5BMl5BanBnXkFtZTcwNjY0MDM4OQ@@._V1_.jpg",
+  "birth_date": "19.12.1963",
+  "birth_location": "Freiburg im Breisgau, Baden-Württemberg, Germany",
+  "height": "1.78 m",
+  "filmweb_id": 3688,
+  "name_pl": "Til Schweiger",
+  "birth_location_pl": "Fryburg Bryzgowijski",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Niemcy"
+  ]
+}

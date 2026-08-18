@@ -1,0 +1,251 @@
+{
+  "imdb_id": "tt3083008",
+  "title": "The Program",
+  "description": "An Irish sports journalist becomes convinced that Lance Armstrong's performances during the Tour de France victories are fueled by banned substances. With this conviction, he starts hunting for evidence that will expose Armstrong.",
+  "runtime_minutes": 104,
+  "release_date": "18.03.2016",
+  "genres": [
+    "Biography",
+    "Drama",
+    "Sport"
+  ],
+  "stars": [
+    {
+      "id": "nm0004936",
+      "name": "Ben Foster"
+    },
+    {
+      "id": "nm1483369",
+      "name": "Chris O'Dowd"
+    },
+    {
+      "id": "nm0133899",
+      "name": "Guillaume Canet"
+    },
+    {
+      "id": "nm0687146",
+      "name": "Jesse Plemons"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001241",
+      "name": "Stephen Frears"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0388076",
+      "name": "John Hodge"
+    },
+    {
+      "id": "nm1937363",
+      "name": "David Walsh"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0004936",
+      "name": "Ben Foster",
+      "character": "Lance Armstrong"
+    },
+    {
+      "id": "nm1483369",
+      "name": "Chris O'Dowd",
+      "character": "David Walsh"
+    },
+    {
+      "id": "nm0133899",
+      "name": "Guillaume Canet",
+      "character": "Dr. Ferrari"
+    },
+    {
+      "id": "nm0687146",
+      "name": "Jesse Plemons",
+      "character": "Floyd Landis"
+    },
+    {
+      "id": "nm1195855",
+      "name": "Lee Pace",
+      "character": "Bill Stapleton"
+    },
+    {
+      "id": "nm1616970",
+      "name": "Denis Ménochet",
+      "character": "Johan Bruyneel"
+    },
+    {
+      "id": "nm1296102",
+      "name": "Edward Hogg",
+      "character": "Frankie Andreu"
+    },
+    {
+      "id": "nm0000163",
+      "name": "Dustin Hoffman",
+      "character": "Bob Hamman"
+    },
+    {
+      "id": "nm0144187",
+      "name": "Elaine Cassidy",
+      "character": "Betsy Andreu"
+    },
+    {
+      "id": "nm1967827",
+      "name": "Laura Donnelly",
+      "character": "Emma O'Reilly"
+    },
+    {
+      "id": "nm0927835",
+      "name": "Peter Wight",
+      "character": "Sunday Times Editor"
+    },
+    {
+      "id": "nm4776189",
+      "name": "Nathan Wiley",
+      "character": "Charles Pelkey"
+    },
+    {
+      "id": "nm0488271",
+      "name": "Chris Larkin",
+      "character": "John Wilcockson"
+    },
+    {
+      "id": "nm0514625",
+      "name": "Mark Little",
+      "character": "Rupert Guinness"
+    },
+    {
+      "id": "nm0933865",
+      "name": "Michael G. Wilson",
+      "character": "Lance's Doctor"
+    },
+    {
+      "id": "nm3801676",
+      "name": "Sid Phoenix",
+      "character": "Tony"
+    },
+    {
+      "id": "nm4853066",
+      "name": "Josh O'Connor",
+      "character": "Rich"
+    },
+    {
+      "id": "nm2397390",
+      "name": "Sam Hoare",
+      "character": "Stephen Swart"
+    }
+  ],
+  "countries": [
+    "United Kingdom",
+    "United States",
+    "France"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 733808,
+  "year": 2015,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDMzMzY3NTIyM15BMl5BanBnXkFtZTgwMjAwNTY1NjE@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.5,
+      "votes": 20599,
+      "distribution": {
+        "1": 229,
+        "2": 118,
+        "3": 217,
+        "4": 628,
+        "5": 2094,
+        "6": 6262,
+        "7": 7543,
+        "8": 2427,
+        "9": 582,
+        "10": 499
+      },
+      "normalized": 4.5499
+    },
+    "filmweb": {
+      "rating": 6.44,
+      "votes": 8296,
+      "distribution": {
+        "1": 35,
+        "2": 14,
+        "3": 99,
+        "4": 255,
+        "5": 1017,
+        "6": 2625,
+        "7": 3109,
+        "8": 908,
+        "9": 147,
+        "10": 87
+      },
+      "normalized": 4.2339
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "12.10.2020",
+      "normalized": 6.4102
+    },
+    "score": 5.0647
+  },
+  "polish_title": "Strategia mistrza",
+  "silent": false,
+  "description_pl": "Był bohaterem dla milionów ludzi na całym świecie, którzy z zapartym  tchem śledzili jego kolejne, niezwykłe zwycięstwa podczas Tour de  France. Wzbudzał podziw i szacunek nie tylko jako sportowiec, ale  człowiek, który pokonał raka i wrócił do wyczynowego kolarstwa. Był  wzorem dla młodych, nadzieją dla chorych, inspiracją dla innych  sportowców. Ale pewnego dnia okazało się, że to wszystko jest wielkim  oszustwem. Lance Armstrong stał się bohaterem największego skandalu  dopingowego w historii sportu.",
+  "producers": [
+    {
+      "id": "nm1148054",
+      "name": "Raphaël Benoliel"
+    },
+    {
+      "id": "nm0079677",
+      "name": "Tim Bevan"
+    },
+    {
+      "id": "nm0153877",
+      "name": "Liza Chasin"
+    },
+    {
+      "id": "nm2761920",
+      "name": "Olivier Courson"
+    },
+    {
+      "id": "nm0271479",
+      "name": "Eric Fellner"
+    },
+    {
+      "id": "nm0335028",
+      "name": "Amelia Granger"
+    },
+    {
+      "id": "nm1286457",
+      "name": "Ron Halpern"
+    },
+    {
+      "id": "nm1167340",
+      "name": "Matthieu Rubin"
+    },
+    {
+      "id": "nm0780870",
+      "name": "Tracey Seaward"
+    },
+    {
+      "id": "nm1660747",
+      "name": "Kate Solomon"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0373588",
+      "name": "Alex Heffes"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0169299",
+      "name": "Danny Cohen"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,160 @@
+{
+  "imdb_id": "tt0100264",
+  "title": "Nils Karlsson Pyssling",
+  "description": "A lonely 7-year-old boy whose sister passed away finds unexpected friendship with a tiny creature living in his basement, despite the mean rat who serves as the creature's landlord.",
+  "runtime_minutes": 75,
+  "release_date": "09.11.1990",
+  "genres": [
+    "Family",
+    "Fantasy"
+  ],
+  "stars": [
+    {
+      "id": "nm0512062",
+      "name": "Jonatan Lindoff"
+    },
+    {
+      "id": "nm0530466",
+      "name": "Oskar Löfkvist"
+    },
+    {
+      "id": "nm0678556",
+      "name": "Britta Pettersson"
+    },
+    {
+      "id": "nm0255818",
+      "name": "Charlie Elvegård"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0351451",
+      "name": "Staffan Götestam"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0351451",
+      "name": "Staffan Götestam"
+    },
+    {
+      "id": "nm0511807",
+      "name": "Astrid Lindgren"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0512062",
+      "name": "Jonatan Lindoff",
+      "character": "Nils Karlsson Pyssling"
+    },
+    {
+      "id": "nm0530466",
+      "name": "Oskar Löfkvist",
+      "character": "Bertil"
+    },
+    {
+      "id": "nm0678556",
+      "name": "Britta Pettersson",
+      "character": "Mamma"
+    },
+    {
+      "id": "nm0255818",
+      "name": "Charlie Elvegård",
+      "character": "Pappa"
+    },
+    {
+      "id": "nm0758556",
+      "name": "Ulla Sallert",
+      "character": "Hulda"
+    },
+    {
+      "id": "nm5636244",
+      "name": "Sotis",
+      "character": "Tusse"
+    },
+    {
+      "id": "nm5636728",
+      "name": "Bubblan",
+      "character": "Tjoffsan"
+    }
+  ],
+  "countries": [
+    "Sweden"
+  ],
+  "languages": [
+    "Swedish"
+  ],
+  "color": "Color",
+  "filmweb_id": 104695,
+  "year": 1990,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTUwOTgwNTk5N15BMl5BanBnXkFtZTcwMzcyODYxMQ@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.7,
+      "votes": 1240,
+      "distribution": {
+        "1": 16,
+        "2": 26,
+        "3": 56,
+        "4": 109,
+        "5": 289,
+        "6": 364,
+        "7": 193,
+        "8": 81,
+        "9": 30,
+        "10": 76
+      },
+      "normalized": 3.9884
+    },
+    "filmweb": {
+      "rating": 6.28,
+      "votes": 25,
+      "distribution": {
+        "2": 0,
+        "3": 1,
+        "4": 2,
+        "5": 6,
+        "6": 4,
+        "7": 8,
+        "8": 2,
+        "9": 0,
+        "10": 2
+      },
+      "normalized": 5.0823
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "31.05.2015",
+      "normalized": 4.5781
+    },
+    "score": 4.5496
+  },
+  "polish_title": "Nils Paluszek",
+  "silent": false,
+  "description_pl": "Był sobie mały chłopiec - Bertil, który mieszkał z rodzicami. Jednak rodzice pracują i chłopiec cały dzień jest sam. Pewnego dnia spotyka malutkiego Nilsa, który zamieszkał w małym mieszkanku pod łóżkiem chłopca. Trzeba mu pomóc się urządzić...",
+  "producers": [
+    {
+      "id": "nm0074073",
+      "name": "Waldemar Bergendahl"
+    },
+    {
+      "id": "nm0198383",
+      "name": "Ingrid Dalunde"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0074684",
+      "name": "Anders Berglund"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0512527",
+      "name": "Rolf Lindström"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

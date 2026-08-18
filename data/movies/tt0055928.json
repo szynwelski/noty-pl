@@ -1,0 +1,227 @@
+{
+  "imdb_id": "tt0055928",
+  "title": "Dr. No",
+  "description": "A resourceful British government agent seeks answers in a case involving the disappearance of a colleague and the disruption of the American space program.",
+  "runtime_minutes": 110,
+  "release_date": "10.10.1962",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000125",
+      "name": "Sean Connery"
+    },
+    {
+      "id": "nm0000266",
+      "name": "Ursula Andress"
+    },
+    {
+      "id": "nm0496866",
+      "name": "Bernard Lee"
+    },
+    {
+      "id": "nm0936476",
+      "name": "Joseph Wiseman"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0950109",
+      "name": "Terence Young"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0537363",
+      "name": "Richard Maibaum"
+    },
+    {
+      "id": "nm0367820",
+      "name": "Johanna Harwood"
+    },
+    {
+      "id": "nm0558435",
+      "name": "Berkely Mather"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000125",
+      "name": "Sean Connery",
+      "character": "James Bond"
+    },
+    {
+      "id": "nm0000266",
+      "name": "Ursula Andress",
+      "character": "Honey Ryder"
+    },
+    {
+      "id": "nm0496866",
+      "name": "Bernard Lee",
+      "character": "M."
+    },
+    {
+      "id": "nm0936476",
+      "name": "Joseph Wiseman",
+      "character": "Dr. No"
+    },
+    {
+      "id": "nm0520437",
+      "name": "Jack Lord",
+      "character": "Felix Leiter"
+    },
+    {
+      "id": "nm0206060",
+      "name": "Anthony Dawson",
+      "character": "Professor Dent"
+    },
+    {
+      "id": "nm0551243",
+      "name": "Zena Marshall",
+      "character": "Miss Taro"
+    },
+    {
+      "id": "nm0457839",
+      "name": "John Kitzmiller",
+      "character": "Quarrel"
+    },
+    {
+      "id": "nm0311013",
+      "name": "Eunice Gayson",
+      "character": "Sylvia"
+    },
+    {
+      "id": "nm0561755",
+      "name": "Lois Maxwell",
+      "character": "Miss Moneypenny"
+    },
+    {
+      "id": "nm0078252",
+      "name": "Peter Burton",
+      "character": "Major Boothroyd"
+    },
+    {
+      "id": "nm0793553",
+      "name": "Yvonne Shima",
+      "character": "Sister Lily"
+    },
+    {
+      "id": "nm0596304",
+      "name": "Michel Mok",
+      "character": "Sister Rose"
+    },
+    {
+      "id": "nm0506759",
+      "name": "Marguerite LeWars",
+      "character": "Photographer"
+    },
+    {
+      "id": "nm0288126",
+      "name": "William Foster-Davis",
+      "character": "Superintendent"
+    },
+    {
+      "id": "nm0444180",
+      "name": "Dolores Keator",
+      "character": "Mary"
+    },
+    {
+      "id": "nm0141883",
+      "name": "Reggie Carter",
+      "character": "Jones"
+    },
+    {
+      "id": "nm0085108",
+      "name": "Louis Blaazer",
+      "character": "Pleydell-Smith"
+    }
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Italian"
+  ],
+  "color": null,
+  "filmweb_id": 816,
+  "year": 1962,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BM2Q0ODAxYTgtN2E3My00Yzc2LWI2NDUtOGU0YzgzYzM4OWMwXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.2,
+      "votes": 197332,
+      "distribution": {
+        "1": 829,
+        "2": 543,
+        "3": 1110,
+        "4": 2622,
+        "5": 8880,
+        "6": 29490,
+        "7": 74167,
+        "8": 51124,
+        "9": 14962,
+        "10": 13605
+      },
+      "normalized": 5.9392
+    },
+    "filmweb": {
+      "rating": 7.21,
+      "votes": 62265,
+      "distribution": {
+        "1": 122,
+        "2": 97,
+        "3": 319,
+        "4": 893,
+        "5": 2986,
+        "6": 10234,
+        "7": 23278,
+        "8": 17290,
+        "9": 4258,
+        "10": 2788
+      },
+      "normalized": 6.0378
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "15.06.2007",
+      "normalized": 4.5781
+    },
+    "score": 5.5184
+  },
+  "polish_title": "Doktor No",
+  "silent": false,
+  "description_pl": "W filmie, który rozpoczyna serię przygód super agenta 007 James Bond (<a href=\"/osoba/?id=nm0000125\">Sean Connery</a>) wyjaśnia sprawę podwójnego morderstwa na Jamajce. Trafia do siedziby tajemniczego doktora No, naukowego geniusza, który zamierza zniszczyć program kosmiczny Stanów Zjednoczonych. Poznaje piękną Honey Ryder (<a href=\"/osoba/?id=nm0000266\">Ursula Andress</a>) i toczy zaciekłą walkę z bezwzględnym terrorystą.",
+  "producers": [
+    {
+      "id": "nm0110482",
+      "name": "Albert R. Broccoli"
+    },
+    {
+      "id": "nm0759162",
+      "name": "Harry Saltzman"
+    },
+    {
+      "id": "nm0814621",
+      "name": "Stanley Sopel"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0635578",
+      "name": "Monty Norman"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0601924",
+      "name": "Ted Moore"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

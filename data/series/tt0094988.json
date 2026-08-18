@@ -1,0 +1,192 @@
+{
+  "imdb_id": "tt0094988",
+  "title": "Dekalog, szesc",
+  "description": "A teenager spies on his older neighbour through binoculars.",
+  "runtime_minutes": 60,
+  "release_date": "08.06.1990",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0523821",
+      "name": "Olaf Lubaszenko"
+    },
+    {
+      "id": "nm0843772",
+      "name": "Grazyna Szapolowska"
+    },
+    {
+      "id": "nm0532536",
+      "name": "Piotr Machalica"
+    },
+    {
+      "id": "nm0412652",
+      "name": "Stefania Iwinska"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001425",
+      "name": "Krzysztof Kieślowski"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0682830",
+      "name": "Krzysztof Piesiewicz"
+    },
+    {
+      "id": "nm0001425",
+      "name": "Krzysztof Kieślowski"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0523821",
+      "name": "Olaf Lubaszenko",
+      "character": "Tomek"
+    },
+    {
+      "id": "nm0843772",
+      "name": "Grazyna Szapolowska",
+      "character": "Magda"
+    },
+    {
+      "id": "nm0532536",
+      "name": "Piotr Machalica",
+      "character": "Roman"
+    },
+    {
+      "id": "nm0412652",
+      "name": "Stefania Iwinska",
+      "character": "Godmother"
+    },
+    {
+      "id": "nm0054007",
+      "name": "Artur Barcis",
+      "character": "Young Man"
+    },
+    {
+      "id": "nm0310702",
+      "name": "Stanislaw Gawlik",
+      "character": "Postman"
+    },
+    {
+      "id": "nm0408155",
+      "name": "Rafal Imbro",
+      "character": "Bearded Man"
+    },
+    {
+      "id": "nm0682099",
+      "name": "Jan Piechocinski",
+      "character": "Blond Man"
+    },
+    {
+      "id": "nm0747647",
+      "name": "Malgorzata Rozniatowska",
+      "character": "Angry Postmaster"
+    },
+    {
+      "id": "nm0158911",
+      "name": "Hanna Chojnacka",
+      "character": "Miroslawa"
+    },
+    {
+      "id": "nm0333571",
+      "name": "Tomasz Gradowski",
+      "character": ""
+    },
+    {
+      "id": "nm0465761",
+      "name": "Krzysztof Koperski",
+      "character": "Gasman in Magda's Apartment"
+    },
+    {
+      "id": "nm0584634",
+      "name": "Jaroslawa Michalewska",
+      "character": "Post-Office Clerk"
+    },
+    {
+      "id": "nm0957415",
+      "name": "Emilia Ziólkowska",
+      "character": "Old Woman at Post-Office"
+    }
+  ],
+  "countries": [
+    "Poland",
+    "West Germany"
+  ],
+  "languages": [
+    "Polish"
+  ],
+  "color": "Color",
+  "year": 1989,
+  "type": "tvEpisode",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTY2OTg3MDQ0N15BMl5BanBnXkFtZTgwNDk3ODIwOTE@._V1_.jpg",
+  "filmweb_id": 36677,
+  "ratings": {
+    "imdb": {
+      "rating": 8.6,
+      "votes": 4961,
+      "distribution": {
+        "1": 52,
+        "2": 49,
+        "3": 18,
+        "4": 27,
+        "5": 58,
+        "6": 186,
+        "7": 522,
+        "8": 1192,
+        "9": 1304,
+        "10": 1553
+      }
+    },
+    "filmweb": {
+      "rating": 7.95,
+      "votes": 27749,
+      "distribution": {
+        "1": 89,
+        "2": 38,
+        "3": 107,
+        "4": 207,
+        "5": 581,
+        "6": 1646,
+        "7": 5537,
+        "8": 10855,
+        "9": 6041,
+        "10": 2648
+      }
+    },
+    "michal": {
+      "rating": 10,
+      "date_rated": "21.10.2004"
+    }
+  },
+  "polish_title": "Dekalog VI",
+  "silent": false,
+  "description_pl": "Historia tragicznej miłości młodego, wrażliwego chłopca Tomka (<a href=\"/osoba/?id=nm0523821\">Olaf Lubaszenko</a>) do starszej od siebie kobiety, Magdy (<a href=\"/osoba/?id=nm0843772\">Grażyna Szapołowska</a>), która w cyniczny sposób próbuje mu udowodnić, że wielkie uczucia nie istnieją. On wieczorami podgląda ją przez lunetę, ona nieświadoma tego faktu nie zasłania okien. Pewnego dnia spotykają się...",
+  "producers": [
+    {
+      "id": "nm0119557",
+      "name": "Andrzej Buhl"
+    },
+    {
+      "id": "nm0161541",
+      "name": "Ryszard Chutkowski"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006237",
+      "name": "Zbigniew Preisner"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0010627",
+      "name": "Witold Adamek"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

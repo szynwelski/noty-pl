@@ -1,0 +1,97 @@
+{
+  "imdb_id": "tt0222481",
+  "title": "La vie et la passion de Jésus-Christ",
+  "description": "The Lumière catalog sold this title as 13 individual, one-scene films - allowing exhibitors to choose which films they wanted to purchase and how to arrange them in their programs. Lumière catalog no. 933 through 945.",
+  "runtime_minutes": 11,
+  "release_date": "1898",
+  "genres": [
+    "Short",
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm1778194",
+      "name": "Bretteau"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm1563072",
+      "name": "Georges Hatot"
+    },
+    {
+      "id": "nm0525910",
+      "name": "Louis Lumière"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1778194",
+      "name": "Bretteau",
+      "character": "Jésus-Christ"
+    }
+  ],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 205797,
+  "year": 1898,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOWM2YjQ4YmQtYmViZi00YTNiLWIwYTQtN2U0NzA3OTZhYjcxXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.8,
+      "votes": 272,
+      "distribution": {
+        "1": 17,
+        "2": 8,
+        "3": 14,
+        "4": 22,
+        "5": 56,
+        "6": 81,
+        "7": 40,
+        "8": 19,
+        "9": 5,
+        "10": 10
+      },
+      "normalized": 4.7666
+    },
+    "filmweb": {
+      "rating": 6.03,
+      "votes": 75,
+      "distribution": {
+        "1": 1,
+        "2": 1,
+        "3": 5,
+        "4": 6,
+        "5": 18,
+        "6": 13,
+        "7": 16,
+        "8": 10,
+        "9": 0,
+        "10": 5
+      },
+      "normalized": 4.8111
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "21.10.2007",
+      "normalized": 6.3474
+    },
+    "score": 5.3084
+  },
+  "polish_title": "La Vie et la passion de Jésus-Christ",
+  "silent": true,
+  "cinematographers": [
+    {
+      "id": "nm0698645",
+      "name": "Alexandre Promio"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

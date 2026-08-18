@@ -1,0 +1,33 @@
+{
+  "id": "nm0487085",
+  "name": "Hans Lanser-Ludolff",
+  "filmography": [
+    {
+      "imdb_id": "tt0010323",
+      "title": "The Cabinet of Dr. Caligari",
+      "year": 1920,
+      "roles": [
+        "cast"
+      ],
+      "character": "Ein Alter Mann"
+    },
+    {
+      "imdb_id": "tt0013442",
+      "title": "Nosferatu",
+      "year": 1922,
+      "roles": [
+        "cast"
+      ],
+      "character": "A magistrate"
+    }
+  ],
+  "birth_date": "19.06.1860",
+  "death_date": "19.01.1934",
+  "birth_location": "Bonn, Germany",
+  "imdb_scraped": true,
+  "filmweb_id": 151877,
+  "name_pl": "Hans Lanser-Ludolff",
+  "birth_location_pl": "Bonn",
+  "gender": "M",
+  "wikidata_processed": true
+}

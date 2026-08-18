@@ -1,0 +1,39 @@
+{
+  "id": "nm0001594",
+  "name": "Anne Parillaud",
+  "filmography": [
+    {
+      "imdb_id": "tt0100263",
+      "title": "La Femme Nikita",
+      "year": 1990,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Nikita"
+    },
+    {
+      "imdb_id": "tt0120744",
+      "title": "The Man in the Iron Mask",
+      "year": 1998,
+      "roles": [
+        "cast"
+      ],
+      "character": "Queen Anne"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTNiMDI3ZWQtNTJmMS00ZjcxLTllZTktZGFkZDEyZWYzOWRiXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "06.05.1960",
+  "birth_location": "Paris, France",
+  "height": "1.68 m",
+  "imdb_scraped": true,
+  "filmweb_id": 2830,
+  "name_pl": "Anne Parillaud",
+  "birth_location_pl": "Paryż",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja"
+  ],
+  "wikidata_fw_id": 2830
+}

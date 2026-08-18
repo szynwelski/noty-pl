@@ -1,0 +1,188 @@
+{
+  "imdb_id": "tt5687678",
+  "title": "Faster Than Light",
+  "description": "A lone astronaut testing the first faster-than-light spacecraft travels farther than he imagined possible.",
+  "runtime_minutes": 15,
+  "release_date": "2017",
+  "genres": [
+    "Short",
+    "Drama",
+    "Mystery",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm0648153",
+      "name": "Ty Olsson"
+    },
+    {
+      "id": "nm0465269",
+      "name": "Karin Konoval"
+    },
+    {
+      "id": "nm2784214",
+      "name": "Aliyah O'Brien"
+    },
+    {
+      "id": "nm8394209",
+      "name": "John Torrance"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0827618",
+      "name": "Adam Stern"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0827618",
+      "name": "Adam Stern"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0648153",
+      "name": "Ty Olsson",
+      "character": "Ethan Kane"
+    },
+    {
+      "id": "nm0465269",
+      "name": "Karin Konoval",
+      "character": "Sarah Johns"
+    },
+    {
+      "id": "nm2784214",
+      "name": "Aliyah O'Brien",
+      "character": "Abby Kane"
+    },
+    {
+      "id": "nm8394209",
+      "name": "John Torrance",
+      "character": "Jack Kane"
+    },
+    {
+      "id": "nm3362522",
+      "name": "Ronald Patrick Thompson",
+      "character": "NavCom"
+    },
+    {
+      "id": "nm2526174",
+      "name": "Mana Mansour",
+      "character": "Reporter"
+    },
+    {
+      "id": "nm7614053",
+      "name": "Crystal Bretz",
+      "character": "Mission Control"
+    },
+    {
+      "id": "nm4824731",
+      "name": "Keyvin Dell",
+      "character": "Mission Control"
+    },
+    {
+      "id": "nm5612393",
+      "name": "Yazmin Garcia",
+      "character": "Mission Control"
+    },
+    {
+      "id": "nm2114799",
+      "name": "Sean Gilhooly",
+      "character": "Mission Control"
+    },
+    {
+      "id": "nm2215239",
+      "name": "Milton Muller",
+      "character": "Mission Control"
+    },
+    {
+      "id": "nm10393540",
+      "name": "Chris Yoo",
+      "character": "Mission Control"
+    }
+  ],
+  "countries": [
+    "Canada"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 832025,
+  "year": 2017,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNmMyNzVmNTktMGRhZS00ZTBiLWI5ZTMtMTc3MThmNmU5MTI4XkEyXkFqcGc@._V1_.jpg",
+  "original_title": "FTL",
+  "ratings": {
+    "imdb": {
+      "rating": 6.5,
+      "votes": 1218,
+      "distribution": {
+        "1": 40,
+        "2": 17,
+        "3": 33,
+        "4": 58,
+        "5": 137,
+        "6": 212,
+        "7": 312,
+        "8": 191,
+        "9": 89,
+        "10": 129
+      },
+      "normalized": 4.8052
+    },
+    "filmweb": {
+      "rating": 5.51,
+      "votes": 138,
+      "distribution": {
+        "1": 1,
+        "2": 2,
+        "3": 11,
+        "4": 20,
+        "5": 28,
+        "6": 42,
+        "7": 27,
+        "8": 4,
+        "9": 1,
+        "10": 2
+      },
+      "normalized": 4.3544
+    },
+    "michal": {
+      "rating": 3,
+      "date_rated": "07.04.2021",
+      "normalized": 3.8753
+    },
+    "score": 4.345
+  },
+  "polish_title": "FTL",
+  "silent": false,
+  "producers": [
+    {
+      "id": "nm2049577",
+      "name": "Todd Giroux"
+    },
+    {
+      "id": "nm0410220",
+      "name": "Sara Irvine-Erickson"
+    },
+    {
+      "id": "nm0827618",
+      "name": "Adam Stern"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0827618",
+      "name": "Adam Stern"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm3870772",
+      "name": "Stirling Bancroft"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

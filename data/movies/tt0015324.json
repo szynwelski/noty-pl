@@ -1,0 +1,196 @@
+{
+  "imdb_id": "tt0015324",
+  "title": "Sherlock Jr.",
+  "description": "A film projectionist longs to be a detective, and puts his meagre skills to work when he is framed by a rival for stealing his girlfriend's father's pocketwatch.",
+  "runtime_minutes": 45,
+  "release_date": "11.05.1924",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0000036",
+      "name": "Buster Keaton"
+    },
+    {
+      "id": "nm0570230",
+      "name": "Kathryn McGuire"
+    },
+    {
+      "id": "nm0444172",
+      "name": "Joe Keaton"
+    },
+    {
+      "id": "nm0175068",
+      "name": "Erwin Connelly"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000036",
+      "name": "Buster Keaton"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0369841",
+      "name": "Jean C. Havez"
+    },
+    {
+      "id": "nm0593477",
+      "name": "Joseph A. Mitchell"
+    },
+    {
+      "id": "nm0115669",
+      "name": "Clyde Bruckman"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000036",
+      "name": "Buster Keaton",
+      "character": "Projectionist"
+    },
+    {
+      "id": "nm0570230",
+      "name": "Kathryn McGuire",
+      "character": "The Girl"
+    },
+    {
+      "id": "nm0444172",
+      "name": "Joe Keaton",
+      "character": "The Girl's Father"
+    },
+    {
+      "id": "nm0175068",
+      "name": "Erwin Connelly",
+      "character": "The Hired Man"
+    },
+    {
+      "id": "nm0186440",
+      "name": "Ward Crane",
+      "character": "The Local Sheik"
+    },
+    {
+      "id": "nm0175075",
+      "name": "Jane Connelly",
+      "character": "The Mother"
+    },
+    {
+      "id": "nm0204639",
+      "name": "George Davis",
+      "character": "Conspirator"
+    },
+    {
+      "id": "nm0213009",
+      "name": "Doris Deane",
+      "character": "Girl Who Loses Dollar Outside Cinema"
+    },
+    {
+      "id": "nm1537375",
+      "name": "Christine Francis",
+      "character": "Candy Store Girl"
+    },
+    {
+      "id": "nm0386808",
+      "name": "Betsy Ann Hisle",
+      "character": "Little Girl"
+    },
+    {
+      "id": "nm0604813",
+      "name": "Kewpie Morgan",
+      "character": "Conspirator"
+    },
+    {
+      "id": "nm0614730",
+      "name": "Steve Murphy",
+      "character": "Conspirator"
+    },
+    {
+      "id": "nm0665874",
+      "name": "John Patrick",
+      "character": "Conspirator"
+    },
+    {
+      "id": "nm0922068",
+      "name": "Ford West",
+      "character": "Theatre Manager"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "None",
+    "English"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 91338,
+  "year": 1924,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjQzM2E2NjYtYmRjMC00ZmVlLTljZTgtNmQ5MGZlNDYyZTc5XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8.1,
+      "votes": 66681,
+      "distribution": {
+        "1": 1747,
+        "2": 738,
+        "3": 559,
+        "4": 823,
+        "5": 1932,
+        "6": 3816,
+        "7": 10211,
+        "8": 20413,
+        "9": 13394,
+        "10": 13048
+      },
+      "normalized": 7.6536
+    },
+    "filmweb": {
+      "rating": 7.81,
+      "votes": 2997,
+      "distribution": {
+        "1": 8,
+        "2": 5,
+        "3": 11,
+        "4": 23,
+        "5": 88,
+        "6": 243,
+        "7": 694,
+        "8": 1082,
+        "9": 569,
+        "10": 274
+      },
+      "normalized": 7.2476
+    },
+    "jarek": {
+      "rating": 9,
+      "date_rated": "09.12.2016",
+      "normalized": 8.8973
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "27.12.2010",
+      "normalized": 7.2292
+    },
+    "score": 7.7569
+  },
+  "polish_title": "Młody Sherlock Holmes",
+  "silent": true,
+  "description_pl": "Dwaj mężczyźni rywalizują o względy dziewczyny (Kathryn McGuire). Czarny charakter (<a href=\"/osoba/?id=nm0186440\">Ward Crane</a>) kradnie jej ojcu zegarek, a o ten występek oskarżony zostaje operator projektora (<a href=\"/osoba/?id=nm0000036\">Buster Keaton</a>). Zhańbiony bohater wraca do swojego zajęcia w kinie. Obsługując urządzenie, zapada w sen, w którym jego życie staje się filmem. Przenosi tam wszystkich swoich znajomych, a sam staję się Sherlockiem Holmesem Jr. poszukującym skradzionych pereł.",
+  "producers": [
+    {
+      "id": "nm0000036",
+      "name": "Buster Keaton"
+    },
+    {
+      "id": "nm0770852",
+      "name": "Joseph M. Schenck"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-15"
+}

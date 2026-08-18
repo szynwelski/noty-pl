@@ -1,0 +1,214 @@
+{
+  "imdb_id": "tt0088847",
+  "title": "The Breakfast Club",
+  "description": "Five high school students meet in Saturday detention and discover how they have a great deal more in common than they thought.",
+  "runtime_minutes": 97,
+  "release_date": "15.02.1985",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0000389",
+      "name": "Emilio Estevez"
+    },
+    {
+      "id": "nm0000555",
+      "name": "Judd Nelson"
+    },
+    {
+      "id": "nm0000208",
+      "name": "Molly Ringwald"
+    },
+    {
+      "id": "nm0000639",
+      "name": "Ally Sheedy"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000455",
+      "name": "John Hughes"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000455",
+      "name": "John Hughes"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000389",
+      "name": "Emilio Estevez",
+      "character": "Andrew Clark"
+    },
+    {
+      "id": "nm0000555",
+      "name": "Judd Nelson",
+      "character": "John Bender"
+    },
+    {
+      "id": "nm0000208",
+      "name": "Molly Ringwald",
+      "character": "Claire Standish"
+    },
+    {
+      "id": "nm0322339",
+      "name": "Paul Gleason",
+      "character": "Richard Vernon"
+    },
+    {
+      "id": "nm0001309",
+      "name": "Anthony Michael Hall",
+      "character": "Brian Johnson"
+    },
+    {
+      "id": "nm0438127",
+      "name": "John Kapelos",
+      "character": "Carl"
+    },
+    {
+      "id": "nm0000639",
+      "name": "Ally Sheedy",
+      "character": "Allison Reynolds"
+    },
+    {
+      "id": "nm0186929",
+      "name": "Perry Crawford",
+      "character": "Allison's Father"
+    },
+    {
+      "id": "nm0160053",
+      "name": "Mary Christian",
+      "character": "Brian's Sister"
+    },
+    {
+      "id": "nm0212939",
+      "name": "Ron Dean",
+      "character": "Andy's Father"
+    },
+    {
+      "id": "nm0303816",
+      "name": "Tim Gamble",
+      "character": "Claire's Father"
+    },
+    {
+      "id": "nm0307331",
+      "name": "Fran Gargano",
+      "character": "Allison's Mom"
+    },
+    {
+      "id": "nm0355900",
+      "name": "Mercedes Hall",
+      "character": "Brian's Mom"
+    },
+    {
+      "id": "nm0152171",
+      "name": "Jonathan Chapin",
+      "character": "Janitor"
+    },
+    {
+      "id": "nm0000455",
+      "name": "John Hughes",
+      "character": "Brian's Father"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 31294,
+  "year": 1985,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZTZiMGU1MWMtNjk0Yi00ZjNjLTljMDEtMDhkNGE2OWY3YzZiXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.8,
+      "votes": 475999,
+      "distribution": {
+        "1": 2778,
+        "2": 1891,
+        "3": 3132,
+        "4": 5983,
+        "5": 14886,
+        "6": 40363,
+        "7": 101909,
+        "8": 146840,
+        "9": 79071,
+        "10": 79146
+      },
+      "normalized": 7.0533
+    },
+    "filmweb": {
+      "rating": 7.39,
+      "votes": 51234,
+      "distribution": {
+        "1": 115,
+        "2": 136,
+        "3": 452,
+        "4": 853,
+        "5": 2532,
+        "6": 6663,
+        "7": 14875,
+        "8": 16499,
+        "9": 6270,
+        "10": 2839
+      },
+      "normalized": 6.457
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "24.08.2010",
+      "normalized": 6.4102
+    },
+    "michal": {
+      "rating": 3,
+      "date_rated": "01.01.2009",
+      "normalized": 3.8753
+    },
+    "score": 5.9489
+  },
+  "polish_title": "Klub winowajców",
+  "silent": false,
+  "description_pl": "Piątka uczniów reprezentujących różne subkultury: dziwaczka Allison, mózgowiec Brian, kryminalista John, królowa piękności Claire i zapaśnik Andy jest zmuszona za karę spędzić ze sobą sobotni dzień. Na początku milczą, ale później z nudów zaczynają ze sobą rozmawiać i odkrywają, że ponad podziałami są do siebie podobni.",
+  "producers": [
+    {
+      "id": "nm0295648",
+      "name": "Gil Friesen"
+    },
+    {
+      "id": "nm0000455",
+      "name": "John Hughes"
+    },
+    {
+      "id": "nm0543339",
+      "name": "Michelle Manning"
+    },
+    {
+      "id": "nm0583009",
+      "name": "Andrew Meyer"
+    },
+    {
+      "id": "nm0849232",
+      "name": "Ned Tanen"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0286850",
+      "name": "Keith Forsey"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0215878",
+      "name": "Thomas Del Ruth"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

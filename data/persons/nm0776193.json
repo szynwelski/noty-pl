@@ -1,0 +1,45 @@
+{
+  "id": "nm0776193",
+  "name": "Armand Schultz",
+  "filmography": [
+    {
+      "imdb_id": "tt0259711",
+      "title": "Vanilla Sky",
+      "year": 2001,
+      "roles": [
+        "cast"
+      ],
+      "character": "Dr. Pomeranz"
+    },
+    {
+      "imdb_id": "tt0887883",
+      "title": "Burn After Reading",
+      "year": 2008,
+      "roles": [
+        "cast"
+      ],
+      "character": "Olson"
+    },
+    {
+      "imdb_id": "tt8740976",
+      "title": "Inventing Anna",
+      "year": 2022,
+      "roles": [
+        "cast"
+      ],
+      "character": "Landon Bloom"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNGQyZTdkZTgtMmQ4My00YTQ0LWI1MGUtY2ExMTViYjM0YWIxXkEyXkFqcGc@._V1_.jpg",
+  "birth_location": "Rochester, New York, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 139715,
+  "name_pl": "Armand Schultz",
+  "birth_location_pl": "Rochester, Nowy Jork",
+  "birth_date": "17.05.1959",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

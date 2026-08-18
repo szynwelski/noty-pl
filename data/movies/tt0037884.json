@@ -1,0 +1,210 @@
+{
+  "imdb_id": "tt0037884",
+  "title": "The Lost Weekend",
+  "description": "The desperate life of a chronic alcoholic is followed through a four-day drinking bout.",
+  "runtime_minutes": 101,
+  "release_date": "1946",
+  "genres": [
+    "Drama",
+    "Film-Noir"
+  ],
+  "stars": [
+    {
+      "id": "nm0001537",
+      "name": "Ray Milland"
+    },
+    {
+      "id": "nm0943837",
+      "name": "Jane Wyman"
+    },
+    {
+      "id": "nm0856062",
+      "name": "Phillip Terry"
+    },
+    {
+      "id": "nm0196247",
+      "name": "Howard Da Silva"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000697",
+      "name": "Billy Wilder"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0413352",
+      "name": "Charles R. Jackson"
+    },
+    {
+      "id": "nm0102818",
+      "name": "Charles Brackett"
+    },
+    {
+      "id": "nm0000697",
+      "name": "Billy Wilder"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0001537",
+      "name": "Ray Milland",
+      "character": "Don Birnam"
+    },
+    {
+      "id": "nm0943837",
+      "name": "Jane Wyman",
+      "character": "Helen St. James"
+    },
+    {
+      "id": "nm0856062",
+      "name": "Phillip Terry",
+      "character": "Wick Birnam"
+    },
+    {
+      "id": "nm0196247",
+      "name": "Howard Da Silva",
+      "character": "Nat"
+    },
+    {
+      "id": "nm0235835",
+      "name": "Doris Dowling",
+      "character": "Gloria"
+    },
+    {
+      "id": "nm0269709",
+      "name": "Frank Faylen",
+      "character": "'Bim' Nolan"
+    },
+    {
+      "id": "nm0949876",
+      "name": "Mary Young",
+      "character": "Mrs. Deveridge"
+    },
+    {
+      "id": "nm0789181",
+      "name": "Anita Sharp-Bolster",
+      "character": "Mrs. Foley"
+    },
+    {
+      "id": "nm0284832",
+      "name": "Lilian Fontaine",
+      "character": "Mrs. St. James"
+    },
+    {
+      "id": "nm0650995",
+      "name": "Frank Orth",
+      "character": "Opera Cloak Room Attendant"
+    },
+    {
+      "id": "nm0751289",
+      "name": "Lewis L. Russell",
+      "character": "Mr. St. James"
+    },
+    {
+      "id": "nm0028559",
+      "name": "Andy Andrews",
+      "character": "Alcoholic"
+    },
+    {
+      "id": "nm0039058",
+      "name": "Gene Ashley",
+      "character": "Male Nurse"
+    },
+    {
+      "id": "nm0050019",
+      "name": "Walter Baldwin",
+      "character": "Man from Albany"
+    },
+    {
+      "id": "nm0057574",
+      "name": "Harry Barris",
+      "character": "Pianist at Harry & Joe's"
+    },
+    {
+      "id": "nm2169355",
+      "name": "Ian Begg",
+      "character": "Undetermined Secondary Role"
+    },
+    {
+      "id": "nm0096128",
+      "name": "Eddie Borden",
+      "character": "Drunk in Alcoholic Ward"
+    },
+    {
+      "id": "nm0112057",
+      "name": "Jess Lee Brooks",
+      "character": "Hospital Patient"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 31663,
+  "year": 1945,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTk4NDQ0NjgyNF5BMl5BanBnXkFtZTgwMTE3NTkxMTE@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.8,
+      "votes": 43556,
+      "distribution": {
+        "1": 878,
+        "2": 289,
+        "3": 301,
+        "4": 541,
+        "5": 1258,
+        "6": 3138,
+        "7": 8603,
+        "8": 14156,
+        "9": 7898,
+        "10": 6494
+      },
+      "normalized": 6.94
+    },
+    "filmweb": {
+      "rating": 7.63,
+      "votes": 4621,
+      "distribution": {
+        "1": 55,
+        "2": 25,
+        "3": 29,
+        "4": 62,
+        "5": 147,
+        "6": 416,
+        "7": 1176,
+        "8": 1525,
+        "9": 686,
+        "10": 500
+      },
+      "normalized": 6.8937
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "10.03.2007",
+      "normalized": 6.3474
+    },
+    "score": 6.727
+  },
+  "polish_title": "Stracony weekend",
+  "silent": false,
+  "description_pl": "Niespełniony scenarzysta Don Birnham jest alkoholikiem. Tylko brat Wick i jego dziewczyna Helen chcą utrzymać go w stanie trzeźwości przez 10 dni. Planują małe wakacje na wsi przez weekend. Film zdobył 4 Oscary: za film, dla aktora pierwszoplanowego, reżysera i za scenariusz.",
+  "composers": [
+    {
+      "id": "nm0000067",
+      "name": "Miklós Rózsa"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005870",
+      "name": "John F. Seitz"
+    }
+  ],
+  "fetched_at": "2026-08-15"
+}

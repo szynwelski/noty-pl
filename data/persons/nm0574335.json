@@ -1,0 +1,30 @@
+{
+  "id": "nm0574335",
+  "name": "Butterfly McQueen",
+  "filmography": [
+    {
+      "imdb_id": "tt0031381",
+      "title": "Gone with the Wind",
+      "year": 1939,
+      "roles": [
+        "cast"
+      ],
+      "character": "Prissy"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOTQzNzg3OTA2NV5BMl5BanBnXkFtZTcwMzc3MTMxOA@@._V1_.jpg",
+  "birth_date": "07.01.1911",
+  "death_date": "22.12.1995",
+  "birth_location": "Tampa, Florida, USA",
+  "height": "1.55 m",
+  "imdb_scraped": true,
+  "filmweb_id": 9470,
+  "name_pl": "Butterfly McQueen",
+  "birth_location_pl": "Tampa, Floryda",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 9470
+}

@@ -1,0 +1,77 @@
+{
+  "id": "nm0001068",
+  "name": "Sofia Coppola",
+  "filmography": [
+    {
+      "imdb_id": "tt0091738",
+      "title": "Peggy Sue Got Married",
+      "year": 1986,
+      "roles": [
+        "cast"
+      ],
+      "character": "Nancy Kelcher"
+    },
+    {
+      "imdb_id": "tt0099674",
+      "title": "The Godfather Part III",
+      "year": 1990,
+      "roles": [
+        "cast"
+      ],
+      "character": "Mary Corleone"
+    },
+    {
+      "imdb_id": "tt0159097",
+      "title": "The Virgin Suicides",
+      "year": 1999,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0335266",
+      "title": "Lost in Translation",
+      "year": 2003,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0422720",
+      "title": "Marie Antoinette",
+      "year": 2006,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt2132285",
+      "title": "The Bling Ring",
+      "year": 2013,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTcxODIwMDMzOF5BMl5BanBnXkFtZTgwMDE5MTU0MDE@._V1_.jpg",
+  "birth_date": "14.05.1971",
+  "birth_location": "New York City, New York, USA",
+  "height": "1.66 m",
+  "filmweb_id": 8455,
+  "name_pl": "Sofia Coppola",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 8455
+}

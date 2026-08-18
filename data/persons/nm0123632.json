@@ -1,0 +1,47 @@
+{
+  "id": "nm0123632",
+  "name": "Kate Burton",
+  "filmography": [
+    {
+      "imdb_id": "tt0250797",
+      "title": "Unfaithful",
+      "year": 2002,
+      "roles": [
+        "cast"
+      ],
+      "character": "Tracy"
+    },
+    {
+      "imdb_id": "tt0371257",
+      "title": "Stay",
+      "year": 2005,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Mrs. Letham"
+    },
+    {
+      "imdb_id": "tt1542344",
+      "title": "127 Hours",
+      "year": 2010,
+      "roles": [
+        "cast"
+      ],
+      "character": "Aron's Mom"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjExMDE1MTMzMV5BMl5BanBnXkFtZTYwMDQ2NDIz._V1_.jpg",
+  "birth_date": "10.09.1957",
+  "birth_location": "Geneva, Switzerland",
+  "height": "1.69 m",
+  "filmweb_id": 67262,
+  "name_pl": "Kate Burton",
+  "birth_location_pl": "Genewa",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

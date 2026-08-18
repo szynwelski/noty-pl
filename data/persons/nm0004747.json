@@ -1,0 +1,67 @@
+{
+  "id": "nm0004747",
+  "name": "Wes Bentley",
+  "filmography": [
+    {
+      "imdb_id": "tt0169547",
+      "title": "American Beauty",
+      "year": 1999,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Ricky Fitts"
+    },
+    {
+      "imdb_id": "tt1392170",
+      "title": "The Hunger Games",
+      "year": 2012,
+      "roles": [
+        "cast"
+      ],
+      "character": "Seneca Crane"
+    },
+    {
+      "imdb_id": "tt0816692",
+      "title": "Interstellar",
+      "year": 2014,
+      "roles": [
+        "cast"
+      ],
+      "character": "Doyle"
+    },
+    {
+      "imdb_id": "tt4912910",
+      "title": "Mission: Impossible - Fallout",
+      "year": 2018,
+      "roles": [
+        "cast"
+      ],
+      "character": "Erik"
+    },
+    {
+      "imdb_id": "tt4236770",
+      "title": "Yellowstone",
+      "year": 2018,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Jamie Dutton"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOTgyOTY5OTA5OF5BMl5BanBnXkFtZTcwNzM1MjM1Nw@@._V1_.jpg",
+  "birth_date": "04.09.1978",
+  "birth_location": "Jonesboro, Arkansas, USA",
+  "height": "1.80 m",
+  "filmweb_id": 7547,
+  "name_pl": "Wes Bentley",
+  "birth_location_pl": "Jonesboro, Arkansas",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 7547
+}

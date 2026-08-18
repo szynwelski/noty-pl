@@ -1,0 +1,49 @@
+{
+  "id": "nm0519043",
+  "name": "Justin Long",
+  "filmography": [
+    {
+      "imdb_id": "tt0177789",
+      "title": "Galaxy Quest",
+      "year": 1999,
+      "roles": [
+        "cast"
+      ],
+      "character": "Brandon"
+    },
+    {
+      "imdb_id": "tt0263488",
+      "title": "Jeepers Creepers",
+      "year": 2001,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Darry"
+    },
+    {
+      "imdb_id": "tt0337978",
+      "title": "Live Free or Die Hard",
+      "year": 2007,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Matt Farrell"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjIwNTEwODY4NF5BMl5BanBnXkFtZTgwMzg0ODMwMjE@._V1_.jpg",
+  "birth_date": "02.06.1978",
+  "birth_location": "Fairfield, Connecticut, USA",
+  "height": "1.78 m",
+  "filmweb_id": 51505,
+  "name_pl": "Justin Long",
+  "birth_location_pl": "Fairfield, Connecticut",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 51505
+}

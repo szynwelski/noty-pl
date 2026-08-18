@@ -1,0 +1,113 @@
+{
+  "imdb_id": "tt2616880",
+  "title": "The Blue Umbrella",
+  "description": "Amidst the rain in a singing city, two umbrellas - one blue, one not - fall eternally in love.",
+  "runtime_minutes": 7,
+  "release_date": "21.06.2013",
+  "genres": [
+    "Animation",
+    "Short",
+    "Drama",
+    "Family",
+    "Fantasy",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm4241965",
+      "name": "Sarah Jaffe"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm2344535",
+      "name": "Saschka Unseld"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm2344535",
+      "name": "Saschka Unseld"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm4241965",
+      "name": "Sarah Jaffe",
+      "character": "Vocal performance by"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 677132,
+  "year": 2013,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNmI2MzZiNGEtYTljZi00M2RjLTljNTQtZGMzYzYxYmZmYzJmXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.5,
+      "votes": 11990,
+      "distribution": {
+        "1": 92,
+        "2": 50,
+        "3": 94,
+        "4": 166,
+        "5": 481,
+        "6": 1312,
+        "7": 3249,
+        "8": 3614,
+        "9": 1497,
+        "10": 1435
+      },
+      "normalized": 6.3358
+    },
+    "filmweb": {
+      "rating": 6.98,
+      "votes": 6451,
+      "distribution": {
+        "1": 15,
+        "2": 18,
+        "3": 67,
+        "4": 167,
+        "5": 476,
+        "6": 1230,
+        "7": 2298,
+        "8": 1524,
+        "9": 463,
+        "10": 193
+      },
+      "normalized": 5.5603
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "26.12.2020",
+      "normalized": 5.4199
+    },
+    "score": 5.772
+  },
+  "polish_title": "Niebieski parasol ",
+  "silent": false,
+  "description_pl": "Nadchodzi burza. Przechodnie jednego z dużych miast chronią się przed deszczem. Wśród tłumu czarnych parasoli wyróżniają się niebieska i czerwona, które budzą nawzajem swoje zainteresowanie. Wkrótce ich właściciele wybierają inne drogi, jednak uparte parasolki nie zamierzają się rozstać.",
+  "producers": [
+    {
+      "id": "nm2937200",
+      "name": "Marc S. Greenberg"
+    },
+    {
+      "id": "nm0005124",
+      "name": "John Lasseter"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0109726",
+      "name": "Jon Brion"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

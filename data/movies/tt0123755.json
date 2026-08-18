@@ -1,0 +1,177 @@
+{
+  "imdb_id": "tt0123755",
+  "title": "Cube",
+  "description": "A group of strangers awaken to find themselves placed in a giant cube. Each one of them is gifted with a special skill and they must work together to escape an endless maze of deadly traps.",
+  "runtime_minutes": 90,
+  "release_date": "10.12.1997",
+  "genres": [
+    "Horror",
+    "Mystery",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm0207498",
+      "name": "Nicole de Boer"
+    },
+    {
+      "id": "nm0935659",
+      "name": "Maurice Dean Wint"
+    },
+    {
+      "id": "nm0382110",
+      "name": "David Hewlett"
+    },
+    {
+      "id": "nm0587884",
+      "name": "Andrew Miller"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0622112",
+      "name": "Vincenzo Natali"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0082008",
+      "name": "André Bijelic"
+    },
+    {
+      "id": "nm0622112",
+      "name": "Vincenzo Natali"
+    },
+    {
+      "id": "nm0543919",
+      "name": "Graeme Manson"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0207498",
+      "name": "Nicole de Boer",
+      "character": "Leaven"
+    },
+    {
+      "id": "nm0935659",
+      "name": "Maurice Dean Wint",
+      "character": "Quentin"
+    },
+    {
+      "id": "nm0382110",
+      "name": "David Hewlett",
+      "character": "Worth"
+    },
+    {
+      "id": "nm0309914",
+      "name": "Nicky Guadagni",
+      "character": "Holloway"
+    },
+    {
+      "id": "nm0587884",
+      "name": "Andrew Miller",
+      "character": "Kazan"
+    },
+    {
+      "id": "nm0724995",
+      "name": "Julian Richings",
+      "character": "Alderson"
+    },
+    {
+      "id": "nm0733500",
+      "name": "Wayne Robson",
+      "character": "Rennes"
+    }
+  ],
+  "countries": [
+    "Canada"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "French"
+  ],
+  "color": "Color",
+  "filmweb_id": 777,
+  "year": 1997,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzcyOTE5YTItM2I4OC00MTc0LTkyNWUtMWZmYmY1MWVhNmZiXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.1,
+      "votes": 263232,
+      "distribution": {
+        "1": 2991,
+        "2": 2034,
+        "3": 3436,
+        "4": 6482,
+        "5": 15323,
+        "6": 39418,
+        "7": 78470,
+        "8": 69874,
+        "9": 26485,
+        "10": 18719
+      },
+      "normalized": 5.7699
+    },
+    "filmweb": {
+      "rating": 6.96,
+      "votes": 175227,
+      "distribution": {
+        "1": 1507,
+        "2": 1497,
+        "3": 3808,
+        "4": 6073,
+        "5": 13658,
+        "6": 29431,
+        "7": 52508,
+        "8": 42489,
+        "9": 15942,
+        "10": 8314
+      },
+      "normalized": 5.5485
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "02.12.2005",
+      "normalized": 5.6855
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "19.10.2005",
+      "normalized": 5.4199
+    },
+    "score": 5.6059
+  },
+  "polish_title": "Cube",
+  "silent": false,
+  "description_pl": "Sześcioro ludzi, sześć różnych osobowości budzi się pewnego dnia wewnątrz olbrzymiego, tajemniczego sześcianu. Nikt z nich nie pamięta jak się tam dostał i gdzie się dokładnie znajduje. Nie ma wody, pożywienia ani logicznego wytłumaczenia całej sytuacji. Instynktownie starają się zbadać sześcian, ale wkrótce odkrywają, że jest to kompleks doskonale równych pomieszczeń, wypełnionych zabójczymi pułapkami i przejściami. Gdy atmosfera staje się coraz bardziej przerażająca, więźniowie sześcianu muszą współpracować używając swoich różnych zdolności, aby rozwikłać tę tajemniczą układankę i wreszcie wydostać się z tego niebezpiecznego i klaustrofobicznego miejsca. W międzyczasie ich siły się wyczerpują, umysły zaczynają zmieniać i charaktery łamać...",
+  "producers": [
+    {
+      "id": "nm0002418",
+      "name": "Colin Brunton"
+    },
+    {
+      "id": "nm0576372",
+      "name": "Mehra Meh"
+    },
+    {
+      "id": "nm0650527",
+      "name": "Betty Orr"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0466805",
+      "name": "Mark Korven"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0736835",
+      "name": "Derek Rogers"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

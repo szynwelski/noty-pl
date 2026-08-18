@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🎬</text></svg>">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Osoby wszechstronne — Noty</title>
+  <link rel="stylesheet" href="../../static/style.css">
+  <style>
+    th abbr { text-decoration: none; cursor: default; }
+    td.role-score { font-variant-numeric: tabular-nums; }
+  </style>
+</head>
+<body>
+  <nav>
+    <a class="logo" href="/">no<span>ty</span></a>
+    <a class="nav-link" href="/">Filmy</a>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Osoby <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/osoba/rezyser/">Reżyserzy</a>
+        <a href="/osoba/scenarzysta/">Scenarzyści</a>
+        <a href="/osoba/gwiazda/">Gwiazdy</a>
+        <a href="/osoba/aktor/">Aktorzy</a>
+        <a href="/osoba/kompozytor/">Kompozytorzy</a>
+        <a href="/osoba/operator/">Operatorzy</a>
+        <a href="/osoba/producent/">Producenci</a>
+        <a href="/osoba/wszechstronna/">Wszechstronni</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Krytycy <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/krytyk/jarek/">Jarek</a>
+        <a href="/krytyk/michal/">Michał</a>
+        <a href="/krytyk/imdb/">IMDb</a>
+        <a href="/krytyk/filmweb/">Filmweb</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Kategorie <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/kategoria/gatunek/">Gatunki</a>
+        <a href="/kategoria/kraj/">Kraje</a>
+        <a href="/kategoria/jezyk/">Języki</a>
+        <a href="/kategoria/dekada/">Dekady</a>
+        <a href="/kategoria/rok/">Lata</a>
+        <a href="/kategoria/czas/">Czas trwania</a>
+        <a href="/kategoria/popularnosc/">Popularność</a>
+        <hr>
+        <a href="/kategoria/plec/">Płeć</a>
+        <a href="/kategoria/obywatelstwo/">Obywatelstwo</a>
+        <a href="/kategoria/urodzenie/">Urodzenie</a>
+        <a href="/kategoria/wiek/">Wiek</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Statystyki <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/statystyki/podsumowanie/">Podsumowanie</a>
+        <a href="/statystyki/rekordy/">Rekordy</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Metodologia <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/metodologia/filmy/">Filmy</a>
+        <a href="/metodologia/osoby/">Osoby</a>
+        <a href="/metodologia/kategorie-filmow/">Kategorie filmów</a>
+        <a href="/metodologia/kategorie-osob/">Kategorie osób</a>
+      </div>
+    </div>
+    <button id="search-global-btn" class="nav-search-btn" title="Szukaj (⌘K)">
+      <svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+    </button>
+  </nav>
+  <div id="search-modal" class="search-modal">
+    <div id="search-modal-backdrop" class="search-modal-backdrop"></div>
+    <div class="search-modal-box">
+      <div class="search-modal-header">
+        <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink:0;color:var(--muted)"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        <input id="search-modal-input" class="search-modal-input" type="text" placeholder="Szukaj filmów i osób…" autocomplete="off" spellcheck="false">
+        <kbd class="search-modal-esc">Esc</kbd>
+      </div>
+      <div id="search-modal-results" class="search-modal-results"></div>
+    </div>
+  </div>
+  <script src="/static/search.js"></script>
+
+  <div id="tooltip"></div>
+  <div class="container">
+    <h1>Osoby wszechstronne <a href="/metodologia/osoby/#wszechstronnosc" title="Jak obliczana jest ocena?" style="font-size:.7rem;font-weight:400;color:var(--muted);border:1px solid var(--border);border-radius:50%;padding:.1em .5em;vertical-align:middle;text-decoration:none;margin-left:.4rem">?</a></h1>
+    <p style="color:var(--muted);font-size:.9rem;margin:.4rem 0 1.2rem">Osoby z co najmniej 3 rolami (reżyser, scenarzysta, gwiazda, aktor, kompozytor, operator, producent). Ocena = średnia bayesowska ze wszystkich 7 ról; brakujące role zastępowane są globalną średnią.</p>
+    <div class="search-bar">
+      <div class="search-wrap">
+        <input id="search" type="text" placeholder="Szukaj osoby…" autocomplete="off">
+        <button id="search-clear" class="search-clear" style="display:none" aria-label="Wyczyść">×</button>
+      </div>
+      <select id="filter-gender" class="filter-select">
+        <option value="">Płeć</option>
+        <option value="M">Mężczyźni</option>
+        <option value="F">Kobiety</option>
+      </select>
+      <select id="filter-country" class="filter-select">
+        <option value="">Kraj</option>
+      </select>
+      <button id="filter-clear" class="filter-clear" title="Wyczyść filtry">×</button>
+      <span class="count" id="count"></span>
+    </div>
+    <div id="loading">Ładowanie…</div>
+    <div id="error" style="display:none"></div>
+    <table id="table" style="display:none">
+      <colgroup>
+        <col style="width:2.5rem">
+        <col>
+        <col style="width:3rem">
+        <col style="width:4.5rem">
+        <col style="width:4.5rem">
+        <col style="width:4.5rem">
+        <col style="width:4.5rem">
+        <col style="width:4.5rem">
+        <col style="width:4.5rem">
+        <col style="width:4.5rem">
+        <col style="width:4.5rem">
+      </colgroup>
+      <thead>
+        <tr>
+          <th class="num" data-col="rank">#</th>
+          <th data-col="nazwa">Osoba</th>
+          <th class="num" data-col="role_count"><abbr data-tip-text="Liczba ról">Ról</abbr></th>
+          <th class="num sorted" data-col="score" data-dir="-1">Ocena</th>
+          <th class="num" data-col="director"><abbr data-tip-text="Reżyser">Reż.</abbr></th>
+          <th class="num" data-col="writer"><abbr data-tip-text="Scenarzysta">Scen.</abbr></th>
+          <th class="num" data-col="star"><abbr data-tip-text="Gwiazda">Gw.</abbr></th>
+          <th class="num" data-col="cast"><abbr data-tip-text="Aktor">Akt.</abbr></th>
+          <th class="num" data-col="composer"><abbr data-tip-text="Kompozytor">Komp.</abbr></th>
+          <th class="num" data-col="cinematographer"><abbr data-tip-text="Operator">Oper.</abbr></th>
+          <th class="num" data-col="producer"><abbr data-tip-text="Producent">Prod.</abbr></th>
+        </tr>
+      </thead>
+      <tbody id="tbody"></tbody>
+    </table>
+  </div>
+  <script src="../../static/translations.js"></script>
+  <script src="../../static/tooltip.js"></script>
+  <script>
+    upgradeTitleTips();  // instant tooltips on the abbreviated role-column headers
+    const ROLES = ['director','writer','star','cast','composer','cinematographer','producer'];
+    const ROLE_LABELS = {
+      director: 'Reżyser', writer: 'Scenarzysta', star: 'Gwiazda', cast: 'Aktor',
+      composer: 'Kompozytor', cinematographer: 'Operator', producer: 'Producent',
+    };
+    const ROLE_URLS = {
+      director: '/osoba/rezyser/', writer: '/osoba/scenarzysta/', star: '/osoba/gwiazda/',
+      cast: '/osoba/aktor/', composer: '/osoba/kompozytor/',
+      cinematographer: '/osoba/operator/', producer: '/osoba/producent/',
+    };
+
+    function fmtFilmy(n) {
+      const m = n % 100, r = n % 10;
+      if (m >= 11 && m <= 14) return n + ' filmów';
+      if (r === 1) return n + ' film';
+      if (r >= 2 && r <= 4) return n + ' filmy';
+      return n + ' filmów';
+    }
+
+    let allPersons = [];
+    let rankMap = {};
+    let sortCol = 'score', sortDir = -1;
+    let filterGender = '', filterCountry = '';
+
+    function computeRanks(data) {
+      rankMap = {};
+      const byScore = [...data].sort((a, b) => b.score - a.score);
+      byScore.forEach((p, i) => { rankMap[p.id] = i + 1; });
+    }
+
+
+    function tipTopFilms(p) {
+      const photo = p.image_url
+        ? `<img src="${p.image_url}" alt="" style="width:64px;height:80px;object-fit:cover;border-radius:4px;flex-shrink:0">`
+        : `<div style="width:64px;height:80px;border-radius:4px;background:var(--border);flex-shrink:0"></div>`;
+      const roleRows = ROLES
+        .filter(r => p.roles[r])
+        .map(r => {
+          const rs = p.roles[r];
+          return `<tr>
+            <td style="padding-right:.75em;color:var(--muted)">${ROLE_LABELS[r]}</td>
+            <td class="num"><span class="${scoreClass(rs.score)}">${fmt(rs.score)}</span></td>
+            <td class="num muted" style="padding-left:.5em">${fmtFilmy(rs.film_count)}</td>
+          </tr>`;
+        }).join('');
+      return `<div style="display:flex;gap:.9rem;align-items:flex-start">` +
+        photo +
+        `<div><div class="tip-title" style="margin-bottom:.4rem">${p.name}</div>` +
+        `<table style="border-collapse:collapse;font-size:.85rem">${roleRows}</table></div></div>`;
+    }
+
+    function tipRole(role, rs) {
+      let html = `<div class="tip-title">${ROLE_LABELS[role]}</div>`;
+      html += `<div class="tip-main-val"><span class="${scoreClass(rs.score)}">${fmt(rs.score)}</span>`;
+      html += `<span class="tip-rank" style="margin-left:.4em">${fmtFilmy(rs.film_count)}</span></div>`;
+      if (rs.top_films?.length) {
+        const rows = rs.top_films.map(f =>
+          `<tr>
+            <td class="muted" style="padding-right:.75em">${f.year ?? '—'}</td>
+            <td style="max-width:180px;white-space:normal">${f.title}</td>
+            <td class="num" style="padding-left:.75em"><span class="${scoreClass(f.score)}">${fmt(f.score)}</span></td>
+          </tr>`
+        ).join('');
+        html += `<table style="border-collapse:collapse;font-size:.85rem;margin-top:.5rem">${rows}</table>`;
+      }
+      return html;
+    }
+
+    function renderList(list) {
+      const tbody = document.getElementById('tbody');
+      tbody.innerHTML = '';
+      list.forEach((p, i) => {
+        const tr = document.createElement('tr');
+        tr.dataset.id = p.id;
+
+        const roleCells = ROLES.map(r => {
+          const rs = p.roles[r];
+          return rs
+            ? `<td class="num role-score" data-role="${r}"><span class="${scoreClass(rs.score)}">${fmt(rs.score)}</span></td>`
+            : `<td class="num muted" data-role="${r}">—</td>`;
+        }).join('');
+
+        tr.innerHTML = `
+          <td class="num muted">${rankMap[p.id] ?? i + 1}</td>
+          <td data-tip="name"><a href="/osoba/?id=${p.id}">${p.name}</a></td>
+          <td class="num muted">${p.role_count}</td>
+          <td class="num" data-tip="score"><span class="${scoreClass(p.score)}">${fmt(p.score)}</span></td>
+          ${roleCells}`;
+        tbody.appendChild(tr);
+
+        const nameTd = tr.querySelector('[data-tip="name"]');
+        if (nameTd) attachTip(nameTd, () => tipTopFilms(p));
+
+        const scoreTd = tr.querySelector('[data-tip="score"]');
+        if (scoreTd) attachTip(scoreTd, () =>
+          `<div class="tip-title">Ocena wszechstronności</div>` +
+          `<div class="tip-main-val"><span class="${scoreClass(p.score)}">${fmt(p.score)}</span></div>` +
+          _tipRows([['Ról', String(p.role_count)]]));
+
+        ROLES.forEach(r => {
+          const td = tr.querySelector(`[data-role="${r}"]`);
+          if (td && p.roles[r]) attachTip(td, () => tipRole(r, p.roles[r]));
+        });
+      });
+      document.getElementById('count').textContent = `${list.length} osób`;
+    }
+
+    function sortedList() {
+      const q = document.getElementById('search').value.toLowerCase();
+      let list = [...allPersons];
+      if (q) list = list.filter(p => p.name.toLowerCase().includes(q));
+      if (filterGender)  list = list.filter(p => p.gender === filterGender);
+      if (filterCountry) list = list.filter(p => (p.nationality || []).includes(filterCountry));
+      list.sort((a, b) => {
+        if (sortCol === 'nazwa')
+          return a.name.localeCompare(b.name, 'pl', { sensitivity: 'base' }) * sortDir;
+        let av, bv;
+        if (sortCol === 'score')      { av = a.score;      bv = b.score; }
+        else if (sortCol === 'role_count') { av = a.role_count; bv = b.role_count; }
+        else if (ROLES.includes(sortCol)) {
+          av = a.roles[sortCol]?.score;
+          bv = b.roles[sortCol]?.score;
+        }
+        if (av == null && bv == null) return 0;
+        if (av == null) return 1;
+        if (bv == null) return -1;
+        return (av - bv) * sortDir;
+      });
+      return list;
+    }
+
+    function hasActiveFilters() { return !!(filterGender || filterCountry); }
+
+    function syncUrl() {
+      const q = document.getElementById('search').value;
+      const p = new URLSearchParams();
+      if (q) p.set('szukaj', q);
+      if (sortCol !== 'score' || sortDir !== -1) {
+        p.set('sortuj', sortCol);
+        if (sortDir === 1) p.set('kier', 'rosnaco');
+      }
+      if (filterGender)  p.set('plec', PLEC_TO_PARAM[filterGender]);
+      if (filterCountry) p.set('kraj', filterCountry);
+      const qs = p.toString();
+      history.replaceState(null, '', qs ? '?' + qs : location.pathname);
+      const clearBtn = document.getElementById('filter-clear');
+      if (clearBtn) clearBtn.classList.toggle('visible', hasActiveFilters());
+    }
+
+    function refresh() { syncUrl(); renderList(sortedList()); }
+
+    fetch('../../data/versatile_persons_index.json')
+      .then(r => r.json())
+      .then(data => {
+        allPersons = data;
+        computeRanks(data);
+        document.getElementById('loading').style.display = 'none';
+        document.getElementById('table').style.display   = '';
+
+        // Build country dropdown sorted by person count, excluding redundant historical entries
+        const countryCounts = {};
+        data.forEach(p => (p.nationality || []).forEach(c => {
+          if (!REDUNDANT_COUNTRIES.has(c)) countryCounts[c] = (countryCounts[c] || 0) + 1;
+        }));
+        const countryEl = document.getElementById('filter-country');
+        Object.keys(countryCounts).sort((a, b) => countryCounts[b] - countryCounts[a]).forEach(c => {
+          const opt = document.createElement('option');
+          opt.value = c; opt.textContent = c;
+          countryEl.appendChild(opt);
+        });
+
+        const urlP = new URLSearchParams(location.search);
+        const ps = urlP.get('sortuj');
+        if (ps) {
+          sortCol = ps;
+          sortDir = urlP.get('kier') === 'rosnaco' ? 1 : -1;
+          document.querySelectorAll('th[data-col]').forEach(t => { t.classList.remove('sorted'); t.removeAttribute('data-dir'); });
+          const th = document.querySelector(`th[data-col="${ps}"]`);
+          if (th) { th.classList.add('sorted'); th.dataset.dir = String(sortDir); }
+        }
+        const sq = urlP.get('szukaj');
+        if (sq) {
+          const searchEl = document.getElementById('search');
+          searchEl.value = sq;
+          document.getElementById('search-clear').style.display = 'flex';
+        }
+        const pg = PLEC_TO_CODE[urlP.get('plec')] || '';
+        if (pg) { filterGender = pg; document.getElementById('filter-gender').value = pg; }
+        const pk = urlP.get('kraj');
+        if (pk) { filterCountry = pk; countryEl.value = pk; }
+        refresh();
+      })
+      .catch(e => {
+        document.getElementById('loading').style.display = 'none';
+        document.getElementById('error').textContent = 'Błąd: ' + e;
+        document.getElementById('error').style.display = '';
+      });
+
+    document.querySelectorAll('th[data-col]').forEach(th => {
+      th.addEventListener('click', () => {
+        const col = th.dataset.col;
+        if (col === 'rank') return;
+        if (sortCol === col) { sortDir *= -1; }
+        else { sortCol = col; sortDir = col === 'nazwa' ? 1 : -1; }
+        document.querySelectorAll('th').forEach(t => { t.classList.remove('sorted'); t.removeAttribute('data-dir'); });
+        th.classList.add('sorted');
+        th.dataset.dir = sortDir === 1 ? '1' : '-1';
+        refresh();
+      });
+    });
+
+    const searchEl = document.getElementById('search');
+    const clearBtn = document.getElementById('search-clear');
+    searchEl.addEventListener('input', () => {
+      clearBtn.style.display = searchEl.value ? 'flex' : 'none';
+      refresh();
+    });
+    clearBtn.addEventListener('click', () => {
+      searchEl.value = '';
+      clearBtn.style.display = 'none';
+      searchEl.focus();
+      refresh();
+    });
+
+    document.getElementById('filter-gender').addEventListener('change', e => {
+      filterGender = e.target.value; refresh();
+    });
+    document.getElementById('filter-country').addEventListener('change', e => {
+      filterCountry = e.target.value; refresh();
+    });
+    document.getElementById('filter-clear').addEventListener('click', () => {
+      filterGender = ''; filterCountry = '';
+      document.getElementById('filter-gender').value = '';
+      document.getElementById('filter-country').value = '';
+      refresh();
+    });
+  </script>
+</body>
+</html>

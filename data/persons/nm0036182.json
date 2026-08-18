@@ -1,0 +1,36 @@
+{
+  "id": "nm0036182",
+  "name": "Léon Arvel",
+  "filmography": [
+    {
+      "imdb_id": "tt0020228",
+      "title": "Les nouveaux messieurs",
+      "year": 1929,
+      "roles": [
+        "cast"
+      ],
+      "character": "Le Président"
+    },
+    {
+      "imdb_id": "tt0042619",
+      "title": "Diary of a Country Priest",
+      "year": 1951,
+      "roles": [
+        "cast"
+      ],
+      "character": "Fabregars"
+    }
+  ],
+  "birth_date": "29.04.1873",
+  "death_date": "26.06.1956",
+  "birth_location": "Paris, France",
+  "imdb_scraped": true,
+  "filmweb_id": 139944,
+  "name_pl": "Léon Arvel",
+  "birth_location_pl": "Paryż",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja"
+  ]
+}

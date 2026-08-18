@@ -1,0 +1,237 @@
+{
+  "imdb_id": "tt0104714",
+  "title": "Lethal Weapon 3",
+  "description": "Martin Riggs and Roger Murtaugh pursue a former LAPD officer who uses his knowledge of police procedure and policies to steal and sell confiscated guns and ammunition to local street gangs.",
+  "runtime_minutes": 118,
+  "release_date": "15.05.1992",
+  "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000154",
+      "name": "Mel Gibson"
+    },
+    {
+      "id": "nm0000418",
+      "name": "Danny Glover"
+    },
+    {
+      "id": "nm0000582",
+      "name": "Joe Pesci"
+    },
+    {
+      "id": "nm0000623",
+      "name": "Rene Russo"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001149",
+      "name": "Richard Donner"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0090151",
+      "name": "Jeffrey Boam"
+    },
+    {
+      "id": "nm0436543",
+      "name": "Robert Mark Kamen"
+    },
+    {
+      "id": "nm0000948",
+      "name": "Shane Black"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000154",
+      "name": "Mel Gibson",
+      "character": "Martin Riggs"
+    },
+    {
+      "id": "nm0000418",
+      "name": "Danny Glover",
+      "character": "Roger Murtaugh"
+    },
+    {
+      "id": "nm0000582",
+      "name": "Joe Pesci",
+      "character": "Leo Getz"
+    },
+    {
+      "id": "nm0000623",
+      "name": "Rene Russo",
+      "character": "Lorna Cole"
+    },
+    {
+      "id": "nm0934179",
+      "name": "Stuart Wilson",
+      "character": "Jack Travis"
+    },
+    {
+      "id": "nm0434676",
+      "name": "Steve Kahan",
+      "character": "Captain Murphy"
+    },
+    {
+      "id": "nm0522306",
+      "name": "Darlene Love",
+      "character": "Trish Murtaugh"
+    },
+    {
+      "id": "nm0938159",
+      "name": "Traci Wolfe",
+      "character": "Rianne Murtaugh"
+    },
+    {
+      "id": "nm0385649",
+      "name": "Damon Hines",
+      "character": "Nick Murtaugh"
+    },
+    {
+      "id": "nm0808077",
+      "name": "Ebonie Smith",
+      "character": "Carrie Murtaugh"
+    },
+    {
+      "id": "nm0587670",
+      "name": "Gregory Millar",
+      "character": "Tyrone"
+    },
+    {
+      "id": "nm0157915",
+      "name": "Nick Chinlund",
+      "character": "Hatchett"
+    },
+    {
+      "id": "nm0409625",
+      "name": "Jason Rainwater",
+      "character": "Young Cop"
+    },
+    {
+      "id": "nm0769154",
+      "name": "Alan Scarfe",
+      "character": "Herman Walters"
+    },
+    {
+      "id": "nm0355485",
+      "name": "Delores Hall",
+      "character": "Delores"
+    },
+    {
+      "id": "nm0870729",
+      "name": "Mary Ellen Trainor",
+      "character": "Stephanie Woods"
+    },
+    {
+      "id": "nm0671032",
+      "name": "Mark Pellegrino",
+      "character": "Billy Phelps"
+    },
+    {
+      "id": "nm0127362",
+      "name": "John Cenatiempo",
+      "character": "Smitty"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": null,
+  "filmweb_id": 1310,
+  "year": 1992,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDA3Zjc5NjYtODZiNy00Yjg3LTk0MWEtMDk3NDA4ZjU3YTY0XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.7,
+      "votes": 189614,
+      "distribution": {
+        "1": 1488,
+        "2": 1078,
+        "3": 2255,
+        "4": 5208,
+        "5": 15813,
+        "6": 45559,
+        "7": 65754,
+        "8": 30763,
+        "9": 9780,
+        "10": 11916
+      },
+      "normalized": 4.8962
+    },
+    "filmweb": {
+      "rating": 7.39,
+      "votes": 76877,
+      "distribution": {
+        "1": 149,
+        "2": 130,
+        "3": 390,
+        "4": 958,
+        "5": 3045,
+        "6": 10203,
+        "7": 25875,
+        "8": 24411,
+        "9": 7160,
+        "10": 4556
+      },
+      "normalized": 6.4623
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "23.02.2011",
+      "normalized": 4.9718
+    },
+    "michal": {
+      "rating": 3,
+      "date_rated": "22.03.2006",
+      "normalized": 3.8753
+    },
+    "score": 5.0514
+  },
+  "polish_title": "Zabójcza broń 3",
+  "silent": false,
+  "description_pl": "Martin Riggs i Roger Murtaugh są policjantami z wydziału zabójstw z Los Angeles. Kolejny raz stają do walki z przestępczym światem. Tym razem muszą ustalić, kto kradnie z policyjnych magazynów broń zarekwirowaną przestępcom. W znalezieniu sprawców pomaga im ich nowa koleżanka, wyjątkowo atrakcyjna i doskonale przeszkolona w walce wręcz sierżant Lorna Cole.",
+  "producers": [
+    {
+      "id": "nm0171781",
+      "name": "Alexander B. Collett"
+    },
+    {
+      "id": "nm0001149",
+      "name": "Richard Donner"
+    },
+    {
+      "id": "nm0002803",
+      "name": "Michael Klastorin"
+    },
+    {
+      "id": "nm0506681",
+      "name": "Jennie Lew Tugend"
+    },
+    {
+      "id": "nm0675305",
+      "name": "Steve Perry"
+    },
+    {
+      "id": "nm0005428",
+      "name": "Joel Silver"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0000957",
+      "name": "Jan de Bont"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

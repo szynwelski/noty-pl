@@ -1,0 +1,46 @@
+{
+  "id": "nm0002080",
+  "name": "Bob Fosse",
+  "filmography": [
+    {
+      "imdb_id": "tt0068327",
+      "title": "Cabaret",
+      "year": 1972,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0078754",
+      "title": "All That Jazz",
+      "year": 1979,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0299658",
+      "title": "Chicago",
+      "year": 2002,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjIwODI5MTg0N15BMl5BanBnXkFtZTcwMjY2MDMyOA@@._V1_.jpg",
+  "birth_date": "23.06.1927",
+  "death_date": "23.09.1987",
+  "birth_location": "Chicago, Illinois, USA",
+  "height": "1.73 m",
+  "filmweb_id": 12981,
+  "name_pl": "Bob Fosse",
+  "birth_location_pl": "Chicago, Illinois",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 12981
+}

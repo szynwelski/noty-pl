@@ -1,0 +1,239 @@
+{
+  "imdb_id": "tt0416320",
+  "title": "Match Point",
+  "description": "At a turning point in his life, a former tennis pro falls for an actress who happens to be dating his friend and soon-to-be brother-in-law.",
+  "runtime_minutes": 124,
+  "release_date": "20.01.2006",
+  "genres": [
+    "Drama",
+    "Romance",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0424060",
+      "name": "Scarlett Johansson"
+    },
+    {
+      "id": "nm0001667",
+      "name": "Jonathan Rhys Meyers"
+    },
+    {
+      "id": "nm0607865",
+      "name": "Emily Mortimer"
+    },
+    {
+      "id": "nm0328828",
+      "name": "Matthew Goode"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000095",
+      "name": "Woody Allen"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000095",
+      "name": "Woody Allen"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0424060",
+      "name": "Scarlett Johansson",
+      "character": "Nola Rice"
+    },
+    {
+      "id": "nm0001667",
+      "name": "Jonathan Rhys Meyers",
+      "character": "Chris Wilton"
+    },
+    {
+      "id": "nm0607865",
+      "name": "Emily Mortimer",
+      "character": "Chloe Hewett Wilton"
+    },
+    {
+      "id": "nm0035602",
+      "name": "Alexander Armstrong",
+      "character": "Mr. Townsend"
+    },
+    {
+      "id": "nm0443373",
+      "name": "Paul Kaye",
+      "character": "Estate Agent"
+    },
+    {
+      "id": "nm0328828",
+      "name": "Matthew Goode",
+      "character": "Tom Hewett"
+    },
+    {
+      "id": "nm0004051",
+      "name": "Brian Cox",
+      "character": "Alec Hewett"
+    },
+    {
+      "id": "nm0934362",
+      "name": "Penelope Wilton",
+      "character": "Eleanor Hewett"
+    },
+    {
+      "id": "nm0446462",
+      "name": "Janis Kelly",
+      "character": "'La Traviata' Performers"
+    },
+    {
+      "id": "nm1468383",
+      "name": "Alan Oke",
+      "character": "'La Traviata' Performers"
+    },
+    {
+      "id": "nm0309693",
+      "name": "Mark Gatiss",
+      "character": "Ping-Pong Player"
+    },
+    {
+      "id": "nm2090163",
+      "name": "Philip Mansfield",
+      "character": "Waiter"
+    },
+    {
+      "id": "nm0475336",
+      "name": "Simon Kunz",
+      "character": "Rod Carver"
+    },
+    {
+      "id": "nm1127608",
+      "name": "Geoffrey Streatfeild",
+      "character": "Alan Sinclair"
+    },
+    {
+      "id": "nm0373677",
+      "name": "Mary Hegarty",
+      "character": "'Rigoletto' Performer"
+    },
+    {
+      "id": "nm0287432",
+      "name": "John Fortune",
+      "character": "John the Chauffeur"
+    },
+    {
+      "id": "nm0672303",
+      "name": "Rupert Penry-Jones",
+      "character": "Henry"
+    },
+    {
+      "id": "nm2090121",
+      "name": "Patricia Whymark",
+      "character": "Telephone Operator"
+    }
+  ],
+  "countries": [
+    "United Kingdom",
+    "Luxembourg",
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 150528,
+  "year": 2005,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQ1NzQ4OTM4MV5BMl5BanBnXkFtZTcwNzY2OTQzMw@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.6,
+      "votes": 240034,
+      "distribution": {
+        "1": 2425,
+        "2": 1297,
+        "3": 1900,
+        "4": 3696,
+        "5": 8487,
+        "6": 22267,
+        "7": 58493,
+        "8": 79183,
+        "9": 37889,
+        "10": 24397
+      },
+      "normalized": 6.6394
+    },
+    "filmweb": {
+      "rating": 7.34,
+      "votes": 101378,
+      "distribution": {
+        "1": 398,
+        "2": 273,
+        "3": 951,
+        "4": 1794,
+        "5": 5129,
+        "6": 12805,
+        "7": 30367,
+        "8": 33433,
+        "9": 11636,
+        "10": 4592
+      },
+      "normalized": 6.3397
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "11.08.2010",
+      "normalized": 5.6855
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "23.03.2006",
+      "normalized": 7.2292
+    },
+    "score": 6.4734
+  },
+  "polish_title": "Wszystko gra",
+  "silent": false,
+  "description_pl": "Chris, młody Irlandczyk dostaje pracę w prestiżowym klubie tenisowym w Londynie. Tam poznaje Toma, syna bogatych rodziców, oraz jego siostrę Chloe. Dzięki miłości do opery oraz wrodzonej inteligencji wkrada się w łaski całej rodziny. Kiedy przyjeżdża na weekend do ich wiejskiej posiadłości poznaje narzeczoną Toma - Nolę, amerykankę, która postanowiła przyjechać do Londynu, aby studiować aktorstwo i zrobić karierę.... Pomimo że Chris zaczyna romansować z Chloe, nie może oderwać oczu od Noly. Nawet po ślubie z Chloe....",
+  "producers": [
+    {
+      "id": "nm0036981",
+      "name": "Letty Aronson"
+    },
+    {
+      "id": "nm0055717",
+      "name": "Nicky Kentish Barnes"
+    },
+    {
+      "id": "nm0201819",
+      "name": "Lucy Darwin"
+    },
+    {
+      "id": "nm0423618",
+      "name": "Charles H. Joffe"
+    },
+    {
+      "id": "nm0732193",
+      "name": "Helen Robin"
+    },
+    {
+      "id": "nm0738435",
+      "name": "Jack Rollins"
+    },
+    {
+      "id": "nm1008264",
+      "name": "Stephen Tenenbaum"
+    },
+    {
+      "id": "nm0928836",
+      "name": "Gareth Wiley"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0001899",
+      "name": "Remi Adefarasin"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

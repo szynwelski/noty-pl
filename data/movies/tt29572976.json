@@ -1,0 +1,111 @@
+{
+  "imdb_id": "tt29572976",
+  "title": "Zly szelag",
+  "description": "",
+  "runtime_minutes": 1,
+  "release_date": "1997",
+  "genres": [
+    "Short",
+    "Comedy"
+  ],
+  "stars": [
+    {
+      "id": "nm4684467",
+      "name": "Bartosz Walaszek"
+    },
+    {
+      "id": "nm9803682",
+      "name": "Marcin Rudowski"
+    },
+    {
+      "id": "nm4906943",
+      "name": "Krzysztof Radzimski"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm4906332",
+      "name": "Z.F. Skurcz"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm4684467",
+      "name": "Bartosz Walaszek",
+      "character": ""
+    },
+    {
+      "id": "nm9803682",
+      "name": "Marcin Rudowski",
+      "character": ""
+    },
+    {
+      "id": "nm4906943",
+      "name": "Krzysztof Radzimski",
+      "character": ""
+    }
+  ],
+  "countries": [
+    "Poland"
+  ],
+  "languages": [
+    "Polish"
+  ],
+  "color": "Color",
+  "filmweb_id": 242400,
+  "year": 1997,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZWI2OWVlNDYtMzkwNi00MTM2LWEwY2MtZTQ0Y2ZlZGRjYzRmXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.2,
+      "votes": 5,
+      "distribution": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 1,
+        "7": 2,
+        "8": 2,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 5.3074
+    },
+    "filmweb": {
+      "rating": 6.8,
+      "votes": 1126,
+      "distribution": {
+        "1": 37,
+        "2": 24,
+        "3": 40,
+        "4": 60,
+        "5": 88,
+        "6": 171,
+        "7": 255,
+        "8": 226,
+        "9": 99,
+        "10": 126
+      },
+      "normalized": 5.2261
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "07.10.2024",
+      "normalized": 7.2292
+    },
+    "score": 5.9209
+  },
+  "polish_title": "Zły szeląg",
+  "silent": false,
+  "description_pl": "Film w dość drastyczny sposób przedstawia zagadnienie bezpieczeństwa na drogach. Twórcy krytykują zarówno poczynania  kierowców, jak i niefrasobliwość pieszych. Do tego znakomite efekty specjalne w postaci Kukły.",
+  "composers": [
+    {
+      "id": "nm4684467",
+      "name": "Bartosz Walaszek"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

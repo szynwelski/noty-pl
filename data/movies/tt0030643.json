@@ -1,0 +1,209 @@
+{
+  "imdb_id": "tt0030643",
+  "title": "Port of Shadows",
+  "description": "A military deserter finds love and trouble (and a small dog) in a foggy, French port city.",
+  "runtime_minutes": 91,
+  "release_date": "29.10.1939",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Romance",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0300064",
+      "name": "Jean Gabin"
+    },
+    {
+      "id": "nm0800302",
+      "name": "Michel Simon"
+    },
+    {
+      "id": "nm0006807",
+      "name": "Michèle Morgan"
+    },
+    {
+      "id": "nm0105482",
+      "name": "Pierre Brasseur"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0138893",
+      "name": "Marcel Carné"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0241409",
+      "name": "Pierre Mac Orlan"
+    },
+    {
+      "id": "nm0699535",
+      "name": "Jacques Prévert"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0300064",
+      "name": "Jean Gabin",
+      "character": "Jean"
+    },
+    {
+      "id": "nm0800302",
+      "name": "Michel Simon",
+      "character": "Zabel"
+    },
+    {
+      "id": "nm0006807",
+      "name": "Michèle Morgan",
+      "character": "Nelly"
+    },
+    {
+      "id": "nm0105482",
+      "name": "Pierre Brasseur",
+      "character": "Lucien"
+    },
+    {
+      "id": "nm0217612",
+      "name": "Édouard Delmont",
+      "character": "Panama"
+    },
+    {
+      "id": "nm0014656",
+      "name": "Raymond Aimos",
+      "character": "Quart Vittel"
+    },
+    {
+      "id": "nm0494670",
+      "name": "Robert Le Vigan",
+      "character": "Le peintre"
+    },
+    {
+      "id": "nm0350764",
+      "name": "René Génin",
+      "character": "Le docteur"
+    },
+    {
+      "id": "nm0702454",
+      "name": "Marcel Pérès",
+      "character": "Le chauffeur"
+    },
+    {
+      "id": "nm0122277",
+      "name": "Jenny Burnay",
+      "character": "L'amie de Lucien"
+    },
+    {
+      "id": "nm0499510",
+      "name": "Roger Legris",
+      "character": "Le garçon d'hôtel"
+    },
+    {
+      "id": "nm0753646",
+      "name": "Martial Rèbe",
+      "character": "Le client"
+    },
+    {
+      "id": "nm0539400",
+      "name": "Léo Malet",
+      "character": "Soldier"
+    },
+    {
+      "id": "nm0578339",
+      "name": "Marcel Melrac",
+      "character": ""
+    },
+    {
+      "id": "nm0701788",
+      "name": "Raymond Pélissier",
+      "character": ""
+    },
+    {
+      "id": "nm1726064",
+      "name": "Raphaël",
+      "character": "Un complice"
+    },
+    {
+      "id": "nm9671121",
+      "name": "Jacques Soukoff",
+      "character": "Lucien's henchman"
+    },
+    {
+      "id": "nm0905902",
+      "name": "Gaby Wagner",
+      "character": "Complice"
+    }
+  ],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "French"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 96295,
+  "year": 1938,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjAzMDMwMjgzMl5BMl5BanBnXkFtZTgwOTgzMTI0NDE@._V1_.jpg",
+  "original_title": "Le quai des brumes",
+  "ratings": {
+    "imdb": {
+      "rating": 7.7,
+      "votes": 10948,
+      "distribution": {
+        "1": 526,
+        "2": 36,
+        "3": 81,
+        "4": 144,
+        "5": 314,
+        "6": 942,
+        "7": 2392,
+        "8": 3585,
+        "9": 1640,
+        "10": 1288
+      },
+      "normalized": 6.7215
+    },
+    "filmweb": {
+      "rating": 7.11,
+      "votes": 2262,
+      "distribution": {
+        "1": 4,
+        "2": 6,
+        "3": 21,
+        "4": 41,
+        "5": 167,
+        "6": 344,
+        "7": 798,
+        "8": 639,
+        "9": 173,
+        "10": 69
+      },
+      "normalized": 5.7368
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "19.10.2005",
+      "normalized": 6.3474
+    },
+    "score": 6.2686
+  },
+  "polish_title": "Ludzie za mgłą",
+  "silent": false,
+  "description_pl": "Jean jest dezerterem i w sekrecie przybywa do Hawru. Tam odwiedza podrzędny lokal, w którym poznaje Nelly. Kobieta ukrywa się przed Zabelem, który zabił jej narzeczonego. Jean i Nelly zakochują się w sobie od pierwszego wejrzenia.",
+  "composers": [
+    {
+      "id": "nm0006144",
+      "name": "Maurice Jaubert"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005867",
+      "name": "Eugen Schüfftan"
+    }
+  ],
+  "fetched_at": "2026-08-15"
+}

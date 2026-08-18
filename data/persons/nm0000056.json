@@ -1,0 +1,92 @@
+{
+  "id": "nm0000056",
+  "name": "Paul Newman",
+  "filmography": [
+    {
+      "imdb_id": "tt0051459",
+      "title": "Cat on a Hot Tin Roof",
+      "year": 1958,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Brick Pollitt"
+    },
+    {
+      "imdb_id": "tt0054997",
+      "title": "The Hustler",
+      "year": 1961,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Eddie Felson"
+    },
+    {
+      "imdb_id": "tt0061512",
+      "title": "Cool Hand Luke",
+      "year": 1967,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Luke"
+    },
+    {
+      "imdb_id": "tt0064115",
+      "title": "Butch Cassidy and the Sundance Kid",
+      "year": 1969,
+      "roles": [
+        "star",
+        "cast",
+        "producer"
+      ],
+      "character": "Butch Cassidy"
+    },
+    {
+      "imdb_id": "tt0070735",
+      "title": "The Sting",
+      "year": 1973,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Henry Gondorff"
+    },
+    {
+      "imdb_id": "tt0139462",
+      "title": "Message in a Bottle",
+      "year": 1999,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Dodge"
+    },
+    {
+      "imdb_id": "tt0257044",
+      "title": "Road to Perdition",
+      "year": 2002,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "John Rooney"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzBmYzE4NmItODdjZS00Mjk2LWEzNjctNTJkZGNlMWY1M2I5XkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 199,
+  "birth_date": "26.01.1925",
+  "death_date": "26.09.2008",
+  "birth_location": "Cleveland Heights, Ohio, USA",
+  "height": "1.77 m",
+  "imdb_scraped": true,
+  "name_pl": "Paul Newman",
+  "birth_location_pl": "Shaker Heights, Ohio",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 199
+}

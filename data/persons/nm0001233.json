@@ -1,0 +1,76 @@
+{
+  "id": "nm0001233",
+  "name": "Robert Forster",
+  "filmography": [
+    {
+      "imdb_id": "tt0119396",
+      "title": "Jackie Brown",
+      "year": 1997,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Max Cherry"
+    },
+    {
+      "imdb_id": "tt0155975",
+      "title": "Psycho",
+      "year": 1998,
+      "roles": [
+        "cast"
+      ],
+      "character": "Dr. Simon"
+    },
+    {
+      "imdb_id": "tt0183505",
+      "title": "Me, Myself & Irene",
+      "year": 2000,
+      "roles": [
+        "cast"
+      ],
+      "character": "Colonel Partington"
+    },
+    {
+      "imdb_id": "tt0166924",
+      "title": "Mulholland Drive",
+      "year": 2001,
+      "roles": [
+        "cast"
+      ],
+      "character": "Detective McKnight"
+    },
+    {
+      "imdb_id": "tt0310910",
+      "title": "Confidence",
+      "year": 2003,
+      "roles": [
+        "cast"
+      ],
+      "character": "Morgan Price"
+    },
+    {
+      "imdb_id": "tt9243946",
+      "title": "El Camino",
+      "year": 2019,
+      "roles": [
+        "cast"
+      ],
+      "character": "Ed"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTYyNzczNDk0N15BMl5BanBnXkFtZTcwNzM4ODQ2NA@@._V1_.jpg",
+  "birth_date": "13.07.1941",
+  "death_date": "11.10.2019",
+  "birth_location": "Rochester, New York, USA",
+  "height": "1.77 m",
+  "filmweb_id": 3275,
+  "name_pl": "Robert Forster",
+  "birth_location_pl": "Rochester, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 3275
+}

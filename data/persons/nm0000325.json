@@ -1,0 +1,38 @@
+{
+  "id": "nm0000325",
+  "name": "David Caruso",
+  "filmography": [
+    {
+      "imdb_id": "tt0083944",
+      "title": "First Blood",
+      "year": 1982,
+      "roles": [
+        "cast"
+      ],
+      "character": "Mitch"
+    },
+    {
+      "imdb_id": "tt0228750",
+      "title": "Proof of Life",
+      "year": 2000,
+      "roles": [
+        "cast"
+      ],
+      "character": "Dino"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTYwNjYxMDEyM15BMl5BanBnXkFtZTYwNDcyOTk1._V1_.jpg",
+  "birth_date": "07.01.1956",
+  "birth_location": "Forest Hills, New York, USA",
+  "height": "1.83 m",
+  "imdb_scraped": true,
+  "filmweb_id": 40015,
+  "name_pl": "David Caruso",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 40015
+}

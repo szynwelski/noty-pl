@@ -1,0 +1,48 @@
+{
+  "id": "nm0610839",
+  "name": "Anna Mucha",
+  "filmography": [
+    {
+      "imdb_id": "tt0132322",
+      "title": "Mlode wilki 1/2",
+      "year": 1998,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Ania"
+    },
+    {
+      "imdb_id": "tt0238119",
+      "title": "Boys Don't Cry",
+      "year": 2000,
+      "roles": [
+        "cast"
+      ],
+      "character": "Lili"
+    },
+    {
+      "imdb_id": "tt5377604",
+      "title": "Pitbull: New Orders",
+      "year": 2016,
+      "roles": [
+        "cast"
+      ],
+      "character": "'Kinia'"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMmExYjFiNDMtODE2MS00NTVlLTljMzAtYmQxZjJkMzEwMGE0XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "26.04.1980",
+  "birth_location": "Warsaw, Mazowieckie, Poland",
+  "height": "1.65 m",
+  "filmweb_id": 358,
+  "name_pl": "Anna Mucha",
+  "birth_location_pl": "Warszawa",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Polska"
+  ],
+  "wikidata_fw_id": 358
+}

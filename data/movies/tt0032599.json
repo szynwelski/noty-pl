@@ -1,0 +1,207 @@
+{
+  "imdb_id": "tt0032599",
+  "title": "His Girl Friday",
+  "description": "When a newspaper editor's ace reporter ex-wife is about to quit her job and remarry, he buys himself time to win her back by promising her an exclusive interview with a death row convict.",
+  "runtime_minutes": 92,
+  "release_date": "18.01.1940",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0000026",
+      "name": "Cary Grant"
+    },
+    {
+      "id": "nm0751426",
+      "name": "Rosalind Russell"
+    },
+    {
+      "id": "nm0000897",
+      "name": "Ralph Bellamy"
+    },
+    {
+      "id": "nm0516876",
+      "name": "Gene Lockhart"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001328",
+      "name": "Howard Hawks"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0496468",
+      "name": "Charles Lederer"
+    },
+    {
+      "id": "nm0372942",
+      "name": "Ben Hecht"
+    },
+    {
+      "id": "nm0531269",
+      "name": "Charles MacArthur"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000026",
+      "name": "Cary Grant",
+      "character": "Walter Burns"
+    },
+    {
+      "id": "nm0751426",
+      "name": "Rosalind Russell",
+      "character": "Hildy Johnson"
+    },
+    {
+      "id": "nm0000897",
+      "name": "Ralph Bellamy",
+      "character": "Bruce Baldwin"
+    },
+    {
+      "id": "nm0516876",
+      "name": "Gene Lockhart",
+      "character": "Sheriff Hartwell"
+    },
+    {
+      "id": "nm0356004",
+      "name": "Porter Hall",
+      "character": "Murphy"
+    },
+    {
+      "id": "nm0874139",
+      "name": "Ernest Truex",
+      "character": "Bensinger"
+    },
+    {
+      "id": "nm0249893",
+      "name": "Cliff Edwards",
+      "character": "Endicott"
+    },
+    {
+      "id": "nm0463882",
+      "name": "Clarence Kolb",
+      "character": "Mayor"
+    },
+    {
+      "id": "nm0439850",
+      "name": "Roscoe Karns",
+      "character": "McCue"
+    },
+    {
+      "id": "nm0421028",
+      "name": "Frank Jenks",
+      "character": "Wilson"
+    },
+    {
+      "id": "nm0867538",
+      "name": "Regis Toomey",
+      "character": "Sanders"
+    },
+    {
+      "id": "nm0080867",
+      "name": "Abner Biberman",
+      "character": "Louie"
+    },
+    {
+      "id": "nm0650995",
+      "name": "Frank Orth",
+      "character": "Duffy"
+    },
+    {
+      "id": "nm0702798",
+      "name": "John Qualen",
+      "character": "Earl Williams"
+    },
+    {
+      "id": "nm0532997",
+      "name": "Helen Mack",
+      "character": "Mollie Malloy"
+    },
+    {
+      "id": "nm0472557",
+      "name": "Alma Kruger",
+      "character": "Mrs Baldwin"
+    },
+    {
+      "id": "nm0317970",
+      "name": "Billy Gilbert",
+      "character": "Joe Pettibone"
+    },
+    {
+      "id": "nm0922283",
+      "name": "Pat West",
+      "character": "Warden Cooley"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 35735,
+  "year": 1940,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzRhMTQ1ZjEtYzM2MC00OThiLTk3NTEtNGRhNzcwNGM2YWQ4XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.8,
+      "votes": 68404,
+      "distribution": {
+        "1": 1225,
+        "2": 376,
+        "3": 624,
+        "4": 986,
+        "5": 2383,
+        "6": 5499,
+        "7": 12983,
+        "8": 19345,
+        "9": 12369,
+        "10": 12614
+      },
+      "normalized": 6.9623
+    },
+    "filmweb": {
+      "rating": 7.03,
+      "votes": 3204,
+      "distribution": {
+        "1": 24,
+        "2": 7,
+        "3": 43,
+        "4": 77,
+        "5": 267,
+        "6": 589,
+        "7": 1022,
+        "8": 749,
+        "9": 237,
+        "10": 189
+      },
+      "normalized": 5.6164
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "11.07.2007",
+      "normalized": 5.4199
+    },
+    "score": 5.9995
+  },
+  "polish_title": "Dziewczyna Piętaszek",
+  "silent": false,
+  "description_pl": "Rozwiedziona reporterka, Hildy Johnson, pragnie ponownie wyjść za mąż. Bierze jednak jeszcze ostatnie zlecenie od wydawcy swojej gazety i byłego męża - Waltera Burnsa. Podjęte poszukiwania wpędzają co prawda byłych małżonków w wielkie tarapaty ze skorumpowanymi prominentami. Prowadzą ich jednak do ponownego związku.",
+  "cinematographers": [
+    {
+      "id": "nm0907900",
+      "name": "Joseph Walker"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-15"
+}

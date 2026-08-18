@@ -1,0 +1,52 @@
+{
+  "id": "nm0001465",
+  "name": "Elmore Leonard",
+  "filmography": [
+    {
+      "imdb_id": "tt0050086",
+      "title": "3:10 to Yuma",
+      "year": 1957,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0113161",
+      "title": "Get Shorty",
+      "year": 1995,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0119396",
+      "title": "Jackie Brown",
+      "year": 1997,
+      "roles": [
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0120780",
+      "title": "Out of Sight",
+      "year": 1998,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjIwMTc5MjcxOF5BMl5BanBnXkFtZTgwNTkwNjgwMDE@._V1_.jpg",
+  "birth_date": "11.10.1925",
+  "death_date": "20.08.2013",
+  "birth_location": "New Orleans, Louisiana, USA",
+  "filmweb_id": 10304,
+  "name_pl": "Elmore Leonard",
+  "birth_location_pl": "Nowy Orlean, Luizjana",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

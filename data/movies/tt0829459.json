@@ -1,0 +1,234 @@
+{
+  "imdb_id": "tt0829459",
+  "title": "A Mighty Heart",
+  "description": "Mariane Pearl embarks on a frantic search to locate her journalist husband Daniel when he goes missing in Pakistan.",
+  "runtime_minutes": 108,
+  "release_date": "22.06.2007",
+  "genres": [
+    "Biography",
+    "Drama",
+    "History",
+    "Thriller",
+    "War"
+  ],
+  "stars": [
+    {
+      "id": "nm0001401",
+      "name": "Angelina Jolie"
+    },
+    {
+      "id": "nm0001246",
+      "name": "Dan Futterman"
+    },
+    {
+      "id": "nm0451234",
+      "name": "Irrfan Khan"
+    },
+    {
+      "id": "nm0659544",
+      "name": "Archie Panjabi"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0935863",
+      "name": "Michael Winterbottom"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0650089",
+      "name": "John Orloff"
+    },
+    {
+      "id": "nm1490413",
+      "name": "Mariane Pearl"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0001401",
+      "name": "Angelina Jolie",
+      "character": "Mariane"
+    },
+    {
+      "id": "nm0001246",
+      "name": "Dan Futterman",
+      "character": "Danny"
+    },
+    {
+      "id": "nm0451234",
+      "name": "Irrfan Khan",
+      "character": "Captain"
+    },
+    {
+      "id": "nm0659544",
+      "name": "Archie Panjabi",
+      "character": "Asra"
+    },
+    {
+      "id": "nm2666036",
+      "name": "Mohammed Afzal",
+      "character": "Shabbir"
+    },
+    {
+      "id": "nm0451272",
+      "name": "Mushtaq Khan",
+      "character": "Danny's Taxi Driver"
+    },
+    {
+      "id": "nm2666003",
+      "name": "Daud Khan",
+      "character": "Masud the Fixer"
+    },
+    {
+      "id": "nm2666009",
+      "name": "Telal Saeed",
+      "character": "Kaleem Yusuf"
+    },
+    {
+      "id": "nm1268997",
+      "name": "Arif Khan",
+      "character": "Mariane's Taxi Driver"
+    },
+    {
+      "id": "nm2666029",
+      "name": "Tipu Taheer",
+      "character": "Human Rights Director"
+    },
+    {
+      "id": "nm1570370",
+      "name": "Amit Dhawan",
+      "character": "Technical Supervisor"
+    },
+    {
+      "id": "nm3039283",
+      "name": "Saira Nasir Khan",
+      "character": "Nasrin"
+    },
+    {
+      "id": "nm2666016",
+      "name": "Aliya Khan",
+      "character": "Kashva"
+    },
+    {
+      "id": "nm2665998",
+      "name": "Sarah Mone",
+      "character": "Female Guest"
+    },
+    {
+      "id": "nm2666010",
+      "name": "Bushra Parwani",
+      "character": "Female Guest"
+    },
+    {
+      "id": "nm1566040",
+      "name": "Zafar Karachiwala",
+      "character": "Male Guest"
+    },
+    {
+      "id": "nm2590742",
+      "name": "Danish Iqbal",
+      "character": "Male Guest"
+    },
+    {
+      "id": "nm2666028",
+      "name": "Ali Tejani",
+      "character": "Male Guest"
+    }
+  ],
+  "countries": [
+    "United States",
+    "United Kingdom"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Urdu",
+    "Arabic"
+  ],
+  "color": "Color",
+  "filmweb_id": 348577,
+  "year": 2007,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTg4OTk0NDc3MV5BMl5BanBnXkFtZTcwOTU0ODc0MQ@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.6,
+      "votes": 28784,
+      "distribution": {
+        "1": 1164,
+        "2": 372,
+        "3": 558,
+        "4": 1020,
+        "5": 2427,
+        "6": 6021,
+        "7": 8489,
+        "8": 4662,
+        "9": 1908,
+        "10": 2163
+      },
+      "normalized": 4.7263
+    },
+    "filmweb": {
+      "rating": 6.79,
+      "votes": 13929,
+      "distribution": {
+        "1": 82,
+        "2": 48,
+        "3": 237,
+        "4": 479,
+        "5": 1314,
+        "6": 3129,
+        "7": 4758,
+        "8": 2527,
+        "9": 653,
+        "10": 702
+      },
+      "normalized": 5.2052
+    },
+    "michal": {
+      "rating": 3,
+      "date_rated": "21.04.2008",
+      "normalized": 3.8753
+    },
+    "score": 4.6023
+  },
+  "polish_title": "Cena odwagi",
+  "silent": false,
+  "description_pl": "Historia jest oparta na wspomnieniach Mariane Pearl, w których zawarła ona szczegóły dotyczące życia i śmierci swoje męża - dziennikarza Wall Street Jurnal - Danny'ego Pearl'a. Film pokazuje przerażającą i niezapomnianą historię uprowadzenia Danny'ego w Pakistanie oraz wysiłki jego żony, która nie poddawała się  i kontynuowała poszukiwania nie przyjmując do wiadomości jego prawdopodobnej śmierci.",
+  "producers": [
+    {
+      "id": "nm0247787",
+      "name": "Andrew Eaton"
+    },
+    {
+      "id": "nm0306890",
+      "name": "Dede Gardner"
+    },
+    {
+      "id": "nm1202821",
+      "name": "Arti Gupta"
+    },
+    {
+      "id": "nm0456852",
+      "name": "Susan Kirr"
+    },
+    {
+      "id": "nm0653878",
+      "name": "Anita Overland"
+    },
+    {
+      "id": "nm0000093",
+      "name": "Brad Pitt"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0959128",
+      "name": "Marcel Zyskind"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

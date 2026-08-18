@@ -1,0 +1,37 @@
+{
+  "id": "nm0286025",
+  "name": "Carl Foreman",
+  "filmography": [
+    {
+      "imdb_id": "tt0044706",
+      "title": "High Noon",
+      "year": 1952,
+      "roles": [
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0050212",
+      "title": "The Bridge on the River Kwai",
+      "year": 1957,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTA4OTQ5OGMtZDg1Zi00OWZmLWE1NjEtYjNhYjNiMTEyMTUwXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "23.07.1914",
+  "death_date": "26.06.1984",
+  "birth_location": "Chicago, Illinois, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 42130,
+  "name_pl": "Carl Foreman",
+  "birth_location_pl": "Chicago, Illinois",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 42130
+}

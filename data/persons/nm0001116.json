@@ -1,0 +1,65 @@
+{
+  "id": "nm0001116",
+  "name": "Warwick Davis",
+  "filmography": [
+    {
+      "imdb_id": "tt0120915",
+      "title": "Star Wars: Episode I - The Phantom Menace",
+      "year": 1999,
+      "roles": [
+        "cast"
+      ],
+      "character": "Wald"
+    },
+    {
+      "imdb_id": "tt0241527",
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "year": 2001,
+      "roles": [
+        "cast"
+      ],
+      "character": "Goblin Bank Teller"
+    },
+    {
+      "imdb_id": "tt0371724",
+      "title": "The Hitchhiker's Guide to the Galaxy",
+      "year": 2005,
+      "roles": [
+        "cast"
+      ],
+      "character": "Marvin"
+    },
+    {
+      "imdb_id": "tt0499448",
+      "title": "The Chronicles of Narnia: Prince Caspian",
+      "year": 2008,
+      "roles": [
+        "cast"
+      ],
+      "character": "Nikabrik"
+    },
+    {
+      "imdb_id": "tt1201607",
+      "title": "Harry Potter and the Deathly Hallows: Part 2",
+      "year": 2011,
+      "roles": [
+        "cast"
+      ],
+      "character": "Griphook"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTMxNzk3MjA3Ml5BMl5BanBnXkFtZTcwOTAxNjA3Mg@@._V1_.jpg",
+  "birth_date": "03.02.1970",
+  "birth_location": "Epsom, Surrey, England, UK",
+  "height": "1.07 m",
+  "filmweb_id": 4952,
+  "name_pl": "Warwick Davis",
+  "birth_location_pl": "Epsom, Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 4952
+}

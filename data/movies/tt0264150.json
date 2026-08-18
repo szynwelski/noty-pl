@@ -1,0 +1,244 @@
+{
+  "imdb_id": "tt0264150",
+  "title": "View from the Top",
+  "description": "A small-town woman tries to achieve her goal of becoming a flight attendant.",
+  "runtime_minutes": 87,
+  "release_date": "25.03.2003",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0000569",
+      "name": "Gwyneth Paltrow"
+    },
+    {
+      "id": "nm0000775",
+      "name": "Christina Applegate"
+    },
+    {
+      "id": "nm0000593",
+      "name": "Kelly Preston"
+    },
+    {
+      "id": "nm0749263",
+      "name": "Mark Ruffalo"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000853",
+      "name": "Bruno Barreto"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0906998",
+      "name": "Eric Wald"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000569",
+      "name": "Gwyneth Paltrow",
+      "character": "Donna Jensen"
+    },
+    {
+      "id": "nm0000775",
+      "name": "Christina Applegate",
+      "character": "Christine Montgomery"
+    },
+    {
+      "id": "nm0000593",
+      "name": "Kelly Preston",
+      "character": "Sherry"
+    },
+    {
+      "id": "nm0749263",
+      "name": "Mark Ruffalo",
+      "character": "Ted Stewart"
+    },
+    {
+      "id": "nm0000298",
+      "name": "Candice Bergen",
+      "character": "Sally Weston"
+    },
+    {
+      "id": "nm0539651",
+      "name": "Joshua Malina",
+      "character": "Randy Jones"
+    },
+    {
+      "id": "nm0000507",
+      "name": "Rob Lowe",
+      "character": "Co-Pilot Steve Bench"
+    },
+    {
+      "id": "nm0000196",
+      "name": "Mike Myers",
+      "character": "John Witney"
+    },
+    {
+      "id": "nm0089456",
+      "name": "Marc Blucas",
+      "character": "Tommy Boulay"
+    },
+    {
+      "id": "nm0001107",
+      "name": "Stacey Dash",
+      "character": "Angela Samona"
+    },
+    {
+      "id": "nm0689237",
+      "name": "Jon Polito",
+      "character": "Roy Roby"
+    },
+    {
+      "id": "nm0005498",
+      "name": "Concetta Tomei",
+      "character": "Mrs. Stewart"
+    },
+    {
+      "id": "nm0677366",
+      "name": "Robyn Peterson",
+      "character": "Donna's Mom"
+    },
+    {
+      "id": "nm0197453",
+      "name": "Nadia Dajani",
+      "character": "Paige"
+    },
+    {
+      "id": "nm0197855",
+      "name": "John Francis Daley",
+      "character": "Rodney"
+    },
+    {
+      "id": "nm0168918",
+      "name": "Frederick Coffin",
+      "character": "Mr. Stewart"
+    },
+    {
+      "id": "nm1835593",
+      "name": "Chelsey Cole",
+      "character": "Donna - 6 Years Old"
+    },
+    {
+      "id": "nm0263283",
+      "name": "Troy Evans",
+      "character": "Customer"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 31889,
+  "year": 2003,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTg2MTk2MzkxNF5BMl5BanBnXkFtZTYwNjg0NTk5._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.3,
+      "votes": 30372,
+      "distribution": {
+        "1": 1149,
+        "2": 1244,
+        "3": 2068,
+        "4": 3777,
+        "5": 7230,
+        "6": 7022,
+        "7": 4146,
+        "8": 1700,
+        "9": 647,
+        "10": 1389
+      },
+      "normalized": 2.5272
+    },
+    "filmweb": {
+      "rating": 5.48,
+      "votes": 38222,
+      "distribution": {
+        "1": 492,
+        "2": 918,
+        "3": 2826,
+        "4": 5079,
+        "5": 9501,
+        "6": 10165,
+        "7": 5963,
+        "8": 2073,
+        "9": 555,
+        "10": 650
+      },
+      "normalized": 2.5724
+    },
+    "jarek": {
+      "rating": 3,
+      "date_rated": "11.03.2011",
+      "normalized": 4.2591
+    },
+    "score": 3.1196
+  },
+  "polish_title": "Szkoła stewardes",
+  "silent": false,
+  "description_pl": "Historia młodej kobiety, która podążając za swoim największym marzeniem, zostawia za sobą małomiasteczkowe życie i zostaje stewardessą. Zanim to marzenie zrealizuje, spotka na swej drodze paru dziwacznych pasażerów, trochę zazdrosnych koleżanek i kilku naprawdę niezłych facetów.",
+  "producers": [
+    {
+      "id": "nm0046367",
+      "name": "Matthew Baer"
+    },
+    {
+      "id": "nm0088971",
+      "name": "Alan C. Blomquist"
+    },
+    {
+      "id": "nm0107509",
+      "name": "Robbie Brenner"
+    },
+    {
+      "id": "nm0169256",
+      "name": "Bobby Cohen"
+    },
+    {
+      "id": "nm0295288",
+      "name": "Lizzie Friedman"
+    },
+    {
+      "id": "nm0340522",
+      "name": "Brad Grey"
+    },
+    {
+      "id": "nm1348882",
+      "name": "Laura Hopper"
+    },
+    {
+      "id": "nm0799139",
+      "name": "Francesca Silvestri"
+    },
+    {
+      "id": "nm0806216",
+      "name": "Amy Slotnick"
+    },
+    {
+      "id": "nm0002631",
+      "name": "Patrick McIntire"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0788640",
+      "name": "Theodore Shapiro"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005649",
+      "name": "Affonso Beato"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

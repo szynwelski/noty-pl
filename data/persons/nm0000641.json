@@ -1,0 +1,70 @@
+{
+  "id": "nm0000641",
+  "name": "Gary Sinise",
+  "filmography": [
+    {
+      "imdb_id": "tt0109830",
+      "title": "Forrest Gump",
+      "year": 1994,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Lieutenant Dan Taylor"
+    },
+    {
+      "imdb_id": "tt0112384",
+      "title": "Apollo 13",
+      "year": 1995,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Ken Mattingly"
+    },
+    {
+      "imdb_id": "tt0120832",
+      "title": "Snake Eyes",
+      "year": 1998,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Kevin Dunne"
+    },
+    {
+      "imdb_id": "tt0183523",
+      "title": "Mission to Mars",
+      "year": 2000,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Jim McConnell"
+    },
+    {
+      "imdb_id": "tt0160399",
+      "title": "Impostor",
+      "year": 2001,
+      "roles": [
+        "star",
+        "cast",
+        "producer"
+      ],
+      "character": "Spencer Olham"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzE4NzcyMzU3OV5BMl5BanBnXkFtZTYwOTM2NDE2._V1_.jpg",
+  "birth_date": "17.03.1955",
+  "birth_location": "Blue Island, Illinois, USA",
+  "height": "1.75 m",
+  "filmweb_id": 102,
+  "name_pl": "Gary Sinise",
+  "birth_location_pl": "Blue Island, Illinois",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

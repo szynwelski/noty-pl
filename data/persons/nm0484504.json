@@ -1,0 +1,41 @@
+{
+  "id": "nm0484504",
+  "name": "Vincent Landay",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYWEzODUzMzktMTE1MS00YTJiLWEzYjItYWRiMTcxMTRmMzVmXkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0120601",
+      "title": "Being John Malkovich",
+      "year": 1999,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0268126",
+      "title": "Adaptation.",
+      "year": 2002,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt1798709",
+      "title": "Her",
+      "year": 2013,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "birth_location": "Sault Ste. Marie, Ontario, Canada",
+  "imdb_scraped": true,
+  "filmweb_id": 152826,
+  "name_pl": "Vincent Landay",
+  "birth_location_pl": "Sault Ste. Marie",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Kanada"
+  ]
+}

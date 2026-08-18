@@ -1,0 +1,258 @@
+{
+  "imdb_id": "tt1130884",
+  "title": "Shutter Island",
+  "description": "Two US marshals are sent to a mental institution on an inhospitable island in order to investigate the disappearance of a patient.",
+  "runtime_minutes": 138,
+  "release_date": "19.02.2010",
+  "genres": [
+    "Mystery",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000138",
+      "name": "Leonardo DiCaprio"
+    },
+    {
+      "id": "nm0607865",
+      "name": "Emily Mortimer"
+    },
+    {
+      "id": "nm0749263",
+      "name": "Mark Ruffalo"
+    },
+    {
+      "id": "nm0001426",
+      "name": "Ben Kingsley"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000217",
+      "name": "Martin Scorsese"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0436164",
+      "name": "Laeta Kalogridis"
+    },
+    {
+      "id": "nm1212331",
+      "name": "Dennis Lehane"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000138",
+      "name": "Leonardo DiCaprio",
+      "character": "Teddy Daniels"
+    },
+    {
+      "id": "nm0607865",
+      "name": "Emily Mortimer",
+      "character": "Rachel 1"
+    },
+    {
+      "id": "nm0749263",
+      "name": "Mark Ruffalo",
+      "character": "Chuck Aule"
+    },
+    {
+      "id": "nm0001426",
+      "name": "Ben Kingsley",
+      "character": "Dr. Cawley"
+    },
+    {
+      "id": "nm0001884",
+      "name": "Max von Sydow",
+      "character": "Dr. Naehring"
+    },
+    {
+      "id": "nm0931329",
+      "name": "Michelle Williams",
+      "character": "Dolores"
+    },
+    {
+      "id": "nm0165101",
+      "name": "Patricia Clarkson",
+      "character": "Rachel 2"
+    },
+    {
+      "id": "nm0355097",
+      "name": "Jackie Earle Haley",
+      "character": "George Noyce"
+    },
+    {
+      "id": "nm0505971",
+      "name": "Ted Levine",
+      "character": "Warden"
+    },
+    {
+      "id": "nm0002253",
+      "name": "John Carroll Lynch",
+      "character": "Deputy Warden McPherson"
+    },
+    {
+      "id": "nm0000480",
+      "name": "Elias Koteas",
+      "character": "Laeddis"
+    },
+    {
+      "id": "nm0000862",
+      "name": "Robin Bartlett",
+      "character": "Bridget Kearns"
+    },
+    {
+      "id": "nm1706832",
+      "name": "Christopher Denham",
+      "character": "Peter Breene"
+    },
+    {
+      "id": "nm0778533",
+      "name": "Nellie Sciutto",
+      "character": "Nurse Marino"
+    },
+    {
+      "id": "nm0797746",
+      "name": "Joseph Sikora",
+      "character": "Glen Miga"
+    },
+    {
+      "id": "nm1478007",
+      "name": "Curtiss Cook",
+      "character": "Trey Washington"
+    },
+    {
+      "id": "nm0859403",
+      "name": "Raymond Anthony Thomas",
+      "character": "Orderly Ganton"
+    },
+    {
+      "id": "nm0571375",
+      "name": "Joseph McKenna",
+      "character": "Inmate Billings"
+    }
+  ],
+  "countries": [
+    "Canada",
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "color": "Color",
+  "filmweb_id": 464256,
+  "year": 2010,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BN2FjNWExYzEtY2YzOC00YjNlLTllMTQtNmIwM2Q1YzBhOWM1XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8.2,
+      "votes": 1673978,
+      "distribution": {
+        "1": 7072,
+        "2": 4074,
+        "3": 6040,
+        "4": 11094,
+        "5": 24936,
+        "6": 73929,
+        "7": 232389,
+        "8": 526853,
+        "9": 465558,
+        "10": 322033
+      },
+      "normalized": 8.2309
+    },
+    "filmweb": {
+      "rating": 8.19,
+      "votes": 621371,
+      "distribution": {
+        "1": 1555,
+        "2": 1057,
+        "3": 3044,
+        "4": 5081,
+        "5": 13357,
+        "6": 31276,
+        "7": 92258,
+        "8": 203724,
+        "9": 177429,
+        "10": 92590
+      },
+      "normalized": 9.0742
+    },
+    "jarek": {
+      "rating": 8,
+      "date_rated": "05.06.2010",
+      "normalized": 7.8989
+    },
+    "michal": {
+      "rating": 8,
+      "date_rated": "31.05.2010",
+      "normalized": 8.1116
+    },
+    "score": 8.3289
+  },
+  "polish_title": "Wyspa tajemnic",
+  "silent": false,
+  "description_pl": "Akcja filmu rozgrywa się w 1954 roku na pięknej wyspie Zatoki Bostońskiej. W tak bajecznym miejscu znajduje się szpital dla obłąkanych przestępców. Na wyspie będzie prowadzone śledztwo w sprawie tajemniczego zniknięcia jednej z pacjentek. Sprawa jest prowadzona przez federalnych szeryfów Tedda i Chucka. Kobieta zniknęła z pokoju, który był zamknięty, a w oknach były kraty. Pozostała po niej tylko zaszyfrowana wiadomość. Nad wyspę nadciąga huragan i łączność z resztą świata zostaje zerwana.",
+  "producers": [
+    {
+      "id": "nm0109103",
+      "name": "Chris Brigham"
+    },
+    {
+      "id": "nm1329482",
+      "name": "Bradley J. Fischer"
+    },
+    {
+      "id": "nm0379095",
+      "name": "Amy Herman"
+    },
+    {
+      "id": "nm0436164",
+      "name": "Laeta Kalogridis"
+    },
+    {
+      "id": "nm1212331",
+      "name": "Dennis Lehane"
+    },
+    {
+      "id": "nm0005219",
+      "name": "Mike Medavoy"
+    },
+    {
+      "id": "nm1103781",
+      "name": "Arnold Messer"
+    },
+    {
+      "id": "nm0638089",
+      "name": "Gianni Nunnari"
+    },
+    {
+      "id": "nm1152402",
+      "name": "Louis Phillips"
+    },
+    {
+      "id": "nm0717518",
+      "name": "Joseph P. Reidy"
+    },
+    {
+      "id": "nm0000217",
+      "name": "Martin Scorsese"
+    },
+    {
+      "id": "nm0863374",
+      "name": "Emma Tillinger Koskoff"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0724744",
+      "name": "Robert Richardson"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

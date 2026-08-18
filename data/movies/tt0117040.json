@@ -1,0 +1,163 @@
+{
+  "imdb_id": "tt0117040",
+  "title": "Microcosmos",
+  "description": "A documentary on insect life in meadows and ponds.",
+  "runtime_minutes": 80,
+  "release_date": "06.09.1996",
+  "genres": [
+    "Documentary"
+  ],
+  "stars": [
+    {
+      "id": "nm0000218",
+      "name": "Kristin Scott Thomas"
+    },
+    {
+      "id": "nm0674742",
+      "name": "Jacques Perrin"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0638175",
+      "name": "Claude Nuridsany"
+    },
+    {
+      "id": "nm0701821",
+      "name": "Marie Pérennou"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0638175",
+      "name": "Claude Nuridsany"
+    },
+    {
+      "id": "nm0701821",
+      "name": "Marie Pérennou"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000218",
+      "name": "Kristin Scott Thomas",
+      "character": "Self - Narrator (English version)"
+    },
+    {
+      "id": "nm0674742",
+      "name": "Jacques Perrin",
+      "character": "Self - Récitant"
+    }
+  ],
+  "countries": [
+    "France",
+    "Switzerland",
+    "Italy",
+    "United Kingdom"
+  ],
+  "languages": [
+    "French"
+  ],
+  "color": "Color",
+  "filmweb_id": 536,
+  "year": 1996,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNGMwODhiY2MtZDY3OC00N2ZkLWIwM2MtOGU1ZDg1Njk4NmZkXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Microcosmos: Le peuple de l'herbe",
+  "ratings": {
+    "imdb": {
+      "rating": 7.9,
+      "votes": 12162,
+      "distribution": {
+        "1": 122,
+        "2": 46,
+        "3": 70,
+        "4": 151,
+        "5": 365,
+        "6": 864,
+        "7": 2374,
+        "8": 3798,
+        "9": 2233,
+        "10": 2139
+      },
+      "normalized": 7.1114
+    },
+    "filmweb": {
+      "rating": 7.57,
+      "votes": 17442,
+      "distribution": {
+        "1": 138,
+        "2": 96,
+        "3": 179,
+        "4": 310,
+        "5": 655,
+        "6": 1591,
+        "7": 4389,
+        "8": 5849,
+        "9": 2769,
+        "10": 1466
+      },
+      "normalized": 6.8954
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "19.10.2005",
+      "normalized": 5.4199
+    },
+    "score": 6.4756
+  },
+  "polish_title": "Mikrokosmos",
+  "silent": false,
+  "description_pl": "Poetycki film przyrodniczy. Specjalne obiektywy kamery pokazują jeden dzień\nżycia łąki pod lasem. Bohaterami są głównie owady i ich poczwarki. Zwykłe \nwydarzenia, czasem katastrofy, zwyczajny deszcz powoduje tutaj potop.\nAutorzy filmu szukają prawdy, ale także poezji.",
+  "producers": [
+    {
+      "id": "nm0014808",
+      "name": "Conchita Airoldi"
+    },
+    {
+      "id": "nm0056725",
+      "name": "Christophe Barratier"
+    },
+    {
+      "id": "nm0269215",
+      "name": "Michel Fauré"
+    },
+    {
+      "id": "nm0310369",
+      "name": "Philippe Gautier"
+    },
+    {
+      "id": "nm0376257",
+      "name": "Jean-Marc Henchoz"
+    },
+    {
+      "id": "nm0484237",
+      "name": "Patrick Lancelot"
+    },
+    {
+      "id": "nm0493704",
+      "name": "André Lazare"
+    },
+    {
+      "id": "nm0539966",
+      "name": "Yvette Mallet"
+    },
+    {
+      "id": "nm0674742",
+      "name": "Jacques Perrin"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006020",
+      "name": "Bruno Coulais"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0532512",
+      "name": "Thierry Machado"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

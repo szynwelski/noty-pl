@@ -1,0 +1,40 @@
+{
+  "id": "nm0627878",
+  "name": "Bob Newhart",
+  "filmography": [
+    {
+      "imdb_id": "tt0065528",
+      "title": "Catch-22",
+      "year": 1970,
+      "roles": [
+        "cast"
+      ],
+      "character": "Major Major"
+    },
+    {
+      "imdb_id": "tt0333780",
+      "title": "Legally Blonde 2: Red, White & Blonde",
+      "year": 2003,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Sid Post"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTk5MDE5NDcxOV5BMl5BanBnXkFtZTcwNTAxOTkwMg@@._V1_.jpg",
+  "birth_date": "05.09.1929",
+  "death_date": "18.07.2024",
+  "birth_location": "Oak Park, Illinois, USA",
+  "height": "1.71 m",
+  "imdb_scraped": true,
+  "filmweb_id": 4131,
+  "name_pl": "Bob Newhart",
+  "birth_location_pl": "Oak Park, Illinois",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 4131
+}

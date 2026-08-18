@@ -1,0 +1,202 @@
+{
+  "imdb_id": "tt29355505",
+  "ratings": {
+    "imdb": {
+      "rating": 7.5,
+      "votes": 64700,
+      "distribution": {
+        "1": 890,
+        "2": 281,
+        "3": 414,
+        "4": 769,
+        "5": 2454,
+        "6": 7192,
+        "7": 18541,
+        "8": 19675,
+        "9": 7636,
+        "10": 6848
+      },
+      "normalized": 6.3929
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "22.06.2026",
+      "normalized": 5.4199
+    },
+    "filmweb": {
+      "rating": 7.57,
+      "votes": 10880,
+      "distribution": {
+        "1": 17,
+        "2": 12,
+        "3": 34,
+        "4": 82,
+        "5": 267,
+        "6": 1049,
+        "7": 3536,
+        "8": 3979,
+        "9": 1326,
+        "10": 578
+      },
+      "normalized": 6.8577
+    },
+    "score": 6.2235
+  },
+  "title": "Toy Story 5",
+  "description": "Woody, Buzz, Jessie and the rest of the gang's jobs are challenged when they're introduced to electronics, a new threat to playtime.",
+  "year": 2026,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZTI1YTBiNmEtYWUxZi00YzFkLWIzNjMtMmZjMmY2NzM0ZWMzXkEyXkFqcGc@._V1_.jpg",
+  "runtime_minutes": 102,
+  "release_date": "19.06.2026",
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy",
+    "Drama",
+    "Family",
+    "Fantasy"
+  ],
+  "stars": [
+    {
+      "id": "nm0000158",
+      "name": "Tom Hanks"
+    },
+    {
+      "id": "nm0000741",
+      "name": "Tim Allen"
+    },
+    {
+      "id": "nm0000349",
+      "name": "Joan Cusack"
+    },
+    {
+      "id": "nm0005277",
+      "name": "Conan O'Brien"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm7499718",
+      "name": "McKenna Harris"
+    },
+    {
+      "id": "nm0004056",
+      "name": "Andrew Stanton"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0004056",
+      "name": "Andrew Stanton"
+    },
+    {
+      "id": "nm7499718",
+      "name": "McKenna Harris"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000158",
+      "name": "Tom Hanks",
+      "character": "Woody"
+    },
+    {
+      "id": "nm0000741",
+      "name": "Tim Allen",
+      "character": "Buzz Lightyear"
+    },
+    {
+      "id": "nm0000349",
+      "name": "Joan Cusack",
+      "character": "Jessie"
+    },
+    {
+      "id": "nm0005277",
+      "name": "Conan O'Brien",
+      "character": "Smarty Pants"
+    },
+    {
+      "id": "nm2336966",
+      "name": "Greta Lee",
+      "character": "Lilypad"
+    },
+    {
+      "id": "nm14198369",
+      "name": "Scarlett Spears",
+      "character": "Bonnie"
+    },
+    {
+      "id": "nm1821351",
+      "name": "Shelby Rabara",
+      "character": "Snappy"
+    },
+    {
+      "id": "nm7835124",
+      "name": "Mykal-Michelle Harris",
+      "character": "Blaze"
+    },
+    {
+      "id": "nm0732497",
+      "name": "Craig Robinson",
+      "character": "Atlas"
+    },
+    {
+      "id": "nm0015935",
+      "name": "Lori Alan",
+      "character": "Bonnie's Mom"
+    },
+    {
+      "id": "nm0379596",
+      "name": "Jay Hernandez",
+      "character": "Bonnie's Dad"
+    },
+    {
+      "id": "nm0001372",
+      "name": "Bonnie Hunt",
+      "character": "Dolly"
+    },
+    {
+      "id": "nm1102891",
+      "name": "Kristen Schaal",
+      "character": "Trixie"
+    },
+    {
+      "id": "nm0355024",
+      "name": "Tony Hale",
+      "character": "Forky"
+    },
+    {
+      "id": "nm0394204",
+      "name": "John Hopkins",
+      "character": "Mr. Pricklepants"
+    },
+    {
+      "id": "nm0001728",
+      "name": "Wallace Shawn",
+      "character": "Rex"
+    },
+    {
+      "id": "nm0163703",
+      "name": "Blake Clark",
+      "character": "Slinky Dog"
+    },
+    {
+      "id": "nm0001368",
+      "name": "Ernie Hudson",
+      "character": "Combat Carl"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "silent": false,
+  "filmweb_id": 10051461,
+  "polish_title": "Toy Story 5",
+  "description_pl": "Rodzice kupują Bonnie tablet Lilypad – gadżet, który mają już wszystkie dzieci. Urządzenie zagarnia całą uwagę dziewczynki. Chcąc udowodnić, że jest lepsze od zabawek, kontaktuje swoją właścicielkę z koleżankami z baletu. Kowbojka Jessie ma wątpliwości, czy ta znajomość przerodzi się w prawdziwą przyjaźń. Wraz z Mustangiem ukrywa się w walizce Bonnie i rusza z nią na nocowankę.",
+  "fetched_at": "2026-08-16"
+}

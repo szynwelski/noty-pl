@@ -1,0 +1,259 @@
+{
+  "imdb_id": "tt0119173",
+  "title": "G.I. Jane",
+  "description": "Lt. Jordan, a US Navy topographic analyst, joins the US Navy Special Warfare Group and struggles to prove her worth in a unit dominated by men. But a cynical woman Texan senator has sold her out.",
+  "runtime_minutes": 125,
+  "release_date": "22.08.1997",
+  "genres": [
+    "Action",
+    "Drama",
+    "War"
+  ],
+  "stars": [
+    {
+      "id": "nm0000193",
+      "name": "Demi Moore"
+    },
+    {
+      "id": "nm0001557",
+      "name": "Viggo Mortensen"
+    },
+    {
+      "id": "nm0000843",
+      "name": "Anne Bancroft"
+    },
+    {
+      "id": "nm0000892",
+      "name": "Jason Beghe"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000631",
+      "name": "Ridley Scott"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0018824",
+      "name": "Danielle Alexandra"
+    },
+    {
+      "id": "nm0878638",
+      "name": "David Twohy"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000193",
+      "name": "Demi Moore",
+      "character": "Jordan O'Neil"
+    },
+    {
+      "id": "nm0001557",
+      "name": "Viggo Mortensen",
+      "character": "Master Chief John James Urgayle"
+    },
+    {
+      "id": "nm0000843",
+      "name": "Anne Bancroft",
+      "character": "Lillian DeHaven"
+    },
+    {
+      "id": "nm0000892",
+      "name": "Jason Beghe",
+      "character": "Royce"
+    },
+    {
+      "id": "nm0901926",
+      "name": "Daniel von Bargen",
+      "character": "Theodore Hayes"
+    },
+    {
+      "id": "nm0383422",
+      "name": "John Michael Higgins",
+      "character": "Chief of Staff"
+    },
+    {
+      "id": "nm0300824",
+      "name": "Kevin Gage",
+      "character": "Instructor Pyro"
+    },
+    {
+      "id": "nm0913175",
+      "name": "David Warshofsky",
+      "character": "Instructor Johns"
+    },
+    {
+      "id": "nm0883008",
+      "name": "David Vadim",
+      "character": "Cortez"
+    },
+    {
+      "id": "nm0004820",
+      "name": "Morris Chestnut",
+      "character": "McCool"
+    },
+    {
+      "id": "nm0005020",
+      "name": "Josh Hopkins",
+      "character": "Flea"
+    },
+    {
+      "id": "nm0001029",
+      "name": "Jim Caviezel",
+      "character": "Slovnik"
+    },
+    {
+      "id": "nm0005089",
+      "name": "Boyd Kestner",
+      "character": "Wickwire"
+    },
+    {
+      "id": "nm0202819",
+      "name": "Angel David",
+      "character": "Newberry"
+    },
+    {
+      "id": "nm0709078",
+      "name": "Stephen Ramsey",
+      "character": "Stamm"
+    },
+    {
+      "id": "nm0069131",
+      "name": "Gregg Bello",
+      "character": "Miller"
+    },
+    {
+      "id": "nm0934113",
+      "name": "Scott Wilson",
+      "character": "C.O. Salem"
+    },
+    {
+      "id": "nm0421087",
+      "name": "Lucinda Jenney",
+      "character": "Blondell"
+    }
+  ],
+  "countries": [
+    "United States",
+    "United Kingdom"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 54,
+  "year": 1997,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMWY5OTllYzYtYjRmMS00ZmU5LTg0NmEtMzBjMDFmNDdhZGI1XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.1,
+      "votes": 92402,
+      "distribution": {
+        "1": 2335,
+        "2": 1808,
+        "3": 3197,
+        "4": 6514,
+        "5": 14660,
+        "6": 24852,
+        "7": 20553,
+        "8": 10067,
+        "9": 3636,
+        "10": 4780
+      },
+      "normalized": 3.7664
+    },
+    "filmweb": {
+      "rating": 6.77,
+      "votes": 41607,
+      "distribution": {
+        "1": 176,
+        "2": 213,
+        "3": 761,
+        "4": 1435,
+        "5": 3786,
+        "6": 9170,
+        "7": 14340,
+        "8": 8229,
+        "9": 2220,
+        "10": 1277
+      },
+      "normalized": 5.1024
+    },
+    "jarek": {
+      "rating": 3,
+      "date_rated": "30.06.2013",
+      "normalized": 4.2591
+    },
+    "michal": {
+      "rating": 3,
+      "date_rated": "20.10.2005",
+      "normalized": 3.8753
+    },
+    "score": 4.2508
+  },
+  "polish_title": "G.I. Jane",
+  "silent": false,
+  "description_pl": "Młoda kobieta (<a href=\"/osoba/?id=nm0000193\">Demi Moore</a>) pracuje w centrali wywiadowczej marynarki amerykańskiej. W senacie amerykańskim rozpoczyna się kampania dotycząca służby kobiet w jednostkach liniowych. Bohaterka otrzymuje propozycje, zgadza się  i zostaje przeniesiona do obozu ćwiczebnego.",
+  "producers": [
+    {
+      "id": "nm0018824",
+      "name": "Danielle Alexandra"
+    },
+    {
+      "id": "nm0074729",
+      "name": "Julie Bergman Sender"
+    },
+    {
+      "id": "nm0083696",
+      "name": "Roger Birnbaum"
+    },
+    {
+      "id": "nm0507119",
+      "name": "Diane Minter Lewis"
+    },
+    {
+      "id": "nm0564380",
+      "name": "Tim McBride"
+    },
+    {
+      "id": "nm0000193",
+      "name": "Demi Moore"
+    },
+    {
+      "id": "nm0624117",
+      "name": "Terry Needham"
+    },
+    {
+      "id": "nm0000631",
+      "name": "Ridley Scott"
+    },
+    {
+      "id": "nm0865297",
+      "name": "Suzanne Todd"
+    },
+    {
+      "id": "nm0941214",
+      "name": "Nigel Wooll"
+    },
+    {
+      "id": "nm0953569",
+      "name": "Chris Zarpas"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0002303",
+      "name": "Trevor Jones"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0425244",
+      "name": "Hugh Johnson"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

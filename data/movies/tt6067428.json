@@ -1,0 +1,151 @@
+{
+  "imdb_id": "tt6067428",
+  "title": "Nina",
+  "description": "A 12 year old swimming star becomes the emotional casualty of her parents acrimonious separation, in this powerful coming of age story about youth rebelliously standing up to the cruelties and immaturities of adulthood.",
+  "runtime_minutes": 86,
+  "release_date": "03.07.2017",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm9114076",
+      "name": "Bibiana Nováková"
+    },
+    {
+      "id": "nm1873041",
+      "name": "Robert Roth"
+    },
+    {
+      "id": "nm9114078",
+      "name": "Petra Fornayová"
+    },
+    {
+      "id": "nm5392986",
+      "name": "Josef Kleindienst"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm2996966",
+      "name": "Juraj Lehotsky"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm2996966",
+      "name": "Juraj Lehotsky"
+    },
+    {
+      "id": "nm0503931",
+      "name": "Marek Lescák"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm9114076",
+      "name": "Bibiana Nováková",
+      "character": "Nina"
+    },
+    {
+      "id": "nm1873041",
+      "name": "Robert Roth",
+      "character": "Otec"
+    },
+    {
+      "id": "nm9114078",
+      "name": "Petra Fornayová",
+      "character": "Matka"
+    },
+    {
+      "id": "nm5392986",
+      "name": "Josef Kleindienst",
+      "character": "Peter"
+    },
+    {
+      "id": "nm9295283",
+      "name": "Miroslav Pollak",
+      "character": "Trenér"
+    },
+    {
+      "id": "nm9295284",
+      "name": "Simona Kuchynková",
+      "character": "Lea"
+    },
+    {
+      "id": "nm9295285",
+      "name": "Tomás Klobúcnik",
+      "character": "Plavec"
+    }
+  ],
+  "countries": [
+    "Slovakia",
+    "Czech Republic"
+  ],
+  "languages": [
+    "Slovak"
+  ],
+  "color": "Color",
+  "filmweb_id": 789217,
+  "year": 2017,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDQwZjk1OTYtZmIyOS00MDlmLWExYmYtODI4ZGRlMjE0M2Y0XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.3,
+      "votes": 130,
+      "distribution": {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 8,
+        "5": 15,
+        "6": 43,
+        "7": 41,
+        "8": 10,
+        "9": 7,
+        "10": 3
+      },
+      "normalized": 5.0709
+    },
+    "filmweb": {
+      "rating": 6.12,
+      "votes": 67,
+      "distribution": {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 15,
+        "6": 20,
+        "7": 20,
+        "8": 7,
+        "9": 1,
+        "10": 0
+      },
+      "normalized": 4.8575
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "14.10.2017",
+      "normalized": 6.4102
+    },
+    "score": 5.4462
+  },
+  "polish_title": "Nina",
+  "silent": false,
+  "description_pl": "Nina ma 12 lat. Jej rodzice się rozwodzą i świat, który znała, przestaje istnieć. Mama i tata mówią, że robią to, co dla niej najlepsze. Jednak tak naprawdę myślą tylko o sobie. Nina ich nie rozumie. Czuje się porzucona i oszukana, jakby na świecie nie zostało już nic, czemu mogłaby zaufać. Jej jedyną bezpieczną przystanią jest pływanie. Na basenie czuje to, czego brakuje jej teraz w domu – spokój i wsparcie. Dlatego, kiedy zanosi się na to, że nie będzie mogła wystartować w zawodach pływackich, na których jej bardzo zależy, decyduje się na radykalny ruch.",
+  "composers": [
+    {
+      "id": "nm0108353",
+      "name": "Aleš Březina"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm4678772",
+      "name": "Noro Hudec"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

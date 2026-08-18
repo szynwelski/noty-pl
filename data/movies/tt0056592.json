@@ -1,0 +1,229 @@
+{
+  "imdb_id": "tt0056592",
+  "title": "To Kill a Mockingbird",
+  "description": "A widowed lawyer in Depression-era Alabama defends a black man against a false rape charge while teaching his young children about the sad reality of prejudice.",
+  "runtime_minutes": 129,
+  "release_date": "16.03.1963",
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0000060",
+      "name": "Gregory Peck"
+    },
+    {
+      "id": "nm0576345",
+      "name": "John Megna"
+    },
+    {
+      "id": "nm0653942",
+      "name": "Frank Overton"
+    },
+    {
+      "id": "nm0614677",
+      "name": "Rosemary Murphy"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0612322",
+      "name": "Robert Mulligan"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0497369",
+      "name": "Harper Lee"
+    },
+    {
+      "id": "nm0285210",
+      "name": "Horton Foote"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000060",
+      "name": "Gregory Peck",
+      "character": "Atticus Finch"
+    },
+    {
+      "id": "nm0576345",
+      "name": "John Megna",
+      "character": "Dill Harris"
+    },
+    {
+      "id": "nm0653942",
+      "name": "Frank Overton",
+      "character": "Sheriff Heck Tate"
+    },
+    {
+      "id": "nm0614677",
+      "name": "Rosemary Murphy",
+      "character": "Maudie Atkinson"
+    },
+    {
+      "id": "nm0925418",
+      "name": "Ruth White",
+      "character": "Mrs. Dubose"
+    },
+    {
+      "id": "nm0676349",
+      "name": "Brock Peters",
+      "character": "Tom Robinson"
+    },
+    {
+      "id": "nm0262745",
+      "name": "Estelle Evans",
+      "character": "Calpurnia"
+    },
+    {
+      "id": "nm0280707",
+      "name": "Paul Fix",
+      "character": "Judge Taylor"
+    },
+    {
+      "id": "nm0668110",
+      "name": "Collin Wilcox Paxton",
+      "character": "Mayella Violet Ewell"
+    },
+    {
+      "id": "nm0026841",
+      "name": "James Anderson",
+      "character": "Bob Ewell"
+    },
+    {
+      "id": "nm0315933",
+      "name": "Alice Ghostley",
+      "character": "Aunt Stephanie Crawford"
+    },
+    {
+      "id": "nm0000380",
+      "name": "Robert Duvall",
+      "character": "Boo Radley"
+    },
+    {
+      "id": "nm0934750",
+      "name": "William Windom",
+      "character": "Mr. Gilmer"
+    },
+    {
+      "id": "nm0219825",
+      "name": "Crahan Denton",
+      "character": "Walter Cunningham Sr."
+    },
+    {
+      "id": "nm0354989",
+      "name": "Richard Hale",
+      "character": "Nathan Radley"
+    },
+    {
+      "id": "nm0000825",
+      "name": "Mary Badham",
+      "character": "Scout Finch"
+    },
+    {
+      "id": "nm0019221",
+      "name": "Phillip Alford",
+      "character": "Jem Finch"
+    },
+    {
+      "id": "nm0035867",
+      "name": "R.L. Armstrong",
+      "character": "Man"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 11900,
+  "year": 1962,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZTlkYWU4MGEtZmQyYi00OWEzLTgzY2EtYzVjOTEzYzAyNTk1XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8.2,
+      "votes": 352491,
+      "distribution": {
+        "1": 4175,
+        "2": 1389,
+        "3": 1834,
+        "4": 3385,
+        "5": 7613,
+        "6": 18579,
+        "7": 53147,
+        "8": 101384,
+        "9": 84099,
+        "10": 76886
+      },
+      "normalized": 8.0627
+    },
+    "filmweb": {
+      "rating": 7.86,
+      "votes": 34220,
+      "distribution": {
+        "1": 226,
+        "2": 43,
+        "3": 133,
+        "4": 271,
+        "5": 818,
+        "6": 2220,
+        "7": 7285,
+        "8": 13319,
+        "9": 6931,
+        "10": 2974
+      },
+      "normalized": 7.8975
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "05.02.2010",
+      "normalized": 7.1247
+    },
+    "michal": {
+      "rating": 9,
+      "date_rated": "19.10.2005",
+      "normalized": 8.9779
+    },
+    "score": 8.0157
+  },
+  "polish_title": "Zabić drozda",
+  "silent": false,
+  "description_pl": "W latach trzydziestych na amerykańskim Południu słowo murzyna znaczy mniej niż słowo białego, nawet jeśli ów biały jest pogardzanym członkiem \"marginesu społecznego\". Przekonują się o tym dzieci adwokata z małego miasteczka Maycomb w Alabamie, \"Smyk\" (<a href=\"/osoba/?id=nm0000825\">Mary Badham</a>) i Jem (<a href=\"/osoba/?id=nm0019221\">Phillip Alford</a>), gdy ich ojciec zostaje obrońcą czarnoskórego Toma Robinsona (<a href=\"/osoba/?id=nm0676349\">Brock Peters</a>) niesłusznie oskarżonego o zgwałcenie białej kobiety. Atticus Finch (<a href=\"/osoba/?id=nm0000060\">Gregory Peck</a>), wyznaczony na obrońcę z urzędu, wbrew oczekiwaniom społeczności miasteczka swoje zadanie traktuje poważnie. Film, będący ekranizacją wyróżnionej nagrodą Pulitzera powieści Harper Lee, ukazuje mieszkańców Maycomb i wydarzenia związane z procesem Toma Robinsona widziane oczami \"Smyka\".",
+  "producers": [
+    {
+      "id": "nm0001587",
+      "name": "Alan J. Pakula"
+    },
+    {
+      "id": "nm0497369",
+      "name": "Harper Lee"
+    },
+    {
+      "id": "nm0612322",
+      "name": "Robert Mulligan"
+    },
+    {
+      "id": "nm0000060",
+      "name": "Gregory Peck"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0000930",
+      "name": "Elmer Bernstein"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005737",
+      "name": "Russell Harlan"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

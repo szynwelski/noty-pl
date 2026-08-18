@@ -1,0 +1,240 @@
+{
+  "imdb_id": "tt0230030",
+  "title": "Bedazzled",
+  "description": "Hopeless dweeb Elliot Richards is granted seven wishes by the Devil to snare Allison, the girl of his dreams, in exchange for his soul.",
+  "runtime_minutes": 93,
+  "release_date": "20.10.2000",
+  "genres": [
+    "Comedy",
+    "Fantasy"
+  ],
+  "stars": [
+    {
+      "id": "nm0000409",
+      "name": "Brendan Fraser"
+    },
+    {
+      "id": "nm0000167",
+      "name": "Elizabeth Hurley"
+    },
+    {
+      "id": "nm0640323",
+      "name": "Frances O'Connor"
+    },
+    {
+      "id": "nm0794896",
+      "name": "Miriam Shor"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000601",
+      "name": "Harold Ramis"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0177228",
+      "name": "Peter Cook"
+    },
+    {
+      "id": "nm0001545",
+      "name": "Dudley Moore"
+    },
+    {
+      "id": "nm0312205",
+      "name": "Larry Gelbart"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000409",
+      "name": "Brendan Fraser",
+      "character": "Elliot"
+    },
+    {
+      "id": "nm0000167",
+      "name": "Elizabeth Hurley",
+      "character": "The Devil"
+    },
+    {
+      "id": "nm0640323",
+      "name": "Frances O'Connor",
+      "character": "Alison"
+    },
+    {
+      "id": "nm0794896",
+      "name": "Miriam Shor",
+      "character": "Carol"
+    },
+    {
+      "id": "nm0428963",
+      "name": "Orlando Jones",
+      "character": "Dan"
+    },
+    {
+      "id": "nm0011882",
+      "name": "Paul Adelstein",
+      "character": "Bob"
+    },
+    {
+      "id": "nm0403947",
+      "name": "Toby Huss",
+      "character": "Jerry"
+    },
+    {
+      "id": "nm0144133",
+      "name": "Gabriel Casseus",
+      "character": "Elliot's Cellmate"
+    },
+    {
+      "id": "nm0236519",
+      "name": "Brian Doyle-Murray",
+      "character": "Priest"
+    },
+    {
+      "id": "nm0234731",
+      "name": "Jeff Doucette",
+      "character": "Desk Sergeant"
+    },
+    {
+      "id": "nm0527316",
+      "name": "Aaron Lustig",
+      "character": "Synedyne Supervisor"
+    },
+    {
+      "id": "nm0553020",
+      "name": "Rudolf Martin",
+      "character": "Raoul"
+    },
+    {
+      "id": "nm0278747",
+      "name": "Julian Firth",
+      "character": "John Wilkes Booth"
+    },
+    {
+      "id": "nm0737278",
+      "name": "Iain Rogerson",
+      "character": "Play Actor"
+    },
+    {
+      "id": "nm0388336",
+      "name": "Biddy Hodson",
+      "character": "Play Actor"
+    },
+    {
+      "id": "nm0358772",
+      "name": "Roger Hammond",
+      "character": "Play Actor"
+    },
+    {
+      "id": "nm0651774",
+      "name": "William Osbourne",
+      "character": "Play Actor"
+    },
+    {
+      "id": "nm0911681",
+      "name": "Laurel A. Ward",
+      "character": "Tech Support Advisor"
+    }
+  ],
+  "countries": [
+    "United States",
+    "Germany"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Russian"
+  ],
+  "color": "Color",
+  "filmweb_id": 1434,
+  "year": 2000,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZGU5ZmZjNDUtYzBiZS00NWVlLTgwMjAtM2M2OGFmM2M4MmRkXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.1,
+      "votes": 120016,
+      "distribution": {
+        "1": 1627,
+        "2": 2076,
+        "3": 3939,
+        "4": 8287,
+        "5": 18678,
+        "6": 32636,
+        "7": 28049,
+        "8": 13429,
+        "9": 4599,
+        "10": 6696
+      },
+      "normalized": 3.7431
+    },
+    "filmweb": {
+      "rating": 6.29,
+      "votes": 21648,
+      "distribution": {
+        "1": 133,
+        "2": 221,
+        "3": 690,
+        "4": 1367,
+        "5": 3104,
+        "6": 6059,
+        "7": 6228,
+        "8": 2589,
+        "9": 702,
+        "10": 555
+      },
+      "normalized": 3.9084
+    },
+    "jarek": {
+      "rating": 3,
+      "date_rated": "26.08.2010",
+      "normalized": 4.2591
+    },
+    "michal": {
+      "rating": 3,
+      "date_rated": "22.04.2006",
+      "normalized": 3.8753
+    },
+    "score": 3.9465
+  },
+  "polish_title": "Zakręcony",
+  "silent": false,
+  "description_pl": "Młody  nieudacznik  spotyka  na  swej  drodze szatana  w  osobie  pięknej  kobiety, która  składa  mu  propozycję  nie  do  odrzucenia. W zamain za jego duszę spełni każde życzenie ofiary.",
+  "producers": [
+    {
+      "id": "nm0016603",
+      "name": "Trevor Albert"
+    },
+    {
+      "id": "nm0355112",
+      "name": "Michael Haley"
+    },
+    {
+      "id": "nm0380707",
+      "name": "Suzanne Herrington"
+    },
+    {
+      "id": "nm0532650",
+      "name": "Neil A. Machlis"
+    },
+    {
+      "id": "nm0000601",
+      "name": "Harold Ramis"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0628056",
+      "name": "David Newman"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0691084",
+      "name": "Bill Pope"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

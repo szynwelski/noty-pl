@@ -1,0 +1,30 @@
+{
+  "id": "nm0001168",
+  "name": "Bob Dylan",
+  "filmography": [
+    {
+      "imdb_id": "tt0070518",
+      "title": "Pat Garrett & Billy the Kid",
+      "year": 1973,
+      "roles": [
+        "cast",
+        "composer"
+      ],
+      "character": "Alias"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTY0OTgyMTU2OF5BMl5BanBnXkFtZTgwMTc0NzgzMTI@._V1_.jpg",
+  "birth_date": "24.05.1941",
+  "birth_location": "Duluth, Minnesota, USA",
+  "height": "1.69 m",
+  "imdb_scraped": true,
+  "filmweb_id": 13348,
+  "name_pl": "Bob Dylan",
+  "birth_location_pl": "Duluth, Minnesota",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 13348
+}

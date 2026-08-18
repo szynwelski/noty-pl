@@ -1,0 +1,31 @@
+{
+  "id": "nm0321228",
+  "name": "Harry Gittes",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNjM2NzM4MDkyNF5BMl5BanBnXkFtZTgwOTIwNTU0MzI@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0257360",
+      "title": "About Schmidt",
+      "year": 2002,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0265208",
+      "title": "The Girl Next Door",
+      "year": 2004,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "birth_date": "06.05.1936",
+  "death_date": "02.09.2017",
+  "birth_location": "Brookline, Massachusetts, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 222111,
+  "name_pl": "Harry Gittes",
+  "gender": "M",
+  "wikidata_processed": true
+}

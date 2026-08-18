@@ -1,0 +1,209 @@
+{
+  "imdb_id": "tt2405182",
+  "title": "Concrete Night",
+  "description": "A fourteen-year-old boy in a stifling Helsinki slum takes some unwise life lessons from his soon-to-be-incarcerated older brother.",
+  "runtime_minutes": 96,
+  "release_date": "01.11.2013",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm2059197",
+      "name": "Johannes Brotherus"
+    },
+    {
+      "id": "nm0899406",
+      "name": "Jari Virman"
+    },
+    {
+      "id": "nm0440038",
+      "name": "Anneli Karppinen"
+    },
+    {
+      "id": "nm1798449",
+      "name": "Juhan Ulfsak"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0393345",
+      "name": "Pirjo Honkasalo"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0393345",
+      "name": "Pirjo Honkasalo"
+    },
+    {
+      "id": "nm0756820",
+      "name": "Pirkko Saisio"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm2059197",
+      "name": "Johannes Brotherus",
+      "character": "Simo"
+    },
+    {
+      "id": "nm0899406",
+      "name": "Jari Virman",
+      "character": "Ilkka"
+    },
+    {
+      "id": "nm0440038",
+      "name": "Anneli Karppinen",
+      "character": "Mother"
+    },
+    {
+      "id": "nm1798449",
+      "name": "Juhan Ulfsak",
+      "character": "Man"
+    },
+    {
+      "id": "nm2311069",
+      "name": "Alex Anton",
+      "character": "Jusa"
+    },
+    {
+      "id": "nm2078162",
+      "name": "Iida Kuningas",
+      "character": "Veera"
+    },
+    {
+      "id": "nm0691637",
+      "name": "Pauli Poranen",
+      "character": "Taxi driver"
+    },
+    {
+      "id": "nm4426212",
+      "name": "Mauno Paajanen",
+      "character": "Twiggy"
+    },
+    {
+      "id": "nm0560972",
+      "name": "Rea Mauranen",
+      "character": "Woman"
+    },
+    {
+      "id": "nm0255538",
+      "name": "Teijo Eloranta",
+      "character": "Man with grey hair"
+    },
+    {
+      "id": "nm2326662",
+      "name": "Timo Välisaari",
+      "character": "Tsali"
+    },
+    {
+      "id": "nm0631167",
+      "name": "Hannele Nieminen",
+      "character": "Waitress"
+    },
+    {
+      "id": "nm3354817",
+      "name": "Arto Oskar Reunanen",
+      "character": "The drunkard in the metro"
+    },
+    {
+      "id": "nm5014534",
+      "name": "Vincent Willestrand",
+      "character": ""
+    }
+  ],
+  "countries": [
+    "Finland",
+    "Sweden",
+    "Denmark"
+  ],
+  "languages": [
+    "Finnish"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 672075,
+  "year": 2013,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTczODI0MDUwMV5BMl5BanBnXkFtZTgwMzE2NTQ1MDI@._V1_.jpg",
+  "original_title": "Betoniyö",
+  "ratings": {
+    "imdb": {
+      "rating": 6.4,
+      "votes": 1359,
+      "distribution": {
+        "1": 47,
+        "2": 36,
+        "3": 51,
+        "4": 92,
+        "5": 151,
+        "6": 247,
+        "7": 295,
+        "8": 239,
+        "9": 106,
+        "10": 95
+      },
+      "normalized": 4.6262
+    },
+    "filmweb": {
+      "rating": 5.44,
+      "votes": 335,
+      "distribution": {
+        "1": 3,
+        "2": 13,
+        "3": 37,
+        "4": 51,
+        "5": 70,
+        "6": 64,
+        "7": 49,
+        "8": 32,
+        "9": 13,
+        "10": 3
+      },
+      "normalized": 3.7921
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "01.10.2017",
+      "normalized": 4.9718
+    },
+    "score": 4.4634
+  },
+  "polish_title": "Betonowa noc",
+  "silent": false,
+  "description_pl": "Simo to młody chłopak, który nie ma w życiu większych perspektyw. Jego jedynym autorytetem jest starszy brat, który właśnie idzie do więzienia. Rodzeństwo spędza wspólnie ostatnią noc, włócząc się po niebezpiecznych rejonach Helsinek. Nieoczekiwanie, Simo zaczyna rozumieć, kim tak naprawdę jest.",
+  "producers": [
+    {
+      "id": "nm1615036",
+      "name": "Erik Hemmendorff"
+    },
+    {
+      "id": "nm1626587",
+      "name": "Misha Jaari"
+    },
+    {
+      "id": "nm2142125",
+      "name": "Marie Kjellson"
+    },
+    {
+      "id": "nm0502208",
+      "name": "Lise Lense-Møller"
+    },
+    {
+      "id": "nm0527859",
+      "name": "Mark Lwoff"
+    },
+    {
+      "id": "nm3345363",
+      "name": "Cecilia Valsted"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0282331",
+      "name": "Peter Flinckenberg"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,233 @@
+{
+  "imdb_id": "tt0119978",
+  "title": "The Rainmaker",
+  "description": "A Memphis law school graduate battles an insurance giant.",
+  "runtime_minutes": 135,
+  "release_date": "21.11.1997",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000354",
+      "name": "Matt Damon"
+    },
+    {
+      "id": "nm0000362",
+      "name": "Danny DeVito"
+    },
+    {
+      "id": "nm0000132",
+      "name": "Claire Danes"
+    },
+    {
+      "id": "nm0000685",
+      "name": "Jon Voight"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000338",
+      "name": "Francis Ford Coppola"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0001300",
+      "name": "John Grisham"
+    },
+    {
+      "id": "nm0000338",
+      "name": "Francis Ford Coppola"
+    },
+    {
+      "id": "nm0380282",
+      "name": "Michael Herr"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000354",
+      "name": "Matt Damon",
+      "character": "Rudy Baylor"
+    },
+    {
+      "id": "nm0000362",
+      "name": "Danny DeVito",
+      "character": "Deck Shifflet"
+    },
+    {
+      "id": "nm0000132",
+      "name": "Claire Danes",
+      "character": "Kelly Riker"
+    },
+    {
+      "id": "nm0000685",
+      "name": "Jon Voight",
+      "character": "Leo F. Drummond"
+    },
+    {
+      "id": "nm0005316",
+      "name": "Mary Kay Place",
+      "character": "Dot Black"
+    },
+    {
+      "id": "nm0001777",
+      "name": "Dean Stockwell",
+      "character": "Judge Harvey Hale"
+    },
+    {
+      "id": "nm0942863",
+      "name": "Teresa Wright",
+      "character": "Miss Birdie"
+    },
+    {
+      "id": "nm0000515",
+      "name": "Virginia Madsen",
+      "character": "Jackie Lemancyzk"
+    },
+    {
+      "id": "nm0000620",
+      "name": "Mickey Rourke",
+      "character": "Bruiser Stone"
+    },
+    {
+      "id": "nm0795576",
+      "name": "Andrew Shue",
+      "character": "Cliff Riker"
+    },
+    {
+      "id": "nm0922307",
+      "name": "Red West",
+      "character": "Buddy Black"
+    },
+    {
+      "id": "nm0926615",
+      "name": "Johnny Whitworth",
+      "character": "Donny Ray Black"
+    },
+    {
+      "id": "nm0256572",
+      "name": "Wayne Emmons",
+      "character": "Prince Thomas"
+    },
+    {
+      "id": "nm0730803",
+      "name": "Adrian Roberts",
+      "character": "Butch"
+    },
+    {
+      "id": "nm0001702",
+      "name": "Roy Scheider",
+      "character": "Wilfred Keeley"
+    },
+    {
+      "id": "nm0871430",
+      "name": "Randy Travis",
+      "character": "Billy Porter"
+    },
+    {
+      "id": "nm0320752",
+      "name": "Michael Girardin",
+      "character": "Everett Lufkin"
+    },
+    {
+      "id": "nm0455168",
+      "name": "Randall King",
+      "character": "Jack Underhall"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 10785,
+  "year": 1997,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDY3ZjBjNjAtMjJiMS00MGI5LTk3ZDItNDcxYjI4Y2MyN2RhXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.2,
+      "votes": 92750,
+      "distribution": {
+        "1": 482,
+        "2": 230,
+        "3": 495,
+        "4": 1171,
+        "5": 3875,
+        "6": 13332,
+        "7": 35860,
+        "8": 24188,
+        "9": 7643,
+        "10": 5474
+      },
+      "normalized": 5.909
+    },
+    "filmweb": {
+      "rating": 7.38,
+      "votes": 16920,
+      "distribution": {
+        "1": 27,
+        "2": 20,
+        "3": 58,
+        "4": 152,
+        "5": 534,
+        "6": 1961,
+        "7": 6134,
+        "8": 6069,
+        "9": 1475,
+        "10": 490
+      },
+      "normalized": 6.4073
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "26.09.2025",
+      "normalized": 5.4199
+    },
+    "score": 5.9121
+  },
+  "polish_title": "Zaklinacz deszczu",
+  "silent": false,
+  "description_pl": "Rudy Baylor, świeżo upieczony prawnik, staje oko w oko z potężnym towarzystwem ubezpieczeniowym Great Benefit, które nie chce pokryć kosztów leczenia chłopca chorego na białaczkę. Kiedy jednak sprawa trafia do sądu, towarzystwo proponuje wartą 75 tys. dolarów ugodę. Intuicja Rudyego podpowiada mu jednak, aby się na to nie godzić, gdyż właśnie wpadł na trop wielkiej afery. Rozpoczyna się trudny i zawiły proces sądowy, w którym bohater musi stawić czoła rzeszy prawników wynajętej przez towarzystwo.",
+  "producers": [
+    {
+      "id": "nm0000140",
+      "name": "Michael Douglas"
+    },
+    {
+      "id": "nm0297209",
+      "name": "Fred Fuchs"
+    },
+    {
+      "id": "nm0434133",
+      "name": "Georgia Kacandes"
+    },
+    {
+      "id": "nm0546110",
+      "name": "Gary Marcus"
+    },
+    {
+      "id": "nm0720715",
+      "name": "Steven Reuther"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0000930",
+      "name": "Elmer Bernstein"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0001799",
+      "name": "John Toll"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

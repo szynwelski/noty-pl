@@ -1,0 +1,266 @@
+{
+  "imdb_id": "tt1136608",
+  "title": "District 9",
+  "description": "In a future Earth in which aliens are isolated in a remote ghetto, a government agent finds himself banished there.",
+  "runtime_minutes": 112,
+  "release_date": "14.08.2009",
+  "genres": [
+    "Action",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm1663205",
+      "name": "Sharlto Copley"
+    },
+    {
+      "id": "nm3107870",
+      "name": "David James"
+    },
+    {
+      "id": "nm2271261",
+      "name": "Jason Cope"
+    },
+    {
+      "id": "nm3241306",
+      "name": "Vanessa Haywood"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0088955",
+      "name": "Neill Blomkamp"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0088955",
+      "name": "Neill Blomkamp"
+    },
+    {
+      "id": "nm2833612",
+      "name": "Terri Tatchell"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1663205",
+      "name": "Sharlto Copley",
+      "character": "Wikus van de Merwe"
+    },
+    {
+      "id": "nm3107870",
+      "name": "David James",
+      "character": "Koobus Venter"
+    },
+    {
+      "id": "nm2271261",
+      "name": "Jason Cope",
+      "character": "Grey Bradnam - UKNR Chief Correspondent"
+    },
+    {
+      "id": "nm3241306",
+      "name": "Vanessa Haywood",
+      "character": "Tania van de Merwe"
+    },
+    {
+      "id": "nm3267184",
+      "name": "Mandla Gaduka",
+      "character": "Fundiswa Mhlanga"
+    },
+    {
+      "id": "nm1970380",
+      "name": "Kenneth Nkosi",
+      "character": "Thomas"
+    },
+    {
+      "id": "nm3392525",
+      "name": "Eugene Khumbanyiwa",
+      "character": "Obesandjo"
+    },
+    {
+      "id": "nm3227023",
+      "name": "Louis Minnaar",
+      "character": "Piet Smit"
+    },
+    {
+      "id": "nm0950165",
+      "name": "William Allen Young",
+      "character": "Dirk Michaels"
+    },
+    {
+      "id": "nm1410076",
+      "name": "Nat Boltt",
+      "character": "Sarah Livingstone - Sociologist"
+    },
+    {
+      "id": "nm0834501",
+      "name": "Sylvaine Strike",
+      "character": "Dr Katrina McKenzie"
+    },
+    {
+      "id": "nm3522550",
+      "name": "Elizabeth Mkandawie",
+      "character": "Interviewee"
+    },
+    {
+      "id": "nm0838605",
+      "name": "John Sumner",
+      "character": "Les Feldman - MIL Engineer"
+    },
+    {
+      "id": "nm0578458",
+      "name": "Greg Melvill-Smith",
+      "character": "Interviewer"
+    },
+    {
+      "id": "nm1693223",
+      "name": "Nick Blake",
+      "character": "Francois Moraneu - CIV Engineer Team"
+    },
+    {
+      "id": "nm3522267",
+      "name": "Morena Busa Sesatsa",
+      "character": "Interviewee"
+    },
+    {
+      "id": "nm3522165",
+      "name": "Themba Nkosi",
+      "character": "Interviewee"
+    },
+    {
+      "id": "nm3521239",
+      "name": "Mzwandile Nqoba",
+      "character": "Interviewee"
+    }
+  ],
+  "countries": [
+    "South Africa",
+    "United States",
+    "New Zealand",
+    "Canada"
+  ],
+  "languages": [
+    "English",
+    "Nyanja",
+    "Afrikaans",
+    "Zulu",
+    "Xhosa",
+    "Sotho"
+  ],
+  "color": "Color",
+  "filmweb_id": 464478,
+  "year": 2009,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTM4OTI1OTM5NF5BMl5BanBnXkFtZTcwMzk5MTU1Mg@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.9,
+      "votes": 756219,
+      "distribution": {
+        "1": 10043,
+        "2": 4778,
+        "3": 6853,
+        "4": 10626,
+        "5": 22012,
+        "6": 53868,
+        "7": 137540,
+        "8": 239107,
+        "9": 165375,
+        "10": 106017
+      },
+      "normalized": 7.3137
+    },
+    "filmweb": {
+      "rating": 7.1,
+      "votes": 227312,
+      "distribution": {
+        "1": 2666,
+        "2": 2101,
+        "3": 5660,
+        "4": 7372,
+        "5": 15929,
+        "6": 30823,
+        "7": 59699,
+        "8": 61894,
+        "9": 29340,
+        "10": 11828
+      },
+      "normalized": 5.8311
+    },
+    "jarek": {
+      "rating": 8,
+      "date_rated": "05.02.2010",
+      "normalized": 7.8989
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "13.12.2009",
+      "normalized": 6.3474
+    },
+    "score": 6.8478
+  },
+  "polish_title": "Dystrykt 9",
+  "silent": false,
+  "description_pl": "28 lat temu obcy przybywają na Ziemię. Ludzie oczekują na wrogi atak lub olbrzymi postęp technologiczny. Nic z tych rzeczy. Obcy stają się uchodźcami. Zostają osadzeni w prowizorycznej południowoafrykańskiej dzielnicy - \"Dystrykcie 9\", póki państwa świata nie zadecydują, co z nimi zrobić. \nTeraz cierpliwość w związku z sytuacją obcych wyczerpała się. Kontrolę nad nimi zlecono Multi-National United (MNU), prywatnej spółce nie dbającej o ich dobro - otrzymają ogromne zyski za zmuszenie ich do stworzenia niesamowitej broni. Jak dotąd zawodzą. Uruchomienie broni wymaga DNA obcych.\nNapięcie między cudzoziemcami a ludźmi osiąga punkt krytyczny. Wikus Van De Merwe (<a href=\"/osoba/?id=nm1663205\">Sharlto Copley</a>) znajduje tajemniczy wirus, który zaczyna zmieniać jego DNA. Wikus szybko zostaje najbardziej zaszczutym człowiekiem na świecie, jak również najcenniejszym - jest kluczem do odkrycia tajemnic obcej technologii. Zostaje porzucony przez przyjaciół. Jest tylko jedno miejsce, gdzie może się ukryć: \"Dystrykt 9\".",
+  "producers": [
+    {
+      "id": "nm1088848",
+      "name": "Bill Block"
+    },
+    {
+      "id": "nm0101991",
+      "name": "Philippa Boyens"
+    },
+    {
+      "id": "nm0192253",
+      "name": "Carolynne Cunningham"
+    },
+    {
+      "id": "nm0236073",
+      "name": "Trishia Downie"
+    },
+    {
+      "id": "nm2340225",
+      "name": "Elliot Ferwerda"
+    },
+    {
+      "id": "nm2352181",
+      "name": "Paul Hanson"
+    },
+    {
+      "id": "nm0001392",
+      "name": "Peter Jackson"
+    },
+    {
+      "id": "nm1353341",
+      "name": "Ken Kamins"
+    },
+    {
+      "id": "nm0003864",
+      "name": "Michael S. Murphey"
+    },
+    {
+      "id": "nm3864244",
+      "name": "Mpho Gift Twala"
+    },
+    {
+      "id": "nm6006136",
+      "name": "Mark Brooke"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0795141",
+      "name": "Clinton Shorter"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm1022001",
+      "name": "Trent Opaloch"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

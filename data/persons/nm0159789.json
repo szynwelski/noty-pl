@@ -1,0 +1,58 @@
+{
+  "id": "nm0159789",
+  "name": "Hayden Christensen",
+  "filmography": [
+    {
+      "imdb_id": "tt0159097",
+      "title": "The Virgin Suicides",
+      "year": 1999,
+      "roles": [
+        "cast"
+      ],
+      "character": "Jake Hill Conley"
+    },
+    {
+      "imdb_id": "tt0121765",
+      "title": "Star Wars: Episode II - Attack of the Clones",
+      "year": 2002,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Anakin Skywalker"
+    },
+    {
+      "imdb_id": "tt0121766",
+      "title": "Star Wars: Episode III - Revenge of the Sith",
+      "year": 2005,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Anakin Skywalker"
+    },
+    {
+      "imdb_id": "tt0489099",
+      "title": "Jumper",
+      "year": 2008,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "David Rice"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDI3ZGEzMWUtMzgzMC00ZDIxLTgzYzEtZTM5YjczMTdkNmQzXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "19.04.1981",
+  "birth_location": "Vancouver, British Columbia, Canada",
+  "height": "1.85 m",
+  "filmweb_id": 31542,
+  "name_pl": "Hayden Christensen",
+  "birth_location_pl": "Vancouver",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Kanada"
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "imdb_id": "tt0020080",
+  "title": "The Last Warning",
+  "description": "A producer decides to reopen a theater, that had been closed five years previously when one of the actors was murdered during a performance, by staging a production of the same play with the remaining members of the original cast.",
+  "runtime_minutes": 89,
+  "release_date": "25.12.1928",
+  "genres": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0478851",
+      "name": "Laura La Plante"
+    },
+    {
+      "id": "nm0002311",
+      "name": "Montagu Love"
+    },
+    {
+      "id": "nm0195460",
+      "name": "Roy D'Arcy"
+    },
+    {
+      "id": "nm0515272",
+      "name": "Margaret Livingston"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0501902",
+      "name": "Paul Leni"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0132017",
+      "name": "Wadsworth Camp"
+    },
+    {
+      "id": "nm0169879",
+      "name": "Alfred A. Cohn"
+    },
+    {
+      "id": "nm0266444",
+      "name": "Thomas F. Fallon"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0478851",
+      "name": "Laura La Plante",
+      "character": "Doris Terry"
+    },
+    {
+      "id": "nm0002311",
+      "name": "Montagu Love",
+      "character": "Arthur McHugh"
+    },
+    {
+      "id": "nm0195460",
+      "name": "Roy D'Arcy",
+      "character": "Harvey Carleton"
+    },
+    {
+      "id": "nm0515272",
+      "name": "Margaret Livingston",
+      "character": "Evalynda Hendon"
+    },
+    {
+      "id": "nm0092900",
+      "name": "John Boles",
+      "character": "Richard Quayle"
+    },
+    {
+      "id": "nm0729991",
+      "name": "Bert Roach",
+      "character": "Mike Brody"
+    },
+    {
+      "id": "nm0841501",
+      "name": "Mack Swain",
+      "character": "Robert Bunce"
+    },
+    {
+      "id": "nm0570639",
+      "name": "Burr McIntosh",
+      "character": "Josiah Bunce"
+    },
+    {
+      "id": "nm0202375",
+      "name": "Carrie Daumery",
+      "character": "Barbara Morgan"
+    },
+    {
+      "id": "nm0838843",
+      "name": "Slim Summerville",
+      "character": "Tommy Wall"
+    },
+    {
+      "id": "nm0679779",
+      "name": "Bud Phelps",
+      "character": "Sammy"
+    },
+    {
+      "id": "nm0583395",
+      "name": "Torben Meyer",
+      "character": "Gene"
+    },
+    {
+      "id": "nm0180967",
+      "name": "D'Arcy Corrigan",
+      "character": "John Woodford"
+    },
+    {
+      "id": "nm0639855",
+      "name": "Tom O'Brien",
+      "character": "Inspector"
+    },
+    {
+      "id": "nm0447043",
+      "name": "Fred Kelsey",
+      "character": "Inspector"
+    },
+    {
+      "id": "nm0294058",
+      "name": "Charles K. French",
+      "character": "Doctor"
+    },
+    {
+      "id": "nm0363545",
+      "name": "Pat Harmon",
+      "character": "Cop"
+    },
+    {
+      "id": "nm0555875",
+      "name": "Francisco Marán",
+      "character": "Jeffries"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 110661,
+  "year": 1928,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDAzYTZjYTAtZWQxMi00NWRiLWIzODAtMTQ3NTZlYzQ5YjA2XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.8,
+      "votes": 1015,
+      "distribution": {
+        "1": 30,
+        "2": 15,
+        "3": 17,
+        "4": 25,
+        "5": 59,
+        "6": 164,
+        "7": 395,
+        "8": 153,
+        "9": 77,
+        "10": 80
+      },
+      "normalized": 5.228
+    },
+    "filmweb": {
+      "rating": 7.03,
+      "votes": 90,
+      "distribution": {
+        "1": 1,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 10,
+        "6": 13,
+        "7": 29,
+        "8": 27,
+        "9": 8,
+        "10": 1
+      },
+      "normalized": 5.3089
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "19.10.2005",
+      "normalized": 5.4199
+    },
+    "score": 5.3189
+  },
+  "polish_title": "Ostatnie ostrzeżenie",
+  "silent": true,
+  "cinematographers": [
+    {
+      "id": "nm0005803",
+      "name": "Hal Mohr"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-15"
+}

@@ -1,0 +1,82 @@
+{
+  "imdb_id": "tt0229235",
+  "title": "The Barbershop",
+  "description": "Customer gets a lightning-fast shave.",
+  "runtime_minutes": 1,
+  "release_date": "1894",
+  "genres": [
+    "Documentary",
+    "Short"
+  ],
+  "directors": [
+    {
+      "id": "nm0005690",
+      "name": "William K.L. Dickson"
+    },
+    {
+      "id": "nm0374658",
+      "name": "William Heise"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 176981,
+  "year": 1893,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODQwNGVhOWUtMDY0Mi00OTBlLThjZmMtZDg2NTFkMTU4ZWE2XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.3,
+      "votes": 1331,
+      "distribution": {
+        "1": 65,
+        "2": 50,
+        "3": 69,
+        "4": 171,
+        "5": 421,
+        "6": 292,
+        "7": 136,
+        "8": 60,
+        "9": 16,
+        "10": 51
+      },
+      "normalized": 3.5084
+    },
+    "filmweb": {
+      "rating": 4.67,
+      "votes": 146,
+      "distribution": {
+        "1": 10,
+        "2": 7,
+        "3": 22,
+        "4": 19,
+        "5": 47,
+        "6": 20,
+        "7": 12,
+        "8": 6,
+        "9": 1,
+        "10": 2
+      },
+      "normalized": 3.9178
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "11.12.2016",
+      "normalized": 6.4102
+    },
+    "score": 4.6121
+  },
+  "polish_title": "The Barbershop",
+  "silent": true,
+  "description_pl": "Wnętrze zakładu fryzjerskiego. Widzimy tutaj pana, który pali papierosa. Po chwili mężczyzna zabiera się za strzyżenie włosów klienta...",
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-16"
+}

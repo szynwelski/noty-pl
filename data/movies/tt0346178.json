@@ -1,0 +1,110 @@
+{
+  "imdb_id": "tt0346178",
+  "title": "La zone",
+  "description": "About 'The Zone', a wasteland just outside Paris and a refuge to lower classes from the middle of the 19th century to the 1940's where they could build shelters and live mostly out of sight from the society.",
+  "runtime_minutes": 28,
+  "release_date": "1928",
+  "genres": [
+    "Documentary",
+    "Short"
+  ],
+  "stars": [
+    {
+      "id": "nm3068941",
+      "name": "La Goulue"
+    },
+    {
+      "id": "nm0460130",
+      "name": "Isabelle Kloucowski"
+    },
+    {
+      "id": "nm0899840",
+      "name": "Geymond Vital"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0480190",
+      "name": "Georges Lacombe"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm3068941",
+      "name": "La Goulue",
+      "character": "Self"
+    },
+    {
+      "id": "nm0460130",
+      "name": "Isabelle Kloucowski",
+      "character": "Self"
+    },
+    {
+      "id": "nm0899840",
+      "name": "Geymond Vital",
+      "character": "Self"
+    }
+  ],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 645110,
+  "year": 1928,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODY0ZmJmODQtNzFjZS00YTYzLThiNGQtNzc3ZmI4YmNiNjE3XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.9,
+      "votes": 46,
+      "distribution": {
+        "1": 3,
+        "2": 0,
+        "3": 2,
+        "4": 1,
+        "5": 6,
+        "6": 8,
+        "7": 14,
+        "8": 6,
+        "9": 5,
+        "10": 1
+      },
+      "normalized": 5.3064
+    },
+    "filmweb": {
+      "rating": 5.84,
+      "votes": 19,
+      "distribution": {
+        "2": 2,
+        "3": 0,
+        "4": 3,
+        "5": 2,
+        "6": 2,
+        "7": 7,
+        "8": 3,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 5.0351
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "13.01.2008",
+      "normalized": 5.4199
+    },
+    "score": 5.2538
+  },
+  "polish_title": "La zone",
+  "silent": true,
+  "cinematographers": [
+    {
+      "id": "nm0005838",
+      "name": "Georges Périnal"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

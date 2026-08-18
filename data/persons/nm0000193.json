@@ -1,0 +1,110 @@
+{
+  "id": "nm0000193",
+  "name": "Demi Moore",
+  "filmography": [
+    {
+      "imdb_id": "tt0099653",
+      "title": "Ghost",
+      "year": 1990,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Molly Jensen"
+    },
+    {
+      "imdb_id": "tt0104257",
+      "title": "A Few Good Men",
+      "year": 1992,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Lt. Cdr. JoAnne Galloway"
+    },
+    {
+      "imdb_id": "tt0107211",
+      "title": "Indecent Proposal",
+      "year": 1993,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Diana Murphy"
+    },
+    {
+      "imdb_id": "tt0114345",
+      "title": "The Scarlet Letter",
+      "year": 1995,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Hester Prynne"
+    },
+    {
+      "imdb_id": "tt0117765",
+      "title": "Striptease",
+      "year": 1996,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Erin Grant"
+    },
+    {
+      "imdb_id": "tt0119173",
+      "title": "G.I. Jane",
+      "year": 1997,
+      "roles": [
+        "star",
+        "cast",
+        "producer"
+      ],
+      "character": "Jordan O'Neil"
+    },
+    {
+      "imdb_id": "tt0308055",
+      "title": "Bobby",
+      "year": 2006,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Virginia"
+    },
+    {
+      "imdb_id": "tt0780571",
+      "title": "Mr. Brooks",
+      "year": 2007,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Tracy Atwood"
+    },
+    {
+      "imdb_id": "tt1615147",
+      "title": "Margin Call",
+      "year": 2011,
+      "roles": [
+        "cast"
+      ],
+      "character": "Sarah Robertson"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTc2Mjc1MDE4MV5BMl5BanBnXkFtZTcwNzAyNDczNA@@._V1_.jpg",
+  "birth_date": "11.11.1962",
+  "birth_location": "Roswell, New Mexico, USA",
+  "height": "1.65 m",
+  "filmweb_id": 198,
+  "name_pl": "Demi Moore",
+  "birth_location_pl": "Roswell, Nowy Meksyk",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 198
+}

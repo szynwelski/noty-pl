@@ -1,0 +1,42 @@
+{
+  "id": "nm0557339",
+  "name": "Raymond Massey",
+  "filmography": [
+    {
+      "imdb_id": "tt0036613",
+      "title": "Arsenic and Old Lace",
+      "year": 1944,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Jonathan Brewster"
+    },
+    {
+      "imdb_id": "tt0048028",
+      "title": "East of Eden",
+      "year": 1955,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Adam Trask"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTg3ODY2MzkyMF5BMl5BanBnXkFtZTcwMjc2NTg2OA@@._V1_.jpg",
+  "birth_date": "30.08.1896",
+  "death_date": "29.07.1983",
+  "birth_location": "Toronto, Ontario, Canada",
+  "height": "1.91 m",
+  "imdb_scraped": true,
+  "filmweb_id": 105853,
+  "name_pl": "Raymond Massey",
+  "birth_location_pl": "Toronto",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Kanada",
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 105853
+}

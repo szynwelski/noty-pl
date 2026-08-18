@@ -1,0 +1,225 @@
+{
+  "imdb_id": "tt0084602",
+  "title": "Rocky III",
+  "description": "Rocky faces the ultimate challenge from a powerful new contender, and must turn to a former rival to help regain his throne as the undisputed fighting champion.",
+  "runtime_minutes": 99,
+  "release_date": "28.05.1982",
+  "genres": [
+    "Drama",
+    "Sport"
+  ],
+  "stars": [
+    {
+      "id": "nm0000230",
+      "name": "Sylvester Stallone"
+    },
+    {
+      "id": "nm0001735",
+      "name": "Talia Shire"
+    },
+    {
+      "id": "nm0949350",
+      "name": "Burt Young"
+    },
+    {
+      "id": "nm0001835",
+      "name": "Carl Weathers"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000230",
+      "name": "Sylvester Stallone"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000230",
+      "name": "Sylvester Stallone"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000230",
+      "name": "Sylvester Stallone",
+      "character": "Rocky Balboa"
+    },
+    {
+      "id": "nm0001735",
+      "name": "Talia Shire",
+      "character": "Adrian"
+    },
+    {
+      "id": "nm0949350",
+      "name": "Burt Young",
+      "character": "Paulie"
+    },
+    {
+      "id": "nm0001835",
+      "name": "Carl Weathers",
+      "character": "Apollo Creed"
+    },
+    {
+      "id": "nm0580565",
+      "name": "Burgess Meredith",
+      "character": "Mickey Goldmill"
+    },
+    {
+      "id": "nm0123748",
+      "name": "Tony Burton",
+      "character": "Duke"
+    },
+    {
+      "id": "nm0001558",
+      "name": "Mr. T",
+      "character": "Clubber Lang"
+    },
+    {
+      "id": "nm0001356",
+      "name": "Hulk Hogan",
+      "character": "Thunderlips"
+    },
+    {
+      "id": "nm0294956",
+      "name": "Ina Fried",
+      "character": "Rocky Jr."
+    },
+    {
+      "id": "nm0759299",
+      "name": "Al Silvani",
+      "character": "Al"
+    },
+    {
+      "id": "nm0853321",
+      "name": "Wally Taylor",
+      "character": "Clubber's Manager"
+    },
+    {
+      "id": "nm0384383",
+      "name": "Jim Hill",
+      "character": "Sportscaster"
+    },
+    {
+      "id": "nm0792421",
+      "name": "Don Sherman",
+      "character": "Andy"
+    },
+    {
+      "id": "nm0416424",
+      "name": "Dennis James",
+      "character": "Wrestling Commentator"
+    },
+    {
+      "id": "nm0372331",
+      "name": "Jim Healy",
+      "character": "Wrestling Commentator"
+    },
+    {
+      "id": "nm0311484",
+      "name": "Ray Gedeon",
+      "character": "Wrestling Referee"
+    },
+    {
+      "id": "nm0186348",
+      "name": "Gene Crane",
+      "character": "Mayor"
+    },
+    {
+      "id": "nm0619555",
+      "name": "Stu Nahan",
+      "character": "Title Rematch Commentator"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 9192,
+  "year": 1982,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDYzNDQ3Y2MtODc1Zi00ZTBkLWIzZWUtOGY0NGZmYWZhMWQ5XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.9,
+      "votes": 231444,
+      "distribution": {
+        "1": 1688,
+        "2": 1172,
+        "3": 2511,
+        "4": 5472,
+        "5": 16682,
+        "6": 49707,
+        "7": 76826,
+        "8": 41350,
+        "9": 15399,
+        "10": 20637
+      },
+      "normalized": 5.423
+    },
+    "filmweb": {
+      "rating": 7.23,
+      "votes": 79593,
+      "distribution": {
+        "1": 276,
+        "2": 192,
+        "3": 715,
+        "4": 1508,
+        "5": 4553,
+        "6": 12552,
+        "7": 27159,
+        "8": 20557,
+        "9": 6773,
+        "10": 5308
+      },
+      "normalized": 6.0922
+    },
+    "jarek": {
+      "rating": 3,
+      "date_rated": "23.03.2006",
+      "normalized": 4.2591
+    },
+    "michal": {
+      "rating": 1,
+      "date_rated": "15.03.2006",
+      "normalized": 2.2657
+    },
+    "score": 4.51
+  },
+  "polish_title": "Rocky 3",
+  "silent": false,
+  "description_pl": "Po wygranej z Apollo Creedem (<a href=\"/osoba/?id=nm0001835\">Carl Weathers</a>), Rocky (<a href=\"/osoba/?id=nm0000230\">Sylvester Stallone</a>) jest okrzyknięty mistrzem i wszystko układa się po jego myśli. Spędza więcej czasu z rodziną, zaprzyjaźnia się nawet z Creedem. Jednak w pewnym pojedynku z aroganckim Clubberem Langiem (<a href=\"/osoba/?id=nm0001558\">Mr. T</a>), zostaje pokonany i cały czar pryska. Poza najbliższą rodziną, jedynie Apollo Creed nie pozostawia Rocky'ego i pomaga mu stanąć na nogi oraz doprowadza do rewanżu z Langiem...",
+  "producers": [
+    {
+      "id": "nm0115384",
+      "name": "James D. Brubaker"
+    },
+    {
+      "id": "nm0153590",
+      "name": "Robert Chartoff"
+    },
+    {
+      "id": "nm0620720",
+      "name": "Herb Nanas"
+    },
+    {
+      "id": "nm0005563",
+      "name": "Irwin Winkler"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006015",
+      "name": "Bill Conti"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0124832",
+      "name": "Bill Butler"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

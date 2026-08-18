@@ -1,0 +1,132 @@
+{
+  "imdb_id": "tt7543918",
+  "title": "August at Akiko's",
+  "description": "Musician Alex sets off to an island to find his ancestral home with only childhood memories as his navigational system. As he fails to find his home, he reaches a retreat run by a Buddhist woman, Akiko, where he decides to stay for a while. Over a course of few weeks, they share a special spiritual bond out of music and therapeutic techniques.",
+  "runtime_minutes": 75,
+  "release_date": "04.05.2018",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm3771194",
+      "name": "Alex Zhang Hungtai"
+    },
+    {
+      "id": "nm9537617",
+      "name": "Akiko Masuda"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm2794139",
+      "name": "Christopher Makoto Yogi"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm2794139",
+      "name": "Christopher Makoto Yogi"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm3771194",
+      "name": "Alex Zhang Hungtai",
+      "character": "Alex"
+    },
+    {
+      "id": "nm9537617",
+      "name": "Akiko Masuda",
+      "character": "Self"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 803010,
+  "year": 2018,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYTU4OGM0NjQtN2RkOS00NTgzLTg0YmQtOGNhODNkNDRkY2ZhXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.4,
+      "votes": 241,
+      "distribution": {
+        "1": 6,
+        "2": 8,
+        "3": 9,
+        "4": 9,
+        "5": 35,
+        "6": 56,
+        "7": 56,
+        "8": 35,
+        "9": 12,
+        "10": 15
+      },
+      "normalized": 5.0372
+    },
+    "filmweb": {
+      "rating": 6.36,
+      "votes": 47,
+      "distribution": {
+        "2": 1,
+        "3": 1,
+        "4": 4,
+        "5": 3,
+        "6": 11,
+        "7": 23,
+        "8": 1,
+        "9": 2,
+        "10": 1
+      },
+      "normalized": 5.0271
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "20.10.2018",
+      "normalized": 4.9718
+    },
+    "score": 5.012
+  },
+  "polish_title": "Sierpień u Akiko",
+  "silent": false,
+  "description_pl": "Muzyk Alex Zhang Hungtai (tworzący jako Dirty Beaches) prowadzi koczowniczy tryb życia. Przychodzi czas, by odwiedzić porzucone na długie lata rodzime Hawaje. Walizka i saksofon to wszystko, co ma ze sobą. Sam nie do końca wie, czego szuka. Trafia do buddyjskiego B&B prowadzonego przez Akiko. Kobieta pokazuje mu piękno wyspy, opowiada o własnym życiu. W miarę rozwoju ich znajomości, Alex zaczyna czuć się na Hawajach coraz bardziej komfortowo. Opowieść o kosmopolicie bez korzeni, który podczas duchowej odysei odnajduje sam siebie i swoje miejsce na ziemi.",
+  "producers": [
+    {
+      "id": "nm9625042",
+      "name": "Chris Choi"
+    },
+    {
+      "id": "nm9625041",
+      "name": "Cris Clatte"
+    },
+    {
+      "id": "nm2346355",
+      "name": "Sarah S. Kim"
+    },
+    {
+      "id": "nm1323488",
+      "name": "Vince Keala Lucero"
+    },
+    {
+      "id": "nm1701269",
+      "name": "James Sereno"
+    },
+    {
+      "id": "nm7521383",
+      "name": "Joshua Strickland"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm3771194",
+      "name": "Alex Zhang Hungtai"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

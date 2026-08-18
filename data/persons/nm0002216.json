@@ -1,0 +1,38 @@
+{
+  "id": "nm0002216",
+  "name": "Yves Robert",
+  "filmography": [
+    {
+      "imdb_id": "tt0055852",
+      "title": "Cleo from 5 to 7",
+      "year": 1962,
+      "roles": [
+        "cast"
+      ],
+      "character": "Le vendeur de mouchoirs"
+    },
+    {
+      "imdb_id": "tt0068655",
+      "title": "The Tall Blond Man with One Black Shoe",
+      "year": 1972,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYjJiMjhjOGMtZjZjOC00ZTBmLTg0Y2QtMGYyODZiNzMzZjFjXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "21.06.1920",
+  "death_date": "10.05.2002",
+  "birth_location": "Saumur, Maine-et-Loire, France",
+  "imdb_scraped": true,
+  "filmweb_id": 44737,
+  "name_pl": "Yves Robert",
+  "birth_location_pl": "Saumur",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja"
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "imdb_id": "tt4156152",
+  "title": "The Apostate",
+  "description": "An existential comedy about a Spanish man trying to apostatize from the Catholic Church.",
+  "runtime_minutes": 80,
+  "release_date": "15.10.2015",
+  "genres": [
+    "Comedy"
+  ],
+  "stars": [
+    {
+      "id": "nm6875286",
+      "name": "Álvaro Ogalla"
+    },
+    {
+      "id": "nm1007458",
+      "name": "Marta Larralde"
+    },
+    {
+      "id": "nm1036659",
+      "name": "Bárbara Lennie"
+    },
+    {
+      "id": "nm0679251",
+      "name": "Vicky Peña"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0992159",
+      "name": "Federico Veiroj"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0208508",
+      "name": "Gonzalo Delgado"
+    },
+    {
+      "id": "nm6875286",
+      "name": "Álvaro Ogalla"
+    },
+    {
+      "id": "nm0754244",
+      "name": "Nicolás Saad"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm6875286",
+      "name": "Álvaro Ogalla",
+      "character": "Gonzalo Tamayo"
+    },
+    {
+      "id": "nm1007458",
+      "name": "Marta Larralde",
+      "character": "Pilar"
+    },
+    {
+      "id": "nm1036659",
+      "name": "Bárbara Lennie",
+      "character": "Maite"
+    },
+    {
+      "id": "nm0679251",
+      "name": "Vicky Peña",
+      "character": "Madre"
+    },
+    {
+      "id": "nm0130703",
+      "name": "Juan Calot",
+      "character": "Obispo Jorge"
+    },
+    {
+      "id": "nm3183434",
+      "name": "Kaiet Rodríguez",
+      "character": "Antonio"
+    },
+    {
+      "id": "nm0314980",
+      "name": "Andrés Gertrúdix",
+      "character": "Carlos"
+    },
+    {
+      "id": "nm0166795",
+      "name": "Joaquín Climent",
+      "character": "Padre"
+    },
+    {
+      "id": "nm1851584",
+      "name": "Álvaro Roig",
+      "character": "Tío"
+    },
+    {
+      "id": "nm2284068",
+      "name": "Tino Martínez",
+      "character": "Auxiliar audiencia"
+    },
+    {
+      "id": "nm1860037",
+      "name": "Mercedes Hoyos",
+      "character": "Mujer bus"
+    },
+    {
+      "id": "nm8359327",
+      "name": "David Moreno",
+      "character": "Tamayo niño"
+    },
+    {
+      "id": "nm8359328",
+      "name": "Sara Orton",
+      "character": "Pilar niña"
+    },
+    {
+      "id": "nm6884904",
+      "name": "Rafael Rodríguez Hidalgo",
+      "character": "Guitarrista"
+    },
+    {
+      "id": "nm3698796",
+      "name": "Pepa Gracia",
+      "character": "Hermana Tamayo"
+    },
+    {
+      "id": "nm0161621",
+      "name": "Jaime Chávarri",
+      "character": "Padre Quirós"
+    },
+    {
+      "id": "nm8359329",
+      "name": "Miguel Marinas",
+      "character": ""
+    },
+    {
+      "id": "nm8359330",
+      "name": "Leo Rodríguez",
+      "character": ""
+    }
+  ],
+  "countries": [
+    "Spain",
+    "France",
+    "Uruguay"
+  ],
+  "languages": [
+    "Spanish"
+  ],
+  "color": "Color",
+  "filmweb_id": 746578,
+  "year": 2015,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYzU3ZDM4NmUtYTU2Ny00YTNmLWFmYWEtMGU0MzExMTdhMmM1XkEyXkFqcGc@._V1_.jpg",
+  "original_title": "El apóstata",
+  "ratings": {
+    "imdb": {
+      "rating": 5.7,
+      "votes": 766,
+      "distribution": {
+        "1": 29,
+        "2": 23,
+        "3": 30,
+        "4": 79,
+        "5": 147,
+        "6": 191,
+        "7": 133,
+        "8": 63,
+        "9": 21,
+        "10": 50
+      },
+      "normalized": 4.2206
+    },
+    "filmweb": {
+      "rating": 5.19,
+      "votes": 244,
+      "distribution": {
+        "1": 5,
+        "2": 6,
+        "3": 29,
+        "4": 40,
+        "5": 49,
+        "6": 62,
+        "7": 41,
+        "8": 10,
+        "9": 2,
+        "10": 0
+      },
+      "normalized": 3.8346
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "11.10.2020",
+      "normalized": 4.9718
+    },
+    "score": 4.3423
+  },
+  "polish_title": "Apostata",
+  "silent": false,
+  "producers": [
+    {
+      "id": "nm1920504",
+      "name": "Guadalupe Balaguer Trelles"
+    },
+    {
+      "id": "nm1117581",
+      "name": "Nicolas Brevière"
+    },
+    {
+      "id": "nm8153688",
+      "name": "Alejandro Crasny"
+    },
+    {
+      "id": "nm1136120",
+      "name": "Fernando Franco"
+    },
+    {
+      "id": "nm8153689",
+      "name": "Carlos Hamparzoumian"
+    },
+    {
+      "id": "nm0560870",
+      "name": "Céline Maugis"
+    },
+    {
+      "id": "nm6875286",
+      "name": "Álvaro Ogalla"
+    },
+    {
+      "id": "nm8153690",
+      "name": "Carmen Serano"
+    },
+    {
+      "id": "nm7286313",
+      "name": "Maria Martin Stanley"
+    },
+    {
+      "id": "nm0992159",
+      "name": "Federico Veiroj"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm1473216",
+      "name": "Arauco Hernández Holz"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

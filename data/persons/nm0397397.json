@@ -1,0 +1,39 @@
+{
+  "id": "nm0397397",
+  "name": "John Howard",
+  "filmography": [
+    {
+      "imdb_id": "tt0029162",
+      "title": "Lost Horizon",
+      "year": 1937,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "George Conway"
+    },
+    {
+      "imdb_id": "tt0032904",
+      "title": "The Philadelphia Story",
+      "year": 1940,
+      "roles": [
+        "cast"
+      ],
+      "character": "George Kittredge"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTg4NTkyOTA3MV5BMl5BanBnXkFtZTYwMTI0MDcy._V1_.jpg",
+  "birth_date": "14.04.1913",
+  "death_date": "19.02.1995",
+  "birth_location": "Cleveland, Ohio, USA",
+  "height": "1.79 m",
+  "imdb_scraped": true,
+  "filmweb_id": 56412,
+  "name_pl": "John Howard",
+  "birth_location_pl": "Cleveland, Ohio",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

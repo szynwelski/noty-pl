@@ -1,0 +1,129 @@
+{
+  "imdb_id": "tt33484524",
+  "title": "Válecný zpravodaj",
+  "description": "The documentary provides an insight into the life and work of one of the Czech Republic's most experienced war reporters, Martin Dorazín.",
+  "runtime_minutes": 78,
+  "release_date": "15.10.2024",
+  "genres": [
+    "Documentary"
+  ],
+  "stars": [
+    {
+      "id": "nm16918094",
+      "name": "Martin Dorazín"
+    },
+    {
+      "id": "nm16743140",
+      "name": "Oleg Tkachenko"
+    },
+    {
+      "id": "nm3313123",
+      "name": "Lucie Výborná"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0129842",
+      "name": "David Calek"
+    },
+    {
+      "id": "nm0875715",
+      "name": "Benjamin Tucek"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm16918094",
+      "name": "Martin Dorazín",
+      "character": "Self"
+    },
+    {
+      "id": "nm16743140",
+      "name": "Oleg Tkachenko",
+      "character": "Self"
+    },
+    {
+      "id": "nm3313123",
+      "name": "Lucie Výborná",
+      "character": "Self"
+    }
+  ],
+  "countries": [
+    "Czech Republic"
+  ],
+  "languages": [
+    "Czech"
+  ],
+  "color": "Color",
+  "year": 2024,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZDg3ZDI4OTYtMzcyYy00MjRmLWJjMzYtNzAxNDA5ODgzNGJjXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 10062260,
+  "ratings": {
+    "imdb": {
+      "rating": 7.3,
+      "votes": 32,
+      "distribution": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 3,
+        "5": 1,
+        "6": 6,
+        "7": 9,
+        "8": 4,
+        "9": 1,
+        "10": 7
+      },
+      "normalized": 5.3324
+    },
+    "filmweb": {
+      "rating": 6.79,
+      "votes": 24,
+      "distribution": {
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1,
+        "6": 6,
+        "7": 14,
+        "8": 3,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 5.2173
+    },
+    "jarek": {
+      "rating": 8,
+      "date_rated": "20.10.2024",
+      "normalized": 7.8989
+    },
+    "score": 6.1495
+  },
+  "polish_title": "Korespondent wojenny",
+  "silent": false,
+  "description_pl": "Dokument daje wgląd w życie i pracę jednego z najbardziej doświadczonych czeskich reporterów wojennych, Martina Dorazína. Opowiada historie ludzi w samym środku wojny. W swoich reportażach Dorazín rozmawia z tymi, którzy żyją w ciągłym strachu, często samotnie, gdy wokół nich szaleje konflikt. Ich historie pokazują siłę i odporność zwykłych ludzi w obliczu niewyobrażalnych trudności. Bez względu na pogląd na wojnę, ludzkie historie przedstawione w filmie są uniwersalne i dotykają każdego. Praca reportera wojennego jest pełna etycznych i emocjonalnych wyzwań. Film ukazuje poszukiwanie przez Dorazína równowagi między potrzebą informowania opinii publicznej a okazywaniem szacunku dla ludzkiego cierpienia. To film dla każdego, kto interesuje się etyką, dziennikarstwem i ludzkim zachowaniem w sytuacjach kryzysowych.",
+  "producers": [
+    {
+      "id": "nm1262622",
+      "name": "Václav Flegl"
+    },
+    {
+      "id": "nm12943447",
+      "name": "Nataliia Khazan"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm13410898",
+      "name": "Stroon"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0129842",
+      "name": "David Calek"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

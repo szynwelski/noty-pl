@@ -1,0 +1,60 @@
+{
+  "id": "nm0001073",
+  "name": "Courteney Cox",
+  "filmography": [
+    {
+      "imdb_id": "tt0109040",
+      "title": "Ace Ventura: Pet Detective",
+      "year": 1994,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Melissa"
+    },
+    {
+      "imdb_id": "tt0108778",
+      "title": "Friends",
+      "year": 1994,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Monica Geller"
+    },
+    {
+      "imdb_id": "tt0117571",
+      "title": "Scream",
+      "year": 1996,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Gale Weathers"
+    },
+    {
+      "imdb_id": "tt0233142",
+      "title": "3000 Miles to Graceland",
+      "year": 2001,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Cybil Waingrow"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTA4OTczNDExNDNeQTJeQWpwZ15BbWU3MDUyNTIzMTM@._V1_.jpg",
+  "birth_date": "15.06.1964",
+  "birth_location": "Birmingham, Alabama, USA",
+  "height": "1.65 m",
+  "filmweb_id": 23,
+  "name_pl": "Courteney Cox",
+  "birth_location_pl": "Birmingham, Alabama",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 23
+}

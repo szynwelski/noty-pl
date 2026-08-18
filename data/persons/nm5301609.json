@@ -1,0 +1,31 @@
+{
+  "id": "nm5301609",
+  "name": "Michael Scott",
+  "filmography": [
+    {
+      "imdb_id": "tt5783956",
+      "title": "When We First Met",
+      "year": 2018,
+      "roles": [
+        "cast"
+      ],
+      "character": "Garçonne"
+    },
+    {
+      "imdb_id": "tt21382296",
+      "title": "Carry-On",
+      "year": 2024,
+      "roles": [
+        "cast"
+      ],
+      "character": "Samir"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYjcxNzNmYmMtYzhlNS00ZGJhLWE1NjItMDJkMmMwZTdkNzMyXkEyXkFqcGc@._V1_.jpg",
+  "imdb_scraped": true,
+  "filmweb_id": 1939842,
+  "name_pl": "Michael Scott",
+  "birth_location_pl": "Fort Hood (obecnie Fort Cavazos), Teksas",
+  "gender": "M",
+  "wikidata_processed": true
+}

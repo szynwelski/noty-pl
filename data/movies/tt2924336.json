@@ -1,0 +1,171 @@
+{
+  "imdb_id": "tt2924336",
+  "title": "The Gambler",
+  "description": "Paramedic Vincentas is a passionate gambler, who is forced to make radical decisions to return the debts. An idea strikes Vincentas to create an illegal game related to his profession. Love, life and death will be at stake.",
+  "runtime_minutes": 109,
+  "release_date": "2015",
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm4482485",
+      "name": "Vytautas Kaniusonis"
+    },
+    {
+      "id": "nm1671544",
+      "name": "Oona Mekas"
+    },
+    {
+      "id": "nm5680248",
+      "name": "Rimas Blockis"
+    },
+    {
+      "id": "nm4061369",
+      "name": "Giedre Giedraityte"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm2061225",
+      "name": "Ignas Jonynas"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm2061225",
+      "name": "Ignas Jonynas"
+    },
+    {
+      "id": "nm5680540",
+      "name": "Kristupas Sabolius"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm4482485",
+      "name": "Vytautas Kaniusonis",
+      "character": "Vincentas"
+    },
+    {
+      "id": "nm1671544",
+      "name": "Oona Mekas",
+      "character": "Ieva"
+    },
+    {
+      "id": "nm5680248",
+      "name": "Rimas Blockis",
+      "character": "Dambrauskas"
+    },
+    {
+      "id": "nm4061369",
+      "name": "Giedre Giedraityte",
+      "character": "Zinaida"
+    },
+    {
+      "id": "nm3042147",
+      "name": "Valerijus Jevsejevas",
+      "character": "Kaziukas"
+    },
+    {
+      "id": "nm5679541",
+      "name": "Lukas Kersys",
+      "character": "Poviliukas"
+    },
+    {
+      "id": "nm5680298",
+      "name": "Romuald Lavrynovic",
+      "character": "Bogdanas"
+    },
+    {
+      "id": "nm4534033",
+      "name": "Simas Lindesis",
+      "character": "Liubartas"
+    },
+    {
+      "id": "nm4098290",
+      "name": "Arturas Sablauskas",
+      "character": "Antanas"
+    },
+    {
+      "id": "nm0883319",
+      "name": "Jonas Vaitkus",
+      "character": "Skirutis"
+    }
+  ],
+  "countries": [
+    "Lithuania"
+  ],
+  "languages": [
+    "Lithuanian"
+  ],
+  "color": "Color",
+  "filmweb_id": 693951,
+  "year": 2013,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjMwMDQzMzM5Ml5BMl5BanBnXkFtZTgwNzQyNzE4MDE@._V1_.jpg",
+  "original_title": "Losejas",
+  "ratings": {
+    "imdb": {
+      "rating": 7.1,
+      "votes": 1772,
+      "distribution": {
+        "1": 79,
+        "2": 29,
+        "3": 36,
+        "4": 58,
+        "5": 101,
+        "6": 225,
+        "7": 359,
+        "8": 344,
+        "9": 210,
+        "10": 331
+      },
+      "normalized": 5.6374
+    },
+    "filmweb": {
+      "rating": 5.92,
+      "votes": 254,
+      "distribution": {
+        "2": 4,
+        "3": 18,
+        "4": 21,
+        "5": 40,
+        "6": 78,
+        "7": 67,
+        "8": 16,
+        "9": 7,
+        "10": 3
+      },
+      "normalized": 4.3121
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "30.11.2016",
+      "normalized": 7.1247
+    },
+    "score": 5.6914
+  },
+  "polish_title": "Hazardzista",
+  "silent": false,
+  "description_pl": "Sanitariusz Vincentas ma poważny problem. Jest hazardzistą, który, gdy ma nóż na gardle, potrafi założyć się o wszystko. Byleby tylko wyjść z długów, których wciąż ma wiele. Dochodzi w końcu do tego, że wpada na pomysł, by do zakładów wykorzystać swój zawód. Organizuje nielegalne zakłady, w których stawką są życie i śmierć. Początkowo wtajemnicza tylko kolegów z pracy. Interes kręci się nie najgorzej i szybko zatacza coraz szersze kręgi. Wkrótce koledzy stają się agentami przyjmującymi zakłady, a Vincentas trzyma bank. Kiedy sprawy finansowe idą ku lepszemu, na horyzoncie pojawia się kobieta. Zaczyna się pełen pasji związek między Vincentasem i Ievą. Wkrótce Vincentas stanie przed wyborem - gra czy miłość.",
+  "producers": [
+    {
+      "id": "nm0453721",
+      "name": "Uljana Kim"
+    },
+    {
+      "id": "nm3274846",
+      "name": "Roberts Vinovskis"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm1212845",
+      "name": "Janis Eglitis"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

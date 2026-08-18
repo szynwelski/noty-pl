@@ -1,0 +1,40 @@
+{
+  "id": "nm0598229",
+  "name": "Meredith Monk",
+  "filmography": [
+    {
+      "imdb_id": "tt0205038",
+      "title": "Ellis Island",
+      "year": 1982,
+      "roles": [
+        "director",
+        "writer",
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt0204913",
+      "title": "Book of Days",
+      "year": 1989,
+      "roles": [
+        "director",
+        "writer",
+        "cast",
+        "composer"
+      ],
+      "character": "Madwoman"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjM2MDYwMzg5NV5BMl5BanBnXkFtZTgwMjA0NjY2MDE@._V1_.jpg",
+  "birth_date": "20.11.1942",
+  "birth_location": "New York City, New York, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 11954,
+  "name_pl": "Meredith Monk",
+  "birth_location_pl": "Lima",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

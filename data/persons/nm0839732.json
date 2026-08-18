@@ -1,0 +1,43 @@
+{
+  "id": "nm0839732",
+  "name": "Bruce Surtees",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BN2JmNjhlYWQtM2U0YS00YmYxLWFkMDYtODIyMDIwNjM2ZjRmXkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0066999",
+      "title": "Dirty Harry",
+      "year": 1971,
+      "roles": [
+        "cinematographer"
+      ]
+    },
+    {
+      "imdb_id": "tt0079116",
+      "title": "Escape from Alcatraz",
+      "year": 1979,
+      "roles": [
+        "cinematographer"
+      ]
+    },
+    {
+      "imdb_id": "tt0086960",
+      "title": "Beverly Hills Cop",
+      "year": 1984,
+      "roles": [
+        "cinematographer"
+      ]
+    }
+  ],
+  "birth_date": "03.08.1937",
+  "death_date": "23.02.2012",
+  "birth_location": "Los Angeles, California, USA",
+  "filmweb_id": 41589,
+  "name_pl": "Bruce Surtees",
+  "birth_location_pl": "Los Angeles, Kalifornia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

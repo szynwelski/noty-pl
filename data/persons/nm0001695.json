@@ -1,0 +1,50 @@
+{
+  "id": "nm0001695",
+  "name": "George Sanders",
+  "filmography": [
+    {
+      "imdb_id": "tt0032976",
+      "title": "Rebecca",
+      "year": 1940,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Jack Favell"
+    },
+    {
+      "imdb_id": "tt0042192",
+      "title": "All About Eve",
+      "year": 1950,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Addison DeWitt"
+    },
+    {
+      "imdb_id": "tt0061852",
+      "title": "The Jungle Book",
+      "year": 1967,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Shere Khan the Tiger"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTgyODU3MDQ4NV5BMl5BanBnXkFtZTcwOTgwOTkxOA@@._V1_.jpg",
+  "birth_date": "03.07.1906",
+  "death_date": "25.04.1972",
+  "birth_location": "St. Petersburg, Russian Empire [now Russia]",
+  "height": "1.89 m",
+  "filmweb_id": 41290,
+  "name_pl": "George Sanders",
+  "birth_location_pl": "Petersburg",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ]
+}

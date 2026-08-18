@@ -1,0 +1,44 @@
+{
+  "id": "nm0006246",
+  "name": "A.R. Rahman",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTcxMTM3NTA1NF5BMl5BanBnXkFtZTcwNjAyODQzMg@@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0405508",
+      "title": "Rang De Basanti",
+      "year": 2006,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt1010048",
+      "title": "Slumdog Millionaire",
+      "year": 2008,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt1542344",
+      "title": "127 Hours",
+      "year": 2010,
+      "roles": [
+        "composer"
+      ]
+    }
+  ],
+  "birth_date": "06.01.1967",
+  "birth_location": "Madras, Madras State, India",
+  "height": "1.65 m",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Indie"
+  ],
+  "filmweb_id": 61542,
+  "wikidata_fw_id": 61542,
+  "gender": "M",
+  "name_pl": "A.R. Rahman",
+  "birth_location_pl": "Madras (obecnie Ćennaj)"
+}

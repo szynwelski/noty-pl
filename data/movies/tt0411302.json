@@ -1,0 +1,120 @@
+{
+  "imdb_id": "tt0411302",
+  "title": "Doodlebug",
+  "description": "In his squalid apartment, a man tries to squash with his shoe an insect of some kind that is moving around the room.",
+  "runtime_minutes": 3,
+  "release_date": "1997",
+  "genres": [
+    "Short",
+    "Fantasy",
+    "Mystery"
+  ],
+  "stars": [
+    {
+      "id": "nm0857458",
+      "name": "Jeremy Theobald"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0634240",
+      "name": "Christopher Nolan"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0634240",
+      "name": "Christopher Nolan"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0857458",
+      "name": "Jeremy Theobald",
+      "character": "The Man"
+    }
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 169515,
+  "year": 1997,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNGYyMmIwNzYtMzU5Ni00NjkzLWI2ZTYtNzAzZTViNTUxMDI0XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7,
+      "votes": 20497,
+      "distribution": {
+        "1": 284,
+        "2": 151,
+        "3": 236,
+        "4": 579,
+        "5": 1279,
+        "6": 3351,
+        "7": 6993,
+        "8": 4241,
+        "9": 1437,
+        "10": 1946
+      },
+      "normalized": 5.5264
+    },
+    "filmweb": {
+      "rating": 6.39,
+      "votes": 5325,
+      "distribution": {
+        "1": 43,
+        "2": 26,
+        "3": 94,
+        "4": 241,
+        "5": 653,
+        "6": 1605,
+        "7": 1803,
+        "8": 650,
+        "9": 120,
+        "10": 90
+      },
+      "normalized": 4.1472
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "14.07.2023",
+      "normalized": 6.3474
+    },
+    "score": 5.3403
+  },
+  "polish_title": "Doodlebug",
+  "silent": false,
+  "description_pl": "Jeden z trzech krótkich filmów zrealizowanych przez <a href=\"/osoba/?id=nm0634240\">Christophera Nolana</a> w okresie studiów na University College w Londynie. W skromnym mieszkaniu mężczyzna za pomocą trzymanego w dłoniach buta stara się zgnieść małą istotę biegającą po podłodze. Chwilę później role ulegają odwróceniu.",
+  "producers": [
+    {
+      "id": "nm0634240",
+      "name": "Christopher Nolan"
+    },
+    {
+      "id": "nm0834104",
+      "name": "Steve Street"
+    },
+    {
+      "id": "nm0858799",
+      "name": "Emma Thomas"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0432382",
+      "name": "David Julyan"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0634240",
+      "name": "Christopher Nolan"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

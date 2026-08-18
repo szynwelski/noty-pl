@@ -1,0 +1,199 @@
+{
+  "imdb_id": "tt0020228",
+  "title": "Les nouveaux messieurs",
+  "description": "A theater electrician's love to a ballet dancer is tested when he is elected minister.",
+  "runtime_minutes": 135,
+  "release_date": "05.04.1929",
+  "genres": [
+    "Comedy"
+  ],
+  "stars": [
+    {
+      "id": "nm0605851",
+      "name": "Gaby Morlay"
+    },
+    {
+      "id": "nm0746008",
+      "name": "Henry Roussel"
+    },
+    {
+      "id": "nm0699522",
+      "name": "Albert Préjean"
+    },
+    {
+      "id": "nm0273914",
+      "name": "Guy Ferrant"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0275494",
+      "name": "Jacques Feyder"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0188544",
+      "name": "Francis de Croisset"
+    },
+    {
+      "id": "nm0281890",
+      "name": "Robert de Flers"
+    },
+    {
+      "id": "nm0275494",
+      "name": "Jacques Feyder"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0605851",
+      "name": "Gaby Morlay",
+      "character": "Susanne Verrier"
+    },
+    {
+      "id": "nm0746008",
+      "name": "Henry Roussel",
+      "character": "Comte de Montoire-Grandpré"
+    },
+    {
+      "id": "nm0699522",
+      "name": "Albert Préjean",
+      "character": "Jacques Gaillac"
+    },
+    {
+      "id": "nm0273914",
+      "name": "Guy Ferrant",
+      "character": "Le journaliste"
+    },
+    {
+      "id": "nm0883515",
+      "name": "Henri Valbel",
+      "character": "Le député Morin"
+    },
+    {
+      "id": "nm0036182",
+      "name": "Léon Arvel",
+      "character": "Le Président"
+    },
+    {
+      "id": "nm0357890",
+      "name": "Gustave Hamilton",
+      "character": "L' Huissier"
+    },
+    {
+      "id": "nm0219013",
+      "name": "Georges Deneubourg",
+      "character": "De Courcieux"
+    },
+    {
+      "id": "nm0621487",
+      "name": "Raymond Narlay",
+      "character": "Le Chef de Cabinet"
+    },
+    {
+      "id": "nm0057620",
+      "name": "Charles Barrois",
+      "character": "Le directeur du théâtre"
+    },
+    {
+      "id": "nm0134564",
+      "name": "Andrée Canti",
+      "character": "Julie"
+    },
+    {
+      "id": "nm5077252",
+      "name": "Yvonne Dumas",
+      "character": "Bit Player"
+    },
+    {
+      "id": "nm0239785",
+      "name": "Duchange",
+      "character": "Bit Part"
+    },
+    {
+      "id": "nm5077258",
+      "name": "Fred Gastal",
+      "character": "Bit Player"
+    },
+    {
+      "id": "nm0951260",
+      "name": "Yvonneck",
+      "character": "Bit Part"
+    },
+    {
+      "id": "nm0350786",
+      "name": "Christian Gérard",
+      "character": ""
+    },
+    {
+      "id": "nm0989809",
+      "name": "Louis Pré Fils",
+      "character": "Bit Part"
+    },
+    {
+      "id": "nm5077292",
+      "name": "Marechkine",
+      "character": "Bit Part"
+    }
+  ],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "None",
+    "French"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 121312,
+  "year": 1929,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BN2NhNGYwNTItM2Q3YS00ZGRiLTg0ODQtZmQ4Y2EzZGQzNDdjXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.8,
+      "votes": 205,
+      "distribution": {
+        "1": 4,
+        "2": 2,
+        "3": 8,
+        "4": 5,
+        "5": 23,
+        "6": 38,
+        "7": 62,
+        "8": 36,
+        "9": 10,
+        "10": 17
+      },
+      "normalized": 5.2781
+    },
+    "filmweb": {
+      "rating": 5.38,
+      "votes": 8,
+      "distribution": {
+        "2": 0,
+        "3": 1,
+        "4": 1,
+        "5": 2,
+        "6": 2,
+        "7": 2,
+        "8": 0,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 5.1057
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "19.10.2005",
+      "normalized": 4.5781
+    },
+    "score": 4.9873
+  },
+  "polish_title": "Les Nouveaux messieurs",
+  "silent": true,
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-15"
+}

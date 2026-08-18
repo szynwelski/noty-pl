@@ -1,0 +1,225 @@
+{
+  "imdb_id": "tt0062765",
+  "title": "Bullitt",
+  "description": "A nonconformist San Francisco cop is determined to find the underworld kingpin who killed the witness under his protection.",
+  "runtime_minutes": 114,
+  "release_date": "17.10.1968",
+  "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000537",
+      "name": "Steve McQueen"
+    },
+    {
+      "id": "nm0000302",
+      "name": "Jacqueline Bisset"
+    },
+    {
+      "id": "nm0001816",
+      "name": "Robert Vaughn"
+    },
+    {
+      "id": "nm0330150",
+      "name": "Don Gordon"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0946811",
+      "name": "Peter Yates"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0874450",
+      "name": "Alan Trustman"
+    },
+    {
+      "id": "nm0166027",
+      "name": "Harry Kleiner"
+    },
+    {
+      "id": "nm0279302",
+      "name": "Robert L. Fish"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000537",
+      "name": "Steve McQueen",
+      "character": "Det. Lt. Frank Bullitt"
+    },
+    {
+      "id": "nm0000302",
+      "name": "Jacqueline Bisset",
+      "character": "Cathy"
+    },
+    {
+      "id": "nm0001816",
+      "name": "Robert Vaughn",
+      "character": "Walter Chalmers"
+    },
+    {
+      "id": "nm0330150",
+      "name": "Don Gordon",
+      "character": "Det. Delgetti"
+    },
+    {
+      "id": "nm0000380",
+      "name": "Robert Duvall",
+      "character": "Weissberg - Cab Driver"
+    },
+    {
+      "id": "nm0643000",
+      "name": "Simon Oakland",
+      "character": "Captain Sam Bennet"
+    },
+    {
+      "id": "nm0001205",
+      "name": "Norman Fell",
+      "character": "Captain Baker"
+    },
+    {
+      "id": "nm0113617",
+      "name": "Georg Stanford Brown",
+      "character": "Dr. Willard"
+    },
+    {
+      "id": "nm0850607",
+      "name": "Justin Tarr",
+      "character": "Eddy - Defense Lawyer"
+    },
+    {
+      "id": "nm0717947",
+      "name": "Carl Reindel",
+      "character": "Det. Carl Stanton"
+    },
+    {
+      "id": "nm0649939",
+      "name": "Felice Orlandi",
+      "character": "Albert Renick"
+    },
+    {
+      "id": "nm0851861",
+      "name": "Vic Tayback",
+      "character": "Pete Ross"
+    },
+    {
+      "id": "nm0513868",
+      "name": "Robert Lipton",
+      "character": "Chalmers' 1st Aide"
+    },
+    {
+      "id": "nm0669653",
+      "name": "Ed Peck",
+      "character": "Westcott"
+    },
+    {
+      "id": "nm0719466",
+      "name": "Pat Renella",
+      "character": "John Ross"
+    },
+    {
+      "id": "nm0312835",
+      "name": "Paul Genge",
+      "character": "Mike - Hitman"
+    },
+    {
+      "id": "nm0032501",
+      "name": "John Aprea",
+      "character": "Killer"
+    },
+    {
+      "id": "nm0154811",
+      "name": "Al Checco",
+      "character": "Hotel Desk Clerk"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": null,
+  "filmweb_id": 4376,
+  "year": 1968,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYTA0ZjRhNjgtYWNlMC00Y2U4LTg1OGEtMTU4NGM1MTRjZGUyXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.4,
+      "votes": 81578,
+      "distribution": {
+        "1": 444,
+        "2": 244,
+        "3": 539,
+        "4": 1214,
+        "5": 3154,
+        "6": 9529,
+        "7": 24174,
+        "8": 24947,
+        "9": 9345,
+        "10": 7988
+      },
+      "normalized": 6.2431
+    },
+    "filmweb": {
+      "rating": 7.41,
+      "votes": 20543,
+      "distribution": {
+        "1": 47,
+        "2": 33,
+        "3": 126,
+        "4": 296,
+        "5": 958,
+        "6": 2614,
+        "7": 6406,
+        "8": 6494,
+        "9": 2391,
+        "10": 1178
+      },
+      "normalized": 6.4942
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "03.12.2006",
+      "normalized": 7.2292
+    },
+    "score": 6.6555
+  },
+  "polish_title": "Bullitt",
+  "silent": false,
+  "description_pl": "Detektyw Frank Bullitt (<a href=\"/osoba/?id=nm0000537\">Steve McQueen)</a> otrzymuje rozkaz ochrony człowieka, który ma składać zeznania przeciwko mafii. Niestety, informator ginie, a wszystko wskazuje na to, że zabójstwo zlecił ktoś z policji, kto dokładnie wiedział, gdzie świadek jest przetrzymywany. Bullitt postanawia go odnaleźć, ale tym samym czyni sobie wrogów nie tylko z mafii, ale również policji.",
+  "producers": [
+    {
+      "id": "nm0195358",
+      "name": "Philip D'Antoni"
+    },
+    {
+      "id": "nm0718850",
+      "name": "Robert E. Relyea"
+    },
+    {
+      "id": "nm0000537",
+      "name": "Steve McQueen"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006277",
+      "name": "Lalo Schifrin"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005710",
+      "name": "William A. Fraker"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

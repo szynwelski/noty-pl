@@ -1,0 +1,38 @@
+{
+  "id": "nm0001501",
+  "name": "Louis Malle",
+  "filmography": [
+    {
+      "imdb_id": "tt0051378",
+      "title": "Elevator to the Gallows",
+      "year": 1958,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0052556",
+      "title": "The Lovers",
+      "year": 1958,
+      "roles": [
+        "director"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYTlhZmE4NjAtZjAzZC00ZTNlLThjNWMtN2RkN2Q0YTI2NTNhXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "30.10.1932",
+  "death_date": "23.11.1995",
+  "birth_location": "Thumeries, Nord, France",
+  "height": "1.68 m",
+  "imdb_scraped": true,
+  "filmweb_id": 51904,
+  "name_pl": "Louis Malle",
+  "birth_location_pl": "Thumeries",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja"
+  ],
+  "wikidata_fw_id": 51904
+}

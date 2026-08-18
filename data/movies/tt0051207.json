@@ -1,0 +1,218 @@
+{
+  "imdb_id": "tt0051207",
+  "title": "The Wrong Man",
+  "description": "In 1953, an innocent man named Christopher Emanuel \"Manny\" Balestrero is arrested after being mistaken for an armed robber.",
+  "runtime_minutes": 105,
+  "release_date": "26.01.1957",
+  "genres": [
+    "Drama",
+    "Film-Noir"
+  ],
+  "stars": [
+    {
+      "id": "nm0000020",
+      "name": "Henry Fonda"
+    },
+    {
+      "id": "nm0587256",
+      "name": "Vera Miles"
+    },
+    {
+      "id": "nm0703033",
+      "name": "Anthony Quayle"
+    },
+    {
+      "id": "nm0831905",
+      "name": "Harold J. Stone"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000033",
+      "name": "Alfred Hitchcock"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0027173",
+      "name": "Maxwell Anderson"
+    },
+    {
+      "id": "nm0534191",
+      "name": "Angus MacPhail"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000020",
+      "name": "Henry Fonda",
+      "character": "Christopher Emanuel 'Manny' Balestrero"
+    },
+    {
+      "id": "nm0587256",
+      "name": "Vera Miles",
+      "character": "Rose Balestrero"
+    },
+    {
+      "id": "nm0703033",
+      "name": "Anthony Quayle",
+      "character": "Frank D. O'Connor"
+    },
+    {
+      "id": "nm0831905",
+      "name": "Harold J. Stone",
+      "character": "Det. Lt. Bowers"
+    },
+    {
+      "id": "nm0177927",
+      "name": "Charles Cooper",
+      "character": "Det. Matthews"
+    },
+    {
+      "id": "nm0374939",
+      "name": "John Heldabrand",
+      "character": "Tomasini - Prosecutor"
+    },
+    {
+      "id": "nm0591034",
+      "name": "Esther Minciotti",
+      "character": "Mama Balestrero"
+    },
+    {
+      "id": "nm0485729",
+      "name": "Doreen Lang",
+      "character": "Ann James"
+    },
+    {
+      "id": "nm0057202",
+      "name": "Laurinda Barrett",
+      "character": "Constance Willis"
+    },
+    {
+      "id": "nm0175337",
+      "name": "Norma Connolly",
+      "character": "Betty Todd"
+    },
+    {
+      "id": "nm0675490",
+      "name": "Nehemiah Persoff",
+      "character": "Gene Conforti"
+    },
+    {
+      "id": "nm0195340",
+      "name": "Lola D'Annunzio",
+      "character": "Olga Conforti - Manny's Sister"
+    },
+    {
+      "id": "nm0132651",
+      "name": "Kippy Campbell",
+      "character": "Robert Balestrero"
+    },
+    {
+      "id": "nm0261348",
+      "name": "Robert Essen",
+      "character": "Gregory Balestrero"
+    },
+    {
+      "id": "nm0730448",
+      "name": "Richard Robbins",
+      "character": "Daniel - the Guilty Man"
+    },
+    {
+      "id": "nm0525940",
+      "name": "Dayton Lummis",
+      "character": "Judge Groat"
+    },
+    {
+      "id": "nm0916423",
+      "name": "Peggy Webber",
+      "character": "Alice Dennerly"
+    },
+    {
+      "id": "nm0000033",
+      "name": "Alfred Hitchcock",
+      "character": "Self - Prologue Narrator"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Italian",
+    "Spanish"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 11042,
+  "year": 1956,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZGZhZjlkN2MtYmE2Ni00YmRkLTkwNjMtNTFjMzFkZWNlYzg2XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.4,
+      "votes": 34997,
+      "distribution": {
+        "1": 178,
+        "2": 106,
+        "3": 209,
+        "4": 473,
+        "5": 1404,
+        "6": 4252,
+        "7": 11309,
+        "8": 10641,
+        "9": 3727,
+        "10": 2698
+      },
+      "normalized": 6.2249
+    },
+    "filmweb": {
+      "rating": 7.25,
+      "votes": 3338,
+      "distribution": {
+        "1": 20,
+        "2": 8,
+        "3": 26,
+        "4": 60,
+        "5": 177,
+        "6": 459,
+        "7": 1163,
+        "8": 968,
+        "9": 242,
+        "10": 215
+      },
+      "normalized": 6.0069
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "27.07.2012",
+      "normalized": 6.4102
+    },
+    "score": 6.214
+  },
+  "polish_title": "Niewłaściwy człowiek",
+  "silent": false,
+  "description_pl": "Żona Manny`ego Balestrero, Rose, skarży się na ból zębów, ale na wizytę do dentysty brakuje jej pieniędzy. Mężczyzna postanawia pożyczyć gotówkę w firmie ubezpieczeniowej, w której Rose ma wykupioną polisę. Urzędnicy mylnie go identyfikują jako poszukiwanego złodzieja, który rok wcześniej napadł na firmę. Manny zostaje aresztowany.",
+  "producers": [
+    {
+      "id": "nm0171050",
+      "name": "Herbert Coleman"
+    },
+    {
+      "id": "nm0000033",
+      "name": "Alfred Hitchcock"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0002136",
+      "name": "Bernard Herrmann"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0122079",
+      "name": "Robert Burks"
+    }
+  ],
+  "fetched_at": "2026-08-15"
+}

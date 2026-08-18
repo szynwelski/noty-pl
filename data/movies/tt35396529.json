@@ -1,0 +1,255 @@
+{
+  "imdb_id": "tt35396529",
+  "title": "Mountainhead",
+  "description": "Four friends reunite during worldwide economic turmoil.",
+  "runtime_minutes": 108,
+  "release_date": "31.05.2025",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0136797",
+      "name": "Steve Carell"
+    },
+    {
+      "id": "nm0005403",
+      "name": "Jason Schwartzman"
+    },
+    {
+      "id": "nm5754425",
+      "name": "Cory Michael Smith"
+    },
+    {
+      "id": "nm3858973",
+      "name": "Ramy Youssef"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm1104036",
+      "name": "Jesse Armstrong"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1104036",
+      "name": "Jesse Armstrong"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0136797",
+      "name": "Steve Carell",
+      "character": "Randall"
+    },
+    {
+      "id": "nm0005403",
+      "name": "Jason Schwartzman",
+      "character": "Souper"
+    },
+    {
+      "id": "nm5754425",
+      "name": "Cory Michael Smith",
+      "character": "Venis"
+    },
+    {
+      "id": "nm3858973",
+      "name": "Ramy Youssef",
+      "character": "Jeff"
+    },
+    {
+      "id": "nm0649729",
+      "name": "Daniel Oreskes",
+      "character": "Dr. Phipps"
+    },
+    {
+      "id": "nm6044874",
+      "name": "Hadley Robinson",
+      "character": "Hester"
+    },
+    {
+      "id": "nm3664430",
+      "name": "David Thompson",
+      "character": "Leo"
+    },
+    {
+      "id": "nm8846086",
+      "name": "Ali Kinkade",
+      "character": "Berry Oliphant"
+    },
+    {
+      "id": "nm11165592",
+      "name": "Ava Kostia",
+      "character": "Paula"
+    },
+    {
+      "id": "nm3521241",
+      "name": "Alejandro Pena",
+      "character": "Argentinian Business Leader"
+    },
+    {
+      "id": "nm1745697",
+      "name": "Amie MacKenzie",
+      "character": "Janine"
+    },
+    {
+      "id": "nm6213105",
+      "name": "Larkin Bell",
+      "character": "Nanny"
+    },
+    {
+      "id": "nm17361055",
+      "name": "Capri Eaton",
+      "character": "Baby Sabre"
+    },
+    {
+      "id": "nm17361054",
+      "name": "Emmi Eaton",
+      "character": "Baby Sabre"
+    },
+    {
+      "id": "nm1584455",
+      "name": "Jason Anthony",
+      "character": "British Newsreader"
+    },
+    {
+      "id": "nm11337263",
+      "name": "Ron Beth",
+      "character": "Security"
+    },
+    {
+      "id": "nm14186446",
+      "name": "Mark Elam Cheney",
+      "character": "Jim"
+    },
+    {
+      "id": "nm0198408",
+      "name": "Andy Daly",
+      "character": "Casper"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 10078037,
+  "year": 2025,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYTRjMzU5MDAtZWRlMC00MDY5LTgyMGYtOTU5MDI2MTJiYzRiXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.4,
+      "votes": 22144,
+      "distribution": {
+        "1": 1348,
+        "2": 1033,
+        "3": 1458,
+        "4": 2556,
+        "5": 4805,
+        "6": 5269,
+        "7": 3469,
+        "8": 1212,
+        "9": 376,
+        "10": 618
+      },
+      "normalized": 2.686
+    },
+    "filmweb": {
+      "rating": 4.96,
+      "votes": 4567,
+      "distribution": {
+        "1": 77,
+        "2": 137,
+        "3": 563,
+        "4": 750,
+        "5": 1421,
+        "6": 1005,
+        "7": 477,
+        "8": 109,
+        "9": 15,
+        "10": 13
+      },
+      "normalized": 1.9616
+    },
+    "jarek": {
+      "rating": 3,
+      "date_rated": "10.06.2025",
+      "normalized": 4.2591
+    },
+    "score": 2.9689
+  },
+  "polish_title": "Mountainhead",
+  "silent": false,
+  "producers": [
+    {
+      "id": "nm1104036",
+      "name": "Jesse Armstrong"
+    },
+    {
+      "id": "nm2369128",
+      "name": "Katy Bishop"
+    },
+    {
+      "id": "nm2163353",
+      "name": "Jon Brown"
+    },
+    {
+      "id": "nm14265982",
+      "name": "Sophie Esslemont"
+    },
+    {
+      "id": "nm0004132",
+      "name": "Jill Footlick"
+    },
+    {
+      "id": "nm0378028",
+      "name": "William Henry"
+    },
+    {
+      "id": "nm0607586",
+      "name": "Christo Morse"
+    },
+    {
+      "id": "nm0617042",
+      "name": "Mark Mylod"
+    },
+    {
+      "id": "nm2699843",
+      "name": "Lucy Prebble"
+    },
+    {
+      "id": "nm1586829",
+      "name": "Frank Rich"
+    },
+    {
+      "id": "nm0733988",
+      "name": "Tony Roche"
+    },
+    {
+      "id": "nm4301557",
+      "name": "Will Tracy"
+    },
+    {
+      "id": "nm2656333",
+      "name": "Katrina Whalen"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm1615109",
+      "name": "Nicholas Britell"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0959128",
+      "name": "Marcel Zyskind"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

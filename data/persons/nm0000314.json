@@ -1,0 +1,51 @@
+{
+  "id": "nm0000314",
+  "name": "Charles Bronson",
+  "filmography": [
+    {
+      "imdb_id": "tt0054047",
+      "title": "The Magnificent Seven",
+      "year": 1960,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Bernardo O'Reilly"
+    },
+    {
+      "imdb_id": "tt0057115",
+      "title": "The Great Escape",
+      "year": 1963,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Danny 'Tunnel King'"
+    },
+    {
+      "imdb_id": "tt0064116",
+      "title": "Once Upon a Time in the West",
+      "year": 1968,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Harmonica"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYWVjNDExMTgtMGE2OS00ZWNiLWIwNjYtMmI1ZDYwMTg1OWE2XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "03.11.1921",
+  "death_date": "30.08.2003",
+  "birth_location": "Ehrenfeld, Pennsylvania, USA",
+  "height": "1.74 m",
+  "filmweb_id": 41001,
+  "name_pl": "Charles Bronson",
+  "birth_location_pl": "Ehrenfeld, Pensylwania",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 41001
+}

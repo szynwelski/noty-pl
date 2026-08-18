@@ -1,0 +1,218 @@
+{
+  "imdb_id": "tt1900891",
+  "title": "Haunters",
+  "description": "Cho-In can control other people's minds when they are within his field of sight.Except one man.",
+  "runtime_minutes": 119,
+  "release_date": "10.11.2010",
+  "genres": [
+    "Action",
+    "Horror",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm1504868",
+      "name": "Gang Dong-won"
+    },
+    {
+      "id": "nm1714968",
+      "name": "Go Soo"
+    },
+    {
+      "id": "nm4425224",
+      "name": "Jung Eun-chae"
+    },
+    {
+      "id": "nm1117728",
+      "name": "Choi Deok-moon"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm3029976",
+      "name": "Min-suk Kim"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm3029976",
+      "name": "Min-suk Kim"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1504868",
+      "name": "Gang Dong-won",
+      "character": "Cho-in"
+    },
+    {
+      "id": "nm1714968",
+      "name": "Go Soo",
+      "character": "Im Gyoo-nam"
+    },
+    {
+      "id": "nm4425224",
+      "name": "Jung Eun-chae",
+      "character": "Yeong-sook"
+    },
+    {
+      "id": "nm1117728",
+      "name": "Choi Deok-moon",
+      "character": "Abby"
+    },
+    {
+      "id": "nm11311799",
+      "name": "Abu Dod",
+      "character": "Bubba"
+    },
+    {
+      "id": "nm6920804",
+      "name": "Enes Kaya",
+      "character": "Ali"
+    },
+    {
+      "id": "nm5314622",
+      "name": "Yang Kyung-mo",
+      "character": "Young Cho-in"
+    },
+    {
+      "id": "nm4039437",
+      "name": "Kang Hyun-joong",
+      "character": "Taxi driver"
+    },
+    {
+      "id": "nm3789605",
+      "name": "Kim Seo-won",
+      "character": "Constable Choi"
+    },
+    {
+      "id": "nm8057447",
+      "name": "Kim Gye-seon",
+      "character": "Officer Jang"
+    },
+    {
+      "id": "nm11311801",
+      "name": "Seong-min Kim",
+      "character": "Bank employee"
+    },
+    {
+      "id": "nm11311802",
+      "name": "Moon Yong Chan",
+      "character": "Old man with aid"
+    },
+    {
+      "id": "nm9231111",
+      "name": "Hye-Ryeong Hong",
+      "character": "Old woman in restaurant"
+    },
+    {
+      "id": "nm2441168",
+      "name": "Heo Myeong-haeng",
+      "character": "Cook"
+    },
+    {
+      "id": "nm6971284",
+      "name": "Bong-rok Choi",
+      "character": "Strong guy 1"
+    },
+    {
+      "id": "nm8247628",
+      "name": "Baek Dong-hyeon",
+      "character": "Strong guy 2"
+    },
+    {
+      "id": "nm3664405",
+      "name": "Lee Se-rang",
+      "character": "Baby's mom"
+    },
+    {
+      "id": "nm11311803",
+      "name": "Kim Ji-won",
+      "character": "Toddler 1"
+    }
+  ],
+  "countries": [
+    "South Korea"
+  ],
+  "languages": [
+    "Korean"
+  ],
+  "color": "Color",
+  "filmweb_id": 588613,
+  "year": 2010,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTYzOTI2NTY0MF5BMl5BanBnXkFtZTgwMjIyNjAzMTE@._V1_.jpg",
+  "original_title": "Choneungnyeokja",
+  "ratings": {
+    "imdb": {
+      "rating": 6.1,
+      "votes": 2010,
+      "distribution": {
+        "1": 62,
+        "2": 36,
+        "3": 63,
+        "4": 135,
+        "5": 274,
+        "6": 471,
+        "7": 446,
+        "8": 233,
+        "9": 85,
+        "10": 205
+      },
+      "normalized": 4.2144
+    },
+    "filmweb": {
+      "rating": 5.94,
+      "votes": 432,
+      "distribution": {
+        "1": 5,
+        "2": 13,
+        "3": 22,
+        "4": 28,
+        "5": 83,
+        "6": 119,
+        "7": 95,
+        "8": 48,
+        "9": 13,
+        "10": 6
+      },
+      "normalized": 4.0963
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "18.02.2013",
+      "normalized": 7.1247
+    },
+    "score": 5.1451
+  },
+  "polish_title": "Prześladowcy",
+  "silent": false,
+  "producers": [
+    {
+      "id": "nm0498478",
+      "name": "Eugene Lee"
+    },
+    {
+      "id": "nm4772242",
+      "name": "Dae-chan Song"
+    },
+    {
+      "id": "nm2011816",
+      "name": "Lee Tae-Heon"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm1018372",
+      "name": "Jaejin Lee"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0393240",
+      "name": "Hong Kyung-pyo"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

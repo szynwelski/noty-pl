@@ -1,0 +1,232 @@
+{
+  "imdb_id": "tt0134273",
+  "title": "8MM",
+  "description": "A private investigator is hired to discover if a \"snuff film\" is authentic or not.",
+  "runtime_minutes": 123,
+  "release_date": "26.02.1999",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000115",
+      "name": "Nicolas Cage"
+    },
+    {
+      "id": "nm0001618",
+      "name": "Joaquin Phoenix"
+    },
+    {
+      "id": "nm0001254",
+      "name": "James Gandolfini"
+    },
+    {
+      "id": "nm0001780",
+      "name": "Peter Stormare"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001708",
+      "name": "Joel Schumacher"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0001825",
+      "name": "Andrew Kevin Walker"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000115",
+      "name": "Nicolas Cage",
+      "character": "Tom Welles"
+    },
+    {
+      "id": "nm0001618",
+      "name": "Joaquin Phoenix",
+      "character": "Max California"
+    },
+    {
+      "id": "nm0001254",
+      "name": "James Gandolfini",
+      "character": "Eddie Poole"
+    },
+    {
+      "id": "nm0001780",
+      "name": "Peter Stormare",
+      "character": "Dino Velvet"
+    },
+    {
+      "id": "nm0372217",
+      "name": "Anthony Heald",
+      "character": "Longdale"
+    },
+    {
+      "id": "nm0061777",
+      "name": "Chris Bauer",
+      "character": "Machine"
+    },
+    {
+      "id": "nm0001416",
+      "name": "Catherine Keener",
+      "character": "Amy Welles"
+    },
+    {
+      "id": "nm0141839",
+      "name": "Myra Carter",
+      "character": "Mrs. Christian"
+    },
+    {
+      "id": "nm0607920",
+      "name": "Amy Morton",
+      "character": "Janet Mathews"
+    },
+    {
+      "id": "nm0694158",
+      "name": "Jenny Powell",
+      "character": "Mary Ann Mathews"
+    },
+    {
+      "id": "nm0125988",
+      "name": "Anne Gee Byrd",
+      "character": "Senator"
+    },
+    {
+      "id": "nm0079439",
+      "name": "Jack Betts",
+      "character": "Butler"
+    },
+    {
+      "id": "nm0650406",
+      "name": "Luis Oropeza",
+      "character": "Archive Director"
+    },
+    {
+      "id": "nm0802019",
+      "name": "Rachel Singer",
+      "character": "Neighbor"
+    },
+    {
+      "id": "nm0187199",
+      "name": "Don Creech",
+      "character": "Mr. Anderson"
+    },
+    {
+      "id": "nm0005342",
+      "name": "Norman Reedus",
+      "character": "Warren Anderson"
+    },
+    {
+      "id": "nm0071754",
+      "name": "Fran Bennett",
+      "character": "Nun"
+    },
+    {
+      "id": "nm0094335",
+      "name": "Wilma Bonet",
+      "character": "Nun"
+    }
+  ],
+  "countries": [
+    "Germany",
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 504,
+  "year": 1999,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNmEzZjIzYzQtOGI0MS00NmQ5LWFmYjktYTEwNTUxNDhmY2IzXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.6,
+      "votes": 152358,
+      "distribution": {
+        "1": 2659,
+        "2": 2169,
+        "3": 3455,
+        "4": 6727,
+        "5": 15116,
+        "6": 34810,
+        "7": 46538,
+        "8": 25974,
+        "9": 7994,
+        "10": 6916
+      },
+      "normalized": 4.6792
+    },
+    "filmweb": {
+      "rating": 7.27,
+      "votes": 47888,
+      "distribution": {
+        "1": 128,
+        "2": 114,
+        "3": 399,
+        "4": 813,
+        "5": 2286,
+        "6": 6354,
+        "7": 16102,
+        "8": 15817,
+        "9": 4222,
+        "10": 1653
+      },
+      "normalized": 6.1639
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "02.12.2005",
+      "normalized": 4.9718
+    },
+    "michal": {
+      "rating": 3,
+      "date_rated": "19.10.2005",
+      "normalized": 3.8753
+    },
+    "score": 4.9226
+  },
+  "polish_title": "Osiem milimetrów",
+  "silent": false,
+  "description_pl": "Prywatny detektyw zostaje wezwany do rezydencji zmarłego właśnie milionera. Żona znalazła w sejfie strzępek amatorskiego filmu, w którym zarejestrowano morderstwo popełnione na młodej kobiecie. Detektyw próbuje ustalić tożsamość dziewczyny.",
+  "producers": [
+    {
+      "id": "nm0135859",
+      "name": "Joseph M. Caracciolo"
+    },
+    {
+      "id": "nm0388788",
+      "name": "Judy Hofflund"
+    },
+    {
+      "id": "nm0505835",
+      "name": "Jeff Levine"
+    },
+    {
+      "id": "nm0689780",
+      "name": "Gavin Polone"
+    },
+    {
+      "id": "nm0001708",
+      "name": "Joel Schumacher"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0002217",
+      "name": "Mychael Danna"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005696",
+      "name": "Robert Elswit"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

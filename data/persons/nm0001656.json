@@ -1,0 +1,41 @@
+{
+  "id": "nm0001656",
+  "name": "Donna Reed",
+  "filmography": [
+    {
+      "imdb_id": "tt0038650",
+      "title": "It's a Wonderful Life",
+      "year": 1946,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Mary Hatch"
+    },
+    {
+      "imdb_id": "tt0045793",
+      "title": "From Here to Eternity",
+      "year": 1953,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Alma - aka Lorene"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMmE5MTNiYTktZWZhMy00MWNmLTlkYTQtNGI5ODRkNzk4ZGQxXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "27.01.1921",
+  "death_date": "14.01.1986",
+  "birth_location": "Denison, Iowa, USA",
+  "height": "1.61 m",
+  "imdb_scraped": true,
+  "filmweb_id": 45095,
+  "name_pl": "Donna Reed",
+  "birth_location_pl": "Denison, Iowa",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 45095
+}

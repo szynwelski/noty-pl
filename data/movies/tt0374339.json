@@ -1,0 +1,244 @@
+{
+  "imdb_id": "tt0374339",
+  "title": "Infernal Affairs III",
+  "description": "Months after the events of the original film, Ming suspects a police superintendent as being a new mole for the triads, while years earlier, Yan embarks on his first mission.",
+  "runtime_minutes": 118,
+  "release_date": "12.12.2003",
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0504897",
+      "name": "Tony Leung Chiu-wai"
+    },
+    {
+      "id": "nm0490489",
+      "name": "Andy Lau"
+    },
+    {
+      "id": "nm0481709",
+      "name": "Leon Lai"
+    },
+    {
+      "id": "nm0155203",
+      "name": "Daoming Chen"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0490487",
+      "name": "Wai Keung Lau"
+    },
+    {
+      "id": "nm0538320",
+      "name": "Alan Mak"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0538320",
+      "name": "Alan Mak"
+    },
+    {
+      "id": "nm0159039",
+      "name": "Felix Chong"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0504897",
+      "name": "Tony Leung Chiu-wai",
+      "character": "Chan Wing Yan"
+    },
+    {
+      "id": "nm0490489",
+      "name": "Andy Lau",
+      "character": "Inspector Lau Kin Ming"
+    },
+    {
+      "id": "nm0481709",
+      "name": "Leon Lai",
+      "character": "SP Yeung Kam Wing"
+    },
+    {
+      "id": "nm0155203",
+      "name": "Daoming Chen",
+      "character": "Inspector Shen Chen"
+    },
+    {
+      "id": "nm0155284",
+      "name": "Kelly Chen",
+      "character": "Dr. Lee Sum Yee"
+    },
+    {
+      "id": "nm0938893",
+      "name": "Anthony Chau-Sang Wong",
+      "character": "SP Wong Chi Shing"
+    },
+    {
+      "id": "nm0874676",
+      "name": "Eric Tsang",
+      "character": "Hon Sam"
+    },
+    {
+      "id": "nm0155618",
+      "name": "Sammi Cheng",
+      "character": "Mary"
+    },
+    {
+      "id": "nm0490500",
+      "name": "Carina Lau",
+      "character": "Mary Hon"
+    },
+    {
+      "id": "nm0155211",
+      "name": "Edison Chen",
+      "character": "Young Lau Kin Ming"
+    },
+    {
+      "id": "nm1284845",
+      "name": "Shawn Yue",
+      "character": "Young Chan Wing Yan"
+    },
+    {
+      "id": "nm0864779",
+      "name": "Chapman To",
+      "character": "Tsui Wai-keung"
+    },
+    {
+      "id": "nm0498429",
+      "name": "Waise Lee",
+      "character": "Chan Chun"
+    },
+    {
+      "id": "nm0482628",
+      "name": "Ka-Tung Lam",
+      "character": "Inspector Billy"
+    },
+    {
+      "id": "nm0628727",
+      "name": "Berg Ting-Yip Ng",
+      "character": "Inspector Cheung"
+    },
+    {
+      "id": "nm2167323",
+      "name": "Zhizhong Huang",
+      "character": "Liang"
+    },
+    {
+      "id": "nm1334508",
+      "name": "Chi-Keung Wan",
+      "character": "SP Leung"
+    },
+    {
+      "id": "nm0910729",
+      "name": "Yeung-Ming Wan",
+      "character": "Night Club Manager"
+    }
+  ],
+  "countries": [
+    "Hong Kong",
+    "China",
+    "Taiwan"
+  ],
+  "languages": [
+    "Cantonese",
+    "Mandarin"
+  ],
+  "color": "Color",
+  "year": 2003,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOGI3YTcxYjctNzU3Yi00Mzk5LTg4MGYtYjZhNGMxYzIwOTNjXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 110796,
+  "original_title": "Mou gaan dou III: Jung gik mou gaan",
+  "ratings": {
+    "imdb": {
+      "rating": 6.8,
+      "votes": 15925,
+      "distribution": {
+        "1": 195,
+        "2": 107,
+        "3": 223,
+        "4": 447,
+        "5": 1139,
+        "6": 3019,
+        "7": 5435,
+        "8": 3021,
+        "9": 1121,
+        "10": 1218
+      },
+      "normalized": 5.1609
+    },
+    "filmweb": {
+      "rating": 7.32,
+      "votes": 2611,
+      "distribution": {
+        "1": 20,
+        "2": 8,
+        "3": 40,
+        "4": 76,
+        "5": 179,
+        "6": 370,
+        "7": 693,
+        "8": 664,
+        "9": 247,
+        "10": 314
+      },
+      "normalized": 6.1132
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "21.09.2010",
+      "normalized": 6.4102
+    },
+    "score": 5.8948
+  },
+  "polish_title": "Infernal Affairs: Piekielna gra 3",
+  "silent": false,
+  "description_pl": "Dziesięć miesięcy po śmierci Yana Ming wraca do pracy w wydziale wewnętrznym. W tym samym czasie do policji dołącza również Yeung. Ming od początku podejrzewa, ze może on być wtyczką mafii i rozpoczyna dyskretne śledztwo...",
+  "producers": [
+    {
+      "id": "nm1337668",
+      "name": "Ellen Chang"
+    },
+    {
+      "id": "nm0159052",
+      "name": "John Chong"
+    },
+    {
+      "id": "nm0304705",
+      "name": "Fengjun Gao"
+    },
+    {
+      "id": "nm2362844",
+      "name": "Hongfei Han"
+    },
+    {
+      "id": "nm1279691",
+      "name": "Lorraine Ho"
+    },
+    {
+      "id": "nm2328407",
+      "name": "Chin-Wen Huang"
+    },
+    {
+      "id": "nm0490487",
+      "name": "Wai Keung Lau"
+    },
+    {
+      "id": "nm1848176",
+      "name": "Baoping Ma"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0150989",
+      "name": "Kwong Wing Chan"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

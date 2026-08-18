@@ -1,0 +1,218 @@
+{
+  "imdb_id": "tt6729080",
+  "title": "Collateral",
+  "description": "Investigating the murder of a pizza delivery man, a London detective uncovers a tangled conspiracy involving drug dealers, smugglers and spies.",
+  "runtime_minutes": 58,
+  "release_date": "09.03.2018",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm1659547",
+      "name": "Carey Mulligan"
+    },
+    {
+      "id": "nm2533322",
+      "name": "Nathaniel Martello-White"
+    },
+    {
+      "id": "nm4842197",
+      "name": "Hayley Squires"
+    },
+    {
+      "id": "nm1581584",
+      "name": "Vineeta Rishi"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1659547",
+      "name": "Carey Mulligan",
+      "character": "DI Kip Glaspie"
+    },
+    {
+      "id": "nm4842197",
+      "name": "Hayley Squires",
+      "character": "Laurie Stone"
+    },
+    {
+      "id": "nm2269188",
+      "name": "Ahd",
+      "character": "Fatima Asif"
+    },
+    {
+      "id": "nm1581584",
+      "name": "Vineeta Rishi",
+      "character": "DC Rakhee Shah"
+    },
+    {
+      "id": "nm6409102",
+      "name": "July Namir",
+      "character": "Mona Asif"
+    },
+    {
+      "id": "nm2533322",
+      "name": "Nathaniel Martello-White",
+      "character": "DS Nathan Bilk"
+    },
+    {
+      "id": "nm2935576",
+      "name": "Jeany Spark",
+      "character": "Sandrine Shaw"
+    },
+    {
+      "id": "nm0419112",
+      "name": "Rob Jarvis",
+      "character": "DC Euan Johnson"
+    },
+    {
+      "id": "nm0684877",
+      "name": "Billie Piper",
+      "character": "Karen Mars"
+    },
+    {
+      "id": "nm3664502",
+      "name": "Kae Alexander",
+      "character": "Linh Xuan Huy"
+    },
+    {
+      "id": "nm0908070",
+      "name": "Nicola Walker",
+      "character": "Jane Oliver"
+    },
+    {
+      "id": "nm0799591",
+      "name": "John Simm",
+      "character": "David Mars MP"
+    },
+    {
+      "id": "nm0587060",
+      "name": "Ben Miles",
+      "character": "DSU Jack Haley"
+    },
+    {
+      "id": "nm4451290",
+      "name": "Brian Vernel",
+      "character": "Mikey Gowans"
+    },
+    {
+      "id": "nm0564500",
+      "name": "Richard McCabe",
+      "character": "Peter Westbourne"
+    },
+    {
+      "id": "nm1745190",
+      "name": "George Georgiou",
+      "character": "Mehmet Akman"
+    },
+    {
+      "id": "nm0514215",
+      "name": "Guy List",
+      "character": "Bhuran Demir"
+    },
+    {
+      "id": "nm2836709",
+      "name": "Siobhán McSweeney",
+      "character": "Petra"
+    }
+  ],
+  "countries": [
+    "United Kingdom",
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "year": 2018,
+  "type": "tvMiniSeries",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzY2MDg2Njk3MV5BMl5BanBnXkFtZTgwMTE4MTY4NDM@._V1_.jpg",
+  "filmweb_id": 792257,
+  "ratings": {
+    "imdb": {
+      "rating": 6.8,
+      "votes": 24334,
+      "distribution": {
+        "1": 559,
+        "2": 259,
+        "3": 344,
+        "4": 687,
+        "5": 1685,
+        "6": 4869,
+        "7": 8359,
+        "8": 4907,
+        "9": 1447,
+        "10": 1218
+      }
+    },
+    "filmweb": {
+      "rating": 6.33,
+      "votes": 5198,
+      "distribution": {
+        "1": 24,
+        "2": 21,
+        "3": 100,
+        "4": 208,
+        "5": 762,
+        "6": 1740,
+        "7": 1662,
+        "8": 465,
+        "9": 66,
+        "10": 150
+      }
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "08.02.2020"
+    }
+  },
+  "polish_title": "Collateral",
+  "silent": false,
+  "producers": [
+    {
+      "id": "nm1308615",
+      "name": "Elizabeth Binns"
+    },
+    {
+      "id": "nm1237416",
+      "name": "S.J. Clarkson"
+    },
+    {
+      "id": "nm0264480",
+      "name": "George Faber"
+    },
+    {
+      "id": "nm0002376",
+      "name": "David Hare"
+    },
+    {
+      "id": "nm1285816",
+      "name": "Mark Pybus"
+    },
+    {
+      "id": "nm0724901",
+      "name": "Lucy Richer"
+    },
+    {
+      "id": "nm2337298",
+      "name": "Hsinyi Liu"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm2418470",
+      "name": "Ruth Barrett"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0993987",
+      "name": "Balazs Bolygo"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

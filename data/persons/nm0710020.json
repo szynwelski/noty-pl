@@ -1,0 +1,47 @@
+{
+  "id": "nm0710020",
+  "name": "Joe Ranft",
+  "filmography": [
+    {
+      "imdb_id": "tt0120363",
+      "title": "Toy Story 2",
+      "year": 1999,
+      "roles": [
+        "cast"
+      ],
+      "character": "Wheezy"
+    },
+    {
+      "imdb_id": "tt0266543",
+      "title": "Finding Nemo",
+      "year": 2003,
+      "roles": [
+        "cast"
+      ],
+      "character": "Jacques"
+    },
+    {
+      "imdb_id": "tt0121164",
+      "title": "Corpse Bride",
+      "year": 2005,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDY2NDY2ODM5N15BMl5BanBnXkFtZTcwMzU4MDM5OA@@._V1_.jpg",
+  "birth_date": "13.03.1960",
+  "death_date": "16.08.2005",
+  "birth_location": "Pasadena, California, USA",
+  "height": "2.03 m",
+  "filmweb_id": 139703,
+  "name_pl": "Joe Ranft",
+  "birth_location_pl": "Pasadena, Kalifornia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 139703
+}

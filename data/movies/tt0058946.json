@@ -1,0 +1,195 @@
+{
+  "imdb_id": "tt0058946",
+  "title": "The Battle of Algiers",
+  "description": "In the 1950s, fear and violence escalate as the people of Algiers fight for independence from the French government.",
+  "runtime_minutes": 121,
+  "release_date": "20.09.1967",
+  "genres": [
+    "Drama",
+    "War"
+  ],
+  "stars": [
+    {
+      "id": "nm0352835",
+      "name": "Brahim Hadjadj"
+    },
+    {
+      "id": "nm0552483",
+      "name": "Jean Martin"
+    },
+    {
+      "id": "nm0754272",
+      "name": "Yacef Saadi"
+    },
+    {
+      "id": "nm0449197",
+      "name": "Samia Kerbash"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0690597",
+      "name": "Gillo Pontecorvo"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0758357",
+      "name": "Franco Solinas"
+    },
+    {
+      "id": "nm0690597",
+      "name": "Gillo Pontecorvo"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0352835",
+      "name": "Brahim Hadjadj",
+      "character": "Ali La Pointe"
+    },
+    {
+      "id": "nm0552483",
+      "name": "Jean Martin",
+      "character": "Col. Mathieu"
+    },
+    {
+      "id": "nm0754272",
+      "name": "Yacef Saadi",
+      "character": "Djafar"
+    },
+    {
+      "id": "nm0449197",
+      "name": "Samia Kerbash",
+      "character": "Fathia"
+    },
+    {
+      "id": "nm0657597",
+      "name": "Ugo Paletti",
+      "character": "Captain"
+    },
+    {
+      "id": "nm0252678",
+      "name": "Fouzia El Kader",
+      "character": "Halima"
+    },
+    {
+      "id": "nm0069934",
+      "name": "Mohamed Ben Kassen",
+      "character": "Petit Omar"
+    },
+    {
+      "id": "nm16812346",
+      "name": "Si Mohamed Baghdadi",
+      "character": "Larbi Ben M'hidi"
+    },
+    {
+      "id": "nm12963526",
+      "name": "Franco Morici",
+      "character": "Mahmoud"
+    },
+    {
+      "id": "nm0626221",
+      "name": "Tommaso Neri",
+      "character": "Captain"
+    },
+    {
+      "id": "nm0746250",
+      "name": "Rouiched",
+      "character": "The Drunk Man"
+    },
+    {
+      "id": "nm0921881",
+      "name": "Gene Wesson",
+      "character": ""
+    }
+  ],
+  "countries": [
+    "Italy",
+    "Algeria"
+  ],
+  "languages": [
+    "Arabic",
+    "French",
+    "English",
+    "Spanish"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 32637,
+  "year": 1966,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTY2Mjk0OGEtYTM3Yy00ZWZiLWFhNjAtNGExMjEzNGVmMDMxXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "La battaglia di Algeri",
+  "ratings": {
+    "imdb": {
+      "rating": 8.1,
+      "votes": 76644,
+      "distribution": {
+        "1": 2929,
+        "2": 555,
+        "3": 638,
+        "4": 885,
+        "5": 2150,
+        "6": 4329,
+        "7": 10993,
+        "8": 20882,
+        "9": 15530,
+        "10": 17753
+      },
+      "normalized": 7.675
+    },
+    "filmweb": {
+      "rating": 7.8,
+      "votes": 2599,
+      "distribution": {
+        "1": 12,
+        "2": 6,
+        "3": 17,
+        "4": 24,
+        "5": 55,
+        "6": 181,
+        "7": 604,
+        "8": 1013,
+        "9": 462,
+        "10": 225
+      },
+      "normalized": 7.1754
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "18.07.2012",
+      "normalized": 7.1247
+    },
+    "michal": {
+      "rating": 8,
+      "date_rated": "04.02.2011",
+      "normalized": 8.1116
+    },
+    "score": 7.5217
+  },
+  "polish_title": "Bitwa o Algier",
+  "silent": false,
+  "description_pl": "Ali La Pointe (Brahim Haggiag) jest drobnym złodziejaszkiem na przedmieściach Algieru. Jego życie zmienia się, gdy zostaje zwerbowany przez Front Wyzwolenia Narodowego (FLN). Ugrupowanie to ma na celu wyparcie kolonialnych wojsk francuskich z Algierii. Ali szybko pnie się w hierarchii FLN, by w końcu zostać jednym z jej liderów. Staje się tym samym obiektem zainteresowania pułkownika Mathieu (<a href=\"/osoba/?id=nm0552483\">Jean Martin</a>), który ma za zadanie rozbicie tajnej organizacji.",
+  "producers": [
+    {
+      "id": "nm0616026",
+      "name": "Antonio Musu"
+    },
+    {
+      "id": "nm0754272",
+      "name": "Yacef Saadi"
+    },
+    {
+      "id": "nm0048452",
+      "name": "Fred Baker"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0309800",
+      "name": "Marcello Gatti"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "nm0407010",
+  "name": "Stanislaw Igar",
+  "filmography": [
+    {
+      "imdb_id": "tt0059643",
+      "title": "The Saragossa Manuscript",
+      "year": 1965,
+      "roles": [
+        "cast"
+      ],
+      "character": "Don Gaspar Soarez"
+    },
+    {
+      "imdb_id": "tt0072446",
+      "title": "The Promised Land",
+      "year": 1975,
+      "roles": [
+        "cast"
+      ],
+      "character": "Grünspan"
+    },
+    {
+      "imdb_id": "tt0074220",
+      "title": "The Scar",
+      "year": 1976,
+      "roles": [
+        "cast"
+      ],
+      "character": "Minister"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZDk4YjU2NDEtODhhOS00NDFiLTliYTEtODQwYjIwNGI0ZWFkXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "14.07.1918",
+  "death_date": "29.12.1987",
+  "birth_location": "Plock, Mazowieckie, Poland",
+  "filmweb_id": 7053,
+  "name_pl": "Stanisław Igar",
+  "birth_location_pl": "Płock",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Polska"
+  ],
+  "wikidata_fw_id": 7053
+}

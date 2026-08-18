@@ -1,0 +1,39 @@
+{
+  "id": "nm0903110",
+  "name": "Friedrich von Thun",
+  "filmography": [
+    {
+      "imdb_id": "tt0108052",
+      "title": "Schindler's List",
+      "year": 1993,
+      "roles": [
+        "cast"
+      ],
+      "character": "Rolf Czurda"
+    },
+    {
+      "imdb_id": "tt0346293",
+      "title": "Hitler: The Rise of Evil",
+      "year": 2003,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "General Erich Ludendorff"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTYwMzU4MjY3NF5BMl5BanBnXkFtZTYwODAzNjky._V1_.jpg",
+  "birth_date": "30.06.1942",
+  "birth_location": "Kwassitz, Protectorate of Bohemia and Moravia [now Kvasice, Moravia, Czech Republic]",
+  "height": "1.88 m",
+  "imdb_scraped": true,
+  "filmweb_id": 61018,
+  "name_pl": "Friedrich von Thun",
+  "birth_location_pl": "Kwassitz (obecnie Kvasice)",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Austria"
+  ],
+  "wikidata_fw_id": 61018
+}

@@ -1,0 +1,41 @@
+{
+  "id": "nm0000615",
+  "name": "John Ritter",
+  "filmography": [
+    {
+      "imdb_id": "tt0117666",
+      "title": "Sling Blade",
+      "year": 1996,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Vaughan Cunningham"
+    },
+    {
+      "imdb_id": "tt0307987",
+      "title": "Bad Santa",
+      "year": 2003,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Bob Chipeska"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTkwNDkyMzUzOF5BMl5BanBnXkFtZTcwMDMzNDgwMw@@._V1_.jpg",
+  "birth_date": "17.09.1948",
+  "death_date": "11.09.2003",
+  "birth_location": "Burbank, California, USA",
+  "height": "1.80 m",
+  "imdb_scraped": true,
+  "filmweb_id": 4236,
+  "name_pl": "John Ritter",
+  "birth_location_pl": "Burbank, Kalifornia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 4236
+}

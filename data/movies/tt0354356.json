@@ -1,0 +1,227 @@
+{
+  "imdb_id": "tt0354356",
+  "title": "Five Times Two",
+  "description": "Five stages in the romance between a woman and a man.",
+  "runtime_minutes": 90,
+  "release_date": "01.09.2004",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0116254",
+      "name": "Valeria Bruni Tedeschi"
+    },
+    {
+      "id": "nm0293889",
+      "name": "Stéphane Freiss"
+    },
+    {
+      "id": "nm0264554",
+      "name": "Françoise Fabian"
+    },
+    {
+      "id": "nm0003909",
+      "name": "Michael Lonsdale"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0654830",
+      "name": "François Ozon"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0654830",
+      "name": "François Ozon"
+    },
+    {
+      "id": "nm0076814",
+      "name": "Emmanuèle Bernheim"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0116254",
+      "name": "Valeria Bruni Tedeschi",
+      "character": "Marion"
+    },
+    {
+      "id": "nm0293889",
+      "name": "Stéphane Freiss",
+      "character": "Gilles"
+    },
+    {
+      "id": "nm0264554",
+      "name": "Françoise Fabian",
+      "character": "Monique"
+    },
+    {
+      "id": "nm0003909",
+      "name": "Michael Lonsdale",
+      "character": "Bernard"
+    },
+    {
+      "id": "nm0656768",
+      "name": "Géraldine Pailhas",
+      "character": "Valérie"
+    },
+    {
+      "id": "nm0152647",
+      "name": "Antoine Chappey",
+      "character": "Christophe"
+    },
+    {
+      "id": "nm1688708",
+      "name": "Marc Ruchmann",
+      "character": "Mathieu"
+    },
+    {
+      "id": "nm1688938",
+      "name": "Jason Tavassoli",
+      "character": "L'Américain"
+    },
+    {
+      "id": "nm0109878",
+      "name": "Jean-Pol Brissart",
+      "character": "Le Juge"
+    },
+    {
+      "id": "nm0451614",
+      "name": "Eliane Kherris",
+      "character": "L'avocate"
+    },
+    {
+      "id": "nm2246945",
+      "name": "Yannis Belkacem",
+      "character": "Nicolas"
+    },
+    {
+      "id": "nm1430101",
+      "name": "Sylvie Debrun",
+      "character": "L'échographiste"
+    },
+    {
+      "id": "nm0624891",
+      "name": "Jean Neisser",
+      "character": "Le Maire"
+    },
+    {
+      "id": "nm1458092",
+      "name": "Ninon Brétécher",
+      "character": "Sophie"
+    },
+    {
+      "id": "nm2246099",
+      "name": "Marie-Madeleine Fouquet",
+      "character": "La mère de Gilles"
+    },
+    {
+      "id": "nm0158957",
+      "name": "Pierre Chollet",
+      "character": "Le père de Gilles"
+    },
+    {
+      "id": "nm2244265",
+      "name": "Carlo-Antonio Angioni",
+      "character": "Le réceptionniste"
+    },
+    {
+      "id": "nm2246782",
+      "name": "Domenico Sannino",
+      "character": "L'animateur italien"
+    }
+  ],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "French",
+    "English",
+    "Italian"
+  ],
+  "color": null,
+  "filmweb_id": 112485,
+  "year": 2004,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTIzMjc3OTQ1N15BMl5BanBnXkFtZTcwODE5MTAzMQ@@._V1_.jpg",
+  "original_title": "5x2",
+  "ratings": {
+    "imdb": {
+      "rating": 6.6,
+      "votes": 10856,
+      "distribution": {
+        "1": 202,
+        "2": 136,
+        "3": 253,
+        "4": 432,
+        "5": 1098,
+        "6": 2317,
+        "7": 3256,
+        "8": 1875,
+        "9": 726,
+        "10": 561
+      },
+      "normalized": 4.752
+    },
+    "filmweb": {
+      "rating": 6.71,
+      "votes": 5056,
+      "distribution": {
+        "1": 36,
+        "2": 34,
+        "3": 117,
+        "4": 219,
+        "5": 489,
+        "6": 1055,
+        "7": 1618,
+        "8": 1035,
+        "9": 295,
+        "10": 158
+      },
+      "normalized": 4.8692
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "19.10.2005",
+      "normalized": 4.5781
+    },
+    "score": 4.7331
+  },
+  "polish_title": "5x2 pięć razy we dwoje",
+  "silent": false,
+  "description_pl": "Marion (Bruni-Tedeschi) i Gilles (Freiss) to piękni i wykształceni przedstawiciele klasy średniej. Gdy widzimy ich pierwszy raz, podpisują w obecności prawnika akt rozwodu z rezygnacją wskazującą, iż na tę decyzję zanosiło się od dawna. Zanim jeszcze skończy się ta scena, w filmie nastąpi niespodziewany zwrot, każąc zwątpić czy niepowodzenie tego małżeństwa da się łatwo wytłumaczyć. Pozostała część filmu stara się zweryfikować to przypuszczenie, cofając się do coraz wcześniejszych wydarzeń, które ukazują bohaterów w zupełnie nowym świetle.",
+  "producers": [
+    {
+      "id": "nm2745530",
+      "name": "Marco Cabriolu"
+    },
+    {
+      "id": "nm0216635",
+      "name": "Olivier Delbosc"
+    },
+    {
+      "id": "nm0240868",
+      "name": "Philippe Dugay"
+    },
+    {
+      "id": "nm0592945",
+      "name": "Marc Missonnier"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0739151",
+      "name": "Philippe Rombi"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0494617",
+      "name": "Yorick Le Saux"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

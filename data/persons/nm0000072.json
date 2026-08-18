@@ -1,0 +1,52 @@
+{
+  "id": "nm0000072",
+  "name": "Elizabeth Taylor",
+  "filmography": [
+    {
+      "imdb_id": "tt0049261",
+      "title": "Giant",
+      "year": 1956,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Leslie Benedict"
+    },
+    {
+      "imdb_id": "tt0051459",
+      "title": "Cat on a Hot Tin Roof",
+      "year": 1958,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Maggie Pollitt"
+    },
+    {
+      "imdb_id": "tt0061184",
+      "title": "Who's Afraid of Virginia Woolf?",
+      "year": 1966,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Martha"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMWMwYzIxNDctMzlhMy00Mjg5LTg1MDctMTNkNzUxODc5MDEwXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "27.02.1932",
+  "death_date": "23.03.2011",
+  "birth_location": "Hampstead, London, England, UK",
+  "height": "1.62 m",
+  "imdb_scraped": true,
+  "filmweb_id": 42502,
+  "name_pl": "Elizabeth Taylor",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone",
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 42502
+}

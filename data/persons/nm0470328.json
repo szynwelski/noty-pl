@@ -1,0 +1,40 @@
+{
+  "id": "nm0470328",
+  "name": "Werner Krauss",
+  "filmography": [
+    {
+      "imdb_id": "tt0010323",
+      "title": "The Cabinet of Dr. Caligari",
+      "year": 1920,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Dr. Caligari"
+    },
+    {
+      "imdb_id": "tt0032653",
+      "title": "Jud Süß",
+      "year": 1940,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Rabbi Loew"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTA1MTcyNzM0ODNeQTJeQWpwZ15BbWU4MDYwODYxNDMx._V1_.jpg",
+  "birth_date": "23.06.1884",
+  "death_date": "20.10.1959",
+  "birth_location": "Gestungshausen, Sonnefeld, Bavaria, Germany",
+  "imdb_scraped": true,
+  "filmweb_id": 41449,
+  "name_pl": "Werner Krauss",
+  "birth_location_pl": "Gestungshausen",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Niemcy"
+  ],
+  "wikidata_fw_id": 41449
+}

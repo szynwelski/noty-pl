@@ -1,0 +1,47 @@
+{
+  "id": "nm0400005",
+  "name": "Andrzej Hudziak",
+  "filmography": [
+    {
+      "imdb_id": "tt0123889",
+      "title": "Love Stories",
+      "year": 1997,
+      "roles": [
+        "cast"
+      ],
+      "character": "Rozprowadzajacy', asystent 'Ankietera"
+    },
+    {
+      "imdb_id": "tt0170351",
+      "title": "Pan Tadeusz",
+      "year": 1999,
+      "roles": [
+        "cast"
+      ],
+      "character": "Asesor"
+    },
+    {
+      "imdb_id": "tt1263736",
+      "title": "33 Scenes from Life",
+      "year": 2008,
+      "roles": [
+        "cast"
+      ],
+      "character": "Jerzy"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYzJlMTQ3YTQtYTI3ZC00YWM2LTkyMjQtNWYzYjAzYjc3ZmU4XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "27.02.1955",
+  "death_date": "15.06.2014",
+  "birth_location": "Kraków, Malopolskie, Poland",
+  "filmweb_id": 8735,
+  "name_pl": "Andrzej Hudziak",
+  "birth_location_pl": "Kraków",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Polska"
+  ],
+  "wikidata_fw_id": 8735
+}

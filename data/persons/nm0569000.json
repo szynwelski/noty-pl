@@ -1,0 +1,30 @@
+{
+  "id": "nm0569000",
+  "name": "Darren McGavin",
+  "filmography": [
+    {
+      "imdb_id": "tt0085334",
+      "title": "A Christmas Story",
+      "year": 1983,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "The Old Man Parker"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjIyNTc1Njk1NF5BMl5BanBnXkFtZTcwMDMyMjMzOA@@._V1_.jpg",
+  "birth_date": "07.05.1922",
+  "death_date": "25.02.2006",
+  "birth_location": "Spokane, Washington, USA",
+  "height": "1.78 m",
+  "imdb_scraped": true,
+  "filmweb_id": 41642,
+  "name_pl": "Darren McGavin",
+  "birth_location_pl": "San Joaquin, Kalifornia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

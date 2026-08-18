@@ -1,0 +1,39 @@
+{
+  "id": "nm0726262",
+  "name": "Max Riemelt",
+  "filmography": [
+    {
+      "imdb_id": "tt1063669",
+      "title": "The Wave",
+      "year": 2008,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Marco"
+    },
+    {
+      "imdb_id": "tt10838180",
+      "title": "The Matrix Resurrections",
+      "year": 2021,
+      "roles": [
+        "cast"
+      ],
+      "character": "Sheperd"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTcxODA0MzUwM15BMl5BanBnXkFtZTcwMTgzNTMyNQ@@._V1_.jpg",
+  "birth_date": "07.01.1984",
+  "birth_location": "Berlin, Germany",
+  "height": "1.80 m",
+  "imdb_scraped": true,
+  "filmweb_id": 111999,
+  "name_pl": "Max Riemelt",
+  "birth_location_pl": "Berlin",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Niemcy"
+  ],
+  "wikidata_fw_id": 111999
+}

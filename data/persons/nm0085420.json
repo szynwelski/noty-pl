@@ -1,0 +1,38 @@
+{
+  "id": "nm0085420",
+  "name": "Mary Black",
+  "filmography": [
+    {
+      "imdb_id": "tt0120901",
+      "title": "Wrongfully Accused",
+      "year": 1998,
+      "roles": [
+        "cast"
+      ],
+      "character": "Woman with I.V."
+    },
+    {
+      "imdb_id": "tt0770828",
+      "title": "Man of Steel",
+      "year": 2013,
+      "roles": [
+        "cast"
+      ],
+      "character": "Ro-Zar"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTgyMjE2MTM1Nl5BMl5BanBnXkFtZTcwMDAyMTEzMQ@@._V1_.jpg",
+  "birth_date": "26.10.1935",
+  "birth_location": "Oshawa, Ontario, Canada",
+  "height": "1.60 m",
+  "imdb_scraped": true,
+  "filmweb_id": 82229,
+  "name_pl": "Mary Black",
+  "birth_location_pl": "Oshawa",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Kanada"
+  ],
+  "wikidata_fw_id": 82229
+}

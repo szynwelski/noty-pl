@@ -1,0 +1,91 @@
+{
+  "imdb_id": "tt0000359",
+  "title": "L'homme à la tête en caoutchouc",
+  "description": "A chemist carries out a bizarre experiment with his own head.",
+  "runtime_minutes": 3,
+  "release_date": "1901",
+  "genres": [
+    "Short",
+    "Comedy",
+    "Fantasy"
+  ],
+  "stars": [
+    {
+      "id": "nm0617588",
+      "name": "Georges Méliès"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0617588",
+      "name": "Georges Méliès"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0617588",
+      "name": "Georges Méliès",
+      "character": "The Chemist"
+    }
+  ],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 377070,
+  "year": 1901,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDU2ZjcwMzUtNmFjOC00MTJhLWJmZjMtNzA5ZjYwNjQ5ODZkXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.1,
+      "votes": 3579,
+      "distribution": {
+        "1": 37,
+        "2": 24,
+        "3": 41,
+        "4": 78,
+        "5": 242,
+        "6": 593,
+        "7": 1269,
+        "8": 796,
+        "9": 242,
+        "10": 257
+      },
+      "normalized": 5.6536
+    },
+    "filmweb": {
+      "rating": 6.96,
+      "votes": 1223,
+      "distribution": {
+        "1": 7,
+        "2": 6,
+        "3": 14,
+        "4": 29,
+        "5": 91,
+        "6": 220,
+        "7": 443,
+        "8": 289,
+        "9": 88,
+        "10": 36
+      },
+      "normalized": 5.4602
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "13.12.2016",
+      "normalized": 5.6855
+    },
+    "score": 5.5998
+  },
+  "polish_title": "Człowiek z gumową głową",
+  "silent": true,
+  "description_pl": "Wnętrze tajemniczego laboratorium. Naukowiec umieszcza na stole ludzką głowę i za pomocą miecha tłoczy weń powietrze. Głowa, wciąż żywa, zwiększa swoją objętość niczym balon. Niestety, asystent nie zachowuje umiaru, w wyniku czego obiekt eksperymentu eksploduje. Załamany naukowiec wyrzuca za drzwi pomocnika i ociera łzy w fartuch.",
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-15"
+}

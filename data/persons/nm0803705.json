@@ -1,0 +1,50 @@
+{
+  "id": "nm0803705",
+  "name": "Victor Sjöström",
+  "filmography": [
+    {
+      "imdb_id": "tt0012364",
+      "title": "The Phantom Carriage",
+      "year": 1921,
+      "roles": [
+        "director",
+        "writer",
+        "star",
+        "cast"
+      ],
+      "character": "David Holm"
+    },
+    {
+      "imdb_id": "tt0019585",
+      "title": "The Wind",
+      "year": 1928,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0050986",
+      "title": "Wild Strawberries",
+      "year": 1957,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Dr. Eberhard Isak Borg"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQwMzk0OTQ2Ml5BMl5BanBnXkFtZTcwNjg5MDI2NQ@@._V1_.jpg",
+  "birth_date": "20.09.1879",
+  "death_date": "03.01.1960",
+  "birth_location": "Silbodal, Värmlands län, Sweden",
+  "height": "1.80 m",
+  "filmweb_id": 51733,
+  "name_pl": "Victor Sjöström",
+  "birth_location_pl": "Silbodal (obecnie Årjäng)",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Szwecja"
+  ]
+}

@@ -1,0 +1,278 @@
+{
+  "imdb_id": "tt10366206",
+  "title": "John Wick: Chapter 4",
+  "description": "John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+  "runtime_minutes": 169,
+  "release_date": "24.03.2023",
+  "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000206",
+      "name": "Keanu Reeves"
+    },
+    {
+      "id": "nm0000401",
+      "name": "Laurence Fishburne"
+    },
+    {
+      "id": "nm1745190",
+      "name": "George Georgiou"
+    },
+    {
+      "id": "nm0714698",
+      "name": "Lance Reddick"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0821432",
+      "name": "Chad Stahelski"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm8748334",
+      "name": "Shay Hatten"
+    },
+    {
+      "id": "nm3360218",
+      "name": "Michael Finch"
+    },
+    {
+      "id": "nm4401003",
+      "name": "Derek Kolstad"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000206",
+      "name": "Keanu Reeves",
+      "character": "John Wick"
+    },
+    {
+      "id": "nm0000401",
+      "name": "Laurence Fishburne",
+      "character": "Bowery King"
+    },
+    {
+      "id": "nm1745190",
+      "name": "George Georgiou",
+      "character": "The Elder"
+    },
+    {
+      "id": "nm0714698",
+      "name": "Lance Reddick",
+      "character": "Charon"
+    },
+    {
+      "id": "nm0000317",
+      "name": "Clancy Brown",
+      "character": "Harbinger"
+    },
+    {
+      "id": "nm0574534",
+      "name": "Ian McShane",
+      "character": "Winston"
+    },
+    {
+      "id": "nm1047252",
+      "name": "Marko Zaror",
+      "character": "Chidi"
+    },
+    {
+      "id": "nm0803889",
+      "name": "Bill Skarsgård",
+      "character": "Marquis"
+    },
+    {
+      "id": "nm0947447",
+      "name": "Donnie Yen",
+      "character": "Caine"
+    },
+    {
+      "id": "nm7874945",
+      "name": "Aimée Kwan",
+      "character": "Mia"
+    },
+    {
+      "id": "nm0760796",
+      "name": "Hiroyuki Sanada",
+      "character": "Shimazu"
+    },
+    {
+      "id": "nm3875456",
+      "name": "Shamier Anderson",
+      "character": "Tracker"
+    },
+    {
+      "id": "nm4680793",
+      "name": "Rina Sawayama",
+      "character": "Akira"
+    },
+    {
+      "id": "nm11198742",
+      "name": "Yoshinori Tashiro",
+      "character": "Sumo #1"
+    },
+    {
+      "id": "nm9039103",
+      "name": "Hiroki Sumi",
+      "character": "Sumo #2"
+    },
+    {
+      "id": "nm9169004",
+      "name": "Daiki Suzuki",
+      "character": "Daiki"
+    },
+    {
+      "id": "nm5554218",
+      "name": "Julia Asuka Riedl",
+      "character": "Operator"
+    },
+    {
+      "id": "nm11609796",
+      "name": "Milena Rendón",
+      "character": "Operator"
+    }
+  ],
+  "countries": [
+    "United States",
+    "Germany"
+  ],
+  "languages": [
+    "English",
+    "Japanese",
+    "Russian",
+    "French",
+    "Spanish",
+    "German",
+    "Latin",
+    "Cantonese",
+    "Arabic"
+  ],
+  "color": "Color",
+  "filmweb_id": 831520,
+  "year": 2023,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BY2Q2ZmI5ZjUtNWVhMC00YzJkLTlmYjMtY2RmZDhkNzEzYjZhXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.6,
+      "votes": 417543,
+      "distribution": {
+        "1": 4845,
+        "2": 2795,
+        "3": 4132,
+        "4": 7353,
+        "5": 15378,
+        "6": 36899,
+        "7": 82147,
+        "8": 109373,
+        "9": 70954,
+        "10": 83667
+      },
+      "normalized": 6.6712
+    },
+    "filmweb": {
+      "rating": 7.23,
+      "votes": 67491,
+      "distribution": {
+        "1": 758,
+        "2": 611,
+        "3": 1439,
+        "4": 2185,
+        "5": 4547,
+        "6": 9219,
+        "7": 16956,
+        "8": 17253,
+        "9": 7371,
+        "10": 7152
+      },
+      "normalized": 6.0875
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "02.06.2023",
+      "normalized": 5.6855
+    },
+    "michal": {
+      "rating": 3,
+      "date_rated": "12.05.2023",
+      "normalized": 3.8753
+    },
+    "score": 5.5799
+  },
+  "polish_title": "John Wick 4",
+  "silent": false,
+  "description_pl": "Ceny idą w górę, więc także stawka za głowę legendarnego zabójcy, Johna Wicka przebiła już sufit. Stając do ostatecznego pojedynku, który może dać mu upragnioną wolność i zasłużoną emeryturę, John wie, że może liczyć tylko na siebie. Dla niego, to nic nowego. To co zmieniło się tym razem, to fakt, że przeciwko sobie ma całą międzynarodową organizację najlepszych płatnych zabójców, a jej nowy szef Markiz de Gramond jest równie wyrafinowany, co bezlitosny. Zanim John stanie z nim oko w oko, będzie musiał odwiedzić kilka kontynentów mierząc się z całą plejadą twardzieli, którzy wiedzą wszystko o zabijaniu. Tuż przed wielkim finałem tej morderczej symfonii, John Wick trafi na trop swojej dalekiej rodziny, której członkowie mogą mieć decydujący wpływ na wynik całej rozgrywki.",
+  "producers": [
+    {
+      "id": "nm2476213",
+      "name": "Diala Al Raie"
+    },
+    {
+      "id": "nm1148054",
+      "name": "Raphaël Benoliel"
+    },
+    {
+      "id": "nm2862529",
+      "name": "Christoph Fisser"
+    },
+    {
+      "id": "nm0412588",
+      "name": "Basil Iwanyk"
+    },
+    {
+      "id": "nm4967967",
+      "name": "Yuka Kato"
+    },
+    {
+      "id": "nm2324649",
+      "name": "Fuad Khalil"
+    },
+    {
+      "id": "nm2443562",
+      "name": "Erica Lee"
+    },
+    {
+      "id": "nm0500610",
+      "name": "David Leitch"
+    },
+    {
+      "id": "nm0596572",
+      "name": "Henning Molfenter"
+    },
+    {
+      "id": "nm0664513",
+      "name": "Michael Paseornek"
+    },
+    {
+      "id": "nm0000206",
+      "name": "Keanu Reeves"
+    },
+    {
+      "id": "nm0743118",
+      "name": "Louise Rosner"
+    },
+    {
+      "id": "nm0821432",
+      "name": "Chad Stahelski"
+    },
+    {
+      "id": "nm1803681",
+      "name": "Charlie Woebcken"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0491565",
+      "name": "Dan Laustsen"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

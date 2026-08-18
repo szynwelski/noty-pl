@@ -1,0 +1,37 @@
+{
+  "id": "nm0867718",
+  "name": "Roland Topor",
+  "filmography": [
+    {
+      "imdb_id": "tt0074811",
+      "title": "The Tenant",
+      "year": 1976,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0079641",
+      "title": "Nosferatu the Vampyre",
+      "year": 1979,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Renfield"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYzkxYTE0ZTAtYjQzNC00MThhLTljZjMtZjA0YmQ2ZTI4ODk4XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "07.01.1938",
+  "death_date": "16.04.1997",
+  "birth_location": "Paris, France",
+  "imdb_scraped": true,
+  "filmweb_id": 44774,
+  "name_pl": "Roland Topor",
+  "birth_location_pl": "Paryż",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja"
+  ]
+}

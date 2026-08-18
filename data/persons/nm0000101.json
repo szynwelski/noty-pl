@@ -1,0 +1,127 @@
+{
+  "id": "nm0000101",
+  "name": "Dan Aykroyd",
+  "filmography": [
+    {
+      "imdb_id": "tt0080455",
+      "title": "The Blues Brothers",
+      "year": 1980,
+      "roles": [
+        "writer",
+        "star",
+        "cast"
+      ],
+      "character": "Elwood"
+    },
+    {
+      "imdb_id": "tt0087332",
+      "title": "Ghostbusters",
+      "year": 1984,
+      "roles": [
+        "writer",
+        "star",
+        "cast"
+      ],
+      "character": "Dr. Raymond Stantz"
+    },
+    {
+      "imdb_id": "tt0087469",
+      "title": "Indiana Jones and the Temple of Doom",
+      "year": 1984,
+      "roles": [
+        "cast"
+      ],
+      "character": "Weber"
+    },
+    {
+      "imdb_id": "tt0097428",
+      "title": "Ghostbusters II",
+      "year": 1989,
+      "roles": [
+        "writer",
+        "star",
+        "cast"
+      ],
+      "character": "Dr. Raymond Stantz"
+    },
+    {
+      "imdb_id": "tt0117608",
+      "title": "Sgt. Bilko",
+      "year": 1996,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Col. John T. Hall"
+    },
+    {
+      "imdb_id": "tt0120587",
+      "title": "Antz",
+      "year": 1998,
+      "roles": [
+        "cast"
+      ],
+      "character": "Chip"
+    },
+    {
+      "imdb_id": "tt0251075",
+      "title": "Evolution",
+      "year": 2001,
+      "roles": [
+        "cast"
+      ],
+      "character": "Governor Lewis"
+    },
+    {
+      "imdb_id": "tt0256524",
+      "title": "The Curse of the Jade Scorpion",
+      "year": 2001,
+      "roles": [
+        "cast"
+      ],
+      "character": "Chris Magruder"
+    },
+    {
+      "imdb_id": "tt0343660",
+      "title": "50 First Dates",
+      "year": 2004,
+      "roles": [
+        "cast"
+      ],
+      "character": "Dr. Keats"
+    },
+    {
+      "imdb_id": "tt0762107",
+      "title": "I Now Pronounce You Chuck & Larry",
+      "year": 2007,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Captain Tucker"
+    },
+    {
+      "imdb_id": "tt2120120",
+      "title": "Pixels",
+      "year": 2015,
+      "roles": [
+        "cast"
+      ],
+      "character": "1982 Championship MC"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTI2MDA3NTg0NF5BMl5BanBnXkFtZTYwMzM5ODgz._V1_.jpg",
+  "birth_date": "01.07.1952",
+  "birth_location": "Ottawa, Ontario, Canada",
+  "height": "1.85 m",
+  "filmweb_id": 3,
+  "name_pl": "Dan Aykroyd",
+  "birth_location_pl": "Ottawa",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Kanada"
+  ],
+  "wikidata_fw_id": 3
+}

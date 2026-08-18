@@ -1,0 +1,35 @@
+{
+  "id": "nm0169902",
+  "name": "Harry Cohn",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZTI1MDI4MzYtM2E3OC00NGUzLTkyNDktZjkyZGNmNjlhMTlhXkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0025316",
+      "title": "It Happened One Night",
+      "year": 1934,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0029162",
+      "title": "Lost Horizon",
+      "year": 1937,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "birth_date": "23.07.1891",
+  "death_date": "27.02.1958",
+  "birth_location": "New York City, New York, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 112684,
+  "name_pl": "Harry Cohn",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

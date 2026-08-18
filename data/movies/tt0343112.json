@@ -1,0 +1,82 @@
+{
+  "imdb_id": "tt0343112",
+  "title": "Traffic Crossing Leeds Bridge",
+  "description": "A shot of people walking on The Leeds Bridge.",
+  "runtime_minutes": 1,
+  "release_date": "01.10.1890",
+  "genres": [
+    "Documentary",
+    "Short"
+  ],
+  "directors": [
+    {
+      "id": "nm1284117",
+      "name": "Louis Aimé Augustin Le Prince"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "year": 1888,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZWIzNWZmOTctYzZlMC00NjlmLWI2NzEtMWNhOGY0ODdkZDFlXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 269165,
+  "ratings": {
+    "imdb": {
+      "rating": 6.5,
+      "votes": 3610,
+      "distribution": {
+        "1": 124,
+        "2": 85,
+        "3": 85,
+        "4": 173,
+        "5": 487,
+        "6": 639,
+        "7": 751,
+        "8": 474,
+        "9": 207,
+        "10": 585
+      },
+      "normalized": 4.6096
+    },
+    "filmweb": {
+      "rating": 6.09,
+      "votes": 874,
+      "distribution": {
+        "1": 74,
+        "2": 16,
+        "3": 36,
+        "4": 60,
+        "5": 160,
+        "6": 165,
+        "7": 117,
+        "8": 76,
+        "9": 45,
+        "10": 125
+      },
+      "normalized": 3.9857
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "11.12.2016",
+      "normalized": 7.1247
+    },
+    "score": 5.24
+  },
+  "polish_title": "Traffic Crossing Leeds Bridge",
+  "silent": true,
+  "description_pl": "Widzimy tutaj dwusekundową scenkę na moście w Leeds. Widać na niej ruch uliczny, a konkretnie przejeżdżające wozy i idących ludzi. Reżyser wybrał akurat to miejsce, ponieważ chciał ukazać ruch.",
+  "cinematographers": [
+    {
+      "id": "nm1284117",
+      "name": "Louis Aimé Augustin Le Prince"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

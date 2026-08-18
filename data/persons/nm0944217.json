@@ -1,0 +1,38 @@
+{
+  "id": "nm0944217",
+  "name": "Blazej Wójcik",
+  "filmography": [
+    {
+      "imdb_id": "tt0246593",
+      "title": "Big Animal",
+      "year": 2000,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Bank Clerk"
+    },
+    {
+      "imdb_id": "tt1514837",
+      "title": "The Reverse",
+      "year": 2009,
+      "roles": [
+        "cast"
+      ],
+      "character": "Poet Marcel Wodzicki"
+    }
+  ],
+  "birth_date": "30.10.1971",
+  "birth_location": "Chrzanów, Malopolskie, Poland",
+  "height": "1.83 m",
+  "imdb_scraped": true,
+  "filmweb_id": 8080,
+  "name_pl": "Błażej Wójcik",
+  "birth_location_pl": "Chrzanów",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Polska"
+  ],
+  "wikidata_fw_id": 8080
+}

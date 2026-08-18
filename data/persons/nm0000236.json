@@ -1,0 +1,49 @@
+{
+  "id": "nm0000236",
+  "name": "Jennifer Tilly",
+  "filmography": [
+    {
+      "imdb_id": "tt0115736",
+      "title": "Bound",
+      "year": 1996,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Violet"
+    },
+    {
+      "imdb_id": "tt0119528",
+      "title": "Liar Liar",
+      "year": 1997,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Samantha Cole"
+    },
+    {
+      "imdb_id": "tt0198781",
+      "title": "Monsters, Inc.",
+      "year": 2001,
+      "roles": [
+        "cast"
+      ],
+      "character": "Celia"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDQxNDI2MzA0N15BMl5BanBnXkFtZTYwOTcxOTI0._V1_.jpg",
+  "birth_date": "16.09.1958",
+  "birth_location": "Harbor City, California, USA",
+  "height": "1.70 m",
+  "filmweb_id": 40830,
+  "name_pl": "Jennifer Tilly",
+  "birth_location_pl": "Los Angeles, Kalifornia",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 40830
+}

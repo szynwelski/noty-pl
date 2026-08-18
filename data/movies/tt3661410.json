@@ -1,0 +1,157 @@
+{
+  "imdb_id": "tt3661410",
+  "title": "Parabellum",
+  "description": "In the company of housewives, professionals and a retired tennis instructor, Hernán is part of a middle-class community that is preparing for the eventual arrival of the end of the world at a holiday resort in the marshy Tigre delta.",
+  "runtime_minutes": 75,
+  "release_date": "07.05.2015",
+  "genres": [
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm1169643",
+      "name": "Eva Bianco"
+    },
+    {
+      "id": "nm3184778",
+      "name": "Pablo Seijo"
+    },
+    {
+      "id": "nm3876060",
+      "name": "Martín Shanly"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm3391638",
+      "name": "Lukas Valenta Rinner"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm6404204",
+      "name": "Ana Godoy"
+    },
+    {
+      "id": "nm6421014",
+      "name": "Esteban Prado"
+    },
+    {
+      "id": "nm3391638",
+      "name": "Lukas Valenta Rinner"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1169643",
+      "name": "Eva Bianco",
+      "character": "Celina"
+    },
+    {
+      "id": "nm3184778",
+      "name": "Pablo Seijo",
+      "character": "Hernán"
+    },
+    {
+      "id": "nm3876060",
+      "name": "Martín Shanly",
+      "character": "Juan"
+    }
+  ],
+  "countries": [
+    "Argentina",
+    "Austria",
+    "Uruguay"
+  ],
+  "languages": [
+    "Spanish"
+  ],
+  "color": "Color",
+  "filmweb_id": 737131,
+  "year": 2015,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZTZkNGY3OTUtMWUzZC00MTIwLTg2NDktNGQyNGI4OWY1ZGM4XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.2,
+      "votes": 161,
+      "distribution": {
+        "1": 6,
+        "2": 13,
+        "3": 17,
+        "4": 20,
+        "5": 31,
+        "6": 34,
+        "7": 21,
+        "8": 8,
+        "9": 4,
+        "10": 7
+      },
+      "normalized": 4.7618
+    },
+    "filmweb": {
+      "rating": 3.99,
+      "votes": 73,
+      "distribution": {
+        "1": 8,
+        "2": 12,
+        "3": 11,
+        "4": 12,
+        "5": 13,
+        "6": 7,
+        "7": 9,
+        "8": 1,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 4.1824
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "03.01.2019",
+      "normalized": 5.6855
+    },
+    "score": 4.8766
+  },
+  "polish_title": "Parabellum",
+  "silent": false,
+  "description_pl": "Hernan jest geologiem w średnim wieku. Wraz z grupą nieznajomych przedstawicieli klasy średniej opuszcza wygodne życie na argentyńskich przedmieściach. Przybywają do ośrodka położonego na odludziu wśród labiryntu małych wysepek otoczonych strumieniami i rzekami. Pod czujnym okiem instruktorów biorą udział w treningu, który - jak uważają - nauczy ich jak przeżyć koniec świata. Pierwszy etap szkoły przetrwania na wypadek apokalipsy odbywa się w luksusowym ośrodku. Z czasem poziom luksusu się obniża, a wzrasta poziom niewygody, trudności i zagrożenia. Budzą się pierwotne instynkty, które w grupie przebywającej w nieprzyjaznym środowisku zmierzają w nieobliczalnym kierunku.",
+  "producers": [
+    {
+      "id": "nm6421015",
+      "name": "Godoy Ana"
+    },
+    {
+      "id": "nm1907174",
+      "name": "Javier Favot"
+    },
+    {
+      "id": "nm3877246",
+      "name": "Verena Kuri"
+    },
+    {
+      "id": "nm1420990",
+      "name": "Juan Pablo Martínez"
+    },
+    {
+      "id": "nm6451204",
+      "name": "Nicolás Payueta"
+    },
+    {
+      "id": "nm4397900",
+      "name": "Alex Piperno"
+    },
+    {
+      "id": "nm3391638",
+      "name": "Lukas Valenta Rinner"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm3876003",
+      "name": "Roman Kasseroller"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

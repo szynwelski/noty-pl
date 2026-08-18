@@ -1,0 +1,51 @@
+{
+  "id": "nm0003337",
+  "name": "Karlheinz Böhm",
+  "filmography": [
+    {
+      "imdb_id": "tt0048624",
+      "title": "Sissi",
+      "year": 1955,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Kaiser Franz Joseph"
+    },
+    {
+      "imdb_id": "tt0049762",
+      "title": "Sissi - Die junge Kaiserin",
+      "year": 1956,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Kaiser Franz Josef"
+    },
+    {
+      "imdb_id": "tt0050974",
+      "title": "Sissi: The Fateful Years of an Empress",
+      "year": 1957,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Emperor Franz Josef of Austria"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZTMyNThkODYtYTE4Zi00ZjAwLWEyY2EtZjZiMTFjNmI0NTIzXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "16.03.1928",
+  "death_date": "29.05.2014",
+  "birth_location": "Darmstadt, Germany",
+  "filmweb_id": 55967,
+  "name_pl": "Karlheinz Böhm",
+  "birth_location_pl": "Darmstadt",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Etiopia",
+    "Austria"
+  ],
+  "wikidata_fw_id": 55967
+}

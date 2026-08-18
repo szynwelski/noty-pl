@@ -1,0 +1,48 @@
+{
+  "id": "nm0350328",
+  "name": "Tadeusz Gwiazdowski",
+  "filmography": [
+    {
+      "imdb_id": "tt0050585",
+      "title": "Kanal",
+      "year": 1957,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Sgt. 'Kula'"
+    },
+    {
+      "imdb_id": "tt0053176",
+      "title": "Night Train",
+      "year": 1959,
+      "roles": [
+        "cast"
+      ],
+      "character": "Train Controller"
+    },
+    {
+      "imdb_id": "tt0058775",
+      "title": "Zona dla Australijczyka",
+      "year": 1964,
+      "roles": [
+        "cast"
+      ],
+      "character": "Red Bus Driver"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZDJmOGFmOTYtNjQ5ZS00MmI3LWExYzAtYmUzYzcwYmQ2YWU2XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "01.09.1918",
+  "death_date": "12.12.1983",
+  "birth_location": "Hamborn [now Duisburg], Germany",
+  "filmweb_id": 8574,
+  "name_pl": "Tadeusz Gwiazdowski",
+  "birth_location_pl": "Hamborn n. Renem",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Polska"
+  ],
+  "wikidata_fw_id": 8574
+}

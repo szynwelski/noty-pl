@@ -1,0 +1,49 @@
+{
+  "id": "nm0001831",
+  "name": "David Warner",
+  "filmography": [
+    {
+      "imdb_id": "tt0075005",
+      "title": "The Omen",
+      "year": 1976,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Jennings"
+    },
+    {
+      "imdb_id": "tt0120338",
+      "title": "Titanic",
+      "year": 1997,
+      "roles": [
+        "cast"
+      ],
+      "character": "Spicer Lovejoy"
+    },
+    {
+      "imdb_id": "tt0133152",
+      "title": "Planet of the Apes",
+      "year": 2001,
+      "roles": [
+        "cast"
+      ],
+      "character": "Senator Sandar"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTAwMzg2Nzg1MjheQTJeQWpwZ15BbWU3MDk4Nzg0Mzg@._V1_.jpg",
+  "birth_date": "29.07.1941",
+  "death_date": "24.07.2022",
+  "birth_location": "Manchester, England, UK",
+  "height": "1.88 m",
+  "filmweb_id": 3356,
+  "name_pl": "David Warner",
+  "birth_location_pl": "Manchester, Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 3356
+}

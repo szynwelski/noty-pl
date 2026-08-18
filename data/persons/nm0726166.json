@@ -1,0 +1,41 @@
+{
+  "id": "nm0726166",
+  "name": "Leni Riefenstahl",
+  "filmography": [
+    {
+      "imdb_id": "tt0025913",
+      "title": "Triumph of the Will",
+      "year": 1935,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0030522",
+      "title": "Olympia Part One: Festival of the Nations",
+      "year": 1938,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BM2UyNjE1MTUtYTNkMi00NzEzLWI0YjAtYWUwNjhhZGQzODllXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "22.08.1902",
+  "death_date": "08.09.2003",
+  "birth_location": "Berlin, Germany",
+  "imdb_scraped": true,
+  "filmweb_id": 116312,
+  "name_pl": "Leni Riefenstahl",
+  "birth_location_pl": "Berlin",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Niemcy",
+    "Sudan",
+    "III Rzesza",
+    "Republika Weimarska",
+    "Cesarstwo Niemieckie"
+  ]
+}

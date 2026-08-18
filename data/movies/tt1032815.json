@@ -1,0 +1,236 @@
+{
+  "imdb_id": "tt1032815",
+  "title": "I Love You, Beth Cooper",
+  "description": "A nerdy valedictorian proclaims his love for Beth Cooper--the hottest, most popular girl in school--during his graduation speech. That very night, she shows up at his door offering to show him the best night of his life.",
+  "runtime_minutes": 102,
+  "release_date": "10.07.2009",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Family",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0659363",
+      "name": "Hayden Panettiere"
+    },
+    {
+      "id": "nm1770256",
+      "name": "Paul Rust"
+    },
+    {
+      "id": "nm2358430",
+      "name": "Jack Carpenter"
+    },
+    {
+      "id": "nm1988575",
+      "name": "Lauren London"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001060",
+      "name": "Chris Columbus"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0236421",
+      "name": "Larry Doyle"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0659363",
+      "name": "Hayden Panettiere",
+      "character": "Beth Cooper"
+    },
+    {
+      "id": "nm1770256",
+      "name": "Paul Rust",
+      "character": "Denis Cooverman"
+    },
+    {
+      "id": "nm2358430",
+      "name": "Jack Carpenter",
+      "character": "Rich Munsch"
+    },
+    {
+      "id": "nm1988575",
+      "name": "Lauren London",
+      "character": "Cammy"
+    },
+    {
+      "id": "nm1478996",
+      "name": "Lauren Storm",
+      "character": "Treece"
+    },
+    {
+      "id": "nm0731575",
+      "name": "Shawn Roberts",
+      "character": "Kevin"
+    },
+    {
+      "id": "nm1742119",
+      "name": "Jared Keeso",
+      "character": "Dustin"
+    },
+    {
+      "id": "nm1638242",
+      "name": "Brendan Penny",
+      "character": "Sean"
+    },
+    {
+      "id": "nm2955595",
+      "name": "Marie Avgeropoulos",
+      "character": "Valli Wooley"
+    },
+    {
+      "id": "nm1961527",
+      "name": "Josh Emerson",
+      "character": "Greg Saloga"
+    },
+    {
+      "id": "nm0001688",
+      "name": "Alan Ruck",
+      "character": "Mr. C"
+    },
+    {
+      "id": "nm0828906",
+      "name": "Cynthia Stevenson",
+      "character": "Mrs. C"
+    },
+    {
+      "id": "nm0278156",
+      "name": "Pat Finn",
+      "character": "Coach Raupp"
+    },
+    {
+      "id": "nm0767242",
+      "name": "Andrea Savage",
+      "character": "Dr. Gleason"
+    },
+    {
+      "id": "nm0173390",
+      "name": "Violet Columbus",
+      "character": "Sullen Girl (Angelica)"
+    },
+    {
+      "id": "nm2470629",
+      "name": "Anna Mae Wills",
+      "character": "Patty Keck"
+    },
+    {
+      "id": "nm2837093",
+      "name": "Anja Savcic",
+      "character": "Victoria Smeltzer"
+    },
+    {
+      "id": "nm3505635",
+      "name": "William Vaughan",
+      "character": "Paul Bergie"
+    }
+  ],
+  "countries": [
+    "United States",
+    "Canada",
+    "United Kingdom"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 470457,
+  "year": 2009,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTgyNTc2NDM3NF5BMl5BanBnXkFtZTcwNjU3Mzg0Mg@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.4,
+      "votes": 39632,
+      "distribution": {
+        "1": 1896,
+        "2": 1591,
+        "3": 2514,
+        "4": 4617,
+        "5": 8368,
+        "6": 8922,
+        "7": 5581,
+        "8": 2685,
+        "9": 977,
+        "10": 2481
+      },
+      "normalized": 2.6671
+    },
+    "filmweb": {
+      "rating": 5.71,
+      "votes": 22821,
+      "distribution": {
+        "1": 355,
+        "2": 576,
+        "3": 1575,
+        "4": 2460,
+        "5": 4824,
+        "6": 6011,
+        "7": 4056,
+        "8": 1722,
+        "9": 575,
+        "10": 667
+      },
+      "normalized": 2.9517
+    },
+    "jarek": {
+      "rating": 2,
+      "date_rated": "12.08.2010",
+      "normalized": 3.5003
+    },
+    "score": 3.0397
+  },
+  "polish_title": "Kocham Cię, Beth Cooper",
+  "silent": false,
+  "description_pl": "W trakcie oficjalnego przemówienia uczeń jednego z amerykańskich liceów wyznaje miłość najpopularniejszej dziewczynie w szkole. Jeszcze tego samego wieczora zjawia się ona w jego domu, żądając, by udowodnił, że naprawdę ja kocha...",
+  "producers": [
+    {
+      "id": "nm0055431",
+      "name": "Michael Barnathan"
+    },
+    {
+      "id": "nm0089661",
+      "name": "Jennifer Blum"
+    },
+    {
+      "id": "nm0001060",
+      "name": "Chris Columbus"
+    },
+    {
+      "id": "nm0236421",
+      "name": "Larry Doyle"
+    },
+    {
+      "id": "nm0283557",
+      "name": "Michael Flynn"
+    },
+    {
+      "id": "nm3719738",
+      "name": "Cassidy Lange"
+    },
+    {
+      "id": "nm0705365",
+      "name": "Mark Radcliffe"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0065100",
+      "name": "Christophe Beck"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0008971",
+      "name": "Phil Abraham"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,98 @@
+{
+  "imdb_id": "tt3103370",
+  "title": "Distant",
+  "description": "DISTANT is a film that is made up of 13 sections, each comprised of a single long take. Each section tells a story about distance between different time and space, focusing on the subtle moments when people are suddenly confronted with modernity and gradually become lost in the transition between this and their present lives. Without any dialogue, simply working with image, sound and actions of the characters, these 13 dramatic, realistic and mysterious scenes are painted. It tries to describe today's human condition in an abstract way - its alienation, abandonment and eternal loneliness.",
+  "runtime_minutes": 88,
+  "release_date": "02.04.2016",
+  "genres": [
+    "Documentary",
+    "Drama"
+  ],
+  "directors": [
+    {
+      "id": "nm5058167",
+      "name": "Zhengfan Yang"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm5058167",
+      "name": "Zhengfan Yang"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "China"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Color",
+  "year": 2013,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODM0MjUxZmEtYmFmMC00YTQ0LWEwZTQtNzhkNjEyMDdjNTAzXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 690488,
+  "original_title": "Yuan fang",
+  "ratings": {
+    "imdb": {
+      "rating": 6.4,
+      "votes": 18,
+      "distribution": {
+        "1": 0,
+        "2": 0,
+        "3": 2,
+        "4": 0,
+        "5": 4,
+        "6": 4,
+        "7": 2,
+        "8": 3,
+        "9": 2,
+        "10": 1
+      },
+      "normalized": 5.2857
+    },
+    "filmweb": {
+      "rating": 5.55,
+      "votes": 11,
+      "distribution": {
+        "2": 2,
+        "3": 0,
+        "4": 0,
+        "5": 3,
+        "6": 3,
+        "7": 0,
+        "8": 3,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 5.0767
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "01.10.2017",
+      "normalized": 5.6855
+    },
+    "score": 5.3493
+  },
+  "polish_title": "Dystans",
+  "silent": false,
+  "description_pl": "Film składający się z trzynastu części, trzynastu długich ujęć. Każda część opowiada o dystansie pomiędzy czasem a przestrzenią. Koncentruje się na ulotnych chwilach, kiedy ludzie nagle konfrontują się z nowoczesnością i gubią się w niej. Nie są w stanie przejść transformacji między ich przeszłym i obecnym życiem. Pokazuje człowieka, który gubi się w zgiełku i nie może wrócić do rytmu natury. Film posługuje się wyłącznie obrazem, przy pomocy którego w nieoczywisty sposób opisuje kondycję społeczeństwa - jego wyobcowanie i samotność.",
+  "producers": [
+    {
+      "id": "nm5058167",
+      "name": "Zhengfan Yang"
+    },
+    {
+      "id": "nm5057167",
+      "name": "Shengze Zhu"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm5057167",
+      "name": "Shengze Zhu"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

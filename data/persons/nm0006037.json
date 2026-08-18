@@ -1,0 +1,46 @@
+{
+  "id": "nm0006037",
+  "name": "Adolph Deutsch",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZjNlZmYzMWMtMjUxOS00ZjFhLTlkMWUtYmFlZTBjZWJmYzdlXkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0033870",
+      "title": "The Maltese Falcon",
+      "year": 1941,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt0053291",
+      "title": "Some Like It Hot",
+      "year": 1959,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt0053604",
+      "title": "The Apartment",
+      "year": 1960,
+      "roles": [
+        "composer"
+      ]
+    }
+  ],
+  "birth_date": "20.10.1897",
+  "death_date": "01.01.1980",
+  "birth_location": "London, England, UK",
+  "height": "1.68 m",
+  "filmweb_id": 13065,
+  "name_pl": "Adolph Deutsch",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania",
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 13065
+}

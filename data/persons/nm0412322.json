@@ -1,0 +1,41 @@
+{
+  "id": "nm0412322",
+  "name": "Burl Ives",
+  "filmography": [
+    {
+      "imdb_id": "tt0048028",
+      "title": "East of Eden",
+      "year": 1955,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Sam - the Sheriff"
+    },
+    {
+      "imdb_id": "tt0051459",
+      "title": "Cat on a Hot Tin Roof",
+      "year": 1958,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Big Daddy Pollitt"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNWFkNDM1MmQtOWNjNC00YzZlLWFmZDItOTA2Y2JhMDRhYWEyXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "14.06.1909",
+  "death_date": "14.04.1995",
+  "birth_location": "Hunt City, Illinois, USA",
+  "height": "1.83 m",
+  "imdb_scraped": true,
+  "filmweb_id": 42503,
+  "name_pl": "Burl Ives",
+  "birth_location_pl": "Hunt, Illinois",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 42503
+}

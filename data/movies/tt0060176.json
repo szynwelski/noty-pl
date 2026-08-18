@@ -1,0 +1,223 @@
+{
+  "imdb_id": "tt0060176",
+  "title": "Blow-Up",
+  "description": "A fashion photographer unknowingly captures a death on film after following two lovers in a park.",
+  "runtime_minutes": 111,
+  "release_date": "26.09.1967",
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0376101",
+      "name": "David Hemmings"
+    },
+    {
+      "id": "nm0000603",
+      "name": "Vanessa Redgrave"
+    },
+    {
+      "id": "nm0587234",
+      "name": "Sarah Miles"
+    },
+    {
+      "id": "nm0145284",
+      "name": "John Castle"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000774",
+      "name": "Michelangelo Antonioni"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000774",
+      "name": "Michelangelo Antonioni"
+    },
+    {
+      "id": "nm0181497",
+      "name": "Julio Cortázar"
+    },
+    {
+      "id": "nm0346096",
+      "name": "Tonino Guerra"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0376101",
+      "name": "David Hemmings",
+      "character": "Thomas"
+    },
+    {
+      "id": "nm0000603",
+      "name": "Vanessa Redgrave",
+      "character": "Jane"
+    },
+    {
+      "id": "nm0587234",
+      "name": "Sarah Miles",
+      "character": "Patricia"
+    },
+    {
+      "id": "nm0145284",
+      "name": "John Castle",
+      "character": "Bill"
+    },
+    {
+      "id": "nm0000945",
+      "name": "Jane Birkin",
+      "character": "The Blonde"
+    },
+    {
+      "id": "nm0385122",
+      "name": "Gillian Hills",
+      "character": "The Brunette"
+    },
+    {
+      "id": "nm0101248",
+      "name": "Peter Bowles",
+      "character": "Ron"
+    },
+    {
+      "id": "nm0902610",
+      "name": "Veruschka von Lehndorff",
+      "character": "Verushka"
+    },
+    {
+      "id": "nm0149615",
+      "name": "Julian Chagrin",
+      "character": "Mime"
+    },
+    {
+      "id": "nm0149613",
+      "name": "Claude Chagrin",
+      "character": "Mime"
+    },
+    {
+      "id": "nm0065169",
+      "name": "Jeff Beck",
+      "character": "Self - The Yardbirds"
+    },
+    {
+      "id": "nm8745734",
+      "name": "Roy Beck",
+      "character": "Boy dancing In Ricki Tick Club"
+    },
+    {
+      "id": "nm0083355",
+      "name": "Charlie Bird",
+      "character": "Homeless Man"
+    },
+    {
+      "id": "nm0110841",
+      "name": "Susan Brodrick",
+      "character": "Antique shop owner"
+    },
+    {
+      "id": "nm8735265",
+      "name": "Robin Burns",
+      "character": "Homeless Man"
+    },
+    {
+      "id": "nm0157796",
+      "name": "Tsai Chin",
+      "character": "Thomas's receptionist"
+    },
+    {
+      "id": "nm0181497",
+      "name": "Julio Cortázar",
+      "character": "Homeless Man"
+    },
+    {
+      "id": "nm0237446",
+      "name": "Chris Dreja",
+      "character": "Self - The Yardbirds"
+    }
+  ],
+  "countries": [
+    "United Kingdom",
+    "Italy",
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": null,
+  "filmweb_id": 33008,
+  "year": 1966,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOGFlNzlhYWMtZmZkZi00YmYyLWJiZjgtNmQ1MzkyOGQ5NDdjXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.4,
+      "votes": 73132,
+      "distribution": {
+        "1": 1041,
+        "2": 731,
+        "3": 1175,
+        "4": 1940,
+        "5": 3712,
+        "6": 7789,
+        "7": 15623,
+        "8": 19460,
+        "9": 11123,
+        "10": 10538
+      },
+      "normalized": 6.2407
+    },
+    "filmweb": {
+      "rating": 7.72,
+      "votes": 35630,
+      "distribution": {
+        "1": 349,
+        "2": 214,
+        "3": 507,
+        "4": 679,
+        "5": 1524,
+        "6": 2841,
+        "7": 6850,
+        "8": 11128,
+        "9": 7106,
+        "10": 4432
+      },
+      "normalized": 7.389
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "11.12.2005",
+      "normalized": 7.2292
+    },
+    "score": 6.953
+  },
+  "polish_title": "Powiększenie",
+  "silent": false,
+  "description_pl": "Fotograf od pokazów mody Thomas (<a href=\"/osoba/?id=nm0376101\">David Hemmings</a>) robi karierę. Jest bogaty, egoistyczny i całkowicie przekonany, że praca czyni go nowoczesnym, światowym artystą. Tymczasem w jego studiu zjawia się Jane (<a href=\"/osoba/?id=nm0000603\">Vanessa Redgrave</a>), która coraz usilniej żąda wydania zdjęć pary kochanków, którą Thomas z ukrycia sfotografował w parku. Na coraz to większych powiększeniach mężczyzna znajduje zwłoki.",
+  "producers": [
+    {
+      "id": "nm0690638",
+      "name": "Carlo Ponti"
+    },
+    {
+      "id": "nm0746163",
+      "name": "Pierre Rouve"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0359372",
+      "name": "Herbie Hancock"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005688",
+      "name": "Carlo Di Palma"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

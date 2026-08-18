@@ -1,0 +1,48 @@
+{
+  "id": "nm1416330",
+  "name": "Jake McDorman",
+  "filmography": [
+    {
+      "imdb_id": "tt0490822",
+      "title": "Bring It on: All or Nothing",
+      "year": 2006,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Brad Warner"
+    },
+    {
+      "imdb_id": "tt0337978",
+      "title": "Live Free or Die Hard",
+      "year": 2007,
+      "roles": [
+        "cast"
+      ],
+      "character": "Jim"
+    },
+    {
+      "imdb_id": "tt2179136",
+      "title": "American Sniper",
+      "year": 2014,
+      "roles": [
+        "cast"
+      ],
+      "character": "Biggles"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZmE4YjZiMzEtOGQ0MS00YTg2LWE4YTYtOWYzNWZkMjgyMzYyXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "08.07.1986",
+  "birth_location": "Dallas, Texas, USA",
+  "height": "1.85 m",
+  "filmweb_id": 259293,
+  "name_pl": "Jake McDorman",
+  "birth_location_pl": "Dallas, Teksas",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 259293
+}

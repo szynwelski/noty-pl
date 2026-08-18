@@ -1,0 +1,40 @@
+{
+  "id": "nm0000069",
+  "name": "Frank Sinatra",
+  "filmography": [
+    {
+      "imdb_id": "tt0045793",
+      "title": "From Here to Eternity",
+      "year": 1953,
+      "roles": [
+        "cast"
+      ],
+      "character": "Angelo Maggio"
+    },
+    {
+      "imdb_id": "tt0056218",
+      "title": "The Manchurian Candidate",
+      "year": 1962,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Major Bennett Marco"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYzFiNzVkMzQtNzljOS00NWUzLWI0YWYtZTllZjEwYTE1MjhmXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "12.12.1915",
+  "death_date": "14.05.1998",
+  "birth_location": "Hoboken, New Jersey, USA",
+  "height": "1.71 m",
+  "imdb_scraped": true,
+  "filmweb_id": 44696,
+  "name_pl": "Frank Sinatra",
+  "birth_location_pl": "Hoboken, New Jersey",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Włochy",
+    "Stany Zjednoczone"
+  ]
+}

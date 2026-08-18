@@ -1,0 +1,105 @@
+{
+  "imdb_id": "tt0000248",
+  "title": "A Kiss in the Tunnel",
+  "description": "A humorous subject intended to be run as a part of a railroad scene during the period in which the train is passing through a tunnel.",
+  "runtime_minutes": 1,
+  "release_date": "1899",
+  "genres": [
+    "Short",
+    "Comedy",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0809419",
+      "name": "Laura Bayley"
+    },
+    {
+      "id": "nm0808310",
+      "name": "George Albert Smith"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0808310",
+      "name": "George Albert Smith"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0809419",
+      "name": "Laura Bayley",
+      "character": "Wife"
+    },
+    {
+      "id": "nm0808310",
+      "name": "George Albert Smith",
+      "character": "Husband"
+    }
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 96467,
+  "year": 1899,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZmQyYWZiNTgtM2M3Yi00ZGFmLTg3OGEtYzM5ZjkyMjU2YmFiXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "The Kiss in the Tunnel",
+  "ratings": {
+    "imdb": {
+      "rating": 6.1,
+      "votes": 1877,
+      "distribution": {
+        "1": 46,
+        "2": 37,
+        "3": 56,
+        "4": 115,
+        "5": 329,
+        "6": 620,
+        "7": 361,
+        "8": 162,
+        "9": 61,
+        "10": 90
+      },
+      "normalized": 4.2253
+    },
+    "filmweb": {
+      "rating": 5.77,
+      "votes": 306,
+      "distribution": {
+        "1": 5,
+        "2": 3,
+        "3": 13,
+        "4": 29,
+        "5": 81,
+        "6": 83,
+        "7": 53,
+        "8": 28,
+        "9": 7,
+        "10": 4
+      },
+      "normalized": 4.1129
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "12.12.2016",
+      "normalized": 6.4102
+    },
+    "score": 4.9161
+  },
+  "polish_title": "Pocałunek w tunelu",
+  "silent": true,
+  "description_pl": "Pociąg powoli jedzie po szynach. W przedziale siedzi dwójka ludzi, czytają, prawdopodobnie jest to małżeństwo. W pewnym momencie pociąg wjeżdża do tunelu i wtedy mężczyzna przestaje czytać, odwraca się w kierunku kobiety i całuje ją. Pociąg wyjeżdża z tunelu, a para wraca do swoich książek.",
+  "cinematographers": [
+    {
+      "id": "nm0808310",
+      "name": "George Albert Smith"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-15"
+}

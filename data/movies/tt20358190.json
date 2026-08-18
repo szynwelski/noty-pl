@@ -1,0 +1,211 @@
+{
+  "imdb_id": "tt20358190",
+  "title": "Bitter Gold",
+  "description": "Pacífico's injury thrusts his daughter Carola into leading his mining crew, navigating greed, misogyny, and threats while trying to secure their future.",
+  "runtime_minutes": 83,
+  "release_date": "08.05.2025",
+  "genres": [
+    "Drama",
+    "Thriller",
+    "Western"
+  ],
+  "stars": [
+    {
+      "id": "nm0578246",
+      "name": "Francisco Melo"
+    },
+    {
+      "id": "nm17085910",
+      "name": "Matías Catalán"
+    },
+    {
+      "id": "nm2854433",
+      "name": "Daniel Antivilo"
+    },
+    {
+      "id": "nm6702582",
+      "name": "Michael Silva"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm3322221",
+      "name": "Juan Francisco Olea"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm9572581",
+      "name": "María Luisa Furché"
+    },
+    {
+      "id": "nm1375303",
+      "name": "Francisco Hervé"
+    },
+    {
+      "id": "nm6012564",
+      "name": "Moisés Sepúlveda"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm11734139",
+      "name": "Katalina Sánchez",
+      "character": "Carola"
+    },
+    {
+      "id": "nm0578246",
+      "name": "Francisco Melo",
+      "character": "Pacífico"
+    },
+    {
+      "id": "nm17085910",
+      "name": "Matías Catalán",
+      "character": "Gaspar"
+    },
+    {
+      "id": "nm6702582",
+      "name": "Michael Silva",
+      "character": ""
+    },
+    {
+      "id": "nm2854433",
+      "name": "Daniel Antivilo",
+      "character": ""
+    },
+    {
+      "id": "nm12449442",
+      "name": "Carlos Donoso",
+      "character": ""
+    },
+    {
+      "id": "nm13452652",
+      "name": "Claudio Troncoso",
+      "character": "Nelson"
+    },
+    {
+      "id": "nm13027383",
+      "name": "Moisés Angulo",
+      "character": ""
+    }
+  ],
+  "countries": [
+    "Chile",
+    "Germany",
+    "Uruguay"
+  ],
+  "languages": [
+    "Spanish"
+  ],
+  "color": "Color",
+  "filmweb_id": 10062245,
+  "year": 2024,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZTNiOTA4M2ItMWZlOS00MjY5LThiODQtODdlN2NhNzM0YzM3XkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Oro Amargo",
+  "ratings": {
+    "imdb": {
+      "rating": 6.5,
+      "votes": 206,
+      "distribution": {
+        "1": 10,
+        "2": 4,
+        "3": 5,
+        "4": 3,
+        "5": 19,
+        "6": 40,
+        "7": 51,
+        "8": 37,
+        "9": 20,
+        "10": 17
+      },
+      "normalized": 5.1455
+    },
+    "filmweb": {
+      "rating": 6.34,
+      "votes": 71,
+      "distribution": {
+        "1": 2,
+        "2": 1,
+        "3": 2,
+        "4": 4,
+        "5": 4,
+        "6": 23,
+        "7": 21,
+        "8": 9,
+        "9": 3,
+        "10": 2
+      },
+      "normalized": 4.9415
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "20.10.2024",
+      "normalized": 5.6855
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "20.10.2024",
+      "normalized": 6.3474
+    },
+    "score": 5.53
+  },
+  "polish_title": "Gorzkie złoto",
+  "silent": false,
+  "description_pl": "Carola ma szesnaście lat i marzy o wyższym wykształceniu i domu nad morzem. Ale mieszka z Pacifico, swoim ojcem, pośrodku pustyni Atakama. Aby przetrwać, wraz z małą grupą górników eksploatują kopalnię złota Cobra. Ojciec i córka ukrywają przed innymi skarb, żyłę złota, przy której w tajemnicy pracują nocami. Jak inni bardzo chcą odwrócenia swojego losu. Pewnego dnia górnik odkrywa ich sekret i brutalnie włamuje się do kopalni. Carola postanawia stawić czoła patriarchalnym strukturom i prawom dżungli oraz własnej niedojrzałości, aby zrealizować upragnione marzenia.",
+  "producers": [
+    {
+      "id": "nm2027392",
+      "name": "Virginia Bogliolo"
+    },
+    {
+      "id": "nm6358603",
+      "name": "Felipe Egaña"
+    },
+    {
+      "id": "nm12560164",
+      "name": "Julian Gerchow"
+    },
+    {
+      "id": "nm2614993",
+      "name": "Juan Bernardo González"
+    },
+    {
+      "id": "nm1375303",
+      "name": "Francisco Hervé"
+    },
+    {
+      "id": "nm9062734",
+      "name": "Arturo Pereyra"
+    },
+    {
+      "id": "nm5847009",
+      "name": "Daniela Raviola"
+    },
+    {
+      "id": "nm0775279",
+      "name": "Tom Schreiber"
+    },
+    {
+      "id": "nm6012564",
+      "name": "Moisés Sepúlveda"
+    },
+    {
+      "id": "nm3312045",
+      "name": "Cristóbal Zapata"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm6894569",
+      "name": "Sofía Scheps"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm1471654",
+      "name": "Sergio Armstrong"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

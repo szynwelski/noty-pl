@@ -1,0 +1,94 @@
+{
+  "imdb_id": "tt1758563",
+  "title": "Accordion Player",
+  "description": "A very brief film of a man playing the accordion.",
+  "runtime_minutes": 1,
+  "release_date": "1888",
+  "genres": [
+    "Documentary",
+    "Short"
+  ],
+  "stars": [
+    {
+      "id": "nm1796515",
+      "name": "Adolphe Le Prince"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm1284117",
+      "name": "Louis Aimé Augustin Le Prince"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1796515",
+      "name": "Adolphe Le Prince",
+      "character": "Self - Accordion Player"
+    }
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 605172,
+  "year": 1888,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDFiM2EyMmEtYzE5Zi00NzdhLThiMzEtNjRlM2ViYTU4NmJlXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.5,
+      "votes": 1684,
+      "distribution": {
+        "1": 83,
+        "2": 66,
+        "3": 95,
+        "4": 138,
+        "5": 461,
+        "6": 400,
+        "7": 195,
+        "8": 88,
+        "9": 25,
+        "10": 133
+      },
+      "normalized": 3.5517
+    },
+    "filmweb": {
+      "rating": 4.91,
+      "votes": 329,
+      "distribution": {
+        "1": 36,
+        "2": 13,
+        "3": 42,
+        "4": 28,
+        "5": 100,
+        "6": 41,
+        "7": 25,
+        "8": 21,
+        "9": 4,
+        "10": 19
+      },
+      "normalized": 3.368
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "11.12.2016",
+      "normalized": 5.6855
+    },
+    "score": 4.2017
+  },
+  "polish_title": "Accordion Player",
+  "silent": true,
+  "description_pl": "\"Accordion Player\" to jeden z filmów nakręconych przez <a href=\"/osoba/?id=nm1284117\">Louisa Le Prince'a</a> jednosoczewkową kamerą z 1888 roku. Kilkusekundowy obraz przedstawia akordeonistę - syna reżysera, Adolpha - grającego na schodach domu swojego dziadka, Josepha Whitley'a.",
+  "cinematographers": [
+    {
+      "id": "nm1284117",
+      "name": "Louis Aimé Augustin Le Prince"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

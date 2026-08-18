@@ -1,0 +1,91 @@
+{
+  "imdb_id": "tt0132534",
+  "title": "Stop Thief!",
+  "description": "A hungry vagabond snatches a wrapped leg of lamb and jumps into a large wooden barrel to hide. Will he get away scot-free?",
+  "runtime_minutes": 2,
+  "release_date": "28.11.1903",
+  "genres": [
+    "Short",
+    "Action",
+    "Comedy"
+  ],
+  "stars": [
+    {
+      "id": "nm1440205",
+      "name": "Sam Dalton"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0932055",
+      "name": "James Williamson"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1440205",
+      "name": "Sam Dalton",
+      "character": "Tramp"
+    }
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "year": 1901,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYmQ5ZjM5NjgtZmRlMi00ZjI4LWIxYTMtNDcwMDdhOWQ3NGI0XkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 234162,
+  "ratings": {
+    "imdb": {
+      "rating": 5.6,
+      "votes": 734,
+      "distribution": {
+        "1": 25,
+        "2": 20,
+        "3": 29,
+        "4": 83,
+        "5": 187,
+        "6": 228,
+        "7": 92,
+        "8": 31,
+        "9": 18,
+        "10": 21
+      },
+      "normalized": 4.1894
+    },
+    "filmweb": {
+      "rating": 5.12,
+      "votes": 65,
+      "distribution": {
+        "1": 1,
+        "2": 1,
+        "3": 4,
+        "4": 11,
+        "5": 24,
+        "6": 18,
+        "7": 4,
+        "8": 1,
+        "9": 0,
+        "10": 1
+      },
+      "normalized": 4.5404
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "13.12.2016",
+      "normalized": 4.9718
+    },
+    "score": 4.5672
+  },
+  "polish_title": "Stop Thief!",
+  "silent": true,
+  "description_pl": "Rzeźnik idzie niosąc tacę z mięsem. Pewien włóczęga kradnie mu mięso i ucieka. Poszkodowany wraz z psem rusza w pogoń. Złodziej chowa się w beczce. Jednak psy znajdują włóczęgę i zaczynają krążyć wokół jego kryjówki. Rzeźnik przybywszy na miejsce przewraca beczkę i wyrzuca winowajcę na ziemię.",
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-16"
+}

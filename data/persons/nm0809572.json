@@ -1,0 +1,36 @@
+{
+  "id": "nm0809572",
+  "name": "Pete Smith",
+  "filmography": [
+    {
+      "imdb_id": "tt0107822",
+      "title": "The Piano",
+      "year": 1993,
+      "roles": [
+        "cast"
+      ],
+      "character": "Hone"
+    },
+    {
+      "imdb_id": "tt0110729",
+      "title": "Once Were Warriors",
+      "year": 1994,
+      "roles": [
+        "cast"
+      ],
+      "character": "Dooley"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZTEyMWY3ZTItYjM4Ni00MTU0LTlkZWEtNTJmMjEyYjM3ZDk0XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "07.08.1958",
+  "death_date": "29.01.2022",
+  "birth_location": "Kaitaia, New Zealand",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Nowa Zelandia"
+  ],
+  "filmweb_id": 46324,
+  "name_pl": "Pete Smith",
+  "gender": "M"
+}

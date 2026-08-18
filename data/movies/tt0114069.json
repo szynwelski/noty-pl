@@ -1,0 +1,243 @@
+{
+  "imdb_id": "tt0114069",
+  "title": "Outbreak",
+  "description": "A team of Army doctors struggle to find a cure for the deadly Motaba virus that was transported from Africa to North America by a white-headed Capuchin monkey and is now spreading quickly throughout a small California town.",
+  "runtime_minutes": 128,
+  "release_date": "10.03.1995",
+  "genres": [
+    "Action",
+    "Drama",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000163",
+      "name": "Dustin Hoffman"
+    },
+    {
+      "id": "nm0000623",
+      "name": "Rene Russo"
+    },
+    {
+      "id": "nm0000151",
+      "name": "Morgan Freeman"
+    },
+    {
+      "id": "nm0000228",
+      "name": "Kevin Spacey"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000583",
+      "name": "Wolfgang Petersen"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0245435",
+      "name": "Laurence Dworet"
+    },
+    {
+      "id": "nm0690798",
+      "name": "Robert Roy Pool"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000163",
+      "name": "Dustin Hoffman",
+      "character": "Sam Daniels"
+    },
+    {
+      "id": "nm0000623",
+      "name": "Rene Russo",
+      "character": "Robby Keough"
+    },
+    {
+      "id": "nm0000151",
+      "name": "Morgan Freeman",
+      "character": "General Billy Ford"
+    },
+    {
+      "id": "nm0000228",
+      "name": "Kevin Spacey",
+      "character": "Casey Schuler"
+    },
+    {
+      "id": "nm0000421",
+      "name": "Cuba Gooding Jr.",
+      "character": "Major Salt"
+    },
+    {
+      "id": "nm0000661",
+      "name": "Donald Sutherland",
+      "character": "General Donald McClintock"
+    },
+    {
+      "id": "nm0001131",
+      "name": "Patrick Dempsey",
+      "character": "Jimbo Scott"
+    },
+    {
+      "id": "nm0596310",
+      "name": "Zakes Mokae",
+      "character": "Dr. Benjamin Iwabi"
+    },
+    {
+      "id": "nm0100942",
+      "name": "Malick Bowens",
+      "character": "Dr. Raswani"
+    },
+    {
+      "id": "nm0389099",
+      "name": "Susan Lee Hoffman",
+      "character": "Dr. Lisa Aronson"
+    },
+    {
+      "id": "nm0553468",
+      "name": "Benito Martinez",
+      "character": "Dr. Julio Ruiz"
+    },
+    {
+      "id": "nm0418589",
+      "name": "Bruce Jarchow",
+      "character": "Dr. Mascelli"
+    },
+    {
+      "id": "nm0371705",
+      "name": "Leland Hayward III",
+      "character": "Henry Seward"
+    },
+    {
+      "id": "nm0158745",
+      "name": "Daniel Chodos",
+      "character": "Rudy Alvarez"
+    },
+    {
+      "id": "nm0245653",
+      "name": "Dale Dye",
+      "character": "Colonel Briggs"
+    },
+    {
+      "id": "nm0449088",
+      "name": "Kara Keough",
+      "character": "Kate Jeffries"
+    },
+    {
+      "id": "nm0579937",
+      "name": "Gina Menza",
+      "character": "Mrs. Jeffries"
+    },
+    {
+      "id": "nm0268698",
+      "name": "Per Didrik Fasmer",
+      "character": "Mr. Jeffries"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Korean",
+    "French"
+  ],
+  "color": "Color",
+  "filmweb_id": 5432,
+  "year": 1995,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNGYxY2Q0YzUtMmE3OS00ZmQ5LWFiOGUtZDZmNTJlM2YyZjJmXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.6,
+      "votes": 146746,
+      "distribution": {
+        "1": 1135,
+        "2": 902,
+        "3": 1782,
+        "4": 4586,
+        "5": 13763,
+        "6": 37995,
+        "7": 50453,
+        "8": 23536,
+        "9": 6717,
+        "10": 5877
+      },
+      "normalized": 4.6842
+    },
+    "filmweb": {
+      "rating": 6.62,
+      "votes": 49074,
+      "distribution": {
+        "1": 66,
+        "2": 108,
+        "3": 537,
+        "4": 1436,
+        "5": 4954,
+        "6": 13827,
+        "7": 18599,
+        "8": 7435,
+        "9": 1374,
+        "10": 738
+      },
+      "normalized": 4.6081
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "23.03.2006",
+      "normalized": 6.4102
+    },
+    "score": 5.2342
+  },
+  "polish_title": "Epidemia",
+  "silent": false,
+  "description_pl": "Mieszkańców kalifornijskiego miasteczka atakuje epidemia śmiertelnej choroby. Jak się okazuje, w posiadaniu szczepionki przeciwko tajemniczej chorobie jest armia amerykańska. Jej przedstawiciele nie zgadzają się jednak na jej użycie. Czy oznacza to wyrok śmierci na wszystkich mieszkańców miasteczka?",
+  "producers": [
+    {
+      "id": "nm0114698",
+      "name": "Stephen Joel Brown"
+    },
+    {
+      "id": "nm0339248",
+      "name": "Nana Greenwald"
+    },
+    {
+      "id": "nm0376416",
+      "name": "Duncan Henderson"
+    },
+    {
+      "id": "nm0441713",
+      "name": "Gail Katz"
+    },
+    {
+      "id": "nm0465744",
+      "name": "Anne Kopelson"
+    },
+    {
+      "id": "nm0465745",
+      "name": "Arnold Kopelson"
+    },
+    {
+      "id": "nm0659529",
+      "name": "Sanford Panitch"
+    },
+    {
+      "id": "nm0000583",
+      "name": "Wolfgang Petersen"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006133",
+      "name": "James Newton Howard"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0000841",
+      "name": "Michael Ballhaus"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

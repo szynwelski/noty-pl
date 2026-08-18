@@ -1,0 +1,44 @@
+{
+  "id": "nm0001112",
+  "name": "Andrew Davis",
+  "filmography": [
+    {
+      "imdb_id": "tt0106977",
+      "title": "The Fugitive",
+      "year": 1993,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0115857",
+      "title": "Chain Reaction",
+      "year": 1996,
+      "roles": [
+        "director",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0406816",
+      "title": "The Guardian",
+      "year": 2006,
+      "roles": [
+        "director"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjI3OGJmNGEtNzA1Yi00ZGQ1LWIzNDYtZGY3ZWUzY2VhMzA2XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "21.11.1946",
+  "birth_location": "Chicago, Illinois, USA",
+  "filmweb_id": 10704,
+  "name_pl": "Andrew Davis",
+  "birth_location_pl": "Chicago, Illinois",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 10704
+}

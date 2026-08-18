@@ -1,0 +1,40 @@
+{
+  "id": "nm1214435",
+  "name": "Charlie Cox",
+  "filmography": [
+    {
+      "imdb_id": "tt0379889",
+      "title": "The Merchant of Venice",
+      "year": 2004,
+      "roles": [
+        "cast"
+      ],
+      "character": "Lorenzo"
+    },
+    {
+      "imdb_id": "tt0486655",
+      "title": "Stardust",
+      "year": 2007,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Tristan"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjA0Mzg5MTU3MV5BMl5BanBnXkFtZTgwOTUxMTQ5NzE@._V1_.jpg",
+  "birth_date": "15.12.1982",
+  "birth_location": "London, England, UK",
+  "height": "1.78 m",
+  "imdb_scraped": true,
+  "filmweb_id": 135642,
+  "name_pl": "Charlie Cox",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania",
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 135642
+}

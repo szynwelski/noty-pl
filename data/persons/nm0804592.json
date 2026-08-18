@@ -1,0 +1,65 @@
+{
+  "id": "nm0804592",
+  "name": "Jerzy Skolimowski",
+  "filmography": [
+    {
+      "imdb_id": "tt0056291",
+      "title": "Knife in the Water",
+      "year": 1962,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0213134",
+      "title": "Operation Simoon",
+      "year": 1999,
+      "roles": [
+        "cast"
+      ],
+      "character": "Hayes"
+    },
+    {
+      "imdb_id": "tt1225290",
+      "title": "Four Nights with Anna",
+      "year": 2008,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt1561768",
+      "title": "Essential Killing",
+      "year": 2010,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0848228",
+      "title": "The Avengers",
+      "year": 2012,
+      "roles": [
+        "cast"
+      ],
+      "character": "Georgi Luchkov"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQ5ODEzMDE2N15BMl5BanBnXkFtZTcwMjQ2ODM2NA@@._V1_.jpg",
+  "birth_date": "05.05.1938",
+  "birth_location": "Lódz, Lódzkie, Poland",
+  "filmweb_id": 304,
+  "name_pl": "Jerzy Skolimowski",
+  "birth_location_pl": "Łódź",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Polska"
+  ],
+  "wikidata_fw_id": 304
+}

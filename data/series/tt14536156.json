@@ -1,0 +1,170 @@
+{
+  "imdb_id": "tt14536156",
+  "title": "The Drowned Giant",
+  "description": "When a two hundred foot tall naked body washes ashore outside a small fishing village, crowds gather to witness the spectacle. A local scientist documents the leviathan's surrender to nature.",
+  "runtime_minutes": 13,
+  "release_date": "14.05.2021",
+  "genres": [
+    "Animation",
+    "Short",
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Drama",
+    "Fantasy",
+    "Horror",
+    "Mystery",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0655218",
+      "name": "Steven Pacey"
+    },
+    {
+      "id": "nm12572108",
+      "name": "Laura Pacey"
+    },
+    {
+      "id": "nm0095930",
+      "name": "Nick Boraine"
+    },
+    {
+      "id": "nm0800395",
+      "name": "Steven E. Simon"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm1783265",
+      "name": "Tim Miller"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0050618",
+      "name": "J.G. Ballard"
+    },
+    {
+      "id": "nm1783265",
+      "name": "Tim Miller"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0655218",
+      "name": "Steven Pacey",
+      "character": "Steven"
+    },
+    {
+      "id": "nm12572108",
+      "name": "Laura Pacey",
+      "character": "Female Scientist"
+    },
+    {
+      "id": "nm0095930",
+      "name": "Nick Boraine",
+      "character": "Various"
+    },
+    {
+      "id": "nm0800395",
+      "name": "Steven E. Simon",
+      "character": "Giants Right Arm"
+    },
+    {
+      "id": "nm7770979",
+      "name": "Kayli Tran",
+      "character": "Girl on Giant"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "year": 2021,
+  "type": "tvEpisode",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTE3YjQ0NzItM2YyMC00NmM3LTk4MDctMGNmN2FjMDEwMzM5XkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 824633,
+  "ratings": {
+    "imdb": {
+      "rating": 6.9,
+      "votes": 13496,
+      "distribution": {
+        "1": 351,
+        "2": 224,
+        "3": 306,
+        "4": 496,
+        "5": 1154,
+        "6": 2432,
+        "7": 3759,
+        "8": 2495,
+        "9": 1179,
+        "10": 1100
+      }
+    },
+    "filmweb": {
+      "rating": 7.94,
+      "votes": 54233,
+      "distribution": {
+        "1": 98,
+        "2": 90,
+        "3": 250,
+        "4": 388,
+        "5": 1135,
+        "6": 3408,
+        "7": 10946,
+        "8": 20253,
+        "9": 13148,
+        "10": 4517
+      }
+    },
+    "jarek": {
+      "rating": 3,
+      "date_rated": "31.10.2022"
+    }
+  },
+  "polish_title": "Miłość, śmierć i roboty",
+  "silent": false,
+  "description_pl": "\"Miłość, śmierć i roboty\" to seria krótkich animowanych opowieści należących do różnych gatunków - science fiction, fantasy, horroru i komedii. Opowiedziane w śmiały sposób historie ogląda się przyjemnie, a losy ich bohaterów przez długi czas pozostają w pamięci. Historie tworzą pierwszą antologię animowanych opowieści, która dostarczy widzom niezapomnianych i poruszających do głębi wrażeń.",
+  "producers": [
+    {
+      "id": "nm0232433",
+      "name": "Joshua Donen"
+    },
+    {
+      "id": "nm0000399",
+      "name": "David Fincher"
+    },
+    {
+      "id": "nm11971614",
+      "name": "Ben Foster"
+    },
+    {
+      "id": "nm2126361",
+      "name": "Victoria L. Howard"
+    },
+    {
+      "id": "nm10380524",
+      "name": "Jennifer Miller"
+    },
+    {
+      "id": "nm1783265",
+      "name": "Tim Miller"
+    },
+    {
+      "id": "nm0793276",
+      "name": "Al Shier"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0432725",
+      "name": "Tom Holkenborg"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

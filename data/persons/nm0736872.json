@@ -1,0 +1,30 @@
+{
+  "id": "nm0736872",
+  "name": "Fred Rogers",
+  "filmography": [
+    {
+      "imdb_id": "tt0112642",
+      "title": "Casper",
+      "year": 1995,
+      "roles": [
+        "cast"
+      ],
+      "character": "Mr. Rogers"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjAxOTk4MjUyOV5BMl5BanBnXkFtZTcwOTI5MDQyOA@@._V1_.jpg",
+  "birth_date": "20.03.1928",
+  "death_date": "27.02.2003",
+  "birth_location": "Latrobe, Pennsylvania, USA",
+  "height": "1.83 m",
+  "imdb_scraped": true,
+  "filmweb_id": 235993,
+  "name_pl": "Fred Rogers",
+  "birth_location_pl": "Latrobe, Pensylwania",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 235993
+}

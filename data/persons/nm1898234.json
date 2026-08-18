@@ -1,0 +1,29 @@
+{
+  "id": "nm1898234",
+  "name": "John Morris",
+  "filmography": [
+    {
+      "imdb_id": "tt1231587",
+      "title": "Hot Tub Time Machine",
+      "year": 2010,
+      "roles": [
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0815236",
+      "title": "She's Out of My League",
+      "year": 2010,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "imdb_scraped": true,
+  "filmweb_id": 828485,
+  "name_pl": "John Morris",
+  "gender": "M",
+  "wikidata_processed": true,
+  "birth_date": "23.02.1969"
+}

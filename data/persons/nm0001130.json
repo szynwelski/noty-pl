@@ -1,0 +1,38 @@
+{
+  "id": "nm0001130",
+  "name": "Ted Demme",
+  "filmography": [
+    {
+      "imdb_id": "tt0128442",
+      "title": "Rounders",
+      "year": 1998,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0221027",
+      "title": "Blow",
+      "year": 2001,
+      "roles": [
+        "director",
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjI1MzMyODkxOV5BMl5BanBnXkFtZTcwMzIzNDAxMw@@._V1_.jpg",
+  "birth_date": "26.10.1963",
+  "death_date": "13.01.2002",
+  "birth_location": "New York City, New York, USA",
+  "height": "1.83 m",
+  "imdb_scraped": true,
+  "filmweb_id": 46248,
+  "name_pl": "Ted Demme",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 46248
+}

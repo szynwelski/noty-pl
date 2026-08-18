@@ -1,0 +1,47 @@
+{
+  "id": "nm0934179",
+  "name": "Stuart Wilson",
+  "filmography": [
+    {
+      "imdb_id": "tt0104714",
+      "title": "Lethal Weapon 3",
+      "year": 1992,
+      "roles": [
+        "cast"
+      ],
+      "character": "Jack Travis"
+    },
+    {
+      "imdb_id": "tt0120660",
+      "title": "Enemy of the State",
+      "year": 1998,
+      "roles": [
+        "cast"
+      ],
+      "character": "Congressman Albert"
+    },
+    {
+      "imdb_id": "tt0190865",
+      "title": "Vertical Limit",
+      "year": 2000,
+      "roles": [
+        "cast"
+      ],
+      "character": "Royce Garrett"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTc0NDQ2NTAwMV5BMl5BanBnXkFtZTYwMjk0MTI3._V1_.jpg",
+  "birth_date": "25.12.1946",
+  "birth_location": "Guildford, Surrey, England, UK",
+  "height": "1.83 m",
+  "filmweb_id": 3647,
+  "name_pl": "Stuart Wilson",
+  "birth_location_pl": "Guildford, Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 3647
+}

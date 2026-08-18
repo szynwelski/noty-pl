@@ -1,0 +1,44 @@
+{
+  "id": "nm0795975",
+  "name": "Joe Shuster",
+  "filmography": [
+    {
+      "imdb_id": "tt0034247",
+      "title": "Superman: The Mad Scientist",
+      "year": 1941,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0078346",
+      "title": "Superman",
+      "year": 1978,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt5950044",
+      "title": "Superman",
+      "year": 2025,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNGY4N2Y4ZjEtMDgwOS00NDYwLWExN2UtMzU0NGMxNWJjYTk1XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "10.07.1914",
+  "death_date": "30.07.1992",
+  "birth_location": "Toronto, Ontario, Canada",
+  "filmweb_id": 45806,
+  "name_pl": "Joe Shuster",
+  "birth_location_pl": "Toronto",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Kanada",
+    "Stany Zjednoczone"
+  ]
+}

@@ -1,0 +1,839 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🎬</text></svg>">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Urodzenie — Noty</title>
+  <link rel="stylesheet" href="../../static/style.css">
+  <script src="../../static/translations.js"></script>
+  <script src="../../static/tooltip.js"></script>
+  <style>
+    .tab-bar { display:flex; border-bottom:1px solid var(--border); margin-bottom:1.25rem; }
+    .tab { background:none; border:none; border-bottom:2px solid transparent; padding:.55rem 1.1rem;
+           margin-bottom:-1px; cursor:pointer; color:var(--muted); font-size:.9rem;
+           font-family:inherit; transition:color .15s; }
+    .tab:hover { color:var(--text); }
+    .tab.active { color:var(--accent); border-bottom-color:var(--accent); font-weight:500; }
+    .tab-bar.inner { margin-top:.75rem; margin-bottom:1rem; }
+  </style>
+</head>
+<body>
+  <nav>
+    <a class="logo" href="/">no<span>ty</span></a>
+    <a class="nav-link" href="/">Filmy</a>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Osoby <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/osoba/rezyser/">Reżyserzy</a>
+        <a href="/osoba/scenarzysta/">Scenarzyści</a>
+        <a href="/osoba/gwiazda/">Gwiazdy</a>
+        <a href="/osoba/aktor/">Aktorzy</a>
+        <a href="/osoba/kompozytor/">Kompozytorzy</a>
+        <a href="/osoba/operator/">Operatorzy</a>
+        <a href="/osoba/producent/">Producenci</a>
+        <a href="/osoba/wszechstronna/">Wszechstronni</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Krytycy <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/krytyk/jarek/">Jarek</a>
+        <a href="/krytyk/michal/">Michał</a>
+        <a href="/krytyk/imdb/">IMDb</a>
+        <a href="/krytyk/filmweb/">Filmweb</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Kategorie <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/kategoria/gatunek/">Gatunki</a>
+        <a href="/kategoria/kraj/">Kraje</a>
+        <a href="/kategoria/jezyk/">Języki</a>
+        <a href="/kategoria/dekada/">Dekady</a>
+        <a href="/kategoria/rok/">Lata</a>
+        <a href="/kategoria/czas/">Czas trwania</a>
+        <a href="/kategoria/popularnosc/">Popularność</a>
+        <hr>
+        <a href="/kategoria/plec/">Płeć</a>
+        <a href="/kategoria/obywatelstwo/">Obywatelstwo</a>
+        <a href="/kategoria/urodzenie/">Urodzenie</a>
+        <a href="/kategoria/wiek/">Wiek</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Statystyki <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/statystyki/podsumowanie/">Podsumowanie</a>
+        <a href="/statystyki/rekordy/">Rekordy</a>
+      </div>
+    </div>
+    <div class="nav-dropdown">
+      <button class="nav-dropdown-btn">Metodologia <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></button>
+      <div class="nav-dropdown-menu">
+        <a href="/metodologia/filmy/">Filmy</a>
+        <a href="/metodologia/osoby/">Osoby</a>
+        <a href="/metodologia/kategorie-filmow/">Kategorie filmów</a>
+        <a href="/metodologia/kategorie-osob/">Kategorie osób</a>
+      </div>
+    </div>
+    <button id="search-global-btn" class="nav-search-btn" title="Szukaj (⌘K)">
+      <svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+    </button>
+  </nav>
+  <div id="search-modal" class="search-modal">
+    <div id="search-modal-backdrop" class="search-modal-backdrop"></div>
+    <div class="search-modal-box">
+      <div class="search-modal-header">
+        <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink:0;color:var(--muted)"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        <input id="search-modal-input" class="search-modal-input" type="text" placeholder="Szukaj filmów i osób…" autocomplete="off" spellcheck="false">
+        <kbd class="search-modal-esc">Esc</kbd>
+      </div>
+      <div id="search-modal-results" class="search-modal-results"></div>
+    </div>
+  </div>
+  <script src="/static/search.js"></script>
+
+  <div id="tooltip"></div>
+  <div class="container">
+    <h1>Urodzenie <a href="/metodologia/kategorie-osob/#kategorie" title="Jak obliczana jest ocena?" style="font-size:.7rem;font-weight:400;color:var(--muted);border:1px solid var(--border);border-radius:50%;padding:.1em .5em;vertical-align:middle;text-decoration:none;margin-left:.4rem">?</a></h1>
+
+    <div id="loading">Ładowanie…</div>
+    <div id="error" style="display:none;color:var(--danger)"></div>
+    <div id="content" style="display:none">
+
+      <!-- Outer tabs -->
+      <div class="tab-bar">
+        <button class="tab active" data-outer="kraj">Kraj urodzenia</button>
+        <button class="tab"        data-outer="dekada">Dekada urodzenia</button>
+      </div>
+
+      <!-- ══ KRAJ PANEL ══════════════════════════════════════════════════════ -->
+      <div id="panel-kraj">
+        <div class="search-bar">
+          <div class="search-wrap">
+            <input id="search" type="text" placeholder="Szukaj kraju…" autocomplete="off">
+            <button id="search-clear" class="search-clear" style="display:none" aria-label="Wyczyść">×</button>
+          </div>
+          <span class="count" id="count-kraj"></span>
+        </div>
+
+        <div class="tab-bar inner">
+          <button class="tab active" data-inner="liczba">Liczba osób</button>
+          <button class="tab"        data-inner="ocena">Ocena</button>
+        </div>
+
+        <div id="panel-liczba">
+          <table id="table-liczba">
+            <colgroup><col><col style="width:4.5rem"><col style="width:3.8rem"><col style="width:3.8rem"><col style="width:3.8rem"><col style="width:3.8rem"><col style="width:3.8rem"><col style="width:3.8rem"><col style="width:3.8rem"></colgroup>
+            <thead>
+              <tr>
+                <th data-table="liczba" data-col="name">Kraj</th>
+                <th class="num sorted" data-table="liczba" data-col="total" data-dir="-1">Razem</th>
+                <th class="num" data-table="liczba" data-col="directors"        title="Reżyserzy">Reż.</th>
+                <th class="num" data-table="liczba" data-col="writers"          title="Scenarzyści">Scen.</th>
+                <th class="num" data-table="liczba" data-col="stars"            title="Gwiazdy">Gw.</th>
+                <th class="num" data-table="liczba" data-col="actors"           title="Aktorzy">Akt.</th>
+                <th class="num" data-table="liczba" data-col="composers"        title="Kompozytorzy">Komp.</th>
+                <th class="num" data-table="liczba" data-col="cinematographers" title="Operatorzy">Oper.</th>
+                <th class="num" data-table="liczba" data-col="producers"        title="Producenci">Prod.</th>
+              </tr>
+            </thead>
+            <tbody id="tbody-liczba"></tbody>
+          </table>
+        </div>
+
+        <div id="panel-ocena" style="display:none">
+          <table id="table-ocena">
+            <colgroup><col><col style="width:4.5rem"><col style="width:3.8rem"><col style="width:3.8rem"><col style="width:3.8rem"><col style="width:3.8rem"><col style="width:3.8rem"><col style="width:3.8rem"><col style="width:3.8rem"></colgroup>
+            <thead>
+              <tr>
+                <th data-table="ocena" data-col="name">Kraj</th>
+                <th class="num sorted" data-table="ocena" data-col="score" data-dir="-1">Ocena</th>
+                <th class="num" data-table="ocena" data-col="directors"        title="Reżyserzy">Reż.</th>
+                <th class="num" data-table="ocena" data-col="writers"          title="Scenarzyści">Scen.</th>
+                <th class="num" data-table="ocena" data-col="stars"            title="Gwiazdy">Gw.</th>
+                <th class="num" data-table="ocena" data-col="actors"           title="Aktorzy">Akt.</th>
+                <th class="num" data-table="ocena" data-col="composers"        title="Kompozytorzy">Komp.</th>
+                <th class="num" data-table="ocena" data-col="cinematographers" title="Operatorzy">Oper.</th>
+                <th class="num" data-table="ocena" data-col="producers"        title="Producenci">Prod.</th>
+              </tr>
+            </thead>
+            <tbody id="tbody-ocena"></tbody>
+          </table>
+        </div>
+
+        <div id="map-section" style="display:none;margin-top:2rem">
+          <h2 style="font-size:1rem;font-weight:600;margin:0 0 .25rem;color:var(--text)">Liczba osób według kraju urodzenia</h2>
+          <div id="map-wrap" style="border:1px solid var(--border);border-radius:var(--radius);overflow:hidden;line-height:0"></div>
+          <div id="map-legend" style="display:flex;align-items:center;gap:.5rem;margin-top:.5rem;font-size:.78rem;color:var(--muted)">
+            <span>mało</span>
+            <div id="map-legend-bar" style="flex:1;max-width:160px;height:8px;border-radius:4px"></div>
+            <span>dużo</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- ══ DEKADA PANEL ════════════════════════════════════════════════════ -->
+      <div id="panel-dekada" style="display:none">
+        <table id="table-dekada">
+          <colgroup><col style="width:5rem"><col style="width:4.5rem"><col style="width:4.5rem"><col style="width:3.8rem"><col style="width:3.8rem"><col style="width:3.8rem"><col style="width:3.8rem"><col style="width:3.8rem"><col style="width:3.8rem"><col style="width:3.8rem"></colgroup>
+          <thead>
+            <tr>
+              <th class="sorted" data-table="dekada" data-col="decade" data-dir="1">Dekada</th>
+              <th class="num" data-table="dekada" data-col="total">Razem</th>
+              <th class="num" data-table="dekada" data-col="score">Ocena</th>
+              <th class="num" data-table="dekada" data-col="directors"        title="Reżyserzy">Reż.</th>
+              <th class="num" data-table="dekada" data-col="writers"          title="Scenarzyści">Scen.</th>
+              <th class="num" data-table="dekada" data-col="stars"            title="Gwiazdy">Gw.</th>
+              <th class="num" data-table="dekada" data-col="actors"           title="Aktorzy">Akt.</th>
+              <th class="num" data-table="dekada" data-col="composers"        title="Kompozytorzy">Komp.</th>
+              <th class="num" data-table="dekada" data-col="cinematographers" title="Operatorzy">Oper.</th>
+              <th class="num" data-table="dekada" data-col="producers"        title="Producenci">Prod.</th>
+            </tr>
+          </thead>
+          <tbody id="tbody-dekada"></tbody>
+        </table>
+
+        <h2 style="margin-top:2.5rem">Trend ocen według dekady urodzenia</h2>
+        <p class="muted">Kliknij pozycję legendy, żeby zobaczyć tylko jedną rolę; kliknij ponownie, żeby przywrócić wszystkie.</p>
+        <div id="decade-chart-legend" style="display:flex;gap:1.25rem;flex-wrap:wrap;margin:.75rem 0 .25rem"></div>
+        <svg id="decade-line-svg" viewBox="0 0 800 220" style="width:100%;max-width:800px;overflow:visible;display:block"></svg>
+
+        <h2 style="margin-top:2rem">Liczba osób według dekady urodzenia</h2>
+        <svg id="decade-bar-svg" viewBox="0 0 800 110" style="width:100%;max-width:800px;overflow:visible;display:block"></svg>
+      </div>
+
+    </div>
+  </div>
+
+  <script>
+  const ROLE_COLS = [
+    { key: 'directors',        label: 'Reżyserzy',    color: '#3d6fe8' },
+    { key: 'writers',          label: 'Scenarzyści',  color: '#16a34a' },
+    { key: 'stars',            label: 'Gwiazdy',      color: '#9333ea' },
+    { key: 'actors',           label: 'Aktorzy',      color: '#ca8a04' },
+    { key: 'composers',        label: 'Kompozytorzy', color: '#dc2626' },
+    { key: 'cinematographers', label: 'Operatorzy',   color: '#0891b2' },
+    { key: 'producers',        label: 'Producenci',   color: '#ea580c' },
+  ];
+  let GLOBAL_AVG = {};  // per-role global means, loaded from role_means.json (built from data)
+  const BAYES_M = 30;
+
+  // IMDb birth-location names not covered by country-en-iso.json
+  const EXTRA_ISO = {
+    'USA':'US','UK':'GB','England':'GB','Scotland':'GB','Wales':'GB',
+    'Northern Ireland':'GB','USSR':'RU','Russian Empire':'RU',
+    'Czechoslovakia':'CZ','Yugoslavia':'RS','West Germany':'DE',
+    'East Germany':'DE','German Democratic Republic':'DE','Austria-Hungary':'AT',
+    'British India':'IN','Hong Kong':'HK','South Korea':'KR',
+    'North Korea':'KP','Taiwan':'TW','South Africa':'ZA',
+  };
+
+  function bayesRole(d, roleKey) {
+    if (!d || d.count === 0 || d.avg == null) return null;
+    return (d.count * d.avg + BAYES_M * GLOBAL_AVG[roleKey]) / (d.count + BAYES_M);
+  }
+
+  function computeScore(entry) {
+    const scores = ROLE_COLS
+      .map(r => bayesRole(entry[r.key], r.key))
+      .filter(s => s != null);
+    return scores.length ? scores.reduce((a, b) => a + b, 0) / scores.length : null;
+  }
+
+
+  function buildTip(roleDef, entry) {
+    const d = entry[roleDef.key];
+    if (!d || !d.top?.length)
+      return `<div class="tip-title">${roleDef.label}</div><div class="muted" style="font-size:.85rem">Brak danych</div>`;
+    const bayes = bayesRole(d, roleDef.key);
+    const rows = d.top.map(p =>
+      `<tr><td style="padding-right:.75em"><a href="/osoba/?id=${p.id}" style="color:inherit">${p.name}</a></td>` +
+      `<td class="num"><span class="${scoreClass(p.score)}">${fmt(p.score)}</span></td></tr>`
+    ).join('');
+    return `<div class="tip-title">${roleDef.label}</div>` +
+      `<div class="tip-sub-label">Bayesa: ${fmt(bayes)} · śr.: ${fmt(d.avg)} · n=${d.count}</div>` +
+      `<table style="border-collapse:collapse;font-size:.85rem">${rows}</table>`;
+  }
+
+  // ── Kraj state ────────────────────────────────────────────────────────────
+
+  let krajRows = [];
+  let activeInner = 'liczba';
+  const sortState = {
+    liczba: { col: 'total', dir: -1 },
+    ocena:  { col: 'score', dir: -1 },
+    dekada: { col: 'decade', dir: 1 },
+  };
+  const DEFAULT_SORT = { liczba: 'total', ocena: 'score', dekada: 'decade' };
+
+  function filteredKraj() {
+    const q = document.getElementById('search').value.trim().toLowerCase();
+    return q ? krajRows.filter(r => r.name.toLowerCase().includes(q)) : krajRows;
+  }
+
+  function sortedKraj(list, table) {
+    const { col, dir } = sortState[table];
+    return [...list].sort((a, b) => {
+      if (col === 'name')  return dir * a.name.localeCompare(b.name, 'pl');
+      if (col === 'total') return dir * (a.total - b.total);
+      if (col === 'score') {
+        if (a.score == null && b.score == null) return 0;
+        if (a.score == null) return 1;
+        if (b.score == null) return -1;
+        return dir * (a.score - b.score);
+      }
+      const rk = ROLE_COLS.find(r => r.key === col);
+      if (!rk) return 0;
+      if (table === 'ocena') {
+        const va = bayesRole(a.entry[rk.key], rk.key) ?? -Infinity;
+        const vb = bayesRole(b.entry[rk.key], rk.key) ?? -Infinity;
+        return dir * (va - vb);
+      }
+      const ca = a.entry[rk.key]?.count ?? 0;
+      const cb = b.entry[rk.key]?.count ?? 0;
+      return dir * (ca - cb);
+    });
+  }
+
+  function renderKrajCount(list) {
+    const data = sortedKraj(list, 'liczba');
+    const tbody = document.getElementById('tbody-liczba');
+    tbody.innerHTML = '';
+    data.forEach(row => {
+      const tr = document.createElement('tr');
+      let html = `<td>${row.name}</td><td class="num">${row.total.toLocaleString('pl')}</td>`;
+      ROLE_COLS.forEach(roleDef => {
+        const cnt = row.entry[roleDef.key]?.count ?? 0;
+        html += cnt === 0
+          ? `<td class="num muted">—</td>`
+          : `<td class="num" data-role="${roleDef.key}">${cnt.toLocaleString('pl')}</td>`;
+      });
+      tr.innerHTML = html;
+      ROLE_COLS.forEach(roleDef => {
+        const td = tr.querySelector(`[data-role="${roleDef.key}"]`);
+        if (td) attachTip(td, () => buildTip(roleDef, row.entry));
+      });
+      tbody.appendChild(tr);
+    });
+  }
+
+  function renderKrajScore(list) {
+    const data = sortedKraj(list, 'ocena');
+    const tbody = document.getElementById('tbody-ocena');
+    tbody.innerHTML = '';
+    data.forEach(row => {
+      const tr = document.createElement('tr');
+      const sc = row.score;
+      let html = `<td>${row.name}</td>`;
+      html += `<td class="num"><span class="${scoreClass(sc)}">${sc != null ? fmt(sc) : '—'}</span></td>`;
+      ROLE_COLS.forEach(roleDef => {
+        const b = bayesRole(row.entry[roleDef.key], roleDef.key);
+        html += b == null
+          ? `<td class="num muted">—</td>`
+          : `<td class="num" data-role="${roleDef.key}"><span class="${scoreClass(b)}">${fmt(b)}</span></td>`;
+      });
+      tr.innerHTML = html;
+      ROLE_COLS.forEach(roleDef => {
+        const td = tr.querySelector(`[data-role="${roleDef.key}"]`);
+        if (td) attachTip(td, () => buildTip(roleDef, row.entry));
+      });
+      tbody.appendChild(tr);
+    });
+  }
+
+  function renderKraj() {
+    const list = filteredKraj();
+    document.getElementById('count-kraj').textContent =
+      list.length === krajRows.length ? `${krajRows.length} krajów` : `${list.length} z ${krajRows.length}`;
+    renderKrajCount(list);
+    renderKrajScore(list);
+  }
+
+  // ── Dekada state ──────────────────────────────────────────────────────────
+
+  let dekadaRows = [];
+  let activeRole = null;
+
+  const SCORE_LINE = { key: 'score', label: 'Ocena', color: '#1a1d2e' };
+
+  function osobaFleksja(n) {
+    if (n === 1) return 'osoba';
+    const m10 = n % 10, m100 = n % 100;
+    if (m10 >= 2 && m10 <= 4 && (m100 < 10 || m100 >= 20)) return 'osoby';
+    return 'osób';
+  }
+
+  function toRoman(n) {
+    const vals = [100,90,50,40,10,9,5,4,1];
+    const syms = ['C','XC','L','XL','X','IX','V','IV','I'];
+    let r = '';
+    for (let i = 0; i < vals.length; i++)
+      while (n >= vals[i]) { r += syms[i]; n -= vals[i]; }
+    return r;
+  }
+
+  function isCenturyBucket(d) { return d < 1800; }
+
+  function decadeLabel(d) {
+    if (d < 0) return `${toRoman(-d / 100)} w. p.n.e.`;   // BC century bucket
+    if (isCenturyBucket(d)) {
+      const century = Math.floor(d / 100) + 1;
+      return `${toRoman(century)} w.`;
+    }
+    const century = Math.floor(d / 100) + 1;
+    const dec = d % 100;
+    return `${toRoman(century)} w., ${String(dec).padStart(2, '0')}.`;
+  }
+
+  function decadeRange(d) {
+    if (d < 0) return `${-d}–${-d - 99} p.n.e.`;          // e.g. 900–801 p.n.e.
+    if (isCenturyBucket(d)) return `${d}–${d + 99}`;
+    return `${d}–${d + 9}`;
+  }
+
+  function renderDekada() {
+    const { col, dir } = sortState.dekada;
+    const data = [...dekadaRows].sort((a, b) => {
+      if (col === 'decade') return dir * (a.decade - b.decade);
+      if (col === 'total')  return dir * (a.total - b.total);
+      if (col === 'score') {
+        if (a.score == null && b.score == null) return 0;
+        if (a.score == null) return 1;
+        if (b.score == null) return -1;
+        return dir * (a.score - b.score);
+      }
+      const rk = ROLE_COLS.find(r => r.key === col);
+      if (!rk) return 0;
+      const ca = a.entry[rk.key]?.count ?? 0;
+      const cb = b.entry[rk.key]?.count ?? 0;
+      return dir * (ca - cb);
+    });
+
+    const tbody = document.getElementById('tbody-dekada');
+    tbody.innerHTML = '';
+    data.forEach((row, rowIdx) => {
+      const tr = document.createElement('tr');
+      const sc = row.score;
+      let html = `<td>${decadeLabel(row.decade)}</td>`;
+      html += `<td class="num">${row.total.toLocaleString('pl')}</td>`;
+      html += `<td class="num score-cell"><span class="${scoreClass(sc)}">${sc != null ? fmt(sc) : '—'}</span></td>`;
+      ROLE_COLS.forEach(roleDef => {
+        const cnt = row.entry[roleDef.key]?.count ?? 0;
+        html += cnt === 0
+          ? `<td class="num muted">—</td>`
+          : `<td class="num" data-role="${roleDef.key}">${cnt.toLocaleString('pl')}</td>`;
+      });
+      tr.innerHTML = html;
+      attachTip(tr.querySelector('td:first-child'), () =>
+        `<div class="tip-title">${decadeLabel(row.decade)}</div>` +
+        `<div class="tip-sub-label">${decadeRange(row.decade)}</div>`
+      );
+      // Tooltip on score cell — per-role Bayesian breakdown
+      if (row.score != null) {
+        const scell = tr.querySelector('.score-cell');
+        attachTip(scell, () => {
+          const roleScores = ROLE_COLS
+            .map(r => ({ label: r.label, bayes: bayesRole(row.entry[r.key], r.key) }))
+            .filter(r => r.bayes != null);
+          const roleRows = roleScores.map(r =>
+            `<tr><td style="padding-right:.75em">${r.label}</td>` +
+            `<td class="num"><span class="${scoreClass(r.bayes)}">${fmt(r.bayes)}</span></td></tr>`
+          ).join('');
+          return `<div class="tip-title">Ocena</div>` +
+            `<div class="tip-main-val">${fmt(row.score)}</div>` +
+            `<div class="tip-sub-label">średnia z ${roleScores.length} ról</div>` +
+            `<table style="border-collapse:collapse;font-size:.85rem">${roleRows}</table>`;
+        });
+      }
+      ROLE_COLS.forEach(roleDef => {
+        const td = tr.querySelector(`[data-role="${roleDef.key}"]`);
+        if (td) attachTip(td, () => buildTip(roleDef, row.entry));
+      });
+      tbody.appendChild(tr);
+    });
+  }
+
+  function applyRoleVisibility() {
+    document.querySelectorAll('.role-line,.role-dot').forEach(el => {
+      el.style.opacity = (!activeRole || activeRole === el.dataset.role) ? '' : '0.06';
+    });
+    document.querySelectorAll('.role-legend-item').forEach(el => {
+      el.style.opacity    = (!activeRole || activeRole === el.dataset.role) ? '1' : '0.35';
+      el.style.fontWeight = activeRole === el.dataset.role ? '600' : '';
+    });
+    renderDecadeBarChart();
+  }
+
+  function renderDecadeLineChart() {
+    const data = [...dekadaRows].sort((a, b) => a.decade - b.decade);
+    if (data.length < 2) return;
+
+    const W = 800, H = 220, PL = 42, PR = 16, PT = 16, PB = 32;
+    const cw = W - PL - PR, ch = H - PT - PB;
+
+    // Collect all role Bayesian values to determine y range
+    const allVals = data.flatMap(r =>
+      ROLE_COLS.map(rc => bayesRole(r.entry[rc.key], rc.key)).filter(v => v != null)
+    );
+    if (!allVals.length) return;
+    const rawMin = Math.min(...allVals), rawMax = Math.max(...allVals);
+    const yMin = Math.floor((rawMin - 0.3) * 2) / 2;
+    const yMax = Math.ceil((rawMax  + 0.3) * 2) / 2;
+
+    const xPos = i => PL + (i / (data.length - 1)) * cw;
+    const yPos = v => PT + ch * (1 - (v - yMin) / (yMax - yMin));
+
+    let s = '';
+    for (let y = Math.ceil(yMin * 2) / 2; y <= yMax + 0.001; y = Math.round((y + 0.5) * 100) / 100) {
+      const yp = yPos(y).toFixed(1);
+      const isInt = Number.isInteger(y);
+      s += `<line x1="${PL}" x2="${W-PR}" y1="${yp}" y2="${yp}" stroke="var(--border)" stroke-width="${isInt?1:.5}"${isInt?'':' stroke-dasharray="2,3"'}/>`;
+      if (isInt) s += `<text x="${PL-5}" y="${(+yp+4).toFixed(1)}" text-anchor="end" font-size="11" fill="var(--muted)">${y}</text>`;
+    }
+    s += `<line x1="${PL}" x2="${PL}" y1="${PT}" y2="${PT+ch}" stroke="var(--border)"/>`;
+    s += `<line x1="${PL}" x2="${W-PR}" y1="${PT+ch}" y2="${PT+ch}" stroke="var(--border)"/>`;
+    data.forEach((r, i) =>
+      s += `<text x="${xPos(i).toFixed(1)}" y="${(PT+ch+16).toFixed(1)}" text-anchor="middle" font-size="11" fill="var(--muted)">${r.decade}</text>`
+    );
+
+    // Lines (pointer-events:none so dots stay hittable)
+    // Role lines first (thinner)
+    for (const rc of ROLE_COLS) {
+      const pts = data.map((r, i) => {
+        const v = bayesRole(r.entry[rc.key], rc.key);
+        return v != null ? `${xPos(i).toFixed(1)},${yPos(v).toFixed(1)}` : null;
+      }).filter(Boolean);
+      if (pts.length < 2) continue;
+      s += `<polyline class="role-line" data-role="${rc.key}" points="${pts.join(' ')}" fill="none" stroke="${rc.color}" stroke-width="1.75" stroke-linejoin="round" stroke-linecap="round" pointer-events="none"/>`;
+    }
+    // Overall score line on top (thicker)
+    {
+      const pts = data.map((r, i) => r.score != null ? `${xPos(i).toFixed(1)},${yPos(r.score).toFixed(1)}` : null).filter(Boolean);
+      if (pts.length >= 2)
+        s += `<polyline class="role-line" data-role="score" points="${pts.join(' ')}" fill="none" stroke="${SCORE_LINE.color}" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" pointer-events="none"/>`;
+    }
+
+    // Dots — role dots first, score dots on top
+    for (const rc of ROLE_COLS) {
+      data.forEach((r, i) => {
+        const v = bayesRole(r.entry[rc.key], rc.key);
+        if (v == null) return;
+        s += `<circle class="role-dot" data-role="${rc.key}" data-i="${i}" data-rkey="${rc.key}" cx="${xPos(i).toFixed(1)}" cy="${yPos(v).toFixed(1)}" r="4" fill="${rc.color}"/>`;
+      });
+    }
+    data.forEach((r, i) => {
+      if (r.score == null) return;
+      s += `<circle class="role-dot" data-role="score" data-i="${i}" data-rkey="score" cx="${xPos(i).toFixed(1)}" cy="${yPos(r.score).toFixed(1)}" r="4" fill="${SCORE_LINE.color}"/>`;
+    });
+
+    document.getElementById('decade-line-svg').innerHTML = s;
+
+    // Dot tooltips
+    document.querySelectorAll('.role-dot').forEach(dot => {
+      const row = dekadaRows.find(r => r.decade === data[+dot.dataset.i].decade);
+      if (!row) return;
+      const rkey = dot.dataset.rkey;
+      if (rkey === 'score') {
+        attachTip(dot, () =>
+          `<div class="tip-title">${decadeLabel(row.decade)} <span style="opacity:.65;font-weight:400">(${decadeRange(row.decade)})</span> — Ocena</div>` +
+          `<div class="tip-main-val">${fmt(row.score)}</div>` +
+          _tipRows([['Osób', row.total.toLocaleString('pl')]])
+        );
+      } else {
+        const rc = ROLE_COLS.find(r => r.key === rkey);
+        if (!rc) return;
+        const v   = bayesRole(row.entry[rc.key], rc.key);
+        const cnt = row.entry[rc.key]?.count ?? 0;
+        attachTip(dot, () =>
+          `<div class="tip-title">${decadeLabel(row.decade)} <span style="opacity:.65;font-weight:400">(${decadeRange(row.decade)})</span> — ${rc.label}</div>` +
+          `<div class="tip-main-val">${fmt(v)}</div>` +
+          _tipRows([['Osób', cnt.toLocaleString('pl')]])
+        );
+      }
+    });
+
+    // Legend — score first, then roles
+    const legendEl = document.getElementById('decade-chart-legend');
+    const allLines = [SCORE_LINE, ...ROLE_COLS];
+    legendEl.innerHTML = allLines.map(rc => {
+      const sw = rc.key === 'score' ? 2.5 : 1.75;
+      return `<span class="role-legend-item" data-role="${rc.key}" style="display:inline-flex;align-items:center;gap:.3rem;font-size:.85rem;color:var(--muted);cursor:pointer;user-select:none">` +
+        `<svg width="18" height="8" style="flex-shrink:0"><line x1="0" y1="4" x2="18" y2="4" stroke="${rc.color}" stroke-width="${sw}"/></svg>` +
+        `${rc.label}</span>`;
+    }).join('');
+
+    legendEl.querySelectorAll('.role-legend-item').forEach(item => {
+      item.addEventListener('click', () => {
+        activeRole = activeRole === item.dataset.role ? null : item.dataset.role;
+        applyRoleVisibility();
+      });
+    });
+
+    applyRoleVisibility();
+  }
+
+  function renderDecadeBarChart() {
+    const data = [...dekadaRows].sort((a, b) => a.decade - b.decade);
+    if (!data.length) return;
+
+    const rc = (activeRole && activeRole !== 'score') ? ROLE_COLS.find(r => r.key === activeRole) : null;
+    const getCount = r => rc ? (r.entry[rc.key]?.count ?? 0) : r.total;
+    const barColor = rc ? rc.color : 'var(--accent)';
+    const label    = rc ? rc.label : 'osób';
+
+    const W = 800, H = 110, PL = 42, PR = 16, PT = 8, PB = 32;
+    const cw = W - PL - PR, ch = H - PT - PB;
+    const maxVal  = Math.max(...data.map(getCount), 1);
+    const spacing = data.length > 1 ? cw / (data.length - 1) : cw;
+    const barW    = Math.min(40, Math.max(4, spacing * 0.6));
+
+    const xPos = i => PL + (data.length > 1 ? (i / (data.length - 1)) * cw : cw / 2);
+
+    let s = '';
+    s += `<line x1="${PL}" x2="${PL}" y1="${PT}" y2="${PT+ch}" stroke="var(--border)"/>`;
+    s += `<line x1="${PL}" x2="${W-PR}" y1="${PT+ch}" y2="${PT+ch}" stroke="var(--border)"/>`;
+    s += `<text x="${PL-5}" y="${(PT+4).toFixed(1)}" text-anchor="end" font-size="11" fill="var(--muted)">${maxVal.toLocaleString('pl')}</text>`;
+
+    data.forEach((r, i) => {
+      s += `<text x="${xPos(i).toFixed(1)}" y="${(PT+ch+16).toFixed(1)}" text-anchor="middle" font-size="11" fill="var(--muted)">${r.decade}</text>`;
+      const cnt = getCount(r);
+      const bh  = Math.max(cnt > 0 ? 1 : 0, ch * (cnt / maxVal));
+      const x   = (xPos(i) - barW / 2).toFixed(1);
+      const y   = (PT + ch - bh).toFixed(1);
+      s += `<rect class="bar-rect" data-decade="${r.decade}" x="${x}" y="${y}" width="${barW.toFixed(1)}" height="${bh.toFixed(1)}" fill="${barColor}" opacity=".55" rx="2" style="cursor:default"/>`;
+    });
+
+    document.getElementById('decade-bar-svg').innerHTML = s;
+    document.querySelectorAll('.bar-rect').forEach(rect => {
+      const row = dekadaRows.find(r => r.decade === +rect.dataset.decade);
+      if (!row) return;
+      const cnt = getCount(row);
+      attachTip(rect, () =>
+        `<div class="tip-title">${decadeLabel(row.decade)} <span style="opacity:.65;font-weight:400">(${decadeRange(row.decade)})</span></div>` +
+        `<div class="tip-main-val">${cnt.toLocaleString('pl')} ${rc ? label : osobaFleksja(cnt)}</div>`
+      );
+    });
+  }
+
+  // ── Map ───────────────────────────────────────────────────────────────────
+
+  function countColor(t) {
+    return `rgb(${Math.round(220+t*(61-220))},${Math.round(228+t*(111-228))},${Math.round(245+t*(232-245))})`;
+  }
+
+  function drawMap(enIsoData, svgText) {
+    const isoMap = { ...EXTRA_ISO, ...enIsoData };
+
+    const byIso = {};
+    krajRows.forEach(row => {
+      const iso = isoMap[row.key];
+      if (iso && (!byIso[iso] || row.total > byIso[iso].total)) byIso[iso] = row;
+    });
+
+    const wrap = document.getElementById('map-wrap');
+    wrap.innerHTML = svgText;
+    const svg = wrap.querySelector('svg');
+    svg.style.cssText = 'display:block;width:100%;height:auto';
+
+    const maxLog = Math.log(Math.max(...Object.values(byIso).map(r => r.total), 1) + 1);
+
+    const tip = document.createElement('div');
+    tip.style.cssText = 'position:fixed;background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:.4rem .65rem;font-size:.82rem;pointer-events:none;display:none;z-index:100;box-shadow:0 2px 8px rgba(0,0,0,.12)';
+    document.body.appendChild(tip);
+
+    svg.querySelectorAll('path[id]').forEach(path => {
+      const row = byIso[path.id];
+      if (!row) return;
+      const t = Math.log(row.total + 1) / maxLog;
+      path.style.fill   = countColor(t);
+      path.style.cursor = 'pointer';
+
+      path.addEventListener('mousemove', e => {
+        const sc = row.score != null ? ` · ocena ${fmt(row.score)}` : '';
+        tip.innerHTML = `<strong>${row.name}</strong><br><span style="color:var(--muted)">${row.total.toLocaleString('pl')} ${osobaFleksja(row.total)}${sc}</span>`;
+        tip.style.display = 'block';
+        tip.style.left = (e.clientX + 12) + 'px';
+        tip.style.top  = (e.clientY - 10) + 'px';
+      });
+      path.addEventListener('mouseleave', () => { tip.style.display = 'none'; });
+      path.addEventListener('click', () => {
+        const searchEl = document.getElementById('search');
+        searchEl.value = row.name;
+        document.getElementById('search-clear').style.display = '';
+        renderKraj();
+        updateUrl();
+        searchEl.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      });
+    });
+
+    const steps = 12;
+    const stops = Array.from({ length: steps }, (_, i) => countColor(i / (steps - 1))).join(',');
+    document.getElementById('map-legend-bar').style.background = `linear-gradient(to right,${stops})`;
+    document.getElementById('map-section').style.display = '';
+  }
+
+  // ── Outer tabs ────────────────────────────────────────────────────────────
+
+  let activeOuter = 'kraj';
+
+  function switchOuter(tab) {
+    activeOuter = tab;
+    document.querySelectorAll('[data-outer]').forEach(b =>
+      b.classList.toggle('active', b.dataset.outer === tab));
+    document.getElementById('panel-kraj').style.display   = tab === 'kraj'   ? '' : 'none';
+    document.getElementById('panel-dekada').style.display = tab === 'dekada' ? '' : 'none';
+    if (tab === 'dekada') { renderDekada(); renderDecadeLineChart(); renderDecadeBarChart(); }
+    updateUrl();
+  }
+
+  document.querySelectorAll('[data-outer]').forEach(btn =>
+    btn.addEventListener('click', () => switchOuter(btn.dataset.outer)));
+
+  // ── Inner tabs (kraj) ─────────────────────────────────────────────────────
+
+  document.querySelectorAll('[data-inner]').forEach(btn => {
+    btn.addEventListener('click', () => {
+      activeInner = btn.dataset.inner;
+      document.querySelectorAll('[data-inner]').forEach(b =>
+        b.classList.toggle('active', b === btn));
+      document.getElementById('panel-liczba').style.display = activeInner === 'liczba' ? '' : 'none';
+      document.getElementById('panel-ocena').style.display  = activeInner === 'ocena'  ? '' : 'none';
+      updateUrl();
+    });
+  });
+
+  // ── Sort headers ──────────────────────────────────────────────────────────
+
+  document.querySelectorAll('thead th[data-table]').forEach(th => {
+    th.addEventListener('click', () => {
+      const table = th.dataset.table;
+      const col   = th.dataset.col;
+      const st    = sortState[table];
+      st.dir = (st.col === col) ? st.dir * -1 : (col === 'name' || col === 'decade' ? 1 : -1);
+      st.col = col;
+      th.closest('thead').querySelectorAll('th').forEach(t => { t.classList.remove('sorted'); delete t.dataset.dir; });
+      th.classList.add('sorted');
+      th.dataset.dir = String(st.dir);
+      if (table === 'dekada') renderDekada();
+      else renderKraj();
+      updateUrl();
+    });
+  });
+
+  // ── Search ────────────────────────────────────────────────────────────────
+
+  const searchEl = document.getElementById('search');
+  const clearBtn = document.getElementById('search-clear');
+  searchEl.addEventListener('input', () => {
+    clearBtn.style.display = searchEl.value ? '' : 'none';
+    renderKraj();
+    updateUrl();
+  });
+  clearBtn.addEventListener('click', () => {
+    searchEl.value = '';
+    clearBtn.style.display = 'none';
+    renderKraj();
+    updateUrl();
+  });
+
+  // ── URL state ─────────────────────────────────────────────────────────────
+
+  function updateUrl() {
+    const p = new URLSearchParams();
+    if (activeOuter !== 'kraj') p.set('zakladka', activeOuter);
+    if (activeOuter === 'kraj') {
+      const q = searchEl.value.trim();
+      if (q) p.set('szukaj', q);
+      if (activeInner !== 'liczba') p.set('widok', activeInner);
+      const st = sortState[activeInner];
+      if (st.col !== DEFAULT_SORT[activeInner] || st.dir !== -1) {
+        p.set('sortuj', st.col);
+        if (st.dir === 1) p.set('kier', 'rosnaco');
+      }
+    }
+    const qs = p.toString();
+    history.replaceState(null, '', qs ? '?' + qs : location.pathname);
+  }
+
+  // ── Load data ─────────────────────────────────────────────────────────────
+
+  Promise.all([
+    fetch('../../data/birth_by_country.json').then(r => r.json()),
+    fetch('../../data/birth_by_decade.json').then(r => r.json()),
+    fetch('../../data/country-en-iso.json').then(r => r.json()),
+    fetch('../../static/world-map.svg').then(r => r.text()),
+    fetch('../../data/role_means.json').then(r => r.json()),
+  ]).then(([countryData, decadeData, enIso, svgText, roleMeans]) => {
+    GLOBAL_AVG = roleMeans;
+
+    krajRows = Object.entries(countryData).map(([key, entry]) => ({
+      key,
+      name:  entry._label_pl || key,
+      total: entry._count,
+      score: computeScore(entry),
+      entry,
+    }));
+
+    dekadaRows = Object.entries(decadeData)
+      .map(([dec, entry]) => ({
+        decade: +dec,
+        total:  entry._count,
+        score:  computeScore(entry),
+        entry,
+      }))
+      ;
+
+    // Restore URL state
+    const urlP = new URLSearchParams(location.search);
+    const tab = urlP.get('zakladka');
+    if (tab === 'dekada') {
+      activeOuter = 'dekada';
+      document.querySelectorAll('[data-outer]').forEach(b =>
+        b.classList.toggle('active', b.dataset.outer === 'dekada'));
+      document.getElementById('panel-kraj').style.display   = 'none';
+      document.getElementById('panel-dekada').style.display = '';
+    }
+    const widok = urlP.get('widok');
+    if (widok === 'ocena') {
+      activeInner = 'ocena';
+      document.querySelectorAll('[data-inner]').forEach(b =>
+        b.classList.toggle('active', b.dataset.inner === 'ocena'));
+      document.getElementById('panel-liczba').style.display = 'none';
+      document.getElementById('panel-ocena').style.display  = '';
+    }
+    const sortuj = urlP.get('sortuj');
+    if (sortuj && activeOuter === 'kraj') {
+      const dir = urlP.get('kier') === 'rosnaco' ? 1 : -1;
+      sortState[activeInner].col = sortuj;
+      sortState[activeInner].dir = dir;
+      const thead = document.querySelector(`#table-${activeInner} thead`);
+      thead?.querySelectorAll('th').forEach(t => { t.classList.remove('sorted'); delete t.dataset.dir; });
+      const th = thead?.querySelector(`[data-col="${sortuj}"]`);
+      if (th) { th.classList.add('sorted'); th.dataset.dir = String(dir); }
+    }
+    const szukaj = urlP.get('szukaj');
+    if (szukaj) {
+      searchEl.value = szukaj;
+      clearBtn.style.display = '';
+    }
+
+    document.getElementById('loading').style.display = 'none';
+    document.getElementById('content').style.display = '';
+
+    renderKraj();
+    drawMap(enIso, svgText);
+    renderDekada();
+    renderDecadeLineChart();
+    renderDecadeBarChart();
+
+  }).catch(err => {
+    document.getElementById('loading').style.display = 'none';
+    const el = document.getElementById('error');
+    el.style.display = '';
+    el.textContent = 'Błąd ładowania danych: ' + err.message;
+  });
+  </script>
+</body>
+</html>

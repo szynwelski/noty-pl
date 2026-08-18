@@ -1,0 +1,80 @@
+{
+  "id": "nm0001835",
+  "name": "Carl Weathers",
+  "filmography": [
+    {
+      "imdb_id": "tt0075148",
+      "title": "Rocky",
+      "year": 1976,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Apollo"
+    },
+    {
+      "imdb_id": "tt0079817",
+      "title": "Rocky II",
+      "year": 1979,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Apollo Creed"
+    },
+    {
+      "imdb_id": "tt0084602",
+      "title": "Rocky III",
+      "year": 1982,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Apollo Creed"
+    },
+    {
+      "imdb_id": "tt0089927",
+      "title": "Rocky IV",
+      "year": 1985,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Apollo Creed"
+    },
+    {
+      "imdb_id": "tt0093773",
+      "title": "Predator",
+      "year": 1987,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Dillon"
+    },
+    {
+      "imdb_id": "tt0116483",
+      "title": "Happy Gilmore",
+      "year": 1996,
+      "roles": [
+        "cast"
+      ],
+      "character": "Chubbs"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTE5ODkzODgtZGE0My00Nzg0LWJlYTAtYjNkNmQ1Mzk1ZGM5XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "14.01.1948",
+  "death_date": "02.02.2024",
+  "birth_location": "New Orleans, Louisiana, USA",
+  "height": "1.88 m",
+  "filmweb_id": 40814,
+  "name_pl": "Carl Weathers",
+  "birth_location_pl": "Nowy Orlean, Luizjana",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 40814
+}

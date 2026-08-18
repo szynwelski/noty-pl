@@ -1,0 +1,30 @@
+{
+  "id": "nm0035627",
+  "name": "Billy Armstrong",
+  "filmography": [
+    {
+      "imdb_id": "tt0006177",
+      "title": "The Tramp",
+      "year": 1915,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Minister"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzE0ODEyYzMtYTk4YS00MTlmLWI0YjUtNjUxNzMwNDM2OWFjXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "14.01.1891",
+  "death_date": "01.03.1924",
+  "birth_location": "Bristol, England, UK",
+  "imdb_scraped": true,
+  "filmweb_id": 125791,
+  "name_pl": "Billy Armstrong",
+  "birth_location_pl": "Bristol, Anglia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 125791
+}

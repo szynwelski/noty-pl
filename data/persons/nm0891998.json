@@ -1,0 +1,40 @@
+{
+  "id": "nm0891998",
+  "name": "Conrad Veidt",
+  "filmography": [
+    {
+      "imdb_id": "tt0010323",
+      "title": "The Cabinet of Dr. Caligari",
+      "year": 1920,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Cesare"
+    },
+    {
+      "imdb_id": "tt0034583",
+      "title": "Casablanca",
+      "year": 1942,
+      "roles": [
+        "cast"
+      ],
+      "character": "Major Heinrich Strasser"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDQyMTk3OTM1OV5BMl5BanBnXkFtZTcwNDc5MzQ3OA@@._V1_.jpg",
+  "birth_date": "22.01.1893",
+  "death_date": "03.04.1943",
+  "birth_location": "Berlin, Germany",
+  "height": "1.89 m",
+  "imdb_scraped": true,
+  "filmweb_id": 6781,
+  "name_pl": "Conrad Veidt",
+  "birth_location_pl": "Poczdam",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania",
+    "Rzesza Niemiecka"
+  ]
+}

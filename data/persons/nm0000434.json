@@ -1,0 +1,86 @@
+{
+  "id": "nm0000434",
+  "name": "Mark Hamill",
+  "filmography": [
+    {
+      "imdb_id": "tt0076759",
+      "title": "Star Wars: Episode IV - A New Hope",
+      "year": 1977,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Luke Skywalker"
+    },
+    {
+      "imdb_id": "tt0080684",
+      "title": "Star Wars: Episode V - The Empire Strikes Back",
+      "year": 1980,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Luke Skywalker"
+    },
+    {
+      "imdb_id": "tt0086190",
+      "title": "Star Wars: Episode VI - Return of the Jedi",
+      "year": 1983,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Luke Skywalker"
+    },
+    {
+      "imdb_id": "tt0417299",
+      "title": "Avatar: The Last Airbender",
+      "year": 2005,
+      "roles": [
+        "cast"
+      ],
+      "character": "Firelord Ozai"
+    },
+    {
+      "imdb_id": "tt2802144",
+      "title": "Kingsman: The Secret Service",
+      "year": 2014,
+      "roles": [
+        "cast"
+      ],
+      "character": "Professor Arnold"
+    },
+    {
+      "imdb_id": "tt2488496",
+      "title": "Star Wars: Episode VII - The Force Awakens",
+      "year": 2015,
+      "roles": [
+        "cast"
+      ],
+      "character": "Luke Skywalker"
+    },
+    {
+      "imdb_id": "tt29623480",
+      "title": "The Wild Robot",
+      "year": 2024,
+      "roles": [
+        "cast"
+      ],
+      "character": "Thorn"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjZjY2I2NmYtMTMxMC00OTYwLWI0M2UtZWNkYzMyOGNlNmY4XkEyXkFqcGc@._V1_.jpg",
+  "birth_location": "Oakland, California, USA",
+  "height": "1.75 m",
+  "imdb_scraped": true,
+  "filmweb_id": 4787,
+  "name_pl": "Mark Hamill",
+  "birth_location_pl": "Oakland, Kalifornia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "birth_date": "25.09.1951",
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 4787
+}

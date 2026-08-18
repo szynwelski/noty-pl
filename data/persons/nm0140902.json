@@ -1,0 +1,36 @@
+{
+  "id": "nm0140902",
+  "name": "Lewis Carroll",
+  "filmography": [
+    {
+      "imdb_id": "tt0000420",
+      "title": "Alice in Wonderland",
+      "year": 1903,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt1014759",
+      "title": "Alice in Wonderland",
+      "year": 2010,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BM2E5OGI1YWQtNGE0YS00ZGZhLThkZjEtMDUyMGZhZDA5NWJkXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "27.01.1832",
+  "death_date": "14.01.1898",
+  "birth_location": "Daresbury, Cheshire, England, UK",
+  "height": "1.83 m",
+  "imdb_scraped": true,
+  "filmweb_id": 155314,
+  "name_pl": "Lewis Carroll",
+  "birth_location_pl": "Daresbury, Anglia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii"
+  ]
+}

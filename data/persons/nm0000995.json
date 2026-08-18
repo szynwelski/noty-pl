@@ -1,0 +1,78 @@
+{
+  "id": "nm0000995",
+  "name": "Ellen Burstyn",
+  "filmography": [
+    {
+      "imdb_id": "tt0067328",
+      "title": "The Last Picture Show",
+      "year": 1971,
+      "roles": [
+        "cast"
+      ],
+      "character": "Lois Farrow"
+    },
+    {
+      "imdb_id": "tt0070047",
+      "title": "The Exorcist",
+      "year": 1973,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Chris MacNeil"
+    },
+    {
+      "imdb_id": "tt0111693",
+      "title": "When a Man Loves a Woman",
+      "year": 1994,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Emily"
+    },
+    {
+      "imdb_id": "tt0180093",
+      "title": "Requiem for a Dream",
+      "year": 2000,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Sara Goldfarb"
+    },
+    {
+      "imdb_id": "tt0414993",
+      "title": "The Fountain",
+      "year": 2006,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Dr. Lillian Guzetti"
+    },
+    {
+      "imdb_id": "tt0816692",
+      "title": "Interstellar",
+      "year": 2014,
+      "roles": [
+        "cast"
+      ],
+      "character": "Murph (older)"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTU4MjYxMDc3MF5BMl5BanBnXkFtZTYwNzU3MDIz._V1_.jpg",
+  "birth_date": "07.12.1932",
+  "birth_location": "Detroit, Michigan, USA",
+  "height": "1.68 m",
+  "filmweb_id": 3366,
+  "name_pl": "Ellen Burstyn",
+  "birth_location_pl": "Detroit, Michigan",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 3366
+}

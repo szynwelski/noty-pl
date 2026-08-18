@@ -1,0 +1,246 @@
+{
+  "imdb_id": "tt0106977",
+  "title": "The Fugitive",
+  "description": "A respected Chicago surgeon unjustly accused of murdering his wife must find the real killer while being the target of a nationwide manhunt led by a seasoned U.S. Marshal.",
+  "runtime_minutes": 130,
+  "release_date": "06.08.1993",
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000148",
+      "name": "Harrison Ford"
+    },
+    {
+      "id": "nm0000169",
+      "name": "Tommy Lee Jones"
+    },
+    {
+      "id": "nm0000688",
+      "name": "Sela Ward"
+    },
+    {
+      "id": "nm0000194",
+      "name": "Julianne Moore"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001112",
+      "name": "Andrew Davis"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0835732",
+      "name": "Jeb Stuart"
+    },
+    {
+      "id": "nm0878638",
+      "name": "David Twohy"
+    },
+    {
+      "id": "nm0400403",
+      "name": "Roy Huggins"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000148",
+      "name": "Harrison Ford",
+      "character": "Dr. Richard Kimble"
+    },
+    {
+      "id": "nm0000169",
+      "name": "Tommy Lee Jones",
+      "character": "Samuel Gerard"
+    },
+    {
+      "id": "nm0000688",
+      "name": "Sela Ward",
+      "character": "Helen Kimble"
+    },
+    {
+      "id": "nm0000194",
+      "name": "Julianne Moore",
+      "character": "Dr. Anne Eastman"
+    },
+    {
+      "id": "nm0001592",
+      "name": "Joe Pantoliano",
+      "character": "Cosmo Renfro"
+    },
+    {
+      "id": "nm0441537",
+      "name": "Andreas Katsulas",
+      "character": "Sykes"
+    },
+    {
+      "id": "nm0469103",
+      "name": "Jeroen Krabbé",
+      "character": "Dr. Charles Nichols"
+    },
+    {
+      "id": "nm0736263",
+      "name": "Daniel Roebuck",
+      "character": "Biggs"
+    },
+    {
+      "id": "nm0129749",
+      "name": "L. Scott Caldwell",
+      "character": "Poole"
+    },
+    {
+      "id": "nm0940052",
+      "name": "Tom Wood",
+      "character": "Newman"
+    },
+    {
+      "id": "nm0212939",
+      "name": "Ron Dean",
+      "character": "Detective Kelly"
+    },
+    {
+      "id": "nm0466914",
+      "name": "Joseph F. Kosala",
+      "character": "Detective Rosetti"
+    },
+    {
+      "id": "nm0632492",
+      "name": "Miguel Nino",
+      "character": "Chicago Cop #1"
+    },
+    {
+      "id": "nm0238568",
+      "name": "John Drummond",
+      "character": "Newscaster"
+    },
+    {
+      "id": "nm0287536",
+      "name": "Tony Fosco",
+      "character": "Chicago Cop #2"
+    },
+    {
+      "id": "nm0279601",
+      "name": "Joseph F. Fisher",
+      "character": "Otto Sloan"
+    },
+    {
+      "id": "nm0508705",
+      "name": "James Liautaud",
+      "character": "Paul"
+    },
+    {
+      "id": "nm0201436",
+      "name": "David Darlow",
+      "character": "Dr. Lentz"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Polish",
+    "Spanish"
+  ],
+  "color": "Color",
+  "filmweb_id": 1233,
+  "year": 1993,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BM2RjMjEwODUtYTE4OC00MzhkLThjMjItZjYyZjk3YzA4YWUxXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.8,
+      "votes": 349286,
+      "distribution": {
+        "1": 1163,
+        "2": 616,
+        "3": 1057,
+        "4": 2249,
+        "5": 7085,
+        "6": 24497,
+        "7": 85276,
+        "8": 133448,
+        "9": 57338,
+        "10": 36557
+      },
+      "normalized": 7.0368
+    },
+    "filmweb": {
+      "rating": 7.65,
+      "votes": 134461,
+      "distribution": {
+        "1": 209,
+        "2": 204,
+        "3": 486,
+        "4": 1124,
+        "5": 3306,
+        "6": 11587,
+        "7": 38996,
+        "8": 52739,
+        "9": 17603,
+        "10": 8207
+      },
+      "normalized": 7.1977
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "02.12.2005",
+      "normalized": 6.4102
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "19.10.2005",
+      "normalized": 5.4199
+    },
+    "score": 6.5162
+  },
+  "polish_title": "Ścigany",
+  "silent": false,
+  "description_pl": "Jest to remake popularnego niegdyś serialu o lekarzu, którego niesłusznie oskarżono o morderstwo żony. Jedynym wyjściem, by udowodnić swą niewinność, jest dla niego ucieczka i odnalezienie prawdziwego zabójcy.",
+  "producers": [
+    {
+      "id": "nm0054712",
+      "name": "Keith Barish"
+    },
+    {
+      "id": "nm0114698",
+      "name": "Stephen Joel Brown"
+    },
+    {
+      "id": "nm0339248",
+      "name": "Nana Greenwald"
+    },
+    {
+      "id": "nm0400403",
+      "name": "Roy Huggins"
+    },
+    {
+      "id": "nm0465745",
+      "name": "Arnold Kopelson"
+    },
+    {
+      "id": "nm0532368",
+      "name": "Peter Macgregor-Scott"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006133",
+      "name": "James Newton Howard"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0152469",
+      "name": "Michael Chapman"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

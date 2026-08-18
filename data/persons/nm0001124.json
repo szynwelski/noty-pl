@@ -1,0 +1,47 @@
+{
+  "id": "nm0001124",
+  "name": "Cecil B. DeMille",
+  "filmography": [
+    {
+      "imdb_id": "tt0010418",
+      "title": "Male and Female",
+      "year": 1919,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0032080",
+      "title": "Union Pacific",
+      "year": 1939,
+      "roles": [
+        "director",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0043014",
+      "title": "Sunset Boulevard",
+      "year": 1950,
+      "roles": [
+        "cast"
+      ],
+      "character": "Cecil B. DeMille"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzVmZmIzZGEtNzFmZS00NjAxLWE4NTctYjk2ZmQxYjQ3ZWMzXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "12.08.1881",
+  "death_date": "21.01.1959",
+  "birth_location": "Ashfield, Massachusetts, USA",
+  "height": "1.78 m",
+  "filmweb_id": 49805,
+  "name_pl": "Cecil B. DeMille",
+  "birth_location_pl": "Ashfield, Massachusetts",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 49805
+}

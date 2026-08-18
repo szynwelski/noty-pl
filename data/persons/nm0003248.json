@@ -1,0 +1,47 @@
+{
+  "id": "nm0003248",
+  "name": "Fritz Rasp",
+  "filmography": [
+    {
+      "imdb_id": "tt0013442",
+      "title": "Nosferatu",
+      "year": 1922,
+      "roles": [
+        "cast"
+      ],
+      "character": "Knocks Mitarbeiter"
+    },
+    {
+      "imdb_id": "tt0017136",
+      "title": "Metropolis",
+      "year": 1927,
+      "roles": [
+        "cast"
+      ],
+      "character": "Der Schmale"
+    },
+    {
+      "imdb_id": "tt0020475",
+      "title": "Diary of a Lost Girl",
+      "year": 1929,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Provisor Meinert"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZDk0OGIwZDYtYmU4MS00ZTgyLThlNWEtNmIwN2FiYmI3NTM4XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "13.05.1891",
+  "death_date": "30.11.1976",
+  "birth_location": "Bayreuth, Germany",
+  "filmweb_id": 47758,
+  "name_pl": "Fritz Rasp",
+  "birth_location_pl": "Bayreuth",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Niemcy"
+  ]
+}

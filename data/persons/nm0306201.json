@@ -1,0 +1,38 @@
+{
+  "id": "nm0306201",
+  "name": "Jorge Garcia",
+  "filmography": [
+    {
+      "imdb_id": "tt0411008",
+      "title": "Lost",
+      "year": 2004,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Hugo 'Hurley' Reyes"
+    },
+    {
+      "imdb_id": "tt0884732",
+      "title": "The Wedding Ringer",
+      "year": 2015,
+      "roles": [
+        "cast"
+      ],
+      "character": "Lurch"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTUyNTkxODIxN15BMl5BanBnXkFtZTgwOTU2MDAwMTE@._V1_.jpg",
+  "birth_date": "28.04.1973",
+  "birth_location": "Omaha, Nebraska, USA",
+  "height": "1.82 m",
+  "imdb_scraped": true,
+  "filmweb_id": 165750,
+  "name_pl": "Jorge Garcia",
+  "birth_location_pl": "Omaha, Nebraska",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

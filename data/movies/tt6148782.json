@@ -1,0 +1,204 @@
+{
+  "imdb_id": "tt6148782",
+  "title": "King of Peking",
+  "description": "When home entertainment enters the market in 90s Beijing, a former projectionist ropes his young son into starting their own pirate movie company, but easy money comes with its own price tag.",
+  "runtime_minutes": 88,
+  "release_date": "02.07.2018",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm4060017",
+      "name": "Jun Zhao"
+    },
+    {
+      "id": "nm8370178",
+      "name": "Naixun Wang"
+    },
+    {
+      "id": "nm8510192",
+      "name": "Qing Han"
+    },
+    {
+      "id": "nm2436472",
+      "name": "Si Chao"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm1580769",
+      "name": "Sam Voutas"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1580769",
+      "name": "Sam Voutas"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm4060017",
+      "name": "Jun Zhao",
+      "character": "Big Wong"
+    },
+    {
+      "id": "nm8370178",
+      "name": "Naixun Wang",
+      "character": "Little Wong"
+    },
+    {
+      "id": "nm8510192",
+      "name": "Qing Han",
+      "character": "Lei Lin"
+    },
+    {
+      "id": "nm2436472",
+      "name": "Si Chao",
+      "character": "Liu Feng"
+    },
+    {
+      "id": "nm8510193",
+      "name": "Bowen Geng",
+      "character": "Guard Wen"
+    },
+    {
+      "id": "nm8510194",
+      "name": "Long Yi",
+      "character": "Wu Fan"
+    },
+    {
+      "id": "nm6049203",
+      "name": "Min Zhou",
+      "character": "Secondhand store owner"
+    },
+    {
+      "id": "nm8510195",
+      "name": "Yi Qin",
+      "character": "Businessman on train"
+    },
+    {
+      "id": "nm8510196",
+      "name": "Changxin Fan",
+      "character": "Bowl cut guy"
+    },
+    {
+      "id": "nm7023001",
+      "name": "Maishun Cao",
+      "character": "Old Li"
+    },
+    {
+      "id": "nm8766982",
+      "name": "Wei Ai",
+      "character": "Pancake seller"
+    },
+    {
+      "id": "nm8510197",
+      "name": "Lishan Feng",
+      "character": "Cinema slacker"
+    },
+    {
+      "id": "nm8510198",
+      "name": "Zhongli Zheng",
+      "character": "Narrator"
+    }
+  ],
+  "countries": [
+    "China",
+    "United States",
+    "Australia"
+  ],
+  "languages": [
+    "Mandarin"
+  ],
+  "color": "Color",
+  "filmweb_id": 792952,
+  "year": 2017,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYzBmNTRmYmEtYjQ3NS00M2JkLTlkNzctM2Y0YjUwY2IzZGUyXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.5,
+      "votes": 426,
+      "distribution": {
+        "1": 22,
+        "2": 1,
+        "3": 6,
+        "4": 17,
+        "5": 46,
+        "6": 98,
+        "7": 126,
+        "8": 54,
+        "9": 22,
+        "10": 34
+      },
+      "normalized": 5.0202
+    },
+    "filmweb": {
+      "rating": 6.56,
+      "votes": 170,
+      "distribution": {
+        "1": 1,
+        "2": 0,
+        "3": 4,
+        "4": 4,
+        "5": 16,
+        "6": 47,
+        "7": 63,
+        "8": 31,
+        "9": 4,
+        "10": 0
+      },
+      "normalized": 4.938
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "17.10.2017",
+      "normalized": 5.6855
+    },
+    "score": 5.2146
+  },
+  "polish_title": "Król Pekinu",
+  "silent": false,
+  "description_pl": "Pekin lata dziewięćdziesiąte, początek ery domowego wideo. Ojciec - Big Wong i syn - Little Wong jako mobilne kino jeżdżą po chińskich wsiach i miasteczkach i pokazują ludziom hollywoodzkie filmy. Kiedy była żona Big Wonga żąda większych alimentów, mężczyzna zdaje sobie sprawę, że może stracić prawo do opieki nad synem. Ojciec i syn bardzo chcą zostać razem, muszą więc zarobić dużo pieniędzy. Przeprowadzają się do piwnicy starego kina w Pekinie, w którym Big Wong zaczyna pracować jako dozorca. Kiedy zdobywa starą nagrywarkę dvd, wpada na pomysł nowego biznesu – zakłada własną wytwórnię filmową.",
+  "producers": [
+    {
+      "id": "nm1622171",
+      "name": "Melanie Ansley"
+    },
+    {
+      "id": "nm8510199",
+      "name": "Lisa Chang"
+    },
+    {
+      "id": "nm9946980",
+      "name": "Simon Gerovich"
+    },
+    {
+      "id": "nm12037466",
+      "name": "Ilkka Matias Ristimaki"
+    },
+    {
+      "id": "nm3634489",
+      "name": "Jesse Veverka"
+    },
+    {
+      "id": "nm2869105",
+      "name": "Jane Zheng"
+    },
+    {
+      "id": "nm8510200",
+      "name": "Maxine Zheng"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm8510201",
+      "name": "Seppe Van Grieken"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

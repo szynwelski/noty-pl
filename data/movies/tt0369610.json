@@ -1,0 +1,247 @@
+{
+  "imdb_id": "tt0369610",
+  "title": "Jurassic World",
+  "description": "A new theme park, built on the original site of Jurassic Park, creates a genetically modified hybrid dinosaur, the Indominus Rex, which escapes containment and goes on a killing spree.",
+  "runtime_minutes": 124,
+  "release_date": "12.06.2015",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm0695435",
+      "name": "Chris Pratt"
+    },
+    {
+      "id": "nm0397171",
+      "name": "Bryce Dallas Howard"
+    },
+    {
+      "id": "nm1339223",
+      "name": "Ty Simpkins"
+    },
+    {
+      "id": "nm0339460",
+      "name": "Judy Greer"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm1119880",
+      "name": "Colin Trevorrow"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0415425",
+      "name": "Rick Jaffa"
+    },
+    {
+      "id": "nm0798646",
+      "name": "Amanda Silver"
+    },
+    {
+      "id": "nm1119880",
+      "name": "Colin Trevorrow"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0695435",
+      "name": "Chris Pratt",
+      "character": "Owen"
+    },
+    {
+      "id": "nm0397171",
+      "name": "Bryce Dallas Howard",
+      "character": "Claire"
+    },
+    {
+      "id": "nm1339223",
+      "name": "Ty Simpkins",
+      "character": "Gray"
+    },
+    {
+      "id": "nm0451234",
+      "name": "Irrfan Khan",
+      "character": "Masrani"
+    },
+    {
+      "id": "nm0000352",
+      "name": "Vincent D'Onofrio",
+      "character": "Hoskins"
+    },
+    {
+      "id": "nm3538718",
+      "name": "Nick Robinson",
+      "character": "Zach"
+    },
+    {
+      "id": "nm2159926",
+      "name": "Jake Johnson",
+      "character": "Lowery"
+    },
+    {
+      "id": "nm1082477",
+      "name": "Omar Sy",
+      "character": "Barry"
+    },
+    {
+      "id": "nm0000703",
+      "name": "BD Wong",
+      "character": "Dr. Henry Wu"
+    },
+    {
+      "id": "nm0339460",
+      "name": "Judy Greer",
+      "character": "Karen"
+    },
+    {
+      "id": "nm1944055",
+      "name": "Lauren Lapkus",
+      "character": "Vivian"
+    },
+    {
+      "id": "nm0974575",
+      "name": "Brian Tee",
+      "character": "Hamada"
+    },
+    {
+      "id": "nm2692146",
+      "name": "Katie McGrath",
+      "character": "Zara"
+    },
+    {
+      "id": "nm2952467",
+      "name": "Andy Buckley",
+      "character": "Scott"
+    },
+    {
+      "id": "nm1468061",
+      "name": "Eric Edelstein",
+      "character": "Paddock Supervisor"
+    },
+    {
+      "id": "nm3083875",
+      "name": "Courtney James Clark",
+      "character": "Mosasaurus Announcer"
+    },
+    {
+      "id": "nm4253352",
+      "name": "Colby Boothman",
+      "character": "Young Raptor Handler"
+    },
+    {
+      "id": "nm0266422",
+      "name": "Jimmy Fallon",
+      "character": "Jimmy Fallon"
+    }
+  ],
+  "countries": [
+    "United States",
+    "Japan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 556929,
+  "year": 2015,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzBhNzlkM2UtZTQyOC00NjUyLTkzMmMtNDQ1YTM5N2NmMGE5XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.9,
+      "votes": 735537,
+      "distribution": {
+        "1": 7885,
+        "2": 6060,
+        "3": 10424,
+        "4": 21622,
+        "5": 52183,
+        "6": 125804,
+        "7": 227598,
+        "8": 159060,
+        "9": 61441,
+        "10": 63460
+      },
+      "normalized": 5.4467
+    },
+    "filmweb": {
+      "rating": 6.62,
+      "votes": 182420,
+      "distribution": {
+        "1": 1206,
+        "2": 1269,
+        "3": 4550,
+        "4": 8405,
+        "5": 21637,
+        "6": 43791,
+        "7": 54357,
+        "8": 28801,
+        "9": 9120,
+        "10": 9284
+      },
+      "normalized": 4.603
+    },
+    "jarek": {
+      "rating": 3,
+      "date_rated": "13.06.2015",
+      "normalized": 4.2591
+    },
+    "michal": {
+      "rating": 3,
+      "date_rated": "29.07.2015",
+      "normalized": 3.8753
+    },
+    "score": 4.546
+  },
+  "polish_title": "Jurassic World",
+  "silent": false,
+  "description_pl": "Każdego roku do Parku Jurajskiego na Isla Nublar przybywają  miliony turystów, by z bliska podziwiać odtworzone genetycznie  dinozaury. Tymczasem w laboratoriach trwają prace nad kolejnymi  mutacjami genetycznymi, w wyniku których naukowcy powołują do życia  dinozaura o cechach tyranozaura, karnotaura i welociraptora. Monstrum  jest większe, groźniejsze, inteligentniejsze i… wymyka się spod  kontroli.",
+  "producers": [
+    {
+      "id": "nm0156175",
+      "name": "Wendy Chesebrough Lowe"
+    },
+    {
+      "id": "nm0189777",
+      "name": "Patrick Crowley"
+    },
+    {
+      "id": "nm0550881",
+      "name": "Frank Marshall"
+    },
+    {
+      "id": "nm0706903",
+      "name": "Christopher Raimo"
+    },
+    {
+      "id": "nm0000229",
+      "name": "Steven Spielberg"
+    },
+    {
+      "id": "nm2100078",
+      "name": "Thomas Tull"
+    },
+    {
+      "id": "nm0914207",
+      "name": "Trevor Waterson"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0315974",
+      "name": "Michael Giacchino"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0006701",
+      "name": "John Schwartzman"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

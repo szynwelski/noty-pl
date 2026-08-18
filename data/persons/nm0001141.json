@@ -1,0 +1,39 @@
+{
+  "id": "nm0001141",
+  "name": "Angie Dickinson",
+  "filmography": [
+    {
+      "imdb_id": "tt0053221",
+      "title": "Rio Bravo",
+      "year": 1959,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Feathers"
+    },
+    {
+      "imdb_id": "tt0223897",
+      "title": "Pay It Forward",
+      "year": 2000,
+      "roles": [
+        "cast"
+      ],
+      "character": "Grace"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYWUxZTk4ZGMtNGI3Zi00MTU2LWEzZGYtODc4MWQzOTBkYjQ0XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "30.09.1931",
+  "birth_location": "Kulm, North Dakota, USA",
+  "height": "1.65 m",
+  "imdb_scraped": true,
+  "filmweb_id": 31566,
+  "name_pl": "Angie Dickinson",
+  "birth_location_pl": "Kulm, Dakota Północna",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 31566
+}

@@ -1,0 +1,59 @@
+{
+  "id": "nm0627453",
+  "name": "John Neville",
+  "filmography": [
+    {
+      "imdb_id": "tt0109190",
+      "title": "Baby's Day Out",
+      "year": 1994,
+      "roles": [
+        "cast"
+      ],
+      "character": "Mr. Andrews"
+    },
+    {
+      "imdb_id": "tt0112792",
+      "title": "Dangerous Minds",
+      "year": 1995,
+      "roles": [
+        "cast"
+      ],
+      "character": "Waiter"
+    },
+    {
+      "imdb_id": "tt0119116",
+      "title": "The Fifth Element",
+      "year": 1997,
+      "roles": [
+        "cast"
+      ],
+      "character": "General Staedert"
+    },
+    {
+      "imdb_id": "tt0120902",
+      "title": "The X Files",
+      "year": 1998,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "The Well-Manicured Man"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTk5MDUwMjA2MF5BMl5BanBnXkFtZTcwMzc2MjAyNA@@._V1_.jpg",
+  "birth_date": "02.05.1925",
+  "death_date": "19.11.2011",
+  "birth_location": "Willesden, London, England, UK",
+  "height": "1.87 m",
+  "filmweb_id": 4002,
+  "name_pl": "John Neville",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Kanada",
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 4002
+}

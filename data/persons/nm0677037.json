@@ -1,0 +1,68 @@
+{
+  "id": "nm0677037",
+  "name": "Bob Peterson",
+  "filmography": [
+    {
+      "imdb_id": "tt0131409",
+      "title": "Geri's Game",
+      "year": 1997,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Geri"
+    },
+    {
+      "imdb_id": "tt0198781",
+      "title": "Monsters, Inc.",
+      "year": 2001,
+      "roles": [
+        "cast"
+      ],
+      "character": "Roz"
+    },
+    {
+      "imdb_id": "tt0266543",
+      "title": "Finding Nemo",
+      "year": 2003,
+      "roles": [
+        "writer",
+        "cast"
+      ],
+      "character": "Mr. Ray"
+    },
+    {
+      "imdb_id": "tt1049413",
+      "title": "Up",
+      "year": 2009,
+      "roles": [
+        "director",
+        "writer",
+        "cast"
+      ],
+      "character": "Dug"
+    },
+    {
+      "imdb_id": "tt2277860",
+      "title": "Finding Dory",
+      "year": 2016,
+      "roles": [
+        "cast"
+      ],
+      "character": "Mr. Ray"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTU4NTQ4ODI5N15BMl5BanBnXkFtZTYwNzIwODA3._V1_.jpg",
+  "birth_date": "18.01.1961",
+  "birth_location": "Wooster, Ohio, USA",
+  "height": "1.88 m",
+  "filmweb_id": 55370,
+  "name_pl": "Bob Peterson",
+  "birth_location_pl": "Wooster, Ohio",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

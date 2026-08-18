@@ -1,0 +1,199 @@
+{
+  "imdb_id": "tt8503298",
+  "title": "Striking Vipers",
+  "description": "Two estranged college friends reunite in later life, triggering a series of events that could alter their lives forever.",
+  "runtime_minutes": 61,
+  "release_date": "05.06.2019",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm1107001",
+      "name": "Anthony Mackie"
+    },
+    {
+      "id": "nm5584344",
+      "name": "Yahya Abdul-Mateen II"
+    },
+    {
+      "id": "nm2718512",
+      "name": "Nicole Beharie"
+    },
+    {
+      "id": "nm2962353",
+      "name": "Pom Klementieff"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm2787176",
+      "name": "Owen Harris"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0111765",
+      "name": "Charlie Brooker"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1107001",
+      "name": "Anthony Mackie",
+      "character": "Danny"
+    },
+    {
+      "id": "nm5584344",
+      "name": "Yahya Abdul-Mateen II",
+      "character": "Karl"
+    },
+    {
+      "id": "nm2718512",
+      "name": "Nicole Beharie",
+      "character": "Theo"
+    },
+    {
+      "id": "nm2962353",
+      "name": "Pom Klementieff",
+      "character": "Roxette"
+    },
+    {
+      "id": "nm3485108",
+      "name": "Ludi Lin",
+      "character": "Lance"
+    },
+    {
+      "id": "nm10744174",
+      "name": "August Muschett",
+      "character": "Tyler"
+    },
+    {
+      "id": "nm6826652",
+      "name": "Fola Evans-Akingbola",
+      "character": "Mariella"
+    },
+    {
+      "id": "nm10723703",
+      "name": "Monique Cynthia Brown",
+      "character": "Daisy"
+    },
+    {
+      "id": "nm7186319",
+      "name": "Caroline Martin",
+      "character": "Jemma"
+    },
+    {
+      "id": "nm1994167",
+      "name": "Jordan Carlos",
+      "character": "Simon"
+    },
+    {
+      "id": "nm10744175",
+      "name": "Guilherme Vallim",
+      "character": "Maxwell"
+    },
+    {
+      "id": "nm6807611",
+      "name": "Eduardo Mossri",
+      "character": "Waiter"
+    },
+    {
+      "id": "nm4632043",
+      "name": "Austin Michael Young",
+      "character": "Chester"
+    },
+    {
+      "id": "nm10750796",
+      "name": "Joe Parker",
+      "character": "Jason"
+    }
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "year": 2019,
+  "type": "tvEpisode",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNWNkY2QwMmEtYTc3NS00MzdlLTgxMTItMWIzNWVlYTc3NGMzXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 640699,
+  "ratings": {
+    "imdb": {
+      "rating": 6.8,
+      "votes": 52795,
+      "distribution": {
+        "1": 2929,
+        "2": 1083,
+        "3": 1425,
+        "4": 2117,
+        "5": 4329,
+        "6": 8578,
+        "7": 13006,
+        "8": 10254,
+        "9": 4761,
+        "10": 4313
+      }
+    },
+    "filmweb": {
+      "rating": 8.28,
+      "votes": 185948,
+      "distribution": {
+        "1": 673,
+        "2": 314,
+        "3": 805,
+        "4": 893,
+        "5": 2511,
+        "6": 6460,
+        "7": 23908,
+        "8": 64568,
+        "9": 61360,
+        "10": 24456
+      }
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "08.07.2023"
+    }
+  },
+  "polish_title": "Czarne lustro",
+  "silent": false,
+  "description_pl": "\"Czarne lustro\" to antologia nawiązująca do zbiorowego niepokoju, jaki odczuwamy względem współczesnego świata. Każdy odcinek opowiada inną, wyrazistą i trzymającą w napięciu historię, poruszającą temat współczesnej technoparanoi. Mimochodem technologia zmieniła wszystkie aspekty naszego życia. W każdym domu, na każdym biurku i w każdej dłoni można zobaczyć ekran plazmowy, monitor lub smartfon - czarne lustro odbijające codzienność XXI wieku.",
+  "producers": [
+    {
+      "id": "nm0111765",
+      "name": "Charlie Brooker"
+    },
+    {
+      "id": "nm2990930",
+      "name": "Kate Glover"
+    },
+    {
+      "id": "nm3117428",
+      "name": "Annabel Jones"
+    },
+    {
+      "id": "nm1240072",
+      "name": "Mark Kinsella"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm9882423",
+      "name": "Rival Consoles"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm2537468",
+      "name": "Gustav Danielsson"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

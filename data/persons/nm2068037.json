@@ -1,0 +1,42 @@
+{
+  "id": "nm2068037",
+  "name": "Max Richter",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BM2UwY2M1MzctNGY5ZS00ZWI2LWI5MzktZjIzOGRjNGYxMDk3XkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt4540710",
+      "title": "Miss Sloane",
+      "year": 2016,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt5497778",
+      "title": "Nosedive",
+      "year": 2016,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt2935510",
+      "title": "Ad Astra",
+      "year": 2019,
+      "roles": [
+        "composer"
+      ]
+    }
+  ],
+  "birth_date": "22.03.1966",
+  "birth_location": "Hamelin, Lower Saxony, West Germany",
+  "imdb_scraped": true,
+  "filmweb_id": 709123,
+  "name_pl": "Max Richter",
+  "birth_location_pl": "Hameln",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ]
+}

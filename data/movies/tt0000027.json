@@ -1,0 +1,83 @@
+{
+  "imdb_id": "tt0000027",
+  "title": "Cordeliers' Square in Lyon",
+  "description": "Short that depicts a moment at the busy Cordeliers' Square in Lyon. It is a busy thoroughfare, with pedestrians walking in front of the buildings and crossing the boulevard between horse-drawn vehicles. A double-decker bus passes in front.",
+  "runtime_minutes": 1,
+  "release_date": "28.12.1895",
+  "genres": [
+    "Documentary",
+    "Short"
+  ],
+  "directors": [
+    {
+      "id": "nm0525910",
+      "name": "Louis Lumière"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 120774,
+  "year": 1895,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNGU0MjgyYzItMzI5Zi00YzAxLTg0YjUtZjAwZjkxY2RjNjdhXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Place des Cordeliers à Lyon",
+  "ratings": {
+    "imdb": {
+      "rating": 5.6,
+      "votes": 1339,
+      "distribution": {
+        "1": 58,
+        "2": 34,
+        "3": 47,
+        "4": 127,
+        "5": 350,
+        "6": 378,
+        "7": 171,
+        "8": 77,
+        "9": 30,
+        "10": 67
+      },
+      "normalized": 3.8258
+    },
+    "filmweb": {
+      "rating": 5.24,
+      "votes": 178,
+      "distribution": {
+        "1": 5,
+        "2": 7,
+        "3": 7,
+        "4": 33,
+        "5": 54,
+        "6": 39,
+        "7": 18,
+        "8": 9,
+        "9": 1,
+        "10": 5
+      },
+      "normalized": 4.0591
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "11.12.2016",
+      "normalized": 4.9718
+    },
+    "score": 4.2856
+  },
+  "polish_title": "Place des Cordeliers à Lyon",
+  "silent": true,
+  "description_pl": "Rzecz dzieje się na placu Cordeliers w Lyonie. Zostaje tutaj umieszczona kamera, która po prostu rejestruje ruch uliczny oraz spacerujących ludzi.",
+  "cinematographers": [
+    {
+      "id": "nm0525910",
+      "name": "Louis Lumière"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-15"
+}

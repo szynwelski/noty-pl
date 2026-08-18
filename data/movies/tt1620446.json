@@ -1,0 +1,147 @@
+{
+  "imdb_id": "tt1620446",
+  "title": "Day & Night",
+  "description": "Day encounters Night, a stranger of distinctly darker moods. But their suspicions soon turn to curiosity and they are delighted to find the joys of their budding friendship.",
+  "runtime_minutes": 6,
+  "release_date": "18.06.2010",
+  "genres": [
+    "Animation",
+    "Short",
+    "Comedy",
+    "Family",
+    "Fantasy"
+  ],
+  "stars": [
+    {
+      "id": "nm12330151",
+      "name": "Muneer Lyati"
+    },
+    {
+      "id": "nm2537780",
+      "name": "Wayne Dyer"
+    },
+    {
+      "id": "nm1194996",
+      "name": "Ivo Josipovic"
+    },
+    {
+      "id": "nm0941125",
+      "name": "Sheb Wooley"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0628599",
+      "name": "Teddy Newton"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0628599",
+      "name": "Teddy Newton"
+    },
+    {
+      "id": "nm1479554",
+      "name": "Karen Paik"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm12330151",
+      "name": "Muneer Lyati",
+      "character": "Unknown"
+    },
+    {
+      "id": "nm2537780",
+      "name": "Wayne Dyer",
+      "character": "Radio Lecturer"
+    },
+    {
+      "id": "nm1194996",
+      "name": "Ivo Josipovic",
+      "character": "Radio Lecturer"
+    },
+    {
+      "id": "nm0941125",
+      "name": "Sheb Wooley",
+      "character": "Off-screen screamer"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 563994,
+  "year": 2010,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTYyMTk1MjE3NF5BMl5BanBnXkFtZTgwMjkxMDgwMjE@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8,
+      "votes": 21409,
+      "distribution": {
+        "1": 119,
+        "2": 62,
+        "3": 97,
+        "4": 190,
+        "5": 570,
+        "6": 1597,
+        "7": 4090,
+        "8": 7269,
+        "9": 4004,
+        "10": 3411
+      },
+      "normalized": 7.3431
+    },
+    "filmweb": {
+      "rating": 7.15,
+      "votes": 7931,
+      "distribution": {
+        "1": 18,
+        "2": 18,
+        "3": 76,
+        "4": 147,
+        "5": 480,
+        "6": 1323,
+        "7": 2656,
+        "8": 2247,
+        "9": 751,
+        "10": 215
+      },
+      "normalized": 5.8887
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "17.10.2020",
+      "normalized": 5.4199
+    },
+    "score": 6.2172
+  },
+  "polish_title": "Noc i Dzień",
+  "silent": false,
+  "description_pl": "Kiedy wesoły i szczęśliwy Dzień napotyka ponurą Noc, dochodzi między nimi do konfliktu. Początkowo Dzień i Noc obawiają się siebie nawzajem, są wyjątkowo podejrzliwi i nieufni w stosunku do siebie. Jednak gdy z czasem zaczynają się zaprzyjaźniać, odkrywają swoje wzajemne unikalne możliwości i uświadamiają sobie, że każdy z nich niesie inne spojrzenie na otaczający ich świat.",
+  "producers": [
+    {
+      "id": "nm0005124",
+      "name": "John Lasseter"
+    },
+    {
+      "id": "nm0716816",
+      "name": "Kevin Reher"
+    },
+    {
+      "id": "nm3116149",
+      "name": "Marc Sondheimer"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0315974",
+      "name": "Michael Giacchino"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

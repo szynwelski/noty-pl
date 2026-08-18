@@ -1,0 +1,38 @@
+{
+  "id": "nm0856012",
+  "name": "John Terry",
+  "filmography": [
+    {
+      "imdb_id": "tt0093058",
+      "title": "Full Metal Jacket",
+      "year": 1987,
+      "roles": [
+        "cast"
+      ],
+      "character": "Lt. Lockhart"
+    },
+    {
+      "imdb_id": "tt0443706",
+      "title": "Zodiac",
+      "year": 2007,
+      "roles": [
+        "cast"
+      ],
+      "character": "Charles Thieriot"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjA2MjQ3MDQ1OF5BMl5BanBnXkFtZTcwMjQxNDk4OQ@@._V1_.jpg",
+  "birth_date": "25.01.1950",
+  "birth_location": "Florida, USA",
+  "height": "1.88 m",
+  "imdb_scraped": true,
+  "filmweb_id": 89445,
+  "name_pl": "John Terry",
+  "birth_location_pl": "Vero Beach, Floryda",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 89445
+}

@@ -1,0 +1,186 @@
+{
+  "imdb_id": "tt3685554",
+  "title": "Alias Maria",
+  "description": "A vision of Colombia's inhuman armed conflict, seen through the eyes of a young - and pregnant - girl soldier.",
+  "runtime_minutes": 91,
+  "release_date": "03.04.2015",
+  "genres": [
+    "Drama",
+    "War"
+  ],
+  "stars": [
+    {
+      "id": "nm7306671",
+      "name": "Carlos Clavijo"
+    },
+    {
+      "id": "nm7306670",
+      "name": "Anderson Gomez"
+    },
+    {
+      "id": "nm1863990",
+      "name": "Carmenza González"
+    },
+    {
+      "id": "nm7306672",
+      "name": "Lola Lagos"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm3061273",
+      "name": "José Luis Rugeles"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0900220",
+      "name": "Diego Vivanco"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm7306671",
+      "name": "Carlos Clavijo",
+      "character": "Mauricio"
+    },
+    {
+      "id": "nm7306670",
+      "name": "Anderson Gomez",
+      "character": "Byron"
+    },
+    {
+      "id": "nm1863990",
+      "name": "Carmenza González",
+      "character": "Esposa Medico"
+    },
+    {
+      "id": "nm7306672",
+      "name": "Lola Lagos",
+      "character": "Diana"
+    },
+    {
+      "id": "nm6236856",
+      "name": "Juan Carlos Ortega",
+      "character": "Paramilitar"
+    },
+    {
+      "id": "nm1143521",
+      "name": "Julio Pachón",
+      "character": "Medico"
+    },
+    {
+      "id": "nm7306669",
+      "name": "Erik Ruiz",
+      "character": "Yuldor"
+    },
+    {
+      "id": "nm7306668",
+      "name": "Karen Torres",
+      "character": "Maria"
+    },
+    {
+      "id": "nm3841247",
+      "name": "Fabio Velazco",
+      "character": "Comandante"
+    }
+  ],
+  "countries": [
+    "Colombia",
+    "Argentina",
+    "France"
+  ],
+  "languages": [
+    "Spanish"
+  ],
+  "color": "Color",
+  "year": 2015,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNGMyY2MwYWMtMGQxYi00MDlhLTk5NDctMzAyYjllMWIwODdmXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 723853,
+  "original_title": "Alias María",
+  "ratings": {
+    "imdb": {
+      "rating": 6.3,
+      "votes": 425,
+      "distribution": {
+        "1": 18,
+        "2": 12,
+        "3": 13,
+        "4": 23,
+        "5": 42,
+        "6": 106,
+        "7": 91,
+        "8": 47,
+        "9": 18,
+        "10": 55
+      },
+      "normalized": 4.8385
+    },
+    "filmweb": {
+      "rating": 5.71,
+      "votes": 221,
+      "distribution": {
+        "1": 4,
+        "2": 2,
+        "3": 11,
+        "4": 22,
+        "5": 54,
+        "6": 62,
+        "7": 42,
+        "8": 20,
+        "9": 4,
+        "10": 0
+      },
+      "normalized": 4.2385
+    },
+    "jarek": {
+      "rating": 8,
+      "date_rated": "11.10.2020",
+      "normalized": 7.8989
+    },
+    "score": 5.6586
+  },
+  "polish_title": "Alias María",
+  "silent": false,
+  "description_pl": "W oddziałach partyzanckich w Kolumbii walczą tysiące nieletnich żołnierzy. Maria jest jednym z nich. Ma 13 lat i z trójką dzieciaków w podobnym wieku przemierza kolumbijskie lasy. Ich oddział ma zapewnić bezpieczeństwo nowonarodzonemu dziecku dowódcy. To misja tajna, bo w partyzantce ciąża jest surowo karana. Ale również Maria ma sekret: jest w czwartym miesiącu ciąży. Jest przerażona. Nie wie komu może zaufać. Czy kiełkujący instynkt macierzyński da jej siłę i odwagę, by zmienić swojego życie? Obraz wstrząsającej rzeczywistości konfliktu zbrojnego w Kolumbii widziany oczami żołnierki - dziecka.",
+  "producers": [
+    {
+      "id": "nm3031717",
+      "name": "Gilles Duffaut"
+    },
+    {
+      "id": "nm1068029",
+      "name": "Federico Durán"
+    },
+    {
+      "id": "nm5515903",
+      "name": "Juan Pablo García"
+    },
+    {
+      "id": "nm0721090",
+      "name": "Ignacio Rey"
+    },
+    {
+      "id": "nm0745290",
+      "name": "Gastón Rothschild"
+    },
+    {
+      "id": "nm1409139",
+      "name": "Alex Zito"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm1110763",
+      "name": "Camilo Sanabria"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm3061448",
+      "name": "Sergio Iván Castaño"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

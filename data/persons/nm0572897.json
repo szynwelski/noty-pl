@@ -1,0 +1,38 @@
+{
+  "id": "nm0572897",
+  "name": "John McLiam",
+  "filmography": [
+    {
+      "imdb_id": "tt0061512",
+      "title": "Cool Hand Luke",
+      "year": 1967,
+      "roles": [
+        "cast"
+      ],
+      "character": "Boss Keen"
+    },
+    {
+      "imdb_id": "tt0083944",
+      "title": "First Blood",
+      "year": 1982,
+      "roles": [
+        "cast"
+      ],
+      "character": "Orval"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZTgzZWI0NTUtYzAyNS00NDEyLWIwMjYtMzZkZjZiYTBkODM2XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "24.01.1918",
+  "death_date": "16.04.1994",
+  "birth_location": "Hayter, Alberta, Canada",
+  "height": "1.65 m",
+  "imdb_scraped": true,
+  "filmweb_id": 49679,
+  "name_pl": "John McLiam",
+  "birth_location_pl": "Hayter",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Kanada"
+  ]
+}

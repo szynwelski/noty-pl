@@ -1,0 +1,100 @@
+{
+  "imdb_id": "tt0000070",
+  "title": "Demolition of a Wall",
+  "description": "Four workers demolish an old factory wall. One worker is pressing the wall inwards with a jackscrew, while another is pushing it with a pick. When the wall hits the ground, a cloud of dust whirls up. Three workers continue with picks.",
+  "runtime_minutes": 1,
+  "release_date": "06.03.1896",
+  "genres": [
+    "Documentary",
+    "Short"
+  ],
+  "stars": [
+    {
+      "id": "nm0525908",
+      "name": "Auguste Lumière"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0525910",
+      "name": "Louis Lumière"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0525908",
+      "name": "Auguste Lumière",
+      "character": "Self"
+    }
+  ],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 96236,
+  "year": 1896,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BN2IxYWFhZTctZjc0OS00MDJmLWI1OWUtMGZiMmU2NDI4YjkwXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Démolition d'un mur",
+  "ratings": {
+    "imdb": {
+      "rating": 6.4,
+      "votes": 3027,
+      "distribution": {
+        "1": 63,
+        "2": 49,
+        "3": 70,
+        "4": 138,
+        "5": 406,
+        "6": 870,
+        "7": 759,
+        "8": 325,
+        "9": 138,
+        "10": 209
+      },
+      "normalized": 4.5459
+    },
+    "filmweb": {
+      "rating": 6.14,
+      "votes": 753,
+      "distribution": {
+        "1": 13,
+        "2": 10,
+        "3": 30,
+        "4": 36,
+        "5": 146,
+        "6": 202,
+        "7": 188,
+        "8": 80,
+        "9": 22,
+        "10": 26
+      },
+      "normalized": 4.0996
+    },
+    "jarek": {
+      "rating": 8,
+      "date_rated": "11.12.2016",
+      "normalized": 7.8989
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "21.10.2007",
+      "normalized": 5.4199
+    },
+    "score": 5.4911
+  },
+  "polish_title": "Niszczenie muru",
+  "silent": true,
+  "description_pl": "Kolejny krótki film braci Lumiere. Ukazana jest scena burzenia muru przy fabryce. Grupa robotników, kierowana przez majstra, uderza w mur do czasu aż ten rozpada się.",
+  "cinematographers": [
+    {
+      "id": "nm0525910",
+      "name": "Louis Lumière"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-15"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "nm5105099",
+  "name": "Marcin Kowalczyk",
+  "filmography": [
+    {
+      "imdb_id": "tt10804178",
+      "title": "How I Became a Gangster",
+      "year": 2019,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Protagonist"
+    },
+    {
+      "imdb_id": "tt32245002",
+      "title": "Go Ahead, Brother",
+      "year": 2024,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Damian Czorny"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjExOTI2NTQzNF5BMl5BanBnXkFtZTgwNjU4Mzc2MjE@._V1_.jpg",
+  "birth_date": "28.07.1987",
+  "birth_location": "Kraków, Malopolskie, Poland",
+  "height": "1.83 m",
+  "imdb_scraped": true,
+  "filmweb_id": 47595,
+  "name_pl": "Marcin Kowalczyk",
+  "birth_location_pl": "Kraków",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Polska"
+  ],
+  "wikidata_fw_id": 47595
+}

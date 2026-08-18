@@ -1,0 +1,28 @@
+{
+  "id": "nm0082300",
+  "name": "Tony Bill",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjMzMDg2Mjg0OF5BMl5BanBnXkFtZTcwNzMzNDk5Nw@@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0070735",
+      "title": "The Sting",
+      "year": 1973,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "birth_date": "23.08.1940",
+  "birth_location": "San Diego, California, USA",
+  "height": "1.82 m",
+  "imdb_scraped": true,
+  "filmweb_id": 45719,
+  "name_pl": "Tony Bill",
+  "birth_location_pl": "San Diego, Kalifornia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 45719
+}

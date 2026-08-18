@@ -1,0 +1,183 @@
+{
+  "imdb_id": "tt0283832",
+  "title": "8 Women",
+  "description": "A man is murdered in an isolated chalet, and the eight female residents are all suspects; their secrets are revealed as they try to determine who is guilty.",
+  "runtime_minutes": 111,
+  "release_date": "04.10.2002",
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Musical",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0000272",
+      "name": "Fanny Ardant"
+    },
+    {
+      "id": "nm0000322",
+      "name": "Emmanuelle Béart"
+    },
+    {
+      "id": "nm0201638",
+      "name": "Danielle Darrieux"
+    },
+    {
+      "id": "nm0000366",
+      "name": "Catherine Deneuve"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0654830",
+      "name": "François Ozon"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0654830",
+      "name": "François Ozon"
+    },
+    {
+      "id": "nm0888418",
+      "name": "Marina de Van"
+    },
+    {
+      "id": "nm0859436",
+      "name": "Robert Thomas"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000272",
+      "name": "Fanny Ardant",
+      "character": "Pierrette"
+    },
+    {
+      "id": "nm0000322",
+      "name": "Emmanuelle Béart",
+      "character": "Louise"
+    },
+    {
+      "id": "nm0201638",
+      "name": "Danielle Darrieux",
+      "character": "Mamy"
+    },
+    {
+      "id": "nm0001461",
+      "name": "Virginie Ledoyen",
+      "character": "Suzon"
+    },
+    {
+      "id": "nm0723796",
+      "name": "Firmine Richard",
+      "character": "Madame Chanel"
+    },
+    {
+      "id": "nm0000366",
+      "name": "Catherine Deneuve",
+      "character": "Gaby"
+    },
+    {
+      "id": "nm0001376",
+      "name": "Isabelle Huppert",
+      "character": "Augustine"
+    },
+    {
+      "id": "nm0756203",
+      "name": "Ludivine Sagnier",
+      "character": "Catherine"
+    },
+    {
+      "id": "nm0484000",
+      "name": "Dominique Lamure",
+      "character": "Marcel, the husband"
+    }
+  ],
+  "countries": [
+    "France",
+    "Italy"
+  ],
+  "languages": [
+    "French"
+  ],
+  "color": "Color",
+  "filmweb_id": 34072,
+  "year": 2002,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDg5ZGVmNjItNDcwNi00ZGY5LThjM2MtMzJiMmRmYTljNDVlXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "8 femmes",
+  "ratings": {
+    "imdb": {
+      "rating": 7,
+      "votes": 34983,
+      "distribution": {
+        "1": 649,
+        "2": 355,
+        "3": 576,
+        "4": 999,
+        "5": 2172,
+        "6": 5098,
+        "7": 10190,
+        "8": 8462,
+        "9": 3385,
+        "10": 3097
+      },
+      "normalized": 5.5328
+    },
+    "filmweb": {
+      "rating": 7.03,
+      "votes": 22295,
+      "distribution": {
+        "1": 137,
+        "2": 102,
+        "3": 380,
+        "4": 600,
+        "5": 1573,
+        "6": 3545,
+        "7": 7343,
+        "8": 6002,
+        "9": 1813,
+        "10": 800
+      },
+      "normalized": 5.6792
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "28.12.2010",
+      "normalized": 5.6855
+    },
+    "michal": {
+      "rating": 3,
+      "date_rated": "19.10.2005",
+      "normalized": 3.8753
+    },
+    "score": 5.1932
+  },
+  "polish_title": "8 kobiet",
+  "silent": false,
+  "description_pl": "8 aktorek gra 8 typów kobiet, 8 wymiarów kobiecości. Do tego, każda z gwiazd wykonuje w trakcie filmu znaną francuską piosenkę we własnej aranżacji. Środek zimy. Domostwo na odludziu. Osiem kobiet - żona, siostra, kochanka, córki, służące -podejrzanych jest o zabójstwo pana domu. Każda ma motyw. Każda ma sekret. Jedna jest winna. Która?",
+  "producers": [
+    {
+      "id": "nm1286994",
+      "name": "Stéphane Célérier"
+    },
+    {
+      "id": "nm0216635",
+      "name": "Olivier Delbosc"
+    },
+    {
+      "id": "nm0592945",
+      "name": "Marc Missonnier"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0487700",
+      "name": "Jeanne Lapoirie"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

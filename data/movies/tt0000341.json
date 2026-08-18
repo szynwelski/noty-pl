@@ -1,0 +1,95 @@
+{
+  "imdb_id": "tt0000341",
+  "title": "Uncle Josh's Nightmare",
+  "description": "Poor Uncle Josh is trying to get to sleep, but being constantly bedeviled by a fellow in red long underwear with horns. A short early trick editing film using a stationary camera.",
+  "runtime_minutes": 2,
+  "release_date": "1900",
+  "genres": [
+    "Comedy",
+    "Short",
+    "Fantasy"
+  ],
+  "stars": [
+    {
+      "id": "nm0542567",
+      "name": "Charles Manley"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0692105",
+      "name": "Edwin S. Porter"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0542567",
+      "name": "Charles Manley",
+      "character": "Uncle Josh"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "None",
+    "English"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 419995,
+  "year": 1900,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZjc0MWY3MzItYzhiZi00ZGM5LTg5YjctMWZhODY1ZDZjODZkXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 4.8,
+      "votes": 433,
+      "distribution": {
+        "1": 25,
+        "2": 23,
+        "3": 39,
+        "4": 69,
+        "5": 131,
+        "6": 85,
+        "7": 32,
+        "8": 8,
+        "9": 7,
+        "10": 14
+      },
+      "normalized": 4.0009
+    },
+    "filmweb": {
+      "rating": 4.85,
+      "votes": 62,
+      "distribution": {
+        "1": 1,
+        "2": 7,
+        "3": 3,
+        "4": 12,
+        "5": 22,
+        "6": 10,
+        "7": 1,
+        "8": 4,
+        "9": 0,
+        "10": 2
+      },
+      "normalized": 4.4937
+    },
+    "jarek": {
+      "rating": 3,
+      "date_rated": "13.12.2016",
+      "normalized": 4.2591
+    },
+    "score": 4.2512
+  },
+  "polish_title": "Uncle Josh's Nightmare",
+  "silent": true,
+  "cinematographers": [
+    {
+      "id": "nm0692105",
+      "name": "Edwin S. Porter"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-15"
+}

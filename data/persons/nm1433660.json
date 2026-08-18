@@ -1,0 +1,66 @@
+{
+  "id": "nm1433660",
+  "name": "Tom Fisher",
+  "filmography": [
+    {
+      "imdb_id": "tt0235618",
+      "title": "The Nine Lives of Tomas Katz",
+      "year": 2000,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "No"
+    },
+    {
+      "imdb_id": "tt0209163",
+      "title": "The Mummy Returns",
+      "year": 2001,
+      "roles": [
+        "cast"
+      ],
+      "character": "Spivey"
+    },
+    {
+      "imdb_id": "tt0338526",
+      "title": "Van Helsing",
+      "year": 2004,
+      "roles": [
+        "cast"
+      ],
+      "character": "Top Hat"
+    },
+    {
+      "imdb_id": "tt0443543",
+      "title": "The Illusionist",
+      "year": 2006,
+      "roles": [
+        "cast"
+      ],
+      "character": "Willigut"
+    },
+    {
+      "imdb_id": "tt7984766",
+      "title": "The King",
+      "year": 2019,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Northumberland"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZWUyMWExMWItMGZiZi00ZGYyLTg5MjktZWE2ZWJjMDIyODA0XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "1968",
+  "birth_location": "Camden, London, England, UK",
+  "height": "1.89 m",
+  "filmweb_id": 125829,
+  "name_pl": "Tom Fisher",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ]
+}

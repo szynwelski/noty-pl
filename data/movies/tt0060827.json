@@ -1,0 +1,143 @@
+{
+  "imdb_id": "tt0060827",
+  "title": "Persona",
+  "description": "A nurse is put in charge of a mute actress and finds that their personae are melding together.",
+  "runtime_minutes": 83,
+  "release_date": "16.03.1967",
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000761",
+      "name": "Bibi Andersson"
+    },
+    {
+      "id": "nm0880521",
+      "name": "Liv Ullmann"
+    },
+    {
+      "id": "nm0472234",
+      "name": "Margaretha Krook"
+    },
+    {
+      "id": "nm0085038",
+      "name": "Gunnar Björnstrand"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000005",
+      "name": "Ingmar Bergman"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000005",
+      "name": "Ingmar Bergman"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000761",
+      "name": "Bibi Andersson",
+      "character": "Alma"
+    },
+    {
+      "id": "nm0880521",
+      "name": "Liv Ullmann",
+      "character": "Elisabet Vogler"
+    },
+    {
+      "id": "nm0472234",
+      "name": "Margaretha Krook",
+      "character": "The Doctor"
+    },
+    {
+      "id": "nm0085038",
+      "name": "Gunnar Björnstrand",
+      "character": "Mr. Vogler"
+    },
+    {
+      "id": "nm0512502",
+      "name": "Jörgen Lindström",
+      "character": "Elisabet's Son"
+    }
+  ],
+  "countries": [
+    "Sweden"
+  ],
+  "languages": [
+    "Swedish",
+    "English"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 31654,
+  "year": 1966,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYTRhNzkzMDktZDNlNi00MDIwLWFiNjAtNTlmYjZjYWZlMTEzXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8,
+      "votes": 141684,
+      "distribution": {
+        "1": 3045,
+        "2": 1180,
+        "3": 1538,
+        "4": 2267,
+        "5": 4615,
+        "6": 9805,
+        "7": 21070,
+        "8": 36070,
+        "9": 28690,
+        "10": 33404
+      },
+      "normalized": 7.4433
+    },
+    "filmweb": {
+      "rating": 8.13,
+      "votes": 33179,
+      "distribution": {
+        "1": 411,
+        "2": 115,
+        "3": 263,
+        "4": 371,
+        "5": 862,
+        "6": 1651,
+        "7": 4582,
+        "8": 9980,
+        "9": 8900,
+        "10": 6044
+      },
+      "normalized": 8.8575
+    },
+    "jarek": {
+      "rating": 8,
+      "date_rated": "08.12.2016",
+      "normalized": 7.8989
+    },
+    "michal": {
+      "rating": 8,
+      "date_rated": "08.12.2005",
+      "normalized": 8.1116
+    },
+    "score": 8.0778
+  },
+  "polish_title": "Persona",
+  "silent": false,
+  "description_pl": "Aktorka Elisabeth Vogler (<a href=\"/osoba/?id=nm0880521\">Liv Ullmann</a>) zaniemówiła w trakcie przedstawienia \"Elektry\". Badania kliniczne wykazały brak przyczyn fizjologicznych, Elisabeth przestała mówić z własnej woli. Lekarka, która się nią opiekuje wysyła ją wraz z młodą pielęgniarką Almą (<a href=\"/osoba/?id=nm0000761\">Bibi Andersson</a>) na rekonwalescencję w domku nad morzem. Pielęgniarka zaczyna coraz bardziej ufać swojej pacjentce i zwierzać się jej ze swoich przeżyć.",
+  "composers": [
+    {
+      "id": "nm0921305",
+      "name": "Lars Johan Werle"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005815",
+      "name": "Sven Nykvist"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

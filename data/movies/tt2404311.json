@@ -1,0 +1,240 @@
+{
+  "imdb_id": "tt2404311",
+  "title": "The Family",
+  "description": "The Manzoni family, a notorious Mafia clan, is relocated to Normandy, France, under the Witness Protection Program, where fitting in soon becomes challenging as their old habits die hard.",
+  "runtime_minutes": 111,
+  "release_date": "13.09.2013",
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000134",
+      "name": "Robert De Niro"
+    },
+    {
+      "id": "nm0000201",
+      "name": "Michelle Pfeiffer"
+    },
+    {
+      "id": "nm1872698",
+      "name": "Dianna Agron"
+    },
+    {
+      "id": "nm2649720",
+      "name": "John D'Leo"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000108",
+      "name": "Luc Besson"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000108",
+      "name": "Luc Besson"
+    },
+    {
+      "id": "nm1003636",
+      "name": "Michael Caleo"
+    },
+    {
+      "id": "nm0070152",
+      "name": "Tonino Benacquista"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000134",
+      "name": "Robert De Niro",
+      "character": "Fred Blake"
+    },
+    {
+      "id": "nm0000201",
+      "name": "Michelle Pfeiffer",
+      "character": "Maggie Blake"
+    },
+    {
+      "id": "nm1872698",
+      "name": "Dianna Agron",
+      "character": "Belle Blake"
+    },
+    {
+      "id": "nm2649720",
+      "name": "John D'Leo",
+      "character": "Warren Blake"
+    },
+    {
+      "id": "nm0000169",
+      "name": "Tommy Lee Jones",
+      "character": "Robert Stansfield"
+    },
+    {
+      "id": "nm0658861",
+      "name": "Jimmy Palumbo",
+      "character": "Di Cicco"
+    },
+    {
+      "id": "nm0518511",
+      "name": "Domenick Lombardozzi",
+      "character": "Caputo"
+    },
+    {
+      "id": "nm0139255",
+      "name": "Stan Carp",
+      "character": "Don Luchese"
+    },
+    {
+      "id": "nm0665114",
+      "name": "Vincent Pastore",
+      "character": "Fat Willy"
+    },
+    {
+      "id": "nm0292719",
+      "name": "Jon Freda",
+      "character": "Rocco"
+    },
+    {
+      "id": "nm1294163",
+      "name": "Michael J. Panichelli Jr.",
+      "character": "Billy the Bug"
+    },
+    {
+      "id": "nm0096637",
+      "name": "Paul Borghese",
+      "character": "Albert"
+    },
+    {
+      "id": "nm1443325",
+      "name": "Anthony Desio",
+      "character": "Bernie"
+    },
+    {
+      "id": "nm0033827",
+      "name": "Ted Arcidi",
+      "character": "Tommy"
+    },
+    {
+      "id": "nm1042642",
+      "name": "David Belle",
+      "character": "Mezzo"
+    },
+    {
+      "id": "nm0291856",
+      "name": "Raymond Franza",
+      "character": "Paulo"
+    },
+    {
+      "id": "nm4988695",
+      "name": "Barbara Bolotner",
+      "character": "Waitress"
+    },
+    {
+      "id": "nm0358418",
+      "name": "Jan Hammenecker",
+      "character": "Manager"
+    }
+  ],
+  "countries": [
+    "France",
+    "United Kingdom",
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Italian"
+  ],
+  "color": "Color",
+  "filmweb_id": 655799,
+  "year": 2013,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjE2MzI0MzkyNV5BMl5BanBnXkFtZTcwMjQ2MDM2OQ@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.3,
+      "votes": 128810,
+      "distribution": {
+        "1": 1704,
+        "2": 1484,
+        "3": 2694,
+        "4": 6119,
+        "5": 15605,
+        "6": 35962,
+        "7": 37830,
+        "8": 16240,
+        "9": 4981,
+        "10": 6191
+      },
+      "normalized": 4.1103
+    },
+    "filmweb": {
+      "rating": 6.56,
+      "votes": 45917,
+      "distribution": {
+        "1": 124,
+        "2": 203,
+        "3": 978,
+        "4": 1691,
+        "5": 5193,
+        "6": 12390,
+        "7": 15717,
+        "8": 6870,
+        "9": 1632,
+        "10": 1119
+      },
+      "normalized": 4.4515
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "02.01.2014",
+      "normalized": 6.4102
+    },
+    "score": 4.9907
+  },
+  "polish_title": "Porachunki",
+  "silent": false,
+  "description_pl": "Komedia sensacyjna będąca ekranizacją powieści <a href=\"/osoba/?id=nm0070152\">Tonino Benacquisti</a>. Do domu w Normandii wprowadza się amerykańska rodzina. Szybko okazuje się, że ojciec rodziny - Fred Blake (<a href=\"/osoba/?id=nm0000134\">Robert De Niro</a>) nie przyjechał tam po to, by spisać historię lądowań aliantów jak wszystkim rozpowiada. W rzeczywistości to Giovanni Manzoni, mafiozo objęty programem ochrony świadków, który swoimi zeznaniami wsadził za kratki samego szefa wszystkich szefów. Teraz mafia pragnie zemsty, a rodzina państwa Blake pod opieką FBI musi przystosować się do nowego życia we Francji.",
+  "producers": [
+    {
+      "id": "nm5122256",
+      "name": "Jason Beckman"
+    },
+    {
+      "id": "nm0798065",
+      "name": "Virginie Besson-Silla"
+    },
+    {
+      "id": "nm0122035",
+      "name": "Ron Burkle"
+    },
+    {
+      "id": "nm4878818",
+      "name": "Jason Colbeck"
+    },
+    {
+      "id": "nm1448916",
+      "name": "Ryan Kavanaugh"
+    },
+    {
+      "id": "nm0000217",
+      "name": "Martin Scorsese"
+    },
+    {
+      "id": "nm0867504",
+      "name": "Tucker Tooley"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005636",
+      "name": "Thierry Arbogast"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

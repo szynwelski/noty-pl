@@ -1,0 +1,175 @@
+{
+  "imdb_id": "tt0093940",
+  "title": "September",
+  "description": "At a summer house in Vermont, neighbor Howard falls in love with Lane, who's in a relationship with Peter, who's falling for Stephanie, who's married with children.",
+  "runtime_minutes": 83,
+  "release_date": "18.12.1987",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0834626",
+      "name": "Elaine Stritch"
+    },
+    {
+      "id": "nm0001186",
+      "name": "Denholm Elliott"
+    },
+    {
+      "id": "nm0001201",
+      "name": "Mia Farrow"
+    },
+    {
+      "id": "nm0001848",
+      "name": "Dianne Wiest"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000095",
+      "name": "Woody Allen"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000095",
+      "name": "Woody Allen"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0834626",
+      "name": "Elaine Stritch",
+      "character": "Diane"
+    },
+    {
+      "id": "nm0001186",
+      "name": "Denholm Elliott",
+      "character": "Howard"
+    },
+    {
+      "id": "nm0001201",
+      "name": "Mia Farrow",
+      "character": "Lane"
+    },
+    {
+      "id": "nm0001848",
+      "name": "Dianne Wiest",
+      "character": "Stephanie"
+    },
+    {
+      "id": "nm0001832",
+      "name": "Sam Waterston",
+      "character": "Peter"
+    },
+    {
+      "id": "nm0912001",
+      "name": "Jack Warden",
+      "character": "Lloyd"
+    },
+    {
+      "id": "nm0923840",
+      "name": "Ira Wheeler",
+      "character": "Mr. Raines"
+    },
+    {
+      "id": "nm0147697",
+      "name": "Jane Cecil",
+      "character": "Mrs. Raines"
+    },
+    {
+      "id": "nm0614677",
+      "name": "Rosemary Murphy",
+      "character": "Mrs. Mason"
+    },
+    {
+      "id": "nm0001577",
+      "name": "Maureen O'Sullivan",
+      "character": "Diane (rehearsed only)"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "color": "Color",
+  "filmweb_id": 11788,
+  "year": 1987,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYTlhMGZkMzQtZTVjNy00YTRiLThlYjQtY2E3ZDlmMGMyN2E5XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.4,
+      "votes": 11170,
+      "distribution": {
+        "1": 282,
+        "2": 145,
+        "3": 255,
+        "4": 536,
+        "5": 1226,
+        "6": 2638,
+        "7": 2926,
+        "8": 1587,
+        "9": 703,
+        "10": 872
+      },
+      "normalized": 4.3863
+    },
+    "filmweb": {
+      "rating": 6.66,
+      "votes": 3137,
+      "distribution": {
+        "1": 40,
+        "2": 22,
+        "3": 61,
+        "4": 128,
+        "5": 335,
+        "6": 684,
+        "7": 990,
+        "8": 608,
+        "9": 163,
+        "10": 106
+      },
+      "normalized": 4.758
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "26.07.2007",
+      "normalized": 6.3474
+    },
+    "score": 5.1639
+  },
+  "polish_title": "Wrzesień",
+  "silent": false,
+  "description_pl": "Siedemnasty film w karierze reżyserskiej <a href=\"/osoba/?id=nm0000095\">Woody'ego Allena</a>. Scenariusz napisał sam, świadomie nawiązując w doborze motywów do dramatów Antoniego Czechowa. \n\nAkcja \"<a href=\"/film/?id=tt0093940\">Września</a>\", respektująca trzy klasyczne jedności, trwa kilkanaście godzin nocnych, przeciętych gwałtowną burzą. Jej miejscem jest dom w plenerze. A w nim kilka osób. Wszystko wskazuje na słoneczną, jesienną harmonię. Ale tej harmonii zagraża zamiar sprzedania domu. To zagrożenie staje się katalizatorem przyspieszającym i odsłaniającym to wszystko, co drzemie we wnętrzach ludzi. Poznamy wówczas ich prawdziwe uczucia i charaktery, bowiem sytuacja zmusi ich do wykonania znaczących gestów samookreślenia. Osobami tego dramatu są: Diana, była aktorka (Elaine Stritch) i towarzysz jej życia, Lloyd (<a href=\"/osoba/?id=nm0912001\">Jack Warden</a>), jej córka, Lane (<a href=\"/osoba/?id=nm0001201\">Mia Farrow</a>), która w wieku 14 lat zabiła w afekcie jednego z amantów matki, przyjaciółka Lane, Stefanie (<a href=\"/osoba/?id=nm0001848\">Dianne Wiest</a>) i pisarz Peter (<a href=\"/osoba/?id=nm0001832\">Sam Waterston</a>). Czasem pojawia się Howard (<a href=\"/osoba/?id=nm0001186\">Denholm Elliot</a>), starszy pan starający się o Lane.",
+  "producers": [
+    {
+      "id": "nm0339086",
+      "name": "Robert Greenhut"
+    },
+    {
+      "id": "nm0423618",
+      "name": "Charles H. Joffe"
+    },
+    {
+      "id": "nm0738435",
+      "name": "Jack Rollins"
+    },
+    {
+      "id": "nm0796382",
+      "name": "Gail Sicilia"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005688",
+      "name": "Carlo Di Palma"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

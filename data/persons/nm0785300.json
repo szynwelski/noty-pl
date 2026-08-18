@@ -1,0 +1,35 @@
+{
+  "id": "nm0785300",
+  "name": "Kazimierz Serocki",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDNjMWFhMTUtZGQwYy00NDUzLWI2ZDItZmYxYzc2Mjk2OWEwXkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0054004",
+      "title": "Knights of the Teutonic Order",
+      "year": 1960,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt0072021",
+      "title": "The Deluge",
+      "year": 1974,
+      "roles": [
+        "composer"
+      ]
+    }
+  ],
+  "birth_date": "03.03.1922",
+  "death_date": "09.01.1981",
+  "birth_location": "Torun, Kujawsko-Pomorskie, Poland",
+  "imdb_scraped": true,
+  "filmweb_id": 12784,
+  "name_pl": "Kazimierz Serocki",
+  "birth_location_pl": "Toruń",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Polska"
+  ]
+}

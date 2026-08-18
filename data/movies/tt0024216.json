@@ -1,0 +1,227 @@
+{
+  "imdb_id": "tt0024216",
+  "title": "King Kong",
+  "description": "A film crew goes to a tropical island for a location shoot, where they capture a colossal ape who takes a shine to their blonde starlet, and bring him back to New York City.",
+  "runtime_minutes": 100,
+  "release_date": "07.04.1933",
+  "genres": [
+    "Adventure",
+    "Horror"
+  ],
+  "stars": [
+    {
+      "id": "nm0942039",
+      "name": "Fay Wray"
+    },
+    {
+      "id": "nm0035877",
+      "name": "Robert Armstrong"
+    },
+    {
+      "id": "nm0127677",
+      "name": "Bruce Cabot"
+    },
+    {
+      "id": "nm0717046",
+      "name": "Frank Reicher"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0178260",
+      "name": "Merian C. Cooper"
+    },
+    {
+      "id": "nm0774325",
+      "name": "Ernest B. Schoedsack"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0187256",
+      "name": "James Ashmore Creelman"
+    },
+    {
+      "id": "nm0741656",
+      "name": "Ruth Rose"
+    },
+    {
+      "id": "nm0178260",
+      "name": "Merian C. Cooper"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0942039",
+      "name": "Fay Wray",
+      "character": "Ann Darrow"
+    },
+    {
+      "id": "nm0035877",
+      "name": "Robert Armstrong",
+      "character": "Carl Denham"
+    },
+    {
+      "id": "nm0127677",
+      "name": "Bruce Cabot",
+      "character": "Jack Driscoll"
+    },
+    {
+      "id": "nm0717046",
+      "name": "Frank Reicher",
+      "character": "Capt. Englehorn"
+    },
+    {
+      "id": "nm0362742",
+      "name": "Sam Hardy",
+      "character": "Charles Weston"
+    },
+    {
+      "id": "nm0425903",
+      "name": "Noble Johnson",
+      "character": "Native Chief"
+    },
+    {
+      "id": "nm0166170",
+      "name": "Steve Clemente",
+      "character": "Witch King"
+    },
+    {
+      "id": "nm0281329",
+      "name": "James Flavin",
+      "character": "Second Mate Briggs"
+    },
+    {
+      "id": "nm0010017",
+      "name": "Walter Ackerman",
+      "character": "Reporter"
+    },
+    {
+      "id": "nm0011490",
+      "name": "James Adamson",
+      "character": "Native Child"
+    },
+    {
+      "id": "nm2151980",
+      "name": "Van Alder",
+      "character": "Member of Ship's Crew"
+    },
+    {
+      "id": "nm0020476",
+      "name": "Ed Allen",
+      "character": "Native"
+    },
+    {
+      "id": "nm2149982",
+      "name": "Etta Mae Allen",
+      "character": "Native"
+    },
+    {
+      "id": "nm2108438",
+      "name": "Frank Angel",
+      "character": "Reporter"
+    },
+    {
+      "id": "nm0040374",
+      "name": "Roscoe Ates",
+      "character": "Press Photographer"
+    },
+    {
+      "id": "nm0054160",
+      "name": "Ralph Bard",
+      "character": "Member of Ship's Crew"
+    },
+    {
+      "id": "nm0055275",
+      "name": "Reginald Barlow",
+      "character": "Ship's Engineer"
+    },
+    {
+      "id": "nm2108570",
+      "name": "Leo Beard",
+      "character": "Member of Ship's Crew"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 31682,
+  "year": 1933,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYmFmNTFlN2QtZmEzNS00MTRmLWE1ZGUtODk5YzY1ZTkzMGUzXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.9,
+      "votes": 96447,
+      "distribution": {
+        "1": 1653,
+        "2": 569,
+        "3": 845,
+        "4": 1419,
+        "5": 3396,
+        "6": 7969,
+        "7": 18454,
+        "8": 28261,
+        "9": 15060,
+        "10": 18821
+      },
+      "normalized": 7.2005
+    },
+    "filmweb": {
+      "rating": 7.03,
+      "votes": 7367,
+      "distribution": {
+        "1": 79,
+        "2": 46,
+        "3": 103,
+        "4": 255,
+        "5": 521,
+        "6": 1236,
+        "7": 2426,
+        "8": 1557,
+        "9": 592,
+        "10": 552
+      },
+      "normalized": 5.6488
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "23.03.2006",
+      "normalized": 6.4102
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "19.10.2005",
+      "normalized": 6.3474
+    },
+    "score": 6.4017
+  },
+  "polish_title": "King Kong",
+  "silent": false,
+  "description_pl": "Ekspedycja amerykańskich odkrywców, przeszukując bezludną wyspę, znajduje jej niezwykłego mieszkańca - ogromnego goryla. Nieświadomi niebezpieczeństwa podróżnicy, zabierają olbrzymią małpę do Nowego Jorku na wystawę. Jak się okazuje, King Kong zaczyna żywić uczucie do pięknej aktorki i zrobi dla niej wszystko.",
+  "producers": [
+    {
+      "id": "nm0178260",
+      "name": "Merian C. Cooper"
+    },
+    {
+      "id": "nm0774325",
+      "name": "Ernest B. Schoedsack"
+    },
+    {
+      "id": "nm0006388",
+      "name": "David O. Selznick"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0000070",
+      "name": "Max Steiner"
+    }
+  ],
+  "fetched_at": "2026-08-15"
+}

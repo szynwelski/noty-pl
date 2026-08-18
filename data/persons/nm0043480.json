@@ -1,0 +1,44 @@
+{
+  "id": "nm0043480",
+  "name": "George Axelrod",
+  "filmography": [
+    {
+      "imdb_id": "tt0048605",
+      "title": "The Seven Year Itch",
+      "year": 1955,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0054698",
+      "title": "Breakfast at Tiffany's",
+      "year": 1961,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0056218",
+      "title": "The Manchurian Candidate",
+      "year": 1962,
+      "roles": [
+        "writer",
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYjExMGM3ODMtNTQwZi00ZDk0LThiNzEtZjFlN2E3MWVlY2ZmXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "09.06.1922",
+  "death_date": "21.06.2003",
+  "birth_location": "New York City, New York, USA",
+  "filmweb_id": 13078,
+  "name_pl": "George Axelrod",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

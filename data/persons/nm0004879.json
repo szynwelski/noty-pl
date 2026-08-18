@@ -1,0 +1,47 @@
+{
+  "id": "nm0004879",
+  "name": "Snoop Dogg",
+  "filmography": [
+    {
+      "imdb_id": "tt0139654",
+      "title": "Training Day",
+      "year": 2001,
+      "roles": [
+        "cast"
+      ],
+      "character": "Blue"
+    },
+    {
+      "imdb_id": "tt0335438",
+      "title": "Starsky & Hutch",
+      "year": 2004,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Huggy Bear"
+    },
+    {
+      "imdb_id": "tt13314558",
+      "title": "Day Shift",
+      "year": 2022,
+      "roles": [
+        "cast"
+      ],
+      "character": "Big John Elliott"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjE2OTUwNTk4NF5BMl5BanBnXkFtZTcwMjMwOTk0NA@@._V1_.jpg",
+  "birth_date": "20.10.1971",
+  "birth_location": "Long Beach, California, USA",
+  "height": "1.92 m",
+  "filmweb_id": 46607,
+  "name_pl": "Snoop Dogg",
+  "birth_location_pl": "Long Beach, Kalifornia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

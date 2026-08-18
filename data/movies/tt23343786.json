@@ -1,0 +1,217 @@
+{
+  "imdb_id": "tt23343786",
+  "title": "Lesson Plan",
+  "description": "After a teacher tragically dies, his friend, who happens to be a former cop, takes over his old job in hopes of catching the people responsible for his murder.",
+  "runtime_minutes": 101,
+  "release_date": "23.11.2022",
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm4934471",
+      "name": "Piotr Witkowski"
+    },
+    {
+      "id": "nm0927251",
+      "name": "Jan Wieczorkowski"
+    },
+    {
+      "id": "nm6086480",
+      "name": "Antonina Jarnuszkiewicz"
+    },
+    {
+      "id": "nm8466651",
+      "name": "Nicolas Przygoda"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm10625383",
+      "name": "Daniel Markowicz"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm6713263",
+      "name": "Daniel Bernardi"
+    },
+    {
+      "id": "nm10222653",
+      "name": "Jan Kuznik"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm4934471",
+      "name": "Piotr Witkowski",
+      "character": "Damian Nowicki"
+    },
+    {
+      "id": "nm0927251",
+      "name": "Jan Wieczorkowski",
+      "character": "Leszek Zamojski"
+    },
+    {
+      "id": "nm6086480",
+      "name": "Antonina Jarnuszkiewicz",
+      "character": "Agata Kierska"
+    },
+    {
+      "id": "nm8466651",
+      "name": "Nicolas Przygoda",
+      "character": "Kamil Makowiecki"
+    },
+    {
+      "id": "nm9827698",
+      "name": "Daniel Namiotko",
+      "character": "Jarek"
+    },
+    {
+      "id": "nm4027445",
+      "name": "Rafal Zawierucha",
+      "character": "Stefan Idziorek"
+    },
+    {
+      "id": "nm11448955",
+      "name": "Zuzanna Galewicz",
+      "character": "Emilia"
+    },
+    {
+      "id": "nm1591309",
+      "name": "Marcin Bosak",
+      "character": "Szymon Makowiecki"
+    },
+    {
+      "id": "nm4410637",
+      "name": "Pascal Fischer",
+      "character": "'Harry'"
+    },
+    {
+      "id": "nm1449921",
+      "name": "Roma Gasiorowska",
+      "character": "Ela Makowiecka"
+    },
+    {
+      "id": "nm10884641",
+      "name": "Michal Pluskota",
+      "character": "Chmielski"
+    },
+    {
+      "id": "nm14053309",
+      "name": "Maria Wróbel",
+      "character": "Paula"
+    },
+    {
+      "id": "nm10658699",
+      "name": "Eugeniusz Diaczkow",
+      "character": "Lyosza"
+    },
+    {
+      "id": "nm10061515",
+      "name": "Nel Kaczmarek",
+      "character": "Zuza"
+    },
+    {
+      "id": "nm9112036",
+      "name": "Marcin Dabrowski",
+      "character": "'Makak'"
+    },
+    {
+      "id": "nm5257721",
+      "name": "Nicole Bogdanowicz",
+      "character": "'Lucy'"
+    },
+    {
+      "id": "nm10837896",
+      "name": "Kuba Sprenger",
+      "character": "Franek"
+    },
+    {
+      "id": "nm13141823",
+      "name": "Maciej Kobiela",
+      "character": "Tytus"
+    }
+  ],
+  "countries": [
+    "Poland"
+  ],
+  "languages": [
+    "Polish"
+  ],
+  "color": "Color",
+  "filmweb_id": 10022445,
+  "year": 2022,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDE2NmVjZjMtZWZmYi00YjczLTkwYTMtZTEyN2JkMzFmYmMzXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Plan lekcji",
+  "ratings": {
+    "imdb": {
+      "rating": 5.1,
+      "votes": 2387,
+      "distribution": {
+        "1": 134,
+        "2": 129,
+        "3": 197,
+        "4": 329,
+        "5": 621,
+        "6": 487,
+        "7": 258,
+        "8": 89,
+        "9": 45,
+        "10": 98
+      },
+      "normalized": 2.9999
+    },
+    "filmweb": {
+      "rating": 4.41,
+      "votes": 9992,
+      "distribution": {
+        "1": 725,
+        "2": 1061,
+        "3": 1772,
+        "4": 1730,
+        "5": 1819,
+        "6": 1482,
+        "7": 765,
+        "8": 328,
+        "9": 84,
+        "10": 226
+      },
+      "normalized": 1.4456
+    },
+    "jarek": {
+      "rating": 3,
+      "date_rated": "11.12.2022",
+      "normalized": 4.2591
+    },
+    "score": 2.9015
+  },
+  "polish_title": "Plan lekcji",
+  "silent": false,
+  "producers": [
+    {
+      "id": "nm10625383",
+      "name": "Daniel Markowicz"
+    },
+    {
+      "id": "nm10598930",
+      "name": "Mike Zawadzki"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm5502587",
+      "name": "Miro Kepinski"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm5729535",
+      "name": "Wojciech Wegrzyn"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

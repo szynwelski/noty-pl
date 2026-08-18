@@ -1,0 +1,47 @@
+{
+  "id": "nm0664499",
+  "name": "Adrian Pasdar",
+  "filmography": [
+    {
+      "imdb_id": "tt0092099",
+      "title": "Top Gun",
+      "year": 1986,
+      "roles": [
+        "cast"
+      ],
+      "character": "Chipper"
+    },
+    {
+      "imdb_id": "tt0106519",
+      "title": "Carlito's Way",
+      "year": 1993,
+      "roles": [
+        "cast"
+      ],
+      "character": "Frankie"
+    },
+    {
+      "imdb_id": "tt0813715",
+      "title": "Heroes",
+      "year": 2006,
+      "roles": [
+        "cast"
+      ],
+      "character": "Nathan Petrelli"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTI4MzQ3ODM2Nl5BMl5BanBnXkFtZTYwODMxNjI3._V1_.jpg",
+  "birth_date": "30.04.1965",
+  "birth_location": "Pittsfield, Massachusetts, USA",
+  "height": "1.78 m",
+  "filmweb_id": 75677,
+  "name_pl": "Adrian Pasdar",
+  "birth_location_pl": "Pittsfield, Massachusetts",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 75677
+}

@@ -1,0 +1,51 @@
+{
+  "id": "nm0909259",
+  "name": "Hal B. Wallis",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYmUyNTg3MGItMTJiYy00MmQxLTgzM2YtMTRkOTc5YjYyOWRjXkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0021079",
+      "title": "Little Caesar",
+      "year": 1931,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0029843",
+      "title": "The Adventures of Robin Hood",
+      "year": 1938,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0033870",
+      "title": "The Maltese Falcon",
+      "year": 1941,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0034583",
+      "title": "Casablanca",
+      "year": 1942,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "birth_date": "14.09.1899",
+  "death_date": "05.10.1986",
+  "birth_location": "Chicago, Illinois, USA",
+  "filmweb_id": 83053,
+  "name_pl": "Hal B. Wallis",
+  "birth_location_pl": "Chicago, Illinois",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

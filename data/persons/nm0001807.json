@@ -1,0 +1,39 @@
+{
+  "id": "nm0001807",
+  "name": "Cicely Tyson",
+  "filmography": [
+    {
+      "imdb_id": "tt0101921",
+      "title": "Fried Green Tomatoes",
+      "year": 1991,
+      "roles": [
+        "cast"
+      ],
+      "character": "Sipsey"
+    },
+    {
+      "imdb_id": "tt1454029",
+      "title": "The Help",
+      "year": 2011,
+      "roles": [
+        "cast"
+      ],
+      "character": "Constantine Jefferson"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTU4OTM1MDczN15BMl5BanBnXkFtZTcwNDI5NzcyMw@@._V1_.jpg",
+  "birth_date": "19.12.1924",
+  "death_date": "28.01.2021",
+  "birth_location": "Harlem, New York City, New York, USA",
+  "height": "1.61 m",
+  "imdb_scraped": true,
+  "filmweb_id": 9176,
+  "name_pl": "Cicely Tyson",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 9176
+}

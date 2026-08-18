@@ -1,0 +1,50 @@
+{
+  "id": "nm0001023",
+  "name": "John Cassavetes",
+  "filmography": [
+    {
+      "imdb_id": "tt0053270",
+      "title": "Shadows",
+      "year": 1958,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0063522",
+      "title": "Rosemary's Baby",
+      "year": 1968,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Guy Woodhouse"
+    },
+    {
+      "imdb_id": "tt0077588",
+      "title": "The Fury",
+      "year": 1978,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Childress"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTU1MDQ4ODcxM15BMl5BanBnXkFtZTgwMzA5MjUyMzI@._V1_.jpg",
+  "birth_date": "09.12.1929",
+  "death_date": "03.02.1989",
+  "birth_location": "New York City, New York, USA",
+  "height": "1.70 m",
+  "filmweb_id": 8501,
+  "name_pl": "John Cassavetes",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 8501
+}

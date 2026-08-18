@@ -1,0 +1,35 @@
+{
+  "id": "nm0518522",
+  "name": "Anne Lonnberg",
+  "filmography": [
+    {
+      "imdb_id": "tt0079574",
+      "title": "Moonraker",
+      "year": 1979,
+      "roles": [
+        "cast"
+      ],
+      "character": "Museum Guide"
+    },
+    {
+      "imdb_id": "tt0096332",
+      "title": "The Unbearable Lightness of Being",
+      "year": 1988,
+      "roles": [
+        "cast"
+      ],
+      "character": "Swiss Photographer"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYzgyODc3ZGMtYzBkYy00MTQ5LWI0ZDctMGMzMWQ0MzNkMjE2XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "17.02.1948",
+  "birth_location": "Berkeley, California, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 80273,
+  "name_pl": "Anne Lonnberg",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

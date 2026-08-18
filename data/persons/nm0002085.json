@@ -1,0 +1,40 @@
+{
+  "id": "nm0002085",
+  "name": "Gert Fröbe",
+  "filmography": [
+    {
+      "imdb_id": "tt0058150",
+      "title": "Goldfinger",
+      "year": 1964,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Auric Goldfinger"
+    },
+    {
+      "imdb_id": "tt0064688",
+      "title": "Those Daring Young Men in Their Jaunty Jalopies",
+      "year": 1969,
+      "roles": [
+        "cast"
+      ],
+      "character": "Willi Schickel"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTk2MzM0Mjc3M15BMl5BanBnXkFtZTcwNjMxNTgzNA@@._V1_.jpg",
+  "birth_date": "25.02.1913",
+  "death_date": "05.09.1988",
+  "birth_location": "Oberplanitz [now Zwickau], Saxony, Germany",
+  "height": "1.85 m",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Niemcy"
+  ],
+  "filmweb_id": 7365,
+  "wikidata_fw_id": 7365,
+  "gender": "M",
+  "name_pl": "Gert Fröbe",
+  "birth_location_pl": "Oberplanitz (obecnie Zwickau)"
+}

@@ -1,0 +1,99 @@
+{
+  "imdb_id": "tt2216962",
+  "title": "Legacy",
+  "description": "A boy is forced to face the burden of his heritage to save a child in harm's way.",
+  "runtime_minutes": 6,
+  "release_date": "15.10.2012",
+  "genres": [
+    "Animation",
+    "Short",
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm5111627",
+      "name": "Alexandra Olivier"
+    },
+    {
+      "id": "nm5110348",
+      "name": "Craig Zacok"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm5111112",
+      "name": "Adam Floeck"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm5111627",
+      "name": "Alexandra Olivier",
+      "character": "Kit"
+    },
+    {
+      "id": "nm5110348",
+      "name": "Craig Zacok",
+      "character": ""
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [],
+  "color": "Color",
+  "year": 2012,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNjliNzY1YjAtNmZhOC00MWZmLWI5MzQtMDFkMjUzZGI0Mjg4XkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 665549,
+  "ratings": {
+    "imdb": {
+      "rating": 5.7,
+      "votes": 29,
+      "distribution": {
+        "1": 0,
+        "2": 2,
+        "3": 1,
+        "4": 7,
+        "5": 5,
+        "6": 6,
+        "7": 5,
+        "8": 0,
+        "9": 1,
+        "10": 2
+      },
+      "normalized": 5.2247
+    },
+    "filmweb": {
+      "rating": 6.27,
+      "votes": 11,
+      "distribution": {
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 2,
+        "6": 6,
+        "7": 2,
+        "8": 0,
+        "9": 1,
+        "10": 0
+      },
+      "normalized": 5.1606
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "15.02.2013",
+      "normalized": 6.4102
+    },
+    "score": 5.5985
+  },
+  "polish_title": "Dziedzictwo",
+  "silent": false,
+  "composers": [
+    {
+      "id": "nm4579507",
+      "name": "Alex Previty"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

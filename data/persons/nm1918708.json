@@ -1,0 +1,31 @@
+{
+  "id": "nm1918708",
+  "name": "Joe Kelly",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOTVmM2Q0ODItZjRjZC00OWQ1LWI3ZmYtNjFjZjE1Y2UyYjY5XkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0460649",
+      "title": "How I Met Your Mother",
+      "year": 2005,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt10986410",
+      "title": "Ted Lasso",
+      "year": 2020,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "birth_date": "24.09.1972",
+  "birth_location": "Fairlawn, New Jersey, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 518985,
+  "name_pl": "Joe Kelly",
+  "birth_location_pl": "Fairlawn, New Jersey",
+  "gender": "M",
+  "wikidata_processed": true
+}

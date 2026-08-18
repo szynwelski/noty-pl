@@ -1,0 +1,192 @@
+{
+  "imdb_id": "tt6073206",
+  "title": "Legendy Polskie Twardowsky 2.0",
+  "description": "Twardowsky is heading to the border of the Solar System. Can he make it?. The Devil, and he's hunter - Lucy are right behind him. Can desperate Polish astronaut win with his fiendish opponents?",
+  "runtime_minutes": 20,
+  "release_date": "16.09.2016",
+  "genres": [
+    "Short",
+    "Action",
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm0927240",
+      "name": "Robert Więckiewicz"
+    },
+    {
+      "id": "nm8447114",
+      "name": "Aleksandra Kasprzyk"
+    },
+    {
+      "id": "nm3380715",
+      "name": "Tomasz Drabek"
+    },
+    {
+      "id": "nm0532536",
+      "name": "Piotr Machalica"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm1313617",
+      "name": "Tomasz Bagiński"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm7760604",
+      "name": "Blazej Dzikowski"
+    },
+    {
+      "id": "nm8447117",
+      "name": "Fish Ladder"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0927240",
+      "name": "Robert Więckiewicz",
+      "character": "Twardowsky"
+    },
+    {
+      "id": "nm8447114",
+      "name": "Aleksandra Kasprzyk",
+      "character": "Devil (Lucy)"
+    },
+    {
+      "id": "nm3380715",
+      "name": "Tomasz Drabek",
+      "character": "Devil (Boruta)"
+    },
+    {
+      "id": "nm0532536",
+      "name": "Piotr Machalica",
+      "character": "Devil (Rokita)"
+    },
+    {
+      "id": "nm7199519",
+      "name": "Piotr M.A. Cywinski",
+      "character": "Radio Host"
+    },
+    {
+      "id": "nm3997137",
+      "name": "Dariusz Dluzewski",
+      "character": "Radio Expert"
+    },
+    {
+      "id": "nm8447115",
+      "name": "Michal Baginski",
+      "character": "IT Specialist"
+    },
+    {
+      "id": "nm8447116",
+      "name": "Bartosz Krasicki",
+      "character": "Boruta's Hands Double"
+    }
+  ],
+  "countries": [
+    "Poland"
+  ],
+  "languages": [
+    "Polish"
+  ],
+  "color": "Color",
+  "filmweb_id": 774850,
+  "year": 2016,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BY2NlYWE2ZTAtN2NmNy00NjEwLThmNDAtYWJhYjY4ZmM3MjVlXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.4,
+      "votes": 1047,
+      "distribution": {
+        "1": 21,
+        "2": 5,
+        "3": 12,
+        "4": 24,
+        "5": 40,
+        "6": 98,
+        "7": 266,
+        "8": 357,
+        "9": 130,
+        "10": 94
+      },
+      "normalized": 5.8236
+    },
+    "filmweb": {
+      "rating": 7.78,
+      "votes": 60186,
+      "distribution": {
+        "1": 186,
+        "2": 133,
+        "3": 350,
+        "4": 561,
+        "5": 1411,
+        "6": 4202,
+        "7": 13445,
+        "8": 24582,
+        "9": 11414,
+        "10": 3902
+      },
+      "normalized": 7.635
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "11.11.2017",
+      "normalized": 7.2292
+    },
+    "score": 6.8959
+  },
+  "polish_title": "Twardowsky 2.0",
+  "silent": false,
+  "description_pl": "Twardowski pędzi co sił ku krańcowi Układu Słonecznego. Jednak Boruta i  jego wysłanniczka nie dają łatwo za wygraną. Najnowsze zdobycze  technologii kontra zdesperowany Polak objedzony kisielem. Zwycięzca może  być tylko jeden!",
+  "producers": [
+    {
+      "id": "nm8447118",
+      "name": "Marcin Dyczak"
+    },
+    {
+      "id": "nm1241320",
+      "name": "Katarzyna Fukacz-Cebula"
+    },
+    {
+      "id": "nm8447119",
+      "name": "Anna Iller"
+    },
+    {
+      "id": "nm3209416",
+      "name": "Inga Kruk"
+    },
+    {
+      "id": "nm1320040",
+      "name": "Jaroslaw Sawko"
+    },
+    {
+      "id": "nm1320127",
+      "name": "Piotr Sikora"
+    },
+    {
+      "id": "nm8447120",
+      "name": "Aleksandra Sulej"
+    },
+    {
+      "id": "nm6895840",
+      "name": "Elzbieta Trosinska"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm1468605",
+      "name": "Atanas Valkov"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0698592",
+      "name": "Marian Prokop"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

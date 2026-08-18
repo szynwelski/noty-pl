@@ -1,0 +1,249 @@
+{
+  "imdb_id": "tt0115433",
+  "title": "101 Dalmatians",
+  "description": "An evil high-fashion designer plots to steal dalmatian puppies in order to make an extravagant fur coat but creates an extravagant mess instead.",
+  "runtime_minutes": 103,
+  "release_date": "27.11.1996",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Crime",
+    "Family"
+  ],
+  "stars": [
+    {
+      "id": "nm0000335",
+      "name": "Glenn Close"
+    },
+    {
+      "id": "nm0001099",
+      "name": "Jeff Daniels"
+    },
+    {
+      "id": "nm0000613",
+      "name": "Joely Richardson"
+    },
+    {
+      "id": "nm0687506",
+      "name": "Joan Plowright"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0378893",
+      "name": "Stephen Herek"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0807977",
+      "name": "Dodie Smith"
+    },
+    {
+      "id": "nm0000455",
+      "name": "John Hughes"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000335",
+      "name": "Glenn Close",
+      "character": "Cruella DeVil"
+    },
+    {
+      "id": "nm0001099",
+      "name": "Jeff Daniels",
+      "character": "Roger"
+    },
+    {
+      "id": "nm0000613",
+      "name": "Joely Richardson",
+      "character": "Anita"
+    },
+    {
+      "id": "nm0687506",
+      "name": "Joan Plowright",
+      "character": "Nanny"
+    },
+    {
+      "id": "nm0491402",
+      "name": "Hugh Laurie",
+      "character": "Jasper"
+    },
+    {
+      "id": "nm0931247",
+      "name": "Mark Williams",
+      "character": "Horace"
+    },
+    {
+      "id": "nm0795344",
+      "name": "John Shrapnel",
+      "character": "Skinner"
+    },
+    {
+      "id": "nm0570570",
+      "name": "Tim McInnerny",
+      "character": "Alonzo"
+    },
+    {
+      "id": "nm0292140",
+      "name": "Hugh Fraser",
+      "character": "Frederick"
+    },
+    {
+      "id": "nm0919205",
+      "name": "Zohren Weiss",
+      "character": "Herbert"
+    },
+    {
+      "id": "nm0352702",
+      "name": "Mark Haddigan",
+      "character": "Alan"
+    },
+    {
+      "id": "nm0672888",
+      "name": "Michael Percival",
+      "character": "Police Inspector"
+    },
+    {
+      "id": "nm0680670",
+      "name": "Neville Phillips",
+      "character": "Minister"
+    },
+    {
+      "id": "nm1790256",
+      "name": "John Evans",
+      "character": "Pensioner with Bulldog"
+    },
+    {
+      "id": "nm0103996",
+      "name": "Hilda Braid",
+      "character": "Woman on Park Bench"
+    },
+    {
+      "id": "nm0556834",
+      "name": "Margery Mason",
+      "character": "Woman on Park Bench"
+    },
+    {
+      "id": "nm0071007",
+      "name": "John Benfield",
+      "character": "Doorman"
+    },
+    {
+      "id": "nm0713942",
+      "name": "Andrew Readman",
+      "character": "Police Officer #1"
+    }
+  ],
+  "countries": [
+    "United States",
+    "United Kingdom"
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "color": "Color",
+  "filmweb_id": 633,
+  "year": 1996,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOTA5MjAzZWYtZmQxMC00NWE0LWJkNWMtMzczNjg3ZTM1ZGRiXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.8,
+      "votes": 124205,
+      "distribution": {
+        "1": 1749,
+        "2": 2230,
+        "3": 4848,
+        "4": 11396,
+        "5": 27820,
+        "6": 36429,
+        "7": 21587,
+        "8": 8980,
+        "9": 3039,
+        "10": 6127
+      },
+      "normalized": 3.255
+    },
+    "filmweb": {
+      "rating": 6.42,
+      "votes": 92744,
+      "distribution": {
+        "1": 275,
+        "2": 431,
+        "3": 1724,
+        "4": 4617,
+        "5": 12661,
+        "6": 27889,
+        "7": 28517,
+        "8": 11436,
+        "9": 2726,
+        "10": 2468
+      },
+      "normalized": 4.1391
+    },
+    "jarek": {
+      "rating": 2,
+      "date_rated": "23.02.2011",
+      "normalized": 3.5003
+    },
+    "michal": {
+      "rating": 3,
+      "date_rated": "30.12.2015",
+      "normalized": 3.8753
+    },
+    "score": 3.6924
+  },
+  "polish_title": "101 dalmatyńczyków",
+  "silent": false,
+  "description_pl": "Komedia będąca aktorską wersją głośnego filmu animowanego. Akcja rozgrywa się w Londynie. Jednym z bohaterów jest Roger - samotnik zajmujący się projektowaniem gier komputerowych. Jego jedynym towarzyszem jest uroczy dalmatyńczyk Pongo. Sytuacja ulega zmianie, gdy dzięki Pongo Roger spotyka piękną Anitę - właścicielkę dalmatynki Perdity. Tych dwoje podejmuje walkę przeciwko diabolicznej Cruelli DeMon - szefowej domu mody, której celem jest wylansowanie futer z dalmatyńczyków. Starcie Dobra ze Złem pełne jest nieoczekiwanych przygód i rozkosznej gromadki psiaków.",
+  "producers": [
+    {
+      "id": "nm0271026",
+      "name": "Edward S. Feldman"
+    },
+    {
+      "id": "nm0000455",
+      "name": "John Hughes"
+    },
+    {
+      "id": "nm0582338",
+      "name": "Ricardo Mestres"
+    },
+    {
+      "id": "nm0596675",
+      "name": "David Molina"
+    },
+    {
+      "id": "nm0748625",
+      "name": "Rebekah Rudd"
+    },
+    {
+      "id": "nm0787652",
+      "name": "Sue Shakespeare"
+    },
+    {
+      "id": "nm0787653",
+      "name": "Terry Shakespeare"
+    },
+    {
+      "id": "nm0006578",
+      "name": "Bill Ryan"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0004383",
+      "name": "Michael Kamen"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0000939",
+      "name": "Adrian Biddle"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

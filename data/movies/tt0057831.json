@@ -1,0 +1,189 @@
+{
+  "imdb_id": "tt0057831",
+  "title": "Zorba the Greek",
+  "description": "A reserved English writer travelling to Crete on a matter of business finds his life changed forever when he meets the gregarious Alexis Zorba.",
+  "runtime_minutes": 142,
+  "release_date": "14.12.1964",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0000063",
+      "name": "Anthony Quinn"
+    },
+    {
+      "id": "nm0000869",
+      "name": "Alan Bates"
+    },
+    {
+      "id": "nm0660327",
+      "name": "Irene Papas"
+    },
+    {
+      "id": "nm0444321",
+      "name": "Lila Kedrova"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0128050",
+      "name": "Michael Cacoyannis"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0443611",
+      "name": "Nikos Kazantzakis"
+    },
+    {
+      "id": "nm0128050",
+      "name": "Michael Cacoyannis"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000063",
+      "name": "Anthony Quinn",
+      "character": "Alexis Zorba"
+    },
+    {
+      "id": "nm0000869",
+      "name": "Alan Bates",
+      "character": "Basil"
+    },
+    {
+      "id": "nm0660327",
+      "name": "Irene Papas",
+      "character": "Widow"
+    },
+    {
+      "id": "nm0444321",
+      "name": "Lila Kedrova",
+      "character": "Madame Hortense"
+    },
+    {
+      "id": "nm0288344",
+      "name": "Giorgos Foundas",
+      "character": "Mavrandoni"
+    },
+    {
+      "id": "nm0610127",
+      "name": "Sotiris Moustakas",
+      "character": "Mimithos"
+    },
+    {
+      "id": "nm0477492",
+      "name": "Anna Kyriakou",
+      "character": "Soul"
+    },
+    {
+      "id": "nm0030479",
+      "name": "Eleni Anousaki",
+      "character": "Lola"
+    },
+    {
+      "id": "nm0903901",
+      "name": "Yorgo Voyagis",
+      "character": "Pavlo"
+    },
+    {
+      "id": "nm0256468",
+      "name": "Takis Emmanuel",
+      "character": "Manolakas"
+    },
+    {
+      "id": "nm0181902",
+      "name": "George P. Cosmatos",
+      "character": "Acne Faced Boy"
+    },
+    {
+      "id": "nm5857806",
+      "name": "Nikos Papadakis",
+      "character": "Extra"
+    }
+  ],
+  "countries": [
+    "Greece",
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Greek"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 30649,
+  "year": 1964,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYWFhMGZmZTUtMzI0Yi00MzUwLTkzOWUtMWRmODZmYWY5YWE3XkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Alexis Zorbas",
+  "ratings": {
+    "imdb": {
+      "rating": 7.6,
+      "votes": 25784,
+      "distribution": {
+        "1": 323,
+        "2": 178,
+        "3": 230,
+        "4": 471,
+        "5": 984,
+        "6": 2139,
+        "7": 5354,
+        "8": 7285,
+        "9": 4030,
+        "10": 4790
+      },
+      "normalized": 6.5482
+    },
+    "filmweb": {
+      "rating": 7.81,
+      "votes": 14196,
+      "distribution": {
+        "1": 54,
+        "2": 32,
+        "3": 93,
+        "4": 166,
+        "5": 470,
+        "6": 1145,
+        "7": 3040,
+        "8": 4983,
+        "9": 2687,
+        "10": 1526
+      },
+      "normalized": 7.6439
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "17.04.2006",
+      "normalized": 6.3474
+    },
+    "score": 6.8465
+  },
+  "polish_title": "Grek Zorba",
+  "silent": false,
+  "description_pl": "\"Grek Zorba\" to opowieść o nieposkromionej pasji życia, która staje się inspiracją dla innych. Basil, nieco sztywny Anglik-artysta greckiego pochodzenia, jedzie na Kretę, by zmienić coś w swoim życiu i przy okazji uruchomić na nowo rodzinną kopalnię. Tam spotyka Alexisa Zorbę (niepowtarzalny <a href=\"/osoba/?id=nm0000063\">Anthony Quinn</a>), krzykliwego, ekscentrycznego, cieszącego się każdą sekundą Greka, który pomoże mu zmienić nastawienie do życia. \"Grek Zorba\" to ﬁlmowy pomnik na cześć wolności i radości w czerpaniu z życiowych atrakcji; to ﬁlm o pięknych kobietach i bezwstydnej pożądliwości; to celuloidowy pean na temat chwytania za wszelką cenę pojedynczych chwil. W końcu człowiek nie może normalnie żyć bez odrobiny szaleństwa.",
+  "producers": [
+    {
+      "id": "nm0128050",
+      "name": "Michael Cacoyannis"
+    },
+    {
+      "id": "nm0000063",
+      "name": "Anthony Quinn"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006319",
+      "name": "Mikis Theodorakis"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0007178",
+      "name": "Walter Lassally"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

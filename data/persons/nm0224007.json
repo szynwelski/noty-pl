@@ -1,0 +1,39 @@
+{
+  "id": "nm0224007",
+  "name": "John DiMaggio",
+  "filmography": [
+    {
+      "imdb_id": "tt2948356",
+      "title": "Zootopia",
+      "year": 2016,
+      "roles": [
+        "cast"
+      ],
+      "character": "Jerry Jumbeaux Jr."
+    },
+    {
+      "imdb_id": "tt9788514",
+      "title": "Ice Age",
+      "year": 2019,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Mike"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzI2NTk1MzYxOV5BMl5BanBnXkFtZTcwMDE2MDQ4Nw@@._V1_.jpg",
+  "birth_date": "04.09.1968",
+  "birth_location": "North Plainfield, New Jersey, USA",
+  "height": "1.92 m",
+  "imdb_scraped": true,
+  "filmweb_id": 62730,
+  "name_pl": "John DiMaggio",
+  "birth_location_pl": "North Plainfield, New Jersey",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 62730
+}

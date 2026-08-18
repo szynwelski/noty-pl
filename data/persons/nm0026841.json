@@ -1,0 +1,47 @@
+{
+  "id": "nm0026841",
+  "name": "James Anderson",
+  "filmography": [
+    {
+      "imdb_id": "tt0056592",
+      "title": "To Kill a Mockingbird",
+      "year": 1962,
+      "roles": [
+        "cast"
+      ],
+      "character": "Bob Ewell"
+    },
+    {
+      "imdb_id": "tt0065063",
+      "title": "Take the Money and Run",
+      "year": 1969,
+      "roles": [
+        "cast"
+      ],
+      "character": "Chain Gang Warden"
+    },
+    {
+      "imdb_id": "tt0065988",
+      "title": "Little Big Man",
+      "year": 1970,
+      "roles": [
+        "cast"
+      ],
+      "character": "Sergeant"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMWI3ZTRiZDAtMjU3OC00NjQ4LWE2NWMtMjk1MjYzNmYxYTQwXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "13.07.1920",
+  "death_date": "14.09.1969",
+  "birth_location": "Birmingham, Alabama, USA",
+  "height": "1.93 m",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "filmweb_id": 55521,
+  "name_pl": "James Anderson",
+  "birth_location_pl": "Wetumpka, Alabama",
+  "gender": "M"
+}

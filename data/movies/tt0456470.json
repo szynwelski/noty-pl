@@ -1,0 +1,158 @@
+{
+  "imdb_id": "tt0456470",
+  "title": "The Bow",
+  "description": "On a fishing boat at sea, a 60-year old man has been raising a girl since she was a baby. It is agreed that they will get married on her 17th birthday, and she is 16 now. They live a quiet and secluded life, renting the boat to day fishermen and practicing strange divination rites. Their life changes when a teenage student comes aboard...",
+  "runtime_minutes": 90,
+  "release_date": "12.05.2005",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm1560630",
+      "name": "Han Yeo-reum"
+    },
+    {
+      "id": "nm1917619",
+      "name": "Seo Ji-seok"
+    },
+    {
+      "id": "nm1926499",
+      "name": "Jeon Gook-hwan"
+    },
+    {
+      "id": "nm2501021",
+      "name": "Jo Seok-hyeon"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm1104118",
+      "name": "Kim Ki-duk"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1104118",
+      "name": "Kim Ki-duk"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1560630",
+      "name": "Han Yeo-reum",
+      "character": "The young girl"
+    },
+    {
+      "id": "nm1917619",
+      "name": "Seo Ji-seok",
+      "character": "The student"
+    },
+    {
+      "id": "nm1926499",
+      "name": "Jeon Gook-hwan",
+      "character": "The student's father"
+    },
+    {
+      "id": "nm2501021",
+      "name": "Jo Seok-hyeon",
+      "character": "Third Man"
+    },
+    {
+      "id": "nm1395578",
+      "name": "Jeon Seong-hwan",
+      "character": "Old Man (no name)"
+    }
+  ],
+  "countries": [
+    "South Korea",
+    "Japan"
+  ],
+  "languages": [
+    "Korean"
+  ],
+  "color": "Color",
+  "filmweb_id": 210138,
+  "year": 2005,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQzMDE4MzM4NV5BMl5BanBnXkFtZTcwOTMyNzYzMQ@@._V1_.jpg",
+  "original_title": "Hwal",
+  "ratings": {
+    "imdb": {
+      "rating": 7.1,
+      "votes": 12250,
+      "distribution": {
+        "1": 200,
+        "2": 87,
+        "3": 179,
+        "4": 307,
+        "5": 749,
+        "6": 1687,
+        "7": 3702,
+        "8": 3038,
+        "9": 1327,
+        "10": 974
+      },
+      "normalized": 5.685
+    },
+    "filmweb": {
+      "rating": 7.32,
+      "votes": 5344,
+      "distribution": {
+        "1": 58,
+        "2": 42,
+        "3": 95,
+        "4": 118,
+        "5": 284,
+        "6": 625,
+        "7": 1402,
+        "8": 1631,
+        "9": 704,
+        "10": 385
+      },
+      "normalized": 6.1949
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "13.02.2013",
+      "normalized": 6.4102
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "06.11.2014",
+      "normalized": 6.3474
+    },
+    "score": 6.1594
+  },
+  "polish_title": "Łuk",
+  "silent": false,
+  "description_pl": "Film opowiada o uczuciu pomiędzy staruszkiem, a nastoletnią dziewczyną. Oboje mieszkają na łodzi dryfującej u wybrzeży Korei. On żyje z pieniędzy wędkarzy, których okazjonalnie zwozi na pokład. Ona przepowiada im przyszłość. Oboje wydają się być zadowoleni z takiego układu, do momentu gdy dziewczyną nie zaczyna interesować się jeden z młodych wędkarzy. Po pewnym czasie nastolatka zakochuje się w nim i pragnie uciec z łodzi, której nigdy wcześniej nie opuszczała. Jednak staruszek tak łatwo z niej nie zrezygnuje - planuje poślubić dziewczynę w jej siedemnaste urodziny.",
+  "producers": [
+    {
+      "id": "nm1118550",
+      "name": "Yong-gyu Kang"
+    },
+    {
+      "id": "nm1104118",
+      "name": "Kim Ki-duk"
+    },
+    {
+      "id": "nm1633416",
+      "name": "Michiko Suzuki"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm1919080",
+      "name": "Eun-il Kang"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm1715691",
+      "name": "Seong-back Jang"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

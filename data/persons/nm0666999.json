@@ -1,0 +1,34 @@
+{
+  "id": "nm0666999",
+  "name": "Steven Paul",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYzg3YWRlNjEtOWY2NC00YWEzLTg1ZmYtNzA1ZGM4NjVlNmNmXkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt1219827",
+      "title": "Ghost in the Shell",
+      "year": 2017,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt3501112",
+      "title": "Security",
+      "year": 2017,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "birth_date": "16.05.1959",
+  "birth_location": "New York City, New York, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 72762,
+  "name_pl": "Steven Paul",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

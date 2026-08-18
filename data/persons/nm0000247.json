@@ -1,0 +1,71 @@
+{
+  "id": "nm0000247",
+  "name": "John Woo",
+  "filmography": [
+    {
+      "imdb_id": "tt0115759",
+      "title": "Broken Arrow",
+      "year": 1996,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0119094",
+      "title": "Face/Off",
+      "year": 1997,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0120755",
+      "title": "Mission: Impossible II",
+      "year": 2000,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0245562",
+      "title": "Windtalkers",
+      "year": 2002,
+      "roles": [
+        "director",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0338337",
+      "title": "Paycheck",
+      "year": 2003,
+      "roles": [
+        "director",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0425637",
+      "title": "Red Cliff",
+      "year": 2008,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTcyNDMwODQ5MV5BMl5BanBnXkFtZTYwMzEyNzU1._V1_.jpg",
+  "birth_date": "22.09.1946",
+  "birth_location": "Guangzhou, China",
+  "height": "1.64 m",
+  "filmweb_id": 12264,
+  "name_pl": "John Woo",
+  "birth_location_pl": "Kanton",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Brytyjski Hongkong"
+  ]
+}

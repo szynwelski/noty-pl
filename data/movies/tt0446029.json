@@ -1,0 +1,261 @@
+{
+  "imdb_id": "tt0446029",
+  "title": "Scott Pilgrim vs. the World",
+  "description": "A young man must defeat his new girlfriend's seven evil exes, who are willing to do anything to prevent her happiness with someone else.",
+  "runtime_minutes": 112,
+  "release_date": "13.08.2010",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Fantasy",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0148418",
+      "name": "Michael Cera"
+    },
+    {
+      "id": "nm0935541",
+      "name": "Mary Elizabeth Winstead"
+    },
+    {
+      "id": "nm0001085",
+      "name": "Kieran Culkin"
+    },
+    {
+      "id": "nm0447695",
+      "name": "Anna Kendrick"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0942367",
+      "name": "Edgar Wright"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0045209",
+      "name": "Michael Bacall"
+    },
+    {
+      "id": "nm0942367",
+      "name": "Edgar Wright"
+    },
+    {
+      "id": "nm1854069",
+      "name": "Bryan Lee O'Malley"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0148418",
+      "name": "Michael Cera",
+      "character": "Scott Pilgrim"
+    },
+    {
+      "id": "nm0935541",
+      "name": "Mary Elizabeth Winstead",
+      "character": "Ramona Flowers"
+    },
+    {
+      "id": "nm0001085",
+      "name": "Kieran Culkin",
+      "character": "Wallace Wells"
+    },
+    {
+      "id": "nm0447695",
+      "name": "Anna Kendrick",
+      "character": "Stacey Pilgrim"
+    },
+    {
+      "id": "nm0683467",
+      "name": "Alison Pill",
+      "character": "Kim Pine"
+    },
+    {
+      "id": "nm2201555",
+      "name": "Aubrey Plaza",
+      "character": "Julie Powers"
+    },
+    {
+      "id": "nm0005403",
+      "name": "Jason Schwartzman",
+      "character": "Gideon Graves"
+    },
+    {
+      "id": "nm2215447",
+      "name": "Johnny Simmons",
+      "character": "Young Neil"
+    },
+    {
+      "id": "nm0916406",
+      "name": "Mark Webber",
+      "character": "Stephen Stills"
+    },
+    {
+      "id": "nm2771798",
+      "name": "Ellen Wong",
+      "character": "Knives Chau"
+    },
+    {
+      "id": "nm1440863",
+      "name": "Satya Bhabha",
+      "character": "Matthew Patel"
+    },
+    {
+      "id": "nm2012029",
+      "name": "Will Bowes",
+      "character": "Party Goer"
+    },
+    {
+      "id": "nm2074969",
+      "name": "Celine Lepage",
+      "character": "Party Goer"
+    },
+    {
+      "id": "nm2103101",
+      "name": "Keita Saitô",
+      "character": "Kyle Katayanagi"
+    },
+    {
+      "id": "nm2022066",
+      "name": "Mark LeRoy",
+      "character": "Party Goer"
+    },
+    {
+      "id": "nm1417654",
+      "name": "Kjartan Hewitt",
+      "character": "Jimmy"
+    },
+    {
+      "id": "nm2313157",
+      "name": "Ben Lewis",
+      "character": "Other Scott"
+    },
+    {
+      "id": "nm1815689",
+      "name": "Nelson Franklin",
+      "character": "Comeau"
+    }
+  ],
+  "countries": [
+    "United States",
+    "United Kingdom",
+    "Canada",
+    "Japan"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 220748,
+  "year": 2010,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTA5ZWMwNmYtNWI1ZS00NDRlLTkxNzktMzdhZDU2ZDhjNDJmXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.5,
+      "votes": 499744,
+      "distribution": {
+        "1": 8374,
+        "2": 4462,
+        "3": 6206,
+        "4": 10477,
+        "5": 21450,
+        "6": 47936,
+        "7": 107178,
+        "8": 138281,
+        "9": 80107,
+        "10": 75273
+      },
+      "normalized": 6.4899
+    },
+    "filmweb": {
+      "rating": 6.8,
+      "votes": 55294,
+      "distribution": {
+        "1": 755,
+        "2": 766,
+        "3": 1968,
+        "4": 2426,
+        "5": 4803,
+        "6": 8989,
+        "7": 14968,
+        "8": 12549,
+        "9": 5625,
+        "10": 2445
+      },
+      "normalized": 5.2392
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "06.04.2011",
+      "normalized": 7.1247
+    },
+    "score": 6.2846
+  },
+  "polish_title": "Scott Pilgrim kontra świat",
+  "silent": false,
+  "description_pl": "Scott Pilgrim (<a href=\"/osoba/?id=nm0148418\">Michael Cera</a>) prowadzi spokojne życie, a ponadto gra w zespole rockowym. Jego świat zostaje wywrócony do góry nogami, kiedy poznaje najwspanialszą dziewczynę jaką kiedykolwiek widział - Ramonę Flowers (<a href=\"/osoba/?id=nm0935541\">Mary Elizabeth Winstead</a>). Droga do jej serca jest niełatwa. Musi pokonać jej siedmiu byłych chłopaków.",
+  "producers": [
+    {
+      "id": "nm0197703",
+      "name": "J. Miles Dale"
+    },
+    {
+      "id": "nm0321218",
+      "name": "Eric Gitter"
+    },
+    {
+      "id": "nm0321222",
+      "name": "Lisa Gitter"
+    },
+    {
+      "id": "nm1545176",
+      "name": "Jared LeBoff"
+    },
+    {
+      "id": "nm1060496",
+      "name": "Joe Nozemack"
+    },
+    {
+      "id": "nm0661912",
+      "name": "Nira Park"
+    },
+    {
+      "id": "nm0686887",
+      "name": "Marc Platt"
+    },
+    {
+      "id": "nm2324489",
+      "name": "Steven V. Scavelli"
+    },
+    {
+      "id": "nm2132113",
+      "name": "Adam Siegel"
+    },
+    {
+      "id": "nm0890357",
+      "name": "Ronaldo Vasconcellos"
+    },
+    {
+      "id": "nm0942367",
+      "name": "Edgar Wright"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm1021531",
+      "name": "Nigel Godrich"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0691084",
+      "name": "Bill Pope"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

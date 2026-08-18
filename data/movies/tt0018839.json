@@ -1,0 +1,196 @@
+{
+  "imdb_id": "tt0018839",
+  "title": "The Docks of New York",
+  "description": "A blue-collar worker on New York's depressed waterfront finds his life changed after he saves a woman attempting suicide.",
+  "runtime_minutes": 76,
+  "release_date": "29.09.1928",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Film-Noir",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0051628",
+      "name": "George Bancroft"
+    },
+    {
+      "id": "nm0173993",
+      "name": "Betty Compson"
+    },
+    {
+      "id": "nm0045754",
+      "name": "Olga Baclanova"
+    },
+    {
+      "id": "nm0176971",
+      "name": "Clyde Cook"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0903049",
+      "name": "Josef von Sternberg"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0299154",
+      "name": "Jules Furthman"
+    },
+    {
+      "id": "nm0766850",
+      "name": "John Monk Saunders"
+    },
+    {
+      "id": "nm0425456",
+      "name": "Julian Johnson"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0051628",
+      "name": "George Bancroft",
+      "character": "Bill Roberts"
+    },
+    {
+      "id": "nm0173993",
+      "name": "Betty Compson",
+      "character": "Mae Roberts"
+    },
+    {
+      "id": "nm0045754",
+      "name": "Olga Baclanova",
+      "character": "Lou -- Wife of Andy"
+    },
+    {
+      "id": "nm0176971",
+      "name": "Clyde Cook",
+      "character": "Bill's Pal"
+    },
+    {
+      "id": "nm0507568",
+      "name": "Mitchell Lewis",
+      "character": "Andy - the Third Engineer"
+    },
+    {
+      "id": "nm0167032",
+      "name": "Gustav von Seyffertitz",
+      "character": "Hymn Book Harry"
+    },
+    {
+      "id": "nm0018685",
+      "name": "Richard Alexander",
+      "character": "Lou's Sweetheart"
+    },
+    {
+      "id": "nm0287969",
+      "name": "May Foster",
+      "character": "Mrs. Crimp"
+    },
+    {
+      "id": "nm0410271",
+      "name": "George Irving",
+      "character": "Night Court Judge"
+    },
+    {
+      "id": "nm0446503",
+      "name": "John Kelly",
+      "character": "Sailor Barfly"
+    },
+    {
+      "id": "nm0573458",
+      "name": "Charles McMurphy",
+      "character": "Policeman"
+    },
+    {
+      "id": "nm0646851",
+      "name": "Guy Oliver",
+      "character": "The Crimp"
+    },
+    {
+      "id": "nm0716162",
+      "name": "Bob Reeves",
+      "character": "Court Bailiff"
+    },
+    {
+      "id": "nm0927797",
+      "name": "Lillian Worth",
+      "character": "Andy's Girl"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 90255,
+  "year": 1928,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZDM5Mjc3ZGMtMTcxYy00ZDBmLWJhZGEtOWQwNGVmZDJmNzQ2XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.5,
+      "votes": 5556,
+      "distribution": {
+        "1": 71,
+        "2": 25,
+        "3": 64,
+        "4": 114,
+        "5": 249,
+        "6": 622,
+        "7": 1406,
+        "8": 1685,
+        "9": 666,
+        "10": 654
+      },
+      "normalized": 6.3245
+    },
+    "filmweb": {
+      "rating": 7.03,
+      "votes": 365,
+      "distribution": {
+        "2": 2,
+        "3": 8,
+        "4": 8,
+        "5": 24,
+        "6": 58,
+        "7": 128,
+        "8": 103,
+        "9": 21,
+        "10": 13
+      },
+      "normalized": 5.43
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "19.10.2005",
+      "normalized": 7.2292
+    },
+    "score": 6.3279
+  },
+  "polish_title": "Życie zaczyna się jutro",
+  "silent": true,
+  "description_pl": "Historia dwojga przegranych ludzi - nowojorskiej dziewczyny i palacza okretowego. Ona usiłuje popełnić samobójstwo, rzucając się do wody, on ją ratuje i w tym samym dniu, po pijanemu, poślubia. Nazajutrz odchodzi na statek; nie na długo jednak, uswiadamia sobie bowiem, że zaczął kochać. Tymczasem Sadie została dwukrotnie oskarżona: najpierw o zabójstwo mechanika (w rzeczywistości dokonane przez jego żonę, gdy ten próbował posiąść Sadie), póżniej  - gdy do zbrodni przyznała się włąściwa winowajczyni - o posiadanie skradzionego stroju ślubnego. Ale oto bohater postanawia rzucić statek i wraca; zeznaje, że to no ukradł, dostaje dwumiesięczny wyrok i idzie go odsiedzieć ze świadomością, że warto. Będą na siebie czekać.",
+  "producers": [
+    {
+      "id": "nm0045506",
+      "name": "J.G. Bachmann"
+    },
+    {
+      "id": "nm0903049",
+      "name": "Josef von Sternberg"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005849",
+      "name": "Harold Rosson"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-15"
+}

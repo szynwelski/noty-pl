@@ -1,0 +1,27 @@
+{
+  "id": "nm0200005",
+  "name": "Lee Daniels",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQ4MTg5Nzc1Ml5BMl5BanBnXkFtZTcwODQyODcyMg@@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0285742",
+      "title": "Monster's Ball",
+      "year": 2001,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "birth_date": "24.12.1959",
+  "birth_location": "Philadelphia, Pennsylvania, USA",
+  "height": "1.79 m",
+  "imdb_scraped": true,
+  "filmweb_id": 173696,
+  "name_pl": "Lee Daniels",
+  "birth_location_pl": "Filadelfia, Pensylwania",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

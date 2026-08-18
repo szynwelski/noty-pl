@@ -1,0 +1,36 @@
+{
+  "id": "nm2303675",
+  "name": "David Garrett",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMGZmMTBlMjktMGFkZS00MDU0LWExYWItZmU4OTY3OTlmYzdiXkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0462590",
+      "title": "Step Up",
+      "year": 2006,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0478134",
+      "title": "In the Valley of Elah",
+      "year": 2007,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt1045670",
+      "title": "Happy-Go-Lucky",
+      "year": 2008,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "filmweb_id": 700043,
+  "name_pl": "David Garrett",
+  "gender": "M"
+}

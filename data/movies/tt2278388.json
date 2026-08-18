@@ -1,0 +1,264 @@
+{
+  "imdb_id": "tt2278388",
+  "title": "The Grand Budapest Hotel",
+  "description": "The owner of an aging high-class hotel regales a writer with tales of serving as a lobby boy under an exceptional concierge in the hotel's glory years.",
+  "runtime_minutes": 99,
+  "release_date": "28.03.2014",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0000146",
+      "name": "Ralph Fiennes"
+    },
+    {
+      "id": "nm0000719",
+      "name": "F. Murray Abraham"
+    },
+    {
+      "id": "nm0023832",
+      "name": "Mathieu Amalric"
+    },
+    {
+      "id": "nm0004778",
+      "name": "Adrien Brody"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0027572",
+      "name": "Wes Anderson"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0959003",
+      "name": "Stefan Zweig"
+    },
+    {
+      "id": "nm0027572",
+      "name": "Wes Anderson"
+    },
+    {
+      "id": "nm2450453",
+      "name": "Hugo Guinness"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000146",
+      "name": "Ralph Fiennes",
+      "character": "M. Gustave"
+    },
+    {
+      "id": "nm0000719",
+      "name": "F. Murray Abraham",
+      "character": "Mr. Moustafa"
+    },
+    {
+      "id": "nm0023832",
+      "name": "Mathieu Amalric",
+      "character": "Serge X."
+    },
+    {
+      "id": "nm0004778",
+      "name": "Adrien Brody",
+      "character": "Dmitri"
+    },
+    {
+      "id": "nm0000353",
+      "name": "Willem Dafoe",
+      "character": "Jopling"
+    },
+    {
+      "id": "nm0000156",
+      "name": "Jeff Goldblum",
+      "character": "Deputy Kovacs"
+    },
+    {
+      "id": "nm0000172",
+      "name": "Harvey Keitel",
+      "character": "Ludwig"
+    },
+    {
+      "id": "nm0000179",
+      "name": "Jude Law",
+      "character": "Young Writer"
+    },
+    {
+      "id": "nm0000195",
+      "name": "Bill Murray",
+      "character": "M. Ivan"
+    },
+    {
+      "id": "nm0001570",
+      "name": "Edward Norton",
+      "character": "Henckels"
+    },
+    {
+      "id": "nm1519680",
+      "name": "Saoirse Ronan",
+      "character": "Agatha"
+    },
+    {
+      "id": "nm0005403",
+      "name": "Jason Schwartzman",
+      "character": "M. Jean"
+    },
+    {
+      "id": "nm2244205",
+      "name": "Léa Seydoux",
+      "character": "Clotilde"
+    },
+    {
+      "id": "nm0842770",
+      "name": "Tilda Swinton",
+      "character": "Madame D."
+    },
+    {
+      "id": "nm0929489",
+      "name": "Tom Wilkinson",
+      "character": "Author"
+    },
+    {
+      "id": "nm0005562",
+      "name": "Owen Wilson",
+      "character": "M. Chuck"
+    },
+    {
+      "id": "nm1727825",
+      "name": "Tony Revolori",
+      "character": "Zero"
+    },
+    {
+      "id": "nm0683978",
+      "name": "Larry Pine",
+      "character": "Mr. Mosher"
+    }
+  ],
+  "countries": [
+    "United States",
+    "Germany"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German"
+  ],
+  "color": "Color",
+  "filmweb_id": 661817,
+  "year": 2014,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8.1,
+      "votes": 983339,
+      "distribution": {
+        "1": 6320,
+        "2": 3631,
+        "3": 5222,
+        "4": 9292,
+        "5": 20637,
+        "6": 55226,
+        "7": 158986,
+        "8": 314438,
+        "9": 251520,
+        "10": 158067
+      },
+      "normalized": 7.902
+    },
+    "filmweb": {
+      "rating": 7.75,
+      "votes": 297814,
+      "distribution": {
+        "1": 1468,
+        "2": 933,
+        "3": 2931,
+        "4": 4038,
+        "5": 10950,
+        "6": 22980,
+        "7": 61432,
+        "8": 105630,
+        "9": 63795,
+        "10": 23657
+      },
+      "normalized": 7.5387
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "23.07.2014",
+      "normalized": 7.1247
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "19.09.2014",
+      "normalized": 6.3474
+    },
+    "score": 7.2282
+  },
+  "polish_title": "Grand Budapest Hotel",
+  "silent": false,
+  "description_pl": "Niezwykłe przygody ekscentrycznego portiera ze słynnego europejskiego hotelu w burzliwym okresie międzywojennym, który uwikłany zostaje w aferę wokół kradzieży bezcennego renesansowego obrazu i walkę o przejęcie ogromnej fortuny rodzinnej.",
+  "producers": [
+    {
+      "id": "nm0027572",
+      "name": "Wes Anderson"
+    },
+    {
+      "id": "nm4791912",
+      "name": "Eli Bush"
+    },
+    {
+      "id": "nm1809172",
+      "name": "Molly Cooper"
+    },
+    {
+      "id": "nm0206154",
+      "name": "Jeremy Dawson"
+    },
+    {
+      "id": "nm2862529",
+      "name": "Christoph Fisser"
+    },
+    {
+      "id": "nm0292513",
+      "name": "Jane Frazer"
+    },
+    {
+      "id": "nm0596572",
+      "name": "Henning Molfenter"
+    },
+    {
+      "id": "nm3529746",
+      "name": "Octavia Peissel"
+    },
+    {
+      "id": "nm2262509",
+      "name": "Steven Rales"
+    },
+    {
+      "id": "nm0748784",
+      "name": "Scott Rudin"
+    },
+    {
+      "id": "nm1803681",
+      "name": "Charlie Woebcken"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006035",
+      "name": "Alexandre Desplat"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005934",
+      "name": "Robert D. Yeoman"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

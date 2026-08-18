@@ -1,0 +1,51 @@
+{
+  "id": "nm0484457",
+  "name": "Jon Landau",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTAxMjE3NTM5OTBeQTJeQWpwZ15BbWU3MDEwNTgyMTM@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0120338",
+      "title": "Titanic",
+      "year": 1997,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0307479",
+      "title": "Solaris",
+      "year": 2002,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0499549",
+      "title": "Avatar",
+      "year": 2009,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0437086",
+      "title": "Alita: Battle Angel",
+      "year": 2019,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "birth_date": "23.07.1960",
+  "death_date": "05.07.2024",
+  "birth_location": "New York City, New York, USA",
+  "filmweb_id": 132698,
+  "name_pl": "Jon Landau",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

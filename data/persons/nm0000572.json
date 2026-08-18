@@ -1,0 +1,50 @@
+{
+  "id": "nm0000572",
+  "name": "Sarah Jessica Parker",
+  "filmography": [
+    {
+      "imdb_id": "tt0104438",
+      "title": "Honeymoon in Vegas",
+      "year": 1992,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Betsy"
+    },
+    {
+      "imdb_id": "tt0109707",
+      "title": "Ed Wood",
+      "year": 1994,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Dolores Fuller"
+    },
+    {
+      "imdb_id": "tt0116996",
+      "title": "Mars Attacks!",
+      "year": 1996,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Nathalie Lake"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjEzMDY0MzMxMV5BMl5BanBnXkFtZTcwMzMxNjQzMg@@._V1_.jpg",
+  "birth_date": "25.03.1965",
+  "birth_location": "Nelsonville, Ohio, USA",
+  "height": "1.60 m",
+  "filmweb_id": 3453,
+  "name_pl": "Sarah Jessica Parker",
+  "birth_location_pl": "Nelsonville, Ohio",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 3453
+}

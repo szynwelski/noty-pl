@@ -1,0 +1,182 @@
+{
+  "imdb_id": "tt0052556",
+  "title": "The Lovers",
+  "description": "Saddled with a dull husband and a foolish lover, a woman has an affair with a stranger.",
+  "runtime_minutes": 90,
+  "release_date": "26.10.1959",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0603402",
+      "name": "Jeanne Moreau"
+    },
+    {
+      "id": "nm0192490",
+      "name": "Alain Cuny"
+    },
+    {
+      "id": "nm0097625",
+      "name": "Jean-Marc Bory"
+    },
+    {
+      "id": "nm0150495",
+      "name": "Judith Magre"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001501",
+      "name": "Louis Malle"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0212179",
+      "name": "Louise de Vilmorin"
+    },
+    {
+      "id": "nm0900229",
+      "name": "Dominique Vivant"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0603402",
+      "name": "Jeanne Moreau",
+      "character": "Jeanne Tournier"
+    },
+    {
+      "id": "nm0192490",
+      "name": "Alain Cuny",
+      "character": "Henri Tournier"
+    },
+    {
+      "id": "nm0097625",
+      "name": "Jean-Marc Bory",
+      "character": "Bernard Dubois-Lambert"
+    },
+    {
+      "id": "nm0150495",
+      "name": "Judith Magre",
+      "character": "Maggy Thiebaut-Leroy"
+    },
+    {
+      "id": "nm0897808",
+      "name": "José Luis de Vilallonga",
+      "character": "Raoul Florès"
+    },
+    {
+      "id": "nm0595321",
+      "name": "Gaston Modot",
+      "character": "Coudray"
+    },
+    {
+      "id": "nm0289541",
+      "name": "Pierre Frag",
+      "character": ""
+    },
+    {
+      "id": "nm0320758",
+      "name": "Michèle Girardon",
+      "character": "Hélène Cavalier"
+    },
+    {
+      "id": "nm0343520",
+      "name": "Gib Grossac",
+      "character": ""
+    },
+    {
+      "id": "nm0358866",
+      "name": "Lucienne Hamon",
+      "character": "Chantal"
+    },
+    {
+      "id": "nm2582655",
+      "name": "Georgette Lobbé",
+      "character": "Marthe"
+    },
+    {
+      "id": "nm0543717",
+      "name": "Claude Mansard",
+      "character": "Marcelot"
+    },
+    {
+      "id": "nm0108400",
+      "name": "Jean-Claude Brialy",
+      "character": "Un Garçon a Manège"
+    },
+    {
+      "id": "nm2580633",
+      "name": "Patricia Maurin",
+      "character": "Catherine Tournier"
+    }
+  ],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "French"
+  ],
+  "color": "Black and White",
+  "year": 1958,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTEzNDU2OGItYTlkYy00NGQ5LWI2M2MtYWQzNjQ1YmNmNzk4XkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 34708,
+  "original_title": "Les Amants",
+  "ratings": {
+    "imdb": {
+      "rating": 7.1,
+      "votes": 6448,
+      "distribution": {
+        "1": 77,
+        "2": 61,
+        "3": 91,
+        "4": 154,
+        "5": 353,
+        "6": 938,
+        "7": 1984,
+        "8": 1641,
+        "9": 597,
+        "10": 552
+      },
+      "normalized": 5.6698
+    },
+    "filmweb": {
+      "rating": 6.75,
+      "votes": 1393,
+      "distribution": {
+        "1": 11,
+        "2": 8,
+        "3": 27,
+        "4": 56,
+        "5": 136,
+        "6": 297,
+        "7": 427,
+        "8": 303,
+        "9": 83,
+        "10": 45
+      },
+      "normalized": 5.0576
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "16.01.2008",
+      "normalized": 4.5781
+    },
+    "score": 5.1018
+  },
+  "polish_title": "Kochankowie",
+  "silent": false,
+  "description_pl": "Kobieta w średnim wieku, znudzona swoim mężem i kochankiem grającym w polo, wraca do swojej wiejskiej posiadłości z weekendu spędzonego z kochankiem w Paryżu. Po drodze psuje jej się samochód i podwozi ją młody mężczyzna. Czy kobieta zdecyduje się z nim uciec?",
+  "cinematographers": [
+    {
+      "id": "nm0005684",
+      "name": "Henri Decaë"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

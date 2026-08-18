@@ -1,0 +1,254 @@
+{
+  "imdb_id": "tt1431045",
+  "title": "Deadpool",
+  "description": "A wisecracking mercenary gets experimented on and becomes immortal yet hideously scarred, and sets out to track down the man who ruined his looks.",
+  "runtime_minutes": 108,
+  "release_date": "12.02.2016",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm0005351",
+      "name": "Ryan Reynolds"
+    },
+    {
+      "id": "nm1072555",
+      "name": "Morena Baccarin"
+    },
+    {
+      "id": "nm2554352",
+      "name": "T.J. Miller"
+    },
+    {
+      "id": "nm4534098",
+      "name": "Ed Skrein"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm1783265",
+      "name": "Tim Miller"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1014201",
+      "name": "Rhett Reese"
+    },
+    {
+      "id": "nm1116660",
+      "name": "Paul Wernick"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0005351",
+      "name": "Ryan Reynolds",
+      "character": "Wade"
+    },
+    {
+      "id": "nm1072555",
+      "name": "Morena Baccarin",
+      "character": "Vanessa"
+    },
+    {
+      "id": "nm2554352",
+      "name": "T.J. Miller",
+      "character": "Weasel"
+    },
+    {
+      "id": "nm4175221",
+      "name": "Karan Soni",
+      "character": "Dopinder"
+    },
+    {
+      "id": "nm4534098",
+      "name": "Ed Skrein",
+      "character": "Ajax"
+    },
+    {
+      "id": "nm0073088",
+      "name": "Michael Benyaer",
+      "character": "Warlord"
+    },
+    {
+      "id": "nm1292973",
+      "name": "Stefan Kapicic",
+      "character": "Colossus"
+    },
+    {
+      "id": "nm6552202",
+      "name": "Brianna Hildebrand",
+      "character": "Negasonic Teenage Warhead"
+    },
+    {
+      "id": "nm4406623",
+      "name": "Style Dayne",
+      "character": "Jeremy (Pizza Guy)"
+    },
+    {
+      "id": "nm1004124",
+      "name": "Kyle Cassie",
+      "character": "Gavin Merchant"
+    },
+    {
+      "id": "nm6883785",
+      "name": "Taylor Hickson",
+      "character": "Meghan Orlovsky"
+    },
+    {
+      "id": "nm5708387",
+      "name": "Ayzee",
+      "character": "Teen Girl #1"
+    },
+    {
+      "id": "nm5327351",
+      "name": "Naika Toussaint",
+      "character": "Teen Girl #2"
+    },
+    {
+      "id": "nm0715788",
+      "name": "Randal Reeder",
+      "character": "Buck"
+    },
+    {
+      "id": "nm0802280",
+      "name": "Isaac C. Singleton Jr.",
+      "character": "Boothe"
+    },
+    {
+      "id": "nm5357827",
+      "name": "Justyn Shippelt",
+      "character": "Arcade Ticket Taker"
+    },
+    {
+      "id": "nm0945411",
+      "name": "Donna Yamamoto",
+      "character": "Oncologist"
+    },
+    {
+      "id": "nm0715915",
+      "name": "Jed Rees",
+      "character": "Recruiter"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 514675,
+  "year": 2016,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzY3ZWU5NGQtOTViNC00ZWVmLTliNjAtNzViNzlkZWQ4YzQ4XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8,
+      "votes": 1266743,
+      "distribution": {
+        "1": 13583,
+        "2": 5356,
+        "3": 7474,
+        "4": 12672,
+        "5": 28832,
+        "6": 81121,
+        "7": 221705,
+        "8": 392776,
+        "9": 268050,
+        "10": 235174
+      },
+      "normalized": 7.5836
+    },
+    "filmweb": {
+      "rating": 7.56,
+      "votes": 393320,
+      "distribution": {
+        "1": 2670,
+        "2": 1995,
+        "3": 5598,
+        "4": 7854,
+        "5": 18980,
+        "6": 41897,
+        "7": 90918,
+        "8": 115312,
+        "9": 67604,
+        "10": 40492
+      },
+      "normalized": 6.9289
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "22.11.2016",
+      "normalized": 4.9718
+    },
+    "michal": {
+      "rating": 3,
+      "date_rated": "25.04.2016",
+      "normalized": 3.8753
+    },
+    "score": 5.8399
+  },
+  "polish_title": "Deadpool",
+  "silent": false,
+  "description_pl": "Ekranizacja jednego z najoryginalniejszych komiksów Marvel Comics. Wade Wilson (<a href=\"/osoba/?id=nm0005351\">Ryan Reynolds</a>) - niegdyś agent służb specjalnych, a obecnie najemnik - poddany zostaje nielegalnemu eksperymentowi, w wyniku którego nabywa niezwykłych mocy samouzdrawiania. Odtąd staje się znany jako \"Deadpool\" i wyposażony w nowe zdolności oraz czarne poczucie humoru wyrusza z misją wymierzenia sprawiedliwości człowiekowi, który niemal zniszczył mu życie.",
+  "producers": [
+    {
+      "id": "nm0006830",
+      "name": "John J. Kelly"
+    },
+    {
+      "id": "nm1334526",
+      "name": "Simon Kinberg"
+    },
+    {
+      "id": "nm0498278",
+      "name": "Stan Lee"
+    },
+    {
+      "id": "nm0552569",
+      "name": "Jonathon Komack Martin"
+    },
+    {
+      "id": "nm1014201",
+      "name": "Rhett Reese"
+    },
+    {
+      "id": "nm0005351",
+      "name": "Ryan Reynolds"
+    },
+    {
+      "id": "nm0795682",
+      "name": "Lauren Shuler Donner"
+    },
+    {
+      "id": "nm1533078",
+      "name": "Aditya Sood"
+    },
+    {
+      "id": "nm1063925",
+      "name": "Thane Watkins"
+    },
+    {
+      "id": "nm1116660",
+      "name": "Paul Wernick"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0432725",
+      "name": "Tom Holkenborg"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm1092952",
+      "name": "Ken Seng"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

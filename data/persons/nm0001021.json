@@ -1,0 +1,39 @@
+{
+  "id": "nm0001021",
+  "name": "Veronica Cartwright",
+  "filmography": [
+    {
+      "imdb_id": "tt0056869",
+      "title": "The Birds",
+      "year": 1963,
+      "roles": [
+        "cast"
+      ],
+      "character": "Cathy Brenner"
+    },
+    {
+      "imdb_id": "tt0078748",
+      "title": "Alien",
+      "year": 1979,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Lambert"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOTg2NDE0MDkyOV5BMl5BanBnXkFtZTgwMDI1MzUyMDI@._V1_.jpg",
+  "birth_date": "20.04.1949",
+  "birth_location": "Bristol, England, UK",
+  "height": "1.63 m",
+  "imdb_scraped": true,
+  "filmweb_id": 3352,
+  "name_pl": "Veronica Cartwright",
+  "birth_location_pl": "Bristol, Anglia",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 3352
+}

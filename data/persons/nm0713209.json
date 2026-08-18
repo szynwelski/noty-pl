@@ -1,0 +1,45 @@
+{
+  "id": "nm0713209",
+  "name": "Bill Raymond",
+  "filmography": [
+    {
+      "imdb_id": "tt0109506",
+      "title": "The Crow",
+      "year": 1994,
+      "roles": [
+        "cast"
+      ],
+      "character": "Mickey"
+    },
+    {
+      "imdb_id": "tt0114746",
+      "title": "12 Monkeys",
+      "year": 1995,
+      "roles": [
+        "cast"
+      ],
+      "character": "Microbiologist"
+    },
+    {
+      "imdb_id": "tt0465538",
+      "title": "Michael Clayton",
+      "year": 2007,
+      "roles": [
+        "cast"
+      ],
+      "character": "Gabe Zabel"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTIxNDQ0OTgwMF5BMl5BanBnXkFtZTYwODMxOTI0._V1_.jpg",
+  "birth_date": "09.09.1938",
+  "birth_location": "San Francisco, California, USA",
+  "filmweb_id": 76914,
+  "name_pl": "Bill Raymond",
+  "birth_location_pl": "San Francisco, Kalifornia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

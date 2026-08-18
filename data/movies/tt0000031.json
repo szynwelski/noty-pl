@@ -1,0 +1,83 @@
+{
+  "imdb_id": "tt0000031",
+  "title": "Jumping the Blanket",
+  "description": "Short depicting a group of men holding a blanket. Another man then starts running and jumps over and on the blanket several times.",
+  "runtime_minutes": 1,
+  "release_date": "1896",
+  "genres": [
+    "Documentary",
+    "Short"
+  ],
+  "directors": [
+    {
+      "id": "nm0525910",
+      "name": "Louis Lumière"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 120770,
+  "year": 1895,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNjdhMDMxOTUtYjRjZi00YWYzLWE2MTgtNzVhZjFkNDJkYjU4XkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Le saut à la couverture",
+  "ratings": {
+    "imdb": {
+      "rating": 5.5,
+      "votes": 1161,
+      "distribution": {
+        "1": 46,
+        "2": 42,
+        "3": 56,
+        "4": 121,
+        "5": 315,
+        "6": 306,
+        "7": 141,
+        "8": 66,
+        "9": 17,
+        "10": 51
+      },
+      "normalized": 3.8178
+    },
+    "filmweb": {
+      "rating": 5.16,
+      "votes": 191,
+      "distribution": {
+        "1": 4,
+        "2": 13,
+        "3": 16,
+        "4": 20,
+        "5": 55,
+        "6": 49,
+        "7": 20,
+        "8": 10,
+        "9": 2,
+        "10": 2
+      },
+      "normalized": 3.9622
+    },
+    "jarek": {
+      "rating": 3,
+      "date_rated": "11.12.2016",
+      "normalized": 4.2591
+    },
+    "score": 4.013
+  },
+  "polish_title": "Le saut à la couverture",
+  "silent": true,
+  "description_pl": "Na planie widzimy czterech mężczyzn trzymających koc, jednego który się przygląda oraz jednego próbującego wskoczyć na koc. Mężczyzna robi to z rozbiegu, lecz dwie pierwsze próby kończą się niepowodzeniem. Dopiero za trzecim razem mu się to udaje.",
+  "cinematographers": [
+    {
+      "id": "nm0525910",
+      "name": "Louis Lumière"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-15"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "nm0001300",
+  "name": "John Grisham",
+  "filmography": [
+    {
+      "imdb_id": "tt0106918",
+      "title": "The Firm",
+      "year": 1993,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0107798",
+      "title": "The Pelican Brief",
+      "year": 1993,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0117913",
+      "title": "A Time to Kill",
+      "year": 1996,
+      "roles": [
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0115862",
+      "title": "The Chamber",
+      "year": 1996,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0119978",
+      "title": "The Rainmaker",
+      "year": 1997,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0313542",
+      "title": "Runaway Jury",
+      "year": 2003,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTUzMDcwNDA4Ml5BMl5BanBnXkFtZTcwMTQwOTIyOA@@._V1_.jpg",
+  "birth_date": "08.02.1955",
+  "birth_location": "Jonesboro, Arkansas, USA",
+  "height": "1.85 m",
+  "filmweb_id": 11232,
+  "name_pl": "John Grisham",
+  "birth_location_pl": "Jonesboro, Arkansas",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

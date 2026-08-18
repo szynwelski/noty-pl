@@ -1,0 +1,48 @@
+{
+  "id": "nm0428086",
+  "name": "Freddie Jones",
+  "filmography": [
+    {
+      "imdb_id": "tt0080678",
+      "title": "The Elephant Man",
+      "year": 1980,
+      "roles": [
+        "cast"
+      ],
+      "character": "Bytes"
+    },
+    {
+      "imdb_id": "tt0087182",
+      "title": "Dune",
+      "year": 1984,
+      "roles": [
+        "cast"
+      ],
+      "character": "Thufir Hawat"
+    },
+    {
+      "imdb_id": "tt0100935",
+      "title": "Wild at Heart",
+      "year": 1990,
+      "roles": [
+        "cast"
+      ],
+      "character": "George Kovich"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjIxNjc3MTQxOF5BMl5BanBnXkFtZTcwMjU2ODgwMw@@._V1_.jpg",
+  "birth_date": "12.09.1927",
+  "death_date": "09.07.2019",
+  "birth_location": "Stoke-on-Trent, Staffordshire, England, UK",
+  "height": "1.85 m",
+  "filmweb_id": 8429,
+  "name_pl": "Freddie Jones",
+  "birth_location_pl": "Stoke-on-Trent, Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 8429
+}

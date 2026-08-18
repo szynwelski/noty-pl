@@ -1,0 +1,243 @@
+{
+  "imdb_id": "tt0327162",
+  "title": "The Stepford Wives",
+  "description": "The secret to a Stepford wife lies behind the doors of the Men's Association.",
+  "runtime_minutes": 93,
+  "release_date": "11.06.2004",
+  "genres": [
+    "Comedy",
+    "Horror",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000173",
+      "name": "Nicole Kidman"
+    },
+    {
+      "id": "nm0000541",
+      "name": "Bette Midler"
+    },
+    {
+      "id": "nm0000111",
+      "name": "Matthew Broderick"
+    },
+    {
+      "id": "nm0000335",
+      "name": "Glenn Close"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000568",
+      "name": "Frank Oz"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0505615",
+      "name": "Ira Levin"
+    },
+    {
+      "id": "nm0397411",
+      "name": "Paul Rudnick"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000173",
+      "name": "Nicole Kidman",
+      "character": "Joanna Eberhart"
+    },
+    {
+      "id": "nm0000541",
+      "name": "Bette Midler",
+      "character": "Bobbie Markowitz"
+    },
+    {
+      "id": "nm0000111",
+      "name": "Matthew Broderick",
+      "character": "Walter Kresby"
+    },
+    {
+      "id": "nm0000335",
+      "name": "Glenn Close",
+      "character": "Claire Wellington"
+    },
+    {
+      "id": "nm0000686",
+      "name": "Christopher Walken",
+      "character": "Mike Wellington"
+    },
+    {
+      "id": "nm0058372",
+      "name": "Roger Bart",
+      "character": "Roger Bannister"
+    },
+    {
+      "id": "nm0335344",
+      "name": "David Marshall Grant",
+      "character": "Jerry Harmon"
+    },
+    {
+      "id": "nm0001484",
+      "name": "Jon Lovitz",
+      "character": "Dave Markowitz"
+    },
+    {
+      "id": "nm1483241",
+      "name": "Dylan Hartigan",
+      "character": "Pete Kresby"
+    },
+    {
+      "id": "nm1627988",
+      "name": "Fallon Brooking",
+      "character": "Kimberly Kresby"
+    },
+    {
+      "id": "nm0005011",
+      "name": "Faith Hill",
+      "character": "Sarah Sunderson"
+    },
+    {
+      "id": "nm0540164",
+      "name": "Matt Malloy",
+      "character": "Herb Sunderson"
+    },
+    {
+      "id": "nm1409015",
+      "name": "Kate Shindle",
+      "character": "Beth Peters"
+    },
+    {
+      "id": "nm0268356",
+      "name": "Tom Riis Farrell",
+      "character": "Stan Peters"
+    },
+    {
+      "id": "nm0046715",
+      "name": "Lorri Bagley",
+      "character": "Charmaine Van Sant"
+    },
+    {
+      "id": "nm0822802",
+      "name": "Robert Stanton",
+      "character": "Ted Van Sant"
+    },
+    {
+      "id": "nm1400216",
+      "name": "Lisa Masters",
+      "character": "Carol Wainwright"
+    },
+    {
+      "id": "nm0919525",
+      "name": "Christopher Evan Welch",
+      "character": "Ed Wainwright"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "year": 2004,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjEzNTM4ODM1OF5BMl5BanBnXkFtZTcwNjg4NzAzMw@@._V1_.jpg",
+  "filmweb_id": 95748,
+  "ratings": {
+    "imdb": {
+      "rating": 5.4,
+      "votes": 72882,
+      "distribution": {
+        "1": 2870,
+        "2": 2711,
+        "3": 4716,
+        "4": 8882,
+        "5": 16609,
+        "6": 17515,
+        "7": 10723,
+        "8": 4531,
+        "9": 1513,
+        "10": 2812
+      },
+      "normalized": 2.6277
+    },
+    "filmweb": {
+      "rating": 6.16,
+      "votes": 40202,
+      "distribution": {
+        "1": 235,
+        "2": 337,
+        "3": 1227,
+        "4": 2602,
+        "5": 6732,
+        "6": 12341,
+        "7": 11051,
+        "8": 4135,
+        "9": 884,
+        "10": 658
+      },
+      "normalized": 3.6345
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "18.08.2010",
+      "normalized": 4.9718
+    },
+    "michal": {
+      "rating": 1,
+      "date_rated": "12.05.2006",
+      "normalized": 2.2657
+    },
+    "score": 3.3749
+  },
+  "polish_title": "Żony ze Stepford",
+  "silent": false,
+  "description_pl": "Młoda mężatka Joanna (<a href=\"/osoba/?id=nm0000173\">Nicole Kidman</a>) przenosi się z rodziną z Manhattanu na bogate przedmieścia Stepford. Wkrótce zaprzyjaźnia się z Bobbie (<a href=\"/osoba/?id=nm0000541\">Bette Midler</a>). Obie kobiety stopniowo dochodzą do wniosku, że w ich okolicy dzieje się coś złego, a wszystkie sąsiadki sprawiają wrażenie zbyt idealnych i pozbawionych własnej woli.",
+  "producers": [
+    {
+      "id": "nm0102508",
+      "name": "Ron Bozman"
+    },
+    {
+      "id": "nm0176589",
+      "name": "Leslie Converse"
+    },
+    {
+      "id": "nm0209773",
+      "name": "Donald De Line"
+    },
+    {
+      "id": "nm0344620",
+      "name": "Gabriel Grunfeld"
+    },
+    {
+      "id": "nm0748784",
+      "name": "Scott Rudin"
+    },
+    {
+      "id": "nm0771062",
+      "name": "Edgar J. Scherick"
+    },
+    {
+      "id": "nm0783146",
+      "name": "Keri Selig"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0003417",
+      "name": "David Arnold"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0353963",
+      "name": "Rob Hahn"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

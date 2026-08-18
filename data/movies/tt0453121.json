@@ -1,0 +1,93 @@
+{
+  "imdb_id": "tt0453121",
+  "title": "Kamarinskaya",
+  "description": "The sixth sequence of the \"Wintergartenprogramm (1895)\" by the Skladanowsky Brothers. In it, three dancers do a Russian folkloric step dance, facing the camera, in traditional clothes, fur hats and leather boots.",
+  "runtime_minutes": 1,
+  "release_date": "01.11.1895",
+  "genres": [
+    "Short"
+  ],
+  "stars": [
+    {
+      "id": "nm3691473",
+      "name": "Tscherpanoff"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0804434",
+      "name": "Max Skladanowsky"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm3691473",
+      "name": "Tscherpanoff",
+      "character": "Dancers"
+    }
+  ],
+  "countries": [
+    "Germany"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 229890,
+  "year": 1895,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzkyNWI2MTUtMDgxYi00OGM0LTk5ZGYtYjNiODkzNzc0MWE5XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 4.7,
+      "votes": 335,
+      "distribution": {
+        "1": 23,
+        "2": 17,
+        "3": 39,
+        "4": 50,
+        "5": 119,
+        "6": 48,
+        "7": 22,
+        "8": 3,
+        "9": 2,
+        "10": 12
+      },
+      "normalized": 4.1767
+    },
+    "filmweb": {
+      "rating": 4.35,
+      "votes": 31,
+      "distribution": {
+        "1": 4,
+        "2": 3,
+        "3": 7,
+        "4": 2,
+        "5": 5,
+        "6": 4,
+        "7": 3,
+        "8": 2,
+        "9": 0,
+        "10": 1
+      },
+      "normalized": 4.6816
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "11.12.2016",
+      "normalized": 5.6855
+    },
+    "score": 4.8479
+  },
+  "polish_title": "Kamarinskaja, russischer Nationaltanz",
+  "silent": true,
+  "cinematographers": [
+    {
+      "id": "nm0804434",
+      "name": "Max Skladanowsky"
+    }
+  ],
+  "composers": [],
+  "original_title": "Kamarinskaja",
+  "fetched_at": "2026-08-16"
+}

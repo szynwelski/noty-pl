@@ -1,0 +1,47 @@
+{
+  "id": "nm0738433",
+  "name": "Henry Rollins",
+  "filmography": [
+    {
+      "imdb_id": "tt0113481",
+      "title": "Johnny Mnemonic",
+      "year": 1995,
+      "roles": [
+        "cast"
+      ],
+      "character": "Spider"
+    },
+    {
+      "imdb_id": "tt0116922",
+      "title": "Lost Highway",
+      "year": 1997,
+      "roles": [
+        "cast"
+      ],
+      "character": "Guard Henry"
+    },
+    {
+      "imdb_id": "tt0172156",
+      "title": "Bad Boys II",
+      "year": 2003,
+      "roles": [
+        "cast"
+      ],
+      "character": "TNT Leader"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQ3NjIxNjE3OF5BMl5BanBnXkFtZTgwMDgwNTcwMTE@._V1_.jpg",
+  "birth_date": "13.02.1961",
+  "birth_location": "Washington, District of Columbia, USA",
+  "height": "1.75 m",
+  "filmweb_id": 5566,
+  "name_pl": "Henry Rollins",
+  "birth_location_pl": "Waszyngton, Dystrykt Kolumbii",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 5566
+}

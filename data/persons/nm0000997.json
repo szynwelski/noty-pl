@@ -1,0 +1,49 @@
+{
+  "id": "nm0000997",
+  "name": "Gary Busey",
+  "filmography": [
+    {
+      "imdb_id": "tt0093409",
+      "title": "Lethal Weapon",
+      "year": 1987,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Joshua"
+    },
+    {
+      "imdb_id": "tt0106918",
+      "title": "The Firm",
+      "year": 1993,
+      "roles": [
+        "cast"
+      ],
+      "character": "Eddie Lomax"
+    },
+    {
+      "imdb_id": "tt0109676",
+      "title": "Drop Zone",
+      "year": 1994,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Ty Moncrief"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQ2NjM5NjE5NF5BMl5BanBnXkFtZTYwNTk3MjUz._V1_.jpg",
+  "birth_date": "29.06.1944",
+  "birth_location": "Goose Creek, Texas, USA",
+  "height": "1.82 m",
+  "filmweb_id": 3070,
+  "name_pl": "Gary Busey",
+  "birth_location_pl": "Goose Creek, Teksas",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 3070
+}

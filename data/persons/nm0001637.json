@@ -1,0 +1,50 @@
+{
+  "id": "nm0001637",
+  "name": "Vincent Price",
+  "filmography": [
+    {
+      "imdb_id": "tt0037008",
+      "title": "Laura",
+      "year": 1944,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Shelby Carpenter"
+    },
+    {
+      "imdb_id": "tt0084868",
+      "title": "Vincent",
+      "year": 1982,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Narrator"
+    },
+    {
+      "imdb_id": "tt0099487",
+      "title": "Edward Scissorhands",
+      "year": 1990,
+      "roles": [
+        "cast"
+      ],
+      "character": "The Inventor"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjA1OTEyNzcyNl5BMl5BanBnXkFtZTYwMTgwOTU2._V1_.jpg",
+  "birth_date": "27.05.1911",
+  "death_date": "25.10.1993",
+  "birth_location": "St. Louis, Missouri, USA",
+  "height": "1.93 m",
+  "filmweb_id": 41399,
+  "name_pl": "Vincent Price",
+  "birth_location_pl": "St. Louis, Missouri",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 41399
+}

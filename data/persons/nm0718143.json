@@ -1,0 +1,44 @@
+{
+  "id": "nm0718143",
+  "name": "Arthur Reinhart",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTA5ODQ5NjUtYTkyMC00NjhkLWFlMTQtMjcxNWY0YzBjZTgzXkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0478175",
+      "title": "I Am",
+      "year": 2005,
+      "roles": [
+        "cinematographer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0375154",
+      "title": "Tristan + Isolde",
+      "year": 2006,
+      "roles": [
+        "cinematographer"
+      ]
+    },
+    {
+      "imdb_id": "tt0835834",
+      "title": "Time to Die",
+      "year": 2007,
+      "roles": [
+        "cinematographer",
+        "producer"
+      ]
+    }
+  ],
+  "birth_date": "24.03.1965",
+  "birth_location": "Kluczbork, Opolskie, Poland",
+  "filmweb_id": 11191,
+  "name_pl": "Artur Reinhart",
+  "birth_location_pl": "Kluczbork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Polska"
+  ]
+}

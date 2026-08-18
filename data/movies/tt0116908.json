@@ -1,0 +1,245 @@
+{
+  "imdb_id": "tt0116908",
+  "title": "The Long Kiss Goodnight",
+  "description": "Government agents come after an amnesiac woman, who gradually remembers her past.",
+  "runtime_minutes": 121,
+  "release_date": "11.10.1996",
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000133",
+      "name": "Geena Davis"
+    },
+    {
+      "id": "nm0000168",
+      "name": "Samuel L. Jackson"
+    },
+    {
+      "id": "nm0956531",
+      "name": "Yvonne Zima"
+    },
+    {
+      "id": "nm0081572",
+      "name": "Craig Bierko"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001317",
+      "name": "Renny Harlin"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000948",
+      "name": "Shane Black"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000133",
+      "name": "Geena Davis",
+      "character": "Samantha Caine (Charly)"
+    },
+    {
+      "id": "nm0000168",
+      "name": "Samuel L. Jackson",
+      "character": "Mitch Henessey"
+    },
+    {
+      "id": "nm0956531",
+      "name": "Yvonne Zima",
+      "character": "Caitlin"
+    },
+    {
+      "id": "nm0081572",
+      "name": "Craig Bierko",
+      "character": "Timothy"
+    },
+    {
+      "id": "nm0023885",
+      "name": "Tom Amandes",
+      "character": "Hal"
+    },
+    {
+      "id": "nm0004051",
+      "name": "Brian Cox",
+      "character": "Nathan"
+    },
+    {
+      "id": "nm0538869",
+      "name": "Patrick Malahide",
+      "character": "Perkins"
+    },
+    {
+      "id": "nm0001556",
+      "name": "David Morse",
+      "character": "Luke"
+    },
+    {
+      "id": "nm0571375",
+      "name": "Joseph McKenna",
+      "character": "One-Eyed Jack"
+    },
+    {
+      "id": "nm0005074",
+      "name": "Melina Kanakaredes",
+      "character": "Trin"
+    },
+    {
+      "id": "nm0913142",
+      "name": "Dan Warry-Smith",
+      "character": "Raymond"
+    },
+    {
+      "id": "nm0094221",
+      "name": "Kristen Bone",
+      "character": "Girl #1"
+    },
+    {
+      "id": "nm0685368",
+      "name": "Jennifer Pisana",
+      "character": "Girl #2"
+    },
+    {
+      "id": "nm0513010",
+      "name": "Rex Linn",
+      "character": "Man in Bed"
+    },
+    {
+      "id": "nm0635978",
+      "name": "Alan North",
+      "character": "Earl"
+    },
+    {
+      "id": "nm0388064",
+      "name": "Edwin Hodge",
+      "character": "Todd Henessey"
+    },
+    {
+      "id": "nm0531628",
+      "name": "Bill MacDonald",
+      "character": "Hostage Agent"
+    },
+    {
+      "id": "nm0640341",
+      "name": "Gladys O'Connor",
+      "character": "Alice"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "color": "Color",
+  "filmweb_id": 5324,
+  "year": 1996,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNWFmM2EwYmItZDA2Mi00MDM2LTkxM2YtMWU0ODhiOTg1NWY3XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.8,
+      "votes": 93568,
+      "distribution": {
+        "1": 1103,
+        "2": 847,
+        "3": 1486,
+        "4": 3198,
+        "5": 7551,
+        "6": 18170,
+        "7": 28583,
+        "8": 18196,
+        "9": 6976,
+        "10": 7458
+      },
+      "normalized": 5.1278
+    },
+    "filmweb": {
+      "rating": 6.94,
+      "votes": 28756,
+      "distribution": {
+        "1": 115,
+        "2": 114,
+        "3": 365,
+        "4": 685,
+        "5": 1970,
+        "6": 5611,
+        "7": 10786,
+        "8": 6586,
+        "9": 1656,
+        "10": 868
+      },
+      "normalized": 5.4989
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "23.02.2011",
+      "normalized": 5.6855
+    },
+    "michal": {
+      "rating": 2,
+      "date_rated": "19.10.2005",
+      "normalized": 3.1556
+    },
+    "score": 4.867
+  },
+  "polish_title": "Długi pocałunek na dobranoc",
+  "silent": false,
+  "description_pl": "Samantha po wypadku cierpi na amnezję. Od wielu lat jest szanowaną nauczycielką w małym miasteczku. Pewnego dnia przypadkowo zostaje rozpoznana jako była tajna agentka i zawodowa morderczyni. Od tej pory musi bronić swojej rodziny.",
+  "producers": [
+    {
+      "id": "nm0042520",
+      "name": "Stephanie Austin"
+    },
+    {
+      "id": "nm0000948",
+      "name": "Shane Black"
+    },
+    {
+      "id": "nm0006894",
+      "name": "Michael De Luca"
+    },
+    {
+      "id": "nm0296735",
+      "name": "Carla Fry"
+    },
+    {
+      "id": "nm0001317",
+      "name": "Renny Harlin"
+    },
+    {
+      "id": "nm0764552",
+      "name": "Richard Saperstein"
+    },
+    {
+      "id": "nm0005494",
+      "name": "Steve Tisch"
+    },
+    {
+      "id": "nm0000133",
+      "name": "Geena Davis"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006293",
+      "name": "Alan Silvestri"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0622897",
+      "name": "Guillermo Navarro"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

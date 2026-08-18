@@ -1,0 +1,51 @@
+{
+  "id": "nm1791103",
+  "name": "Nathan Johnson",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZDYwMjUwNjItMzJmZS00Y2ZmLWI3YzgtYzc0MmRiZTJkZjFjXkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0393109",
+      "title": "Brick",
+      "year": 2005,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt1276104",
+      "title": "Looper",
+      "year": 2012,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt8946378",
+      "title": "Knives Out",
+      "year": 2019,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt11564570",
+      "title": "Glass Onion",
+      "year": 2022,
+      "roles": [
+        "composer"
+      ]
+    }
+  ],
+  "image_url_small": "https://m.media-amazon.com/images/M/MV5BZDYwMjUwNjItMzJmZS00Y2ZmLWI3YzgtYzc0MmRiZTJkZjFjXkEyXkFqcGc@._V1_CR0,3,2662,3993_.jpg",
+  "birth_date": "04.08.1976",
+  "birth_location": "Washington, District of Columbia, USA",
+  "filmweb_id": 347790,
+  "name_pl": "Nathan Johnson",
+  "birth_location_pl": "Waszyngton, Dystrykt Kolumbii",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

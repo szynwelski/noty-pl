@@ -1,0 +1,40 @@
+{
+  "id": "nm0000521",
+  "name": "Sophie Marceau",
+  "filmography": [
+    {
+      "imdb_id": "tt0112573",
+      "title": "Braveheart",
+      "year": 1995,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Princess Isabelle"
+    },
+    {
+      "imdb_id": "tt0143145",
+      "title": "The World Is Not Enough",
+      "year": 1999,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Elektra King"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTc5NjA5OTk4Ml5BMl5BanBnXkFtZTYwNzkyNzYz._V1_.jpg",
+  "birth_date": "17.11.1966",
+  "birth_location": "Paris, France",
+  "height": "1.73 m",
+  "imdb_scraped": true,
+  "filmweb_id": 264,
+  "name_pl": "Sophie Marceau",
+  "birth_location_pl": "Paryż",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja"
+  ],
+  "wikidata_fw_id": 264
+}

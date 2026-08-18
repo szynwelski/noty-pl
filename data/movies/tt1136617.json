@@ -1,0 +1,235 @@
+{
+  "imdb_id": "tt1136617",
+  "title": "The Killer",
+  "description": "Solitary, cold, methodical and unencumbered by scruples or regrets, a killer waits in the shadows, watching for his next target. Yet, the longer he waits, the more he thinks he's losing his mind, if not his cool.",
+  "runtime_minutes": 118,
+  "release_date": "10.11.2023",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm1055413",
+      "name": "Michael Fassbender"
+    },
+    {
+      "id": "nm0842770",
+      "name": "Tilda Swinton"
+    },
+    {
+      "id": "nm0663174",
+      "name": "Charles Parnell"
+    },
+    {
+      "id": "nm0397124",
+      "name": "Arliss Howard"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000399",
+      "name": "David Fincher"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1989798",
+      "name": "Alexis Nolent"
+    },
+    {
+      "id": "nm15210972",
+      "name": "Luc Jacamon"
+    },
+    {
+      "id": "nm0001825",
+      "name": "Andrew Kevin Walker"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1055413",
+      "name": "Michael Fassbender",
+      "character": "The Killer"
+    },
+    {
+      "id": "nm0842770",
+      "name": "Tilda Swinton",
+      "character": "The Expert"
+    },
+    {
+      "id": "nm0663174",
+      "name": "Charles Parnell",
+      "character": "The Lawyer - Hodges"
+    },
+    {
+      "id": "nm0397124",
+      "name": "Arliss Howard",
+      "character": "The Client - Claybourne"
+    },
+    {
+      "id": "nm0641747",
+      "name": "Kerry O'Malley",
+      "character": "Dolores"
+    },
+    {
+      "id": "nm2410851",
+      "name": "Sophie Charlotte",
+      "character": "Magdala"
+    },
+    {
+      "id": "nm9776626",
+      "name": "Emiliano Pernía",
+      "character": "Marcus"
+    },
+    {
+      "id": "nm13983123",
+      "name": "Gabriel Polanco",
+      "character": "Leo"
+    },
+    {
+      "id": "nm1019674",
+      "name": "Sala Baker",
+      "character": "The Brute"
+    },
+    {
+      "id": "nm0401352",
+      "name": "Endre Hules",
+      "character": "The Target"
+    },
+    {
+      "id": "nm2472420",
+      "name": "Bernard Bygott",
+      "character": "Bodyguard 1"
+    },
+    {
+      "id": "nm1244650",
+      "name": "Monique Ganderton",
+      "character": "The Dominatrix"
+    },
+    {
+      "id": "nm0358460",
+      "name": "Daran Norris",
+      "character": "Deep South Lounge Greeter"
+    },
+    {
+      "id": "nm1518465",
+      "name": "Nikki Dixon",
+      "character": "Airline Ticket Agent"
+    },
+    {
+      "id": "nm11803923",
+      "name": "Paloma Palacios",
+      "character": "Female Doctor"
+    },
+    {
+      "id": "nm9701227",
+      "name": "Lía Lockhart",
+      "character": "FedEx Clerk"
+    },
+    {
+      "id": "nm12040932",
+      "name": "Arturo Duvergé",
+      "character": "Taxi Dispatcher"
+    },
+    {
+      "id": "nm9539722",
+      "name": "Génesis Estévez",
+      "character": "United Ticket Agent"
+    }
+  ],
+  "countries": [
+    "United States",
+    "Dominican Republic"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 10002852,
+  "year": 2023,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYzU2MTlkMTctNWI3MC00ODUzLTlmYzQtMzZjYjVmMmYwZGU0XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.7,
+      "votes": 226481,
+      "distribution": {
+        "1": 2928,
+        "2": 2117,
+        "3": 3895,
+        "4": 7890,
+        "5": 21226,
+        "6": 53532,
+        "7": 77217,
+        "8": 39486,
+        "9": 10304,
+        "10": 7886
+      },
+      "normalized": 4.8821
+    },
+    "filmweb": {
+      "rating": 6.19,
+      "votes": 41470,
+      "distribution": {
+        "1": 173,
+        "2": 267,
+        "3": 1286,
+        "4": 2160,
+        "5": 6739,
+        "6": 12464,
+        "7": 13060,
+        "8": 4554,
+        "9": 581,
+        "10": 186
+      },
+      "normalized": 3.6803
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "02.04.2024",
+      "normalized": 6.3474
+    },
+    "score": 4.9699
+  },
+  "polish_title": "Zabójca",
+  "silent": false,
+  "description_pl": "Opanowany i metodyczny zabójca (<a href=\"/osoba/?id=nm1055413\">Michael Fassbender</a>) bez skrupułów czeka w cieniu, wypatrując kolejnego celu. Upływający czas mąci jednak jego spokój, a kłębiące się myśli sprawiają, że mężczyzna powoli traci rozum. Gdy wreszcie oddaje strzał, ten okazuje się niecelny. Pudło wiąże się z surowymi konsekwencjami.",
+  "producers": [
+    {
+      "id": "nm1148054",
+      "name": "Raphaël Benoliel"
+    },
+    {
+      "id": "nm0149556",
+      "name": "Ceán Chaffin"
+    },
+    {
+      "id": "nm0236515",
+      "name": "William Doyle"
+    },
+    {
+      "id": "nm0561423",
+      "name": "Peter Mavromates"
+    },
+    {
+      "id": "nm1999829",
+      "name": "Andrea McKee"
+    },
+    {
+      "id": "nm0586968",
+      "name": "Alexandra Milchan"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0582081",
+      "name": "Erik Messerschmidt"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

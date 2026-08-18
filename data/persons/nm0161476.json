@@ -1,0 +1,39 @@
+{
+  "id": "nm0161476",
+  "name": "Winston Churchill",
+  "filmography": [
+    {
+      "imdb_id": "tt0182766",
+      "title": "The Battle of Britain",
+      "year": 1943,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Self - with Londoners, Donates Coin on Street"
+    },
+    {
+      "imdb_id": "tt0066765",
+      "title": "Monty Python's and Now for Something Completely Different",
+      "year": 1971,
+      "roles": [
+        "cast"
+      ],
+      "character": "Self"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTU3NjkxOTE0MV5BMl5BanBnXkFtZTYwOTkyMzI2._V1_.jpg",
+  "birth_date": "30.11.1874",
+  "death_date": "24.01.1965",
+  "birth_location": "Blenheim Palace, Woodstock, Oxfordshire, England, UK",
+  "height": "1.67 m",
+  "imdb_scraped": true,
+  "filmweb_id": 178944,
+  "name_pl": "Winston Churchill",
+  "birth_location_pl": "Woodstock, Anglia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ]
+}

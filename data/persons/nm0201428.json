@@ -1,0 +1,36 @@
+{
+  "id": "nm0201428",
+  "name": "Marion Darlington",
+  "filmography": [
+    {
+      "imdb_id": "tt0029583",
+      "title": "Snow White and the Seven Dwarfs",
+      "year": 1937,
+      "roles": [
+        "cast"
+      ],
+      "character": "Birds"
+    },
+    {
+      "imdb_id": "tt0032910",
+      "title": "Pinocchio",
+      "year": 1940,
+      "roles": [
+        "cast"
+      ],
+      "character": "Birds"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYjE1M2UwZmYtZGNhMy00MzVmLTk1NDItNWQ1N2U1YTJmZjg2XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "07.11.1910",
+  "death_date": "17.03.1991",
+  "birth_location": "Monrovia, California, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 68103,
+  "name_pl": "Marion Darlington",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

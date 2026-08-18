@@ -1,0 +1,258 @@
+{
+  "imdb_id": "tt3704428",
+  "title": "Elvis",
+  "description": "The life of American music icon Elvis Presley, from his childhood to becoming a rock and movie star in the 1950s while maintaining a complex relationship with his manager, Colonel Tom Parker.",
+  "runtime_minutes": 159,
+  "release_date": "24.06.2022",
+  "genres": [
+    "Biography",
+    "Drama",
+    "Music"
+  ],
+  "stars": [
+    {
+      "id": "nm0000158",
+      "name": "Tom Hanks"
+    },
+    {
+      "id": "nm2581521",
+      "name": "Austin Butler"
+    },
+    {
+      "id": "nm4609822",
+      "name": "Olivia DeJonge"
+    },
+    {
+      "id": "nm0861013",
+      "name": "Helen Thomson"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0525303",
+      "name": "Baz Luhrmann"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0525303",
+      "name": "Baz Luhrmann"
+    },
+    {
+      "id": "nm5150018",
+      "name": "Sam Bromell"
+    },
+    {
+      "id": "nm0668902",
+      "name": "Craig Pearce"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000158",
+      "name": "Tom Hanks",
+      "character": "Colonel Tom Parker"
+    },
+    {
+      "id": "nm2581521",
+      "name": "Austin Butler",
+      "character": "Elvis"
+    },
+    {
+      "id": "nm4609822",
+      "name": "Olivia DeJonge",
+      "character": "Priscilla"
+    },
+    {
+      "id": "nm0861013",
+      "name": "Helen Thomson",
+      "character": "Gladys"
+    },
+    {
+      "id": "nm0746896",
+      "name": "Richard Roxburgh",
+      "character": "Vernon"
+    },
+    {
+      "id": "nm5123156",
+      "name": "Kelvin Harrison Jr.",
+      "character": "B.B. King"
+    },
+    {
+      "id": "nm0920992",
+      "name": "David Wenham",
+      "character": "Hank Snow"
+    },
+    {
+      "id": "nm2240346",
+      "name": "Kodi Smit-McPhee",
+      "character": "Jimmie Rodgers Snow"
+    },
+    {
+      "id": "nm3478396",
+      "name": "Luke Bracey",
+      "character": "Jerry Schilling"
+    },
+    {
+      "id": "nm4223882",
+      "name": "Dacre Montgomery",
+      "character": "Steve Binder"
+    },
+    {
+      "id": "nm1026031",
+      "name": "Leon Ford",
+      "character": "Tom Diskin"
+    },
+    {
+      "id": "nm2237175",
+      "name": "Gary Clark Jr.",
+      "character": "Arthur 'Big Boy' Crudup"
+    },
+    {
+      "id": "nm10569264",
+      "name": "Yola",
+      "character": "Sister Rosetta Tharpe"
+    },
+    {
+      "id": "nm3736942",
+      "name": "Natasha Bassett",
+      "character": "Dixie Locke"
+    },
+    {
+      "id": "nm1882152",
+      "name": "Xavier Samuel",
+      "character": "Scotty Moore"
+    },
+    {
+      "id": "nm4350784",
+      "name": "Adam Dunn",
+      "character": "Bill Black"
+    },
+    {
+      "id": "nm10080812",
+      "name": "Alton Mason",
+      "character": "Little Richard"
+    },
+    {
+      "id": "nm12860265",
+      "name": "Shonka Dukureh",
+      "character": "Big Mama Thornton"
+    }
+  ],
+  "countries": [
+    "Australia",
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 856764,
+  "year": 2022,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTVhZmUyMDQtY2I5Ny00OWNiLTgzNjUtMTg4YTQwMTc0OTQxXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.3,
+      "votes": 263941,
+      "distribution": {
+        "1": 3631,
+        "2": 2042,
+        "3": 3209,
+        "4": 5499,
+        "5": 12699,
+        "6": 32873,
+        "7": 72227,
+        "8": 71852,
+        "9": 30899,
+        "10": 29010
+      },
+      "normalized": 6.119
+    },
+    "filmweb": {
+      "rating": 6.9,
+      "votes": 76606,
+      "distribution": {
+        "1": 752,
+        "2": 503,
+        "3": 1266,
+        "4": 2039,
+        "5": 6198,
+        "6": 14641,
+        "7": 25469,
+        "8": 17362,
+        "9": 5043,
+        "10": 3333
+      },
+      "normalized": 5.4418
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "23.06.2023",
+      "normalized": 7.1247
+    },
+    "score": 6.2285
+  },
+  "polish_title": "Elvis",
+  "silent": false,
+  "description_pl": "Historia Elvisa Presleya (<a href=\"/osoba/?id=nm2581521\">Butler</a>) zgłębia złożoną, ponad dwudziestoletnią relację Presleya z Parkerem (<a href=\"/osoba/?id=nm0000158\">Hanks</a>), która rozpoczęła się wraz z początkiem bezprecedensowej kariery piosenkarza, na tle ewoluującego krajobrazu kulturowego i końca amerykańskiej niewinności. Kluczowym elementem opowieści jest jedna z najważniejszych i najbardziej wpływowych osób w życiu Elvisa, Priscilla Presley.",
+  "producers": [
+    {
+      "id": "nm0075762",
+      "name": "Gail Berman"
+    },
+    {
+      "id": "nm1472051",
+      "name": "John A. Busenberg"
+    },
+    {
+      "id": "nm0256497",
+      "name": "Toby Emmerich"
+    },
+    {
+      "id": "nm0525303",
+      "name": "Baz Luhrmann"
+    },
+    {
+      "id": "nm0552039",
+      "name": "Catherine Martin"
+    },
+    {
+      "id": "nm0566557",
+      "name": "Kevin McCormick"
+    },
+    {
+      "id": "nm0566590",
+      "name": "Patrick McCormick"
+    },
+    {
+      "id": "nm3879410",
+      "name": "Andrew Mittman"
+    },
+    {
+      "id": "nm1562833",
+      "name": "Courtenay Valenti"
+    },
+    {
+      "id": "nm3419045",
+      "name": "Schuyler Weiss"
+    },
+    {
+      "id": "nm1395268",
+      "name": "Elliott Wheeler"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm1395268",
+      "name": "Elliott Wheeler"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0907999",
+      "name": "Mandy Walker"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

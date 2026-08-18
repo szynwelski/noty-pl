@@ -1,0 +1,196 @@
+{
+  "imdb_id": "tt0081274",
+  "title": "Olimpiada 40",
+  "description": "Clandestine Olympics are to be held in a German POW camp during World War II which houses many Poles, but also French and British. A spit and polish German lieutenant is added to the staff of the camp. He recognizes one of the Poles, the acknowledged leader of the Polish prisoners, as an athlete against whom he had competed during the Berlin Olympics in 1936. He asks the Pole to train with him but is refused; the Pole points out that he is a prisoner and nothing more, but that plants a seed and the Pole proposes an Olympics 40 to be held among the prisoners. They ingeniously make a flag and medals, set up a number of races; a crouching hop race is unwittingly organized by a German prison guard who uses it as a form of torture. The German lieutenant knows that something is going on but cannot figure it out. Finally the Germans realize what's going on and the Polish leader is sent to a concentration camp, but the others disobey the orders.",
+  "runtime_minutes": 96,
+  "release_date": "23.06.1980",
+  "genres": [
+    "Drama",
+    "War"
+  ],
+  "stars": [
+    {
+      "id": "nm0007698",
+      "name": "Boleslaw Abart"
+    },
+    {
+      "id": "nm0072252",
+      "name": "Mariusz Benoit"
+    },
+    {
+      "id": "nm0093872",
+      "name": "Jerzy Bonczak"
+    },
+    {
+      "id": "nm0117378",
+      "name": "Edward Bukowian"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0467720",
+      "name": "Andrzej Kotkowski"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0464536",
+      "name": "Michal Komar"
+    },
+    {
+      "id": "nm0467720",
+      "name": "Andrzej Kotkowski"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0007698",
+      "name": "Boleslaw Abart",
+      "character": ""
+    },
+    {
+      "id": "nm0072252",
+      "name": "Mariusz Benoit",
+      "character": "Piotr"
+    },
+    {
+      "id": "nm0093872",
+      "name": "Jerzy Bonczak",
+      "character": "Jacques"
+    },
+    {
+      "id": "nm0117378",
+      "name": "Edward Bukowian",
+      "character": ""
+    },
+    {
+      "id": "nm0302050",
+      "name": "Tadeusz Galia",
+      "character": "Leon"
+    },
+    {
+      "id": "nm0376265",
+      "name": "Jan Hencz",
+      "character": ""
+    },
+    {
+      "id": "nm0417360",
+      "name": "Krzysztof Janczar",
+      "character": "Andrzej"
+    },
+    {
+      "id": "nm0419206",
+      "name": "Stanislaw Jaskulka",
+      "character": ""
+    },
+    {
+      "id": "nm0435853",
+      "name": "Aleksander Kalinowski",
+      "character": ""
+    },
+    {
+      "id": "nm0465987",
+      "name": "Wladyslaw Kornak",
+      "character": ""
+    },
+    {
+      "id": "nm0467876",
+      "name": "Ryszard Kotys",
+      "character": "Schlappke"
+    },
+    {
+      "id": "nm0560657",
+      "name": "Ferdynand Matysik",
+      "character": ""
+    },
+    {
+      "id": "nm1294260",
+      "name": "Edwin Petrykat",
+      "character": ""
+    },
+    {
+      "id": "nm0699659",
+      "name": "Wojciech Pszoniak",
+      "character": "Schulz"
+    },
+    {
+      "id": "nm1432971",
+      "name": "Andrzej Rausz",
+      "character": ""
+    },
+    {
+      "id": "nm1413701",
+      "name": "Leonard Szewczuk",
+      "character": ""
+    }
+  ],
+  "countries": [
+    "Poland"
+  ],
+  "languages": [
+    "Polish"
+  ],
+  "color": null,
+  "filmweb_id": 8329,
+  "year": 1980,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYmRjODRlYmEtNDg3YS00YTMxLThlZDUtZDg0YWFkMmI5Mjk5XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.3,
+      "votes": 69,
+      "distribution": {
+        "1": 4,
+        "2": 2,
+        "3": 3,
+        "4": 5,
+        "5": 7,
+        "6": 20,
+        "7": 13,
+        "8": 7,
+        "9": 5,
+        "10": 3
+      },
+      "normalized": 5.2137
+    },
+    "filmweb": {
+      "rating": 7.5,
+      "votes": 1009,
+      "distribution": {
+        "1": 5,
+        "2": 1,
+        "3": 10,
+        "4": 19,
+        "5": 48,
+        "6": 145,
+        "7": 153,
+        "8": 406,
+        "9": 197,
+        "10": 25
+      },
+      "normalized": 6.1686
+    },
+    "jarek": {
+      "rating": 8,
+      "date_rated": "27.01.2011",
+      "normalized": 7.8989
+    },
+    "score": 6.4271
+  },
+  "polish_title": "Olimpiada 40",
+  "silent": false,
+  "description_pl": "Akcja filmu toczy się w hitlerowskim stalagu. Więźniowie postanawiają zorganizować swoją własną olimpiadę. Wymyślają konkurencje, przygotowują medale ... A wszystko to pod okiem niemieckich strażników.",
+  "composers": [
+    {
+      "id": "nm0466863",
+      "name": "Andrzej Korzynski"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0010627",
+      "name": "Witold Adamek"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

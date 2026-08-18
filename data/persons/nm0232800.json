@@ -1,0 +1,38 @@
+{
+  "id": "nm0232800",
+  "name": "Jack Donner",
+  "filmography": [
+    {
+      "imdb_id": "tt0369436",
+      "title": "Four Christmases",
+      "year": 2008,
+      "roles": [
+        "cast"
+      ],
+      "character": "Grandpa"
+    },
+    {
+      "imdb_id": "tt1616195",
+      "title": "J. Edgar",
+      "year": 2011,
+      "roles": [
+        "cast"
+      ],
+      "character": "Edgar's Father"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTI0OTI2ODM5OF5BMl5BanBnXkFtZTYwMjM0ODky._V1_.jpg",
+  "birth_date": "29.10.1928",
+  "death_date": "21.09.2019",
+  "birth_location": "Los Angeles, California, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 107605,
+  "name_pl": "Jack Donner",
+  "birth_location_pl": "Los Angeles, Kalifornia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 107605
+}

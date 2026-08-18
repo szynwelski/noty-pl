@@ -1,0 +1,94 @@
+{
+  "imdb_id": "tt0000001",
+  "title": "Carmencita",
+  "description": "Performing on what looks like a small wooden stage, wearing a dress with a hoop skirt and white high-heeled pumps, Carmencita does a dance with kicks and twirls, a smile always on her face.",
+  "runtime_minutes": 1,
+  "release_date": "10.03.1894",
+  "genres": [
+    "Documentary",
+    "Short"
+  ],
+  "top_cast": [
+    {
+      "id": "nm1588970",
+      "name": "Carmencita",
+      "character": "Self"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "stars": [
+    {
+      "id": "nm1588970",
+      "name": "Carmencita"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0005690",
+      "name": "William K.L. Dickson"
+    }
+  ],
+  "filmweb_id": 208115,
+  "year": 1894,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDcxOGEwNTktZTA0Yi00ZTFlLTkxNTItM2M2MmY0YTI2MTBhXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.7,
+      "votes": 2225,
+      "distribution": {
+        "1": 105,
+        "2": 79,
+        "3": 94,
+        "4": 176,
+        "5": 474,
+        "6": 588,
+        "7": 294,
+        "8": 148,
+        "9": 46,
+        "10": 221
+      },
+      "normalized": 3.6244
+    },
+    "filmweb": {
+      "rating": 4.66,
+      "votes": 170,
+      "distribution": {
+        "1": 7,
+        "2": 14,
+        "3": 27,
+        "4": 37,
+        "5": 33,
+        "6": 28,
+        "7": 8,
+        "8": 9,
+        "9": 3,
+        "10": 4
+      },
+      "normalized": 3.7942
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "11.12.2016",
+      "normalized": 6.4102
+    },
+    "score": 4.6096
+  },
+  "polish_title": "Carmencita",
+  "silent": true,
+  "description_pl": "Widzimy znaną tancerkę, która urzeka nas swoją pełną wdzięku grą tak jak robiła to w Koster & Bial's w Nowym Jorku.",
+  "cinematographers": [
+    {
+      "id": "nm0374658",
+      "name": "William Heise"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

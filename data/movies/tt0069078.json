@@ -1,0 +1,201 @@
+{
+  "imdb_id": "tt0069078",
+  "title": "Perla w koronie",
+  "description": "The German owners of a mine decide that it is unprofitable and want to close it by flooding it. The miners go on strike.",
+  "runtime_minutes": 111,
+  "release_date": "27.01.1972",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0468686",
+      "name": "Lucja Kowolik"
+    },
+    {
+      "id": "nm0525557",
+      "name": "Olgierd Łukaszewicz"
+    },
+    {
+      "id": "nm0257563",
+      "name": "Jan Englert"
+    },
+    {
+      "id": "nm0669813",
+      "name": "Franciszek Pieczka"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0476591",
+      "name": "Kazimierz Kutz"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0476591",
+      "name": "Kazimierz Kutz"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0468686",
+      "name": "Lucja Kowolik",
+      "character": "Wikta"
+    },
+    {
+      "id": "nm0525557",
+      "name": "Olgierd Łukaszewicz",
+      "character": "Jas"
+    },
+    {
+      "id": "nm0257563",
+      "name": "Jan Englert",
+      "character": "Erwin Maliniok"
+    },
+    {
+      "id": "nm0669813",
+      "name": "Franciszek Pieczka",
+      "character": "Hubert Siersza"
+    },
+    {
+      "id": "nm0167523",
+      "name": "Jerzy Cnota",
+      "character": "August Mol"
+    },
+    {
+      "id": "nm0470441",
+      "name": "Bernard Krawczyk",
+      "character": "Franciszek Bula"
+    },
+    {
+      "id": "nm0534770",
+      "name": "Tadeusz Madeja",
+      "character": "Ochman"
+    },
+    {
+      "id": "nm0555449",
+      "name": "Henryk Maruszczyk",
+      "character": "Alojz Grudniok"
+    },
+    {
+      "id": "nm0649045",
+      "name": "Marian Opania",
+      "character": "Albert"
+    },
+    {
+      "id": "nm0803448",
+      "name": "Jerzy Siwy",
+      "character": "Milenda"
+    },
+    {
+      "id": "nm0015766",
+      "name": "Wojciech Alaborski",
+      "character": "Major Suchanek"
+    },
+    {
+      "id": "nm0053025",
+      "name": "Wladyslaw Baranski",
+      "character": ""
+    },
+    {
+      "id": "nm0066133",
+      "name": "Aleksander Bednarz",
+      "character": ""
+    },
+    {
+      "id": "nm0081611",
+      "name": "Zygmunt Biernat",
+      "character": "Les"
+    },
+    {
+      "id": "nm0091695",
+      "name": "Jan Bógdol",
+      "character": ""
+    },
+    {
+      "id": "nm0118829",
+      "name": "Emir Buczacki",
+      "character": "Malitsch"
+    },
+    {
+      "id": "nm0214082",
+      "name": "Witold Dederko",
+      "character": ""
+    },
+    {
+      "id": "nm0229871",
+      "name": "Edward Dobrzanski",
+      "character": ""
+    }
+  ],
+  "countries": [
+    "Poland"
+  ],
+  "languages": [
+    "Polish"
+  ],
+  "color": "Color",
+  "year": 1972,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOGE5MzMzOTYtOWMzNy00OTM3LTllM2QtNjdlMTM3NTczNDc3XkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 1152,
+  "ratings": {
+    "imdb": {
+      "rating": 7.3,
+      "votes": 388,
+      "distribution": {
+        "1": 5,
+        "2": 6,
+        "3": 9,
+        "4": 11,
+        "5": 19,
+        "6": 46,
+        "7": 115,
+        "8": 111,
+        "9": 37,
+        "10": 29
+      },
+      "normalized": 5.507
+    },
+    "filmweb": {
+      "rating": 7.75,
+      "votes": 7177,
+      "distribution": {
+        "1": 29,
+        "2": 6,
+        "3": 44,
+        "4": 80,
+        "5": 215,
+        "6": 575,
+        "7": 1705,
+        "8": 2609,
+        "9": 1372,
+        "10": 542
+      },
+      "normalized": 7.331
+    },
+    "michal": {
+      "rating": 8,
+      "date_rated": "10.12.2006",
+      "normalized": 8.1116
+    },
+    "score": 6.9832
+  },
+  "polish_title": "Perła w koronie",
+  "silent": false,
+  "description_pl": "Śląsk, 1934 rok. Młody górnik Jaś, ojciec dwóch małych chłopców, dowiaduje się, że kopalnia, w której pracuje, ma zostać zalana. Wraz z innymi przyłącza się więc do strajku, lecz niemiecka dyrekcja kopalni nie chce iść na żadne ustępstwa. Wkrótce górnicy ogłaszają strajk głodowy, a przed bramą kopalni dochodzi do demonstracji ich rodzin. Przewodzi jej Erwin, dawny śląski powstaniec.",
+  "composers": [
+    {
+      "id": "nm0004384",
+      "name": "Wojciech Kilar"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0521433",
+      "name": "Stanislaw Loth"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "nm0010958",
+  "name": "Ernie Adams",
+  "filmography": [
+    {
+      "imdb_id": "tt0021079",
+      "title": "Little Caesar",
+      "year": 1931,
+      "roles": [
+        "cast"
+      ],
+      "character": "Cashier"
+    },
+    {
+      "imdb_id": "tt0025316",
+      "title": "It Happened One Night",
+      "year": 1934,
+      "roles": [
+        "cast"
+      ],
+      "character": "The Bag Thief"
+    },
+    {
+      "imdb_id": "tt0037101",
+      "title": "Murder, My Sweet",
+      "year": 1944,
+      "roles": [
+        "cast"
+      ],
+      "character": "Bartender at 'Florian's'"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMWUyNjY0YzItZDc4MS00NDA3LWFkNmYtOGNkN2U5YjY4MmQzXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "18.06.1885",
+  "death_date": "26.11.1947",
+  "birth_location": "San Francisco, California, USA",
+  "height": "1.69 m",
+  "filmweb_id": 52904,
+  "name_pl": "Ernie Adams",
+  "birth_location_pl": "San Francisco, Kalifornia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

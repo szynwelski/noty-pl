@@ -1,0 +1,263 @@
+{
+  "imdb_id": "tt0421082",
+  "title": "Control",
+  "description": "A profile of Ian Curtis, the enigmatic singer of Joy Division whose personal, professional, and romantic troubles led him to die by suicide at the age of 23.",
+  "runtime_minutes": 122,
+  "release_date": "05.10.2007",
+  "genres": [
+    "Biography",
+    "Drama",
+    "Music"
+  ],
+  "stars": [
+    {
+      "id": "nm0727165",
+      "name": "Sam Riley"
+    },
+    {
+      "id": "nm0608090",
+      "name": "Samantha Morton"
+    },
+    {
+      "id": "nm0971135",
+      "name": "Craig Parkinson"
+    },
+    {
+      "id": "nm0487884",
+      "name": "Alexandra Maria Lara"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0179221",
+      "name": "Anton Corbijn"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1722281",
+      "name": "Deborah Curtis"
+    },
+    {
+      "id": "nm0339043",
+      "name": "Matt Greenhalgh"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0727165",
+      "name": "Sam Riley",
+      "character": "Ian Curtis"
+    },
+    {
+      "id": "nm0608090",
+      "name": "Samantha Morton",
+      "character": "Debbie Curtis"
+    },
+    {
+      "id": "nm0971135",
+      "name": "Craig Parkinson",
+      "character": "Tony Wilson"
+    },
+    {
+      "id": "nm0487884",
+      "name": "Alexandra Maria Lara",
+      "character": "Annik Honore"
+    },
+    {
+      "id": "nm1725848",
+      "name": "Joe Anderson",
+      "character": "Peter Hook aka Hooky"
+    },
+    {
+      "id": "nm1174658",
+      "name": "James Anthony Pearson",
+      "character": "Bernard Sumner"
+    },
+    {
+      "id": "nm2016685",
+      "name": "Harry Treadaway",
+      "character": "Steve Morris"
+    },
+    {
+      "id": "nm1527905",
+      "name": "Toby Kebbell",
+      "character": "Rob Gretton"
+    },
+    {
+      "id": "nm0792129",
+      "name": "Andrew Sheridan",
+      "character": "Terry"
+    },
+    {
+      "id": "nm0791270",
+      "name": "Robert Shelly",
+      "character": "Twinny"
+    },
+    {
+      "id": "nm0107101",
+      "name": "Richard Bremmer",
+      "character": "Ian's Father"
+    },
+    {
+      "id": "nm0616867",
+      "name": "Tanya Myers",
+      "character": "Ian's Mother"
+    },
+    {
+      "id": "nm1567270",
+      "name": "Martha Myers Lowe",
+      "character": "Ian's Sister"
+    },
+    {
+      "id": "nm2439913",
+      "name": "Matthew McNulty",
+      "character": "Nick"
+    },
+    {
+      "id": "nm1556726",
+      "name": "David Whittington",
+      "character": "Chemistry Teacher"
+    },
+    {
+      "id": "nm1276052",
+      "name": "Margaret Jackman",
+      "character": "Mrs. Brady"
+    },
+    {
+      "id": "nm0709825",
+      "name": "Mary Jo Randle",
+      "character": "Debbie's Mother"
+    },
+    {
+      "id": "nm2566693",
+      "name": "Ben Naylor",
+      "character": "Martin Hannett"
+    }
+  ],
+  "countries": [
+    "United Kingdom",
+    "Japan",
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 211364,
+  "year": 2007,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTEzOTYwMTcxN15BMl5BanBnXkFtZTcwNTgyNjI1MQ@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.6,
+      "votes": 72052,
+      "distribution": {
+        "1": 493,
+        "2": 255,
+        "3": 388,
+        "4": 792,
+        "5": 2087,
+        "6": 5863,
+        "7": 16467,
+        "8": 24779,
+        "9": 12387,
+        "10": 8541
+      },
+      "normalized": 6.5856
+    },
+    "filmweb": {
+      "rating": 7.72,
+      "votes": 44248,
+      "distribution": {
+        "1": 168,
+        "2": 52,
+        "3": 193,
+        "4": 391,
+        "5": 1258,
+        "6": 3574,
+        "7": 11015,
+        "8": 16852,
+        "9": 7793,
+        "10": 2952
+      },
+      "normalized": 7.3986
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "11.08.2010",
+      "normalized": 6.4102
+    },
+    "score": 6.7981
+  },
+  "polish_title": "Control",
+  "silent": false,
+  "description_pl": "Film opowiada o życiu i śmierci Iana Curtisa, wokalisty Joy Division, legendarnej grupy rockowej grającej muzykę klasyfikowaną jako post-punk. Curtis rozdarty pomiędzy życiem rodzinnym, rosnącą sławą oraz miłością do innej kobiety popełnił samobójstwo 18 maja 1980 roku w wieku 23 lat, w przeddzień pierwszego tournee Joy Division po Stanach Zjednoczonych. Nie zdając sobie z tego sprawy, Ian Curtis zmienił oblicze muzyki rockowej.",
+  "producers": [
+    {
+      "id": "nm2096617",
+      "name": "Iain Canning"
+    },
+    {
+      "id": "nm0179221",
+      "name": "Anton Corbijn"
+    },
+    {
+      "id": "nm1722281",
+      "name": "Deborah Curtis"
+    },
+    {
+      "id": "nm1813984",
+      "name": "Todd Eckert"
+    },
+    {
+      "id": "nm1385051",
+      "name": "Lizzie Francke"
+    },
+    {
+      "id": "nm2016058",
+      "name": "Megumi Fukasawa"
+    },
+    {
+      "id": "nm0381413",
+      "name": "Peter Heslop"
+    },
+    {
+      "id": "nm0410785",
+      "name": "Satoru Iseki"
+    },
+    {
+      "id": "nm2219738",
+      "name": "Akira Ishii"
+    },
+    {
+      "id": "nm2764519",
+      "name": "Korda Marshall"
+    },
+    {
+      "id": "nm13098481",
+      "name": "Angela Kelly Smith"
+    },
+    {
+      "id": "nm0931410",
+      "name": "Orian Williams"
+    },
+    {
+      "id": "nm0934240",
+      "name": "Tony Wilson"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0627563",
+      "name": "New Order"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0749508",
+      "name": "Martin Ruhe"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

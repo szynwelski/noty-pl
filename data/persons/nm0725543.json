@@ -1,0 +1,58 @@
+{
+  "id": "nm0725543",
+  "name": "Don Rickles",
+  "filmography": [
+    {
+      "imdb_id": "tt0112641",
+      "title": "Casino",
+      "year": 1995,
+      "roles": [
+        "cast"
+      ],
+      "character": "Billy Sherbert"
+    },
+    {
+      "imdb_id": "tt0114709",
+      "title": "Toy Story",
+      "year": 1995,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Mr. Potato Head"
+    },
+    {
+      "imdb_id": "tt0120363",
+      "title": "Toy Story 2",
+      "year": 1999,
+      "roles": [
+        "cast"
+      ],
+      "character": "Mr. Potato Head"
+    },
+    {
+      "imdb_id": "tt0435761",
+      "title": "Toy Story 3",
+      "year": 2010,
+      "roles": [
+        "cast"
+      ],
+      "character": "Mr. Potato Head"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTY0NTk1NzY1M15BMl5BanBnXkFtZTcwNjk4NDMwNA@@._V1_.jpg",
+  "birth_date": "08.05.1926",
+  "death_date": "06.04.2017",
+  "birth_location": "Jackson Heights, Queens, New York City, New York, USA",
+  "height": "1.68 m",
+  "filmweb_id": 8190,
+  "name_pl": "Don Rickles",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 8190
+}

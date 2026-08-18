@@ -1,0 +1,298 @@
+{
+  "imdb_id": "tt32916440",
+  "title": "Marty Supreme",
+  "description": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness.",
+  "runtime_minutes": 149,
+  "release_date": "25.12.2025",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Sport"
+  ],
+  "stars": [
+    {
+      "id": "nm3154303",
+      "name": "Timothée Chalamet"
+    },
+    {
+      "id": "nm0000569",
+      "name": "Gwyneth Paltrow"
+    },
+    {
+      "id": "nm5570560",
+      "name": "Odessa A'zion"
+    },
+    {
+      "id": "nm0806146",
+      "name": "Larry 'Ratso' Sloman"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm1343394",
+      "name": "Josh Safdie"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm2563482",
+      "name": "Ronald Bronstein"
+    },
+    {
+      "id": "nm1343394",
+      "name": "Josh Safdie"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm3154303",
+      "name": "Timothée Chalamet",
+      "character": "Marty Mauser"
+    },
+    {
+      "id": "nm0000569",
+      "name": "Gwyneth Paltrow",
+      "character": "Kay Stone"
+    },
+    {
+      "id": "nm5570560",
+      "name": "Odessa A'zion",
+      "character": "Rachel Mizler"
+    },
+    {
+      "id": "nm0806146",
+      "name": "Larry 'Ratso' Sloman",
+      "character": "Murray Norkin"
+    },
+    {
+      "id": "nm2438208",
+      "name": "Mariann Tepedino",
+      "character": "Mariann"
+    },
+    {
+      "id": "nm8641311",
+      "name": "Ralph Colucci",
+      "character": "Lloyd"
+    },
+    {
+      "id": "nm2902131",
+      "name": "Devorah Shubowitz",
+      "character": "Norkin Customer"
+    },
+    {
+      "id": "nm4360094",
+      "name": "Tyler the Creator",
+      "character": "Wally"
+    },
+    {
+      "id": "nm2310336",
+      "name": "George Gervin",
+      "character": "Lawrence"
+    },
+    {
+      "id": "nm17286128",
+      "name": "Luke Manley",
+      "character": "Dion Galanis"
+    },
+    {
+      "id": "nm17903061",
+      "name": "Marinel Tinnirello",
+      "character": "Not Marty's Messenger"
+    },
+    {
+      "id": "nm0000376",
+      "name": "Fran Drescher",
+      "character": "Rebecca Mauser"
+    },
+    {
+      "id": "nm0000928",
+      "name": "Sandra Bernhard",
+      "character": "Judy"
+    },
+    {
+      "id": "nm1710309",
+      "name": "Emory Cohen",
+      "character": "Ira Mizler"
+    },
+    {
+      "id": "nm17503153",
+      "name": "John Catsimatidis",
+      "character": "Christopher Galanis"
+    },
+    {
+      "id": "nm2764022",
+      "name": "Géza Röhrig",
+      "character": "Béla Kletzki"
+    },
+    {
+      "id": "nm17903054",
+      "name": "Koto Kawaguchi",
+      "character": "Koto Endo"
+    },
+    {
+      "id": "nm15851344",
+      "name": "Nick Waplington",
+      "character": "Wembley Photographer"
+    }
+  ],
+  "countries": [
+    "United States",
+    "Finland"
+  ],
+  "languages": [
+    "English",
+    "Japanese",
+    "French",
+    "Bosnian"
+  ],
+  "color": "Color",
+  "filmweb_id": 10056999,
+  "year": 2025,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZTRhYjI1MTItMWYwMi00MjY5LWI1OTktMzQwNzA3MWJlN2QyXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.6,
+      "votes": 211585,
+      "distribution": {
+        "1": 3872,
+        "2": 1593,
+        "3": 2201,
+        "4": 3802,
+        "5": 8367,
+        "6": 21846,
+        "7": 51083,
+        "8": 66465,
+        "9": 35047,
+        "10": 17309
+      },
+      "normalized": 6.6222
+    },
+    "filmweb": {
+      "rating": 7.6,
+      "votes": 49034,
+      "distribution": {
+        "1": 158,
+        "2": 145,
+        "3": 451,
+        "4": 549,
+        "5": 1920,
+        "6": 4737,
+        "7": 11889,
+        "8": 17159,
+        "9": 9901,
+        "10": 2125
+      },
+      "normalized": 7.0143
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "17.03.2026",
+      "normalized": 7.1247
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "18.02.2026",
+      "normalized": 7.2292
+    },
+    "score": 6.9976
+  },
+  "polish_title": "Wielki Marty",
+  "silent": false,
+  "description_pl": "Marty chce być gwiazdą. Nagnie więc wszystkie reguły, wejdzie w sojusze z ludźmi, od których powinien trzymać się z daleka, gotów będzie uwieść każdą kobietę, byleby tylko zrealizować swoje marzenie o wielkości.",
+  "producers": [
+    {
+      "id": "nm2011383",
+      "name": "Max Allman"
+    },
+    {
+      "id": "nm7719414",
+      "name": "Timo Argillander"
+    },
+    {
+      "id": "nm4410694",
+      "name": "Luca Balser"
+    },
+    {
+      "id": "nm16603174",
+      "name": "Margaux Beck"
+    },
+    {
+      "id": "nm2563482",
+      "name": "Ronald Bronstein"
+    },
+    {
+      "id": "nm4791912",
+      "name": "Eli Bush"
+    },
+    {
+      "id": "nm3154303",
+      "name": "Timothée Chalamet"
+    },
+    {
+      "id": "nm3229551",
+      "name": "Maiko Endo"
+    },
+    {
+      "id": "nm0346405",
+      "name": "Joe Guest"
+    },
+    {
+      "id": "nm3442272",
+      "name": "Yoshiteru Haruta"
+    },
+    {
+      "id": "nm15205531",
+      "name": "Amie Horiuchi"
+    },
+    {
+      "id": "nm3055941",
+      "name": "Samson Jacobson"
+    },
+    {
+      "id": "nm0438195",
+      "name": "Avram 'Butch' Kaplan"
+    },
+    {
+      "id": "nm0441097",
+      "name": "Anthony Katagas"
+    },
+    {
+      "id": "nm11278536",
+      "name": "John Paul Lopez-Ali"
+    },
+    {
+      "id": "nm0691121",
+      "name": "Georgina Pope"
+    },
+    {
+      "id": "nm1622302",
+      "name": "Susan Ricketts"
+    },
+    {
+      "id": "nm3631345",
+      "name": "Sara Rossein"
+    },
+    {
+      "id": "nm1343394",
+      "name": "Josh Safdie"
+    },
+    {
+      "id": "nm3175263",
+      "name": "Andrea Scarso"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm1644827",
+      "name": "Daniel Lopatin"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0451787",
+      "name": "Darius Khondji"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

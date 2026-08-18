@@ -1,0 +1,168 @@
+{
+  "imdb_id": "tt14536130",
+  "title": "Automated Customer Service",
+  "description": "A home-cleaning unit attempts to murder its owner.",
+  "runtime_minutes": 12,
+  "release_date": "14.05.2021",
+  "genres": [
+    "Animation",
+    "Short",
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Drama",
+    "Fantasy",
+    "Horror",
+    "Mystery",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0511051",
+      "name": "Nancy Linari"
+    },
+    {
+      "id": "nm1827939",
+      "name": "Ben Giroux"
+    },
+    {
+      "id": "nm0443834",
+      "name": "Brian Keane"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm11177195",
+      "name": "Meat Dept"
+    },
+    {
+      "id": "nm0950775",
+      "name": "Jennifer Yuh Nelson"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm3376496",
+      "name": "John Scalzi"
+    },
+    {
+      "id": "nm11177195",
+      "name": "Meat Dept"
+    },
+    {
+      "id": "nm3129506",
+      "name": "Kevin Van Der Meiren"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0511051",
+      "name": "Nancy Linari",
+      "character": "Jeanette"
+    },
+    {
+      "id": "nm1827939",
+      "name": "Ben Giroux",
+      "character": "Automated Customer Service Operator"
+    },
+    {
+      "id": "nm0443834",
+      "name": "Brian Keane",
+      "character": "Bill"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "year": 2021,
+  "type": "tvEpisode",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzZlMTJiOTUtZjg2OC00YmRmLWE4YzktNzk1YWY1YzZhMmQ4XkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 824633,
+  "ratings": {
+    "imdb": {
+      "rating": 6.5,
+      "votes": 14860,
+      "distribution": {
+        "1": 357,
+        "2": 248,
+        "3": 430,
+        "4": 722,
+        "5": 1676,
+        "6": 3739,
+        "7": 4231,
+        "8": 2128,
+        "9": 653,
+        "10": 676
+      }
+    },
+    "filmweb": {
+      "rating": 7.94,
+      "votes": 54233,
+      "distribution": {
+        "1": 98,
+        "2": 90,
+        "3": 250,
+        "4": 388,
+        "5": 1135,
+        "6": 3408,
+        "7": 10946,
+        "8": 20253,
+        "9": 13148,
+        "10": 4517
+      }
+    },
+    "jarek": {
+      "rating": 3,
+      "date_rated": "28.10.2022"
+    }
+  },
+  "polish_title": "Miłość, śmierć i roboty",
+  "silent": false,
+  "description_pl": "\"Miłość, śmierć i roboty\" to seria krótkich animowanych opowieści należących do różnych gatunków - science fiction, fantasy, horroru i komedii. Opowiedziane w śmiały sposób historie ogląda się przyjemnie, a losy ich bohaterów przez długi czas pozostają w pamięci. Historie tworzą pierwszą antologię animowanych opowieści, która dostarczy widzom niezapomnianych i poruszających do głębi wrażeń.",
+  "producers": [
+    {
+      "id": "nm0232433",
+      "name": "Joshua Donen"
+    },
+    {
+      "id": "nm0000399",
+      "name": "David Fincher"
+    },
+    {
+      "id": "nm2126361",
+      "name": "Victoria L. Howard"
+    },
+    {
+      "id": "nm10380524",
+      "name": "Jennifer Miller"
+    },
+    {
+      "id": "nm1783265",
+      "name": "Tim Miller"
+    },
+    {
+      "id": "nm2424543",
+      "name": "David Nicolas"
+    },
+    {
+      "id": "nm1791154",
+      "name": "Simon Thomas"
+    },
+    {
+      "id": "nm3129506",
+      "name": "Kevin Van Der Meiren"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm1052252",
+      "name": "Rob Cairns"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

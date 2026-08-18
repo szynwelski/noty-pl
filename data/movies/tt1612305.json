@@ -1,0 +1,188 @@
+{
+  "imdb_id": "tt1612305",
+  "title": "The Soul of Flies",
+  "description": "A magic realism tale of two brothers who meet for the first time on the way to their father's funeral, who they never knew. A journey where memories are mixed with dreams, and death is just another character.",
+  "runtime_minutes": 78,
+  "release_date": "13.07.2012",
+  "genres": [
+    "Comedy"
+  ],
+  "stars": [
+    {
+      "id": "nm3829345",
+      "name": "Andrea Calabrese"
+    },
+    {
+      "id": "nm3162105",
+      "name": "Jonathan Cenzual Burley"
+    },
+    {
+      "id": "nm5076962",
+      "name": "Feliz Cenzual"
+    },
+    {
+      "id": "nm5077053",
+      "name": "Luis Cenzual"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm3162105",
+      "name": "Jonathan Cenzual Burley"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm3162105",
+      "name": "Jonathan Cenzual Burley"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm3829345",
+      "name": "Andrea Calabrese",
+      "character": "Nero"
+    },
+    {
+      "id": "nm3162105",
+      "name": "Jonathan Cenzual Burley",
+      "character": "Thief, Narrator"
+    },
+    {
+      "id": "nm5076962",
+      "name": "Feliz Cenzual",
+      "character": "Evaristo de la Sierra"
+    },
+    {
+      "id": "nm5077053",
+      "name": "Luis Cenzual",
+      "character": "Man in the red car"
+    },
+    {
+      "id": "nm5075965",
+      "name": "Innocenzo di Lisi",
+      "character": "Priest, Thief"
+    },
+    {
+      "id": "nm5076668",
+      "name": "Antonio El Alcalde",
+      "character": "Waiter"
+    },
+    {
+      "id": "nm5077100",
+      "name": "Norberto Gutiérrez",
+      "character": "Frederico, Thief"
+    },
+    {
+      "id": "nm5077138",
+      "name": "Eduardo Hernández",
+      "character": "Ignacio, Thief"
+    },
+    {
+      "id": "nm5076872",
+      "name": "Francisca Lucas",
+      "character": "Mrs. Angustias"
+    },
+    {
+      "id": "nm5075937",
+      "name": "Miriam Montero",
+      "character": "Sofía"
+    },
+    {
+      "id": "nm2897545",
+      "name": "Diana Pintado",
+      "character": "Girl of the Sunflowers"
+    },
+    {
+      "id": "nm2277614",
+      "name": "Javier Sáez",
+      "character": "Miguel"
+    }
+  ],
+  "countries": [
+    "Spain"
+  ],
+  "languages": [
+    "Spanish"
+  ],
+  "color": "Color",
+  "year": 2011,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNjY2NzAwMTM5MF5BMl5BanBnXkFtZTgwMTQ1NDA2MDE@._V1_.jpg",
+  "filmweb_id": 585604,
+  "original_title": "El alma de las moscas",
+  "ratings": {
+    "imdb": {
+      "rating": 6.6,
+      "votes": 105,
+      "distribution": {
+        "1": 8,
+        "2": 4,
+        "3": 2,
+        "4": 10,
+        "5": 12,
+        "6": 19,
+        "7": 11,
+        "8": 14,
+        "9": 5,
+        "10": 20
+      },
+      "normalized": 5.2476
+    },
+    "filmweb": {
+      "rating": 7.0,
+      "votes": 55,
+      "distribution": {
+        "2": 1,
+        "3": 4,
+        "4": 2,
+        "5": 3,
+        "6": 5,
+        "7": 16,
+        "8": 14,
+        "9": 6,
+        "10": 4
+      },
+      "normalized": 5.2785
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "18.02.2013",
+      "normalized": 5.6855
+    },
+    "score": 5.4039
+  },
+  "polish_title": "Dusze much",
+  "silent": false,
+  "description_pl": "Bracia Nero i Miguel nie wiedzą o swoim istnieniu. Nie znali nawet własnego ojca do chwili, kiedy napisał do nich list - zaproszenie na własny pogrzeb. Bracia spotkają się więc pierwszy raz na stacji kolejowej, aby przekonać się, że od lat nie zatrzymują się na niej żadne pociągi. Zaczynają wędrówkę przez spieczoną słońcem ziemię Mesety Iberyjskiej. W podróży wspomnienia mieszają się z marzeniami, a śmierć jest jednym z bohaterów opowieści. Jednak prawdziwa podróż to zbliżanie się do siebie nawzajem.",
+  "producers": [
+    {
+      "id": "nm5076555",
+      "name": "Jane Burley"
+    },
+    {
+      "id": "nm3162105",
+      "name": "Jonathan Cenzual Burley"
+    },
+    {
+      "id": "nm5077053",
+      "name": "Luis Cenzual"
+    },
+    {
+      "id": "nm5077100",
+      "name": "Norberto Gutiérrez"
+    },
+    {
+      "id": "nm5075937",
+      "name": "Miriam Montero"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm3162105",
+      "name": "Jonathan Cenzual Burley"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

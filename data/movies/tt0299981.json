@@ -1,0 +1,261 @@
+{
+  "imdb_id": "tt0299981",
+  "title": "Highlander: The Source",
+  "description": "Duncan MacLeod and his fellow Immortals quest to locate the Grail of their world.",
+  "runtime_minutes": 86,
+  "release_date": "19.08.2007",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "Fantasy",
+    "Mystery",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm0001600",
+      "name": "Adrian Paul"
+    },
+    {
+      "id": "nm0720671",
+      "name": "Thekla Reuten"
+    },
+    {
+      "id": "nm0813066",
+      "name": "Cristian Solimeno"
+    },
+    {
+      "id": "nm0935057",
+      "name": "Peter Wingfield"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0502577",
+      "name": "Brett Leonard"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm2056987",
+      "name": "Stephen Kelvin Watkins"
+    },
+    {
+      "id": "nm2724771",
+      "name": "Mark Bradley"
+    },
+    {
+      "id": "nm0927074",
+      "name": "Gregory Widen"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0001600",
+      "name": "Adrian Paul",
+      "character": "Duncan MacLeod"
+    },
+    {
+      "id": "nm0720671",
+      "name": "Thekla Reuten",
+      "character": "Anna Teshemka"
+    },
+    {
+      "id": "nm0813066",
+      "name": "Cristian Solimeno",
+      "character": "The Guardian"
+    },
+    {
+      "id": "nm0935057",
+      "name": "Peter Wingfield",
+      "character": "Methos"
+    },
+    {
+      "id": "nm0126325",
+      "name": "Jim Byrnes",
+      "character": "Joe Dawson"
+    },
+    {
+      "id": "nm1697766",
+      "name": "Stephen Rahman Hughes",
+      "character": "Zai Jie"
+    },
+    {
+      "id": "nm1643154",
+      "name": "Stephen Wight",
+      "character": "Reggie Weller"
+    },
+    {
+      "id": "nm1039063",
+      "name": "Thom Fell",
+      "character": "Cardinal Giovanni"
+    },
+    {
+      "id": "nm0619628",
+      "name": "Patrice Naiambana",
+      "character": "The Elder"
+    },
+    {
+      "id": "nm1533300",
+      "name": "Sakalas Uždavinys",
+      "character": "Security Guard"
+    },
+    {
+      "id": "nm2171923",
+      "name": "Laurynas Jurgelis",
+      "character": "Boy in Stadium"
+    },
+    {
+      "id": "nm2056628",
+      "name": "Geoffrey T. Bersey",
+      "character": "Brother Radu"
+    },
+    {
+      "id": "nm2008960",
+      "name": "Antanas Surgailis",
+      "character": "Monk 1"
+    },
+    {
+      "id": "nm2162033",
+      "name": "Leonas Ciunis",
+      "character": "Monk 2"
+    },
+    {
+      "id": "nm1983442",
+      "name": "Rolandas Boravskis",
+      "character": "Jurgis"
+    },
+    {
+      "id": "nm1306581",
+      "name": "Saulis Siparis",
+      "character": "Man in Tyres"
+    },
+    {
+      "id": "nm4181731",
+      "name": "Marina Sorohan",
+      "character": "Screaming Woman"
+    },
+    {
+      "id": "nm1795257",
+      "name": "Mykolas Dorofejus",
+      "character": "Hanging Man"
+    }
+  ],
+  "countries": [
+    "United Kingdom",
+    "Lithuania"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 151702,
+  "year": 2007,
+  "type": "tvMovie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTk1OTE1Mzc4Ml5BMl5BanBnXkFtZTcwMDMyNDYwNQ@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 3,
+      "votes": 10420,
+      "distribution": {
+        "1": 2867,
+        "2": 1724,
+        "3": 1796,
+        "4": 1244,
+        "5": 905,
+        "6": 535,
+        "7": 355,
+        "8": 210,
+        "9": 128,
+        "10": 656
+      },
+      "normalized": 1.1834
+    },
+    "filmweb": {
+      "rating": 3.38,
+      "votes": 2766,
+      "distribution": {
+        "1": 675,
+        "2": 452,
+        "3": 568,
+        "4": 392,
+        "5": 245,
+        "6": 153,
+        "7": 107,
+        "8": 53,
+        "9": 23,
+        "10": 98
+      },
+      "normalized": 1.027
+    },
+    "jarek": {
+      "rating": 1,
+      "date_rated": "11.08.2010",
+      "normalized": 2.5327
+    },
+    "score": 1.581
+  },
+  "polish_title": "Nieśmiertelny: Źródło",
+  "silent": false,
+  "description_pl": "Świat pogrąża się w chaosie, płoną miasta, a ludzie walczą ze sobą. Rozgoryczony i osamotniony Duncan MacLeod pogrąża się we wspomnieniach szczęśliwych czasów, kiedy była przy nim jego ukochana kobieta. Aby wypełnić czymś pustkę przyłącza się do grupy Nieśmiertelnych, w której skład wchodzą między innymi tajemniczy Methos oraz śmiertelnik Joe Dawson. Razem wyruszają na poszukiwania źródła ich nieśmiertelności oraz miejsca narodzin pierwszego Nieśmiertelnego.",
+  "producers": [
+    {
+      "id": "nm0159632",
+      "name": "Chris Chrisafis"
+    },
+    {
+      "id": "nm0172335",
+      "name": "Guy Collins"
+    },
+    {
+      "id": "nm0205287",
+      "name": "Peter S. Davis"
+    },
+    {
+      "id": "nm2289791",
+      "name": "Zivile Gallego"
+    },
+    {
+      "id": "nm0659949",
+      "name": "William N. Panzer"
+    },
+    {
+      "id": "nm0001600",
+      "name": "Adrian Paul"
+    },
+    {
+      "id": "nm0705205",
+      "name": "B.J. Rack"
+    },
+    {
+      "id": "nm0752729",
+      "name": "Michael Ryan"
+    },
+    {
+      "id": "nm2070578",
+      "name": "Ramunas Skikas"
+    },
+    {
+      "id": "nm0903119",
+      "name": "Christian von Tippelskirch"
+    },
+    {
+      "id": "nm1996693",
+      "name": "Donatas Zvalionis"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm1988202",
+      "name": "George Kallis"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0036634",
+      "name": "Steve Arnold"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

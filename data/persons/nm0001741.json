@@ -1,0 +1,101 @@
+{
+  "id": "nm0001741",
+  "name": "Bryan Singer",
+  "filmography": [
+    {
+      "imdb_id": "tt0114814",
+      "title": "The Usual Suspects",
+      "year": 1995,
+      "roles": [
+        "director",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0120903",
+      "title": "X-Men",
+      "year": 2000,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0290334",
+      "title": "X2: X-Men United",
+      "year": 2003,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0412142",
+      "title": "House",
+      "year": 2004,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0348150",
+      "title": "Superman Returns",
+      "year": 2006,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt1270798",
+      "title": "X-Men: First Class",
+      "year": 2011,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt1877832",
+      "title": "X-Men: Days of Future Past",
+      "year": 2014,
+      "roles": [
+        "director",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt3385516",
+      "title": "X-Men: Apocalypse",
+      "year": 2016,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt1727824",
+      "title": "Bohemian Rhapsody",
+      "year": 2018,
+      "roles": [
+        "director"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTMwMzQ0OTgzNF5BMl5BanBnXkFtZTcwMjExNzAyMg@@._V1_.jpg",
+  "birth_date": "17.09.1965",
+  "birth_location": "New York City, New York, USA",
+  "height": "1.78 m",
+  "filmweb_id": 12356,
+  "name_pl": "Bryan Singer",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 12356
+}

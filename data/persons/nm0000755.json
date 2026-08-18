@@ -1,0 +1,47 @@
+{
+  "id": "nm0000755",
+  "name": "Lindsay Anderson",
+  "filmography": [
+    {
+      "imdb_id": "tt0063850",
+      "title": "If....",
+      "year": 1968,
+      "roles": [
+        "director",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0070464",
+      "title": "O Lucky Man!",
+      "year": 1973,
+      "roles": [
+        "director",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0082158",
+      "title": "Chariots of Fire",
+      "year": 1981,
+      "roles": [
+        "cast"
+      ],
+      "character": "Master of Caius"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjEzOTc3MTg2N15BMl5BanBnXkFtZTcwNDEyOTY5Nw@@._V1_.jpg",
+  "birth_date": "17.04.1923",
+  "death_date": "30.08.1994",
+  "birth_location": "Bangalore, Kingdom of Mysore, British India",
+  "height": "1.63 m",
+  "filmweb_id": 40802,
+  "name_pl": "Lindsay Anderson",
+  "birth_location_pl": "Bangalore",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "nm0804741",
+  "name": "Jan Skotnicki",
+  "filmography": [
+    {
+      "imdb_id": "tt0070217",
+      "title": "The Illumination",
+      "year": 1973,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Chory the Mathematician"
+    },
+    {
+      "imdb_id": "tt0074220",
+      "title": "The Scar",
+      "year": 1976,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Stanislaw Lech"
+    }
+  ],
+  "birth_date": "20.03.1933",
+  "death_date": "05.08.2013",
+  "birth_location": "Lódz, Lódzkie, Poland",
+  "imdb_scraped": true,
+  "filmweb_id": 8684,
+  "name_pl": "Jan Skotnicki",
+  "birth_location_pl": "Łódź",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Polska"
+  ],
+  "wikidata_fw_id": 8684
+}

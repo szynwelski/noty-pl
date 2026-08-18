@@ -1,0 +1,147 @@
+{
+  "imdb_id": "tt14536118",
+  "title": "The Tall Grass",
+  "description": "When a train makes an unscheduled stop in the middle of nowhere, a lone traveler is lured into the surrounding fields by ethereal lights. But his curiosity may prove deadly when he discovers the hellish source of the illumination.",
+  "runtime_minutes": 11,
+  "release_date": "14.05.2021",
+  "genres": [
+    "Animation",
+    "Short",
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Drama",
+    "Fantasy",
+    "Horror",
+    "Mystery",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm1478079",
+      "name": "Joe Dempsie"
+    },
+    {
+      "id": "nm0655218",
+      "name": "Steven Pacey"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm2259362",
+      "name": "Simon Otto"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0487067",
+      "name": "Joe R. Lansdale"
+    },
+    {
+      "id": "nm3664884",
+      "name": "Philip Gelatt"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1478079",
+      "name": "Joe Dempsie",
+      "character": "Laird"
+    },
+    {
+      "id": "nm0655218",
+      "name": "Steven Pacey",
+      "character": "Railman"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "year": 2021,
+  "type": "tvEpisode",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMWVmY2UyNTItMzhhZS00M2Y1LTkyNjQtM2QwZDM1ZjJjZDYxXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 824633,
+  "ratings": {
+    "imdb": {
+      "rating": 7,
+      "votes": 13332,
+      "distribution": {
+        "1": 135,
+        "2": 99,
+        "3": 147,
+        "4": 306,
+        "5": 887,
+        "6": 2343,
+        "7": 4666,
+        "8": 2884,
+        "9": 1011,
+        "10": 854
+      }
+    },
+    "filmweb": {
+      "rating": 7.94,
+      "votes": 54233,
+      "distribution": {
+        "1": 98,
+        "2": 90,
+        "3": 250,
+        "4": 388,
+        "5": 1135,
+        "6": 3408,
+        "7": 10946,
+        "8": 20253,
+        "9": 13148,
+        "10": 4517
+      }
+    },
+    "jarek": {
+      "rating": 3,
+      "date_rated": "31.10.2022"
+    }
+  },
+  "polish_title": "Miłość, śmierć i roboty",
+  "silent": false,
+  "description_pl": "\"Miłość, śmierć i roboty\" to seria krótkich animowanych opowieści należących do różnych gatunków - science fiction, fantasy, horroru i komedii. Opowiedziane w śmiały sposób historie ogląda się przyjemnie, a losy ich bohaterów przez długi czas pozostają w pamięci. Historie tworzą pierwszą antologię animowanych opowieści, która dostarczy widzom niezapomnianych i poruszających do głębi wrażeń.",
+  "producers": [
+    {
+      "id": "nm2230806",
+      "name": "Caleb Bouchard"
+    },
+    {
+      "id": "nm0232433",
+      "name": "Joshua Donen"
+    },
+    {
+      "id": "nm0000399",
+      "name": "David Fincher"
+    },
+    {
+      "id": "nm2126361",
+      "name": "Victoria L. Howard"
+    },
+    {
+      "id": "nm7119111",
+      "name": "Christian Illingworth"
+    },
+    {
+      "id": "nm10380524",
+      "name": "Jennifer Miller"
+    },
+    {
+      "id": "nm1783265",
+      "name": "Tim Miller"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm1776887",
+      "name": "Dan Levy"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "nm1104118",
+  "name": "Kim Ki-duk",
+  "filmography": [
+    {
+      "imdb_id": "tt0374546",
+      "title": "Spring, Summer, Fall, Winter... and Spring",
+      "year": 2003,
+      "roles": [
+        "director",
+        "writer",
+        "star",
+        "cast"
+      ],
+      "character": "Adult Monk"
+    },
+    {
+      "imdb_id": "tt0423866",
+      "title": "3-Iron",
+      "year": 2004,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0456470",
+      "title": "The Bow",
+      "year": 2005,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTcxMDYzOTA1NF5BMl5BanBnXkFtZTcwMDcyMDUyNQ@@._V1_.jpg",
+  "birth_date": "20.12.1960",
+  "death_date": "11.12.2020",
+  "birth_location": "Bonghwa, South Korea",
+  "filmweb_id": 75395,
+  "name_pl": "Ki-duk Kim",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Korea Południowa"
+  ],
+  "wikidata_fw_id": 75395
+}

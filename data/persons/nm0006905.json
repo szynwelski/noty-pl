@@ -1,0 +1,42 @@
+{
+  "id": "nm0006905",
+  "name": "Christoph Müller",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzE4NTk2NWEtNmQyNy00ZmIyLTgxMmItZTY4MGMwMTgyNzdjXkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0426578",
+      "title": "Sophie Scholl: The Final Days",
+      "year": 2005,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt1169272",
+      "title": "Feuerherz",
+      "year": 2008,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt2101473",
+      "title": "The Physician",
+      "year": 2013,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "birth_date": "00.00.1964",
+  "birth_location": "Wuppertal, North Rhine-Westphalia, Germany",
+  "filmweb_id": 278043,
+  "name_pl": "Christoph Müller",
+  "birth_location_pl": "Wuppertal",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Niemcy"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "nm0001541",
+  "name": "Kylie Minogue",
+  "filmography": [
+    {
+      "imdb_id": "tt0203009",
+      "title": "Moulin Rouge!",
+      "year": 2001,
+      "roles": [
+        "cast"
+      ],
+      "character": "The Green Fairy"
+    },
+    {
+      "imdb_id": "tt2126355",
+      "title": "San Andreas",
+      "year": 2015,
+      "roles": [
+        "cast"
+      ],
+      "character": "Susan Riddick"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQwMDIxMTM4M15BMl5BanBnXkFtZTcwMTkzMDU2MQ@@._V1_.jpg",
+  "birth_date": "28.05.1968",
+  "birth_location": "Melbourne, Victoria, Australia",
+  "height": "1.55 m",
+  "imdb_scraped": true,
+  "filmweb_id": 40240,
+  "name_pl": "Kylie Minogue",
+  "birth_location_pl": "Melbourne",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania",
+    "Australia"
+  ],
+  "wikidata_fw_id": 40240
+}

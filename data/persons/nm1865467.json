@@ -1,0 +1,41 @@
+{
+  "id": "nm1865467",
+  "name": "Carolyn Strauss",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BY2U1MDdkNWUtYTNkNS00YjMzLThjZjktNDM2YjIyZTU2ZDZkXkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0944947",
+      "title": "Game of Thrones",
+      "year": 2011,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt7366338",
+      "title": "Chernobyl",
+      "year": 2019,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt3581920",
+      "title": "The Last of Us",
+      "year": 2023,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "birth_date": "13.07.1963",
+  "birth_location": "Scarsdale, New York, USA",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "filmweb_id": 1063886,
+  "name_pl": "Carolyn Strauss",
+  "gender": "F"
+}

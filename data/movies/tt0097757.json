@@ -1,0 +1,202 @@
+{
+  "imdb_id": "tt0097757",
+  "title": "The Little Mermaid",
+  "description": "A mermaid princess makes a Faustian bargain in an attempt to become human and win a prince's love.",
+  "runtime_minutes": 83,
+  "release_date": "17.11.1989",
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Family",
+    "Fantasy",
+    "Musical",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0072533",
+      "name": "Jodi Benson"
+    },
+    {
+      "id": "nm0942787",
+      "name": "Samuel E. Wright"
+    },
+    {
+      "id": "nm0041281",
+      "name": "Rene Auberjonois"
+    },
+    {
+      "id": "nm0055549",
+      "name": "Christopher Daniel Barnes"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0166256",
+      "name": "Ron Clements"
+    },
+    {
+      "id": "nm0615780",
+      "name": "John Musker"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0615780",
+      "name": "John Musker"
+    },
+    {
+      "id": "nm0166256",
+      "name": "Ron Clements"
+    },
+    {
+      "id": "nm0026153",
+      "name": "Hans Christian Andersen"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0072533",
+      "name": "Jodi Benson",
+      "character": "Ariel"
+    },
+    {
+      "id": "nm0942787",
+      "name": "Samuel E. Wright",
+      "character": "Sebastian"
+    },
+    {
+      "id": "nm0041281",
+      "name": "Rene Auberjonois",
+      "character": "Louis"
+    },
+    {
+      "id": "nm0055549",
+      "name": "Christopher Daniel Barnes",
+      "character": "Eric"
+    },
+    {
+      "id": "nm0140946",
+      "name": "Pat Carroll",
+      "character": "Ursula"
+    },
+    {
+      "id": "nm0250252",
+      "name": "Paddi Edwards",
+      "character": "Flotsam"
+    },
+    {
+      "id": "nm0004983",
+      "name": "Buddy Hackett",
+      "character": "Scuttle"
+    },
+    {
+      "id": "nm0547465",
+      "name": "Jason Marin",
+      "character": "Flounder"
+    },
+    {
+      "id": "nm0550318",
+      "name": "Kenneth Mars",
+      "character": "Triton"
+    },
+    {
+      "id": "nm0566052",
+      "name": "Edie McClurg",
+      "character": "Carlotta"
+    },
+    {
+      "id": "nm0752900",
+      "name": "Will Ryan",
+      "character": "Seahorse"
+    },
+    {
+      "id": "nm0942220",
+      "name": "Ben Wright",
+      "character": "Grimsby"
+    },
+    {
+      "id": "nm18319044",
+      "name": "Danny Rehbo",
+      "character": "Glut the Shark"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "color": "Color",
+  "filmweb_id": 104,
+  "year": 1989,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNmJmMTVmNGUtZGZmYS00ZDA2LTlkMzMtY2I5OGI4ZmY1ODVkXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.6,
+      "votes": 314493,
+      "distribution": {
+        "1": 1804,
+        "2": 973,
+        "3": 1925,
+        "4": 4309,
+        "5": 12109,
+        "6": 35789,
+        "7": 84383,
+        "8": 84821,
+        "9": 37788,
+        "10": 50592
+      },
+      "normalized": 6.6552
+    },
+    "filmweb": {
+      "rating": 7.3,
+      "votes": 80792,
+      "distribution": {
+        "1": 614,
+        "2": 477,
+        "3": 979,
+        "4": 1894,
+        "5": 4289,
+        "6": 11220,
+        "7": 24461,
+        "8": 21577,
+        "9": 7818,
+        "10": 7463
+      },
+      "normalized": 6.2505
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "05.04.2011",
+      "normalized": 5.6855
+    },
+    "score": 6.1971
+  },
+  "polish_title": "Mała syrenka",
+  "silent": false,
+  "description_pl": "Niezależna księżniczka Ariel marzy o tym, by odrzucić ogon i stać się częścią świata ludzi. W końcu zawiera pakt z podstępną wiedźmą Urszulą, która wprawdzie przemienia syrenkę w człowieka, ale w zastaw zabiera jej najcenniejszy skarb – przepiękny głos. Ariel będzie potrzebowała dużo odwagi, determinacji oraz pomocy wiernych przyjaciół – Sebastiana i Florka – aby poradzić sobie w nowych okolicznościach i uporządkować sprawy w obu światach.",
+  "producers": [
+    {
+      "id": "nm0039141",
+      "name": "Howard Ashman"
+    },
+    {
+      "id": "nm0232585",
+      "name": "Maureen Donley"
+    },
+    {
+      "id": "nm0615780",
+      "name": "John Musker"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0579678",
+      "name": "Alan Menken"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

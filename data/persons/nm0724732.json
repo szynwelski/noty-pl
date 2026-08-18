@@ -1,0 +1,48 @@
+{
+  "id": "nm0724732",
+  "name": "Ralph Richardson",
+  "filmography": [
+    {
+      "imdb_id": "tt0059113",
+      "title": "Doctor Zhivago",
+      "year": 1965,
+      "roles": [
+        "cast"
+      ],
+      "character": "Alexander"
+    },
+    {
+      "imdb_id": "tt0070464",
+      "title": "O Lucky Man!",
+      "year": 1973,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Sir James Burgess"
+    },
+    {
+      "imdb_id": "tt0075520",
+      "title": "Jesus of Nazareth",
+      "year": 1977,
+      "roles": [
+        "cast"
+      ],
+      "character": "Simeon"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTgwMTc0NjM0NF5BMl5BanBnXkFtZTcwNDQxODYxOA@@._V1_.jpg",
+  "birth_date": "19.12.1902",
+  "death_date": "10.10.1983",
+  "birth_location": "Tivoli Road, Cheltenham, Gloucestershire, England, UK",
+  "height": "1.83 m",
+  "filmweb_id": 40804,
+  "name_pl": "Ralph Richardson",
+  "birth_location_pl": "Cheltenham, Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ]
+}

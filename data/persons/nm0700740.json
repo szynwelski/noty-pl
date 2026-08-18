@@ -1,0 +1,38 @@
+{
+  "id": "nm0700740",
+  "name": "Noel Purcell",
+  "filmography": [
+    {
+      "imdb_id": "tt0049513",
+      "title": "Moby Dick",
+      "year": 1956,
+      "roles": [
+        "cast"
+      ],
+      "character": "Ship's Carpenter"
+    },
+    {
+      "imdb_id": "tt0056264",
+      "title": "Mutiny on the Bounty",
+      "year": 1962,
+      "roles": [
+        "cast"
+      ],
+      "character": "Seaman William McCoy"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDg3NjExNTExN15BMl5BanBnXkFtZTgwMjcwNDE1NTE@._V1_.jpg",
+  "birth_date": "23.12.1900",
+  "death_date": "03.03.1985",
+  "birth_location": "Dublin, Ireland",
+  "height": "1.93 m",
+  "imdb_scraped": true,
+  "filmweb_id": 48829,
+  "name_pl": "Noel Purcell",
+  "birth_location_pl": "Dublin",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Irlandia"
+  ]
+}

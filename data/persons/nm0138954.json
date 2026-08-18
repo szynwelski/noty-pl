@@ -1,0 +1,46 @@
+{
+  "id": "nm0138954",
+  "name": "Charles Carroll",
+  "filmography": [
+    {
+      "imdb_id": "tt0417217",
+      "title": "Two for the Money",
+      "year": 2005,
+      "roles": [
+        "cast"
+      ],
+      "character": "Chuck"
+    },
+    {
+      "imdb_id": "tt1059786",
+      "title": "Eagle Eye",
+      "year": 2008,
+      "roles": [
+        "cast"
+      ],
+      "character": "Mr. Miller"
+    },
+    {
+      "imdb_id": "tt1464540",
+      "title": "I Am Number Four",
+      "year": 2011,
+      "roles": [
+        "cast"
+      ],
+      "character": "Sam's Stepdad"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZTA5NzEzOWEtMWI2Ni00YzM3LTk4MmMtMzQyNWMyZTZjOTYyXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "12.05.1952",
+  "birth_location": "Los Angeles, California, USA",
+  "height": "1.78 m",
+  "filmweb_id": 250177,
+  "name_pl": "Charles Carroll",
+  "birth_location_pl": "Los Angeles, Kalifornia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

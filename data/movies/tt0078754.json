@@ -1,0 +1,226 @@
+{
+  "imdb_id": "tt0078754",
+  "title": "All That Jazz",
+  "description": "Director/choreographer Bob Fosse tells his own life story as he details the sordid career of Joe Gideon, a womanizing, drug-using dancer.",
+  "runtime_minutes": 123,
+  "release_date": "20.12.1979",
+  "genres": [
+    "Drama",
+    "Music",
+    "Musical"
+  ],
+  "stars": [
+    {
+      "id": "nm0001702",
+      "name": "Roy Scheider"
+    },
+    {
+      "id": "nm0001448",
+      "name": "Jessica Lange"
+    },
+    {
+      "id": "nm0718237",
+      "name": "Ann Reinking"
+    },
+    {
+      "id": "nm0658336",
+      "name": "Leland Palmer"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0002080",
+      "name": "Bob Fosse"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0015899",
+      "name": "Robert Alan Aurthur"
+    },
+    {
+      "id": "nm0002080",
+      "name": "Bob Fosse"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0001702",
+      "name": "Roy Scheider",
+      "character": "Joe Gideon"
+    },
+    {
+      "id": "nm0001448",
+      "name": "Jessica Lange",
+      "character": "Angelique"
+    },
+    {
+      "id": "nm0718237",
+      "name": "Ann Reinking",
+      "character": "Kate Jagger"
+    },
+    {
+      "id": "nm0658336",
+      "name": "Leland Palmer",
+      "character": "Audrey Paris"
+    },
+    {
+      "id": "nm0331054",
+      "name": "Cliff Gorman",
+      "character": "Davis Newman"
+    },
+    {
+      "id": "nm0893965",
+      "name": "Ben Vereen",
+      "character": "O'Connor Flood"
+    },
+    {
+      "id": "nm0284082",
+      "name": "Erzsebet Foldi",
+      "character": "Michelle"
+    },
+    {
+      "id": "nm0865845",
+      "name": "Michael Tolan",
+      "character": "Dr. Ballinger"
+    },
+    {
+      "id": "nm0942642",
+      "name": "Max Wright",
+      "character": "Joshua Penn"
+    },
+    {
+      "id": "nm0501125",
+      "name": "William LeMassena",
+      "character": "Jonesy Hecht"
+    },
+    {
+      "id": "nm0437325",
+      "name": "Irene Kane",
+      "character": "Leslie Perry"
+    },
+    {
+      "id": "nm0311708",
+      "name": "Deborah Geffner",
+      "character": "Victoria"
+    },
+    {
+      "id": "nm0229951",
+      "name": "Kathryn Doby",
+      "character": "Kathryn"
+    },
+    {
+      "id": "nm0390603",
+      "name": "Anthony Holland",
+      "character": "Paul Dann"
+    },
+    {
+      "id": "nm0386966",
+      "name": "Robert Hitt",
+      "character": "Ted Christopher"
+    },
+    {
+      "id": "nm0546868",
+      "name": "David Margulies",
+      "character": "Larry Goldie"
+    },
+    {
+      "id": "nm0112264",
+      "name": "Susan Brooks",
+      "character": "Stacy"
+    },
+    {
+      "id": "nm0330360",
+      "name": "Keith Gordon",
+      "character": "Young Joe"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "color": "Color",
+  "filmweb_id": 1293,
+  "year": 1979,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNmU1ZjBlNWItMjNiYS00OWNlLTk3YjUtN2U1MTI0OTAxOGEwXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.8,
+      "votes": 41053,
+      "distribution": {
+        "1": 490,
+        "2": 251,
+        "3": 395,
+        "4": 750,
+        "5": 1542,
+        "6": 3431,
+        "7": 7314,
+        "8": 11266,
+        "9": 7461,
+        "10": 8153
+      },
+      "normalized": 6.9366
+    },
+    "filmweb": {
+      "rating": 7.79,
+      "votes": 10422,
+      "distribution": {
+        "1": 43,
+        "2": 21,
+        "3": 78,
+        "4": 140,
+        "5": 376,
+        "6": 829,
+        "7": 2287,
+        "8": 3488,
+        "9": 2066,
+        "10": 1094
+      },
+      "normalized": 7.5145
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "12.08.2006",
+      "normalized": 6.3474
+    },
+    "score": 6.9328
+  },
+  "polish_title": "Cały ten zgiełk",
+  "silent": false,
+  "description_pl": "Joe Gideon jest wziętym choreografem i uznanym reżyserem filmowym. Na Brodwayu przygotowuje kolejny spektakl muzyczny, a jednocześnie kończy pracę nad najnowszym filmem o kontrowersyjnym komiku. Joe od lat jest rozwiedziony i nie utrzymuje bliższych kontaktów z żoną, Audrey. Łączy ich jedynie kilkunastoletnia córka Michelle. Intensywny tryb życia i liczne romanse Joe przypłaca pogarszającym się gwałtownie stanem zdrowia. Aby zachować pozory dobrej formy, każdy ranek rozpoczyna od zażycia środków pobudzających, co doprowadza do pogorszenia się jego stanu psychicznego i w końcu ataku serca...",
+  "producers": [
+    {
+      "id": "nm0015899",
+      "name": "Robert Alan Aurthur"
+    },
+    {
+      "id": "nm0322132",
+      "name": "Wolfgang Glattes"
+    },
+    {
+      "id": "nm0578176",
+      "name": "Daniel Melnick"
+    },
+    {
+      "id": "nm0882588",
+      "name": "Kenneth Utt"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0005985",
+      "name": "Ralph Burns"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005850",
+      "name": "Giuseppe Rotunno"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

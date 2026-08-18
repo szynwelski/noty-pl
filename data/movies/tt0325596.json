@@ -1,0 +1,225 @@
+{
+  "imdb_id": "tt0325596",
+  "title": "The I Inside",
+  "description": "An amnesiac discovers himself leaping through time between 2000 and 2002 as his past returns to him.",
+  "runtime_minutes": 90,
+  "release_date": "21.05.2004",
+  "genres": [
+    "Mystery",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000202",
+      "name": "Ryan Phillippe"
+    },
+    {
+      "id": "nm0001631",
+      "name": "Sarah Polley"
+    },
+    {
+      "id": "nm0005305",
+      "name": "Piper Perabo"
+    },
+    {
+      "id": "nm0000494",
+      "name": "Robert Sean Leonard"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0725345",
+      "name": "Roland Suso Richter"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0177769",
+      "name": "Michael Cooney"
+    },
+    {
+      "id": "nm0091579",
+      "name": "Timothy Scott Bogart"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000202",
+      "name": "Ryan Phillippe",
+      "character": "Simon Cable"
+    },
+    {
+      "id": "nm0001631",
+      "name": "Sarah Polley",
+      "character": "Clair"
+    },
+    {
+      "id": "nm0005305",
+      "name": "Piper Perabo",
+      "character": "Anna"
+    },
+    {
+      "id": "nm0000494",
+      "name": "Robert Sean Leonard",
+      "character": "Peter Cable"
+    },
+    {
+      "id": "nm0250718",
+      "name": "Peter Egan",
+      "character": "Doctor Truman"
+    },
+    {
+      "id": "nm0002332",
+      "name": "Stephen Lang",
+      "character": "Mr. Travitt"
+    },
+    {
+      "id": "nm0043931",
+      "name": "Rakie Ayola",
+      "character": "Nurse Clayton"
+    },
+    {
+      "id": "nm0334318",
+      "name": "Stephen Graham",
+      "character": "Travis"
+    },
+    {
+      "id": "nm0001653",
+      "name": "Stephen Rea",
+      "character": "Doctor Newman"
+    },
+    {
+      "id": "nm1524104",
+      "name": "Magdalena Manville",
+      "character": "Female Resident"
+    },
+    {
+      "id": "nm0801043",
+      "name": "Jay Simpson",
+      "character": "Morgue Orderly"
+    },
+    {
+      "id": "nm1328594",
+      "name": "Paul John Borde",
+      "character": "Intruder"
+    },
+    {
+      "id": "nm1735163",
+      "name": "Annabel Mansel Lewis",
+      "character": "5th Floor Nurse"
+    }
+  ],
+  "countries": [
+    "United Kingdom",
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 143805,
+  "year": 2004,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYjdiNzQ0NjYtNTk3My00MmI2LTgyNjMtY2E3OGNlY2U5OTU4XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6,
+      "votes": 11837,
+      "distribution": {
+        "1": 267,
+        "2": 211,
+        "3": 393,
+        "4": 835,
+        "5": 1980,
+        "6": 3150,
+        "7": 2633,
+        "8": 1293,
+        "9": 476,
+        "10": 599
+      },
+      "normalized": 3.6384
+    },
+    "filmweb": {
+      "rating": 6.55,
+      "votes": 4164,
+      "distribution": {
+        "1": 43,
+        "2": 27,
+        "3": 133,
+        "4": 204,
+        "5": 502,
+        "6": 969,
+        "7": 1237,
+        "8": 657,
+        "9": 214,
+        "10": 178
+      },
+      "normalized": 4.491
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "12.05.2006",
+      "normalized": 4.5781
+    },
+    "score": 4.2358
+  },
+  "polish_title": "Moje ja",
+  "silent": false,
+  "description_pl": "Otarłszy się o śmierć Simon budzi się w szpitalu z całkowitą amnezją. Odkrywa jednak, że wypadek zostawił mu pamiątkę w postaci umiejętności wracania w czasie. Dzięki tej zdolności Simon może zmieniać swoją przyszłość, a przede wszystkim &#8211; rozwikłać tajemniczą sprawę morderstwa swego brata.",
+  "producers": [
+    {
+      "id": "nm0050359",
+      "name": "David Ball"
+    },
+    {
+      "id": "nm0169733",
+      "name": "Rudy Cohen"
+    },
+    {
+      "id": "nm0198941",
+      "name": "Mark Damon"
+    },
+    {
+      "id": "nm0343266",
+      "name": "Andreas Grosch"
+    },
+    {
+      "id": "nm1279593",
+      "name": "Stewart Hall"
+    },
+    {
+      "id": "nm1243877",
+      "name": "Sammy Lee"
+    },
+    {
+      "id": "nm0524300",
+      "name": "Victoria Lucas"
+    },
+    {
+      "id": "nm1209077",
+      "name": "Andreas Schmid"
+    },
+    {
+      "id": "nm0918424",
+      "name": "Bob Weinstein"
+    },
+    {
+      "id": "nm0005544",
+      "name": "Harvey Weinstein"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006229",
+      "name": "Nicholas Pike"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0486311",
+      "name": "Martin Langer"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

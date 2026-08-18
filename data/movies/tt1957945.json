@@ -1,0 +1,136 @@
+{
+  "imdb_id": "tt1957945",
+  "title": "La Luna",
+  "description": "A fable of a young boy coming of age in the most peculiar of circumstances. It's the first time his Papa and Grandpa are taking him to work. Will he be able to find his own way?",
+  "runtime_minutes": 7,
+  "release_date": "22.06.2012",
+  "genres": [
+    "Animation",
+    "Short",
+    "Drama",
+    "Family",
+    "Fantasy"
+  ],
+  "stars": [
+    {
+      "id": "nm0297306",
+      "name": "Tony Fucile"
+    },
+    {
+      "id": "nm2760342",
+      "name": "Krista Sheffler"
+    },
+    {
+      "id": "nm5119628",
+      "name": "Phil Sheridan"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm1154836",
+      "name": "Enrico Casarosa"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1154836",
+      "name": "Enrico Casarosa"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0297306",
+      "name": "Tony Fucile",
+      "character": "Papà"
+    },
+    {
+      "id": "nm2760342",
+      "name": "Krista Sheffler",
+      "character": "Bambino"
+    },
+    {
+      "id": "nm5119628",
+      "name": "Phil Sheridan",
+      "character": "Nonno"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Color",
+  "filmweb_id": 628815,
+  "year": 2011,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDQ0MWUzNTYtNzNhYi00NTMxLTlmODQtOWVlNWIzZjk3ZmZhXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.8,
+      "votes": 18114,
+      "distribution": {
+        "1": 112,
+        "2": 48,
+        "3": 77,
+        "4": 159,
+        "5": 468,
+        "6": 1407,
+        "7": 3757,
+        "8": 6374,
+        "9": 3016,
+        "10": 2696
+      },
+      "normalized": 6.9146
+    },
+    "filmweb": {
+      "rating": 7.5,
+      "votes": 12852,
+      "distribution": {
+        "1": 26,
+        "2": 18,
+        "3": 62,
+        "4": 157,
+        "5": 454,
+        "6": 1528,
+        "7": 3674,
+        "8": 4632,
+        "9": 1729,
+        "10": 572
+      },
+      "normalized": 6.6835
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "21.10.2020",
+      "normalized": 6.3474
+    },
+    "score": 6.6485
+  },
+  "polish_title": "La Luna",
+  "silent": false,
+  "description_pl": "Bajkowa animacja opowiada historię dziadka, ojca i syna, którzy wypływają łódką w morze, żeby zrobić porządek na księżycu. Dla mężczyzn ma to być zwykła noc pracy, zaś dla chłopca jest to wejście w dojrzałość. Na znak tego, iż nie jest już dzieckiem, dostaje czapkę. Ma również zapoznać się z zakresem obowiązków i wybrać własny sposób działania.",
+  "producers": [
+    {
+      "id": "nm0005124",
+      "name": "John Lasseter"
+    },
+    {
+      "id": "nm0716816",
+      "name": "Kevin Reher"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0315974",
+      "name": "Michael Giacchino"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm1353236",
+      "name": "Brian Boyd"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

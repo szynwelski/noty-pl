@@ -1,0 +1,50 @@
+{
+  "id": "nm0000859",
+  "name": "Lionel Barrymore",
+  "filmography": [
+    {
+      "imdb_id": "tt0022958",
+      "title": "Grand Hotel",
+      "year": 1932,
+      "roles": [
+        "cast"
+      ],
+      "character": "Otto Kringelein"
+    },
+    {
+      "imdb_id": "tt0038650",
+      "title": "It's a Wonderful Life",
+      "year": 1946,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Mr. Potter"
+    },
+    {
+      "imdb_id": "tt0040506",
+      "title": "Key Largo",
+      "year": 1948,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "James Temple"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzg0NmNlZGItYjQ0ZC00YjEyLThiZGQtNTFhM2MyMmMwODE1XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "28.04.1878",
+  "death_date": "15.11.1954",
+  "birth_location": "Philadelphia, Pennsylvania, USA",
+  "height": "1.83 m",
+  "filmweb_id": 46736,
+  "name_pl": "Lionel Barrymore",
+  "birth_location_pl": "Filadelfia, Pensylwania",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 46736
+}

@@ -1,0 +1,71 @@
+{
+  "id": "nm0001024",
+  "name": "Nick Cassavetes",
+  "filmography": [
+    {
+      "imdb_id": "tt0119094",
+      "title": "Face/Off",
+      "year": 1997,
+      "roles": [
+        "cast"
+      ],
+      "character": "Dietrich Hassler"
+    },
+    {
+      "imdb_id": "tt0221027",
+      "title": "Blow",
+      "year": 2001,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0251160",
+      "title": "John Q",
+      "year": 2002,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0332280",
+      "title": "The Notebook",
+      "year": 2004,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt1078588",
+      "title": "My Sister's Keeper",
+      "year": 2009,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt1411697",
+      "title": "The Hangover Part II",
+      "year": 2011,
+      "roles": [
+        "cast"
+      ],
+      "character": "Tattoo Joe"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTcxNjA2MjI3Nl5BMl5BanBnXkFtZTYwMjkyNjMz._V1_.jpg",
+  "birth_date": "21.05.1959",
+  "birth_location": "New York City, New York, USA",
+  "height": "1.98 m",
+  "filmweb_id": 7779,
+  "name_pl": "Nick Cassavetes",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 7779
+}

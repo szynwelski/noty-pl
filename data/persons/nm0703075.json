@@ -1,0 +1,30 @@
+{
+  "id": "nm0703075",
+  "name": "Queen Victoria",
+  "filmography": [
+    {
+      "imdb_id": "tt2467098",
+      "title": "Queen Victoria's Visit to Dublin",
+      "year": 1900,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Self"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzg3MzFkOTYtMDEzZC00ZTUzLWIzZWQtZWNmMjU5MDI1ZDQ4XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "24.05.1819",
+  "death_date": "22.01.1901",
+  "birth_location": "Kensington Palace, Kensington, London, England, UK",
+  "height": "1.52 m",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii"
+  ],
+  "filmweb_id": 410805,
+  "name_pl": "Królowa Wiktoria",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "F"
+}

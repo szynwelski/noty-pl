@@ -1,0 +1,40 @@
+{
+  "id": "nm0001260",
+  "name": "John Gavin",
+  "filmography": [
+    {
+      "imdb_id": "tt0054215",
+      "title": "Psycho",
+      "year": 1960,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Sam Loomis"
+    },
+    {
+      "imdb_id": "tt0054331",
+      "title": "Spartacus",
+      "year": 1960,
+      "roles": [
+        "cast"
+      ],
+      "character": "Julius Caesar"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BN2RmNTU2ZjUtYjBmMi00MDU1LTkwNzctODQ2NmYwZTgyNTc1XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "08.04.1931",
+  "death_date": "09.02.2018",
+  "birth_location": "Los Angeles, California, USA",
+  "height": "1.92 m",
+  "imdb_scraped": true,
+  "filmweb_id": 9508,
+  "name_pl": "John Gavin",
+  "birth_location_pl": "Los Angeles, Kalifornia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 9508
+}

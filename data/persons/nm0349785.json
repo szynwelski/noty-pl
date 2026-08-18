@@ -1,0 +1,40 @@
+{
+  "id": "nm0349785",
+  "name": "Alice Guy",
+  "filmography": [
+    {
+      "imdb_id": "tt0223341",
+      "title": "La fée aux choux",
+      "year": 1896,
+      "roles": [
+        "director",
+        "writer",
+        "star",
+        "cast",
+        "cinematographer"
+      ]
+    },
+    {
+      "imdb_id": "tt0000144",
+      "title": "Chez le magnétiseur",
+      "year": 1897,
+      "roles": [
+        "director"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYjVkYjgwZjMtOGQxZS00MTM1LTg2M2ItODI1ZTBiYjBiNjA5XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "01.07.1873",
+  "death_date": "24.03.1968",
+  "birth_location": "Saint-Mandé, Seine [now Val-de-Marne], France",
+  "height": "1.57 m",
+  "imdb_scraped": true,
+  "filmweb_id": 115037,
+  "name_pl": "Alice Guy",
+  "birth_location_pl": "Paryż",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja"
+  ]
+}

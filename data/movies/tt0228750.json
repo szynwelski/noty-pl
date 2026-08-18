@@ -1,0 +1,242 @@
+{
+  "imdb_id": "tt0228750",
+  "title": "Proof of Life",
+  "description": "Alice hires a professional negotiator to obtain the release of her engineer husband, who has been kidnapped by anti-government guerrillas in South America.",
+  "runtime_minutes": 135,
+  "release_date": "08.12.2000",
+  "genres": [
+    "Action",
+    "Drama",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000212",
+      "name": "Meg Ryan"
+    },
+    {
+      "id": "nm0000128",
+      "name": "Russell Crowe"
+    },
+    {
+      "id": "nm0001556",
+      "name": "David Morse"
+    },
+    {
+      "id": "nm0715622",
+      "name": "Pamela Reed"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000431",
+      "name": "Taylor Hackford"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0006904",
+      "name": "Tony Gilroy"
+    },
+    {
+      "id": "nm0698295",
+      "name": "William Prochnau"
+    },
+    {
+      "id": "nm0362998",
+      "name": "Thomas Hargrove"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000212",
+      "name": "Meg Ryan",
+      "character": "Alice Bowman"
+    },
+    {
+      "id": "nm0000128",
+      "name": "Russell Crowe",
+      "character": "Terry Thorne"
+    },
+    {
+      "id": "nm0001556",
+      "name": "David Morse",
+      "character": "Peter Bowman"
+    },
+    {
+      "id": "nm0715622",
+      "name": "Pamela Reed",
+      "character": "Janis Goodman"
+    },
+    {
+      "id": "nm0000325",
+      "name": "David Caruso",
+      "character": "Dino"
+    },
+    {
+      "id": "nm0372217",
+      "name": "Anthony Heald",
+      "character": "Ted Fellner"
+    },
+    {
+      "id": "nm0027454",
+      "name": "Stanley Anderson",
+      "character": "Jerry"
+    },
+    {
+      "id": "nm0424167",
+      "name": "Gottfried John",
+      "character": "Eric Kessler"
+    },
+    {
+      "id": "nm0035605",
+      "name": "Alun Armstrong",
+      "character": "Wyatt"
+    },
+    {
+      "id": "nm0457655",
+      "name": "Michael Kitchen",
+      "character": "Ian Havery"
+    },
+    {
+      "id": "nm0553269",
+      "name": "Margo Martindale",
+      "character": "Ivy"
+    },
+    {
+      "id": "nm0845079",
+      "name": "Mario Ernesto Sánchez",
+      "character": "Arturo Fernandez"
+    },
+    {
+      "id": "nm0796267",
+      "name": "Pietro Sibille",
+      "character": "Juaco"
+    },
+    {
+      "id": "nm0380164",
+      "name": "Vicky Hernández",
+      "character": "Maria"
+    },
+    {
+      "id": "nm0555263",
+      "name": "Norma Martínez",
+      "character": "Norma"
+    },
+    {
+      "id": "nm0874197",
+      "name": "Diego Trujillo",
+      "character": "Eliodoro"
+    },
+    {
+      "id": "nm0681678",
+      "name": "Aristóteles Picho",
+      "character": "Sandro"
+    },
+    {
+      "id": "nm0248453",
+      "name": "Sarahi Echeverria",
+      "character": "Cinta"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Russian",
+    "Italian",
+    "French"
+  ],
+  "color": "Color",
+  "filmweb_id": 8911,
+  "year": 2000,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTMyODkwNzM3OV5BMl5BanBnXkFtZTYwMTc5Nzc5._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.3,
+      "votes": 61167,
+      "distribution": {
+        "1": 794,
+        "2": 590,
+        "3": 1211,
+        "4": 2989,
+        "5": 8289,
+        "6": 18815,
+        "7": 17271,
+        "8": 7294,
+        "9": 2026,
+        "10": 1888
+      },
+      "normalized": 4.1463
+    },
+    "filmweb": {
+      "rating": 6.83,
+      "votes": 26932,
+      "distribution": {
+        "1": 27,
+        "2": 51,
+        "3": 232,
+        "4": 597,
+        "5": 2143,
+        "6": 6037,
+        "7": 11008,
+        "8": 5335,
+        "9": 971,
+        "10": 531
+      },
+      "normalized": 5.3111
+    },
+    "jarek": {
+      "rating": 3,
+      "date_rated": "07.10.2010",
+      "normalized": 4.2591
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "20.10.2005",
+      "normalized": 4.5781
+    },
+    "score": 4.5736
+  },
+  "polish_title": "Dowód życia",
+  "silent": false,
+  "description_pl": "Amerykański inżynier budujący tamę w fikcyjnym państwie Tecala został porwany przez lewackich partyzantów. Jego żona z pomocą zawodowego negocjatora prowadzi rokowania w sprawie okupu. Nie wiadomo jednak, czy inżynier zostanie zwolniony i czy będzie miał do kogo wracać. Kruchy pokój między partyzantami a rządem Tecali może w każdej chwili zostać zerwany, co dla uprowadzonego Amerykanina oznaczać będzie pewną śmierć. Także jego życie rodzinne jest zagrożone, bowiem żona i negocjator zdążyli się już bardzo polubić...",
+  "producers": [
+    {
+      "id": "nm0006904",
+      "name": "Tony Gilroy"
+    },
+    {
+      "id": "nm0000431",
+      "name": "Taylor Hackford"
+    },
+    {
+      "id": "nm0612529",
+      "name": "Charles Mulvehill"
+    },
+    {
+      "id": "nm0665177",
+      "name": "Feliks Pastusiak"
+    },
+    {
+      "id": "nm0720715",
+      "name": "Steven Reuther"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0000384",
+      "name": "Danny Elfman"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005744",
+      "name": "Slawomir Idziak"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

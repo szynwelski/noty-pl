@@ -1,0 +1,37 @@
+{
+  "id": "nm0001363",
+  "name": "Jane Horrocks",
+  "filmography": [
+    {
+      "imdb_id": "tt0120630",
+      "title": "Chicken Run",
+      "year": 2000,
+      "roles": [
+        "cast"
+      ],
+      "character": "Babs"
+    },
+    {
+      "imdb_id": "tt0121164",
+      "title": "Corpse Bride",
+      "year": 2005,
+      "roles": [
+        "cast"
+      ],
+      "character": "Black Widow Spider"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTUyMzIxNjI5NV5BMl5BanBnXkFtZTYwMTIyODI0._V1_.jpg",
+  "birth_date": "18.01.1964",
+  "birth_location": "Rossendale Valley, Lancashire, England, UK",
+  "height": "1.57 m",
+  "imdb_scraped": true,
+  "filmweb_id": 7772,
+  "name_pl": "Jane Horrocks",
+  "birth_location_pl": "Rossendale Valley, Anglia",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ]
+}

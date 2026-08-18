@@ -1,0 +1,231 @@
+{
+  "imdb_id": "tt0087843",
+  "title": "Once Upon a Time in America",
+  "description": "A former New York gangster returns after decades in exile, confronting the friendships, dreams, and regrets that shaped his rise from street kid to Prohibition-era mobster.",
+  "runtime_minutes": 229,
+  "release_date": "01.06.1984",
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0000134",
+      "name": "Robert De Niro"
+    },
+    {
+      "id": "nm0000249",
+      "name": "James Woods"
+    },
+    {
+      "id": "nm0001527",
+      "name": "Elizabeth McGovern"
+    },
+    {
+      "id": "nm0001852",
+      "name": "Treat Williams"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001466",
+      "name": "Sergio Leone"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0340580",
+      "name": "Harry Grey"
+    },
+    {
+      "id": "nm0073053",
+      "name": "Leonardo Benvenuti"
+    },
+    {
+      "id": "nm0207401",
+      "name": "Piero De Bernardi"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000134",
+      "name": "Robert De Niro",
+      "character": "Noodles"
+    },
+    {
+      "id": "nm0000249",
+      "name": "James Woods",
+      "character": "Max"
+    },
+    {
+      "id": "nm0001527",
+      "name": "Elizabeth McGovern",
+      "character": "Deborah"
+    },
+    {
+      "id": "nm0001852",
+      "name": "Treat Williams",
+      "character": "Jimmy O'Donnell"
+    },
+    {
+      "id": "nm0001839",
+      "name": "Tuesday Weld",
+      "character": "Carol"
+    },
+    {
+      "id": "nm0949350",
+      "name": "Burt Young",
+      "character": "Joe"
+    },
+    {
+      "id": "nm0000582",
+      "name": "Joe Pesci",
+      "character": "Frankie"
+    },
+    {
+      "id": "nm0000732",
+      "name": "Danny Aiello",
+      "character": "Police Chief Aiello"
+    },
+    {
+      "id": "nm0001235",
+      "name": "William Forsythe",
+      "character": "Cockeye"
+    },
+    {
+      "id": "nm0370747",
+      "name": "James Hayden",
+      "character": "Patsy"
+    },
+    {
+      "id": "nm0283311",
+      "name": "Darlanne Fluegel",
+      "character": "Eve"
+    },
+    {
+      "id": "nm0710858",
+      "name": "Larry Rapp",
+      "character": "Fat Moe"
+    },
+    {
+      "id": "nm0588279",
+      "name": "Dutch Miller",
+      "character": "Van Linden"
+    },
+    {
+      "id": "nm0363948",
+      "name": "Robert Harper",
+      "character": "Sharkey"
+    },
+    {
+      "id": "nm0109175",
+      "name": "Richard Bright",
+      "character": "Chicken Joe"
+    },
+    {
+      "id": "nm0614285",
+      "name": "Gerard Murphy",
+      "character": "Crowning"
+    },
+    {
+      "id": "nm0753087",
+      "name": "Amy Ryder",
+      "character": "Peggy"
+    },
+    {
+      "id": "nm0439466",
+      "name": "Olga Karlatos",
+      "character": "Woman in the Puppet Theatre"
+    }
+  ],
+  "countries": [
+    "Italy",
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Italian",
+    "French",
+    "Yiddish",
+    "Hebrew"
+  ],
+  "color": "Color",
+  "filmweb_id": 1038,
+  "year": 1984,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDQ0ZTg2OGUtZjMyOC00M2M5LThkMmItZmM2MmUzMmIxMWJhXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "C'era una volta in America",
+  "ratings": {
+    "imdb": {
+      "rating": 8.3,
+      "votes": 410933,
+      "distribution": {
+        "1": 4300,
+        "2": 2013,
+        "3": 2602,
+        "4": 4294,
+        "5": 8539,
+        "6": 19455,
+        "7": 54236,
+        "8": 110688,
+        "9": 103710,
+        "10": 101096
+      },
+      "normalized": 8.3791
+    },
+    "filmweb": {
+      "rating": 8.18,
+      "votes": 118437,
+      "distribution": {
+        "1": 931,
+        "2": 221,
+        "3": 607,
+        "4": 1004,
+        "5": 2463,
+        "6": 5944,
+        "7": 18075,
+        "8": 37476,
+        "9": 29752,
+        "10": 21964
+      },
+      "normalized": 9.0384
+    },
+    "jarek": {
+      "rating": 8,
+      "date_rated": "02.12.2005",
+      "normalized": 7.8989
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "19.10.2005",
+      "normalized": 6.3474
+    },
+    "score": 7.9159
+  },
+  "polish_title": "Dawno temu w Ameryce",
+  "silent": false,
+  "description_pl": "Życie wielkiego miasta, kariery wielkich gangsterów, prohibicja i pokątny handel alkoholem. Oto tło dla wielkiego fresku <a href=\"/osoba/?id=nm0001466\">Sergio Leone</a>, filmu \"Dawno temu w Ameryce\". Prawdziwa opowieść o dorastaniu i życiu wśród nowojorskiej mafii, pełna przemocy i brutalności, lecz nie pozbawiona elementów radosnych czy wręcz komicznych. Historia wielkiej przyjaźni, wielkiej miłości i wielkiej zdrady.",
+  "producers": [
+    {
+      "id": "nm0541451",
+      "name": "Claudio Mancini"
+    },
+    {
+      "id": "nm0586969",
+      "name": "Arnon Milchan"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0001553",
+      "name": "Ennio Morricone"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005686",
+      "name": "Tonino Delli Colli"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

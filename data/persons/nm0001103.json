@@ -1,0 +1,38 @@
+{
+  "id": "nm0001103",
+  "name": "Tony Danza",
+  "filmography": [
+    {
+      "imdb_id": "tt0118528",
+      "title": "12 Angry Men",
+      "year": 1997,
+      "roles": [
+        "cast"
+      ],
+      "character": "Juror #7"
+    },
+    {
+      "imdb_id": "tt0375679",
+      "title": "Crash",
+      "year": 2004,
+      "roles": [
+        "cast"
+      ],
+      "character": "Fred"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjE2MzQ2NzIzNV5BMl5BanBnXkFtZTYwNDA0ODY0._V1_.jpg",
+  "birth_date": "21.04.1951",
+  "birth_location": "Brooklyn, New York City, New York, USA",
+  "height": "1.75 m",
+  "imdb_scraped": true,
+  "filmweb_id": 40922,
+  "name_pl": "Tony Danza",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 40922
+}

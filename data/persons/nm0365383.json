@@ -1,0 +1,43 @@
+{
+  "id": "nm0365383",
+  "name": "Thomas Harris",
+  "filmography": [
+    {
+      "imdb_id": "tt0102926",
+      "title": "The Silence of the Lambs",
+      "year": 1991,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0212985",
+      "title": "Hannibal",
+      "year": 2001,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0289765",
+      "title": "Red Dragon",
+      "year": 2002,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOWIxYmJlNTAtNDcxMS00ODFhLTliY2YtNGUwY2ZmM2I0YjVhXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "11.04.1940",
+  "birth_location": "Jackson, Mississippi, USA",
+  "height": "1.78 m",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "filmweb_id": 11249,
+  "name_pl": "Thomas Harris",
+  "birth_location_pl": "Jackson, Missisipi",
+  "gender": "M"
+}

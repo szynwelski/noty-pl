@@ -1,0 +1,35 @@
+{
+  "id": "nm0088645",
+  "name": "Robert Bloch",
+  "filmography": [
+    {
+      "imdb_id": "tt0054215",
+      "title": "Psycho",
+      "year": 1960,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0155975",
+      "title": "Psycho",
+      "year": 1998,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZjIxYzg1ZDktYzlhYy00ZDQ1LTgxNzctMmViMWY0MGY0ZDhkXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "05.04.1917",
+  "death_date": "23.09.1994",
+  "birth_location": "Chicago, Illinois, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 10850,
+  "name_pl": "Robert Bloch",
+  "birth_location_pl": "Chicago, Illinois",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

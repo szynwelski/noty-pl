@@ -1,0 +1,277 @@
+{
+  "imdb_id": "tt0361596",
+  "title": "Fahrenheit 9/11",
+  "description": "Michael Moore's view on what happened to the United States after 9/11 and how the Bush Administration allegedly used the tragic event to push forward its agenda for unjust wars in Afghanistan and Iraq.",
+  "runtime_minutes": 122,
+  "release_date": "25.06.2004",
+  "genres": [
+    "Documentary",
+    "Drama",
+    "War"
+  ],
+  "stars": [
+    {
+      "id": "nm0601619",
+      "name": "Michael Moore"
+    },
+    {
+      "id": "nm0124133",
+      "name": "George W. Bush"
+    },
+    {
+      "id": "nm0000255",
+      "name": "Ben Affleck"
+    },
+    {
+      "id": "nm0005567",
+      "name": "Stevie Wonder"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0601619",
+      "name": "Michael Moore"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0601619",
+      "name": "Michael Moore"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0601619",
+      "name": "Michael Moore",
+      "character": "Self - Narrator"
+    },
+    {
+      "id": "nm0124133",
+      "name": "George W. Bush",
+      "character": "Self"
+    },
+    {
+      "id": "nm0000255",
+      "name": "Ben Affleck",
+      "character": "Self"
+    },
+    {
+      "id": "nm0005567",
+      "name": "Stevie Wonder",
+      "character": "Self"
+    },
+    {
+      "id": "nm0048195",
+      "name": "James A. Baker",
+      "character": "Self"
+    },
+    {
+      "id": "nm1375153",
+      "name": "Richard Gephardt",
+      "character": "Self"
+    },
+    {
+      "id": "nm1527503",
+      "name": "Tom Daschle",
+      "character": "Self"
+    },
+    {
+      "id": "nm1422020",
+      "name": "Jeffrey Toobin",
+      "character": "Self"
+    },
+    {
+      "id": "nm0330722",
+      "name": "Al Gore",
+      "character": "Self"
+    },
+    {
+      "id": "nm1110666",
+      "name": "Condoleezza Rice",
+      "character": "Self"
+    },
+    {
+      "id": "nm1288432",
+      "name": "Donald Rumsfeld",
+      "character": "Self"
+    },
+    {
+      "id": "nm0404010",
+      "name": "Saddam Hussein",
+      "character": "Self"
+    },
+    {
+      "id": "nm0124132",
+      "name": "George H.W. Bush",
+      "character": "Self"
+    },
+    {
+      "id": "nm0005193",
+      "name": "Ricky Martin",
+      "character": "Self"
+    },
+    {
+      "id": "nm1658809",
+      "name": "Byron Dorgan",
+      "character": "Self"
+    },
+    {
+      "id": "nm1136915",
+      "name": "Osama bin Laden",
+      "character": "Self"
+    },
+    {
+      "id": "nm1665496",
+      "name": "Craig Unger",
+      "character": "Self"
+    },
+    {
+      "id": "nm0005092",
+      "name": "Larry King",
+      "character": "Self"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Arabic"
+  ],
+  "color": "Color",
+  "filmweb_id": 115165,
+  "year": 2004,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjAyODU1NzM0NF5BMl5BanBnXkFtZTcwNjI1MjYyMQ@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.5,
+      "votes": 135285,
+      "distribution": {
+        "1": 9578,
+        "2": 1440,
+        "3": 1452,
+        "4": 2034,
+        "5": 4601,
+        "6": 11113,
+        "7": 27792,
+        "8": 33214,
+        "9": 17348,
+        "10": 26713
+      },
+      "normalized": 6.4266
+    },
+    "filmweb": {
+      "rating": 6.42,
+      "votes": 11353,
+      "distribution": {
+        "1": 334,
+        "2": 210,
+        "3": 383,
+        "4": 554,
+        "5": 1220,
+        "6": 2417,
+        "7": 3175,
+        "8": 2013,
+        "9": 619,
+        "10": 428
+      },
+      "normalized": 4.184
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "02.12.2005",
+      "normalized": 4.9718
+    },
+    "michal": {
+      "rating": 1,
+      "date_rated": "19.10.2005",
+      "normalized": 2.2657
+    },
+    "score": 4.462
+  },
+  "polish_title": "Fahrenheit 9.11",
+  "silent": false,
+  "description_pl": "Dokument zdobywcy Oscara, <a href=\"/osoba/?id=nm0601619\">Michaela Moore'a</a>, ukazujący kontrowersyjne fakty i teorie dotyczące relacji pomiędzy rządem Stanów Zjednoczonych a organizacjami terrorystycznymi. Reżyser stara się wyszukiwać wszystko to, o czym media niechętnie wspominają, bądź nie wspominają wcale. Podstawową kwestią jest wyjaśnienie przyczyn agresji skierowanej przeciwko Ameryce, tego jak administracja George'a W. Busha przyczyniła się do wydarzeń z 11 września 2001 roku, a także ukazanie wszelkich układów amerykańskich władz z Osamą bin Ladenem.",
+  "producers": [
+    {
+      "id": "nm0194365",
+      "name": "Jim Czarnecki"
+    },
+    {
+      "id": "nm1384606",
+      "name": "Rita Dagher"
+    },
+    {
+      "id": "nm1179906",
+      "name": "Carl Deal"
+    },
+    {
+      "id": "nm0234000",
+      "name": "Joanne Doroshow"
+    },
+    {
+      "id": "nm0257373",
+      "name": "Kurt Engfehr"
+    },
+    {
+      "id": "nm1345020",
+      "name": "Jeff Gibbs"
+    },
+    {
+      "id": "nm0323359",
+      "name": "Kathleen Glynn"
+    },
+    {
+      "id": "nm0359029",
+      "name": "Monica Hampton"
+    },
+    {
+      "id": "nm1710611",
+      "name": "Nicky Lazar"
+    },
+    {
+      "id": "nm0504357",
+      "name": "Tia Lessin"
+    },
+    {
+      "id": "nm1007602",
+      "name": "Jay Martel"
+    },
+    {
+      "id": "nm1126792",
+      "name": "Agnès Mentre"
+    },
+    {
+      "id": "nm2154696",
+      "name": "Anne Moore"
+    },
+    {
+      "id": "nm0601619",
+      "name": "Michael Moore"
+    },
+    {
+      "id": "nm2288466",
+      "name": "Rachelle Murway"
+    },
+    {
+      "id": "nm1713258",
+      "name": "Meghan O'Hara"
+    },
+    {
+      "id": "nm0918424",
+      "name": "Bob Weinstein"
+    },
+    {
+      "id": "nm0005544",
+      "name": "Harvey Weinstein"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm1345020",
+      "name": "Jeff Gibbs"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

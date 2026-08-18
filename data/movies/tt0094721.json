@@ -1,0 +1,237 @@
+{
+  "imdb_id": "tt0094721",
+  "title": "Beetlejuice",
+  "description": "The spirits of a deceased couple are harassed by an unbearable family that has moved into their home, and hire a malicious spirit to drive them out.",
+  "runtime_minutes": 92,
+  "release_date": "30.03.1988",
+  "genres": [
+    "Comedy",
+    "Fantasy"
+  ],
+  "stars": [
+    {
+      "id": "nm0000285",
+      "name": "Alec Baldwin"
+    },
+    {
+      "id": "nm0000133",
+      "name": "Geena Davis"
+    },
+    {
+      "id": "nm0000474",
+      "name": "Michael Keaton"
+    },
+    {
+      "id": "nm0568499",
+      "name": "Annie McEnroe"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000318",
+      "name": "Tim Burton"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0568313",
+      "name": "Michael McDowell"
+    },
+    {
+      "id": "nm0803730",
+      "name": "Warren Skaaren"
+    },
+    {
+      "id": "nm0933733",
+      "name": "Larry Wilson"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000285",
+      "name": "Alec Baldwin",
+      "character": "Adam"
+    },
+    {
+      "id": "nm0000133",
+      "name": "Geena Davis",
+      "character": "Barbara"
+    },
+    {
+      "id": "nm0000474",
+      "name": "Michael Keaton",
+      "character": "Betelgeuse"
+    },
+    {
+      "id": "nm0568499",
+      "name": "Annie McEnroe",
+      "character": "Jane Butterfield"
+    },
+    {
+      "id": "nm0656276",
+      "name": "Maurice Page",
+      "character": "Ernie"
+    },
+    {
+      "id": "nm0822230",
+      "name": "Hugo Stanger",
+      "character": "Old Bill"
+    },
+    {
+      "id": "nm0594113",
+      "name": "Rachel Mittelman",
+      "character": "Little Jane"
+    },
+    {
+      "id": "nm0001573",
+      "name": "Catherine O'Hara",
+      "character": "Delia"
+    },
+    {
+      "id": "nm0766822",
+      "name": "J. Jay Saunders",
+      "character": "Moving Man #1"
+    },
+    {
+      "id": "nm0262216",
+      "name": "Mark Ettlinger",
+      "character": "Moving Man #2"
+    },
+    {
+      "id": "nm0000470",
+      "name": "Jeffrey Jones",
+      "character": "Charles"
+    },
+    {
+      "id": "nm0000213",
+      "name": "Winona Ryder",
+      "character": "Lydia"
+    },
+    {
+      "id": "nm0787187",
+      "name": "Glenn Shadix",
+      "character": "Otho"
+    },
+    {
+      "id": "nm0131773",
+      "name": "Patrice Martinez",
+      "character": "Receptionist"
+    },
+    {
+      "id": "nm0198425",
+      "name": "Cindy Daly",
+      "character": "3-Fingered Typist"
+    },
+    {
+      "id": "nm0877519",
+      "name": "Douglas Turner",
+      "character": "Char Man"
+    },
+    {
+      "id": "nm0277300",
+      "name": "Carmen Filpi",
+      "character": "Messenger"
+    },
+    {
+      "id": "nm0100679",
+      "name": "Simmy Bow",
+      "character": "Janitor"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 9641,
+  "year": 1988,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYjkwNzVlNDEtMTJlNy00OTdlLTljYWItM2RkZmZkYzY3YjM2XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.4,
+      "votes": 421198,
+      "distribution": {
+        "1": 2442,
+        "2": 1846,
+        "3": 3305,
+        "4": 6583,
+        "5": 17521,
+        "6": 47852,
+        "7": 115394,
+        "8": 122022,
+        "9": 51664,
+        "10": 52569
+      },
+      "normalized": 6.2971
+    },
+    "filmweb": {
+      "rating": 7.21,
+      "votes": 196983,
+      "distribution": {
+        "1": 1496,
+        "2": 1367,
+        "3": 3247,
+        "4": 5246,
+        "5": 11767,
+        "6": 27635,
+        "7": 57319,
+        "8": 54206,
+        "9": 21592,
+        "10": 13108
+      },
+      "normalized": 6.0447
+    },
+    "jarek": {
+      "rating": 1,
+      "date_rated": "02.12.2005",
+      "normalized": 2.5327
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "19.10.2005",
+      "normalized": 6.3474
+    },
+    "score": 5.3055
+  },
+  "polish_title": "Sok z żuka",
+  "silent": false,
+  "description_pl": "Co ma zrobić para sympatycznych, kochających spokój duchów, kiedy ich dom w Nowej Anglii zostaje zajęty przez modnych nowojorczyków? \"Wezwijmy tego Beetlejuice'a\" - decydują. Tak więc kontaktują się z niezależnym pośmiertnym bio-egzorcystą, aby wystraszył rodzinę. I każdy dostaje więcej niż mógłby się spodziewać.",
+  "producers": [
+    {
+      "id": "nm0070498",
+      "name": "Michael Bender"
+    },
+    {
+      "id": "nm0368069",
+      "name": "Richard Hashimoto"
+    },
+    {
+      "id": "nm0676859",
+      "name": "June Petersen"
+    },
+    {
+      "id": "nm0933733",
+      "name": "Larry Wilson"
+    },
+    {
+      "id": "nm0029735",
+      "name": "Eric Angelson"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0000384",
+      "name": "Danny Elfman"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005630",
+      "name": "Thomas E. Ackerman"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

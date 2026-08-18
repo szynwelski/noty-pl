@@ -1,0 +1,55 @@
+{
+  "id": "nm0001415",
+  "name": "Elia Kazan",
+  "filmography": [
+    {
+      "imdb_id": "tt0044081",
+      "title": "A Streetcar Named Desire",
+      "year": 1951,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0047296",
+      "title": "On the Waterfront",
+      "year": 1954,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0048028",
+      "title": "East of Eden",
+      "year": 1955,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0064041",
+      "title": "The Arrangement",
+      "year": 1969,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjI0OTg0NTk0N15BMl5BanBnXkFtZTgwMTQyOTE3MDI@._V1_.jpg",
+  "birth_date": "07.09.1909",
+  "death_date": "28.09.2003",
+  "birth_location": "Istanbul, Ottoman Empire [now Istanbul, Turkey]",
+  "height": "1.73 m",
+  "filmweb_id": 55,
+  "name_pl": "Elia Kazan",
+  "birth_location_pl": "Konstantynopol (obecnie Stambuł)",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Grecja",
+    "Stany Zjednoczone"
+  ]
+}

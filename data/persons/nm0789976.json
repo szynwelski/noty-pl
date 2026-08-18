@@ -1,0 +1,46 @@
+{
+  "id": "nm0789976",
+  "name": "Stan Shaw",
+  "filmography": [
+    {
+      "imdb_id": "tt0075148",
+      "title": "Rocky",
+      "year": 1976,
+      "roles": [
+        "cast"
+      ],
+      "character": "Dipper"
+    },
+    {
+      "imdb_id": "tt0101921",
+      "title": "Fried Green Tomatoes",
+      "year": 1991,
+      "roles": [
+        "cast"
+      ],
+      "character": "Big George"
+    },
+    {
+      "imdb_id": "tt0120832",
+      "title": "Snake Eyes",
+      "year": 1998,
+      "roles": [
+        "cast"
+      ],
+      "character": "Lincoln Tyler"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjA3MjM5NzEwMV5BMl5BanBnXkFtZTcwMjYyMDkwMw@@._V1_.jpg",
+  "birth_date": "14.07.1952",
+  "birth_location": "Chicago, Illinois, USA",
+  "height": "1.85 m",
+  "filmweb_id": 3908,
+  "name_pl": "Stan Shaw",
+  "birth_location_pl": "Chicago, Illinois",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

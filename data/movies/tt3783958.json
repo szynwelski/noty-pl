@@ -1,0 +1,278 @@
+{
+  "imdb_id": "tt3783958",
+  "title": "La La Land",
+  "description": "When Sebastian, a pianist, and Mia, an actress, follow their passion and achieve success in their respective fields, they find themselves torn between their love for each other and their careers.",
+  "runtime_minutes": 128,
+  "release_date": "25.12.2016",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Music",
+    "Musical",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0331516",
+      "name": "Ryan Gosling"
+    },
+    {
+      "id": "nm1297015",
+      "name": "Emma Stone"
+    },
+    {
+      "id": "nm1679669",
+      "name": "Rosemarie DeWitt"
+    },
+    {
+      "id": "nm0799777",
+      "name": "J.K. Simmons"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm3227090",
+      "name": "Damien Chazelle"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm3227090",
+      "name": "Damien Chazelle"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0331516",
+      "name": "Ryan Gosling",
+      "character": "Sebastian"
+    },
+    {
+      "id": "nm1297015",
+      "name": "Emma Stone",
+      "character": "Mia"
+    },
+    {
+      "id": "nm1679669",
+      "name": "Rosemarie DeWitt",
+      "character": "Laura"
+    },
+    {
+      "id": "nm2353430",
+      "name": "Amiee Conn",
+      "character": "Famous Actress"
+    },
+    {
+      "id": "nm0881814",
+      "name": "Terry Walters",
+      "character": "Linda (Coffee Shop Manager)"
+    },
+    {
+      "id": "nm3235876",
+      "name": "Thom Shelton",
+      "character": "Coffee Spiller"
+    },
+    {
+      "id": "nm1197574",
+      "name": "Cinda Adams",
+      "character": "Casting Director (First Audition)"
+    },
+    {
+      "id": "nm5555747",
+      "name": "Callie Hernandez",
+      "character": "Tracy"
+    },
+    {
+      "id": "nm1557329",
+      "name": "Jessica Rothe",
+      "character": "Alexis"
+    },
+    {
+      "id": "nm4420495",
+      "name": "Sonoya Mizuno",
+      "character": "Caitlin"
+    },
+    {
+      "id": "nm0799777",
+      "name": "J.K. Simmons",
+      "character": "Bill"
+    },
+    {
+      "id": "nm0165246",
+      "name": "Claudine Claudio",
+      "character": "Karen (Waitress)"
+    },
+    {
+      "id": "nm0297229",
+      "name": "Jason Fuchs",
+      "character": "Carlo"
+    },
+    {
+      "id": "nm5240923",
+      "name": "D.A. Wallach",
+      "character": "'80s Singer"
+    },
+    {
+      "id": "nm9191380",
+      "name": "Mike Fallin",
+      "character": "Free way Krump Dancer 'Hat Kid'"
+    },
+    {
+      "id": "nm0514179",
+      "name": "Trevor Lissauer",
+      "character": "Valet"
+    },
+    {
+      "id": "nm6283951",
+      "name": "Olivia Hamilton",
+      "character": "Bree (Gluten Free Girl)"
+    },
+    {
+      "id": "nm3754108",
+      "name": "Anna Chazelle",
+      "character": "Sarah (Pilot Casting Assistant)"
+    }
+  ],
+  "countries": [
+    "United States",
+    "Hong Kong"
+  ],
+  "languages": [
+    "English",
+    "Cantonese"
+  ],
+  "color": "Color",
+  "filmweb_id": 718819,
+  "year": 2016,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDllYjliOTUtMDJjZC00ODIzLWJmNGMtOWI2NzQxMjA2NzdlXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8,
+      "votes": 773870,
+      "distribution": {
+        "1": 14335,
+        "2": 6803,
+        "3": 8454,
+        "4": 13127,
+        "5": 26004,
+        "6": 55055,
+        "7": 119511,
+        "8": 192606,
+        "9": 169174,
+        "10": 168801
+      },
+      "normalized": 7.553
+    },
+    "filmweb": {
+      "rating": 7.28,
+      "votes": 220171,
+      "distribution": {
+        "1": 3209,
+        "2": 1929,
+        "3": 5359,
+        "4": 6752,
+        "5": 15308,
+        "6": 26270,
+        "7": 48003,
+        "8": 57391,
+        "9": 36129,
+        "10": 19821
+      },
+      "normalized": 6.2141
+    },
+    "jarek": {
+      "rating": 9,
+      "date_rated": "17.02.2017",
+      "normalized": 8.8973
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "04.03.2017",
+      "normalized": 7.2292
+    },
+    "score": 7.4734
+  },
+  "polish_title": "La La Land",
+  "silent": false,
+  "description_pl": "Mia jest początkującą aktorką, która w oczekiwaniu na szansę pracuje jako kelnerka. Sebastian to muzyk jazzowy, który zamiast nagrywać płyty, gra do kotleta w podrzędnej knajpce. Gdy drogi tych dwojga przetną się, połączy ich wspólne pragnienie, by zacząć wreszcie robić to co kochają. Miłość dodaje im sił, ale gdy kariery zaczynają się wreszcie układać, coraz mniej jest czasu i sił dla siebie nawzajem. Czy uda im się ocalić uczucie, nie rezygnując z marzeń?",
+  "producers": [
+    {
+      "id": "nm1757754",
+      "name": "Fred Berger"
+    },
+    {
+      "id": "nm0079545",
+      "name": "Michael Beugg"
+    },
+    {
+      "id": "nm1344784",
+      "name": "Gary Gilbert"
+    },
+    {
+      "id": "nm0363200",
+      "name": "Jeffrey Harlacker"
+    },
+    {
+      "id": "nm3527897",
+      "name": "Jordan Horowitz"
+    },
+    {
+      "id": "nm1685816",
+      "name": "Mike Jackson"
+    },
+    {
+      "id": "nm1775466",
+      "name": "John Legend"
+    },
+    {
+      "id": "nm7875320",
+      "name": "Qiuyun Long"
+    },
+    {
+      "id": "nm0524745",
+      "name": "Thad Luckinbill"
+    },
+    {
+      "id": "nm2590720",
+      "name": "Trent Luckinbill"
+    },
+    {
+      "id": "nm2290404",
+      "name": "Jasmine McGlade"
+    },
+    {
+      "id": "nm0686887",
+      "name": "Marc Platt"
+    },
+    {
+      "id": "nm7875322",
+      "name": "Bo Shen"
+    },
+    {
+      "id": "nm1053785",
+      "name": "Molly Smith"
+    },
+    {
+      "id": "nm4596776",
+      "name": "Ty Stiklorius"
+    },
+    {
+      "id": "nm8663330",
+      "name": "Shixing Zhou"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm3225654",
+      "name": "Justin Hurwitz"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0761874",
+      "name": "Linus Sandgren"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

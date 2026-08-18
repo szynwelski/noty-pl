@@ -1,0 +1,41 @@
+{
+  "id": "nm0001069",
+  "name": "Bud Cort",
+  "filmography": [
+    {
+      "imdb_id": "tt0067185",
+      "title": "Harold and Maude",
+      "year": 1971,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Harold Chasen"
+    },
+    {
+      "imdb_id": "tt0120655",
+      "title": "Dogma",
+      "year": 1999,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "John Doe Jersey"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOGQ3ZjBkN2MtMjY5ZS00MjViLWEzZmYtOTYxMTIzMjA5YWZkXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "29.03.1948",
+  "death_date": "11.02.2026",
+  "birth_location": "Rye, New York, USA",
+  "height": "1.75 m",
+  "imdb_scraped": true,
+  "filmweb_id": 6662,
+  "name_pl": "Bud Cort",
+  "birth_location_pl": "New Rochelle, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 6662
+}

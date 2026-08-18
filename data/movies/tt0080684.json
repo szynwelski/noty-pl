@@ -1,0 +1,242 @@
+{
+  "imdb_id": "tt0080684",
+  "title": "Star Wars: Episode V - The Empire Strikes Back",
+  "description": "After the Empire overpowers the Rebel Alliance, Luke Skywalker begins training with Jedi Master Yoda, while Darth Vader and bounty hunter Boba Fett pursue his friends across the galaxy.",
+  "runtime_minutes": 124,
+  "release_date": "18.06.1980",
+  "genres": [
+    "Adventure",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm0000434",
+      "name": "Mark Hamill"
+    },
+    {
+      "id": "nm0000148",
+      "name": "Harrison Ford"
+    },
+    {
+      "id": "nm0000402",
+      "name": "Carrie Fisher"
+    },
+    {
+      "id": "nm0001850",
+      "name": "Billy Dee Williams"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0449984",
+      "name": "Irvin Kershner"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0102824",
+      "name": "Leigh Brackett"
+    },
+    {
+      "id": "nm0001410",
+      "name": "Lawrence Kasdan"
+    },
+    {
+      "id": "nm0000184",
+      "name": "George Lucas"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000434",
+      "name": "Mark Hamill",
+      "character": "Luke Skywalker"
+    },
+    {
+      "id": "nm0000148",
+      "name": "Harrison Ford",
+      "character": "Han Solo"
+    },
+    {
+      "id": "nm0000402",
+      "name": "Carrie Fisher",
+      "character": "Princess Leia"
+    },
+    {
+      "id": "nm0001850",
+      "name": "Billy Dee Williams",
+      "character": "Lando Calrissian"
+    },
+    {
+      "id": "nm0000355",
+      "name": "Anthony Daniels",
+      "character": "C-3PO"
+    },
+    {
+      "id": "nm0001190",
+      "name": "David Prowse",
+      "character": "Darth Vader"
+    },
+    {
+      "id": "nm0562679",
+      "name": "Peter Mayhew",
+      "character": "Chewbacca"
+    },
+    {
+      "id": "nm0048652",
+      "name": "Kenny Baker",
+      "character": "R2-D2"
+    },
+    {
+      "id": "nm0000568",
+      "name": "Frank Oz",
+      "character": "Yoda"
+    },
+    {
+      "id": "nm0000027",
+      "name": "Alec Guinness",
+      "character": "Ben (Obi-Wan) Kenobi"
+    },
+    {
+      "id": "nm0120116",
+      "name": "Jeremy Bulloch",
+      "character": "Boba Fett"
+    },
+    {
+      "id": "nm0391197",
+      "name": "John Hollis",
+      "character": "Lobot, Lando's Aide"
+    },
+    {
+      "id": "nm0701023",
+      "name": "Jack Purvis",
+      "character": "Chief Ugnaught"
+    },
+    {
+      "id": "nm0916088",
+      "name": "Des Webb",
+      "character": "Snow Creature"
+    },
+    {
+      "id": "nm0720890",
+      "name": "Clive Revill",
+      "character": "Emperor"
+    },
+    {
+      "id": "nm0171829",
+      "name": "Kenneth Colley",
+      "character": "Admiral Piett"
+    },
+    {
+      "id": "nm0002103",
+      "name": "Julian Glover",
+      "character": "General Veers"
+    },
+    {
+      "id": "nm0790410",
+      "name": "Michael Sheard",
+      "character": "Admiral Ozzel"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 525,
+  "year": 1980,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTkxNGFlNDktZmJkNC00MDdhLTg0MTEtZjZiYWI3MGE5NWIwXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8.7,
+      "votes": 1518319,
+      "distribution": {
+        "1": 18638,
+        "2": 4314,
+        "3": 5390,
+        "4": 8577,
+        "5": 20456,
+        "6": 48499,
+        "7": 148709,
+        "8": 334404,
+        "9": 420326,
+        "10": 509006
+      },
+      "normalized": 9.4093
+    },
+    "filmweb": {
+      "rating": 8.1,
+      "votes": 315266,
+      "distribution": {
+        "1": 2548,
+        "2": 812,
+        "3": 1809,
+        "4": 2901,
+        "5": 6561,
+        "6": 17632,
+        "7": 54951,
+        "8": 101927,
+        "9": 68776,
+        "10": 57349
+      },
+      "normalized": 8.7152
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "02.12.2005",
+      "normalized": 5.6855
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "28.11.2015",
+      "normalized": 6.3474
+    },
+    "score": 7.5393
+  },
+  "polish_title": "Gwiezdne wojny: Część V - Imperium kontratakuje",
+  "silent": false,
+  "description_pl": "Kolejna część Gwiezdnej Sagi opowiada o wydarzeniach toczących się kilka lat po zniszczeniu pierwszej Gwiazdy Śmierci. Luke Skywalker (<a href=\"/osoba/?id=nm0000434\">Mark Hamill</a>) i pozostali Rebelianci uciekają po całej Galaktyce przed zakusami okrutnego Imperium. Bezpieczną ostoję znajdują na lodowej planecie Hoth. Jednak Imperium lokalizuje tę bazę. Rebelianci muszą uciekać. Luke udaje się do układu Dagobah, żeby spotkać się z Mistrzem Jedi, Yodą (<a href=\"/osoba/?id=nm0000568\">Frank Oz</a>) i pobrać od niego nauki. Natomiast Han (<a href=\"/osoba/?id=nm0000148\">Harrison Ford</a>), Leia (<a href=\"/osoba/?id=nm0000402\">Carrie Fisher</a>), Chewie (<a href=\"/osoba/?id=nm0562679\">Peter Mayhew</a>) i roboty uciekają na planetę Bespin, do dawnego przyjaciela Hana - Lando Calrissiana (<a href=\"/osoba/?id=nm0001850\">Billy Dee Williams</a>). Nie wiedzą, że wpadli w podstępnie uknutą przez Imperium pułapkę...",
+  "producers": [
+    {
+      "id": "nm0089179",
+      "name": "Jim Bloom"
+    },
+    {
+      "id": "nm0476030",
+      "name": "Gary Kurtz"
+    },
+    {
+      "id": "nm0000184",
+      "name": "George Lucas"
+    },
+    {
+      "id": "nm0564768",
+      "name": "Rick McCallum"
+    },
+    {
+      "id": "nm0915226",
+      "name": "Robert Watts"
+    },
+    {
+      "id": "nm0443599",
+      "name": "Howard G. Kazanjian"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0002354",
+      "name": "John Williams"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005893",
+      "name": "Peter Suschitzky"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

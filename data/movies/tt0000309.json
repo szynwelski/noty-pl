@@ -1,0 +1,99 @@
+{
+  "imdb_id": "tt0000309",
+  "title": "How It Feels to Be Run Over",
+  "description": "In one glorious point-of-view shot, a vehicle dashes full-speed into an ill-starred passer-by.",
+  "runtime_minutes": 1,
+  "release_date": "1900",
+  "genres": [
+    "Short",
+    "Comedy"
+  ],
+  "stars": [
+    {
+      "id": "nm0164281",
+      "name": "May Clark"
+    },
+    {
+      "id": "nm0378408",
+      "name": "Cecil M. Hepworth"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0378408",
+      "name": "Cecil M. Hepworth"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0164281",
+      "name": "May Clark",
+      "character": "Passenger"
+    },
+    {
+      "id": "nm0378408",
+      "name": "Cecil M. Hepworth",
+      "character": "Driver"
+    }
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "None",
+    "English"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 328945,
+  "year": 1900,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTg0NTc2ZjUtNjM5YS00OWUxLWEwMmUtODU5MjQwYzNhOTNmXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6,
+      "votes": 1111,
+      "distribution": {
+        "1": 29,
+        "2": 19,
+        "3": 43,
+        "4": 67,
+        "5": 195,
+        "6": 363,
+        "7": 192,
+        "8": 101,
+        "9": 31,
+        "10": 71
+      },
+      "normalized": 4.3404
+    },
+    "filmweb": {
+      "rating": 5.61,
+      "votes": 119,
+      "distribution": {
+        "1": 2,
+        "2": 5,
+        "3": 11,
+        "4": 11,
+        "5": 28,
+        "6": 25,
+        "7": 19,
+        "8": 12,
+        "9": 1,
+        "10": 5
+      },
+      "normalized": 4.4583
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "12.12.2016",
+      "normalized": 6.4102
+    },
+    "score": 5.0696
+  },
+  "polish_title": "How It Feels to Be Run Over",
+  "silent": true,
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-15"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "nm0001596",
+  "name": "Pier Paolo Pasolini",
+  "filmography": [
+    {
+      "imdb_id": "tt0061613",
+      "title": "Oedipus Rex",
+      "year": 1967,
+      "roles": [
+        "director",
+        "writer",
+        "cast"
+      ],
+      "character": "High Priest"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjMyOTk0NjU3OF5BMl5BanBnXkFtZTcwNzMwMDgxOA@@._V1_.jpg",
+  "birth_date": "05.03.1922",
+  "death_date": "02.11.1975",
+  "birth_location": "Bologna, Emilia-Romagna, Italy",
+  "height": "1.67 m",
+  "imdb_scraped": true,
+  "filmweb_id": 42858,
+  "name_pl": "Pier Paolo Pasolini",
+  "birth_location_pl": "Bolonia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Włochy",
+    "Zjednoczone Królestwo Włoch"
+  ],
+  "wikidata_fw_id": 42858
+}

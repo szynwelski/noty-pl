@@ -1,0 +1,151 @@
+{
+  "imdb_id": "tt9788506",
+  "title": "Fish Night",
+  "description": "After their car breaks down in the desert, two salesmen take a dreamlike voyage to the dawn of time.",
+  "runtime_minutes": 10,
+  "release_date": "15.03.2019",
+  "genres": [
+    "Animation",
+    "Short",
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Drama",
+    "Fantasy",
+    "Horror",
+    "Mystery",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0861558",
+      "name": "Kirk Thornton"
+    },
+    {
+      "id": "nm0523180",
+      "name": "Yuri Lowenthal"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm4204557",
+      "name": "Damian Nenow"
+    },
+    {
+      "id": "nm1166916",
+      "name": "Gabriele Pennacchioli"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0487067",
+      "name": "Joe R. Lansdale"
+    },
+    {
+      "id": "nm3664884",
+      "name": "Philip Gelatt"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0861558",
+      "name": "Kirk Thornton",
+      "character": "Old Man"
+    },
+    {
+      "id": "nm0523180",
+      "name": "Yuri Lowenthal",
+      "character": "Young Man"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "year": 2019,
+  "type": "tvEpisode",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZTM5MWUwMDAtZGNiNS00NjdlLTkxYmYtYzM1NmE4YjNhOWFjXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 824633,
+  "ratings": {
+    "imdb": {
+      "rating": 6.3,
+      "votes": 18323,
+      "distribution": {
+        "1": 285,
+        "2": 268,
+        "3": 457,
+        "4": 976,
+        "5": 2523,
+        "6": 4882,
+        "7": 4668,
+        "8": 2327,
+        "9": 920,
+        "10": 1017
+      }
+    },
+    "filmweb": {
+      "rating": 7.94,
+      "votes": 54233,
+      "distribution": {
+        "1": 98,
+        "2": 90,
+        "3": 250,
+        "4": 388,
+        "5": 1135,
+        "6": 3408,
+        "7": 10946,
+        "8": 20253,
+        "9": 13148,
+        "10": 4517
+      }
+    },
+    "jarek": {
+      "rating": 3,
+      "date_rated": "28.10.2022"
+    }
+  },
+  "polish_title": "Miłość, śmierć i roboty",
+  "silent": false,
+  "description_pl": "\"Miłość, śmierć i roboty\" to seria krótkich animowanych opowieści należących do różnych gatunków - science fiction, fantasy, horroru i komedii. Opowiedziane w śmiały sposób historie ogląda się przyjemnie, a losy ich bohaterów przez długi czas pozostają w pamięci. Historie tworzą pierwszą antologię animowanych opowieści, która dostarczy widzom niezapomnianych i poruszających do głębi wrażeń.",
+  "producers": [
+    {
+      "id": "nm0232433",
+      "name": "Joshua Donen"
+    },
+    {
+      "id": "nm0000399",
+      "name": "David Fincher"
+    },
+    {
+      "id": "nm2126361",
+      "name": "Victoria L. Howard"
+    },
+    {
+      "id": "nm4465450",
+      "name": "Urszula Luczak"
+    },
+    {
+      "id": "nm10380524",
+      "name": "Jennifer Miller"
+    },
+    {
+      "id": "nm1783265",
+      "name": "Tim Miller"
+    },
+    {
+      "id": "nm2514872",
+      "name": "Artur Zicz"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm7491512",
+      "name": "Pawel Gorniak"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

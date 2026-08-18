@@ -1,0 +1,114 @@
+{
+  "imdb_id": "tt13261762",
+  "title": "HaHefech",
+  "description": "The romance between a Yochai - a yeshiva student and a sick girl, viewed in retrospect 30 years later by Yochai who is now the Rosh-Yeshia",
+  "runtime_minutes": 60,
+  "release_date": "08.01.2015",
+  "genres": [],
+  "stars": [
+    {
+      "id": "nm2464346",
+      "name": "Keren Berger"
+    },
+    {
+      "id": "nm1286723",
+      "name": "Rani Blair"
+    },
+    {
+      "id": "nm0470714",
+      "name": "Alit Kreiz"
+    },
+    {
+      "id": "nm6005286",
+      "name": "Ilan Nov"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm8971343",
+      "name": "Amichai Greenberg"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm8971343",
+      "name": "Amichai Greenberg"
+    },
+    {
+      "id": "nm12327496",
+      "name": "Yehoshua Greenberg"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm2464346",
+      "name": "Keren Berger",
+      "character": "Ayelet"
+    },
+    {
+      "id": "nm1286723",
+      "name": "Rani Blair",
+      "character": "Older Yochai"
+    },
+    {
+      "id": "nm0470714",
+      "name": "Alit Kreiz",
+      "character": "Ayelet's mother"
+    },
+    {
+      "id": "nm6005286",
+      "name": "Ilan Nov",
+      "character": "The Rav"
+    },
+    {
+      "id": "nm0745411",
+      "name": "Itamar Rotschild",
+      "character": "Yochai"
+    },
+    {
+      "id": "nm0787519",
+      "name": "Ohad Shahar",
+      "character": "Ayelet's father"
+    },
+    {
+      "id": "nm1936671",
+      "name": "Nili Tserruya",
+      "character": "Yochai's wife"
+    }
+  ],
+  "countries": [
+    "Israel"
+  ],
+  "languages": [
+    "Hebrew"
+  ],
+  "color": "Color",
+  "year": 2015,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTA2MDg1MWMtMTk3ZC00ODI5LThlNTItZmJhZWVjMTAwMTkxXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": null,
+  "ratings": {
+    "imdb": {
+      "votes": 0,
+      "normalized": 5.5
+    },
+    "jarek": {
+      "rating": 8,
+      "date_rated": "12.10.2020",
+      "normalized": 7.8989
+    },
+    "score": 6.2996,
+    "filmweb": {
+      "normalized": 5.5
+    }
+  },
+  "silent": false,
+  "cinematographers": [
+    {
+      "id": "nm2012534",
+      "name": "Boaz Yehonatan Yaacov"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "nm0001385",
+  "name": "Eric Idle",
+  "filmography": [
+    {
+      "imdb_id": "tt0066765",
+      "title": "Monty Python's and Now for Something Completely Different",
+      "year": 1971,
+      "roles": [
+        "cast"
+      ],
+      "character": "Prosecutor"
+    },
+    {
+      "imdb_id": "tt0071853",
+      "title": "Monty Python and the Holy Grail",
+      "year": 1975,
+      "roles": [
+        "writer",
+        "star",
+        "cast"
+      ],
+      "character": "Dead Collector"
+    },
+    {
+      "imdb_id": "tt0079470",
+      "title": "Monty Python's Life of Brian",
+      "year": 1979,
+      "roles": [
+        "cast"
+      ],
+      "character": "Mr. Cheeky"
+    },
+    {
+      "imdb_id": "tt0085959",
+      "title": "Monty Python's the Meaning of Life",
+      "year": 1983,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Gunther"
+    },
+    {
+      "imdb_id": "tt0112642",
+      "title": "Casper",
+      "year": 1995,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Dibs"
+    },
+    {
+      "imdb_id": "tt0327679",
+      "title": "Ella Enchanted",
+      "year": 2004,
+      "roles": [
+        "cast"
+      ],
+      "character": "Narrator"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzY4NTQwNDA4M15BMl5BanBnXkFtZTYwNTg5Njcz._V1_.jpg",
+  "birth_date": "29.03.1943",
+  "birth_location": "South Shields, Tyne and Wear, England, UK",
+  "height": "1.87 m",
+  "filmweb_id": 8471,
+  "name_pl": "Eric Idle",
+  "birth_location_pl": "South Shields, Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 8471
+}

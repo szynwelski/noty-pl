@@ -1,0 +1,109 @@
+{
+  "imdb_id": "tt0203681",
+  "title": "William McKinley at Canton, Ohio",
+  "description": "\"This view was taken upon Mr. McKinley's lawn at his home in Canton, Ohio. Mr. McKinley appears walking across the lawn in company with his Secretary, who hands him a telegram, which he reads with apparent satisfaction. The characteristic walk and gestures of Mr. McKinley will be noted with interest by his friends.\"",
+  "runtime_minutes": 1,
+  "release_date": "1896",
+  "genres": [
+    "Documentary",
+    "Short"
+  ],
+  "stars": [
+    {
+      "id": "nm0571838",
+      "name": "William McKinley"
+    },
+    {
+      "id": "nm2824776",
+      "name": "George B. Cortelyou"
+    },
+    {
+      "id": "nm0571811",
+      "name": "Ida McKinley"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0005690",
+      "name": "William K.L. Dickson"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0571838",
+      "name": "William McKinley",
+      "character": "Self"
+    },
+    {
+      "id": "nm2824776",
+      "name": "George B. Cortelyou",
+      "character": "Self"
+    },
+    {
+      "id": "nm0571811",
+      "name": "Ida McKinley",
+      "character": "Self - Pres. McKinley's Wife"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 96473,
+  "year": 1896,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYTJjODcxMmItOTFhYS00MjgzLTg1OGItMjI4OGQwOWIyZWMzXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "McKinley at Home, Canton, Ohio",
+  "ratings": {
+    "imdb": {
+      "rating": 4.6,
+      "votes": 615,
+      "distribution": {
+        "1": 44,
+        "2": 47,
+        "3": 56,
+        "4": 107,
+        "5": 185,
+        "6": 99,
+        "7": 35,
+        "8": 15,
+        "9": 7,
+        "10": 20
+      },
+      "normalized": 3.5213
+    },
+    "filmweb": {
+      "rating": 5.18,
+      "votes": 33,
+      "distribution": {
+        "1": 1,
+        "2": 4,
+        "3": 2,
+        "4": 3,
+        "5": 9,
+        "6": 7,
+        "7": 4,
+        "8": 0,
+        "9": 1,
+        "10": 2
+      },
+      "normalized": 4.8075
+    },
+    "jarek": {
+      "rating": 3,
+      "date_rated": "11.12.2016",
+      "normalized": 4.2591
+    },
+    "score": 4.196
+  },
+  "polish_title": "McKinley w domu",
+  "silent": true,
+  "description_pl": "Film dokumentalny o panu McKinley'u, prezydencie Stanów Zjednoczonych w latach 1897-1901. Ukazany jest podczas spaceru po trawniku, koło swojego domu w Canton, w stanie Ohio. Podczas spaceru podchodzi do niego sekretarka, wręcza mu telegram, który czyta z dużą satysfakcją...",
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-16"
+}

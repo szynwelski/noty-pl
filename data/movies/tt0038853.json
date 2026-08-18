@@ -1,0 +1,214 @@
+{
+  "imdb_id": "tt0038853",
+  "title": "Gates of the Night",
+  "description": "It's Paris in the winter after its liberation. A tramp who may also be Destiny predicts that Jean Diego will fall in love with a beautiful girl. That same evening, Jean meets Malou.",
+  "runtime_minutes": 100,
+  "release_date": "15.03.1950",
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "Mystery",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0105482",
+      "name": "Pierre Brasseur"
+    },
+    {
+      "id": "nm0716577",
+      "name": "Serge Reggiani"
+    },
+    {
+      "id": "nm0598971",
+      "name": "Yves Montand"
+    },
+    {
+      "id": "nm0622440",
+      "name": "Nathalie Nattier"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0138893",
+      "name": "Marcel Carné"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0699535",
+      "name": "Jacques Prévert"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0105482",
+      "name": "Pierre Brasseur",
+      "character": "Georges"
+    },
+    {
+      "id": "nm0716577",
+      "name": "Serge Reggiani",
+      "character": "Guy Sénéchal"
+    },
+    {
+      "id": "nm0598971",
+      "name": "Yves Montand",
+      "character": "Jean Diego"
+    },
+    {
+      "id": "nm0622440",
+      "name": "Nathalie Nattier",
+      "character": "Malou"
+    },
+    {
+      "id": "nm0264692",
+      "name": "Saturnin Fabre",
+      "character": "Monsieur Sénéchal"
+    },
+    {
+      "id": "nm0124482",
+      "name": "Raymond Bussières",
+      "character": "Raymond Lécuyer"
+    },
+    {
+      "id": "nm0897385",
+      "name": "Jean Vilar",
+      "character": "Le clochard"
+    },
+    {
+      "id": "nm0060663",
+      "name": "Sylvia Bataille",
+      "character": "Claire Lécuyer"
+    },
+    {
+      "id": "nm0548355",
+      "name": "Jane Marken",
+      "character": "Mme Germaine"
+    },
+    {
+      "id": "nm0732184",
+      "name": "Dany Robin",
+      "character": "Étiennette"
+    },
+    {
+      "id": "nm0284870",
+      "name": "Gabrielle Fontan",
+      "character": "La vieille"
+    },
+    {
+      "id": "nm0800095",
+      "name": "Christian Simon",
+      "character": "Cricri Lécuyer"
+    },
+    {
+      "id": "nm0561577",
+      "name": "Jean Maxime",
+      "character": "L'amoureux d'Étiennette"
+    },
+    {
+      "id": "nm0521045",
+      "name": "Fabien Loris",
+      "character": "Le chanteur des rues"
+    },
+    {
+      "id": "nm0086994",
+      "name": "René Blancard",
+      "character": "Le voisin de palier"
+    },
+    {
+      "id": "nm0077620",
+      "name": "Mady Berry",
+      "character": "Madame Quinquina"
+    },
+    {
+      "id": "nm0136853",
+      "name": "Julien Carette",
+      "character": "Monsieur Quinquina"
+    },
+    {
+      "id": "nm0041270",
+      "name": "Brigitte Auber",
+      "character": "Spectatrice de la noyée"
+    }
+  ],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "French"
+  ],
+  "color": "Black and White",
+  "year": 1946,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzNjNTExYjgtMzM0YS00ZDFkLWExNWMtYzczMzFjODMxZmJkXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 109968,
+  "original_title": "Les portes de la nuit",
+  "ratings": {
+    "imdb": {
+      "rating": 7.1,
+      "votes": 1441,
+      "distribution": {
+        "1": 14,
+        "2": 15,
+        "3": 24,
+        "4": 36,
+        "5": 98,
+        "6": 220,
+        "7": 403,
+        "8": 322,
+        "9": 124,
+        "10": 185
+      },
+      "normalized": 5.6276
+    },
+    "filmweb": {
+      "rating": 6.79,
+      "votes": 82,
+      "distribution": {
+        "2": 1,
+        "3": 0,
+        "4": 1,
+        "5": 10,
+        "6": 21,
+        "7": 28,
+        "8": 14,
+        "9": 3,
+        "10": 4
+      },
+      "normalized": 5.2151
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "20.11.2005",
+      "normalized": 6.3474
+    },
+    "score": 5.73
+  },
+  "polish_title": "Wrota nocy",
+  "silent": false,
+  "description_pl": "Paryż w styczniu 1945. W chłodną zimową noc robotnik Jean przemierza ulice stolicy. Spotyka kloszarda i daje się nakłonić do odwiedzenia posępnej spelunki. W knajpie bierze udział w sprzeczce o kobietę w której wyniku przypadkowa osoba zostaje śmiertelnie raniona. Jak zakończy się nocna eskapada Jeana?",
+  "producers": [
+    {
+      "id": "nm0096182",
+      "name": "Raymond Borderie"
+    },
+    {
+      "id": "nm0491270",
+      "name": "Pierre Laurent"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006158",
+      "name": "Joseph Kosma"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0013221",
+      "name": "Philippe Agostini"
+    }
+  ],
+  "fetched_at": "2026-08-15"
+}

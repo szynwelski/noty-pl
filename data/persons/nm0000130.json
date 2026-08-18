@@ -1,0 +1,59 @@
+{
+  "id": "nm0000130",
+  "name": "Jamie Lee Curtis",
+  "filmography": [
+    {
+      "imdb_id": "tt0095159",
+      "title": "A Fish Called Wanda",
+      "year": 1988,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Wanda"
+    },
+    {
+      "imdb_id": "tt0322330",
+      "title": "Freaky Friday",
+      "year": 2003,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Tess Coleman"
+    },
+    {
+      "imdb_id": "tt8946378",
+      "title": "Knives Out",
+      "year": 2019,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Linda Drysdale"
+    },
+    {
+      "imdb_id": "tt6710474",
+      "title": "Everything Everywhere All at Once",
+      "year": 2022,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Deirdre Beaubeirdre"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjI0MTI0MDk2OV5BMl5BanBnXkFtZTgwODQ4MTE0NDE@._V1_.jpg",
+  "birth_date": "22.11.1958",
+  "birth_location": "Los Angeles, California, USA",
+  "height": "1.70 m",
+  "filmweb_id": 156,
+  "name_pl": "Jamie Lee Curtis",
+  "birth_location_pl": "Los Angeles, Kalifornia",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

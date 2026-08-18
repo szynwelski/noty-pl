@@ -1,0 +1,215 @@
+{
+  "imdb_id": "tt0053270",
+  "title": "Shadows",
+  "description": "Cassavetes' jazz-scored improvisational film explores interracial friendships and relationships in Beat-Era (1950s) New York City.",
+  "runtime_minutes": 87,
+  "release_date": "14.10.1960",
+  "genres": [
+    "Drama",
+    "Music",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0141092",
+      "name": "Ben Carruthers"
+    },
+    {
+      "id": "nm0325959",
+      "name": "Lelia Goldoni"
+    },
+    {
+      "id": "nm0403325",
+      "name": "Hugh Hurd"
+    },
+    {
+      "id": "nm0712743",
+      "name": "Anthony Ray"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001023",
+      "name": "John Cassavetes"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0015899",
+      "name": "Robert Alan Aurthur"
+    },
+    {
+      "id": "nm0001023",
+      "name": "John Cassavetes"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0141092",
+      "name": "Ben Carruthers",
+      "character": "Ben"
+    },
+    {
+      "id": "nm0325959",
+      "name": "Lelia Goldoni",
+      "character": "Lelia"
+    },
+    {
+      "id": "nm0403325",
+      "name": "Hugh Hurd",
+      "character": "Hugh"
+    },
+    {
+      "id": "nm0712743",
+      "name": "Anthony Ray",
+      "character": "Tony"
+    },
+    {
+      "id": "nm0758535",
+      "name": "Dennis Sallas",
+      "character": "Dennis"
+    },
+    {
+      "id": "nm0716074",
+      "name": "Tom Reese",
+      "character": "Tom"
+    },
+    {
+      "id": "nm0688674",
+      "name": "David Pokitillow",
+      "character": "David"
+    },
+    {
+      "id": "nm0189313",
+      "name": "Rupert Crosse",
+      "character": "Rupert"
+    },
+    {
+      "id": "nm1300153",
+      "name": "David Jones",
+      "character": "Davey"
+    },
+    {
+      "id": "nm0547690",
+      "name": "Pir Marini",
+      "character": "Pir the Piano Player"
+    },
+    {
+      "id": "nm0889929",
+      "name": "Victoria Vargas",
+      "character": "Vickie"
+    },
+    {
+      "id": "nm0009978",
+      "name": "Jack Ackerman",
+      "character": "Jack - Director of Dance Studio"
+    },
+    {
+      "id": "nm0906969",
+      "name": "Jacqueline Walcott",
+      "character": "Jacqueline"
+    },
+    {
+      "id": "nm0138693",
+      "name": "Cliff Carnell",
+      "character": ""
+    },
+    {
+      "id": "nm0187172",
+      "name": "Jay Crecco",
+      "character": ""
+    },
+    {
+      "id": "nm0531539",
+      "name": "Ronald Maccone",
+      "character": ""
+    },
+    {
+      "id": "nm0715825",
+      "name": "Bob Reeh",
+      "character": ""
+    },
+    {
+      "id": "nm0587161",
+      "name": "Joyce Miles",
+      "character": "Girl in Restaurant"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 31849,
+  "year": 1958,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZDVjNGFkOWEtM2NiMC00YjZiLWI0ZjAtZjJkMzQ3ZDVkY2RjXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.2,
+      "votes": 13674,
+      "distribution": {
+        "1": 165,
+        "2": 104,
+        "3": 163,
+        "4": 341,
+        "5": 807,
+        "6": 1973,
+        "7": 3820,
+        "8": 3573,
+        "9": 1469,
+        "10": 1259
+      },
+      "normalized": 5.859
+    },
+    "filmweb": {
+      "rating": 6.84,
+      "votes": 1794,
+      "distribution": {
+        "1": 11,
+        "2": 8,
+        "3": 35,
+        "4": 53,
+        "5": 142,
+        "6": 356,
+        "7": 601,
+        "8": 445,
+        "9": 108,
+        "10": 35
+      },
+      "normalized": 5.3143
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "19.02.2006",
+      "normalized": 6.3474
+    },
+    "score": 5.8402
+  },
+  "polish_title": "Cienie",
+  "silent": false,
+  "producers": [
+    {
+      "id": "nm0001025",
+      "name": "Seymour Cassel"
+    },
+    {
+      "id": "nm0568483",
+      "name": "Maurice McEndree"
+    },
+    {
+      "id": "nm0660346",
+      "name": "Nikos Papatakis"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0464234",
+      "name": "Erich Kollmar"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

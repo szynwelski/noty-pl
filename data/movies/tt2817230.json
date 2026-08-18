@@ -1,0 +1,79 @@
+{
+  "imdb_id": "tt2817230",
+  "title": "The Somali Project",
+  "description": "An action-packed film on the secret Western mission to create a private Somali band of pirate hunters",
+  "runtime_minutes": 90,
+  "release_date": "25.10.2013",
+  "genres": [
+    "Documentary",
+    "News"
+  ],
+  "directors": [
+    {
+      "id": "nm3519921",
+      "name": "Adam Ciralsky"
+    },
+    {
+      "id": "nm3073875",
+      "name": "Shawn Efran"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "United States",
+    "Somalia"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "year": 2013,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNjU3NDU4MzQyOV5BMl5BanBnXkFtZTgwMjQ4NzExNzE@._V1_.jpg",
+  "filmweb_id": null,
+  "ratings": {
+    "imdb": {
+      "rating": 7.6,
+      "votes": 31,
+      "distribution": {
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 2,
+        "6": 7,
+        "7": 3,
+        "8": 10,
+        "9": 2,
+        "10": 5
+      },
+      "normalized": 5.3475
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "01.12.2016",
+      "normalized": 5.6855
+    },
+    "score": 5.511,
+    "filmweb": {
+      "normalized": 5.5
+    }
+  },
+  "silent": false,
+  "producers": [
+    {
+      "id": "nm3519921",
+      "name": "Adam Ciralsky"
+    },
+    {
+      "id": "nm3073875",
+      "name": "Shawn Efran"
+    },
+    {
+      "id": "nm5843550",
+      "name": "Rohit Rawat"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

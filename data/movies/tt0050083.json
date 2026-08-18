@@ -1,0 +1,221 @@
+{
+  "imdb_id": "tt0050083",
+  "title": "12 Angry Men",
+  "description": "The jury in a New York City murder trial is frustrated by a single member whose skeptical caution forces them to more carefully consider the evidence before jumping to a hasty verdict.",
+  "runtime_minutes": 96,
+  "release_date": "10.04.1957",
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0000020",
+      "name": "Henry Fonda"
+    },
+    {
+      "id": "nm0002011",
+      "name": "Lee J. Cobb"
+    },
+    {
+      "id": "nm0000842",
+      "name": "Martin Balsam"
+    },
+    {
+      "id": "nm0275835",
+      "name": "John Fiedler"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001486",
+      "name": "Sidney Lumet"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0741627",
+      "name": "Reginald Rose"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000020",
+      "name": "Henry Fonda",
+      "character": "Juror 8"
+    },
+    {
+      "id": "nm0002011",
+      "name": "Lee J. Cobb",
+      "character": "Juror 3"
+    },
+    {
+      "id": "nm0000842",
+      "name": "Martin Balsam",
+      "character": "Juror 1"
+    },
+    {
+      "id": "nm0275835",
+      "name": "John Fiedler",
+      "character": "Juror 2"
+    },
+    {
+      "id": "nm0550855",
+      "name": "E.G. Marshall",
+      "character": "Juror 4"
+    },
+    {
+      "id": "nm0001430",
+      "name": "Jack Klugman",
+      "character": "Juror 5"
+    },
+    {
+      "id": "nm0083081",
+      "name": "Edward Binns",
+      "character": "Juror 6"
+    },
+    {
+      "id": "nm0912001",
+      "name": "Jack Warden",
+      "character": "Juror 7"
+    },
+    {
+      "id": "nm0842137",
+      "name": "Joseph Sweeney",
+      "character": "Juror 9"
+    },
+    {
+      "id": "nm0003225",
+      "name": "Ed Begley",
+      "character": "Juror 10"
+    },
+    {
+      "id": "nm0903667",
+      "name": "George Voskovec",
+      "character": "Juror 11"
+    },
+    {
+      "id": "nm0916434",
+      "name": "Robert Webber",
+      "character": "Juror 12"
+    },
+    {
+      "id": "nm0094036",
+      "name": "Rudy Bond",
+      "character": "Judge"
+    },
+    {
+      "id": "nm0331131",
+      "name": "Tom Gorman",
+      "character": "Stenographer"
+    },
+    {
+      "id": "nm0446450",
+      "name": "James Kelly",
+      "character": "Guard"
+    },
+    {
+      "id": "nm0625180",
+      "name": "Billy Nelson",
+      "character": "Court Clerk"
+    },
+    {
+      "id": "nm0767847",
+      "name": "John Savoca",
+      "character": "The Accused"
+    },
+    {
+      "id": "nm0830818",
+      "name": "Walter Stocker",
+      "character": "Man Waiting for Elevator"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 30701,
+  "year": 1957,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYjE4NzdmOTYtYjc5Yi00YzBiLWEzNDEtNTgxZGQ2MWVkN2NiXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 9,
+      "votes": 997837,
+      "distribution": {
+        "1": 10646,
+        "2": 2013,
+        "3": 2418,
+        "4": 3832,
+        "5": 8524,
+        "6": 20684,
+        "7": 64867,
+        "8": 184263,
+        "9": 322393,
+        "10": 378197
+      },
+      "normalized": 9.889
+    },
+    "filmweb": {
+      "rating": 8.69,
+      "votes": 243641,
+      "distribution": {
+        "1": 775,
+        "2": 182,
+        "3": 388,
+        "4": 629,
+        "5": 1742,
+        "6": 5009,
+        "7": 19169,
+        "8": 63782,
+        "9": 89229,
+        "10": 62736
+      },
+      "normalized": 10.0
+    },
+    "jarek": {
+      "rating": 8,
+      "date_rated": "02.12.2005",
+      "normalized": 7.8989
+    },
+    "michal": {
+      "rating": 9,
+      "date_rated": "19.10.2005",
+      "normalized": 8.9779
+    },
+    "score": 9.1914
+  },
+  "polish_title": "Dwunastu gniewnych ludzi",
+  "silent": false,
+  "description_pl": "Dwunastu przysięgłych w procesie o morderstwo rozpatruje kwestię winy. Wszyscy poza jednym są pewni, że oskarżony zamordował swego ojca. Jednak wyrok musi być jednomyślny. Rozpętuje się gorąca dyskusja, w toku której wątpiący przekonuje innych do swego zdania.",
+  "producers": [
+    {
+      "id": "nm0000020",
+      "name": "Henry Fonda"
+    },
+    {
+      "id": "nm0433183",
+      "name": "George Justin"
+    },
+    {
+      "id": "nm0741627",
+      "name": "Reginald Rose"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006132",
+      "name": "Kenyon Hopkins"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0442100",
+      "name": "Boris Kaufman"
+    }
+  ],
+  "fetched_at": "2026-08-15"
+}

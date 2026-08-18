@@ -1,0 +1,94 @@
+{
+  "id": "nm0000321",
+  "name": "Gabriel Byrne",
+  "filmography": [
+    {
+      "imdb_id": "tt0100150",
+      "title": "Miller's Crossing",
+      "year": 1990,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Tom Reagan"
+    },
+    {
+      "imdb_id": "tt0107207",
+      "title": "In the Name of the Father",
+      "year": 1993,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0112817",
+      "title": "Dead Man",
+      "year": 1995,
+      "roles": [
+        "cast"
+      ],
+      "character": "Charlie Dickinson"
+    },
+    {
+      "imdb_id": "tt0114814",
+      "title": "The Usual Suspects",
+      "year": 1995,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Keaton"
+    },
+    {
+      "imdb_id": "tt0120660",
+      "title": "Enemy of the State",
+      "year": 1998,
+      "roles": [
+        "cast"
+      ],
+      "character": "Brill"
+    },
+    {
+      "imdb_id": "tt0120744",
+      "title": "The Man in the Iron Mask",
+      "year": 1998,
+      "roles": [
+        "cast"
+      ],
+      "character": "D'Artagnan"
+    },
+    {
+      "imdb_id": "tt0146675",
+      "title": "End of Days",
+      "year": 1999,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "The Man"
+    },
+    {
+      "imdb_id": "tt0323939",
+      "title": "Shade",
+      "year": 2003,
+      "roles": [
+        "cast"
+      ],
+      "character": "Miller"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BN2E4NmE3N2EtZDY2MC00ZTc4LWI5ODQtYTYyNTdiZmU4ZjQzXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "12.05.1950",
+  "birth_location": "Dublin, Ireland",
+  "height": "1.80 m",
+  "filmweb_id": 146,
+  "name_pl": "Gabriel Byrne",
+  "birth_location_pl": "Dublin",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Irlandia"
+  ],
+  "wikidata_fw_id": 146
+}

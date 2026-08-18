@@ -1,0 +1,39 @@
+{
+  "id": "nm0001240",
+  "name": "Dennis Franz",
+  "filmography": [
+    {
+      "imdb_id": "tt0099423",
+      "title": "Die Hard 2",
+      "year": 1990,
+      "roles": [
+        "cast"
+      ],
+      "character": "Carmine Lorenzo"
+    },
+    {
+      "imdb_id": "tt0120632",
+      "title": "City of Angels",
+      "year": 1998,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Nathaniel Messinger"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNjMyMDQ2NjA1M15BMl5BanBnXkFtZTYwMDI0ODU1._V1_.jpg",
+  "birth_date": "28.10.1944",
+  "birth_location": "Maywood, Illinois, USA",
+  "height": "1.75 m",
+  "imdb_scraped": true,
+  "filmweb_id": 5647,
+  "name_pl": "Dennis Franz",
+  "birth_location_pl": "Chicago, Illinois",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 5647
+}

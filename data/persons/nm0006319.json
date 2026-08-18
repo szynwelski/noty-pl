@@ -1,0 +1,37 @@
+{
+  "id": "nm0006319",
+  "name": "Mikis Theodorakis",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BM2EwMWNkODUtZGUzNC00NTI0LTlmOGEtOTQzYTM0M2EzZDA2XkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0057831",
+      "title": "Zorba the Greek",
+      "year": 1964,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt0070666",
+      "title": "Serpico",
+      "year": 1973,
+      "roles": [
+        "composer"
+      ]
+    }
+  ],
+  "birth_date": "29.07.1925",
+  "death_date": "02.09.2021",
+  "birth_location": "Chios, Greece",
+  "height": "1.95 m",
+  "imdb_scraped": true,
+  "filmweb_id": 40771,
+  "name_pl": "Mikis Theodorakis",
+  "birth_location_pl": "Chios",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Grecja"
+  ],
+  "wikidata_fw_id": 40771
+}

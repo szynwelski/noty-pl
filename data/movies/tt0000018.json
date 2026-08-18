@@ -1,0 +1,94 @@
+{
+  "imdb_id": "tt0000018",
+  "title": "Das boxende Känguruh",
+  "description": "The third sequence of the \"Wintergartenprogramm (1895)\" by the Skladanowsky Brothers. In it, a man and a kangaroo stand up in front of each other with boxing gloves, and simulate a boxing match on a theatre stage.",
+  "runtime_minutes": 1,
+  "release_date": "01.11.1895",
+  "genres": [
+    "Short",
+    "Sport"
+  ],
+  "stars": [
+    {
+      "id": "nm3692071",
+      "name": "Delaware"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0804434",
+      "name": "Max Skladanowsky"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm3692071",
+      "name": "Delaware",
+      "character": "The Boxer"
+    }
+  ],
+  "countries": [
+    "Germany"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 220407,
+  "year": 1895,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNGI3NzAzNzQtNThhOC00MDIyLTgxY2MtYzBkYmZiZTM2YmYyXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.2,
+      "votes": 722,
+      "distribution": {
+        "1": 37,
+        "2": 32,
+        "3": 49,
+        "4": 83,
+        "5": 208,
+        "6": 165,
+        "7": 72,
+        "8": 35,
+        "9": 10,
+        "10": 31
+      },
+      "normalized": 3.8458
+    },
+    "filmweb": {
+      "rating": 4.67,
+      "votes": 111,
+      "distribution": {
+        "1": 7,
+        "2": 13,
+        "3": 20,
+        "4": 10,
+        "5": 21,
+        "6": 20,
+        "7": 7,
+        "8": 9,
+        "9": 1,
+        "10": 3
+      },
+      "normalized": 4.1162
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "11.12.2016",
+      "normalized": 6.4102
+    },
+    "score": 4.7907
+  },
+  "polish_title": "Das Boxende Känguruh",
+  "silent": true,
+  "description_pl": "Film przedstawia walkę kangura z człowiekiem. Akcja ma miejsce w cyrku Busch.",
+  "cinematographers": [
+    {
+      "id": "nm0804434",
+      "name": "Max Skladanowsky"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-15"
+}

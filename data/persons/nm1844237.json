@@ -1,0 +1,36 @@
+{
+  "id": "nm1844237",
+  "name": "Chris Miller",
+  "filmography": [
+    {
+      "imdb_id": "tt0126029",
+      "title": "Shrek",
+      "year": 2001,
+      "roles": [
+        "cast"
+      ],
+      "character": "Geppetto"
+    },
+    {
+      "imdb_id": "tt1911658",
+      "title": "Penguins of Madagascar",
+      "year": 2014,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Kowalski"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTg4MDQ3MjE3MV5BMl5BanBnXkFtZTcwOTc1MDY0Nw@@._V1_.jpg",
+  "birth_date": "20.01.1968",
+  "birth_location": "Washington D.C. USA",
+  "imdb_scraped": true,
+  "filmweb_id": 1505456,
+  "name_pl": "Chris Miller",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

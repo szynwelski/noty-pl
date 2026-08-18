@@ -1,0 +1,201 @@
+{
+  "imdb_id": "tt8731156",
+  "title": "The Dive",
+  "description": "When a family patriarch dies, three brothers must put aside their differences to carry out their father's last wishes, in Yona Rozenkier's tender yet analytical debut examining what it means to be human.",
+  "runtime_minutes": 90,
+  "release_date": "04.07.2019",
+  "genres": [
+    "Drama",
+    "War"
+  ],
+  "stars": [
+    {
+      "id": "nm9987817",
+      "name": "Claudia Dulitchi"
+    },
+    {
+      "id": "nm0011847",
+      "name": "Shmuel Edelman"
+    },
+    {
+      "id": "nm7152396",
+      "name": "Sun Intusap"
+    },
+    {
+      "id": "nm0549402",
+      "name": "Miki Marmur"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm4452063",
+      "name": "Yona Rozenkier"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm4452063",
+      "name": "Yona Rozenkier"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm9987817",
+      "name": "Claudia Dulitchi",
+      "character": "Franca"
+    },
+    {
+      "id": "nm0011847",
+      "name": "Shmuel Edelman",
+      "character": "Uzi"
+    },
+    {
+      "id": "nm7152396",
+      "name": "Sun Intusap",
+      "character": "Tana"
+    },
+    {
+      "id": "nm0549402",
+      "name": "Miki Marmur",
+      "character": "Hava"
+    },
+    {
+      "id": "nm6687464",
+      "name": "Micha Rozenkier",
+      "character": "Avishai"
+    },
+    {
+      "id": "nm4452491",
+      "name": "Yoel Rozenkier",
+      "character": "Yoev"
+    },
+    {
+      "id": "nm4452063",
+      "name": "Yona Rozenkier",
+      "character": "Itai"
+    },
+    {
+      "id": "nm4452416",
+      "name": "Daniel Sabag",
+      "character": "Dalel Okhayan nicknamed Private"
+    },
+    {
+      "id": "nm5796669",
+      "name": "Elad Tzfani",
+      "character": "Ehud"
+    }
+  ],
+  "countries": [
+    "Israel"
+  ],
+  "languages": [
+    "Hebrew",
+    "Italian"
+  ],
+  "color": "Color",
+  "filmweb_id": 810761,
+  "year": 2018,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNjcxYzMzYmItYWE1OS00Y2M4LWJkOWEtNmE5OWI3MTMyZjMyXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Hatzlila",
+  "ratings": {
+    "imdb": {
+      "rating": 6.5,
+      "votes": 179,
+      "distribution": {
+        "1": 8,
+        "2": 4,
+        "3": 2,
+        "4": 8,
+        "5": 22,
+        "6": 40,
+        "7": 33,
+        "8": 20,
+        "9": 10,
+        "10": 32
+      },
+      "normalized": 5.1731
+    },
+    "filmweb": {
+      "rating": 6.64,
+      "votes": 88,
+      "distribution": {
+        "2": 0,
+        "3": 1,
+        "4": 1,
+        "5": 7,
+        "6": 31,
+        "7": 31,
+        "8": 14,
+        "9": 3,
+        "10": 0
+      },
+      "normalized": 5.0856
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "15.10.2018",
+      "normalized": 6.4102
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "23.10.2018",
+      "normalized": 6.3474
+    },
+    "score": 5.7541
+  },
+  "polish_title": "Zanurzenie",
+  "silent": false,
+  "description_pl": "Trzej bracia spotykają się w rodzinnym kibucu położonym na granicy z Libanem. Spotykają się rzadko, a powód jest poważny. Mają wspólnie pochować ojca. Wojna jest tu stale obecna i starsi bracia rozpoczynają rytualny trening, który zainicjował niegdyś ich ojciec. Ma to przygotować najmłodszego brata, który po raz pierwszy idzie na wojnę. Opuszczony kibuc i jego otoczenie stają się surrealistycznym polem brutalnej zabawy braci. Pod koniec weekendu sytuacja staje się coraz bardziej napięta, aż wreszcie zupełnie wymyka się spod kontroli.",
+  "producers": [
+    {
+      "id": "nm4011976",
+      "name": "Yaron Bloch"
+    },
+    {
+      "id": "nm2759385",
+      "name": "Efrat Cohen"
+    },
+    {
+      "id": "nm0373043",
+      "name": "Reuven Hecker"
+    },
+    {
+      "id": "nm10014049",
+      "name": "Ben Karniel"
+    },
+    {
+      "id": "nm3926374",
+      "name": "Kobi Mizrahi"
+    },
+    {
+      "id": "nm10062614",
+      "name": "Dov Rubinstein"
+    },
+    {
+      "id": "nm4740659",
+      "name": "Dubi Rubinstein"
+    },
+    {
+      "id": "nm1179406",
+      "name": "Dominique Welinski"
+    },
+    {
+      "id": "nm10062613",
+      "name": "Raz Yosef"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0109140",
+      "name": "Israel Bright"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm3887752",
+      "name": "Oded Ashkenazi"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

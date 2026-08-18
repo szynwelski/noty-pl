@@ -1,0 +1,238 @@
+{
+  "imdb_id": "tt0096874",
+  "title": "Back to the Future Part II",
+  "description": "After visiting 2015, Marty McFly must repeat his visit to 1955 to prevent disastrous changes to 1985, without interfering with his first trip.",
+  "runtime_minutes": 108,
+  "release_date": "22.11.1989",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm0000150",
+      "name": "Michael J. Fox"
+    },
+    {
+      "id": "nm0000502",
+      "name": "Christopher Lloyd"
+    },
+    {
+      "id": "nm0000670",
+      "name": "Lea Thompson"
+    },
+    {
+      "id": "nm0001855",
+      "name": "Tom Wilson"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000709",
+      "name": "Robert Zemeckis"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000709",
+      "name": "Robert Zemeckis"
+    },
+    {
+      "id": "nm0301826",
+      "name": "Bob Gale"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000150",
+      "name": "Michael J. Fox",
+      "character": "Marty McFly"
+    },
+    {
+      "id": "nm0000502",
+      "name": "Christopher Lloyd",
+      "character": "Doctor Emmett Brown"
+    },
+    {
+      "id": "nm0000670",
+      "name": "Lea Thompson",
+      "character": "Lorraine"
+    },
+    {
+      "id": "nm0001855",
+      "name": "Tom Wilson",
+      "character": "Biff Tannen"
+    },
+    {
+      "id": "nm0000223",
+      "name": "Elisabeth Shue",
+      "character": "Jennifer"
+    },
+    {
+      "id": "nm0866055",
+      "name": "James Tolkan",
+      "character": "Strickland"
+    },
+    {
+      "id": "nm0919297",
+      "name": "Jeffrey Weissman",
+      "character": "George McFly"
+    },
+    {
+      "id": "nm0797150",
+      "name": "Casey Siemaszko",
+      "character": "3-D"
+    },
+    {
+      "id": "nm0000708",
+      "name": "Billy Zane",
+      "character": "Match"
+    },
+    {
+      "id": "nm0169454",
+      "name": "J.J. Cohen",
+      "character": "Skinhead"
+    },
+    {
+      "id": "nm0281486",
+      "name": "Charles Fleischer",
+      "character": "Terry"
+    },
+    {
+      "id": "nm0262721",
+      "name": "E'Casanova",
+      "character": "'Michael Jackson' Video Waiter"
+    },
+    {
+      "id": "nm0462332",
+      "name": "Jay Koch",
+      "character": "'Ronald Reagan' Video Waiter"
+    },
+    {
+      "id": "nm0315654",
+      "name": "Charles Gherardi",
+      "character": "'Ayatollah Khomeini' Video Waiter"
+    },
+    {
+      "id": "nm0517648",
+      "name": "Ricky Dean Logan",
+      "character": "Data"
+    },
+    {
+      "id": "nm0900877",
+      "name": "Darlene Vogel",
+      "character": "Spike"
+    },
+    {
+      "id": "nm0001462",
+      "name": "Jason Scott Lee",
+      "character": "Whitey"
+    },
+    {
+      "id": "nm0000704",
+      "name": "Elijah Wood",
+      "character": "Video Game Boy"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 8824,
+  "year": 1989,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTNlOTRmOTEtMTAyMi00NjFiLTk3NDMtNWI0YzA3ZTZlYjZiXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.8,
+      "votes": 627197,
+      "distribution": {
+        "1": 1947,
+        "2": 1499,
+        "3": 2547,
+        "4": 5646,
+        "5": 16590,
+        "6": 51343,
+        "7": 145905,
+        "8": 207633,
+        "9": 99940,
+        "10": 94147
+      },
+      "normalized": 7.0792
+    },
+    "filmweb": {
+      "rating": 7.5,
+      "votes": 189098,
+      "distribution": {
+        "1": 609,
+        "2": 523,
+        "3": 1500,
+        "4": 3159,
+        "5": 8197,
+        "6": 23100,
+        "7": 53579,
+        "8": 57511,
+        "9": 24092,
+        "10": 16828
+      },
+      "normalized": 6.7417
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "02.12.2005",
+      "normalized": 4.9718
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "19.10.2005",
+      "normalized": 4.5781
+    },
+    "score": 5.8427
+  },
+  "polish_title": "Powrót do przyszłości II",
+  "silent": false,
+  "description_pl": "Druga część opowieści o lekko zwariowanym doktorze i jego wehikule czasu. Tym razem doktor Emmet Brown (<a href=\"/osoba/?id=nm0000502\">Christopher Lloyd</a>) i jego przyjaciel Marty (<a href=\"/osoba/?id=nm0000150\">Michael J. Fox</a>) wybierają się w przyszłość, by zapobiec \"zniszczeniu\" przyszłej rodziny Marty'ego. Seria niezwykłych przypadków sprawia, że zmienia się przeszłość (więc także i przyszłość) którą znali. Partnerzy postanawiają naprawić to co zrobili, co wcale nie jest takie proste.",
+  "producers": [
+    {
+      "id": "nm0134635",
+      "name": "Neil Canton"
+    },
+    {
+      "id": "nm0301826",
+      "name": "Bob Gale"
+    },
+    {
+      "id": "nm0005086",
+      "name": "Kathleen Kennedy"
+    },
+    {
+      "id": "nm0550881",
+      "name": "Frank Marshall"
+    },
+    {
+      "id": "nm0000229",
+      "name": "Steven Spielberg"
+    },
+    {
+      "id": "nm0823330",
+      "name": "Steve Starkey"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006293",
+      "name": "Alan Silvestri"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005678",
+      "name": "Dean Cundey"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

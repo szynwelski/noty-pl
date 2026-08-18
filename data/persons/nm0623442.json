@@ -1,0 +1,39 @@
+{
+  "id": "nm0623442",
+  "name": "Mikhail Nazvanov",
+  "filmography": [
+    {
+      "imdb_id": "tt0037824",
+      "title": "Ivan the Terrible, Part I",
+      "year": 1944,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Prince Andrei Kurbsky"
+    },
+    {
+      "imdb_id": "tt0051790",
+      "title": "Ivan the Terrible, Part II: The Boyars' Plot",
+      "year": 1946,
+      "roles": [
+        "cast"
+      ],
+      "character": "Prince Andrei Kurbsky"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMmUzZTkwMDktYjlhZi00NGUyLTk4MDItNzI0ZDcyYWI2ODgxXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "12.02.1914",
+  "death_date": "13.06.1964",
+  "birth_location": "Moscow, Russian Empire [now Russia]",
+  "imdb_scraped": true,
+  "filmweb_id": 124405,
+  "name_pl": "Mikhail Nazvanov",
+  "birth_location_pl": "Moskwa",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Związek Socjalistycznych Republik Radzieckich",
+    "Imperium Rosyjskie"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "nm0571106",
+  "name": "Michael McKean",
+  "filmography": [
+    {
+      "imdb_id": "tt0088258",
+      "title": "This Is Spinal Tap",
+      "year": 1984,
+      "roles": [
+        "writer",
+        "star",
+        "cast"
+      ],
+      "character": "David St. Hubbins"
+    },
+    {
+      "imdb_id": "tt1178663",
+      "title": "Whatever Works",
+      "year": 2009,
+      "roles": [
+        "cast"
+      ],
+      "character": "Boris' Friend"
+    },
+    {
+      "imdb_id": "tt3032476",
+      "title": "Better Call Saul",
+      "year": 2015,
+      "roles": [
+        "cast"
+      ],
+      "character": "Chuck McGill"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjgyM2Y2OGYtMmY0Ny00M2M2LTlhYzItYWQwNWM5NzUwM2IzXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "17.10.1947",
+  "birth_location": "New York City, New York, USA",
+  "height": "1.80 m",
+  "filmweb_id": 5255,
+  "name_pl": "Michael McKean",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 5255
+}

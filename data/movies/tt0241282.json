@@ -1,0 +1,94 @@
+{
+  "imdb_id": "tt0241282",
+  "title": "Caicedo (with Pole)",
+  "description": "\"King of the slack wire. His daring feats of balancing as he performs his thrilling feats in midair show that he is perfectly at home.\" (from Edison Films)",
+  "runtime_minutes": 1,
+  "release_date": "25.07.1894",
+  "genres": [
+    "Documentary",
+    "Short"
+  ],
+  "stars": [
+    {
+      "id": "nm0128773",
+      "name": "Juan A. Caicedo"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0005690",
+      "name": "William K.L. Dickson"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0128773",
+      "name": "Juan A. Caicedo",
+      "character": "Self"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 270595,
+  "year": 1894,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzY5Y2E0MTAtYTc2ZC00ZTk1LWI4ZTEtN2VjODFlMWY2N2IzXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.1,
+      "votes": 1018,
+      "distribution": {
+        "1": 21,
+        "2": 26,
+        "3": 41,
+        "4": 63,
+        "5": 177,
+        "6": 321,
+        "7": 201,
+        "8": 97,
+        "9": 20,
+        "10": 51
+      },
+      "normalized": 4.4102
+    },
+    "filmweb": {
+      "rating": 5.31,
+      "votes": 97,
+      "distribution": {
+        "1": 4,
+        "2": 2,
+        "3": 10,
+        "4": 12,
+        "5": 23,
+        "6": 22,
+        "7": 14,
+        "8": 7,
+        "9": 2,
+        "10": 1
+      },
+      "normalized": 4.414
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "11.12.2016",
+      "normalized": 6.4102
+    },
+    "score": 5.0781
+  },
+  "polish_title": "Caicedo (with Pole)",
+  "silent": true,
+  "description_pl": "W filmie można zobaczyć akrobatę robiącego różne ewolucje na cienkiej linie. Do utrzymania równowagi służy mu długi kij. Widzimy jak akrobata skacze pionowo do góry a nawet jak robi salta...",
+  "cinematographers": [
+    {
+      "id": "nm0374658",
+      "name": "William Heise"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

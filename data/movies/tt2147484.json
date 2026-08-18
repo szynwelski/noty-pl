@@ -1,0 +1,161 @@
+{
+  "imdb_id": "tt2147484",
+  "title": "Speed: In Search of Lost Time",
+  "description": "Opitz tries to track down the reasons of our shortage of time and for the constant acceleration of our lives. In his search of lost time he visits several people, to find out how they deal with time. He reveals the disturbing picture of a civilisation, that has disposed of all brake systems and, run by autopilot, goes blindly for unlimited and eternal growth, no matter what the consequences are.",
+  "runtime_minutes": 97,
+  "release_date": "27.09.2012",
+  "genres": [
+    "Documentary"
+  ],
+  "stars": [
+    {
+      "id": "nm5177798",
+      "name": "Hartmut Rosa"
+    },
+    {
+      "id": "nm2417102",
+      "name": "Karlheinz Geißler"
+    },
+    {
+      "id": "nm5177852",
+      "name": "Scott Kennedy"
+    },
+    {
+      "id": "nm5177836",
+      "name": "Alan Matthews"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm2623327",
+      "name": "Florian Opitz"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm2623327",
+      "name": "Florian Opitz"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm5177798",
+      "name": "Hartmut Rosa",
+      "character": "Self"
+    },
+    {
+      "id": "nm2417102",
+      "name": "Karlheinz Geißler",
+      "character": "Self"
+    },
+    {
+      "id": "nm5177852",
+      "name": "Scott Kennedy",
+      "character": "Self"
+    },
+    {
+      "id": "nm5177836",
+      "name": "Alan Matthews",
+      "character": "Self"
+    },
+    {
+      "id": "nm3364057",
+      "name": "Antonella Mei-Pochtler",
+      "character": "Self"
+    },
+    {
+      "id": "nm5177760",
+      "name": "Alex Rühle",
+      "character": "Self"
+    },
+    {
+      "id": "nm2198441",
+      "name": "Lothar Seiwert",
+      "character": "Self"
+    },
+    {
+      "id": "nm3138132",
+      "name": "Bernd Sprenger",
+      "character": "Self"
+    },
+    {
+      "id": "nm5177802",
+      "name": "Mark Thompson",
+      "character": "Self"
+    },
+    {
+      "id": "nm3405125",
+      "name": "Rudolf Wötzel",
+      "character": "Self"
+    },
+    {
+      "id": "nm2623327",
+      "name": "Florian Opitz",
+      "character": "Self"
+    }
+  ],
+  "countries": [
+    "Germany"
+  ],
+  "languages": [
+    "German",
+    "English"
+  ],
+  "color": "Color",
+  "year": 2012,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTc5MTM3ODc5NF5BMl5BanBnXkFtZTgwNjkyNzQ1MTE@._V1_.jpg",
+  "filmweb_id": null,
+  "ratings": {
+    "imdb": {
+      "rating": 6.8,
+      "votes": 248,
+      "distribution": {
+        "1": 4,
+        "2": 4,
+        "3": 4,
+        "4": 8,
+        "5": 20,
+        "6": 45,
+        "7": 80,
+        "8": 47,
+        "9": 20,
+        "10": 16
+      },
+      "normalized": 5.2749
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "15.02.2013",
+      "normalized": 5.6855
+    },
+    "score": 5.4868,
+    "filmweb": {
+      "normalized": 5.5
+    }
+  },
+  "silent": false,
+  "producers": [
+    {
+      "id": "nm5024487",
+      "name": "Wekas Gaba"
+    },
+    {
+      "id": "nm0831624",
+      "name": "Oliver Stoltz"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm7065893",
+      "name": "Von Spar"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm1519105",
+      "name": "Andy Lehmann"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

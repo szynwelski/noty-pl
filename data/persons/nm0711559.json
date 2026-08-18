@@ -1,0 +1,46 @@
+{
+  "id": "nm0711559",
+  "name": "Victor Rasuk",
+  "filmography": [
+    {
+      "imdb_id": "tt2357129",
+      "title": "Jobs",
+      "year": 2013,
+      "roles": [
+        "cast"
+      ],
+      "character": "Bill Fernandez"
+    },
+    {
+      "imdb_id": "tt0831387",
+      "title": "Godzilla",
+      "year": 2014,
+      "roles": [
+        "cast"
+      ],
+      "character": "Sergeant Tre Morales"
+    },
+    {
+      "imdb_id": "tt2322441",
+      "title": "Fifty Shades of Grey",
+      "year": 2015,
+      "roles": [
+        "cast"
+      ],
+      "character": "José"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjEyNDg3ODE0MV5BMl5BanBnXkFtZTgwMTU2NTgxMDE@._V1_.jpg",
+  "birth_date": "15.01.1984",
+  "birth_location": "New York City, New York, USA",
+  "height": "1.70 m",
+  "filmweb_id": 107985,
+  "name_pl": "Victor Rasuk",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

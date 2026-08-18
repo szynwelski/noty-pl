@@ -1,0 +1,35 @@
+{
+  "id": "nm0055604",
+  "name": "George Barnes",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDg3YTU1Y2YtN2Q1NS00MmEwLWJkMDgtYjc3MzQ5ZjZjY2Q5XkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0032976",
+      "title": "Rebecca",
+      "year": 1940,
+      "roles": [
+        "cinematographer"
+      ]
+    },
+    {
+      "imdb_id": "tt0038109",
+      "title": "Spellbound",
+      "year": 1945,
+      "roles": [
+        "cinematographer"
+      ]
+    }
+  ],
+  "birth_date": "16.10.1892",
+  "death_date": "30.05.1953",
+  "birth_location": "Pasadena, California, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 40639,
+  "name_pl": "George Barnes",
+  "birth_location_pl": "Kalifornia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

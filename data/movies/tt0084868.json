@@ -1,0 +1,117 @@
+{
+  "imdb_id": "tt0084868",
+  "title": "Vincent",
+  "description": "Young Vincent Malloy dreams of being just like Vincent Price and loses himself in macabre daydreams which annoys his mother.",
+  "runtime_minutes": 6,
+  "release_date": "01.10.1982",
+  "genres": [
+    "Animation",
+    "Short",
+    "Family",
+    "Fantasy"
+  ],
+  "stars": [
+    {
+      "id": "nm0001637",
+      "name": "Vincent Price"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000318",
+      "name": "Tim Burton"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000318",
+      "name": "Tim Burton"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0001637",
+      "name": "Vincent Price",
+      "character": "Narrator"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 11463,
+  "year": 1982,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTZkOGM0YWEtMzIxNi00NzdjLTljMDItOTgwMDU2OTU2NmVmXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8.2,
+      "votes": 25551,
+      "distribution": {
+        "1": 167,
+        "2": 81,
+        "3": 109,
+        "4": 156,
+        "5": 481,
+        "6": 1301,
+        "7": 3632,
+        "8": 7207,
+        "9": 5601,
+        "10": 6816
+      },
+      "normalized": 7.9498
+    },
+    "filmweb": {
+      "rating": 7.74,
+      "votes": 43554,
+      "distribution": {
+        "1": 397,
+        "2": 197,
+        "3": 435,
+        "4": 665,
+        "5": 1500,
+        "6": 3574,
+        "7": 9264,
+        "8": 14449,
+        "9": 7962,
+        "10": 5111
+      },
+      "normalized": 7.4526
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "18.11.2007",
+      "normalized": 5.4199
+    },
+    "score": 6.9408
+  },
+  "polish_title": "Vincent",
+  "silent": false,
+  "description_pl": "Mały Vincent Malloy żyje w swoim własnym świecie, snując makabryczne fantazje. Jego mroczną wyobraźnię kształtują poezje Edgara Allana Poe (w tym główna inspiracja - \"Kruk\" - oraz historie o pogrzebanych żywcem). Vincent nie bawi się na podwórku jak inne dzieci. Przebywa w klaustrofobicznej przestrzeni własnego pokoju, najczęściej w ciemności...\r\nTim Burton tworzy scenografię, która doskonale oddaje obsesje psychiczne bohatera - czarno-biała kreska, linie faliste i załamania (nasuwające skojarzenia z plastyczną wirtuozerią \"Gabinetu doktora Caligari\"). Rymowane, humorystyczne teksty wskazują na ironiczny stosunek reżysera do postaci.",
+  "producers": [
+    {
+      "id": "nm0374511",
+      "name": "Rick Heinrichs"
+    },
+    {
+      "id": "nm0928987",
+      "name": "Thomas L. Wilhite"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0385279",
+      "name": "Ken Hilton"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0008119",
+      "name": "Victor Abdalov"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "nm0728812",
+  "name": "Thelma Ritter",
+  "filmography": [
+    {
+      "imdb_id": "tt0042192",
+      "title": "All About Eve",
+      "year": 1950,
+      "roles": [
+        "cast"
+      ],
+      "character": "Birdie"
+    },
+    {
+      "imdb_id": "tt0047396",
+      "title": "Rear Window",
+      "year": 1954,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Stella"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYzkxMjgxNWUtZDQxZC00NDcyLWI3MDEtYzhiZTdmN2I0M2M2XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "14.02.1902",
+  "death_date": "05.02.1969",
+  "birth_location": "Brooklyn, New York, USA",
+  "height": "1.55 m",
+  "imdb_scraped": true,
+  "filmweb_id": 9535,
+  "name_pl": "Thelma Ritter",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 9535
+}

@@ -1,0 +1,255 @@
+{
+  "imdb_id": "tt0461770",
+  "title": "Enchanted",
+  "description": "A young maiden in a land called Andalasia, who is prepared to be wed, is sent away to New York City by an evil Queen, where she falls in love with a lawyer.",
+  "runtime_minutes": 107,
+  "release_date": "21.11.2007",
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy",
+    "Family",
+    "Fantasy",
+    "Musical",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0010736",
+      "name": "Amy Adams"
+    },
+    {
+      "id": "nm0000215",
+      "name": "Susan Sarandon"
+    },
+    {
+      "id": "nm0005188",
+      "name": "James Marsden"
+    },
+    {
+      "id": "nm0001131",
+      "name": "Patrick Dempsey"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0510674",
+      "name": "Kevin Lima"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0446210",
+      "name": "Bill Kelly"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0010736",
+      "name": "Amy Adams",
+      "character": "Giselle"
+    },
+    {
+      "id": "nm0000215",
+      "name": "Susan Sarandon",
+      "character": "Queen Narissa"
+    },
+    {
+      "id": "nm0005188",
+      "name": "James Marsden",
+      "character": "Prince Edward"
+    },
+    {
+      "id": "nm0001131",
+      "name": "Patrick Dempsey",
+      "character": "Robert Philip"
+    },
+    {
+      "id": "nm0001758",
+      "name": "Timothy Spall",
+      "character": "Nathaniel"
+    },
+    {
+      "id": "nm0579953",
+      "name": "Idina Menzel",
+      "character": "Nancy Tremaine"
+    },
+    {
+      "id": "nm1684762",
+      "name": "Rachel Covey",
+      "character": "Morgan Philip"
+    },
+    {
+      "id": "nm0000267",
+      "name": "Julie Andrews",
+      "character": "The Narrator"
+    },
+    {
+      "id": "nm0071818",
+      "name": "Jeff Bennett",
+      "character": "Pip in Andalasia"
+    },
+    {
+      "id": "nm0510674",
+      "name": "Kevin Lima",
+      "character": "Pip in New York"
+    },
+    {
+      "id": "nm2124501",
+      "name": "Emma Rose Lima",
+      "character": "Bluebird"
+    },
+    {
+      "id": "nm1911958",
+      "name": "Teala Dunn",
+      "character": "Bunny"
+    },
+    {
+      "id": "nm0851317",
+      "name": "Fred Tatasciore",
+      "character": "Troll"
+    },
+    {
+      "id": "nm1777984",
+      "name": "Courtney Williams",
+      "character": "Sunglass Street Vendor"
+    },
+    {
+      "id": "nm2860287",
+      "name": "William Huntley",
+      "character": "Grumpy"
+    },
+    {
+      "id": "nm2142741",
+      "name": "Samantha Ivers",
+      "character": "Angie"
+    },
+    {
+      "id": "nm1875044",
+      "name": "Lizzy Mathis",
+      "character": "Tess"
+    },
+    {
+      "id": "nm0528520",
+      "name": "Edmund Lyndeck",
+      "character": "Derelict Old Man"
+    }
+  ],
+  "countries": [
+    "United States",
+    "New Zealand"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 235793,
+  "year": 2007,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjE4NDQ2Mjc0OF5BMl5BanBnXkFtZTcwNzQ2NDE1MQ@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.1,
+      "votes": 226395,
+      "distribution": {
+        "1": 2690,
+        "2": 1537,
+        "3": 2777,
+        "4": 5659,
+        "5": 14544,
+        "6": 35579,
+        "7": 63727,
+        "8": 49451,
+        "9": 22756,
+        "10": 27675
+      },
+      "normalized": 5.7589
+    },
+    "filmweb": {
+      "rating": 6.39,
+      "votes": 88302,
+      "distribution": {
+        "1": 609,
+        "2": 795,
+        "3": 2771,
+        "4": 5377,
+        "5": 12710,
+        "6": 22920,
+        "7": 24083,
+        "8": 12209,
+        "9": 3720,
+        "10": 3108
+      },
+      "normalized": 4.0812
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "28.12.2010",
+      "normalized": 5.6855
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "25.12.2010",
+      "normalized": 4.5781
+    },
+    "score": 5.0259
+  },
+  "polish_title": "Zaczarowana",
+  "silent": false,
+  "description_pl": "Bohaterką filmu jest dziewczyna która zakochuje się w księciu przez co zostaje wyrzucona ze swojej kreskówkowej krainy Andalasii przez złą królową. Trafia do współczesnego Nowego Jorku gdzie zakochuje się w kimś innym myśląc, że on jest jej księciem. Lecz wtedy okazuje się, że szuka jej zła królowa...",
+  "producers": [
+    {
+      "id": "nm0153724",
+      "name": "Christopher Chase"
+    },
+    {
+      "id": "nm0430742",
+      "name": "Barry Josephson"
+    },
+    {
+      "id": "nm1931042",
+      "name": "Jill Rachel Morris"
+    },
+    {
+      "id": "nm0613611",
+      "name": "Todd Y. Murata"
+    },
+    {
+      "id": "nm0673858",
+      "name": "Sunil Perkash"
+    },
+    {
+      "id": "nm0727637",
+      "name": "Susan Ringo"
+    },
+    {
+      "id": "nm0733856",
+      "name": "Ron Rocha"
+    },
+    {
+      "id": "nm2050997",
+      "name": "Doug Short"
+    },
+    {
+      "id": "nm0001756",
+      "name": "Barry Sonnenfeld"
+    },
+    {
+      "id": "nm0842470",
+      "name": "Ezra Swerdlow"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0579678",
+      "name": "Alan Menken"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0121281",
+      "name": "Don Burgess"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

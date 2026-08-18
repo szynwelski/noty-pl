@@ -1,0 +1,50 @@
+{
+  "id": "nm0001714",
+  "name": "Campbell Scott",
+  "filmography": [
+    {
+      "imdb_id": "tt0299117",
+      "title": "Roger Dodger",
+      "year": 2002,
+      "roles": [
+        "star",
+        "cast",
+        "producer"
+      ],
+      "character": "Roger Swanson"
+    },
+    {
+      "imdb_id": "tt0948470",
+      "title": "The Amazing Spider-Man",
+      "year": 2012,
+      "roles": [
+        "cast"
+      ],
+      "character": "Richard Parker"
+    },
+    {
+      "imdb_id": "tt1872181",
+      "title": "The Amazing Spider-Man 2",
+      "year": 2014,
+      "roles": [
+        "cast"
+      ],
+      "character": "Richard Parker"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTY4MjgxNzM1MV5BMl5BanBnXkFtZTcwMzU2ODQ1MQ@@._V1_.jpg",
+  "birth_date": "19.07.1961",
+  "birth_location": "New York City, New York, USA",
+  "height": "1.82 m",
+  "filmweb_id": 3192,
+  "name_pl": "Campbell Scott",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Kanada",
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 3192
+}

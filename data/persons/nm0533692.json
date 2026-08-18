@@ -1,0 +1,39 @@
+{
+  "id": "nm0533692",
+  "name": "Barton MacLane",
+  "filmography": [
+    {
+      "imdb_id": "tt0033870",
+      "title": "The Maltese Falcon",
+      "year": 1941,
+      "roles": [
+        "cast"
+      ],
+      "character": "Lt. of Detectives Dundy"
+    },
+    {
+      "imdb_id": "tt0040897",
+      "title": "The Treasure of the Sierra Madre",
+      "year": 1948,
+      "roles": [
+        "cast"
+      ],
+      "character": "Pat McCormick"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjE2NzYwMTExOV5BMl5BanBnXkFtZTcwNDgzMzIxOA@@._V1_.jpg",
+  "birth_date": "25.12.1902",
+  "death_date": "01.01.1969",
+  "birth_location": "Columbia, South Carolina, USA",
+  "height": "1.85 m",
+  "imdb_scraped": true,
+  "filmweb_id": 40981,
+  "name_pl": "Barton MacLane",
+  "birth_location_pl": "Columbia, Karolina Południowa",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 40981
+}

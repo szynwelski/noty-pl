@@ -1,0 +1,38 @@
+{
+  "id": "nm0002005",
+  "name": "Agatha Christie",
+  "filmography": [
+    {
+      "imdb_id": "tt0051201",
+      "title": "Witness for the Prosecution",
+      "year": 1957,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0071877",
+      "title": "Murder on the Orient Express",
+      "year": 1974,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTU3OTYzMzY4NV5BMl5BanBnXkFtZTcwMDIxOTIyOA@@._V1_.jpg",
+  "birth_date": "15.09.1890",
+  "death_date": "12.01.1976",
+  "birth_location": "Torquay, Devon, England, UK",
+  "height": "1.72 m",
+  "imdb_scraped": true,
+  "filmweb_id": 122197,
+  "name_pl": "Agatha Christie",
+  "birth_location_pl": "Torquay, Anglia",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania",
+    "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii"
+  ],
+  "wikidata_fw_id": 122197
+}

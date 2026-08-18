@@ -1,0 +1,38 @@
+{
+  "id": "nm0485272",
+  "name": "Charles Lane",
+  "filmography": [
+    {
+      "imdb_id": "tt0031679",
+      "title": "Mr. Smith Goes to Washington",
+      "year": 1939,
+      "roles": [
+        "cast"
+      ],
+      "character": "Nosey"
+    },
+    {
+      "imdb_id": "tt0036613",
+      "title": "Arsenic and Old Lace",
+      "year": 1944,
+      "roles": [
+        "cast"
+      ],
+      "character": "Reporter"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTg5MTIxMzcyMV5BMl5BanBnXkFtZTcwMzE5ODcyMQ@@._V1_.jpg",
+  "birth_date": "26.01.1905",
+  "death_date": "09.07.2007",
+  "birth_location": "San Francisco, California, USA",
+  "height": "1.78 m",
+  "imdb_scraped": true,
+  "filmweb_id": 64762,
+  "name_pl": "Charles Lane",
+  "birth_location_pl": "San Francisco, Kalifornia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

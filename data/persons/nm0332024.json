@@ -1,0 +1,39 @@
+{
+  "id": "nm0332024",
+  "name": "John Gottowt",
+  "filmography": [
+    {
+      "imdb_id": "tt0003419",
+      "title": "The Student of Prague",
+      "year": 1913,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Scapinelli, an Old Sorcerer"
+    },
+    {
+      "imdb_id": "tt0013442",
+      "title": "Nosferatu",
+      "year": 1922,
+      "roles": [
+        "cast"
+      ],
+      "character": "Professor Bulwer - ein Paracelsianer"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzI0Mzc0YzAtZWViZC00NTdhLTkyNTctZWI3OWYwNmY4MzA2XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "15.06.1881",
+  "death_date": "27.08.1942",
+  "birth_location": "Lemberg, Galicia, Austria-Hungary [now Lviv, Ukraine]",
+  "imdb_scraped": true,
+  "filmweb_id": 41895,
+  "name_pl": "John Gottowt",
+  "birth_location_pl": "Lwów",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Austria",
+    "Rzesza Niemiecka"
+  ]
+}

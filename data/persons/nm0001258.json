@@ -1,0 +1,61 @@
+{
+  "id": "nm0001258",
+  "name": "James Garner",
+  "filmography": [
+    {
+      "imdb_id": "tt0057115",
+      "title": "The Great Escape",
+      "year": 1963,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Hendley 'The Scrounger'"
+    },
+    {
+      "imdb_id": "tt0110478",
+      "title": "Maverick",
+      "year": 1994,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Marshal Zane Cooper"
+    },
+    {
+      "imdb_id": "tt0332280",
+      "title": "The Notebook",
+      "year": 2004,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Duke"
+    },
+    {
+      "imdb_id": "tt0482629",
+      "title": "The Ultimate Gift",
+      "year": 2006,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Howard 'Red' Stevens"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDYzMTQyYjItYTI1NS00YzgyLTk3YmEtMTMzNWE4NmY2MzE0XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "07.04.1928",
+  "death_date": "19.07.2014",
+  "birth_location": "Norman, Oklahoma, USA",
+  "height": "1.92 m",
+  "filmweb_id": 4028,
+  "name_pl": "James Garner",
+  "birth_location_pl": "Norman, Oklahoma",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 4028
+}

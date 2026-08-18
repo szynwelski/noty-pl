@@ -1,0 +1,38 @@
+{
+  "id": "nm1289528",
+  "name": "Norah Jones",
+  "filmography": [
+    {
+      "imdb_id": "tt0765120",
+      "title": "My Blueberry Nights",
+      "year": 2007,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Elizabeth"
+    },
+    {
+      "imdb_id": "tt1637725",
+      "title": "Ted",
+      "year": 2012,
+      "roles": [
+        "cast"
+      ],
+      "character": "Norah Jones"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTc0OTUzMDY2MV5BMl5BanBnXkFtZTgwMTc0MTkzMDE@._V1_.jpg",
+  "birth_date": "30.03.1979",
+  "birth_location": "New York City, New York, USA",
+  "height": "1.57 m",
+  "imdb_scraped": true,
+  "filmweb_id": 122912,
+  "name_pl": "Norah Jones",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

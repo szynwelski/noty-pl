@@ -1,0 +1,41 @@
+{
+  "id": "nm0000003",
+  "name": "Brigitte Bardot",
+  "filmography": [
+    {
+      "imdb_id": "tt0049189",
+      "title": "...And God Created Woman",
+      "year": 1956,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Juliete Hardy"
+    },
+    {
+      "imdb_id": "tt0067637",
+      "title": "The Legend of Frenchie King",
+      "year": 1971,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Louise"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzUwNGNhYTQtZjgwZS00ZDUxLWIyMTItODA0ZDIxOWRkZmNhXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 134,
+  "birth_date": "28.09.1934",
+  "death_date": "28.12.2025",
+  "birth_location": "Paris, France",
+  "height": "1.66 m",
+  "imdb_scraped": true,
+  "name_pl": "Brigitte Bardot",
+  "birth_location_pl": "Paryż",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja"
+  ],
+  "wikidata_fw_id": 134
+}

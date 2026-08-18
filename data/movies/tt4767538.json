@@ -1,0 +1,169 @@
+{
+  "imdb_id": "tt4767538",
+  "title": "Spasenie",
+  "description": "Catholic nun travels to another country and make spirit revolution.",
+  "runtime_minutes": 94,
+  "release_date": "24.09.2015",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm7386467",
+      "name": "Polina Grishina"
+    },
+    {
+      "id": "nm0344734",
+      "name": "Karolina Gruszka"
+    },
+    {
+      "id": "nm5925423",
+      "name": "Cazimir Liske"
+    },
+    {
+      "id": "nm4580224",
+      "name": "Diana Zamojska"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm2196782",
+      "name": "Ivan Vyrypaev"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm2196782",
+      "name": "Ivan Vyrypaev"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm7386467",
+      "name": "Polina Grishina",
+      "character": "Nun Anna"
+    },
+    {
+      "id": "nm0344734",
+      "name": "Karolina Gruszka",
+      "character": "Tourist tramp"
+    },
+    {
+      "id": "nm5925423",
+      "name": "Cazimir Liske",
+      "character": "Musician"
+    },
+    {
+      "id": "nm4580224",
+      "name": "Diana Zamojska",
+      "character": "Nun"
+    },
+    {
+      "id": "nm2196782",
+      "name": "Ivan Vyrypaev",
+      "character": "Photographer"
+    },
+    {
+      "id": "nm0011582",
+      "name": "Anton Adasinsky",
+      "character": ""
+    },
+    {
+      "id": "nm1872193",
+      "name": "Aleksandr Bargman",
+      "character": ""
+    },
+    {
+      "id": "nm1591309",
+      "name": "Marcin Bosak",
+      "character": ""
+    },
+    {
+      "id": "nm4281463",
+      "name": "Vilma Kutaviciute",
+      "character": ""
+    }
+  ],
+  "countries": [
+    "Russia",
+    "Poland"
+  ],
+  "languages": [],
+  "color": "Color",
+  "filmweb_id": 745922,
+  "year": 2015,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMWYwZWFmOGEtYTJmNC00MzRkLWI0N2MtNTMxNTM5OGMwZDRlXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.1,
+      "votes": 200,
+      "distribution": {
+        "1": 3,
+        "2": 1,
+        "3": 8,
+        "4": 25,
+        "5": 26,
+        "6": 42,
+        "7": 43,
+        "8": 27,
+        "9": 13,
+        "10": 12
+      },
+      "normalized": 4.9998
+    },
+    "filmweb": {
+      "rating": 5.19,
+      "votes": 275,
+      "distribution": {
+        "1": 7,
+        "2": 8,
+        "3": 43,
+        "4": 47,
+        "5": 57,
+        "6": 36,
+        "7": 45,
+        "8": 21,
+        "9": 7,
+        "10": 4
+      },
+      "normalized": 3.731
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "12.10.2020",
+      "normalized": 6.4102
+    },
+    "score": 5.047
+  },
+  "polish_title": "Zbawienie",
+  "silent": false,
+  "description_pl": "Młoda polska zakonnica, siostra Anna, zostaje wysłana na misję do parafii, która znajduje się wysoko w Himalajach. Anna ma 25 lat i połowę swego dotychczasowego życia spędziła w klasztorze. Po raz pierwszy w życiu wyjeżdża za granicę – do autentycznej krainy Ladakh, która jest częścią Tybetu na terytorium Indii. Kiedy Anna przybywa na miejsce, otwiera się przed nią zupełnie nieznany jej do tej pory świat. Spotyka się z zupełnie inną kulturą, energię i odmienną religią. Zagadkowy świat Tybetu, ludzie, których przypadkowo spotyka na swojej drodze – skłaniają ją do przemyśleń i zadawania samej sobie trudnych pytań.",
+  "producers": [
+    {
+      "id": "nm4771087",
+      "name": "Denis Kovalevskiy"
+    },
+    {
+      "id": "nm3219749",
+      "name": "Svetlana Kuchmaeva"
+    },
+    {
+      "id": "nm0955100",
+      "name": "Sergey Zernov"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm6756860",
+      "name": "Andrey Samsonov"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm1904132",
+      "name": "Andrey Naydenov"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

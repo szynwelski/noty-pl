@@ -1,0 +1,64 @@
+{
+  "id": "nm0000180",
+  "name": "David Lean",
+  "filmography": [
+    {
+      "imdb_id": "tt0034891",
+      "title": "In Which We Serve",
+      "year": 1942,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0037558",
+      "title": "Brief Encounter",
+      "year": 1945,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0050212",
+      "title": "The Bridge on the River Kwai",
+      "year": 1957,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0056172",
+      "title": "Lawrence of Arabia",
+      "year": 1962,
+      "roles": [
+        "director",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0059113",
+      "title": "Doctor Zhivago",
+      "year": 1965,
+      "roles": [
+        "director"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDBjYWYxODItZTM3ZC00ODIxLWE1ZjAtMWY2MGYyMjQ5MmYyXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "25.03.1908",
+  "death_date": "16.04.1991",
+  "birth_location": "Croydon, Surrey, England, UK",
+  "height": "1.86 m",
+  "filmweb_id": 12961,
+  "name_pl": "David Lean",
+  "birth_location_pl": "Croydon, Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania",
+    "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii"
+  ],
+  "wikidata_fw_id": 12961
+}

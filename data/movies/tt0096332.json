@@ -1,0 +1,225 @@
+{
+  "imdb_id": "tt0096332",
+  "title": "The Unbearable Lightness of Being",
+  "description": "A doctor in 1968 Prague struggles with monogamy to his wife's frustration, and then the Soviet invasion further disrupts their lives.",
+  "runtime_minutes": 171,
+  "release_date": "05.02.1988",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0000358",
+      "name": "Daniel Day-Lewis"
+    },
+    {
+      "id": "nm0000300",
+      "name": "Juliette Binoche"
+    },
+    {
+      "id": "nm0000565",
+      "name": "Lena Olin"
+    },
+    {
+      "id": "nm0513190",
+      "name": "Derek de Lint"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0442241",
+      "name": "Philip Kaufman"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0475081",
+      "name": "Milan Kundera"
+    },
+    {
+      "id": "nm0140643",
+      "name": "Jean-Claude Carrière"
+    },
+    {
+      "id": "nm0442241",
+      "name": "Philip Kaufman"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000358",
+      "name": "Daniel Day-Lewis",
+      "character": "Tomas"
+    },
+    {
+      "id": "nm0000300",
+      "name": "Juliette Binoche",
+      "character": "Tereza"
+    },
+    {
+      "id": "nm0000565",
+      "name": "Lena Olin",
+      "character": "Sabina"
+    },
+    {
+      "id": "nm0513190",
+      "name": "Derek de Lint",
+      "character": "Franz"
+    },
+    {
+      "id": "nm0430746",
+      "name": "Erland Josephson",
+      "character": "The Ambassador"
+    },
+    {
+      "id": "nm0484968",
+      "name": "Pavel Landovský",
+      "character": "Pavel"
+    },
+    {
+      "id": "nm0595567",
+      "name": "Donald Moffat",
+      "character": "Chief Surgeon"
+    },
+    {
+      "id": "nm0646037",
+      "name": "Daniel Olbrychski",
+      "character": "Interior Ministry Official"
+    },
+    {
+      "id": "nm0001745",
+      "name": "Stellan Skarsgård",
+      "character": "The Engineer"
+    },
+    {
+      "id": "nm0096905",
+      "name": "Tomasz Borkowy",
+      "character": "Jiri"
+    },
+    {
+      "id": "nm0583503",
+      "name": "Bruce Myers",
+      "character": "Czech Editor"
+    },
+    {
+      "id": "nm0805118",
+      "name": "Pavel Slabý",
+      "character": "Pavel's Nephew"
+    },
+    {
+      "id": "nm0435691",
+      "name": "Pascale Kalensky",
+      "character": "Nurse Katya"
+    },
+    {
+      "id": "nm0162791",
+      "name": "Jacques Ciron",
+      "character": "Swiss Restaurant Manager"
+    },
+    {
+      "id": "nm0518522",
+      "name": "Anne Lonnberg",
+      "character": "Swiss Photographer"
+    },
+    {
+      "id": "nm0844435",
+      "name": "László Szabó",
+      "character": "Russian Interrogator"
+    },
+    {
+      "id": "nm0884044",
+      "name": "Vladimír Valenta",
+      "character": "Mayor"
+    },
+    {
+      "id": "nm0180404",
+      "name": "Clovis Cornillac",
+      "character": "Boy in Bar"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Czech"
+  ],
+  "color": "Color",
+  "filmweb_id": 35019,
+  "year": 1988,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzQyMTliMzMtNzliZi00MmMwLWExZGEtNzQ3MDc1NmY4M2I1XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.2,
+      "votes": 40956,
+      "distribution": {
+        "1": 736,
+        "2": 379,
+        "3": 605,
+        "4": 1004,
+        "5": 2115,
+        "6": 4977,
+        "7": 10230,
+        "8": 10421,
+        "9": 5655,
+        "10": 4834
+      },
+      "normalized": 5.8867
+    },
+    "filmweb": {
+      "rating": 7.21,
+      "votes": 13794,
+      "distribution": {
+        "1": 62,
+        "2": 76,
+        "3": 226,
+        "4": 316,
+        "5": 973,
+        "6": 1846,
+        "7": 3942,
+        "8": 4094,
+        "9": 1554,
+        "10": 705
+      },
+      "normalized": 6.0138
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "02.03.2007",
+      "normalized": 6.3474
+    },
+    "score": 6.0826
+  },
+  "polish_title": "Nieznośna lekkość bytu",
+  "silent": false,
+  "description_pl": "Tomasz jest czeskim lekarzem i znanym podrywaczem stroniącym od polityki. Jednak obie te cechy zostają poddane próbie. Zakochuje się w Teresie, ale nie potrafi dochować wierności. Staje się uczestnikiem wydarzeń \"praskiej wiosny\" 1968 roku i mimowolnym \"wrogiem ludu\".",
+  "producers": [
+    {
+      "id": "nm0645072",
+      "name": "Bertil Ohlsson"
+    },
+    {
+      "id": "nm0951762",
+      "name": "Paul Zaentz"
+    },
+    {
+      "id": "nm0951763",
+      "name": "Saul Zaentz"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0012206",
+      "name": "Mark Adler"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005815",
+      "name": "Sven Nykvist"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

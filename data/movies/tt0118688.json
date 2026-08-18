@@ -1,0 +1,234 @@
+{
+  "imdb_id": "tt0118688",
+  "title": "Batman & Robin",
+  "description": "Batman and Robin try to keep their relationship together even as they must stop Mr. Freeze and Poison Ivy from freezing Gotham City.",
+  "runtime_minutes": 125,
+  "release_date": "20.06.1997",
+  "genres": [
+    "Action",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm0000216",
+      "name": "Arnold Schwarzenegger"
+    },
+    {
+      "id": "nm0000123",
+      "name": "George Clooney"
+    },
+    {
+      "id": "nm0000563",
+      "name": "Chris O'Donnell"
+    },
+    {
+      "id": "nm0000235",
+      "name": "Uma Thurman"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001708",
+      "name": "Joel Schumacher"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0004170",
+      "name": "Bob Kane"
+    },
+    {
+      "id": "nm0326040",
+      "name": "Akiva Goldsman"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000216",
+      "name": "Arnold Schwarzenegger",
+      "character": "Mr. Freeze"
+    },
+    {
+      "id": "nm0000123",
+      "name": "George Clooney",
+      "character": "Batman"
+    },
+    {
+      "id": "nm0000563",
+      "name": "Chris O'Donnell",
+      "character": "Robin"
+    },
+    {
+      "id": "nm0000235",
+      "name": "Uma Thurman",
+      "character": "Poison Ivy"
+    },
+    {
+      "id": "nm0000224",
+      "name": "Alicia Silverstone",
+      "character": "Batgirl"
+    },
+    {
+      "id": "nm0001284",
+      "name": "Michael Gough",
+      "character": "Alfred Pennyworth"
+    },
+    {
+      "id": "nm0385757",
+      "name": "Pat Hingle",
+      "character": "Commissioner Gordon"
+    },
+    {
+      "id": "nm0001278",
+      "name": "John Glover",
+      "character": "Doctor Jason Woodrue"
+    },
+    {
+      "id": "nm0000512",
+      "name": "Elle Macpherson",
+      "character": "Julie Madison"
+    },
+    {
+      "id": "nm0000407",
+      "name": "Vivica A. Fox",
+      "character": "Ms. B. Haven"
+    },
+    {
+      "id": "nm0456971",
+      "name": "Vendela Kirsebom",
+      "character": "Nora Fries"
+    },
+    {
+      "id": "nm0761545",
+      "name": "Elizabeth Sanders",
+      "character": "Gossip Gerty"
+    },
+    {
+      "id": "nm0842422",
+      "name": "Jeep Swenson",
+      "character": "Bane"
+    },
+    {
+      "id": "nm0277822",
+      "name": "John Fink",
+      "character": "Aztec Museum Guard"
+    },
+    {
+      "id": "nm0533197",
+      "name": "Michael Reid MacKay",
+      "character": "Antonio Diego"
+    },
+    {
+      "id": "nm0005156",
+      "name": "Eric Lloyd",
+      "character": "Young Bruce Wayne"
+    },
+    {
+      "id": "nm0799805",
+      "name": "Jon Simmons",
+      "character": "Young Alfred"
+    },
+    {
+      "id": "nm0091443",
+      "name": "Christian Boeving",
+      "character": "Snowy Cones Thug #1"
+    }
+  ],
+  "countries": [
+    "United States",
+    "United Kingdom"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 510,
+  "year": 1997,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYzU3ZjE3M2UtM2E4Ni00MDI5LTkyZGUtOTFkMGIyYjNjZGU3XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 3.8,
+      "votes": 284309,
+      "distribution": {
+        "1": 47242,
+        "2": 37721,
+        "3": 45840,
+        "4": 49332,
+        "5": 43179,
+        "6": 27173,
+        "7": 14983,
+        "8": 6741,
+        "9": 2636,
+        "10": 9462
+      },
+      "normalized": 1.4452
+    },
+    "filmweb": {
+      "rating": 4.75,
+      "votes": 66203,
+      "distribution": {
+        "1": 3686,
+        "2": 4989,
+        "3": 9569,
+        "4": 10461,
+        "5": 14242,
+        "6": 11255,
+        "7": 7181,
+        "8": 2938,
+        "9": 751,
+        "10": 1131
+      },
+      "normalized": 1.7072
+    },
+    "jarek": {
+      "rating": 3,
+      "date_rated": "02.12.2005",
+      "normalized": 4.2591
+    },
+    "michal": {
+      "rating": 1,
+      "date_rated": "01.12.2005",
+      "normalized": 2.2657
+    },
+    "score": 2.4193
+  },
+  "polish_title": "Batman i Robin",
+  "silent": false,
+  "description_pl": "Przeraźliwy chłód sparaliżował Gotham City. Znękane miasto ponownie staje w obliczu zagłady. Ostatnią nadzieją na ocalenie jest Batman. Gdy na nocnym niebie pojawia się znak nietoperza, Batman natychmiast rusza na pomoc w swoim potężnym, niesamowitym Batmobilu. Tym razem nie jest sam. Towarzyszy mu przyjaciel i pomocnik - Robin, który na swym turbo motocyklu podąża jak cień za pojazdem Batmana. To nie będzie łatwa walka. Mr Freeze ma do pomocy piękną, ale niebezpieczną istotę zadającą śmierć poprzez pocałunek - kobietę o mrożącym krew w żyłach przydomku - Trujący Bluszcz. Na szczęście naprzeciwko tej pary bezlitosnych zabójców stają Batman i Robin - teraz - uzbrojeni w nowoczesne, przemyślane, budzące respekt wroga przyrządy i pojazdy. W sukurs obrońcom przychodzi nowa postać - Batgirl - niezwykle sprawna i odważna dziewczyna. Ta wspaniała trójka bohaterów stanie w obronie Gotham City, które Mr Freeze planuje zamienić w skutą lodem pustynię...",
+  "producers": [
+    {
+      "id": "nm0202459",
+      "name": "Mitchell E. Dauterive"
+    },
+    {
+      "id": "nm0255839",
+      "name": "William M. Elvin"
+    },
+    {
+      "id": "nm0532368",
+      "name": "Peter Macgregor-Scott"
+    },
+    {
+      "id": "nm0578195",
+      "name": "Benjamin Melniker"
+    },
+    {
+      "id": "nm0882388",
+      "name": "Michael E. Uslan"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006106",
+      "name": "Elliot Goldenthal"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0003552",
+      "name": "Stephen Goldblatt"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

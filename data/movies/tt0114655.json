@@ -1,0 +1,170 @@
+{
+  "imdb_id": "tt0114655",
+  "title": "Devilish Education",
+  "description": "After taking a dip in the lake, an innocent maiden encounters an enigmatic stranger dressed in black. Soon, he will introduce her to the secret pleasures of the flesh and the mysterious ways of the world.",
+  "runtime_minutes": 29,
+  "release_date": "11.01.1995",
+  "genres": [
+    "Short"
+  ],
+  "stars": [
+    {
+      "id": "nm0199164",
+      "name": "Renata Dancewicz"
+    },
+    {
+      "id": "nm0464945",
+      "name": "Marek Kondrat"
+    },
+    {
+      "id": "nm0245919",
+      "name": "Anna Dymna"
+    },
+    {
+      "id": "nm0115711",
+      "name": "Stanislaw Brudny"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0538105",
+      "name": "Janusz Majewski"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0538105",
+      "name": "Janusz Majewski"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0199164",
+      "name": "Renata Dancewicz",
+      "character": "Gosia"
+    },
+    {
+      "id": "nm0464945",
+      "name": "Marek Kondrat",
+      "character": "Devil"
+    },
+    {
+      "id": "nm0245919",
+      "name": "Anna Dymna",
+      "character": "Mother"
+    },
+    {
+      "id": "nm0115711",
+      "name": "Stanislaw Brudny",
+      "character": "Priest"
+    },
+    {
+      "id": "nm0272295",
+      "name": "Adam Ferency",
+      "character": "Doctor"
+    },
+    {
+      "id": "nm0080518",
+      "name": "Joanna Bialek",
+      "character": ""
+    },
+    {
+      "id": "nm0513471",
+      "name": "Pawel Lipinski",
+      "character": ""
+    }
+  ],
+  "countries": [
+    "Germany",
+    "Poland"
+  ],
+  "languages": [
+    "Polish"
+  ],
+  "color": null,
+  "filmweb_id": 5031,
+  "year": 1995,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZjI5OWY0M2MtZjUwMi00MjlkLWIyOWYtYjBiNTU5ODNlMjhlXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Diabelska edukacja",
+  "ratings": {
+    "imdb": {
+      "rating": 6.1,
+      "votes": 688,
+      "distribution": {
+        "1": 23,
+        "2": 16,
+        "3": 29,
+        "4": 33,
+        "5": 81,
+        "6": 162,
+        "7": 102,
+        "8": 72,
+        "9": 34,
+        "10": 136
+      },
+      "normalized": 4.5851
+    },
+    "filmweb": {
+      "rating": 6.06,
+      "votes": 4943,
+      "distribution": {
+        "1": 89,
+        "2": 69,
+        "3": 219,
+        "4": 384,
+        "5": 779,
+        "6": 1392,
+        "7": 1208,
+        "8": 534,
+        "9": 133,
+        "10": 136
+      },
+      "normalized": 3.5574
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "01.11.2013",
+      "normalized": 5.4199
+    },
+    "score": 4.5208
+  },
+  "polish_title": "Diabelska edukacja",
+  "silent": false,
+  "description_pl": "Piękna Małgorzata mieszka we wsi na terenie zaboru pruskiego. Pewnego dnia spotyka na swojej drodze tajemniczego nieznajomego. Mężczyzna wodzi niedoświadczoną nastolatkę na pokuszenie i odsłania przed nią uroki seksualności.",
+  "producers": [
+    {
+      "id": "nm0333627",
+      "name": "Ronald Gräbe"
+    },
+    {
+      "id": "nm0665177",
+      "name": "Feliks Pastusiak"
+    },
+    {
+      "id": "nm0753499",
+      "name": "Lew Rywin"
+    },
+    {
+      "id": "nm0869236",
+      "name": "Judy Tossell"
+    },
+    {
+      "id": "nm0956133",
+      "name": "Regina Ziegler"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0766105",
+      "name": "Jerzy Satanowski"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0010627",
+      "name": "Witold Adamek"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

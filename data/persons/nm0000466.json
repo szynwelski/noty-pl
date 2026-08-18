@@ -1,0 +1,65 @@
+{
+  "id": "nm0000466",
+  "name": "Jean-Pierre Jeunet",
+  "filmography": [
+    {
+      "imdb_id": "tt0101700",
+      "title": "Delicatessen",
+      "year": 1991,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0118583",
+      "title": "Alien: Resurrection",
+      "year": 1997,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0211915",
+      "title": "Amélie",
+      "year": 2001,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0344510",
+      "title": "A Very Long Engagement",
+      "year": 2004,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt1149361",
+      "title": "Micmacs",
+      "year": 2009,
+      "roles": [
+        "director",
+        "writer",
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjE2Mjg3MTE2NF5BMl5BanBnXkFtZTYwOTUzMzk1._V1_.jpg",
+  "birth_date": "03.09.1953",
+  "birth_location": "Roanne, Loire, Rhône-Alpes, France",
+  "filmweb_id": 10757,
+  "name_pl": "Jean-Pierre Jeunet",
+  "birth_location_pl": "Roanne",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja"
+  ],
+  "wikidata_fw_id": 10757
+}

@@ -1,0 +1,234 @@
+{
+  "imdb_id": "tt0758758",
+  "title": "Into the Wild",
+  "description": "After graduating from Emory University, top student and athlete Christopher McCandless abandons his possessions, gives his entire $24,000 savings account to charity and hitchhikes to Alaska to live in the wilderness.",
+  "runtime_minutes": 148,
+  "release_date": "19.10.2007",
+  "genres": [
+    "Adventure",
+    "Biography",
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0386472",
+      "name": "Emile Hirsch"
+    },
+    {
+      "id": "nm0000681",
+      "name": "Vince Vaughn"
+    },
+    {
+      "id": "nm0001416",
+      "name": "Catherine Keener"
+    },
+    {
+      "id": "nm0001315",
+      "name": "Marcia Gay Harden"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000576",
+      "name": "Sean Penn"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000576",
+      "name": "Sean Penn"
+    },
+    {
+      "id": "nm1040556",
+      "name": "Jon Krakauer"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0386472",
+      "name": "Emile Hirsch",
+      "character": "Chris McCandless"
+    },
+    {
+      "id": "nm0000681",
+      "name": "Vince Vaughn",
+      "character": "Wayne Westerberg"
+    },
+    {
+      "id": "nm0001416",
+      "name": "Catherine Keener",
+      "character": "Jan Burres"
+    },
+    {
+      "id": "nm0001315",
+      "name": "Marcia Gay Harden",
+      "character": "Billie McCandless"
+    },
+    {
+      "id": "nm0000458",
+      "name": "William Hurt",
+      "character": "Walt McCandless"
+    },
+    {
+      "id": "nm0540441",
+      "name": "Jena Malone",
+      "character": "Carine McCandless"
+    },
+    {
+      "id": "nm1619626",
+      "name": "Brian H. Dierker",
+      "character": "Rainey"
+    },
+    {
+      "id": "nm0829576",
+      "name": "Kristen Stewart",
+      "character": "Tracy Tatro"
+    },
+    {
+      "id": "nm0001358",
+      "name": "Hal Holbrook",
+      "character": "Ron Franz"
+    },
+    {
+      "id": "nm2946106",
+      "name": "Jim Gallien",
+      "character": "Jim Gallien"
+    },
+    {
+      "id": "nm3024139",
+      "name": "James O'Neill",
+      "character": "Graduation Reader"
+    },
+    {
+      "id": "nm2945392",
+      "name": "Malinda McCollum",
+      "character": "Waitress"
+    },
+    {
+      "id": "nm2945792",
+      "name": "Paul Knauls",
+      "character": "Building Manager"
+    },
+    {
+      "id": "nm0302108",
+      "name": "Zach Galifianakis",
+      "character": "Kevin"
+    },
+    {
+      "id": "nm2945384",
+      "name": "Craig Mutsch",
+      "character": "Wayne's Crew #1"
+    },
+    {
+      "id": "nm2946126",
+      "name": "Jim Beidler",
+      "character": "Wayne's Crew #2"
+    },
+    {
+      "id": "nm2945855",
+      "name": "John Decker",
+      "character": "Hutterite #1"
+    },
+    {
+      "id": "nm2945037",
+      "name": "John Hofer",
+      "character": "Hutterite #2"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Danish"
+  ],
+  "color": "Color",
+  "filmweb_id": 297829,
+  "year": 2007,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTgwZTJhNWMtNzVjMy00YzQzLWI4MTAtYmJhOGQ5ZmQ3MDM0XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8,
+      "votes": 698427,
+      "distribution": {
+        "1": 7962,
+        "2": 3538,
+        "3": 4734,
+        "4": 7795,
+        "5": 17138,
+        "6": 42803,
+        "7": 115932,
+        "8": 200658,
+        "9": 161909,
+        "10": 135958
+      },
+      "normalized": 7.5367
+    },
+    "filmweb": {
+      "rating": 7.85,
+      "votes": 270799,
+      "distribution": {
+        "1": 1336,
+        "2": 1003,
+        "3": 3232,
+        "4": 4416,
+        "5": 10714,
+        "6": 21115,
+        "7": 50075,
+        "8": 82062,
+        "9": 60097,
+        "10": 36749
+      },
+      "normalized": 7.9131
+    },
+    "jarek": {
+      "rating": 8,
+      "date_rated": "02.12.2010",
+      "normalized": 7.8989
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "27.05.2008",
+      "normalized": 7.2292
+    },
+    "score": 7.6445
+  },
+  "polish_title": "Wszystko za życie",
+  "silent": false,
+  "description_pl": "W 1992 roku po ukończeniu Uniwersytetu Emory wybitny uczeń i sportowiec Christopher McCandless decyduje się zerwać z dotychczasowym, nudnym życiem. Rozdaje swoje rzeczy, przekazuje swoje oszczędności (24000$) na cele charytatywne i rusza autostopem na Alaskę, aby żyć w dzikiej głuszy. Spotyka go wiele przygód, które na zawsze ukształtują jego życie.",
+  "producers": [
+    {
+      "id": "nm0088780",
+      "name": "David Blocker"
+    },
+    {
+      "id": "nm0383837",
+      "name": "Frank Hildebrand"
+    },
+    {
+      "id": "nm0006830",
+      "name": "John J. Kelly"
+    },
+    {
+      "id": "nm0513165",
+      "name": "Art Linson"
+    },
+    {
+      "id": "nm0000576",
+      "name": "Sean Penn"
+    },
+    {
+      "id": "nm0688361",
+      "name": "Bill Pohlad"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0310341",
+      "name": "Eric Gautier"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

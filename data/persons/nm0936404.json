@@ -1,0 +1,45 @@
+{
+  "id": "nm0936404",
+  "name": "Robert Wise",
+  "filmography": [
+    {
+      "imdb_id": "tt0035015",
+      "title": "The Magnificent Ambersons",
+      "year": 1942,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0043456",
+      "title": "The Day the Earth Stood Still",
+      "year": 1951,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0059742",
+      "title": "The Sound of Music",
+      "year": 1965,
+      "roles": [
+        "director",
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTA5MDYxNTc4OTVeQTJeQWpwZ15BbWU2MDg0MDYwNQ@@._V1_.jpg",
+  "birth_date": "10.09.1914",
+  "death_date": "14.09.2005",
+  "birth_location": "Winchester, Indiana, USA",
+  "height": "1.78 m",
+  "filmweb_id": 44715,
+  "name_pl": "Robert Wise",
+  "birth_location_pl": "Winchester, Indiana",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

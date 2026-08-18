@@ -1,0 +1,225 @@
+{
+  "imdb_id": "tt0038991",
+  "title": "The Stranger",
+  "description": "An investigator from the War Crimes Commission travels to Connecticut to find an infamous Nazi.",
+  "runtime_minutes": 95,
+  "release_date": "1946",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Film-Noir",
+    "Mystery",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000080",
+      "name": "Orson Welles"
+    },
+    {
+      "id": "nm0000064",
+      "name": "Edward G. Robinson"
+    },
+    {
+      "id": "nm0949835",
+      "name": "Loretta Young"
+    },
+    {
+      "id": "nm0580882",
+      "name": "Philip Merivale"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000080",
+      "name": "Orson Welles"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0892044",
+      "name": "Anthony Veiller"
+    },
+    {
+      "id": "nm0873193",
+      "name": "Victor Trivas"
+    },
+    {
+      "id": "nm0242938",
+      "name": "Decla Dunning"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000080",
+      "name": "Orson Welles",
+      "character": "Prof. Charles Rankin"
+    },
+    {
+      "id": "nm0000064",
+      "name": "Edward G. Robinson",
+      "character": "Mr. Wilson"
+    },
+    {
+      "id": "nm0949835",
+      "name": "Loretta Young",
+      "character": "Mary Longstreet"
+    },
+    {
+      "id": "nm0580882",
+      "name": "Philip Merivale",
+      "character": "Judge Adam Longstreet"
+    },
+    {
+      "id": "nm0519160",
+      "name": "Richard Long",
+      "character": "Noah Longstreet"
+    },
+    {
+      "id": "nm0790164",
+      "name": "Konstantin Shayne",
+      "character": "Konrad Meinike"
+    },
+    {
+      "id": "nm0126405",
+      "name": "Byron Keith",
+      "character": "Dr. Jeffrey Lawrence"
+    },
+    {
+      "id": "nm0396633",
+      "name": "Billy House",
+      "character": "Mr. Potter"
+    },
+    {
+      "id": "nm0921131",
+      "name": "Martha Wentworth",
+      "character": "Sara"
+    },
+    {
+      "id": "nm0020200",
+      "name": "David Bond",
+      "character": "Student"
+    },
+    {
+      "id": "nm0113876",
+      "name": "John Brown",
+      "character": "Passport Photographer"
+    },
+    {
+      "id": "nm0230104",
+      "name": "Neal Dodd",
+      "character": "Minister"
+    },
+    {
+      "id": "nm0263091",
+      "name": "Nancy Evans",
+      "character": "Undetermined Role"
+    },
+    {
+      "id": "nm0269706",
+      "name": "Adolph Faylauer",
+      "character": "War Crimes Commision Member"
+    },
+    {
+      "id": "nm0324176",
+      "name": "Fred Godoy",
+      "character": "Undetermined Role"
+    },
+    {
+      "id": "nm0857475",
+      "name": "Theodore Gottlieb",
+      "character": "Fairbright"
+    },
+    {
+      "id": "nm0334724",
+      "name": "Joseph Granby",
+      "character": "Undetermined Role"
+    },
+    {
+      "id": "nm0481756",
+      "name": "Ethan Laidlaw",
+      "character": "Todd"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 31656,
+  "year": 1946,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOGViZjhjNWQtZjY2MS00OTExLThlNDUtYTIwZTgwODdhMDdhXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.3,
+      "votes": 31135,
+      "distribution": {
+        "1": 190,
+        "2": 85,
+        "3": 188,
+        "4": 425,
+        "5": 1331,
+        "6": 3835,
+        "7": 10397,
+        "8": 9638,
+        "9": 2961,
+        "10": 2085
+      },
+      "normalized": 6.0356
+    },
+    "filmweb": {
+      "rating": 6.8,
+      "votes": 2518,
+      "distribution": {
+        "1": 4,
+        "2": 4,
+        "3": 16,
+        "4": 50,
+        "5": 191,
+        "6": 602,
+        "7": 1049,
+        "8": 486,
+        "9": 86,
+        "10": 30
+      },
+      "normalized": 5.2294
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "10.12.2005",
+      "normalized": 6.3474
+    },
+    "score": 5.8708
+  },
+  "polish_title": "Intruz",
+  "silent": false,
+  "description_pl": "Wysoki rangą urzędnik hitlerowski Franz Kindler uciekł przed represjami do USA. Tam ukrył się w małym miasteczku i przybrał nowe nazwisko Charles Rankin. Następnie ożenił się i prowadził spokojne życie nauczyciela. Do czasu. Po latach agent niemiecki Konrad Meinike odnajduje go i przypomina stare winy. Rankin zabija przybysza. Miejscowa policja rozpoczyna śledztwo, które prowadzi detektyw Wilson. Policjant zaczyna przypuszczać, że profesor ukrywa prawdziwą tożsamość...",
+  "producers": [
+    {
+      "id": "nm0818545",
+      "name": "Sam Spiegel"
+    },
+    {
+      "id": "nm0001379",
+      "name": "John Huston"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006147",
+      "name": "Bronislau Kaper"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005797",
+      "name": "Russell Metty"
+    }
+  ],
+  "fetched_at": "2026-08-15"
+}

@@ -1,0 +1,77 @@
+{
+  "imdb_id": "tt0466876",
+  "title": "Leisurely Pedestrians, Open Topped Buses and Hansom Cabs with Trotting Horses",
+  "description": "Alleged silent black-and-white short film shot at Apsley Gate, Hyde Park, London.",
+  "runtime_minutes": 1,
+  "release_date": "16.11.1890",
+  "genres": [
+    "Documentary",
+    "Short"
+  ],
+  "directors": [
+    {
+      "id": "nm1961777",
+      "name": "William Friese-Greene"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 269181,
+  "year": 1889,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZmQwYTU2OTItMmM5MS00Y2U4LWIxZTAtZWVkMTQyNGY4YzNlXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5,
+      "votes": 589,
+      "distribution": {
+        "1": 63,
+        "2": 26,
+        "3": 42,
+        "4": 52,
+        "5": 149,
+        "6": 98,
+        "7": 49,
+        "8": 23,
+        "9": 13,
+        "10": 74
+      },
+      "normalized": 3.8536
+    },
+    "filmweb": {
+      "rating": 4.01,
+      "votes": 88,
+      "distribution": {
+        "1": 19,
+        "2": 11,
+        "3": 11,
+        "4": 15,
+        "5": 10,
+        "6": 7,
+        "7": 5,
+        "8": 3,
+        "9": 2,
+        "10": 5
+      },
+      "normalized": 4.0385
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "11.12.2016",
+      "normalized": 4.9718
+    },
+    "score": 4.288
+  },
+  "polish_title": "Leisurely Pedestrians, Open Topped Buses and Hansom Cabs with Trotting Horses",
+  "silent": true,
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-16"
+}

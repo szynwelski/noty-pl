@@ -1,0 +1,109 @@
+{
+  "imdb_id": "tt0229300",
+  "title": "Chinese Laundry Scene",
+  "description": "The pursuit of Hop Lee by an irate policeman.",
+  "runtime_minutes": 1,
+  "release_date": "26.11.1894",
+  "genres": [
+    "Short",
+    "Comedy",
+    "Crime"
+  ],
+  "stars": [
+    {
+      "id": "nm1641038",
+      "name": "Phil Doreto"
+    },
+    {
+      "id": "nm1641126",
+      "name": "Robetta"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0005690",
+      "name": "William K.L. Dickson"
+    },
+    {
+      "id": "nm0374658",
+      "name": "William Heise"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1641038",
+      "name": "Phil Doreto",
+      "character": ""
+    },
+    {
+      "id": "nm1641126",
+      "name": "Robetta",
+      "character": ""
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "None",
+    "English"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 272730,
+  "year": 1894,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMGQ0MGM2MWMtMjAwMy00ZjllLWJlMzAtNTIyNmVmNjRjMzVkXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.6,
+      "votes": 706,
+      "distribution": {
+        "1": 24,
+        "2": 22,
+        "3": 33,
+        "4": 69,
+        "5": 199,
+        "6": 165,
+        "7": 104,
+        "8": 43,
+        "9": 14,
+        "10": 33
+      },
+      "normalized": 4.2035
+    },
+    "filmweb": {
+      "rating": 4.86,
+      "votes": 86,
+      "distribution": {
+        "1": 3,
+        "2": 8,
+        "3": 7,
+        "4": 11,
+        "5": 26,
+        "6": 16,
+        "7": 13,
+        "8": 1,
+        "9": 1,
+        "10": 0
+      },
+      "normalized": 4.3428
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "11.12.2016",
+      "normalized": 7.1247
+    },
+    "score": 5.2237
+  },
+  "polish_title": "Chinese Laundry Scene",
+  "silent": true,
+  "description_pl": "Scena dzieje się przed pralnią. Wszystko zaczyna się, gdy pewien Chińczyk uderza policjanta w głowę i wbiega do pralni. Zaczyna się wtedy pogoń za &#8222;chuliganem&#8221;.",
+  "cinematographers": [
+    {
+      "id": "nm0374658",
+      "name": "William Heise"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

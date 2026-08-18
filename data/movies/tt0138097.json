@@ -1,0 +1,252 @@
+{
+  "imdb_id": "tt0138097",
+  "title": "Shakespeare in Love",
+  "description": "History's greatest playwright is young, out of ideas and short of cash, but meets his ideal woman and is inspired to write one of his most famous plays.",
+  "runtime_minutes": 123,
+  "release_date": "08.01.1999",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "History",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0000569",
+      "name": "Gwyneth Paltrow"
+    },
+    {
+      "id": "nm0001212",
+      "name": "Joseph Fiennes"
+    },
+    {
+      "id": "nm0001691",
+      "name": "Geoffrey Rush"
+    },
+    {
+      "id": "nm0929489",
+      "name": "Tom Wilkinson"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0006960",
+      "name": "John Madden"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0635565",
+      "name": "Marc Norman"
+    },
+    {
+      "id": "nm0001779",
+      "name": "Tom Stoppard"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000569",
+      "name": "Gwyneth Paltrow",
+      "character": "Viola De Lesseps"
+    },
+    {
+      "id": "nm0001212",
+      "name": "Joseph Fiennes",
+      "character": "Will Shakespeare"
+    },
+    {
+      "id": "nm0001691",
+      "name": "Geoffrey Rush",
+      "character": "Philip Henslowe"
+    },
+    {
+      "id": "nm0929489",
+      "name": "Tom Wilkinson",
+      "character": "Hugh Fennyman"
+    },
+    {
+      "id": "nm0640838",
+      "name": "Steven O'Donnell",
+      "character": "Lambert"
+    },
+    {
+      "id": "nm0573406",
+      "name": "Tim McMullan",
+      "character": "Frees"
+    },
+    {
+      "id": "nm0063945",
+      "name": "Steven Beard",
+      "character": "Makepeace, the Preacher"
+    },
+    {
+      "id": "nm0792029",
+      "name": "Antony Sher",
+      "character": "Dr Moth"
+    },
+    {
+      "id": "nm0055271",
+      "name": "Patrick Barlow",
+      "character": "Will Kempe"
+    },
+    {
+      "id": "nm0167340",
+      "name": "Martin Clunes",
+      "character": "Richard Burbage"
+    },
+    {
+      "id": "nm0718284",
+      "name": "Sandra Reinton",
+      "character": "Rosaline"
+    },
+    {
+      "id": "nm0001003",
+      "name": "Simon Callow",
+      "character": "Tilney, Master of the Revels"
+    },
+    {
+      "id": "nm0001132",
+      "name": "Judi Dench",
+      "character": "Queen Elizabeth"
+    },
+    {
+      "id": "nm0566259",
+      "name": "Bridget McConnell",
+      "character": "Lady in Waiting"
+    },
+    {
+      "id": "nm0322510",
+      "name": "Georgie Glen",
+      "character": "Lady in Waiting"
+    },
+    {
+      "id": "nm0099610",
+      "name": "Nicholas Boulton",
+      "character": "Henry Condell"
+    },
+    {
+      "id": "nm0001767",
+      "name": "Imelda Staunton",
+      "character": "Nurse"
+    },
+    {
+      "id": "nm0000147",
+      "name": "Colin Firth",
+      "character": "Lord Wessex"
+    }
+  ],
+  "countries": [
+    "United Kingdom",
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 205,
+  "year": 1998,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYmM3MTllNzYtN2MzNS00NWQwLTk0NTEtNjY1MmMwYjNkNTE5XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.1,
+      "votes": 243961,
+      "distribution": {
+        "1": 5099,
+        "2": 2545,
+        "3": 3632,
+        "4": 6488,
+        "5": 15380,
+        "6": 35690,
+        "7": 68017,
+        "8": 55204,
+        "9": 28132,
+        "10": 23774
+      },
+      "normalized": 5.7622
+    },
+    "filmweb": {
+      "rating": 6.97,
+      "votes": 89865,
+      "distribution": {
+        "1": 527,
+        "2": 485,
+        "3": 1439,
+        "4": 2724,
+        "5": 6916,
+        "6": 16368,
+        "7": 29449,
+        "8": 21317,
+        "9": 6594,
+        "10": 4046
+      },
+      "normalized": 5.5657
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "21.02.2011",
+      "normalized": 4.9718
+    },
+    "michal": {
+      "rating": 3,
+      "date_rated": "19.10.2005",
+      "normalized": 3.8753
+    },
+    "score": 5.0438
+  },
+  "polish_title": "Zakochany Szekspir",
+  "silent": false,
+  "description_pl": "Wiliam Szekspir (<a href=\"/osoba/?id=nm0001212\">Joseph Fiennes</a>), młody dramaturg cierpi na niemoc twórczą i to właśnie w okresie, gdy dostaje zamówienie na sztukę, która może okazać się jego \"przepustką do lepszego świata\". Pewnego dnia podczas przesłuchania aktorów poznaje urodziwego młodzieńca, któremu powierza jedną z głównych ról. Jednak niechcący Will odkrywa, że jego młody przyjaciel w rzeczywistości jest... kobietą o imieniu Viola (<a href=\"/osoba/?id=nm0000569\">Gwyneth Paltrow</a>). Lady Viola i Szekspir zakochują się w sobie, nawiązując płomienny romans, a jednocześnie przed innymi ludźmi grając komedię, w której Viola wciąż jest mężczyzną. Ta znajomość okazuje się dla pisarza prawdziwym lekarstwem, a w jego sztuce dochodzi do przełomu. Niestety, Viola została obiecana innemu mężczyźnie (<a href=\"/osoba/?id=nm0000147\">Colin Firth</a>) i kiedy prawda wychodzi na jaw, kochankowie muszą się rozdzielić. Życie przyszykowało jednak dla nich jeszcze niejedną niespodziankę...",
+  "producers": [
+    {
+      "id": "nm0115536",
+      "name": "Linda Bruce"
+    },
+    {
+      "id": "nm0178243",
+      "name": "Mark Cooper"
+    },
+    {
+      "id": "nm0317642",
+      "name": "Donna Gigliotti"
+    },
+    {
+      "id": "nm0326252",
+      "name": "Julie Goldstein"
+    },
+    {
+      "id": "nm0635565",
+      "name": "Marc Norman"
+    },
+    {
+      "id": "nm0661406",
+      "name": "David Parfitt"
+    },
+    {
+      "id": "nm0918424",
+      "name": "Bob Weinstein"
+    },
+    {
+      "id": "nm0005544",
+      "name": "Harvey Weinstein"
+    },
+    {
+      "id": "nm0001880",
+      "name": "Edward Zwick"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006339",
+      "name": "Stephen Warbeck"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0337313",
+      "name": "Richard Greatrex"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

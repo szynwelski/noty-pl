@@ -1,0 +1,256 @@
+{
+  "imdb_id": "tt1549589",
+  "title": "Elles",
+  "description": "On her latest assignment, a journalist for Elle immerses herself in a prostitution ring run by university students.",
+  "runtime_minutes": 99,
+  "release_date": "01.02.2012",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0000300",
+      "name": "Juliette Binoche"
+    },
+    {
+      "id": "nm1326732",
+      "name": "Anaïs Demoustier"
+    },
+    {
+      "id": "nm2251846",
+      "name": "Joanna Kulig"
+    },
+    {
+      "id": "nm0209629",
+      "name": "Louis-Do de Lencquesaing"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0844333",
+      "name": "Malgorzata Szumowska"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm3703846",
+      "name": "Tine Byrckel"
+    },
+    {
+      "id": "nm0844333",
+      "name": "Malgorzata Szumowska"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000300",
+      "name": "Juliette Binoche",
+      "character": "Anne"
+    },
+    {
+      "id": "nm1326732",
+      "name": "Anaïs Demoustier",
+      "character": "Charlotte"
+    },
+    {
+      "id": "nm2251846",
+      "name": "Joanna Kulig",
+      "character": "Alicja"
+    },
+    {
+      "id": "nm0209629",
+      "name": "Louis-Do de Lencquesaing",
+      "character": "Patrick"
+    },
+    {
+      "id": "nm0417370",
+      "name": "Krystyna Janda",
+      "character": "La mère d'Alicja"
+    },
+    {
+      "id": "nm0161607",
+      "name": "Andrzej Chyra",
+      "character": "Le client sadique"
+    },
+    {
+      "id": "nm3545569",
+      "name": "Ali Marhyar",
+      "character": "Saïd"
+    },
+    {
+      "id": "nm3904433",
+      "name": "Jean-Marie Binoche",
+      "character": "Le père d'Anne"
+    },
+    {
+      "id": "nm2476624",
+      "name": "François Civil",
+      "character": "Florent"
+    },
+    {
+      "id": "nm4456270",
+      "name": "Pablo Beugnet",
+      "character": "Stéphane"
+    },
+    {
+      "id": "nm0238811",
+      "name": "Valérie Dréville",
+      "character": "La mère de Charlotte"
+    },
+    {
+      "id": "nm0183430",
+      "name": "Jean-Louis Coulloc'h",
+      "character": "Le père de Charlotte"
+    },
+    {
+      "id": "nm1128352",
+      "name": "Arthur Moncla",
+      "character": "Thomas"
+    },
+    {
+      "id": "nm0217783",
+      "name": "Scali Delpeyrat",
+      "character": "Charles"
+    },
+    {
+      "id": "nm0706570",
+      "name": "Laurence Ragon",
+      "character": "Colette"
+    },
+    {
+      "id": "nm0508888",
+      "name": "Alain Libolt",
+      "character": "Le mari de Colette"
+    },
+    {
+      "id": "nm0035128",
+      "name": "Swann Arlaud",
+      "character": "Le jeune client"
+    },
+    {
+      "id": "nm1854965",
+      "name": "Nicolas Layani",
+      "character": "Le client guitare"
+    }
+  ],
+  "countries": [
+    "France",
+    "Poland",
+    "Germany"
+  ],
+  "languages": [
+    "French",
+    "English",
+    "Polish",
+    "Arabic"
+  ],
+  "color": "Color",
+  "filmweb_id": 509760,
+  "year": 2011,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzAyNTU5MTQyNF5BMl5BanBnXkFtZTcwODY4NTk2Nw@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.6,
+      "votes": 8037,
+      "distribution": {
+        "1": 309,
+        "2": 262,
+        "3": 445,
+        "4": 806,
+        "5": 1629,
+        "6": 2016,
+        "7": 1415,
+        "8": 634,
+        "9": 216,
+        "10": 305
+      },
+      "normalized": 3.1725
+    },
+    "filmweb": {
+      "rating": 5.22,
+      "votes": 49115,
+      "distribution": {
+        "1": 1168,
+        "2": 1426,
+        "3": 5474,
+        "4": 6640,
+        "5": 12649,
+        "6": 10883,
+        "7": 7209,
+        "8": 2785,
+        "9": 600,
+        "10": 281
+      },
+      "normalized": 2.1018
+    },
+    "jarek": {
+      "rating": 2,
+      "date_rated": "18.07.2013",
+      "normalized": 3.5003
+    },
+    "score": 2.9249
+  },
+  "polish_title": "Sponsoring",
+  "silent": false,
+  "description_pl": "Anna (<a href=\"/osoba/?id=nm0000300\">Juliette Binoche</a>), dziennikarka Elle, ma napisać artykuł o prostytucji na uniwersytetach paryskich. Podczas pracy nad tekstem poznaje dwie dziewczyny - Charlotte (Anais Demoustier) i Alicję (<a href=\"/osoba/?id=nm2251846\">Joanna Kulig</a>), które przez aspirację do lepszego życia sprzedają swoje ciało. Powoli wprowadzają również Annę do świata płatnej miłości, który jest jednocześnie obrzydliwy i pociągający.",
+  "producers": [
+    {
+      "id": "nm0089631",
+      "name": "Daniel Blum"
+    },
+    {
+      "id": "nm0111236",
+      "name": "Bettina Brokemper"
+    },
+    {
+      "id": "nm0255605",
+      "name": "Reinhold Elschot"
+    },
+    {
+      "id": "nm1037838",
+      "name": "Peter Garde"
+    },
+    {
+      "id": "nm1029845",
+      "name": "Olivier Guerbois"
+    },
+    {
+      "id": "nm0421639",
+      "name": "Peter Aalbæk Jensen"
+    },
+    {
+      "id": "nm2779650",
+      "name": "Agnieszka Kurzydlo"
+    },
+    {
+      "id": "nm0714909",
+      "name": "Johannes Rexin"
+    },
+    {
+      "id": "nm2019195",
+      "name": "Beata Ryczkowska"
+    },
+    {
+      "id": "nm0806197",
+      "name": "Marianne Slot"
+    },
+    {
+      "id": "nm0844333",
+      "name": "Malgorzata Szumowska"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0586409",
+      "name": "Pawel Mykietyn"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0960867",
+      "name": "Michal Englert"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

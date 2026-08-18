@@ -1,0 +1,49 @@
+{
+  "id": "nm0001250",
+  "name": "Charlotte Gainsbourg",
+  "filmography": [
+    {
+      "imdb_id": "tt0315733",
+      "title": "21 Grams",
+      "year": 2003,
+      "roles": [
+        "cast"
+      ],
+      "character": "Mary Rivers"
+    },
+    {
+      "imdb_id": "tt0354899",
+      "title": "The Science of Sleep",
+      "year": 2006,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Stéphanie"
+    },
+    {
+      "imdb_id": "tt1628841",
+      "title": "Independence Day: Resurgence",
+      "year": 2016,
+      "roles": [
+        "cast"
+      ],
+      "character": "Catherine Marceaux"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNDQyMzQ5NTEzNl5BMl5BanBnXkFtZTcwNjI3NTEzNQ@@._V1_.jpg",
+  "birth_date": "21.07.1971",
+  "birth_location": "London, England, UK",
+  "height": "1.73 m",
+  "filmweb_id": 40267,
+  "name_pl": "Charlotte Gainsbourg",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja",
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 40267
+}

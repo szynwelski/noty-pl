@@ -1,0 +1,226 @@
+{
+  "imdb_id": "tt0086567",
+  "title": "WarGames",
+  "description": "A young teen boy finds a back door into a military central computer in which reality is confused with game-playing, possibly starting World War III.",
+  "runtime_minutes": 114,
+  "release_date": "03.06.1983",
+  "genres": [
+    "Action",
+    "Drama",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000111",
+      "name": "Matthew Broderick"
+    },
+    {
+      "id": "nm0000639",
+      "name": "Ally Sheedy"
+    },
+    {
+      "id": "nm0939795",
+      "name": "John Wood"
+    },
+    {
+      "id": "nm0001056",
+      "name": "Dabney Coleman"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000824",
+      "name": "John Badham"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0489623",
+      "name": "Lawrence Lasker"
+    },
+    {
+      "id": "nm0662748",
+      "name": "Walter F. Parkes"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000111",
+      "name": "Matthew Broderick",
+      "character": "David Lightman"
+    },
+    {
+      "id": "nm0000639",
+      "name": "Ally Sheedy",
+      "character": "Jennifer"
+    },
+    {
+      "id": "nm0939795",
+      "name": "John Wood",
+      "character": "Falken"
+    },
+    {
+      "id": "nm0001056",
+      "name": "Dabney Coleman",
+      "character": "McKittrick"
+    },
+    {
+      "id": "nm0179224",
+      "name": "Barry Corbin",
+      "character": "General Beringer"
+    },
+    {
+      "id": "nm0165536",
+      "name": "Juanin Clay",
+      "character": "Pat Healy"
+    },
+    {
+      "id": "nm5911607",
+      "name": "Kent Williams",
+      "character": "Cabot"
+    },
+    {
+      "id": "nm0513731",
+      "name": "Dennis Lipscomb",
+      "character": "Watson"
+    },
+    {
+      "id": "nm0234154",
+      "name": "Joe Dorsey",
+      "character": "Conley"
+    },
+    {
+      "id": "nm0582778",
+      "name": "Irving Metzman",
+      "character": "Richter"
+    },
+    {
+      "id": "nm0258117",
+      "name": "Michael Ensign",
+      "character": "Beringer's Aide"
+    },
+    {
+      "id": "nm0091722",
+      "name": "William Bogert",
+      "character": "Mr. Lightman"
+    },
+    {
+      "id": "nm0205522",
+      "name": "Susan Davis",
+      "character": "Mrs. Lightman"
+    },
+    {
+      "id": "nm0866055",
+      "name": "James Tolkan",
+      "character": "Wigan"
+    },
+    {
+      "id": "nm0167254",
+      "name": "David Clover",
+      "character": "Stockman"
+    },
+    {
+      "id": "nm0811446",
+      "name": "Drew Snyder",
+      "character": "Ayers"
+    },
+    {
+      "id": "nm0304950",
+      "name": "John Garber",
+      "character": "Corporal in the Infirmary"
+    },
+    {
+      "id": "nm0932830",
+      "name": "Duncan Wilmore",
+      "character": "Major Lem"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 5960,
+  "year": 1983,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMmM5MDlmZWUtYTE1Mi00M2JiLTk1NzYtMTg0NTdlMzM2N2RkXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.1,
+      "votes": 122719,
+      "distribution": {
+        "1": 628,
+        "2": 382,
+        "3": 791,
+        "4": 1921,
+        "5": 6145,
+        "6": 18991,
+        "7": 43613,
+        "8": 30236,
+        "9": 10894,
+        "10": 9118
+      },
+      "normalized": 5.7284
+    },
+    "filmweb": {
+      "rating": 6.92,
+      "votes": 12377,
+      "distribution": {
+        "1": 18,
+        "2": 24,
+        "3": 123,
+        "4": 272,
+        "5": 825,
+        "6": 2640,
+        "7": 4901,
+        "8": 2620,
+        "9": 637,
+        "10": 317
+      },
+      "normalized": 5.4655
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "15.08.2006",
+      "normalized": 5.4199
+    },
+    "score": 5.5379
+  },
+  "polish_title": "Gry wojenne",
+  "silent": false,
+  "description_pl": "Pasją Davida (<a href=\"/osoba/?id=nm0000111\">Matthew Broderick</a>), ucznia jednej z amerykańskich szkół, są komputery. Jest on na tyle zaznajomiony z nowymi technologiami, iż bez problemu potrafi włamać się do szkolnego systemu informatycznego i poprawić sobie oceny. Jednak największym zainteresowaniem darzy on komputerowe gry wojenne. W poszukiwaniu nowych gier zupełnie przypadkowo podłącza się do komputera Pentagonu, który w początkowej fazie projektów służył jako symulator globalnej wojny atomowej. Wkrótce okazuje się, że gra z komputerem staje się rzeczywistością. Jak w takiej sytuacji przekonać główny komputer odpowiedzialny za obronę kraju, żeby odróżnił grę od rzeczywistości?",
+  "producers": [
+    {
+      "id": "nm0325252",
+      "name": "Leonard Goldberg"
+    },
+    {
+      "id": "nm0368069",
+      "name": "Richard Hashimoto"
+    },
+    {
+      "id": "nm0773837",
+      "name": "Harold Schneider"
+    },
+    {
+      "id": "nm1557652",
+      "name": "Bruce McNall"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0006265",
+      "name": "Arthur B. Rubinstein"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005710",
+      "name": "William A. Fraker"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

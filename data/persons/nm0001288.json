@@ -1,0 +1,49 @@
+{
+  "id": "nm0001288",
+  "name": "Kelsey Grammer",
+  "filmography": [
+    {
+      "imdb_id": "tt0204824",
+      "title": "Animal Farm",
+      "year": 1999,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Snowball"
+    },
+    {
+      "imdb_id": "tt0120363",
+      "title": "Toy Story 2",
+      "year": 1999,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Prospector"
+    },
+    {
+      "imdb_id": "tt0376994",
+      "title": "X-Men: The Last Stand",
+      "year": 2006,
+      "roles": [
+        "cast"
+      ],
+      "character": "Dr. Henry 'Hank' McCoy"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjEyNjkxODM5N15BMl5BanBnXkFtZTcwMTU3NDE1Mg@@._V1_.jpg",
+  "birth_date": "21.02.1955",
+  "birth_location": "St. Thomas, U.S. Virgin Islands",
+  "height": "1.85 m",
+  "filmweb_id": 7880,
+  "name_pl": "Kelsey Grammer",
+  "birth_location_pl": "Saint Thomas, Wyspy Dziewicze",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 7880
+}

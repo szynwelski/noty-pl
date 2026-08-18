@@ -1,0 +1,49 @@
+{
+  "id": "nm1141111",
+  "name": "Sanne Wohlenberg",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzk3NGFhODMtMTU4ZC00MWEwLWJmNDktNzhhMTkyOWE4YWRiXkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt2085059",
+      "title": "Black Mirror",
+      "year": 2011,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt5709236",
+      "title": "Hated in the Nation",
+      "year": 2016,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt5710976",
+      "title": "Crocodile",
+      "year": 2017,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt7366338",
+      "title": "Chernobyl",
+      "year": 2019,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "birth_date": "09.08.1968",
+  "birth_location": "Germany",
+  "filmweb_id": 496660,
+  "name_pl": "Sanne Wohlenberg",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Niemcy"
+  ]
+}

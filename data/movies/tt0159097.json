@@ -1,0 +1,253 @@
+{
+  "imdb_id": "tt0159097",
+  "title": "The Virgin Suicides",
+  "description": "A group of male friends become obsessed with five mysterious sisters who are sheltered by their strict, religious parents in suburban Detroit in the mid 1970s.",
+  "runtime_minutes": 97,
+  "release_date": "19.05.2000",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0000379",
+      "name": "Kirsten Dunst"
+    },
+    {
+      "id": "nm0001326",
+      "name": "Josh Hartnett"
+    },
+    {
+      "id": "nm0000249",
+      "name": "James Woods"
+    },
+    {
+      "id": "nm0000678",
+      "name": "Kathleen Turner"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001068",
+      "name": "Sofia Coppola"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0262325",
+      "name": "Jeffrey Eugenides"
+    },
+    {
+      "id": "nm0001068",
+      "name": "Sofia Coppola"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000379",
+      "name": "Kirsten Dunst",
+      "character": "Lux Lisbon"
+    },
+    {
+      "id": "nm0001326",
+      "name": "Josh Hartnett",
+      "character": "Trip Fontaine"
+    },
+    {
+      "id": "nm0000249",
+      "name": "James Woods",
+      "character": "Mr. Lisbon"
+    },
+    {
+      "id": "nm0000678",
+      "name": "Kathleen Turner",
+      "character": "Mrs. Lisbon"
+    },
+    {
+      "id": "nm0001595",
+      "name": "Michael Paré",
+      "character": "Adult Trip Fontaine"
+    },
+    {
+      "id": "nm0001277",
+      "name": "Scott Glenn",
+      "character": "Father Moody"
+    },
+    {
+      "id": "nm0000362",
+      "name": "Danny DeVito",
+      "character": "Dr. Horniker"
+    },
+    {
+      "id": "nm0176882",
+      "name": "A.J. Cook",
+      "character": "Mary Lisbon"
+    },
+    {
+      "id": "nm0355632",
+      "name": "Hanna Hall",
+      "character": "Cecilia Lisbon"
+    },
+    {
+      "id": "nm0371353",
+      "name": "Leslie Hayman",
+      "character": "Therese Lisbon"
+    },
+    {
+      "id": "nm0841471",
+      "name": "Chelse Swain",
+      "character": "Bonnie Lisbon"
+    },
+    {
+      "id": "nm0221254",
+      "name": "Anthony DeSimone",
+      "character": "Chase Buell"
+    },
+    {
+      "id": "nm0434574",
+      "name": "Lee Kagan",
+      "character": "David Barker"
+    },
+    {
+      "id": "nm0777521",
+      "name": "Robert Schwartzman",
+      "character": "Paul Baldino"
+    },
+    {
+      "id": "nm0790520",
+      "name": "FourTee",
+      "character": "Parkie Denton"
+    },
+    {
+      "id": "nm0006958",
+      "name": "Jonathan Tucker",
+      "character": "Tim Weiner"
+    },
+    {
+      "id": "nm0739940",
+      "name": "Joe Roncetti",
+      "character": "Kevin Head"
+    },
+    {
+      "id": "nm0159789",
+      "name": "Hayden Christensen",
+      "character": "Jake Hill Conley"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 10981,
+  "year": 1999,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMmNhYTE5MjQtMzI2Ny00MDRhLWE4ZjAtYTg0YjNhNjZmMTVlXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.2,
+      "votes": 187950,
+      "distribution": {
+        "1": 2056,
+        "2": 1271,
+        "3": 2104,
+        "4": 4197,
+        "5": 10195,
+        "6": 26191,
+        "7": 55239,
+        "8": 48370,
+        "9": 21469,
+        "10": 16858
+      },
+      "normalized": 5.9381
+    },
+    "filmweb": {
+      "rating": 7.29,
+      "votes": 49551,
+      "distribution": {
+        "1": 140,
+        "2": 128,
+        "3": 549,
+        "4": 896,
+        "5": 2852,
+        "6": 6847,
+        "7": 15155,
+        "8": 14967,
+        "9": 5510,
+        "10": 2507
+      },
+      "normalized": 6.2262
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "24.08.2011",
+      "normalized": 6.4102
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "19.10.2005",
+      "normalized": 5.4199
+    },
+    "score": 5.9986
+  },
+  "polish_title": "Przekleństwa niewinności",
+  "silent": false,
+  "description_pl": "Państwo Lisbon są rodzicami pięciu atrakcyjnych nastoletnich córek. Dziewczęta, w wieku od trzynastu do siedemnastu lat, zaczynają odkrywać przyjemności dojrzewania, a ich rodzice - gorliwi katolicy - w patologiczny sposób kontrolują ich życie. Izolują dziewczęta od każdego chłopca, który okaże najmniejszy ślad zainteresowania którąkolwiek z córek. Pozornie doskonałe życie dysfunkcyjnej rodziny zostaje zaburzone, gdy najmłodsza z dziewcząt usiłuje popełnić samobójstwo.",
+  "producers": [
+    {
+      "id": "nm0126653",
+      "name": "Willi Bär"
+    },
+    {
+      "id": "nm0003681",
+      "name": "Suzanne Colvin"
+    },
+    {
+      "id": "nm0000338",
+      "name": "Francis Ford Coppola"
+    },
+    {
+      "id": "nm0182449",
+      "name": "Julie Costanzo"
+    },
+    {
+      "id": "nm0297209",
+      "name": "Fred Fuchs"
+    },
+    {
+      "id": "nm0314976",
+      "name": "Jordan Gertner"
+    },
+    {
+      "id": "nm0357074",
+      "name": "Dan Halsted"
+    },
+    {
+      "id": "nm0360065",
+      "name": "Chris Hanley"
+    },
+    {
+      "id": "nm0546110",
+      "name": "Gary Marcus"
+    },
+    {
+      "id": "nm0740407",
+      "name": "Fred Roos"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm2224447",
+      "name": "Air"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005767",
+      "name": "Edward Lachman"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

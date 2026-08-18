@@ -1,0 +1,43 @@
+{
+  "id": "nm0358591",
+  "name": "Dashiell Hammett",
+  "filmography": [
+    {
+      "imdb_id": "tt0033870",
+      "title": "The Maltese Falcon",
+      "year": 1941,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0100150",
+      "title": "Miller's Crossing",
+      "year": 1990,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0292610",
+      "title": "No Good Deed",
+      "year": 2002,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BY2E0M2I4NTgtNmM1Mi00YTZmLWEzZGUtNzkzYzU4ZWZiMTNhXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "27.05.1894",
+  "death_date": "10.01.1961",
+  "birth_location": "St. Mary's County, Maryland, USA",
+  "filmweb_id": 101120,
+  "name_pl": "Dashiell Hammett",
+  "birth_location_pl": "Maryland",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

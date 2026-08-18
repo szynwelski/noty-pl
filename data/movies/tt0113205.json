@@ -1,0 +1,188 @@
+{
+  "imdb_id": "tt0113205",
+  "title": "Grajacy z talerza",
+  "description": "The runaway circus freak falls for his co-worker, who happens to be a dwarf woman.",
+  "runtime_minutes": 107,
+  "release_date": "1995",
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0669813",
+      "name": "Franciszek Pieczka"
+    },
+    {
+      "id": "nm0657319",
+      "name": "Dojnica Paladiuk"
+    },
+    {
+      "id": "nm0292302",
+      "name": "Jolanta Fraszynska"
+    },
+    {
+      "id": "nm0762790",
+      "name": "Mariusz Saniternik"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0464383",
+      "name": "Jan Jakub Kolski"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0464383",
+      "name": "Jan Jakub Kolski"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0669813",
+      "name": "Franciszek Pieczka",
+      "character": "Marczyk"
+    },
+    {
+      "id": "nm0657319",
+      "name": "Dojnica Paladiuk",
+      "character": "Janka"
+    },
+    {
+      "id": "nm0292302",
+      "name": "Jolanta Fraszynska",
+      "character": "Janka"
+    },
+    {
+      "id": "nm0762790",
+      "name": "Mariusz Saniternik",
+      "character": "Morka"
+    },
+    {
+      "id": "nm0682117",
+      "name": "Christoph Pieczynski",
+      "character": "Lunda"
+    },
+    {
+      "id": "nm0088111",
+      "name": "Grazyna Blecka-Kolska",
+      "character": "Kostucha"
+    },
+    {
+      "id": "nm0584663",
+      "name": "Agnieszka Michalska",
+      "character": "Duza Janka"
+    },
+    {
+      "id": "nm0911329",
+      "name": "Grzegorz Warchol",
+      "character": "Dyrektor cyrku"
+    },
+    {
+      "id": "nm0630590",
+      "name": "Henryk Niebudek",
+      "character": "Maszynista"
+    },
+    {
+      "id": "nm0350352",
+      "name": "Lech Gwit",
+      "character": "Konduktor"
+    },
+    {
+      "id": "nm0436628",
+      "name": "Adam Kamien",
+      "character": "Cyrkowiec"
+    },
+    {
+      "id": "nm0796840",
+      "name": "Pawel Siedlik",
+      "character": "Pasazer"
+    },
+    {
+      "id": "nm0534427",
+      "name": "Krystyna Maczka",
+      "character": "Mala Cyrkowka"
+    }
+  ],
+  "countries": [
+    "Poland"
+  ],
+  "languages": [
+    "Polish"
+  ],
+  "color": "Color",
+  "filmweb_id": 5921,
+  "year": 1995,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZjYzNzI2MWUtOTEyOS00Y2I3LWE2OGQtMjVhNWI1MWNiYzI2XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.8,
+      "votes": 177,
+      "distribution": {
+        "1": 12,
+        "2": 2,
+        "3": 5,
+        "4": 5,
+        "5": 17,
+        "6": 20,
+        "7": 32,
+        "8": 41,
+        "9": 17,
+        "10": 26
+      },
+      "normalized": 5.2803
+    },
+    "filmweb": {
+      "rating": 7.71,
+      "votes": 4895,
+      "distribution": {
+        "1": 34,
+        "2": 18,
+        "3": 31,
+        "4": 71,
+        "5": 173,
+        "6": 385,
+        "7": 1063,
+        "8": 1826,
+        "9": 863,
+        "10": 431
+      },
+      "normalized": 7.1299
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "01.11.2006",
+      "normalized": 5.4199
+    },
+    "score": 5.9434
+  },
+  "polish_title": "Grający z talerza",
+  "silent": false,
+  "description_pl": "Podobnie jak w innych filmach Kolskiego, akcja rozgrywa się gdzieś pośród pól, łąk i lasów. Bohaterami są ludzie prości, ale niezwyczajni - karlica Janka; zbiegły z cyrku, gdzie wystawiano go na widok publiczny, potwór Morka; Kostucha rodem z obrazów Malczewskiego i wreszcie Lunda - człowiek grający na skrzypcach i kawałkach talerzy. Dzieło o miłości, życiu i śmierci, przesycone bogatą symboliką i kulturowymi odniesieniami.",
+  "producers": [
+    {
+      "id": "nm0440317",
+      "name": "Lukasz Karwowski"
+    },
+    {
+      "id": "nm0747672",
+      "name": "Kazimierz Rozwalka"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0465102",
+      "name": "Zygmunt Konieczny"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0501689",
+      "name": "Piotr Lenar"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

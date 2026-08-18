@@ -1,0 +1,51 @@
+{
+  "id": "nm0000527",
+  "name": "Walter Matthau",
+  "filmography": [
+    {
+      "imdb_id": "tt0056923",
+      "title": "Charade",
+      "year": 1963,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Hamilton Bartholomew"
+    },
+    {
+      "imdb_id": "tt0071524",
+      "title": "The Front Page",
+      "year": 1974,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Walter Burns"
+    },
+    {
+      "imdb_id": "tt0091757",
+      "title": "Pirates",
+      "year": 1986,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Captain Thomas Bartholomew Red"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZWE2NmRkYTctYTdhYS00ZTRkLTk0NTgtZmYzYmNiOTYzZjQ2XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "01.10.1920",
+  "death_date": "01.07.2000",
+  "birth_location": "Lower East Side, Manhattan, New York City, New York, USA",
+  "height": "1.91 m",
+  "filmweb_id": 8514,
+  "name_pl": "Walter Matthau",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 8514
+}

@@ -1,0 +1,83 @@
+{
+  "imdb_id": "tt0000033",
+  "title": "Horse Trick Riders",
+  "description": "A man tries to get on a horse, but he climbs to one side and falls from the other, until he manages to stay in balance.",
+  "runtime_minutes": 1,
+  "release_date": "1896",
+  "genres": [
+    "Documentary",
+    "Short"
+  ],
+  "directors": [
+    {
+      "id": "nm0525910",
+      "name": "Louis Lumière"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "year": 1895,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzQ3ZjQxOGEtZTA3Ni00MTY4LTg2ZTctM2JjZWI4OWIxOGJhXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 120769,
+  "original_title": "La voltige",
+  "ratings": {
+    "imdb": {
+      "rating": 5.5,
+      "votes": 1203,
+      "distribution": {
+        "1": 45,
+        "2": 48,
+        "3": 61,
+        "4": 117,
+        "5": 299,
+        "6": 333,
+        "7": 158,
+        "8": 65,
+        "9": 23,
+        "10": 54
+      },
+      "normalized": 3.7995
+    },
+    "filmweb": {
+      "rating": 5.33,
+      "votes": 191,
+      "distribution": {
+        "1": 3,
+        "2": 9,
+        "3": 22,
+        "4": 18,
+        "5": 47,
+        "6": 50,
+        "7": 23,
+        "8": 13,
+        "9": 1,
+        "10": 5
+      },
+      "normalized": 4.0643
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "11.12.2016",
+      "normalized": 5.6855
+    },
+    "score": 4.5164
+  },
+  "polish_title": "La voltige",
+  "silent": true,
+  "description_pl": "Akcja filmu dzieje się na zewnątrz. W tle widzimy budynek. Na pierwszym planie stoi koń oraz trzech mężczyzn. Jeden z nich próbuje wsiąść na konia, drugi pomaga mu w tym, trzeci natomiast trzyma zwierzę i śmieje się z upadków kolegi.",
+  "cinematographers": [
+    {
+      "id": "nm0525910",
+      "name": "Louis Lumière"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-15"
+}

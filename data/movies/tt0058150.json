@@ -1,0 +1,232 @@
+{
+  "imdb_id": "tt0058150",
+  "title": "Goldfinger",
+  "description": "While investigating a gold magnate's smuggling, James Bond uncovers a plot to contaminate the Fort Knox gold reserve.",
+  "runtime_minutes": 110,
+  "release_date": "09.01.1965",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000125",
+      "name": "Sean Connery"
+    },
+    {
+      "id": "nm0002085",
+      "name": "Gert Fröbe"
+    },
+    {
+      "id": "nm0000303",
+      "name": "Honor Blackman"
+    },
+    {
+      "id": "nm0247881",
+      "name": "Shirley Eaton"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0357891",
+      "name": "Guy Hamilton"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0537363",
+      "name": "Richard Maibaum"
+    },
+    {
+      "id": "nm0214989",
+      "name": "Paul Dehn"
+    },
+    {
+      "id": "nm0001220",
+      "name": "Ian Fleming"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000125",
+      "name": "Sean Connery",
+      "character": "James Bond"
+    },
+    {
+      "id": "nm0002085",
+      "name": "Gert Fröbe",
+      "character": "Auric Goldfinger"
+    },
+    {
+      "id": "nm0000303",
+      "name": "Honor Blackman",
+      "character": "Pussy Galore"
+    },
+    {
+      "id": "nm0247881",
+      "name": "Shirley Eaton",
+      "character": "Jill Masterson"
+    },
+    {
+      "id": "nm0539965",
+      "name": "Tania Mallet",
+      "character": "Tilly Masterson"
+    },
+    {
+      "id": "nm0757138",
+      "name": "Harold Sakata",
+      "character": "Oddjob"
+    },
+    {
+      "id": "nm0496866",
+      "name": "Bernard Lee",
+      "character": "'M'"
+    },
+    {
+      "id": "nm0072578",
+      "name": "Martin Benson",
+      "character": "Solo"
+    },
+    {
+      "id": "nm0511695",
+      "name": "Cec Linder",
+      "character": "Felix Leiter"
+    },
+    {
+      "id": "nm0932270",
+      "name": "Austin Willis",
+      "character": "Simmons"
+    },
+    {
+      "id": "nm0561755",
+      "name": "Lois Maxwell",
+      "character": "Moneypenny"
+    },
+    {
+      "id": "nm0619440",
+      "name": "Bill Nagy",
+      "character": "Midnight"
+    },
+    {
+      "id": "nm0577996",
+      "name": "Michael Mellinger",
+      "character": "Kisch"
+    },
+    {
+      "id": "nm0186526",
+      "name": "Peter Cranwell",
+      "character": "Johnny"
+    },
+    {
+      "id": "nm0716605",
+      "name": "Nadja Regin",
+      "character": "Bonita"
+    },
+    {
+      "id": "nm0894710",
+      "name": "Richard Vernon",
+      "character": "Smithers"
+    },
+    {
+      "id": "nm0477297",
+      "name": "Burt Kwouk",
+      "character": "Mr. Ling"
+    },
+    {
+      "id": "nm0005155",
+      "name": "Desmond Llewelyn",
+      "character": "'Q'"
+    }
+  ],
+  "countries": [
+    "United Kingdom",
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Chinese",
+    "Spanish"
+  ],
+  "color": "Color",
+  "filmweb_id": 814,
+  "year": 1964,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQ2MzE0OTU3NV5BMl5BanBnXkFtZTcwNjQxNTgzNA@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.7,
+      "votes": 219305,
+      "distribution": {
+        "1": 1123,
+        "2": 524,
+        "3": 1000,
+        "4": 2152,
+        "5": 6511,
+        "6": 19635,
+        "7": 55576,
+        "8": 76132,
+        "9": 31783,
+        "10": 24869
+      },
+      "normalized": 6.8185
+    },
+    "filmweb": {
+      "rating": 7.35,
+      "votes": 59618,
+      "distribution": {
+        "1": 119,
+        "2": 96,
+        "3": 297,
+        "4": 759,
+        "5": 2497,
+        "6": 7819,
+        "7": 20658,
+        "8": 19331,
+        "9": 5169,
+        "10": 2873
+      },
+      "normalized": 6.3574
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "02.12.2005",
+      "normalized": 4.9718
+    },
+    "score": 6.0492
+  },
+  "polish_title": "Goldfinger",
+  "silent": false,
+  "description_pl": "Agent James Bond (<a href=\"/osoba/?id=nm0000125\">Sean Connery</a>) ma rozpracować multimilionera Aurica Goldfingera (Gert Frobe), podejrzanego o kradzież złota z wielu skarbców świata. Sekretarka bogacza (Shirley Eaton) zdradza Bondowi metodę, którą posługuje się jej pracodawca. Wkrótce zostaje zamordowana, a Goldfinger znika bez śladu. Agent 007 rusza za nim w pościg. W drodze do Europy poznaje żądną zemsty siostrę zabitej, Tilly. Niebawem ginie ona z rąk ochroniarza Aurica, Oddjoba. Bond zostaje schwytany i przewieziony do siedziby Goldfingera. Tam milioner przygotowuje się do napadu na skarbiec USA - Fort Knox.",
+  "producers": [
+    {
+      "id": "nm0110482",
+      "name": "Albert R. Broccoli"
+    },
+    {
+      "id": "nm0759162",
+      "name": "Harry Saltzman"
+    },
+    {
+      "id": "nm0814621",
+      "name": "Stanley Sopel"
+    },
+    {
+      "id": "nm0950109",
+      "name": "Terence Young"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0000290",
+      "name": "John Barry"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0601924",
+      "name": "Ted Moore"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

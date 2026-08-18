@@ -1,0 +1,239 @@
+{
+  "imdb_id": "tt0292506",
+  "title": "The Recruit",
+  "description": "A brilliant young CIA trainee is asked by his mentor to help find a mole in the Agency.",
+  "runtime_minutes": 115,
+  "release_date": "31.01.2003",
+  "genres": [
+    "Action",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000199",
+      "name": "Al Pacino"
+    },
+    {
+      "id": "nm0268199",
+      "name": "Colin Farrell"
+    },
+    {
+      "id": "nm0005256",
+      "name": "Bridget Moynahan"
+    },
+    {
+      "id": "nm0532683",
+      "name": "Gabriel Macht"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0002044",
+      "name": "Roger Donaldson"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0870013",
+      "name": "Roger Towne"
+    },
+    {
+      "id": "nm0934483",
+      "name": "Kurt Wimmer"
+    },
+    {
+      "id": "nm0322248",
+      "name": "Mitch Glazer"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000199",
+      "name": "Al Pacino",
+      "character": "Walter Burke"
+    },
+    {
+      "id": "nm0268199",
+      "name": "Colin Farrell",
+      "character": "James Clayton"
+    },
+    {
+      "id": "nm0005256",
+      "name": "Bridget Moynahan",
+      "character": "Layla"
+    },
+    {
+      "id": "nm0532683",
+      "name": "Gabriel Macht",
+      "character": "Zack"
+    },
+    {
+      "id": "nm1058987",
+      "name": "Kenneth Mitchell",
+      "character": "Alan"
+    },
+    {
+      "id": "nm1146822",
+      "name": "Mike Realba",
+      "character": "Ronnie"
+    },
+    {
+      "id": "nm0494784",
+      "name": "Ron Lea",
+      "character": "Dell Rep (Bill Rudolph)"
+    },
+    {
+      "id": "nm0699262",
+      "name": "Karl Pruner",
+      "character": "Dennis Slayne"
+    },
+    {
+      "id": "nm0130412",
+      "name": "Jeanie Calleja",
+      "character": "Co-Ed #1"
+    },
+    {
+      "id": "nm0505840",
+      "name": "Jenny Cooper",
+      "character": "Blonde with Cell Phone"
+    },
+    {
+      "id": "nm0874751",
+      "name": "Angelo Tsarouchas",
+      "character": "Cab Driver"
+    },
+    {
+      "id": "nm0403532",
+      "name": "Veronica Hurnick",
+      "character": "Polygraph Interrogator"
+    },
+    {
+      "id": "nm0513468",
+      "name": "Eugene Lipinski",
+      "character": "Husky Man"
+    },
+    {
+      "id": "nm0254969",
+      "name": "Mark Ellis",
+      "character": "Test Instructor"
+    },
+    {
+      "id": "nm0280584",
+      "name": "Richard Fitzpatrick",
+      "character": "Rob Stevens"
+    },
+    {
+      "id": "nm0914712",
+      "name": "John Watson",
+      "character": "Guard"
+    },
+    {
+      "id": "nm0654334",
+      "name": "Chris Owens",
+      "character": "Art Wallis"
+    },
+    {
+      "id": "nm0337466",
+      "name": "Jessica Greco",
+      "character": "Brunette at Blue Ridge"
+    }
+  ],
+  "countries": [
+    "United States",
+    "Switzerland"
+  ],
+  "languages": [
+    "English",
+    "Persian",
+    "Russian"
+  ],
+  "color": "Color",
+  "filmweb_id": 33334,
+  "year": 2003,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjE5MDMzOTk3MV5BMl5BanBnXkFtZTYwNTE0NTg2._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.6,
+      "votes": 147976,
+      "distribution": {
+        "1": 952,
+        "2": 715,
+        "3": 1653,
+        "4": 4186,
+        "5": 13348,
+        "6": 38924,
+        "7": 53472,
+        "8": 22971,
+        "9": 6190,
+        "10": 5565
+      },
+      "normalized": 4.6817
+    },
+    "filmweb": {
+      "rating": 7.22,
+      "votes": 66401,
+      "distribution": {
+        "1": 63,
+        "2": 93,
+        "3": 372,
+        "4": 842,
+        "5": 3076,
+        "6": 9892,
+        "7": 25090,
+        "8": 20339,
+        "9": 4804,
+        "10": 1830
+      },
+      "normalized": 6.0574
+    },
+    "michal": {
+      "rating": 3,
+      "date_rated": "19.10.2005",
+      "normalized": 3.8753
+    },
+    "score": 4.8715
+  },
+  "polish_title": "Rekrut",
+  "silent": false,
+  "description_pl": "James Calyton jest obiecującym agentem, któremu wszyscy wróżą błyskotliwą karierę. Claytonem interesuje się m.in. Walter Burke, weteran i legenda agencji, który pomaga Jamesowi przejść ciężkie szkolenie i ułatwia drogę do awansu. Pewnego dnia Clayton otrzymuje zadanie specjalne. Ma zlokalizować obcego agenta, który od przeniknął do 'firmy'.",
+  "producers": [
+    {
+      "id": "nm0032314",
+      "name": "Jeff Apple"
+    },
+    {
+      "id": "nm0053388",
+      "name": "Gary Barber"
+    },
+    {
+      "id": "nm0083696",
+      "name": "Roger Birnbaum"
+    },
+    {
+      "id": "nm0322802",
+      "name": "Jonathan Glickman"
+    },
+    {
+      "id": "nm0452305",
+      "name": "Ric Kidney"
+    },
+    {
+      "id": "nm1307075",
+      "name": "Megan Wolpert"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0046004",
+      "name": "Klaus Badelt"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0238698",
+      "name": "Stuart Dryburgh"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

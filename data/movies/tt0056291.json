@@ -1,0 +1,151 @@
+{
+  "imdb_id": "tt0056291",
+  "title": "Knife in the Water",
+  "description": "A couple pick up a hitchhiker on the way to their yacht. The husband invites the young man to come along for their day's sailing. As the voyage progresses, the antagonism between the two men grows. A violent confrontation is inevitable.",
+  "year": 1962,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZDQ1ODZkNDItNWU4MC00NDhmLTliNWItMzYxYTlmMDMyZmU5XkEyXkFqcGc@._V1_.jpg",
+  "runtime_minutes": 94,
+  "release_date": "28.10.1963",
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0631102",
+      "name": "Leon Niemczyk"
+    },
+    {
+      "id": "nm0880840",
+      "name": "Jolanta Umecka"
+    },
+    {
+      "id": "nm0538931",
+      "name": "Zygmunt Malanowicz"
+    },
+    {
+      "id": "nm0162134",
+      "name": "Anna Ciepielewska"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000591",
+      "name": "Roman Polanski"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0325228",
+      "name": "Jakub Goldberg"
+    },
+    {
+      "id": "nm0000591",
+      "name": "Roman Polanski"
+    },
+    {
+      "id": "nm0804592",
+      "name": "Jerzy Skolimowski"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0631102",
+      "name": "Leon Niemczyk",
+      "character": "Andrzej"
+    },
+    {
+      "id": "nm0880840",
+      "name": "Jolanta Umecka",
+      "character": "Krystyna"
+    },
+    {
+      "id": "nm0538931",
+      "name": "Zygmunt Malanowicz",
+      "character": "Young Man"
+    },
+    {
+      "id": "nm0162134",
+      "name": "Anna Ciepielewska",
+      "character": "Krystyna"
+    },
+    {
+      "id": "nm0000591",
+      "name": "Roman Polanski",
+      "character": "Young Man"
+    }
+  ],
+  "countries": [
+    "Poland"
+  ],
+  "languages": [
+    "Polish"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 894,
+  "original_title": "Nóz w wodzie",
+  "ratings": {
+    "imdb": {
+      "rating": 7.4,
+      "votes": 25319,
+      "distribution": {
+        "1": 240,
+        "2": 161,
+        "3": 230,
+        "4": 448,
+        "5": 1008,
+        "6": 2770,
+        "7": 6821,
+        "8": 7970,
+        "9": 3375,
+        "10": 2296
+      },
+      "normalized": 6.2141
+    },
+    "filmweb": {
+      "rating": 7.74,
+      "votes": 64029,
+      "distribution": {
+        "1": 635,
+        "2": 137,
+        "3": 392,
+        "4": 720,
+        "5": 1825,
+        "6": 4692,
+        "7": 15017,
+        "8": 23144,
+        "9": 11731,
+        "10": 5736
+      },
+      "normalized": 7.4678
+    },
+    "jarek": {
+      "rating": 8,
+      "date_rated": "02.01.2011",
+      "normalized": 7.8989
+    },
+    "michal": {
+      "rating": 8,
+      "date_rated": "19.10.2005",
+      "normalized": 8.1116
+    },
+    "score": 7.4231
+  },
+  "polish_title": "Nóż w wodzie",
+  "silent": false,
+  "description_pl": "Dziennikarz Andrzej (<a href=\"/osoba/?id=nm0631102\">Leon Niemczyk</a>) i jego atrakcyjna żona Krystyna (Jolanta Umecka) wyjeżdżają na jednodniowy rejs jachtem. Po drodze nad jezioro zabierają młodego autostopowicza (<a href=\"/osoba/?id=nm0538931\">Zygmunt Malanowicz</a>), a następnie zapraszają go na jacht. Na wodzie dochodzi do rywalizacji między mężczyznami w zakresie siły, intelektu i poglądów życiowych. Andrzej preferujący dostatnie, łatwe mieszczańskie życie konfrontuje się z młodym idealistą i buntownikiem.",
+  "composers": [
+    {
+      "id": "nm0006156",
+      "name": "Krzysztof Komeda"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0513512",
+      "name": "Jerzy Lipman"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

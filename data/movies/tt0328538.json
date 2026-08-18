@@ -1,0 +1,246 @@
+{
+  "imdb_id": "tt0328538",
+  "title": "Thirteen",
+  "description": "A thirteen-year-old girl's relationship with her mother is put to the test as she discovers drugs, sex, and petty crime in the company of her cool but troubled best friend.",
+  "runtime_minutes": 100,
+  "release_date": "19.09.2003",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0939697",
+      "name": "Evan Rachel Wood"
+    },
+    {
+      "id": "nm0000456",
+      "name": "Holly Hunter"
+    },
+    {
+      "id": "nm1223023",
+      "name": "Nikki Reed"
+    },
+    {
+      "id": "nm1227814",
+      "name": "Vanessa Hudgens"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0362566",
+      "name": "Catherine Hardwicke"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0362566",
+      "name": "Catherine Hardwicke"
+    },
+    {
+      "id": "nm1223023",
+      "name": "Nikki Reed"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0939697",
+      "name": "Evan Rachel Wood",
+      "character": "Tracy Freeland"
+    },
+    {
+      "id": "nm0000456",
+      "name": "Holly Hunter",
+      "character": "Melanie Freeland"
+    },
+    {
+      "id": "nm1223023",
+      "name": "Nikki Reed",
+      "character": "Evie Zamora"
+    },
+    {
+      "id": "nm1227814",
+      "name": "Vanessa Hudgens",
+      "character": "Noel"
+    },
+    {
+      "id": "nm1227232",
+      "name": "Brady Corbet",
+      "character": "Mason Freeland"
+    },
+    {
+      "id": "nm1227470",
+      "name": "Ulysses Estrada",
+      "character": "Rafa"
+    },
+    {
+      "id": "nm2761813",
+      "name": "Sarah Blakley-Cartwright",
+      "character": "Medina"
+    },
+    {
+      "id": "nm1228930",
+      "name": "Jenicka Carey",
+      "character": "Astrid"
+    },
+    {
+      "id": "nm1020124",
+      "name": "Sarah Clarke",
+      "character": "Birdie"
+    },
+    {
+      "id": "nm1228813",
+      "name": "Jasmine Di Angelo",
+      "character": "Kayla"
+    },
+    {
+      "id": "nm0524966",
+      "name": "Tessa Ludwick",
+      "character": "Yumi"
+    },
+    {
+      "id": "nm0661164",
+      "name": "Kip Pardue",
+      "character": "Luke"
+    },
+    {
+      "id": "nm0875161",
+      "name": "Cece Tsou",
+      "character": "Businesswoman"
+    },
+    {
+      "id": "nm0005438",
+      "name": "Jeremy Sisto",
+      "character": "Brady"
+    },
+    {
+      "id": "nm0946002",
+      "name": "Jamison Yang",
+      "character": "Science Teacher"
+    },
+    {
+      "id": "nm1229687",
+      "name": "Frank Merino",
+      "character": "Tattoo Artist"
+    },
+    {
+      "id": "nm0262193",
+      "name": "Cynthia Ettinger",
+      "character": "Cynthia"
+    },
+    {
+      "id": "nm1227402",
+      "name": "Charles Duckworth",
+      "character": "Javi"
+    }
+  ],
+  "countries": [
+    "United States",
+    "United Kingdom"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Portuguese"
+  ],
+  "color": "Color",
+  "filmweb_id": 103959,
+  "year": 2003,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOWVlOWU0NjgtOGY3Yi00MTI2LWEyNDgtNmJlNDRiM2Y2MzFhXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.8,
+      "votes": 107690,
+      "distribution": {
+        "1": 2193,
+        "2": 1217,
+        "3": 1808,
+        "4": 3503,
+        "5": 8198,
+        "6": 19348,
+        "7": 30834,
+        "8": 20065,
+        "9": 8689,
+        "10": 11835
+      },
+      "normalized": 5.1222
+    },
+    "filmweb": {
+      "rating": 6.66,
+      "votes": 38331,
+      "distribution": {
+        "1": 288,
+        "2": 316,
+        "3": 1016,
+        "4": 1804,
+        "5": 4455,
+        "6": 8216,
+        "7": 11289,
+        "8": 6911,
+        "9": 2117,
+        "10": 1919
+      },
+      "normalized": 4.7127
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "11.08.2010",
+      "normalized": 5.6855
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "19.10.2005",
+      "normalized": 5.4199
+    },
+    "score": 5.2351
+  },
+  "polish_title": "Trzynastka",
+  "silent": false,
+  "description_pl": "Trzynastoletnia Tracy (<a href=\"/osoba/?id=nm0939697\">Evan Rachel Wood</a>) jest wzorową uczennicą, która nie sprawia żadnych kłopotów wychowawczych. Wszystko zmienia się od momentu, kiedy dziewczyna zaprzyjaźnia się z Evie (<a href=\"/osoba/?id=nm1223023\">Nikki Reed</a>), najbardziej popularną i najładniejszą dziewczyną w szkole. Evie pokazuje Tracy świat narkotyków i lekkomyślnego nastoletniego buntu. Zmiana środowiska oraz stylu życia wywołuje szereg konfliktów pomiędzy Tracy a jej matką, nauczycielami i starymi przyjaciółmi.",
+  "producers": [
+    {
+      "id": "nm0079677",
+      "name": "Tim Bevan"
+    },
+    {
+      "id": "nm0153877",
+      "name": "Liza Chasin"
+    },
+    {
+      "id": "nm0271479",
+      "name": "Eric Fellner"
+    },
+    {
+      "id": "nm0330062",
+      "name": "Canada Johanna Gordon"
+    },
+    {
+      "id": "nm0000456",
+      "name": "Holly Hunter"
+    },
+    {
+      "id": "nm0506664",
+      "name": "Jeffrey Kusama-Hinte"
+    },
+    {
+      "id": "nm0518757",
+      "name": "Michael London"
+    },
+    {
+      "id": "nm0548956",
+      "name": "Rosemary Marks"
+    },
+    {
+      "id": "nm1187666",
+      "name": "Christina Sibul"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0204567",
+      "name": "Elliot Davis"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

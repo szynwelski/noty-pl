@@ -1,0 +1,68 @@
+{
+  "id": "nm0000398",
+  "name": "Sally Field",
+  "filmography": [
+    {
+      "imdb_id": "tt0109830",
+      "title": "Forrest Gump",
+      "year": 1994,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Mrs. Gump"
+    },
+    {
+      "imdb_id": "tt0333780",
+      "title": "Legally Blonde 2: Red, White & Blonde",
+      "year": 2003,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Congresswoman Rudd"
+    },
+    {
+      "imdb_id": "tt0443272",
+      "title": "Lincoln",
+      "year": 2012,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Mary Todd Lincoln"
+    },
+    {
+      "imdb_id": "tt0948470",
+      "title": "The Amazing Spider-Man",
+      "year": 2012,
+      "roles": [
+        "cast"
+      ],
+      "character": "Aunt May"
+    },
+    {
+      "imdb_id": "tt1872181",
+      "title": "The Amazing Spider-Man 2",
+      "year": 2014,
+      "roles": [
+        "cast"
+      ],
+      "character": "Aunt May"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQwOTMyMDI4MV5BMl5BanBnXkFtZTcwMDYzMTM5OA@@._V1_.jpg",
+  "birth_date": "06.11.1946",
+  "birth_location": "Pasadena, California, USA",
+  "height": "1.57 m",
+  "filmweb_id": 8057,
+  "name_pl": "Sally Field",
+  "birth_location_pl": "Pasadena, Kalifornia",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 8057
+}

@@ -1,0 +1,46 @@
+{
+  "id": "nm0552327",
+  "name": "George Martin",
+  "filmography": [
+    {
+      "imdb_id": "tt0097165",
+      "title": "Dead Poets Society",
+      "year": 1989,
+      "roles": [
+        "cast"
+      ],
+      "character": "Dr. Hager"
+    },
+    {
+      "imdb_id": "tt0099077",
+      "title": "Awakenings",
+      "year": 1990,
+      "roles": [
+        "cast"
+      ],
+      "character": "Frank"
+    },
+    {
+      "imdb_id": "tt0110932",
+      "title": "Quiz Show",
+      "year": 1994,
+      "roles": [
+        "cast"
+      ],
+      "character": "Chairman Harris"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYjE1MWQ4ODUtMDUxZS00MGMyLThhYWMtZTZkNDU3NTNhM2M5XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "15.08.1929",
+  "death_date": "01.06.2010",
+  "birth_location": "New York City, New York, USA",
+  "filmweb_id": 5297,
+  "name_pl": "George Martin",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

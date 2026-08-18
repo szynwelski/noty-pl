@@ -1,0 +1,84 @@
+{
+  "imdb_id": "tt1029398",
+  "title": "Le voyage du Président Félix Faure en Russie (Août 1897): Entrée du Président Félix Faure à Saint-Pétersbourg",
+  "description": "",
+  "runtime_minutes": 1,
+  "release_date": "1897",
+  "genres": [
+    "Documentary",
+    "Short"
+  ],
+  "stars": [
+    {
+      "id": "nm0269172",
+      "name": "François Félix Faure"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0269172",
+      "name": "François Félix Faure",
+      "character": "Self"
+    }
+  ],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "None",
+    "French"
+  ],
+  "color": "Black and White",
+  "year": 1897,
+  "type": "short",
+  "image_url": null,
+  "filmweb_id": 700093,
+  "ratings": {
+    "imdb": {
+      "rating": 3.4,
+      "votes": 26,
+      "distribution": {
+        "1": 10,
+        "2": 0,
+        "3": 1,
+        "4": 6,
+        "5": 3,
+        "6": 3,
+        "7": 0,
+        "8": 0,
+        "9": 1,
+        "10": 2
+      },
+      "normalized": 5.0417
+    },
+    "filmweb": {
+      "rating": 5.18,
+      "votes": 11,
+      "distribution": {
+        "1": 1,
+        "2": 0,
+        "3": 1,
+        "4": 2,
+        "5": 3,
+        "6": 1,
+        "7": 0,
+        "8": 3,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 5.0373
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "21.10.2007",
+      "normalized": 6.3474
+    },
+    "score": 5.4755
+  },
+  "polish_title": "Voyage de M. le Président Félix Faure en Russie (Août 1897): Arrivée du président et du Czar à Peterhof",
+  "silent": true,
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-16"
+}

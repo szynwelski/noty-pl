@@ -1,0 +1,31 @@
+{
+  "id": "nm0000484",
+  "name": "John Landis",
+  "filmography": [
+    {
+      "imdb_id": "tt0080455",
+      "title": "The Blues Brothers",
+      "year": 1980,
+      "roles": [
+        "director",
+        "writer",
+        "cast"
+      ],
+      "character": "Trooper La Fong"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTg0Mzg4NDE4N15BMl5BanBnXkFtZTYwMDc0NzYz._V1_.jpg",
+  "birth_date": "03.08.1950",
+  "birth_location": "Chicago, Illinois, USA",
+  "height": "1.79 m",
+  "imdb_scraped": true,
+  "filmweb_id": 10254,
+  "name_pl": "John Landis",
+  "birth_location_pl": "Chicago, Illinois",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 10254
+}

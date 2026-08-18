@@ -1,0 +1,41 @@
+{
+  "id": "nm0000022",
+  "name": "Clark Gable",
+  "filmography": [
+    {
+      "imdb_id": "tt0025316",
+      "title": "It Happened One Night",
+      "year": 1934,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Peter Warne"
+    },
+    {
+      "imdb_id": "tt0031381",
+      "title": "Gone with the Wind",
+      "year": 1939,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Rhett Butler"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDFiZTczYWMtYmUxYS00ZWY4LTljODYtMjNlZDNjOWZkMzMyXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 9461,
+  "birth_date": "01.02.1901",
+  "death_date": "16.11.1960",
+  "birth_location": "Cadiz, Ohio, USA",
+  "height": "1.84 m",
+  "imdb_scraped": true,
+  "name_pl": "Clark Gable",
+  "birth_location_pl": "Cadiz, Ohio",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 9461
+}

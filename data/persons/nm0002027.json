@@ -1,0 +1,49 @@
+{
+  "id": "nm0002027",
+  "name": "Ben Cross",
+  "filmography": [
+    {
+      "imdb_id": "tt0082158",
+      "title": "Chariots of Fire",
+      "year": 1981,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Harold Abrahams"
+    },
+    {
+      "imdb_id": "tt0204313",
+      "title": "Exorcist: The Beginning",
+      "year": 2004,
+      "roles": [
+        "cast"
+      ],
+      "character": "Semelier"
+    },
+    {
+      "imdb_id": "tt0796366",
+      "title": "Star Trek",
+      "year": 2009,
+      "roles": [
+        "cast"
+      ],
+      "character": "Sarek"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTkxMTkxMDcxNV5BMl5BanBnXkFtZTcwOTg0NjM1Mg@@._V1_.jpg",
+  "birth_date": "16.12.1947",
+  "death_date": "18.08.2020",
+  "birth_location": "Paddington, London, England, UK",
+  "height": "1.82 m",
+  "filmweb_id": 5475,
+  "name_pl": "Ben Cross",
+  "birth_location_pl": "Londyn, Wielka Brytania",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 5475
+}

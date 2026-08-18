@@ -1,0 +1,51 @@
+{
+  "id": "nm0002048",
+  "name": "Melvyn Douglas",
+  "filmography": [
+    {
+      "imdb_id": "tt0068334",
+      "title": "The Candidate",
+      "year": 1972,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "John J. McKay"
+    },
+    {
+      "imdb_id": "tt0074811",
+      "title": "The Tenant",
+      "year": 1976,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Monsieur Zy"
+    },
+    {
+      "imdb_id": "tt0078841",
+      "title": "Being There",
+      "year": 1979,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Benjamin Rand"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOWQwZDllMGMtOTMxNy00ZTRlLTgxNzMtMGI0NjMxYWQxODA4XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "05.04.1901",
+  "death_date": "04.08.1981",
+  "birth_location": "Macon, Georgia, USA",
+  "height": "1.86 m",
+  "filmweb_id": 40791,
+  "name_pl": "Melvyn Douglas",
+  "birth_location_pl": "Macon, Georgia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 40791
+}

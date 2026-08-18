@@ -1,0 +1,40 @@
+{
+  "id": "nm0000768",
+  "name": "Francesca Annis",
+  "filmography": [
+    {
+      "imdb_id": "tt0067372",
+      "title": "Macbeth",
+      "year": 1971,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Lady Macbeth"
+    },
+    {
+      "imdb_id": "tt0087182",
+      "title": "Dune",
+      "year": 1984,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Lady Jessica"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTcxMDIyMDgzNF5BMl5BanBnXkFtZTcwNjAzOTY5Nw@@._V1_.jpg",
+  "birth_date": "14.05.1945",
+  "birth_location": "Kensington, London, England, UK",
+  "height": "1.63 m",
+  "imdb_scraped": true,
+  "filmweb_id": 8428,
+  "name_pl": "Francesca Annis",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 8428
+}

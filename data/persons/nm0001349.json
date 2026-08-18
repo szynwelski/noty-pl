@@ -1,0 +1,50 @@
+{
+  "id": "nm0001349",
+  "name": "Jennifer Love Hewitt",
+  "filmography": [
+    {
+      "imdb_id": "tt0119345",
+      "title": "I Know What You Did Last Summer",
+      "year": 1997,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Julie James"
+    },
+    {
+      "imdb_id": "tt0125022",
+      "title": "Heartbreakers",
+      "year": 2001,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Wendy"
+    },
+    {
+      "imdb_id": "tt0407269",
+      "title": "The Truth About Love",
+      "year": 2005,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Alice Holbrook"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNjIyNzI0MTAyOV5BMl5BanBnXkFtZTcwMDM3MTUwNw@@._V1_.jpg",
+  "birth_date": "21.02.1979",
+  "birth_location": "Waco, Texas, USA",
+  "height": "1.57 m",
+  "filmweb_id": 3414,
+  "name_pl": "Jennifer Love Hewitt",
+  "birth_location_pl": "Waco, Teksas",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 3414
+}

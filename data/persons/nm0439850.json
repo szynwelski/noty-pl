@@ -1,0 +1,39 @@
+{
+  "id": "nm0439850",
+  "name": "Roscoe Karns",
+  "filmography": [
+    {
+      "imdb_id": "tt0025316",
+      "title": "It Happened One Night",
+      "year": 1934,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Oscar Shapeley"
+    },
+    {
+      "imdb_id": "tt0032599",
+      "title": "His Girl Friday",
+      "year": 1940,
+      "roles": [
+        "cast"
+      ],
+      "character": "McCue"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjA5NTA1MDc3Ml5BMl5BanBnXkFtZTcwNTA5NTAzOA@@._V1_.jpg",
+  "birth_date": "07.09.1891",
+  "death_date": "06.02.1970",
+  "birth_location": "San Bernardino, California, USA",
+  "height": "1.78 m",
+  "imdb_scraped": true,
+  "filmweb_id": 52898,
+  "name_pl": "Roscoe Karns",
+  "birth_location_pl": "San Bernardino, Kalifornia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

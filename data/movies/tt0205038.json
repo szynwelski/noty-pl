@@ -1,0 +1,109 @@
+{
+  "imdb_id": "tt0205038",
+  "title": "Ellis Island",
+  "description": "",
+  "runtime_minutes": 23,
+  "release_date": "1992",
+  "genres": [
+    "Short"
+  ],
+  "directors": [
+    {
+      "id": "nm0598229",
+      "name": "Meredith Monk"
+    },
+    {
+      "id": "nm2128019",
+      "name": "Bob Rosen"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0598229",
+      "name": "Meredith Monk"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "United States",
+    "West Germany"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Black and White",
+  "year": 1982,
+  "type": "short",
+  "image_url": null,
+  "filmweb_id": 189761,
+  "ratings": {
+    "imdb": {
+      "rating": 7.5,
+      "votes": 49,
+      "distribution": {
+        "1": 5,
+        "2": 0,
+        "3": 3,
+        "4": 1,
+        "5": 1,
+        "6": 7,
+        "7": 9,
+        "8": 9,
+        "9": 5,
+        "10": 9
+      },
+      "normalized": 5.3713
+    },
+    "filmweb": {
+      "rating": 7.8,
+      "votes": 10,
+      "distribution": {
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 1,
+        "7": 2,
+        "8": 5,
+        "9": 2,
+        "10": 0
+      },
+      "normalized": 5.2763
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "19.10.2005",
+      "normalized": 4.5781
+    },
+    "score": 5.0752
+  },
+  "polish_title": "Ellis Island",
+  "silent": false,
+  "producers": [
+    {
+      "id": "nm2136151",
+      "name": "John Bollinger"
+    },
+    {
+      "id": "nm1633300",
+      "name": "Susan Dowling"
+    },
+    {
+      "id": "nm2128019",
+      "name": "Bob Rosen"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0598229",
+      "name": "Meredith Monk"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0659896",
+      "name": "Jerry Pantzer"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "nm0759029",
+  "name": "Waldo Salt",
+  "filmography": [
+    {
+      "imdb_id": "tt0032904",
+      "title": "The Philadelphia Story",
+      "year": 1940,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0064665",
+      "title": "Midnight Cowboy",
+      "year": 1969,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0070666",
+      "title": "Serpico",
+      "year": 1973,
+      "roles": [
+        "writer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYzIxMjU0ZDctMjY0MS00ZDg4LWFiOWEtOTk0MTQxYTliNzcwXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "18.10.1914",
+  "death_date": "07.03.1987",
+  "birth_location": "Chicago, Illinois, USA",
+  "filmweb_id": 45588,
+  "name_pl": "Waldo Salt",
+  "birth_location_pl": "Chicago, Illinois",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 45588
+}

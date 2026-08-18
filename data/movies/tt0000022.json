@@ -1,0 +1,83 @@
+{
+  "imdb_id": "tt0000022",
+  "title": "Blacksmith Scene",
+  "description": "Two blacksmiths work while the vapors rise in the air. Later, another man arrives and offers a drink.",
+  "runtime_minutes": 1,
+  "release_date": "28.12.1895",
+  "genres": [
+    "Documentary",
+    "Short"
+  ],
+  "directors": [
+    {
+      "id": "nm0525910",
+      "name": "Louis Lumière"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 220687,
+  "year": 1895,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTFmMzI2OTgtNDM2MC00ZWE5LTljZjctNzg4NzI2OTc3MGU2XkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Les forgerons",
+  "ratings": {
+    "imdb": {
+      "rating": 5.1,
+      "votes": 1275,
+      "distribution": {
+        "1": 65,
+        "2": 47,
+        "3": 72,
+        "4": 159,
+        "5": 457,
+        "6": 273,
+        "7": 112,
+        "8": 30,
+        "9": 10,
+        "10": 50
+      },
+      "normalized": 3.3613
+    },
+    "filmweb": {
+      "rating": 5.02,
+      "votes": 310,
+      "distribution": {
+        "1": 9,
+        "2": 18,
+        "3": 29,
+        "4": 49,
+        "5": 96,
+        "6": 52,
+        "7": 35,
+        "8": 13,
+        "9": 3,
+        "10": 6
+      },
+      "normalized": 3.5271
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "11.12.2016",
+      "normalized": 5.6855
+    },
+    "score": 4.1913
+  },
+  "polish_title": "Kowale",
+  "silent": true,
+  "description_pl": "Film przedstawia dwóch kowali przy pracy. W tle widać ścianę, okno i poustawiane pudła. Obaj są wąsaci i o ciemnych włosach. Jeden z nich pilnuje, by palenisko było gorące, używając do tego miecha. Drugi kuje kawałek metalu na kowadle, a następnie wkłada go do wody.",
+  "cinematographers": [
+    {
+      "id": "nm0525910",
+      "name": "Louis Lumière"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-15"
+}

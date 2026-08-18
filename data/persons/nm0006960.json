@@ -1,0 +1,44 @@
+{
+  "id": "nm0006960",
+  "name": "John Madden",
+  "filmography": [
+    {
+      "imdb_id": "tt0138097",
+      "title": "Shakespeare in Love",
+      "year": 1998,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt1226753",
+      "title": "The Debt",
+      "year": 2010,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt4540710",
+      "title": "Miss Sloane",
+      "year": 2016,
+      "roles": [
+        "director"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTg2NTg2MTM5N15BMl5BanBnXkFtZTYwOTk5MTc0._V1_.jpg",
+  "birth_date": "08.04.1949",
+  "birth_location": "Portsmouth, Hampshire, England, UK",
+  "height": "1.84 m",
+  "filmweb_id": 11001,
+  "name_pl": "John Madden",
+  "birth_location_pl": "Portsmouth, Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 11001
+}

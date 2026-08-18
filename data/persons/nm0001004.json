@@ -1,0 +1,39 @@
+{
+  "id": "nm0001004",
+  "name": "Billy Campbell",
+  "filmography": [
+    {
+      "imdb_id": "tt0103874",
+      "title": "Dracula",
+      "year": 1992,
+      "roles": [
+        "cast"
+      ],
+      "character": "Quincey P. Morris"
+    },
+    {
+      "imdb_id": "tt2758950",
+      "title": "Helix",
+      "year": 2014,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Dr. Alan Farragut"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOTc4OWQzZDAtY2RiNS00OTQzLWI2NzYtODllYzczZmQ5OWUyXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "07.07.1959",
+  "birth_location": "Charlottesville, Virginia, USA",
+  "height": "1.93 m",
+  "imdb_scraped": true,
+  "filmweb_id": 8128,
+  "name_pl": "Billy Campbell",
+  "birth_location_pl": "Charlottesville, Wirginia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 8128
+}

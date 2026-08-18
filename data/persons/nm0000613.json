@@ -1,0 +1,77 @@
+{
+  "id": "nm0000613",
+  "name": "Joely Richardson",
+  "filmography": [
+    {
+      "imdb_id": "tt0115433",
+      "title": "101 Dalmatians",
+      "year": 1996,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Anita"
+    },
+    {
+      "imdb_id": "tt0119081",
+      "title": "Event Horizon",
+      "year": 1997,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Starck"
+    },
+    {
+      "imdb_id": "tt0187393",
+      "title": "The Patriot",
+      "year": 2000,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Charlotte Selton"
+    },
+    {
+      "imdb_id": "tt1568346",
+      "title": "The Girl with the Dragon Tattoo",
+      "year": 2011,
+      "roles": [
+        "cast"
+      ],
+      "character": "Anita Vanger"
+    },
+    {
+      "imdb_id": "tt3774114",
+      "title": "Snowden",
+      "year": 2016,
+      "roles": [
+        "cast"
+      ],
+      "character": "Janine Gibson"
+    },
+    {
+      "imdb_id": "tt2873282",
+      "title": "Red Sparrow",
+      "year": 2018,
+      "roles": [
+        "cast"
+      ],
+      "character": "Nina Egorova"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODgwMjMwMzE2OV5BMl5BanBnXkFtZTcwOTAzMTgxMw@@._V1_.jpg",
+  "birth_date": "09.01.1965",
+  "birth_location": "Marylebone, London, England, UK",
+  "height": "1.78 m",
+  "filmweb_id": 4674,
+  "name_pl": "Joely Richardson",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 4674
+}

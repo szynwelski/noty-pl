@@ -1,0 +1,39 @@
+{
+  "id": "nm0296859",
+  "name": "Dwight Frye",
+  "filmography": [
+    {
+      "imdb_id": "tt0021884",
+      "title": "Frankenstein",
+      "year": 1931,
+      "roles": [
+        "cast"
+      ],
+      "character": "Fritz"
+    },
+    {
+      "imdb_id": "tt0026138",
+      "title": "Bride of Frankenstein",
+      "year": 1935,
+      "roles": [
+        "cast"
+      ],
+      "character": "Karl"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTcyMjg5NTc3M15BMl5BanBnXkFtZTYwNjI2ODU2._V1_.jpg",
+  "birth_date": "22.02.1899",
+  "death_date": "07.11.1943",
+  "birth_location": "Salina, Kansas, USA",
+  "height": "1.70 m",
+  "imdb_scraped": true,
+  "filmweb_id": 41970,
+  "name_pl": "Dwight Frye",
+  "birth_location_pl": "Salina, Kansas",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 41970
+}

@@ -1,0 +1,69 @@
+{
+  "id": "nm0004692",
+  "name": "Mark Addy",
+  "filmography": [
+    {
+      "imdb_id": "tt0119164",
+      "title": "The Full Monty",
+      "year": 1997,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Dave"
+    },
+    {
+      "imdb_id": "tt0158622",
+      "title": "The Flintstones in Viva Rock Vegas",
+      "year": 2000,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Fred Flintstone"
+    },
+    {
+      "imdb_id": "tt0183790",
+      "title": "A Knight's Tale",
+      "year": 2001,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Roland"
+    },
+    {
+      "imdb_id": "tt0268695",
+      "title": "The Time Machine",
+      "year": 2002,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "David Philby"
+    },
+    {
+      "imdb_id": "tt0955308",
+      "title": "Robin Hood",
+      "year": 2010,
+      "roles": [
+        "cast"
+      ],
+      "character": "Friar Tuck"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNjkyMzUyNDYyN15BMl5BanBnXkFtZTYwODc3Nzk1._V1_.jpg",
+  "birth_date": "14.01.1964",
+  "birth_location": "York, England, UK",
+  "height": "1.82 m",
+  "filmweb_id": 4933,
+  "name_pl": "Mark Addy",
+  "birth_location_pl": "York, Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 4933
+}

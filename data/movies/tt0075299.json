@@ -1,0 +1,89 @@
+{
+  "imdb_id": "tt0075299",
+  "title": "Hospital",
+  "description": "24 hours in the life of a hospital from the point of view of the doctors and nurses.",
+  "runtime_minutes": 20,
+  "release_date": "1977",
+  "genres": [
+    "Documentary",
+    "Short"
+  ],
+  "directors": [
+    {
+      "id": "nm0001425",
+      "name": "Krzysztof Kieślowski"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0001425",
+      "name": "Krzysztof Kieślowski"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "Poland"
+  ],
+  "languages": [
+    "Polish"
+  ],
+  "color": "Black and White",
+  "year": 1977,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYzVhZjM3NmQtNmMzYi00MmVkLTgwMmYtMDFmODk3MTZlYjJmXkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 9981,
+  "original_title": "Szpital",
+  "ratings": {
+    "imdb": {
+      "rating": 7,
+      "votes": 828,
+      "distribution": {
+        "1": 11,
+        "2": 7,
+        "3": 9,
+        "4": 25,
+        "5": 62,
+        "6": 146,
+        "7": 279,
+        "8": 197,
+        "9": 48,
+        "10": 44
+      },
+      "normalized": 5.464
+    },
+    "filmweb": {
+      "rating": 7.34,
+      "votes": 3078,
+      "distribution": {
+        "1": 7,
+        "2": 2,
+        "3": 16,
+        "4": 36,
+        "5": 95,
+        "6": 399,
+        "7": 1149,
+        "8": 998,
+        "9": 260,
+        "10": 116
+      },
+      "normalized": 6.1627
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "19.10.2005",
+      "normalized": 6.3474
+    },
+    "score": 5.9914
+  },
+  "polish_title": "Szpital",
+  "silent": false,
+  "description_pl": "I Oddział Chirurgi Urazowej przy ulicy Barskiej w Warszawie - tam właśnie został zrealizowany film. W dokumencie ukazano obraz polskiego lekarza, pracującego w trudnych, wręcz ekstremalnych warunkach. Nieprzerwane dyżury, ciężkie operacje, zmaganie się z wciąż niedziałającym sprzętem medycznym, to tylko niektóre problemy przedstawione w filmie. Kieślowski ukazał agonalny stan placówek zdrowia czasów Polski Ludowej, a lata 70. były latami najgłębszego kryzysu służby zdrowia.",
+  "cinematographers": [
+    {
+      "id": "nm0678456",
+      "name": "Jacek Petrycki"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

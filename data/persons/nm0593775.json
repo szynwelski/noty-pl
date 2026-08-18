@@ -1,0 +1,78 @@
+{
+  "id": "nm0593775",
+  "name": "Thomas Mitchell",
+  "filmography": [
+    {
+      "imdb_id": "tt0029162",
+      "title": "Lost Horizon",
+      "year": 1937,
+      "roles": [
+        "cast"
+      ],
+      "character": "Barnard"
+    },
+    {
+      "imdb_id": "tt0031381",
+      "title": "Gone with the Wind",
+      "year": 1939,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Gerald O'Hara"
+    },
+    {
+      "imdb_id": "tt0031679",
+      "title": "Mr. Smith Goes to Washington",
+      "year": 1939,
+      "roles": [
+        "cast"
+      ],
+      "character": "Diz Moore"
+    },
+    {
+      "imdb_id": "tt0031971",
+      "title": "Stagecoach",
+      "year": 1939,
+      "roles": [
+        "cast"
+      ],
+      "character": "Doc Josiah Boone"
+    },
+    {
+      "imdb_id": "tt0038650",
+      "title": "It's a Wonderful Life",
+      "year": 1946,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Uncle Billy"
+    },
+    {
+      "imdb_id": "tt0044706",
+      "title": "High Noon",
+      "year": 1952,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Mayor Jonas Henderson"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOTcwNjAwMDI2M15BMl5BanBnXkFtZTcwNDMyNTUwOA@@._V1_.jpg",
+  "birth_date": "11.07.1892",
+  "death_date": "17.12.1962",
+  "birth_location": "Elizabeth, New Jersey, USA",
+  "height": "1.78 m",
+  "filmweb_id": 9466,
+  "name_pl": "Thomas Mitchell",
+  "birth_location_pl": "Elizabeth, New Jersey",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 9466
+}

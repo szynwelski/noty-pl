@@ -1,0 +1,139 @@
+{
+  "imdb_id": "tt0440846",
+  "title": "Fallen Art",
+  "description": "A volunteer soldier plummets to his death. A photograph is taken and sent by courier to a huge man, who adds it to his macabre collection.",
+  "runtime_minutes": 6,
+  "release_date": "23.09.2004",
+  "genres": [
+    "Animation",
+    "Short",
+    "Comedy",
+    "Horror",
+    "War"
+  ],
+  "stars": [
+    {
+      "id": "nm1458971",
+      "name": "Arkadiusz Jakubik"
+    },
+    {
+      "id": "nm1572778",
+      "name": "Marcin Kudelka"
+    },
+    {
+      "id": "nm0865069",
+      "name": "Dariusz Toczek"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm1313617",
+      "name": "Tomasz Bagiński"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1313617",
+      "name": "Tomasz Bagiński"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1458971",
+      "name": "Arkadiusz Jakubik",
+      "character": "Voice"
+    },
+    {
+      "id": "nm1572778",
+      "name": "Marcin Kudelka",
+      "character": "Voice"
+    },
+    {
+      "id": "nm0865069",
+      "name": "Dariusz Toczek",
+      "character": "Voice"
+    }
+  ],
+  "countries": [
+    "Poland"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Color",
+  "filmweb_id": 95825,
+  "year": 2004,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYmU0MTc4MjQtNWQyMy00YjRjLWEwMTctMzI0N2VkNDFjOTk4XkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Sztuka spadania",
+  "ratings": {
+    "imdb": {
+      "rating": 7.6,
+      "votes": 4542,
+      "distribution": {
+        "1": 76,
+        "2": 21,
+        "3": 65,
+        "4": 79,
+        "5": 187,
+        "6": 448,
+        "7": 897,
+        "8": 1270,
+        "9": 769,
+        "10": 730
+      },
+      "normalized": 6.3509
+    },
+    "filmweb": {
+      "rating": 7.69,
+      "votes": 88975,
+      "distribution": {
+        "1": 723,
+        "2": 333,
+        "3": 828,
+        "4": 1299,
+        "5": 3116,
+        "6": 7361,
+        "7": 19543,
+        "8": 30996,
+        "9": 16892,
+        "10": 7884
+      },
+      "normalized": 7.3219
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "18.09.2007",
+      "normalized": 5.4199
+    },
+    "score": 6.3642
+  },
+  "polish_title": "Sztuka spadania",
+  "silent": false,
+  "description_pl": "Atol. Zapomniana baza wojskowa gdzieś na Pacyfiku. Wysyłani są tam zasłużeni oficerowie, których wojsko nie może się jeszcze pozbyć, a którzy w wyniku wypełnionych misji stracili rozum i kontakt z rzeczywistością. Tam w oddaleniu od cywilizacji, praw i kodeksów pielęgnują swoje dziwactwa.\r\n\r\nSierżant Al pielęgnuje miłość do młodych i dzielnych żołnierzy. \r\n\r\nDoktor Friedrich pielęgnuje swój talent fotograficzny.\r\n\r\nA stary, psychicznie zagubiony Generał tworzy sztukę. \r\n\r\nNie na papierze i nie na płótnie...\r\nInaczej.",
+  "producers": [
+    {
+      "id": "nm1313617",
+      "name": "Tomasz Bagiński"
+    },
+    {
+      "id": "nm1672375",
+      "name": "Marcin Kobylecki"
+    },
+    {
+      "id": "nm1320040",
+      "name": "Jaroslaw Sawko"
+    },
+    {
+      "id": "nm1320127",
+      "name": "Piotr Sikora"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm1825505",
+      "name": "Adrian Sical"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

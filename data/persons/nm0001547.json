@@ -1,0 +1,40 @@
+{
+  "id": "nm0001547",
+  "name": "Agnes Moorehead",
+  "filmography": [
+    {
+      "imdb_id": "tt0033467",
+      "title": "Citizen Kane",
+      "year": 1941,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Mary Kane"
+    },
+    {
+      "imdb_id": "tt0035015",
+      "title": "The Magnificent Ambersons",
+      "year": 1942,
+      "roles": [
+        "cast"
+      ],
+      "character": "Fanny Minafer"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTk5YzdiOWItYjQ4My00NTBmLThmNmEtOTMxOWMwMGFmNzBmXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "06.12.1900",
+  "death_date": "30.04.1974",
+  "birth_location": "Clinton, Massachusetts, USA",
+  "height": "1.69 m",
+  "imdb_scraped": true,
+  "filmweb_id": 46583,
+  "name_pl": "Agnes Moorehead",
+  "birth_location_pl": "Clinton, Massachusetts",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 46583
+}

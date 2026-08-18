@@ -1,0 +1,86 @@
+{
+  "id": "nm0746830",
+  "name": "J.K. Rowling",
+  "filmography": [
+    {
+      "imdb_id": "tt0241527",
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "year": 2001,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0295297",
+      "title": "Harry Potter and the Chamber of Secrets",
+      "year": 2002,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0304141",
+      "title": "Harry Potter and the Prisoner of Azkaban",
+      "year": 2004,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0330373",
+      "title": "Harry Potter and the Goblet of Fire",
+      "year": 2005,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0373889",
+      "title": "Harry Potter and the Order of the Phoenix",
+      "year": 2007,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0417741",
+      "title": "Harry Potter and the Half-Blood Prince",
+      "year": 2009,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0926084",
+      "title": "Harry Potter and the Deathly Hallows: Part 1",
+      "year": 2010,
+      "roles": [
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt1201607",
+      "title": "Harry Potter and the Deathly Hallows: Part 2",
+      "year": 2011,
+      "roles": [
+        "writer",
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTg2NzY5NTUxNV5BMl5BanBnXkFtZTcwNTQ2ODgwNA@@._V1_.jpg",
+  "birth_date": "31.07.1965",
+  "birth_location": "Yate, Gloucestershire, England, UK",
+  "height": "1.65 m",
+  "filmweb_id": 102808,
+  "name_pl": "J.K. Rowling",
+  "birth_location_pl": "Yate, Anglia",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 102808
+}

@@ -1,0 +1,38 @@
+{
+  "id": "nm0005204",
+  "name": "Paul McCrane",
+  "filmography": [
+    {
+      "imdb_id": "tt0093870",
+      "title": "RoboCop",
+      "year": 1987,
+      "roles": [
+        "cast"
+      ],
+      "character": "Emil"
+    },
+    {
+      "imdb_id": "tt0111161",
+      "title": "The Shawshank Redemption",
+      "year": 1994,
+      "roles": [
+        "cast"
+      ],
+      "character": "Guard Trout"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTI2Mjc1NzExN15BMl5BanBnXkFtZTYwNjUzMzQz._V1_.jpg",
+  "birth_date": "19.01.1961",
+  "birth_location": "Philadelphia, Pennsylvania, USA",
+  "height": "1.70 m",
+  "imdb_scraped": true,
+  "filmweb_id": 31512,
+  "name_pl": "Paul McCrane",
+  "birth_location_pl": "Filadelfia, Pensylwania",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 31512
+}

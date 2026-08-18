@@ -1,0 +1,284 @@
+{
+  "imdb_id": "tt1272878",
+  "title": "2 Guns",
+  "description": "Two hardened criminals get into trouble with the US border patrol after meeting with a Mexican drug lord, and then revelations start to unfold.",
+  "runtime_minutes": 109,
+  "release_date": "02.08.2013",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Crime",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000243",
+      "name": "Denzel Washington"
+    },
+    {
+      "id": "nm0000242",
+      "name": "Mark Wahlberg"
+    },
+    {
+      "id": "nm1745736",
+      "name": "Paula Patton"
+    },
+    {
+      "id": "nm0000200",
+      "name": "Bill Paxton"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0466349",
+      "name": "Baltasar Kormákur"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1398578",
+      "name": "Blake Masters"
+    },
+    {
+      "id": "nm1556427",
+      "name": "Steven Grant"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000243",
+      "name": "Denzel Washington",
+      "character": "Bobby"
+    },
+    {
+      "id": "nm0000242",
+      "name": "Mark Wahlberg",
+      "character": "Stig"
+    },
+    {
+      "id": "nm1745736",
+      "name": "Paula Patton",
+      "character": "Deb"
+    },
+    {
+      "id": "nm0001579",
+      "name": "Edward James Olmos",
+      "character": "Papi Greco"
+    },
+    {
+      "id": "nm0000200",
+      "name": "Bill Paxton",
+      "character": "Earl"
+    },
+    {
+      "id": "nm0121559",
+      "name": "Robert John Burke",
+      "character": "Jessup"
+    },
+    {
+      "id": "nm0005188",
+      "name": "James Marsden",
+      "character": "Quince"
+    },
+    {
+      "id": "nm1829945",
+      "name": "Greg Sproles",
+      "character": "Chief Lucas"
+    },
+    {
+      "id": "nm0911542",
+      "name": "Fred Ward",
+      "character": "Admiral Tuwey"
+    },
+    {
+      "id": "nm0279209",
+      "name": "Patrick Fischler",
+      "character": "Dr. Ken"
+    },
+    {
+      "id": "nm3998145",
+      "name": "Derek Solorsano",
+      "character": "Ferret Nose Julio"
+    },
+    {
+      "id": "nm1598758",
+      "name": "Edgar Arreola",
+      "character": "Rudy (Papi's Men)"
+    },
+    {
+      "id": "nm2356797",
+      "name": "Kyle Clements",
+      "character": "Teemo"
+    },
+    {
+      "id": "nm4232922",
+      "name": "Christopher Matthew Cook",
+      "character": "Thick"
+    },
+    {
+      "id": "nm1419241",
+      "name": "Tim Bell",
+      "character": "Lean"
+    },
+    {
+      "id": "nm1324884",
+      "name": "Tait Fletcher",
+      "character": "Mini"
+    },
+    {
+      "id": "nm1767737",
+      "name": "Azure Parsons",
+      "character": "Waitress Maggie"
+    },
+    {
+      "id": "nm0566279",
+      "name": "John McConnell",
+      "character": "Officer Dave"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "color": "Color",
+  "filmweb_id": 612342,
+  "year": 2013,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTQ5MTgzNDg4OF5BMl5BanBnXkFtZTcwMjAyODEzOQ@@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.7,
+      "votes": 238791,
+      "distribution": {
+        "1": 1805,
+        "2": 1295,
+        "3": 2493,
+        "4": 6114,
+        "5": 19153,
+        "6": 58188,
+        "7": 87218,
+        "8": 39364,
+        "9": 11240,
+        "10": 11921
+      },
+      "normalized": 4.8774
+    },
+    "filmweb": {
+      "rating": 6.72,
+      "votes": 55048,
+      "distribution": {
+        "1": 77,
+        "2": 117,
+        "3": 608,
+        "4": 1396,
+        "5": 4668,
+        "6": 13900,
+        "7": 22302,
+        "8": 9289,
+        "9": 1819,
+        "10": 872
+      },
+      "normalized": 4.881
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "02.09.2014",
+      "normalized": 5.6855
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "21.09.2020",
+      "normalized": 4.5781
+    },
+    "score": 5.0055
+  },
+  "polish_title": "Agenci",
+  "silent": false,
+  "description_pl": "Agent wydziału do walki z przemytem narkotyków i oficer wywiadu  marynarki są w sytuacji bez wyjścia. Kradną pieniądze gangsterów i  zamierzają je przekazać na dobre cele. Okazuje się jednak,  że w  rzeczywistości ukradli pieniądze CIA, a zleceniodawcami są mafiosi.",
+  "producers": [
+    {
+      "id": "nm4036280",
+      "name": "Brandt Andersen"
+    },
+    {
+      "id": "nm1736077",
+      "name": "Tamara Birkemoe"
+    },
+    {
+      "id": "nm1184676",
+      "name": "Andrew Cosby"
+    },
+    {
+      "id": "nm0198941",
+      "name": "Mark Damon"
+    },
+    {
+      "id": "nm1063654",
+      "name": "Robert J. Dohrmann"
+    },
+    {
+      "id": "nm0256542",
+      "name": "Randall Emmett"
+    },
+    {
+      "id": "nm0007067",
+      "name": "Louis G. Friedman"
+    },
+    {
+      "id": "nm0298915",
+      "name": "George Furla"
+    },
+    {
+      "id": "nm1139003",
+      "name": "Brandon Grimes"
+    },
+    {
+      "id": "nm3021633",
+      "name": "Norton Herrick"
+    },
+    {
+      "id": "nm5407318",
+      "name": "Motaz M. Nabulsi"
+    },
+    {
+      "id": "nm0686887",
+      "name": "Marc Platt"
+    },
+    {
+      "id": "nm0723450",
+      "name": "Jeff Rice"
+    },
+    {
+      "id": "nm1998220",
+      "name": "Ross Richie"
+    },
+    {
+      "id": "nm2132113",
+      "name": "Adam Siegel"
+    },
+    {
+      "id": "nm3521173",
+      "name": "Joshua Skurla"
+    },
+    {
+      "id": "nm0832790",
+      "name": "Jeffrey Stott"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0795141",
+      "name": "Clinton Shorter"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005929",
+      "name": "Oliver Wood"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

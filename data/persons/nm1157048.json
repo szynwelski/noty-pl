@@ -1,0 +1,48 @@
+{
+  "id": "nm1157048",
+  "name": "Zachary Levi",
+  "filmography": [
+    {
+      "imdb_id": "tt0398286",
+      "title": "Tangled",
+      "year": 2010,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Flynn Rider"
+    },
+    {
+      "imdb_id": "tt1981115",
+      "title": "Thor: The Dark World",
+      "year": 2013,
+      "roles": [
+        "cast"
+      ],
+      "character": "Fandral"
+    },
+    {
+      "imdb_id": "tt3501632",
+      "title": "Thor: Ragnarok",
+      "year": 2017,
+      "roles": [
+        "cast"
+      ],
+      "character": "Fandral"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZDdiNjEwZjctODViYy00MTc5LWJjNDUtMjFhNDM3YjgzY2I2XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "29.09.1980",
+  "birth_location": "Lake Charles, Louisiana, USA",
+  "height": "1.91 m",
+  "filmweb_id": 161809,
+  "name_pl": "Zachary Levi",
+  "birth_location_pl": "Lake Charles, Luizjana",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 161809
+}

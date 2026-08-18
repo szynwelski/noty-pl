@@ -1,0 +1,45 @@
+{
+  "id": "nm0177267",
+  "name": "Ron Cook",
+  "filmography": [
+    {
+      "imdb_id": "tt0117589",
+      "title": "Secrets & Lies",
+      "year": 1996,
+      "roles": [
+        "cast"
+      ],
+      "character": "Stuart"
+    },
+    {
+      "imdb_id": "tt0241303",
+      "title": "Chocolat",
+      "year": 2000,
+      "roles": [
+        "cast"
+      ],
+      "character": "Alphonse Marceau"
+    },
+    {
+      "imdb_id": "tt0379889",
+      "title": "The Merchant of Venice",
+      "year": 2004,
+      "roles": [
+        "cast"
+      ],
+      "character": "Old Gobbo"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODE0ZjlmYzgtOGI5ZC00ZjdmLWJhMTctYjdmNTAwOWQzMGZiXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "01.12.1948",
+  "birth_location": "South Shields, Tyne and Wear, England, UK",
+  "filmweb_id": 6172,
+  "name_pl": "Ron Cook",
+  "birth_location_pl": "South Shields, Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ]
+}

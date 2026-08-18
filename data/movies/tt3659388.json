@@ -1,0 +1,254 @@
+{
+  "imdb_id": "tt3659388",
+  "title": "The Martian",
+  "description": "An astronaut stranded on Mars must rely on his ingenuity to survive and arrange a potential rescue.",
+  "runtime_minutes": 144,
+  "release_date": "02.10.2015",
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm0000354",
+      "name": "Matt Damon"
+    },
+    {
+      "id": "nm1567113",
+      "name": "Jessica Chastain"
+    },
+    {
+      "id": "nm1325419",
+      "name": "Kristen Wiig"
+    },
+    {
+      "id": "nm0544718",
+      "name": "Kate Mara"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000631",
+      "name": "Ridley Scott"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1206844",
+      "name": "Drew Goddard"
+    },
+    {
+      "id": "nm1083982",
+      "name": "Andy Weir"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000354",
+      "name": "Matt Damon",
+      "character": "Mark Watney"
+    },
+    {
+      "id": "nm1567113",
+      "name": "Jessica Chastain",
+      "character": "Melissa Lewis"
+    },
+    {
+      "id": "nm1325419",
+      "name": "Kristen Wiig",
+      "character": "Annie Montrose"
+    },
+    {
+      "id": "nm0001099",
+      "name": "Jeff Daniels",
+      "character": "Teddy Sanders"
+    },
+    {
+      "id": "nm0671567",
+      "name": "Michael Peña",
+      "character": "Rick Martinez"
+    },
+    {
+      "id": "nm0000293",
+      "name": "Sean Bean",
+      "character": "Mitch Henderson"
+    },
+    {
+      "id": "nm0544718",
+      "name": "Kate Mara",
+      "character": "Beth Johanssen"
+    },
+    {
+      "id": "nm1659221",
+      "name": "Sebastian Stan",
+      "character": "Chris Beck"
+    },
+    {
+      "id": "nm0377336",
+      "name": "Aksel Hennie",
+      "character": "Alex Vogel"
+    },
+    {
+      "id": "nm0252230",
+      "name": "Chiwetel Ejiofor",
+      "character": "Vincent Kapoor"
+    },
+    {
+      "id": "nm0938950",
+      "name": "Benedict Wong",
+      "character": "Bruce Ng"
+    },
+    {
+      "id": "nm4496875",
+      "name": "Mackenzie Davis",
+      "character": "Mindy Park"
+    },
+    {
+      "id": "nm2255973",
+      "name": "Donald Glover",
+      "character": "Rich Purnell"
+    },
+    {
+      "id": "nm2945137",
+      "name": "Nick Mohammed",
+      "character": "Tim Grimes"
+    },
+    {
+      "id": "nm3481199",
+      "name": "Shu Chen",
+      "character": "Zhu Tao"
+    },
+    {
+      "id": "nm0304708",
+      "name": "Eddy Ko",
+      "character": "Guo Ming"
+    },
+    {
+      "id": "nm0162281",
+      "name": "Enzo Cilenti",
+      "character": "Mike Watkins"
+    },
+    {
+      "id": "nm0034877",
+      "name": "Jonathan Aris",
+      "character": "Brendan Hatch"
+    }
+  ],
+  "countries": [
+    "United States",
+    "United Kingdom",
+    "Hungary",
+    "Jordan"
+  ],
+  "languages": [
+    "English",
+    "Mandarin"
+  ],
+  "color": "Color",
+  "filmweb_id": 715533,
+  "year": 2015,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTc2MTQ3MDA1Nl5BMl5BanBnXkFtZTgwODA3OTI4NjE@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 8,
+      "votes": 1025213,
+      "distribution": {
+        "1": 4424,
+        "2": 2260,
+        "3": 3379,
+        "4": 6427,
+        "5": 17384,
+        "6": 56771,
+        "7": 194448,
+        "8": 383785,
+        "9": 229657,
+        "10": 126678
+      },
+      "normalized": 7.578
+    },
+    "filmweb": {
+      "rating": 7.57,
+      "votes": 316702,
+      "distribution": {
+        "1": 850,
+        "2": 589,
+        "3": 1786,
+        "4": 3172,
+        "5": 10047,
+        "6": 30775,
+        "7": 89666,
+        "8": 119094,
+        "9": 44912,
+        "10": 15811
+      },
+      "normalized": 6.9563
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "22.11.2016",
+      "normalized": 6.4102
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "25.10.2015",
+      "normalized": 6.3474
+    },
+    "score": 6.823
+  },
+  "polish_title": "Marsjanin",
+  "silent": false,
+  "description_pl": "Straszliwa burza piaskowa sprawia, że marsjańska ekspedycja, w której skład wchodzi Mark Watney, musi ratować się ucieczką z Czerwonej Planety. Kiedy ciężko ranny Mark odzyskuje przytomność, stwierdza, że został na Marsie sam w zdewastowanym przez wichurę obozie, z minimalnymi zapasami powietrza i żywności, a na dodatek bez łączności z Ziemią. Co gorsza, zarówno pozostali członkowie ekspedycji, jak i sztab w Houston uważają go za martwego, nikt więc nie zorganizuje wyprawy ratunkowej; zresztą, nawet gdyby wyruszyli po niego niemal natychmiast, dotarliby na Marsa długo po tym, jak zabraknie mu powietrza, wody i żywności. Czyżby to był koniec? Nic z tego. Mark rozpoczyna heroiczną walkę o przetrwanie, w której równie ważną rolę co naukowa wiedza, zdolności techniczne i pomysłowość odgrywają niezłomna determinacja i umiejętność zachowania dystansu wobec siebie i świata, który nie zawsze gra fair…",
+  "producers": [
+    {
+      "id": "nm0254872",
+      "name": "Howard Ellis"
+    },
+    {
+      "id": "nm1206844",
+      "name": "Drew Goddard"
+    },
+    {
+      "id": "nm0328996",
+      "name": "Adam Goodman"
+    },
+    {
+      "id": "nm0400240",
+      "name": "Mark Huffam"
+    },
+    {
+      "id": "nm0446894",
+      "name": "Teresa Kelly"
+    },
+    {
+      "id": "nm1334526",
+      "name": "Simon Kinberg"
+    },
+    {
+      "id": "nm0769644",
+      "name": "Michael Schaefer"
+    },
+    {
+      "id": "nm0000631",
+      "name": "Ridley Scott"
+    },
+    {
+      "id": "nm1533078",
+      "name": "Aditya Sood"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0004581",
+      "name": "Harry Gregson-Williams"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0003011",
+      "name": "Dariusz Wolski"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

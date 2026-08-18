@@ -1,0 +1,48 @@
+{
+  "id": "nm0913475",
+  "name": "John David Washington",
+  "filmography": [
+    {
+      "imdb_id": "tt1037705",
+      "title": "The Book of Eli",
+      "year": 2010,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt6723592",
+      "title": "Tenet",
+      "year": 2020,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Protagonist"
+    },
+    {
+      "imdb_id": "tt11858890",
+      "title": "The Creator",
+      "year": 2023,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Joshua"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOTY4NDcyNDM5OF5BMl5BanBnXkFtZTgwMjk4Mzk0NTM@._V1_.jpg",
+  "birth_date": "28.07.1984",
+  "birth_location": "Los Angeles, California, USA",
+  "height": "1.75 m",
+  "filmweb_id": 834011,
+  "name_pl": "John David Washington",
+  "birth_location_pl": "Los Angeles, Kalifornia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 834011
+}

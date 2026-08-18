@@ -1,0 +1,40 @@
+{
+  "id": "nm0001757",
+  "name": "Kevin Sorbo",
+  "filmography": [
+    {
+      "imdb_id": "tt1073498",
+      "title": "Meet the Spartans",
+      "year": 2008,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Captain"
+    },
+    {
+      "imdb_id": "tt2528814",
+      "title": "God's Not Dead",
+      "year": 2014,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Professor Radisson"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjA2OTQ5MzY1N15BMl5BanBnXkFtZTcwNTgyMzc1OQ@@._V1_.jpg",
+  "birth_date": "24.09.1958",
+  "birth_location": "Mound, Minnesota, USA",
+  "height": "1.91 m",
+  "imdb_scraped": true,
+  "filmweb_id": 49510,
+  "name_pl": "Kevin Sorbo",
+  "birth_location_pl": "Mound, Minnesota",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 49510
+}

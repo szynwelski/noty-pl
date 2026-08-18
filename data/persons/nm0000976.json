@@ -1,0 +1,45 @@
+{
+  "id": "nm0000976",
+  "name": "Martin Brest",
+  "filmography": [
+    {
+      "imdb_id": "tt0086960",
+      "title": "Beverly Hills Cop",
+      "year": 1984,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0105323",
+      "title": "Scent of a Woman",
+      "year": 1992,
+      "roles": [
+        "director",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0119643",
+      "title": "Meet Joe Black",
+      "year": 1998,
+      "roles": [
+        "director",
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzVlZTQyMTYtZjAyNi00N2RkLWE1NjUtZWU0ODNmZWRjY2E5XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "08.08.1951",
+  "birth_location": "The Bronx, New York City, New York, USA",
+  "filmweb_id": 10507,
+  "name_pl": "Martin Brest",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 10507
+}

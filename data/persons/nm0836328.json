@@ -1,0 +1,39 @@
+{
+  "id": "nm0836328",
+  "name": "John Sturges",
+  "filmography": [
+    {
+      "imdb_id": "tt0054047",
+      "title": "The Magnificent Seven",
+      "year": 1960,
+      "roles": [
+        "director",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0057115",
+      "title": "The Great Escape",
+      "year": 1963,
+      "roles": [
+        "director",
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMmEzNDdmZDQtNTdiMC00NjFkLThjYjYtNmU4YjVkZjU3YTg4XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "03.01.1910",
+  "death_date": "18.08.1992",
+  "birth_location": "Oak Park, Illinois, USA",
+  "height": "1.88 m",
+  "imdb_scraped": true,
+  "filmweb_id": 48076,
+  "name_pl": "John Sturges",
+  "birth_location_pl": "Oak Park, Illinois",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 48076
+}

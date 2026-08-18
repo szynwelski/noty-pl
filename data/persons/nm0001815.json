@@ -1,0 +1,40 @@
+{
+  "id": "nm0001815",
+  "name": "Jim Varney",
+  "filmography": [
+    {
+      "imdb_id": "tt0114709",
+      "title": "Toy Story",
+      "year": 1995,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Slinky Dog"
+    },
+    {
+      "imdb_id": "tt0120363",
+      "title": "Toy Story 2",
+      "year": 1999,
+      "roles": [
+        "cast"
+      ],
+      "character": "Slinky Dog"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZTQ5MDdjMDAtNTU4YS00OWI3LWFlNDItYjk2ZTZhYTc2OGRiXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "15.06.1949",
+  "death_date": "10.02.2000",
+  "birth_location": "Lexington, Kentucky, USA",
+  "height": "1.85 m",
+  "imdb_scraped": true,
+  "filmweb_id": 44677,
+  "name_pl": "Jim Varney",
+  "birth_location_pl": "Lexington, Kentucky",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 44677
+}

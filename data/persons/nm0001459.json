@@ -1,0 +1,66 @@
+{
+  "id": "nm0001459",
+  "name": "Denis Leary",
+  "filmography": [
+    {
+      "imdb_id": "tt0106697",
+      "title": "Demolition Man",
+      "year": 1993,
+      "roles": [
+        "cast"
+      ],
+      "character": "Edgar Friendly"
+    },
+    {
+      "imdb_id": "tt0221027",
+      "title": "Blow",
+      "year": 2001,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0268380",
+      "title": "Ice Age",
+      "year": 2002,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Diego"
+    },
+    {
+      "imdb_id": "tt0438097",
+      "title": "Ice Age: The Meltdown",
+      "year": 2006,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Diego"
+    },
+    {
+      "imdb_id": "tt0948470",
+      "title": "The Amazing Spider-Man",
+      "year": 2012,
+      "roles": [
+        "cast"
+      ],
+      "character": "Captain Stacy"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTk2MzM4NTA5OV5BMl5BanBnXkFtZTcwMTAxNjA3Mg@@._V1_.jpg",
+  "birth_date": "18.08.1957",
+  "birth_location": "Worcester, Massachusetts, USA",
+  "height": "1.88 m",
+  "filmweb_id": 2997,
+  "name_pl": "Denis Leary",
+  "birth_location_pl": "Worcester, Massachusetts",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 2997
+}

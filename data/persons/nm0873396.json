@@ -1,0 +1,39 @@
+{
+  "id": "nm0873396",
+  "name": "Ivan Trojan",
+  "filmography": [
+    {
+      "imdb_id": "tt0288330",
+      "title": "Zelary",
+      "year": 2003,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Richard"
+    },
+    {
+      "imdb_id": "tt0408120",
+      "title": "Príbehy obycejného sílenství",
+      "year": 2005,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Petr"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzkwNDQyOTYzOF5BMl5BanBnXkFtZTcwNjIwODg3OA@@._V1_.jpg",
+  "birth_date": "30.06.1964",
+  "birth_location": "Prague, Czechoslovakia [now Czech Republic]",
+  "imdb_scraped": true,
+  "filmweb_id": 9868,
+  "name_pl": "Ivan Trojan",
+  "birth_location_pl": "Praga",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Czechy"
+  ],
+  "wikidata_fw_id": 9868
+}

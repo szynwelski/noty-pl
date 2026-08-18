@@ -1,0 +1,40 @@
+{
+  "id": "nm0001264",
+  "name": "Sarah Michelle Gellar",
+  "filmography": [
+    {
+      "imdb_id": "tt0119345",
+      "title": "I Know What You Did Last Summer",
+      "year": 1997,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Helen Shivers"
+    },
+    {
+      "imdb_id": "tt0139134",
+      "title": "Cruel Intentions",
+      "year": 1999,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Kathryn Merteuil"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzA5MDA4MTEwOV5BMl5BanBnXkFtZTcwNzY2MjcyNw@@._V1_.jpg",
+  "birth_date": "14.04.1977",
+  "birth_location": "New York City, New York, USA",
+  "height": "1.63 m",
+  "imdb_scraped": true,
+  "filmweb_id": 3415,
+  "name_pl": "Sarah Michelle Gellar",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 3415
+}

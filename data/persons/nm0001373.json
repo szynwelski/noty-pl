@@ -1,0 +1,39 @@
+{
+  "id": "nm0001373",
+  "name": "Linda Hunt",
+  "filmography": [
+    {
+      "imdb_id": "tt0087182",
+      "title": "Dune",
+      "year": 1984,
+      "roles": [
+        "cast"
+      ],
+      "character": "Shadout Mapes"
+    },
+    {
+      "imdb_id": "tt0114148",
+      "title": "Pocahontas",
+      "year": 1995,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Grandmother Willow"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTM0NDg4MzMzNV5BMl5BanBnXkFtZTcwOTUwMTc4Mg@@._V1_.jpg",
+  "birth_date": "02.04.1945",
+  "birth_location": "Morristown, New Jersey, USA",
+  "height": "1.45 m",
+  "imdb_scraped": true,
+  "filmweb_id": 5332,
+  "name_pl": "Linda Hunt",
+  "birth_location_pl": "Morristown, New Jersey",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 5332
+}

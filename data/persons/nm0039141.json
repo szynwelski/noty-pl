@@ -1,0 +1,36 @@
+{
+  "id": "nm0039141",
+  "name": "Howard Ashman",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjA4MDMyNDc1MF5BMl5BanBnXkFtZTYwMDgzOTY2._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0097757",
+      "title": "The Little Mermaid",
+      "year": 1989,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0101414",
+      "title": "Beauty and the Beast",
+      "year": 1991,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "birth_date": "17.05.1950",
+  "death_date": "14.03.1991",
+  "birth_location": "Baltimore, Maryland, USA",
+  "height": "1.85 m",
+  "imdb_scraped": true,
+  "filmweb_id": 10633,
+  "name_pl": "Howard Ashman",
+  "birth_location_pl": "Baltimore, Maryland",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

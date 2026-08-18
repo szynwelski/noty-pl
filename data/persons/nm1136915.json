@@ -1,0 +1,30 @@
+{
+  "id": "nm1136915",
+  "name": "Osama bin Laden",
+  "filmography": [
+    {
+      "imdb_id": "tt0361596",
+      "title": "Fahrenheit 9/11",
+      "year": 2004,
+      "roles": [
+        "cast"
+      ],
+      "character": "Self"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjEzNjEyMjkwOV5BMl5BanBnXkFtZTcwNDMyNDIzOA@@._V1_.jpg",
+  "birth_date": "10.03.1957",
+  "death_date": "02.05.2011",
+  "birth_location": "Riyadh, Saudi Arabia",
+  "height": "1.95 m",
+  "imdb_scraped": true,
+  "filmweb_id": 214166,
+  "name_pl": "Osama bin Laden",
+  "birth_location_pl": "Rijad",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Arabia Saudyjska",
+    "bezpaństwowiec"
+  ]
+}

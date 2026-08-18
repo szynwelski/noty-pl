@@ -1,0 +1,48 @@
+{
+  "id": "nm0239447",
+  "name": "Marie Dubois",
+  "filmography": [
+    {
+      "imdb_id": "tt0055032",
+      "title": "Jules and Jim",
+      "year": 1962,
+      "roles": [
+        "cast"
+      ],
+      "character": "Thérèse"
+    },
+    {
+      "imdb_id": "tt0064688",
+      "title": "Those Daring Young Men in Their Jaunty Jalopies",
+      "year": 1969,
+      "roles": [
+        "cast"
+      ],
+      "character": "Pascale"
+    },
+    {
+      "imdb_id": "tt0074686",
+      "title": "The Innocent",
+      "year": 1976,
+      "roles": [
+        "cast"
+      ],
+      "character": "The Princess"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjM3MTkzNDc4Ml5BMl5BanBnXkFtZTgwMzc3MzI1NTE@._V1_.jpg",
+  "birth_date": "12.01.1937",
+  "death_date": "15.10.2014",
+  "birth_location": "Paris, France",
+  "height": "1.65 m",
+  "filmweb_id": 3044,
+  "name_pl": "Marie Dubois",
+  "birth_location_pl": "Paryż",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja"
+  ],
+  "wikidata_fw_id": 3044
+}

@@ -1,0 +1,273 @@
+{
+  "imdb_id": "tt2463208",
+  "title": "The Adam Project",
+  "description": "After accidentally crash-landing in 2022, time-traveling fighter pilot Adam Reed teams up with his 12-year-old self for a mission to save the future.",
+  "runtime_minutes": 106,
+  "release_date": "11.03.2022",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm0005351",
+      "name": "Ryan Reynolds"
+    },
+    {
+      "id": "nm11880640",
+      "name": "Walker Scobell"
+    },
+    {
+      "id": "nm0749263",
+      "name": "Mark Ruffalo"
+    },
+    {
+      "id": "nm0004950",
+      "name": "Jennifer Garner"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0506613",
+      "name": "Shawn Levy"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm2267086",
+      "name": "Jonathan Tropper"
+    },
+    {
+      "id": "nm2385905",
+      "name": "T.S. Nowlin"
+    },
+    {
+      "id": "nm0280814",
+      "name": "Jennifer Flackett"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0005351",
+      "name": "Ryan Reynolds",
+      "character": "Big Adam"
+    },
+    {
+      "id": "nm11880640",
+      "name": "Walker Scobell",
+      "character": "Young Adam"
+    },
+    {
+      "id": "nm0749263",
+      "name": "Mark Ruffalo",
+      "character": "Louis Reed"
+    },
+    {
+      "id": "nm0004950",
+      "name": "Jennifer Garner",
+      "character": "Ellie Reed"
+    },
+    {
+      "id": "nm0757855",
+      "name": "Zoe Saldaña",
+      "character": "Laura"
+    },
+    {
+      "id": "nm0001416",
+      "name": "Catherine Keener",
+      "character": "Maya Sorian"
+    },
+    {
+      "id": "nm3520506",
+      "name": "Alex Mallari Jr.",
+      "character": "Christos"
+    },
+    {
+      "id": "nm9215986",
+      "name": "Braxton Bjerken",
+      "character": "Ray"
+    },
+    {
+      "id": "nm11953116",
+      "name": "Kasra Wong",
+      "character": "Chuck"
+    },
+    {
+      "id": "nm1708815",
+      "name": "Lucie Guest",
+      "character": "Young Sorian Body Double"
+    },
+    {
+      "id": "nm3402242",
+      "name": "Donald Sales",
+      "character": "Paul the Bartender"
+    },
+    {
+      "id": "nm7728822",
+      "name": "Esther Ming Li",
+      "character": "Sophie"
+    },
+    {
+      "id": "nm1649128",
+      "name": "Benjamin Wilkinson",
+      "character": "Derek"
+    },
+    {
+      "id": "nm13456353",
+      "name": "Isaiah Haegert",
+      "character": "8-year-old Adam"
+    },
+    {
+      "id": "nm4215448",
+      "name": "Milo Shandel",
+      "character": "Professor"
+    },
+    {
+      "id": "nm0367762",
+      "name": "Ellie Harvie",
+      "character": "Teacher"
+    },
+    {
+      "id": "nm13550380",
+      "name": "Charles Chi Soo Kim",
+      "character": "University Student"
+    },
+    {
+      "id": "nm8210479",
+      "name": "James Lawson",
+      "character": "Time Soldier"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 10001384,
+  "year": 2022,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNWU1NDJlYWUtYWE1OC00MGVlLTliNzYtMjg4OTk0MWE4MDQ4XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.7,
+      "votes": 261186,
+      "distribution": {
+        "1": 2197,
+        "2": 1521,
+        "3": 3267,
+        "4": 7776,
+        "5": 22739,
+        "6": 60783,
+        "7": 84359,
+        "8": 44196,
+        "9": 15537,
+        "10": 18811
+      },
+      "normalized": 4.8692
+    },
+    "filmweb": {
+      "rating": 6.2,
+      "votes": 34826,
+      "distribution": {
+        "1": 67,
+        "2": 150,
+        "3": 720,
+        "4": 1875,
+        "5": 5783,
+        "6": 12271,
+        "7": 9611,
+        "8": 3344,
+        "9": 640,
+        "10": 365
+      },
+      "normalized": 3.696
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "12.03.2022",
+      "normalized": 7.1247
+    },
+    "score": 5.23
+  },
+  "polish_title": "Projekt Adam",
+  "silent": false,
+  "producers": [
+    {
+      "id": "nm2950264",
+      "name": "Dan Cohen"
+    },
+    {
+      "id": "nm9844093",
+      "name": "George Dewey"
+    },
+    {
+      "id": "nm1911103",
+      "name": "David Ellison"
+    },
+    {
+      "id": "nm0280814",
+      "name": "Jennifer Flackett"
+    },
+    {
+      "id": "nm2420764",
+      "name": "Rand Geiger"
+    },
+    {
+      "id": "nm1602154",
+      "name": "Dana Goldberg"
+    },
+    {
+      "id": "nm3818223",
+      "name": "Patrick Gooing"
+    },
+    {
+      "id": "nm1447370",
+      "name": "Don Granger"
+    },
+    {
+      "id": "nm0505662",
+      "name": "Mark Levin"
+    },
+    {
+      "id": "nm1362282",
+      "name": "Dan Levine"
+    },
+    {
+      "id": "nm0506613",
+      "name": "Shawn Levy"
+    },
+    {
+      "id": "nm0572137",
+      "name": "Josh McLaglen"
+    },
+    {
+      "id": "nm0572131",
+      "name": "Mary McLaglen"
+    },
+    {
+      "id": "nm0005351",
+      "name": "Ryan Reynolds"
+    },
+    {
+      "id": "nm0858586",
+      "name": "Cari Thomas"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm1387379",
+      "name": "Rob Simonsen"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005859",
+      "name": "Tobias A. Schliessler"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

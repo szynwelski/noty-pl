@@ -1,0 +1,40 @@
+{
+  "id": "nm0105482",
+  "name": "Pierre Brasseur",
+  "filmography": [
+    {
+      "imdb_id": "tt0030643",
+      "title": "Port of Shadows",
+      "year": 1938,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Lucien"
+    },
+    {
+      "imdb_id": "tt0038853",
+      "title": "Gates of the Night",
+      "year": 1946,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Georges"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNjE3ZDYzMjItNzc4MC00ZGRjLTgyMzItYTVlYjNhYWIwMzZmXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "22.12.1905",
+  "death_date": "14.08.1972",
+  "birth_location": "Paris, France",
+  "imdb_scraped": true,
+  "filmweb_id": 52159,
+  "name_pl": "Pierre Brasseur",
+  "birth_location_pl": "Paryż",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja"
+  ],
+  "wikidata_fw_id": 52159
+}

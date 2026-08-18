@@ -1,0 +1,44 @@
+{
+  "id": "nm0276144",
+  "name": "Helen Fielding",
+  "filmography": [
+    {
+      "imdb_id": "tt0243155",
+      "title": "Bridget Jones's Diary",
+      "year": 2001,
+      "roles": [
+        "writer",
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0317198",
+      "title": "Bridget Jones: The Edge of Reason",
+      "year": 2004,
+      "roles": [
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt1473832",
+      "title": "Bridget Jones's Baby",
+      "year": 2016,
+      "roles": [
+        "writer",
+        "producer"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTIxMDU2NzY5M15BMl5BanBnXkFtZTYwNzc2Mzc2._V1_.jpg",
+  "birth_date": "19.02.1958",
+  "birth_location": "Morley, West Yorkshire, England, UK",
+  "filmweb_id": 120787,
+  "name_pl": "Helen Fielding",
+  "birth_location_pl": "Morley, Anglia",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ]
+}

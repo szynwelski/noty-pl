@@ -1,0 +1,48 @@
+{
+  "id": "nm0005092",
+  "name": "Larry King",
+  "filmography": [
+    {
+      "imdb_id": "tt0293116",
+      "title": "Jet Lag",
+      "year": 2002,
+      "roles": [
+        "cast"
+      ],
+      "character": "Self"
+    },
+    {
+      "imdb_id": "tt0361596",
+      "title": "Fahrenheit 9/11",
+      "year": 2004,
+      "roles": [
+        "cast"
+      ],
+      "character": "Self"
+    },
+    {
+      "imdb_id": "tt0298148",
+      "title": "Shrek 2",
+      "year": 2004,
+      "roles": [
+        "cast"
+      ],
+      "character": "Ugly Stepsister"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTI0NjY4MTYyOF5BMl5BanBnXkFtZTYwOTc3NDg1._V1_.jpg",
+  "birth_date": "19.11.1933",
+  "death_date": "23.01.2021",
+  "birth_location": "Brooklyn, New York City, New York, USA",
+  "height": "1.75 m",
+  "filmweb_id": 4808,
+  "name_pl": "Larry King",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 4808
+}

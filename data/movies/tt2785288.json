@@ -1,0 +1,241 @@
+{
+  "imdb_id": "tt2785288",
+  "title": "Jack Strong",
+  "description": "The most spectacular Polish spy of the Cold War era, Colonel Ryszard Kuklinski, informs Americans about the Communist Bloc's top secrets in the face of the upcoming martial law.",
+  "runtime_minutes": 128,
+  "release_date": "24.07.2015",
+  "genres": [
+    "Biography",
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0233949",
+      "name": "Marcin Dorocinski"
+    },
+    {
+      "id": "nm0652292",
+      "name": "Maja Ostaszewska"
+    },
+    {
+      "id": "nm0933940",
+      "name": "Patrick Wilson"
+    },
+    {
+      "id": "nm2557160",
+      "name": "Dimitri Bilov"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0664582",
+      "name": "Wladyslaw Pasikowski"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0664582",
+      "name": "Wladyslaw Pasikowski"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0233949",
+      "name": "Marcin Dorocinski",
+      "character": "Jack Strong"
+    },
+    {
+      "id": "nm0652292",
+      "name": "Maja Ostaszewska",
+      "character": "Hania"
+    },
+    {
+      "id": "nm0933940",
+      "name": "Patrick Wilson",
+      "character": "Daniel"
+    },
+    {
+      "id": "nm2557160",
+      "name": "Dimitri Bilov",
+      "character": "Iwanov"
+    },
+    {
+      "id": "nm0231436",
+      "name": "Dagmara Dominczyk",
+      "character": "Sue"
+    },
+    {
+      "id": "nm0556499",
+      "name": "Oleg Maslennikov",
+      "character": "Kulikov"
+    },
+    {
+      "id": "nm1522852",
+      "name": "Ireneusz Czop",
+      "character": "Rakowiecki"
+    },
+    {
+      "id": "nm0048121",
+      "name": "Miroslaw Baka",
+      "character": "Putek"
+    },
+    {
+      "id": "nm0952498",
+      "name": "Zbigniew Zamachowski",
+      "character": "Gendera"
+    },
+    {
+      "id": "nm0682117",
+      "name": "Christoph Pieczynski",
+      "character": "Brzezinski"
+    },
+    {
+      "id": "nm1846114",
+      "name": "Zbigniew Stryj",
+      "character": "Skalski"
+    },
+    {
+      "id": "nm1412177",
+      "name": "Pawel Malaszynski",
+      "character": "Ostaszewski"
+    },
+    {
+      "id": "nm0322937",
+      "name": "Krzysztof Globisz",
+      "character": "Siwicki"
+    },
+    {
+      "id": "nm0236640",
+      "name": "Krzysztof Dracz",
+      "character": "Jaruzelski"
+    },
+    {
+      "id": "nm2487191",
+      "name": "Józef Pawlowski",
+      "character": "Waldek"
+    },
+    {
+      "id": "nm5584475",
+      "name": "Piotr Nerlewski",
+      "character": "Bogdan"
+    },
+    {
+      "id": "nm0412569",
+      "name": "Pawel Iwanicki",
+      "character": "Walczak"
+    },
+    {
+      "id": "nm1782956",
+      "name": "David Wurawa",
+      "character": "Wiliams"
+    }
+  ],
+  "countries": [
+    "Poland"
+  ],
+  "languages": [
+    "Polish",
+    "English",
+    "Russian"
+  ],
+  "color": "Color",
+  "filmweb_id": 673946,
+  "year": 2014,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODU4NjY3ODMyMl5BMl5BanBnXkFtZTgwMjAyNzkwNjE@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7,
+      "votes": 5699,
+      "distribution": {
+        "1": 135,
+        "2": 45,
+        "3": 68,
+        "4": 108,
+        "5": 323,
+        "6": 776,
+        "7": 1933,
+        "8": 1432,
+        "9": 491,
+        "10": 388
+      },
+      "normalized": 5.5027
+    },
+    "filmweb": {
+      "rating": 7.39,
+      "votes": 137485,
+      "distribution": {
+        "1": 569,
+        "2": 191,
+        "3": 677,
+        "4": 1390,
+        "5": 4849,
+        "6": 15604,
+        "7": 45389,
+        "8": 51073,
+        "9": 14054,
+        "10": 3689
+      },
+      "normalized": 6.4662
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "11.11.2024",
+      "normalized": 6.3474
+    },
+    "score": 6.1054
+  },
+  "polish_title": "Jack Strong",
+  "silent": false,
+  "description_pl": "\"Jack Strong\" to film sensacyjny, opowiadający jedną z najbardziej fascynujących historii szpiegowskich świata. To prawdziwa historia pułkownika Ryszarda Kuklińskiego - człowieka, który, tkwiąc w środku systemu, podejmuje współpracę z CIA i staje się kluczowym (choć niewidocznym) aktorem czasu zimnej wojny.",
+  "producers": [
+    {
+      "id": "nm5396123",
+      "name": "Klaudiusz Frydrych"
+    },
+    {
+      "id": "nm1173725",
+      "name": "Roman Gutek"
+    },
+    {
+      "id": "nm3753564",
+      "name": "Magdalena Kubicka"
+    },
+    {
+      "id": "nm7085858",
+      "name": "Sebastian Kulczyk"
+    },
+    {
+      "id": "nm2962654",
+      "name": "Dominique Lesage"
+    },
+    {
+      "id": "nm7085857",
+      "name": "Pawel Swist"
+    },
+    {
+      "id": "nm2561798",
+      "name": "Sylwia Wilkos"
+    },
+    {
+      "id": "nm3756791",
+      "name": "Piotr Zygo"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm2380274",
+      "name": "Jan Duszynski"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm1248285",
+      "name": "Magdalena Górka"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,189 @@
+{
+  "imdb_id": "tt0089848",
+  "title": "Przez dotyk",
+  "description": "",
+  "runtime_minutes": 79,
+  "release_date": "24.09.1986",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm0162987",
+      "name": "Maria Ciunelis"
+    },
+    {
+      "id": "nm0843772",
+      "name": "Grazyna Szapolowska"
+    },
+    {
+      "id": "nm0714578",
+      "name": "Milogost Reczek"
+    },
+    {
+      "id": "nm0826386",
+      "name": "Krzysztof Stelmaszyk"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0493764",
+      "name": "Magdalena Lazarkiewicz"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0493764",
+      "name": "Magdalena Lazarkiewicz"
+    },
+    {
+      "id": "nm0503317",
+      "name": "Ilona Lepkowska"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0162987",
+      "name": "Maria Ciunelis",
+      "character": "Teresa Jankowska"
+    },
+    {
+      "id": "nm0843772",
+      "name": "Grazyna Szapolowska",
+      "character": "Anna"
+    },
+    {
+      "id": "nm0714578",
+      "name": "Milogost Reczek",
+      "character": "Doctor"
+    },
+    {
+      "id": "nm0826386",
+      "name": "Krzysztof Stelmaszyk",
+      "character": "Adam, Anna's husband"
+    },
+    {
+      "id": "nm0871827",
+      "name": "Jerzy Trela",
+      "character": "Professor"
+    },
+    {
+      "id": "nm0160993",
+      "name": "Tadeusz Chudecki",
+      "character": "Priest"
+    },
+    {
+      "id": "nm0768100",
+      "name": "Teresa Sawicka",
+      "character": "Doctor"
+    },
+    {
+      "id": "nm0343322",
+      "name": "Antoni Lazarkiewicz",
+      "character": "Tomek"
+    },
+    {
+      "id": "nm0158906",
+      "name": "Barbara Chojecka",
+      "character": ""
+    },
+    {
+      "id": "nm0844415",
+      "name": "Irena Szymkiewicz",
+      "character": ""
+    },
+    {
+      "id": "nm0489666",
+      "name": "Izabela Laskowska",
+      "character": ""
+    },
+    {
+      "id": "nm0921726",
+      "name": "Wanda Weslaw-Idzinska",
+      "character": ""
+    },
+    {
+      "id": "nm0953987",
+      "name": "Maria Zbyszewska",
+      "character": ""
+    },
+    {
+      "id": "nm0468573",
+      "name": "Wieslaw Kowalczyk",
+      "character": ""
+    },
+    {
+      "id": "nm0375851",
+      "name": "Zuzanna Helska",
+      "character": ""
+    }
+  ],
+  "countries": [
+    "Poland"
+  ],
+  "languages": [
+    "Polish"
+  ],
+  "color": "Color",
+  "filmweb_id": 12340,
+  "year": 1986,
+  "type": "tvMovie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzYyZWI2NTAtNWE3YS00YTcyLTlmODUtMmI2Y2U0OGVmMTU3XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.9,
+      "votes": 23,
+      "distribution": {
+        "1": 1,
+        "2": 0,
+        "3": 1,
+        "4": 4,
+        "5": 2,
+        "6": 8,
+        "7": 5,
+        "8": 1,
+        "9": 0,
+        "10": 1
+      },
+      "normalized": 5.2536
+    },
+    "filmweb": {
+      "rating": 6.43,
+      "votes": 423,
+      "distribution": {
+        "1": 9,
+        "2": 6,
+        "3": 11,
+        "4": 24,
+        "5": 46,
+        "6": 108,
+        "7": 112,
+        "8": 69,
+        "9": 25,
+        "10": 13
+      },
+      "normalized": 4.6209
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "19.10.2005",
+      "normalized": 7.2292
+    },
+    "score": 5.7012
+  },
+  "polish_title": "Przez dotyk",
+  "silent": false,
+  "composers": [
+    {
+      "id": "nm0006237",
+      "name": "Zbigniew Preisner"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0657147",
+      "name": "Krzysztof Pakulski"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

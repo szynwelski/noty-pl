@@ -1,0 +1,80 @@
+{
+  "imdb_id": "tt0390161",
+  "title": "Journeyings and Conversations",
+  "description": "A documentary on Howrah Station in Calcutta, one of the biggest and busiest railway stations in the world.",
+  "runtime_minutes": 88,
+  "release_date": "16.01.2004",
+  "genres": [
+    "Documentary"
+  ],
+  "directors": [
+    {
+      "id": "nm1503476",
+      "name": "Arvind Sinha"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "India"
+  ],
+  "languages": [
+    "Hindi"
+  ],
+  "color": "Color",
+  "filmweb_id": 294425,
+  "year": 2004,
+  "type": "movie",
+  "image_url": null,
+  "original_title": "Kaya Poochhe Maya Se",
+  "ratings": {
+    "imdb": {
+      "rating": 7.4,
+      "votes": 17,
+      "distribution": {
+        "1": 2,
+        "2": 1,
+        "3": 1,
+        "4": 0,
+        "5": 2,
+        "6": 0,
+        "7": 2,
+        "8": 0,
+        "9": 1,
+        "10": 8
+      },
+      "normalized": 5.3215
+    },
+    "filmweb": {
+      "rating": 7.0,
+      "votes": 1,
+      "distribution": {
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 1,
+        "8": 0,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 5.2184
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "19.10.2005",
+      "normalized": 5.4199
+    },
+    "score": 5.3199
+  },
+  "polish_title": "Podróże i rozmowy",
+  "silent": false,
+  "cinematographers": [
+    {
+      "id": "nm0657707",
+      "name": "Ranjan Palit"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

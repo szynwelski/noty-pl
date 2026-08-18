@@ -1,0 +1,31 @@
+{
+  "id": "nm0000315",
+  "name": "Louise Brooks",
+  "filmography": [
+    {
+      "imdb_id": "tt0020475",
+      "title": "Diary of a Lost Girl",
+      "year": 1929,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Thymian Henning"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZWZjNzkzYmQtMmNlMi00OWRmLWFmOTMtYWM3Y2RlMmEzM2ZjXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "14.11.1906",
+  "death_date": "08.08.1985",
+  "birth_location": "Cherryvale, Kansas, USA",
+  "height": "1.57 m",
+  "imdb_scraped": true,
+  "filmweb_id": 58038,
+  "name_pl": "Louise Brooks",
+  "birth_location_pl": "Cherryvale, Kansas",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 58038
+}

@@ -1,0 +1,77 @@
+{
+  "imdb_id": "tt0222336",
+  "title": "Récréation à la Martinière",
+  "description": "A short black and white film which captures the activities during a school's recreational break.",
+  "runtime_minutes": 1,
+  "release_date": "10.05.1896",
+  "genres": [
+    "Documentary",
+    "Short"
+  ],
+  "directors": [
+    {
+      "id": "nm0525910",
+      "name": "Louis Lumière"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 120771,
+  "year": 1896,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYzdjNDUxOWItOGIyYy00NTllLWE0MTctMzM3ZGNlMzM2OWI1XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 4.5,
+      "votes": 337,
+      "distribution": {
+        "1": 30,
+        "2": 25,
+        "3": 29,
+        "4": 62,
+        "5": 127,
+        "6": 31,
+        "7": 17,
+        "8": 6,
+        "9": 2,
+        "10": 8
+      },
+      "normalized": 4.029
+    },
+    "filmweb": {
+      "rating": 4.39,
+      "votes": 51,
+      "distribution": {
+        "1": 3,
+        "2": 5,
+        "3": 7,
+        "4": 9,
+        "5": 17,
+        "6": 4,
+        "7": 3,
+        "8": 3,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 4.4638
+    },
+    "jarek": {
+      "rating": 2,
+      "date_rated": "11.12.2016",
+      "normalized": 3.5003
+    },
+    "score": 3.9977
+  },
+  "polish_title": "Récréation à la Martinière",
+  "silent": true,
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-16"
+}

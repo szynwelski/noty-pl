@@ -1,0 +1,45 @@
+{
+  "id": "nm0002021",
+  "name": "Noël Coward",
+  "filmography": [
+    {
+      "imdb_id": "tt0034891",
+      "title": "In Which We Serve",
+      "year": 1942,
+      "roles": [
+        "director",
+        "writer",
+        "star",
+        "cast",
+        "producer"
+      ],
+      "character": "Capt. E.V. Kinross R.N. - Captain 'D'"
+    },
+    {
+      "imdb_id": "tt0037558",
+      "title": "Brief Encounter",
+      "year": 1945,
+      "roles": [
+        "writer",
+        "cast",
+        "producer"
+      ],
+      "character": "Train Station Announcer"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQ3ZDJjNGItM2M5ZS00ZmI0LWE5M2EtMTEwNzc1Njc2ZGFiXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "16.12.1899",
+  "death_date": "26.03.1973",
+  "birth_location": "Teddington, Middlesex, England, UK",
+  "height": "1.83 m",
+  "imdb_scraped": true,
+  "filmweb_id": 53298,
+  "name_pl": "Noel Coward",
+  "birth_location_pl": "Teddington, Anglia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 53298
+}

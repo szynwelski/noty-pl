@@ -1,0 +1,252 @@
+{
+  "imdb_id": "tt13314558",
+  "title": "Day Shift",
+  "description": "A hard-working, blue-collar dad just wants to provide a good life for his quick-witted 10-year-old daughter. His mundane San Fernando Valley pool cleaning job is a front for his real source of income: hunting and killing vampires.",
+  "year": 2022,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYWQ4NzM3NTEtNjQ1NC00NjM3LWIwOTAtMDQ2ZGRlZGRlNTFiXkEyXkFqcGc@._V1_.jpg",
+  "runtime_minutes": 113,
+  "release_date": "12.08.2022",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Fantasy",
+    "Horror",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0004937",
+      "name": "Jamie Foxx"
+    },
+    {
+      "id": "nm2002649",
+      "name": "Dave Franco"
+    },
+    {
+      "id": "nm6812060",
+      "name": "Natasha Liu Bordizzo"
+    },
+    {
+      "id": "nm0328709",
+      "name": "Meagan Good"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0675102",
+      "name": "J.J. Perry"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm11996939",
+      "name": "Tyler Tice"
+    },
+    {
+      "id": "nm8748334",
+      "name": "Shay Hatten"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0004937",
+      "name": "Jamie Foxx",
+      "character": "Bud Jablonski"
+    },
+    {
+      "id": "nm2002649",
+      "name": "Dave Franco",
+      "character": "Seth"
+    },
+    {
+      "id": "nm6812060",
+      "name": "Natasha Liu Bordizzo",
+      "character": "Heather"
+    },
+    {
+      "id": "nm0328709",
+      "name": "Meagan Good",
+      "character": "Jocelyn Jablonski"
+    },
+    {
+      "id": "nm0646568",
+      "name": "Karla Souza",
+      "character": "Audrey San Fernando"
+    },
+    {
+      "id": "nm0992538",
+      "name": "Steve Howey",
+      "character": "Mike Nazarian"
+    },
+    {
+      "id": "nm0012078",
+      "name": "Scott Adkins",
+      "character": "Diran Nazarian"
+    },
+    {
+      "id": "nm0557908",
+      "name": "Oliver Masucci",
+      "character": "Klaus"
+    },
+    {
+      "id": "nm0004879",
+      "name": "Snoop Dogg",
+      "character": "Big John Elliott"
+    },
+    {
+      "id": "nm1441925",
+      "name": "Eric Lange",
+      "character": "Ralph Seeger"
+    },
+    {
+      "id": "nm0001780",
+      "name": "Peter Stormare",
+      "character": "Troy"
+    },
+    {
+      "id": "nm10239761",
+      "name": "Zion",
+      "character": "Paige Jablonski"
+    },
+    {
+      "id": "nm0447981",
+      "name": "Danielle Kennedy",
+      "character": "Old Lady"
+    },
+    {
+      "id": "nm9231189",
+      "name": "Shai Debroux",
+      "character": "Old Lady's Awakened Vamp"
+    },
+    {
+      "id": "nm0920806",
+      "name": "J.C. Wendel",
+      "character": "Blonde Neighbor"
+    },
+    {
+      "id": "nm0043112",
+      "name": "Maryellen Aviano",
+      "character": "Bud's Other Neighbor"
+    },
+    {
+      "id": "nm1423003",
+      "name": "Miyuki Matsunaga",
+      "character": "Dry Cleaner Mimoko"
+    },
+    {
+      "id": "nm12640591",
+      "name": "Micshell Rena Milsap",
+      "character": "Union Hall Receptionist"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "color": "Color",
+  "filmweb_id": 10004643,
+  "ratings": {
+    "imdb": {
+      "rating": 6.1,
+      "votes": 100161,
+      "distribution": {
+        "1": 1744,
+        "2": 1355,
+        "3": 2658,
+        "4": 5620,
+        "5": 14637,
+        "6": 30507,
+        "7": 25259,
+        "8": 10358,
+        "9": 2950,
+        "10": 5073
+      },
+      "normalized": 3.7601
+    },
+    "filmweb": {
+      "rating": 5.59,
+      "votes": 13778,
+      "distribution": {
+        "1": 87,
+        "2": 186,
+        "3": 735,
+        "4": 1557,
+        "5": 3519,
+        "6": 4454,
+        "7": 2401,
+        "8": 616,
+        "9": 125,
+        "10": 98
+      },
+      "normalized": 2.8137
+    },
+    "jarek": {
+      "rating": 3,
+      "date_rated": "18.08.2022",
+      "normalized": 4.2591
+    },
+    "score": 3.611
+  },
+  "polish_title": "Dzienna zmiana",
+  "silent": false,
+  "description_pl": "Jamie Foxx wciela się w rolę ojca, który ciężko pracuje, aby zapewnić swojej zdolnej córce dobry start w życiu. Czyszczenie basenów w San Fernando Valley to jednak tylko przykrywka dla znacznie bardziej dochodowego zajęcia, jakim jest polowanie na wampiry.",
+  "producers": [
+    {
+      "id": "nm0062799",
+      "name": "Peter Baxter"
+    },
+    {
+      "id": "nm0972171",
+      "name": "Tom Carson"
+    },
+    {
+      "id": "nm0004937",
+      "name": "Jamie Foxx"
+    },
+    {
+      "id": "nm2211720",
+      "name": "Shaun Redick"
+    },
+    {
+      "id": "nm1545721",
+      "name": "Yvette Yates Redick"
+    },
+    {
+      "id": "nm0772387",
+      "name": "Charles J.D. Schlissel"
+    },
+    {
+      "id": "nm11996940",
+      "name": "Jason Spitz"
+    },
+    {
+      "id": "nm0821432",
+      "name": "Chad Stahelski"
+    },
+    {
+      "id": "nm1484310",
+      "name": "Datari Turner"
+    },
+    {
+      "id": "nm1747215",
+      "name": "Alex Young"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0061045",
+      "name": "Tyler Bates"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0002947",
+      "name": "Toby Oliver"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

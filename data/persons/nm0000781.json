@@ -1,0 +1,39 @@
+{
+  "id": "nm0000781",
+  "name": "Eve Arden",
+  "filmography": [
+    {
+      "imdb_id": "tt0052561",
+      "title": "Anatomy of a Murder",
+      "year": 1959,
+      "roles": [
+        "cast"
+      ],
+      "character": "Maida Rutledge"
+    },
+    {
+      "imdb_id": "tt0077631",
+      "title": "Grease",
+      "year": 1978,
+      "roles": [
+        "cast"
+      ],
+      "character": "Principal McGee"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjIxMzQzMjU1Ml5BMl5BanBnXkFtZTcwNjExOTkxOA@@._V1_.jpg",
+  "birth_date": "30.04.1908",
+  "death_date": "12.11.1990",
+  "birth_location": "Mill Valley, California, USA",
+  "height": "1.71 m",
+  "imdb_scraped": true,
+  "filmweb_id": 43237,
+  "name_pl": "Eve Arden",
+  "birth_location_pl": "Mill Valley, Kalifornia",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 43237
+}

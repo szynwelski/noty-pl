@@ -1,0 +1,27 @@
+{
+  "id": "nm0715919",
+  "name": "John Rees",
+  "filmography": [
+    {
+      "imdb_id": "tt0067144",
+      "title": "The Go-Between",
+      "year": 1971,
+      "roles": [
+        "cast"
+      ],
+      "character": "Blunt"
+    }
+  ],
+  "birth_date": "06.03.1927",
+  "death_date": "1994",
+  "birth_location": "Port Talbot, Wales, UK",
+  "imdb_scraped": true,
+  "filmweb_id": 84440,
+  "name_pl": "John Rees",
+  "birth_location_pl": "Port Talbot, Walia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ]
+}

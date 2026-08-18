@@ -1,0 +1,103 @@
+{
+  "imdb_id": "tt8142370",
+  "title": "Food Fighter",
+  "description": "Filmed across four continents and over two years, Food Fighter is the inspirational story of one woman's crusade against the global scandal of food waste.",
+  "runtime_minutes": 87,
+  "release_date": "2018",
+  "genres": [
+    "Documentary",
+    "Biography"
+  ],
+  "directors": [
+    {
+      "id": "nm9696442",
+      "name": "Dan Goldberg"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "Australia",
+    "South Africa",
+    "Thailand",
+    "United Kingdom"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 812938,
+  "year": 2018,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOTI5ZDRhM2EtN2RkZi00ZjllLWJlYmItOWQ5YWUzYTk4YTUyXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.1,
+      "votes": 29,
+      "distribution": {
+        "1": 3,
+        "2": 1,
+        "3": 0,
+        "4": 0,
+        "5": 2,
+        "6": 4,
+        "7": 6,
+        "8": 5,
+        "9": 4,
+        "10": 4
+      },
+      "normalized": 5.3172
+    },
+    "filmweb": {
+      "rating": 6.13,
+      "votes": 97,
+      "distribution": {
+        "1": 1,
+        "2": 2,
+        "3": 2,
+        "4": 9,
+        "5": 19,
+        "6": 20,
+        "7": 26,
+        "8": 13,
+        "9": 3,
+        "10": 2
+      },
+      "normalized": 4.7859
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "12.10.2018",
+      "normalized": 6.4102
+    },
+    "score": 5.5044
+  },
+  "polish_title": "Nie marnuj jedzenia",
+  "silent": false,
+  "description_pl": "Ronni Kahn przez lata prowadziła firmę organizującą imprezy i na co dzień obserwowała ogromne ilości zmarnowanego jedzenia. W 2004 roku założyła organizację OzHarvest zajmującą się odbieraniem nadwyżek żywności i przekazywaniem ich potrzebującym. Po 14 latach funkcjonowania OzHarvest działa w 8 australijskich miastach. Co tydzień przekazuje ponad 100 ton pełnowartościowego pożywienia do 1300 organizacji charytatywnych. Działania OzHarvest wymusiły na australijskim rządzie deklarację zmniejszenia skali marnowanego jedzenia o połowę w ciągu najbliższych 12 lat. Organizacja zajmuje się także edukacją konsumentów, a jej ostatni projekt to kampania „Fight Food Waste\". Powstający przez 2 lata dokument pokazuje pełną pasji Ronni Kahn w jej codziennej walce o ratowanie marnowanego jedzenia i karmienie potrzebujących już nie tylko w Australii, ale w Wielkiej Brytanii, Tajlandii i RPA.",
+  "producers": [
+    {
+      "id": "nm9696442",
+      "name": "Dan Goldberg"
+    },
+    {
+      "id": "nm1854191",
+      "name": "Adam Kay"
+    },
+    {
+      "id": "nm0621845",
+      "name": "Simon Nasht"
+    },
+    {
+      "id": "nm5918983",
+      "name": "Susan Schmidt"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm6137085",
+      "name": "Bruno Kataoka"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

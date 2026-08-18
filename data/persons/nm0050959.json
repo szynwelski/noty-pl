@@ -1,0 +1,79 @@
+{
+  "id": "nm0050959",
+  "name": "Pedro Pascal",
+  "filmography": [
+    {
+      "imdb_id": "tt2707408",
+      "title": "Narcos",
+      "year": 2015,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Javier Peña"
+    },
+    {
+      "imdb_id": "tt2034800",
+      "title": "The Great Wall",
+      "year": 2016,
+      "roles": [
+        "cast"
+      ],
+      "character": "Tovar"
+    },
+    {
+      "imdb_id": "tt3766354",
+      "title": "The Equalizer 2",
+      "year": 2018,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Dave York"
+    },
+    {
+      "imdb_id": "tt1488606",
+      "title": "Triple Frontier",
+      "year": 2019,
+      "roles": [
+        "cast"
+      ],
+      "character": "Francisco 'Catfish' Morales"
+    },
+    {
+      "imdb_id": "tt3581920",
+      "title": "The Last of Us",
+      "year": 2023,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Joel Miller"
+    },
+    {
+      "imdb_id": "tt29623480",
+      "title": "The Wild Robot",
+      "year": 2024,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Fink"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZWNlYmQ3MzctNTM4OC00Mjk5LTlmM2EtNTU4MjgxMjNiZGEyXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "02.04.1975",
+  "birth_location": "Santiago de Chile, Metropolitan Region, Chile",
+  "height": "1.79 m",
+  "filmweb_id": 1003573,
+  "name_pl": "Pedro Pascal",
+  "birth_location_pl": "Santiago",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone",
+    "Ekwador"
+  ],
+  "wikidata_fw_id": 1003573
+}

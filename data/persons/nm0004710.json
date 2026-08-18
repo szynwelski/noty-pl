@@ -1,0 +1,47 @@
+{
+  "id": "nm0004710",
+  "name": "Naveen Andrews",
+  "filmography": [
+    {
+      "imdb_id": "tt0116209",
+      "title": "The English Patient",
+      "year": 1996,
+      "roles": [
+        "cast"
+      ],
+      "character": "Kip"
+    },
+    {
+      "imdb_id": "tt0411008",
+      "title": "Lost",
+      "year": 2004,
+      "roles": [
+        "cast"
+      ],
+      "character": "Sayid Jarrah"
+    },
+    {
+      "imdb_id": "tt1077258",
+      "title": "Planet Terror",
+      "year": 2007,
+      "roles": [
+        "cast"
+      ],
+      "character": "Abby"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTk4MzU0MTcwNl5BMl5BanBnXkFtZTgwMTQ3OTI1MDE@._V1_.jpg",
+  "birth_date": "17.01.1969",
+  "birth_location": "London, England, UK",
+  "height": "1.75 m",
+  "filmweb_id": 2567,
+  "name_pl": "Naveen Andrews",
+  "birth_location_pl": "Londyn, Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 2567
+}

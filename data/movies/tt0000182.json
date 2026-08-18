@@ -1,0 +1,78 @@
+{
+  "imdb_id": "tt0000182",
+  "title": "Come Along, Do!",
+  "description": "A couple look at a statue while eating in an art gallery.",
+  "runtime_minutes": 1,
+  "release_date": "1898",
+  "genres": [
+    "Short",
+    "Comedy"
+  ],
+  "directors": [
+    {
+      "id": "nm0666972",
+      "name": "Robert W. Paul"
+    }
+  ],
+  "top_cast": [],
+  "countries": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 186439,
+  "year": 1898,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYzMyNzM2N2MtMzY4Yi00OWUxLTk5MmItYmRiZDUzZDkzMmY1XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 4.8,
+      "votes": 639,
+      "distribution": {
+        "1": 31,
+        "2": 37,
+        "3": 66,
+        "4": 100,
+        "5": 210,
+        "6": 115,
+        "7": 27,
+        "8": 17,
+        "9": 13,
+        "10": 23
+      },
+      "normalized": 3.6197
+    },
+    "filmweb": {
+      "rating": 4.88,
+      "votes": 85,
+      "distribution": {
+        "1": 1,
+        "2": 7,
+        "3": 11,
+        "4": 13,
+        "5": 23,
+        "6": 20,
+        "7": 4,
+        "8": 4,
+        "9": 0,
+        "10": 2
+      },
+      "normalized": 4.3529
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "12.12.2016",
+      "normalized": 6.4102
+    },
+    "score": 4.7943
+  },
+  "polish_title": "Come Along Do!",
+  "silent": true,
+  "description_pl": "Staruszek i kobieta siedzą przed wejściem na wystawę. Za nimi na ścianie znajdują się znaki wskazujące drogę. Kobieta wyjmuje z koszyka kanapkę i picie i podaje mężczyźnie. Po skończonym posiłku starzec wskazuje na znak z napisem „Wystawa sztuki”. Wstają i wchodzą do budynku zgodnie ze wskazaniem owego znaku.",
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-15"
+}

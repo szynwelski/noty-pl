@@ -1,0 +1,30 @@
+{
+  "id": "nm0789970",
+  "name": "Sebastian Shaw",
+  "filmography": [
+    {
+      "imdb_id": "tt0086190",
+      "title": "Star Wars: Episode VI - Return of the Jedi",
+      "year": 1983,
+      "roles": [
+        "cast"
+      ],
+      "character": "Anakin Skywalker"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTA3NTExMzQ3NzdeQTJeQWpwZ15BbWU4MDQwNzA2MjUx._V1_.jpg",
+  "birth_date": "29.05.1905",
+  "death_date": "23.12.1994",
+  "birth_location": "Holt, Norfolk, England, UK",
+  "height": "1.83 m",
+  "imdb_scraped": true,
+  "filmweb_id": 4792,
+  "name_pl": "Sebastian Shaw",
+  "birth_location_pl": "Holt, Anglia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 4792
+}

@@ -1,0 +1,35 @@
+{
+  "id": "nm0325252",
+  "name": "Leonard Goldberg",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTU1NzIzNTk0N15BMl5BanBnXkFtZTYwMTA3NzY0._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0086567",
+      "title": "WarGames",
+      "year": 1983,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt1401152",
+      "title": "Unknown",
+      "year": 2011,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "birth_date": "24.01.1934",
+  "death_date": "04.12.2019",
+  "birth_location": "Brooklyn, New York, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 68060,
+  "name_pl": "Leonard Goldberg",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "nm0005005",
+  "name": "Hugh Hefner",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTc4MzY1Mzk2OF5BMl5BanBnXkFtZTYwMDQxODQ1._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0067372",
+      "title": "Macbeth",
+      "year": 1971,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0066765",
+      "title": "Monty Python's and Now for Something Completely Different",
+      "year": 1971,
+      "roles": [
+        "producer"
+      ]
+    }
+  ],
+  "birth_date": "09.04.1926",
+  "death_date": "27.09.2017",
+  "birth_location": "Chicago, Illinois, USA",
+  "height": "1.75 m",
+  "imdb_scraped": true,
+  "filmweb_id": 304968,
+  "name_pl": "Hugh Hefner",
+  "birth_location_pl": "Chicago, Illinois",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 304968
+}

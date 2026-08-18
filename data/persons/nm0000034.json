@@ -1,0 +1,81 @@
+{
+  "id": "nm0000034",
+  "name": "William Holden",
+  "filmography": [
+    {
+      "imdb_id": "tt0043014",
+      "title": "Sunset Boulevard",
+      "year": 1950,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Joe Gillis"
+    },
+    {
+      "imdb_id": "tt0046359",
+      "title": "Stalag 17",
+      "year": 1953,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Sgt. J.J. Sefton"
+    },
+    {
+      "imdb_id": "tt0047437",
+      "title": "Sabrina",
+      "year": 1954,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "David Larrabee"
+    },
+    {
+      "imdb_id": "tt0050212",
+      "title": "The Bridge on the River Kwai",
+      "year": 1957,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Shears"
+    },
+    {
+      "imdb_id": "tt0065214",
+      "title": "The Wild Bunch",
+      "year": 1969,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Pike"
+    },
+    {
+      "imdb_id": "tt0074958",
+      "title": "Network",
+      "year": 1976,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Max Schumacher"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BODczZTljZWItNjVhMi00Zjg4LWFlYzMtMWM5MzAxNWFmMjc3XkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 42918,
+  "birth_date": "17.04.1918",
+  "death_date": "12.11.1981",
+  "birth_location": "O'Fallon, Illinois, USA",
+  "height": "1.79 m",
+  "imdb_scraped": true,
+  "name_pl": "William Holden",
+  "birth_location_pl": "O'Fallon, Illinois",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 42918
+}

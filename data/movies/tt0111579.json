@@ -1,0 +1,243 @@
+{
+  "imdb_id": "tt0111579",
+  "title": "Burnt by the Sun",
+  "description": "In the USSR in 1936, shadows of Stalin's repressions fall on a famous, revolutionary hero. The accusations of him being a foreign spy are nonsense, and everyone knows that. However, a slow process of his downfall has already started.",
+  "runtime_minutes": 135,
+  "release_date": "21.04.1995",
+  "genres": [
+    "Drama",
+    "War"
+  ],
+  "stars": [
+    {
+      "id": "nm0586482",
+      "name": "Nikita Mikhalkov"
+    },
+    {
+      "id": "nm0200848",
+      "name": "Ingeborga Dapkunaite"
+    },
+    {
+      "id": "nm0579823",
+      "name": "Oleg Menshikov"
+    },
+    {
+      "id": "nm0586486",
+      "name": "Nadezhda Mikhalkova"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0586482",
+      "name": "Nikita Mikhalkov"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0586482",
+      "name": "Nikita Mikhalkov"
+    },
+    {
+      "id": "nm0406534",
+      "name": "Rustam Ibragimbekov"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0586482",
+      "name": "Nikita Mikhalkov",
+      "character": "Sergey"
+    },
+    {
+      "id": "nm0200848",
+      "name": "Ingeborga Dapkunaite",
+      "character": "Marusya"
+    },
+    {
+      "id": "nm0579823",
+      "name": "Oleg Menshikov",
+      "character": "Dmitriy"
+    },
+    {
+      "id": "nm0586486",
+      "name": "Nadezhda Mikhalkova",
+      "character": "Nadya"
+    },
+    {
+      "id": "nm0863146",
+      "name": "Vyacheslav Tikhonov",
+      "character": "Vsevolod Konstantinovich"
+    },
+    {
+      "id": "nm0473047",
+      "name": "Svetlana Kryuchkova",
+      "character": "Mokhova"
+    },
+    {
+      "id": "nm0407959",
+      "name": "Vladimir Ilin",
+      "character": "Kirik"
+    },
+    {
+      "id": "nm0443606",
+      "name": "Alla Kazanskaya",
+      "character": "Lidiya Stepanovna"
+    },
+    {
+      "id": "nm0035057",
+      "name": "Nina Arkhipova",
+      "character": "Elena Mikhaylovna"
+    },
+    {
+      "id": "nm0503127",
+      "name": "Avangard Leontev",
+      "character": "Shofer"
+    },
+    {
+      "id": "nm0653589",
+      "name": "André Oumansky",
+      "character": "Filipp"
+    },
+    {
+      "id": "nm0880767",
+      "name": "Inna Ulyanova",
+      "character": "Olga Nikolaevna"
+    },
+    {
+      "id": "nm0748857",
+      "name": "Lyubov Rudneva",
+      "character": "Lyuba"
+    },
+    {
+      "id": "nm0752368",
+      "name": "Vladimir Ryabov",
+      "character": "Ofitser NKVD"
+    },
+    {
+      "id": "nm0069456",
+      "name": "Vladimir Belousov",
+      "character": "Sotrudnik NKVD"
+    },
+    {
+      "id": "nm0688667",
+      "name": "Aleksey Pokatilov",
+      "character": "2-oy sotrudnik NKVD"
+    },
+    {
+      "id": "nm0592491",
+      "name": "Evgeniy Mironov",
+      "character": "Leytenant"
+    },
+    {
+      "id": "nm0015507",
+      "name": "Tamara Akopova",
+      "character": ""
+    }
+  ],
+  "countries": [
+    "Russia",
+    "France"
+  ],
+  "languages": [
+    "Russian",
+    "French"
+  ],
+  "color": "Color",
+  "filmweb_id": 703,
+  "year": 1994,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BY2E5MzcyY2QtNzM1Mi00ZTk4LTg4YzMtMTQ0YThjNDJlYTIxXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Utomlennye solntsem",
+  "ratings": {
+    "imdb": {
+      "rating": 7.8,
+      "votes": 17382,
+      "distribution": {
+        "1": 660,
+        "2": 201,
+        "3": 181,
+        "4": 248,
+        "5": 588,
+        "6": 1158,
+        "7": 2765,
+        "8": 4695,
+        "9": 3292,
+        "10": 3594
+      },
+      "normalized": 6.913
+    },
+    "filmweb": {
+      "rating": 7.86,
+      "votes": 24666,
+      "distribution": {
+        "1": 252,
+        "2": 98,
+        "3": 253,
+        "4": 335,
+        "5": 788,
+        "6": 1686,
+        "7": 4403,
+        "8": 8339,
+        "9": 5420,
+        "10": 3092
+      },
+      "normalized": 7.886
+    },
+    "michal": {
+      "rating": 7,
+      "date_rated": "19.10.2005",
+      "normalized": 7.2292
+    },
+    "score": 7.3427
+  },
+  "polish_title": "Spaleni słońcem",
+  "silent": false,
+  "description_pl": "W połowie lat 30. XX w. zasłużony weteran wojny domowej spędza z żoną i córką wakacje w podmoskiewskiej daczy. Sielankowy nastrój wczasów zostaje zmącony, gdy zjawia się tajemniczy młodzieniec z Moskwy, dawna miłość pułkownikowej.",
+  "producers": [
+    {
+      "id": "nm0053290",
+      "name": "Armand Barbault"
+    },
+    {
+      "id": "nm0134077",
+      "name": "Nicole Canne"
+    },
+    {
+      "id": "nm0217987",
+      "name": "Aleksandr Delvig"
+    },
+    {
+      "id": "nm0586482",
+      "name": "Nikita Mikhalkov"
+    },
+    {
+      "id": "nm0682177",
+      "name": "Jean-Louis Piel"
+    },
+    {
+      "id": "nm0781398",
+      "name": "Vladimir Sedov"
+    },
+    {
+      "id": "nm0786733",
+      "name": "Michel Seydoux"
+    },
+    {
+      "id": "nm0096387",
+      "name": "Leonid Vereshchagin"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0005949",
+      "name": "Eduard Artemyev"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0436317",
+      "name": "Vilen Kalyuta"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

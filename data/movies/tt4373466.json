@@ -1,0 +1,145 @@
+{
+  "imdb_id": "tt4373466",
+  "title": "Los reyes del pueblo que no existe",
+  "description": "Three families live in a village partially submerged by water in Northwestern Mexico. Despite their loneliness and fear, they refuse to leave.",
+  "runtime_minutes": 83,
+  "release_date": "15.03.2015",
+  "genres": [
+    "Documentary",
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm7066151",
+      "name": "Irineo Osuna Enciso"
+    },
+    {
+      "id": "nm7066153",
+      "name": "María Aura Zazueta Lamphar"
+    },
+    {
+      "id": "nm7066155",
+      "name": "Ramiro Osuna Moreno"
+    },
+    {
+      "id": "nm7066152",
+      "name": "Cipriano Osuna Sánchez"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm5658078",
+      "name": "Dano Garcia"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm5658078",
+      "name": "Dano Garcia"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm7066151",
+      "name": "Irineo Osuna Enciso",
+      "character": "Self"
+    },
+    {
+      "id": "nm7066153",
+      "name": "María Aura Zazueta Lamphar",
+      "character": "Self"
+    },
+    {
+      "id": "nm7066155",
+      "name": "Ramiro Osuna Moreno",
+      "character": "Self"
+    },
+    {
+      "id": "nm7066152",
+      "name": "Cipriano Osuna Sánchez",
+      "character": "Self"
+    },
+    {
+      "id": "nm7066154",
+      "name": "Paula Sánchez Osuna",
+      "character": "Self"
+    }
+  ],
+  "countries": [
+    "Mexico"
+  ],
+  "languages": [
+    "Spanish"
+  ],
+  "color": "Color",
+  "filmweb_id": 751156,
+  "year": 2015,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMzhhOGY2NjctZTYxMy00MjZjLWE0OTUtZTU0ZDNjYzY4NGY0XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.1,
+      "votes": 122,
+      "distribution": {
+        "1": 2,
+        "2": 3,
+        "3": 1,
+        "4": 6,
+        "5": 2,
+        "6": 15,
+        "7": 34,
+        "8": 25,
+        "9": 12,
+        "10": 22
+      },
+      "normalized": 5.3562
+    },
+    "filmweb": {
+      "rating": 6.21,
+      "votes": 14,
+      "distribution": {
+        "2": 0,
+        "3": 1,
+        "4": 1,
+        "5": 1,
+        "6": 3,
+        "7": 7,
+        "8": 1,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 5.1302
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "12.10.2020",
+      "normalized": 4.9718
+    },
+    "score": 5.1527
+  },
+  "polish_title": "Królowie nieistniejącego miasta",
+  "silent": false,
+  "description_pl": "W 2006 roku na rzece Presidio w północno-zachodnim Meksyku powstała zapora wodna Pichos. Przy jej budowie zalano dziesiątki miejscowości, a tysiące mieszkańców musiało opuścić swoje domostwa. Los ten spotkał również kolonialne miasto San Marcos. Ale nie do końca. Miasto zostało zalane w przeważającej większości i niemal wszyscy jego mieszkańcy opuścili je. Zostały trzy rodziny, które pomimo samotności i strachu przed pojawiającymi się w mieście uzbrojonymi grupami, nie chcą wyjechać. Pani i Paula nie chcą zamknąć budki z tortillami i spędzają wolny czas na ratowaniu miasta przed całkowitym zrujnowaniem. Miro i jego rodzice marzą o tym, żeby opuścić to miejsce, jednak nie wiedzą jak to zrobić. Yoya i Jaimito żyją w strachu, ale w końcu mają wszystko czego potrzebują…",
+  "producers": [
+    {
+      "id": "nm2109432",
+      "name": "Hugo Espinosa"
+    },
+    {
+      "id": "nm5658078",
+      "name": "Dano Garcia"
+    },
+    {
+      "id": "nm11654416",
+      "name": "Hector Omar Rico Lara"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm2957237",
+      "name": "Diego Tenorio"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

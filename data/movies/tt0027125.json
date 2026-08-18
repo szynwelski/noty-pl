@@ -1,0 +1,207 @@
+{
+  "imdb_id": "tt0027125",
+  "title": "Top Hat",
+  "description": "An American dancer comes to Britain and falls for a model whom he initially annoyed, but she mistakes him for his goofy producer.",
+  "runtime_minutes": 101,
+  "release_date": "06.09.1935",
+  "genres": [
+    "Comedy",
+    "Musical",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0000001",
+      "name": "Fred Astaire"
+    },
+    {
+      "id": "nm0001677",
+      "name": "Ginger Rogers"
+    },
+    {
+      "id": "nm0002143",
+      "name": "Edward Everett Horton"
+    },
+    {
+      "id": "nm0722424",
+      "name": "Erik Rhodes"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0762263",
+      "name": "Mark Sandrich"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0852313",
+      "name": "Dwight Taylor"
+    },
+    {
+      "id": "nm0778818",
+      "name": "Allan Scott"
+    },
+    {
+      "id": "nm0267022",
+      "name": "Sándor Faragó"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000001",
+      "name": "Fred Astaire",
+      "character": "Jerry Travers"
+    },
+    {
+      "id": "nm0001677",
+      "name": "Ginger Rogers",
+      "character": "Dale Tremont"
+    },
+    {
+      "id": "nm0002143",
+      "name": "Edward Everett Horton",
+      "character": "Horace Hardwick"
+    },
+    {
+      "id": "nm0722424",
+      "name": "Erik Rhodes",
+      "character": "Alberto Beddini"
+    },
+    {
+      "id": "nm0089314",
+      "name": "Eric Blore",
+      "character": "Bates"
+    },
+    {
+      "id": "nm0110813",
+      "name": "Helen Broderick",
+      "character": "Madge Hardwick"
+    },
+    {
+      "id": "nm0010468",
+      "name": "Robert Adair",
+      "character": "London Hotel Clerk"
+    },
+    {
+      "id": "nm0000840",
+      "name": "Lucille Ball",
+      "character": "Flower Clerk"
+    },
+    {
+      "id": "nm4942919",
+      "name": "Tito Blasco",
+      "character": "Minor Role"
+    },
+    {
+      "id": "nm4185833",
+      "name": "William A. Boardway",
+      "character": "Club Member"
+    },
+    {
+      "id": "nm4943194",
+      "name": "Tom Brandon",
+      "character": "Minor Role"
+    },
+    {
+      "id": "nm0107600",
+      "name": "Roy Brent",
+      "character": "Minor Role"
+    },
+    {
+      "id": "nm0111012",
+      "name": "Tex Brodus",
+      "character": "Hotel Guest"
+    },
+    {
+      "id": "nm0150729",
+      "name": "Pokey Champion",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm0169077",
+      "name": "Phyllis Coghlan",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm0180679",
+      "name": "Gino Corrado",
+      "character": "Venice Hotel Manager"
+    },
+    {
+      "id": "nm0182617",
+      "name": "Tom Costello",
+      "character": "Minor Role"
+    },
+    {
+      "id": "nm17232368",
+      "name": "Lorinne Crawford",
+      "character": "Dancer"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Italian"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 31662,
+  "year": 1935,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYzUzZWE4NzctYzlkYS00NDkwLTljYjMtNWQwMDY4NGExZmJkXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.7,
+      "votes": 22312,
+      "distribution": {
+        "1": 280,
+        "2": 111,
+        "3": 177,
+        "4": 336,
+        "5": 838,
+        "6": 2060,
+        "7": 4838,
+        "8": 6485,
+        "9": 3357,
+        "10": 3830
+      },
+      "normalized": 6.7426
+    },
+    "filmweb": {
+      "rating": 7.63,
+      "votes": 2284,
+      "distribution": {
+        "1": 10,
+        "2": 2,
+        "3": 20,
+        "4": 25,
+        "5": 85,
+        "6": 221,
+        "7": 647,
+        "8": 710,
+        "9": 346,
+        "10": 218
+      },
+      "normalized": 6.7027
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "19.10.2005",
+      "normalized": 6.3474
+    },
+    "score": 6.5976
+  },
+  "polish_title": "Panowie w cylindrach",
+  "silent": false,
+  "description_pl": "Amerykański tancerz Jerry przyjeżdża do Londynu, by przygotować swój show. Jego przyjaciel oznajmia mu, że jego żona Madge spędza wakacje w Wenecji i zaprasza ich obu na weekend. Ma ku temu powody. Chciałaby poznać Jerry'ego z pewną młodą dziewczyną, uważa bowiem, że już najwyższa pora, by Amerykanin ożenił się i ustatkował.",
+  "cinematographers": [
+    {
+      "id": "nm0008441",
+      "name": "David Abel"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-15"
+}

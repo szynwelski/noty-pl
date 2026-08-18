@@ -1,0 +1,50 @@
+{
+  "id": "nm0000301",
+  "name": "Thora Birch",
+  "filmography": [
+    {
+      "imdb_id": "tt0169547",
+      "title": "American Beauty",
+      "year": 1999,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Jane Burnham"
+    },
+    {
+      "imdb_id": "tt0162346",
+      "title": "Ghost World",
+      "year": 2001,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Enid"
+    },
+    {
+      "imdb_id": "tt0242527",
+      "title": "The Hole",
+      "year": 2001,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Liz"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYzAwZjZhN2MtNzRmNS00NGI1LWIyYTgtZjMyZmM0NmE0MzRlXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "11.03.1982",
+  "birth_location": "Los Angeles, California, USA",
+  "height": "1.63 m",
+  "filmweb_id": 6123,
+  "name_pl": "Thora Birch",
+  "birth_location_pl": "Los Angeles, Kalifornia",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 6123
+}

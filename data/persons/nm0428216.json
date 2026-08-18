@@ -1,0 +1,47 @@
+{
+  "id": "nm0428216",
+  "name": "Henry Jones",
+  "filmography": [
+    {
+      "imdb_id": "tt0050086",
+      "title": "3:10 to Yuma",
+      "year": 1957,
+      "roles": [
+        "cast"
+      ],
+      "character": "Alex Potter"
+    },
+    {
+      "imdb_id": "tt0052357",
+      "title": "Vertigo",
+      "year": 1958,
+      "roles": [
+        "cast"
+      ],
+      "character": "Coroner"
+    },
+    {
+      "imdb_id": "tt0064115",
+      "title": "Butch Cassidy and the Sundance Kid",
+      "year": 1969,
+      "roles": [
+        "cast"
+      ],
+      "character": "Bike Salesman"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTU4MDE4Mjk5NF5BMl5BanBnXkFtZTcwMTY3MjYxOA@@._V1_.jpg",
+  "birth_date": "01.08.1912",
+  "death_date": "17.05.1999",
+  "birth_location": "Atlantic City, New Jersey, USA",
+  "height": "1.78 m",
+  "filmweb_id": 9527,
+  "name_pl": "Henry Jones",
+  "birth_location_pl": "Filadelfia, Pensylwania",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

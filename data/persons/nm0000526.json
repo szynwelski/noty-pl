@@ -1,0 +1,49 @@
+{
+  "id": "nm0000526",
+  "name": "Samantha Mathis",
+  "filmography": [
+    {
+      "imdb_id": "tt0115759",
+      "title": "Broken Arrow",
+      "year": 1996,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Terry Carmichael"
+    },
+    {
+      "imdb_id": "tt0144084",
+      "title": "American Psycho",
+      "year": 2000,
+      "roles": [
+        "cast"
+      ],
+      "character": "Courtney Rawlinson"
+    },
+    {
+      "imdb_id": "tt0330793",
+      "title": "The Punisher",
+      "year": 2004,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Maria Castle"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTg5MDgyMTU3MV5BMl5BanBnXkFtZTcwMzE1MzY1Mw@@._V1_.jpg",
+  "birth_date": "12.05.1970",
+  "birth_location": "Brooklyn, New York City, New York, USA",
+  "height": "1.65 m",
+  "filmweb_id": 8390,
+  "name_pl": "Samantha Mathis",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "F",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 8390
+}

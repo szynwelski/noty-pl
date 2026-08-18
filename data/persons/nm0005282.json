@@ -1,0 +1,57 @@
+{
+  "id": "nm0005282",
+  "name": "Mike O'Malley",
+  "filmography": [
+    {
+      "imdb_id": "tt0191754",
+      "title": "28 Days",
+      "year": 2000,
+      "roles": [
+        "cast"
+      ],
+      "character": "Oliver"
+    },
+    {
+      "imdb_id": "tt1766094",
+      "title": "So Undercover",
+      "year": 2012,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Sam"
+    },
+    {
+      "imdb_id": "tt0790736",
+      "title": "R.I.P.D.",
+      "year": 2013,
+      "roles": [
+        "cast"
+      ],
+      "character": "Elliot"
+    },
+    {
+      "imdb_id": "tt3322364",
+      "title": "Concussion",
+      "year": 2015,
+      "roles": [
+        "cast"
+      ],
+      "character": "Daniel Sullivan"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTk5NjQ5MTUzMF5BMl5BanBnXkFtZTgwMzM4NDg4NDE@._V1_.jpg",
+  "birth_date": "31.10.1966",
+  "birth_location": "Boston, Massachusetts, USA",
+  "height": "1.84 m",
+  "filmweb_id": 6635,
+  "name_pl": "Mike O'Malley",
+  "birth_location_pl": "Boston, Massachusetts",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 6635
+}

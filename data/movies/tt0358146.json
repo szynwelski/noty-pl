@@ -1,0 +1,227 @@
+{
+  "imdb_id": "tt0358146",
+  "title": "Show",
+  "description": "Petty thief Czarek takes part in a TV reality show to escape from the mafia. He is sent to a house on a desert island with 9 other contestants. Even the death of one of them does not stop the show.",
+  "runtime_minutes": 120,
+  "release_date": "21.03.2003",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Crime",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0668640",
+      "name": "Cezary Pazura"
+    },
+    {
+      "id": "nm0836136",
+      "name": "Jerzy Stuhr"
+    },
+    {
+      "id": "nm0682825",
+      "name": "Joanna Orleanska"
+    },
+    {
+      "id": "nm0781971",
+      "name": "Dorota Segda"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0805751",
+      "name": "Maciej Slesicki"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0805751",
+      "name": "Maciej Slesicki"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0668640",
+      "name": "Cezary Pazura",
+      "character": "Czarek"
+    },
+    {
+      "id": "nm0836136",
+      "name": "Jerzy Stuhr",
+      "character": "Boss"
+    },
+    {
+      "id": "nm0682825",
+      "name": "Joanna Orleanska",
+      "character": "Ala"
+    },
+    {
+      "id": "nm0781971",
+      "name": "Dorota Segda",
+      "character": "Dorota"
+    },
+    {
+      "id": "nm0246189",
+      "name": "Marian Dziedziel",
+      "character": "Zenek"
+    },
+    {
+      "id": "nm1338476",
+      "name": "Sonia Bohosiewicz",
+      "character": "Agnieszka"
+    },
+    {
+      "id": "nm1338920",
+      "name": "Katarzyna Galica",
+      "character": "Karina"
+    },
+    {
+      "id": "nm0035115",
+      "name": "Violetta Arlak",
+      "character": "The Fatty"
+    },
+    {
+      "id": "nm1340223",
+      "name": "Anna Wendzikowska",
+      "character": "Monika"
+    },
+    {
+      "id": "nm0245612",
+      "name": "Lech Dyblik",
+      "character": "Euzebiusz"
+    },
+    {
+      "id": "nm0233949",
+      "name": "Marcin Dorocinski",
+      "character": "Roman"
+    },
+    {
+      "id": "nm0954927",
+      "name": "Edward Zentara",
+      "character": "Politician"
+    },
+    {
+      "id": "nm1339012",
+      "name": "Wladyslaw Grzywna",
+      "character": "Producer"
+    },
+    {
+      "id": "nm0954686",
+      "name": "Piotr Zelt",
+      "character": "Piotr"
+    },
+    {
+      "id": "nm1338684",
+      "name": "Izabela Dabrowska",
+      "character": "Beatka"
+    },
+    {
+      "id": "nm1339029",
+      "name": "Miroslaw Guzowski",
+      "character": "Beatka's Brother #1"
+    },
+    {
+      "id": "nm0322980",
+      "name": "Arkadiusz Glogowski",
+      "character": "Beatka's Brother #2"
+    },
+    {
+      "id": "nm1297065",
+      "name": "Grazyna Zielinska",
+      "character": "Beata's Mother"
+    }
+  ],
+  "countries": [
+    "Poland"
+  ],
+  "languages": [
+    "Polish"
+  ],
+  "color": "Color",
+  "filmweb_id": 35454,
+  "year": 2003,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYjc4OWYyOWEtOTgwZS00NDk1LTgwNGEtNGJiZTM1NTE1ODcxXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6,
+      "votes": 802,
+      "distribution": {
+        "1": 21,
+        "2": 24,
+        "3": 44,
+        "4": 55,
+        "5": 114,
+        "6": 177,
+        "7": 176,
+        "8": 114,
+        "9": 41,
+        "10": 36
+      },
+      "normalized": 4.413
+    },
+    "filmweb": {
+      "rating": 6.3,
+      "votes": 39872,
+      "distribution": {
+        "1": 487,
+        "2": 517,
+        "3": 1471,
+        "4": 2519,
+        "5": 5749,
+        "6": 9748,
+        "7": 10793,
+        "8": 5855,
+        "9": 1696,
+        "10": 1037
+      },
+      "normalized": 3.9159
+    },
+    "jarek": {
+      "rating": 3,
+      "date_rated": "02.01.2011",
+      "normalized": 4.2591
+    },
+    "michal": {
+      "rating": 2,
+      "date_rated": "19.10.2005",
+      "normalized": 3.1556
+    },
+    "score": 3.9359
+  },
+  "polish_title": "Show",
+  "silent": false,
+  "description_pl": "Czarek (<a href=\"/osoba/?id=nm0668640\">Cezary Pazura</a>), drobny oszust i złodziejaszek, chcąc uciec przed ścigającą go mafią, zgłasza się do programu typu reality show. Wraz z dziewięciorgiem innych osób trafia do specjalnie wybudowanego domu - studia telewizyjnego na samotnej wyspie. Zaczyna się gra. Po kilku dniach ginie jedna z uczestniczek. Program jednak trwa dalej, ponieważ tak chcą widzowie. Ale ktoś zaczyna mordować kolejnych mieszkańców domu...",
+  "producers": [
+    {
+      "id": "nm0158582",
+      "name": "Tadeusz Chmielewski"
+    },
+    {
+      "id": "nm17250403",
+      "name": "Jerzy Jednorowski"
+    },
+    {
+      "id": "nm0630564",
+      "name": "Wlodzimierz Niderhaus"
+    },
+    {
+      "id": "nm0937255",
+      "name": "Jan Wlodarczyk"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0320176",
+      "name": "Przemyslaw Gintrowski"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0708419",
+      "name": "Andrzej Ramlau"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

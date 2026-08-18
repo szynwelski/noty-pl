@@ -1,0 +1,138 @@
+{
+  "imdb_id": "tt0000499",
+  "title": "An Impossible Voyage",
+  "description": "Using every known means of transportation, several savants from the Geographic Society undertake a journey through the Alps to the Sun which finishes under the sea.",
+  "runtime_minutes": 24,
+  "release_date": "29.10.1904",
+  "genres": [
+    "Short",
+    "Action",
+    "Adventure",
+    "Family",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm0617588",
+      "name": "Georges Méliès"
+    },
+    {
+      "id": "nm0016317",
+      "name": "Fernande Albany"
+    },
+    {
+      "id": "nm0194945",
+      "name": "Jehanne d'Alcy"
+    },
+    {
+      "id": "nm8706003",
+      "name": "May de Lavergne"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0617588",
+      "name": "Georges Méliès"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0257866",
+      "name": "Adolphe d'Ennery"
+    },
+    {
+      "id": "nm0617588",
+      "name": "Georges Méliès"
+    },
+    {
+      "id": "nm0894523",
+      "name": "Jules Verne"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0617588",
+      "name": "Georges Méliès",
+      "character": "Mabouloff"
+    },
+    {
+      "id": "nm0016317",
+      "name": "Fernande Albany",
+      "character": "Madame Latrouille"
+    },
+    {
+      "id": "nm0194945",
+      "name": "Jehanne d'Alcy",
+      "character": "Villager at seaport"
+    },
+    {
+      "id": "nm8706003",
+      "name": "May de Lavergne",
+      "character": "Nurse in Swiss hospital"
+    }
+  ],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "None",
+    "French",
+    "English",
+    "German"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 264968,
+  "year": 1904,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZDQ0OGVkNDktN2Y4My00MGNjLTllZDEtN2UxMzIxMjc3MjlmXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Le voyage à travers l'impossible",
+  "ratings": {
+    "imdb": {
+      "rating": 7.4,
+      "votes": 4487,
+      "distribution": {
+        "1": 43,
+        "2": 21,
+        "3": 48,
+        "4": 100,
+        "5": 220,
+        "6": 592,
+        "7": 1182,
+        "8": 1320,
+        "9": 487,
+        "10": 474
+      },
+      "normalized": 6.1662
+    },
+    "filmweb": {
+      "rating": 6.93,
+      "votes": 536,
+      "distribution": {
+        "1": 1,
+        "2": 1,
+        "3": 8,
+        "4": 16,
+        "5": 41,
+        "6": 115,
+        "7": 186,
+        "8": 108,
+        "9": 38,
+        "10": 22
+      },
+      "normalized": 5.376
+    },
+    "jarek": {
+      "rating": 7,
+      "date_rated": "16.12.2016",
+      "normalized": 7.1247
+    },
+    "score": 6.2223
+  },
+  "polish_title": "Podróż do krainy niemożliwości",
+  "silent": true,
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "fetched_at": "2026-08-15"
+}

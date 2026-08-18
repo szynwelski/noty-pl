@@ -1,0 +1,31 @@
+{
+  "id": "nm0001369",
+  "name": "Rock Hudson",
+  "filmography": [
+    {
+      "imdb_id": "tt0049261",
+      "title": "Giant",
+      "year": 1956,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Jordan 'Bick' Benedict Jr."
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzlkODJhZmEtN2UyNC00MDVjLTliMzYtODg1MjhiYTY4ZmI2XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "17.11.1925",
+  "death_date": "02.10.1985",
+  "birth_location": "Winnetka, Illinois, USA",
+  "height": "1.94 m",
+  "imdb_scraped": true,
+  "filmweb_id": 45243,
+  "name_pl": "Rock Hudson",
+  "birth_location_pl": "Winnetka, Illinois",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 45243
+}

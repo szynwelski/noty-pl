@@ -1,0 +1,188 @@
+{
+  "imdb_id": "tt0448134",
+  "title": "Sunshine",
+  "description": "A team of international astronauts is sent on a dangerous mission to reignite the dying Sun with a nuclear fission bomb in 2057.",
+  "runtime_minutes": 107,
+  "release_date": "27.07.2007",
+  "genres": [
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0614165",
+      "name": "Cillian Murphy"
+    },
+    {
+      "id": "nm0126284",
+      "name": "Rose Byrne"
+    },
+    {
+      "id": "nm0262635",
+      "name": "Chris Evans"
+    },
+    {
+      "id": "nm0193295",
+      "name": "Cliff Curtis"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000965",
+      "name": "Danny Boyle"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0307497",
+      "name": "Alex Garland"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0614165",
+      "name": "Cillian Murphy",
+      "character": "Capa"
+    },
+    {
+      "id": "nm0126284",
+      "name": "Rose Byrne",
+      "character": "Cassie"
+    },
+    {
+      "id": "nm0262635",
+      "name": "Chris Evans",
+      "character": "Mace"
+    },
+    {
+      "id": "nm0193295",
+      "name": "Cliff Curtis",
+      "character": "Searle"
+    },
+    {
+      "id": "nm1496158",
+      "name": "Chipo Chung",
+      "character": "Icarus"
+    },
+    {
+      "id": "nm0000706",
+      "name": "Michelle Yeoh",
+      "character": "Corazon"
+    },
+    {
+      "id": "nm0760796",
+      "name": "Hiroyuki Sanada",
+      "character": "Kaneda"
+    },
+    {
+      "id": "nm0938950",
+      "name": "Benedict Wong",
+      "character": "Trey"
+    },
+    {
+      "id": "nm0004949",
+      "name": "Troy Garity",
+      "character": "Harvey"
+    },
+    {
+      "id": "nm0835016",
+      "name": "Mark Strong",
+      "character": "Pinbacker"
+    },
+    {
+      "id": "nm0046469",
+      "name": "Paloma Baeza",
+      "character": "Capa's Sister"
+    },
+    {
+      "id": "nm2640903",
+      "name": "Archie Macdonald",
+      "character": "Child"
+    },
+    {
+      "id": "nm2640975",
+      "name": "Sylvie Macdonald",
+      "character": "Child"
+    },
+    {
+      "id": "nm3173569",
+      "name": "Kevin Hudson",
+      "character": "Crew, Icarus I"
+    }
+  ],
+  "countries": [
+    "United Kingdom",
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 209288,
+  "year": 2007,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNmExYTA4MGYtNWUwNC00YTZhLWE0YzUtMjI0OGYyMmQ4YTVkXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.2,
+      "votes": 289690,
+      "distribution": {
+        "1": 3552,
+        "2": 2502,
+        "3": 4020,
+        "4": 7208,
+        "5": 15889,
+        "6": 39105,
+        "7": 80070,
+        "8": 75304,
+        "9": 35685,
+        "10": 26355
+      },
+      "normalized": 5.9516
+    },
+    "filmweb": {
+      "rating": 6.68,
+      "votes": 45566,
+      "distribution": {
+        "1": 291,
+        "2": 366,
+        "3": 1186,
+        "4": 1893,
+        "5": 4725,
+        "6": 9786,
+        "7": 14502,
+        "8": 8553,
+        "9": 2855,
+        "10": 1409
+      },
+      "normalized": 4.7714
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "20.12.2007",
+      "normalized": 5.4199
+    },
+    "score": 5.381
+  },
+  "polish_title": "W stronę słońca",
+  "silent": false,
+  "description_pl": "Przed Tobą \"W stronę słońca\", niepokojąca wizja naszej przyszłości. Jest rok 2057, słońce zaczyna gwałtownie gasnąć, ludzkości grozi śmiertelne niebezpieczeństwo. Jedyną nadzieją planety jest ekspedycja, która ładunkiem nuklearnym ponownie obudzi kulę ognia. Sześciu mężczyzn i dwie kobiety wyruszają w krucjatę o przetrwanie miliardów istnień. Poza zasięgiem radiowym ich misja zaczyna nabierać całkiem nowego znaczenia i ujawnia liczne sekrety.",
+  "producers": [
+    {
+      "id": "nm0068925",
+      "name": "Bernard Bellew"
+    },
+    {
+      "id": "nm0531602",
+      "name": "Andrew Macdonald"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0473696",
+      "name": "Alwin H. Küchler"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

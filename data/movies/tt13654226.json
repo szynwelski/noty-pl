@@ -1,0 +1,195 @@
+{
+  "imdb_id": "tt13654226",
+  "ratings": {
+    "imdb": {
+      "rating": 6.7,
+      "votes": 178178,
+      "distribution": {
+        "1": 1659,
+        "2": 1332,
+        "3": 2466,
+        "4": 5436,
+        "5": 13819,
+        "6": 35654,
+        "7": 57029,
+        "8": 33639,
+        "9": 11682,
+        "10": 15462
+      },
+      "normalized": 4.8985
+    },
+    "jarek": {
+      "rating": 3,
+      "date_rated": "06.06.2026",
+      "normalized": 4.2591
+    },
+    "filmweb": {
+      "rating": 6.18,
+      "votes": 19052,
+      "distribution": {
+        "1": 79,
+        "2": 194,
+        "3": 700,
+        "4": 1377,
+        "5": 2957,
+        "6": 5610,
+        "7": 5099,
+        "8": 2134,
+        "9": 538,
+        "10": 364
+      },
+      "normalized": 3.669
+    },
+    "score": 4.2755
+  },
+  "title": "The Gorge",
+  "description": "Two operatives are appointed to posts in guard towers on opposite sides of a classified gorge.",
+  "year": 2025,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOTQ5Y2QyYTktYmFmZi00NWJlLWE0MzgtYTA4M2I0ZjQwZjcxXkEyXkFqcGc@._V1_.jpg",
+  "runtime_minutes": 128,
+  "release_date": "14.02.2025",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Horror",
+    "Romance",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm1886602",
+      "name": "Miles Teller"
+    },
+    {
+      "id": "nm5896355",
+      "name": "Anya Taylor-Joy"
+    },
+    {
+      "id": "nm0000244",
+      "name": "Sigourney Weaver"
+    },
+    {
+      "id": "nm5444837",
+      "name": "Sope Dirisu"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0220600",
+      "name": "Scott Derrickson"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm3916149",
+      "name": "Zach Dean"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1886602",
+      "name": "Miles Teller",
+      "character": "Levi"
+    },
+    {
+      "id": "nm5896355",
+      "name": "Anya Taylor-Joy",
+      "character": "Drasa"
+    },
+    {
+      "id": "nm0000244",
+      "name": "Sigourney Weaver",
+      "character": "Bartholomew"
+    },
+    {
+      "id": "nm5444837",
+      "name": "Sope Dirisu",
+      "character": "J.D."
+    },
+    {
+      "id": "nm0396908",
+      "name": "William Houston",
+      "character": "Erikas"
+    },
+    {
+      "id": "nm1506183",
+      "name": "Kobna Holdbrook-Smith",
+      "character": "Black Ops Commander"
+    },
+    {
+      "id": "nm6396853",
+      "name": "James Marlowe",
+      "character": "Bradford Shaw"
+    },
+    {
+      "id": "nm8200751",
+      "name": "Julianna Kurokawa",
+      "character": "Airman"
+    },
+    {
+      "id": "nm2055792",
+      "name": "Ruta Gedmintas",
+      "character": "WWII Scientist"
+    },
+    {
+      "id": "nm3165541",
+      "name": "Oliver Trevena",
+      "character": "Crewman"
+    },
+    {
+      "id": "nm2491771",
+      "name": "Sachin Bhatt",
+      "character": "Officer Pascoe"
+    },
+    {
+      "id": "nm1570014",
+      "name": "Samantha Coughlan",
+      "character": "Janet"
+    },
+    {
+      "id": "nm3464555",
+      "name": "Alessandro Garcia",
+      "character": "Ruben"
+    },
+    {
+      "id": "nm10104473",
+      "name": "Greta Hansen",
+      "character": "Brit"
+    },
+    {
+      "id": "nm13867584",
+      "name": "Stephen Hulse",
+      "character": "Liquor Store Customer"
+    },
+    {
+      "id": "nm1682852",
+      "name": "Oliver Mason",
+      "character": "Douchebag Passenger"
+    },
+    {
+      "id": "nm4811733",
+      "name": "Adam Scott-Rowley",
+      "character": "Joel"
+    },
+    {
+      "id": "nm10258324",
+      "name": "Aakash Shukal",
+      "character": "Clerk"
+    }
+  ],
+  "countries": [
+    "United Kingdom",
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Lithuanian"
+  ],
+  "color": "Color",
+  "silent": false,
+  "filmweb_id": 10018997,
+  "polish_title": "Wąwóz",
+  "description_pl": "Dwoje wyszkolonych agentów zostaje przydzielonych do posterunków w wieżach strażniczych po przeciwnych stronach ogromnego, ściśle tajnego wąwozu. Ich zadaniem jest ochrona świata przed nieznanym, tajemniczym złem, które czai się w jego głębinach. Choć dzieli ich dystans, nawiązują więź. Kiedy w końcu poznają prawdziwe, katastrofalne zagrożenie dla ludzkości, muszą połączyć siły i poddać próbie zarówno swoje fizyczne, jak i psychiczne możliwości, by utrzymać zło w wąwozie – zanim będzie za późno.",
+  "fetched_at": "2026-08-16"
+}

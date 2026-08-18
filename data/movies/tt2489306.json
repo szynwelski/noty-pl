@@ -1,0 +1,141 @@
+{
+  "imdb_id": "tt2489306",
+  "title": "Big Hit",
+  "description": "Lieutenant Kormas is investigating the murder of a colleague, unearthing a dirty conspiracy where organized crime and law enforcement are two sides of the same coin.",
+  "runtime_minutes": 95,
+  "release_date": "21.03.2013",
+  "genres": [
+    "Action",
+    "Crime"
+  ],
+  "stars": [
+    {
+      "id": "nm1040095",
+      "name": "Meletis Georgiadis"
+    },
+    {
+      "id": "nm0642901",
+      "name": "Katia Leclerc O'Wallis"
+    },
+    {
+      "id": "nm3753019",
+      "name": "Evgenia Apostolou"
+    },
+    {
+      "id": "nm2776664",
+      "name": "Anna Shtatskaya"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0957792",
+      "name": "Karolos Zonaras"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0957792",
+      "name": "Karolos Zonaras"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1040095",
+      "name": "Meletis Georgiadis",
+      "character": "Lieutenant Aristeidis Kormas"
+    },
+    {
+      "id": "nm0642901",
+      "name": "Katia Leclerc O'Wallis",
+      "character": "Lori"
+    },
+    {
+      "id": "nm3753019",
+      "name": "Evgenia Apostolou",
+      "character": "Mrs. Farmaki"
+    },
+    {
+      "id": "nm2776664",
+      "name": "Anna Shtatskaya",
+      "character": ""
+    },
+    {
+      "id": "nm2862958",
+      "name": "Grigoris Galatis",
+      "character": "Sakis Papadimitriou"
+    },
+    {
+      "id": "nm5347325",
+      "name": "Alex Spyropoulos",
+      "character": "Vardakastanis"
+    },
+    {
+      "id": "nm0080900",
+      "name": "Spyros Bibilas",
+      "character": ""
+    }
+  ],
+  "countries": [
+    "Greece"
+  ],
+  "languages": [
+    "Greek"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 698184,
+  "year": 2012,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMWU5MTQ1NmYtZTU1YS00ZDgyLTgzMTgtNTBjZjM4NWE2NWI3XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.3,
+      "votes": 116,
+      "distribution": {
+        "1": 5,
+        "2": 4,
+        "3": 3,
+        "4": 4,
+        "5": 12,
+        "6": 33,
+        "7": 33,
+        "8": 8,
+        "9": 4,
+        "10": 10
+      },
+      "normalized": 5.1665
+    },
+    "filmweb": {
+      "rating": 6.07,
+      "votes": 14,
+      "distribution": {
+        "2": 0,
+        "3": 2,
+        "4": 0,
+        "5": 1,
+        "6": 6,
+        "7": 4,
+        "8": 0,
+        "9": 0,
+        "10": 1
+      },
+      "normalized": 5.1113
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "01.10.2017",
+      "normalized": 5.6855
+    },
+    "score": 5.3211
+  },
+  "polish_title": "Big Hit",
+  "silent": false,
+  "description_pl": "Klasyczny film noir, którego akcja rozgrywa się we współczesnych Atenach. Sierżant policji Aristides Kormas chce dowiedzieć się dlaczego zginął jego kolega. Twardzi faceci, femme fatale i bohater, który staje się ofiarą swoich wyborów - wyczuwalna atmosfera filmów z lat 50. wzbogacona jest postmodernistycznym podejściem.",
+  "cinematographers": [
+    {
+      "id": "nm2836938",
+      "name": "Dionysis Efthymiopoulos"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

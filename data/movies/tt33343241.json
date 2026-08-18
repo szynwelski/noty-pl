@@ -1,0 +1,227 @@
+{
+  "imdb_id": "tt33343241",
+  "title": "The Black Hole",
+  "description": "A comical triptych about residents in an apartment block district who long for a better life. When a black hole mysteriously appears in a lilac bush, they will have to face aliens, a giant spider, and an Austrian in breeches.",
+  "runtime_minutes": 115,
+  "release_date": "11.10.2024",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm14032603",
+      "name": "Ursel Tilk"
+    },
+    {
+      "id": "nm1801635",
+      "name": "Liina Tennosaar"
+    },
+    {
+      "id": "nm7843310",
+      "name": "Rea Lest"
+    },
+    {
+      "id": "nm2792812",
+      "name": "Doris Tislar"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm3744380",
+      "name": "Moonika Siimets"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1314828",
+      "name": "Andrus Kivirähk"
+    },
+    {
+      "id": "nm2747860",
+      "name": "Armin Kõomägi"
+    },
+    {
+      "id": "nm3744380",
+      "name": "Moonika Siimets"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm14032603",
+      "name": "Ursel Tilk",
+      "character": "Jüri"
+    },
+    {
+      "id": "nm1801635",
+      "name": "Liina Tennosaar",
+      "character": "Ilmi"
+    },
+    {
+      "id": "nm7843310",
+      "name": "Rea Lest",
+      "character": "Uma"
+    },
+    {
+      "id": "nm2792812",
+      "name": "Doris Tislar",
+      "character": "Mariliis"
+    },
+    {
+      "id": "nm1834018",
+      "name": "Anne Reemann",
+      "character": "Sirje"
+    },
+    {
+      "id": "nm4285141",
+      "name": "Eva Koldits",
+      "character": "Maret"
+    },
+    {
+      "id": "nm2742963",
+      "name": "Kristo Viiding",
+      "character": "Wolfgang"
+    },
+    {
+      "id": "nm3772324",
+      "name": "Jekaterina Linnamäe",
+      "character": "Gertrud"
+    },
+    {
+      "id": "nm0617396",
+      "name": "Laine Mägi",
+      "character": "Salme"
+    },
+    {
+      "id": "nm0084969",
+      "name": "Hannu-Pekka Björkman",
+      "character": "Juho"
+    },
+    {
+      "id": "nm0901508",
+      "name": "Peeter Volkonski",
+      "character": "Zahir Zahir"
+    },
+    {
+      "id": "nm0815097",
+      "name": "Aarne Soro",
+      "character": "Villem"
+    },
+    {
+      "id": "nm8904265",
+      "name": "Nils Mattias Steinberg",
+      "character": "Peeter"
+    },
+    {
+      "id": "nm1315405",
+      "name": "Peeter Oja",
+      "character": "Laradze"
+    },
+    {
+      "id": "nm8271489",
+      "name": "Markus Habakukk",
+      "character": "Oliver"
+    },
+    {
+      "id": "nm4550767",
+      "name": "Tõnu Alveus",
+      "character": "Hugo"
+    },
+    {
+      "id": "nm0845820",
+      "name": "Indrek Taalmaa",
+      "character": "Tarmo"
+    },
+    {
+      "id": "nm1798285",
+      "name": "Peeter Tammearu",
+      "character": "Toomas the Boss"
+    }
+  ],
+  "countries": [
+    "Estonia",
+    "Finland"
+  ],
+  "languages": [
+    "Estonian"
+  ],
+  "color": "Color",
+  "year": 2024,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTkxYWRkZDMtNjkwYy00ZDMxLWExMTktNDkyMGVlYTQ3NzU3XkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Must auk",
+  "filmweb_id": 10062059,
+  "ratings": {
+    "imdb": {
+      "rating": 5.9,
+      "votes": 487,
+      "distribution": {
+        "1": 17,
+        "2": 21,
+        "3": 28,
+        "4": 39,
+        "5": 68,
+        "6": 105,
+        "7": 117,
+        "8": 60,
+        "9": 8,
+        "10": 24
+      },
+      "normalized": 4.5799
+    },
+    "filmweb": {
+      "rating": 5.63,
+      "votes": 127,
+      "distribution": {
+        "1": 3,
+        "2": 4,
+        "3": 8,
+        "4": 22,
+        "5": 17,
+        "6": 27,
+        "7": 30,
+        "8": 12,
+        "9": 1,
+        "10": 3
+      },
+      "normalized": 4.4349
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "19.10.2024",
+      "normalized": 4.9718
+    },
+    "score": 4.6622
+  },
+  "polish_title": "Czarna dziura",
+  "silent": false,
+  "producers": [
+    {
+      "id": "nm6975902",
+      "name": "Emilia Haukka"
+    },
+    {
+      "id": "nm1780668",
+      "name": "Jussi Rantamäki"
+    },
+    {
+      "id": "nm1841217",
+      "name": "Riina Sildos"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm5764413",
+      "name": "Ann Reimann"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm4172439",
+      "name": "Ivar Taim"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

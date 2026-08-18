@@ -1,0 +1,46 @@
+{
+  "id": "nm0859104",
+  "name": "Ken Thomas",
+  "filmography": [
+    {
+      "imdb_id": "tt0212346",
+      "title": "Miss Congeniality",
+      "year": 2000,
+      "roles": [
+        "cast"
+      ],
+      "character": "Agent Harris"
+    },
+    {
+      "imdb_id": "tt0414951",
+      "title": "The Quiet",
+      "year": 2005,
+      "roles": [
+        "cast"
+      ],
+      "character": "Officer Jim"
+    },
+    {
+      "imdb_id": "tt3774114",
+      "title": "Snowden",
+      "year": 2016,
+      "roles": [
+        "cast"
+      ],
+      "character": "Warrenton Gate Guard"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTUwMjM0YTItNDk5My00MjhjLTlmYzgtZjRhN2JiOTA2NjVlXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "18.09.1961",
+  "birth_location": "Cleveland, Ohio, USA",
+  "height": "1.75 m",
+  "filmweb_id": 184227,
+  "name_pl": "Ken Thomas",
+  "birth_location_pl": "Cleveland, Ohio",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

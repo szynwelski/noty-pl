@@ -1,0 +1,225 @@
+{
+  "imdb_id": "tt0097778",
+  "title": "Look Who's Talking",
+  "description": "After a single, career-minded woman is left on her own to give birth to the child of a married man, she finds a new romantic chance in a cab driver. Meanwhile, the point-of-view of the newborn baby is narrated through voice-over.",
+  "runtime_minutes": 93,
+  "release_date": "13.10.1989",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0000237",
+      "name": "John Travolta"
+    },
+    {
+      "id": "nm0000263",
+      "name": "Kirstie Alley"
+    },
+    {
+      "id": "nm0001156",
+      "name": "Olympia Dukakis"
+    },
+    {
+      "id": "nm0001719",
+      "name": "George Segal"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0002132",
+      "name": "Amy Heckerling"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0002132",
+      "name": "Amy Heckerling"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000237",
+      "name": "John Travolta",
+      "character": "James"
+    },
+    {
+      "id": "nm0000263",
+      "name": "Kirstie Alley",
+      "character": "Mollie"
+    },
+    {
+      "id": "nm0001156",
+      "name": "Olympia Dukakis",
+      "character": "Rosie"
+    },
+    {
+      "id": "nm0001719",
+      "name": "George Segal",
+      "character": "Albert"
+    },
+    {
+      "id": "nm0001820",
+      "name": "Abe Vigoda",
+      "character": "Grandpa"
+    },
+    {
+      "id": "nm0000246",
+      "name": "Bruce Willis",
+      "character": "Mikey"
+    },
+    {
+      "id": "nm0135245",
+      "name": "Twink Caplan",
+      "character": "Rona"
+    },
+    {
+      "id": "nm0769960",
+      "name": "Jason Schaller",
+      "character": "Mikey"
+    },
+    {
+      "id": "nm0913957",
+      "name": "Jaryd Waterhouse",
+      "character": "Mikey"
+    },
+    {
+      "id": "nm2844781",
+      "name": "Jacob Haines",
+      "character": "Mikey"
+    },
+    {
+      "id": "nm0043729",
+      "name": "Christopher Aydon",
+      "character": "Mikey"
+    },
+    {
+      "id": "nm0100205",
+      "name": "Joy Boushel",
+      "character": "Melissa"
+    },
+    {
+      "id": "nm0204493",
+      "name": "Don S. Davis",
+      "character": "Dr. Fleisher"
+    },
+    {
+      "id": "nm0373047",
+      "name": "Louis Heckerling",
+      "character": "Lou"
+    },
+    {
+      "id": "nm0187764",
+      "name": "Brenda Crichlow",
+      "character": "Secretary"
+    },
+    {
+      "id": "nm0542643",
+      "name": "Andrea Mann",
+      "character": "Salesgirl"
+    },
+    {
+      "id": "nm0875764",
+      "name": "Douglas Tuck",
+      "character": "Cab Stealer"
+    },
+    {
+      "id": "nm0115813",
+      "name": "Alex Bruhanski",
+      "character": "Street Worker"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 6288,
+  "year": 1989,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNGFkMmRkOTEtNTZhZi00ODBkLWJjM2UtOTdiMjM5ZmM1M2VjXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6,
+      "votes": 90347,
+      "distribution": {
+        "1": 1811,
+        "2": 1907,
+        "3": 3420,
+        "4": 6982,
+        "5": 16500,
+        "6": 26511,
+        "7": 18619,
+        "8": 7927,
+        "9": 2397,
+        "10": 4273
+      },
+      "normalized": 3.5592
+    },
+    "filmweb": {
+      "rating": 6.89,
+      "votes": 91408,
+      "distribution": {
+        "1": 336,
+        "2": 405,
+        "3": 1208,
+        "4": 2744,
+        "5": 6885,
+        "6": 19091,
+        "7": 32483,
+        "8": 19827,
+        "9": 5252,
+        "10": 3177
+      },
+      "normalized": 5.4268
+    },
+    "jarek": {
+      "rating": 4,
+      "date_rated": "23.02.2011",
+      "normalized": 4.9718
+    },
+    "michal": {
+      "rating": 4,
+      "date_rated": "06.11.2014",
+      "normalized": 4.5781
+    },
+    "score": 4.634
+  },
+  "polish_title": "I kto to mówi",
+  "silent": false,
+  "description_pl": "Młoda kobieta zachodzi w ciążę z żonatym mężczyzną. Decyduje się samotnie wychowywać dziecko. Bezinteresowną pomocą służy jej sympatyczny taksówkarz. Niezwykłe spojrzenie na swiat oczami małego dziecka, a jeszcze wcześniej... embriona.",
+  "producers": [
+    {
+      "id": "nm0258137",
+      "name": "David Enson"
+    },
+    {
+      "id": "nm0336481",
+      "name": "Bob Gray"
+    },
+    {
+      "id": "nm0006790",
+      "name": "Jonathan D. Krane"
+    },
+    {
+      "id": "nm0507759",
+      "name": "Simon R. Lewis"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0457598",
+      "name": "David Kitay"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0215878",
+      "name": "Thomas Del Ruth"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

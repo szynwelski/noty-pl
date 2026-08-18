@@ -1,0 +1,45 @@
+{
+  "id": "nm0005803",
+  "name": "Hal Mohr",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTQwMGNlMDctNTI0ZC00ODM4LWJiNWUtMDNhOGY5M2QzOTI2XkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0018037",
+      "title": "The Jazz Singer",
+      "year": 1927,
+      "roles": [
+        "cinematographer"
+      ]
+    },
+    {
+      "imdb_id": "tt0020080",
+      "title": "The Last Warning",
+      "year": 1928,
+      "roles": [
+        "cinematographer"
+      ]
+    },
+    {
+      "imdb_id": "tt0047677",
+      "title": "The Wild One",
+      "year": 1953,
+      "roles": [
+        "cinematographer"
+      ]
+    }
+  ],
+  "birth_date": "02.08.1894",
+  "death_date": "10.05.1974",
+  "birth_location": "San Francisco, California, USA",
+  "height": "1.88 m",
+  "filmweb_id": 48835,
+  "name_pl": "Hal Mohr",
+  "birth_location_pl": "San Francisco, Kalifornia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 48835
+}

@@ -1,0 +1,39 @@
+{
+  "id": "nm0001682",
+  "name": "Mickey Rooney",
+  "filmography": [
+    {
+      "imdb_id": "tt0054698",
+      "title": "Breakfast at Tiffany's",
+      "year": 1961,
+      "roles": [
+        "cast"
+      ],
+      "character": "Mr. Yunioshi"
+    },
+    {
+      "imdb_id": "tt0477347",
+      "title": "Night at the Museum",
+      "year": 2006,
+      "roles": [
+        "cast"
+      ],
+      "character": "Gus"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZDM3MDQwZGYtZDgwMC00NDkyLTljOTQtMGY5ZjJhMDU3ZGUwXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "23.09.1920",
+  "death_date": "06.04.2014",
+  "birth_location": "Brooklyn, New York City, New York, USA",
+  "height": "1.57 m",
+  "imdb_scraped": true,
+  "filmweb_id": 2605,
+  "name_pl": "Mickey Rooney",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 2605
+}

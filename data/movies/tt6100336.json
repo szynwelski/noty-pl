@@ -1,0 +1,173 @@
+{
+  "imdb_id": "tt6100336",
+  "title": "A Balkan Noir",
+  "description": "It has been seven years since Nina's daughter went missing and only during cigarette breaks do we get to follow her hunt for the perpetrator as she returns to Montenegro for one last time.",
+  "runtime_minutes": 74,
+  "release_date": "12.10.2018",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm2586790",
+      "name": "Disa Östrand"
+    },
+    {
+      "id": "nm2936406",
+      "name": "Srdjan Grahovac"
+    },
+    {
+      "id": "nm1090326",
+      "name": "Johannes Kuhnke"
+    },
+    {
+      "id": "nm0872729",
+      "name": "Sergej Trifunovic"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm2846964",
+      "name": "Drazen Kuljanin"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm2846964",
+      "name": "Drazen Kuljanin"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm2586790",
+      "name": "Disa Östrand",
+      "character": "Nina"
+    },
+    {
+      "id": "nm2936406",
+      "name": "Srdjan Grahovac",
+      "character": ""
+    },
+    {
+      "id": "nm1090326",
+      "name": "Johannes Kuhnke",
+      "character": "Oskar"
+    },
+    {
+      "id": "nm0872729",
+      "name": "Sergej Trifunovic",
+      "character": ""
+    },
+    {
+      "id": "nm0812186",
+      "name": "Ana Sofrenovic",
+      "character": ""
+    },
+    {
+      "id": "nm4162069",
+      "name": "Jelena Simic",
+      "character": ""
+    },
+    {
+      "id": "nm2105881",
+      "name": "Håkan Carlsson",
+      "character": "Drug dealer"
+    },
+    {
+      "id": "nm3270385",
+      "name": "Slavisa Curovic",
+      "character": "Weapon dealer"
+    }
+  ],
+  "countries": [
+    "Sweden",
+    "Montenegro"
+  ],
+  "languages": [
+    "Serbian",
+    "Swedish"
+  ],
+  "color": "Color",
+  "filmweb_id": 793959,
+  "year": 2017,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjRlNThkNzEtYmI1ZC00NmM5LTlkNGEtNDc2NThiYTU3MDA3XkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Balkan Noir",
+  "ratings": {
+    "imdb": {
+      "rating": 5,
+      "votes": 123,
+      "distribution": {
+        "1": 18,
+        "2": 7,
+        "3": 7,
+        "4": 10,
+        "5": 27,
+        "6": 15,
+        "7": 16,
+        "8": 7,
+        "9": 0,
+        "10": 16
+      },
+      "normalized": 4.7956
+    },
+    "filmweb": {
+      "rating": 6.42,
+      "votes": 214,
+      "distribution": {
+        "1": 1,
+        "2": 2,
+        "3": 10,
+        "4": 7,
+        "5": 26,
+        "6": 35,
+        "7": 104,
+        "8": 22,
+        "9": 4,
+        "10": 3
+      },
+      "normalized": 4.7702
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "13.10.2017",
+      "normalized": 5.6855
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "27.10.2017",
+      "normalized": 5.4199
+    },
+    "score": 5.1678
+  },
+  "polish_title": "Balkan Noir",
+  "silent": false,
+  "description_pl": "Pięć lat temu na wakacjach w Czarnogórze zaginęła siedmioletnia córeczka szwedzkiej pary Niny i Oskara. Ojciec pogodził się w końcu z tragedią i rozpoczął nowe życie. Nadzieja matki na to, że odnajdzie córkę, zamieniła się z czasem w obsesję. Żyje wyłącznie myślą o znalezieniu i ukaraniu potwora odpowiedzialnego za lata jej cierpienia. Kiedy od policjanta z Czarnogóry dostaje informację o nowych tropach, jedzie tam z nową energią zemsty. Policjant zdaje sobie sprawę, że Nina nie odpuści i że dotarła do miejsca, w którym nie ma już nawet znaczenia, czy podejrzany jest winny, czy nie. Ktoś musi za to zapłacić. Historia zemsty podczas dwudziestu przerw na papierosa.",
+  "producers": [
+    {
+      "id": "nm2846964",
+      "name": "Drazen Kuljanin"
+    },
+    {
+      "id": "nm1898177",
+      "name": "Jonas Sörensson"
+    },
+    {
+      "id": "nm1451640",
+      "name": "Nikola Vukcevic"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm9298284",
+      "name": "Caroline Karpinska"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm6390731",
+      "name": "Anna Patarakina"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

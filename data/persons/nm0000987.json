@@ -1,0 +1,39 @@
+{
+  "id": "nm0000987",
+  "name": "Jim Brown",
+  "filmography": [
+    {
+      "imdb_id": "tt0116996",
+      "title": "Mars Attacks!",
+      "year": 1996,
+      "roles": [
+        "cast"
+      ],
+      "character": "Byron Williams"
+    },
+    {
+      "imdb_id": "tt0146838",
+      "title": "Any Given Sunday",
+      "year": 1999,
+      "roles": [
+        "cast"
+      ],
+      "character": "Montezuma Monroe"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTM4MDUzNDU3NF5BMl5BanBnXkFtZTcwNzg3MTI0NA@@._V1_.jpg",
+  "birth_date": "17.02.1936",
+  "death_date": "18.05.2023",
+  "birth_location": "St. Simons Island, Georgia, USA",
+  "height": "1.88 m",
+  "imdb_scraped": true,
+  "filmweb_id": 4828,
+  "name_pl": "Jim Brown",
+  "birth_location_pl": "St. Simons, Georgia",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 4828
+}

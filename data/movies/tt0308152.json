@@ -1,0 +1,211 @@
+{
+  "imdb_id": "tt0308152",
+  "title": "Dead End",
+  "description": "Christmas Eve. On his way to his in-laws with his family, Frank Harrington decides to try a shortcut, for the first time in 20 years. It turns out to be the biggest mistake of his life.",
+  "runtime_minutes": 85,
+  "release_date": "26.09.2003",
+  "genres": [
+    "Adventure",
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0936403",
+      "name": "Ray Wise"
+    },
+    {
+      "id": "nm0005417",
+      "name": "Lin Shaye"
+    },
+    {
+      "id": "nm0128942",
+      "name": "Mick Cain"
+    },
+    {
+      "id": "nm0005016",
+      "name": "Alexandra Holden"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm1125131",
+      "name": "Jean-Baptiste Andrea"
+    },
+    {
+      "id": "nm1125458",
+      "name": "Fabrice Canepa"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1125131",
+      "name": "Jean-Baptiste Andrea"
+    },
+    {
+      "id": "nm1125458",
+      "name": "Fabrice Canepa"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0936403",
+      "name": "Ray Wise",
+      "character": "Frank Harrington"
+    },
+    {
+      "id": "nm0005417",
+      "name": "Lin Shaye",
+      "character": "Laura Harrington"
+    },
+    {
+      "id": "nm0128942",
+      "name": "Mick Cain",
+      "character": "Richard Harrington"
+    },
+    {
+      "id": "nm0005016",
+      "name": "Alexandra Holden",
+      "character": "Marion Harrington"
+    },
+    {
+      "id": "nm0038854",
+      "name": "William Rosenfeld",
+      "character": "Brad Miller"
+    },
+    {
+      "id": "nm0807291",
+      "name": "Amber Smith",
+      "character": "Lady in White"
+    },
+    {
+      "id": "nm0339535",
+      "name": "Karen S. Gregan",
+      "character": "Doctor"
+    },
+    {
+      "id": "nm0534642",
+      "name": "Sharon Madden",
+      "character": "Nurse"
+    },
+    {
+      "id": "nm0884313",
+      "name": "Steve Valentine",
+      "character": "Man in Black"
+    },
+    {
+      "id": "nm0803765",
+      "name": "Jimmie F. Skaggs",
+      "character": "1st Worker"
+    },
+    {
+      "id": "nm0086515",
+      "name": "Clement Blake",
+      "character": "2nd Worker"
+    }
+  ],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 112232,
+  "year": 2003,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZGZmZGI5ZTMtZWIzMS00NzBhLWJiNGEtM2Q3MjI5OGMzZThiXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.4,
+      "votes": 36038,
+      "distribution": {
+        "1": 961,
+        "2": 652,
+        "3": 1011,
+        "4": 1829,
+        "5": 3536,
+        "6": 7309,
+        "7": 9759,
+        "8": 5829,
+        "9": 2221,
+        "10": 2931
+      },
+      "normalized": 4.3491
+    },
+    "filmweb": {
+      "rating": 6.56,
+      "votes": 10016,
+      "distribution": {
+        "1": 114,
+        "2": 114,
+        "3": 393,
+        "4": 517,
+        "5": 1087,
+        "6": 2080,
+        "7": 2870,
+        "8": 1817,
+        "9": 667,
+        "10": 357
+      },
+      "normalized": 4.4693
+    },
+    "michal": {
+      "rating": 3,
+      "date_rated": "13.02.2006",
+      "normalized": 3.8753
+    },
+    "score": 4.2312
+  },
+  "polish_title": "Droga śmierci",
+  "silent": false,
+  "description_pl": "Pewna rodzinka była w drodze do teściów na wigilię. Ojciec zdecydował że lepiej jechać skrótem niż autostradą - ponieważ bedzie szybciej... z czasem robilo się coraz dziwniej, zegarki stają na jednej godzinie, w radiu słychać płacz dziecka, skrót w ogóle nie jest zaznaczony na mapie... a na domiar wszystkiego w lesie co jakiś czas się pojawia młoda kobieta, ubrana na biało...",
+  "producers": [
+    {
+      "id": "nm1108762",
+      "name": "Yves Chevalier"
+    },
+    {
+      "id": "nm1704519",
+      "name": "Guy Courtecuisse"
+    },
+    {
+      "id": "nm2063552",
+      "name": "Nathalie Guizol"
+    },
+    {
+      "id": "nm0368520",
+      "name": "Albert Hasson"
+    },
+    {
+      "id": "nm0404485",
+      "name": "James Huth"
+    },
+    {
+      "id": "nm1768443",
+      "name": "Sonja Shillito"
+    },
+    {
+      "id": "nm0831544",
+      "name": "Gabriella Stollenwerck"
+    },
+    {
+      "id": "nm1288712",
+      "name": "Cécile Telerman"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0004497",
+      "name": "Greg De Belles"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0120645",
+      "name": "Alexander Buono"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

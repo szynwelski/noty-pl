@@ -1,0 +1,51 @@
+{
+  "id": "nm0006193",
+  "name": "Joel McNeely",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOGMxZjNlYmQtNGRmNS00YzRiLWFiNDAtZTFlYTdmYmJkMmJkXkEyXkFqcGc@._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0111400",
+      "title": "Terminal Velocity",
+      "year": 1994,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt0118661",
+      "title": "The Avengers",
+      "year": 1998,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt0263757",
+      "title": "Uptown Girls",
+      "year": 2003,
+      "roles": [
+        "composer"
+      ]
+    },
+    {
+      "imdb_id": "tt2557490",
+      "title": "A Million Ways to Die in the West",
+      "year": 2014,
+      "roles": [
+        "composer"
+      ]
+    }
+  ],
+  "image_url_small": "https://m.media-amazon.com/images/M/MV5BOGMxZjNlYmQtNGRmNS00YzRiLWFiNDAtZTFlYTdmYmJkMmJkXkEyXkFqcGc@._V1_CR292,0,639,959_.jpg",
+  "birth_date": "28.03.1959",
+  "birth_location": "Madison, Wisconsin, USA",
+  "filmweb_id": 10429,
+  "name_pl": "Joel McNeely",
+  "birth_location_pl": "Madison, Wisconsin",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

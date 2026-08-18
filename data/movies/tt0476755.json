@@ -1,0 +1,202 @@
+{
+  "imdb_id": "tt0476755",
+  "title": "Czas surferów",
+  "description": "Three young guys got work from unlucky gangster... they try to make a great job but everything goes wrong",
+  "runtime_minutes": 90,
+  "release_date": "19.08.2005",
+  "genres": [
+    "Comedy",
+    "Crime"
+  ],
+  "stars": [
+    {
+      "id": "nm0511277",
+      "name": "Boguslaw Linda"
+    },
+    {
+      "id": "nm0246189",
+      "name": "Marian Dziedziel"
+    },
+    {
+      "id": "nm0952498",
+      "name": "Zbigniew Zamachowski"
+    },
+    {
+      "id": "nm2009952",
+      "name": "Agnieszka Maciag"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0309116",
+      "name": "Jacek Gasiorowski"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0309116",
+      "name": "Jacek Gasiorowski"
+    },
+    {
+      "id": "nm2019728",
+      "name": "Tomasz Wieleba"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0511277",
+      "name": "Boguslaw Linda",
+      "character": "Joker"
+    },
+    {
+      "id": "nm0246189",
+      "name": "Marian Dziedziel",
+      "character": "Kidnapped Man"
+    },
+    {
+      "id": "nm0952498",
+      "name": "Zbigniew Zamachowski",
+      "character": "Klama"
+    },
+    {
+      "id": "nm2009952",
+      "name": "Agnieszka Maciag",
+      "character": "Czarnecka"
+    },
+    {
+      "id": "nm0643564",
+      "name": "Bartosz Obuchowicz",
+      "character": "Bonus"
+    },
+    {
+      "id": "nm2020462",
+      "name": "Krzysztof Skarbinski",
+      "character": "Fifi"
+    },
+    {
+      "id": "nm2010643",
+      "name": "Michal Nowaczyk",
+      "character": "Koziol"
+    },
+    {
+      "id": "nm1796725",
+      "name": "Mateusz Maksiak",
+      "character": "Rysio"
+    },
+    {
+      "id": "nm0651459",
+      "name": "Slawomir Orzechowski",
+      "character": "Shopkeeper"
+    },
+    {
+      "id": "nm0911329",
+      "name": "Grzegorz Warchol",
+      "character": "Czarnecki"
+    },
+    {
+      "id": "nm2020715",
+      "name": "Marek Bykowski",
+      "character": "Taxi driver"
+    },
+    {
+      "id": "nm0865069",
+      "name": "Dariusz Toczek",
+      "character": "Worker"
+    }
+  ],
+  "countries": [
+    "Poland"
+  ],
+  "languages": [
+    "Polish"
+  ],
+  "color": "Color",
+  "filmweb_id": 137466,
+  "year": 2005,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZWYyNzJhZDctOTkzNC00YWE3LTkxYzItODA0N2Y5YzdkMTMwXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6,
+      "votes": 1591,
+      "distribution": {
+        "1": 36,
+        "2": 43,
+        "3": 77,
+        "4": 103,
+        "5": 198,
+        "6": 350,
+        "7": 400,
+        "8": 218,
+        "9": 81,
+        "10": 85
+      },
+      "normalized": 4.1941
+    },
+    "filmweb": {
+      "rating": 6.7,
+      "votes": 92141,
+      "distribution": {
+        "1": 928,
+        "2": 978,
+        "3": 2650,
+        "4": 4009,
+        "5": 9027,
+        "6": 18668,
+        "7": 27812,
+        "8": 18053,
+        "9": 6026,
+        "10": 3990
+      },
+      "normalized": 4.8314
+    },
+    "michal": {
+      "rating": 2,
+      "date_rated": "01.12.2005",
+      "normalized": 3.1556
+    },
+    "score": 4.0604
+  },
+  "polish_title": "Czas surferów",
+  "silent": false,
+  "description_pl": "3 chłopców za namową starszego kolegi Dżokera, postanawia zrealizować plan, w którym do zdobycia są  łatwe pieniądze. Dla Dżokera plan jest również zemstą na biznesmenie, który niesprawiedliwie wyrzucił go z pracy. Postanawia namierzyć byłego szefa i porwać go przy pomocy swoich kolegów, a następnie wymusić na nim pieniądze. Plan nie jest trudny do wykonania, ale Dżoker nie może brać udziału w napadzie, ponieważ porwany natychmiast by go rozpoznał. Z resztą Dżoker nie do końca ufa swoim kolegom.",
+  "producers": [
+    {
+      "id": "nm1291786",
+      "name": "Witold Dabrowski"
+    },
+    {
+      "id": "nm1292011",
+      "name": "Krzysztof Dumienski"
+    },
+    {
+      "id": "nm2016693",
+      "name": "Jan Niemiro"
+    },
+    {
+      "id": "nm2019195",
+      "name": "Beata Ryczkowska"
+    },
+    {
+      "id": "nm0802566",
+      "name": "Kazimierz Sioma"
+    },
+    {
+      "id": "nm2018029",
+      "name": "Robert Sojka"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm2017125",
+      "name": "Doniu"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0844197",
+      "name": "Jaroslaw Szoda"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,162 @@
+{
+  "imdb_id": "tt2205501",
+  "title": "Room 514",
+  "description": "A beautiful, determined Israeli military investigator fights for justice when she interrogates ruthless young officers accused of brutalizing Arab civilians. Her only escape is a torrid affair with a fellow officer.",
+  "runtime_minutes": 91,
+  "release_date": "25.10.2012",
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "id": "nm4536815",
+      "name": "Asia Naifeld"
+    },
+    {
+      "id": "nm4873397",
+      "name": "Ohad Hall"
+    },
+    {
+      "id": "nm3867013",
+      "name": "Guy Kapulnik"
+    },
+    {
+      "id": "nm4873402",
+      "name": "Udi Persi"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0052755",
+      "name": "Sharon Bar-Ziv"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0052755",
+      "name": "Sharon Bar-Ziv"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm4536815",
+      "name": "Asia Naifeld",
+      "character": "Anna"
+    },
+    {
+      "id": "nm4873397",
+      "name": "Ohad Hall",
+      "character": "Erez"
+    },
+    {
+      "id": "nm3867013",
+      "name": "Guy Kapulnik",
+      "character": "Nimrod"
+    },
+    {
+      "id": "nm4873402",
+      "name": "Udi Persi",
+      "character": "Davidi"
+    },
+    {
+      "id": "nm3837325",
+      "name": "Rafi Kalmar",
+      "character": "General Major"
+    },
+    {
+      "id": "nm4873361",
+      "name": "Hilly Israel",
+      "character": "Michali"
+    },
+    {
+      "id": "nm4873881",
+      "name": "Oren Farage",
+      "character": "Officer"
+    },
+    {
+      "id": "nm0052755",
+      "name": "Sharon Bar-Ziv",
+      "character": "Man on Bus"
+    }
+  ],
+  "countries": [
+    "Israel"
+  ],
+  "languages": [
+    "Hebrew",
+    "Russian"
+  ],
+  "color": "Color",
+  "filmweb_id": 644836,
+  "year": 2012,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTVhMjYwNDEtZDhjYi00YmJmLWE0ZmEtOTYwMDM5OTBlZjkwXkEyXkFqcGc@._V1_.jpg",
+  "original_title": "Heder 514",
+  "ratings": {
+    "imdb": {
+      "rating": 6.3,
+      "votes": 174,
+      "distribution": {
+        "1": 8,
+        "2": 3,
+        "3": 7,
+        "4": 16,
+        "5": 12,
+        "6": 36,
+        "7": 44,
+        "8": 24,
+        "9": 9,
+        "10": 15
+      },
+      "normalized": 5.0462
+    },
+    "filmweb": {
+      "rating": 5.38,
+      "votes": 24,
+      "distribution": {
+        "1": 1,
+        "2": 0,
+        "3": 2,
+        "4": 4,
+        "5": 4,
+        "6": 6,
+        "7": 6,
+        "8": 1,
+        "9": 0,
+        "10": 0
+      },
+      "normalized": 4.909
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "15.02.2013",
+      "normalized": 6.4102
+    },
+    "score": 5.4551
+  },
+  "polish_title": "Pokój 514",
+  "silent": false,
+  "description_pl": "Młoda, idealistycznie nastawiona izraelska śledcza wojskowa, staje do konfrontacji z należącym do elity dowódcą, oskarżonym o niepotrzebną przemoc na Terytoriach Okupowanych. Jej uczciwość i determinacja przechodzą test, gdy okazuje się, że sprawa jest nieco mniej oczywista niż się początkowo wydawało. Mimo to, bohaterka, wbrew radom kolegów, występuje przeciwko nadużyciu władzy.",
+  "producers": [
+    {
+      "id": "nm0052755",
+      "name": "Sharon Bar-Ziv"
+    },
+    {
+      "id": "nm4873238",
+      "name": "Arbel Bibi Rekhess"
+    },
+    {
+      "id": "nm3053531",
+      "name": "Michal Rubin"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm3326916",
+      "name": "Edan Sasson"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

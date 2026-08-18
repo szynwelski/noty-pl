@@ -1,0 +1,44 @@
+{
+  "id": "nm0005904",
+  "name": "Gregg Toland",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTMzMjU0NDI1OV5BMl5BanBnXkFtZTYwOTAzNDI2._V1_.jpg",
+  "filmography": [
+    {
+      "imdb_id": "tt0032551",
+      "title": "The Grapes of Wrath",
+      "year": 1940,
+      "roles": [
+        "cinematographer"
+      ]
+    },
+    {
+      "imdb_id": "tt0033467",
+      "title": "Citizen Kane",
+      "year": 1941,
+      "roles": [
+        "cinematographer"
+      ]
+    },
+    {
+      "imdb_id": "tt0036868",
+      "title": "The Best Years of Our Lives",
+      "year": 1946,
+      "roles": [
+        "cinematographer"
+      ]
+    }
+  ],
+  "birth_date": "29.05.1904",
+  "death_date": "26.09.1948",
+  "birth_location": "Charleston, Illinois, USA",
+  "height": "1.55 m",
+  "filmweb_id": 46581,
+  "name_pl": "Gregg Toland",
+  "birth_location_pl": "Charleston, Illinois",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

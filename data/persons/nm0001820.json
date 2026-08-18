@@ -1,0 +1,39 @@
+{
+  "id": "nm0001820",
+  "name": "Abe Vigoda",
+  "filmography": [
+    {
+      "imdb_id": "tt0068646",
+      "title": "The Godfather",
+      "year": 1972,
+      "roles": [
+        "cast"
+      ],
+      "character": "Tessio"
+    },
+    {
+      "imdb_id": "tt0097778",
+      "title": "Look Who's Talking",
+      "year": 1989,
+      "roles": [
+        "cast"
+      ],
+      "character": "Grandpa"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjE1MDk5NzMyN15BMl5BanBnXkFtZTYwMjA4Mjg1._V1_.jpg",
+  "birth_date": "24.02.1921",
+  "death_date": "26.01.2016",
+  "birth_location": "Brooklyn, New York City, New York, USA",
+  "height": "1.84 m",
+  "imdb_scraped": true,
+  "filmweb_id": 3306,
+  "name_pl": "Abe Vigoda",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 3306
+}

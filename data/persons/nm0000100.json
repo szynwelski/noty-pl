@@ -1,0 +1,59 @@
+{
+  "id": "nm0000100",
+  "name": "Rowan Atkinson",
+  "filmography": [
+    {
+      "imdb_id": "tt0107144",
+      "title": "Hot Shots! Part Deux",
+      "year": 1993,
+      "roles": [
+        "cast"
+      ],
+      "character": "Dexter Hayman"
+    },
+    {
+      "imdb_id": "tt0109831",
+      "title": "Four Weddings and a Funeral",
+      "year": 1994,
+      "roles": [
+        "cast"
+      ],
+      "character": "Father Gerald - Wedding Two"
+    },
+    {
+      "imdb_id": "tt0110357",
+      "title": "The Lion King",
+      "year": 1994,
+      "roles": [
+        "cast"
+      ],
+      "character": "Zazu"
+    },
+    {
+      "imdb_id": "tt0118689",
+      "title": "Bean",
+      "year": 1997,
+      "roles": [
+        "writer",
+        "star",
+        "cast",
+        "producer"
+      ],
+      "character": "Mr. Bean"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTg3NDUzOTc3MV5BMl5BanBnXkFtZTcwNjcxMDkxNw@@._V1_.jpg",
+  "birth_date": "06.01.1955",
+  "birth_location": "Consett, County Durham, England, UK",
+  "height": "1.81 m",
+  "filmweb_id": 130,
+  "name_pl": "Rowan Atkinson",
+  "birth_location_pl": "Consett, Anglia",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ],
+  "wikidata_fw_id": 130
+}

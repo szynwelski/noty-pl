@@ -1,0 +1,37 @@
+{
+  "id": "nm0925418",
+  "name": "Ruth White",
+  "filmography": [
+    {
+      "imdb_id": "tt0056592",
+      "title": "To Kill a Mockingbird",
+      "year": 1962,
+      "roles": [
+        "cast"
+      ],
+      "character": "Mrs. Dubose"
+    },
+    {
+      "imdb_id": "tt0064665",
+      "title": "Midnight Cowboy",
+      "year": 1969,
+      "roles": [
+        "cast"
+      ],
+      "character": "Sally Buck"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQzMTQ4MjQ2Ml5BMl5BanBnXkFtZTcwMDM0NDAyOA@@._V1_.jpg",
+  "birth_date": "24.04.1914",
+  "death_date": "03.12.1969",
+  "birth_location": "Perth Amboy, New Jersey, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 40599,
+  "name_pl": "Ruth White",
+  "birth_location_pl": "Perth Amboy, New Jersey",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

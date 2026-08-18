@@ -1,0 +1,242 @@
+{
+  "imdb_id": "tt0112384",
+  "title": "Apollo 13",
+  "description": "NASA must devise a strategy to return Apollo 13 to Earth safely after the spacecraft undergoes massive internal damage putting the lives of the three astronauts on board in jeopardy.",
+  "runtime_minutes": 140,
+  "release_date": "30.06.1995",
+  "genres": [
+    "Adventure",
+    "Drama",
+    "History"
+  ],
+  "stars": [
+    {
+      "id": "nm0000158",
+      "name": "Tom Hanks"
+    },
+    {
+      "id": "nm0000200",
+      "name": "Bill Paxton"
+    },
+    {
+      "id": "nm0000102",
+      "name": "Kevin Bacon"
+    },
+    {
+      "id": "nm0000641",
+      "name": "Gary Sinise"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000165",
+      "name": "Ron Howard"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0522554",
+      "name": "Jim Lovell"
+    },
+    {
+      "id": "nm0460200",
+      "name": "Jeffrey Kluger"
+    },
+    {
+      "id": "nm0115310",
+      "name": "William Broyles Jr."
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000158",
+      "name": "Tom Hanks",
+      "character": "Jim Lovell"
+    },
+    {
+      "id": "nm0000200",
+      "name": "Bill Paxton",
+      "character": "Fred Haise"
+    },
+    {
+      "id": "nm0000102",
+      "name": "Kevin Bacon",
+      "character": "Jack Swigert"
+    },
+    {
+      "id": "nm0000641",
+      "name": "Gary Sinise",
+      "character": "Ken Mattingly"
+    },
+    {
+      "id": "nm0000438",
+      "name": "Ed Harris",
+      "character": "Gene Kranz"
+    },
+    {
+      "id": "nm0000599",
+      "name": "Kathleen Quinlan",
+      "character": "Marilyn Lovell"
+    },
+    {
+      "id": "nm0770788",
+      "name": "Mary Kate Schellhardt",
+      "character": "Barbara Lovell"
+    },
+    {
+      "id": "nm0515973",
+      "name": "Emily Ann Lloyd",
+      "character": "Susan Lovell"
+    },
+    {
+      "id": "nm0400816",
+      "name": "Miko Hughes",
+      "character": "Jeffrey Lovell"
+    },
+    {
+      "id": "nm0805189",
+      "name": "Max Elliott Slade",
+      "character": "Jay Lovell"
+    },
+    {
+      "id": "nm0397362",
+      "name": "Jean Speegle Howard",
+      "character": "Blanch Lovell"
+    },
+    {
+      "id": "nm0718021",
+      "name": "Tracy Reiner",
+      "character": "Mary Haise"
+    },
+    {
+      "id": "nm0028625",
+      "name": "David Andrews",
+      "character": "Pete Conrad"
+    },
+    {
+      "id": "nm0514633",
+      "name": "Michele Little",
+      "character": "Jane Conrad"
+    },
+    {
+      "id": "nm0254760",
+      "name": "Chris Ellis",
+      "character": "Deke Slayton"
+    },
+    {
+      "id": "nm0816876",
+      "name": "Joe Spano",
+      "character": "NASA Director"
+    },
+    {
+      "id": "nm0075359",
+      "name": "Xander Berkeley",
+      "character": "Henry Hurt"
+    },
+    {
+      "id": "nm0566013",
+      "name": "Marc McClure",
+      "character": "Glynn Lunney"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 1053,
+  "year": 1995,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMGZmNGY1OTAtNjFkYS00MjcyLWFlZjUtYzEyMDllZGZhMzM3XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.7,
+      "votes": 341436,
+      "distribution": {
+        "1": 1782,
+        "2": 1020,
+        "3": 1509,
+        "4": 3247,
+        "5": 9409,
+        "6": 28728,
+        "7": 90451,
+        "8": 119206,
+        "9": 51513,
+        "10": 34580
+      },
+      "normalized": 6.844
+    },
+    "filmweb": {
+      "rating": 7.39,
+      "votes": 227654,
+      "distribution": {
+        "1": 600,
+        "2": 739,
+        "3": 1900,
+        "4": 4260,
+        "5": 10888,
+        "6": 28356,
+        "7": 69014,
+        "8": 71226,
+        "9": 25737,
+        "10": 14934
+      },
+      "normalized": 6.4755
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "02.12.2005",
+      "normalized": 5.6855
+    },
+    "michal": {
+      "rating": 3,
+      "date_rated": "19.10.2005",
+      "normalized": 3.8753
+    },
+    "score": 5.7201
+  },
+  "polish_title": "Apollo 13",
+  "silent": false,
+  "description_pl": "Oparta na faktach historia misji statku kosmicznego Apollo 13. Astronauci Lovell, Haise i Swigert mieli lecieć statkiem Apollo 14, ale zostali przesunięci do załogi Apollo 13. Jest rok 1970, Amerykanie zaliczyli już lądowanie na Księżycu i społeczeństwo nie jest zainteresowane tym rutynowym lotem - do czasu aż na statku następuje wybuch...",
+  "producers": [
+    {
+      "id": "nm0098233",
+      "name": "Michael Bostick"
+    },
+    {
+      "id": "nm0004976",
+      "name": "Brian Grazer"
+    },
+    {
+      "id": "nm0356745",
+      "name": "Todd Hallowell"
+    },
+    {
+      "id": "nm0692016",
+      "name": "Aldric La'auli Porter"
+    },
+    {
+      "id": "nm0892550",
+      "name": "Louisa Velis"
+    },
+    {
+      "id": "nm0650038",
+      "name": "Lorne Orleans"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0000035",
+      "name": "James Horner"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005678",
+      "name": "Dean Cundey"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

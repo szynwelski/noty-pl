@@ -1,0 +1,122 @@
+{
+  "imdb_id": "tt0392728",
+  "title": "Roundhay Garden Scene",
+  "description": "In the garden, a man asks his friends to do something silly for him to record on film.",
+  "runtime_minutes": 1,
+  "release_date": "14.10.1888",
+  "genres": [
+    "Documentary",
+    "Short"
+  ],
+  "stars": [
+    {
+      "id": "nm1799952",
+      "name": "Annie Hartley"
+    },
+    {
+      "id": "nm1796515",
+      "name": "Adolphe Le Prince"
+    },
+    {
+      "id": "nm1798654",
+      "name": "Joseph Whitley"
+    },
+    {
+      "id": "nm1792947",
+      "name": "Sarah Whitley"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm1284117",
+      "name": "Louis Aimé Augustin Le Prince"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1799952",
+      "name": "Annie Hartley",
+      "character": "Self"
+    },
+    {
+      "id": "nm1796515",
+      "name": "Adolphe Le Prince",
+      "character": "Self"
+    },
+    {
+      "id": "nm1798654",
+      "name": "Joseph Whitley",
+      "character": "Self"
+    },
+    {
+      "id": "nm1792947",
+      "name": "Sarah Whitley",
+      "character": "Self"
+    }
+  ],
+  "countries": [
+    "United Kingdom",
+    "France"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 232599,
+  "year": 1888,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNjBkODMyMDMtZDEwYS00ZWQ2LWE4NDMtNmQyOTNmYzdiZjcwXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.2,
+      "votes": 7716,
+      "distribution": {
+        "1": 224,
+        "2": 146,
+        "3": 147,
+        "4": 186,
+        "5": 735,
+        "6": 912,
+        "7": 1567,
+        "8": 1160,
+        "9": 438,
+        "10": 2201
+      },
+      "normalized": 5.8413
+    },
+    "filmweb": {
+      "rating": 6.84,
+      "votes": 2006,
+      "distribution": {
+        "1": 99,
+        "2": 37,
+        "3": 60,
+        "4": 94,
+        "5": 269,
+        "6": 259,
+        "7": 400,
+        "8": 240,
+        "9": 112,
+        "10": 436
+      },
+      "normalized": 5.3284
+    },
+    "jarek": {
+      "rating": 6,
+      "date_rated": "11.12.2016",
+      "normalized": 6.4102
+    },
+    "score": 5.86
+  },
+  "polish_title": "Roundhay Garden Scene",
+  "silent": true,
+  "description_pl": "Pierwszy celuloidowy film, nakręcony przez <a href=\"/osoba/?id=nm1284117\">Louisa Le Prince'a</a> jednosoczewkową kamerą z 1888 roku. Akcja rozgrywa się w ogrodzie państwa Whitley, koło domu przy Oakwood Grange Road w Roundhay, przedmieściach Leeds, West Yorkshire, Anglia, Wielka Brytania. Obraz pokazuje syna reżysera Adolpha Le Prince'a, teściową Panią Sarahę Whitley, Josepha Whitley'a oraz pannę Harriet Hartley, którzy przechadzają się dokoła ogrodu i śmieją się do siebie. Film przedstawiający tę scenę składa się z dziewięciu klatek i trwa niespełna dwie sekundy.",
+  "cinematographers": [
+    {
+      "id": "nm1284117",
+      "name": "Louis Aimé Augustin Le Prince"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

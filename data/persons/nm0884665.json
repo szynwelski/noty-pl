@@ -1,0 +1,39 @@
+{
+  "id": "nm0884665",
+  "name": "Rosa Valetti",
+  "filmography": [
+    {
+      "imdb_id": "tt0020697",
+      "title": "The Blue Angel",
+      "year": 1930,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Guste, seine Frau"
+    },
+    {
+      "imdb_id": "tt0022100",
+      "title": "M",
+      "year": 1931,
+      "roles": [
+        "cast"
+      ],
+      "character": "Bartender"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTExMjU0NDA5OTheQTJeQWpwZ15BbWU4MDEwNzAxMTMx._V1_.jpg",
+  "birth_date": "25.01.1876",
+  "death_date": "10.12.1937",
+  "birth_location": "Berlin, Germany",
+  "imdb_scraped": true,
+  "filmweb_id": 79688,
+  "name_pl": "Rosa Valetti",
+  "birth_location_pl": "Berlin",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Niemcy",
+    "Królestwo Prus"
+  ]
+}

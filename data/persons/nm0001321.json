@@ -1,0 +1,77 @@
+{
+  "id": "nm0001321",
+  "name": "Richard Harris",
+  "filmography": [
+    {
+      "imdb_id": "tt0056264",
+      "title": "Mutiny on the Bounty",
+      "year": 1962,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Seaman John Mills"
+    },
+    {
+      "imdb_id": "tt0059418",
+      "title": "Major Dundee",
+      "year": 1965,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Captain Benjamin Tyreen"
+    },
+    {
+      "imdb_id": "tt0105695",
+      "title": "Unforgiven",
+      "year": 1992,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "English Bob"
+    },
+    {
+      "imdb_id": "tt0172495",
+      "title": "Gladiator",
+      "year": 2000,
+      "roles": [
+        "cast"
+      ],
+      "character": "Marcus Aurelius"
+    },
+    {
+      "imdb_id": "tt0241527",
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "year": 2001,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Albus Dumbledore"
+    },
+    {
+      "imdb_id": "tt0295297",
+      "title": "Harry Potter and the Chamber of Secrets",
+      "year": 2002,
+      "roles": [
+        "star"
+      ]
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOGViY2QzMjAtZmZmYi00MmJhLWJiZjYtM2YxMjZkZjEzMzNjXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "01.10.1930",
+  "death_date": "25.10.2002",
+  "birth_location": "Limerick, Ireland",
+  "height": "1.85 m",
+  "filmweb_id": 2631,
+  "name_pl": "Richard Harris",
+  "birth_location_pl": "Limerick",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Irlandia"
+  ]
+}

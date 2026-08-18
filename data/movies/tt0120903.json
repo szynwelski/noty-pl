@@ -1,0 +1,263 @@
+{
+  "imdb_id": "tt0120903",
+  "title": "X-Men",
+  "description": "In a world where mutants (evolved super-powered humans) exist and are discriminated against, two groups form for an inevitable clash: the supremacist Brotherhood, and the pacifist X-Men.",
+  "runtime_minutes": 104,
+  "release_date": "14.07.2000",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "stars": [
+    {
+      "id": "nm0001772",
+      "name": "Patrick Stewart"
+    },
+    {
+      "id": "nm0413168",
+      "name": "Hugh Jackman"
+    },
+    {
+      "id": "nm0005212",
+      "name": "Ian McKellen"
+    },
+    {
+      "id": "nm0000463",
+      "name": "Famke Janssen"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001741",
+      "name": "Bryan Singer"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0220892",
+      "name": "Tom DeSanto"
+    },
+    {
+      "id": "nm0001741",
+      "name": "Bryan Singer"
+    },
+    {
+      "id": "nm0371684",
+      "name": "David Hayter"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0001772",
+      "name": "Patrick Stewart",
+      "character": "Xavier"
+    },
+    {
+      "id": "nm0413168",
+      "name": "Hugh Jackman",
+      "character": "Logan"
+    },
+    {
+      "id": "nm0005212",
+      "name": "Ian McKellen",
+      "character": "Magneto"
+    },
+    {
+      "id": "nm0000463",
+      "name": "Famke Janssen",
+      "character": "Jean Grey"
+    },
+    {
+      "id": "nm0005188",
+      "name": "James Marsden",
+      "character": "Cyclops"
+    },
+    {
+      "id": "nm0000932",
+      "name": "Halle Berry",
+      "character": "Storm"
+    },
+    {
+      "id": "nm0001593",
+      "name": "Anna Paquin",
+      "character": "Rogue"
+    },
+    {
+      "id": "nm0541932",
+      "name": "Tyler Mane",
+      "character": "Sabretooth"
+    },
+    {
+      "id": "nm0661917",
+      "name": "Ray Park",
+      "character": "Toad"
+    },
+    {
+      "id": "nm0005381",
+      "name": "Rebecca Romijn",
+      "character": "Mystique"
+    },
+    {
+      "id": "nm0001117",
+      "name": "Bruce Davison",
+      "character": "Senator Kelly"
+    },
+    {
+      "id": "nm0789106",
+      "name": "Matthew Sharp",
+      "character": "Henry Guyrich"
+    },
+    {
+      "id": "nm0606401",
+      "name": "Brett Morris",
+      "character": "Young Magneto"
+    },
+    {
+      "id": "nm0790949",
+      "name": "Rhona Shekter",
+      "character": "Magneto's Mother"
+    },
+    {
+      "id": "nm0532342",
+      "name": "Kenneth McGregor",
+      "character": "Magneto's Father"
+    },
+    {
+      "id": "nm0731575",
+      "name": "Shawn Roberts",
+      "character": "Rogue's Boyfriend"
+    },
+    {
+      "id": "nm0328904",
+      "name": "Donna Goodhand",
+      "character": "Rogue's Mother"
+    },
+    {
+      "id": "nm0625054",
+      "name": "John Nelles",
+      "character": "Rogue's Father"
+    }
+  ],
+  "countries": [
+    "United States",
+    "Canada"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 969,
+  "year": 2000,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNzNjZjQwOTAtNWQ3NC00MmJlLThlZDEtZmUyMWQ3NmE4Y2Y5XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.3,
+      "votes": 698505,
+      "distribution": {
+        "1": 3515,
+        "2": 1904,
+        "3": 3439,
+        "4": 7863,
+        "5": 24624,
+        "6": 87862,
+        "7": 247336,
+        "8": 207651,
+        "9": 61626,
+        "10": 52685
+      },
+      "normalized": 6.1615
+    },
+    "filmweb": {
+      "rating": 7.24,
+      "votes": 177488,
+      "distribution": {
+        "1": 417,
+        "2": 334,
+        "3": 1220,
+        "4": 2719,
+        "5": 8717,
+        "6": 26967,
+        "7": 64663,
+        "8": 49931,
+        "9": 13503,
+        "10": 9017
+      },
+      "normalized": 6.1225
+    },
+    "jarek": {
+      "rating": 3,
+      "date_rated": "24.08.2010",
+      "normalized": 4.2591
+    },
+    "michal": {
+      "rating": 2,
+      "date_rated": "19.10.2005",
+      "normalized": 3.1556
+    },
+    "score": 4.9247
+  },
+  "polish_title": "X-Men",
+  "silent": false,
+  "description_pl": "Ekranizacja jednej z najpopularniejszych serii komiksowej na świecie opowiadającej o grupie obdarzonych ponadnaturalnymi zdolnościami mutantów, którzy przez swoją odmienność są prześladowani przez ludzi. Znajdują schronienie w specjalnej szkole profesora Charlesa Xaviera, który otacza mutantów troskliwą opieką i uczy ich jak korzystać z ich unikalnych zdolności. Niestety, nie wszyscy mutanci chcą wieść pokojowy tryb życia. Część z nich pod wodzą Magneto pragnie pokonać ludzkość i opanować świat. Konfrontacja pomiędzy mutantami staje się nieunikniona.",
+  "producers": [
+    {
+      "id": "nm0032696",
+      "name": "Avi Arad"
+    },
+    {
+      "id": "nm0220892",
+      "name": "Tom DeSanto"
+    },
+    {
+      "id": "nm0001149",
+      "name": "Richard Donner"
+    },
+    {
+      "id": "nm0248996",
+      "name": "Matthew Edelman"
+    },
+    {
+      "id": "nm0270559",
+      "name": "Kevin Feige"
+    },
+    {
+      "id": "nm0498278",
+      "name": "Stan Lee"
+    },
+    {
+      "id": "nm0632350",
+      "name": "Scott Nimerfro"
+    },
+    {
+      "id": "nm0795682",
+      "name": "Lauren Shuler Donner"
+    },
+    {
+      "id": "nm0800210",
+      "name": "Joel Simon"
+    },
+    {
+      "id": "nm0865361",
+      "name": "Bill Todman Jr."
+    },
+    {
+      "id": "nm0003515",
+      "name": "Ralph Winter"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0004383",
+      "name": "Michael Kamen"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005875",
+      "name": "Newton Thomas Sigel"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

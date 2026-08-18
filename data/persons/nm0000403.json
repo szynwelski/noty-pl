@@ -1,0 +1,39 @@
+{
+  "id": "nm0000403",
+  "name": "Bridget Fonda",
+  "filmography": [
+    {
+      "imdb_id": "tt0099674",
+      "title": "The Godfather Part III",
+      "year": 1990,
+      "roles": [
+        "cast"
+      ],
+      "character": "Grace Hamilton"
+    },
+    {
+      "imdb_id": "tt0119396",
+      "title": "Jackie Brown",
+      "year": 1997,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Melanie"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjAzMzk5OTQzNl5BMl5BanBnXkFtZTYwMjc0OTk0._V1_.jpg",
+  "birth_date": "27.01.1964",
+  "birth_location": "Los Angeles, California, USA",
+  "height": "1.68 m",
+  "imdb_scraped": true,
+  "filmweb_id": 173,
+  "name_pl": "Bridget Fonda",
+  "birth_location_pl": "Los Angeles, Kalifornia",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 173
+}

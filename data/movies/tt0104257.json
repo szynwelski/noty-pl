@@ -1,0 +1,238 @@
+{
+  "imdb_id": "tt0104257",
+  "title": "A Few Good Men",
+  "description": "A military lawyer intends to prove that two US Marines charged with murdering a fellow Marine were only following their base commander's orders.",
+  "runtime_minutes": 138,
+  "release_date": "11.12.1992",
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000129",
+      "name": "Tom Cruise"
+    },
+    {
+      "id": "nm0000197",
+      "name": "Jack Nicholson"
+    },
+    {
+      "id": "nm0000193",
+      "name": "Demi Moore"
+    },
+    {
+      "id": "nm0000102",
+      "name": "Kevin Bacon"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001661",
+      "name": "Rob Reiner"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0815070",
+      "name": "Aaron Sorkin"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000129",
+      "name": "Tom Cruise",
+      "character": "Lt. Daniel Kaffee"
+    },
+    {
+      "id": "nm0000197",
+      "name": "Jack Nicholson",
+      "character": "Col. Nathan R. Jessep"
+    },
+    {
+      "id": "nm0000193",
+      "name": "Demi Moore",
+      "character": "Lt. Cdr. JoAnne Galloway"
+    },
+    {
+      "id": "nm0000102",
+      "name": "Kevin Bacon",
+      "character": "Capt. Jack Ross"
+    },
+    {
+      "id": "nm0000662",
+      "name": "Kiefer Sutherland",
+      "character": "2nd. Lt. Jonathan Kendrick"
+    },
+    {
+      "id": "nm0001629",
+      "name": "Kevin Pollak",
+      "character": "LT Sam Weinberg"
+    },
+    {
+      "id": "nm0338614",
+      "name": "James Marshall",
+      "character": "Pfc. Louden Downey"
+    },
+    {
+      "id": "nm0000687",
+      "name": "J.T. Walsh",
+      "character": "Lt. Col. Matthew Andrew Markinson"
+    },
+    {
+      "id": "nm0001302",
+      "name": "Christopher Guest",
+      "character": "Dr. Stone"
+    },
+    {
+      "id": "nm0696430",
+      "name": "J.A. Preston",
+      "character": "Judge Julius Alexander Randolph"
+    },
+    {
+      "id": "nm0002023",
+      "name": "Matt Craven",
+      "character": "Lt. Dave Spradling"
+    },
+    {
+      "id": "nm0090981",
+      "name": "Wolfgang Bodison",
+      "character": "Lance Cpl. Harold W. Dawson"
+    },
+    {
+      "id": "nm0075359",
+      "name": "Xander Berkeley",
+      "character": "Capt. Whitaker"
+    },
+    {
+      "id": "nm0413698",
+      "name": "John M. Jackson",
+      "character": "Capt. West"
+    },
+    {
+      "id": "nm0001864",
+      "name": "Noah Wyle",
+      "character": "Cpl. Jeffrey Barnes"
+    },
+    {
+      "id": "nm0000421",
+      "name": "Cuba Gooding Jr.",
+      "character": "Cpl. Carl Hammaker"
+    },
+    {
+      "id": "nm0522990",
+      "name": "Lawrence Lowe",
+      "character": "Bailiff"
+    },
+    {
+      "id": "nm0539651",
+      "name": "Joshua Malina",
+      "character": "Tom"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "color": "Color",
+  "filmweb_id": 1004,
+  "year": 1992,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOGVhMTUwYzEtZGQ1ZC00Nzg1LTk0OGUtMDk0NDM0ZmZlN2E0XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.8,
+      "votes": 320438,
+      "distribution": {
+        "1": 1477,
+        "2": 697,
+        "3": 1154,
+        "4": 2391,
+        "5": 7288,
+        "6": 24104,
+        "7": 78784,
+        "8": 116142,
+        "9": 53531,
+        "10": 34870
+      },
+      "normalized": 7.0314
+    },
+    "filmweb": {
+      "rating": 7.54,
+      "votes": 60341,
+      "distribution": {
+        "1": 77,
+        "2": 47,
+        "3": 178,
+        "4": 505,
+        "5": 1629,
+        "6": 6028,
+        "7": 19012,
+        "8": 23365,
+        "9": 6871,
+        "10": 2629
+      },
+      "normalized": 6.848
+    },
+    "jarek": {
+      "rating": 5,
+      "date_rated": "02.12.2005",
+      "normalized": 5.6855
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "19.10.2005",
+      "normalized": 5.4199
+    },
+    "score": 6.2462
+  },
+  "polish_title": "Ludzie honoru",
+  "silent": false,
+  "description_pl": "Adwokaci Kaffee (<a href=\"/osoba/?id=nm0000129\">Tom Cruise</a>) i Galloway (<a href=\"/osoba/?id=nm0000193\">Demi Moore</a>) zostają przydzieleni do sprawy dwóch żołnierzy oskarżonych o zabicie kolegi, który podobno \"złamał reguły\". W trakcie sprawy przesłuchują dowódcę żołnierzy (<a href=\"/osoba/?id=nm0000197\">Jack Nicholson</a>), który czuje się całkowicie \"nietykalny\". Oskarżeni utrzymują, że działali z rozkazu dowódcy, a śmierć była przypadkowa.",
+  "producers": [
+    {
+      "id": "nm0113360",
+      "name": "David Brown"
+    },
+    {
+      "id": "nm0319501",
+      "name": "William S. Gilmore"
+    },
+    {
+      "id": "nm0630222",
+      "name": "Steve Nicolaides"
+    },
+    {
+      "id": "nm0679353",
+      "name": "Rachel Pfeffer"
+    },
+    {
+      "id": "nm0001661",
+      "name": "Rob Reiner"
+    },
+    {
+      "id": "nm0770650",
+      "name": "Andrew Scheinman"
+    },
+    {
+      "id": "nm0832790",
+      "name": "Jeffrey Stott"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0003299",
+      "name": "Marc Shaiman"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0724744",
+      "name": "Robert Richardson"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "nm0719756",
+  "name": "Jean Renoir",
+  "filmography": [
+    {
+      "imdb_id": "tt0014898",
+      "title": "Whirlpool of Fate",
+      "year": 1925,
+      "roles": [
+        "director"
+      ]
+    },
+    {
+      "imdb_id": "tt0020475",
+      "title": "Diary of a Lost Girl",
+      "year": 1929,
+      "roles": [
+        "cast"
+      ],
+      "character": "Bargast"
+    },
+    {
+      "imdb_id": "tt0028950",
+      "title": "Grand Illusion",
+      "year": 1937,
+      "roles": [
+        "director",
+        "writer"
+      ]
+    },
+    {
+      "imdb_id": "tt0031885",
+      "title": "The Rules of the Game",
+      "year": 1939,
+      "roles": [
+        "director",
+        "writer",
+        "cast"
+      ],
+      "character": "Octave"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDFmZGRiZTctYmE1Yy00NmI3LWEwNzYtYzM3ZWYzM2FjZjgyXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "15.09.1894",
+  "death_date": "12.02.1979",
+  "birth_location": "Paris, France",
+  "height": "1.80 m",
+  "filmweb_id": 58569,
+  "name_pl": "Jean Renoir",
+  "birth_location_pl": "Paryż",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja"
+  ]
+}

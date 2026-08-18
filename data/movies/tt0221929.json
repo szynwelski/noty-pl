@@ -1,0 +1,90 @@
+{
+  "imdb_id": "tt0221929",
+  "title": "The cat's lunch",
+  "description": "A medium closeup of a large cat, washing itself. A boy brings him/her a plate of milk.",
+  "runtime_minutes": 1,
+  "release_date": "1895",
+  "genres": [
+    "Documentary",
+    "Short"
+  ],
+  "stars": [
+    {
+      "id": "nm9735580",
+      "name": "Marcel Koehler"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0525910",
+      "name": "Louis Lumière"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm9735580",
+      "name": "Marcel Koehler",
+      "character": "Self - The Boy with the Plate of Milk"
+    }
+  ],
+  "countries": [
+    "France"
+  ],
+  "languages": [
+    "None"
+  ],
+  "color": "Black and White",
+  "filmweb_id": 240962,
+  "year": 1895,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZjAyYWExMGEtNTFiMS00YTQ2LTllYWMtOGMxNDJiYzMxMGEyXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 5.7,
+      "votes": 579,
+      "distribution": {
+        "1": 25,
+        "2": 24,
+        "3": 17,
+        "4": 52,
+        "5": 116,
+        "6": 181,
+        "7": 87,
+        "8": 32,
+        "9": 8,
+        "10": 37
+      },
+      "normalized": 4.3849
+    },
+    "filmweb": {
+      "rating": 5.49,
+      "votes": 119,
+      "distribution": {
+        "1": 5,
+        "2": 2,
+        "3": 9,
+        "4": 10,
+        "5": 27,
+        "6": 38,
+        "7": 16,
+        "8": 8,
+        "9": 2,
+        "10": 2
+      },
+      "normalized": 4.3972
+    },
+    "jarek": {
+      "rating": 2,
+      "date_rated": "11.12.2016",
+      "normalized": 3.5003
+    },
+    "score": 4.0941
+  },
+  "polish_title": "Le déjeuner du chat",
+  "silent": true,
+  "composers": [],
+  "cinematographers": [],
+  "producers": [],
+  "original_title": "Le déjeuner du chat",
+  "fetched_at": "2026-08-16"
+}

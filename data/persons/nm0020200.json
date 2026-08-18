@@ -1,0 +1,37 @@
+{
+  "id": "nm0020200",
+  "name": "David Bond",
+  "filmography": [
+    {
+      "imdb_id": "tt0038991",
+      "title": "The Stranger",
+      "year": 1946,
+      "roles": [
+        "cast"
+      ],
+      "character": "Student"
+    },
+    {
+      "imdb_id": "tt0042208",
+      "title": "The Asphalt Jungle",
+      "year": 1950,
+      "roles": [
+        "cast"
+      ],
+      "character": "Father Sortine"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZGNjZmE4NjktMTdlMC00MTRhLWFiMGYtZGVlZjQ3ZDlmY2MwXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "13.11.1914",
+  "death_date": "16.04.1989",
+  "birth_location": "New York City, New York, USA",
+  "imdb_scraped": true,
+  "filmweb_id": 68195,
+  "name_pl": "David Bond",
+  "birth_location_pl": "Nowy Jork, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ]
+}

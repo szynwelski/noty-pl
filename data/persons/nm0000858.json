@@ -1,0 +1,31 @@
+{
+  "id": "nm0000858",
+  "name": "John Barrymore",
+  "filmography": [
+    {
+      "imdb_id": "tt0022958",
+      "title": "Grand Hotel",
+      "year": 1932,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Baron Felix von Geigern"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BZmQwYjdiZGYtNzE1Ny00MDk3LTliODMtOWQzZTkzZjFiMTE5XkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "15.02.1882",
+  "death_date": "29.05.1942",
+  "birth_location": "Philadelphia, Pennsylvania, USA",
+  "height": "1.75 m",
+  "imdb_scraped": true,
+  "filmweb_id": 71101,
+  "name_pl": "John Barrymore",
+  "birth_location_pl": "Filadelfia, Pensylwania",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 71101
+}

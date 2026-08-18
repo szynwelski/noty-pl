@@ -1,0 +1,38 @@
+{
+  "id": "nm7970428",
+  "name": "Post Malone",
+  "filmography": [
+    {
+      "imdb_id": "tt8629748",
+      "title": "Spenser Confidential",
+      "year": 2020,
+      "roles": [
+        "cast"
+      ],
+      "character": "Squeeb"
+    },
+    {
+      "imdb_id": "tt3359350",
+      "title": "Road House",
+      "year": 2024,
+      "roles": [
+        "cast"
+      ],
+      "character": "Carter"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BN2VmNDI3OWUtMGEyYS00Njg5LTlkNDUtOTI1MDk5MjdmYmExXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "04.07.1995",
+  "birth_location": "Syracuse, New York, USA",
+  "height": "1.84 m",
+  "imdb_scraped": true,
+  "filmweb_id": 2661204,
+  "name_pl": "Post Malone",
+  "birth_location_pl": "Syracuse, Nowy Jork",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 2661204
+}

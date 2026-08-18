@@ -1,0 +1,196 @@
+{
+  "imdb_id": "tt3145542",
+  "title": "This Is How You Die",
+  "description": "What if a machine could tell you cryptically, but with 100% accuracy, how you are going to die?",
+  "runtime_minutes": 6,
+  "release_date": "2013",
+  "genres": [
+    "Short",
+    "Comedy",
+    "Horror",
+    "Mystery"
+  ],
+  "stars": [
+    {
+      "id": "nm1641303",
+      "name": "Ann Maddox"
+    },
+    {
+      "id": "nm0083712",
+      "name": "Frank Birney"
+    },
+    {
+      "id": "nm3358522",
+      "name": "Kevin Manwarren"
+    },
+    {
+      "id": "nm1954874",
+      "name": "Shaun Boylan"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm2278537",
+      "name": "Michael Mohan"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm1319451",
+      "name": "David Malki"
+    },
+    {
+      "id": "nm2278537",
+      "name": "Michael Mohan"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm1641303",
+      "name": "Ann Maddox",
+      "character": "Jogger"
+    },
+    {
+      "id": "nm0083712",
+      "name": "Frank Birney",
+      "character": "Old Man"
+    },
+    {
+      "id": "nm3358522",
+      "name": "Kevin Manwarren",
+      "character": "Tennis Player"
+    },
+    {
+      "id": "nm1954874",
+      "name": "Shaun Boylan",
+      "character": "Tennis Player"
+    },
+    {
+      "id": "nm3417477",
+      "name": "Joey Greer",
+      "character": "Tennis Player"
+    },
+    {
+      "id": "nm3656919",
+      "name": "Michael Wilkie",
+      "character": "Tennis Player"
+    },
+    {
+      "id": "nm3545198",
+      "name": "Jacob Womack",
+      "character": "Skydiver"
+    },
+    {
+      "id": "nm2405364",
+      "name": "Matthew Haddad",
+      "character": "Teenager"
+    },
+    {
+      "id": "nm3494782",
+      "name": "Brooke Peoples",
+      "character": "Beach Babe"
+    },
+    {
+      "id": "nm2655214",
+      "name": "Mandy Kowalski",
+      "character": "Woman on Fire"
+    },
+    {
+      "id": "nm1789235",
+      "name": "Nicole Alexandra Lvova",
+      "character": "Time Traveler"
+    },
+    {
+      "id": "nm2845956",
+      "name": "Nicole Carmela",
+      "character": "Time Traveler's Friend"
+    },
+    {
+      "id": "nm2751996",
+      "name": "Jonathan Shockley",
+      "character": "Middle Aged Man"
+    },
+    {
+      "id": "nm3999202",
+      "name": "Tiffany Kilgore",
+      "character": "Wife"
+    },
+    {
+      "id": "nm2447373",
+      "name": "Mike Betette",
+      "character": "Co-Worker"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 10037226,
+  "year": 2013,
+  "type": "short",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BN2U3NWJhN2EtMWIxNy00YjI3LTllYWYtMmYxNTc0NTg5MGRhXkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 6.5,
+      "votes": 191,
+      "distribution": {
+        "1": 8,
+        "2": 2,
+        "3": 3,
+        "4": 8,
+        "5": 26,
+        "6": 47,
+        "7": 45,
+        "8": 21,
+        "9": 14,
+        "10": 17
+      },
+      "normalized": 5.1676
+    },
+    "filmweb": {
+      "rating": 6.43,
+      "votes": 7,
+      "distribution": {
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 1,
+        "6": 2,
+        "7": 1,
+        "8": 0,
+        "9": 2,
+        "10": 0
+      },
+      "normalized": 5.186
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "14.03.2024",
+      "normalized": 6.3474
+    },
+    "score": 5.567
+  },
+  "polish_title": "This Is How You Die",
+  "silent": false,
+  "producers": [
+    {
+      "id": "nm3034451",
+      "name": "Adam Hendricks"
+    },
+    {
+      "id": "nm3096179",
+      "name": "John H. Lang"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm1202288",
+      "name": "Elisha Christian"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

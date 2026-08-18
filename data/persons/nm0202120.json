@@ -1,0 +1,40 @@
+{
+  "id": "nm0202120",
+  "name": "Jean Dasté",
+  "filmography": [
+    {
+      "imdb_id": "tt0024803",
+      "title": "Zero de Conduite",
+      "year": 1933,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Surveillant Huguet"
+    },
+    {
+      "imdb_id": "tt0028950",
+      "title": "Grand Illusion",
+      "year": 1937,
+      "roles": [
+        "cast"
+      ],
+      "character": "L'instituteur"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYzA3MDUwZmMtOTBlMC00NDZjLWFjYWQtZTRlZmU0OThhZDBmXkEyXkFqcGc@._V1_.jpg",
+  "birth_date": "18.08.1904",
+  "death_date": "15.10.1994",
+  "birth_location": "Paris, France",
+  "height": "1.70 m",
+  "imdb_scraped": true,
+  "filmweb_id": 62867,
+  "name_pl": "Jean Dasté",
+  "birth_location_pl": "Paryż",
+  "gender": "M",
+  "wikidata_processed": true,
+  "nationality": [
+    "Francja"
+  ],
+  "wikidata_fw_id": 62867
+}

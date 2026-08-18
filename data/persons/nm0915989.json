@@ -1,0 +1,103 @@
+{
+  "id": "nm0915989",
+  "name": "Hugo Weaving",
+  "filmography": [
+    {
+      "imdb_id": "tt0133093",
+      "title": "The Matrix",
+      "year": 1999,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Agent Smith"
+    },
+    {
+      "imdb_id": "tt0234215",
+      "title": "The Matrix Reloaded",
+      "year": 2003,
+      "roles": [
+        "star"
+      ]
+    },
+    {
+      "imdb_id": "tt0242653",
+      "title": "The Matrix Revolutions",
+      "year": 2003,
+      "roles": [
+        "star"
+      ]
+    },
+    {
+      "imdb_id": "tt0434409",
+      "title": "V for Vendetta",
+      "year": 2005,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "V"
+    },
+    {
+      "imdb_id": "tt0458339",
+      "title": "Captain America: The First Avenger",
+      "year": 2011,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Johann Schmidt"
+    },
+    {
+      "imdb_id": "tt1371111",
+      "title": "Cloud Atlas",
+      "year": 2012,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Haskell Moore"
+    },
+    {
+      "imdb_id": "tt0903624",
+      "title": "The Hobbit: An Unexpected Journey",
+      "year": 2012,
+      "roles": [
+        "cast"
+      ],
+      "character": "Elrond"
+    },
+    {
+      "imdb_id": "tt2119532",
+      "title": "Hacksaw Ridge",
+      "year": 2016,
+      "roles": [
+        "cast"
+      ],
+      "character": "Tom Doss"
+    },
+    {
+      "imdb_id": "tt1571234",
+      "title": "Mortal Engines",
+      "year": 2018,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Thaddeus Valentine"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMjAxMzAyNDQyMF5BMl5BanBnXkFtZTcwOTM4ODcxMw@@._V1_.jpg",
+  "birth_date": "04.04.1960",
+  "birth_location": "Ibadan, Nigeria",
+  "height": "1.88 m",
+  "filmweb_id": 5609,
+  "name_pl": "Hugo Weaving",
+  "birth_location_pl": "Ibadan",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania"
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "id": "nm0000140",
+  "name": "Michael Douglas",
+  "filmography": [
+    {
+      "imdb_id": "tt0073486",
+      "title": "One Flew Over the Cuckoo's Nest",
+      "year": 1975,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0094291",
+      "title": "Wall Street",
+      "year": 1987,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Gordon Gekko"
+    },
+    {
+      "imdb_id": "tt0103772",
+      "title": "Basic Instinct",
+      "year": 1992,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Det. Nick Curran"
+    },
+    {
+      "imdb_id": "tt0106856",
+      "title": "Falling Down",
+      "year": 1993,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "D-Fens"
+    },
+    {
+      "imdb_id": "tt0119094",
+      "title": "Face/Off",
+      "year": 1997,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0119174",
+      "title": "The Game",
+      "year": 1997,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Nicholas Van Orton"
+    },
+    {
+      "imdb_id": "tt0119978",
+      "title": "The Rainmaker",
+      "year": 1997,
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "imdb_id": "tt0181865",
+      "title": "Traffic",
+      "year": 2000,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Robert Wakefield"
+    },
+    {
+      "imdb_id": "tt1204975",
+      "title": "Last Vegas",
+      "year": 2013,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Billy"
+    },
+    {
+      "imdb_id": "tt1734493",
+      "title": "Unlocked",
+      "year": 2017,
+      "roles": [
+        "cast"
+      ],
+      "character": "Eric Lasch"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMTQ3NzMzOTQ3MF5BMl5BanBnXkFtZTcwOTE0MzY1Mw@@._V1_.jpg",
+  "birth_date": "25.09.1944",
+  "birth_location": "New Brunswick, New Jersey, USA",
+  "height": "1.77 m",
+  "filmweb_id": 165,
+  "name_pl": "Michael Douglas",
+  "birth_location_pl": "New Brunswick, New Jersey",
+  "gender": "M",
+  "imdb_scraped": true,
+  "wikidata_processed": true,
+  "nationality": [
+    "Wielka Brytania",
+    "Stany Zjednoczone"
+  ],
+  "wikidata_fw_id": 165
+}

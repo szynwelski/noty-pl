@@ -1,0 +1,83 @@
+{
+  "id": "nm0000017",
+  "name": "Marlene Dietrich",
+  "filmography": [
+    {
+      "imdb_id": "tt0021156",
+      "title": "Morocco",
+      "year": 1930,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Mademoiselle Amy Jolly"
+    },
+    {
+      "imdb_id": "tt0020697",
+      "title": "The Blue Angel",
+      "year": 1930,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Lola Lola"
+    },
+    {
+      "imdb_id": "tt0051201",
+      "title": "Witness for the Prosecution",
+      "year": 1957,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Christine"
+    },
+    {
+      "imdb_id": "tt0052311",
+      "title": "Touch of Evil",
+      "year": 1958,
+      "roles": [
+        "cast"
+      ],
+      "character": "Tanya"
+    },
+    {
+      "imdb_id": "tt0055031",
+      "title": "Judgment at Nuremberg",
+      "year": 1961,
+      "roles": [
+        "star",
+        "cast"
+      ],
+      "character": "Mrs. Bertholt"
+    },
+    {
+      "imdb_id": "tt0309987",
+      "title": "The Dreamers",
+      "year": 2003,
+      "roles": [
+        "cast"
+      ],
+      "character": "Helen Faraday, aka Helen Jones"
+    }
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMDQyNTBhNjMtODVkNS00Njk0LTg3MmYtODQ1MzQzYzcxZDI0XkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 44695,
+  "birth_date": "27.12.1901",
+  "death_date": "06.05.1992",
+  "birth_location": "Schöneberg, Brandenburg, Prussia, German Empire [now part of Berlin, Germany]",
+  "height": "1.64 m",
+  "imdb_scraped": true,
+  "name_pl": "Marlene Dietrich",
+  "birth_location_pl": "Berlin",
+  "gender": "F",
+  "wikidata_processed": true,
+  "nationality": [
+    "III Rzesza",
+    "Stany Zjednoczone",
+    "Republika Weimarska",
+    "Cesarstwo Niemieckie",
+    "Rzesza Niemiecka"
+  ],
+  "wikidata_fw_id": 44695
+}

@@ -1,0 +1,192 @@
+{
+  "imdb_id": "tt0112913",
+  "title": "Fallen Angels",
+  "description": "This Hong Kong-set crime drama follows the lives of a hitman, hoping to get out of the business, and his elusive female partner.",
+  "runtime_minutes": 99,
+  "release_date": "30.01.1998",
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Drama",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0481709",
+      "name": "Leon Lai"
+    },
+    {
+      "id": "nm0718348",
+      "name": "Michelle Reis"
+    },
+    {
+      "id": "nm0437580",
+      "name": "Takeshi Kaneshiro"
+    },
+    {
+      "id": "nm0947777",
+      "name": "Charlie Yeung"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0939182",
+      "name": "Wong Kar-Wai"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0939182",
+      "name": "Wong Kar-Wai"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0481709",
+      "name": "Leon Lai",
+      "character": "Wong Chi-Ming"
+    },
+    {
+      "id": "nm0718348",
+      "name": "Michelle Reis",
+      "character": "The Killer's Agent"
+    },
+    {
+      "id": "nm0437580",
+      "name": "Takeshi Kaneshiro",
+      "character": "He Zhiwu"
+    },
+    {
+      "id": "nm0947777",
+      "name": "Charlie Yeung",
+      "character": "Charlie"
+    },
+    {
+      "id": "nm0596297",
+      "name": "Karen Mok",
+      "character": "Punkie"
+    },
+    {
+      "id": "nm0150887",
+      "name": "Fai-Hung Chan",
+      "character": "The Man Forced to Eat Icecream"
+    },
+    {
+      "id": "nm0151014",
+      "name": "Man-Lei Chan",
+      "character": "He Zhiwu's father"
+    },
+    {
+      "id": "nm0756873",
+      "name": "Toru Saito",
+      "character": "Sato"
+    },
+    {
+      "id": "nm0389883",
+      "name": "To-Hoi Kong",
+      "character": "Ah-hoi"
+    },
+    {
+      "id": "nm0477082",
+      "name": "Lee-Na Kwan",
+      "character": "Woman Pressed to Buy Vegetables"
+    },
+    {
+      "id": "nm0943206",
+      "name": "Yuhao Wu",
+      "character": "Man forced to have his clothes washed"
+    },
+    {
+      "id": "nm1451704",
+      "name": "Kim-Wai Wong",
+      "character": "Hitman"
+    }
+  ],
+  "countries": [
+    "Hong Kong"
+  ],
+  "languages": [
+    "Cantonese",
+    "Mandarin",
+    "Min Nan",
+    "Japanese",
+    "English"
+  ],
+  "color": "Color",
+  "year": 1995,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMWI3MDk4N2ItNzU2NS00Zjc5LWIxMDYtMGNmZmM2YzMzMDk3XkEyXkFqcGc@._V1_.jpg",
+  "filmweb_id": 615,
+  "original_title": "Do lok tin si",
+  "ratings": {
+    "imdb": {
+      "rating": 7.5,
+      "votes": 60645,
+      "distribution": {
+        "1": 526,
+        "2": 433,
+        "3": 521,
+        "4": 916,
+        "5": 2246,
+        "6": 5892,
+        "7": 14309,
+        "8": 17890,
+        "9": 9643,
+        "10": 8269
+      },
+      "normalized": 6.3878
+    },
+    "filmweb": {
+      "rating": 7.65,
+      "votes": 14665,
+      "distribution": {
+        "1": 68,
+        "2": 46,
+        "3": 202,
+        "4": 235,
+        "5": 567,
+        "6": 1318,
+        "7": 3522,
+        "8": 4711,
+        "9": 2600,
+        "10": 1396
+      },
+      "normalized": 7.126
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "04.05.2007",
+      "normalized": 6.3474
+    },
+    "score": 6.6204
+  },
+  "polish_title": "Upadłe anioły",
+  "silent": false,
+  "description_pl": "Hongkong, rok 1995. Płatny zabójca Wong Chi-Ming od trzech lat przyjmuje zlecenia od swego agenta - kobiety. Spotykają się rzadko, ale jemu odpowiada fakt, że jego życie jest planowane przez kogoś innego. Zupełnie samotny, domyśla się, że jego agentka jest szaleńczo w nim zakochana i nieświadomy tego, że kradnie jego śmieci by szukać wskazówki dotyczącej jego charakteru i przyzwyczajeń.\nByły więzień He Zhiwu stale ucieka przed policją, ponieważ żyje z otwierania sklepów po ich zamknięciu przez właścicieli i zmuszania klientów do nabywania od niego towaru. Przestał mówić w wieku lat pięciu po zjedzeniu przeterminowanej puszki ananasów. Mieszka z ojcem, prowadzącym dom noclegowy.",
+  "producers": [
+    {
+      "id": "nm0939182",
+      "name": "Wong Kar-Wai"
+    },
+    {
+      "id": "nm0311508",
+      "name": "Jeffrey Lau"
+    },
+    {
+      "id": "nm0492368",
+      "name": "Norman Law Man"
+    },
+    {
+      "id": "nm0659388",
+      "name": "Jacky Yee Wah Pang"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0236313",
+      "name": "Christopher Doyle"
+    }
+  ],
+  "composers": [],
+  "fetched_at": "2026-08-16"
+}

@@ -1,0 +1,222 @@
+{
+  "imdb_id": "tt0107616",
+  "title": "Much Ado About Nothing",
+  "description": "Young lovers, and soon to wed, Hero and Claudio conspire to get verbal sparring partners and confirmed singles, Benedick and Beatrice, to wed as well.",
+  "runtime_minutes": 111,
+  "release_date": "02.07.1993",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0000110",
+      "name": "Kenneth Branagh"
+    },
+    {
+      "id": "nm0000668",
+      "name": "Emma Thompson"
+    },
+    {
+      "id": "nm0000206",
+      "name": "Keanu Reeves"
+    },
+    {
+      "id": "nm0000295",
+      "name": "Kate Beckinsale"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000110",
+      "name": "Kenneth Branagh"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000636",
+      "name": "William Shakespeare"
+    },
+    {
+      "id": "nm0000110",
+      "name": "Kenneth Branagh"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000110",
+      "name": "Kenneth Branagh",
+      "character": "Benedick"
+    },
+    {
+      "id": "nm0000668",
+      "name": "Emma Thompson",
+      "character": "Beatrice"
+    },
+    {
+      "id": "nm0000206",
+      "name": "Keanu Reeves",
+      "character": "Don John"
+    },
+    {
+      "id": "nm0001972",
+      "name": "Richard Briers",
+      "character": "Leonato"
+    },
+    {
+      "id": "nm0000295",
+      "name": "Kate Beckinsale",
+      "character": "Hero"
+    },
+    {
+      "id": "nm0001767",
+      "name": "Imelda Staunton",
+      "character": "Margaret"
+    },
+    {
+      "id": "nm0950788",
+      "name": "Jimmy Yuill",
+      "character": "Friar Francis"
+    },
+    {
+      "id": "nm0000306",
+      "name": "Brian Blessed",
+      "character": "Antonio"
+    },
+    {
+      "id": "nm0387940",
+      "name": "Andy Hockley",
+      "character": "George Seacole"
+    },
+    {
+      "id": "nm0055545",
+      "name": "Chris Barnes",
+      "character": "Francis Seacole"
+    },
+    {
+      "id": "nm0625261",
+      "name": "Conrad Nelson",
+      "character": "Hugh Oatcake"
+    },
+    {
+      "id": "nm0492373",
+      "name": "Phyllida Law",
+      "character": "Ursula"
+    },
+    {
+      "id": "nm0522877",
+      "name": "Alex Lowe",
+      "character": "Messenger"
+    },
+    {
+      "id": "nm0000243",
+      "name": "Denzel Washington",
+      "character": "Don Pedro"
+    },
+    {
+      "id": "nm0166678",
+      "name": "Richard Clifford",
+      "character": "Conrade"
+    },
+    {
+      "id": "nm0394531",
+      "name": "Gerard Horan",
+      "character": "Borachio"
+    },
+    {
+      "id": "nm0000494",
+      "name": "Robert Sean Leonard",
+      "character": "Claudio"
+    },
+    {
+      "id": "nm0236462",
+      "name": "Patrick Doyle",
+      "character": "Balthazar"
+    }
+  ],
+  "countries": [
+    "United Kingdom",
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "filmweb_id": 1015,
+  "year": 1993,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BOTI3MmI1NmYtZGI4Zi00ZWNiLWJjYWItYTVlOThiZGYzNWE5XkEyXkFqcGc@._V1_.jpg",
+  "ratings": {
+    "imdb": {
+      "rating": 7.3,
+      "votes": 56030,
+      "distribution": {
+        "1": 804,
+        "2": 425,
+        "3": 622,
+        "4": 1164,
+        "5": 2737,
+        "6": 6631,
+        "7": 14305,
+        "8": 14348,
+        "9": 7500,
+        "10": 7494
+      },
+      "normalized": 6.054
+    },
+    "filmweb": {
+      "rating": 7.47,
+      "votes": 13599,
+      "distribution": {
+        "1": 43,
+        "2": 33,
+        "3": 118,
+        "4": 203,
+        "5": 578,
+        "6": 1623,
+        "7": 3898,
+        "8": 4452,
+        "9": 1753,
+        "10": 898
+      },
+      "normalized": 6.6057
+    },
+    "michal": {
+      "rating": 6,
+      "date_rated": "27.11.2005",
+      "normalized": 6.3474
+    },
+    "score": 6.3357
+  },
+  "polish_title": "Wiele hałasu o nic",
+  "silent": false,
+  "description_pl": "Don Pedro, książę Aragonii, wraca z wygranej wojny. Wśród jego przyjaciół jest Beatrice i Benedick, oboje są przeciwnikami małżeństwa i wyjątkowo się nie lubią. Don Pedro postanawia dzięki przebiegłym intrygom doprowadzić oboje przed ołtarz.",
+  "producers": [
+    {
+      "id": "nm0000110",
+      "name": "Kenneth Branagh"
+    },
+    {
+      "id": "nm0263236",
+      "name": "Stephen Evans"
+    },
+    {
+      "id": "nm0661406",
+      "name": "David Parfitt"
+    }
+  ],
+  "composers": [
+    {
+      "id": "nm0236462",
+      "name": "Patrick Doyle"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0484249",
+      "name": "Roger Lanser"
+    }
+  ],
+  "fetched_at": "2026-08-16"
+}
