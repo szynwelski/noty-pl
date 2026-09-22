@@ -65,11 +65,20 @@
       "roles": [
         "producer"
       ]
+    },
+    {
+      "imdb_id": "tt33764258",
+      "title": "The Odyssey",
+      "year": 2026,
+      "roles": [
+        "producer"
+      ]
     }
   ],
   "imdb_scraped": true,
   "filmweb_id": 405196,
   "name_pl": "Thomas Hayslip",
   "gender": "M",
-  "wikidata_processed": true
+  "wikidata_processed": true,
+  "image_url": "https://m.media-amazon.com/images/M/MV5BN2U3MmMzNjEtYWNjZS00Mzk1LWExNmUtNGM5M2U5ZDhjOTZkXkEyXkFqcGc@._V1_.jpg"
 }

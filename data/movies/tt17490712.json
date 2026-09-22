@@ -16,7 +16,7 @@
         "9": 3971,
         "10": 6450
       },
-      "normalized": 4.1301
+      "normalized": 4.1292
     },
     "jarek": {
       "rating": 1,
@@ -38,9 +38,9 @@
         "9": 364,
         "10": 288
       },
-      "normalized": 3.3914
+      "normalized": 3.3907
     },
-    "score": 3.3514
+    "score": 3.3509
   },
   "title": "Mortal Kombat II",
   "description": "The fan favorite champions -- now joined by Johnny Cage himself -- are pitted against one another in the ultimate battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.",
@@ -197,5 +197,83 @@
   "fetched_at": "2026-08-16",
   "filmweb_id": 10007434,
   "polish_title": "Mortal Kombat II",
-  "description_pl": "Dominacja Shao Khana (Martyn Ford) wreszcie musi zostać przerwana. Dlatego mnich Liu Kang (<a href=\"/osoba/?id=nm3485108\">Ludi Lin</a>), była elitarną żołnierka Sonya Blade (<a href=\"/osoba/?id=nm2537621\">Jessica McNamee</a>), jej mentor Jax Briggs (<a href=\"/osoba/?id=nm1419635\">Mehcad Brooks</a>) oraz upadły były mistrz MMA Cole Young (<a href=\"/osoba/?id=nm1167985\">Lewis Tan</a>) ponownie łączą siły, by ocalić Ziemię. Tym razem wsparcia udziela im Johnny Cage (<a href=\"/osoba/?id=nm0881631\">Karl Urban</a>), a cała grupa rzuca się w wir brutalnych walk, w których stawką jest coś więcej niż tylko własna fizyczność."
+  "description_pl": "Dominacja Shao Khana (Martyn Ford) wreszcie musi zostać przerwana. Dlatego mnich Liu Kang (<a href=\"/osoba/?id=nm3485108\">Ludi Lin</a>), była elitarną żołnierka Sonya Blade (<a href=\"/osoba/?id=nm2537621\">Jessica McNamee</a>), jej mentor Jax Briggs (<a href=\"/osoba/?id=nm1419635\">Mehcad Brooks</a>) oraz upadły były mistrz MMA Cole Young (<a href=\"/osoba/?id=nm1167985\">Lewis Tan</a>) ponownie łączą siły, by ocalić Ziemię. Tym razem wsparcia udziela im Johnny Cage (<a href=\"/osoba/?id=nm0881631\">Karl Urban</a>), a cała grupa rzuca się w wir brutalnych walk, w których stawką jest coś więcej niż tylko własna fizyczność.",
+  "composers": [
+    {
+      "id": "nm1818744",
+      "name": "Benjamin Wallfisch"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0934752",
+      "name": "Stephen F. Windon"
+    }
+  ],
+  "producers": [
+    {
+      "id": "nm0307776",
+      "name": "Todd Garner"
+    },
+    {
+      "id": "nm0003342",
+      "name": "E. Bennett Walsh"
+    },
+    {
+      "id": "nm0256497",
+      "name": "Toby Emmerich"
+    },
+    {
+      "id": "nm2585406",
+      "name": "Simon McQuoid"
+    },
+    {
+      "id": "nm1490123",
+      "name": "James Wan"
+    },
+    {
+      "id": "nm0095460",
+      "name": "Ed Boon"
+    },
+    {
+      "id": "nm3883811",
+      "name": "Pete Chiappetta"
+    },
+    {
+      "id": "nm2752795",
+      "name": "Michael Clear"
+    },
+    {
+      "id": "nm0440415",
+      "name": "Lawrence Kasanoff"
+    },
+    {
+      "id": "nm15630314",
+      "name": "Andrew Lary"
+    },
+    {
+      "id": "nm6625349",
+      "name": "Judson Scott"
+    },
+    {
+      "id": "nm2916300",
+      "name": "Jeremy Slater"
+    },
+    {
+      "id": "nm15508427",
+      "name": "Anthony Tittanegro"
+    },
+    {
+      "id": "nm4948471",
+      "name": "Trevor Bagge"
+    },
+    {
+      "id": "nm0536586",
+      "name": "Jane Maguire"
+    },
+    {
+      "id": "nm3084046",
+      "name": "Anna Steel"
+    }
+  ]
 }

@@ -167,7 +167,7 @@
         "9": 43872,
         "10": 40032
       },
-      "normalized": 8.314
+      "normalized": 8.3145
     },
     "filmweb": {
       "rating": 7.77,
@@ -184,7 +184,7 @@
         "9": 2488,
         "10": 1238
       },
-      "normalized": 7.4601
+      "normalized": 7.4609
     },
     "jarek": {
       "rating": 8,
@@ -194,9 +194,9 @@
     "michal": {
       "rating": 8,
       "date_rated": "19.10.2005",
-      "normalized": 8.1116
+      "normalized": 8.1126
     },
-    "score": 7.9462
+    "score": 7.9467
   },
   "polish_title": "M - Morderca",
   "silent": false,

@@ -1,0 +1,273 @@
+{
+  "imdb_id": "tt5875444",
+  "ratings": {
+    "imdb": {
+      "rating": 8.3,
+      "votes": 157586,
+      "distribution": {
+        "1": 1449,
+        "2": 510,
+        "3": 633,
+        "4": 845,
+        "5": 1915,
+        "6": 4575,
+        "7": 15397,
+        "8": 46298,
+        "9": 48001,
+        "10": 37963
+      }
+    },
+    "jarek": {
+      "rating": 8,
+      "date_rated": "04.09.2026",
+      "normalized": 7.8963
+    },
+    "filmweb": {
+      "normalized": 5.5
+    },
+    "score": 6.2988
+  },
+  "composers": [],
+  "cinematographers": [],
+  "producers": [
+    {
+      "id": "nm0810337",
+      "name": "Will Smith"
+    },
+    {
+      "id": "nm2148039",
+      "name": "Hakan Kousetta"
+    },
+    {
+      "id": "nm0491191",
+      "name": "Jamie Laurenson"
+    },
+    {
+      "id": "nm2096617",
+      "name": "Iain Canning"
+    },
+    {
+      "id": "nm0616153",
+      "name": "Gail Mutrux"
+    },
+    {
+      "id": "nm0792431",
+      "name": "Emile Sherman"
+    },
+    {
+      "id": "nm0881703",
+      "name": "Douglas Urbanski"
+    },
+    {
+      "id": "nm0003662",
+      "name": "Graham Yost"
+    },
+    {
+      "id": "nm11145649",
+      "name": "Mick Herron"
+    },
+    {
+      "id": "nm0731888",
+      "name": "Jane Robertson"
+    },
+    {
+      "id": "nm1315929",
+      "name": "Julian Stevens"
+    },
+    {
+      "id": "nm0368477",
+      "name": "Dan Hassid"
+    },
+    {
+      "id": "nm0369949",
+      "name": "James Hawes"
+    },
+    {
+      "id": "nm0000198",
+      "name": "Gary Oldman"
+    },
+    {
+      "id": "nm1726691",
+      "name": "Adam Randall"
+    },
+    {
+      "id": "nm2918792",
+      "name": "Simon Gillis"
+    },
+    {
+      "id": "nm0960711",
+      "name": "Gaby Chiappe"
+    },
+    {
+      "id": "nm7136862",
+      "name": "Billy Bowring"
+    },
+    {
+      "id": "nm1472615",
+      "name": "Nicky Earnshaw"
+    },
+    {
+      "id": "nm0365491",
+      "name": "Ben Harrison"
+    },
+    {
+      "id": "nm1269415",
+      "name": "Richard May"
+    },
+    {
+      "id": "nm1148054",
+      "name": "Raphaël Benoliel"
+    },
+    {
+      "id": "nm3444660",
+      "name": "Charlotte Draper"
+    },
+    {
+      "id": "nm5810188",
+      "name": "Hervé Houssou"
+    },
+    {
+      "id": "nm2332756",
+      "name": "Simon Mills"
+    },
+    {
+      "id": "nm4354895",
+      "name": "Anna O'Malley"
+    },
+    {
+      "id": "nm0728619",
+      "name": "Paul Ritchie"
+    }
+  ],
+  "title": "Slow Horses",
+  "description": "A dysfunctional team of MI5 agents navigate the espionage world's smoke and mirrors to defend the UK from sinister forces.",
+  "year": 2022,
+  "type": "tvSeries",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BMmM2NDhmYjktNTIzZC00YjIwLWE1ZmUtNzM1MTNiMTU2NjdjXkEyXkFqcGc@._V1_.jpg",
+  "runtime_minutes": 50,
+  "release_date": "01.04.2022",
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "stars": [
+    {
+      "id": "nm0000198",
+      "name": "Gary Oldman"
+    },
+    {
+      "id": "nm4110963",
+      "name": "Jack Lowden"
+    },
+    {
+      "id": "nm0000218",
+      "name": "Kristin Scott Thomas"
+    },
+    {
+      "id": "nm0716293",
+      "name": "Saskia Reeves"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000198",
+      "name": "Gary Oldman",
+      "character": "Jackson Lamb"
+    },
+    {
+      "id": "nm4110963",
+      "name": "Jack Lowden",
+      "character": "River Cartwright"
+    },
+    {
+      "id": "nm0000218",
+      "name": "Kristin Scott Thomas",
+      "character": "Diana Taverner"
+    },
+    {
+      "id": "nm0716293",
+      "name": "Saskia Reeves",
+      "character": "Catherine Standish"
+    },
+    {
+      "id": "nm2692997",
+      "name": "Christopher Chung",
+      "character": "Roddy Ho"
+    },
+    {
+      "id": "nm2929682",
+      "name": "Aimee-Ffion Edwards",
+      "character": "Shirley Dander"
+    },
+    {
+      "id": "nm7424185",
+      "name": "Rosalind Eleazar",
+      "character": "Louisa Guy"
+    },
+    {
+      "id": "nm1094112",
+      "name": "Ruth Bradley",
+      "character": "Emma Flyte"
+    },
+    {
+      "id": "nm7042375",
+      "name": "Kadiff Kirwan",
+      "character": "Marcus Longridge"
+    },
+    {
+      "id": "nm1623508",
+      "name": "Tom Brooke",
+      "character": "JK Coe"
+    },
+    {
+      "id": "nm0000596",
+      "name": "Jonathan Pryce",
+      "character": "David Cartwright"
+    },
+    {
+      "id": "nm2687517",
+      "name": "Chris Reilly",
+      "character": "Nick Duffy"
+    },
+    {
+      "id": "nm0922335",
+      "name": "Samuel West",
+      "character": "Peter Judd"
+    },
+    {
+      "id": "nm2617312",
+      "name": "Bally Gill",
+      "character": "Agent Singh"
+    },
+    {
+      "id": "nm0130536",
+      "name": "James Callis",
+      "character": "Claude Whelan"
+    },
+    {
+      "id": "nm0768936",
+      "name": "Joanna Scanlan",
+      "character": "Moira Tregorian"
+    },
+    {
+      "id": "nm3456865",
+      "name": "Freddie Fox",
+      "character": "James 'Spider' Webb"
+    },
+    {
+      "id": "nm1528731",
+      "name": "Naomi Wirthner",
+      "character": "Molly Doran"
+    }
+  ],
+  "countries": [
+    "United Kingdom",
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "silent": false,
+  "fetched_at": "2026-09-22"
+}

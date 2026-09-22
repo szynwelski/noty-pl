@@ -160,7 +160,7 @@
         "9": 101134,
         "10": 122362
       },
-      "normalized": 8.5536
+      "normalized": 8.5542
     },
     "filmweb": {
       "rating": 8.22,
@@ -177,7 +177,7 @@
         "9": 8806,
         "10": 5769
       },
-      "normalized": 9.0929
+      "normalized": 9.0933
     },
     "jarek": {
       "rating": 6,
@@ -187,9 +187,9 @@
     "michal": {
       "rating": 4,
       "date_rated": "12.04.2019",
-      "normalized": 4.5781
+      "normalized": 4.5765
     },
-    "score": 7.1587
+    "score": 7.1585
   },
   "polish_title": "Twoje imię",
   "silent": false,

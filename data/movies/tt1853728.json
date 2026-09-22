@@ -160,7 +160,7 @@
         "9": 612099,
         "10": 412311
       },
-      "normalized": 9.0389
+      "normalized": 9.0394
     },
     "filmweb": {
       "rating": 8.25,
@@ -177,7 +177,7 @@
         "9": 170338,
         "10": 76954
       },
-      "normalized": 9.2423
+      "normalized": 9.2428
     },
     "jarek": {
       "rating": 7,
@@ -187,9 +187,9 @@
     "michal": {
       "rating": 7,
       "date_rated": "16.02.2013",
-      "normalized": 7.2292
+      "normalized": 7.2304
     },
-    "score": 8.1588
+    "score": 8.1593
   },
   "polish_title": "Django",
   "silent": false,

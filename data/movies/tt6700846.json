@@ -154,7 +154,7 @@
         "9": 1468,
         "10": 947
       },
-      "normalized": 6.7934
+      "normalized": 6.7912
     },
     "filmweb": {
       "rating": 7.63,
@@ -171,7 +171,7 @@
         "9": 157,
         "10": 25
       },
-      "normalized": 6.4048
+      "normalized": 6.4071
     },
     "jarek": {
       "rating": 8,
@@ -181,9 +181,9 @@
     "michal": {
       "rating": 7,
       "date_rated": "24.04.2021",
-      "normalized": 7.2292
+      "normalized": 7.2304
     },
-    "score": 7.0816
+    "score": 7.0819
   },
   "polish_title": "AlphaGo",
   "silent": false,

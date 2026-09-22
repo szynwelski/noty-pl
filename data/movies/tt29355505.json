@@ -16,12 +16,12 @@
         "9": 7636,
         "10": 6848
       },
-      "normalized": 6.3929
+      "normalized": 6.3914
     },
     "michal": {
       "rating": 5,
       "date_rated": "22.06.2026",
-      "normalized": 5.4199
+      "normalized": 5.4191
     },
     "filmweb": {
       "rating": 7.57,
@@ -38,9 +38,9 @@
         "9": 1326,
         "10": 578
       },
-      "normalized": 6.8577
+      "normalized": 6.8586
     },
-    "score": 6.2235
+    "score": 6.223
   },
   "title": "Toy Story 5",
   "description": "Woody, Buzz, Jessie and the rest of the gang's jobs are challenged when they're introduced to electronics, a new threat to playtime.",
@@ -198,5 +198,38 @@
   "filmweb_id": 10051461,
   "polish_title": "Toy Story 5",
   "description_pl": "Rodzice kupują Bonnie tablet Lilypad – gadżet, który mają już wszystkie dzieci. Urządzenie zagarnia całą uwagę dziewczynki. Chcąc udowodnić, że jest lepsze od zabawek, kontaktuje swoją właścicielkę z koleżankami z baletu. Kowbojka Jessie ma wątpliwości, czy ta znajomość przerodzi się w prawdziwą przyjaźń. Wraz z Mustangiem ukrywa się w walizce Bonnie i rusza z nią na nocowankę.",
-  "fetched_at": "2026-08-16"
+  "fetched_at": "2026-08-16",
+  "composers": [
+    {
+      "id": "nm0005271",
+      "name": "Randy Newman"
+    }
+  ],
+  "cinematographers": [],
+  "producers": [
+    {
+      "id": "nm3715841",
+      "name": "Jessica Choi"
+    },
+    {
+      "id": "nm0172491",
+      "name": "Lindsey Collins"
+    },
+    {
+      "id": "nm0230032",
+      "name": "Pete Docter"
+    },
+    {
+      "id": "nm0729304",
+      "name": "Jonas Rivera"
+    },
+    {
+      "id": "nm2850497",
+      "name": "Krissy Cababa"
+    },
+    {
+      "id": "nm3266016",
+      "name": "Trevor Jimenez"
+    }
+  ]
 }

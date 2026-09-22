@@ -3,6 +3,17 @@
   "name": "Mel Brooks",
   "filmography": [
     {
+      "imdb_id": "tt0071230",
+      "title": "Blazing Saddles",
+      "year": 1974,
+      "roles": [
+        "director",
+        "writer",
+        "cast"
+      ],
+      "character": "Governor Lepetomane"
+    },
+    {
       "imdb_id": "tt0072431",
       "title": "Young Frankenstein",
       "year": 1974,

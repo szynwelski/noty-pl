@@ -16,12 +16,12 @@
         "9": 62533,
         "10": 46893
       },
-      "normalized": 7.2676
+      "normalized": 7.2684
     },
     "michal": {
       "rating": 6,
       "date_rated": "11.08.2026",
-      "normalized": 6.3474
+      "normalized": 6.3481
     },
     "filmweb": {
       "rating": 7.6,
@@ -38,9 +38,9 @@
         "9": 11973,
         "10": 4391
       },
-      "normalized": 7.0233
+      "normalized": 7.0241
     },
-    "score": 6.8794
+    "score": 6.8802
   },
   "title": "Fantastic Mr. Fox",
   "description": "An urbane fox cannot resist returning to his farm raiding ways and then must help his community survive the farmers' retaliation.",
@@ -200,5 +200,51 @@
   "fetched_at": "2026-08-16",
   "filmweb_id": 156466,
   "polish_title": "Fantastyczny Pan Lis",
-  "description_pl": "\"Fantastyczny Pan Lis\" to film animowany w reżyserii <a href=\"/osoba/?id=nm0027572\">Wesa Andersona</a>, wykorzystujący technikę poklatkową. Pan i Pani Lis (głosów udzielili odpowiednio: <a href=\"/osoba/?id=nm0000123\">George Clooney</a> i <a href=\"/osoba/?id=nm0000658\">Meryl Streep</a>) wiodą spokojne życie rodzinne wspólnie z synkiem Ashem (<a href=\"/osoba/?id=nm0005403\">Jason Schwartzman</a>) oraz młodym kuzynem Kristophersonem (Eric Anderson), który pewnego dnia przyjeżdża do nich w odwiedziny. Ale po 12 latach słodkiej sielanki i bezpiecznej egzystencji w Panu Lisie budzą się dawne zwierzęce instynkty. Ponownie zbiera on złodziejską szajkę i po zmroku napada na pobliskie fermy drobiu, czym naraża na ogromne niebezpieczeństwo nie tylko swoich bliskich, ale również całą lokalną, zwierzęcą społeczność. W konsekwencji tych nocnych \"wypadów\" zwierzęta zostają zmuszone do ukrycia się pod ziemią, gdzie mobilizują się do walki z trzema złymi hodowcami - Boggisem, Bunce'em i Beanem - pałającymi żądzą krwawej zemsty na fantastycznym Panu Lisie."
+  "description_pl": "\"Fantastyczny Pan Lis\" to film animowany w reżyserii <a href=\"/osoba/?id=nm0027572\">Wesa Andersona</a>, wykorzystujący technikę poklatkową. Pan i Pani Lis (głosów udzielili odpowiednio: <a href=\"/osoba/?id=nm0000123\">George Clooney</a> i <a href=\"/osoba/?id=nm0000658\">Meryl Streep</a>) wiodą spokojne życie rodzinne wspólnie z synkiem Ashem (<a href=\"/osoba/?id=nm0005403\">Jason Schwartzman</a>) oraz młodym kuzynem Kristophersonem (Eric Anderson), który pewnego dnia przyjeżdża do nich w odwiedziny. Ale po 12 latach słodkiej sielanki i bezpiecznej egzystencji w Panu Lisie budzą się dawne zwierzęce instynkty. Ponownie zbiera on złodziejską szajkę i po zmroku napada na pobliskie fermy drobiu, czym naraża na ogromne niebezpieczeństwo nie tylko swoich bliskich, ale również całą lokalną, zwierzęcą społeczność. W konsekwencji tych nocnych \"wypadów\" zwierzęta zostają zmuszone do ukrycia się pod ziemią, gdzie mobilizują się do walki z trzema złymi hodowcami - Boggisem, Bunce'em i Beanem - pałającymi żądzą krwawej zemsty na fantastycznym Panu Lisie.",
+  "composers": [
+    {
+      "id": "nm0006035",
+      "name": "Alexandre Desplat"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0004336",
+      "name": "Tristan Oliver"
+    }
+  ],
+  "producers": [
+    {
+      "id": "nm0007831",
+      "name": "Allison Abbate"
+    },
+    {
+      "id": "nm0027572",
+      "name": "Wes Anderson"
+    },
+    {
+      "id": "nm0206154",
+      "name": "Jeremy Dawson"
+    },
+    {
+      "id": "nm0748784",
+      "name": "Scott Rudin"
+    },
+    {
+      "id": "nm0586969",
+      "name": "Arnon Milchan"
+    },
+    {
+      "id": "nm2262509",
+      "name": "Steven Rales"
+    },
+    {
+      "id": "nm1809172",
+      "name": "Molly Cooper"
+    },
+    {
+      "id": "nm1419211",
+      "name": "Simon Quinn"
+    }
+  ]
 }

@@ -16,7 +16,7 @@
         "9": 18687,
         "10": 18110
       },
-      "normalized": 5.1055
+      "normalized": 5.1031
     },
     "jarek": {
       "rating": 4,
@@ -38,9 +38,9 @@
         "9": 1293,
         "10": 639
       },
-      "normalized": 4.2431
+      "normalized": 4.2422
     },
-    "score": 4.7735
+    "score": 4.7724
   },
   "title": "The Fall Guy",
   "description": "A stuntman, fresh off an almost career-ending accident, has to track down a missing movie star, solve a conspiracy and try to win back the love of his life while still doing his day job.",
@@ -194,5 +194,51 @@
   "filmweb_id": 10017592,
   "polish_title": "Kaskader",
   "description_pl": "Bohater filmu jest kaskaderem i jak każdy w tym zawodzie, zdarza się, że zostanie wysadzony w powietrze, że zostanie postrzelony i wyrzucony przez okno oraz zrzucony z wysokości, a wszystko to dla naszej rozrywki. Teraz, po prawie kończącym karierę wypadku, nasz bohater musi odnaleźć zaginioną gwiazdę filmową, rozwiązać spisek i spróbować odzyskać miłość swojego życia, wciąż wykonując swoją codzienną pracę. Co może się wydarzyć?",
-  "fetched_at": "2026-08-16"
+  "fetched_at": "2026-08-16",
+  "composers": [
+    {
+      "id": "nm3825122",
+      "name": "Dominic Lewis"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0782930",
+      "name": "Jonathan Sela"
+    }
+  ],
+  "producers": [
+    {
+      "id": "nm0143939",
+      "name": "Guymon Casady"
+    },
+    {
+      "id": "nm0500610",
+      "name": "David Leitch"
+    },
+    {
+      "id": "nm0566555",
+      "name": "Kelly McCormick"
+    },
+    {
+      "id": "nm0331516",
+      "name": "Ryan Gosling"
+    },
+    {
+      "id": "nm5943413",
+      "name": "Cecil O'Connor"
+    },
+    {
+      "id": "nm1510800",
+      "name": "Drew Pearce"
+    },
+    {
+      "id": "nm1761403",
+      "name": "Geoff Shaevitz"
+    },
+    {
+      "id": "nm0003145",
+      "name": "Paul Barry"
+    }
+  ]
 }

@@ -16,7 +16,7 @@
         "9": 2732,
         "10": 2294
       },
-      "normalized": 4.9345
+      "normalized": 4.9321
     },
     "jarek": {
       "rating": 5,
@@ -38,9 +38,9 @@
         "9": 67,
         "10": 48
       },
-      "normalized": 3.6461
+      "normalized": 3.6454
     },
-    "score": 4.7554
+    "score": 4.7543
   },
   "title": "Emily the Criminal",
   "description": "Down on her luck and saddled with debt, Emily gets involved in a credit card scam that pulls her into the criminal underworld of Los Angeles, ultimately leading to deadly consequences.",
@@ -190,5 +190,75 @@
   "filmweb_id": 10006527,
   "polish_title": "Na złej drodze",
   "description_pl": "Emily (<a href=\"/osoba/?id=nm2201555\">Aubrey Plaza</a>) jest obciążona studenckimi długami i wykluczona z rynku pracy z powodu karalności. Dorabia po cichu, lecz nie pokrywa to nawet części jej potrzeb, więc zdesperowana udaje się w polecone przez kumpla miejsce. Zaczyna się prosto. Dostaje sklonowaną kartę kredytową i jedyne, co musi zrobić, to kupić telewizor. Wykonuje zadanie, a towar przekazuje swoim szefom, za co otrzymuje 200 $. Jest to łatwiejsze, niż się spodziewa, i zaczyna robić to regularnie, zbliżając do kierownika zadania Youcefa (<a href=\"/osoba/?id=nm0744331\">Theo Rossi</a>), który powoli staje się kimś więcej, niż jej mentorem... Ale jak daleko jest gotowa się posunąć?",
-  "fetched_at": "2026-08-16"
+  "fetched_at": "2026-08-16",
+  "composers": [
+    {
+      "id": "nm4388506",
+      "name": "Nathan Halpern"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm1638513",
+      "name": "Jeff Bierman"
+    }
+  ],
+  "producers": [
+    {
+      "id": "nm1021351",
+      "name": "Tyler Davidson"
+    },
+    {
+      "id": "nm2201555",
+      "name": "Aubrey Plaza"
+    },
+    {
+      "id": "nm5349180",
+      "name": "Drew Sykes"
+    },
+    {
+      "id": "nm9616999",
+      "name": "Dexter Braff"
+    },
+    {
+      "id": "nm2052950",
+      "name": "Mike Dill"
+    },
+    {
+      "id": "nm1455645",
+      "name": "Kevin Flanigan"
+    },
+    {
+      "id": "nm0473423",
+      "name": "Kent Kubena"
+    },
+    {
+      "id": "nm3390212",
+      "name": "Lowell Shapiro"
+    },
+    {
+      "id": "nm0908370",
+      "name": "Angus Wall"
+    },
+    {
+      "id": "nm7603530",
+      "name": "Liz Avelar"
+    },
+    {
+      "id": "nm10950466",
+      "name": "I. David Plaza"
+    },
+    {
+      "id": "nm2071545",
+      "name": "Adriana Rotaru"
+    },
+    {
+      "id": "nm2375122",
+      "name": "Patricia Sanchez"
+    },
+    {
+      "id": "nm2962004",
+      "name": "Katie Sanders"
+    }
+  ]
 }

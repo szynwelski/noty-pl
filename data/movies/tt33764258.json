@@ -16,7 +16,7 @@
         "9": 117695,
         "10": 125294
       },
-      "normalized": 8.8072
+      "normalized": 8.8077
     },
     "jarek": {
       "rating": 7,
@@ -26,7 +26,7 @@
     "michal": {
       "rating": 8,
       "date_rated": "17.07.2026",
-      "normalized": 8.1116
+      "normalized": 8.1126
     },
     "filmweb": {
       "rating": 7.48,
@@ -43,9 +43,9 @@
         "9": 4813,
         "10": 2530
       },
-      "normalized": 6.663
+      "normalized": 6.664
     },
-    "score": 7.6766
+    "score": 7.6773
   },
   "title": "The Odyssey",
   "description": "After the Trojan War, Odysseus faces a dangerous voyage back to Ithaca, meeting creatures like the Cyclops Polyphemus, Sirens, and Calypso along the way.",
@@ -201,5 +201,59 @@
   "filmweb_id": 10068387,
   "polish_title": "Odyseja",
   "description_pl": "\"Odyseja\" to historia Odyseusza, królu Itaki, podczas jego długiej i pełnej niebezpieczeństw podróży powrotnej do domu po wojnie trojańskiej. Opisuje jego spotkania z mitycznymi istotami, takimi jak cyklop Polifem, syreny oraz nimfa Kalipso. Król robi wszystko by wrócić do ukochanej żony Penelopy.",
-  "fetched_at": "2026-08-16"
+  "fetched_at": "2026-08-16",
+  "composers": [
+    {
+      "id": "nm3234869",
+      "name": "Ludwig Göransson"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0887227",
+      "name": "Hoyte van Hoytema"
+    }
+  ],
+  "producers": [
+    {
+      "id": "nm0634240",
+      "name": "Christopher Nolan"
+    },
+    {
+      "id": "nm0858799",
+      "name": "Emma Thomas"
+    },
+    {
+      "id": "nm0371669",
+      "name": "Thomas Hayslip"
+    },
+    {
+      "id": "nm0015997",
+      "name": "Zakaria Alaoui"
+    },
+    {
+      "id": "nm1309708",
+      "name": "Leifur B. Dagfinnsson"
+    },
+    {
+      "id": "nm0340386",
+      "name": "Hjortur Gretarsson"
+    },
+    {
+      "id": "nm0749781",
+      "name": "Helen Medrano"
+    },
+    {
+      "id": "nm0259225",
+      "name": "Erik Paoletti"
+    },
+    {
+      "id": "nm3136309",
+      "name": "Kostas Raftopoulos"
+    },
+    {
+      "id": "nm3379670",
+      "name": "Andy Thompson"
+    }
+  ]
 }

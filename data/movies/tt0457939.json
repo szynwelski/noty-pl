@@ -157,7 +157,7 @@
         "9": 35206,
         "10": 42624
       },
-      "normalized": 5.6017
+      "normalized": 5.6
     },
     "filmweb": {
       "rating": 7.19,
@@ -174,7 +174,7 @@
         "9": 18946,
         "10": 10414
       },
-      "normalized": 6.0001
+      "normalized": 5.9991
     },
     "jarek": {
       "rating": 3,
@@ -184,9 +184,9 @@
     "michal": {
       "rating": 3,
       "date_rated": "09.01.2016",
-      "normalized": 3.8753
+      "normalized": 3.874
     },
-    "score": 4.9341
+    "score": 4.933
   },
   "polish_title": "Holiday",
   "silent": false,

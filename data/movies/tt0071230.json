@@ -1,0 +1,213 @@
+{
+  "imdb_id": "tt0071230",
+  "ratings": {
+    "imdb": {
+      "rating": 7.7,
+      "votes": 166744,
+      "distribution": {
+        "1": 1968,
+        "2": 982,
+        "3": 1536,
+        "4": 2860,
+        "5": 6637,
+        "6": 14901,
+        "7": 33209,
+        "8": 44677,
+        "9": 27780,
+        "10": 32194
+      },
+      "normalized": 6.8131
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "19.08.2026",
+      "normalized": 5.4191
+    },
+    "filmweb": {
+      "rating": 7.14,
+      "votes": 12887,
+      "distribution": {
+        "1": 49,
+        "2": 50,
+        "3": 152,
+        "4": 315,
+        "5": 801,
+        "6": 2071,
+        "7": 4214,
+        "8": 3529,
+        "9": 1131,
+        "10": 575
+      },
+      "normalized": 5.8756
+    },
+    "score": 6.0359
+  },
+  "composers": [
+    {
+      "id": "nm0606657",
+      "name": "John Morris"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005657",
+      "name": "Joseph F. Biroc"
+    }
+  ],
+  "producers": [],
+  "title": "Blazing Saddles",
+  "description": "In order to ruin a western town and steal their land, a corrupt politician appoints a black sheriff, who promptly becomes his most formidable adversary.",
+  "year": 1974,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BNTI3Y2Y4NDgtY2I1NS00M2JmLWI5NzEtYTQwYTUwZGQxYzZlXkEyXkFqcGc@._V1_.jpg",
+  "runtime_minutes": 93,
+  "release_date": "07.02.1974",
+  "genres": [
+    "Comedy",
+    "Western"
+  ],
+  "stars": [
+    {
+      "id": "nm0001476",
+      "name": "Cleavon Little"
+    },
+    {
+      "id": "nm0000698",
+      "name": "Gene Wilder"
+    },
+    {
+      "id": "nm0001620",
+      "name": "Slim Pickens"
+    },
+    {
+      "id": "nm0466327",
+      "name": "Harvey Korman"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0000316",
+      "name": "Mel Brooks"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0000316",
+      "name": "Mel Brooks"
+    },
+    {
+      "id": "nm0825799",
+      "name": "Norman Steinberg"
+    },
+    {
+      "id": "nm0000921",
+      "name": "Andrew Bergman"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0001476",
+      "name": "Cleavon Little",
+      "character": "Bart"
+    },
+    {
+      "id": "nm0000698",
+      "name": "Gene Wilder",
+      "character": "Jim"
+    },
+    {
+      "id": "nm0001620",
+      "name": "Slim Pickens",
+      "character": "Taggart"
+    },
+    {
+      "id": "nm0466327",
+      "name": "Harvey Korman",
+      "character": "Hedley Lamarr"
+    },
+    {
+      "id": "nm0001404",
+      "name": "Madeline Kahn",
+      "character": "Lili Von Shtüpp"
+    },
+    {
+      "id": "nm0000316",
+      "name": "Mel Brooks",
+      "character": "Governor Lepetomane"
+    },
+    {
+      "id": "nm0319096",
+      "name": "Burton Gilliam",
+      "character": "Lyle"
+    },
+    {
+      "id": "nm0440090",
+      "name": "Alex Karras",
+      "character": "Mongo"
+    },
+    {
+      "id": "nm0399663",
+      "name": "David Huddleston",
+      "character": "Olson Johnson"
+    },
+    {
+      "id": "nm0242668",
+      "name": "Liam Dunn",
+      "character": "Rev. Johnson"
+    },
+    {
+      "id": "nm0384916",
+      "name": "John Hillerman",
+      "character": "Howard Johnson"
+    },
+    {
+      "id": "nm0299149",
+      "name": "George Furth",
+      "character": "Van Johnson"
+    },
+    {
+      "id": "nm0823630",
+      "name": "Jack Starrett",
+      "character": "Gabby Johnson"
+    },
+    {
+      "id": "nm0217935",
+      "name": "Carol Arthur",
+      "character": "Harriett Johnson"
+    },
+    {
+      "id": "nm0171956",
+      "name": "Richard Collier",
+      "character": "Dr. Sam Johnson"
+    },
+    {
+      "id": "nm0569970",
+      "name": "Charles McGregor",
+      "character": "Charlie"
+    },
+    {
+      "id": "nm0385301",
+      "name": "Robyn Hilton",
+      "character": "Miss Stein"
+    },
+    {
+      "id": "nm0576353",
+      "name": "Don Megowan",
+      "character": "Gum Chewer"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English",
+    "Yiddish",
+    "German"
+  ],
+  "color": "Color",
+  "silent": false,
+  "fetched_at": "2026-09-22",
+  "filmweb_id": 31556,
+  "polish_title": "Płonące siodła",
+  "description_pl": "Bart, kiedyś bandyta napadający na pociągi, został zmuszony objąć stanowisko szeryfa w miasteczku Ridge Rock na Dzikim Zachodzie. Czarnoskóry stróż prawa, który długie lata żył z nim na bakier, doskonale pasował do planu dwu miejscowych wpływowych bogaczy. Gubernator Lepetomane i jego doradca Lamarr byli przekonani, że wprowadzi w miasteczku chaos, dzięki któremu oni będą mogli nadal zrealizować swe zamierzenia. Tymczasem Bart nie zamierzał poddać się ich woli. Konfrontacja stała się nieunikniona"
+}

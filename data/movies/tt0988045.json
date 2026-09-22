@@ -168,7 +168,7 @@
         "9": 102415,
         "10": 76186
       },
-      "normalized": 6.5047
+      "normalized": 6.503
     },
     "filmweb": {
       "rating": 7.72,
@@ -185,7 +185,7 @@
         "9": 77508,
         "10": 42655
       },
-      "normalized": 7.4228
+      "normalized": 7.4236
     },
     "jarek": {
       "rating": 4,
@@ -195,9 +195,9 @@
     "michal": {
       "rating": 4,
       "date_rated": "01.06.2019",
-      "normalized": 4.5781
+      "normalized": 4.5765
     },
-    "score": 5.8693
+    "score": 5.8687
   },
   "polish_title": "Sherlock Holmes",
   "silent": false,

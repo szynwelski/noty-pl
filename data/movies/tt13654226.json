@@ -16,7 +16,7 @@
         "9": 11682,
         "10": 15462
       },
-      "normalized": 4.8985
+      "normalized": 4.8973
     },
     "jarek": {
       "rating": 3,
@@ -38,9 +38,9 @@
         "9": 538,
         "10": 364
       },
-      "normalized": 3.669
+      "normalized": 3.6705
     },
-    "score": 4.2755
+    "score": 4.2756
   },
   "title": "The Gorge",
   "description": "Two operatives are appointed to posts in guard towers on opposite sides of a classified gorge.",
@@ -191,5 +191,70 @@
   "filmweb_id": 10018997,
   "polish_title": "Wąwóz",
   "description_pl": "Dwoje wyszkolonych agentów zostaje przydzielonych do posterunków w wieżach strażniczych po przeciwnych stronach ogromnego, ściśle tajnego wąwozu. Ich zadaniem jest ochrona świata przed nieznanym, tajemniczym złem, które czai się w jego głębinach. Choć dzieli ich dystans, nawiązują więź. Kiedy w końcu poznają prawdziwe, katastrofalne zagrożenie dla ludzkości, muszą połączyć siły i poddać próbie zarówno swoje fizyczne, jak i psychiczne możliwości, by utrzymać zło w wąwozie – zanim będzie za późno.",
-  "fetched_at": "2026-08-16"
+  "fetched_at": "2026-08-16",
+  "composers": [],
+  "cinematographers": [
+    {
+      "id": "nm0491565",
+      "name": "Dan Laustsen"
+    }
+  ],
+  "producers": [
+    {
+      "id": "nm1803036",
+      "name": "C. Robert Cargill"
+    },
+    {
+      "id": "nm1602119",
+      "name": "Sherryl Clark"
+    },
+    {
+      "id": "nm3916149",
+      "name": "Zach Dean"
+    },
+    {
+      "id": "nm0220600",
+      "name": "Scott Derrickson"
+    },
+    {
+      "id": "nm1911103",
+      "name": "David Ellison"
+    },
+    {
+      "id": "nm1602154",
+      "name": "Dana Goldberg"
+    },
+    {
+      "id": "nm0329084",
+      "name": "Gregory Goodman"
+    },
+    {
+      "id": "nm1447370",
+      "name": "Don Granger"
+    },
+    {
+      "id": "nm2221807",
+      "name": "Adam Kolbrenner"
+    },
+    {
+      "id": "nm0263010",
+      "name": "Marc Evans"
+    },
+    {
+      "id": "nm1886602",
+      "name": "Miles Teller"
+    },
+    {
+      "id": "nm1007404",
+      "name": "Per Henry Borch"
+    },
+    {
+      "id": "nm0431583",
+      "name": "Pamela Joyce"
+    },
+    {
+      "id": "nm0002738",
+      "name": "Cliff Lanning"
+    }
+  ]
 }

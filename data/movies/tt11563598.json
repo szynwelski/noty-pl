@@ -16,7 +16,7 @@
         "9": 13304,
         "10": 9035
       },
-      "normalized": 6.076
+      "normalized": 6.0749
     },
     "jarek": {
       "rating": 5,
@@ -38,9 +38,9 @@
         "9": 951,
         "10": 253
       },
-      "normalized": 4.7213
+      "normalized": 4.7189
     },
-    "score": 5.4943
+    "score": 5.4931
   },
   "title": "A Complete Unknown",
   "description": "In 1961, an unknown 19-year-old Bob Dylan arrives in New York City with his guitar and forges relationships with musical icons on his meteoric rise, culminating in a groundbreaking performance that reverberates around the world.",
@@ -195,5 +195,70 @@
   "filmweb_id": 10036103,
   "polish_title": "Kompletnie nieznany",
   "description_pl": "Na Festiwalu Folklorystycznym w Newport w 1965 roku młody Bob Dylan zmienia swój występ na scenie muzyki ludowej, przechodząc na elektryczność i przekazując rock jako głos pokolenia – definiując jeden z najbardziej przełomowych momentów w muzyce XX wieku. Akcja rozgrywa się na wpływowej nowojorskiej scenie muzycznej początku lat 60. i śledzi błyskawiczną karierę 19-letniego muzyka z Minnesoty, Boba Dylana, jako piosenkarza folkowego, który zaczął pojawiać się w salach koncertowych i na szczytach list przebojów – jego piosenki i tajemniczość stają się światową sensację, której kulminacją był przełomowy występ w elektrycznym rock and rollu na Newport Folk Festival w 1965 roku.",
-  "fetched_at": "2026-08-16"
+  "fetched_at": "2026-08-16",
+  "composers": [],
+  "cinematographers": [
+    {
+      "id": "nm0003659",
+      "name": "Phedon Papamichael"
+    }
+  ],
+  "producers": [
+    {
+      "id": "nm1757754",
+      "name": "Fred Berger"
+    },
+    {
+      "id": "nm2670366",
+      "name": "Alex Heineman"
+    },
+    {
+      "id": "nm0003506",
+      "name": "James Mangold"
+    },
+    {
+      "id": "nm1023283",
+      "name": "Bob Bookman"
+    },
+    {
+      "id": "nm3154303",
+      "name": "Timothée Chalamet"
+    },
+    {
+      "id": "nm2231517",
+      "name": "Alan Gasmer"
+    },
+    {
+      "id": "nm0419779",
+      "name": "Peter Jaysen"
+    },
+    {
+      "id": "nm1313457",
+      "name": "Jeff Rosen"
+    },
+    {
+      "id": "nm0066016",
+      "name": "Michael Bederman"
+    },
+    {
+      "id": "nm2271939",
+      "name": "Brian Kavanaugh-Jones"
+    },
+    {
+      "id": "nm0739868",
+      "name": "Andrew Rona"
+    },
+    {
+      "id": "nm3871134",
+      "name": "Anthony Dixon"
+    },
+    {
+      "id": "nm4565604",
+      "name": "Blake Simon"
+    },
+    {
+      "id": "nm1829789",
+      "name": "Matthew Wells"
+    }
+  ]
 }

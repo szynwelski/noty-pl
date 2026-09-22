@@ -1,0 +1,232 @@
+{
+  "imdb_id": "tt0268995",
+  "ratings": {
+    "imdb": {
+      "rating": 6.9,
+      "votes": 61311,
+      "distribution": {
+        "1": 852,
+        "2": 554,
+        "3": 992,
+        "4": 1873,
+        "5": 4503,
+        "6": 10692,
+        "7": 19169,
+        "8": 12401,
+        "9": 4964,
+        "10": 5311
+      },
+      "normalized": 5.4
+    },
+    "michal": {
+      "rating": 5,
+      "date_rated": "15.09.2026",
+      "normalized": 5.4191
+    },
+    "filmweb": {
+      "rating": 7.33,
+      "votes": 10382,
+      "distribution": {
+        "1": 62,
+        "2": 26,
+        "3": 94,
+        "4": 212,
+        "5": 580,
+        "6": 1414,
+        "7": 3293,
+        "8": 2899,
+        "9": 796,
+        "10": 1006
+      },
+      "normalized": 6.2614
+    },
+    "score": 5.6935
+  },
+  "composers": [
+    {
+      "id": "nm0006142",
+      "name": "Mark Isham"
+    }
+  ],
+  "cinematographers": [
+    {
+      "id": "nm0005897",
+      "name": "David Tattersall"
+    }
+  ],
+  "producers": [
+    {
+      "id": "nm0001104",
+      "name": "Frank Darabont"
+    },
+    {
+      "id": "nm0066968",
+      "name": "Jim Behnke"
+    },
+    {
+      "id": "nm0960763",
+      "name": "Claudia Cummings"
+    },
+    {
+      "id": "nm0136743",
+      "name": "Anna Garduno"
+    },
+    {
+      "id": "nm0276301",
+      "name": "Linda Fields Hill"
+    },
+    {
+      "id": "nm0007136",
+      "name": "Michael Sloane"
+    },
+    {
+      "id": "nm2729720",
+      "name": "Jeremiah Vaughn"
+    }
+  ],
+  "title": "The Majestic",
+  "description": "In 1951, a blacklisted Hollywood writer gets into a car accident, loses his memory and settles down in a small town where he is mistaken for a long-lost son.",
+  "year": 2001,
+  "type": "movie",
+  "image_url": "https://m.media-amazon.com/images/M/MV5BYzkyMDkzZTctYjZlNi00NDg2LTk3ZGQtYTA3OWQwNDNiNzJlXkEyXkFqcGc@._V1_.jpg",
+  "runtime_minutes": 152,
+  "release_date": "21.12.2001",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "stars": [
+    {
+      "id": "nm0000120",
+      "name": "Jim Carrey"
+    },
+    {
+      "id": "nm0001445",
+      "name": "Martin Landau"
+    },
+    {
+      "id": "nm0000837",
+      "name": "Bob Balaban"
+    },
+    {
+      "id": "nm0218810",
+      "name": "Jeffrey DeMunn"
+    }
+  ],
+  "directors": [
+    {
+      "id": "nm0001104",
+      "name": "Frank Darabont"
+    }
+  ],
+  "writers": [
+    {
+      "id": "nm0007136",
+      "name": "Michael Sloane"
+    }
+  ],
+  "top_cast": [
+    {
+      "id": "nm0000120",
+      "name": "Jim Carrey",
+      "character": "Peter Appleton"
+    },
+    {
+      "id": "nm0001445",
+      "name": "Martin Landau",
+      "character": "Harry Trimble"
+    },
+    {
+      "id": "nm0000837",
+      "name": "Bob Balaban",
+      "character": "Elvin Clyde"
+    },
+    {
+      "id": "nm0218810",
+      "name": "Jeffrey DeMunn",
+      "character": "Ernie Cole"
+    },
+    {
+      "id": "nm0001358",
+      "name": "Hal Holbrook",
+      "character": "Congressman Doyle"
+    },
+    {
+      "id": "nm0390229",
+      "name": "Laurie Holden",
+      "character": "Adele Stanton"
+    },
+    {
+      "id": "nm0109785",
+      "name": "Brent Briscoe",
+      "character": "Sheriff Cecil Coleman"
+    },
+    {
+      "id": "nm0726492",
+      "name": "Ron Rifkin",
+      "character": "Kevin Bannerman"
+    },
+    {
+      "id": "nm0085290",
+      "name": "Gerry Black",
+      "character": "Emmett Smith"
+    },
+    {
+      "id": "nm0001773",
+      "name": "David Ogden Stiers",
+      "character": "Doc Stanton"
+    },
+    {
+      "id": "nm0926235",
+      "name": "James Whitmore",
+      "character": "Stan Keller"
+    },
+    {
+      "id": "nm0932473",
+      "name": "Susan Willis",
+      "character": "Irene Terwilliger"
+    },
+    {
+      "id": "nm0219748",
+      "name": "Catherine Dent",
+      "character": "Mabel"
+    },
+    {
+      "id": "nm0397788",
+      "name": "Brian Howe",
+      "character": "Carl Leffert"
+    },
+    {
+      "id": "nm0123838",
+      "name": "Karl Bury",
+      "character": "Bob Leffert"
+    },
+    {
+      "id": "nm0743304",
+      "name": "Chelcie Ross",
+      "character": "Avery Wyatt"
+    },
+    {
+      "id": "nm0221902",
+      "name": "Amanda Detmer",
+      "character": "Sandra Sinclair"
+    },
+    {
+      "id": "nm0307255",
+      "name": "Allen Garfield",
+      "character": "Leo Kubelsky"
+    }
+  ],
+  "countries": [
+    "United States"
+  ],
+  "languages": [
+    "English"
+  ],
+  "color": "Color",
+  "silent": false,
+  "fetched_at": "2026-09-22",
+  "filmweb_id": 31860,
+  "polish_title": "Majestic",
+  "description_pl": "Rok 1951. Hollywoodzki scenarzysta Peter Appleton (<a href=\"/osoba/?id=nm0000120\">Jim Carrey</a>) trafia na czarną listę w związku z podejrzeniami o bycie komunistą. Prowadząc pod wpływem alkoholu, mężczyzna ma wypadek samochodowy gdzieś w małym miasteczku. W wyniku wypadku traci pamięć. Zostaje wzięty przez lokalną społeczność za zaginionego weterana II Wojny Światowej, którego ojciec (<a href=\"/osoba/?id=nm0001445\">Martin Landau</a>) mieszka w okolicy."
+}

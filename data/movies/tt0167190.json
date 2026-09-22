@@ -171,7 +171,7 @@
         "9": 22525,
         "10": 21824
       },
-      "normalized": 5.436
+      "normalized": 5.4355
     },
     "filmweb": {
       "rating": 6.75,
@@ -188,7 +188,7 @@
         "9": 4313,
         "10": 2718
       },
-      "normalized": 4.9976
+      "normalized": 4.9952
     },
     "jarek": {
       "rating": 3,
@@ -198,9 +198,9 @@
     "michal": {
       "rating": 1,
       "date_rated": "19.10.2005",
-      "normalized": 2.2657
+      "normalized": 2.2649
     },
-    "score": 4.2396
+    "score": 4.2387
   },
   "polish_title": "Hellboy",
   "silent": false,
