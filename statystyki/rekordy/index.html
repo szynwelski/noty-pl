@@ -228,6 +228,7 @@
       Object.values(bwr).forEach(v => { regP(v.best); regP(v.worst); });
       Object.values(mfr).forEach(regP);
       Object.values(csr).forEach(regP);
+      Object.values(p.duos || {}).flat().forEach(d => { regP(d.director); regP(d.collab); });
 
       const roleBest = ROLE_ORDER.filter(k => bwr[k]).map(k => {
         const b = bwr[k].best, w = bwr[k].worst;

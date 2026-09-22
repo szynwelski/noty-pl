@@ -445,7 +445,7 @@ a.cast-star { font-weight: 600; }
   display: flex; align-items: center; padding: .1rem .2rem;
 }
 .search-clear:hover { color: var(--text); }
-.search-bar .count { color: var(--muted); font-size: .85rem; }
+.search-bar .count { margin-left: auto; color: var(--muted); font-size: .85rem; text-align: right; }
 
 /* ── Filters ── */
 .filter-select {

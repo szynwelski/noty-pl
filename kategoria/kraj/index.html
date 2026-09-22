@@ -97,7 +97,6 @@
         <select id="filter-decade" class="filter-select"><option value="">Dekada</option></select>
         <span class="count" id="count"></span>
       </div>
-      <p class="muted" id="summary"></p>
       <table>
         <thead>
           <tr>
@@ -297,8 +296,6 @@
           if (r._src[src]?.avg != null) attachTip(td, () => buildSrcTip(src, r));
         }
       });
-
-      document.getElementById('count').textContent = `${rows.length} krajów`;
     }
 
     // ── Heatmapa ──────────────────────────────────────────────────────────────
@@ -502,7 +499,7 @@
       syncUrl();
       const movies = filteredMovies();
       const { byItem, coOccur } = computeStats(movies);
-      document.getElementById('summary').textContent = `${rows.length} krajów · ${movies.length} filmów`;
+      document.getElementById('count').textContent = `${rows.length} krajów · ${movies.length} filmów`;
       render();
       updateMap();
       renderHeatmap(coOccur, byItem);
