@@ -557,6 +557,9 @@ a.cast-star { font-weight: 600; }
   }
   .nav-search-btn { margin-left: 0; order: 1; }   /* keep logo | … | search  hamburger */
   .nav-hamburger  { order: 2; }
+  /* When the menu is open it can be taller than the screen; the sticky nav would
+     pin it and make the lower items unreachable — cap height and scroll inside. */
+  nav:has(#nav-toggle:checked) { max-height: 100vh; max-height: 100dvh; overflow-y: auto; }
 
   /* Collapse the links by default; reveal them when the hamburger is checked */
   nav > .nav-link,
@@ -611,6 +614,9 @@ a.cast-star { font-weight: 600; }
      Ocena column stays in view and only the per-source columns scroll off. */
   .container table th.num,
   .container table td.num { white-space: nowrap; }
+  /* The sticky header (th: position:sticky, top:52px) overlaps and clips the
+     first rows inside a display:block scroll container — drop it on mobile. */
+  .container table th { position: static; top: auto; }
 
   /* Filter bar wraps instead of overflowing the viewport */
   .search-bar { flex-wrap: wrap; row-gap: .6rem; }
