@@ -599,6 +599,23 @@ a.cast-star { font-weight: 600; }
   }
   .nav-dropdown-menu a { padding: .5rem .75rem; font-size: 1rem; }
   .nav-dropdown-menu hr { margin: .25rem .75rem; }
+
+  /* ── Mobile data tables: keep all columns, scroll horizontally ── */
+  .container table {
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    max-width: 100%;
+  }
+  /* Keep numeric columns on one line; let the title/name column wrap so the key
+     Ocena column stays in view and only the per-source columns scroll off. */
+  .container table th.num,
+  .container table td.num { white-space: nowrap; }
+
+  /* Filter bar wraps instead of overflowing the viewport */
+  .search-bar { flex-wrap: wrap; row-gap: .6rem; }
+  .search-wrap { flex-basis: 100%; }
+  .search-wrap input { width: auto; }
 }
 
 /* Distribution charts (stat cards + bar histogram) — see static/histogram.js */
